@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bluetooth Speaker Ranking
-subtitle: Information Applying to All Speakers
+title: Information Applying to All Speakers
+subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 

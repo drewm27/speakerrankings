@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bluetooth Speaker Ranking
-subtitle: Issues I'm Working On
+title: Issues I'm Working On
+subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
