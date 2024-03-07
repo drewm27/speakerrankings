@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Large Speakers
+title: Ranking Large Speakers
 comments: true
 ---
 
