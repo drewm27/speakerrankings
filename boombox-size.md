@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bluetooth Speaker Ranking
-subtitle: Boombox Size Speakers
+title: Boombox Size Speakers
+subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
