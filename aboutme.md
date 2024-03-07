@@ -51,6 +51,7 @@ I’ve also been to a few headphone demo shows and have listened to almost all o
 My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. I run only Linux on all my main computers and have been doing so since 1997.
 
 Thanks,
+
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588/)
 
 
