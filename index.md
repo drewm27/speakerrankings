@@ -1,10 +1,11 @@
 ---
 layout: home
 title: Speaker Ranking
-head-extra: "<meta name='impact-site-verification' value='2a1c248c-1391-4707-b019-026e6edcda75'>"
 ---
 
 ## Bluetooth Speaker Ranking
+
+Impact-Site-Verification: 2a1c248c-1391-4707-b019-026e6edcda75
 
 I've been working on ranking all battery powered Bluetooth wireless speakers by sound quality tested by trusted Youtube reviewers in a giant list categorized by size class with their positives, negatives, peak loudness, bass extension and comparison videos all documented. It's quite complete at this point with over 250 speakers ranked
 
