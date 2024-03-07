@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bluetooth Speaker Ranking
-subtitle: Pocket Size
+subtitle: Pocket Size Speakers
 comments: true
 ---
 

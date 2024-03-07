@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bluetooth Speaker Ranking
-subtitle: Top Recommended
+subtitle: Top Recommended Speakers
 comments: true
 ---
 
