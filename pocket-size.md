@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Pocket Size
+title: Ranking All Battery Powered Bluetooth Speakers
+subtitle: Pocket Speakers
 comments: true
 ---
 
