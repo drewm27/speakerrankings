@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Small/Medium size
+title: Ranking All Battery Powered Bluetooth Speakers
+subtitle: Small/Medium size
 comments: true
 ---
 
