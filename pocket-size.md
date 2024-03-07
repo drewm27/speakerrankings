@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Pocket Size
 #subtitle: There's lots to learn!
 comments: true
