@@ -278,7 +278,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     12. Comparisons
         1. <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
         2. <https://www.youtube.com/watch?v=hjpEDDN_hnY>
-16. [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $800
+16. [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
     1. Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
     2. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
     3. Max Volume: 126db
