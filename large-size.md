@@ -62,7 +62,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     12. IP Rating: Splash resistant
     13. Comparisons
         1. <https://www.youtube.com/watch?v=dKyluqQNX5s>
-4. [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325): $400
+4. [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325): $400
     1. Positives: Generally regarded as the best midrange and treble sound quality of any battery powered bluetooth speaker.
     2. Negatives: Would be #1 if it wasn’t for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. No TWS.
     3. Bass Extension: 48hz
@@ -84,7 +84,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         7. <https://www.youtube.com/watch?v=qRlk2_uT0rM>
         8. <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
         9. <https://www.patreon.com/posts/soundcore-motion-94933573>
-5. [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325): $100
+5. [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325): $100
     1. Positives: A really neutral frequency response across the midrange. Best in class bass extension. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifa.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn’t very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
     2. Negatives: No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn’t textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
     3. Max Volume: 106db
@@ -104,7 +104,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         2. <https://www.youtube.com/watch?v=nK-6sdRuTR4>
     16. Links
         1. <https://www.diysubwoofers.org/projects/other/BT/Wildbox/>
-6. [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325): $200
+6. [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325): $200
     1. Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.
     2. Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
     3. Max Volume: 96db
@@ -123,7 +123,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         3. <https://www.youtube.com/watch?v=sGyp6jGK0D8>
         4. <https://www.youtube.com/watch?v=2RYtK6iuU2Y>
         5. <https://www.youtube.com/watch?v=6j2Aj5E48Kc>
-7. [Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325): $1200
+7. [Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325): $1200
     1. Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
     2. Weight: 8.5lbs / 3.86kg
     3. Max Volume: 101db
@@ -133,7 +133,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     7. IP Rating: IP65
     8. Comparisons
         1. <https://www.youtube.com/watch?v=oB-ZC5qTUHw>
-8. [Soundcore Motion Boom](http://soundcore.sjv.io/KjmgL7) ([or on Amazon](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)): $90 after $10 coupon
+8. [Soundcore Motion Boom](http://soundcore.sjv.io/KjmgL7) ([or on Amazon](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)): $90 after $10 coupon
     1. Positives: Decently neutral speaker after EQ is applied. Slight DSP issue which makes bass get lighter at times at very low volumes. Try [Oluv's EQ](https://ibb.co/wNFwQ1h) for a more neutral sound.
     2. Negatives: Not as neutral or detailed as other top ranked speakers
     3. Max Volume: 106db
@@ -159,7 +159,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         6. <https://www.youtube.com/watch?v=t66JKkidpt8>
     18. Links
         1. <https://www.rtings.com/speaker/reviews/anker/soundcore-motion-boom>
-9. [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325): $400
+9. [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325): $400
     1. Negatives: Not stereo
     2. Weight: 2.4 lbs / 1.1kg
     3. Battery Life: 24 hours
@@ -171,7 +171,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     9. Comparisons
         1. <https://www.youtube.com/watch?v=eLILB6g0p-A>
         2. <https://www.youtube.com/watch?v=9nt4xzBbkKM>
-10. [JBL Xtreme 3](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325): $230
+10. [JBL Xtreme 3](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325): $230
     1. Positives: Better treble and deeper bass than the Xtreme 2. More balanced sounding than the Xtreme 4
     2. Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
     3. Max Volume: 105db
@@ -193,7 +193,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         7. <https://www.youtube.com/watch?v=ooIKSU0tKDU>
     13. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/xtreme-3>
-11. [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325): $330
+11. [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325): $330
     1. Positives: Set treble to max and increase bass a little to get it neutral.
     2. Negatives: A bit muffled and missing midrange detail.
     3. Weight: 4.63lbs / 2.1kg
@@ -205,7 +205,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     9. Comparisons
         1. <https://www.youtube.com/watch?v=g05lODItS4w>
         2. <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
-12. [Soundcore Motion X600](http://soundcore.sjv.io/EK126D) ([or on Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325)): $150 after $50 coupon
+12. [Soundcore Motion X600](http://soundcore.sjv.io/EK126D) ([or on Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325)): $150 after $50 coupon
     1. Positives: Firmware 4.2.9 is a big improvement in sound quality over previous releases. Try this [Oluv EQ for the best sound quality](https://www.patreon.com/oluvsgadgets/shop/soundcore-motion-x600-eq-settings-106961)
     2. Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn’t very deep and the sound is still a little unnatural.
     3. Max Volume: 104db
@@ -224,7 +224,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         4. <https://www.youtube.com/watch?v=r8iOd03r-hU>
         5. <https://www.youtube.com/watch?v=CcWVYKNK7sE>
         6. <https://www.patreon.com/posts/soundcore-motion-95038563>
-13. [Soundcore Rave Neo 2](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325): $130
+13. [Soundcore Rave Neo 2](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325): $130
     1. Positives: A big improvement in sound quality over the original Rave Neo. Use bass up at higher volumes, but turn it off for lower volumes.
     2. Negatives: Slight treble rolloff
     3. Max Volume: 107db
@@ -255,7 +255,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         4. <https://www.youtube.com/watch?v=P3QzzAIaOzA>
         5. <https://www.youtube.com/watch?v=M_UEjte3TsQ>
         6. <https://www.youtube.com/watch?v=0ooUo0bQ2uc>
-15. [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325): $450
+15. [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325): $450
     1. Positives: Warm sounding with somewhat rolled off treble. Slightly better midrange clarity than the Move 1.
     2. Negatives: Not very loud. This may have some of the issues at full volume that the Move 1 had too, but I’ll need more sound samples at full volume to verify.
     3. Weight: 6.61lbs / 3kg
@@ -266,7 +266,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     8. Power Bank: Yes
     9. Comparisons
         1. <https://www.youtube.com/watch?v=eyhUDYKHtg8>
-16. [Dockin D Fine+ 2](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325): $150
+16. [Dockin D Fine+ 2](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325): $150
     1. Positives: Quite deep bass for the category.
     2. Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
     3. Max Volume: 96db
@@ -281,7 +281,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         5. <https://www.youtube.com/watch?v=YMQ-jK82kaI>
         6. <https://www.youtube.com/watch?v=PzwxJS0uhmM>
         7. <https://www.youtube.com/watch?v=q99Jga0n7gg>
-17. [Sonos Move](https://www.amazon.com/Sonos-Move-Battery-Powered-Bluetooth-Built/dp/B089DPZR96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=bb880c2ab7548fa6a993a8843b001dfa&camp=1789&creative=9325): $380
+17. [Sonos Move](https://www.amazon.com/Sonos-Move-Battery-Powered-Bluetooth-Built/dp/B089DPZR96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bb880c2ab7548fa6a993a8843b001dfa&camp=1789&creative=9325): $380
     1. Positives: Warm sounding with somewhat rolled off treble.
     2. Negatives: Not stereo. Not as deep bass as others in the category, less bass extension than an Xtreme 2. Pumping and compression artifacts at higher volume. Not very loud.
     3. Max Volume: 92db
@@ -304,7 +304,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         1. <https://www.youtube.com/watch?v=O0YSspRqEoY>
         2. <https://www.youtube.com/watch?v=wYjoQjCACcQ>
         3. <https://www.youtube.com/watch?v=OZBmY6fQHCA>
-19. [Dockin D Fine](https://www.amazon.com/Bluetooth-Performance-PowerBank-Waterproof-Protection/dp/B01M0YCMIO/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7c9fac4537d95d3053fe43c331ec0280&camp=1789&creative=9325): $110
+19. [Dockin D Fine](https://www.amazon.com/Bluetooth-Performance-PowerBank-Waterproof-Protection/dp/B01M0YCMIO/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c9fac4537d95d3053fe43c331ec0280&camp=1789&creative=9325): $110
     1. Positives: Power bank.
     2. Negatives: Slightly boosted bass
     3. Battery Life: 10 hours
@@ -332,7 +332,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         2. <https://www.patreon.com/posts/jbl-xtreme-4-99560848>
         3. <https://www.patreon.com/posts/jbl-xtreme-4-98947429>
         4. <https://www.youtube.com/watch?v=MtCDfPVxV08>
-21. [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325): $103
+21. [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325): $103
     1. Negatives: Peaks in the upper mids which makes it sound a bit harsh.
     2. Max Volume: 106db
     3. Bass Extension: 47hz
@@ -360,7 +360,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         2. <https://www.youtube.com/watch?v=8HGha3_EEXc>
         3. <https://www.youtube.com/watch?v=te4VQVWJWdI>
         4. <https://www.youtube.com/watch?v=t3OYsZHVgYE>
-23. [Devialet Mania](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325): $800
+23. [Devialet Mania](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325): $800
     1. Positives: Small, nice looking.
     2. Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there’s a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn’t like the upper mids or treble (mentioned on his Patreon)
     3. Max Volume: 95db
@@ -394,7 +394,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         4. <https://www.youtube.com/watch?v=4gxvC_KjNbk>
     11. Links
         1. <https://www.rtings.com/speaker/reviews/sony/srs-xb43>
-25. [W-King D8](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325): $79
+25. [W-King D8](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325): $79
     1. Positives: Decent sounding.
     2. Negatives: Slightly recessed mids. Distorted at high volumes.
     3. Max Volume: 101db
@@ -426,7 +426,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         3. <https://www.youtube.com/watch?v=ooIKSU0tKDU>
     9. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/xtreme-2>
-27. [Raymate M8](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325): $80
+27. [Raymate M8](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325): $80
     1. Negatives: Slightly muffled sounding
     2. Battery Life: 15 hours
     3. Comparisons
@@ -446,7 +446,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         1. <https://www.youtube.com/watch?v=ywy1X1hxU9s>
         2. <https://www.youtube.com/watch?v=F5CoJB_xm2E>
         3. <https://www.youtube.com/watch?v=eAoQWSnms1M>
-29. [Mifa WildCamping](https://www.amazon.com/MIFA-WildCamping-Portable-Bluetooth-Speakers/dp/B0BS2M4KFQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=34be40864e9e3870c46ed8a1aa5ad84b&camp=1789&creative=9325): $135
+29. [Mifa WildCamping](https://www.amazon.com/MIFA-WildCamping-Portable-Bluetooth-Speakers/dp/B0BS2M4KFQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34be40864e9e3870c46ed8a1aa5ad84b&camp=1789&creative=9325): $135
     1. Positives: Has a lantern with adjustable brightness and color temperature.
     2. Negatives: Sound competes more with the Medium size speakers as the light takes up half the space. Peak at 5khz and dip at 3khz, not quite neutral. Not as deep of bass as others in the category.
     3. Max Volume: 97db
@@ -459,7 +459,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     10. TWS: Yes
     11. Comparisons
         1. [https://www.youtube.com/watch?v=ZxPfuAxgQfE](https://www.youtube.com/watch?v=ZxPfuAxgQfE&t=489s)
-30. [Treblab HD-360](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325): $110
+30. [Treblab HD-360](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325): $110
     1. Positives: 4 woofers and 4 tweeters for real 360 deg sound
     2. Negatives: Upper bass boomy which takes away midrange detail and clarity.
     3. Weight: 5.65lbs / 2.56kg
@@ -467,7 +467,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     5. Comparisons
         1. <https://www.youtube.com/watch?v=jwyPReDpp88>
         2. <https://www.youtube.com/watch?v=ORawKC23apY>
-31. [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325): $100
+31. [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325): $100
     1. Positives:
     2. Negatives: Not a very smooth frequency response. Treble is peaky. Boosted upper bass.
     3. Max Volume: 104db
@@ -491,7 +491,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         1. <https://www.youtube.com/watch?v=XojJNqtq6xQ>
         2. <https://www.youtube.com/watch?v=EKd1JM0DBkc>
         3. <https://www.youtube.com/watch?v=ooIKSU0tKDU>
-33. [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325): $236
+33. [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325): $236
     1. Positives: Very deep bass for the size/weight.
     2. Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall’s added dsp echo which cannot be turned off, very distracting and annoying. It’s like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
     3. Max Volume: 99db
@@ -506,7 +506,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         2. <https://www.youtube.com/watch?v=Dh00qH6YGTk>
         3. <https://www.patreon.com/posts/marshall-first-78807089>
         4. <https://www.youtube.com/watch?v=PBZvukWGJk0>
-34. [Doss Soundbox XL](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325): $65
+34. [Doss Soundbox XL](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325): $65
     1. Negatives: A little hollow sounding.
     2. Max Volume: 100db
     3. Bass Extension: 55hz
@@ -519,7 +519,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     10. Comparisons
         1. <https://www.youtube.com/watch?v=ZNob1QwXiqY>
         2. <https://www.youtube.com/watch?v=TiVx4pPl1GE>
-35. [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325): $80
+35. [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325): $80
     1. Negatives: Boosted bass, rolled off treble. Not as neutral or detailed as other top ranked speakers.
     2. Max Volume: 106db
     3. Weight: 3.3lbs / 1.5kg
@@ -532,7 +532,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     10. Comparisons
         1. <https://www.youtube.com/watch?v=Ko87nHKqfus>
         2. <https://www.youtube.com/watch?v=Ef2YxcTQYqE>
-36. [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325): $198
+36. [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325): $198
     1. Negatives: Overly expensive. Bass not as deep as competitors. Upper mids peak. Hollow sounding. Rolled off treble. Not much clarity. Does not float. Speaker will not remain at max volume and will turn itself down automatically.
     2. Bass Extension: 54hz
     3. Weight: 6.6lbs / 3kg
@@ -558,7 +558,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     7. Power Bank: Yes
     8. Comparisons
         1. <https://www.youtube.com/watch?v=mVwz4P6oVVA>
-38. [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325): $300
+38. [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325): $300
     1. Negatives: Not very deep bass for the size. Gets distorted at around 70-80% with bass thuds.
     2. Bass Extension: ~55hz
     3. Weight: 4.3lbs / 1.97kg
@@ -567,7 +567,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     6. Comparisons
         1. <https://www.youtube.com/watch?v=ww4LMIYgu0k>
         2. <https://www.youtube.com/watch?v=Vyo6VlUOYf8>
-39. [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325): $600
+39. [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325): $600
     1. Negatives: Pretty neutral. Loses bass quickly after 40% volume. A lot of compression artifacts at high volume. Not really much of any difference between the G1 and G2. External AC power brick for charging. Horribly overpriced
     2. Weight: 2.43lbs / 1.1kg
     3. Battery Life: 24 hours
@@ -602,7 +602,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     5. Aux In: Yes
     6. Comparisons
         1. <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
-43. [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325): $280
+43. [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325): $280
     1. Negatives: Not very detailed, not as deep bass as competitors.
     2. Weight: 6.3lbs / 2.85kg
     3. Battery Life: No battery
@@ -646,7 +646,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         2. <https://www.youtube.com/watch?v=uuSyxzCUja8>
         3. <https://www.youtube.com/watch?v=ePD09iI6qkI>
         4. <https://www.youtube.com/watch?v=KNfh6TuyLi0>
-47. [W-King D9](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325): $72
+47. [W-King D9](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325): $72
     1. Negatives: Very rolled off treble.
     2. Max Volume: 106db
     3. Bass Extension: 47hz

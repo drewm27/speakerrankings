@@ -7,7 +7,7 @@ comments: true
 
 A good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn’t take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have a bass extension similar to a 8” woofer tower speaker. The only thing you’re getting by stepping up to the Extreme size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
-1. [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325): $160 after coupon
+1. [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325): $160 after coupon
     1. Positives: Amazing speaker given its size, competes well with some speakers in the Extreme size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv’s EQ](https://www.patreon.com/oluvsgadgets/shop/tribit-stormbox-blast-eqs-86777) or [Alan Ross’s EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a more neutral sound. 2 different light modes or can be turned off.
     2. Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings.
     3. Max Volume: 108db
@@ -60,7 +60,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         2. <https://www.youtube.com/watch?v=sXG-ciWFf60>
         3. <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
         4. <https://www.youtube.com/watch?v=WdmB0w0W7e4>
-3. [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $285
+3. [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $285
     1. Positives: Likely the best sound quality in the class.
     2. Negatives: Would be #2 if it wasn’t for the following negatives. Only 6 hours of battery at medium volume.
     3. Bass Extension: 38hz
@@ -81,7 +81,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         1. <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
     18. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/partybox-encore-essential>
-4. [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
+4. [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
     1. Positives: Warm sound with boosted bass.
     2. Negatives: Not as loud as others.
     3. Max Volume: 96db
@@ -101,7 +101,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         2. <https://www.youtube.com/watch?v=vuHY5DzSI4U>
         3. <https://www.youtube.com/watch?v=hlumnEy0Ufg>
         4. <https://www.youtube.com/watch?v=eAoQWSnms1M>
-5. [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
+5. [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
     1. Positives: Warm sound with boosted bass. Quite deep bass
     2. Negatives: Not as loud as others.
     3. Max Volume: 103db
@@ -115,7 +115,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     11. IP Rating: None
     12. Comparisons
         1. <https://www.youtube.com/watch?v=BwuzsGckzos>
-6. [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325): $130
+6. [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325): $130
     1. Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
     2. Negatives: 8 hour battery at medium volume. Not at loud as others.
     3. Max Volume: 96db
@@ -151,7 +151,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         2. <https://www.youtube.com/watch?v=sLsvo5urFaw>
         3. <https://www.youtube.com/watch?v=EciHn8jHHdA>
         4. <https://www.youtube.com/watch?v=nhXQE196GvQ>
-8. [Harman Kardon Onyx Studio 7](https://www.amazon.com/Kardon-Bluetooth-Wireless-Portable-Speaker/dp/B09817FXSM/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=1089fb69fc8ba7e92fb6908acaa61cb7&camp=1789&creative=9325): $142
+8. [Harman Kardon Onyx Studio 7](https://www.amazon.com/Kardon-Bluetooth-Wireless-Portable-Speaker/dp/B09817FXSM/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1089fb69fc8ba7e92fb6908acaa61cb7&camp=1789&creative=9325): $142
     1. Positives: Warm sound with boosted bass.
     2. Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others.
     3. Max Volume: 96db
@@ -233,7 +233,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         4. <https://www.youtube.com/watch?v=3NRl5ME2_AU>
         5. <https://www.youtube.com/watch?v=EaFtQNoYeKg>
         6. <https://www.youtube.com/watch?v=QMvDPqHhA-4>
-13. [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325): $440
+13. [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325): $440
     1. Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
     2. Negatives: Bass boosted. Dip at 160hz
     3. Max Volume: 111db
@@ -250,7 +250,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     14. Comparisons
         1. <https://www.youtube.com/watch?v=dXsMWb4yVBw>
         2. <https://www.youtube.com/watch?v=imAhizbiSWw>
-14. [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325): $500
+14. [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325): $500
     1. Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.
     2. Max Volume: 110db
     3. Bass Extension: 43hz
@@ -272,7 +272,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         6. <https://www.youtube.com/watch?v=imAhizbiSWw>
     14. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/boombox-3>
-15. [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
+15. [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
     1. Negatives: Somewhat bass heavy and boomy.
     2. Max Volume: 108db
     3. Bass Extension: 46hz
@@ -292,7 +292,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         4. <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
     14. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/boombox-2>
-16. [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
+16. [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
     1. Positives: Reasonable neutral.
     2. Negatives: Narrow sounding, bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
     3. Max Volume: 100db
@@ -304,7 +304,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     9. IP Rating: None
     10. Comparisons
         1. <https://www.youtube.com/watch?v=dXsMWb4yVBw>
-17. [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
+17. [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
     1. Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I’d highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
     2. Bass Extension: 50hz
     3. Weight: 5.29lbs / 2.4kg
@@ -321,7 +321,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         4. <https://www.youtube.com/watch?v=FLKKBdPkDHM>
         5. <https://www.youtube.com/watch?v=Cc-9e0SNPFM>
         6. <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
-18. [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325): $800
+18. [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325): $800
     1. Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I’d highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
     2. Bass Extension: 46hz
     3. Weight: 10.25lbs / 4.65kg
@@ -335,7 +335,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         1. <https://www.youtube.com/watch?v=qRlk2_uT0rM>
         2. <https://www.youtube.com/watch?v=aGzAxZf8cT4>
         3. <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
-19. [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
+19. [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
     1. Positives: Quite deep bass for the size and money.
     2. Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
     3. Max Volume: 111db
@@ -352,7 +352,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     14. IP Rating: IPX6
     15. Comparisons
         1. <https://www.youtube.com/watch?v=1Wcuer7PIIE>
-20. [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
+20. [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
     1. Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. IPX6. Wall wart charger.
     2. Max Volume: 112db
     3. Bass extension: 43hz
@@ -379,7 +379,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         1. <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
         2. <https://www.youtube.com/watch?v=JbvQiKbb0GE>
         3. <https://www.youtube.com/watch?v=o9J8vxAEzVg>
-22. [Skullcandy Barrel XT](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325): $150
+22. [Skullcandy Barrel XT](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325): $150
     1. Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
     2. Bass Extension: ~50hz
     3. Max Volume: 104db
@@ -391,7 +391,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         4. <https://www.youtube.com/watch?v=n6DU7mFw7hc>
         5. <https://www.youtube.com/watch?v=cv234tGZUIc>
         6. <https://www.youtube.com/watch?v=7Ta2H9E0K8Y>
-23. [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325): $170
+23. [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325): $170
     1. Negatives: Treble boosted
     2. Bass Extension: ~52hz
     3. Battery Life: 8 hours
@@ -399,7 +399,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     5. Comparisons
         1. <https://www.youtube.com/watch?v=W4sIuhplM9w>
         2. <https://www.youtube.com/watch?v=77HvEdMXy2c>
-24. [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325): $180
+24. [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325): $180
     1. Positives: This speaker may move around in the rankings as we get better sound samples.
     2. Negatives: Only IPX4. Bass extension doesn’t seem very good.
     3. Weight: 10.1lbs / 4.6kg
@@ -431,7 +431,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     11. Comparisons
         1. <https://www.youtube.com/watch?v=9dIs_4-nSfI>
         2. <https://www.youtube.com/watch?v=aBh91jFWVXI>
-26. [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325): $300
+26. [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325): $300
     1. Positives: Included wireless microphone.
     2. Negatives: IPX4 water rating. Horrible battery life. Probably the worst sounding of the Partybox line
     3. Max Volume: 94db
@@ -448,7 +448,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         3. <https://www.youtube.com/watch?v=sW7qA0Qyg2U>
     12. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/partybox-on-the-go>
-27. [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325): $500
+27. [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325): $500
     1. Negatives: Thuddy upper bass, not as deep bass as others. Only IP66. Speaker will not remain at max volume and will turn itself down automatically.
     2. Bass Extension: 49hz
     3. Weight: 12.4lbs / 5.6kg
@@ -464,7 +464,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         3. <https://www.youtube.com/watch?v=KjWAJ67aUMc>
     11. Links
         1. <https://www.rtings.com/speaker/reviews/sony/srs-xg500>
-28. [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
+28. [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
     1. Positives: Wireless phone charging.
     2. Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
     3. Max Volume: 93db
@@ -493,7 +493,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         1. <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
         2. <https://www.youtube.com/watch?v=visTNEaBmBw>
         3. <https://www.youtube.com/watch?v=jOvizwFy9L8>
-30. [Soundcore Motion Boom+](http://soundcore.sjv.io/R5qKrv) ([or on Amazon](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325)): $155 after $25 coupon
+30. [Soundcore Motion Boom+](http://soundcore.sjv.io/R5qKrv) ([or on Amazon](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325)): $155 after $25 coupon
     1. Positives: The lightest speaker in the group.
     2. Negatives: Default presets are all warm sounding with rolled off treble. Will need a custom EQ to get closer to neutral. A shrill sounding 6khz peak comes out when volume is above about 60%. Not much deeper bass than a Motion Boom and a lot less deep bass than other speakers in the class.
     3. Max Volume: 108db
@@ -514,7 +514,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         2. <https://www.youtube.com/watch?v=e2mxaanQq3U>
         3. <https://www.youtube.com/watch?v=aSK4-UlbE-0>
         4. <https://www.youtube.com/watch?v=DJGTpomhm2k>
-31. [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325): $190
+31. [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325): $190
     1. Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
     2. Max Volume: 110db
     3. Bass Extension: 44hz
@@ -536,7 +536,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         1. <https://www.youtube.com/watch?v=qIkm529aaaQ>
         2. <https://www.youtube.com/watch?v=NIyRizpppgI>
         3. <https://www.youtube.com/watch?v=IHo7U4X49Tw>
-33. [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325): $215
+33. [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325): $215
     1. Positives: Comes with wireless microphone. Loud.
     2. Negatives: Not very deep bass. Boosted upper bass. Upper midrange dips. Distorts above medium volumes.
     3. Max Volume: 115db
@@ -552,7 +552,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     13. Comparisons
         1. <https://www.youtube.com/watch?v=mTJTjgryLkE>
         2. <https://www.youtube.com/watch?v=wv9U85eWBSo>
-34. [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325): $84
+34. [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325): $84
     1. Negatives: Upper bass boost, bass not that deep.
     2. Max Volume: 106db
     3. Bass Extension: 60hz
@@ -606,7 +606,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     9. USB Playback: Yes
     10. Comparisons
         1. <https://www.youtube.com/watch?v=zlAsAJtwNS8>
-39. [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
+39. [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
     1. Negatives: Boosted bass, upper bass boomy, boosted treble, not as loud as others in the class. Very low IPX2 water rating
     2. Bass Extension: 42hz
     3. Weight: 10.8lbs / 4.9kg
@@ -616,7 +616,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     7. Comparisons
         1. <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
         2. <https://www.youtube.com/watch?v=gBGUb4G9SpU>
-40. [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $143
+40. [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $143
     1. Negatives: Rolled off treble, not much bass.
     2. Max Volume: 108db
     3. Bass Extension: 63hz
@@ -628,7 +628,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     9. IP Rating: IPX6
     10. Comparisons
         1. <https://www.youtube.com/watch?v=duGiKJ0h0SY>
-41. [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $80
+41. [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $80
     1. Negatives: Heavily rolled off treble, less bass than the top ranked.
     2. Max Volume: 106db
     3. Bass Extension: 52hz
@@ -643,7 +643,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         2. <https://www.youtube.com/watch?v=ooIKSU0tKDU>
         3. <https://www.youtube.com/watch?v=t66JKkidpt8>
         4. <https://www.youtube.com/watch?v=duGiKJ0h0SY>
-42. [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325): $190
+42. [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325): $190
     1. Negatives: Doesn’t compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
     2. Battery Life: 20 hours
     3. Aux In: Yes
@@ -659,7 +659,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     5. Comparisons
         1. <https://www.youtube.com/watch?v=uihgotNRgJ0>
         2. <https://www.youtube.com/watch?v=3hADMlWdjrw>
-44. [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325): $150
+44. [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325): $150
     1. Negatives: Bass is not as deep as competitors. Very heavy
     2. Weight: 22.7lbs / 10.3kg
     3. Battery Life: 100 hours
@@ -670,7 +670,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     8. USB Playback: Yes
     9. Comparisons
         1. <https://www.youtube.com/watch?v=F4d76SDQPtw>
-45. [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325): $80
+45. [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325): $80
     1. Negatives: Bass is not as deep as competitors. Very heavy
     2. Max Volume: 100db
     3. Bass Extension: 58hz
@@ -685,7 +685,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         1. <https://www.youtube.com/watch?v=g05lODItS4w>
     12. Links
         1. <https://www.rtings.com/speaker/reviews/ion/pathfinder-280>
-46. [Monster Rockin’ Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $170
+46. [Monster Rockin’ Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $170
     1. Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
     2. Max Volume: 96db
     3. Bass Extension: 53hz

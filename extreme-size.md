@@ -9,7 +9,7 @@ If you’re looking at one of these, you have a very specific need for very deep
 
 If you need a speaker for parties over 50 people you may want to look at real PA speakers instead like the QSC K12.2, EV EKX-12P, or for cheaper options the Yamaha DBR12 or EV ZLX12, possibly with 18” subs if you need bass deeper than 50hz, see [this](https://www.reddit.com/r/WirelessSpeakers/comments/18tfi5l/portable_speakers_for_parties_over_50_people/).
 
-1. [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $550
+1. [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $550
     1. Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes.
     2. Negatives: Very large
     3. Bass Extension: 32hz
@@ -33,7 +33,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         5. <https://www.youtube.com/watch?v=BVfi7YvlMRg>
     17. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/partybox-310>
-2. [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325): $260
+2. [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325): $260
     1. Positives: Quite neutral sound, pretty deep bass.
     2. Negatives: A slight peak in the upper mids. Slight TWS issue where the 2nd is slightly delayed. Just as loud and slightly deeper bass than a Stormbox Blast which is way smaller with better sound quality.
     3. Bass Extension: 41hz
@@ -64,7 +64,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         12. <https://www.youtube.com/watch?v=YWVFrq61OQk>
     17. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/partybox-100>
-3. [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325): $350
+3. [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325): $350
     1. Positives: Very neutral sound, slightly better than the Partybox 100.
     2. Negatives: Bass isn’t as deep as the Partybox 100. Just as loud and slightly deeper than a Stormbox Blast which is way smaller with better sound. Increase treble one step in the app to make it more neutral.
     3. Bass Extension: 41hz
@@ -105,7 +105,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         1. <https://www.youtube.com/watch?v=sxj71FCSg5Y>
     16. Links
         1. <https://www.rtings.com/speaker/reviews/jbl/partybox-300>
-5. [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
+5. [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
     1. Positives: Good midrange and treble.
     2. Negatives: Not stereo. Only IP44 with the rain cover installed
     3. Max Volume: 121db
@@ -118,7 +118,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         1. <https://www.youtube.com/watch?v=bxW813jlJKc>
         2. <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
         3. <https://www.youtube.com/watch?v=59374H8e3HQ>
-6. [Bose S1 Pro](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR/ref=sr_1_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=c47cc07f18d17c4b12f28f2e2eba605f&camp=1789&creative=9325): $700
+6. [Bose S1 Pro](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c47cc07f18d17c4b12f28f2e2eba605f&camp=1789&creative=9325): $700
     1. Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo.
     2. Max Volume: 109db
     3. Bass Extension: 55hz
@@ -155,7 +155,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         2. <https://www.youtube.com/watch?v=gNqERPC67C8>
         3. <https://www.youtube.com/watch?v=S112dkr_2mE>
         4. <https://www.youtube.com/watch?v=NbnolJzmA5s>
-8. [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
+8. [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
     1. Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn’t auto connect every time.
     2. Max Volume: 115db
     3. Bass Extension: 50hz
@@ -167,7 +167,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         2. <https://www.youtube.com/watch?v=G_0wnrW8UpA>
         3. <https://www.youtube.com/watch?v=jGOER4-R4gg>
         4. <https://www.youtube.com/watch?v=FW4T7G98MXk>
-9. [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
+9. [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
     1. Positives: Can get slightly louder than a Partybox 310.
     2. Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310
     3. Weight: 58.6lbs / 26.6kg
@@ -184,7 +184,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         1. <https://www.youtube.com/watch?v=1yVnCeuW9uA>
         2. <https://www.youtube.com/watch?v=RU02J2XZhYg>
         3. <https://www.youtube.com/watch?v=t6pFY4Sh0Us>
-10. [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
+10. [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
     1. Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
     2. Bass Extension: 50hz
     3. Weight: 37.3 lbs / 16.9kg
@@ -202,7 +202,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         2. <https://www.youtube.com/watch?v=8K3aTVKL3LE>
     14. Links
         1. <https://www.rtings.com/speaker/reviews/sony/srs-xp700>
-11. [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
+11. [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
     1. Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
     2. Bass Extension: 42hz
     3. Weight: 24.7lbs / 11.2kg
@@ -263,7 +263,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         3. <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
         4. <https://www.youtube.com/watch?v=ITnoz10G2jU>
         5. <https://www.youtube.com/watch?v=S112dkr_2mE>
-15. [Soundboks Gen 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
+15. [Soundboks Gen 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
     1. Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
     2. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
     3. Max Volume: 126db
@@ -278,7 +278,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     12. Comparisons
         1. <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
         2. <https://www.youtube.com/watch?v=hjpEDDN_hnY>
-16. [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $800
+16. [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $800
     1. Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
     2. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
     3. Max Volume: 126db
@@ -297,7 +297,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         4. <https://www.youtube.com/watch?v=LeFRtL44rt8>
     13. Links
         1. <https://www.rtings.com/speaker/reviews/soundboks/gen-3>
-17. [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
+17. [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
     1. Positives: 3rd loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
     2. Max Volume: 124db
     3. Weight: 33lbs / 15kg
@@ -312,7 +312,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         3. <https://www.youtube.com/watch?v=Ym43t8EFysg>
         4. <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
         5. <https://www.youtube.com/watch?v=NbnolJzmA5s>
-18. [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
+18. [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
     1. Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
     2. Bass Extension: 55hz
     3. Weight: 13lbs / 5.9kg
@@ -324,7 +324,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         1. <https://www.youtube.com/watch?v=HzlGsQ-m184>
         2. <https://www.youtube.com/watch?v=veHpUwgUGoM>
         3. <https://www.youtube.com/watch?v=HLO_p671BgA>
-19. [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325): $550
+19. [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325): $550
     1. Positives: Removable 40 hour battery.
     2. Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
     3. Max Volume: 121db
@@ -352,7 +352,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     9. Comparisons
         1. <https://www.youtube.com/watch?v=ZgTCD12iFHk>
         2. <https://www.patreon.com/posts/audiocase-s10-92786890>
-21. [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
+21. [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
     1. Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
     2. Bass Extension: ~45hz
     3. Weight: 16.4lbs / 7.44kg
@@ -362,7 +362,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     7. Comparisons
         1. <https://www.youtube.com/watch?v=U6Sec5_16x4>
         2. <https://www.youtube.com/watch?v=ypwOXcoMqdo>
-22. [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
+22. [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
     1. Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
     2. Bass Extension: ~47hz
     3. Weight: 18.9lbs / 8.57kg
@@ -383,7 +383,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     7. Comparisons
         1. <https://www.youtube.com/watch?v=ypwOXcoMqdo>
         2. <https://www.youtube.com/watch?v=K3350eIvszw>
-24. [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
+24. [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
     1. Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
     2. Weight 17.6lbs / 8kg
     3. Battery Life: 12 hours
@@ -392,7 +392,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         1. <https://www.youtube.com/watch?v=59374H8e3HQ>
         2. <https://www.youtube.com/watch?v=DVJv6aMCY2U>
         3. <https://www.youtube.com/watch?v=mIVdyFo2zgA>
-25. [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
+25. [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
     1. Negatives: Overly boosted bass and recessed mids. Overly expensive
     2. Max Volume: 94db
     3. Bass Extension: ~45hz
