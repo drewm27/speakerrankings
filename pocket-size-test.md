@@ -27,17 +27,17 @@ The pocket size class is in a very specific class. These speakers should only be
 - Built In Microphone: Yes
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=x3lDUhyo_eM>
-        2. <https://www.youtube.com/watch?v=7LsffgrbXYc>
-        3. <https://www.youtube.com/watch?v=oTE4EgEict4>
-        4. <https://www.youtube.com/watch?v=FZWU9gzzac0>
-        5. <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
-        6. <https://www.youtube.com/watch?v=_vBF_b2AEUg>
-        7. <https://www.youtube.com/watch?v=tyFvllnBeSM>
-        8. <https://www.youtube.com/watch?v=X7NlGAQBk0s>
-        9. <https://www.youtube.com/watch?v=6PwCJ_Xy_I4>
+  - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+  - <https://www.youtube.com/watch?v=7LsffgrbXYc>
+  - <https://www.youtube.com/watch?v=oTE4EgEict4>
+  - <https://www.youtube.com/watch?v=FZWU9gzzac0>
+  - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
+  - <https://www.youtube.com/watch?v=_vBF_b2AEUg>
+  - <https://www.youtube.com/watch?v=tyFvllnBeSM>
+  - <https://www.youtube.com/watch?v=X7NlGAQBk0s>
+  - <https://www.youtube.com/watch?v=6PwCJ_Xy_I4>
 - Links
-        1. <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
+  - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
 
 ### [Minirig Mini 2](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2): $100
 
@@ -57,9 +57,9 @@ The pocket size class is in a very specific class. These speakers should only be
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons
-        1. <https://www.youtube.com/watch?v=t-NrXGtuEQc>
-        2. <https://www.youtube.com/watch?v=-THqGgH_Tu8>
-        3. <https://www.youtube.com/watch?v=7kydvk2xdtA>
+  - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
+  - <https://www.youtube.com/watch?v=-THqGgH_Tu8>
+  - <https://www.youtube.com/watch?v=7kydvk2xdtA>
 
 ###  Minirig Mini: $100
 
@@ -79,8 +79,8 @@ The pocket size class is in a very specific class. These speakers should only be
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons
-        1. <https://www.youtube.com/watch?v=EwyyxOkDG1E>
-        2. <https://www.youtube.com/watch?v=jAdCutwAmd4>
+  - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
+  - <https://www.youtube.com/watch?v=jAdCutwAmd4>
 
 ###  [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E): $40
 
@@ -98,12 +98,12 @@ The pocket size class is in a very specific class. These speakers should only be
 - Built In Microphone: Yes
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=x3lDUhyo_eM>
-        2. <https://www.youtube.com/watch?v=7LsffgrbXYc>
-        3. <https://www.youtube.com/watch?v=hYIQtNJ3gM0>
-        4. <https://www.youtube.com/watch?v=jAdCutwAmd4>
-        5. <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
-        6. <https://www.youtube.com/watch?v=sc_YdfX2PBI>
+  - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+  - <https://www.youtube.com/watch?v=7LsffgrbXYc>
+  - <https://www.youtube.com/watch?v=hYIQtNJ3gM0>
+  - <https://www.youtube.com/watch?v=jAdCutwAmd4>
+  - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
+  - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
 
 ###  Soundcore Mini 3 Pro: $40
 
@@ -121,7 +121,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - IP Rating: IPX7
 - Built In Microphone: Yes
 - Comparisons
-        1. <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
+  - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
 
 ###  [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325): $41
 
@@ -140,7 +140,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Built In Microphone: Yes
 - IP Rating: IPX7
 - Comparisons
-        1. <https://www.youtube.com/watch?v=mMsB-wvXn34>
+  - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 
 ###  [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
 
@@ -155,7 +155,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - TWS: Yes
 - IP Rating: IPX4
 - Comparison
-        1. <https://www.youtube.com/watch?v=DEfdIQiXfxw>
+  - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 
 ###  [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
 
@@ -172,13 +172,13 @@ The pocket size class is in a very specific class. These speakers should only be
 - Built In Microphone: Yes
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=FZWU9gzzac0>
-        2. <https://www.youtube.com/watch?v=q9u7iRmRdjk>
-        3. <https://www.youtube.com/watch?v=_vBF_b2AEUg>
-        4. <https://www.youtube.com/watch?v=tyFvllnBeSM>
-        5. <https://www.youtube.com/watch?v=X7NlGAQBk0s>
+  - <https://www.youtube.com/watch?v=FZWU9gzzac0>
+  - <https://www.youtube.com/watch?v=q9u7iRmRdjk>
+  - <https://www.youtube.com/watch?v=_vBF_b2AEUg>
+  - <https://www.youtube.com/watch?v=tyFvllnBeSM>
+  - <https://www.youtube.com/watch?v=X7NlGAQBk0s>
 - Links
-        1. <https://www.rtings.com/speaker/reviews/marshall/willen>
+  - <https://www.rtings.com/speaker/reviews/marshall/willen>
 
 ###  [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325): $99
 
@@ -196,10 +196,10 @@ The pocket size class is in a very specific class. These speakers should only be
 - IP Rating: IP67
 - Built In Microphone: Yes
 - Comparisons
-        1. <https://www.youtube.com/watch?v=jAdCutwAmd4>
-        2. <https://www.youtube.com/watch?v=oTE4EgEict4>
+  - <https://www.youtube.com/watch?v=jAdCutwAmd4>
+  - <https://www.youtube.com/watch?v=oTE4EgEict4>
 - Links
-        1. <https://www.rtings.com/speaker/reviews/bose/soundlink-micro>
+  - <https://www.rtings.com/speaker/reviews/bose/soundlink-micro>
 
 ###  [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325): $170
 
@@ -213,7 +213,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Party Mode: No
 - IP Rating: None
 - Comparisons
-        1. <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
+  - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 
 ###  [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325): $95
 
@@ -230,7 +230,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
+  - <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
 
 ###  [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
 
@@ -246,10 +246,10 @@ The pocket size class is in a very specific class. These speakers should only be
 - Party Mode: No
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=sc_YdfX2PBI>
-        2. <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
+  - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
+  - <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
 - Links
-        1. <https://www.rtings.com/speaker/reviews/jbl/clip-4>
+  - <https://www.rtings.com/speaker/reviews/jbl/clip-4>
 
 ###  [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
@@ -265,10 +265,10 @@ The pocket size class is in a very specific class. These speakers should only be
 - Party Mode: No
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=9tigrVLPi5A>
-        2. <https://www.youtube.com/watch?v=H5oy3xWP3kU>
+  - <https://www.youtube.com/watch?v=9tigrVLPi5A>
+  - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
 - Links
-        1. <https://www.rtings.com/speaker/reviews/jbl/go-3>
+  - <https://www.rtings.com/speaker/reviews/jbl/go-3>
 
 ###  [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
@@ -282,9 +282,9 @@ The pocket size class is in a very specific class. These speakers should only be
 - Party Mode: No
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=uWv_SRZh3TE>
-        2. <https://www.youtube.com/watch?v=j_YH3cGsQZk>
-        3. <https://www.youtube.com/watch?v=EFB1Ut2EZMo>
+  - <https://www.youtube.com/watch?v=uWv_SRZh3TE>
+  - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
+  - <https://www.youtube.com/watch?v=EFB1Ut2EZMo>
 
 ###  [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
 
@@ -300,10 +300,10 @@ The pocket size class is in a very specific class. These speakers should only be
 - Party Mode: No
 - IP Rating: IP67
 - Comparisons
-        1. <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
-        2. <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
+  - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
+  - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
 - Links
-        1. <https://www.rtings.com/speaker/reviews/sony/srs-xb13>
+  - <https://www.rtings.com/speaker/reviews/sony/srs-xb13>
 
 ###  JBL Clip: $50
 
@@ -317,7 +317,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Party Mode: No
 - Aux In: Yes
 - Comparisons
-        1. <https://www.youtube.com/watch?v=M6khpcPwr8c>
+  - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
 ###  [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
 
@@ -332,7 +332,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - TWS: No
 - Party Mode: No
 - Comparisons
-        1. <https://www.youtube.com/watch?v=M6khpcPwr8c>
+  - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
 ###  Xiaomi Mi Portable Outdoor
 
@@ -343,7 +343,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - App: No
 - EQ: No
 - Comparisons
-        1. <https://www.youtube.com/watch?v=NwlwyofEYDM>
+  - <https://www.youtube.com/watch?v=NwlwyofEYDM>
 
 ###  Hopestar H54
 
@@ -353,7 +353,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - App: No
 - EQ: No
 - Comparisons
-        1. <https://www.youtube.com/watch?v=IHXU3CMEdSg>
+  - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
 
 ###  Sony SRS-XB12
 
@@ -370,9 +370,9 @@ The pocket size class is in a very specific class. These speakers should only be
 - TWS: No
 - Party Mode: No
 - Comparisons
-        1. <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
-        2. <https://www.youtube.com/watch?v=H5oy3xWP3kU>
-        3. <https://www.youtube.com/watch?v=mMsB-wvXn34>
+  - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
+  - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
+  - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 
 ###  Harman Kardon Esquire Mini 2: $100
 
@@ -382,8 +382,8 @@ The pocket size class is in a very specific class. These speakers should only be
 - App: No
 - EQ: No
 - Comparisons
-        1. <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
-        2. <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
+  - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
+  - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
 
 ###  Harman Kardon Neo: $90
 
@@ -394,7 +394,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Battery Life: 10 hours
 - TWS: No
 - Comparisons
-        1. <https://www.youtube.com/watch?v=mvcXuYgIsfU>
+  - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
 
 ###  Lenovo 700: $85
 
@@ -406,6 +406,6 @@ The pocket size class is in a very specific class. These speakers should only be
 - TWS: Yes
 - IP Rating: IPX2
 - Comparisons
-        1. <https://youtu.be/Yam_mssFqeU>
-        2. <https://www.youtube.com/watch?v=6CtZiXCJF18>
+  - <https://youtu.be/Yam_mssFqeU>
+  - <https://www.youtube.com/watch?v=6CtZiXCJF18>
 
