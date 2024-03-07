@@ -7,9 +7,10 @@ Bluetooth Speaker Ranking
 
 [Information About the Rankings](information-about-the-rankings/)
 
-    - Information Applying to All Speakers: "information-applying-to-all-speakers"
-    - Top Recommended Speakers: "top-recommended"
-    - Pocket Size Speakers: "pocket-size"
+[Information Applying to All Speakers: "information-applying-to-all-speakers"
+
+[Top Recommended Speakers: "top-recommended"
+[ Pocket Size Speakers: "pocket-size"
     - Small/Medium Size Speakers: "small-medium-size"
     - Large Size Speakers: "large-size"
     - Boombox Size Speakers: "boombox-size"
