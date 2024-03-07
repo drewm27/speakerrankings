@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Ranking Large Speakers
+title: Bluetooth Speaker Ranking
+title: Large Size
 comments: true
 ---
 
