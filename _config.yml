@@ -20,6 +20,13 @@ author: Obvious-Bird-3588
 ###############################################
 
 navbar-links:
+  Bluetooth Speaker Ranking:
+    - Top Recommended Speakers: "top-recommended"
+    - Pocket Size Speakers: "pocket-size"
+    - Small/Medium Size Speakers: "small-medium-size"
+    - Large Size Speakers: "large-size"
+    - Boombox Size Speakers: "boombox-size"
+    - Extreme Size Speakers: "extreme-size"
   Information:
     - Information About the Rankings: "information-about-the-rankings"
     - Information Applying to All Speakers: "information-applying-to-all-speakers"
@@ -28,13 +35,6 @@ navbar-links:
     - Issues I'm Working On: "issues-im-working-on"
     - Work Currently In Progress: "work-currently-in-progress"
     - Personal Ranking of Speaker Reviewers: "personal-ranking-of-speaker-reviewers"
-  Bluetooth Speaker Ranking:
-    - Top Recommended Speakers: "top-recommended"
-    - Pocket Size Speakers: "pocket-size"
-    - Small/Medium Size Speakers: "small-medium-size"
-    - Large Size Speakers: "large-size"
-    - Boombox Size Speakers: "boombox-size"
-    - Extreme Size Speakers: "extreme-size"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
