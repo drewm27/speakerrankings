@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Small/Medium size
 comments: true
 ---

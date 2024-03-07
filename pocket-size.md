@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: page
 title: Pocket Size
-#subtitle: There's lots to learn!
 comments: true
 ---
 
