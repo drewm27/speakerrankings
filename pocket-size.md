@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Ranking All Battery Powered Bluetooth Speakers
+title: Pocket Size
 #subtitle: There's lots to learn!
 comments: true
-author: Obvious-Bird-3588
 ---
-
-### Pocket size
 
 The pocket size class is in a very specific class. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can’t reach low enough for bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
