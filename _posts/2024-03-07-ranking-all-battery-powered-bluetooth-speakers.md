@@ -3,7 +3,7 @@ layout: post
 title: Ranking All Battery Powered Bluetooth Speakers
 #subtitle: There's lots to learn!
 comments: true
-author: Obvious-Bird-3588
+#author: Obvious-Bird-3588
 ---
 
 ## Note
