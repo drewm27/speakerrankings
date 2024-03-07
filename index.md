@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Speaker Ranking
-head-extra: <meta name='impact-site-verification' value='2a1c248c-1391-4707-b019-026e6edcda75'>
+head-extra: "<meta name='impact-site-verification' value='2a1c248c-1391-4707-b019-026e6edcda75'>"
 ---
 
 ## Bluetooth Speaker Ranking
