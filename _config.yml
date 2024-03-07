@@ -22,8 +22,8 @@ author: Obvious-Bird-3588
 navbar-links:
   About Me: "aboutme"
   Speaker Ranking:
-    Battery Speaker Ranking:
-      Pocket Size: "pocket-size"
+    - Battery Speaker Ranking:
+      - Pocket Size: "pocket-size"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
