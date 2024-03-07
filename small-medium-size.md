@@ -5,8 +5,6 @@ subtitle: Small/Medium Speakers
 comments: true
 ---
 
-### Small/Medium size
-
 One of the best general use size classes, 1L water bottle sized and light enough to hand carry, but with enough output for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have a bass extension similar to a 5.25” woofer bookshelf speaker. Bigger speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 1. [Earfun Uboom L](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspeake-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325): $50 after coupon UBOOMLWC at Amazon
