@@ -21,12 +21,19 @@ author: Obvious-Bird-3588
 
 navbar-links:
   Bluetooth Speaker Ranking:
+    - Information About the Rankings: "information-about-the-rankings"
+    - Information Applying to All Speakers: "information-applying-to-all-speakers"
     - Top Recommended: "top-recommended"
     - Pocket Size: "pocket-size"
     - Small/Medium Size: "small-medium-size"
     - Large Size: "large-size"
     - Boombox Size: "boombox-size"
     - Extreme Size: "extreme-size"
+    - Comments and Suggestions: "extreme-size"
+    - Speakers to be Added: "speakers-to-be-added"
+    - Issues I'm Working On: "issues-im-working-on"
+    - Work Currently In Progress: "work-currently-in-progress"
+    - Personal Ranking of Speaker Reviewers: "personal-ranking-of-speaker-reviewers"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
