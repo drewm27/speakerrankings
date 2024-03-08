@@ -7,7 +7,7 @@ comments: true
 
 I plan to get around to these as soon as I have some time and there are good sound samples around, stay tuned!
 
-1. Soundcore Boom 2
+1. Gemini GRV-650L
 1. Klipsch KMC3 
 1. W King T9 Pro
 1. Wise tiger P3
