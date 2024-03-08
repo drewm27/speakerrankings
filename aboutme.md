@@ -16,6 +16,7 @@ I’ve been in ultra high end audio myself for at least 20 years now and even gr
 1. Earfun Free Pro 2 (with [Oluv’s custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
 1. Earfun Free Pro (with [Oluv’s custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
 1. Fiil T1 Pro
+1. Altec Lansing inMotion IM616 (Etymotic ER6i rebrand)
 
 ###### Previous headphones included
 1. Sennheiser HD 280 pro
