@@ -5,28 +5,28 @@ title: About Me
 
 ## My Background
 
-I’ve been in ultra high end audio myself for at least 20 years now and even grew up around high end systems my father owned all throughout the 1980s starting with some Sansui electronics, Infinity RS IIIb and DCM Timeframe speakers. Have listened to countless systems up to 7 figures at high end audio shows including [RMAF](https://www.facebook.com/RockyMountainAudioFest/) and [California Audio Show](https://www.caaudioshow.com/) and owned a lot of different 5 figure systems over the years. I have a few audio systems, plus all my personal [Bluetooth speakers](https://www.reddit.com/r/Bluetooth_Speakers/comments/xrmbv1/when_you_have_a_bluetooth_speaker_addiction_my/)
+I've been in ultra high end audio myself for at least 20 years now and even grew up around high end systems my father owned all throughout the 1980s starting with some Sansui electronics, Infinity RS IIIb and DCM Timeframe speakers. Have listened to countless systems up to 7 figures at high end audio shows including [RMAF](https://www.facebook.com/RockyMountainAudioFest/) and [California Audio Show](https://www.caaudioshow.com/) and owned a lot of different 5 figure systems over the years. I have a few audio systems, plus all my personal [Bluetooth speakers](https://www.reddit.com/r/Bluetooth_Speakers/comments/xrmbv1/when_you_have_a_bluetooth_speaker_addiction_my/)
 
 ###### My headphone collection includes
-1. Sennheiser HD 6xx (Sennheiser HD650)
+1. [Sennheiser HD 6xx (Sennheiser HD650)](https://www.amazon.com/Sennheiser-HD-650-Professional-Headphone/dp/B00018MSNI/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e101e3168afc0133d8a2e8309182ef8b&camp=1789&creative=9325)
 1. Hifiman HE-400i
-1. Hifiman HE-560
+1. [Hifiman HE-560](https://www.amazon.com/HIFIMAN-HE-560-Premium-Magnetic-Headphones/dp/B00LMSR5OS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=893ab614dadd68d28e0dca31da86b6f5&camp=1789&creative=9325)
 1. JDS Labs OL Dac
-1. JDS Labs O2 Headphone Amplifier
-1. Earfun Free Pro 2 (with [Oluv’s custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
-1. Earfun Free Pro (with [Oluv’s custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
+1. [JDS Labs O2 Headphone Amplifier](https://jdslabs.com/product/objective2/)
+1. [Earfun Free Pro 2](https://www.amazon.com/Earbuds-Free-Pro-Cancelling-Bluetooth/dp/B09JWMJ7PW/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a00ae141c6dfec0ae78e42151329d561&camp=1789&creative=9325") (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
+1. Earfun Free Pro (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
 1. Fiil T1 Pro
 1. Altec Lansing inMotion IM616 (Etymotic ER6i rebrand)
 
 ###### Previous headphones included
-1. Sennheiser HD 280 pro
+1. [Sennheiser HD 280 pro](https://www.amazon.com/Sennheiser-Professional-Over-Ear-Monitoring-Headphones/dp/B00IT0IHOY/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dbc89df049cb5804ed7186dd8fc68e0d&camp=1789&creative=9325")
 1. Anbes 359
 1. Fiil T1X
 1. Mpow M5
 
 ###### Current audio systems include
-1. 4x GR-Research X-Statik floorstander speakers (2 with upgraded crossovers including Sonicaps)
-1. GR-Research X-Voce center channel
+1. 4x [GR-Research X-Statik](https://gr-research.com/product/x-statik-kit/) floorstander speakers (2 with upgraded crossovers including Sonicaps)
+1. [GR-Research X-Voce](https://gr-research.com/product/x-voce-kit/) center channel
 1. 2x Dual 15” Epik Empire Subwoofers
 1. Arcam AVR600 receiver
 1. Arcam FMJ DV27A DVD-Audio player
@@ -46,8 +46,8 @@ I’ve been in ultra high end audio myself for at least 20 years now and even gr
 1. Infinity Reference One
 1. DCM TimeFrame TF-350
 
-I’ve also been to a few headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) better than I could put together, otherwise I’d consider doing it.
-<br/>I’ve built and designed speakers and have dabbled in crossover, driver and enclosure design.
+I've also been to a few headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) better than I could put together, otherwise I'd consider doing it.
+<br/>I've built and designed speakers and have dabbled in crossover, driver and enclosure design.
 
 My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. I run only Linux on all my main computers and have been doing so since 1997.
 
