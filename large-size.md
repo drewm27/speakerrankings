@@ -106,7 +106,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.diysubwoofers.org/projects/other/BT/Wildbox/>
 1. [Soundcore Motion Boom 2](soundcore.sjv.io/vNk6PW): $130
     - Positives: Quite deep bass for the size, it sounds like it's as deep as the Mifa Wildbox. Cool lights in the side passive radiators.
-    - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Some frequency response issues and I will revisit this speaker when I get better sound samples a good EQ tune, and comparisons with it.
+    - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Some frequency response issues and I will revisit this speaker when I get better sound samples a good EQ tune, and comparisons with it. Quite boomy with BassUp turned on, I'd recommend turning it off.
     - Weight: 3.7lbs / 1.68kg
     - Battery Life: 24 hours
     - Aux In: No
