@@ -5,21 +5,22 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-I generally haven’t gotten around to these usually because they haven’t had enough good video reviews with good sound samples.
+I plan to get around to these as soon as I have some time and there are good sound samples around, stay tuned!
 
+1. Soundcore Boom 2
 1. Klipsch KMC3 
-2. W King T9 Pro
-3. Wise tiger P3
-4. Soundcore Motion 100
-5. Soundcore X500
-6. Audio Pro
-7. [IKMultimedia iLoud](https://www.ikmultimedia.com/products/iloud/)
-8. HK Audio Move 8
-9. House of Marley
-10. Boat
-11. Blitzwolf
-12. [Older Sony speakers](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb31/articles/00247922)
-13. Rocksteady 2.1
-14. JBL EON ONE Compact
-15. JBL EON ONE Pro
-16. JBL EON ONE MK2 
+1. W King T9 Pro
+1. Wise tiger P3
+1. Soundcore Motion 100
+1. Soundcore X500
+1. Audio Pro
+1. [IKMultimedia iLoud](https://www.ikmultimedia.com/products/iloud/)
+1. HK Audio Move 8
+1. House of Marley
+1. Boat
+1. Blitzwolf
+1. [Older Sony speakers](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb31/articles/00247922)
+1. Rocksteady 2.1
+1. JBL EON ONE Compact
+1. JBL EON ONE Pro
+1. JBL EON ONE MK2 
