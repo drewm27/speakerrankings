@@ -30,7 +30,7 @@ I've been in ultra high end audio myself for at least 20 years now and even grew
 1. 2x Dual 15” Epik Empire Subwoofers
 1. Arcam AVR600 receiver
 1. Arcam FMJ DV27A DVD-Audio player
-1. [GR-Research LGK1.0](https://gr-research.com/product/lgk-2-0/)
+1. [GR-Research LGK 1.0](https://gr-research.com/product/lgk-2-0/)
 1. Arcam AVR300 receiver
 
 ###### Past audio systems included
