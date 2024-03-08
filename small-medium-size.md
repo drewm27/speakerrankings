@@ -9,7 +9,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 
 1. [Earfun Uboom L](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325): $50 after coupon UBOOMLWC at Amazon
     - Positives: The audiophile choice. Extremely neutral, possibly the best of any modern bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every single volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Use [firmware 0.4.3](https://drive.google.com/drive/mobile/folders/1D66nAzbca9ZRyjxyLT2eIxJ142fzYEuL) which sounds the best and is what Oluv uses in his demos. There have been [noted issues](https://www.reddit.com/r/Bluetooth_Speakers/comments/1136ghx/comment/j8tmwb0/?utm_source=reddit&utm_medium=web2x&context=3) with sound quality in almost all other firmware versions. Check the version by turning it on, then pressing the power and bluetooth buttons at the same time. You can flash any version up or down on it. To flash, turn the speaker off then hold down the Bluetooth button while plugging in the cable. Other firmware downloads [from oluv here](https://www.youtube.com/post/UgkxYqGOf02snlwIvY5yx-FQXwaQsjxBFyi3) or [from earfun here](https://drive.google.com/drive/folders/1MI5XiLReotmvD9N0kJKL_q--yb3REeFH). To flash on a mac, [see these instructions](https://www.reddit.com/r/Bluetooth_Speakers/comments/17slpcs/guide_downgrading_earfun_uboom_l_to_oluvs/). In TWS mode, long press the outdoor button for 2 seconds to change TWS to Party mode.
-    - Negatives: Seems to be shipping with 0.5.x firmware now which boosts bass, makes the lower midrange muddy and removes the low level volume steps. Will need to be downgraded to 0.4.3 for best sound quality. The only thing you lose by downgrading to 0.4.3 is the battery display on the phone, but there's still a battery meter on the device itself. The Uboom L would rank around 20th place with the 0.5.0 firmware. Latency is high (400ms) without turning on low latency mode (66ms) which doesn’t work when two speakers are TWS paired. Low latency mode can be turned on by pressing the Bluetooth button twice. No app and no custom EQ. If having a custom EQ is more important than a neutral speaker, or if latency in TWS paired mode is a very important feature, like if you watch a lot of video, you may want to choose another speaker.
+    - Negatives: Seems to be shipping with 0.5.x firmware now which boosts bass, makes the lower midrange muddy and removes the low level volume steps. Will need to be downgraded to 0.4.3 for best sound quality. The only thing you lose by downgrading to 0.4.3 is the battery display on the phone, but there's still a battery meter on the device itself. The Uboom L would rank around 20th place with the 0.5.0 firmware. Latency is high (400ms) without turning on low latency mode (66ms) which doesn't work when two speakers are TWS paired. Low latency mode can be turned on by pressing the Bluetooth button twice. No app and no custom EQ. If having a custom EQ is more important than a neutral speaker, or if latency in TWS paired mode is a very important feature, like if you watch a lot of video, you may want to choose another speaker.
     - Max Volume: 103db
     - Bass Extension: 56hz
     - Weight: 1.43lbs / 650g
@@ -67,7 +67,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
         - <https://www.patreon.com/posts/soundcore-motion-93321960>
         - <https://www.patreon.com/posts/soundcore-motion-94933573>
 3. [Soundcore Motion+](http://soundcore.sjv.io/k0EVK0) ([or on Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325)): $80 after $20 coupon
-    - Positives: The previous best sounding in class, still a great speaker with separate tweeters, more bass at full volume and better off-axis treble frequency response than the Uboom L. Just mediocre with the default EQ, I highly recommend using [this EQ setting](https://www.tumblr.com/techaudiophoto/706620138302144512/motion-hi-fi-eq) from [kai7895](https://www.reddit.com/user/kai7895) to get it more neutral. To achieve the absolute best sound you’ll need the Wavelet app (Android only) and set the provided Wavelet EQ in there too. Turn off the wavelet EQ for outdoor use. An alternative is [Oluv’s EQ](https://www.youtube.com/post/UgwSd6XBIv7UQK__LYN4AaABCQ) which only needs the Soundcore app EQ. Note these EQs only really sound perfect at a medium volume level.
+    - Positives: The previous best sounding in class, still a great speaker with separate tweeters, more bass at full volume and better off-axis treble frequency response than the Uboom L. Just mediocre with the default EQ, I highly recommend using [this EQ setting](https://www.tumblr.com/techaudiophoto/706620138302144512/motion-hi-fi-eq) from [kai7895](https://www.reddit.com/user/kai7895) to get it more neutral. To achieve the absolute best sound you'll need the Wavelet app (Android only) and set the provided Wavelet EQ in there too. Turn off the wavelet EQ for outdoor use. An alternative is [Oluv's EQ](https://www.youtube.com/post/UgwSd6XBIv7UQK__LYN4AaABCQ) which only needs the Soundcore app EQ. Note these EQs only really sound perfect at a medium volume level.
     - Negatives: Not quite as neutral or detailed as the Uboom L. Without the above EQ, this speaker will rank around #25 in the rankings.
     - Max Volume: 104db
     - Bass Extension: 54hz
@@ -96,7 +96,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
         - <https://www.rtings.com/speaker/reviews/anker/soundcore-motion-plus>
 4. [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325): $60
     - Positives: A very neutral good sounding inexpensive small speaker with quite deep bass for the size. This upgraded version has a usb-c port while the old one has micro usb.
-    - Negatives: Slight DSP tuning issue which makes bass get lighter at times at very low volumes, examples in oluv’s video.
+    - Negatives: Slight DSP tuning issue which makes bass get lighter at times at very low volumes, examples in oluv's video.
     - Max Volume: 99db
     - Bass extension: 56hz
     - Weight: 1.29lbs / 590g
@@ -651,7 +651,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - Links
         - <https://www.rtings.com/speaker/reviews/anker/soundcore-3>
 41. [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325): $200
-    - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn’t go as deep as others. Failures of the mainboard are common.
+    - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
     - Bass Extension: ~58hz
     - Weight: 1.5lbs / 680g
     - Battery Life: 10 hours
@@ -663,7 +663,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
         - <https://www.youtube.com/watch?v=O9CumhsfOFI>
         - <https://www.youtube.com/watch?v=mQRhBbxKY4o>
 42. Bose Soundlink Mini: $150
-    - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn’t go as deep as others. Failures of the mainboard are common.
+    - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn't go as deep as others. Failures of the mainboard are common.
     - Bass Extension: ~58hz
     - Weight: 1.5lbs / 680g
     - Battery Life: 10 hours
@@ -700,7 +700,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
         - <https://www.rtings.com/speaker/reviews/sony/srs-xb33>
 45. Creative iRoar Go: $83
     - Positives: Pretty neutral response across the mids
-    - Negatives: Rolled off treble. Bass extension isn’t as good as today’s speakers
+    - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
     - Bass Extension: 64hz
     - Weight: 1.8lbs / 816g
     - Battery Life: 12 hours
@@ -838,7 +838,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
         - <https://www.youtube.com/watch?v=SSla-paxi14>
         - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 56. Tribit Xsound Surf: $26
-    - Negatives: Bass doesn’t go as deep as others, strange midrange peaks
+    - Negatives: Bass doesn't go as deep as others, strange midrange peaks
     - Weight: 0.97lbs / 440g
     - Battery Life: 10 hours
     - Aux In: Yes
@@ -846,7 +846,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
         - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
         - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
 57. Soundcore 2: $30
-    - Negatives: Bass doesn’t go as deep as others
+    - Negatives: Bass doesn't go as deep as others
     - Weight: 0.70lbs / 318g
     - Battery Life: 24 hours
     - Aux In: Yes
@@ -855,7 +855,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
         - <https://www.youtube.com/watch?v=bLi4fsS23Do>
 58. Klipsch Groove/Heritage Groove: $120
     - Positives: Pretty balanced sound.
-    - Negatives: Not stereo. Bass doesn’t go as deep as others its size. Gets distorted at higher levels. Wouldn’t generally recommend these old speakers as they can’t compete with modern speakers for bass performance and features.
+    - Negatives: Not stereo. Bass doesn't go as deep as others its size. Gets distorted at higher levels. Wouldn't generally recommend these old speakers as they can't compete with modern speakers for bass performance and features.
     - Weight: 1.7lbs / 770g
     - Battery Life: 8 hours
     - Aux In: Yes
@@ -962,7 +962,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - Comparisons
         - <https://www.youtube.com/watch?v=vaMmiWOSv34>
 69. [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325): $80
-    - Positives: Try Alan Ross’s EQ for it here <https://ibb.co/q9mcNk1>
+    - Positives: Try Alan Ross's EQ for it here <https://ibb.co/q9mcNk1>
     - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
     - Max Volume: 99db
     - Bass Extension: 56hz
@@ -1041,7 +1041,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - Links
         - <https://www.rtings.com/speaker/reviews/ultimate-ears/boom-3>
 75. W-King D8 Mini: $60
-    - Negatives: Recessed midrange, harsh treble. Bass doesn’t go as deep as others.
+    - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
     - Max Volume: 100db
     - Bass Extension: 63hz
     - Weight: 2.77lbs / 1260g
@@ -1179,7 +1179,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - Links
         - <https://www.rtings.com/speaker/reviews/beats/pill-plus>
 93. Skullcandy Terrain XT: $80
-    - Negatives: No bass, very rolled off treble. Just doesn’t sound good
+    - Negatives: No bass, very rolled off treble. Just doesn't sound good
     - Battery Life: 14 hours
     - Comparisons
         - <https://www.youtube.com/watch?v=368gHYvN-QQ>
@@ -1220,7 +1220,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - Links
         - <https://www.rtings.com/speaker/reviews/oontz/angle-3>
 98. Altec Lansing Lifejacket 2/ Lifejacket 3: $34
-    - Negatives: Barely any bass, “pathetic sounding” said Jay’s Reviews. Gets distorted with a lot of bass. The entire Altec Lansing bluetooth speaker line likely also sounds similarly bad.
+    - Negatives: Barely any bass, “pathetic sounding” said Jay's Reviews. Gets distorted with a lot of bass. The entire Altec Lansing bluetooth speaker line likely also sounds similarly bad.
     - Weight: 2.7lbs / 1.22kg
     - Battery Life: 30 hours
     - Comparisons

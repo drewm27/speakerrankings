@@ -5,7 +5,7 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-If you’re looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have a bass extension similar to a 10” woofer tower speaker.
+If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have a bass extension similar to a 10” woofer tower speaker.
 
 If you need a speaker for parties over 50 people you may want to look at real PA speakers instead like the QSC K12.2, EV EKX-12P, or for cheaper options the Yamaha DBR12 or EV ZLX12, possibly with 18” subs if you need bass deeper than 50hz, see [this](https://www.reddit.com/r/WirelessSpeakers/comments/18tfi5l/portable_speakers_for_parties_over_50_people/).
 
@@ -66,7 +66,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         - <https://www.rtings.com/speaker/reviews/jbl/partybox-100>
 3. [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325): $350
     - Positives: Very neutral sound, slightly better than the Partybox 100.
-    - Negatives: Bass isn’t as deep as the Partybox 100. Just as loud and slightly deeper than a Stormbox Blast which is way smaller with better sound. Increase treble one step in the app to make it more neutral.
+    - Negatives: Bass isn't as deep as the Partybox 100. Just as loud and slightly deeper than a Stormbox Blast which is way smaller with better sound. Increase treble one step in the app to make it more neutral.
     - Bass Extension: 41hz
     - Weight: 24lbs / 10.8kg
     - Battery Life: 12 hours
@@ -156,7 +156,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         - <https://www.youtube.com/watch?v=S112dkr_2mE>
         - <https://www.youtube.com/watch?v=NbnolJzmA5s>
 8. [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
-    - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn’t auto connect every time.
+    - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time.
     - Max Volume: 115db
     - Bass Extension: 50hz
     - Weight: 17.6lbs / 8kg
@@ -342,7 +342,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         - <https://www.rtings.com/speaker/reviews/soundboks/go>
 20. Audiocase S10: $892
     - Positives: One of the loudest in category.
-    - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn’t sound as good.
+    - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
     - Max Volume: 125db
     - Weight: 44.7lbs / 19.8kg
     - Battery Life: 30 hours
@@ -561,7 +561,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - Comparisons
         - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
 40. Rockville Rock Party 6: $100
-    - Positives: It’s cheap.
+    - Positives: It's cheap.
     - Negatives: No deep bass, slightly harsh upper mids
     - Bass Extension: ~60hz
     - Weight: 11.8lbs / 5.4kg

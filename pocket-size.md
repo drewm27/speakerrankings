@@ -5,7 +5,7 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-The pocket size class is in a very specific class. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can’t reach low enough for bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
+The pocket size class is in a very specific class. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't reach low enough for bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
 1. [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325): $48
     - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral.
@@ -130,7 +130,7 @@ The pocket size class is in a very specific class. These speakers should only be
         - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 7. [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
     - Positives: Quite detailed.
-    - Negatives: Dip at 1200hz. Doesn’t boost bass at low levels. Not that deep of bass. Only IPX4.
+    - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
     - Bass Extension: 73hz
     - Weight 0.66lbs / 300g
     - Battery Life: 12 hours

@@ -5,10 +5,10 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-A good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn’t take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have a bass extension similar to a 8” woofer tower speaker. The only thing you’re getting by stepping up to the Extreme size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+A good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have a bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Extreme size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 1. [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325): $160 after coupon
-    - Positives: Amazing speaker given its size, competes well with some speakers in the Extreme size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv’s EQ](https://www.patreon.com/oluvsgadgets/shop/tribit-stormbox-blast-eqs-86777) or [Alan Ross’s EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a more neutral sound. 2 different light modes or can be turned off.
+    - Positives: Amazing speaker given its size, competes well with some speakers in the Extreme size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsgadgets/shop/tribit-stormbox-blast-eqs-86777) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a more neutral sound. 2 different light modes or can be turned off.
     - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings.
     - Max Volume: 108db
     - Bass extension: 43hz
@@ -39,7 +39,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
 2. JBL Partybox Encore: $380
     - Positives: Likely the best sound quality in the class. 2 included wireless microphones.
-    - Negatives: Would be #1 if it wasn’t for the following negatives. Only 10 hours of battery at medium volume.
+    - Negatives: Would be #1 if it wasn't for the following negatives. Only 10 hours of battery at medium volume.
     - Max Volume: 108db
     - Bass Extension: 38hz
     - Weight: 13lbs / 5.9kg
@@ -62,7 +62,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.youtube.com/watch?v=WdmB0w0W7e4>
 3. [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $285
     - Positives: Likely the best sound quality in the class.
-    - Negatives: Would be #2 if it wasn’t for the following negatives. Only 6 hours of battery at medium volume.
+    - Negatives: Would be #2 if it wasn't for the following negatives. Only 6 hours of battery at medium volume.
     - Bass Extension: 38hz
     - Weight: 13lbs / 5.9kg
     - Battery Life: 6 hours
@@ -216,7 +216,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.youtube.com/watch?v=t4h1-_KqSfo>
         - <https://www.youtube.com/watch?v=NHVrFZKc5YM>
 12. Aiwa Exos-9: $250
-    - Positives: Still a great sounding speaker even against today’s models.
+    - Positives: Still a great sounding speaker even against today's models.
     - Negatives: Features are lacking, generally not recommended anymore, not sold new anymore.
     - Bass Extension: 44hz
     - Weight: 15.3lbs / 6.9kg
@@ -305,7 +305,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Comparisons
         - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
 17. [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
-    - Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I’d highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
+    - Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
     - Bass Extension: 50hz
     - Weight: 5.29lbs / 2.4kg
     - Battery Life: 8 hours
@@ -322,7 +322,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.youtube.com/watch?v=Cc-9e0SNPFM>
         - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
 18. [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325): $800
-    - Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I’d highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
+    - Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
     - Bass Extension: 46hz
     - Weight: 10.25lbs / 4.65kg
     - Battery Life: 8 hours
@@ -401,7 +401,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.youtube.com/watch?v=77HvEdMXy2c>
 24. [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325): $180
     - Positives: This speaker may move around in the rankings as we get better sound samples.
-    - Negatives: Only IPX4. Bass extension doesn’t seem very good.
+    - Negatives: Only IPX4. Bass extension doesn't seem very good.
     - Weight: 10.1lbs / 4.6kg
     - Battery Life: 16 hours
     - Aux In: Yes
@@ -485,7 +485,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.rtings.com/speaker/reviews/bang-olufsen/beolit-20>
 29. JBL Boombox:
     - Positives: Connect+ up to 100 speakers.
-    - Negatives: Treble isn’t very smooth
+    - Negatives: Treble isn't very smooth
     - Weight: 11.46lbs / 5.2kg
     - Battery Life: 24 hours
     - Aux In: Yes
@@ -585,7 +585,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Comparisons
         - <https://www.youtube.com/watch?v=o8DaGePVQzQ>
 37. Gemini GGO-650L: $100
-    - Positives: It’s cheap, included wireless microphone
+    - Positives: It's cheap, included wireless microphone
     - Negatives: Bass not as deep as competitors
     - Bass Extension: ~56hz
     - MicroSD: Yes
@@ -644,7 +644,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.youtube.com/watch?v=t66JKkidpt8>
         - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
 42. [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325): $190
-    - Negatives: Doesn’t compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
+    - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
     - Battery Life: 20 hours
     - Aux In: Yes
     - Comparisons
@@ -685,7 +685,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
         - <https://www.youtube.com/watch?v=g05lODItS4w>
     - Links
         - <https://www.rtings.com/speaker/reviews/ion/pathfinder-280>
-46. [Monster Rockin’ Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $170
+46. [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $170
     - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
     - Max Volume: 96db
     - Bass Extension: 53hz
@@ -709,7 +709,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Comparisons
         - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 49. Turtlebox/Turtlebox G2: $400
-    - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn’t count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
+    - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
     - Weight: 10lbs / 4.5kg
     - Bass Extension: ~65hz
     - Battery Life: 25 hours

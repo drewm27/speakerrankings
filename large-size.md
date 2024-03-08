@@ -9,7 +9,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
 
 1. [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $290
     - Positives: Very balanced sound. Finally USB-C charging
-    - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there’s 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
+    - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
     - Weight: 3.17lbs / 1.44kg
     - Battery Life: 30 hours
     - Power Bank: No
@@ -25,7 +25,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=a0WY6HxN_gU>
 2. [Minirig mk3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
     - Positives: Very balanced sound
-    - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there’s 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
+    - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
     - Max Volume: 103db
     - Bass Extension: 47hz
     - Weight: 3.13lbs / 1.42kg
@@ -49,7 +49,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
 3. Minirig mk2 with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
     - Positives: Very balanced sound
-    - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there’s 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
+    - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
     - Bass Extension: 47hz
     - Weight: 3.0lbs / 1.36kg
     - Battery Life: 40 hours
@@ -64,7 +64,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=dKyluqQNX5s>
 4. [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325): $400
     - Positives: Generally regarded as the best midrange and treble sound quality of any battery powered Bluetooth speaker.
-    - Negatives: Would be #1 if it wasn’t for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. No TWS.
+    - Negatives: Would be #1 if it wasn't for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. No TWS.
     - Bass Extension: 48hz
     - Weight: 3.1lbs / 1.4kg
     - Battery Life: 8 hours
@@ -85,8 +85,8 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
         - <https://www.patreon.com/posts/soundcore-motion-94933573>
 5. [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325): $100
-    - Positives: A really neutral frequency response across the midrange. Best in class bass extension. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifa.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn’t very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
-    - Negatives: No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn’t textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
+    - Positives: A really neutral frequency response across the midrange. Best in class bass extension. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifa.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn't very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
+    - Negatives: No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn't textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
     - Max Volume: 106db
     - Bass Extension: 45hz
     - Weight: 3.42lbs / 1.55kg
@@ -224,7 +224,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 12. [Soundcore Motion X600](http://soundcore.sjv.io/EK126D) ([or on Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325)): $150 after $50 coupon
     - Positives: Firmware 4.2.9 is a big improvement in sound quality over previous releases. Try this [Oluv EQ for the best sound quality](https://www.patreon.com/oluvsgadgets/shop/soundcore-motion-x600-eq-settings-106961)
-    - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn’t very deep and the sound is still a little unnatural.
+    - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn't very deep and the sound is still a little unnatural.
     - Max Volume: 104db
     - Bass Extension: 52hz
     - Weight: 5.17lbs / 2.35kg
@@ -274,7 +274,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=0ooUo0bQ2uc>
 15. [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325): $450
     - Positives: Warm sounding with somewhat rolled off treble. Slightly better midrange clarity than the Move 1.
-    - Negatives: Not very loud. This may have some of the issues at full volume that the Move 1 had too, but I’ll need more sound samples at full volume to verify.
+    - Negatives: Not very loud. This may have some of the issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
     - Weight: 6.61lbs / 3kg
     - Battery Life: 24 hours
     - Wifi: Yes
@@ -379,7 +379,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=t3OYsZHVgYE>
 23. [Devialet Mania](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325): $800
     - Positives: Small, nice looking.
-    - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there’s a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn’t like the upper mids or treble (mentioned on his Patreon)
+    - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
     - Max Volume: 95db
     - Bass Extension: 47hz
     - Weight: 5.1lbs / 2.3kg
@@ -510,7 +510,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
 33. [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325): $236
     - Positives: Very deep bass for the size/weight.
-    - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall’s added dsp echo which cannot be turned off, very distracting and annoying. It’s like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
+    - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall's added dsp echo which cannot be turned off, very distracting and annoying. It's like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
     - Max Volume: 99db
     - Bass Extension: 39hz
     - Weight: 4.0lbs / 1.8kg
