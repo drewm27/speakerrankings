@@ -235,6 +235,21 @@ If you need a speaker for parties over 50 people you may want to look at real PA
         - <https://www.youtube.com/watch?v=PbA32qofwe8>
         - <https://www.youtube.com/watch?v=6YjGuQPD52w>
         - <https://www.youtube.com/watch?v=Z727n9aBfgw>
+1. [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325): $300
+    - Positives: Sounds reasonably balanced. A little tough to judge based on the sound samples, would be nice to have more comparisons.
+    - Negatives: Not as deep bass as the Partybox 110 or other higher ranked speakers. Needs to be plugged in to reach higher volume.
+    - Battery Life: 18 hours
+    - Weight: 26.3lbs / 11.9kg
+    - USB Playback: Yes
+    - Power Bank: Yes
+    - Aux In: Yes
+    - Charging: AC Power cord
+    - App: Yes
+    - Microphone Input: Yes
+    - Party Mode: Yes (Samsung Group Play up to 10 speakers)
+    - IP Rating: IPX5
+    - Comparisons
+        - <https://www.youtube.com/watch?v=_Q1i3cG092I>
 13. Audiocase S5: $645
     - Positives: Removable battery
     - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
