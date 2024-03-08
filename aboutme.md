@@ -46,7 +46,7 @@ I've been in ultra high end audio myself for at least 20 years now and even grew
 1. Infinity Reference One
 1. DCM TimeFrame TF-350
 
-I've also been to a few headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) better than I could put together, otherwise I'd consider doing it.
+I've also been to a few headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) far better than I could put together, otherwise I'd consider doing it.
 <br/>I've built and designed speakers and have dabbled in crossover, driver and enclosure design.
 
 My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. I run only Linux on all my main computers and have been doing so since 1997.
