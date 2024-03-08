@@ -8,7 +8,7 @@ title: About Me
 I’ve been in ultra high end audio myself for at least 20 years now and even grew up around high end systems my father owned all throughout the 1980s starting with some Sansui electronics, Infinity RS IIIb and DCM Timeframe speakers. Have listened to countless systems up to 7 figures at high end audio shows including [RMAF](https://www.facebook.com/RockyMountainAudioFest/) and [California Audio Show](https://www.caaudioshow.com/) and owned a lot of different 5 figure systems over the years. I have a few audio systems, plus all my personal [Bluetooth speakers](https://www.reddit.com/r/Bluetooth_Speakers/comments/xrmbv1/when_you_have_a_bluetooth_speaker_addiction_my/)
 
 ###### My headphone collection includes
-1. Sennheiser HD 6xx
+1. Sennheiser HD 6xx (Sennheiser HD650)
 1. Hifiman HE-400i
 1. Hifiman HE-560
 1. JDS Labs OL Dac
