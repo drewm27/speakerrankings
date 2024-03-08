@@ -34,14 +34,15 @@ I've been in ultra high end audio myself for at least 20 years now and even grew
 1. Arcam AVR300 receiver
 
 ###### Past audio systems included
+1. 2x AV123 Rocket RS850
+1. AV123 Rocket RSC200
+1. 2x AV123 Rocket RS450 with risers
+1. Hsu Research VTF-3 mk3
 1. 4x B&W 702s2
 1. B&W CC6
 1. B&W ASW750
 1. NHT Sub Zero
-1. Hsu Research VTF-3 mk3
-1. 2x AV123 Rocket RS850
-1. AV123 Rocket RSC200
-1. 2x AV123 Rocket RS450 with risers
+1. Event 20/20
 1. Infinity RS-IIIb
 1. Infinity Reference One
 1. DCM TimeFrame TF-350
