@@ -5,7 +5,7 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have a bass extension similar to a 10” woofer tower speaker.
+If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 
 If you need a speaker for parties over 50 people you may want to look at real PA speakers instead like the QSC K12.2, EV EKX-12P, or for cheaper options the Yamaha DBR12 or EV ZLX12, possibly with 18” subs if you need bass deeper than 50hz, see [this](https://www.reddit.com/r/WirelessSpeakers/comments/18tfi5l/portable_speakers_for_parties_over_50_people/).
 
