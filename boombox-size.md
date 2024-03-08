@@ -345,7 +345,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Aux Latency: 16ms
     - Power Bank: Yes
     - Aux In: Yes
-    - MIcroSD: Yes
+    - MicroSD: Yes
     - App: Yes
     - EQ: Yes
     - Charging: AC Power brick
@@ -361,12 +361,23 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Weight: 11.2lbs / 5.1kg
     - Battery Life: 10 hours
     - Aux In: Yes
-    - MIcroSD: Yes
+    - MicroSD: Yes
     - Power Bank: Yes
     - IP Rating: IPX6
     - Comparisons
         - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
         - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
+1. [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325): $125
+    - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
+    - Negatives: Not quite as deep bass as the top ranked speakers.
+    - Max Volume: 104db
+    - Bass Extension: ~47hz
+    - Weight: 15.8lbs / 7.1kg
+    - Battery Life: 9 hours
+    - Aux In: yes
+    - MicroSD: Yes
+    - Power Bank: Yes
+    - USB Playback: Yes
 21. Teufel Boomster NG (2017): €99
     - Positives: Pretty neutral sound. Removable battery
     - Negatives: Not as deep bass as others in the category. Bass port can make noise
@@ -545,7 +556,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Latency 150ms
     - Aux Latency: 0ms
     - Aux In: Yes
-    - MIcroSD: Yes
+    - MicroSD: Yes
     - Power Bank: Yes
     - IP Rating: None
     - TWS: Yes
@@ -623,7 +634,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Weight: 7.4lbs / 3.3kg
     - Battery Life: 42 hours
     - Aux In: Yes
-    - MIcroSD: Yes
+    - MicroSD: Yes
     - Power Bank: Yes
     - IP Rating: IPX6
     - Comparisons
@@ -635,7 +646,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Weight: 7.4lbs / 3.3kg
     - Battery Life: 42 hours
     - Aux In: Yes
-    - MIcroSD: Yes
+    - MicroSD: Yes
     - Power Bank: Yes
     - IP Rating: IPX6
     - Comparisons
@@ -714,7 +725,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - Bass Extension: ~65hz
     - Battery Life: 25 hours
     - Aux In: Yes
-    - MIcroSD: Yes
+    - MicroSD: Yes
     - Comparisons
         - <https://youtu.be/y9aCDZW6I_8?t=392>
         - <https://www.youtube.com/watch?v=tFuilFzXh0Y>
