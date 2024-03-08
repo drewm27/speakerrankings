@@ -63,7 +63,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     - Comparisons
         - <https://www.youtube.com/watch?v=dKyluqQNX5s>
 4. [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325): $400
-    - Positives: Generally regarded as the best midrange and treble sound quality of any battery powered bluetooth speaker.
+    - Positives: Generally regarded as the best midrange and treble sound quality of any battery powered Bluetooth speaker.
     - Negatives: Would be #1 if it wasn’t for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. No TWS.
     - Bass Extension: 48hz
     - Weight: 3.1lbs / 1.4kg
@@ -86,7 +86,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.patreon.com/posts/soundcore-motion-94933573>
 5. [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325): $100
     - Positives: A really neutral frequency response across the midrange. Best in class bass extension. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifa.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn’t very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
-    - Negatives: No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn’t textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
+    - Negatives: No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn’t textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
     - Max Volume: 106db
     - Bass Extension: 45hz
     - Weight: 3.42lbs / 1.55kg
@@ -104,6 +104,20 @@ A good balance between bigger travel size, small party size and reasonable weigh
         - <https://www.youtube.com/watch?v=nK-6sdRuTR4>
     - Links
         - <https://www.diysubwoofers.org/projects/other/BT/Wildbox/>
+1. [Soundcore Motion Boom 2](soundcore.sjv.io/vNk6PW): $130
+    - Positives: Quite deep bass for the size, it sounds like it's as deep as the Mifa Wildbox. Cool lights in the side passive radiators.
+    - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Some frequency response issues and I will revisit this speaker when I get better sound samples a good EQ tune, and comparisons with it.
+    - Battery Life: 24 hours
+    - Aux In: No
+    - MicroSD: No
+    - Power Bank: Yes
+    - App: Yes
+    - EQ: yes
+    - TWS: Yes
+    - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
+    - Comparisons
+        - <https://www.youtube.com/watch?v=-zdbjsl730U>
+        - <https://www.youtube.com/watch?v=AU3Xvf5JyQY>
 6. [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325): $200
     - Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.
     - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
