@@ -5,8 +5,6 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-## Information about the rankings
-
 **Note:** If you are not an audiophile or aren’t interested in speakers that can reproduce recordings and musical instruments to a high level of natural accuracy, then you may not agree with the ranking order in this document. Pop or EDM will generally sound fine with a lot of speakers. If you want to determine which speakers are truly great, use Jazz or Classical music and listen to how natural the instruments sound. If you are only interested in bass boosted, treble boosted, or warm speakers, please search the descriptions of speakers for that trait or look for the ones with an adjustable EQ.
 
 To the average non-audiophile, generally speakers in the top 1/3 of each category will likely sound “good” to you. Don’t be afraid to pick one of those if you have budget or aesthetic priorities. There’s a lot of good speakers out there.
