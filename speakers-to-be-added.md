@@ -9,7 +9,6 @@ I plan to get around to these as soon as I have some time and there are good sou
 
 1. Klipsch KMC3 
 1. Wise tiger P3
-1. Soundcore Motion 100
 1. Soundcore X500
 1. Audio Pro
 1. [IKMultimedia iLoud](https://www.ikmultimedia.com/products/iloud/)

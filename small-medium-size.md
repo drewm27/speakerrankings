@@ -544,7 +544,14 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=mqqE0rqYLNQ>
 
-### #28 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325): $90
+### #28 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325): $47
+- Negatives: Not very deep bass, slight distortion
+- Bass Extension: 65hz
+- IP Rating: IPX7
+- Comparisons
+    - <https://www.patreon.com/posts/soundcore-motion-94092689>
+
+### #29 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325): $90
 
 - Negatives: Bottom woofer was fixed in a later firmware, upgrade for best sound. Peaky mids, highs rolled off. Not technically a 360 speaker, only front and rear.
 - Max Volume: 99db
@@ -558,7 +565,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=Vm3kFL36Sq8>
     - <https://www.youtube.com/watch?v=fuB9IRTKs9Y>
 
-### #29 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325): $250
+### #30 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325): $250
 
 - Positives: Cool light show, although not synced to the music like the Pulse 2.
 - Negatives: Not quite as deep bass as others. Plastic scratches easily.
@@ -569,14 +576,14 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
 
-### #30 [Soundcore Glow](http://soundcore.sjv.io/Y9PLAr) ([or on Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)): $80 after $20 coupon
+### #31 [Soundcore Glow](http://soundcore.sjv.io/Y9PLAr) ([or on Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)): $80 after $20 coupon
 
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
 - Bass Extension: 54hz
 - Comparisons
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
 
-### #31 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325): $64
+### #32 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325): $64
 
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
 - Battery life: 24 hours
@@ -585,7 +592,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=kDib9gjeaPQ>
     - <https://www.youtube.com/watch?v=3zEtJi4u-F8>
 
-### #32 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325): $300
+### #33 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325): $300
 
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble. Only IP55.
 - Weight: 2lbs / 0.91kg
@@ -598,7 +605,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=Jvn9ZkYykF4>
     - <https://www.youtube.com/watch?v=R0G2r9e6y4Y>
 
-### #33 Bose Soundlink Revolve+: $230
+### #34 Bose Soundlink Revolve+: $230
 
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
 - Bass Extension: 56hz
@@ -615,7 +622,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=dP36vzF-ykY>
     - <https://www.youtube.com/watch?v=Fi1x6UuIkI4>
 
-### #34 Tronsmart Element Force: $66
+### #35 Tronsmart Element Force: $66
 
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Max Volume: 98db
@@ -627,7 +634,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=1btEBiXCEF0>
 
-### #35 Bose Soundlink Revolve: $180
+### #36 Bose Soundlink Revolve: $180
 
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
 - Bass Extension: 60hz
@@ -646,7 +653,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=Fi1x6UuIkI4>
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>
 
-### #36 [Tribit Stormbox Flow](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325): $60
+### #37 [Tribit Stormbox Flow](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325): $60
 
 - Negatives: Not stereo. Midrange and bass are weirdly recessed about 4db below 700hz. You need xbass mode for it to not sound like a clock radio with missing bass. You also can't turn up the bass enough in the custom EQ modes to get it neutral, so it will sound bass light. Firmware 1.2.3 fixes the distortion issues with xbass mode on, but bass still sounds wobbly and uncontrolled.
 - Bass Extension: 47hz
@@ -665,7 +672,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.patreon.com/posts/tribit-stormbox-92447387>
     - <https://www.patreon.com/posts/tribit-stormbox-90484533>
 
-### #37 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325): $85
+### #38 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325): $85
 
 - Negatives: Not stereo. 1 Oval driver. Boosted bass, top a little rolled off, warm sound. Not as loud as a Charge 3.
 - Max Volume: 99db
@@ -689,7 +696,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=07qu_39HjyU>
     - <https://www.youtube.com/watch?v=R9rJuAYwVw0>
 
-### #38 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325): $36
+### #39 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325): $36
 
 - Positives: Use bass model for flattest response. Pretty deep bass for the money.
 - Negatives: Peaks in the upper mids, low treble and a big peak in upper treble.
@@ -703,7 +710,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
     - <https://www.youtube.com/watch?v=SmRn6b0rhzU>
 
-### #39 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325): $38
+### #40 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325): $38
 
 - Negatives: Not stereo. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Max Volume: 96db
@@ -713,7 +720,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=gmrcrkY_Zck>
 
-### #40 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325): $50
+### #41 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325): $50
 
 - Negatives: A little less bass than similar size speakers.
 - Max Volume: 99db
@@ -731,7 +738,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/anker/soundcore-3>
 
-### #41 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325): $200
+### #42 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325): $200
 
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Bass Extension: ~58hz
@@ -745,7 +752,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
     - <https://www.youtube.com/watch?v=mQRhBbxKY4o>
 
-### #42 Bose Soundlink Mini: $150
+### #43 Bose Soundlink Mini: $150
 
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Bass Extension: ~58hz
@@ -760,7 +767,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=7pEh5c5o74s>
     - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
 
-### #43 [Xiaomi Mi Portable](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325): $55
+### #44 [Xiaomi Mi Portable](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325): $55
 
 - Negatives: A bit of a sharp treble
 - Weight: 0.82lbs / 373g
@@ -768,7 +775,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=TF748bXDjIs>
 
-### #44 Sony XB33: $110
+### #45 Sony XB33: $110
 
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
 - Max Volume: 97db
@@ -787,7 +794,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xb33>
 
-### #45 Creative iRoar Go: $83
+### #46 Creative iRoar Go: $83
 
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
@@ -799,7 +806,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=-nn6jz8CLnI>
     - <https://www.youtube.com/watch?v=AEVRp_Un5gk>
 
-### #46 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325): $90
+### #47 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325): $90
 
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.
 - Max Volume: 92db
@@ -815,7 +822,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/flip-5>
 
-### #47 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325): $70
+### #48 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325): $70
 
 - Positives: Less bass than a Flip 5. Peaky lower treble.
 - Negatives: Battery failures are common.
@@ -836,7 +843,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/flip-4>
 
-### #48 Sony XB23: $100
+### #49 Sony XB23: $100
 
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
@@ -850,7 +857,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=MeQ5llKSqvc>
     - <https://www.youtube.com/watch?v=IyCRwXBO26Y>
 
-### #49 JBL Flip Essential: $130
+### #50 JBL Flip Essential: $130
 
 - Negatives: Less bass than a Flip 5.
 - Weight: ‎1.04lbs / 471g
@@ -861,7 +868,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=SpGb12ZyC1w>
 
-### #50 JBL Charge 3: $80
+### #51 JBL Charge 3: $80
 
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Max Volume: 100db
@@ -882,7 +889,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://youtu.be/Cze7m5DDJ7o>
     - <https://youtu.be/yiwtSAiu6d8>
 
-### #51 JBL Charge Essential: $180
+### #52 JBL Charge Essential: $180
 
 - Negatives: Less clarity than the Flip 4, highs rolled off. An overpriced rebranded Charge 3 for people who want stereo sound.
 - Weight 1.7lbs / 770g
@@ -896,7 +903,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=KAen9xhQiPc>
     - <https://www.youtube.com/watch?v=gnjcKKYf7xs>
 
-### #52 JBL Charge 2
+### #53 JBL Charge 2
 
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
@@ -910,7 +917,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://youtu.be/LXlkfpHZYzQ>
     - <https://youtu.be/tSOxKbWf8OY>
 
-### #53 Tribit Xsound Plus 2
+### #54 Tribit Xsound Plus 2
 
 - Negatives: Boosted treble, boosted bass. Bass is slappy and distorted
 - Battery Life: 24 hours
@@ -918,7 +925,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.patreon.com/posts/tribit-xsound-2-99145415>
 
-### #54 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325): $160
+### #55 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325): $160
 
 - Positives: Very neutral.
 - Negatives: Not stereo. Gets distorted if you turn up the bass.
@@ -934,7 +941,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/sonos/roam>
 
-### #55 Tribit Xsound Go: $37
+### #56 Tribit Xsound Go: $37
 
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
@@ -948,7 +955,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=SSla-paxi14>
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 
-### #56 Tribit Xsound Surf: $26
+### #57 Tribit Xsound Surf: $26
 
 - Negatives: Bass doesn't go as deep as others, strange midrange peaks
 - Weight: 0.97lbs / 440g
@@ -958,7 +965,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
 
-### #57 Soundcore 2: $30
+### #58 Soundcore 2: $30
 
 - Negatives: Bass doesn't go as deep as others
 - Weight: 0.70lbs / 318g
@@ -968,7 +975,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
     - <https://www.youtube.com/watch?v=bLi4fsS23Do>
 
-### #58 Klipsch Groove/Heritage Groove: $120
+### #59 Klipsch Groove/Heritage Groove: $120
 
 - Positives: Pretty balanced sound.
 - Negatives: Not stereo. Bass doesn't go as deep as others its size. Gets distorted at higher levels. Wouldn't generally recommend these old speakers as they can't compete with modern speakers for bass performance and features.
@@ -982,7 +989,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=V1pufWw-lrg>
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
 
-### #59 Sony SRS-XE300: $150
+### #60 Sony SRS-XE300: $150
 
 - Negatives: Muffled sounding, not very deep bass. Hollow sounding. Worse than a XB43
 - Weight: Weight: 2.86lbs / 1.3kg
@@ -994,7 +1001,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
     - <https://www.youtube.com/watch?v=frYrfHKWJvw>
 
-### #60 Tribit Stormbox: $55
+### #61 Tribit Stormbox: $55
 
 - Negatives: Muffled sounding, treble dips from 5khz-12khz. Listening from the front is the worst frequency response, lay it down facing up with xbass off for the smoothest response. Not technically a 360 speaker, only front and rear.
 - Max Volume: 97db
@@ -1008,7 +1015,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=AeaMQ3DR_hE>
     - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
 
-### #61 Sony SRS-XB20
+### #62 Sony SRS-XB20
 
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.
 - Weight: 1.3lbs / 590g
@@ -1019,7 +1026,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - <https://www.youtube.com/watch?v=_5f6b-5wI98>
 
-### #62 Tronsmart T7: $50
+### #63 Tronsmart T7: $50
 
 - Negatives: Peaky in the upper mids and in the mid treble. Worse bass extension than similar size speakers
 - Weight: 1.91lbs / 870g
@@ -1028,14 +1035,14 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=PJEEGkFTfOU>
 
-### #63 Raymate R5: $29
+### #64 Raymate R5: $29
 
 - Negatives: Not much bass, peaky upper mids
 - Battery Life: 16 hours
 - Comparisons
     - <https://www.youtube.com/watch?v=ZInN26jI13M>
 
-### #64 Bose SoundLink Color II
+### #65 Bose SoundLink Color II
 
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble
 - Weight 1.3lbs / 600g
@@ -1050,7 +1057,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://youtu.be/k95hOULIPRI>
     - <https://youtu.be/de0ZwpbXYAc>
 
-### #65 Marshall Emberton II: $170
+### #66 Marshall Emberton II: $170
 
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud.
 - Max Volume: 88db
@@ -1068,7 +1075,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/marshall/emberton-ii>
 
-### #66 Hifuture Soundpro
+### #67 Hifuture Soundpro
 
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight 1.1lbs / 500g
@@ -1076,7 +1083,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=tmDMlOdPc8w>
     - <https://www.youtube.com/watch?v=VM3SggT4ANw>
 
-### #67 Teufel Rockster Go: €83.00
+### #68 Teufel Rockster Go: €83.00
 
 - Negatives: Rolled off treble, muffled sound, mids sound strange. Bass not very deep. Only available in Europe.
 - Weight: 1.54lbs / 700g
@@ -1086,7 +1093,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=dHRkJTQ9nmw>
 
-### #68 Sony SRS-XB30
+### #69 Sony SRS-XB30
 
 - Negatives: Muffled sound, worse than a XB20
 - Max Volume: 95db
@@ -1098,7 +1105,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
 
-### #69 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325): $80
+### #70 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325): $80
 
 - Positives: Try Alan Ross's EQ for it here <https://ibb.co/q9mcNk1>
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
@@ -1117,7 +1124,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/anker/soundcore-flare-2>
 
-### #70 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
+### #71 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
 
 - Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
 - Max Volume: 98db
@@ -1132,7 +1139,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/megaboom-3>
 
-### #71 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325): $72
+### #72 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325): $72
 
 - Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
 - Max Volume: 87db
@@ -1149,7 +1156,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/wonderboom-3>
 
-### #72 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325): $80
+### #73 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325): $80
 
 - Negatives: Not stereo, barely any bass, recessed treble. Slightly boosted 93hz upper bass Dip at 9khz. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2019. Not technically a 360 speaker, only front and rear.
 - Max Volume: 88db
@@ -1163,7 +1170,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/wonderboom-2>
 
-### #73 Ultimate Ears Wonderboom:
+### #74 Ultimate Ears Wonderboom:
 
 - Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
 - Weight: 0.94lbs / 425g
@@ -1175,7 +1182,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
 
-### #74 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325): $113
+### #75 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325): $113
 
 - Negatives: Not stereo, barely any bass, recessed treble. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2021. Lots of mentions of failing batteries on amazon. Not technically a 360 speaker, only front and rear.
 - Max Volume: 87db
@@ -1189,7 +1196,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/boom-3>
 
-### #75 W-King D8 Mini: $60
+### #76 W-King D8 Mini: $60
 
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Max Volume: 100db
@@ -1202,13 +1209,13 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=NFeCO7GLgA0>
     - <https://www.youtube.com/watch?v=KgMDRxajEZw>
 
-### #76 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325): $36
+### #77 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325): $36
 
 - Negatives: Quite a bit of bass distortion thudding as you turn the volume up. Bass not that deep. The Tozo PA1 totally outclasses it.
 - Comparisons
     - <https://www.youtube.com/watch?v=FyPCrI3jz1Y>
 
-### #77 TDK A33
+### #78 TDK A33
 
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Bass Extension: ~72hz
@@ -1221,7 +1228,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=zHKapeBRfJw>
     - <https://www.youtube.com/watch?v=kuOeIek7F8U>
 
-### #78 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325): $147
+### #79 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325): $147
 
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.
 - Max Volume: 91db
@@ -1231,7 +1238,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 
-### #79 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325): $97
+### #80 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325): $97
 
 - Negatives: Sounds hollow. Very muffled. Rolled off treble, weird midrange boost, just not great overall. Worse than a XB33.
 - Weight: 1.76lbs / 800g
@@ -1242,7 +1249,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=Hy4zdIT9J60>
     - <https://www.youtube.com/watch?v=da-yS5OCQ48>
 
-### #80 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325): $100
+### #81 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325): $100
 
 - Negatives: Barely any bass. 14khz peak, bright on top. Soundboost mode makes the top end even harsher.
 - Max Volume: 100db
@@ -1253,14 +1260,14 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=GbiUY9bdv7g>
 
-### #81 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325): $90
+### #82 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325): $90
 
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 18 hours
 - Comparisons
     - <https://www.youtube.com/watch?v=o0ZgBxwlNE4>
 
-### #82 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325): $32
+### #83 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325): $32
 
 - Negatives: Hugely lacking bass compared to similar size speakers. Sounds hollow and thuddy with frequency dips in the midrange.
 - Weight: 1.38lbs / 630g
@@ -1269,21 +1276,21 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=S03_X1Vrm9U>
 
-### #83 Harman Kardon Esquire 2: $200
+### #84 Harman Kardon Esquire 2: $200
 
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
 - Comparisons
     - <https://www.youtube.com/watch?v=HXhIh7a-vE0>
 
-### #84 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325): $36
+### #85 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325): $36
 
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
 - Comparisons
     - <https://www.youtube.com/watch?v=ZInN26jI13M>
 
-### #85 Xdobo X8: $35
+### #86 Xdobo X8: $35
 
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Bass Extension: ~65hz
@@ -1295,7 +1302,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=DTgp-xGDzvw>
     - <https://www.youtube.com/watch?v=0_ZOX8rFK6c>
 
-### #86 Xiaomi Mi Outdoor
+### #87 Xiaomi Mi Outdoor
 
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
@@ -1304,7 +1311,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=2xDcb8j9x5M>
     - <https://www.youtube.com/watch?v=YR5qkcPg_i4>
 
-### #87 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325): $34
+### #88 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325): $34
 
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Bass Extension: ~64hz
@@ -1313,7 +1320,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - 1. <https://www.youtube.com/watch?v=8uqI1pxHeVM>
 
-### #88 [Oontz Angle 3](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) Ultra: $40
+### #89 [Oontz Angle 3](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) Ultra: $40
 
 - Negatives: Very little bass with horrible upper bass thud at higher levels
 - Max Volume: 86db
@@ -1325,7 +1332,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/oontz/angle-3-ultra>
 
-### #89 Ultimate Ears Roll 2: $100
+### #90 Ultimate Ears Roll 2: $100
 
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Weight: 0.73lbs / 330g
@@ -1333,7 +1340,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=SSla-paxi14>
 
-### #90 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325): $50
+### #91 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325): $50
 
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Bass Extension: ~90hz
@@ -1346,14 +1353,14 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=tbd1-9CAnYw>
 
-### #91 EFM Toledo
+### #92 EFM Toledo
 
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
 - Comparisons
     - <https://www.youtube.com/watch?v=SmF_9L5FM7w>
 
-### #92 Beats Pill+: $230
+### #93 Beats Pill+: $230
 
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - Bass Extension: 90hz
@@ -1363,14 +1370,14 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/beats/pill-plus>
 
-### #93 Skullcandy Terrain XT: $80
+### #94 Skullcandy Terrain XT: $80
 
 - Negatives: No bass, very rolled off treble. Just doesn't sound good
 - Battery Life: 14 hours
 - Comparisons
     - <https://www.youtube.com/watch?v=368gHYvN-QQ>
 
-### #94 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
+### #95 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
 
 - Negatives: Barely any bass
 - Weight: 1.23lbs / 558g
@@ -1380,7 +1387,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparison
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
 
-### #95 Doss Soundbox
+### #96 Doss Soundbox
 
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Bass Extension: 140hz
@@ -1391,7 +1398,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
 
-### #96 Doss E–Go II
+### #97 Doss E–Go II
 
 - Negatives: Horribly bad unless turned up, still not great
 - Bass Extension: 120hz
@@ -1401,7 +1408,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
 
-### #97 Oontz Angle 3: $26
+### #98 Oontz Angle 3: $26
 
 - Negatives: Very harsh treble, no bass.
 - Max Volume: 89db
@@ -1414,7 +1421,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.rtings.com/speaker/reviews/oontz/angle-3>
 
-### #98 Altec Lansing Lifejacket 2/ Lifejacket 3: $34
+### #99 Altec Lansing Lifejacket 2/ Lifejacket 3: $34
 
 - Negatives: Barely any bass, “pathetic sounding” said Jay's Reviews. Gets distorted with a lot of bass. The entire Altec Lansing Bluetooth speaker line likely also sounds similarly bad.
 - Weight: 2.7lbs / 1.22kg
@@ -1426,7 +1433,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=YkqfKLSgvfQ>
     - <https://www.youtube.com/watch?v=_5f6b-5wI98>
 
-### #99 Limitless Innovations TikiTunes: $40
+### #100 Limitless Innovations TikiTunes: $40
 
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad
 - Weight: 0.7lbs / 0.3kg
