@@ -2,7 +2,9 @@
 
 import os
 import re
+from datetime import datetime
 
+current_datetime = datetime.now()
 regex = re.compile('[0-9][0-9][0-9]*')
 total = 0
 for file in os.listdir():
@@ -31,4 +33,7 @@ with open('index.md', 'w') as f:
     for line in lines:
         if line.startswith('I'):
             line = re.sub(regex, str(total), line)
+        if line.startswith('Last updated '):
+            date = current_datetime.strftime("%m/%d/%Y")
+            line = 'Last updated ' + date + '\n'
         f.write(line)
