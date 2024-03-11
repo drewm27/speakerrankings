@@ -656,7 +656,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
 - Comparisons
     - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
 
-### #41 Rockville Rock Party 6: $100
+### #41 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
 
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids

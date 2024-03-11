@@ -670,7 +670,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Comparisons
     - <https://www.youtube.com/watch?v=o8DaGePVQzQ>
 
-### #38 Gemini GGO-650L: $100
+### #38 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325): $84
 
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
@@ -801,7 +801,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Links
     - <https://www.rtings.com/speaker/reviews/monster/rockin-roller-270x>
 
-### #48 Altec Lansing Rockbox XL 2.0: $160
+### #48 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325): $160
 
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
 - Weight: 12.6 lbs / 5.7kg
