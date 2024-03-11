@@ -88,7 +88,27 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-encore-essential>
 
-### #4 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
+### #4 Aiwa Exos-9: $250
+
+- Positives: Still a great sounding speaker even against today's models.
+- Negatives: Features are lacking, generally not recommended anymore, not sold new anymore.
+- Bass Extension: 44hz
+- Weight: 15.3lbs / 6.9kg
+- Battery Life: 10 hours
+- Aux In: Yes
+- Charging: AC Power cable
+- IP Rating: None
+- TWS: No
+- Party Mode: No
+- Comparisons
+    - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
+    - <https://www.youtube.com/watch?v=1gD1spoV-g0>
+    - <https://www.youtube.com/watch?v=aARmhttq85o>
+    - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
+    - <https://www.youtube.com/watch?v=EaFtQNoYeKg>
+    - <https://www.youtube.com/watch?v=QMvDPqHhA-4>
+
+### #5 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others.
@@ -110,7 +130,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - <https://www.youtube.com/watch?v=hlumnEy0Ufg>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 
-### #5 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
+### #6 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
 
 - Positives: Warm sound with boosted bass. Quite deep bass
 - Negatives: Not as loud as others.
@@ -126,7 +146,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Comparisons
     - <https://www.youtube.com/watch?v=BwuzsGckzos>
 
-### #6 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325): $130
+### #7 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325): $130
 
 - Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
 - Negatives: 8 hour battery at medium volume. Not at loud as others.
@@ -151,7 +171,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Links
     - <https://www.rtings.com/speaker/reviews/harman-kardon/onyx-studio-6>
 
-### #7 Harman Kardon Citation 200: $130
+### #8 Harman Kardon Citation 200: $130
 
 - Positives: Deeper bass than any Onyx.
 - Negatives: Overly boomy by default, you will likely [want to turn the bass down](https://citationsupporthelp.freshdesk.com/en/support/solutions/articles/47001167869-citation-200-eq-adjust-bass-and-treble-level-). 8 hour battery at medium volume. IPX4. Not at loud as others
@@ -166,7 +186,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - <https://www.youtube.com/watch?v=EciHn8jHHdA>
     - <https://www.youtube.com/watch?v=nhXQE196GvQ>
 
-### #8 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Kardon-Bluetooth-Wireless-Portable-Speaker/dp/B09817FXSM/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1089fb69fc8ba7e92fb6908acaa61cb7&camp=1789&creative=9325): $142
+### #9 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Kardon-Bluetooth-Wireless-Portable-Speaker/dp/B09817FXSM/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1089fb69fc8ba7e92fb6908acaa61cb7&camp=1789&creative=9325): $142
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others.
@@ -190,7 +210,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 
-### #9 Harman Kardon Go+ Play 2: $350
+### #10 Harman Kardon Go+ Play 2: $350
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others.
@@ -205,7 +225,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Comparisons
     - <https://www.youtube.com/watch?v=BwuzsGckzos>
 
-### #10 Harman Kardon Onyx Studio 5:
+### #11 Harman Kardon Onyx Studio 5:
 
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
 - Weight: 6.6lbs / 3kg
@@ -220,7 +240,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 
-### #11 Harman Kardon Go+ Play Mini 2: $330
+### #12 Harman Kardon Go+ Play Mini 2: $330
 
 - Positives: Warm sound with boosted bass. Quite deep bass.
 - Negatives: Small battery, only 8 hours. Not as loud as other speakers.
@@ -237,26 +257,6 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
     - <https://www.youtube.com/watch?v=omJAluoakSs>
     - <https://www.youtube.com/watch?v=t4h1-_KqSfo>
     - <https://www.youtube.com/watch?v=NHVrFZKc5YM>
-
-### #12 Aiwa Exos-9: $250
-
-- Positives: Still a great sounding speaker even against today's models.
-- Negatives: Features are lacking, generally not recommended anymore, not sold new anymore.
-- Bass Extension: 44hz
-- Weight: 15.3lbs / 6.9kg
-- Battery Life: 10 hours
-- Aux In: Yes
-- Charging: AC Power cable
-- IP Rating: None
-- TWS: No
-- Party Mode: No
-- Comparisons
-    - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
-    - <https://www.youtube.com/watch?v=1gD1spoV-g0>
-    - <https://www.youtube.com/watch?v=aARmhttq85o>
-    - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
-    - <https://www.youtube.com/watch?v=EaFtQNoYeKg>
-    - <https://www.youtube.com/watch?v=QMvDPqHhA-4>
 
 ### #13 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325): $440
 
