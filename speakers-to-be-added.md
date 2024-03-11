@@ -8,7 +8,6 @@ comments: true
 I plan to get around to these as soon as I have some time and there are good sound samples around, stay tuned!
 
 1. Klipsch KMC3 
-1. W King T9 Pro
 1. Wise tiger P3
 1. Soundcore Motion 100
 1. Soundcore X500
