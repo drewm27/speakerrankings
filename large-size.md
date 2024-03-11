@@ -72,7 +72,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
 ### #4 [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325): $400
 
 - Positives: Generally regarded as the best midrange and treble sound quality of any battery powered Bluetooth speaker.
-- Negatives: Would be #1 if it wasn't for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. No TWS.
+- Negatives: Would be #1 if it wasn't for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price.
 - Bass Extension: 48hz
 - Weight: 3.1lbs / 1.4kg
 - Battery Life: 8 hours
