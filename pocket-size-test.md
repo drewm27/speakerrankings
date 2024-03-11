@@ -59,7 +59,7 @@ The pocket size class is in a very specific class. These speakers should only be
   - <https://www.youtube.com/watch?v=-THqGgH_Tu8>
   - <https://www.youtube.com/watch?v=7kydvk2xdtA>
 
-###  Minirig Mini: $100
+### #3 Minirig Mini: $100
 
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
@@ -80,7 +80,7 @@ The pocket size class is in a very specific class. These speakers should only be
   - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
   - <https://www.youtube.com/watch?v=jAdCutwAmd4>
 
-###  [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E): $40
+### #4 [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E): $40
 
 - Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper.
 - Max Volume: 93db
@@ -103,7 +103,7 @@ The pocket size class is in a very specific class. These speakers should only be
   - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
   - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
 
-###  Soundcore Mini 3 Pro: $40
+### #5 Soundcore Mini 3 Pro: $40
 
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
@@ -121,7 +121,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
 
-###  [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325): $41
+### #6 [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325): $41
 
 - Positives: Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
@@ -140,7 +140,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 
-###  [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
+### #7 [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
 
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn’t boost bass at low levels. Not that deep of bass. Only IPX4.
@@ -155,7 +155,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparison
   - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 
-###  [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
+### #8 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
 
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - Max Volume: 88db
@@ -178,7 +178,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Links
   - <https://www.rtings.com/speaker/reviews/marshall/willen>
 
-###  [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325): $99
+### #9 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325): $99
 
 - Negatives: Lack of clarity. Overly boosted bass
 - Max Volume: 90db
@@ -199,7 +199,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Links
   - <https://www.rtings.com/speaker/reviews/bose/soundlink-micro>
 
-###  [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325): $170
+### #10 [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325): $170
 
 - Negatives: Good for its time, but now beat out by many others
 - Weight: 0.61lbs / 275g
@@ -213,7 +213,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 
-###  [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325): $95
+### #11 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325): $95
 
 - Positives: Loudest pocket speaker by a little.
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
@@ -230,7 +230,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
 
-###  [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
+### #12 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
 
 - Negatives: Quite a lack of bass. Not very loud.
 - Max Volume: 79db
@@ -249,7 +249,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Links
   - <https://www.rtings.com/speaker/reviews/jbl/clip-4>
 
-###  [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
+### #13 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
 - Negatives: Not much bass at all, strange mids peak.
 - Max Volume: 88db
@@ -268,7 +268,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Links
   - <https://www.rtings.com/speaker/reviews/jbl/go-3>
 
-###  [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
+### #14 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.
 - Weight: 0.60lbs / 274g
@@ -284,7 +284,7 @@ The pocket size class is in a very specific class. These speakers should only be
   - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
   - <https://www.youtube.com/watch?v=EFB1Ut2EZMo>
 
-###  [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
+### #15 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Muddy sounding.
 - Max Volume: 88db
@@ -303,7 +303,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Links
   - <https://www.rtings.com/speaker/reviews/sony/srs-xb13>
 
-###  JBL Clip: $50
+### #16 JBL Clip: $50
 
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - Bass Extension: ~95hz
@@ -317,7 +317,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
-###  [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
+### #17 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
 
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
@@ -332,7 +332,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
-###  Xiaomi Mi Portable Outdoor
+### #18 Xiaomi Mi Portable Outdoor
 
 - Negatives: Not much bass, treble rolled off
 - Weight: 0.41lbs / 185g
@@ -343,7 +343,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=NwlwyofEYDM>
 
-###  Hopestar H54
+### #19 Hopestar H54
 
 - Negatives: Bright treble, not much bass, harsh mids
 - Battery Life: 5 hours
@@ -353,7 +353,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
 
-###  Sony SRS-XB12
+### #20 Sony SRS-XB12
 
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
@@ -372,7 +372,7 @@ The pocket size class is in a very specific class. These speakers should only be
   - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
   - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 
-###  Harman Kardon Esquire Mini 2: $100
+### #21 Harman Kardon Esquire Mini 2: $100
 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - Battery Life: 10 hours
@@ -383,7 +383,7 @@ The pocket size class is in a very specific class. These speakers should only be
   - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
   - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
 
-###  Harman Kardon Neo: $90
+### #22 Harman Kardon Neo: $90
 
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
@@ -394,7 +394,7 @@ The pocket size class is in a very specific class. These speakers should only be
 - Comparisons
   - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
 
-###  Lenovo 700: $85
+### #23 Lenovo 700: $85
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
