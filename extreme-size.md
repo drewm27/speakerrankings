@@ -410,7 +410,16 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
     - <https://www.patreon.com/posts/audiocase-s10-92786890>
 
-### #22 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
+### #22 W-King T9 Pro
+
+- Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
+- Battery Life: 12 hours
+- Aux In: Yes
+- USB Playback: Yes
+- Comparisons
+    - <https://www.youtube.com/watch?v=8dZz7MJRAAo>
+
+### #23 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
 
 - Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
 - Bass Extension: ~45hz
@@ -422,7 +431,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=U6Sec5_16x4>
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
 
-### #23 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
+### #24 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
 
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
 - Bass Extension: ~47hz
@@ -435,7 +444,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=K3350eIvszw>
     - <https://www.youtube.com/watch?v=qnya_6ew1e4>
 
-### #24 Marshall Woburn I: $500
+### #25 Marshall Woburn I: $500
 
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - Bass Extension: ~50hz
@@ -447,7 +456,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
     - <https://www.youtube.com/watch?v=K3350eIvszw>
 
-### #25 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
+### #26 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
 
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - Weight 17.6lbs / 8kg
@@ -458,7 +467,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
     - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
 
-### #26 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
+### #27 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 94db
@@ -473,7 +482,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
-### #27 B&O Beosound 1: $2000
+### #28 B&O Beosound 1: $2000
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 91db
@@ -486,7 +495,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
-### #28 Diamondboxx L2: $1000
+### #29 Diamondboxx L2: $1000
 
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
 - Weight: 25lbs / 11kg
@@ -498,7 +507,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=epgx0THKpL8>
     - <https://www.youtube.com/watch?v=zjpNEBJDq_U>
 
-### #29 dB technologies B-Hype M: $450
+### #30 dB technologies B-Hype M: $450
 
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - Bass Extension: 62hz
@@ -511,7 +520,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=GTqpcjfd3Fo>
     - <https://www.youtube.com/watch?v=YB4CxTDP1rE>
 
-### #30 Onn Large Party gen 1: $100
+### #31 Onn Large Party gen 1: $100
 
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - Bass Extension: ~60hz
@@ -526,7 +535,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=BzQL3DqcFss>
 
-### #31 Philips NX200
+### #32 Philips NX200
 
 - Negatives: No deep bass, mids are a little harsh
 - Bass Extension: ~55hz
@@ -538,7 +547,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=O6SWv8lnpCI>
     - <https://www.youtube.com/watch?v=rMX9Y-OpNoc>
 
-### #32 Panasonic SC-TMAX10
+### #33 Panasonic SC-TMAX10
 
 - Negatives: Not as deep bass as others in the class
 - Weight: 22.5lbs / 10.2kg
@@ -550,7 +559,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
 - Comparisons
     - <https://www.youtube.com/watch?v=UrgQkhzAe0U>
 
-### #33 Panasonic SC-TMAX5
+### #34 Panasonic SC-TMAX5
 
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
@@ -563,7 +572,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=_jlJnhPyALs>
     - <https://www.youtube.com/watch?v=dXoD0Yv_iLM>
 
-### #34 Sharp PS-929: $150
+### #35 Sharp PS-929: $150
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz
@@ -572,7 +581,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
 - Comparisons
     - <https://www.youtube.com/watch?v=uiRxrnvyvCw>
 
-### #35 Soundcore Rave+: $240
+### #36 Soundcore Rave+: $240
 
 - Negatives: Pretty big lack of deep bass
 - Bass Extension: ~60hz
@@ -585,7 +594,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=ZjQIvZByyns>
 
-### #36 Soundcore Rave: $220
+### #37 Soundcore Rave: $220
 
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - Bass Extension: ~60hz
@@ -597,7 +606,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
 - Comparisons
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
 
-### #37 Sony GTK-XB90
+### #38 Sony GTK-XB90
 
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~50hz
@@ -612,7 +621,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
     - <https://www.youtube.com/watch?v=NaOdsSNUfl8>
 
-### #38 Sony GTK-XB72
+### #39 Sony GTK-XB72
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~56hz
@@ -626,7 +635,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
 - Comparisons
     - <https://www.youtube.com/watch?v=qY0Cdd2QJTU>
 
-### #39 Sony GTK-XB60
+### #40 Sony GTK-XB60
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~60hz
@@ -642,7 +651,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
     - <https://www.youtube.com/watch?v=Cg2DNPOA8AA>
 
-### #40 Altec Lansing AL500: $200
+### #41 Altec Lansing AL500: $200
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz
@@ -656,7 +665,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
 - Comparisons
     - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
 
-### #41 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
+### #42 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
 
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
