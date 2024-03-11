@@ -1276,7 +1276,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=HXhIh7a-vE0>
 
-### #84 Raymate S7: $29
+### #84 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325): $36
 
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
@@ -1304,7 +1304,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.youtube.com/watch?v=2xDcb8j9x5M>
     - <https://www.youtube.com/watch?v=YR5qkcPg_i4>
 
-### #87 Ortizan X10: $34
+### #87 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325): $34
 
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Bass Extension: ~64hz
@@ -1313,7 +1313,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - 1. <https://www.youtube.com/watch?v=8uqI1pxHeVM>
 
-### #88 Oontz Angle 3 Ultra: $40
+### #88 [Oontz Angle 3](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) Ultra: $40
 
 - Negatives: Very little bass with horrible upper bass thud at higher levels
 - Max Volume: 86db
@@ -1333,7 +1333,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=SSla-paxi14>
 
-### #90 Walla Sound: $50
+### #90 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325): $50
 
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Bass Extension: ~90hz
@@ -1370,7 +1370,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=368gHYvN-QQ>
 
-### #94 Doss Soundbox Pro
+### #94 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
 
 - Negatives: Barely any bass
 - Weight: 1.23lbs / 558g
