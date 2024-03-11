@@ -410,7 +410,7 @@ If you need a speaker for parties over 50 people you may want to look at real PA
     - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
     - <https://www.patreon.com/posts/audiocase-s10-92786890>
 
-### #22 W-King T9 Pro
+### #22 W-King T9 Pro: $280
 
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - Battery Life: 12 hours
