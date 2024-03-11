@@ -390,6 +390,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     - <https://www.youtube.com/watch?v=urmp76qTSlE>
     - <https://www.patreon.com/posts/jbl-xtreme-4-99560848>
     - <https://www.patreon.com/posts/jbl-xtreme-4-98947429>
+    - <https://www.patreon.com/posts/jbl-xtreme-4-vs-99980591>
     - <https://www.youtube.com/watch?v=MtCDfPVxV08>
 
 ### #22 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325): $103
