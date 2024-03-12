@@ -23,5 +23,5 @@ The best big party battery powered speaker with excellent sound quality and very
 
 The absolute loudest battery powered speaker is the [**€950** **Teufel Rockster**](https://lu.teufelaudio.com/rockster-105575000) (EU only) followed by the [**$699 Soundboks gen 3**](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325) and [**$1000** **Soundboks gen 4**](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d8e3acbd00af8e80b58bebcf3eea6ebe&camp=1789&creative=9325) 
 
-If you need even louder than these, see [this page](portable-party-speakers) and pick up a portable power station for battery use
+If you need even louder than these, see [this page](/portable-party-speakers/) and pick up a portable power station for battery use
 
