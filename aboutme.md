@@ -7,6 +7,10 @@ title: About Me
 
 I've been in ultra high end audio myself for at least 20 years now and even grew up around high end systems my father owned all throughout the 1980s starting with some Sansui electronics, Infinity RS IIIb and DCM Timeframe speakers. Have listened to countless systems up to 7 figures at high end audio shows including [RMAF](https://www.facebook.com/RockyMountainAudioFest/) and [California Audio Show](https://www.caaudioshow.com/) and owned a lot of different 5 figure systems over the years. I have a few audio systems, plus all my personal [Bluetooth speakers](https://www.reddit.com/r/Bluetooth_Speakers/comments/xrmbv1/when_you_have_a_bluetooth_speaker_addiction_my/)
 
+I've also been to headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) far better than I could put together, otherwise I'd consider doing it. I've built and designed speakers and have dabbled in crossover, driver and enclosure design. At previous companies have done their livesound setups and have worked with mostly QSC gear. I'm also very familiar with most of the livesound speakers and have demoed or used nearly everything on the market.
+
+My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. I run only Linux on all my main computers and have been doing so since 1997.
+
 ###### My headphone collection includes
 1. [Sennheiser HD 6xx (Sennheiser HD650)](https://www.amazon.com/Sennheiser-HD-650-Professional-Headphone/dp/B00018MSNI/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e101e3168afc0133d8a2e8309182ef8b&camp=1789&creative=9325)
 1. Hifiman HE-400i
@@ -47,10 +51,8 @@ I've been in ultra high end audio myself for at least 20 years now and even grew
 1. Infinity Reference One
 1. DCM TimeFrame TF-350
 
-I've also been to a few headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) far better than I could put together, otherwise I'd consider doing it.
-<br/>I've built and designed speakers and have dabbled in crossover, driver and enclosure design.
 
-My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. I run only Linux on all my main computers and have been doing so since 1997.
+
 
 Thanks,
 
