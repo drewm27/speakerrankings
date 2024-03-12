@@ -5,8 +5,6 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-Just wanted to get my knowledge down in a post so I can pin it to the side bar of useful articles.
-
 Speakers like the JBL Partybox 310 although they will play deeper just won't have the output needed for larger areas especially outdoors, so these are the best suggestions for extremely loud speakers.
 
 If you absolutely can't live without an internal battery and need the loudest speaker possible, you'll be limited to the [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) (EU only) or the [Soundboks Gen 3/4](https://soundboks.com/products/speakers/soundboks-4) (126db peak). [Here they are compared](https://youtu.be/h_LMN0-o9VI)
