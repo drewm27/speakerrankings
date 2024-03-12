@@ -25,7 +25,7 @@ If you need bass deeper than 45hz at a 10db rolloff you'll likely want to add on
 
 Some reasonable cheaper subwoofer options are the [EV ELX200-12SP](https://www.amazon.com/Electro-Voice-ELX200-12SP-1200-Powered-Subwoofer/dp/B0751MTB39/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=af87489b11f4c9b38596bd36ae4fe2ef&camp=1789&creative=9325) or even cheaper the [Behringer Eurolive B1200D-PRO](https://www.amazon.com/Behringer-B1200DPRO-BEHRINGER-EUROLIVE-B1200D-PRO/dp/B00E87OMNC/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=747eb6bd4e90bc004a2869176f637f3e&camp=1789&creative=9325). Keep in mind that these cheaper 12" subs will not have as high of output as the bigger 18" subs.
 
-A lot of this information exists in a few places in the r/livesound sub. Here's a few great links there that I'll add to as I find them:
+A lot of this information exists in a few places in the [r/livesound](https://www.reddit.com/r/livesound/) sub. Here's a few great links there that I'll add to as I find them:
 
 [Whats the hierarchy of speakers?](https://www.reddit.com/r/livesound/comments/r5mg1n/comment/hmo75zu/)
 
