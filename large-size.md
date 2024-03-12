@@ -115,7 +115,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
 - Links
     - <https://www.diysubwoofers.org/projects/other/BT/Wildbox/>
 
-### #6 [Soundcore Motion Boom 2](https://soundcore.sjv.io/vNk6PW) [(or on Amazon)](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325): $130
+### #6 [Soundcore Motion Boom 2](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325): $130
 
 - Positives: Quite deep bass for the size, it sounds like it's as deep as the Mifa Wildbox. Cool lights in the side passive radiators. 
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Some frequency response issues that I believe should be easily ironed out by the very advanced EQ. I will revisit this speaker when I get better sound samples, a good EQ tune, and comparisons with it. Quite bass heavy with BassUp turned on, I'd recommend turning it off.
@@ -167,7 +167,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
 - Comparisons
     - <https://www.youtube.com/watch?v=oB-ZC5qTUHw>
 
-### #9 [Soundcore Motion Boom](http://soundcore.sjv.io/KjmgL7) ([or on Amazon](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)): $90 after $10 coupon
+### #9 [Soundcore Motion Boom](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)): $90 after $10 coupon
 
 - Positives: Decently neutral speaker after EQ is applied. Slight DSP issue which makes bass get lighter at times at very low volumes. Try [Oluv's EQ](https://ibb.co/wNFwQ1h) for a more neutral sound.
 - Negatives: Not as neutral or detailed as other top ranked speakers
@@ -247,7 +247,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     - <https://www.youtube.com/watch?v=g05lODItS4w>
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 
-### #13 [Soundcore Motion X600](http://soundcore.sjv.io/EK126D) ([or on Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325)): $150 after $50 coupon
+### #13 [Soundcore Motion X600](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325)): $150 after $50 coupon
 
 - Positives: Firmware 4.2.9 is a big improvement in sound quality over previous releases. Try this [Oluv EQ for the best sound quality](https://www.patreon.com/oluvsgadgets/shop/soundcore-motion-x600-eq-settings-106961)
 - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn't very deep and the sound is still a little unnatural.

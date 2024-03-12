@@ -44,7 +44,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Links
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
 
-### #2 [Soundcore Motion 300](http://soundcore.sjv.io/Or0zQZ) ([or on Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)): $70 after $10 coupon
+### #2 [Soundcore Motion 300](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)): $70 after $10 coupon
 
 - Positives: Pretty deep bass for the small size. Pocket size in a big pocket. Can be used in stereo facing you, or omnidirectional lying down. Ability to have a custom EQ for each orientation, standing, lying flat, hanging. Try [the Uboom L EQs from Oluv for a more neutral sound](https://www.patreon.com/oluvsgadgets/shop/soundcore-motion-300-eq-settings-uboom-l-95778).
 - Negatives: Without the above EQ, this speaker is pretty rolled off in the treble and will rank around #21 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
@@ -71,7 +71,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
     - <https://www.patreon.com/posts/soundcore-motion-93321960>
     - <https://www.patreon.com/posts/soundcore-motion-94933573>
 
-### #3 [Soundcore Motion+](http://soundcore.sjv.io/k0EVK0) ([or on Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325)): $80 after $20 coupon
+### #3 [Soundcore Motion+](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325)): $80 after $20 coupon
 
 - Positives: The previous best sounding in class, still a great speaker with separate tweeters, more bass at full volume and better off-axis treble frequency response than the Uboom L. Just mediocre with the default EQ, I highly recommend using [this EQ setting](https://www.tumblr.com/techaudiophoto/706620138302144512/motion-hi-fi-eq) from [kai7895](https://www.reddit.com/user/kai7895) to get it more neutral. To achieve the absolute best sound you'll need the Wavelet app (Android only) and set the provided Wavelet EQ in there too. Turn off the wavelet EQ for outdoor use. An alternative is [Oluv's EQ](https://www.youtube.com/post/UgwSd6XBIv7UQK__LYN4AaABCQ) which only needs the Soundcore app EQ. Note these EQs only really sound perfect at a medium volume level.
 - Negatives: Not quite as neutral or detailed as the Uboom L. Without the above EQ, this speaker will rank around #25 in the rankings.
@@ -576,7 +576,7 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Comparisons
     - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
 
-### #31 [Soundcore Glow](http://soundcore.sjv.io/Y9PLAr) ([or on Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)): $80 after $20 coupon
+### #31 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)): $80 after $20 coupon
 
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
 - Bass Extension: 54hz
