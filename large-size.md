@@ -374,7 +374,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
 
 ### #21 JBL Xtreme 4: $380
 
-- Positives: Removable battery. Slightly deeper bass than Xtreme 3.
+- Positives: Removable battery. Slightly deeper bass than Xtreme 3. Use [this EQ](https://www.instagram.com/p/C4Sqdy8IkDX/) for the best sound quality.
 - Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange. Some upper mids and treble boost at high levels.
 - Weight 4.63lbs / 2.1kg
 - Battery Life: 24 hours
