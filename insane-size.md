@@ -9,7 +9,7 @@ If you're looking at one of these, you have a very specific need for extremely d
 
 Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable-party-speakers/).
 
-Also remember that you can get a power station for any other speaker mentioned here. See [this page for more information about Power Stations](/portable-power-stations/)
+Also remember that you can get a power station for any speaker mentioned here. See [this page for more information about Power Stations](/portable-power-stations/)
 
 ### #1 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325): $1301
 
