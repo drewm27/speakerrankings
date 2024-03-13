@@ -66,6 +66,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=cMer55HGz38>
     - <https://www.youtube.com/watch?v=srx-SAaqFjw>
+    - <https://www.youtube.com/watch?v=RU02J2XZhYg>
     - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-710>
