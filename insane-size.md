@@ -73,8 +73,23 @@ Also remember that you can get a power station for any speaker mentioned here. S
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-710>
 
+### #4 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000): €950
 
-### #4 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
+- Positives: Loudest battery powered speaker. Deeper bass than the Soundboks 2/3.
+- Negatives: Insanely heavy, not easy to carry. Not stereo. Only available in Europe
+- Weight: 68lbs / 31kg
+- Battery Life: 30 hours
+- Aux In: Yes
+- Power Bank: Yes
+- Charging: AC Power cord
+- IP Rating: None
+- Comparisons
+    - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
+    - <https://www.youtube.com/watch?v=gNqERPC67C8>
+    - <https://www.youtube.com/watch?v=S112dkr_2mE>
+    - <https://www.youtube.com/watch?v=NbnolJzmA5s>
+
+### #5 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
 
 - Positives: Can get slightly louder than a Partybox 310.
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page

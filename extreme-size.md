@@ -153,23 +153,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Links
     - <https://www.rtings.com/speaker/reviews/bose/s1-pro-system>
 
-### #7 Teufel Rockster: €950
-
-- Positives: Loudest battery powered speaker. Deeper bass than the Soundboks 2/3.
-- Negatives: Insanely heavy, not easy to carry. Not stereo. Only available in Europe
-- Weight: 68lbs / 31kg
-- Battery Life: 30 hours
-- Aux In: Yes
-- Power Bank: Yes
-- Charging: AC Power cord
-- IP Rating: None
-- Comparisons
-    - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
-    - <https://www.youtube.com/watch?v=gNqERPC67C8>
-    - <https://www.youtube.com/watch?v=S112dkr_2mE>
-    - <https://www.youtube.com/watch?v=NbnolJzmA5s>
-
-### #8 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
+### #7 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
 
 - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time.
 - Max Volume: 115db
@@ -183,7 +167,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=jGOER4-R4gg>
     - <https://www.youtube.com/watch?v=FW4T7G98MXk>
 
-### #9 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
+### #8 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
 
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
 - Bass Extension: 50hz
@@ -203,7 +187,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp700>
 
-### #10 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
+### #9 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
 
 - Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
 - Bass Extension: 42hz
@@ -223,7 +207,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp500>
 
-### #11 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
+### #10 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
 
 - Positives: An insane value speaker. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
@@ -240,7 +224,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=6YjGuQPD52w>
     - <https://www.youtube.com/watch?v=Z727n9aBfgw>
 
-### #12 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325): $300
+### #11 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325): $300
 
 - Positives: Sounds reasonably balanced. A little tough to judge based on the sound samples, would be nice to have more comparisons.
 - Negatives: Not as deep bass as the Partybox 110 or other higher ranked speakers. Needs to be plugged in to reach higher volume.
@@ -257,7 +241,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=_Q1i3cG092I>
 
-### #13 Audiocase S5: $645
+### #12 Audiocase S5: $645
 
 - Positives: Removable battery
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
@@ -272,7 +256,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.patreon.com/posts/audiocase-s5-vs-91754902>
 
-### #14 Teufel Rockster Air: €500
+### #13 Teufel Rockster Air: €500
 
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
 - Max Volume: 115db
@@ -289,7 +273,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=ITnoz10G2jU>
     - <https://www.youtube.com/watch?v=S112dkr_2mE>
 
-### #15 [Soundboks Gen 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
+### #14 [Soundboks Gen 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
 
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -306,7 +290,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
     - <https://www.youtube.com/watch?v=hjpEDDN_hnY>
 
-### #16 [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
+### #15 [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
 
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -327,7 +311,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Links
     - <https://www.rtings.com/speaker/reviews/soundboks/gen-3>
 
-### #17 [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
+### #16 [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
 
 - Positives: 3rd loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Max Volume: 124db
@@ -344,7 +328,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
     - <https://www.youtube.com/watch?v=NbnolJzmA5s>
 
-### #18 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
+### #17 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
 
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
 - Bass Extension: 55hz
@@ -358,7 +342,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
     - <https://www.youtube.com/watch?v=HLO_p671BgA>
 
-### #19 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325): $550
+### #18 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325): $550
 
 - Positives: Removable 40 hour battery.
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -376,7 +360,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Links
     - <https://www.rtings.com/speaker/reviews/soundboks/go>
 
-### #20 Audiocase S10: $892
+### #19 Audiocase S10: $892
 
 - Positives: One of the loudest in category.
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
@@ -390,7 +374,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
     - <https://www.patreon.com/posts/audiocase-s10-92786890>
 
-### #21 W-King T9 Pro: $280
+### #20 W-King T9 Pro: $280
 
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - Battery Life: 12 hours
@@ -399,7 +383,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=8dZz7MJRAAo>
 
-### #22 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
+### #21 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
 
 - Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
 - Bass Extension: ~45hz
@@ -411,7 +395,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=U6Sec5_16x4>
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
 
-### #23 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
+### #22 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
 
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
 - Bass Extension: ~47hz
@@ -424,7 +408,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=K3350eIvszw>
     - <https://www.youtube.com/watch?v=qnya_6ew1e4>
 
-### #24 Marshall Woburn I: $500
+### #23 Marshall Woburn I: $500
 
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - Bass Extension: ~50hz
@@ -436,7 +420,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
     - <https://www.youtube.com/watch?v=K3350eIvszw>
 
-### #25 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
+### #24 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
 
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - Weight 17.6lbs / 8kg
@@ -447,7 +431,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
     - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
 
-### #26 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
+### #25 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 94db
@@ -462,7 +446,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
-### #27 B&O Beosound 1: $2000
+### #26 B&O Beosound 1: $2000
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 91db
@@ -475,7 +459,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
-### #28 Diamondboxx L2: $1000
+### #27 Diamondboxx L2: $1000
 
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
 - Weight: 25lbs / 11kg
@@ -487,7 +471,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=epgx0THKpL8>
     - <https://www.youtube.com/watch?v=zjpNEBJDq_U>
 
-### #29 dB technologies B-Hype M: $450
+### #28 dB technologies B-Hype M: $450
 
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - Bass Extension: 62hz
@@ -500,7 +484,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=GTqpcjfd3Fo>
     - <https://www.youtube.com/watch?v=YB4CxTDP1rE>
 
-### #30 Onn Large Party gen 1: $100
+### #29 Onn Large Party gen 1: $100
 
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - Bass Extension: ~60hz
@@ -515,7 +499,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=BzQL3DqcFss>
 
-### #31 Philips NX200
+### #30 Philips NX200
 
 - Negatives: No deep bass, mids are a little harsh
 - Bass Extension: ~55hz
@@ -527,7 +511,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=O6SWv8lnpCI>
     - <https://www.youtube.com/watch?v=rMX9Y-OpNoc>
 
-### #32 Panasonic SC-TMAX10
+### #31 Panasonic SC-TMAX10
 
 - Negatives: Not as deep bass as others in the class
 - Weight: 22.5lbs / 10.2kg
@@ -539,7 +523,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=UrgQkhzAe0U>
 
-### #33 Panasonic SC-TMAX5
+### #32 Panasonic SC-TMAX5
 
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
@@ -552,7 +536,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=_jlJnhPyALs>
     - <https://www.youtube.com/watch?v=dXoD0Yv_iLM>
 
-### #34 Sharp PS-929: $150
+### #33 Sharp PS-929: $150
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz
@@ -561,7 +545,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=uiRxrnvyvCw>
 
-### #35 Soundcore Rave+: $240
+### #34 Soundcore Rave+: $240
 
 - Negatives: Pretty big lack of deep bass
 - Bass Extension: ~60hz
@@ -574,7 +558,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=ZjQIvZByyns>
 
-### #36 Soundcore Rave: $220
+### #35 Soundcore Rave: $220
 
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - Bass Extension: ~60hz
@@ -586,7 +570,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
 
-### #37 Sony GTK-XB90
+### #36 Sony GTK-XB90
 
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~50hz
@@ -601,7 +585,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
     - <https://www.youtube.com/watch?v=NaOdsSNUfl8>
 
-### #38 Sony GTK-XB72
+### #37 Sony GTK-XB72
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~56hz
@@ -615,7 +599,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=qY0Cdd2QJTU>
 
-### #39 Sony GTK-XB60
+### #38 Sony GTK-XB60
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~60hz
@@ -631,7 +615,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
     - <https://www.youtube.com/watch?v=Cg2DNPOA8AA>
 
-### #40 Altec Lansing AL500: $200
+### #39 Altec Lansing AL500: $200
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz
@@ -645,7 +629,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 - Comparisons
     - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
 
-### #41 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
+### #40 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
 
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
