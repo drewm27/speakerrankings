@@ -116,7 +116,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 ### #5 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
 
 - Positives: Good midrange and treble.
-- Negatives: Not stereo. Only IP44 with the rain cover installed
+- Negatives: Not stereo. Only IP44 with the rain cover installed. Designed for more loudness than deeper bass.
 - Max Volume: 121db
 - Bass Extension: 50hz
 - Weight: 17lbs / 8kg
@@ -130,7 +130,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 
 ### #6 [Bose S1 Pro](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c47cc07f18d17c4b12f28f2e2eba605f&camp=1789&creative=9325): $700
 
-- Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo.
+- Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo. Designed for more loudness than deeper bass.
 - Max Volume: 109db
 - Bass Extension: 55hz
 - Weight: 16lbs / 7kg
@@ -155,7 +155,7 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 
 ### #7 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
 
-- Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time.
+- Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass.
 - Max Volume: 115db
 - Bass Extension: 50hz
 - Weight: 17.6lbs / 8kg
