@@ -33,7 +33,7 @@ Also remember that you can get a power station for any speaker mentioned here. S
 
 ### #2 [JBL Partybox 1000](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325): $949
 
-- Positives: Right up there with the Partybox Ultimate, this was the previous speaker in that size. A better value than the Partybox Ultimate. Nice waterfall lightshow.
+- Positives: Handle and wheels are convenient. Right up there with the Partybox Ultimate, this was the previous speaker in that size. A better value than the Partybox Ultimate. Nice waterfall lightshow.
 - Negatives:  Very large and heavy. No app
 - Weight: 76lbs / 34kg
 - Battery Life: No Battery
@@ -91,7 +91,7 @@ Also remember that you can get a power station for any speaker mentioned here. S
 
 ### #5 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
 
-- Positives: Can get slightly louder than a Partybox 310.
+- Positives: Can get slightly louder than a Partybox 310. Handle and wheels are convenient.
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page
 - Weight: 58.6lbs / 26.6kg
 - Battery Life: 25 hours
