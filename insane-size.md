@@ -5,7 +5,7 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 40lbs / 18kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
+If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 40lbs / 18kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
 Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable-party-speakers/).
 
