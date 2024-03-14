@@ -5,7 +5,7 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-I plan to get around to these as soon as there are good sound samples around, stay tuned!
+I plan to get around to these as soon as there are good sound samples and comparisons around, stay tuned!
 
 1. [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)
 1. Klipsch KMC3 
