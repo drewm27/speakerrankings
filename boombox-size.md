@@ -826,6 +826,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Battery Life: 25 hours
 - Aux In: Yes
 - MicroSD: Yes
+- IP Rating: IP67
 - Comparisons
     - <https://youtu.be/y9aCDZW6I_8?t=392>
     - <https://www.youtube.com/watch?v=tFuilFzXh0Y>
