@@ -16,7 +16,7 @@ Latency only matters when DJing, playing first person shooter video games, or wa
 
 Battery life is generally rated at medium volume. Running at full volume, expect 25-33% (example: 10 hours drops to 2.5-3.3 hours) of rated battery life.
 
-Iphones seem to be limited to [16 volume steps](https://www.reddit.com/r/iOSBeta/comments/cn904f/feature_the_volume_control_is_back_to_16_levels/) using the side buttons which is generally not enough. Click on the volume slider to access all 32 steps. Android has 24 volume steps which is better.
+Iphones seem to be limited to [16 volume steps](https://www.reddit.com/r/iOSBeta/comments/cn904f/feature_the_volume_control_is_back_to_16_levels/) using the side buttons which is generally not enough. Click on the volume slider on the screen to access all 32 steps. Android has 24 volume steps which is better.
 
 Some speakers from Soundcore, JBL, Ultimate Ears, and Minirig can disable their startup, pairing and shutdown sounds by changing a setting in their app.
 
