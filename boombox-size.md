@@ -818,7 +818,7 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 - Comparisons
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 
-### #50 Turtlebox/Turtlebox G2: $400
+### #50 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325): $400
 
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
 - Weight: 10lbs / 4.5kg
