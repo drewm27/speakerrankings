@@ -7,7 +7,7 @@ comments: true
 
 If you need to power speakers make sure the Power Station you are choosing can handle the wattage of your speaker plus 25%. For very big speakers that will be around 1500w
 
-Computing runtime for a power station will be a little difficult for speakers as you are looking for average power and speaker power is exponential. Assume that low volume is 1/50th of rated power, medium volume is 1/10th of rated power and full volume is 1/4 of rated power. So for something like a Ecoflow Delta mini with a 882Wh battery running a 240w Partybox 310 that would be 183 hours at low volume, 36 hours at medium volume and 14 hours at full volume.
+Computing runtime for a power station will be a little difficult for speakers as you are looking for average power and speaker power is exponential. Assume that low volume is 1/50th of rated power, medium volume is 1/10th of rated power and full volume is 1/4 of rated power. So for something like a Ecoflow Delta mini with a 882Wh battery running a 240w Partybox 310 that would be 183 hours (882 / 240 * 50) at low volume, 36 hours (882 / 240 * 10) at medium volume and 14 hours 882 / 240 * 4) at full volume. These are just estimates and also depend on how much bass boost you are using.
 
 ### Power Stations
 
