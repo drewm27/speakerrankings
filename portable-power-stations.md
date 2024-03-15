@@ -5,7 +5,7 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-If you need to power non-battery speakers, especially large Partybox models or PA speakers, make sure you are looking at Power Stations that can deliver at least 1500w for each speaker you want to power.
+If you need to power speakers make sure the Power Station you are choosing can handle the wattage of your speaker plus 25%. For very big speakers that will be around 1500w
 
 ### Power Stations
 
