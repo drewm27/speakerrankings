@@ -18,7 +18,7 @@ Battery life is generally rated at medium volume. Running at full volume, expect
 
 Iphones seem to be limited to [16 volume steps](https://www.reddit.com/r/iOSBeta/comments/cn904f/feature_the_volume_control_is_back_to_16_levels/) using the side buttons which is generally not enough. Click on the volume slider on the screen to access all 32 steps. Android has 24 volume steps which is better.
 
-Some speakers from Soundcore, JBL, Ultimate Ears, and Minirig can disable their startup, pairing and shutdown sounds by changing a setting in their app.
+Newer speakers from Soundcore, JBL, Ultimate Ears, and Minirig can disable their startup, pairing and shutdown sounds by changing a setting in their app.
 
 Nearly all speakers can skip forward tracks by pressing play twice and skip back by pressing play 3 times. Certain speakers may use a different button press.
 
