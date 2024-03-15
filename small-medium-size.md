@@ -1439,6 +1439,9 @@ One of the best general use size classes, 1L water bottle sized and light enough
 - Weight: 0.7lbs / 0.3kg
 - Bass Extension: 185hz
 - Battery Life: 9 hours
+- Comparisons
+    - <https://www.youtube.com/watch?v=1A5cNDoQCM8>
+    - <https://www.youtube.com/watch?v=VDc2anLRz0w>
 - Links
     - <https://www.rtings.com/speaker/reviews/limitless-innovations/tikitunes>
 
