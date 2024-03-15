@@ -157,7 +157,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
     - <https://www.youtube.com/watch?v=2RYtK6iuU2Y>
     - <https://www.youtube.com/watch?v=6j2Aj5E48Kc>
 
-### #8 [Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325): $1200
+### #8 [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325): $1200
 
 - Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
 - Weight: 8.5lbs / 3.86kg
