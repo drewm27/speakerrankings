@@ -15,7 +15,7 @@ This list is built from thousands of hours of video of the direct comparisons of
 
 About 20% of the time when there are no direct comparisons, I’ve done my best to find the best sound samples, adjust for differences in microphone frequency responses and compare them myself using high end headphones (JDS 0L Dac, JDS 02 amp, Hifiman HE-560 or Earfun Free Pro 2 with Oluv’s Gadgets custom tuning) Although those 20% tend to be not very popular or high ranked and are generally insignificant.
 
-Adjusting for microphone frequency response issues outside of well recorded audio like Oluv or Alan Ross is quite difficult. I first need a sound sample of a speaker I know extremely well and then compensate in my head for what the microphone is doing to frequency response based on what I know the speaker should sound like and then analyze the other speaker in question with that same frequency compensation. It’s not easy and it means a lot of videos I can’t use beyond just analyzing bass extension.
+Adjusting for microphone frequency response issues outside of well recorded audio like [Oluv[(https://www.youtube.com/@oluvsgadgets) or [Alan Ross](https://www.youtube.com/@alanrossreviews) is quite difficult. I first need a sound sample of a speaker I know extremely well and then compensate in my head for what the microphone is doing to frequency response based on what I know the speaker should sound like and then analyze the other speaker in question with that same frequency compensation. It’s not easy and it means a lot of videos I can’t use beyond just analyzing bass extension.
 
 If you can’t find the speaker comparison you’re looking for, search Youtube for it.
 
