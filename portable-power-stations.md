@@ -13,9 +13,20 @@ Computing runtime for a power station will be a little difficult for speakers as
 
 Note most Power Stations cannot be taken on airplanes as they have a 100Wh limit for batteries
 
-### Power Stations
+### Power Stations for speakers that need AC
 
 1. [Ecoflow](https://www.amazon.com/stores/page/49BD72BC-B81B-44B9-9006-F70BB206428B?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=28337f94f8816ce952ac368ef8ce4d91&camp=1789&creative=9325)
 1. [Jackery](https://www.amazon.com/stores/page/1E4C6D32-F39D-4E45-8FD7-AC96F40102F9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e8b189dc201897b3057b0b57b068158&camp=1789&creative=9325)
 1. [Bluetti](https://www.amazon.com/s?k=bluetti+portable+power+station&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c1c20d751f5be463aee2d7dba9df1c1e&camp=1789&creative=9325)
 1. [Anker Solix](https://www.amazon.com/s?k=anker+solix&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=22e798e437ff17c2e641f0363cea1c19&camp=1789&creative=9325)
+
+
+### Power Banks for speakers that need USB-C
+
+For "large size" and smaller speakers that charge over USB-C and Micro-USB you can use a smaller power bank depending on the run time you want out of your speaker.
+
+Boombox size speakers generally have the equivalent of a 20,000mAh battery inside. Large size speakers generally have the equivalent of a 10,000mAh battery inside. Pocket/Small/Medium speakers generally have the equivalent of a 2500-5,000mAh battery inside. This should give you an ideal of how much battery you would need for the runtime you desire. Double the battery would be double the play time.
+
+I haven't had any issues with any brands I own, just check the reviews to make sure though.
+
+1. [Power Banks](https://www.amazon.com/s?k=power+bank&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
