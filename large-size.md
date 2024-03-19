@@ -133,6 +133,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
 - IP Rating: IPX7
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Comparisons
+    - <https://www.patreon.com/posts/anker-soundcore-100643572>
     - <https://www.youtube.com/watch?v=mIeR8bNN29A>
     - <https://www.youtube.com/watch?v=-zdbjsl730U>
     - <https://www.youtube.com/watch?v=AU3Xvf5JyQY>
