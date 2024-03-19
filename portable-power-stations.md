@@ -5,7 +5,9 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-To give either battery or non-battery speakers the ability to run disconnected or play longer, you will probably want to pick up a Portable Power Station
+To give either battery or non-battery speakers the ability to run disconnected or play longer, you will probably want to pick up a Portable Power Station or power bank.
+
+### Power Stations for speakers that need AC or USB
 
 If you need to power speakers make sure the Power Station you are choosing can handle the wattage of your speaker plus 25%. For very big speakers that will be around 1500w. Not doing so will cause your power station to shut down entirely or sag causing audible clipping.
 
@@ -13,7 +15,6 @@ Computing runtime for a power station will be a little difficult for speakers as
 
 Note most Power Stations cannot be taken on airplanes as they have a 100Wh limit for batteries
 
-### Power Stations for speakers that need AC
 
 1. [Ecoflow](https://www.amazon.com/stores/page/49BD72BC-B81B-44B9-9006-F70BB206428B?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=28337f94f8816ce952ac368ef8ce4d91&camp=1789&creative=9325)
 1. [Jackery](https://www.amazon.com/stores/page/1E4C6D32-F39D-4E45-8FD7-AC96F40102F9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e8b189dc201897b3057b0b57b068158&camp=1789&creative=9325)
@@ -21,9 +22,9 @@ Note most Power Stations cannot be taken on airplanes as they have a 100Wh limit
 1. [Anker Solix](https://www.amazon.com/s?k=anker+solix&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=22e798e437ff17c2e641f0363cea1c19&camp=1789&creative=9325)
 
 
-### Power Banks for speakers that need USB-C
+### Power Banks for speakers that need USB
 
-For "large size" and smaller speakers that charge over USB-C and Micro-USB you can use a smaller power bank depending on the run time you want out of your speaker.
+For "large size" and smaller speakers that charge over USB you can use a smaller power bank depending on the run time you want out of your speaker.
 
 Boombox size speakers generally have the equivalent of a 20,000mAh battery inside. Large size speakers generally have the equivalent of a 10,000mAh battery inside. Pocket/Small/Medium speakers generally have the equivalent of a 2500-5,000mAh battery inside. This should give you an ideal of how much battery you would need for the runtime you desire. Double the battery would be double the play time.
 
