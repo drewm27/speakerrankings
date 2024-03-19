@@ -32,4 +32,7 @@ Power banks up to 26,800mAh 3.7v (26.8 * 3.7 = 99.2Wh) can be taken on an airpla
 
 I haven't had any issues with any brands I own, just check the reviews to make sure though.
 
-1. [Power Banks](https://www.amazon.com/s?k=power+bank&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
+1. [Power Banks 26800mAh](https://www.amazon.com/s?k=power+bank+26800mah&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
+1. [Power Banks 20000mAh](https://www.amazon.com/s?k=power+bank+20000mah&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
+1. [Power Banks 10000mAh](https://www.amazon.com/s?k=power+bank+10000mah&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
+1. [Power Banks 5000mAh](https://www.amazon.com/s?k=power+bank+5000mah&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
