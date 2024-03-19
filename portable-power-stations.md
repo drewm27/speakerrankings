@@ -28,6 +28,8 @@ For "large size" and smaller speakers that charge over USB you can use a smaller
 
 Boombox size speakers generally have the equivalent of a 20,000mAh 3.7v battery inside. Large size speakers generally have the equivalent of a 10,000mAh 3.7v battery inside. Pocket/Small/Medium speakers generally have the equivalent of a 2500-5,000mAh 3.7v battery inside. This should give you an ideal of how much battery you would need for the runtime you desire. Double the battery would be double the play time.
 
+I'd recommend one with USB-C PD (Power Delivery) which is higher speed charging for larger speakers, laptops and phones.
+
 Power banks up to 26,800mAh 3.7v (26.8 * 3.7 = 99.2Wh) can be taken on an airplane.
 
 I haven't had any issues with any brands I own, just check the reviews to make sure though.
