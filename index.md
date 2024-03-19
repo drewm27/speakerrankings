@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-I've been working on ranking all battery powered Bluetooth wireless speakers by sound quality tested by trusted Youtube reviewers in a giant list categorized by size class with their positives, negatives, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got nearly every single speaker ranked with a total count of 275 speakers.
+I've been working on ranking all battery powered Bluetooth wireless speakers by sound quality tested by trusted Youtube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got nearly every single speaker ranked with a total count of 275 speakers.
 
 **Use ctl-f to search pages**
 
