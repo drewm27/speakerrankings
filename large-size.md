@@ -118,10 +118,11 @@ A good balance between bigger travel size, small party size and reasonable weigh
 
 ### #6 [Soundcore Boom 2](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325): $130
 
-- Positives: Quite deep bass for the size, it sounds like it's a little deeper than the Mifa Wildbox. Cool lights in the side passive radiators. 
-- Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Some frequency response issues that I believe should be easily ironed out by the very advanced EQ. I will revisit this speaker when I get better sound samples, a good EQ tune, and comparisons with it. Quite bass heavy with BassUp turned on, I'd recommend turning it off. Without a tuned EQ, this speaker ranks around #20
+- Positives: Pretty deep bass for the size. Cool lights in the side passive radiators. For the best sound quality use [Oluv's EQ](https://www.patreon.com/posts/anker-soundcore-100643572). With the stock tuning, this speaker would rank around #24, due to the boosted bass and rising treble.
+- Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues at low levels similar to other Soundcore speakers, not great for critical listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. 
 - Weight: 3.7lbs / 1.68kg
 - Battery Life: 24 hours
+- Bass Extension: 47hz
 - Aux In: No
 - MicroSD: No
 - Power Bank: Yes
@@ -308,7 +309,7 @@ A good balance between bigger travel size, small party size and reasonable weigh
 ### #16 [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325): $450
 
 - Positives: Warm sounding with somewhat rolled off treble. Slightly better midrange clarity than the Move 1.
-- Negatives: Not very loud. This may have some of the issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
+- Negatives: Not very loud. This may have some of the same issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
 - Weight: 6.61lbs / 3kg
 - Battery Life: 24 hours
 - Wifi: Yes
