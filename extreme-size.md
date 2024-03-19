@@ -9,6 +9,8 @@ If you're looking at one of these, you have a very specific need for very deep b
 
 Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable-party-speakers/).
 
+For longer runtime, check out a [power station](/portable-power-stations/).
+
 ### #1 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $550
 
 - Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes.

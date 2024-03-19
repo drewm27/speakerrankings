@@ -7,6 +7,7 @@ comments: true
 
 A good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit 2 of them in a backpack with a little room to spare. A good minimum size for listening to music outdoors. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
+For longer runtime, check out a [power bank](/portable-power-stations/).
 
 ### #1 [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $290
 
