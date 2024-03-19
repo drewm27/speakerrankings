@@ -27,7 +27,7 @@ I've been working on ranking all battery powered Bluetooth wireless speakers by 
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 - [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/)
-- [Portable Power Stations](/portable-power-stations/)
+- [Portable Power Stations/Power Banks](/portable-power-stations/)
 
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/), thanks for stopping by!
 
