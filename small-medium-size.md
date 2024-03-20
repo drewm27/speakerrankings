@@ -384,6 +384,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - MicroSD: Yes
 - App: No
 - EQ: No
+- TWS: Yes
+- IP Rating: IPX7
 - Weight: 1.61lbs / 731g
 - Battery Life: 24 hours
 - Aux In: Yes
@@ -720,6 +722,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - MicroSD: Yes
 - Aux In: Yes
 - USB Playback: Yes
+- TWS: Yes
+- IP Rating: IPX7
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
 - Comparisons
