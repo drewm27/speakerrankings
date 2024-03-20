@@ -408,6 +408,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - Aux In: Yes
 - MicroSD: Yes
 - Power Bank: Yes
+- Charging: AC Power brick
 - IP Rating: IPX6
 - Comparisons
     - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
