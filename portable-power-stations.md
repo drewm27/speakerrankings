@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portable Power Stations/Power Banks
+title: Portable Power Stations and Power Banks
 subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
