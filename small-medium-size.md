@@ -719,6 +719,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension: 61hz
 - MicroSD: Yes
 - Aux In: Yes
+- USB Playback: Yes
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
 - Comparisons
