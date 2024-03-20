@@ -225,7 +225,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - App: No
 - EQ: No
-- MIcroSD: Yes
+- MicroSD: Yes
 - TWS: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - IP Rating: IP67

@@ -406,7 +406,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 10.1lbs / 4.6kg
 - Battery Life: 24 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: None
 - Comparisons
@@ -477,7 +477,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 5.36lbs / 2.43kg
 - Battery Life: 24 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Power Bank: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
@@ -562,7 +562,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 6.0 lbs / 2.72kg
 - Battery Life: 18 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Power Bank: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=sCaHSGO4_MY>
@@ -606,7 +606,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 1.23lbs / 557g
 - Battery Life: 10 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - IP Rating: IPX4
 - Charging: AC Power brick
 - Comparisons
@@ -653,7 +653,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 6.3lbs / 2.86kg
 - Battery Life: 15 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Power Bank: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=mVwz4P6oVVA>
@@ -772,7 +772,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 4.4lbs / 2.0kg
 - Battery Life: 40 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
 - Comparisons

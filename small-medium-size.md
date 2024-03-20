@@ -381,7 +381,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Max Volume: 99db
 - Bass Extension: 54hz
 - Latency: 150ms
-- MIcroSD: Yes
+- MicroSD: Yes
 - App: No
 - EQ: No
 - Weight: 1.61lbs / 731g
@@ -439,7 +439,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Max Volume: 100db
 - Bass Extension: 54hz
 - Battery Life: 12 hours
-- MIcroSD: Yes
+- MicroSD: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - TWS: Yes
 - Comparisons
@@ -589,7 +589,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
 - Battery life: 24 hours
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=kDib9gjeaPQ>
     - <https://www.youtube.com/watch?v=3zEtJi4u-F8>
@@ -632,7 +632,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 1.7lbs / 0.771kg
 - Battery Life: 15 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=1btEBiXCEF0>
 
@@ -717,7 +717,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Not stereo. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Max Volume: 96db
 - Bass Extension: 61hz
-- MIcroSD: Yes
+- MicroSD: Yes
+- Aux In: Yes
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
 - Comparisons
@@ -1034,7 +1035,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Peaky in the upper mids and in the mid treble. Worse bass extension than similar size speakers
 - Weight: 1.91lbs / 870g
 - Battery Life: 12 hours
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=PJEEGkFTfOU>
 
@@ -1207,7 +1208,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 2.77lbs / 1260g
 - Battery Life: 24 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=NFeCO7GLgA0>
     - <https://www.youtube.com/watch?v=KgMDRxajEZw>
@@ -1275,7 +1276,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Hugely lacking bass compared to similar size speakers. Sounds hollow and thuddy with frequency dips in the midrange.
 - Weight: 1.38lbs / 630g
 - Battery Life: 12 hours
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=S03_X1Vrm9U>
 
@@ -1300,7 +1301,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 1.9lbs / 860g
 - Battery Life: 15 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=DTgp-xGDzvw>
     - <https://www.youtube.com/watch?v=0_ZOX8rFK6c>
@@ -1386,7 +1387,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 1.23lbs / 558g
 - Battery Life: 20 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparison
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
 
@@ -1397,7 +1398,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 1.23lbs / 558g
 - Battery Life: 12 hours
 - Aux In: Yes
-- MIcroSD: Yes
+- MicroSD: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
 
@@ -1406,7 +1407,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Horribly bad unless turned up, still not great
 - Bass Extension: 120hz
 - Battery Life: 12 hours
-- MIcroSD: Yes
+- MicroSD: Yes
 - Aux In: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
