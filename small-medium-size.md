@@ -381,6 +381,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Max Volume: 99db
 - Bass Extension: 54hz
 - Latency: 150ms
+- MIcroSD: Yes
 - App: No
 - EQ: No
 - Weight: 1.61lbs / 731g
@@ -716,6 +717,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Not stereo. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Max Volume: 96db
 - Bass Extension: 61hz
+- MIcroSD: Yes
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
 - Comparisons
