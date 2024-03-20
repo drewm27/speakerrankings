@@ -334,6 +334,10 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - Battery life: 8 hours
 - Charging: AC Power cable
 - Wifi: Yes
+- TWS: No
+- App: Yes
+- EQ: Yes
+- Party Mode: Yes (JBL One)
 - IP Rating: None
 - Comparisons
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
