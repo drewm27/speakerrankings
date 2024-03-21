@@ -129,7 +129,42 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=EaFtQNoYeKg>
     - <https://www.youtube.com/watch?v=QMvDPqHhA-4>
 
-### #6 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
+### #6 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
+
+- Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
+- Bass Extension: 50hz
+- Weight: 5.29lbs / 2.4kg
+- Battery Life: 8 hours
+- Aux In: Yes
+- TWS: No
+- IP Rating: None
+- App: No (official app is broken, 3rd party android app only)
+- Charging: AC Power brick
+- Comparisons
+    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
+    - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
+    - <https://www.youtube.com/watch?v=-N-zg4F97Dw>
+    - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
+    - <https://www.youtube.com/watch?v=Cc-9e0SNPFM>
+    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
+
+### #7 [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325): $800
+
+- Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
+- Bass Extension: 46hz
+- Weight: 10.25lbs / 4.65kg
+- Battery Life: 8 hours
+- Aux In: Yes
+- TWS: No
+- App: No (official app is broken, 3rd party android app only)
+- Charging: AC Power brick
+- IP Rating: None
+- Comparisons
+    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
+    - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
+    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
+
+### #8 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others.
@@ -151,8 +186,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=hlumnEy0Ufg>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 
-
-### #7 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325): $130
+### #9 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325): $130
 
 - Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
 - Negatives: 8 hour battery at medium volume. Not at loud as others.
@@ -177,7 +211,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/harman-kardon/onyx-studio-6>
 
-### #8 Harman Kardon Citation 200: $130
+### #10 Harman Kardon Citation 200: $130
 
 - Positives: Deeper bass than any Onyx.
 - Negatives: Overly boomy by default, you will likely [want to turn the bass down](https://citationsupporthelp.freshdesk.com/en/support/solutions/articles/47001167869-citation-200-eq-adjust-bass-and-treble-level-). 8 hour battery at medium volume. IPX4. Not at loud as others
@@ -192,7 +226,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=EciHn8jHHdA>
     - <https://www.youtube.com/watch?v=nhXQE196GvQ>
 
-### #9 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Kardon-Bluetooth-Wireless-Portable-Speaker/dp/B09817FXSM/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1089fb69fc8ba7e92fb6908acaa61cb7&camp=1789&creative=9325): $142
+### #11 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Kardon-Bluetooth-Wireless-Portable-Speaker/dp/B09817FXSM/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1089fb69fc8ba7e92fb6908acaa61cb7&camp=1789&creative=9325): $142
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others.
@@ -216,7 +250,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 
-### #10 Harman Kardon Go+ Play 2 Mini: $350
+### #12 Harman Kardon Go+ Play 2 Mini: $350
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others.
@@ -237,7 +271,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=t4h1-_KqSfo>
     - <https://www.youtube.com/watch?v=NHVrFZKc5YM>
 
-### #11 Harman Kardon Onyx Studio 5:
+### #13 Harman Kardon Onyx Studio 5:
 
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
 - Weight: 6.6lbs / 3kg
@@ -252,7 +286,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 
-### #12 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325): $440
+### #14 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325): $440
 
 - Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
 - Negatives: Bass boosted. Dip at 160hz
@@ -271,7 +305,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
     - <https://www.youtube.com/watch?v=imAhizbiSWw>
 
-### #13 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325): $500
+### #15 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325): $500
 
 - Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.
 - Max Volume: 110db
@@ -295,7 +329,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/boombox-3>
 
-### #14 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
+### #16 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
 
 - Negatives: Somewhat bass heavy and boomy.
 - Max Volume: 108db
@@ -317,7 +351,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/boombox-2>
 
-### #15 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
+### #17 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
 
 - Positives: Reasonable neutral.
 - Negatives: Narrow sounding, bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
@@ -334,41 +368,6 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - IP Rating: None
 - Comparisons
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
-
-### #16 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
-
-- Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
-- Bass Extension: 50hz
-- Weight: 5.29lbs / 2.4kg
-- Battery Life: 8 hours
-- Aux In: Yes
-- TWS: No
-- IP Rating: None
-- App: No (official app is broken, 3rd party android app only)
-- Charging: AC Power brick
-- Comparisons
-    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
-    - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
-    - <https://www.youtube.com/watch?v=-N-zg4F97Dw>
-    - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
-    - <https://www.youtube.com/watch?v=Cc-9e0SNPFM>
-    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
-
-### #17 [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325): $800
-
-- Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
-- Bass Extension: 46hz
-- Weight: 10.25lbs / 4.65kg
-- Battery Life: 8 hours
-- Aux In: Yes
-- TWS: No
-- App: No (official app is broken, 3rd party android app only)
-- Charging: AC Power brick
-- IP Rating: None
-- Comparisons
-    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
-    - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
-    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
 
 ### #18 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
 
