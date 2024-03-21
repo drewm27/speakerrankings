@@ -392,6 +392,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes (5 band)
 - Aux In: No
 - Comparisons
+    - <https://www.youtube.com/watch?v=bhmzGxlSBds>
     - <https://www.youtube.com/watch?v=urmp76qTSlE>
     - <https://www.patreon.com/posts/jbl-xtreme-4-99560848>
     - <https://www.patreon.com/posts/jbl-xtreme-4-98947429>
