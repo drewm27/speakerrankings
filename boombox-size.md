@@ -9,6 +9,8 @@ A good size class of reasonably deep bass, compact size and reasonable weight. A
 
 For longer runtime, check out a [power station](/portable-power-stations/).
 
+For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
+
 ### #1 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325): $160 after coupon
 
 - Positives: Amazing speaker given its size, competes well with some speakers in the Extreme size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsgadgets/shop/tribit-stormbox-blast-eqs-86777) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a more neutral sound. 2 different light modes or can be turned off.

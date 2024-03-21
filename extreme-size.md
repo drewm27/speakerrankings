@@ -11,6 +11,8 @@ Keep in mind these are designed more for deep bass than extreme loudness and if 
 
 For longer runtime, check out a [power station](/portable-power-stations/).
 
+For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
+
 ### #1 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $550
 
 - Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes.
