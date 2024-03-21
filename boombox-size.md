@@ -369,168 +369,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
 
-### #18 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
-
-- Positives: Quite deep bass for the size and money.
-- Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
-- Max Volume: 111db
-- Bass extension: 39hz
-- Weight: 12.8lbs / 5.8kg
-- Latency: 160ms
-- Aux Latency: 16ms
-- Power Bank: Yes
-- Aux In: Yes
-- MicroSD: Yes
-- App: Yes
-- EQ: Yes
-- Charging: AC Power brick
-- IP Rating: IPX6
-- Comparisons
-    - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
-
-### #19 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
-
-- Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. IPX6. Wall wart charger.
-- Max Volume: 112db
-- Bass extension: 43hz
-- Latency: 66ms
-- Aux Latency: 0ms
-- Weight: 11.2lbs / 5.1kg
-- Battery Life: 10 hours
-- Aux In: Yes
-- MicroSD: Yes
-- Power Bank: Yes
-- Charging: AC Power brick
-- IP Rating: IPX6
-- Comparisons
-    - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
-    - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
-
-### #20 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325): $125
-
-- Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
-- Negatives: Not quite as deep bass as the top ranked speakers.
-- Max Volume: 104db
-- Bass Extension: ~47hz
-- Weight: 15.8lbs / 7.1kg
-- Battery Life: 9 hours
-- Aux In: yes
-- MicroSD: Yes
-- Power Bank: Yes
-- USB Playback: Yes
-
-### #21 Teufel Boomster NG (2017): €99
-
-- Positives: Pretty neutral sound. Removable battery
-- Negatives: Not as deep bass as others in the category. Bass port can make noise
-- Bass extension: 47hz
-- Weight: 7.4lbs / 3.4kg
-- Battery Life: 18 hours
-- Power Bank: Yes
-- IP Rating: None
-- Comparisons
-    - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
-    - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
-    - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
-
-### #22 [Skullcandy Barrel XT](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325): $150
-
-- Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
-- Bass Extension: ~50hz
-- Max Volume: 104db
-- Weight: 12lbs / 5.4kg
-- Comparisons
-    - <https://www.youtube.com/watch?v=TZlSSuIivKo>
-    - <https://www.youtube.com/watch?v=ilGvwLRn_EQ>
-    - <https://www.youtube.com/watch?v=VInmjCyNmxg>
-    - <https://www.youtube.com/watch?v=n6DU7mFw7hc>
-    - <https://www.youtube.com/watch?v=cv234tGZUIc>
-    - <https://www.youtube.com/watch?v=7Ta2H9E0K8Y>
-
-### #23 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325): $170
-
-- Negatives: Treble boosted
-- Bass Extension: ~52hz
-- Battery Life: 8 hours
-- Aux In: Yes
-- Comparisons
-    - <https://www.youtube.com/watch?v=W4sIuhplM9w>
-    - <https://www.youtube.com/watch?v=77HvEdMXy2c>
-
-### #24 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325): $180
-
-- Positives: This speaker may move around in the rankings as we get better sound samples.
-- Negatives: Only IPX4. Bass extension doesn't seem very good.
-- Weight: 10.1lbs / 4.6kg
-- Battery Life: 16 hours
-- Aux In: Yes
-- Power Bank: Yes
-- IP Rating: IPX4
-- Microphone Input: Yes
-- Party Mode: Yes (Partycast 2.0 up to 100 speakers)
-- Charging: AC Power brick
-- Comparisons
-    - <https://www.youtube.com/watch?v=f_NtZs4HO8c>
-    - <https://www.youtube.com/watch?v=QC1ZTsfBrl8>
-    - <https://www.youtube.com/watch?v=CKMGqN1zzkk>
-    - <https://www.youtube.com/watch?v=8KADk_OsLM8>
-    - <https://www.youtube.com/watch?v=dh5lzF8t8w4>
-    - <https://www.youtube.com/watch?v=ZkGFKQuLRzY>
-
-### #25 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172): $90
-
-- Negatives: Lacking detail compared to the “Large” and not as deep of bass.
-- Battery Life: 20 hours
-- FM Radio: Yes
-- Aux In: Yes
-- IP Rating: IPX7
-- Aux In: Yes
-- Power Bank: Yes
-- Microphone Input: Yes
-- Charging: AC Power cord
-- Party Mode: Yes
-- Comparisons
-    - <https://www.youtube.com/watch?v=9dIs_4-nSfI>
-    - <https://www.youtube.com/watch?v=aBh91jFWVXI>
-
-### #26 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325): $300
-
-- Positives: Included wireless microphone.
-- Negatives: IPX4 water rating. Horrible battery life. Probably the worst sounding of the Partybox line
-- Max Volume: 94db
-- Bass Extension: 49hz
-- Weight: 16.5lbs / 7.5kg
-- Battery Life: 6 hours
-- Aux In: Yes
-- Power Bank: Yes
-- IP Rating: IPX4
-- USB Playback: Yes
-- Comparisons
-    - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
-    - <https://www.youtube.com/watch?v=-OAUrom9DZM>
-    - <https://www.youtube.com/watch?v=sW7qA0Qyg2U>
-- Links
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-on-the-go>
-
-### #27 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325): $500
-
-- Negatives: Thuddy upper bass, not as deep bass as others. Only IP66. Speaker will not remain at max volume and will turn itself down automatically.
-- Bass Extension: 49hz
-- Weight: 12.4lbs / 5.6kg
-- Battery Life: 30 hours
-- Aux In: Yes
-- Power Bank: Yes
-- Party Mode: Yes (Partyconnect up to 100 speakers)
-- TWS: No
-- USB Playback: Yes
-- Comparisons
-    - <https://www.youtube.com/watch?v=ImnPvu49RSM>
-    - <https://www.youtube.com/watch?v=yenr1BPMk6s>
-    - <https://www.youtube.com/watch?v=KjWAJ67aUMc>
-- Links
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xg500>
-
-### #28 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
+### #18 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
 
 - Positives: Wireless phone charging.
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
@@ -550,6 +389,167 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
 - Links
     - <https://www.rtings.com/speaker/reviews/bang-olufsen/beolit-20>
+
+### #19 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
+
+- Positives: Quite deep bass for the size and money.
+- Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
+- Max Volume: 111db
+- Bass extension: 39hz
+- Weight: 12.8lbs / 5.8kg
+- Latency: 160ms
+- Aux Latency: 16ms
+- Power Bank: Yes
+- Aux In: Yes
+- MicroSD: Yes
+- App: Yes
+- EQ: Yes
+- Charging: AC Power brick
+- IP Rating: IPX6
+- Comparisons
+    - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
+
+### #20 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
+
+- Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. IPX6. Wall wart charger.
+- Max Volume: 112db
+- Bass extension: 43hz
+- Latency: 66ms
+- Aux Latency: 0ms
+- Weight: 11.2lbs / 5.1kg
+- Battery Life: 10 hours
+- Aux In: Yes
+- MicroSD: Yes
+- Power Bank: Yes
+- Charging: AC Power brick
+- IP Rating: IPX6
+- Comparisons
+    - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
+    - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
+
+### #21 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325): $125
+
+- Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
+- Negatives: Not quite as deep bass as the top ranked speakers.
+- Max Volume: 104db
+- Bass Extension: ~47hz
+- Weight: 15.8lbs / 7.1kg
+- Battery Life: 9 hours
+- Aux In: yes
+- MicroSD: Yes
+- Power Bank: Yes
+- USB Playback: Yes
+
+### #22 Teufel Boomster NG (2017): €99
+
+- Positives: Pretty neutral sound. Removable battery
+- Negatives: Not as deep bass as others in the category. Bass port can make noise
+- Bass extension: 47hz
+- Weight: 7.4lbs / 3.4kg
+- Battery Life: 18 hours
+- Power Bank: Yes
+- IP Rating: None
+- Comparisons
+    - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
+    - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
+    - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
+
+### #23 [Skullcandy Barrel XT](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325): $150
+
+- Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
+- Bass Extension: ~50hz
+- Max Volume: 104db
+- Weight: 12lbs / 5.4kg
+- Comparisons
+    - <https://www.youtube.com/watch?v=TZlSSuIivKo>
+    - <https://www.youtube.com/watch?v=ilGvwLRn_EQ>
+    - <https://www.youtube.com/watch?v=VInmjCyNmxg>
+    - <https://www.youtube.com/watch?v=n6DU7mFw7hc>
+    - <https://www.youtube.com/watch?v=cv234tGZUIc>
+    - <https://www.youtube.com/watch?v=7Ta2H9E0K8Y>
+
+### #24 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325): $170
+
+- Negatives: Treble boosted
+- Bass Extension: ~52hz
+- Battery Life: 8 hours
+- Aux In: Yes
+- Comparisons
+    - <https://www.youtube.com/watch?v=W4sIuhplM9w>
+    - <https://www.youtube.com/watch?v=77HvEdMXy2c>
+
+### #25 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325): $180
+
+- Positives: This speaker may move around in the rankings as we get better sound samples.
+- Negatives: Only IPX4. Bass extension doesn't seem very good.
+- Weight: 10.1lbs / 4.6kg
+- Battery Life: 16 hours
+- Aux In: Yes
+- Power Bank: Yes
+- IP Rating: IPX4
+- Microphone Input: Yes
+- Party Mode: Yes (Partycast 2.0 up to 100 speakers)
+- Charging: AC Power brick
+- Comparisons
+    - <https://www.youtube.com/watch?v=f_NtZs4HO8c>
+    - <https://www.youtube.com/watch?v=QC1ZTsfBrl8>
+    - <https://www.youtube.com/watch?v=CKMGqN1zzkk>
+    - <https://www.youtube.com/watch?v=8KADk_OsLM8>
+    - <https://www.youtube.com/watch?v=dh5lzF8t8w4>
+    - <https://www.youtube.com/watch?v=ZkGFKQuLRzY>
+
+### #26 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172): $90
+
+- Negatives: Lacking detail compared to the “Large” and not as deep of bass.
+- Battery Life: 20 hours
+- FM Radio: Yes
+- Aux In: Yes
+- IP Rating: IPX7
+- Aux In: Yes
+- Power Bank: Yes
+- Microphone Input: Yes
+- Charging: AC Power cord
+- Party Mode: Yes
+- Comparisons
+    - <https://www.youtube.com/watch?v=9dIs_4-nSfI>
+    - <https://www.youtube.com/watch?v=aBh91jFWVXI>
+
+### #27 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325): $300
+
+- Positives: Included wireless microphone.
+- Negatives: IPX4 water rating. Horrible battery life. Probably the worst sounding of the Partybox line
+- Max Volume: 94db
+- Bass Extension: 49hz
+- Weight: 16.5lbs / 7.5kg
+- Battery Life: 6 hours
+- Aux In: Yes
+- Power Bank: Yes
+- IP Rating: IPX4
+- USB Playback: Yes
+- Comparisons
+    - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
+    - <https://www.youtube.com/watch?v=-OAUrom9DZM>
+    - <https://www.youtube.com/watch?v=sW7qA0Qyg2U>
+- Links
+    - <https://www.rtings.com/speaker/reviews/jbl/partybox-on-the-go>
+
+### #28 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325): $500
+
+- Negatives: Thuddy upper bass, not as deep bass as others. Only IP66. Speaker will not remain at max volume and will turn itself down automatically.
+- Bass Extension: 49hz
+- Weight: 12.4lbs / 5.6kg
+- Battery Life: 30 hours
+- Aux In: Yes
+- Power Bank: Yes
+- Party Mode: Yes (Partyconnect up to 100 speakers)
+- TWS: No
+- USB Playback: Yes
+- Comparisons
+    - <https://www.youtube.com/watch?v=ImnPvu49RSM>
+    - <https://www.youtube.com/watch?v=yenr1BPMk6s>
+    - <https://www.youtube.com/watch?v=KjWAJ67aUMc>
+- Links
+    - <https://www.rtings.com/speaker/reviews/sony/srs-xg500>
 
 ### #29 JBL Boombox:
 
