@@ -89,7 +89,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-encore-essential>
 
-### #6 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
+### #4 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
 
 - Positives: Warm sound with boosted bass. Quite deep bass. Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - Negatives: Not as loud as others. Battery life not great.
@@ -109,7 +109,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.patreon.com/posts/harman-kardon-go-100467989>
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
 
-### #4 Aiwa Exos-9: $250
+### #5 Aiwa Exos-9: $250
 
 - Positives: Still a great sounding speaker even against today's models.
 - Negatives: Features are lacking, generally not recommended anymore, not sold new anymore.
@@ -129,7 +129,7 @@ For longer runtime, check out a [power station](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=EaFtQNoYeKg>
     - <https://www.youtube.com/watch?v=QMvDPqHhA-4>
 
-### #5 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
+### #6 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others.
