@@ -380,7 +380,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #21 JBL Xtreme 4: $380
 
 - Positives: Removable battery. Slightly deeper bass than Xtreme 3. Use [this EQ](https://www.instagram.com/p/C4Sqdy8IkDX/) for the best sound quality.
-- Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange. Some upper mids and treble boost at high levels.
+- Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange which cannot be EQd out. Some upper mids and treble boost at high levels.
 - Weight 4.63lbs / 2.1kg
 - Battery Life: 24 hours
 - Charging: USB-C
@@ -396,6 +396,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.patreon.com/posts/jbl-xtreme-4-99560848>
     - <https://www.patreon.com/posts/jbl-xtreme-4-98947429>
     - <https://www.patreon.com/posts/jbl-xtreme-4-vs-99980591>
+    - <https://www.patreon.com/posts/harman-kardon-go-100339904>
     - <https://www.youtube.com/watch?v=MtCDfPVxV08>
 
 ### #22 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325): $103
