@@ -18,7 +18,6 @@ I plan to get around to these as soon as there are good sound samples and compar
 1. Boat
 1. Blitzwolf
 1. [Older Sony speakers](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb31/articles/00247922)
-1. Rocksteady 2.1
 1. JBL EON ONE Compact
 1. JBL EON ONE Pro
 1. JBL EON ONE MK2 
