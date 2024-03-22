@@ -342,6 +342,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: USB-C
 - TWS: Yes
 - IP Rating: IPX7
+- Comparisons
+    - <https://www.youtube.com/watch?v=q44mBW2C0m0>
+    - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
+    - <https://www.youtube.com/watch?v=-n-io_2nW3o>
+    - <https://www.youtube.com/watch?v=xMVzR5IgoAQ>
 
 ### #17 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
 
