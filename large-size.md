@@ -571,9 +571,18 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=jwyPReDpp88>
     - <https://www.youtube.com/watch?v=ORawKC23apY>
 
-### #33 [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325): $100
+### #33 [Rocksteady Stadium Speakers and Subwoofer](https://www.amazon.com/gp/aw/d/B08BDQ832V?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=3502ebcff2269ad1517217bdde0363af&hsa_cr_id=8993131410501&qid=1711075442&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&pd_rd_w=jgxBy&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=40K515X0BQ8B1DYGBKY3&pd_rd_wg=ZJUj4&pd_rd_r=87708ef6-b38d-4222-8f4d-4ed9e5b0985e&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5f567caa2f2cba8c696f55f5c7f8633d&language=en_US&ref_=as_li_ss_tl): $440
+- Negatives: 7khz upper mids peak. Upper bass boosted
+- Max Volume: 104db
+- Battery Life: 16 hours
+- Bass Extension: 49hz
+- Weight: 9.0 lbs / 4.1kg
+- Aux In: Yes
+- Comparisons
+    - <https://www.youtube.com/watch?v=WPkMk9H-9-4>
 
-- Positives:
+### #34 [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325): $100
+
 - Negatives: Not a very smooth frequency response. Treble is peaky. Boosted upper bass.
 - Max Volume: 104db
 - Bass Extension: 49hz
@@ -585,7 +594,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=sCaHSGO4_MY>
 
-### #34 JBL Xtreme: $200
+### #35 JBL Xtreme: $200
 
 - Negatives: Issues with bass distortion at high volumes. An older speaker outclassed by newer releases of the Xtreme. External AC power brick for charging.
 - Max Volume: 96db
@@ -599,7 +608,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
 
-### #35 [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325): $236
+### #36 [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325): $236
 
 - Positives: Very deep bass for the size/weight.
 - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall's added dsp echo which cannot be turned off, very distracting and annoying. It's like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
@@ -616,7 +625,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.patreon.com/posts/marshall-first-78807089>
     - <https://www.youtube.com/watch?v=PBZvukWGJk0>
 
-### #36 [Doss Soundbox XL](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325): $65
+### #37 [Doss Soundbox XL](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325): $65
 
 - Negatives: A little hollow sounding.
 - Max Volume: 100db
@@ -631,7 +640,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=ZNob1QwXiqY>
     - <https://www.youtube.com/watch?v=TiVx4pPl1GE>
 
-### #37 [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325): $80
+### #38 [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325): $80
 
 - Negatives: Boosted bass, rolled off treble. Not as neutral or detailed as other top ranked speakers.
 - Max Volume: 106db
@@ -646,7 +655,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=Ko87nHKqfus>
     - <https://www.youtube.com/watch?v=Ef2YxcTQYqE>
 
-### #38 [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325): $198
+### #39 [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325): $198
 
 - Negatives: Overly expensive. Bass not as deep as competitors. Upper mids peak. Hollow sounding. Rolled off treble. Not much clarity. Does not float. Speaker will not remain at max volume and will turn itself down automatically.
 - Bass Extension: 54hz
@@ -664,7 +673,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xg300>
 
-### #39 Xdobo X8 Max: $73
+### #40 Xdobo X8 Max: $73
 
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
 - Bass Extension: ~52hz
@@ -676,7 +685,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=mVwz4P6oVVA>
 
-### #40 [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325): $300
+### #41 [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325): $300
 
 - Negatives: Not very deep bass for the size. Gets distorted at around 70-80% with bass thuds.
 - Bass Extension: ~55hz
@@ -687,7 +696,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=ww4LMIYgu0k>
     - <https://www.youtube.com/watch?v=Vyo6VlUOYf8>
 
-### #41 [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325): $600
+### #42 [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325): $600
 
 - Negatives: Pretty neutral. Loses bass quickly after 40% volume. A lot of compression artifacts at high volume. Not really much of any difference between the G1 and G2. External AC power brick for charging. Horribly overpriced
 - Weight: 2.43lbs / 1.1kg
@@ -699,7 +708,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://youtu.be/bf-lrmc-Nz8>
     - <https://youtu.be/9nt4xzBbkKM>
 
-### #42 B&O Beosound Level: $1850
+### #43 B&O Beosound Level: $1850
 
 - Negatives: Not very deep bass, peaks in midrange. Hugely expensive.
 - Max Volume: 96db
@@ -711,7 +720,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/shorts/SepQ-Ri35KM>
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
 
-### #43 Ultimate Ears Megablast: $240
+### #44 Ultimate Ears Megablast: $240
 
 - Negatives: Bass is not very deep compared to the competition
 - Bass Extension: 64hz
@@ -720,7 +729,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - LInks
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/megablast>
 
-### #44 LG PN7: $150
+### #45 LG PN7: $150
 
 - Negatives: No deep bass
 - Max Volume: 106db
@@ -730,7 +739,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
 
-### #45 [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325): $280
+### #46 [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325): $280
 
 - Negatives: Not very detailed, not as deep bass as competitors.
 - Weight: 6.3lbs / 2.85kg
@@ -740,7 +749,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=2fYIobmLo-o>
 
-### #46 Marshall Acton 2: $280
+### #47 Marshall Acton 2: $280
 
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors. Sounds mushy.
 - Weight: 4.5 lbs / 2.9kg
@@ -751,7 +760,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=UNHjks4p7Rk>
     - <https://www.youtube.com/watch?v=mtr2od2_Om0>
 
-### #47 Marshall Killburn II: $280
+### #48 Marshall Killburn II: $280
 
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
 - Max Volume: 102db
@@ -764,7 +773,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - <https://www.youtube.com/watch?v=UNHjks4p7Rk>
 
-### #48 Soundcore Rave Neo: $80
+### #49 Soundcore Rave Neo: $80
 
 - Negatives: Muddy with treble rolloff.
 - Max Volume: 106db
@@ -782,7 +791,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=ePD09iI6qkI>
     - <https://www.youtube.com/watch?v=KNfh6TuyLi0>
 
-### #49 [W-King D9](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325): $72
+### #50 [W-King D9](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325): $72
 
 - Negatives: Very rolled off treble.
 - Max Volume: 106db
@@ -798,7 +807,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=sDLWQNloXgk>
     - <https://www.youtube.com/watch?v=Y__GH361JtQ>
 
-### #50 Orange Box: £275
+### #51 Orange Box: £275
 
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
 - Weight: 6.62lbs / 3 kg
@@ -808,7 +817,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.patreon.com/posts/orange-box-98897294>
 
-### #51 Laney F67: $340
+### #52 Laney F67: $340
 
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
 - Bass Extension: ~62hz
@@ -819,7 +828,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=JYhhBiyZzg4>
     - <https://www.youtube.com/watch?v=w94Uc4SJwiw>
 
-### #52 LG Xboom XG7: $120
+### #53 LG Xboom XG7: $120
 
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 24 hours
@@ -827,7 +836,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=7KG0dPs-xUQ>
     - <https://www.youtube.com/watch?v=LJdkI-BiHQs>
 
-### #53 LG Xboom Go PL7: $70
+### #54 LG Xboom Go PL7: $70
 
 - Negatives: 9khz peak. Not good sounding.
 - Max Volume: 95db
@@ -839,7 +848,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=AxRJ-7Ac4LU>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
 
-### #54 Bugani M83: $60
+### #55 Bugani M83: $60
 
 - Positives: Very inexpensive.
 - Negatives: Not very deep bass, treble a little boosted
@@ -849,7 +858,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons:
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 
-### #55 Hopestar A6: $86
+### #56 Hopestar A6: $86
 
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - Bass Extension: 63hz
@@ -859,7 +868,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
 
-### #56 Soundcore Trance/Rave Mega
+### #57 Soundcore Trance/Rave Mega
 
 - Negatives: Hugely recessed mids and treble
 - Max Volume: 97db
@@ -872,7 +881,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=ePD09iI6qkI>
     - <https://www.youtube.com/watch?v=KNfh6TuyLi0>
 
-### #57 Ortizan M8
+### #58 Ortizan M8
 
 - Negatives: Not much bass, bass distortion and rattle at high volume.
 - Weight: 4.63lbs / 2.1kg
@@ -882,7 +891,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=iMVC77P4EeY>
 
-### #58 Doss Extreme Boom
+### #59 Doss Extreme Boom
 
 - Negatives: Rolled off treble, barely any bass
 - Weight: 5.58lbs / 2.53kg
