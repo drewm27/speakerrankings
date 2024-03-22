@@ -320,6 +320,9 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes
 - Party Mode: Yes
 - IP Rating: None
+- Comparisons
+    - <https://www.youtube.com/watch?v=fFP_OPriRlM>
+    - <https://www.youtube.com/watch?v=ezYZWoYEXfw>
 
 ### #17 [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325): $450
 
