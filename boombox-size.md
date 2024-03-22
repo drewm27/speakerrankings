@@ -337,7 +337,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - App: Yes
 - Aux In: Yes
-- MicroSD: YesA
+- MicroSD: Yes
 - Power Bank: Yes
 - Charging: USB-C
 - TWS: Yes
