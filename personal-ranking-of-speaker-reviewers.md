@@ -20,7 +20,7 @@ My personal ranking of speaker reviewers and recordings, obviously this is quite
 1. <https://www.youtube.com/@KULASTECHSHOW20>
     - Reasonable recordings
 1. <https://www.youtube.com/@JaysStraightUpReviews>
-    - Recordings done with a cell phone, not very good song choice. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
+    - Recordings done with a Sony Xperia I IV cell phone, not great audio quality, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
 1. <https://www.youtube.com/@DannyPops>
     - Seems to be recording speakers off axis, always has the microphone above the speaker. Prefers speakers that are fun, rather than neutral. Likely paid heavily by Marshall
 1. <https://www.youtube.com/@CEONTHEMAKING>
