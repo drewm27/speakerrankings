@@ -198,6 +198,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=mjBlrhZwDmE>
     - <https://www.youtube.com/watch?v=HBky_51Uq_g>
     - <https://www.youtube.com/watch?v=t66JKkidpt8>
+    - <https://www.youtube.com/watch?v=R3fLkaez35A>
 - Links
     - <https://www.rtings.com/speaker/reviews/anker/soundcore-motion-boom>
 
