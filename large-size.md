@@ -119,7 +119,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 ### #6 [Soundcore Boom 2](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325): $130
 
-- Positives: Pretty deep bass for the size. Cool lights in the side passive radiators. For the best sound quality use [Oluv's EQ](https://www.patreon.com/posts/anker-soundcore-100643572). With the stock tuning, this speaker would rank around #24, due to the boosted bass and rising treble.
+- Positives: Pretty deep bass for the size. Cool lights in the side passive radiators. For the best sound quality use [Oluv's EQ](https://www.patreon.com/posts/anker-soundcore-100643572) or [Alan Ross's EQ](https://www.instagram.com/p/C5EiGNSsR7C/?hl=en). With the stock tuning, this speaker would rank around #24, due to the boosted bass and rising treble.
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues at low levels similar to other Soundcore speakers, not great for critical listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db
 - Weight: 3.7lbs / 1.68kg
 - Battery Life: 24 hours
