@@ -166,7 +166,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
 
-### #8 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $190
+### #8 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $155
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others.
