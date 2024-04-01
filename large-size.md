@@ -134,6 +134,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX7
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Comparisons
+    - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
     - <https://www.youtube.com/watch?v=R3fLkaez35A>
     - <https://www.patreon.com/posts/anker-soundcore-100643572>
     - <https://www.youtube.com/watch?v=mIeR8bNN29A>
@@ -230,6 +231,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Power Bank: Yes
 - Comparisons
+    - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
     - <https://www.youtube.com/watch?v=011tPYd7Y4E>
     - <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
     - <https://www.youtube.com/watch?v=_4250Xm3Igc>
