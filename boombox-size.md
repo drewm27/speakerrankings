@@ -714,7 +714,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #40 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
 
-- Negatives: Boosted bass, upper bass boomy, boosted treble, not as loud as others in the class. Very low IPX2 water rating
+- Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low IPX2 water rating
 - Bass Extension: 42hz
 - Weight: 10.8lbs / 4.9kg
 - Battery Life: 20 hours
