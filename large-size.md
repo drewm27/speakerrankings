@@ -9,6 +9,8 @@ A good balance between bigger travel size, small party size and reasonable weigh
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
+For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
+
 ### #1 [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $290
 
 - Positives: Very balanced sound. Finally USB-C charging
