@@ -123,6 +123,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - TWS: No
 - EQ: Yes
+- App: No
 - Party Mode: No
 - Comparisons
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
