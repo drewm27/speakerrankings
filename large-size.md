@@ -137,6 +137,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Comparisons
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
+    - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
     - <https://www.youtube.com/watch?v=R3fLkaez35A>
     - <https://www.patreon.com/posts/anker-soundcore-100643572>
     - <https://www.youtube.com/watch?v=mIeR8bNN29A>

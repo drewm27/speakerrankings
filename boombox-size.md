@@ -108,6 +108,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=BwuzsGckzos>
     - <https://www.youtube.com/watch?v=ktjCIpky_Lg>
+    - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
     - <https://www.patreon.com/posts/harman-kardon-go-100467989>
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
 
