@@ -17,7 +17,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
 - Weight: 3.17lbs / 1.44kg
 - Battery Life: 30 hours
-- Power Bank: No
+- Power Bank: Yes
 - Latency: 60ms
 - Aux Latency: 0ms
 - App: Yes

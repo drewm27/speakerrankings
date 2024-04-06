@@ -161,7 +161,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
 - Weight: 1.21lbs / 550g
 - Battery Life: 30 hours
-- Power Bank: No
+- Power Bank: Yes
 - Latency: 60ms
 - Aux Latency: 0ms
 - App: Yes
