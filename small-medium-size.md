@@ -488,7 +488,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #23 Tribit Xsound Plus 2
 
 - Positives: Use Maxsound Traditional EQ for the best sound quality
-- Negatives: Boosted treble, boosted bass. Bass is slappy and distorted in xbass mode
+- Negatives: Boosted treble, boosted bass. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
 - Battery Life: 24 hours
 - Charging: USB-C
 - Comparisons
