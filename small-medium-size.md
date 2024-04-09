@@ -419,7 +419,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/charge-5>
 
-### #18 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325): $100
+### #18 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325): $74
 
 - Positives: Pretty decent sounding.
 - Negatives: Not stereo. Somewhat bass boosted, and more of a warm sound. Quite bassy off axis.
