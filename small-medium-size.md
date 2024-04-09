@@ -450,7 +450,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=y4DYttybhJ8>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
 
-### #20 Cleer Audio Scene: $100
+### #20 [Cleer Audio Scene: $100](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl): $100
 
 - Positives: Quite neutral frequency response, almost indistinguishable from the very neutral Flip 6 besides the worse bass extension.
 - Negatives: Less bass extension than a Flip 6
