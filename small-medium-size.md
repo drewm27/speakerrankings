@@ -485,7 +485,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
 
-### #23 Tribit Xsound Plus 2
+### #23 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl): $60
 
 - Positives: Use Maxsound Traditional EQ for the best sound quality, still overly boosted bass and treble
 - Negatives: Boosted treble, boosted bass. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
