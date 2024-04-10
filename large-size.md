@@ -278,7 +278,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=g05lODItS4w>
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 
-### #14 [Soundcore Motion X600](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325): $150 after $50 coupon
+### #14 [Soundcore Motion X600](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325): $150
 
 - Positives: Firmware 4.2.9 is a big improvement in sound quality over previous releases. Try this [Oluv EQ for the best sound quality](https://www.patreon.com/oluvsgadgets/shop/soundcore-motion-x600-eq-settings-106961)
 - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn't very deep and the sound is still a little unnatural.
