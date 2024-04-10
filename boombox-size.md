@@ -102,6 +102,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency 120ms
 - Aux Latency: 112ms
 - TWS: Yes
+- App: No
 - EQ: Yes (hidden bass and treble adjustment)
 - Charging: AC Power brick
 - IP Rating: None
