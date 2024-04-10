@@ -727,7 +727,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #43 [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325): $600
 
-- Negatives: Pretty neutral. Loses bass quickly after 40% volume. A lot of compression artifacts at high volume. Not really much of any difference between the G1 and G2. External AC power brick for charging. Horribly overpriced
+- Positives: Pretty neutral
+- Negatives: Loses bass quickly after 40% volume. A lot of compression artifacts at high volume. Not really much of any difference between the G1 and G2. External AC power brick for charging. Horribly overpriced
 - Weight: 2.43lbs / 1.1kg
 - Battery Life: 24 hours
 - Aux In: Yes
