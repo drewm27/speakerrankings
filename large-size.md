@@ -352,9 +352,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Quite deep bass for the category.
 - Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
 - Max Volume: 96db
+- Weight: 4.96lbs / 2.3kg
 - Bass Extension: 45hz
 - Battery Life: 16 hours
 - Power Bank: Yes
+- IP Rating: IPX5
+- EQ: Yes (Bass boost 3 steps)
+- TWS: Yes
 - Comparisons
     - <https://www.youtube.com/watch?v=tIsmoHIQ5-I>
     - <https://www.youtube.com/watch?v=5tz_AnBghiA>
