@@ -539,7 +539,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
 - Max Volume: 98db
 - Bass Extension: 54hz
-- Weight: 5.3 lbs / 2.4kg
+- Weight: 5.3lbs / 2.4kg
 - Battery Life: 15 hours
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: No
@@ -553,6 +553,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #30 [Raymate M8](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325): $80
 
 - Negatives: Slightly muffled sounding
+- Weight: 4.5lbs / 2.1kg
 - Battery Life: 15 hours
 - Comparisons
     - <https://www.youtube.com/watch?v=ZInN26jI13M>
