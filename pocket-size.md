@@ -276,10 +276,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Charging: USB-C
 - IP Rating: IP67
 - Comparisons
+    - <https://www.youtube.com/watch?v=Eg3I8aDdI5s>
     - <https://www.youtube.com/shorts/cT-oUhYhPWk>
 
-### #14 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
-### #15 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
+### #14 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
 - Negatives: Not much bass at all, strange mids peak.
 - Max Volume: 88db
@@ -298,7 +298,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/go-3>
 
-### #16 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
+### #15 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.
 - Weight: 0.60lbs / 274g
@@ -315,7 +315,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
     - <https://www.youtube.com/watch?v=EFB1Ut2EZMo>
 
-### #17 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
+### #16 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Muddy sounding.
 - Max Volume: 88db
@@ -335,7 +335,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xb13>
 
-### #18 JBL Clip: $50
+### #17 JBL Clip: $50
 
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - Bass Extension: ~95hz
@@ -351,7 +351,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
-### #19 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
+### #18 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
 
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
@@ -367,7 +367,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
-### #20 Xiaomi Mi Portable Outdoor
+### #19 Xiaomi Mi Portable Outdoor
 
 - Negatives: Not much bass, treble rolled off
 - Weight: 0.41lbs / 185g
@@ -378,7 +378,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=NwlwyofEYDM>
 
-### #21 Hopestar H54
+### #20 Hopestar H54
 
 - Negatives: Bright treble, not much bass, harsh mids
 - Battery Life: 5 hours
@@ -388,7 +388,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
 
-### #22 Sony SRS-XB12
+### #21 Sony SRS-XB12
 
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
@@ -407,7 +407,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 
-### #23 Harman Kardon Esquire Mini 2: $100
+### #22 Harman Kardon Esquire Mini 2: $100
 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - Battery Life: 10 hours
@@ -418,7 +418,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
     - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
 
-### #24 Harman Kardon Neo: $90
+### #23 Harman Kardon Neo: $90
 
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
@@ -429,7 +429,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons
     - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
 
-### #25 Lenovo 700: $85
+### #24 Lenovo 700: $85
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
