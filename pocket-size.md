@@ -229,6 +229,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - Max Volume: 97db
 - Bass Extension: 69hz
+- Weight: 0.86lbs / 390g
 - Battery Life: 25 hours
 - Power Bank: No
 - App: No
@@ -261,7 +262,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/clip-4>
 
-### #13 [JBL Go 4](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
+### #13 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
 
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
