@@ -126,7 +126,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons
     - <https://www.youtube.com/watch?v=6xcdkK7z7Ys>
-    - <https://youtu.be/929FIaHlbeI?si=XYDbvF6aYNDH-psm>
+    - <https://www.youtube.com/watch?v=929FIaHlbeI>
     - <https://www.youtube.com/watch?v=iE3qoiDAn98>
     - <https://www.youtube.com/watch?v=mjBlrhZwDmE>
     - <https://www.youtube.com/watch?v=UQ3S8D3_1nE>
@@ -148,7 +148,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - IP Rating: IP67
 - Comparisons
-    - [https://www.youtube.com/watch?v=OZEP9ziwkHw](https://www.youtube.com/watch?v=OZEP9ziwkHw&t=96s)
+    - <https://www.youtube.com/watch?v=OZEP9ziwkHw>
     - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
     - <https://www.youtube.com/watch?v=BG9oR8mX0Kw>
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
@@ -157,7 +157,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #6 [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4): $150
 
-- Positives: Modular, can easily attach a subwoofer. Finally USB-C charging
+- Positives: Modular, can easily attach a subwoofer. Finally USB-C charging. Dynamically changes sound based on forward facing or upward facing orientation
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
 - Weight: 1.21lbs / 550g
 - Battery Life: 30 hours
@@ -1332,7 +1332,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery life: 30 hours
 - Weight: 1.3lbs / 590g
 - Comparisons
-    - 1. <https://www.youtube.com/watch?v=8uqI1pxHeVM>
+    - <https://www.youtube.com/watch?v=8uqI1pxHeVM>
 
 ### #89 [Oontz Angle 3](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) Ultra: $40
 

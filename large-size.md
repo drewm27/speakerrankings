@@ -382,7 +382,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP56
 - Comparisons
     - <https://www.youtube.com/watch?v=V4Nq-rVAP1k>
-    - [https://www.youtube.com/watch?v=bPfwaZp1x1Q](https://www.youtube.com/watch?v=bPfwaZp1x1Q&t=993s)
+    - <https://www.youtube.com/watch?v=bPfwaZp1x1Q>
 - Links
     - <https://www.rtings.com/speaker/reviews/sonos/move>
 
@@ -588,7 +588,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - TWS: Yes
 - Comparisons
-    - [https://www.youtube.com/watch?v=ZxPfuAxgQfE](https://www.youtube.com/watch?v=ZxPfuAxgQfE&t=489s)
+    - <https://www.youtube.com/watch?v=ZxPfuAxgQfE>
 
 ### #33 [Treblab HD-360](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325): $110
 
