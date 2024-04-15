@@ -440,6 +440,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - IP Rating: IPX2
 - Comparisons
-    - <https://youtu.be/Yam_mssFqeU>
+    - <https://www.youtube.com/watch?v=Yam_mssFqeU>
     - <https://www.youtube.com/watch?v=6CtZiXCJF18>
 

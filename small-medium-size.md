@@ -41,7 +41,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
     - <https://www.youtube.com/watch?v=cOOI7TM43Fc>
     - <https://www.youtube.com/watch?v=e33s1WsRBMs>
-    - <https://youtu.be/AtVrVzLUnKM>
+    - <https://www.youtube.com/watch?v=AtVrVzLUnKM>
     - <https://www.youtube.com/watch?v=gHEAB0eT7NA> (0.3.9 old firmware)
     - <https://www.youtube.com/watch?v=AzRRwLO59PI> (0.4.3 vs 0.5.0 firmware comparison)
 - Links
@@ -364,7 +364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=1RD6Wz_dg4w>
     - <https://www.youtube.com/watch?v=iE3qoiDAn98>
     - <https://www.youtube.com/watch?v=4xVEvEitaPU>
-    - <https://youtu.be/8dxlVDGHAo4>
+    - <https://www.youtube.com/watch?v=8dxlVDGHAo4>
 
 ### #15 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325): $180
 
@@ -432,8 +432,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Charging: USB-C
 - Comparisons
-    - <https://youtu.be/BL9ks2HLYBE>
-    - <https://youtu.be/7ZnTEkAwy98>
+    - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
+    - <https://www.youtube.com/watch?v=7ZnTEkAwy98>
 
 ### #19 [Mifa Wildrod](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325): $47
 
@@ -904,12 +904,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=fxoGZdNakIg>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
-    - <https://youtu.be/GLHL5wCkpO4>
-    - <https://youtu.be/APkoD9aBczw>
-    - <https://youtu.be/jZMk76VOGkk>
-    - <https://youtu.be/seSKe2MRngo>
-    - <https://youtu.be/Cze7m5DDJ7o>
-    - <https://youtu.be/yiwtSAiu6d8>
+    - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
+    - <https://www.youtube.com/watch?v=APkoD9aBczw>
+    - <https://www.youtube.com/watch?v=jZMk76VOGkk>
+    - <https://www.youtube.com/watch?v=seSKe2MRngo>
+    - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
+    - <https://www.youtube.com/watch?v=yiwtSAiu6d8>
 
 ### #53 JBL Charge Essential: $180
 
@@ -931,13 +931,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Power Bank: Yes
 - Comparisons
-    - <https://youtu.be/GLHL5wCkpO4>
-    - <https://youtu.be/0vht8NRUrl4>
-    - <https://youtu.be/X1pEsqtN61c>
-    - <https://youtu.be/kuOeIek7F8U>
-    - <https://youtu.be/EmSppzPAzuQ>
-    - <https://youtu.be/LXlkfpHZYzQ>
-    - <https://youtu.be/tSOxKbWf8OY>
+    - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
+    - <https://www.youtube.com/watch?v=0vht8NRUrl4>
+    - <https://www.youtube.com/watch?v=X1pEsqtN61c>
+    - <https://www.youtube.com/watch?v=kuOeIek7F8U>
+    - <https://www.youtube.com/watch?v=EmSppzPAzuQ>
+    - <https://www.youtube.com/watch?v=LXlkfpHZYzQ>
+    - <https://www.youtube.com/watch?v=tSOxKbWf8OY>
 
 ### #55 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325): $160
 
@@ -1064,12 +1064,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
 - Comparisons
-    - <https://youtu.be/wpgnV1L6R_0>
-    - <https://youtu.be/V9v9t9BEIe4>
-    - <https://youtu.be/vtfBbnsS7pE>
-    - <https://youtu.be/RKatn95aUvI>
-    - <https://youtu.be/k95hOULIPRI>
-    - <https://youtu.be/de0ZwpbXYAc>
+    - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
+    - <https://www.youtube.com/watch?v=V9v9t9BEIe4>
+    - <https://www.youtube.com/watch?v=vtfBbnsS7pE>
+    - <https://www.youtube.com/watch?v=RKatn95aUvI>
+    - <https://www.youtube.com/watch?v=k95hOULIPRI>
+    - <https://www.youtube.com/watch?v=de0ZwpbXYAc>
 
 ### #66 Marshall Emberton II: $170
 

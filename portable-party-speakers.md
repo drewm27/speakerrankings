@@ -7,7 +7,7 @@ comments: true
 
 Speakers like the JBL Partybox 310 although they will play deeper just won't have the output needed for larger areas especially outdoors, so these are the best suggestions for extremely loud speakers.
 
-If you absolutely can't live without an internal battery and need the loudest speaker possible, you'll be limited to the [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) (EU only) or the [Soundboks Gen 3/4](https://soundboks.com/products/speakers/soundboks-4) (126db peak). [Here they are compared](https://youtu.be/h_LMN0-o9VI)
+If you absolutely can't live without an internal battery and need the loudest speaker possible, you'll be limited to the [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) (EU only) or the [Soundboks Gen 3/4](https://soundboks.com/products/speakers/soundboks-4) (126db peak). [Here they are compared](https://www.youtube.com/watch?v=h_LMN0-o9VI)
 
 Also remember that you can get a power station for any speaker mentioned here. See [this page for more information about Power Stations](/portable-power-stations/)
 

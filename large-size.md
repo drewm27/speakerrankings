@@ -733,10 +733,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux In: Yes
 - Comparisons
-    - <https://youtu.be/C7-YUgWGt9Q>
-    - <https://youtu.be/th3EgJOQENw>
-    - <https://youtu.be/bf-lrmc-Nz8>
-    - <https://youtu.be/9nt4xzBbkKM>
+    - <https://www.youtube.com/watch?v=C7-YUgWGt9Q>
+    - <https://www.youtube.com/watch?v=th3EgJOQENw>
+    - <https://www.youtube.com/watch?v=bf-lrmc-Nz8>
+    - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
 
 ### #44 B&O Beosound Level: $1850
 
