@@ -38,7 +38,7 @@ navbar-links:
     - Work Currently In Progress: "work-currently-in-progress"
     - Personal Ranking of Speaker Reviewers: "personal-ranking-of-speaker-reviewers"
     - Portable Power Stations and Power Banks: "portable-power-stations"
-    - Karaoke Setups: "karaoke-setups"
+    - Karaoke Setups: "karaoke-setups/"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
