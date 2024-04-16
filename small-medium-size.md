@@ -136,8 +136,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #5 Denon Envaya DSB-250BT: $250
 
-- Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral.
-- Negatives: Expensive. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
+- Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
+- Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Max Volume: 97db
 - Bass extension: 57hz
 - Weight 1.6lbs / 750g
