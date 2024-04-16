@@ -30,9 +30,9 @@ My personal ranking of speaker reviewers and recordings, obviously this is quite
 1. <https://www.youtube.com/@storytripperhd>
     - Not great recording quality, done with a cell phone
 1. <https://www.youtube.com/@GYMCADDY>
-    - Not great recording quality, mostly interested in bass
+    - Not great recording quality. Mostly interested in bass
 1. <https://www.youtube.com/@NewStuffTV1>
-    - Not great recording quality, mostly interested in bass. Has been seen in Soundcore advertisements, likely paid by them.
+    - Not great recording quality, his microphone doesn't pick up any lower bass. Mostly interested in bass. Has been seen in Soundcore advertisements, likely paid by them. Appears to also be sponsored by Sony.
 1. <https://www.youtube.com/@FlossyCarter>
     - Recording quality isn’t very good, mostly interested in bass
 1. <https://www.youtube.com/@KosherTech>
