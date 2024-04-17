@@ -502,6 +502,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power cord
 - Comparisons
     - <https://www.youtube.com/watch?v=JLk5sdDpO1k>
+    - <https://www.youtube.com/watch?v=-yxKYD0JxOE>
 
 ### #26 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325): $170
 
