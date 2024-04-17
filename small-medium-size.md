@@ -553,7 +553,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 
 ### #28 [Sony ULT Field 1](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl): $128
-- Negatives: Sony removed party mode from this generation. Upper midrange peak, rolled off treble
+- Negatives: Sony removed party mode compared to previous speakers. Upper midrange peak, rolled off treble
 - Weight: 1.43lbs / 650g
 - Battery Life: 12 hours
 - Power Bank: No
@@ -971,7 +971,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/sonos/roam>
 
-### #57 Tribit Xsound Go: $37
+### #57 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl): $31
 
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
@@ -995,7 +995,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
 
-### #59 Soundcore 2: $30
+### #59 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl): $35
 
 - Negatives: Bass doesn't go as deep as others
 - Weight: 0.70lbs / 318g
@@ -1005,7 +1005,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
     - <https://www.youtube.com/watch?v=bLi4fsS23Do>
 
-### #60 Klipsch Groove/Heritage Groove: $120
+### #60 [Klipsch Groove/Heritage Groove](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl): $100
 
 - Positives: Pretty balanced sound.
 - Negatives: Not stereo. Bass doesn't go as deep as others its size. Gets distorted at higher levels. Wouldn't generally recommend these old speakers as they can't compete with modern speakers for bass performance and features.
@@ -1019,7 +1019,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=V1pufWw-lrg>
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
 
-### #61 Sony SRS-XE300: $150
+### #61 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl): $137
 
 - Negatives: Muffled sounding, not very deep bass. Hollow sounding. Worse than a XB43
 - Weight: Weight: 2.86lbs / 1.3kg
@@ -1031,7 +1031,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
     - <https://www.youtube.com/watch?v=frYrfHKWJvw>
 
-### #62 Tribit Stormbox: $55
+### #62 [Tribit Stormbox](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl): $68
 
 - Negatives: Muffled sounding, treble dips from 5khz-12khz. Listening from the front is the worst frequency response, lay it down facing up with xbass off for the smoothest response. Not technically a 360 speaker, only front and rear.
 - Max Volume: 97db
@@ -1056,7 +1056,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - <https://www.youtube.com/watch?v=_5f6b-5wI98>
 
-### #64 Tronsmart T7: $50
+### #64 [Tronsmart T7](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl): $43
 
 - Negatives: Peaky in the upper mids and in the mid treble. Worse bass extension than similar size speakers
 - Weight: 1.91lbs / 870g
@@ -1065,7 +1065,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=PJEEGkFTfOU>
 
-### #65 Raymate R5: $29
+### #65 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl): $20
 
 - Negatives: Not much bass, peaky upper mids
 - Battery Life: 16 hours
@@ -1087,7 +1087,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=k95hOULIPRI>
     - <https://www.youtube.com/watch?v=de0ZwpbXYAc>
 
-### #67 Marshall Emberton II: $170
+### #67 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl): $132
 
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud.
 - Max Volume: 88db
@@ -1438,7 +1438,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
 
-### #99 Oontz Angle 3: $26
+### #99 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl): $28
 
 - Negatives: Very harsh treble, no bass.
 - Max Volume: 89db
@@ -1451,7 +1451,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/oontz/angle-3>
 
-### #100 Altec Lansing Lifejacket 2/ Lifejacket 3: $34
+### #100 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl): $60
 
 - Negatives: Barely any bass, “pathetic sounding” said Jay's Reviews. Gets distorted with a lot of bass. The entire Altec Lansing Bluetooth speaker line likely also sounds similarly bad.
 - Weight: 2.7lbs / 1.22kg
@@ -1463,7 +1463,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=YkqfKLSgvfQ>
     - <https://www.youtube.com/watch?v=_5f6b-5wI98>
 
-### #101 Limitless Innovations TikiTunes: $40
+### #101 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl): $40
 
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad
 - Weight: 0.7lbs / 0.3kg
