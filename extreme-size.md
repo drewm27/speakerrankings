@@ -34,7 +34,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=1MHvBEahqNs>
     - <https://www.youtube.com/watch?v=bny5v3Gt4Xc>
 
-### #1 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $500
+### #2 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $500
 - Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes. Very close to the 320 in terms of performance.
 - Negatives: Very large
 - Bass Extension: 32hz
@@ -60,7 +60,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-310>
 
-### #2 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl): $400
+### #3 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl): $400
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Quite neutral sound. deeper bass than the 100 and 110. Removable battery.
 - Negatives: High price
 - Weight: 24lbs / 10.8kg
@@ -80,7 +80,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=QTQqAp-JtU0>
     - <https://www.youtube.com/watch?v=LFE4dghejGI>
 
-### #2 [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325): $260
+### #4 [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325): $260
 
 - Positives: Quite neutral sound, pretty deep bass.
 - Negatives: A slight peak in the upper mids. Slight TWS issue where the 2nd is slightly delayed. Just as loud and slightly deeper bass than a Stormbox Blast which is way smaller with better sound quality.
@@ -114,7 +114,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-100>
 
-### #3 [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325): $350
+### #5 [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325): $350
 
 - Positives: Very neutral sound, slightly better than the Partybox 100.
 - Negatives: Bass isn't as deep as the Partybox 100. Just as loud and slightly deeper than a Stormbox Blast which is way smaller with better sound. Increase treble one step in the app to make it more neutral.
@@ -139,7 +139,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-110>
 
-### #4 JBL Partybox 300: $300
+### #6 JBL Partybox 300: $300
 
 - Negatives: Hard to carry, too tall, drags on the ground. Max spl and bass extension are only as good as the Partybox 100. No real reason to ever get one, get a Partybox 100 instead.
 - Bass Extension: 40hz
@@ -160,7 +160,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-300>
 
-### #5 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
+### #7 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
 
 - Positives: Good midrange and treble.
 - Negatives: Not stereo. Only IP44 with the rain cover installed. Designed for more loudness than deeper bass.
@@ -175,7 +175,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
     - <https://www.youtube.com/watch?v=59374H8e3HQ>
 
-### #6 [Bose S1 Pro](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c47cc07f18d17c4b12f28f2e2eba605f&camp=1789&creative=9325): $700
+### #8 [Bose S1 Pro](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c47cc07f18d17c4b12f28f2e2eba605f&camp=1789&creative=9325): $700
 
 - Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo. Designed for more loudness than deeper bass.
 - Max Volume: 109db
@@ -200,7 +200,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/bose/s1-pro-system>
 
-### #7 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
+### #9 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
 
 - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass.
 - Max Volume: 115db
@@ -214,7 +214,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=jGOER4-R4gg>
     - <https://www.youtube.com/watch?v=FW4T7G98MXk>
 
-### #8 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl): $600
+### #10 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl): $600
 - Positives: Quite powerful sound, and quite deep bass for the size. 
 - Negatives: No battery. Boosted upper bass. Peaky upper mids.
 - Battery Life: No battery
@@ -228,7 +228,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=J8c7Ur83_VQ>
     - <https://www.youtube.com/watch?v=I9UpaL-4H5c>
 
-### #9 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
+### #11 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
 
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
 - Bass Extension: 50hz
@@ -248,7 +248,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp700>
 
-### #10 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
+### #12 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
 
 - Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
 - Bass Extension: 42hz
@@ -268,7 +268,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp500>
 
-### #11 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
+### #13 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
 
 - Positives: An insane value speaker. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
@@ -285,7 +285,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=6YjGuQPD52w>
     - <https://www.youtube.com/watch?v=Z727n9aBfgw>
 
-### #12 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325): $300
+### #14 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325): $300
 
 - Positives: Sounds reasonably balanced. A little tough to judge based on the sound samples, would be nice to have more comparisons.
 - Negatives: Not as deep bass as the Partybox 110 or other higher ranked speakers. Needs to be plugged in to reach higher volume.
@@ -302,7 +302,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=_Q1i3cG092I>
 
-### #13 Audiocase S5: $645
+### #15 Audiocase S5: $645
 
 - Positives: Removable battery
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
@@ -317,7 +317,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.patreon.com/posts/audiocase-s5-vs-91754902>
 
-### #14 Teufel Rockster Air: €500
+### #16 Teufel Rockster Air: €500
 
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
 - Max Volume: 115db
@@ -334,7 +334,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ITnoz10G2jU>
     - <https://www.youtube.com/watch?v=S112dkr_2mE>
 
-### #15 [Soundboks Gen 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
+### #17 [Soundboks Gen 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
 
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -351,7 +351,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
     - <https://www.youtube.com/watch?v=hjpEDDN_hnY>
 
-### #16 [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
+### #18 [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
 
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -372,7 +372,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/soundboks/gen-3>
 
-### #17 [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
+### #19 [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
 
 - Positives: 3rd loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Max Volume: 124db
@@ -389,7 +389,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
     - <https://www.youtube.com/watch?v=NbnolJzmA5s>
 
-### #18 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
+### #20 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
 
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
 - Bass Extension: 55hz
@@ -403,7 +403,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
     - <https://www.youtube.com/watch?v=HLO_p671BgA>
 
-### #19 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325): $550
+### #21 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325): $550
 
 - Positives: Removable 40 hour battery.
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -421,7 +421,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/soundboks/go>
 
-### #20 Audiocase S10: $892
+### #22 Audiocase S10: $892
 
 - Positives: One of the loudest in category.
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
@@ -435,7 +435,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
     - <https://www.patreon.com/posts/audiocase-s10-92786890>
 
-### #21 W-King T9 Pro: $280
+### #23 W-King T9 Pro: $280
 
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - Battery Life: 12 hours
@@ -444,7 +444,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=8dZz7MJRAAo>
 
-### #22 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
+### #24 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
 
 - Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
 - Bass Extension: ~45hz
@@ -456,7 +456,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=U6Sec5_16x4>
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
 
-### #23 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
+### #25 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
 
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
 - Bass Extension: ~47hz
@@ -469,7 +469,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=K3350eIvszw>
     - <https://www.youtube.com/watch?v=qnya_6ew1e4>
 
-### #24 Marshall Woburn I: $500
+### #26 Marshall Woburn I: $500
 
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - Bass Extension: ~50hz
@@ -481,7 +481,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
     - <https://www.youtube.com/watch?v=K3350eIvszw>
 
-### #25 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
+### #27 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
 
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - Weight 17.6lbs / 8kg
@@ -492,7 +492,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
     - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
 
-### #26 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
+### #28 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 94db
@@ -507,7 +507,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
-### #27 B&O Beosound 1: $2000
+### #29 B&O Beosound 1: $2000
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 91db
@@ -520,7 +520,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
-### #28 Diamondboxx L2: $1000
+### #30 Diamondboxx L2: $1000
 
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
 - Weight: 25lbs / 11kg
@@ -532,7 +532,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=epgx0THKpL8>
     - <https://www.youtube.com/watch?v=zjpNEBJDq_U>
 
-### #29 dB technologies B-Hype M: $450
+### #31 dB technologies B-Hype M: $450
 
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - Bass Extension: 62hz
@@ -545,7 +545,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=GTqpcjfd3Fo>
     - <https://www.youtube.com/watch?v=YB4CxTDP1rE>
 
-### #30 Onn Large Party gen 1: $100
+### #32 Onn Large Party gen 1: $100
 
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - Bass Extension: ~60hz
@@ -560,7 +560,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=BzQL3DqcFss>
 
-### #31 Philips NX200
+### #33 Philips NX200
 
 - Negatives: No deep bass, mids are a little harsh
 - Bass Extension: ~55hz
@@ -572,7 +572,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=O6SWv8lnpCI>
     - <https://www.youtube.com/watch?v=rMX9Y-OpNoc>
 
-### #32 Panasonic SC-TMAX10
+### #34 Panasonic SC-TMAX10
 
 - Negatives: Not as deep bass as others in the class
 - Weight: 22.5lbs / 10.2kg
@@ -584,7 +584,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=UrgQkhzAe0U>
 
-### #33 Panasonic SC-TMAX5
+### #35 Panasonic SC-TMAX5
 
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
@@ -597,7 +597,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=_jlJnhPyALs>
     - <https://www.youtube.com/watch?v=dXoD0Yv_iLM>
 
-### #34 Sharp PS-929: $150
+### #36 Sharp PS-929: $150
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz
@@ -606,7 +606,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=uiRxrnvyvCw>
 
-### #35 Soundcore Rave+: $240
+### #37 Soundcore Rave+: $240
 
 - Negatives: Pretty big lack of deep bass
 - Bass Extension: ~60hz
@@ -619,7 +619,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=ZjQIvZByyns>
 
-### #36 Soundcore Rave: $220
+### #38 Soundcore Rave: $220
 
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - Bass Extension: ~60hz
@@ -631,7 +631,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
 
-### #37 Sony GTK-XB90
+### #39 Sony GTK-XB90
 
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~50hz
@@ -646,7 +646,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
     - <https://www.youtube.com/watch?v=NaOdsSNUfl8>
 
-### #38 Sony GTK-XB72
+### #40 Sony GTK-XB72
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~56hz
@@ -660,7 +660,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=qY0Cdd2QJTU>
 
-### #39 Sony GTK-XB60
+### #41 Sony GTK-XB60
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~60hz
@@ -676,7 +676,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
     - <https://www.youtube.com/watch?v=Cg2DNPOA8AA>
 
-### #40 Altec Lansing AL500: $200
+### #42 Altec Lansing AL500: $200
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz
@@ -690,7 +690,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons
     - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
 
-### #41 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
+### #43 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
 
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
