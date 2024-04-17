@@ -13,9 +13,29 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
-### #1 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $550
+### #1 [JBL Partybox Stage 320](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl): $500
+- Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
+- Negatives: Very large. Not quite as deep of bass as the 310.
+- Weight: 36.4lbs / 16.5kg
+- Battery Life: 18 hours
+- Aux In: Yes
+- Power Bank: Yes
+- USB Playback: Yes
+- App: Yes
+- EQ: Yes
+- TWS: Yes
+- Microphone Input: Yes
+- Guitar Input: Yes
+- Party Mode: Yes (Auracast)
+- Charging: AC Power cord
+- IP Rating: IPX4
+- Comparisons
+    - <https://www.youtube.com/watch?v=qQ34Z6813oM>
+    - <https://www.youtube.com/watch?v=1MHvBEahqNs>
+    - <https://www.youtube.com/watch?v=bny5v3Gt4Xc>
 
-- Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes.
+### #1 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $500
+- Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes. Very close to the 320 in terms of performance.
 - Negatives: Very large
 - Bass Extension: 32hz
 - Weight: 38lbs / 17kg
@@ -41,7 +61,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-310>
 
 ### #2 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl): $400
-- Positives: Quite neutral sound, deeper bass than the 100 and 110. Removable battery.
+- Positives: Handle and wheels are convenient. Customizable color lighting modes. Quite neutral sound. deeper bass than the 100 and 110. Removable battery.
 - Negatives: High price
 - Weight: 24lbs / 10.8kg
 - Battery Life: 12 hours
