@@ -22,7 +22,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - USB Playback: Yes
 - App: Yes
-- EQ: Yes
+- EQ: Yes (5 band)
 - TWS: Yes
 - Microphone Input: Yes
 - Guitar Input: Yes
@@ -71,7 +71,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Microphone Input: Yes
 - Guitar Input: Yes
-- EQ: Yes
+- EQ: Yes (5 band)
 - TWS: Yes
 - Party Mode: Yes (Auracast)
 - Charging: AC Power cord
