@@ -27,6 +27,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (3 band)
 - TWS: Yes
 - Microphone Input: Yes
+- Guitar Input: Yes
 - Party Mode: No
 - Charging: AC Power cord
 - IP Rating: IPX4
@@ -38,6 +39,26 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=BVfi7YvlMRg>
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-310>
+
+### #2 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl): $400
+- Positives: Quite neutral sound, deeper bass than the 100 and 110. Removable battery.
+- Negatives: High price
+- Weight: 24lbs / 10.8kg
+- Battery Life: 12 hours
+- Aux In: Yes
+- Power Bank: Yes
+- USB Playback: Yes
+- App: Yes
+- Microphone Input: Yes
+- Guitar Input: Yes
+- EQ: Yes
+- TWS: Yes
+- Party Mode: Yes (Auracast)
+- Charging: AC Power cord
+- IP Rating: IPX4
+- Comparisons
+    - <https://www.youtube.com/watch?v=QTQqAp-JtU0>
+    - <https://www.youtube.com/watch?v=LFE4dghejGI>
 
 ### #2 [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325): $260
 
@@ -51,6 +72,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Charging: AC Power cord
 - Microphone Input: Yes
+- Guitar Input: Yes
 - IP Rating: None
 - TWS: Yes
 - Party Mode: No
@@ -84,6 +106,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - App: Yes
 - Microphone Input: Yes
+- Guitar Input: Yes
 - EQ: Yes (3 band)
 - TWS: Yes
 - Party Mode: No
