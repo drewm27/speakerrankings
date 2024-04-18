@@ -560,7 +560,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - TWS: Yes
-- Party Mode: No
+- Party Mode: Yes (Partyconnect up to 100 speakers)
 - Aux In: No
 - Built in Microphone: Yes
 - Charging: USB-C
