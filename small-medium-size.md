@@ -334,7 +334,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #14 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325): $100
 
 - Positives: Deepest bass of any medium size speaker. Use xbass mode for flattest frequency response.
-- Negatives: Single driver, not stereo. Lack of detail. Lack of upper treble, peaky lower treble. Not great off axis
+- Negatives: Single driver, not stereo. Lack of detail. Lack of upper treble, peaky lower treble. Not great off axis. Keep in mind this speaker gives up some sound quality for deeper bass.
 - Max Volume: 100db
 - Bass Extension: 47hz
 - Weight: 2.3lbs / 1020g
