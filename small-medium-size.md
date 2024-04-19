@@ -319,7 +319,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #13 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl): $36
 - Positives: By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume.
 - Negatives: Lights behind the passive radiators cannot be turned off, will be annoying as a nighttime speaker. Slightly less bass extension than higher ranked speakers.
-- Weight:
+- Weight: 1.1lbs / 500g
 - Battery Life: 16 hours
 - Power Bank: No
 - App: No
