@@ -553,7 +553,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #29 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325): $300
 
 - Positives: Included wireless microphone.
-- Negatives: IPX4 water rating. Horrible battery life. Probably the worst sounding of the Partybox line
+- Negatives: IPX4 water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Max Volume: 94db
 - Bass Extension: 49hz
 - Weight: 16.5lbs / 7.5kg

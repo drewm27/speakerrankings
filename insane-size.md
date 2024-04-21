@@ -16,7 +16,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #1 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325): $1301
 
 - Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
-- Negatives: Very large and heavy
+- Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 87lbs / 39kg
 - Battery Life: No Battery
 - Aux In: Yes
@@ -36,7 +36,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #2 [JBL Partybox 1000](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325): $949
 
 - Positives: Handle and wheels are convenient. Right up there with the Partybox Ultimate, this was the previous speaker in that size. A better value than the Partybox Ultimate. Nice waterfall lightshow.
-- Negatives:  Very large and heavy. No app
+- Negatives:  Very large and heavy. No app. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 76lbs / 34kg
 - Battery Life: No Battery
 - Aux In: Yes
@@ -56,7 +56,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #3 [JBL Partybox 710](https://www.amazon.com/JBL-PartyBox-710-Built-connectivity/dp/B09CW9WXML/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=acdd7f31b8c495f5a2bba5f5eb60a834&camp=1789&creative=9325): $800
 
 - Positives: Handle and wheels are convenient. Lightshow ability.
-- Negatives: Very large and heavy
+- Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 61lbs / 28kg
 - Battery Life: No Battery
 - Aux In: Yes
