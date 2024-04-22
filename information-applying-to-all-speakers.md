@@ -13,7 +13,7 @@ Note, JBL daisychain is not compatible with any other non-JBL speaker and is pos
 
 If you want to stream Bluetooth to multiple models of speakers that don't support party mode you can use [TCL Super Bluetooth](https://www.androidcentral.com/tcl-20s-and-tcl-20-se-review) or [Samsung Dual Audio](https://www.samsung.com/latin_en/support/mobile-devices/how-can-i-use-dual-audio-to-share-media-on-multiple-devices/) although you may have speakers with different latency that may seem out of sync.
 
-Latency only matters when DJing, playing an instrument, playing first person shooter video games, or watching video. DJing or video games require latency below around 15ms (~1/100s), and watching video generally requires latency below 200ms (1/5s) for lip sync to be reasonable. Youtube on Android appears to automatically adjust for Bluetooth speaker latency, but not on iPhone.
+DJing, playing an instrument, or playing first person shooter games require latency below around 15ms (~1/100s). Watching video generally requires latency below 200ms (1/5s) for lip sync to be reasonable. Youtube on Android appears to automatically adjust for Bluetooth speaker latency, but not on iPhone.
 
 Almost all these speakers start cutting out bass around 60-80% to get to their maximum volume without distortion. Bigger speakers generally have deeper bass, there’s no way around physics.
 
