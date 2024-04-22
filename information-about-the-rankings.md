@@ -21,7 +21,7 @@ About 20% of the time when there are no direct comparisons, I've done my best to
 
 Adjusting for microphone frequency response issues outside of well recorded audio like [Oluv](https://www.youtube.com/@oluvsgadgets) or [Alan Ross](https://www.youtube.com/@alanrossreviews) is quite difficult. I first need a sound sample of a speaker I know extremely well and then compensate in my head for what the microphone is doing to frequency response based on what I know the speaker should sound like and then analyze the other speaker in question with that same frequency compensation. It’s not easy and it means a lot of videos I can’t use beyond just analyzing bass extension.
 
-### Maximum Volume Measurements
+### Maximum Volume and Bass Extension Measurements
 
 All max volume measurements are at 1m, all bass extension measurements are at a -10db falloff and taken from frequency response charts and data from YouTube reviews and rtings. If you see a ~ that’s me estimating bass extension off the music because there’s no frequency response chart anywhere. Higher max volume and lower bass extension are better.
 
