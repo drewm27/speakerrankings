@@ -7,7 +7,7 @@ comments: true
 
 ### Compared to Home Audio
 
-None of these speakers will be as satisfying as high end home audio which when properly selected and set up can present a 3d sound image with depth, height and pinpoint location accuracy along with a neutral response and extended treble and bass. Enjoy these portable speakers for what they are, a way to enjoy music in any room or any place you bring them. For the closest to ultra high end audio, check out the Vifa Helsinki or a TWS pair of Earfun Uboom L in that order.
+None of these speakers will be as satisfying as high end home audio which when properly selected and set up can present a 3d sound image with depth, height and pinpoint location accuracy along with a neutral response and extended treble and bass along with more midrange and treble clarity. Enjoy these portable speakers for what they are, a way to enjoy music in any room or any place you bring them. For the closest to ultra high end audio, check out the Vifa Helsinki or a TWS pair of Earfun Uboom L in that order.
 
 ### Multi Speaker Pairing
 
