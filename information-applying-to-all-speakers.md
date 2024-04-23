@@ -19,8 +19,6 @@ Search using ctl-f for "Party Mode: Yes" or the specific technology name to find
 
 Note: Some of these multi speaker technologies may not work if you have a Bluetooth 4.x or less device like many laptops. 
 
-
-
 ### Multi Speaker Pairing of Different Brands
 
 If you want to stream Bluetooth to multiple models of speakers that don't support party mode you can use [TCL Super Bluetooth](https://www.androidcentral.com/tcl-20s-and-tcl-20-se-review) or [Samsung Dual Audio](https://www.samsung.com/latin_en/support/mobile-devices/how-can-i-use-dual-audio-to-share-media-on-multiple-devices/) although you may have speakers with different latency that may seem out of sync.
