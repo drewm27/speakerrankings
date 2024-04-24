@@ -12,6 +12,7 @@ I've been working on ranking all battery powered Bluetooth wireless speakers by 
 - [Top Recommended Bluetooth Speakers](/top-recommended/)
 - [Pocket Size Bluetooth Speakers](/pocket-size/)
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/)
+- [Bookshelf Non Battery Bluetooth Speakers](/bookshelf-non-battery/)
 - [Large Size Bluetooth Speakers](/large-size/)
 - [Boombox Size Bluetooth Speakers](/boombox-size/)
 - [Extreme Size Bluetooth Speakers](/extreme-size/)
