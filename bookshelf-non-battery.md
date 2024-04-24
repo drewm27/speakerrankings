@@ -11,6 +11,18 @@ For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+### #3 [Edifer S1000W](https://www.amazon.com/Edifier-Audiophile-Bookshelf-Speakers-Bluetooth/dp/B09NL64VM8?crid=2GRYSRZZU9AL9&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZRdWq1eOp1-qa821wm8x5o2tpQED9QHdl7-zrYg84bnRTOspOUTNaFrZCD9hBQwUZsx50cSuCPF7FqQlM6pFyrt5yyIr0ORjJpxqBearWDSnti_qWP80NhwfusvD4swFR_pFJQQ94eKRFVgLsqHqD0R3mHAyUTbOnSEU8394Vuz9.zCCE2S-RcbkjfSK3y4m17xycn3lpfWAyOCjibyADHjc&dib_tag=se&keywords=edifier%2Bs1000&qid=1713999307&sprefix=edifier%2Bs1000%2Caps%2C215&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=60e012d51764e1ac8819da6a6570af2b&language=en_US&ref_=as_li_ss_tl): $450
+- Dimensions: 13.6"H x 7.6"W x 11.6"D
+- Weight 37.0lbs / 16.8kg
+- Watts: 60w RMS Per Speaker
+- Woofer Size: 5.5"
+- Inputs: Bluetooth, Wifi, RCA Input, Optical
+- Outputs: None
+- Comparisons
+    - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
+    - <https://www.youtube.com/watch?v=ApdsaDkvoj8>
+    - <https://www.youtube.com/watch?v=Xg2jvzQDPds>
+
 ### #1 [Audioengine HD6](https://www.amazon.com/Audioengine-Wireless-Bookshelf-Speakers-Resolution/dp/B017E10MPU?crid=3C9VH2DXEWGMY&dib=eyJ2IjoiMSJ9.Sz7nabdSXw-ALEVPS7TgVN8RcZoFZe1K1GuL87GbgW-GxrpKLtO2RG9FXgEgL85eQDQMlGlj73dHvrUSg24U_LBN6B03IO_X6sDgcZEmwf-wqmC87B0NuYfv4HpjWRDyWDXvFHu8-LZh0ILTE8I3oEV4xAVVWa2L_E-RXKVvYztvfZZG90LdoOGeE1fjxvpCfjSKFBkVyKO6_NONvUgW0PePHE_v6IJGbisgOQt2-jQ.0XGs3_kHyyIBP6U49-kYen6hkvMnVa3QPakbEg4xZr8&dib_tag=se&keywords=audioengine%2Bhd6&qid=1713994066&sprefix=audioengine%2Bhd%2Caps%2C174&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73448af7b8740b189af123b4ae61ed40&language=en_US&ref_=as_li_ss_tl): $700
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.
 - Weight 17.5lbs / 7.9kg
@@ -30,7 +42,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Outputs: RCA Output
 
 ### #3 [Edifer R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl): $180
-- Dimensions: 10"H x 8.4"W x 6.1"D
+- Dimensions: 10"H x 6.1"W x 8.4"D
 - Weight 14.5lbs / 6.6kg
 - Watts: 66w RMS Per Speaker
 - Woofer Size: 4"
@@ -42,7 +54,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Xg2jvzQDPds>
 
 ### #4 [Edifer R1280DB](https://www.amazon.com/Edifier-R1280DB-Bluetooth-Bookshelf-Speakers/dp/B06XGG6MFV?crid=26S8RDF4HQ69S&dib=eyJ2IjoiMSJ9.WuwVs0r_EvmoS0jJLV4PX9xI7XBG0MJWk9x6FJzIBRtik1vCS1CVHRpsX4geTrS6ifl9aNchXVzYv2IAXDGjeqXVrC_gZq3X0aJr1GqjGGo3Lb0whZ9SNy8A-lLTaMoaQh_UrNi2jaX5aHXgUF8J83rwbj2UW5bKmSBIh9vJcxXS75r5T14Z2rZ0XkFDihCq7B7dozS_98ifTa3GfiD2Lw.s7k8tpF49QXDFjjUhVs6Nw05QBzEGeHjyufRQ_Jmyok&dib_tag=se&keywords=edifier%2B1280db&qid=1713997683&sprefix=edifer%2B1280d%2Caps%2C197&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fb52ac2b3f710c8897ccb26d42ee8c29&language=en_US&ref_=as_li_ss_tl): $150
-- Dimensions: 9.2"H x 7.7"W x 5.7"D
+- Dimensions: 9.2"H x 5.7"W x 7.7"D
 - Weight 10.8lbs / 4.9kg
 - Watts: 42w RMS Per Speaker
 - Woofer Size: 4"
