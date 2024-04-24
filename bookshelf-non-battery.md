@@ -16,7 +16,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight 37.0lbs / 16.8kg
 - Watts: 60w RMS Per Speaker
 - Woofer Size: 5.5"
-- Inputs: Bluetooth, Wifi, RCA Input, Optical
+- Inputs: Bluetooth, Wifi, 2x RCA Input, Optical, Coax
 - Outputs: None
 - Comparisons
     - <https://www.youtube.com/watch?v=SAdySyVWzq8>
