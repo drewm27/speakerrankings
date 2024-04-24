@@ -5,7 +5,7 @@ subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
 
-The bookshelf non battery class is in a very specific class. These speakers come in pairs and generally will sound better than most portable battery Bluetooth speakers. They come with a built in amp so you can stream directly from your phone or laptop.
+The bookshelf non battery class is in a very specific class. These speakers come in pairs and generally will sound better than most portable battery Bluetooth speakers. They come with a built in amp so you can stream directly from your phone or laptop. All of these speakers besides the small woofer models at the bottom are quite good.
 
 For off grid use, check out a [power bank](/portable-power-stations/)
 
