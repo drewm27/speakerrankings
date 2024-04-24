@@ -17,7 +17,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11.75"H x 7.25"W x 10"D
 - Watts: 50w RMS Per Speaker
 - Woofer Size: 5.5"
-- Frequency Response: 50 Hz-22 kHz ±1.5 dB
 - Inputs: Bluetooth, 3.5mm, RCA Input, Optical
 - Outputs: RCA Output
 - Comparisons
@@ -27,7 +26,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11"H x 7.16"W x 7.79"D
 - Watts: 50w RMS Per Speaker
 - Woofer Size: 5"
-- Frequency Response: 50 Hz-22 kHz ±1.5 dB
 - Inputs: Bluetooth, 3.5mm, RCA Input, Optical
 - Outputs: RCA Output
 
@@ -36,7 +34,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight 14.5lbs / 6.6kg
 - Watts: 66w RMS Per Speaker
 - Woofer Size: 4"
-- Frequency Response: 60Hz-20kHz +/-6db
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
 - Comparisons
@@ -49,7 +46,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight 10.8lbs / 4.9kg
 - Watts: 42w RMS Per Speaker
 - Woofer Size: 4"
-- Frequency Response: 60Hz-20kHz +/-6db
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
 - Comparisons
@@ -61,7 +57,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 9"H x 5.5"W x 6.5"D
 - Watts: 50w RMS Per Speaker
 - Woofer Size: 4"
-- Frequency Response: 50 Hz-22 kHz ±1.5 dB
 - Inputs: Bluetooth, 3.5mm, RCA Input
 - Outputs: RCA Output
 - Comparisons
@@ -74,7 +69,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 9"H x 5.5"W x 6.5"D
 - Watts: 15w RMS Per Speaker
 - Woofer Size: 4"
-- Frequency Response: 50 Hz-22 kHz ±1.5 dB
 - Inputs: Bluetooth, 3.5mm, RCA Input
 - Outputs: RCA Output
 - Comparisons
