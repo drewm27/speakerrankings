@@ -31,7 +31,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, 3.5mm, RCA Input, Optical
 - Outputs: RCA Output
 
-### #2 [Audioengine HD4](https://www.amazon.com/dp/B08CS1J8YW?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=929e827071774d7d400b3511c51fc52d&language=en_US&ref_=as_li_ss_tl): $400
+### #3 [Audioengine HD4](https://www.amazon.com/dp/B08CS1J8YW?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=929e827071774d7d400b3511c51fc52d&language=en_US&ref_=as_li_ss_tl): $400
 - Weight 7.2lbs / 3.3kg
 - Dimensions: 9"H x 5.5"W x 6.5"D
 - Watts: 120w
