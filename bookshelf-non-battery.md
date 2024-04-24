@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Non Battery Speakers
+title: Bookshelf Non Battery Speakers
 subtitle: Bluetooth Speaker Ranking
 comments: true
 ---
@@ -52,3 +52,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Outputs: RCA Output
 - Comparisons
     - <https://www.youtube.com/watch?v=xEDg7hl7a3A>
+
+### #4 [Audioengine HD3](https://www.amazon.com/dp/B08CS1J8YW?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=929e827071774d7d400b3511c51fc52d&language=en_US&ref_=as_li_ss_tl): $400
+- Negatives: Small woofer doesn't have very deep bass
+- Weight 7.2lbs / 3.3kg
+- Dimensions: 9"H x 5.5"W x 6.5"D
+- Watts: 120w
+- Woofer Size: 4"
+- Frequency Response: 50 Hz-22 kHz ±1.5 dB
+- Inputs: Bluetooth, 3.5mm, RCA Input
+- Outputs: RCA Output
+- Comparisons
+    - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
