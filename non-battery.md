@@ -24,10 +24,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=g3Jx7d_iMo4>
 
 ### #2 [Audioengine HD5](https://www.amazon.com/Audioengine-HD5-Wireless-Speakers-Bluetooth/dp/B0CLBMG5TQ?crid=1JHLM0MCNNIEP&dib=eyJ2IjoiMSJ9.n1HQAb5S5W0rMpk0ii7crCPic7kJjeELpqRQrWuJhuoAm3S4mDXQHkLoloY9JGZaNSFBE5mbZQ_TdnAj2nzOIDLM1C6QSsfNXxlxfdin5m4A0o9NAohLWBxKfNA6WwfiAz_9pLGsXSDJ_UoEuVKYUbKwQu7BUV79gcluvgTeiqt-jHx8va4JQ5JbZFGSwZSl3mp-rwJNc6tP5l9DWcQ7G3mH_wdW3nQxqrQR8g5jqA2Y-gaEnfuQ2tEQTw1Won64NjxETE9t8GGE5GNBnWLxjcHJv2d_KL7IV6QLszsCEhs.Rr8VyNNVbz75EQW50ZfQP_DcUkV7byDLxGo1JCfO3cc&dib_tag=se&keywords=audioengine%2Bhd5&qid=1713995010&s=electronics&sprefix=audioengine%2Bhd%2Celectronics%2C247&sr=1-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=05557d85b3457bc07a007f2db60c3072&language=en_US&ref_=as_li_ss_tl): $550
-- Weight 17.5lbs / 7.9kg
 - Dimensions: 11"H x 7.16"W x 7.79"D
 - Watts: 150w
 - Woofer Size: 5"
 - Frequency Response: 50 Hz-22 kHz ±1.5 dB
 - Inputs: Bluetooth, 3.5mm, RCA Input, Optical
+- Outputs: RCA Output
+
+### #2 [Audioengine HD4](https://www.amazon.com/dp/B08CS1J8YW?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=929e827071774d7d400b3511c51fc52d&language=en_US&ref_=as_li_ss_tl): $400
+- Weight 7.2lbs / 3.3kg
+- Dimensions: 9"H x 5.5"W x 6.5"D
+- Watts: 120w
+- Woofer Size: 4"
+- Frequency Response: 50 Hz-22 kHz ±1.5 dB
+- Inputs: Bluetooth, 3.5mm, RCA Input
 - Outputs: RCA Output
