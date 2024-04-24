@@ -10,12 +10,12 @@ total = 0
 for file in os.listdir():
     newfile = ''
     number = 1
-    if file.endswith('-size.md'):
+    if file.endswith('.md'):
         with open(file) as f:
             lines = f.readlines()
         with open(file, 'w') as f:
             for line in lines:
-                if line.startswith('### '):
+                if line.startswith('### #'):
                     splitline = line.split(' ')
                     if splitline[1].startswith('#'):
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
