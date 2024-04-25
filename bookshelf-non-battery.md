@@ -113,6 +113,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Xg2jvzQDPds>
 
 ### #10 [Edifer R1280DB](https://www.amazon.com/Edifier-R1280DB-Bluetooth-Bookshelf-Speakers/dp/B06XGG6MFV?crid=26S8RDF4HQ69S&dib=eyJ2IjoiMSJ9.WuwVs0r_EvmoS0jJLV4PX9xI7XBG0MJWk9x6FJzIBRtik1vCS1CVHRpsX4geTrS6ifl9aNchXVzYv2IAXDGjeqXVrC_gZq3X0aJr1GqjGGo3Lb0whZ9SNy8A-lLTaMoaQh_UrNi2jaX5aHXgUF8J83rwbj2UW5bKmSBIh9vJcxXS75r5T14Z2rZ0XkFDihCq7B7dozS_98ifTa3GfiD2Lw.s7k8tpF49QXDFjjUhVs6Nw05QBzEGeHjyufRQ_Jmyok&dib_tag=se&keywords=edifier%2B1280db&qid=1713997683&sprefix=edifer%2B1280d%2Caps%2C197&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fb52ac2b3f710c8897ccb26d42ee8c29&language=en_US&ref_=as_li_ss_tl): $150
+- Negatives: Not quite as neutral sounding as the Edifer MR4
 - Dimensions: 9.2"H x 5.7"W x 7.7"D
 - Weight 10.8lbs / 4.9kg
 - Watts: 42w RMS Per Speaker
