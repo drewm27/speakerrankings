@@ -18,6 +18,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Outputs: None
 - Comparisons
     - <https://www.youtube.com/watch?v=DvEBODvCynY>
+    - <https://www.youtube.com/watch?v=Dsh3A4B6Lbo>
 
 ### #2 [Edifer S2000MKIII](https://www.amazon.com/Edifier-S2000MKIII-Bluetooth-Bookshelf-Speakers/dp/B07ZVP9XBG?crid=1KAUATXD3LC5N&dib=eyJ2IjoiMSJ9.qOWopqxdeLeO6n2AA4DSKXlafJy8DMTL8gUoPGhLLlJkwnM_GdNR0fCexpRtgAzxwwD3SPEANekvpSaIG1uRIUSkl8-R3I9PcK7gbpBddd1hewUqSYrUp2eLAGIdapYCieDpYzRklRAaeBGOZClgl43-9coco62wJRwHGaFSp0lPNFlWpXdXH3XQLExL2ue6nCnRBerGtYT8pEADesWKWnapOnJhpdkj1RnoPcHn6i64UJ6pb5M17GOomcXeoqTwTjMVmy06BmprB2GnW_WVe3ClfQHAqA2OMJf5sn1kYR4.-Cbf-C1Riy2w5JOu1apOP4QpKYK9yoS6gpsuJHdivOc&dib_tag=se&keywords=edifier+s2000mkiii&qid=1714000498&sprefix=edifier+s2000%2Caps%2C198&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=cf75cbfff839bae1ed1d84789a84eb0c&language=en_US&ref_=as_li_ss_tl): $550
 - Watts: 65w RMS Per Speaker
@@ -26,6 +27,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Outputs: None
 - Comparisons
     - <https://www.youtube.com/watch?v=tji_9d3gkZ4>
+    - <https://www.youtube.com/watch?v=2zAFza0qxrw>
 
 ### #3 [Edifer S1000W](https://www.amazon.com/Edifier-Audiophile-Bookshelf-Speakers-Bluetooth/dp/B09NL64VM8?crid=2GRYSRZZU9AL9&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZRdWq1eOp1-qa821wm8x5o2tpQED9QHdl7-zrYg84bnRTOspOUTNaFrZCD9hBQwUZsx50cSuCPF7FqQlM6pFyrt5yyIr0ORjJpxqBearWDSnti_qWP80NhwfusvD4swFR_pFJQQ94eKRFVgLsqHqD0R3mHAyUTbOnSEU8394Vuz9.zCCE2S-RcbkjfSK3y4m17xycn3lpfWAyOCjibyADHjc&dib_tag=se&keywords=edifier%2Bs1000&qid=1713999307&sprefix=edifier%2Bs1000%2Caps%2C215&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=60e012d51764e1ac8819da6a6570af2b&language=en_US&ref_=as_li_ss_tl): $450
 - Positives: Wifi
