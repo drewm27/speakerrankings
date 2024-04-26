@@ -406,7 +406,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.61lbs / 731g
 - Battery Life: 24 hours
 - Aux In: Yes
-- Comparisons and Sound Samples:
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WIS2Jk83EI8>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
     - <https://www.youtube.com/watch?v=7XZgoEVW7Ng>

@@ -885,7 +885,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 5.06lbs / 2.3kg
 - Battery Life: 40 hours
 - Power Bank: Yes
-- Comparisons and Sound Samples:
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 
 ### #57 Hopestar A6: $86
