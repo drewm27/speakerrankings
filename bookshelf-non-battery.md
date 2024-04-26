@@ -24,6 +24,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
 
 ### #2 [Edifer S3000Pro](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl): $900
+- Positives: High resolution digital input up to 96khz/24bit
 - Dimensions: 14.5"H x 9.1"W x 14.0"D
 - Watts: 78w RMS Per Speaker
 - Woofer Size: 6.5"
@@ -34,6 +35,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Dsh3A4B6Lbo>
 
 ### #3 [Edifer S2000MKIII](https://www.amazon.com/Edifier-S2000MKIII-Bluetooth-Bookshelf-Speakers/dp/B07ZVP9XBG?crid=1KAUATXD3LC5N&dib=eyJ2IjoiMSJ9.qOWopqxdeLeO6n2AA4DSKXlafJy8DMTL8gUoPGhLLlJkwnM_GdNR0fCexpRtgAzxwwD3SPEANekvpSaIG1uRIUSkl8-R3I9PcK7gbpBddd1hewUqSYrUp2eLAGIdapYCieDpYzRklRAaeBGOZClgl43-9coco62wJRwHGaFSp0lPNFlWpXdXH3XQLExL2ue6nCnRBerGtYT8pEADesWKWnapOnJhpdkj1RnoPcHn6i64UJ6pb5M17GOomcXeoqTwTjMVmy06BmprB2GnW_WVe3ClfQHAqA2OMJf5sn1kYR4.-Cbf-C1Riy2w5JOu1apOP4QpKYK9yoS6gpsuJHdivOc&dib_tag=se&keywords=edifier+s2000mkiii&qid=1714000498&sprefix=edifier+s2000%2Caps%2C198&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=cf75cbfff839bae1ed1d84789a84eb0c&language=en_US&ref_=as_li_ss_tl): $550
+- Positives: High resolution digital input up to 192khz/24bit
 - Dimensions: 13.5"H x 7.8"W x 10.8"D
 - Watts: 65w RMS Per Speaker
 - Woofer Size: 5.5"
