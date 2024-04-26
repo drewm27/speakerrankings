@@ -48,6 +48,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=DvEBODvCynY>
 
 ### #4 [Edifer S1000W](https://www.amazon.com/Edifier-Audiophile-Bookshelf-Speakers-Bluetooth/dp/B09NL64VM8?crid=2GRYSRZZU9AL9&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZRdWq1eOp1-qa821wm8x5o2tpQED9QHdl7-zrYg84bnRTOspOUTNaFrZCD9hBQwUZsx50cSuCPF7FqQlM6pFyrt5yyIr0ORjJpxqBearWDSnti_qWP80NhwfusvD4swFR_pFJQQ94eKRFVgLsqHqD0R3mHAyUTbOnSEU8394Vuz9.zCCE2S-RcbkjfSK3y4m17xycn3lpfWAyOCjibyADHjc&dib_tag=se&keywords=edifier%2Bs1000&qid=1713999307&sprefix=edifier%2Bs1000%2Caps%2C215&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=60e012d51764e1ac8819da6a6570af2b&language=en_US&ref_=as_li_ss_tl): $450
+- Positives: High resolution digital input up to 192khz/24bit
 - Positives: Wifi
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
 - Weight 37.0lbs / 16.8kg
@@ -60,7 +61,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
 
 ### #5 [Edifer S1000MKII](https://www.amazon.com/Edifier-S1000MKII-Audiophile-Bookshelf-Speakers/dp/B07ZVPMR58?crid=26NA8YK3AU010&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZZQsuDqdDgspnq2w4abgL8UWMFnY0dq9-DnqLy7-1RsKIB0ZdiJllN8Aj7C-smtvk6ZlM9byai6U7Uiqc0daDTDASf-CxVAsk0PwSsaf9-vXHOHfTKw2UWn7mVboIoXXKxPjT13mAms0qPFo7LErT8gYNfIYbTz-JjdGak2lYHTBZyJN7s8c4IEpxXdjdRRXc-XJCHNGvK5Ko9sFhghZGzg.lwRPoXbmvQsSnQfjf0PAMhTLGma1cZGN0tI1enR_7iM&dib_tag=se&keywords=edifier+s1000db&qid=1714000153&sprefix=edifier+s1000d%2Caps%2C244&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=8891126ab3a0f105e12aead8f282f713&language=en_US&ref_=as_li_ss_tl): $400
-- Positives: Very close to the S2000MKIII, almost no reason to pay more
+- Positives: High resolution digital input up to 192khz/24bit. Very close to the S2000MKIII, almost no reason to pay more
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
 - Weight 37.0lbs / 16.8kg
 - Watts: 60w RMS Per Speaker
