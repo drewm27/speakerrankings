@@ -78,6 +78,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=SAdySyVWzq8>
     - <https://www.youtube.com/watch?v=g3Jx7d_iMo4>
 
+### #7 [Edifer R2000DB](https://www.amazon.com/Edifier-R2000DB-Bluetooth-Bookshelf-Speakers/dp/B016PAWJYS?crid=3JD2RMU8HTVIK&dib=eyJ2IjoiMSJ9.12p4yJikFn4L3tFzlxe60Bcau-dhPE08wHQ78FJ8w-gcMPYjJpg7hxk-Bsl1dyHVFCLgwoyjgKlsN6gJb6eIBDr7ccpbgn0D2uTYCrZr7wzf8vfeuaCt8xkBwBdxZ7bnnoNtv6qZKBfCZJ1SoweidQ8pjyrKbIJoKJydFOn2nxCIqQ3D3AGxfM0DhyzKXeuWSbEJh17dDTKwynoiBBapfkV8vDBwd1HwabISpFu-naI.x4BFUp6GuH-jc2lESjarRflfbn0J8mD_V2JgIHTgwk4&dib_tag=se&keywords=edifier%2Br2000db&qid=1714106967&sprefix=edifer%2Br2000d%2Caps%2C164&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=166a5ab0aa7fc04dae93ccf647ddd0c6&language=en_US&ref_=as_li_ss_tl): $250
+- Negatives: Slight lacking of bass and treble, slight inverted V EQ profile
+- Weight 17.5lbs / 7.9kg
+- Dimensions: 11.25"H x 9.5"W x 7.5"D
+- Watts: 60w RMS Per Speaker
+- Woofer Size: 5"
+- Inputs: Bluetooth, 2x RCA Input, Optical
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=tccM1DTZ6ss>
+    - <https://www.youtube.com/watch?v=9JwfnkkM3n4>
+    - <https://www.youtube.com/watch?v=d5DridUDGFY>
+
 ### #7 [Audioengine HD5](https://www.amazon.com/Audioengine-HD5-Wireless-Speakers-Bluetooth/dp/B0CLBMG5TQ?crid=1JHLM0MCNNIEP&dib=eyJ2IjoiMSJ9.n1HQAb5S5W0rMpk0ii7crCPic7kJjeELpqRQrWuJhuoAm3S4mDXQHkLoloY9JGZaNSFBE5mbZQ_TdnAj2nzOIDLM1C6QSsfNXxlxfdin5m4A0o9NAohLWBxKfNA6WwfiAz_9pLGsXSDJ_UoEuVKYUbKwQu7BUV79gcluvgTeiqt-jHx8va4JQ5JbZFGSwZSl3mp-rwJNc6tP5l9DWcQ7G3mH_wdW3nQxqrQR8g5jqA2Y-gaEnfuQ2tEQTw1Won64NjxETE9t8GGE5GNBnWLxjcHJv2d_KL7IV6QLszsCEhs.Rr8VyNNVbz75EQW50ZfQP_DcUkV7byDLxGo1JCfO3cc&dib_tag=se&keywords=audioengine%2Bhd5&qid=1713995010&s=electronics&sprefix=audioengine%2Bhd%2Celectronics%2C247&sr=1-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=05557d85b3457bc07a007f2db60c3072&language=en_US&ref_=as_li_ss_tl): $550
 - Dimensions: 11"H x 7.16"W x 7.79"D
 - Watts: 50w RMS Per Speaker
