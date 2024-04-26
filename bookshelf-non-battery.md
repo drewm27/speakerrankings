@@ -19,7 +19,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 75w RMS Per Speaker
 - Woofer Size: 8"
 - Inputs: Bluetooth, 2x RCA Input, Optical, Coax
-- Outputs: Subwoofer
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=MWeoTZmU6l0>
     - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
