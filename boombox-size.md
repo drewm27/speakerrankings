@@ -332,7 +332,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ezYZWoYEXfw>
 
 ### #16 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325): $225
-- Negatives: Treble rolled off, warm tuning. Not quite enough sound samples to rank this properly, will revisit later
+- Negatives: Rising frequency response but upper treble rolled off, 1khz and 4.3khz peaks
 - Bass Extension: ~42hz
 - EQ: Yes
 - App: Yes
@@ -343,6 +343,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - IP Rating: IPX7
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=_JZH0Tc2OO8>
     - <https://www.youtube.com/watch?v=q44mBW2C0m0>
     - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
     - <https://www.youtube.com/watch?v=-n-io_2nW3o>
