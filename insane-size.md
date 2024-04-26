@@ -28,7 +28,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wifi: Yes
 - Microphone Input: Yes
 - IP Rating: IPX4
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=AFaO3biTmZc>
     - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
@@ -48,7 +48,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Power Bank: Yes
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-1000>
@@ -67,7 +67,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Microphone Input: Yes
 - IP Rating: IPX4
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=cMer55HGz38>
     - <https://www.youtube.com/watch?v=srx-SAaqFjw>
     - <https://www.youtube.com/watch?v=RU02J2XZhYg>
@@ -85,7 +85,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Charging: AC Power cord
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - <https://www.youtube.com/watch?v=gNqERPC67C8>
     - <https://www.youtube.com/watch?v=S112dkr_2mE>
@@ -105,7 +105,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1yVnCeuW9uA>
     - <https://www.youtube.com/watch?v=RU02J2XZhYg>
     - <https://www.youtube.com/watch?v=t6pFY4Sh0Us>

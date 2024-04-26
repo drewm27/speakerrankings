@@ -27,7 +27,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built In Microphone: Yes
 - IP Rating: IP67
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - <https://www.youtube.com/watch?v=7LsffgrbXYc>
     - <https://www.youtube.com/watch?v=oTE4EgEict4>
@@ -57,7 +57,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux In: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - <https://www.youtube.com/watch?v=-THqGgH_Tu8>
     - <https://www.youtube.com/watch?v=7kydvk2xdtA>
@@ -79,7 +79,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux In: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>
 
@@ -99,7 +99,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built In Microphone: Yes
 - Charging: USB-C
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - <https://www.youtube.com/watch?v=7LsffgrbXYc>
     - <https://www.youtube.com/watch?v=hYIQtNJ3gM0>
@@ -123,7 +123,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX7
 - Built In Microphone: Yes
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
 
 ### #6 [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325): $41
@@ -143,7 +143,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built In Microphone: Yes
 - Charging: USB-C
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 
 ### #7 [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
@@ -177,7 +177,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built In Microphone: Yes
 - IP Rating: IP67
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FZWU9gzzac0>
     - <https://www.youtube.com/watch?v=q9u7iRmRdjk>
     - <https://www.youtube.com/watch?v=_vBF_b2AEUg>
@@ -202,7 +202,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IP67
 - Built In Microphone: Yes
 - Charging: Micro-USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>
     - <https://www.youtube.com/watch?v=oTE4EgEict4>
 - Links
@@ -220,7 +220,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: None
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 
 ### #11 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325): $95
@@ -239,7 +239,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - IP Rating: IP67
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
 
 ### #12 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
@@ -256,7 +256,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IP67
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
 - Links
@@ -276,7 +276,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (Auracast)
 - Charging: USB-C
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Eg3I8aDdI5s>
     - <https://www.youtube.com/shorts/cT-oUhYhPWk>
 
@@ -293,7 +293,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: No
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=9tigrVLPi5A>
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
 - Links
@@ -311,7 +311,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IP67
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uWv_SRZh3TE>
     - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
     - <https://www.youtube.com/watch?v=EFB1Ut2EZMo>
@@ -330,7 +330,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IP67
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
 - Links
@@ -349,7 +349,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - Charging: AC Wall wart
 - Aux In: Yes (integrated 3.5mm cable)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
 ### #18 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
@@ -365,7 +365,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Charging: Micro-USB
 - Party Mode: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
 ### #19 Xiaomi Mi Portable Outdoor
@@ -376,7 +376,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - App: No
 - EQ: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=NwlwyofEYDM>
 
 ### #20 Hopestar H54
@@ -386,7 +386,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - App: No
 - EQ: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
 
 ### #21 Sony SRS-XB12
@@ -403,7 +403,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - TWS: No
 - Party Mode: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
@@ -415,7 +415,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - App: No
 - EQ: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
     - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
 
@@ -427,7 +427,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight 0.55lbs / 251g
 - Battery Life: 10 hours
 - TWS: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
 
 ### #24 Lenovo 700: $85
@@ -439,7 +439,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Battery Life: 12 hours
 - TWS: Yes
 - IP Rating: IPX2
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Yam_mssFqeU>
     - <https://www.youtube.com/watch?v=6CtZiXCJF18>
 

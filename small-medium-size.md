@@ -30,7 +30,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Charging: USB-C
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - <https://www.youtube.com/watch?v=PVldZEwR2zg>
@@ -63,7 +63,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Aux In: No
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=6GtVMMbOt6c>
     - <https://www.youtube.com/watch?v=Uz07wPZTfzk>
     - <https://www.youtube.com/watch?v=_4S4b5jsagM>
@@ -93,7 +93,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Charging: USB-C
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - <https://www.youtube.com/watch?v=mjBlrhZwDmE>
@@ -124,7 +124,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=6xcdkK7z7Ys>
     - <https://www.youtube.com/watch?v=929FIaHlbeI>
     - <https://www.youtube.com/watch?v=iE3qoiDAn98>
@@ -147,7 +147,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: Micro USB
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OZEP9ziwkHw>
     - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
     - <https://www.youtube.com/watch?v=BG9oR8mX0Kw>
@@ -170,7 +170,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Charging: USB-C
 - IP Rating: Splash resistant
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0WY6HxN_gU>
 
 ### #7 [Minirig mk3](https://minirigs.co.uk/speakers/bluetooth-minirig-3): $140
@@ -191,7 +191,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>
     - <https://www.youtube.com/watch?v=HuPEBiJqhPk>
     - <https://www.youtube.com/watch?v=9uxHwFlAYro>
@@ -215,7 +215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>
     - <https://www.youtube.com/watch?v=9cbx_NfUaiY>
 
@@ -231,7 +231,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
     - <https://www.youtube.com/watch?v=zO3gd-v41Xw>
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
@@ -256,7 +256,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Aux In: No
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
     - <https://www.youtube.com/watch?v=9uxHwFlAYro>
     - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
@@ -285,7 +285,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: No
 - Built in Microphone: No
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
@@ -310,7 +310,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: Micro USB
 - IP Rating: IPX7
 - Built in Microphone: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=P82BreW-LzY>
     - <https://www.youtube.com/watch?v=sGYxOHqOYWQ>
 - Links
@@ -328,7 +328,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: No
 - Charging: USB-C
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Psmgg5ZJCvs>
 
 ### #14 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325): $100
@@ -347,7 +347,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Built in Microphone: No
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EhySzuS39Z8>
     - <https://www.youtube.com/watch?v=gTiqH3uTXxc>
     - <https://www.youtube.com/watch?v=IkbDwnQRd5s>
@@ -371,7 +371,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - IP Rating: IPX7
 - Built in Microphone: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5LUd0Mj5HhQ>
     - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
     - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
@@ -388,7 +388,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 57hz
 - Weight: 2.48lbs / 1.13kg
 - Battery life: 12 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
 
 ### #17 [Bogasing M4](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325): $52
@@ -406,7 +406,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.61lbs / 731g
 - Battery Life: 24 hours
 - Aux In: Yes
-- Comparisons:
+- Comparisons and Sound Samples:
     - <https://www.youtube.com/watch?v=WIS2Jk83EI8>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
     - <https://www.youtube.com/watch?v=7XZgoEVW7Ng>
@@ -424,7 +424,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes (3 band)
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fxoGZdNakIg>
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
@@ -446,7 +446,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
     - <https://www.youtube.com/watch?v=7ZnTEkAwy98>
 
@@ -461,7 +461,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=y4DYttybhJ8>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
 
@@ -472,7 +472,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass extension: ~62hz
 - Weight: 1.64lbs / 742g
 - Battery Life: 12 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-qiyBrX1m-g>
     - <https://www.youtube.com/watch?v=YNifFrDKbV0>
 
@@ -484,7 +484,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 61hz
 - Weight: 1.29lbs / 585g
 - Battery Life: 16 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q_tg3wXjK3k>
     - <https://www.youtube.com/watch?v=8v9BcBgOIpU>
     - <https://www.youtube.com/watch?v=4xVEvEitaPU>
@@ -497,7 +497,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.59lbs / 720g
 - Battery Life: 14 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
 
 ### #24 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl): $60
@@ -506,7 +506,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Boosted treble, boosted bass in the factory EQs. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
 - Battery Life: 24 hours
 - Charging: USB-C
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HF3eKZM-ZTs>
     - <https://www.youtube.com/watch?v=k8tm3FwCkWM>
     - <https://www.patreon.com/posts/tribit-xsound-2-99145415>
@@ -521,7 +521,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
 - Battery Life: 12 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QT9dcySUf_U>
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
     - <https://www.youtube.com/watch?v=6GtVMMbOt6c>
@@ -542,7 +542,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - App: No
 - EQ: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZmYH6zYSNKs>
     - <https://www.youtube.com/watch?v=Y2Tr9qUB4_E>
 
@@ -554,7 +554,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 56hz
 - Weight: 1.50lbs / 680g
 - Battery Life: 26 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QoJKsPaofl0>
     - <https://www.youtube.com/watch?v=xLJs_zM0UMg>
 
@@ -564,7 +564,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - IP Rating: IP67
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 
 ### #29 [Sony ULT Field 1](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl): $128
@@ -580,7 +580,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Charging: USB-C
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMOTcXiWXvQ>
 
 ### #30 Earfun Uboom Slim
@@ -589,14 +589,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~63hz
 - Weight: 1.23lbs / 560g
 - Battery Life: 16 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mqqE0rqYLNQ>
 
 ### #31 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325): $47
 - Negatives: Not very deep bass, slight distortion
 - Bass Extension: 65hz
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.patreon.com/posts/soundcore-motion-94092689>
 
 ### #32 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325): $90
@@ -607,7 +607,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.16lbs / 980g
 - Battery Life: 24 hours
 - Party Mode: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
     - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
     - <https://www.youtube.com/watch?v=Vm3kFL36Sq8>
@@ -621,14 +621,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.2lbs / 1500g
 - Battery Life: 12 hours
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
 
 ### #34 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325): $80 after $20 coupon
 
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
 - Bass Extension: 54hz
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
 
 ### #35 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325): $64
@@ -636,7 +636,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
 - Battery life: 24 hours
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kDib9gjeaPQ>
     - <https://www.youtube.com/watch?v=3zEtJi4u-F8>
 
@@ -648,7 +648,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Charging: Micro USB
 - IP Rating: IP55
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=upSSUEct7Gk>
     - <https://www.youtube.com/watch?v=Jvn9ZkYykF4>
     - <https://www.youtube.com/watch?v=R0G2r9e6y4Y>
@@ -664,7 +664,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP55
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WD5OLLBXRDc>
     - <https://www.youtube.com/watch?v=Vm3kFL36Sq8>
     - <https://www.youtube.com/watch?v=dP36vzF-ykY>
@@ -679,7 +679,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Aux In: Yes
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1btEBiXCEF0>
 
 ### #39 Bose Soundlink Revolve: $180
@@ -692,7 +692,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: Micro USB
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TvXVeqwo8Jc>
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
     - <https://www.youtube.com/watch?v=w2YMjKqHf5c>
@@ -710,7 +710,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 400ms aac, 200ms sbc
 - App: Yes
 - EQ: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
     - <https://www.youtube.com/watch?v=6Yjao_U8RIM>
     - <https://www.youtube.com/watch?v=wlHqDeFMR7E>
@@ -732,7 +732,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fxoGZdNakIg>
     - <https://www.youtube.com/watch?v=5cppZYdrA9A>
     - <https://www.youtube.com/watch?v=seSKe2MRngo>
@@ -753,7 +753,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.28lbs / 581g
 - Battery Life: 25 hours
 - Latency: 220ms
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tNxGzF2uPEQ>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
     - <https://www.youtube.com/watch?v=SmRn6b0rhzU>
@@ -770,7 +770,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gmrcrkY_Zck>
 
 ### #44 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325): $50
@@ -784,7 +784,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partycast up to 100 speakers)
 - App: Yes
 - EQ: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1RD6Wz_dg4w>
     - <https://www.youtube.com/watch?v=SxJTZDCiw7g>
     - <https://www.youtube.com/watch?v=XpkitJveFlc>
@@ -799,7 +799,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Aux In: Yes
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
     - <https://www.youtube.com/watch?v=VukUsbPfDec>
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
@@ -813,7 +813,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Aux In: Yes
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
     - <https://www.youtube.com/watch?v=VukUsbPfDec>
@@ -825,7 +825,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: A bit of a sharp treble
 - Weight: 0.82lbs / 373g
 - Battery Life: 13 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TF748bXDjIs>
 
 ### #48 Sony XB33: $110
@@ -839,7 +839,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Aux In: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=P5POaQhiDgE>
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
     - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
@@ -854,7 +854,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 64hz
 - Weight: 1.8lbs / 816g
 - Battery Life: 12 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2A3C3Ec8QJA>
     - <https://www.youtube.com/watch?v=-nn6jz8CLnI>
     - <https://www.youtube.com/watch?v=AEVRp_Un5gk>
@@ -869,7 +869,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 200ms
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Latency: 200ms
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
 - Links
@@ -888,7 +888,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: No
 - Charging: Micro USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - <https://www.youtube.com/watch?v=wS7xhzv6Beg>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
@@ -918,7 +918,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - EQ: No
 - App: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SpGb12ZyC1w>
 
 ### #54 JBL Charge 3: $80
@@ -932,7 +932,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Charging: Micro USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fxoGZdNakIg>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
@@ -952,7 +952,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - EQ: No
 - App: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=KAen9xhQiPc>
     - <https://www.youtube.com/watch?v=gnjcKKYf7xs>
 
@@ -961,7 +961,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
 - Power Bank: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
     - <https://www.youtube.com/watch?v=0vht8NRUrl4>
     - <https://www.youtube.com/watch?v=X1pEsqtN61c>
@@ -979,7 +979,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.95lbs / 429g
 - Wifi: Yes
 - Battery Life: 10 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mbYsxgScTz8>
     - <https://www.youtube.com/watch?v=R29TwFZmuNA>
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
@@ -995,7 +995,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.84lbs / 380g
 - Battery Life: 24 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
     - <https://www.youtube.com/watch?v=SSla-paxi14>
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
@@ -1006,7 +1006,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.97lbs / 440g
 - Battery Life: 10 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
 
@@ -1016,7 +1016,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.70lbs / 318g
 - Battery Life: 24 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
     - <https://www.youtube.com/watch?v=bLi4fsS23Do>
 
@@ -1030,7 +1030,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4 (Groove), none (Heritage Groove)
 - Charging: Micro USB
 - TWS: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=V1pufWw-lrg>
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
 
@@ -1040,7 +1040,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: Weight: 2.86lbs / 1.3kg
 - Battery Life: 24 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=s3SAQ7lDbOY>
     - <https://www.youtube.com/watch?v=ugF2D1a2E7o>
     - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
@@ -1055,7 +1055,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Aux In: Yes
 - Microphone: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
     - <https://www.youtube.com/watch?v=AeaMQ3DR_hE>
     - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
@@ -1067,7 +1067,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux In: Yes
 - Party Mode: Yes (Partychain up to 100 speakers)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - <https://www.youtube.com/watch?v=_5f6b-5wI98>
 
@@ -1077,14 +1077,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.91lbs / 870g
 - Battery Life: 12 hours
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PJEEGkFTfOU>
 
 ### #66 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl): $20
 
 - Negatives: Not much bass, peaky upper mids
 - Battery Life: 16 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZInN26jI13M>
 
 ### #67 Bose SoundLink Color II
@@ -1094,7 +1094,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 8 hours
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
     - <https://www.youtube.com/watch?v=V9v9t9BEIe4>
     - <https://www.youtube.com/watch?v=vtfBbnsS7pE>
@@ -1111,7 +1111,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 80ms
 - Party Mode: Yes (Marshall Stack)
 - Battery Life: 30 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IKyPA1DFI7g>
     - <https://www.youtube.com/watch?v=6j2Aj5E48Kc>
     - <https://www.youtube.com/watch?v=nseOM9Ah-jE>
@@ -1124,7 +1124,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight 1.1lbs / 500g
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tmDMlOdPc8w>
     - <https://www.youtube.com/watch?v=VM3SggT4ANw>
 
@@ -1135,7 +1135,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux In: Yes
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dHRkJTQ9nmw>
 
 ### #71 Sony SRS-XB30
@@ -1147,7 +1147,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux In: Yes
 - Party Mode: Yes (Partychain up to 100 speakers)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
 
 ### #72 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325): $80
@@ -1162,7 +1162,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 80ms
 - App: Yes
 - EQ: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
     - <https://www.youtube.com/watch?v=IN_RQ2TFKuc>
     - <https://www.youtube.com/watch?v=X_Ol81BBuWk>
@@ -1178,7 +1178,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Charging: Micro USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=I114oDubbic>
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
@@ -1193,7 +1193,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 166ms
 - Battery Life: 14 hours
 - Charging: Micro USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IBFY9D23YJU>
     - <https://www.youtube.com/watch?v=KjIvKngB10M>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
@@ -1209,7 +1209,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.92lbs / 420g
 - Battery Life: 12 hours
 - Charging: Micro USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IBFY9D23YJU>
     - <https://www.youtube.com/watch?v=EXMSGwFcTZI>
 - Links
@@ -1221,7 +1221,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.94lbs / 425g
 - Battery Life: 10 hours
 - Charging: Micro USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=u-Mvo52ozoU>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
     - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
@@ -1236,7 +1236,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Charging: Micro USB
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/boom-3>
@@ -1250,14 +1250,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux In: Yes
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=NFeCO7GLgA0>
     - <https://www.youtube.com/watch?v=KgMDRxajEZw>
 
 ### #79 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325): $36
 
 - Negatives: Quite a bit of bass distortion thudding as you turn the volume up. Bass not that deep. The Tozo PA1 totally outclasses it.
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FyPCrI3jz1Y>
 
 ### #80 TDK A33
@@ -1267,7 +1267,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.8lbs / 1270g
 - Battery Life: 6 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=VaR5Mi24b8Y>
     - <https://www.youtube.com/watch?v=ONaYmlCDaGQ>
     - <https://www.youtube.com/watch?v=zHKapeBRfJw>
@@ -1280,7 +1280,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~70hz
 - Weight: 1.23lbs / 631g
 - Battery Life: 27 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 
 ### #82 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325): $97
@@ -1289,7 +1289,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.76lbs / 800g
 - Battery Life: 16 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=av0qlp2JalI>
     - <https://www.youtube.com/watch?v=Hy4zdIT9J60>
     - <https://www.youtube.com/watch?v=da-yS5OCQ48>
@@ -1302,14 +1302,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.4lbs / 640g
 - Battery Life: 15 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GbiUY9bdv7g>
 
 ### #84 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325): $90
 
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 18 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o0ZgBxwlNE4>
 
 ### #85 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325): $32
@@ -1318,21 +1318,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.38lbs / 630g
 - Battery Life: 12 hours
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=S03_X1Vrm9U>
 
 ### #86 Harman Kardon Esquire 2: $200
 
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HXhIh7a-vE0>
 
 ### #87 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325): $36
 
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZInN26jI13M>
 
 ### #88 Xdobo X8: $35
@@ -1343,7 +1343,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Aux In: Yes
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DTgp-xGDzvw>
     - <https://www.youtube.com/watch?v=0_ZOX8rFK6c>
 
@@ -1352,7 +1352,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
 - Weight 0.82lbs / 373g
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2xDcb8j9x5M>
     - <https://www.youtube.com/watch?v=YR5qkcPg_i4>
 
@@ -1362,7 +1362,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~64hz
 - Battery life: 30 hours
 - Weight: 1.3lbs / 590g
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8uqI1pxHeVM>
 
 ### #91 [Oontz Angle 3](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) Ultra: $40
@@ -1372,7 +1372,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~90hz
 - Weight: 0.9lbs / 400g
 - Battery Life: 20 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 - Links
     - <https://www.rtings.com/speaker/reviews/oontz/angle-3-ultra>
@@ -1382,7 +1382,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Weight: 0.73lbs / 330g
 - Battery Life: 9 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SSla-paxi14>
 
 ### #93 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325): $50
@@ -1395,14 +1395,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: Micro USB
 - Aux In: Yes
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tbd1-9CAnYw>
 
 ### #94 EFM Toledo
 
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SmF_9L5FM7w>
 
 ### #95 Beats Pill+: $230
@@ -1410,7 +1410,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - Bass Extension: 90hz
 - Weight: 1.5lbs / 0.7kg
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
 - Links
     - <https://www.rtings.com/speaker/reviews/beats/pill-plus>
@@ -1419,7 +1419,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: No bass, very rolled off treble. Just doesn't sound good
 - Battery Life: 14 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=368gHYvN-QQ>
 
 ### #97 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
@@ -1440,7 +1440,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux In: Yes
 - MicroSD: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
 
 ### #99 Doss E–Go II
@@ -1450,7 +1450,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
 
 ### #100 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl): $28
@@ -1461,7 +1461,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.28lbs / 580g
 - Battery Life: 14 hours
 - IP Rating: IPX5
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Wogk7QEtKP4>
 - Links
     - <https://www.rtings.com/speaker/reviews/oontz/angle-3>
@@ -1471,7 +1471,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Barely any bass, “pathetic sounding” said Jay's Reviews. Gets distorted with a lot of bass. The entire Altec Lansing Bluetooth speaker line likely also sounds similarly bad.
 - Weight: 2.7lbs / 1.22kg
 - Battery Life: 30 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=xVCMja9zVSc>
     - <https://www.youtube.com/watch?v=Yge_hkwdyQ0>
     - <https://www.youtube.com/watch?v=mqgcIdBATeo>
@@ -1484,7 +1484,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.7lbs / 0.3kg
 - Bass Extension: 185hz
 - Battery Life: 9 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1A5cNDoQCM8>
     - <https://www.youtube.com/watch?v=VDc2anLRz0w>
 - Links

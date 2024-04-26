@@ -29,7 +29,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Charging: AC Power cord
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - <https://www.youtube.com/watch?v=FX2dAK-fpMU>
@@ -62,7 +62,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - EQ: Yes (3 band)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
     - <https://www.youtube.com/watch?v=sXG-ciWFf60>
     - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
@@ -86,7 +86,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - EQ: Yes (3 band)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-encore-essential>
@@ -106,7 +106,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (hidden bass and treble adjustment)
 - Charging: AC Power brick
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BwuzsGckzos>
     - <https://www.youtube.com/watch?v=ktjCIpky_Lg>
     - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
@@ -127,7 +127,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - App: No
 - Party Mode: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>
     - <https://www.youtube.com/watch?v=aARmhttq85o>
@@ -146,7 +146,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No (official app is broken, 3rd party android app only)
 - Charging: AC Power brick
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
@@ -167,7 +167,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power brick
 - IP Rating: None
 - Built in Microphone: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZB3Q1d1x4H8>
     - <https://www.youtube.com/watch?v=vuHY5DzSI4U>
     - <https://www.youtube.com/watch?v=hlumnEy0Ufg>
@@ -188,7 +188,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Built in Microphone: No
 - Charging: AC Power brick
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=0qj07kfHTFc>
     - <https://www.youtube.com/watch?v=xUN9hY0iCF4>
     - <https://www.youtube.com/watch?v=R1EmqPx0Ohs>
@@ -207,7 +207,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Wifi: Yes
 - IP Rating: IPX4
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8Ts5BVWHYDE>
     - <https://www.youtube.com/watch?v=sLsvo5urFaw>
     - <https://www.youtube.com/watch?v=EciHn8jHHdA>
@@ -229,7 +229,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Built in Microphone: No
 - Charging: AC Power brick
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
     - <https://www.youtube.com/watch?v=0qj07kfHTFc>
     - <https://www.youtube.com/watch?v=R1EmqPx0Ohs>
@@ -249,7 +249,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Latency: 33ms
 - Aux Latency: 0ms
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BwuzsGckzos>
     - <https://www.youtube.com/watch?v=e7m7DYq1li8>
     - <https://www.youtube.com/watch?v=fW3W4vVRYnU>
@@ -268,7 +268,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
 - Charging: AC Power brick
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
@@ -288,7 +288,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Charging: AC Power cable
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
     - <https://www.youtube.com/watch?v=imAhizbiSWw>
 
@@ -306,7 +306,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Charging: AC Power cable
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
     - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
     - <https://www.youtube.com/watch?v=3WDir4ajfs4>
@@ -327,7 +327,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Party Mode: Yes
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fFP_OPriRlM>
     - <https://www.youtube.com/watch?v=ezYZWoYEXfw>
 
@@ -342,7 +342,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: USB-C
 - TWS: Yes
 - IP Rating: IPX7
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q44mBW2C0m0>
     - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
     - <https://www.youtube.com/watch?v=-n-io_2nW3o>
@@ -362,7 +362,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power brick
 - IP Rating: IPX7
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
     - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
     - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
@@ -384,7 +384,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Party Mode: Yes (JBL One)
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
 
 ### #19 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
@@ -399,7 +399,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OTy29qPeIcI>
     - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
     - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
@@ -424,7 +424,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Charging: AC Power brick
 - IP Rating: IPX6
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
 
 ### #21 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
@@ -441,7 +441,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Charging: AC Power brick
 - IP Rating: IPX6
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
     - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
 
@@ -467,7 +467,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Power Bank: Yes
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
     - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
@@ -478,7 +478,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~50hz
 - Max Volume: 104db
 - Weight: 12lbs / 5.4kg
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TZlSSuIivKo>
     - <https://www.youtube.com/watch?v=ilGvwLRn_EQ>
     - <https://www.youtube.com/watch?v=VInmjCyNmxg>
@@ -500,7 +500,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=JLk5sdDpO1k>
     - <https://www.youtube.com/watch?v=-yxKYD0JxOE>
 
@@ -510,7 +510,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~52hz
 - Battery Life: 8 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=W4sIuhplM9w>
     - <https://www.youtube.com/watch?v=77HvEdMXy2c>
 
@@ -526,7 +526,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - Charging: AC Power brick
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=f_NtZs4HO8c>
     - <https://www.youtube.com/watch?v=QC1ZTsfBrl8>
     - <https://www.youtube.com/watch?v=CKMGqN1zzkk>
@@ -546,7 +546,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Charging: AC Power cord
 - Party Mode: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=9dIs_4-nSfI>
     - <https://www.youtube.com/watch?v=aBh91jFWVXI>
 
@@ -562,7 +562,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - IP Rating: IPX4
 - USB Playback: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
     - <https://www.youtube.com/watch?v=sW7qA0Qyg2U>
@@ -580,7 +580,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - TWS: No
 - USB Playback: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ImnPvu49RSM>
     - <https://www.youtube.com/watch?v=yenr1BPMk6s>
     - <https://www.youtube.com/watch?v=KjWAJ67aUMc>
@@ -594,7 +594,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 11.46lbs / 5.2kg
 - Battery Life: 24 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
     - <https://www.youtube.com/watch?v=jOvizwFy9L8>
@@ -616,7 +616,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: USB-C
 - App: Yes
 - EQ: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=e2mxaanQq3U>
     - <https://www.youtube.com/watch?v=aSK4-UlbE-0>
@@ -632,7 +632,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 160ms
 - Aux Latency: 16ms
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=cb6sKTBjHvg>
     - <https://www.youtube.com/watch?v=GaCQQ_34r8k>
 
@@ -643,7 +643,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Aux In: Yes
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qIkm529aaaQ>
     - <https://www.youtube.com/watch?v=NIyRizpppgI>
     - <https://www.youtube.com/watch?v=IHo7U4X49Tw>
@@ -662,7 +662,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - IP Rating: None
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mTJTjgryLkE>
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
 
@@ -679,7 +679,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=e2mxaanQq3U>
     - <https://www.youtube.com/watch?v=v_8Guk1NPa8>
 
@@ -690,7 +690,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 118db
 - Weight 19lbs / 8.6kg
 - Battery Life: 12 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kG9Bikc7L4g>
     - <https://www.youtube.com/watch?v=XeydgPPQ6HI>
 
@@ -701,7 +701,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 115db
 - Weight 13lbs / 5.9kg
 - Battery Life: 12 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o8DaGePVQzQ>
 
 ### #39 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325): $84
@@ -713,7 +713,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Battery Life: 10 hours
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tCWXYBzbKkg>
 
 ### #40 ION Pathfinder 4: $300
@@ -727,7 +727,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - FM Radio: Yes
 - USB Playback: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zlAsAJtwNS8>
 
 ### #41 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
@@ -738,7 +738,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Aux In: Yes
 - IP Rating: IPX2
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=gBGUb4G9SpU>
 
@@ -753,7 +753,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
 
 ### #43 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $80
@@ -767,7 +767,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=v_8Guk1NPa8>
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
     - <https://www.youtube.com/watch?v=t66JKkidpt8>
@@ -778,7 +778,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
 - Battery Life: 20 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=MrlgzwVoFw4>
     - <https://www.youtube.com/watch?v=a-VmNf5kgEA>
     - <https://www.youtube.com/watch?v=qr2oR3cnCYQ>
@@ -789,7 +789,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.4lbs / 7.9kg
 - Battery Life: 18 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uihgotNRgJ0>
     - <https://www.youtube.com/watch?v=3hADMlWdjrw>
 
@@ -803,7 +803,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - FM Radio: Yes
 - USB Playback: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=F4d76SDQPtw>
 
 ### #47 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325): $80
@@ -818,7 +818,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - IP Rating: IPX5
 - USB Playback: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=g05lODItS4w>
 - Links
     - <https://www.rtings.com/speaker/reviews/ion/pathfinder-280>
@@ -840,7 +840,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
 - Weight: 12.6 lbs / 5.7kg
 - Battery Life: 20 hours
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jS0Ofn3aRaI>
 
 ### #50 Artsound PWR05
@@ -849,7 +849,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 9.7lbs / 4.4kg
 - Battery Life: 10 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 
 ### #51 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325): $400
@@ -861,7 +861,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - MicroSD: Yes
 - IP Rating: IP67
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=y9aCDZW6I_8?t=392>
     - <https://www.youtube.com/watch?v=tFuilFzXh0Y>
     - <https://www.youtube.com/watch?v=1_BYNkiIMx4>

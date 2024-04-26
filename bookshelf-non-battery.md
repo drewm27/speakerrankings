@@ -16,7 +16,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 6.5"
 - Inputs: Bluetooth, XLR, RCA Input, Optical, Coax, USB
 - Outputs: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DvEBODvCynY>
     - <https://www.youtube.com/watch?v=Dsh3A4B6Lbo>
 
@@ -25,7 +25,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5.5"
 - Inputs: Bluetooth, 2x RCA Input, Optical, Coax
 - Outputs: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tji_9d3gkZ4>
     - <https://www.youtube.com/watch?v=2zAFza0qxrw>
     - <https://www.youtube.com/watch?v=MWeoTZmU6l0>
@@ -38,7 +38,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: Bluetooth, 2x RCA Input, Optical, Coax
 - Outputs: Subwoofer
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=MWeoTZmU6l0>
     - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
 
@@ -50,7 +50,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5.5"
 - Inputs: Bluetooth, Wifi, 2x RCA Input, Optical, Coax
 - Outputs: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SAdySyVWzq8>
     - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
 
@@ -62,7 +62,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5.5"
 - Inputs: Bluetooth, 2x RCA Input, Optical, Coax
 - Outputs: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tji_9d3gkZ4>
     - <https://www.youtube.com/watch?v=DvEBODvCynY>
 
@@ -74,7 +74,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5.5"
 - Inputs: Bluetooth, 3.5mm, RCA Input, Optical
 - Outputs: RCA Output
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SAdySyVWzq8>
     - <https://www.youtube.com/watch?v=g3Jx7d_iMo4>
 
@@ -93,7 +93,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 4"
 - Inputs: Bluetooth, 3.5, TRS, RCA
 - Outputs: 3.5
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=C04EP1z7PPw>
     - <https://www.youtube.com/watch?v=5NuLO145dsI>
 
@@ -106,7 +106,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 4"
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5NuLO145dsI>
     - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
     - <https://www.youtube.com/watch?v=ApdsaDkvoj8>
@@ -120,7 +120,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 4"
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ApdsaDkvoj8>
     - <https://www.youtube.com/watch?v=Xg2jvzQDPds>
     - <https://www.youtube.com/watch?v=C04EP1z7PPw>
@@ -132,7 +132,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 4"
 - Inputs: Bluetooth, 3.5mm, RCA Input
 - Outputs: RCA Output
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=xEDg7hl7a3A>
     - <https://www.youtube.com/watch?v=-pMsnGzolvY>
 
@@ -144,6 +144,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 4"
 - Inputs: Bluetooth, 3.5mm, RCA Input
 - Outputs: RCA Output
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
     - <https://www.youtube.com/watch?v=-pMsnGzolvY>

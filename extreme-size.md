@@ -29,7 +29,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Auracast)
 - Charging: AC Power cord
 - IP Rating: IPX4
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qQ34Z6813oM>
     - <https://www.youtube.com/watch?v=1MHvBEahqNs>
     - <https://www.youtube.com/watch?v=bny5v3Gt4Xc>
@@ -51,7 +51,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Charging: AC Power cord
 - IP Rating: IPX4
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
     - <https://www.youtube.com/watch?v=I6sUWvuONf0>
     - <https://www.youtube.com/watch?v=TOACab8wPxw>
@@ -76,7 +76,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Auracast)
 - Charging: AC Power cord
 - IP Rating: IPX4
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QTQqAp-JtU0>
     - <https://www.youtube.com/watch?v=LFE4dghejGI>
 
@@ -98,7 +98,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - App: No
 - EQ: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
@@ -132,7 +132,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Charging: AC Power cord
 - IP Rating: IPX4
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
     - <https://www.youtube.com/watch?v=Z727n9aBfgw>
@@ -155,7 +155,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - App: No
 - EQ: No
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
 - Links
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-300>
@@ -170,7 +170,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bxW813jlJKc>
     - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
     - <https://www.youtube.com/watch?v=59374H8e3HQ>
@@ -187,7 +187,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
     - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
     - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
@@ -208,7 +208,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.6lbs / 8kg
 - Aux In: Yes
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8HESRrKdGto>
     - <https://www.youtube.com/watch?v=G_0wnrW8UpA>
     - <https://www.youtube.com/watch?v=jGOER4-R4gg>
@@ -224,7 +224,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wifi: Yes
 - App: Yes
 - EQ: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=J8c7Ur83_VQ>
     - <https://www.youtube.com/watch?v=I9UpaL-4H5c>
 
@@ -242,7 +242,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TOACab8wPxw>
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
 - Links
@@ -262,7 +262,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=K9qr4EoEqpQ>
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
 - Links
@@ -279,7 +279,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Charging: AC Power cord
 - Party Mode: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=AK_xTAIqejY>
     - <https://www.youtube.com/watch?v=PbA32qofwe8>
     - <https://www.youtube.com/watch?v=6YjGuQPD52w>
@@ -299,7 +299,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Party Mode: Yes (Samsung Group Play up to 10 speakers)
 - IP Rating: IPX5
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_Q1i3cG092I>
 
 ### #15 Audiocase S5: $645
@@ -313,7 +313,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes
 - Charging: AC Power Brick
 - Removable battery: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.patreon.com/posts/audiocase-s5-vs-91754902>
 
@@ -327,7 +327,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zjX4rJ6qLZ4>
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
     - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
@@ -347,7 +347,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Charging: AC Power cord
 - Removable battery: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
     - <https://www.youtube.com/watch?v=hjpEDDN_hnY>
 
@@ -364,7 +364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Charging: AC Power cord
 - Removable battery: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-D0YY58zbA4>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
@@ -382,7 +382,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Charging: AC Power cord
 - Removable battery: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
     - <https://www.youtube.com/watch?v=Ym43t8EFysg>
@@ -398,7 +398,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Charging: AC Power brick
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
     - <https://www.youtube.com/watch?v=HLO_p671BgA>
@@ -413,7 +413,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=LeFRtL44rt8>
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
@@ -431,7 +431,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - XLR Input: Yes
 - Removable battery: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
     - <https://www.patreon.com/posts/audiocase-s10-92786890>
 
@@ -441,7 +441,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux In: Yes
 - USB Playback: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8dZz7MJRAAo>
 
 ### #24 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
@@ -452,7 +452,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No battery
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=U6Sec5_16x4>
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
 
@@ -464,7 +464,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No battery
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
     - <https://www.youtube.com/watch?v=K3350eIvszw>
     - <https://www.youtube.com/watch?v=qnya_6ew1e4>
@@ -477,7 +477,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No battery
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
     - <https://www.youtube.com/watch?v=K3350eIvszw>
 
@@ -487,7 +487,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight 17.6lbs / 8kg
 - Battery Life: 12 hours
 - Aux In: Yes
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=59374H8e3HQ>
     - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
     - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
@@ -503,7 +503,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes
 - TWS: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
@@ -516,7 +516,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
 
@@ -527,7 +527,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Charging: AC Power brick
 - IP Rating: None
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
     - <https://www.youtube.com/watch?v=epgx0THKpL8>
     - <https://www.youtube.com/watch?v=zjpNEBJDq_U>
@@ -540,7 +540,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 4 hours
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=wqROpxcZmrk>
     - <https://www.youtube.com/watch?v=GTqpcjfd3Fo>
     - <https://www.youtube.com/watch?v=YB4CxTDP1rE>
@@ -554,7 +554,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RXeTaLUzgAo>
     - <https://www.youtube.com/watch?v=dq1JLYaRwkk>
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
@@ -568,7 +568,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 14 hours
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=O6SWv8lnpCI>
     - <https://www.youtube.com/watch?v=rMX9Y-OpNoc>
 
@@ -581,7 +581,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=UrgQkhzAe0U>
 
 ### #35 Panasonic SC-TMAX5
@@ -593,7 +593,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_jlJnhPyALs>
     - <https://www.youtube.com/watch?v=dXoD0Yv_iLM>
 
@@ -603,7 +603,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~60hz
 - Weight: 19lbs / 8.6kg
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uiRxrnvyvCw>
 
 ### #37 Soundcore Rave+: $240
@@ -615,7 +615,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Power Bank: Yes
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=ZjQIvZByyns>
 
@@ -628,7 +628,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux In: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
 
 ### #39 Sony GTK-XB90
@@ -641,7 +641,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=R4s5LPfdj7g>
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
     - <https://www.youtube.com/watch?v=NaOdsSNUfl8>
@@ -657,7 +657,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partychain up to 100 speakers)
 - USB Playback: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qY0Cdd2QJTU>
 
 ### #41 Sony GTK-XB60
@@ -671,7 +671,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partychain up to 100 speakers)
 - USB Playback: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yq29uHBJKjI>
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
     - <https://www.youtube.com/watch?v=Cg2DNPOA8AA>
@@ -687,7 +687,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - FM Radio: Yes
 - Microphone Input: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
 
 ### #43 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
@@ -699,6 +699,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 6 hours
 - Aux In: Yes
 - Charging: AC Power cord
-- Comparisons
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eVlB4zq2Q0I>
     - <https://www.youtube.com/watch?v=28bFX3K9Gzs>
