@@ -41,7 +41,7 @@ Iphones seem to be limited to [16 volume steps](https://www.reddit.com/r/iOSBeta
 
 ### Disabling Audio Tones
 
-Newer speakers from Soundcore, JBL, Ultimate Ears, and Minirig can disable their startup, pairing and shutdown sounds by changing a setting in their app.
+Newer speakers from Soundcore, Tribit, JBL, Ultimate Ears, and Minirig can disable their startup, pairing and shutdown sounds by changing a setting in their app.
 
 ### Changing Tracks
 
