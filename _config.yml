@@ -154,15 +154,15 @@ keywords: "best Bluetooth speakers, Bluetooth speakers, Bluetooth, battery power
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#00ADB5"
+navbar-col: "#DEDEDE"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#EEEEEE"
+page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#393E46"
-footer-text-col: "#FFFFFF"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
