@@ -46,7 +46,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Microphone Input: Yes
 - Aux In: Yes
-- Power Bank: Yes
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
