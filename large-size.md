@@ -23,7 +23,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: yes
 - TWS: Yes (Bluetooth or cable)
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: USB-C
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
@@ -43,7 +43,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: yes
 - TWS: Yes (Bluetooth or cable)
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
@@ -66,7 +66,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - TWS: Yes (cable)
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
@@ -79,7 +79,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 48hz
 - Weight: 3.1lbs / 1.4kg
 - Battery Life: 8 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: AC Power brick
 - App: No (official app is broken, 3rd party android app only)
 - Party Mode: No
@@ -102,7 +102,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 50hz
 - Weight: 5.29lbs / 2.4kg
 - Battery Life: 8 hours
-- Aux In: Yes
+- Aux Input: Yes
 - TWS: No
 - IP Rating: None
 - App: No (official app is broken, 3rd party android app only)
@@ -124,7 +124,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.42lbs / 1.55kg
 - Battery Life: 24 hours
 - Latency: 185ms
-- Aux In: Yes
+- Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
@@ -145,7 +145,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.7lbs / 1.68kg
 - Battery Life: 24 hours
 - Bass Extension: 47hz
-- Aux In: No
+- Aux Input: No
 - MicroSD: No
 - Power Bank: Yes
 - App: Yes
@@ -172,7 +172,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.0lbs / 1.4kg
 - Battery Life: 20 hours
 - Latency: 50ms
-- Aux In: Yes
+- Aux Input: Yes
 - Party Mode: No
 - TWS: No
 - IP Rating: IPX4
@@ -209,7 +209,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - App: Yes
 - EQ: Yes
-- Aux In: No
+- Aux Input: No
 - Party Mode: No
 - TWS: Yes
 - IP Rating: IPX7
@@ -230,7 +230,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo
 - Weight: 2.4 lbs / 1.1kg
 - Battery Life: 24 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: USB-C
 - Power Bank: Yes
 - TWS: Yes
@@ -248,7 +248,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 4.03lbs / 1.83kg
 - Battery Life: 15 hours
 - Latency: 133ms
-- Aux In: Yes
+- Aux Input: Yes
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - TWS: Yes
 - Power Bank: Yes
@@ -270,7 +270,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: A bit muffled and missing midrange detail.
 - Weight: 4.63lbs / 2.1kg
 - Battery Life: 15 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Party Mode: Yes (over Wifi)
 - Wifi: Yes
 - IP Rating: None
@@ -288,7 +288,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 83ms
 - Aux Latency: 0ms
 - Battery Life: 12 hours
-- Aux In: Yes
+- Aux Input: Yes
 - TWS: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples
@@ -323,7 +323,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 5.3lbs / 2.4kg
 - TWS: Yes
 - Battery Life: 16 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: AC Power Brick
 - IP Rating: IPX5
 - Comparisons and Sound Samples
@@ -434,7 +434,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: Yes
 - EQ: Yes (5 band)
-- Aux In: No
+- Aux Input: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bhmzGxlSBds>
     - <https://www.youtube.com/watch?v=urmp76qTSlE>
@@ -451,7 +451,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 47hz
 - Weight: 10.1lbs / 4.6kg
 - Battery Life: 24 hours
-- Aux In: Yes
+- Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: None
@@ -465,7 +465,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Some midrange honkyness
 - Weight: 3.8lbs / 1.72kg
 - Battery Life: 35 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: AC Power brick
 - Power Bank: Yes
 - IP Rating: IP67
@@ -503,7 +503,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 6.5 lbs / 2.95kg
 - Latency: 85ms
 - Battery Life: 24 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Comparisons and Sound Samples
@@ -522,7 +522,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 49hz
 - Weight: 5.36lbs / 2.43kg
 - Battery Life: 24 hours
-- Aux In: Yes
+- Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples
@@ -566,7 +566,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - App: Yes (HK Connect)
 - EQ: No
-- Aux In: Yes
+- Aux Input: Yes
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: Yes
 - IP Rating: None
@@ -595,7 +595,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: 4 woofers and 4 tweeters for real 360 deg sound
 - Negatives: Upper bass boomy which takes away midrange detail and clarity.
 - Weight: 5.65lbs / 2.56kg
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jwyPReDpp88>
     - <https://www.youtube.com/watch?v=ORawKC23apY>
@@ -606,7 +606,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Bass Extension: 49hz
 - Weight: 9.0 lbs / 4.1kg
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WPkMk9H-9-4>
 
@@ -617,7 +617,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 49hz
 - Weight: 6.0 lbs / 2.72kg
 - Battery Life: 18 hours
-- Aux In: Yes
+- Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples
@@ -631,7 +631,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Party Mode: Yes (Connect)
 - TWS: No
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XojJNqtq6xQ>
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
@@ -645,7 +645,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 39hz
 - Weight: 4.0lbs / 1.8kg
 - Battery Life: 20 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Party Mode: Yes (Marshall Stack)
 - Power Bank: Yes
 - Comparisons and Sound Samples
@@ -661,7 +661,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 55hz
 - Weight: 1.23lbs / 557g
 - Battery Life: 10 hours
-- Aux In: Yes
+- Aux Input: Yes
 - MicroSD: Yes
 - IP Rating: IPX4
 - Charging: AC Power brick
@@ -690,7 +690,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 54hz
 - Weight: 6.6lbs / 3kg
 - Battery Life: 25 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Comparisons and Sound Samples
@@ -708,7 +708,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~52hz
 - Weight: 6.3lbs / 2.86kg
 - Battery Life: 15 hours
-- Aux In: Yes
+- Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples
@@ -731,7 +731,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Loses bass quickly after 40% volume. A lot of compression artifacts at high volume. Not really much of any difference between the G1 and G2. External AC power brick for charging. Horribly overpriced
 - Weight: 2.43lbs / 1.1kg
 - Battery Life: 24 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=C7-YUgWGt9Q>
     - <https://www.youtube.com/watch?v=th3EgJOQENw>
@@ -745,7 +745,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~60hz
 - Weight: 7.3lbs / 3.3kg
 - Battery Life: 16 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/shorts/SepQ-Ri35KM>
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
@@ -765,7 +765,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 106db
 - Weight: 4.71lbs / 2.14kg
 - Battery Life: 24 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
 
@@ -774,7 +774,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not very detailed, not as deep bass as competitors.
 - Weight: 6.3lbs / 2.85kg
 - Battery Life: No battery
-- Aux In: Yes
+- Aux Input: Yes
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2fYIobmLo-o>
@@ -784,7 +784,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors. Sounds mushy.
 - Weight: 4.5 lbs / 2.9kg
 - Battery Life: No battery
-- Aux In: Yes
+- Aux Input: Yes
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=UNHjks4p7Rk>
@@ -797,7 +797,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~58hz
 - Weight: 5.5lbs / 2.49kg
 - Battery Life: 20 hours
-- Aux In: Yes
+- Aux Input: Yes
 - IP Rating: IPX2
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
@@ -810,7 +810,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 60hz
 - Weight: 7.7lbs / 3.49kg
 - Battery Life: 18 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Party Mode: Yes (Partycast up to 100 speakers)
 - App: Yes
@@ -828,7 +828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 47hz
 - Weight: 4.4lbs / 2.0kg
 - Battery Life: 40 hours
-- Aux In: Yes
+- Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
@@ -872,7 +872,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 95db
 - Weight: 3.2lbs / 1.45 kg
 - Battery Life: 24 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZUJrVyWU8Xs>
     - <https://www.youtube.com/watch?v=AxRJ-7Ac4LU>
@@ -893,7 +893,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - Bass Extension: 63hz
 - Battery Life: 4 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
@@ -905,7 +905,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 63hz
 - Weight: 7.72lbs / 3.5kg
 - Battery Life: 18 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ePD09iI6qkI>
@@ -916,7 +916,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not much bass, bass distortion and rattle at high volume.
 - Weight: 4.63lbs / 2.1kg
 - Battery life: 18 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=iMVC77P4EeY>
@@ -930,7 +930,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 30 hours
 - Power Bank: Yes
 - MicroSD: Yes
-- Aux In: Yes
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=se-REq7pJ3s>
 

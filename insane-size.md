@@ -19,7 +19,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 87lbs / 39kg
 - Battery Life: No Battery
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - USB Playback: Yes
 - App: Yes
@@ -39,13 +39,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives:  Very large and heavy. No app. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 76lbs / 34kg
 - Battery Life: No Battery
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - USB Playback: Yes
 - App: No
 - TWS: Yes
 - Microphone Input: Yes
-- Aux In: Yes
+- Aux Input: Yes
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
@@ -58,7 +58,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 61lbs / 28kg
 - Battery Life: No Battery
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - USB Playback: Yes
 - App: Yes
@@ -80,7 +80,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Insanely heavy, not easy to carry. Not stereo. Only available in Europe
 - Weight: 68lbs / 31kg
 - Battery Life: 30 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
 - IP Rating: None
@@ -96,7 +96,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page
 - Weight: 58.6lbs / 26.6kg
 - Battery Life: 25 hours
-- Aux In: Yes
+- Aux Input: Yes
 - Power Bank: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Microphone Input: Yes

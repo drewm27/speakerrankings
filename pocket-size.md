@@ -23,7 +23,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes
 - TWS: Yes
 - Party Mode: No
-- Aux In: No
+- Aux Input: No
 - Built In Microphone: Yes
 - IP Rating: IP67
 - Charging: USB-C
@@ -54,7 +54,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: yes
 - TWS: Yes (Bluetooth or cable)
 - Party Mode: No
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
@@ -76,7 +76,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes
 - TWS: Yes (cable)
 - Party Mode: No
-- Aux In: Yes
+- Aux Input: Yes
 - Charging: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
@@ -348,7 +348,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: No
 - Charging: AC Wall wart
-- Aux In: Yes (integrated 3.5mm cable)
+- Aux Input: Yes (integrated 3.5mm cable)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 
