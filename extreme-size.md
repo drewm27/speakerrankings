@@ -484,7 +484,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #27 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
 
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
-- Weight 17.6lbs / 8kg
+- Weight: 17.6lbs / 8kg
 - Battery Life: 12 hours
 - Aux In: Yes
 - Comparisons and Sound Samples

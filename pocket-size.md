@@ -15,7 +15,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Finicky phone charging, which doesn't usually work.
 - Max Volume: 96db
 - Bass Extension: 59hz
-- Weight 0.7lbs / 317g
+- Weight: 0.7lbs / 317g
 - Battery Life: 12 hours
 - Latency: 265ms
 - Power Bank: Yes
@@ -151,7 +151,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
 - Bass Extension: 73hz
-- Weight 0.66lbs / 300g
+- Weight: 0.66lbs / 300g
 - Battery Life: 12 hours
 - Power Bank: No
 - App: No
@@ -424,7 +424,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
 - Bass Extension: 105hz
-- Weight 0.55lbs / 251g
+- Weight: 0.55lbs / 251g
 - Battery Life: 10 hours
 - TWS: No
 - Comparisons and Sound Samples
@@ -435,7 +435,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
 - Bass Extension: ~220hz
-- Weight 0.32lbs / 145g
+- Weight: 0.32lbs / 145g
 - Battery Life: 12 hours
 - TWS: Yes
 - IP Rating: IPX2

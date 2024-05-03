@@ -53,7 +53,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Without the above EQ, this speaker is pretty rolled off in the treble and will rank around #62 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - Max Volume: 101db
 - Bass Extension: 50hz
-- Weight 1.70lbs / 772g
+- Weight: 1.70lbs / 772g
 - Battery Life: 13 hours
 - Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Power Bank: No
@@ -140,7 +140,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Max Volume: 97db
 - Bass extension: 57hz
-- Weight 1.6lbs / 750g
+- Weight: 1.6lbs / 750g
 - Battery Life: 13 hours
 - Aux In: Yes
 - Latency: 180ms
@@ -274,7 +274,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Some slight upper mids emphasis.
 - Max Volume: 98db
 - Bass Extension: 56hz
-- Weight 1.21lbs / 544g
+- Weight: 1.21lbs / 544g
 - Battery Life: 12 hours
 - Latency: 116ms
 - Power Bank: No
@@ -945,7 +945,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #55 JBL Charge Essential: $180
 
 - Negatives: Less clarity than the Flip 4, highs rolled off. An overpriced rebranded Charge 3 for people who want stereo sound.
-- Weight 1.7lbs / 770g
+- Weight: 1.7lbs / 770g
 - Battery Life: 20 hours
 - Power Bank: Yes
 - Charging: Micro USB
@@ -1090,7 +1090,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #67 Bose SoundLink Color II
 
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble
-- Weight 1.3lbs / 600g
+- Weight: 1.3lbs / 600g
 - Battery Life: 8 hours
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
@@ -1123,7 +1123,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #69 Hifuture Soundpro
 
 - Negatives: Not as deep bass as competitors. Muffled sounding
-- Weight 1.1lbs / 500g
+- Weight: 1.1lbs / 500g
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tmDMlOdPc8w>
     - <https://www.youtube.com/watch?v=VM3SggT4ANw>
@@ -1351,7 +1351,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
-- Weight 0.82lbs / 373g
+- Weight: 0.82lbs / 373g
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2xDcb8j9x5M>
     - <https://www.youtube.com/watch?v=YR5qkcPg_i4>

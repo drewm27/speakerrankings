@@ -394,7 +394,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
 - Max Volume: 93db
 - Bass Extension: 45hz
-- Weight 6lbs / 2.7kg
+- Weight: 6lbs / 2.7kg
 - Battery Life: 8 hours
 - Aux In: Yes
 - App: Yes
@@ -689,7 +689,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - Max Volume: 118db
-- Weight 19lbs / 8.6kg
+- Weight: 19lbs / 8.6kg
 - Battery Life: 12 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kG9Bikc7L4g>
@@ -700,7 +700,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - Max Volume: 115db
-- Weight 13lbs / 5.9kg
+- Weight: 13lbs / 5.9kg
 - Battery Life: 12 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o8DaGePVQzQ>
