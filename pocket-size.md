@@ -24,7 +24,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Party Mode: No
 - Aux Input: No
-- Built In Microphone: Yes
+- Built in Microphone: Yes
 - IP Rating: IP67
 - Charging: USB-C
 - Comparisons and Sound Samples
@@ -96,7 +96,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - TWS: Yes
 - Party Mode: No
-- Built In Microphone: Yes
+- Built in Microphone: Yes
 - Charging: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
@@ -121,7 +121,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: Yes (Partycast up to 100 speakers)
 - IP Rating: IPX7
-- Built In Microphone: Yes
+- Built in Microphone: Yes
 - Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
@@ -140,7 +140,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes
 - TWS: No
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Built In Microphone: Yes
+- Built in Microphone: Yes
 - Charging: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
@@ -174,7 +174,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes
 - TWS: No
 - Party Mode: Yes (Marshall Stack)
-- Built In Microphone: Yes
+- Built in Microphone: Yes
 - IP Rating: IP67
 - Charging: USB-C
 - Comparisons and Sound Samples
@@ -200,7 +200,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Party Mode: Yes (Bose Party mode)
 - IP Rating: IP67
-- Built In Microphone: Yes
+- Built in Microphone: Yes
 - Charging: Micro-USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>

@@ -109,7 +109,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: A very neutral good sounding inexpensive small speaker with quite deep bass for the size. This upgraded version has a usb-c port while the old one has micro usb.
 - Negatives: Slight DSP tuning issue which makes bass get lighter at times at very low volumes, examples in oluv's video.
 - Max Volume: 99db
-- Bass extension: 56hz
+- Bass Extension: 56hz
 - Weight: 1.29lbs / 590g
 - Battery Life: 12 hours
 - Power Bank: No
@@ -139,7 +139,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Max Volume: 97db
-- Bass extension: 57hz
+- Bass Extension: 57hz
 - Weight: 1.6lbs / 750g
 - Battery Life: 13 hours
 - Aux Input: Yes
@@ -387,7 +387,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Boosted bass, not as detailed as higher ranked speakers
 - Bass Extension: 57hz
 - Weight: 2.48lbs / 1.13kg
-- Battery life: 12 hours
+- Battery Life: 12 hours
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
 
@@ -469,7 +469,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Quite neutral frequency response, almost indistinguishable from the very neutral Flip 6 besides the worse bass extension.
 - Negatives: Less bass extension than a Flip 6
-- Bass extension: ~62hz
+- Bass Extension: ~62hz
 - Weight: 1.64lbs / 742g
 - Battery Life: 12 hours
 - Comparisons and Sound Samples
@@ -634,7 +634,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #35 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325): $64
 
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
-- Battery life: 24 hours
+- Battery Life: 24 hours
 - MicroSD: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kDib9gjeaPQ>
@@ -1054,7 +1054,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.2lbs / 535g
 - Battery Life: 20 hours
 - Aux Input: Yes
-- Microphone: Yes
+- Built in Microphone: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
     - <https://www.youtube.com/watch?v=AeaMQ3DR_hE>
@@ -1360,7 +1360,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Bass Extension: ~64hz
-- Battery life: 30 hours
+- Battery Life: 30 hours
 - Weight: 1.3lbs / 590g
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8uqI1pxHeVM>

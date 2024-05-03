@@ -308,11 +308,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
 - Max Volume: 108db
 - Weight: 17.4lbs / 7.9kg
-- Battery life: 30 hours
+- Battery Life: 30 hours
 - Aux Input: Yes
 - Party Mode: Yes
 - Charging: AC Power Brick
-- Removable battery: Yes
+- Removable Battery: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.patreon.com/posts/audiocase-s5-vs-91754902>
@@ -346,7 +346,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: Yes
 - Charging: AC Power cord
-- Removable battery: Yes
+- Removable Battery: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
     - <https://www.youtube.com/watch?v=hjpEDDN_hnY>
@@ -363,7 +363,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: Yes
 - Charging: AC Power cord
-- Removable battery: Yes
+- Removable Battery: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-D0YY58zbA4>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
@@ -381,7 +381,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - TWS: No
 - Charging: AC Power cord
-- Removable battery: Yes
+- Removable Battery: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
@@ -430,7 +430,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 30 hours
 - Aux Input: Yes
 - XLR Input: Yes
-- Removable battery: Yes
+- Removable Battery: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
     - <https://www.patreon.com/posts/audiocase-s10-92786890>

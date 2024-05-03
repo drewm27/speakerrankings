@@ -469,7 +469,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power brick
 - Power Bank: Yes
 - IP Rating: IP67
-- Built In Microphone: Yes
+- Built in Microphone: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bL65lkRunbo>
     - <https://www.youtube.com/watch?v=8HGha3_EEXc>
@@ -756,7 +756,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 64hz
 - Weight: 2.4lbs / 1.1kg
 - Battery Life: 16 hours
-- LInks
+- Links
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/megablast>
 
 ### #46 LG PN7: $150
@@ -843,7 +843,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 6.62lbs / 3 kg
 - Aux Input: Yes
 - Charging: AC Power brick
-- Battery life: 15 hours
+- Battery Life: 15 hours
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/orange-box-98897294>
 
@@ -915,7 +915,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not much bass, bass distortion and rattle at high volume.
 - Weight: 4.63lbs / 2.1kg
-- Battery life: 18 hours
+- Battery Life: 18 hours
 - Aux Input: Yes
 - Power Bank: Yes
 - Comparisons and Sound Samples

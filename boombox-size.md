@@ -16,7 +16,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Amazing speaker given its size, competes well with some speakers in the Extreme size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsgadgets/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
 - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings.
 - Max Volume: 108db
-- Bass extension: 43hz
+- Bass Extension: 43hz
 - Weight: 11.6lbs / 5.3kg
 - Battery Life: 30 hours
 - Latency: 66ms
@@ -99,7 +99,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 35hz
 - Weight: 10.4lbs / 4.7kg
 - Battery Life: 8 hours
-- Latency 120ms
+- Latency: 120ms
 - Aux Latency: 112ms
 - TWS: Yes
 - App: No
@@ -320,7 +320,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - Weight: 9.1lbs / 4.2kg
-- Battery life: No Battery
+- Battery Life: No Battery
 - Wifi: Yes
 - TWS: No
 - App: Yes
@@ -377,7 +377,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 100db
 - Bass Extension: 45hz
 - Weight: 10.8lbs / 4.9kg
-- Battery life: 8 hours
+- Battery Life: 8 hours
 - Charging: AC Power cable
 - Wifi: Yes
 - TWS: No
@@ -414,7 +414,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Quite deep bass for the size and money.
 - Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
 - Max Volume: 111db
-- Bass extension: 39hz
+- Bass Extension: 39hz
 - Weight: 12.8lbs / 5.8kg
 - Latency: 160ms
 - Aux Latency: 16ms
@@ -432,7 +432,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. IPX6. Wall wart charger.
 - Max Volume: 112db
-- Bass extension: 43hz
+- Bass Extension: 43hz
 - Latency: 66ms
 - Aux Latency: 0ms
 - Weight: 11.2lbs / 5.1kg
@@ -463,7 +463,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise
-- Bass extension: 47hz
+- Bass Extension: 47hz
 - Weight: 7.4lbs / 3.4kg
 - Battery Life: 18 hours
 - Power Bank: Yes
@@ -656,7 +656,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 115db
 - Bass Extension: 54hz
 - Battery Life: 24 hours
-- Latency 150ms
+- Latency: 150ms
 - Aux Latency: 0ms
 - Aux Input: Yes
 - MicroSD: Yes
