@@ -177,7 +177,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - IP Rating: IPX4
 - Charging: USB-C
-- Comparison
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - <https://www.youtube.com/watch?v=HBky_51Uq_g>
     - <https://www.youtube.com/watch?v=sGyp6jGK0D8>

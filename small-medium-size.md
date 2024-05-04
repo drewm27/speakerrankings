@@ -905,7 +905,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.28lbs / 580g
 - Battery Life: 12 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Comparison
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_uqf_NKwcP4>
     - <https://www.youtube.com/watch?v=MeQ5llKSqvc>
     - <https://www.youtube.com/watch?v=IyCRwXBO26Y>
@@ -1429,7 +1429,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Aux Input: Yes
 - MicroSD: Yes
-- Comparison
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
 
 ### #98 Doss Soundbox

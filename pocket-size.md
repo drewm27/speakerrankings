@@ -159,7 +159,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - IP Rating: IPX4
 - Charging: USB-C
-- Comparison
+- Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 
 ### #8 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
