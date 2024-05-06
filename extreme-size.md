@@ -551,6 +551,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~60hz
 - Weight: 23.1lbs / 10.5kg
 - Battery Life: 13 hours
+- TWS: Yes
 - Aux Input: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
