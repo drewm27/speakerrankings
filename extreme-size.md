@@ -219,11 +219,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: No battery. Boosted upper bass. Peaky upper mids.
 - Battery Life: No battery
 - IP Rating: None
-- Weight: 25.1lbs / 11.4kg
+- Weight: 17.2lbs / 7.8kg
+- Aux Input: Yes
 - Party Mode: Yes
 - Wifi: Yes
 - App: Yes
 - EQ: Yes
+- IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=J8c7Ur83_VQ>
     - <https://www.youtube.com/watch?v=I9UpaL-4H5c>
@@ -238,6 +240,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Microphone Input: Yes
+- Guitar Input: Yes
 - USB Playback: Yes
 - App: Yes
 - EQ: Yes
@@ -259,6 +262,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - USB Playback: Yes
 - Microphone Input: Yes
+- Guitar Input: Yes
 - App: Yes
 - EQ: Yes
 - Charging: AC Power cord
@@ -334,6 +338,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.4lbs / 7.9kg
 - Battery Life: 30 hours
 - Aux Input: Yes
+- Microphone Input: Yes
+- Guitar Input: Yes
 - Party Mode: Yes
 - Charging: AC Power Brick
 - Removable Battery: Yes
@@ -367,10 +373,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 34lbs / 15.4kg
 - Battery Life: 40 hours
 - Aux Input: Yes
+- Microphone Input: Yes
+- Guitar Input: Yes
+- Party Mode: Yes
 - TWS: Yes
 - App: Yes
 - Charging: AC Power cord
 - Removable Battery: Yes
+- IP Rating: IP65
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
     - <https://www.youtube.com/watch?v=hjpEDDN_hnY>
@@ -384,10 +394,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 34lbs / 15.4kg
 - Battery Life: 40 hours
 - Aux Input: Yes
+- Microphone Input: Yes
+- Guitar Input: Yes
 - TWS: Yes
 - App: Yes
 - Charging: AC Power cord
+- Party Mode: Yes
 - Removable Battery: Yes
+- IP Rating: IP65
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-D0YY58zbA4>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
@@ -403,6 +417,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 33lbs / 15kg
 - Battery Life: 40 hours
 - Aux Input: Yes
+- Microphone Input: Yes
+- Guitar Input: Yes
 - TWS: No
 - Charging: AC Power cord
 - Removable Battery: Yes
