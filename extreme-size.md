@@ -151,6 +151,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power cord
 - IP Rating: None
 - Microphone Input: Yes
+- Guitar Input: Yes
 - TWS: Yes
 - Party Mode: No
 - App: No
@@ -168,8 +169,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 50hz
 - Weight: 17lbs / 8kg
 - Battery Life: 12 hours
+- Microphone Input: Yes
+- Guitar Input: Yes
+- Power Bank: Yes
+- TWS: Yes
+- App: Yes
+- EQ: Yes
+
 - Aux Input: Yes
 - Charging: AC Power cord
+- IP Rating: IP43
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bxW813jlJKc>
     - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
@@ -180,12 +189,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo. Designed for more loudness than deeper bass.
 - Max Volume: 109db
 - Bass Extension: 55hz
-- Weight: 16lbs / 7kg
+- Weight: 14.4lbs / 6.5kg
 - Battery Life: 11 hours
 - Aux Input: Yes
 - Charging: AC Power cord
 - IP Rating: None
+- Microphone Input: Yes
+- Guitar Input: Yes
+- App: Yes
+- EQ: Yes
 - Party Mode: Yes (Bose Party mode)
+- Charging: AC Power cord
 - TWS: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
@@ -200,21 +214,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/bose/s1-pro-system>
 
-### #9 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
-
-- Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass.
-- Max Volume: 115db
-- Bass Extension: 50hz
-- Weight: 17.6lbs / 8kg
-- Aux Input: Yes
-- IP Rating: None
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=8HESRrKdGto>
-    - <https://www.youtube.com/watch?v=G_0wnrW8UpA>
-    - <https://www.youtube.com/watch?v=jGOER4-R4gg>
-    - <https://www.youtube.com/watch?v=FW4T7G98MXk>
-
-### #10 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl): $600
+### #9 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl): $600
 - Positives: Quite powerful sound, and quite deep bass for the size. 
 - Negatives: No battery. Boosted upper bass. Peaky upper mids.
 - Battery Life: No battery
@@ -228,7 +228,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=J8c7Ur83_VQ>
     - <https://www.youtube.com/watch?v=I9UpaL-4H5c>
 
-### #11 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
+### #10 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
 
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
 - Bass Extension: 50hz
@@ -248,7 +248,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp700>
 
-### #12 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
+### #11 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
 
 - Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
 - Bass Extension: 42hz
@@ -268,7 +268,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp500>
 
-### #13 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
+### #12 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
 
 - Positives: An insane value speaker. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
@@ -288,7 +288,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=6YjGuQPD52w>
     - <https://www.youtube.com/watch?v=Z727n9aBfgw>
 
-### #14 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325): $300
+### #13 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325): $300
 
 - Positives: Sounds reasonably balanced. A little tough to judge based on the sound samples, would be nice to have more comparisons.
 - Negatives: Not as deep bass as the Partybox 110 or other higher ranked speakers. Needs to be plugged in to reach higher volume.
@@ -304,6 +304,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_Q1i3cG092I>
+
+### #14 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
+
+- Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass.
+- Max Volume: 115db
+- Bass Extension: 50hz
+- Weight: 17.6lbs / 8kg
+- Battery Life: 12 hours
+- Microphone Input: Yes
+- Guitar Input: Yes
+- Aux Input: Yes
+- App: Yes
+- IP Rating: None
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=8HESRrKdGto>
+    - <https://www.youtube.com/watch?v=G_0wnrW8UpA>
+    - <https://www.youtube.com/watch?v=jGOER4-R4gg>
+    - <https://www.youtube.com/watch?v=FW4T7G98MXk>
 
 ### #15 Audiocase S5: $645
 
