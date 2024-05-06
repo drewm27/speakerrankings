@@ -277,8 +277,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - FM Radio: Yes
 - Microphone Input: Yes
+- Guitar Input: Yes
 - Charging: AC Power cord
 - Party Mode: Yes
+- IP Rating: IPX4
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=AK_xTAIqejY>
     - <https://www.youtube.com/watch?v=PbA32qofwe8>
@@ -552,6 +554,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 23.1lbs / 10.5kg
 - Battery Life: 13 hours
 - TWS: Yes
+- Party Mode: Yes (Party Sync Mode)
 - Aux Input: Yes
 - Power Bank: Yes
 - Charging: AC Power cord
