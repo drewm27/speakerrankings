@@ -272,6 +272,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: An insane value speaker. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
+- Weight: 20.9lbs / 9.5kg
 - Battery Life: 12 hours
 - Aux Input: Yes
 - Power Bank: Yes
