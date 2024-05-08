@@ -37,6 +37,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=tyFvllnBeSM>
     - <https://www.youtube.com/watch?v=X7NlGAQBk0s>
     - <https://www.youtube.com/watch?v=6PwCJ_Xy_I4>
+    - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
 - Links
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
 
@@ -277,6 +278,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Charging: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
     - <https://www.youtube.com/watch?v=Eg3I8aDdI5s>
     - <https://www.youtube.com/shorts/cT-oUhYhPWk>
 
