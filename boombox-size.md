@@ -853,7 +853,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 
-### #51 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325): $400
+### #51 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl): $148
+- Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
+- Weight: 9.7lbs / 4.4kg
+- Battery Life: 40 hours
+- Aux Input: Yes
+- MicroSD: Yes
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=elc93N27uL0>
+    - <https://www.youtube.com/watch?v=ui3IZd1Akoc>
+
+### #52 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325): $400
 
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
 - Weight: 10lbs / 4.5kg

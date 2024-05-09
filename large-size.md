@@ -934,3 +934,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=se-REq7pJ3s>
 
+### #61 [Zealot S-67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl): $80
+- Negatives: A lot of distortion above 50%, no deep bass, rolled off treble. Just not a good sounding speaker.
+- Weight: 5.29lbs / 2.4kg
+- Battery Life: 20 hours
+- Aux Input: Yes
+- MicroSD: Yes
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=qFEtEaSZnqc>
+    - <https://www.youtube.com/watch?v=76ysec3eNto>
