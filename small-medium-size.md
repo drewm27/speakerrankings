@@ -271,7 +271,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #11 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325): $90
 
 - Positives: A very neutral speaker, very small, almost pocket size, a huge sound quality leap over the Flip 5.
-- Negatives: Not stereo. Some slight upper mids emphasis.
+- Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
 - Max Volume: 98db
 - Bass Extension: 56hz
 - Weight: 1.21lbs / 544g
