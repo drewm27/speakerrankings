@@ -940,6 +940,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Aux Input: Yes
 - MicroSD: Yes
+- IP Rating: IPX6
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qFEtEaSZnqc>
     - <https://www.youtube.com/watch?v=76ysec3eNto>

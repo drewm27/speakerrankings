@@ -859,6 +859,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Aux Input: Yes
 - MicroSD: Yes
+- IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=elc93N27uL0>
     - <https://www.youtube.com/watch?v=ui3IZd1Akoc>
