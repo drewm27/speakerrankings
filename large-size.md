@@ -193,6 +193,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: Yes (Mozart 2.0)
 - IP Rating: IP65
+- Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=oB-ZC5qTUHw>
 
@@ -251,6 +252,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - TWS: Yes
+- Charging: USB-C
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
@@ -273,6 +275,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Party Mode: Yes (over Wifi)
 - Wifi: Yes
+- Charging: AC cable
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=g05lODItS4w>
@@ -290,6 +293,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux Input: Yes
 - TWS: Yes
+- Charging: USB-C
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=7eQFNduP7ak>
@@ -308,6 +312,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 7.94lbs / 3.6kg
 - Battery Life: 18 hours
 - Power Bank: Yes
+- Aux Input: Yes
+- Charging: USB-C
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - TWS: Yes
 - Comparisons and Sound Samples
@@ -325,6 +331,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Aux Input: Yes
 - Charging: AC Power Brick
+- Charging: USB-C
 - IP Rating: IPX5
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-LuC0Y1_kXU>
@@ -359,6 +366,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - EQ: Yes (Bass boost 3 steps)
 - TWS: Yes
+- Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tIsmoHIQ5-I>
     - <https://www.youtube.com/watch?v=5tz_AnBghiA>
@@ -390,6 +398,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Deeper bass than the non-plus version.
 - Power Bank: Yes
+- Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=O0YSspRqEoY>
     - <https://www.youtube.com/watch?v=wYjoQjCACcQ>
@@ -400,6 +409,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Power bank.
 - Negatives: Slightly boosted bass
 - Battery Life: 10 hours
+- Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gz-JI1aDaE8>
     - <https://www.youtube.com/watch?v=XElKWWmN9R8>
@@ -418,6 +428,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: No
 - EQ: No
+- Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=hAfUPwhnD4A>
 
