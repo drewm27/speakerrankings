@@ -316,8 +316,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - <https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker>
 
-### #13 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl): $36
-- Positives: By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
+### #13 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl) and Wisetiger P3: $36
+- Positives: Both speakers appear to be exactly the same. By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
 - Negatives: Slightly less bass extension than higher ranked speakers.
 - Weight: 1.1lbs / 500g
 - Battery Life: 16 hours
