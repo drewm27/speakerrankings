@@ -330,6 +330,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Psmgg5ZJCvs>
+    - <https://www.youtube.com/watch?v=LnNR_uVowaw>
+    - <https://www.youtube.com/watch?v=ikGFsH2aeZ8>
 
 ### #14 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325): $100
 
