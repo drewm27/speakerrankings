@@ -944,3 +944,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qFEtEaSZnqc>
     - <https://www.youtube.com/watch?v=76ysec3eNto>
+
+### #62 [T&G 118](https://www.aliexpress.us/item/2255800259053891.html): $31
+- Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
+- Weight: 2.42lbs / 1.1kg
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=rE6oDyPAdwU>
