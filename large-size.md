@@ -875,7 +875,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=7KG0dPs-xUQ>
-    - <https://www.youtube.com/watch?v=LJdkI-BiHQs>
 
 ### #55 LG Xboom Go PL7: $70
 
