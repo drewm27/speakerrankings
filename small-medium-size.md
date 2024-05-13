@@ -130,6 +130,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=iE3qoiDAn98>
     - <https://www.youtube.com/watch?v=mjBlrhZwDmE>
     - <https://www.youtube.com/watch?v=UQ3S8D3_1nE>
+    - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
 - Links
     - <https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker>
