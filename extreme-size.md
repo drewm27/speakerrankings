@@ -175,7 +175,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: Yes
 - EQ: Yes
-
 - Aux Input: Yes
 - Charging: AC Power cord
 - IP Rating: IP43
@@ -327,8 +326,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=jGOER4-R4gg>
     - <https://www.youtube.com/watch?v=FW4T7G98MXk>
 - Links
-    -<https://www.reddit.com/r/DJs/comments/ydxjdb/i_used_the_mackie_thump_gos_for_an_indoor_venue/>
-    -<https://www.reddit.com/r/livesound/comments/sbxm53/mackie_thump_go_review_portable_batterypowered_pa/>
+    - <https://www.reddit.com/r/DJs/comments/ydxjdb/i_used_the_mackie_thump_gos_for_an_indoor_venue/>
+    - <https://www.reddit.com/r/livesound/comments/sbxm53/mackie_thump_go_review_portable_batterypowered_pa/>
 
 ### #15 Audiocase S5: $645
 
