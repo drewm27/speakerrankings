@@ -112,7 +112,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 56hz
 - Weight: 1.29lbs / 590g
 - Battery Life: 12 hours
-- Power Bank: No
+- Power Bank: Yes
 - Latency: 150ms
 - App: Yes
 - EQ: Yes
@@ -423,6 +423,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Aux Input: Yes
 - Charging: USB-C
+- Latency: 90ms
+- Aux Latency: 16ms
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
 
@@ -541,10 +543,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Use [this EQ](https://www.instagram.com/p/C5vDo8gINjx/) for the best sound quality
 - Negatives: Boosted treble, boosted bass in the factory EQs. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
 - Battery Life: 24 hours
+- TWS: Yes
+- Aux Input: yes
+- Party Mode: Yes
+- App: Yes
+- EQ: Yes
+- Aux Latency: 16ms
+- Latency: SBC 233ms, AAC 240ms
 - Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HF3eKZM-ZTs>
     - <https://www.youtube.com/watch?v=k8tm3FwCkWM>
+    - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
     - <https://www.patreon.com/posts/tribit-xsound-2-99145415>
 
 ### #27 [Bose Soundlink Flex](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325): $150
@@ -804,6 +814,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - USB Playback: Yes
 - TWS: Yes
+- Power Bank: Yes
 - IP Rating: IPX7
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
