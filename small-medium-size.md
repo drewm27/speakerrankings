@@ -622,7 +622,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 
 ### #31 [Sony ULT Field 1](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl): $128
-- Negatives: Sony removed party mode compared to previous speakers. Upper midrange peak, rolled off treble
+- Negatives: Upper midrange peak, rolled off treble
 - Weight: 1.43lbs / 650g
 - Battery Life: 12 hours
 - Power Bank: No
