@@ -622,6 +622,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=e2mxaanQq3U>
     - <https://www.youtube.com/watch?v=aSK4-UlbE-0>
     - <https://www.youtube.com/watch?v=DJGTpomhm2k>
+- Links
+    - [Official Product Page](https://soundcore.sjv.io/R5qKrv)
 
 ### #33 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325): $190
 

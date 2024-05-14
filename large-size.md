@@ -162,6 +162,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=mIeR8bNN29A>
     - <https://www.youtube.com/watch?v=-zdbjsl730U>
     - <https://www.youtube.com/watch?v=AU3Xvf5JyQY>
+- Links
+    - [Official Product Page](https://soundcore.sjv.io/vNk6PW)
 
 ### #8 [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325): $200
 
@@ -224,6 +226,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=t66JKkidpt8>
     - <https://www.youtube.com/watch?v=R3fLkaez35A>
 - Links
+    - [Official Product Page](https://soundcore.sjv.io/KjmgL7)
     - <https://www.rtings.com/speaker/reviews/anker/soundcore-motion-boom>
 
 ### #11 [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325): $400
@@ -302,6 +305,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=r8iOd03r-hU>
     - <https://www.youtube.com/watch?v=CcWVYKNK7sE>
     - <https://www.patreon.com/posts/soundcore-motion-95038563>
+- Links
+    - [Official Product Page](https://soundcore.sjv.io/EK126D)
 
 ### #15 [Soundcore Rave Neo 2](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325): $130
 
