@@ -646,9 +646,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #33 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325): $47
 - Negatives: Not very deep bass, slight distortion
 - Bass Extension: 65hz
+- Battery Life: 12 hours
+- Aux Input: No
+- Power Bank: No
+- TWS: yes
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/soundcore-motion-94092689>
+- Links
+    - [Official Product Page](https://soundcore.sjv.io/AWZLz7)
 
 ### #34 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325): $90
 
@@ -681,6 +687,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 54hz
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
+- Links
+    - [Official Product Page](https://soundcore.sjv.io/Y9PLAr)
 
 ### #37 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325): $64
 
@@ -841,6 +849,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=SxJTZDCiw7g>
     - <https://www.youtube.com/watch?v=XpkitJveFlc>
 - Links
+    - [Official Product Page](https://soundcore.sjv.io/Y9eWOj)
     - <https://www.rtings.com/speaker/reviews/anker/soundcore-3>
 
 ### #47 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325): $200
