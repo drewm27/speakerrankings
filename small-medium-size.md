@@ -73,6 +73,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=kP3Dw6g-DZ0>
     - <https://www.patreon.com/posts/soundcore-motion-93321960>
     - <https://www.patreon.com/posts/soundcore-motion-94933573>
+- Links
+    - [Official Product Page](soundcore.sjv.io/Or0zQZ)
 
 ### #3 [Soundcore Motion+](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325): $80 after $20 coupon
 
