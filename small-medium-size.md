@@ -74,7 +74,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/soundcore-motion-93321960>
     - <https://www.patreon.com/posts/soundcore-motion-94933573>
 - Links
-    - [Official Product Page](soundcore.sjv.io/Or0zQZ)
+    - [Official Product Page](https://soundcore.sjv.io/Or0zQZ)
 
 ### #3 [Soundcore Motion+](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325): $80 after $20 coupon
 
@@ -104,6 +104,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=4xVEvEitaPU>
     - <https://www.youtube.com/watch?v=NFeCO7GLgA0>
 - Links
+    - [Official Product Page](https://soundcore.sjv.io/k0EVK0)
     - <https://www.rtings.com/speaker/reviews/anker/soundcore-motion-plus>
 
 ### #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325): $60
