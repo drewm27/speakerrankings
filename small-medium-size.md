@@ -137,7 +137,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
 - Links
-    - <https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker>
+    - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
 
 ### #5 Denon Envaya DSB-250BT: $250
 
@@ -319,7 +319,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=P82BreW-LzY>
     - <https://www.youtube.com/watch?v=sGYxOHqOYWQ>
 - Links
-    - <https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker>
+    - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
 
 ### #13 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl): $36
 - Positives: Exactly the same as the Wisetiger P3 below. By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
