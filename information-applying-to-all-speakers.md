@@ -47,6 +47,6 @@ Newer speakers from Soundcore, Tribit, JBL, Ultimate Ears, and Minirig can disab
 
 Nearly all speakers can skip forward tracks by pressing play twice and skip back by pressing play 3 times. Certain speakers may use a different button press.
 
-### Firmware installation on a Mac
+### Speaker Firmware Installation on a Mac
 
-To install firmware for a PC on a Mac, [see these instructions](https://www.reddit.com/r/Bluetooth_Speakers/comments/17slpcs/guide_downgrading_earfun_uboom_l_to_oluvs/)
+To install firmware on a speaker requiring a PC on a Mac, [see these instructions](https://www.reddit.com/r/Bluetooth_Speakers/comments/17slpcs/guide_downgrading_earfun_uboom_l_to_oluvs/)
