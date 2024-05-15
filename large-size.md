@@ -144,6 +144,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - Weight: 3.7lbs / 1.68kg
 - Battery Life: 24 hours
+- Max Volume: 105db
+- Latency: 125ms
 - Bass Extension: 47hz
 - Aux Input: No
 - MicroSD: No
