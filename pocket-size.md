@@ -39,6 +39,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=6PwCJ_Xy_I4>
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
 - Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
 
 ### #2 [Minirig Mini 2](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2): $100
@@ -62,6 +63,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - <https://www.youtube.com/watch?v=-THqGgH_Tu8>
     - <https://www.youtube.com/watch?v=7kydvk2xdtA>
+- Links
+    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)
 
 ### #3 Minirig Mini: $100
 
@@ -146,6 +149,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
+- Links
+    - [Official Product Page](soundcore.sjv.io/R5MR1b)
 
 ### #7 [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
 
@@ -162,6 +167,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
+- Links
+    - [Official Product Page](https://www.vifa.dk/pages/vifa-city)
 
 ### #8 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
 
@@ -185,6 +192,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=tyFvllnBeSM>
     - <https://www.youtube.com/watch?v=X7NlGAQBk0s>
 - Links
+    - [Official Product Page](https://www.marshall.com/us/en/product/willen)
     - <https://www.rtings.com/speaker/reviews/marshall/willen>
 
 ### #9 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325): $99
@@ -207,6 +215,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>
     - <https://www.youtube.com/watch?v=oTE4EgEict4>
 - Links
+    - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html)
     - <https://www.rtings.com/speaker/reviews/bose/soundlink-micro>
 
 ### #10 [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325): $170
@@ -223,6 +232,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beoplay-p2)
 
 ### #11 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325): $95
 
@@ -261,6 +272,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
 - Links
+    - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/clip-4>
 
 ### #13 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
@@ -282,6 +294,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=Eg3I8aDdI5s>
     - <https://www.youtube.com/shorts/cT-oUhYhPWk>
     - <https://www.patreon.com/posts/jbl-go-4-first-103869354>
+- Links
+    - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
 
 ### #14 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
@@ -300,6 +314,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=9tigrVLPi5A>
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
 - Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/go-3>
 
 ### #15 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
@@ -318,6 +333,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=uWv_SRZh3TE>
     - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
     - <https://www.youtube.com/watch?v=EFB1Ut2EZMo>
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxb100-b)
 
 ### #16 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
 
@@ -337,6 +354,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
 - Links
+    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb13)
     - <https://www.rtings.com/speaker/reviews/sony/srs-xb13>
 
 ### #17 JBL Clip: $50
@@ -354,6 +372,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes (integrated 3.5mm cable)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
+- Links
+    - [Official Product Page](https://www.jbl.com/award-winners/JBL+CLIP.html)
 
 ### #18 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
 
@@ -370,6 +390,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CLIP+3.html)
 
 ### #19 Xiaomi Mi Portable Outdoor
 
