@@ -33,6 +33,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - <https://www.youtube.com/watch?v=FX2dAK-fpMU>
+    - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
     - <https://www.youtube.com/watch?v=r8iOd03r-hU>
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
     - <https://www.youtube.com/watch?v=e33s1WsRBMs>
@@ -369,6 +370,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - IP Rating: IPX7
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
     - <https://www.youtube.com/watch?v=_JZH0Tc2OO8>
     - <https://www.youtube.com/watch?v=q44mBW2C0m0>
     - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
