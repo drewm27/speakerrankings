@@ -360,6 +360,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #16 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325): $225
 - Negatives: Rising frequency response but upper treble rolled off, 1khz and 4.3khz peaks
+- Max Volume: 112db
 - Bass Extension: ~42hz
 - EQ: Yes
 - App: Yes
