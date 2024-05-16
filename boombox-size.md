@@ -492,6 +492,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o5TQLBxyskg>
+    - <https://www.youtube.com/watch?v=Q5cn3rG8j6g>
+    - <https://www.youtube.com/watch?v=Ej9mRqO5dvs>
 - Links
     - [Official Product Page](https://geminisound.com/products/grv-650l)
 
