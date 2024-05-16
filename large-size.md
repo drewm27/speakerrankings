@@ -28,6 +28,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0WY6HxN_gU>
+- Links
+    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
 
 ### #2 [Minirig mk3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
 
@@ -54,6 +56,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
     - <https://www.youtube.com/watch?v=WzYQ8EHXj6U>
     - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
+- Links
+    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
 
 ### #3 Minirig mk2 with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
 
@@ -95,6 +99,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
     - <https://www.patreon.com/posts/soundcore-motion-94933573>
+- Links
+    - [Official Product Page](https://www.vifa.dk/pages/helsinki)
 
 ### #5 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
 
@@ -114,6 +120,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
     - <https://www.youtube.com/watch?v=Cc-9e0SNPFM>
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
+- Links
+    - [Official Product Page](https://www.vifa.dk/pages/oslo)
 
 ### #6 [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325): $100
 
@@ -136,6 +144,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=PZwvg4i-qYU>
     - <https://www.youtube.com/watch?v=nK-6sdRuTR4>
 - Links
+    - [Official Product Page](https://www.mifalife.net/en/speakers/A-series/WildBox)
     - <https://www.diysubwoofers.org/projects/other/BT/Wildbox/>
 
 ### #7 [Soundcore Boom 2](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325): $130
@@ -187,6 +196,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=sGyp6jGK0D8>
     - <https://www.youtube.com/watch?v=2RYtK6iuU2Y>
     - <https://www.youtube.com/watch?v=6j2Aj5E48Kc>
+- Links
+    - [Official Product Page](https://www.marshall.com/us/en/product/stockwell-ii)
 
 ### #9 [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325): $1200
 
@@ -200,6 +211,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=oB-ZC5qTUHw>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
 
 ### #10 [Soundcore Motion Boom](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325): $80
 
@@ -244,6 +257,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eLILB6g0p-A>
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
+- Links
+    - [Official Product Page](https://support.bang-olufsen.com/hc/en-us/articles/360040947931-Beoplay-A2-Active)
 
 ### #12 [JBL Xtreme 3](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325): $230
 
@@ -269,6 +284,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=fY3VYy-O9eE>
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
 - Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/XTREME-3-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/xtreme-3>
 
 ### #13 [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325): $330
@@ -285,6 +301,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=g05lODItS4w>
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
+- Links
+    - [Official Product Page](https://www.audiopro.com/en/product/c3/)
 
 ### #14 [Soundcore Motion X600](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325): $150
 
@@ -347,6 +365,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=P3QzzAIaOzA>
     - <https://www.youtube.com/watch?v=M_UEjte3TsQ>
     - <https://www.youtube.com/watch?v=0ooUo0bQ2uc>
+- Links
+    - [Official Product Page](https://lu.teufelaudio.com/rockster-cross-105746000)
 
 ### #17 [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325): $450
 
@@ -360,6 +380,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eyhUDYKHtg8>
+- Links
+    - [Official Product Page](https://www.sonos.com/en-us/shop/move-2)
 
 ### #18 [Dockin D Fine+ 2](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325): $150
 
@@ -382,6 +404,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=YMQ-jK82kaI>
     - <https://www.youtube.com/watch?v=PzwxJS0uhmM>
     - <https://www.youtube.com/watch?v=q99Jga0n7gg>
+- Links
+    - [Official Product Page](https://dockin.de/products/dockin-d-fine-1)
 
 ### #19 [Sonos Move](https://www.amazon.com/Sonos-Move-Battery-Powered-Bluetooth-Built/dp/B089DPZR96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bb880c2ab7548fa6a993a8843b001dfa&camp=1789&creative=9325): $380
 
@@ -399,6 +423,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=V4Nq-rVAP1k>
     - <https://www.youtube.com/watch?v=bPfwaZp1x1Q>
 - Links
+    - [Official Product Page](https://www.sonos.com/en-us/shop/move)
     - <https://www.rtings.com/speaker/reviews/sonos/move>
 
 ### #20 Dockin D Fine+
@@ -461,6 +486,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/jbl-xtreme-4-vs-99980591>
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
     - <https://www.youtube.com/watch?v=MtCDfPVxV08>
+- Links
+    - [Official Product Page](https://ro.harmanaudio.com/XTREME-4.html)
 
 ### #24 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325): $103
 
@@ -476,6 +503,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=KNfh6TuyLi0>
     - <https://www.youtube.com/watch?v=u9_Rn0gvgwE>
+- Links
+    - [Official Product Page](https://www.w-king.com/t9.html)
 
 ### #25 Fugoo XL
 
@@ -493,6 +522,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=8HGha3_EEXc>
     - <https://www.youtube.com/watch?v=te4VQVWJWdI>
     - <https://www.youtube.com/watch?v=t3OYsZHVgYE>
+- Links
+    - [Official Product Page](https://fugoo.com/blogs/press/fugoo-xl-new-waterproof-bluetooth-speaker-offers-35-hours-of-battery-life)
 
 ### #26 [Devialet Mania](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325): $800
 
@@ -511,6 +542,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=wUUkwxyDA58>
     - <https://www.patreon.com/posts/visit-at-store-75995137>
 - Links
+    - [Official Product Page](https://www.devialet.com/en-us/portable-speakers/)
     - <https://www.rtings.com/speaker/reviews/devialet/mania>
 
 ### #27 Sony SRS-XB43: $150
