@@ -33,6 +33,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=qQ34Z6813oM>
     - <https://www.youtube.com/watch?v=1MHvBEahqNs>
     - <https://www.youtube.com/watch?v=bny5v3Gt4Xc>
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-STAGE-320.html)
 
 ### #2 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $500
 - Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes. Very close to the 320 in terms of performance.
@@ -58,6 +60,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
     - <https://www.youtube.com/watch?v=BVfi7YvlMRg>
 - Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX310-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-310>
 
 ### #3 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl): $400
@@ -79,6 +82,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QTQqAp-JtU0>
     - <https://www.youtube.com/watch?v=LFE4dghejGI>
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-CLUB-120.html)
 
 ### #4 [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325): $260
 
@@ -112,6 +117,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
     - <https://www.youtube.com/watch?v=YWVFrq61OQk>
 - Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX100.html)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-100>
 
 ### #5 [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325): $350
@@ -137,6 +143,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
     - <https://www.youtube.com/watch?v=Z727n9aBfgw>
 - Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-110-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-110>
 
 ### #6 JBL Partybox 300: $300
@@ -159,6 +166,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
 - Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/JBL+PartyBox+300.html)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-300>
 
 ### #7 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
@@ -182,6 +190,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=bxW813jlJKc>
     - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
     - <https://www.youtube.com/watch?v=59374H8e3HQ>
+- Links
+    - [Official Product Page](https://products.electrovoice.com/na/en/everse-8/)
 
 ### #8 [Bose S1 Pro](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c47cc07f18d17c4b12f28f2e2eba605f&camp=1789&creative=9325): $700
 
@@ -211,6 +221,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=WdmB0w0W7e4>
     - <https://www.youtube.com/watch?v=59374H8e3HQ>
 - Links
+    - [Official Product Page](https://www.bose.com/p/portable-pa/s1-pro-wireless-pa-system/S1PROP-SPEAKERWIRELESS.html)
     - <https://www.rtings.com/speaker/reviews/bose/s1-pro-system>
 
 ### #9 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl): $600
@@ -228,6 +239,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=J8c7Ur83_VQ>
     - <https://www.youtube.com/watch?v=I9UpaL-4H5c>
+- Links
+    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-500.html)
 
 ### #10 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
 
@@ -248,6 +261,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=TOACab8wPxw>
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
 - Links
+    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp700)
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp700>
 
 ### #11 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
@@ -269,6 +283,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=K9qr4EoEqpQ>
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
 - Links
+    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp500)
     - <https://www.rtings.com/speaker/reviews/sony/srs-xp500>
 
 ### #12 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
@@ -307,6 +322,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_Q1i3cG092I>
+- Links
+    - [Official Product Page](https://www.samsung.com/us/televisions-home-theater/home-theater/sound-tower/mx-st50b-sound-tower-high-power-audio-240w-2022-mx-st50b-za/)
 
 ### #14 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325): $450
 
@@ -326,6 +343,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=jGOER4-R4gg>
     - <https://www.youtube.com/watch?v=FW4T7G98MXk>
 - Links
+    - [Official Product Page](https://mackie.com/en/products/loudspeakers/thump-go/thump_go.html)
     - <https://www.reddit.com/r/DJs/comments/ydxjdb/i_used_the_mackie_thump_gos_for_an_indoor_venue/>
     - <https://www.reddit.com/r/livesound/comments/sbxm53/mackie_thump_go_review_portable_batterypowered_pa/>
 
@@ -345,6 +363,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.patreon.com/posts/audiocase-s5-vs-91754902>
+- Links
+    - [Official Product Page](https://audiocase.dk/products/audiocase-s5)
 
 ### #16 Teufel Rockster Air: €500
 
@@ -362,8 +382,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
     - <https://www.youtube.com/watch?v=ITnoz10G2jU>
     - <https://www.youtube.com/watch?v=S112dkr_2mE>
+- Links
+    - [Official Product Page](https://fi.teufelaudio.com/rockster-air-105401000)
 
-### #17 [Soundboks Gen 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
+### #17 [Soundboks 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $1000
 
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -384,8 +406,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
     - <https://www.youtube.com/watch?v=hjpEDDN_hnY>
     - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
+- Links
+    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-4)
 
-### #18 [Soundboks Gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
+### #18 [Soundboks gen 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
 
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
@@ -408,6 +432,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - <https://www.youtube.com/watch?v=LeFRtL44rt8>
 - Links
+    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-3-refurbished)
     - <https://www.rtings.com/speaker/reviews/soundboks/gen-3>
 
 ### #19 [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
@@ -428,6 +453,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Ym43t8EFysg>
     - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
     - <https://www.youtube.com/watch?v=NbnolJzmA5s>
+- Links
+    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-2)
 
 ### #20 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
 
@@ -442,6 +469,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
     - <https://www.youtube.com/watch?v=HLO_p671BgA>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/hyperboom)
 
 ### #21 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325): $550
 
@@ -459,6 +488,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
     - <https://www.youtube.com/watch?v=5NzYJL9jvS8>
 - Links
+    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-go)
     - <https://www.rtings.com/speaker/reviews/soundboks/go>
 
 ### #22 Audiocase S10: $892
@@ -474,6 +504,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
     - <https://www.patreon.com/posts/audiocase-s10-92786890>
+- Links
+    - [Official Product Page](https://audiocase.dk/products/audiocase-s10)
 
 ### #23 W-King T9 Pro: $280
 
@@ -483,6 +515,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8dZz7MJRAAo>
+- Links
+    - [Official Product Page](https://www.w-king.com/t9pro.html)
 
 ### #24 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
 
@@ -495,6 +529,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=U6Sec5_16x4>
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
+- Links
+    - [Official Product Page](https://www.marshall.com/us/en/product/woburn-iii)
 
 ### #25 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
 
