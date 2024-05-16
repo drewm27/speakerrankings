@@ -18,7 +18,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 0.7lbs / 317g
 - Battery Life: 12 hours
 - Latency: 265ms
-- Power Bank: Yes
+- Power Bank: Yes (but it doesn't usually work)
 - App: Yes
 - EQ: Yes
 - TWS: Yes
