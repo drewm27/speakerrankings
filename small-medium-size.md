@@ -159,8 +159,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
     - <https://www.youtube.com/watch?v=4WYQ-liCcKk>
     - <https://www.youtube.com/watch?v=sGyp6jGK0D8>
+- Links
+    - [Official Product Page](https://www.denon.com/en-au/shop/bluetoothspeakers/envayadsb250bt)
 
-### #6 [Minirig mk4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl): $200
+### #6 [Minirig 4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl): $200
 
 - Positives: Modular, can easily attach a subwoofer. Finally USB-C charging. Dynamically changes sound based on forward facing or upward facing orientation
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
@@ -177,8 +179,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0WY6HxN_gU>
+- Links
+    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
 
-### #7 [Minirig mk3](https://minirigs.co.uk/speakers/bluetooth-minirig-3): $140
+### #7 [Minirig 3](https://minirigs.co.uk/speakers/bluetooth-minirig-3): $140
 
 - Positives: Modular, can easily attach a subwoofer.
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
@@ -202,8 +206,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=9uxHwFlAYro>
     - <https://www.youtube.com/watch?v=9cbx_NfUaiY>
     - <https://www.youtube.com/watch?v=UQ3S8D3_1nE>
+- Links
+    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
 
-### #8 Minirig mk2: $140
+### #8 Minirig 2: $140
 
 - Positives: Modular, can easily attach a subwoofer.
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
@@ -244,6 +250,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=k6BuPy-w7pU>
     - <https://www.youtube.com/watch?v=_sFVv8NhTTY>
     - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
 
 ### #10 [B&O Beosound A1 2nd gen](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325): $200
 
@@ -271,6 +279,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
     - <https://www.patreon.com/posts/anker-soundcore-92655183>
 - Links
+    - [Official Product Page](https://luxussound.com/products/beosound-a1-2nd-generation)
     - [https://www.rtings.com/speaker/reviews/bang-olufsen/beosound-a1-gen-](https://www.rtings.com/speaker/reviews/bang-olufsen/beosound-a1-gen-2)
 
 ### #11 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325): $90
@@ -299,6 +308,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=QT9dcySUf_U>
     - <https://www.youtube.com/watch?v=Qd4B8N3V87c>
 - Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/flip-6>
 
 ### #12 Soundcore Boost “original model” pre-2021: $60
@@ -335,6 +345,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Psmgg5ZJCvs>
+- Links
+    - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
 
 ### #14 [Wisetiger P3](https://www.aliexpress.us/item/3256805689476824.html): $43
 - Positives: Exactly the same as the Miatone Boompro above. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
@@ -366,6 +378,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=y4DYttybhJ8>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
+- Links
+    - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
 
 ### #16 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325): $100
 
@@ -390,6 +404,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=PMDSpH3mNB8>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
     - <https://www.youtube.com/watch?v=LbT052dM6vI>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-xsound-mega-portable-wireless-speaker)
 
 ### #17 [Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325): $50
 
@@ -416,6 +432,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=iE3qoiDAn98>
     - <https://www.youtube.com/watch?v=4xVEvEitaPU>
     - <https://www.youtube.com/watch?v=8dxlVDGHAo4>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-maxsound-plus-bluetooth-speakers)
 
 ### #18 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325): $150
 

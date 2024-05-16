@@ -253,6 +253,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
+- Links
+    - [Official Product Page](https://www.mifa.net/productinfo/2606938.html)
 
 ### #12 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
 
