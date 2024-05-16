@@ -42,6 +42,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=5IjP6DPbDxg>
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
+    - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
 
 ### #2 JBL Partybox Encore: $380
 

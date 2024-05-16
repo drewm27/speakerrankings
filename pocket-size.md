@@ -281,6 +281,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
     - <https://www.youtube.com/watch?v=Eg3I8aDdI5s>
     - <https://www.youtube.com/shorts/cT-oUhYhPWk>
+    - <https://www.patreon.com/posts/jbl-go-4-first-103869354>
 
 ### #14 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
