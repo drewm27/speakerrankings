@@ -413,6 +413,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
+- Links
+    - [Official Product Page](https://hopestarshop.com/products/hopestar-h54-speaker)
 
 ### #21 Sony SRS-XB12
 
@@ -432,6 +434,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
+- Links
+    - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
 
 ### #22 Harman Kardon Esquire Mini 2: $100
 
@@ -443,6 +447,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
     - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
+- Links
+    - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
 
 ### #23 Harman Kardon Neo: $90
 
@@ -454,8 +460,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
+- Links
+    - [Official Product Page](https://www.harmankardon.com/NEO.html)
 
-### #24 Lenovo 700: $85
+### #24 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
@@ -467,4 +475,5 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Yam_mssFqeU>
     - <https://www.youtube.com/watch?v=6CtZiXCJF18>
-
+- Links
+    - [Official Product Page](https://www.lenovo.com/us/en/p/accessories-and-software/audio/speakers/4xd0t32974)
