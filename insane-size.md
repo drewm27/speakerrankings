@@ -32,6 +32,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=AFaO3biTmZc>
     - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
+- Links
+    - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
 
 ### #2 [JBL Partybox 1000](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325): $949
 
@@ -50,6 +52,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
 - Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX1000.html)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-1000>
 
 ### #3 [JBL Partybox 710](https://www.amazon.com/JBL-PartyBox-710-Built-connectivity/dp/B09CW9WXML/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=acdd7f31b8c495f5a2bba5f5eb60a834&camp=1789&creative=9325): $800
@@ -72,6 +75,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=RU02J2XZhYg>
     - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
 - Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-710-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-710>
 
 ### #4 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000): €950
@@ -89,6 +93,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=gNqERPC67C8>
     - <https://www.youtube.com/watch?v=S112dkr_2mE>
     - <https://www.youtube.com/watch?v=NbnolJzmA5s>
+- Links
+    - [Official Product Page](https://lu.teufelaudio.com/rockster-105575000)
 
 ### #5 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
 
@@ -108,4 +114,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=1yVnCeuW9uA>
     - <https://www.youtube.com/watch?v=RU02J2XZhYg>
     - <https://www.youtube.com/watch?v=t6pFY4Sh0Us>
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsxv900)
 
