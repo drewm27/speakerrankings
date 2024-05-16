@@ -43,6 +43,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
     - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
 
 ### #2 JBL Partybox Encore: $380
 
@@ -68,6 +70,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=sXG-ciWFf60>
     - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
     - <https://www.youtube.com/watch?v=WdmB0w0W7e4>
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-.html)
 
 ### #3 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $285
 
@@ -90,6 +94,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
 - Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/partybox-encore-essential>
 
 ### #4 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
@@ -113,6 +118,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
     - <https://www.patreon.com/posts/harman-kardon-go-100467989>
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
+- Links
+    - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
 
 ### #5 Aiwa Exos-9: $250
 
@@ -151,6 +158,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
+- Links
+    - [Official Product Page](https://www.vifa.dk/pages/copenhagen-2-0)
 
 ### #7 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $155
 
@@ -173,6 +182,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=vuHY5DzSI4U>
     - <https://www.youtube.com/watch?v=hlumnEy0Ufg>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+- Links
+    - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-8-.html)
 
 ### #8 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325): $130
 
@@ -197,6 +208,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=7Eo79kZ_nWA>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 - Links
+    - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX+STUDIO+6.html)
     - <https://www.rtings.com/speaker/reviews/harman-kardon/onyx-studio-6>
 
 ### #9 Harman Kardon Citation 200: $130
@@ -213,6 +225,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=sLsvo5urFaw>
     - <https://www.youtube.com/watch?v=EciHn8jHHdA>
     - <https://www.youtube.com/watch?v=nhXQE196GvQ>
+- Links
+    - [Official Product Page](https://www.harmankardon.com/home-audio/CITATION+200-.html)
 
 ### #10 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Kardon-Bluetooth-Wireless-Portable-Speaker/dp/B09817FXSM/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1089fb69fc8ba7e92fb6908acaa61cb7&camp=1789&creative=9325): $142
 
@@ -237,8 +251,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ywy1X1hxU9s>
     - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+- Links
+    - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-7-.html)
 
-### #11 Harman Kardon Go+ Play 2 Mini: $350
+### #11 Harman Kardon Go+ Play 2: $350
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others.
@@ -258,6 +274,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=omJAluoakSs>
     - <https://www.youtube.com/watch?v=t4h1-_KqSfo>
     - <https://www.youtube.com/watch?v=NHVrFZKc5YM>
+- Links
+    - [Official Product Page](https://www.harmankardon.com/GO+%2B+PLAYII.html)
 
 ### #12 Harman Kardon Onyx Studio 5:
 
@@ -273,6 +291,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+- Links
+    - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+5.html)
 
 ### #13 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325): $440
 
@@ -292,6 +312,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
     - <https://www.youtube.com/watch?v=imAhizbiSWw>
+- Links
+    - [Official Product Page](https://www.jbl.com/wifi-speakers/BOOMBOX-3-WIFI.html)
 
 ### #14 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325): $500
 
@@ -315,6 +337,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
     - <https://www.youtube.com/watch?v=imAhizbiSWw>
 - Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/boombox-3>
 
 ### #15 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl): $300
@@ -331,6 +354,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fFP_OPriRlM>
     - <https://www.youtube.com/watch?v=ezYZWoYEXfw>
+- Links
+    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
 
 ### #16 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325): $225
 - Negatives: Rising frequency response but upper treble rolled off, 1khz and 4.3khz peaks
@@ -370,6 +395,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
 - Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
     - <https://www.rtings.com/speaker/reviews/jbl/boombox-2>
 
 ### #18 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
@@ -388,6 +414,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
+- Links
+    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
 
 ### #19 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
 
@@ -408,6 +436,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beolit-20-3-52143471>
     - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
 - Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
     - <https://www.rtings.com/speaker/reviews/bang-olufsen/beolit-20>
 
 ### #20 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
@@ -428,6 +457,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
+- Links
+    - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
 
 ### #21 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
 
@@ -459,6 +490,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - USB Playback: Yes
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=o5TQLBxyskg>
+- Links
+    - [Official Product Page](https://geminisound.com/products/grv-650l)
 
 ### #23 Teufel Boomster NG (2017): €99
 
