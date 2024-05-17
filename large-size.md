@@ -562,6 +562,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=P5POaQhiDgE>
     - <https://www.youtube.com/watch?v=4gxvC_KjNbk>
 - Links
+    - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb43)
     - <https://www.rtings.com/speaker/reviews/sony/srs-xb43>
 
 ### #28 [W-King D8](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325): $79
@@ -598,6 +599,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=OXi8Sef-1NA>
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
 - Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+Xtreme+2.html)
     - <https://www.rtings.com/speaker/reviews/jbl/xtreme-2>
 
 ### #30 [Raymate M8](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325): $80
@@ -624,6 +626,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ywy1X1hxU9s>
     - <https://www.youtube.com/watch?v=F5CoJB_xm2E>
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+- Links
+    - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+4.html)
 
 ### #32 [Mifa WildCamping](https://www.amazon.com/MIFA-WildCamping-Portable-Bluetooth-Speakers/dp/B0BS2M4KFQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34be40864e9e3870c46ed8a1aa5ad84b&camp=1789&creative=9325): $135
 
@@ -635,10 +639,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 38 hours
 - Power Bank: Yes
 - MicroSD: Yes
-- Party Mode: Yes (PartyAdd up to 100 speakers)
 - TWS: Yes
+- Party Mode: Yes (PartyAdd up to 100 speakers)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZxPfuAxgQfE>
+- Links
+    - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildCamping)
 
 ### #33 [Treblab HD-360](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325): $110
 
@@ -649,6 +655,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jwyPReDpp88>
     - <https://www.youtube.com/watch?v=ORawKC23apY>
+- Links
+    - [Official Product Page](https://treblab.com/products/treblab-hd-360-speaker)
 
 ### #34 [Rocksteady Stadium Speakers and Subwoofer](https://www.amazon.com/gp/aw/d/B08BDQ832V?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=3502ebcff2269ad1517217bdde0363af&hsa_cr_id=8993131410501&qid=1711075442&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&pd_rd_w=jgxBy&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=40K515X0BQ8B1DYGBKY3&pd_rd_wg=ZJUj4&pd_rd_r=87708ef6-b38d-4222-8f4d-4ed9e5b0985e&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5f567caa2f2cba8c696f55f5c7f8633d&language=en_US&ref_=as_li_ss_tl): $440
 - Negatives: 7khz upper mids peak. Upper bass boosted
@@ -659,6 +667,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WPkMk9H-9-4>
+- Links
+    - [Official Product Page](https://rocksteadyaudio.com/collections/speakers)
 
 ### #35 [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325): $100
 
@@ -672,6 +682,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sCaHSGO4_MY>
+- Links
+    - [Official Product Page](https://www.tronsmart.com/products/tronsmart-halo-100-portable-party-speaker)
 
 ### #36 JBL Xtreme: $200
 
@@ -686,6 +698,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=XojJNqtq6xQ>
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
+- Links
+    - [Official Product Page](https://mm.jbl.com/XTREME.html)
 
 ### #37 [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325): $236
 
@@ -703,6 +717,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Dh00qH6YGTk>
     - <https://www.patreon.com/posts/marshall-first-78807089>
     - <https://www.youtube.com/watch?v=PBZvukWGJk0>
+- Links
+    - [Official Product Page](https://www.marshall.com/us/en/product/middleton)
 
 ### #38 [Doss Soundbox XL](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325): $65
 
@@ -718,6 +734,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZNob1QwXiqY>
     - <https://www.youtube.com/watch?v=TiVx4pPl1GE>
+- Links
+    - [Official Product Page](https://www.dossaudio.com/products/soundbox-xl)
 
 ### #39 [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325): $80
 
@@ -733,6 +751,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ko87nHKqfus>
     - <https://www.youtube.com/watch?v=Ef2YxcTQYqE>
+- Links
+    - [Official Product Page](https://support.soundcore.com/s/product/a085g000000NlyAAAS/select-pro)
 
 ### #40 [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325): $198
 
@@ -750,6 +770,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=3ziD_gcwnqI>
     - <https://www.youtube.com/watch?v=fY3VYy-O9eE>
 - Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg300-bz)
     - <https://www.rtings.com/speaker/reviews/sony/srs-xg300>
 
 ### #41 Xdobo X8 Max: $73
@@ -763,6 +784,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mVwz4P6oVVA>
+- Links
+    - [Official Product Page](https://xdobo.com/products/x8-max)
 
 ### #42 [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325): $300
 
@@ -774,6 +797,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ww4LMIYgu0k>
     - <https://www.youtube.com/watch?v=Vyo6VlUOYf8>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/epicboom)
 
 ### #43 [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325): $600
 
@@ -787,6 +812,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=th3EgJOQENw>
     - <https://www.youtube.com/watch?v=bf-lrmc-Nz8>
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
+- Links
+    - [Official Product Page](https://www.dali-speakers.com/en-us/products/katch/katch-g2/)
 
 ### #44 B&O Beosound Level: $1850
 
@@ -799,6 +826,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/shorts/SepQ-Ri35KM>
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-level)
 
 ### #45 Ultimate Ears Megablast: $240
 
@@ -807,6 +836,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.4lbs / 1.1kg
 - Battery Life: 16 hours
 - Links
+    - [Official Product Page](https://www.ultimateears.com/it-it/wireless-speakers/megablast.html)
     - <https://www.rtings.com/speaker/reviews/ultimate-ears/megablast>
 
 ### #46 LG PN7: $150
@@ -818,6 +848,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
+- Links
+    - [Official Product Page](https://www.lg.com/uk/speakers/xboom-go/pn7/)
 
 ### #47 [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325): $280
 
@@ -828,6 +860,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2fYIobmLo-o>
+- Links
+    - [Official Product Page](https://www.marshall.com/us/en/product/acton-iii)
 
 ### #48 [Marshall Acton 2](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl): $280
 
