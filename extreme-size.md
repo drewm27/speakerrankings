@@ -178,7 +178,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17lbs / 8kg
 - Battery Life: 12 hours
 - Microphone Input: Yes
-- Guitar Input: Yes
+- XLR Input: Yes
 - Power Bank: Yes
 - TWS: Yes
 - App: Yes
@@ -204,7 +204,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power cord
 - IP Rating: None
 - Microphone Input: Yes
-- Guitar Input: Yes
+- XLR Input: Yes
 - App: Yes
 - EQ: Yes
 - Party Mode: Yes (Bose Party mode)
@@ -333,7 +333,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.6lbs / 8kg
 - Battery Life: 12 hours
 - Microphone Input: Yes
-- Guitar Input: Yes
+- XLR Input: Yes
 - Aux Input: Yes
 - App: Yes
 - IP Rating: None
