@@ -567,6 +567,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=59374H8e3HQ>
     - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
     - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
+- Links
+    - [Official Product Page](https://www.jbl.com/portable-pa-systems/JBL+EON+ONE+Compact.html)
 
 ### #28 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325): $3200
 
@@ -582,6 +584,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
 
 ### #29 B&O Beosound 1: $2000
 
@@ -595,6 +599,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
 
 ### #30 Diamondboxx L2: $1000
 
@@ -607,6 +613,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
     - <https://www.youtube.com/watch?v=epgx0THKpL8>
     - <https://www.youtube.com/watch?v=zjpNEBJDq_U>
+- Links
+    - [Official Product Page](https://diamondboxx.com/collections/wireless_speakers)
 
 ### #31 dB technologies B-Hype M: $450
 
@@ -620,6 +628,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=wqROpxcZmrk>
     - <https://www.youtube.com/watch?v=GTqpcjfd3Fo>
     - <https://www.youtube.com/watch?v=YB4CxTDP1rE>
+- Links
+    - [Official Product Page](https://www.dbtechnologies.com/en/products/b-hype/b-hype-m/)
 
 ### #32 Onn Large Party gen 1: $100
 
@@ -649,6 +659,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=O6SWv8lnpCI>
     - <https://www.youtube.com/watch?v=rMX9Y-OpNoc>
+- Links
+    - [Official Product Page](https://www.usa.philips.com/c-p/TANX200_37/bluetooth-party-speaker)
 
 ### #34 Panasonic SC-TMAX10
 
@@ -661,6 +673,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=UrgQkhzAe0U>
+- Links
+    - [Official Product Page](https://www.panasonic.com/mea/en/consumer/home-entertainment/audio/mini-systems/sc-tmax10.html)
 
 ### #35 Panasonic SC-TMAX5
 
@@ -674,6 +688,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_jlJnhPyALs>
     - <https://www.youtube.com/watch?v=dXoD0Yv_iLM>
+- Links
+    - [Official Product Page](https://www.panasonic.com/nz/consumer/television-audio/audio/bluetooth-speakers/sc-tmax5.specs.html)
 
 ### #36 Sharp PS-929: $150
 
@@ -683,6 +699,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uiRxrnvyvCw>
+- Links
+    - [Official Product Page](https://www.sharpconsumer.com/audio/ps929/)
+
 
 ### #37 Soundcore Rave+: $240
 
@@ -696,6 +715,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
     - <https://www.youtube.com/watch?v=ZjQIvZByyns>
+- Links
+    - [Official Product Page](https://nz.soundcore.com/products/rave)
 
 ### #38 Soundcore Rave: $220
 
