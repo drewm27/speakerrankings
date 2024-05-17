@@ -26,6 +26,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (3 band)
 - TWS: Yes
 - Wifi: Yes
+- Guitar Input: Yes
 - Microphone Input: Yes
 - IP Rating: IPX4
 - Comparisons and Sound Samples
@@ -46,6 +47,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - App: No
 - TWS: Yes
+- Guitar Input: Yes
 - Microphone Input: Yes
 - Aux Input: Yes
 - IP Rating: None
@@ -67,6 +69,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes (3 band)
 - TWS: Yes
+- Guitar Input: Yes
 - Microphone Input: Yes
 - IP Rating: IPX4
 - Comparisons and Sound Samples
@@ -86,6 +89,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 30 hours
 - Aux Input: Yes
 - Power Bank: Yes
+- Guitar Input: Yes
+- Microphone Input: Yes
+- XLR Input: Yes
 - Charging: AC Power cord
 - IP Rating: None
 - Comparisons and Sound Samples
@@ -106,6 +112,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Microphone Input: Yes
+- Guitar Input: Yes
+- Optical Input: Yes
 - USB Playback: Yes
 - App: Yes
 - EQ: Yes
