@@ -193,7 +193,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=X7NlGAQBk0s>
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/willen)
-    - <https://www.rtings.com/speaker/reviews/marshall/willen>
 
 ### #9 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325): $99
 
@@ -216,7 +215,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=oTE4EgEict4>
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html)
-    - <https://www.rtings.com/speaker/reviews/bose/soundlink-micro>
 
 ### #10 [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325): $170
 
@@ -275,7 +273,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/clip-4>
 
 ### #13 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
 
@@ -317,7 +314,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/go-3>
 
 ### #15 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
@@ -357,7 +353,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb13)
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xb13>
 
 ### #17 JBL Clip: $50
 

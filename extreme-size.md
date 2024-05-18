@@ -61,7 +61,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=BVfi7YvlMRg>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX310-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-310>
 
 ### #3 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl): $400
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Quite neutral sound. deeper bass than the 100 and 110. Removable battery.
@@ -118,7 +117,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=YWVFrq61OQk>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX100.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-100>
 
 ### #5 [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325): $350
 
@@ -144,7 +142,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Z727n9aBfgw>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-110-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-110>
 
 ### #6 JBL Partybox 300: $300
 
@@ -167,7 +164,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBL+PartyBox+300.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-300>
 
 ### #7 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
 
@@ -222,7 +218,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=59374H8e3HQ>
 - Links
     - [Official Product Page](https://www.bose.com/p/portable-pa/s1-pro-wireless-pa-system/S1PROP-SPEAKERWIRELESS.html)
-    - <https://www.rtings.com/speaker/reviews/bose/s1-pro-system>
 
 ### #9 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl): $600
 - Positives: Quite powerful sound, and quite deep bass for the size. 
@@ -262,7 +257,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp700)
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xp700>
 
 ### #11 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
 
@@ -284,7 +278,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp500)
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xp500>
 
 ### #12 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
 
@@ -433,7 +426,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=LeFRtL44rt8>
 - Links
     - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-3-refurbished)
-    - <https://www.rtings.com/speaker/reviews/soundboks/gen-3>
 
 ### #19 [Soundboks Gen 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
 
@@ -489,7 +481,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=5NzYJL9jvS8>
 - Links
     - [Official Product Page](https://soundboks.com/products/speakers/soundboks-go)
-    - <https://www.rtings.com/speaker/reviews/soundboks/go>
 
 ### #22 Audiocase S10: $892
 

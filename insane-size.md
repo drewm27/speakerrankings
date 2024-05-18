@@ -55,7 +55,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX1000.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-1000>
 
 ### #3 [JBL Partybox 710](https://www.amazon.com/JBL-PartyBox-710-Built-connectivity/dp/B09CW9WXML/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=acdd7f31b8c495f5a2bba5f5eb60a834&camp=1789&creative=9325): $800
 
@@ -79,7 +78,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-710-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-710>
 
 ### #4 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000): €950
 

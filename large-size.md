@@ -242,7 +242,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=R3fLkaez35A>
 - Links
     - [Official Product Page](https://soundcore.sjv.io/KjmgL7)
-    - <https://www.rtings.com/speaker/reviews/anker/soundcore-motion-boom>
 
 ### #11 [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325): $400
 
@@ -285,7 +284,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/XTREME-3-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/xtreme-3>
 
 ### #13 [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325): $330
 
@@ -424,7 +422,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=bPfwaZp1x1Q>
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/move)
-    - <https://www.rtings.com/speaker/reviews/sonos/move>
 
 ### #20 Dockin D Fine+
 
@@ -543,7 +540,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/visit-at-store-75995137>
 - Links
     - [Official Product Page](https://www.devialet.com/en-us/portable-speakers/)
-    - <https://www.rtings.com/speaker/reviews/devialet/mania>
 
 ### #27 Sony SRS-XB43: $150
 
@@ -563,7 +559,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=4gxvC_KjNbk>
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb43)
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xb43>
 
 ### #28 [W-King D8](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325): $79
 
@@ -600,7 +595,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+Xtreme+2.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/xtreme-2>
 
 ### #30 [Raymate M8](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325): $80
 
@@ -771,7 +765,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=fY3VYy-O9eE>
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg300-bz)
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xg300>
 
 ### #41 Xdobo X8 Max: $73
 
@@ -837,7 +830,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Links
     - [Official Product Page](https://www.ultimateears.com/it-it/wireless-speakers/megablast.html)
-    - <https://www.rtings.com/speaker/reviews/ultimate-ears/megablast>
 
 ### #46 LG PN7: $150
 

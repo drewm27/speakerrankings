@@ -96,7 +96,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-encore-essential>
 
 ### #4 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350
 
@@ -210,7 +209,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=eAoQWSnms1M>
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX+STUDIO+6.html)
-    - <https://www.rtings.com/speaker/reviews/harman-kardon/onyx-studio-6>
 
 ### #9 Harman Kardon Citation 200: $130
 
@@ -339,7 +337,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=imAhizbiSWw>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/boombox-3>
 
 ### #15 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl): $300
 
@@ -399,7 +396,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/boombox-2>
 
 ### #18 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
 
@@ -440,7 +436,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
-    - <https://www.rtings.com/speaker/reviews/bang-olufsen/beolit-20>
 
 ### #20 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
 
@@ -608,8 +603,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
     - <https://www.youtube.com/watch?v=sW7qA0Qyg2U>
-- Links
-    - <https://www.rtings.com/speaker/reviews/jbl/partybox-on-the-go>
 
 ### #30 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325): $500
 
@@ -626,8 +619,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ImnPvu49RSM>
     - <https://www.youtube.com/watch?v=yenr1BPMk6s>
     - <https://www.youtube.com/watch?v=KjWAJ67aUMc>
-- Links
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xg500>
 
 ### #31 JBL Boombox:
 
@@ -864,8 +855,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=g05lODItS4w>
-- Links
-    - <https://www.rtings.com/speaker/reviews/ion/pathfinder-280>
 
 ### #48 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $170
 
@@ -876,8 +865,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 65 hours
 - FM Radio: Yes
 - Aux Input: Yes
-- Links
-    - <https://www.rtings.com/speaker/reviews/monster/rockin-roller-270x>
 
 ### #49 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325): $160
 

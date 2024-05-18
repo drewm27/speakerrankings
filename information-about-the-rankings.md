@@ -29,8 +29,6 @@ All max volume measurements are at 1m, all bass extension measurements are at a 
 
 If you can’t find the speaker comparison you’re looking for, search Youtube for it.
 
-Open rtings.com links in a new incognito window if you run out of free reviews.
-
 ### Other Guides
 
 Looking for a guide like this for in ear wireless Bluetooth headphones? [Go here](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit?usp=sharing)

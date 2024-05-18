@@ -106,7 +106,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=NFeCO7GLgA0>
 - Links
     - [Official Product Page](https://soundcore.sjv.io/k0EVK0)
-    - <https://www.rtings.com/speaker/reviews/anker/soundcore-motion-plus>
 
 ### #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325): $60
 
@@ -280,7 +279,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/anker-soundcore-92655183>
 - Links
     - [Official Product Page](https://luxussound.com/products/beosound-a1-2nd-generation)
-    - [https://www.rtings.com/speaker/reviews/bang-olufsen/beosound-a1-gen-](https://www.rtings.com/speaker/reviews/bang-olufsen/beosound-a1-gen-2)
 
 ### #11 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325): $90
 
@@ -309,7 +307,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Qd4B8N3V87c>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
-    - <https://www.rtings.com/speaker/reviews/jbl/flip-6>
 
 ### #12 Soundcore Boost “original model” pre-2021: $60
 
@@ -507,8 +504,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=QT9dcySUf_U>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
     - <https://www.patreon.com/posts/jbl-charge-5-48693970>
-- Links
-    - <https://www.rtings.com/speaker/reviews/jbl/charge-5>
 
 ### #22 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325): $74
 
@@ -600,8 +595,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
-- Links
-    - <https://www.rtings.com/speaker/reviews/bose/soundlink-flex>
 
 ### #28 JBL Charge Essential 2: $130
 
@@ -871,7 +864,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=XpkitJveFlc>
 - Links
     - [Official Product Page](https://soundcore.sjv.io/Y9eWOj)
-    - <https://www.rtings.com/speaker/reviews/anker/soundcore-3>
 
 ### #47 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325): $200
 
@@ -926,8 +918,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
     - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
-- Links
-    - <https://www.rtings.com/speaker/reviews/sony/srs-xb33>
 
 ### #51 Creative iRoar Go: $83
 
@@ -954,8 +944,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
-- Links
-    - <https://www.rtings.com/speaker/reviews/jbl/flip-5>
 
 ### #53 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325): $70
 
@@ -975,8 +963,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=wS7xhzv6Beg>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
-- Links
-    - <https://www.rtings.com/speaker/reviews/jbl/flip-4>
 
 ### #54 Sony XB23: $100
 
@@ -1065,8 +1051,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=mbYsxgScTz8>
     - <https://www.youtube.com/watch?v=R29TwFZmuNA>
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
-- Links
-    - <https://www.rtings.com/speaker/reviews/sonos/roam>
 
 ### #60 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl): $31
 
@@ -1199,8 +1183,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=nseOM9Ah-jE>
     - <https://www.youtube.com/watch?v=I8bm5PJl5ZY>
     - <https://www.youtube.com/watch?v=nNVh5K8fFw8>
-- Links
-    - <https://www.rtings.com/speaker/reviews/marshall/emberton-ii>
 
 ### #71 Hifuture Soundpro
 
@@ -1248,8 +1230,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
     - <https://www.youtube.com/watch?v=IN_RQ2TFKuc>
     - <https://www.youtube.com/watch?v=X_Ol81BBuWk>
-- Links
-    - <https://www.rtings.com/speaker/reviews/anker/soundcore-flare-2>
 
 ### #75 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
 
@@ -1263,8 +1243,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=I114oDubbic>
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
-- Links
-    - <https://www.rtings.com/speaker/reviews/ultimate-ears/megaboom-3>
 
 ### #76 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325): $72
 
@@ -1280,8 +1258,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=KjIvKngB10M>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
     - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
-- Links
-    - <https://www.rtings.com/speaker/reviews/ultimate-ears/wonderboom-3>
 
 ### #77 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325): $80
 
@@ -1294,8 +1270,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IBFY9D23YJU>
     - <https://www.youtube.com/watch?v=EXMSGwFcTZI>
-- Links
-    - <https://www.rtings.com/speaker/reviews/ultimate-ears/wonderboom-2>
 
 ### #78 Ultimate Ears Wonderboom:
 
@@ -1320,8 +1294,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
-- Links
-    - <https://www.rtings.com/speaker/reviews/ultimate-ears/boom-3>
 
 ### #80 W-King D8 Mini: $60
 
@@ -1456,8 +1428,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
-- Links
-    - <https://www.rtings.com/speaker/reviews/oontz/angle-3-ultra>
 
 ### #94 Ultimate Ears Roll 2: $100
 
@@ -1494,8 +1464,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.5lbs / 0.7kg
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
-- Links
-    - <https://www.rtings.com/speaker/reviews/beats/pill-plus>
 
 ### #98 Skullcandy Terrain XT: $80
 
@@ -1553,8 +1521,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Wogk7QEtKP4>
-- Links
-    - <https://www.rtings.com/speaker/reviews/oontz/angle-3>
 
 ### #104 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl): $20
 - Negatives: Sounds like a soup can, no bass at all. Weird frequency response all over.
@@ -1585,6 +1551,3 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1A5cNDoQCM8>
     - <https://www.youtube.com/watch?v=VDc2anLRz0w>
-- Links
-    - <https://www.rtings.com/speaker/reviews/limitless-innovations/tikitunes>
-
