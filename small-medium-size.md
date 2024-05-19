@@ -1404,6 +1404,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 27 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-explore)
 
 ### #84 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325): $97
 
@@ -1415,6 +1417,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=av0qlp2JalI>
     - <https://www.youtube.com/watch?v=Hy4zdIT9J60>
     - <https://www.youtube.com/watch?v=da-yS5OCQ48>
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe200-bz)
 
 ### #85 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325): $100
 
@@ -1426,6 +1430,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GbiUY9bdv7g>
+- Links
+    - [Official Product Page](https://www.lg.com/us/speakers/lg-pl5-portable-bluetooth-speaker)
 
 ### #86 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325): $90
 
@@ -1433,6 +1439,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o0ZgBxwlNE4>
+- Links
+    - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
 
 ### #87 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325): $32
 
@@ -1442,6 +1450,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=S03_X1Vrm9U>
+- Links
+    - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
 
 ### #88 Harman Kardon Esquire 2: $200
 
@@ -1449,6 +1459,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 8 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HXhIh7a-vE0>
+- Links
+    - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
 
 ### #89 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325): $36
 
@@ -1468,6 +1480,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DTgp-xGDzvw>
     - <https://www.youtube.com/watch?v=0_ZOX8rFK6c>
+- Links
+    - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
 
 ### #91 Xiaomi Mi Outdoor
 
