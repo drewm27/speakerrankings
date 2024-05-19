@@ -725,6 +725,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=upSSUEct7Gk>
     - <https://www.youtube.com/watch?v=Jvn9ZkYykF4>
     - <https://www.youtube.com/watch?v=R0G2r9e6y4Y>
+- Links
+    - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-revolve-ii-bluetooth-speaker/SLRVPII-SPEAKERWIRELESS.html)
 
 ### #39 Bose Soundlink Revolve+: $230
 
@@ -754,6 +756,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1btEBiXCEF0>
+- Links
+    - [Official Product Page](https://www.tronsmart.com/products/element-force-waterproof-portable-bluetooth-speaker)
 
 ### #41 Bose Soundlink Revolve: $180
 
@@ -792,6 +796,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=kP3Dw6g-DZ0>
     - <https://www.patreon.com/posts/tribit-stormbox-92447387>
     - <https://www.patreon.com/posts/tribit-stormbox-90484533>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-flow-portable-speaker)
 
 ### #43 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325): $85
 
@@ -816,6 +822,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=KgMDRxajEZw>
     - <https://www.youtube.com/watch?v=07qu_39HjyU>
     - <https://www.youtube.com/watch?v=R9rJuAYwVw0>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
 
 ### #44 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325): $36
 
@@ -830,6 +838,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=tNxGzF2uPEQ>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
     - <https://www.youtube.com/watch?v=SmRn6b0rhzU>
+- Links
+    - [Official Product Page](https://www.tozostore.com/products/pa2)
 
 ### #45 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325): $38
 
@@ -878,6 +888,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=VukUsbPfDec>
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
     - <https://www.youtube.com/watch?v=mQRhBbxKY4o>
+- Links
+    - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-mini-ii-special-edition/SLMINIISE-SPEAKERWIRELESS.html)
 
 ### #48 Bose Soundlink Mini: $150
 
@@ -893,6 +905,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=VukUsbPfDec>
     - <https://www.youtube.com/watch?v=7pEh5c5o74s>
     - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
+- Links
+    - [Official Product Page](https://support.bose.com/s/product/soundlink-mini-bluetooth-speaker/01t8c00000OydNqAAJ)
 
 ### #49 [Xiaomi Mi Portable](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325): $55
 
@@ -901,6 +915,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 13 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TF748bXDjIs>
+- Links
+    - [Official Product Page](https://www.mi.com/global/product/mi-portable-bluetooth-speaker/)
 
 ### #50 Sony XB33: $110
 
@@ -918,6 +934,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
     - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
+- Links
+    - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
 
 ### #51 Creative iRoar Go: $83
 
@@ -930,6 +948,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=2A3C3Ec8QJA>
     - <https://www.youtube.com/watch?v=-nn6jz8CLnI>
     - <https://www.youtube.com/watch?v=AEVRp_Un5gk>
+- Links
+    - [Official Product Page](https://us.creative.com/p/speakers/creative-iroar-go)
 
 ### #52 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325): $90
 
@@ -944,6 +964,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+FLIP+5-.html)
 
 ### #53 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325): $70
 
@@ -963,6 +985,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=wS7xhzv6Beg>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
+- Links
+    - [Official Product Page](https://www.jbl.com/gift-yourself/JBL+Flip+4.html)
 
 ### #54 Sony XB23: $100
 
@@ -977,6 +1001,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=_uqf_NKwcP4>
     - <https://www.youtube.com/watch?v=MeQ5llKSqvc>
     - <https://www.youtube.com/watch?v=IyCRwXBO26Y>
+- Links
+    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
 
 ### #55 JBL Flip Essential: $130
 
@@ -988,6 +1014,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SpGb12ZyC1w>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
 
 ### #56 JBL Charge 3: $80
 
@@ -1009,6 +1037,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=seSKe2MRngo>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=yiwtSAiu6d8>
+- Links
+    - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
 
 ### #57 JBL Charge Essential: $180
 
@@ -1023,6 +1053,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=KAen9xhQiPc>
     - <https://www.youtube.com/watch?v=gnjcKKYf7xs>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
 
 ### #58 JBL Charge 2
 
@@ -1037,6 +1069,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=EmSppzPAzuQ>
     - <https://www.youtube.com/watch?v=LXlkfpHZYzQ>
     - <https://www.youtube.com/watch?v=tSOxKbWf8OY>
+- Links
+    - [Official Product Page](https://www.jbl.com/charge/JBL+CHARGE+II+PLUS.html)
 
 ### #59 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325): $160
 
@@ -1051,6 +1085,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=mbYsxgScTz8>
     - <https://www.youtube.com/watch?v=R29TwFZmuNA>
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
+- Links
+    - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
 
 ### #60 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl): $31
 
@@ -1065,6 +1101,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
     - <https://www.youtube.com/watch?v=SSla-paxi14>
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-xsound-go-bluetooth-speakers)
 
 ### #61 Tribit Xsound Surf: $26
 
@@ -1099,6 +1137,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=V1pufWw-lrg>
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
+- Links
+    - [Official Product Page](https://www.klipsch.com/products/groove-portable-bluetooth-speaker)
 
 ### #64 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl): $137
 
@@ -1111,6 +1151,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ugF2D1a2E7o>
     - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
     - <https://www.youtube.com/watch?v=frYrfHKWJvw>
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe300-bz)
 
 ### #65 [Tribit Stormbox](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl): $68
 
@@ -1125,6 +1167,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
     - <https://www.youtube.com/watch?v=AeaMQ3DR_hE>
     - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-portable-speaker)
 
 ### #66 Sony SRS-XB20
 
@@ -1136,6 +1180,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - <https://www.youtube.com/watch?v=_5f6b-5wI98>
+- Links
+    - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb20/manuals)
 
 ### #67 [Tronsmart T7](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl): $43
 
@@ -1145,6 +1191,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PJEEGkFTfOU>
+- Links
+    - [Official Product Page](https://www.tronsmart.com/products/tronsmart-t7-portable-outdoor-speaker)
 
 ### #68 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl): $20
 
@@ -1167,6 +1215,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=RKatn95aUvI>
     - <https://www.youtube.com/watch?v=k95hOULIPRI>
     - <https://www.youtube.com/watch?v=de0ZwpbXYAc>
+- Links
+    - [Official Product Page](https://support.bose.com/s/product/soundlink-color-bluetooth-speaker-ii/01t8c00000OydNUAAZ)
 
 ### #70 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl): $132
 
@@ -1183,6 +1233,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=nseOM9Ah-jE>
     - <https://www.youtube.com/watch?v=I8bm5PJl5ZY>
     - <https://www.youtube.com/watch?v=nNVh5K8fFw8>
+- Links
+    - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
 
 ### #71 Hifuture Soundpro
 
@@ -1191,6 +1243,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tmDMlOdPc8w>
     - <https://www.youtube.com/watch?v=VM3SggT4ANw>
+- Links
+    - [Official Product Page](https://store.hifuturegroup.com/products/soundpro)
 
 ### #72 Teufel Rockster Go: €83.00
 
@@ -1201,6 +1255,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dHRkJTQ9nmw>
+- Links
+    - [Official Product Page](https://lu.teufelaudio.com/rockster-go-105727000)
 
 ### #73 Sony SRS-XB30
 
@@ -1213,6 +1269,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
+- Links
+    - [Official Product Page](https://www.sony.com/electronics/support/product/srs-xb30/manuals)
 
 ### #74 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325): $80
 
@@ -1230,6 +1288,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=8ygpqINtZWM>
     - <https://www.youtube.com/watch?v=IN_RQ2TFKuc>
     - <https://www.youtube.com/watch?v=X_Ol81BBuWk>
+- Links
+    - [Official Product Page](https://nz.soundcore.com/products/a3165)
 
 ### #75 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
 
@@ -1243,6 +1303,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=I114oDubbic>
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
 
 ### #76 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325): $72
 
@@ -1258,6 +1320,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=KjIvKngB10M>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
     - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/wonderboom-3)
 
 ### #77 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325): $80
 
@@ -1294,6 +1358,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/boom-3)
 
 ### #80 W-King D8 Mini: $60
 
@@ -1313,6 +1379,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Quite a bit of bass distortion thudding as you turn the volume up. Bass not that deep. The Tozo PA1 totally outclasses it.
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FyPCrI3jz1Y>
+- Links
+    - [Official Product Page](https://www.tozostore.com/products/pa2)
 
 ### #82 TDK A33
 
