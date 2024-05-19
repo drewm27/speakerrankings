@@ -506,6 +506,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=QT9dcySUf_U>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
     - <https://www.patreon.com/posts/jbl-charge-5-48693970>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
 
 ### #22 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325): $74
 
@@ -522,6 +524,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
     - <https://www.youtube.com/watch?v=7ZnTEkAwy98>
+- Links
+    - [Official Product Page](https://global.1more.com/products/1more-portable-bt-speaker)
 
 ### #23 [Cleer Audio Scene](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl): $100
 
@@ -533,6 +537,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-qiyBrX1m-g>
     - <https://www.youtube.com/watch?v=YNifFrDKbV0>
+- Links
+    - [Official Product Page](https://cleeraudio.com/smart-speakers/scene-water-resistant-bluetooth-speaker/)
 
 ### #24 [Earfun Uboom](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325) “360”: $42
 
@@ -559,6 +565,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
+- Links
+    - [Official Product Page](https://ie.teufelaudio.com/rockster-xs-105565000)
 
 ### #26 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl): $60
 
@@ -578,6 +586,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=k8tm3FwCkWM>
     - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
     - <https://www.patreon.com/posts/tribit-xsound-2-99145415>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-xsound-plus-2-portable-bluetooth-speaker)
 
 ### #27 [Bose Soundlink Flex](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325): $150
 
@@ -597,6 +607,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
+- Links
+    - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-bluetooth-speaker/SLFLX-SPEAKERWIRELESS.html)
 
 ### #28 JBL Charge Essential 2: $130
 
@@ -612,6 +624,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZmYH6zYSNKs>
     - <https://www.youtube.com/watch?v=Y2Tr9qUB4_E>
+- Links
+    - [Official Product Page](https://ca.jbl.com/CHARGE-ESSENTIAL-2-.html)
 
 ### #29 Huawei Sound Joy: $145
 
@@ -633,6 +647,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
+- Links
+    - [Official Product Page](https://fugoo.com/products/fugoo)
 
 ### #31 [Sony ULT Field 1](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl): $128
 - Negatives: Upper midrange peak, rolled off treble
@@ -649,6 +665,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMOTcXiWXvQ>
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
 
 ### #32 Earfun Uboom Slim
 
@@ -685,6 +703,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
     - <https://www.youtube.com/watch?v=Vm3kFL36Sq8>
     - <https://www.youtube.com/watch?v=fuB9IRTKs9Y>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-pro-portable-speaker)
 
 ### #35 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325): $250
 
@@ -696,6 +716,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
 
 ### #36 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325): $80 after $20 coupon
 
