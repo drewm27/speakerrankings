@@ -475,4 +475,4 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.lenovo.com/us/en/p/accessories-and-software/audio/speakers/4xd0t32974)
 
-As an Amazon Associate I earn from qualifying purchases
+As an Amazon Associate I earn from qualifying purchases.

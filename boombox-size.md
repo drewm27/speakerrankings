@@ -908,4 +908,4 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=tFuilFzXh0Y>
     - <https://www.youtube.com/watch?v=1_BYNkiIMx4>
 
-As an Amazon Associate I earn from qualifying purchases
+As an Amazon Associate I earn from qualifying purchases.

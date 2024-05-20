@@ -37,4 +37,4 @@ A lot of this information exists in a few places in the [r/livesound](https://ww
 
 [Choosing entry level PA speakers](https://www.reddit.com/r/livesound/comments/1532c3e/choosing_entry_level_pa_speakers/)
 
-As an Amazon Associate I earn from qualifying purchases
+As an Amazon Associate I earn from qualifying purchases.

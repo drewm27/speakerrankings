@@ -1026,4 +1026,4 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=rE6oDyPAdwU>
 
-As an Amazon Associate I earn from qualifying purchases
+As an Amazon Associate I earn from qualifying purchases.
