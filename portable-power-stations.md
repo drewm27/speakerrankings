@@ -15,7 +15,6 @@ Computing runtime for a power station will be a little difficult for speakers as
 
 Note most Power Stations cannot be taken on airplanes as they have a 100Wh limit for batteries
 
-As an Amazon Associate I earn from qualifying purchases.
 
 1. [Ecoflow](https://www.amazon.com/stores/page/49BD72BC-B81B-44B9-9006-F70BB206428B?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=28337f94f8816ce952ac368ef8ce4d91&camp=1789&creative=9325)
 1. [Jackery](https://www.amazon.com/stores/page/1E4C6D32-F39D-4E45-8FD7-AC96F40102F9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e8b189dc201897b3057b0b57b068158&camp=1789&creative=9325)
@@ -39,3 +38,5 @@ I haven't had any issues with any brands I own, just check the reviews to make s
 1. [Power Banks 20000mAh](https://www.amazon.com/s?k=power+bank+20000mah&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
 1. [Power Banks 10000mAh](https://www.amazon.com/s?k=power+bank+10000mah&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
 1. [Power Banks 5000mAh](https://www.amazon.com/s?k=power+bank+5000mah&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8eb77384733285d096f9f292f8a8cf9e&camp=1789&creative=9325)
+
+As an Amazon Associate I earn from qualifying purchases.

@@ -13,8 +13,6 @@ For longer runtime or off grid use, check out a [power station](/portable-power-
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
-As an Amazon Associate I earn from qualifying purchases.
-
 ### #1 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325): $1301
 
 - Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
@@ -124,3 +122,5 @@ As an Amazon Associate I earn from qualifying purchases.
     - <https://www.youtube.com/watch?v=t6pFY4Sh0Us>
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsxv900)
+
+As an Amazon Associate I earn from qualifying purchases.

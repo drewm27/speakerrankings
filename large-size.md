@@ -11,8 +11,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
-As an Amazon Associate I earn from qualifying purchases.
-
 ### #1 [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $290
 
 - Positives: Very balanced sound. Finally USB-C charging
@@ -1027,3 +1025,5 @@ As an Amazon Associate I earn from qualifying purchases.
 - Weight: 2.42lbs / 1.1kg
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=rE6oDyPAdwU>
+
+As an Amazon Associate I earn from qualifying purchases.
