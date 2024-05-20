@@ -7,9 +7,12 @@ comments: true
 
 Speakers like the JBL Partybox 310 although they will play deeper just won't have the output needed for larger areas especially outdoors, so these are the best suggestions for extremely loud speakers.
 
+
 If you absolutely can't live without an internal battery and need the loudest speaker possible, you'll be limited to the [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) (EU only) or the [Soundboks Gen 3/4](https://soundboks.com/products/speakers/soundboks-4) (126db peak). [Here they are compared](https://www.youtube.com/watch?v=h_LMN0-o9VI)
 
 Also remember that you can get a power station for any speaker mentioned here. See [this page for more information about Power Stations](/portable-power-stations/)
+
+As an Amazon Associate I earn from qualifying purchases.
 
 The best portable speakers without a battery are generally the [QSC K12.2](https://www.amazon.com/QSC-K12-2-Active-Powered-Loudspeaker/dp/B06Y477LND/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf3c0056f3ef63bee7512b791af2e9b6&camp=1789&creative=9325) (132db peak) or the [EV EKX-12P](https://www.amazon.com/Electro-Voice-EKX12P-Range-Powered-Loudspeaker/dp/B0779P36PH/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=55e34def00766ce51d3d42ed06f4322a&camp=1789&creative=9325) (132db peak). These speakers will by far sound the best and get extremely loud while still being portable and light enough to transport easily. You can also find these speakers open box or refurbished if you don't have the budget for a new one.
 
@@ -36,5 +39,3 @@ A lot of this information exists in a few places in the [r/livesound](https://ww
 [Looking for recommendations on good powered speakers for live shows](https://www.reddit.com/r/livesound/comments/xjryin/looking_for_recommendations_on_good_powered/)
 
 [Choosing entry level PA speakers](https://www.reddit.com/r/livesound/comments/1532c3e/choosing_entry_level_pa_speakers/)
-
-As an Amazon Associate I earn from qualifying purchases.

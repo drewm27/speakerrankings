@@ -9,6 +9,8 @@ The pocket size class is in a very specific class. These speakers should only be
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
+As an Amazon Associate I earn from qualifying purchases.
+
 ### #1 [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325): $48
 
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
@@ -474,5 +476,3 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=6CtZiXCJF18>
 - Links
     - [Official Product Page](https://www.lenovo.com/us/en/p/accessories-and-software/audio/speakers/4xd0t32974)
-
-As an Amazon Associate I earn from qualifying purchases.

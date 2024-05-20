@@ -7,6 +7,8 @@ comments: true
 
 The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details in the main rankings.
 
+As an Amazon Associate I earn from qualifying purchases.
+
 My perfect minimal speaker setup would be **2** [**$50 (after coupon UBOOMLWC on the checkout page) Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=433417fadb743aab2a7725af5f6ffde9&camp=1789&creative=9325) and **2** [**$160 Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325), enough to cover the small and big use cases in a TWS wide stereo setup. I believe these two are the best speakers for the money for nearly everyone.
 
 The best [pocket size](/pocket-size/) speaker with the best sound quality is the [**$48 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
@@ -26,5 +28,3 @@ The absolute deepest bass out of an [insane size](/insane-size/) non-battery Blu
 The absolute loudest battery powered speaker is the [**€950 Teufel Rockster**](https://lu.teufelaudio.com/rockster-105575000) (EU only) followed by the [**$1000** **Soundboks gen 4**](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d8e3acbd00af8e80b58bebcf3eea6ebe&camp=1789&creative=9325) and [**$699 Soundboks gen 3**](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325) 
 
 If you're throwing parties for over 50 people and need louder, see [this page](/portable-party-speakers/) and pick up a [portable power station](/portable-power-stations/) for battery use
-
-As an Amazon Associate I earn from qualifying purchases.

@@ -11,6 +11,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+As an Amazon Associate I earn from qualifying purchases.
+
 ### #1 [Earfun Uboom L](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325): $50 after coupon UBOOMLWC on the checkout page
 
 - Positives: The audiophile choice. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every single volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). I recommend using firmware 0.4.3 which sounds the best and is what Oluv uses in his demos. All firmware files can be found [here](https://drive.google.com/drive/folders/1jxg3eJFxHTtSu00NY3wqXOoDnMGqpO3c?usp=drive_link). The instructions say that you need a USB3 cable, but most USB2 cables work just fine, try the one included with your phone. Here's a [discussion of sound quality in each firmware version](https://www.reddit.com/r/Bluetooth_Speakers/comments/1136ghx/comment/j8tmwb0/?utm_source=reddit&utm_medium=web2x&context=3). Check the current firmware version by turning it on, then pressing the power and Bluetooth buttons at the same time. You can flash any version up or down on it. To flash, turn the speaker off then hold down the Bluetooth button while plugging in the cable. To flash on a mac, [see these instructions](https://www.reddit.com/r/Bluetooth_Speakers/comments/17slpcs/guide_downgrading_earfun_uboom_l_to_oluvs/). In TWS mode, long press the outdoor button for 2 seconds to change TWS to Party mode and back. 
@@ -1657,5 +1659,3 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1A5cNDoQCM8>
     - <https://www.youtube.com/watch?v=VDc2anLRz0w>
-
-As an Amazon Associate I earn from qualifying purchases.
