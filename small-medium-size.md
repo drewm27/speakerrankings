@@ -1657,3 +1657,5 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1A5cNDoQCM8>
     - <https://www.youtube.com/watch?v=VDc2anLRz0w>
+
+As an Amazon Associate I earn from qualifying purchases

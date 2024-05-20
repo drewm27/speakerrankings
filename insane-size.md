@@ -123,3 +123,4 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsxv900)
 
+As an Amazon Associate I earn from qualifying purchases

@@ -36,3 +36,5 @@ A lot of this information exists in a few places in the [r/livesound](https://ww
 [Looking for recommendations on good powered speakers for live shows](https://www.reddit.com/r/livesound/comments/xjryin/looking_for_recommendations_on_good_powered/)
 
 [Choosing entry level PA speakers](https://www.reddit.com/r/livesound/comments/1532c3e/choosing_entry_level_pa_speakers/)
+
+As an Amazon Associate I earn from qualifying purchases

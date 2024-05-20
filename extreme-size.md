@@ -792,3 +792,5 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eVlB4zq2Q0I>
     - <https://www.youtube.com/watch?v=28bFX3K9Gzs>
+
+As an Amazon Associate I earn from qualifying purchases

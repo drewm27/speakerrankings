@@ -27,3 +27,4 @@ The absolute loudest battery powered speaker is the [**€950 Teufel Rockster**]
 
 If you're throwing parties for over 50 people and need louder, see [this page](/portable-party-speakers/) and pick up a [portable power station](/portable-power-stations/) for battery use
 
+As an Amazon Associate I earn from qualifying purchases
