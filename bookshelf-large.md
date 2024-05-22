@@ -18,7 +18,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Quite expensive. No Bluetooth
 - Dimensions: 15.4"H x 9.8"W x 13.1"D
 - Weight: 22.5lbs / 10.2kg
-- Watts: 75W LF, 45W HF Per Speaker
+- Watts: 120w Per Speaker
 - Woofer Size: 8"
 - Inputs: XLR
 - Comparisons and Sound Samples
