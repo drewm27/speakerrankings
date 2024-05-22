@@ -426,7 +426,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: No
 - EQ: No
 - TWS: No
-- Party Mode: No
+- Party Mode: NoA
+- IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
@@ -434,7 +435,20 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
 
-### #22 Harman Kardon Esquire Mini 2: $100
+### #22 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl): $51
+- Negatives: Not much bass at all. Not very loud
+- Bass Extension: ~90hz
+- Weight: 0.41lbs / 187g
+- Battery Life: 8 hours
+- Charging: USB-C
+- IP Rating: IPX5
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=3JsU3QYYRrk>
+    - <https://www.youtube.com/watch?v=g0mixdXjVI8>
+- Links
+    - [Official Product Page](https://muzenaudio.com/products/wild-go-portable-rugged-wireless-bluetooth-speaker)
+
+### #23 Harman Kardon Esquire Mini 2: $100
 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - Battery Life: 10 hours
@@ -447,7 +461,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
 
-### #23 Harman Kardon Neo: $90
+### #24 Harman Kardon Neo: $90
 
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
@@ -460,7 +474,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
 
-### #24 Lenovo 700 Ultraportable Bluetooth Speaker: $85
+### #25 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
