@@ -436,7 +436,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
 
 ### #22 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl): $51
-- Negatives: Not much bass at all. Not very loud
+- Negatives: Not much bass at all. Not very loud. Only IPX5, not submersible. Short battery life.
 - Bass Extension: ~90hz
 - Weight: 0.41lbs / 187g
 - Battery Life: 8 hours
