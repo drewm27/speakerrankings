@@ -32,6 +32,7 @@ navbar-links:
   Bookshelf Speaker Ranking:
     - Bookshelf Large Speakers: "bookshelf-large/"
     - Bookshelf Medium Speakers: "bookshelf-medium/"
+    - Bookshelf Small Speakers: "bookshelf-medium/"
   Information:
     - Information About the Rankings: "information-about-the-rankings/"
     - Information Applying to All Speakers: "information-applying-to-all-speakers/"
