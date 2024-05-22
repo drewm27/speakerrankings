@@ -22,7 +22,7 @@ I've been working on finding all the best battery powered Bluetooth wireless spe
 
 - [Bookshelf Large Speakers](/bookshelf-large/)
 - [Bookshelf Medium Speakers](/bookshelf-medium/)
-- [Bookshelf Medium Speakers](/bookshelf-small/)
+- [Bookshelf Small Speakers](/bookshelf-small/)
 
 ### Information
 
