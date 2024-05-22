@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-I've been working on finding all the best battery powered Bluetooth wireless speakers by ranking them by sound quality tested by trusted Youtube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got nearly every single speaker ranked with a total count of 305 speakers.
+I've been working on finding all the best battery powered Bluetooth wireless speakers by ranking them by sound quality tested by trusted Youtube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got nearly every single speaker ranked with a total count of 306 speakers.
 
 **Use ctl-f or the search in your browser's drop down menu to search pages**
 
@@ -39,4 +39,4 @@ Many of you likely came from [this Reddit post](https://www.reddit.com/r/Wireles
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 05/20/2024
+Last updated 05/21/2024
