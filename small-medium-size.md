@@ -1138,6 +1138,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
 
+### #62 [Tribit Stormbox 2](https://tribit.com/products/tribit-stormbox-2-portable-speaker): $60
+
+- Positives: A little better sounding than the Stormbox 1, less of a rolled off treble. Keep Xbass on for best frequency response.
+- Negatives: Drivers on the side, so it will have a rolled off treble listening to it face on.
+- Weight: 1.3lbs / 593g
+- Aux Latency: 200ms
+- TWS: Yes
+- Party Mode: Yes
+- Latency: 400ms AAC, 400ms SBC
+- Battery Life: 24 hours
+- Built in Microphone: Yes
+- App: Yes
+- EQ: Yes
+- IP Rating: IPX7
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=req2-T3W2xo>
+
 ### #62 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl): $35
 
 - Negatives: Bass doesn't go as deep as others
@@ -1186,7 +1203,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.2lbs / 535g
 - Battery Life: 20 hours
 - Aux Input: Yes
+- Aux Latency: 0
+- Latency: 166ms
 - Built in Microphone: Yes
+- IP Rating: IPX7
+- App: No
+- EQ: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
     - <https://www.youtube.com/watch?v=AeaMQ3DR_hE>
