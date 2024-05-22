@@ -14,7 +14,7 @@ For off grid use, check out a [power bank](/portable-power-stations/)
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #1 [Yamaha HS8](https://www.amazon.com/Yamaha-8-Inch-Powered-Studio-Monitor/dp/B08BGC6DRY?crid=27YPFCNGP8C1K&dib=eyJ2IjoiMSJ9.78nVnlYhp8otV-Zfh9l6tKuxmM4nZaxHAnVqiuAs6nFMg1ul8RmyzTouLOPfbVEwuZvy3mXU82B91pTfzqHj7onyK25JPFv3IZH6rnNcqPP4SBrTUzbDnHnWgzI20O5O9bpuy8jXAYl1ahVN_zjVACgBC5g1CD2ZesgfuDmfssnH7_kQZv7g5EsaZqP22K2fqmI8Q-WeKnq5QyGEBZ2-oOz8Ux0PleShwdrz1y2Qn9pwguWOctFovePK8-v4E9HJFjmwBZuHNKfkJF8hRWcVRB_pL00HqrX3GQBmEjxXIRM.WHzP5S8hPjkAGngJfjyuAsAIWdvkS8bwO2AFd0f1dak&dib_tag=se&keywords=yamaha+hs8&qid=1716354856&sprefix=yamaha+hs8%2Caps%2C213&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=70f57a18e2c4412c44cfc243faebe22f&language=en_US&ref_=as_li_ss_tl): $798
-- Positives: By far the most natural sounding speaker in this size. Excellent for mixing and anything needing a natural output.
+- Positives: By far the most neutral sounding speaker in this size. Excellent for mixing and anything needing a neutral output.
 - Negatives: Quite expensive. No Bluetooth
 - Dimensions: 15.4"H x 9.8"W x 13.1"D
 - Weight: 22.5lbs / 10.2kg
@@ -26,9 +26,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=DQGGADSHXSM>
     - <https://www.youtube.com/watch?v=hiAGhoDTaiE>
     - <https://www.youtube.com/watch?v=QjcU2RHAeTg>
+    - <https://www.youtube.com/watch?v=uz4gKwJrPs0>
 
 ### #2 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl): $450
-- Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the natural sound of the HS8. Shockingly close to the HS8 at half the price.
+- Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the neutral sound of the HS8. Shockingly close to the HS8 at half the price.
 - Negatives: Quite large and heavy
 - Dimensions: 18.1"H x 10.1"W x 12.4"D
 - Weight: 50.7lbs / 23kg
