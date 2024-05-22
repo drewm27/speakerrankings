@@ -130,16 +130,4 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=xEDg7hl7a3A>
     - <https://www.youtube.com/watch?v=-pMsnGzolvY>
 
-### #11 [Audioengine HD3](https://www.amazon.com/Audioengine-Wireless-Speakers-Bluetooth-Bookshelf/dp/B08SHSVFLY?crid=2PAOFMKQJCA92&dib=eyJ2IjoiMSJ9.-lgXjJT-hOTZbGuByE457OF0Wix6VS3ewqvk55KMbHFK9drJd9dPtMZnw5zhXnbPA4IT_kdb65nx3HXZGXsJSq7RLZtQqtKx4U9oHdLDku4miz1C_OfosL-sk1i_jJZ7j57PSlh0mCElO-JjMwmfH0nqTA_KNKznLd2PkXcQIwlah7Pla45MAoQnqVa0vIxD4-QFWJo3AP_lbgvIldGnXPCMA5NNArUmNUg-KW8kcLc.lADSUyfnqhNaacghdfKgOwANKhiZRs8voVHmAORVj_E&dib_tag=se&keywords=audioengine%2Bhd3&qid=1713997265&sprefix=audioengine%2Bhd%2Caps%2C240&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=88358c04e2d0204d09b8fad4ef74fdf5&language=en_US&ref_=as_li_ss_tl): $350
-- Negatives: Small woofer doesn't have very deep bass
-- Weight: 7.2lbs / 3.3kg
-- Dimensions: 9"H x 5.5"W x 6.5"D
-- Watts: 15w RMS Per Speaker
-- Woofer Size: 4"
-- Inputs: Bluetooth, 3.5mm, RCA Input
-- Outputs: RCA Output
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
-    - <https://www.youtube.com/watch?v=-pMsnGzolvY>
-
 As an Amazon Associate I earn from qualifying purchases.
