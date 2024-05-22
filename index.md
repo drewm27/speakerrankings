@@ -7,17 +7,21 @@ I've been working on finding all the best battery powered Bluetooth wireless spe
 
 **Use ctl-f or the search in your browser's drop down menu to search pages**
 
-### Speaker Rankings
+### Portable Speaker Rankings
 
 - [Top Recommended Bluetooth Speakers](/top-recommended/)
 - [Pocket Size Bluetooth Speakers](/pocket-size/)
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/)
 - [Large Size Bluetooth Speakers](/large-size/)
-- [Bookshelf Non Battery Bluetooth Speakers](/bookshelf-non-battery/)
 - [Boombox Size Bluetooth Speakers](/boombox-size/)
 - [Extreme Size Bluetooth Speakers](/extreme-size/)
 - [Insane Size Bluetooth Speakers](/insane-size/)
 - [Portable Party speakers for parties over 50 people](/portable-party-speakers/)
+
+### Bookshelf Speaker Rankings
+
+- [Bookshelf Large Speakers](/bookshelf-large/)
+- [Bookshelf Medium Speakers](/bookshelf-medium/)
 
 ### Information
 
