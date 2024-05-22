@@ -57,7 +57,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11.75"H x 7.25"W x 10"D
 - Watts: 50w RMS Per Speaker
 - Woofer Size: 5.5"
-- Inputs: Bluetooth, 3.5mm, RCA Input, Optical
+- Inputs: Bluetooth, Aux, RCA Input, Optical
 - Outputs: RCA Output
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SAdySyVWzq8>
@@ -79,7 +79,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11"H x 7.16"W x 7.79"D
 - Watts: 50w RMS Per Speaker
 - Woofer Size: 5"
-- Inputs: Bluetooth, 3.5mm, RCA Input, Optical
+- Inputs: Bluetooth, Aux, RCA Input, Optical
 - Outputs: RCA Output
 
 ### #7 [Edifier MR4](https://www.amazon.com/Edifier-Powered-Monitor-Speakers-Near-Field/dp/B09FXG9BLR?hvadid=563758605815&hvpos=&hvnetw=g&hvrand=14996373029609059198&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1568283915325&mcid=28c0999faba234ceb23ef1aa48dd74d2&gclid=Cj0KCQjw_qexBhCoARIsAFgBletx4GmVvrMFl0mV7uef4xbb9oX-_Sk15dfsugflQcPoJmZZNZKd9-4aAtZuEALw_wcB&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3e40828e354ff5d2dda767b7da2c3a53&language=en_US&ref_=as_li_ss_tl): $104
@@ -88,7 +88,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 9.9lbs / 4.5kg
 - Watts: 42w RMS Per Speaker
 - Woofer Size: 4"
-- Inputs: Bluetooth, TRS, RCA
+- Inputs: Bluetooth, 1/4" Balanced, RCA, Aux
+- Outputs: Headphone
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=C04EP1z7PPw>
     - <https://www.youtube.com/watch?v=5NuLO145dsI>
@@ -126,7 +127,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 9"H x 5.5"W x 6.5"D
 - Watts: 50w RMS Per Speaker
 - Woofer Size: 4"
-- Inputs: Bluetooth, 3.5mm, RCA Input
+- Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=xEDg7hl7a3A>
