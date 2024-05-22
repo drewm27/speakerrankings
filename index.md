@@ -7,7 +7,7 @@ I've been working on finding all the best powered speakers by ranking them by so
 
 **Use ctl-f or the search in your browser's drop down menu to search pages**
 
-### Portable Speaker Rankings
+### Portable Powered Speaker Rankings
 
 - [Top Recommended Bluetooth Speakers](/top-recommended/)
 - [Pocket Size Bluetooth Speakers](/pocket-size/)
@@ -18,7 +18,7 @@ I've been working on finding all the best powered speakers by ranking them by so
 - [Insane Size Bluetooth Speakers](/insane-size/)
 - [Portable Party speakers for parties over 50 people](/portable-party-speakers/)
 
-### Bookshelf Speaker Rankings
+### Bookshelf Powered Speaker Rankings
 
 - [Bookshelf Large Speakers](/bookshelf-large/)
 - [Bookshelf Medium Speakers](/bookshelf-medium/)
