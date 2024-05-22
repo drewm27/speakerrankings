@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work Currently In Progress
-subtitle: Bluetooth Speaker Ranking
+subtitle: Speaker Ranking
 comments: true
 ---
 

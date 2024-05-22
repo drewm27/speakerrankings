@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portable speakers for parties over 50 people
-subtitle: Bluetooth Speaker Ranking
+subtitle: Speaker Ranking
 comments: true
 ---
 

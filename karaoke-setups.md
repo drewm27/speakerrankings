@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Karaoke Setups
-subtitle: Bluetooth Speaker Ranking
+subtitle: Speaker Ranking
 comments: true
 ---
 

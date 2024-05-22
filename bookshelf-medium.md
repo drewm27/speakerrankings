@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bookshelf Non Battery Speakers
-subtitle: Bluetooth Speaker Ranking
+title: Bookshelf Medium Size Speakers
+subtitle: Speaker Ranking
 comments: true
 ---
 
