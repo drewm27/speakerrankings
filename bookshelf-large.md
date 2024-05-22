@@ -13,6 +13,17 @@ For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+### #1 [Yamaha HS8](https://www.amazon.com/Yamaha-8-Inch-Powered-Studio-Monitor/dp/B08BGC6DRY?crid=27YPFCNGP8C1K&dib=eyJ2IjoiMSJ9.78nVnlYhp8otV-Zfh9l6tKuxmM4nZaxHAnVqiuAs6nFMg1ul8RmyzTouLOPfbVEwuZvy3mXU82B91pTfzqHj7onyK25JPFv3IZH6rnNcqPP4SBrTUzbDnHnWgzI20O5O9bpuy8jXAYl1ahVN_zjVACgBC5g1CD2ZesgfuDmfssnH7_kQZv7g5EsaZqP22K2fqmI8Q-WeKnq5QyGEBZ2-oOz8Ux0PleShwdrz1y2Qn9pwguWOctFovePK8-v4E9HJFjmwBZuHNKfkJF8hRWcVRB_pL00HqrX3GQBmEjxXIRM.WHzP5S8hPjkAGngJfjyuAsAIWdvkS8bwO2AFd0f1dak&dib_tag=se&keywords=yamaha+hs8&qid=1716354856&sprefix=yamaha+hs8%2Caps%2C213&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=70f57a18e2c4412c44cfc243faebe22f&language=en_US&ref_=as_li_ss_tl): $798
+- Positives: By far the best sounding speaker in this size. Quite expensive.
+- Dimensions: 15.4"H x 9.8"W x 13.1"D
+- Weight: 22.5lbs / 10.2kg
+- Watts: 75W LF, 45W HF Per Speaker
+- Woofer Size: 8"
+- Inputs: XLR
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=kafDlEzEG-U>
+    - <https://www.youtube.com/watch?v=DQGGADSHXSM>
+
 ### #1 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl): $450
 - Positives: 3 way speaker. About the deepest bass on this page due to the 8" woofer.
 - Negatives: Quite large and heavy
@@ -22,6 +33,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: Bluetooth, 2x RCA Input, Optical, Coax
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=DQGGADSHXSM>
     - <https://www.youtube.com/watch?v=MWeoTZmU6l0>
     - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
 
