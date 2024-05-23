@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-I've been working on finding all the best powered speakers by ranking them by sound quality tested by trusted YouTube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got a total count of 313 speakers ranked.
+I've been working on finding all the best powered speakers by ranking them by sound quality tested by trusted YouTube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got a total count of 315 speakers ranked.
 
 Watching videos on YouTube to figure out the best speakers can easily take days or weeks. I wrote these rankings so you can easily understand the entire speaker market in minutes. All speakers below have their best sound samples and comparisons on YouTube linked.
 
@@ -27,8 +27,8 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 ### Bookshelf Powered Speaker Rankings
 
 - [Bookshelf Large Size Speakers](/bookshelf-large/): 6 speakers ranked
-- [Bookshelf Medium Size Speakers](/bookshelf-medium/): 10 speakers ranked
-- [Bookshelf Small Size Speakers](/bookshelf-small/): 3 speakers ranked
+- [Bookshelf Medium Size Speakers](/bookshelf-medium/): 11 speakers ranked
+- [Bookshelf Small Size Speakers](/bookshelf-small/): 4 speakers ranked
 
 ### Information
 
