@@ -30,8 +30,6 @@ for file in os.listdir():
                 f.write(newline)
         count[file] = number
 
-print(count)
-
 with open('index.md') as f:
     lines = f.readlines()
 with open('index.md', 'w') as f:
@@ -47,7 +45,7 @@ with open('index.md', 'w') as f:
             if filename in count:
                 if count[filename] > 0:
                     if ':' in line:
-                        line.split(':')[0].strip() + ': ' + str(count[filename]) + ' speakers\n'
+                        line = line.split(':')[0].strip() + ': ' + str(count[filename]) + ' speakers ranked\n'
                     else:
-                        line = line.strip() + ': ' + str(count[filename]) + ' speakers\n'
+                        line = line.strip() + ': ' + str(count[filename]) + ' speakers ranked\n'
         f.write(line)
