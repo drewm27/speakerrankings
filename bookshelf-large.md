@@ -5,7 +5,7 @@ subtitle: Speaker Ranking
 comments: true
 ---
 
-The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can stream directly from your phone or laptop. Note some of these speakers may not include Bluetooth.
+The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. Note some of these speakers may not include Bluetooth.
 
 This section is still under development so there may be speakers that are better than the ones below.
 
