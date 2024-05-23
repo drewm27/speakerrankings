@@ -23,9 +23,9 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 ### Bookshelf Powered Speaker Rankings
 
 - [Top Recommended Bookshelf Speakers](/bookshelf-top-recommended/)
-- [Bookshelf Large Speakers](/bookshelf-large/)
-- [Bookshelf Medium Speakers](/bookshelf-medium/)
-- [Bookshelf Small Speakers](/bookshelf-small/)
+- [Bookshelf Large Size Speakers](/bookshelf-large/)
+- [Bookshelf Medium Size Speakers](/bookshelf-medium/)
+- [Bookshelf Small Size Speakers](/bookshelf-small/)
 
 ### Information
 
