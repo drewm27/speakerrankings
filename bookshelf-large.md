@@ -15,7 +15,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #1 APS Klasik 2020: $900
 - Positives: Very neutral. Almost indistinguishable from the HS8 but with deeper bass
-- Negatives: Difficult to find for sale, possibly local dealers only
+- Negatives: Difficult to find for sale online, possibly local dealers only
 - Frequency Response: 39Hz – 25kHz (-3dB)
 - Dimensions: 14.2"H x 8.3"W x 12.6"D
 - Weight: 22.1lbs / 10.0kg
