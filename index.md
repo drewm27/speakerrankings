@@ -26,9 +26,9 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 
 ### Bookshelf Powered Speaker Rankings
 
-- [Bookshelf Large Size Speakers](/bookshelf-large/): 6 speakers ranked
-- [Bookshelf Medium Size Speakers](/bookshelf-medium/): 11 speakers ranked
 - [Bookshelf Small Size Speakers](/bookshelf-small/): 4 speakers ranked
+- [Bookshelf Medium Size Speakers](/bookshelf-medium/): 11 speakers ranked
+- [Bookshelf Large Size Speakers](/bookshelf-large/): 6 speakers ranked
 
 ### Information
 
