@@ -39,6 +39,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: XLR
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Fxj1hDRUkQY>
+    - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
 

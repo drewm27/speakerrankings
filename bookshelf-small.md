@@ -22,6 +22,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: RCA, Aux
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eNBQXkxIJNc>
+    - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmm/index.php)
 
