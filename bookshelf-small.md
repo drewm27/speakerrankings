@@ -18,6 +18,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Slightly boosted bass. Some treble rolloff up high. More hifi sounding than neutral
 - Weight: 2.0lbs / 0.9kg
 - Dimensions: 7.1"H x 3.5"W x 5.3"D
+- Watts: 25w RMS Per Speaker
 - Woofer Size: 3"
 - Inputs: RCA, Aux
 - Comparisons and Sound Samples
