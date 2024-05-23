@@ -1143,6 +1143,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: A little better sounding than the Stormbox 1, less of a rolled off treble. Keep Xbass on for best frequency response.
 - Negatives: Drivers on the side, so it will have a rolled off treble listening to it face on.
 - Weight: 1.3lbs / 593g
+- Max Volume: 99db
 - Aux Latency: 200ms
 - TWS: Yes
 - Party Mode: Yes
