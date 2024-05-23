@@ -9,10 +9,14 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 
 **Use ctl-f or the search in your browser's drop down menu to search pages**
 
+### Top Speakers Guides
+
+- [Top Recommended Portable Bluetooth Speakers](/top-recommended/)
+- [Top Recommended Portable Speakers for parties over 50 people](/portable-party-speakers/)
+- [Top Recommended Bookshelf Speakers](/bookshelf-top-recommended/)
+
 ### Portable Powered Speaker Rankings
 
-- [Top Recommended Bluetooth Speakers](/top-recommended/)
-- [Top Recommended Speakers for parties over 50 people](/portable-party-speakers/)
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 25 speakers
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 107 speakers
 - [Large Size Bluetooth Speakers](/large-size/): 62 speakers
@@ -22,7 +26,6 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 
 ### Bookshelf Powered Speaker Rankings
 
-- [Top Recommended Bookshelf Speakers](/bookshelf-top-recommended/)
 - [Bookshelf Large Size Speakers](/bookshelf-large/): 6 speakers
 - [Bookshelf Medium Size Speakers](/bookshelf-medium/): 10 speakers
 - [Bookshelf Small Size Speakers](/bookshelf-small/): 3 speakers
