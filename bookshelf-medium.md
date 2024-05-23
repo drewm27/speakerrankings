@@ -40,6 +40,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Fxj1hDRUkQY>
     - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
+    - <https://www.youtube.com/watch?v=pUirqMFmyVw>
+    - <https://www.youtube.com/watch?v=QFWrTMH5hIQ>
+    - <https://www.youtube.com/watch?v=uAR19TSCt_I>
+    - <https://www.youtube.com/watch?v=cOEPf1j7h6o>
+    - <https://www.youtube.com/watch?v=Jhm85bHp9_c>
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
 
