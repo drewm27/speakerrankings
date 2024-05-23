@@ -12,13 +12,13 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 ### Portable Powered Speaker Rankings
 
 - [Top Recommended Bluetooth Speakers](/top-recommended/)
+- [Top Recommended Speakers for parties over 50 people](/portable-party-speakers/)
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 25 speakers
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 107 speakers
 - [Large Size Bluetooth Speakers](/large-size/): 62 speakers
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 52 speakers
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 43 speakers
 - [Insane Size Bluetooth Speakers](/insane-size/): 5 speakers
-- [Portable Party speakers for parties over 50 people](/portable-party-speakers/)
 
 ### Bookshelf Powered Speaker Rankings
 
