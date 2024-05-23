@@ -29,7 +29,31 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=QjcU2RHAeTg>
     - <https://www.youtube.com/watch?v=uz4gKwJrPs0>
 
-### #2 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl): $450
+### #2 [Adam Audio T8V](https://www.amazon.com/ADAM-Audio-2-Way-Active-Monitor/dp/B087NC73NZ?crid=QTLLH394SR59&dib=eyJ2IjoiMSJ9.1SSiwRS5p2AsDx-q07Xq67AeME7UtIey-HCuui8Wkr86NTJk02VLybms3AGeT-HD3iPytDcd16nDgUyZFhuaDJxtN7-9daWu0R1xHtZecSYitS69NlIjwxREWNU8E1rTe9HdneNdzahaGn-fFBcozA.9hFED7qnmB-mphXNPeTYY2YqYf9iZM4yG5I1fYPoqGU&dib_tag=se&keywords=adam%2Bt8v&qid=1716435671&sprefix=adam%2Bt8%2Caps%2C182&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b568df79465094edc9b598e3c61241cd&language=en_US&ref_=as_li_ss_tl): $600
+- Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
+- Negatives: Slightly bright treble
+- Dimensions: 15.8"H x 9.8"W x 13.2"D
+- Weight: 21.6lbs / 9.8kg
+- Watts: 90w Per Speaker
+- Woofer Size: 8"
+- Inputs: XLR, RCA
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=kafDlEzEG-U>
+    - <https://www.youtube.com/watch?v=-jMpTspSl0U>
+
+### #3 [Rokit 8 G4](https://www.amazon.com/KRK-RP8-Professional-Powered-Monitor/dp/B07YZQ4JNV?crid=3AKCT5MW3FDVZ&dib=eyJ2IjoiMSJ9.JxEVModU4jzJlDiXP7IkPj5TMc988Wl3cPWTR5OP-iFEtiovLQ7gs2TnwTTp0SCsL7OnQF1kyR3kpdSPUOUil3YwP1lev3c5USWlW_cyLRQs_NLMRVtbBze3ptaBlSaoh1_ef4E0N4BSVnADwzZ0RWxNojuG7eS7dwN50aeXiQJecvoKO9jhMivVTVMwoCKSnF52pv3cW9SmjVZvHdOY-XsxEz4B_L5rNeYlJ_ICdCM1mMIv3nBqjUaYycEmI3oPGMWiI65Yihv5ha-nZvr8R0tK0U_WFs66lSCutAnJP-E.IeoAwMSw5ej_5vVhuq7ndp_8RlOLKp69oa3Lg1FxmTA&dib_tag=se&keywords=rokit%2B8%2Bg4&qid=1716435118&sprefix=rokit%2B8%2Bg%2Caps%2C173&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4bbf2b71669c5852b994e5b7772e4881&language=en_US&ref_=as_li_ss_tl): $500
+- Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
+- Dimensions: 15.75"H x 10.5"W x 12.2"D
+- Watts: 100w
+- Weight: 22.6lbs / 10.5kg
+- Woofer Size: 8"
+- Inputs: XLR
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=kafDlEzEG-U>
+    - <https://www.youtube.com/watch?v=asE5dXZe-do>
+    - <https://www.youtube.com/watch?v=-jMpTspSl0U>
+
+### #4 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl): $450
 - Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the neutral sound of the HS8. Shockingly close to the HS8 at half the price.
 - Negatives: Quite large and heavy
 - Frequency Response: 42Hz-20KHz (-3dB)
@@ -43,7 +67,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=MWeoTZmU6l0>
     - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
 
-### #3 [Edifier S3000Pro](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl): $900
+### #5 [Edifier S3000Pro](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl): $900
 - Positives: High resolution digital input up to 96khz/24bit
 - Frequency Response: 38Hz-20KHz (-3dB)
 - Dimensions: 14.5"H x 9.1"W x 14.0"D
