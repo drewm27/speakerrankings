@@ -32,9 +32,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: The absolute deepest bass out of a speaker this narrow
 - Negatives: Boosted bass, more hifi sounding than neutral
 - Frequency Response: 50 Hz - 24 kHz (-3dB)
+- Dimensions: 10.4"H x 5.1"W x 6.3"D
 - Weight: 5.5lbs / 2.5kg
 - Watts: 100w Per Speaker
 - Woofer Size: 2x 3.5"
+- Inputs: XLR
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Fxj1hDRUkQY>
 - Links

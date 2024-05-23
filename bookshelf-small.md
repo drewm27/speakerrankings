@@ -16,7 +16,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #1 [IK Multimedia iLoud Micro Monitor](https://www.amazon.com/IK-Multimedia-Monitors-ultra-compact-bluetooth/dp/B01C5RZWCQ?crid=FTKKM0F5TJNL&dib=eyJ2IjoiMSJ9.Yba7lZsP6xiTaLB2JTp9-_po8zhIrCwtX5EocFFqVNrrBehkyvoGuWS4UZkh1sPvYez1cLKuS70x70dsHHZsFkTxBOWghVD36HnvqcOTDbENLfxSU0siYsk3GIkjpoM_A6cERteJasV8rsPF84mN4Bh_Fsvez4Xc_p8vgYHnv4_DSlUGzxLc2Lgd4e1RRB_nDHfWnkszL5bclEiws8sP_0RSbVB4arK_Zmx8zDwiT8E3FZxS53ym-AP-_Y3dWk3VzX8i0x6FejkO8aNfbKtbCCl974abFHWU7Nv0VHzTF1E.gw-HZdeC1ncUMe54z3KvG6IBrIrBWjL6igImRz-IWA4&dib_tag=se&keywords=iLoud%2BMicro%2BMonitor&qid=1716443060&sprefix=%2Caps%2C284&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdd8999ef33fda8cd5e626b3cff2b3c8&language=en_US&ref_=as_li_ss_tl): $350
 - Positives: Much deeper bass than any other speaker this size.
 - Negatives: Slightly boosted bass. Some treble rolloff up high. More hifi sounding than neutral
+- Weight: 2.0lbs / 0.9kg
+- Dimensions: 7.1"H x 3.5"W x 5.3"D
 - Woofer Size: 3"
+- Inputs: RCA, Aux
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eNBQXkxIJNc>
 - Links
