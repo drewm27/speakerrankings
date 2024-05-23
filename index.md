@@ -15,7 +15,7 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 - [Top Recommended Portable Speakers for parties over 50 people](/portable-party-speakers/)
 - [Top Recommended Bookshelf Speakers](/bookshelf-top-recommended/)
 
-### Portable Powered Speaker Rankings
+### Portable Powered Bluetooth Speaker Rankings
 
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 25 speakers
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 107 speakers
