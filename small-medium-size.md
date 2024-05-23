@@ -573,6 +573,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Use [this EQ](https://www.instagram.com/p/C5vDo8gINjx/) for the best sound quality
 - Negatives: Boosted treble, boosted bass in the factory EQs. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
 - Battery Life: 24 hours
+- Max Volume: 99db
 - TWS: Yes
 - Aux Input: yes
 - Party Mode: Yes
@@ -722,6 +723,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #36 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325): $80 after $20 coupon
 
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
+- Max Volume: 100db
 - Bass Extension: 54hz
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
