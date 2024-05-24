@@ -7,7 +7,13 @@ comments: true
 
 ### Compared to Home Audio
 
-None of these speakers will be as satisfying as high end home audio which when properly selected and set up can present a 3d sound image with depth, height and pinpoint location accuracy along with a neutral response and extended treble and bass along with more midrange and treble clarity. Enjoy these portable speakers for what they are, a way to enjoy music in any room or any place you bring them. For the closest to ultra high end audio, check out the Vifa Helsinki or a TWS pair of Earfun Uboom L in that order.
+None of the portable Bluetooth speakers will be as satisfying as high end home audio or bookshelf speakers which when properly selected and set up can present a 3d sound image with depth, height and pinpoint location accuracy along with a neutral response and extended treble and bass along with more midrange and treble clarity. Enjoy these portable speakers for what they are, a way to enjoy music in any room or any place you bring them. For the closest to ultra high end audio, check out the Vifa Helsinki or a TWS pair of Earfun Uboom L in that order.
+
+Many of the Powered Bookshelf speakers will be very close to high end home audio and can present a 3d sound image with depth, height and pinpoint location accuracy.
+
+### Studio Monitors vs Hifi speakers
+
+There's a class of speakers known as studio monitors which have a goal of not covering up imperfections and being as neutral and resolving as possible which allows you to mix and master recordings well. These speakers can be used for general music listening, but due to their ability to not mask imperfections, may not sound as fun or as good as speakers designed for hifi use. For general listening you may prefer other less resolving speakers. Speaker companies who produce high end studio monitors that are known to be very resolving are Genelec, Neumann, APS and Yamaha.
 
 ### Multi Speaker Pairing
 
