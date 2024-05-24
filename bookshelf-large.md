@@ -31,7 +31,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #2 [Yamaha HS8](https://www.amazon.com/Yamaha-8-Inch-Powered-Studio-Monitor/dp/B08BGC6DRY?crid=27YPFCNGP8C1K&dib=eyJ2IjoiMSJ9.78nVnlYhp8otV-Zfh9l6tKuxmM4nZaxHAnVqiuAs6nFMg1ul8RmyzTouLOPfbVEwuZvy3mXU82B91pTfzqHj7onyK25JPFv3IZH6rnNcqPP4SBrTUzbDnHnWgzI20O5O9bpuy8jXAYl1ahVN_zjVACgBC5g1CD2ZesgfuDmfssnH7_kQZv7g5EsaZqP22K2fqmI8Q-WeKnq5QyGEBZ2-oOz8Ux0PleShwdrz1y2Qn9pwguWOctFovePK8-v4E9HJFjmwBZuHNKfkJF8hRWcVRB_pL00HqrX3GQBmEjxXIRM.WHzP5S8hPjkAGngJfjyuAsAIWdvkS8bwO2AFd0f1dak&dib_tag=se&keywords=yamaha+hs8&qid=1716354856&sprefix=yamaha+hs8%2Caps%2C213&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=70f57a18e2c4412c44cfc243faebe22f&language=en_US&ref_=as_li_ss_tl): $798
 - Positives: Very neutral. Excellent for mixing and anything needing a neutral output.
-- Negatives: Quite expensive. No Bluetooth
+- Negatives: Quite expensive.
 - Frequency Response: 47Hz – 24kHz (-3dB)
 - Dimensions: 15.4"H x 9.8"W x 13.1"D
 - Weight: 22.5lbs / 10.2kg

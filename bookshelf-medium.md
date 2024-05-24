@@ -15,7 +15,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #1 [Yamaha HS5](https://www.amazon.com/Yamaha-HS5-Powered-Studio-Monitor/dp/B075Q5T7Q1?crid=31X5LUBY65SP4&dib=eyJ2IjoiMSJ9.7puFCFa_3g-pXnsDe3afQ3bv5kynT3-em4uwrC2cF931BC7U1n27I8hT4epBfmgn54KbdVlgndxy1HChF_b0AjbpSA2PxwbWh33LrMW9NF6y07CGQRvWsgFI9bSAne1OvkTkEoOTFXSc_QLTwUyGGJS39Ank141i9BFM60ZEKnYns6_9kQGPUR1yFm1QC4q28hv3Y9bhLRisI2NYYWcrCca6cBnlMAjx4RMynjDkeLjgiM4Lr3pc9F9F4ATMVaJkgkENPEfaxgO_EOjOPIYAmCUb2artTrAujSC6L4oWaHA.bTASrE4d4FXSp7yY6Y6xHNLXGQuKO-wDs1UtxHXfwNI&dib_tag=se&keywords=yamaha+hs5&qid=1716437423&sprefix=yamaha+hs%2Caps%2C238&sr=8-4&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=a590c06b6fb6ff7d7bf10fb85be451d5&language=en_US&ref_=as_li_ss_tl): $400
 - Positives: Very neutral. Excellent for mixing and anything needing a neutral output.
-- Negatives: No Bluetooth
+- Negatives: Not quite as deep of bass as some of the others in this size class.
 - Frequency Response: 47Hz – 24kHz (-3dB)
 - Dimensions: 11.2"H x 6.7"W x 8.7"D
 - Weight: 12.1lbs / 5.5kg
