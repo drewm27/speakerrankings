@@ -13,7 +13,7 @@ For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
-### #1 Genelec 8050B: $3800 a pair
+### #1 [Genelec 8050B](https://www.guitarcenter.com/Genelec/8050B-Bi-Amplified-Monitor-System-Each-1368456531480.gc): $3800 a pair
 - Positives: Likely one of the best studio monitors for mastering recordings in existence. Probably not worth the price for just listening to music. Based on their smaller speaker's performance against others, I'm ranking this accordingly.
 - Frequency Response: 32Hz – 25kHz (-6dB)
 - Dimensions: 17.8"H x 11.3"W x 10.9"D
