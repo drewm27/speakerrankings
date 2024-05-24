@@ -44,6 +44,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=hiAGhoDTaiE>
     - <https://www.youtube.com/watch?v=QjcU2RHAeTg>
     - <https://www.youtube.com/watch?v=uz4gKwJrPs0>
+    - <https://www.youtube.com/watch?v=YftZtzD9Wyc>
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 
