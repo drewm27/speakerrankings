@@ -39,6 +39,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: XLR
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Vi5umvPW1yQ>
+    - <https://www.youtube.com/watch?v=9OjbZQoLviY>
+    - <https://www.youtube.com/watch?v=bcYhKrm-z3M>
+    - <https://www.youtube.com/watch?v=Vt1gpbrAyOA>
+    - <https://www.youtube.com/watch?v=gtl978SZsk8>
 - Links
     - [Official Product Page](https://www.genelec.com/8010a)
 
