@@ -9,7 +9,7 @@ Watching videos on YouTube to figure out the best speakers can easily take days 
 
 **Use ctl-f or the search in your browser's drop down menu to search pages**
 
-### Recommended Speakers Guides
+### Top Recommended Speakers
 
 - [Top Recommended Portable Bluetooth Speakers](/top-recommended/)
 - [Top Recommended Portable Speakers for parties over 50 people](/portable-party-speakers/)
