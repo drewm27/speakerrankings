@@ -24,7 +24,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.genelec.com/8050b)
 
-### #2 [Genelec 8040B](https://www.guitarcenter.com/Genelec/8040B-Bi-Amplified-Monitor-System-Each-Black-1274115036177.gc): $2350
+### #2 [Genelec 8040B](https://www.guitarcenter.com/Genelec/8040B-Bi-Amplified-Monitor-System-Each-Black-1274115036177.gc): $2350 a pair
 - Positives: Likely one of the best studio monitors for mastering recordings in existence. Probably not worth the price for just listening to music. Based on their smaller speaker's performance against others, I'm ranking this accordingly.
 - Frequency Response: 41Hz – 25kHz (-6dB)
 - Dimensions: 14.4"H x 9.3"W x 8.8"D
