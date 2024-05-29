@@ -11,6 +11,22 @@ I've also been to headphone demo shows and have listened to almost all of the po
 
 My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. 
 
+###### Current Portable Bluetooth speakers
+1. JBL Partybox 310
+1. 2 Tribit Stormbox Blast
+1. Soundcore Motion Boom Plus
+1. Mifa Wildbox
+1. 2 Soundcore Motion Boom
+1. Mifa Wildcamping
+1. 2 Earfun Uboom L
+1. 2 Soundcore Motion+
+1. Soundcore Motion 300
+1. Tribit Stormbox Micro 2
+
+###### Past Portable Bluetooth speakers
+1. 1 JBL Partybox 100
+1. Vifa Helsinki
+
 ###### My headphone collection includes
 1. [Sennheiser HD 6xx (Sennheiser HD650)](https://www.amazon.com/Sennheiser-HD-650-Professional-Headphone/dp/B00018MSNI/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e101e3168afc0133d8a2e8309182ef8b&camp=1789&creative=9325)
 1. Hifiman HE-400i
