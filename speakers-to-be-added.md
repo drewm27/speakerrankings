@@ -7,7 +7,7 @@ comments: true
 
 I plan to get around to these as soon as there are good sound samples and comparisons around, stay tuned!
 
-1. Bose Soundlink Max
+1. Soundcore Boom 2 Plus
 1. Miatone *
 1. Nox 160
 1. Klipsch KMC3 
