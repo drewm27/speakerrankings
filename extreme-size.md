@@ -39,7 +39,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #2 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325): $500
 - Positives: Absolute deepest bass of any battery powered speaker, most balanced sound in the class, handle and wheels are convenient. Increase treble one step in the app EQ to make it more neutral. Customizable color lighting modes. Very close to the 320 in terms of performance.
 - Negatives: Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Bass Extension: 32hz (-10db)
+- Bass Extension: 32hz (-10dB)
 - Weight: 38lbs / 17kg
 - Battery Life: 18 hours
 - Aux Input: Yes
@@ -88,7 +88,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Quite neutral sound, pretty deep bass.
 - Negatives: A slight peak in the upper mids. Slight TWS issue where the 2nd is slightly delayed. Just as loud and slightly deeper bass than a Stormbox Blast which is way smaller with better sound quality. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Bass Extension: 41hz (-10db)
+- Bass Extension: 41hz (-10dB)
 - Weight: 21lbs / 9.7kg
 - Battery Life: 12 hours
 - Aux Input: Yes
@@ -122,7 +122,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Very neutral sound, slightly better than the Partybox 100.
 - Negatives: Bass isn't as deep as the Partybox 100. Just as loud and slightly deeper than a Stormbox Blast which is way smaller with better sound. Increase treble one step in the app to make it more neutral. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Bass Extension: 41hz (-10db)
+- Bass Extension: 41hz (-10dB)
 - Weight: 24lbs / 10.8kg
 - Battery Life: 12 hours
 - Aux Input: Yes
@@ -146,7 +146,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #6 JBL Partybox 300: $300
 
 - Negatives: Hard to carry, too tall, drags on the ground. Max spl and bass extension are only as good as the Partybox 100. No real reason to ever get one, get a Partybox 100 instead. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Bass Extension: 40hz (-10db)
+- Bass Extension: 40hz (-10dB)
 - Weight: 35lbs / 16kg
 - Battery Life: 18 hours
 - Aux Input: Yes
@@ -170,7 +170,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Good midrange and treble.
 - Negatives: Not stereo. Only IP44 with the rain cover installed. Designed for more loudness than deeper bass.
 - Max Volume: 121db
-- Bass Extension: 50hz (-10db)
+- Bass Extension: 50hz (-10dB)
 - Weight: 17lbs / 8kg
 - Battery Life: 12 hours
 - Microphone Input: Yes
@@ -193,7 +193,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo. Designed for more loudness than deeper bass.
 - Max Volume: 109db
-- Bass Extension: 55hz (-10db)
+- Bass Extension: 55hz (-10dB)
 - Weight: 14.4lbs / 6.5kg
 - Battery Life: 11 hours
 - Aux Input: Yes
@@ -240,7 +240,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #10 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325): $400
 
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
-- Bass Extension: 50hz (-10db)
+- Bass Extension: 50hz (-10dB)
 - Weight: 37.3 lbs / 16.9kg
 - Battery Life: 25 hours
 - Aux Input: Yes
@@ -261,7 +261,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #11 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325): $300
 
 - Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
-- Bass Extension: 42hz (-10db)
+- Bass Extension: 42hz (-10dB)
 - Weight: 24.7lbs / 11.2kg
 - Battery Life: 20 hours
 - Aux Input: Yes
@@ -322,7 +322,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass. Battery latch breaks easily. Handle on top also can break off. Not very deep bass
 - Max Volume: 115db
-- Bass Extension: 50hz (-10db)
+- Bass Extension: 50hz (-10dB)
 - Weight: 17.6lbs / 8kg
 - Battery Life: 12 hours
 - Microphone Input: Yes
@@ -363,7 +363,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
 - Max Volume: 115db
-- Bass Extension: ~52hz (-10db)
+- Bass Extension: ~52hz (-10dB)
 - Weight: 32.0lbs / 14.5kg
 - Battery Life: 30 hours
 - Aux Input: Yes
@@ -383,7 +383,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Max Volume: 126db
-- Bass Extension: 52hz (-10db)
+- Bass Extension: 52hz (-10dB)
 - Weight: 34lbs / 15.4kg
 - Battery Life: 40 hours
 - Aux Input: Yes
@@ -407,7 +407,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: 2nd loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Max Volume: 126db
-- Bass Extension: 52hz (-10db)
+- Bass Extension: 52hz (-10dB)
 - Weight: 34lbs / 15.4kg
 - Battery Life: 40 hours
 - Aux Input: Yes
@@ -451,7 +451,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #20 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325): $450
 
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
-- Bass Extension: 55hz (-10db)
+- Bass Extension: 55hz (-10dB)
 - Weight: 13lbs / 5.9kg
 - Battery Life: 24 hours
 - Aux Input: Yes
@@ -469,7 +469,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Removable 40 hour battery.
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Max Volume: 121db
-- Bass Extension: 55hz (-10db)
+- Bass Extension: 55hz (-10dB)
 - Weight: 20lbs / 9kg
 - Battery Life: 40 hours
 - Aux Input: Yes
@@ -512,7 +512,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #24 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325): $580
 
 - Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
-- Bass Extension: ~45hz (-10db)
+- Bass Extension: ~45hz (-10dB)
 - Weight: 16.4lbs / 7.44kg
 - Battery Life: No battery
 - Aux Input: Yes
@@ -526,7 +526,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #25 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325): $430
 
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
-- Bass Extension: ~47hz (-10db)
+- Bass Extension: ~47hz (-10dB)
 - Weight: 18.9lbs / 8.57kg
 - Battery Life: No battery
 - Aux Input: Yes
@@ -539,7 +539,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #26 Marshall Woburn I: $500
 
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
-- Bass Extension: ~50hz (-10db)
+- Bass Extension: ~50hz (-10dB)
 - Weight: 17.4lbs / 7.9kg
 - Battery Life: No battery
 - Aux Input: Yes
@@ -565,7 +565,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 94db
-- Bass Extension: ~45hz (-10db)
+- Bass Extension: ~45hz (-10dB)
 - Weight: 9lbs / 4.1kg
 - Battery Life: No battery
 - Aux Input: Yes
@@ -582,7 +582,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 91db
-- Bass Extension: ~53hz (-10db)
+- Bass Extension: ~53hz (-10dB)
 - Weight: 7.7lbs / 3.5kg
 - Battery Life: 16 hours
 - Aux Input: Yes
@@ -610,7 +610,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #31 dB technologies B-Hype M: $450
 
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
-- Bass Extension: 62hz (-10db)
+- Bass Extension: 62hz (-10dB)
 - Weight: 27lbs / 12.5kg
 - Battery Life: 4 hours
 - Aux Input: Yes
@@ -625,7 +625,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #32 Onn Large Party gen 1: $100
 
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 23.1lbs / 10.5kg
 - Battery Life: 13 hours
 - TWS: Yes
@@ -642,7 +642,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #33 Philips NX200
 
 - Negatives: No deep bass, mids are a little harsh
-- Bass Extension: ~55hz (-10db)
+- Bass Extension: ~55hz (-10dB)
 - Weight: 17lbs / 7.7kg
 - Battery Life: 14 hours
 - Aux Input: Yes
@@ -657,7 +657,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not as deep bass as others in the class
 - Weight: 22.5lbs / 10.2kg
-- Bass Extension: ~57hz (-10db)
+- Bass Extension: ~57hz (-10dB)
 - Battery Life: 10 hours
 - Aux Input: Yes
 - Power Bank: Yes
@@ -671,7 +671,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
-- Bass Extension: ~57hz (-10db)
+- Bass Extension: ~57hz (-10dB)
 - Weight: 14.3lbs / 6.5kg
 - Aux Input: Yes
 - Power Bank: Yes
@@ -685,7 +685,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #36 Sharp PS-929: $150
 
 - Negatives: Not very deep bass
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 19lbs / 8.6kg
 - Charging: AC Power cord
 - Comparisons and Sound Samples
@@ -697,7 +697,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #37 Soundcore Rave+: $240
 
 - Negatives: Pretty big lack of deep bass
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 7.7lbs / 3.49kg
 - Battery Life: 24 hours
 - Aux Input: Yes
@@ -712,7 +712,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #38 Soundcore Rave: $220
 
 - Negatives: Pretty big lack of deep bass, treble rolled off
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 21.6lbs / 9.8kg
 - Battery Life: 24 hours
 - Aux Input: Yes
@@ -724,7 +724,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #39 Sony GTK-XB90
 
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
-- Bass Extension: ~50hz (-10db)
+- Bass Extension: ~50hz (-10dB)
 - Weight: 30.8lbs / 14kg
 - Battery Life: 16 hours
 - Aux Input: Yes
@@ -739,7 +739,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #40 Sony GTK-XB72
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
-- Bass Extension: ~56hz (-10db)
+- Bass Extension: ~56hz (-10dB)
 - Weight: 27lbs / 12.2kg
 - Battery Life: 23 hours
 - Aux Input: Yes
@@ -753,7 +753,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #41 Sony GTK-XB60
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 17.64lbs / 8kg
 - Battery Life: 14 hours
 - Aux Input: Yes
@@ -769,7 +769,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #42 Altec Lansing AL500: $200
 
 - Negatives: Not very deep bass
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 14.4lbs / 6.5kg
 - Aux Input: Yes
 - TWS: Yes
@@ -784,7 +784,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 11.8lbs / 5.4kg
 - Battery Life: 6 hours
 - Aux Input: Yes

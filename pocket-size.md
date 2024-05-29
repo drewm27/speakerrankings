@@ -14,7 +14,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
 - Max Volume: 96db
-- Bass Extension: 59hz (-10db)
+- Bass Extension: 59hz (-10dB)
 - Weight: 0.7lbs / 317g
 - Battery Life: 12 hours
 - Latency: 265ms
@@ -47,7 +47,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
 - Max Volume: 92db
-- Bass Extension: 58hz (-10db)
+- Bass Extension: 58hz (-10dB)
 - Weight: 0.71lbs / 320g
 - Battery Life: 12 hours
 - Aux Latency: 0ms
@@ -71,7 +71,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
 - Max Volume: 92db
-- Bass Extension: 58hz (-10db)
+- Bass Extension: 58hz (-10dB)
 - Weight: 0.69lbs / 314g
 - Battery Life: 10 hours
 - Power Bank: No
@@ -91,7 +91,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Max Volume: 93db
-- Bass Extension: 62hz (-10db)
+- Bass Extension: 62hz (-10dB)
 - Weight: 0.65lbs / 295g
 - Battery Life: 8 hours
 - Power Bank: No
@@ -116,7 +116,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - Max Volume: 87db
-- Bass Extension: 58hz (-10db)
+- Bass Extension: 58hz (-10dB)
 - Weight: 0.55lbs / 249g
 - Battery Life: 15 hours
 - Power Bank: No
@@ -135,7 +135,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - Max Volume: 87db
-- Bass Extension: 58hz (-10db)
+- Bass Extension: 58hz (-10dB)
 - Weight: 0.55lbs / 249g
 - Battery Life: 15 hours
 - Latency: 160ms
@@ -156,7 +156,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
-- Bass Extension: 73hz (-10db)
+- Bass Extension: 73hz (-10dB)
 - Weight: 0.66lbs / 300g
 - Battery Life: 12 hours
 - Power Bank: No
@@ -174,7 +174,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - Max Volume: 88db
-- Bass Extension: 75hz (-10db)
+- Bass Extension: 75hz (-10dB)
 - Weight: 0.68lbs / 309g
 - Battery Life: 15 hours
 - Power Bank: No
@@ -198,7 +198,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Negatives: Lack of clarity. Overly boosted bass
 - Max Volume: 90db
-- Bass Extension: 66hz (-10db)
+- Bass Extension: 66hz (-10dB)
 - Weight: 0.64lbs / 289g
 - Battery Life: 6 hours
 - Power Bank: No
@@ -238,7 +238,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Loudest pocket speaker by a little.
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - Max Volume: 97db
-- Bass Extension: 69hz (-10db)
+- Bass Extension: 69hz (-10dB)
 - Weight: 0.86lbs / 390g
 - Battery Life: 25 hours
 - Power Bank: No
@@ -258,7 +258,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Negatives: Quite a lack of bass. Not very loud.
 - Max Volume: 79db
-- Bass Extension: 80hz (-10db)
+- Bass Extension: 80hz (-10dB)
 - Weight: 0.53lbs / 239g
 - Battery Life: 10 hours
 - Power Bank: No
@@ -278,7 +278,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
-- Bass Extension: ~82hz (-10db)
+- Bass Extension: ~82hz (-10dB)
 - Weight: 0.42lbs / 190g
 - Battery Life: 7 hours
 - Power Bank: No
@@ -300,7 +300,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Negatives: Not much bass at all, strange mids peak.
 - Max Volume: 88db
-- Bass Extension: 87hz (-10db)
+- Bass Extension: 87hz (-10dB)
 - Weight: 0.46lbs / 209g
 - Battery Life: 5 hours
 - Power Bank: No
@@ -338,7 +338,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Negatives: Not much bass. Muddy sounding.
 - Max Volume: 88db
-- Bass Extension: 88hz (-10db)
+- Bass Extension: 88hz (-10dB)
 - Weight: 0.56lbs / 255g
 - Battery Life: 16 hours
 - Power Bank: No
@@ -357,7 +357,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #17 JBL Clip: $50
 
 - Negatives: Quite a lack of bass. Mids are a little hollow.
-- Bass Extension: ~95hz (-10db)
+- Bass Extension: ~95hz (-10dB)
 - Weight: 0.35lbs / 158g
 - Power Bank: No
 - Battery Life: 5 hours
@@ -376,7 +376,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
-- Bass Extension: ~100hz (-10db)
+- Bass Extension: ~100hz (-10dB)
 - Weight: 0.5lb / 227g
 - Battery Life: 10 hours
 - Power Bank: No
@@ -418,7 +418,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - Max Volume: 93db
-- Bass Extension: 97hz (-10db)
+- Bass Extension: 97hz (-10dB)
 - Weight: 0.54lbs / 243g
 - Battery Life: 16 hours
 - Latency: 240ms
@@ -437,7 +437,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 ### #22 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl): $51
 - Negatives: Not much bass at all. Not very loud. Only IPX5, not submersible. Short battery life.
-- Bass Extension: ~90hz (-10db)
+- Bass Extension: ~90hz (-10dB)
 - Weight: 0.41lbs / 187g
 - Battery Life: 8 hours
 - Charging: USB-C
@@ -465,7 +465,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
-- Bass Extension: 105hz (-10db)
+- Bass Extension: 105hz (-10dB)
 - Weight: 0.55lbs / 251g
 - Battery Life: 10 hours
 - TWS: No
@@ -478,7 +478,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
-- Bass Extension: ~220hz (-10db)
+- Bass Extension: ~220hz (-10dB)
 - Weight: 0.32lbs / 145g
 - Battery Life: 12 hours
 - TWS: Yes

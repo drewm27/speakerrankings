@@ -36,7 +36,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
 - Max Volume: 103db
-- Bass Extension: 47hz (-10db)
+- Bass Extension: 47hz (-10dB)
 - Weight: 3.13lbs / 1.42kg
 - Battery Life: 30 hours
 - Latency: 60ms
@@ -63,7 +63,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
-- Bass Extension: 47hz (-10db)
+- Bass Extension: 47hz (-10dB)
 - Weight: 3.0lbs / 1.36kg
 - Battery Life: 40 hours
 - Power Bank: No
@@ -80,7 +80,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Generally regarded as the best midrange and treble sound quality of any battery powered Bluetooth speaker.
 - Negatives: Would be #1 if it wasn't for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. There are mentions that the 2022 "new" version of this speaker doesn't sound as good.
-- Bass Extension: 48hz (-10db)
+- Bass Extension: 48hz (-10dB)
 - Weight: 3.1lbs / 1.4kg
 - Battery Life: 8 hours
 - Aux Input: Yes
@@ -105,7 +105,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #5 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
 
 - Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
-- Bass Extension: 50hz (-10db)
+- Bass Extension: 50hz (-10dB)
 - Weight: 5.29lbs / 2.4kg
 - Battery Life: 8 hours
 - Aux Input: Yes
@@ -128,7 +128,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: A really neutral frequency response across the midrange. Best in class bass extension. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifalife.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn't very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
 - Negatives: No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn't textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
 - Max Volume: 106db
-- Bass Extension: 45hz (-10db)
+- Bass Extension: 45hz (-10dB)
 - Weight: 3.42lbs / 1.55kg
 - Battery Life: 24 hours
 - Latency: 185ms
@@ -155,7 +155,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Max Volume: 105db
 - Latency: 125ms
-- Bass Extension: 47hz (-10db)
+- Bass Extension: 47hz (-10dB)
 - Aux Input: No
 - MicroSD: No
 - Power Bank: Yes
@@ -181,7 +181,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
 - Max Volume: 96db
-- Bass Extension: 44hz (-10db)
+- Bass Extension: 44hz (-10dB)
 - Weight: 3.0lbs / 1.4kg
 - Battery Life: 20 hours
 - Latency: 50ms
@@ -219,7 +219,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Decently neutral speaker after EQ is applied. Slight DSP issue which makes bass get lighter at times at very low volumes. Try [Oluv's EQ](https://ibb.co/wNFwQ1h) for a more neutral sound.
 - Negatives: Not as neutral or detailed as other top ranked speakers
 - Max Volume: 106db
-- Bass Extension: 53hz (-10db)
+- Bass Extension: 53hz (-10dB)
 - Latency: 170ms
 - Weight: 3.4lbs / 1.5kg
 - Battery Life: 24 hours
@@ -280,7 +280,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Better treble and deeper bass than the Xtreme 2. More balanced sounding than the Xtreme 4
 - Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
 - Max Volume: 105db
-- Bass Extension: 53hz (-10db)
+- Bass Extension: 53hz (-10dB)
 - Weight: 4.03lbs / 1.83kg
 - Battery Life: 15 hours
 - Latency: 133ms
@@ -323,7 +323,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Firmware 4.2.9 is a big improvement in sound quality over previous releases. Try this [Oluv EQ for the best sound quality](https://www.patreon.com/oluvsgadgets/shop/soundcore-motion-x600-eq-settings-106961)
 - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn't very deep and the sound is still a little unnatural.
 - Max Volume: 104db
-- Bass Extension: 52hz (-10db)
+- Bass Extension: 52hz (-10dB)
 - Weight: 5.17lbs / 2.35kg
 - Latency: 83ms
 - Aux Latency: 0ms
@@ -347,7 +347,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: A big improvement in sound quality over the original Rave Neo. Use bass up at higher volumes, but turn it off for lower volumes.
 - Negatives: Slight treble rolloff
 - Max Volume: 107db
-- Bass Extension: 44hz (-10db)
+- Bass Extension: 44hz (-10dB)
 - Weight: 7.94lbs / 3.6kg
 - Battery Life: 18 hours
 - Power Bank: Yes
@@ -364,7 +364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #17 Teufel Rockster Cross: 350 €
 
 - Positives: Pretty neutral frequency response. Outdoor mode can sound somewhat harsh due to the 4khz peak.
-- Bass Extension: 51hz (-10db)
+- Bass Extension: 51hz (-10dB)
 - Weight: 5.3lbs / 2.4kg
 - TWS: Yes
 - Battery Life: 16 hours
@@ -403,7 +403,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
 - Max Volume: 96db
 - Weight: 4.96lbs / 2.3kg
-- Bass Extension: 45hz (-10db)
+- Bass Extension: 45hz (-10dB)
 - Battery Life: 16 hours
 - Power Bank: Yes
 - IP Rating: IPX5
@@ -426,7 +426,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Warm sounding with somewhat rolled off treble.
 - Negatives: Not stereo. Not as deep bass as others in the category, less bass extension than an Xtreme 2. Pumping and compression artifacts at higher volume. Not very loud.
 - Max Volume: 92db
-- Bass Extension: 49hz (-10db)
+- Bass Extension: 49hz (-10dB)
 - Weight: 6.61lbs / 3kg
 - Wifi: Yes
 - Battery Life: 11 hours
@@ -465,7 +465,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #23 [Xdobo Bucket /BMTL Bucket / Zicoroop Ts](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl): $60
 - Positives: Sounds quite good for the price. A little difficult to rank based on the sound samples, this one could move around as we get better samples.
 - Negatives: Dip from 120-180hz, a little bass boosted. Muffled with cover on.
-- Bass Extension: ~47hz (-10db)
+- Bass Extension: ~47hz (-10dB)
 - Weight: 2.69lbs / 1.22kg
 - USB Playback: Yes
 - Battery Life: 15 hours
@@ -506,7 +506,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
 - Max Volume: 106db
-- Bass Extension: 47hz (-10db)
+- Bass Extension: 47hz (-10dB)
 - Weight: 10.1lbs / 4.6kg
 - Battery Life: 24 hours
 - Aux Input: Yes
@@ -543,7 +543,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Small, nice looking.
 - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
 - Max Volume: 95db
-- Bass Extension: 47hz (-10db)
+- Bass Extension: 47hz (-10dB)
 - Weight: 5.1lbs / 2.3kg
 - Battery Life: 10 hours
 - IP Rating: IPX4
@@ -561,7 +561,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
 - Max Volume: 99db
-- Bass Extension: 53hz (-10db)
+- Bass Extension: 53hz (-10dB)
 - Weight: 6.5 lbs / 2.95kg
 - Latency: 85ms
 - Battery Life: 24 hours
@@ -581,7 +581,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Decent sounding.
 - Negatives: Slightly recessed mids. Distorted at high volumes.
 - Max Volume: 101db
-- Bass Extension: 49hz (-10db)
+- Bass Extension: 49hz (-10dB)
 - Weight: 5.36lbs / 2.43kg
 - Battery Life: 24 hours
 - Aux Input: Yes
@@ -600,7 +600,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
 - Max Volume: 98db
-- Bass Extension: 54hz (-10db)
+- Bass Extension: 54hz (-10dB)
 - Weight: 5.3lbs / 2.4kg
 - Battery Life: 15 hours
 - Party Mode: Yes (Connect+ up to 100 speakers)
@@ -644,7 +644,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Has a lantern with adjustable brightness and color temperature.
 - Negatives: Sound competes more with the Medium size speakers as the light takes up half the space. Peak at 5khz and dip at 3khz, not quite neutral. Not as deep of bass as others in the category.
 - Max Volume: 97db
-- Bass Extension: 66hz (-10db)
+- Bass Extension: 66hz (-10dB)
 - Weight: 3.3lbs / 1.5kg
 - Battery Life: 38 hours
 - Power Bank: Yes
@@ -672,7 +672,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: 7khz upper mids peak. Upper bass boosted
 - Max Volume: 104db
 - Battery Life: 16 hours
-- Bass Extension: 49hz (-10db)
+- Bass Extension: 49hz (-10dB)
 - Weight: 9.0 lbs / 4.1kg
 - Aux Input: Yes
 - Comparisons and Sound Samples
@@ -684,7 +684,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not a very smooth frequency response. Treble is peaky. Boosted upper bass.
 - Max Volume: 104db
-- Bass Extension: 49hz (-10db)
+- Bass Extension: 49hz (-10dB)
 - Weight: 6.0 lbs / 2.72kg
 - Battery Life: 18 hours
 - Aux Input: Yes
@@ -716,7 +716,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Very deep bass for the size/weight.
 - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall's added dsp echo which cannot be turned off, very distracting and annoying. It's like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
 - Max Volume: 99db
-- Bass Extension: 39hz (-10db)
+- Bass Extension: 39hz (-10dB)
 - Weight: 4.0lbs / 1.8kg
 - Battery Life: 20 hours
 - Aux Input: Yes
@@ -734,7 +734,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: A little hollow sounding.
 - Max Volume: 100db
-- Bass Extension: 55hz (-10db)
+- Bass Extension: 55hz (-10dB)
 - Weight: 1.23lbs / 557g
 - Battery Life: 10 hours
 - Aux Input: Yes
@@ -767,7 +767,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #41 [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325): $198
 
 - Negatives: Overly expensive. Bass not as deep as competitors. Upper mids peak. Hollow sounding. Rolled off treble. Not much clarity. Does not float. Speaker will not remain at max volume and will turn itself down automatically.
-- Bass Extension: 54hz (-10db)
+- Bass Extension: 54hz (-10dB)
 - Weight: 6.6lbs / 3kg
 - Battery Life: 25 hours
 - Aux Input: Yes
@@ -785,7 +785,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #42 Xdobo X8 Max: $73
 
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
-- Bass Extension: ~52hz (-10db)
+- Bass Extension: ~52hz (-10dB)
 - Weight: 6.3lbs / 2.86kg
 - Battery Life: 15 hours
 - Aux Input: Yes
@@ -799,7 +799,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #43 [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325): $300
 
 - Negatives: Not very deep bass for the size. Gets distorted at around 70-80% with bass thuds.
-- Bass Extension: ~55hz (-10db)
+- Bass Extension: ~55hz (-10dB)
 - Weight: 4.3lbs / 1.97kg
 - Max Volume: 94db
 - Battery Life: 17 hours
@@ -828,7 +828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not very deep bass, peaks in midrange. Hugely expensive.
 - Max Volume: 96db
-- Bass Extension: ~60hz (-10db)
+- Bass Extension: ~60hz (-10dB)
 - Weight: 7.3lbs / 3.3kg
 - Battery Life: 16 hours
 - Aux Input: Yes
@@ -841,7 +841,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #46 Ultimate Ears Megablast: $240
 
 - Negatives: Bass is not very deep compared to the competition
-- Bass Extension: 64hz (-10db)
+- Bass Extension: 64hz (-10dB)
 - Weight: 2.4lbs / 1.1kg
 - Battery Life: 16 hours
 - Links
@@ -886,7 +886,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
 - Max Volume: 102db
-- Bass Extension: ~58hz (-10db)
+- Bass Extension: ~58hz (-10dB)
 - Weight: 5.5lbs / 2.49kg
 - Battery Life: 20 hours
 - Aux Input: Yes
@@ -899,7 +899,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Muddy with treble rolloff.
 - Max Volume: 106db
-- Bass Extension: 60hz (-10db)
+- Bass Extension: 60hz (-10dB)
 - Weight: 7.7lbs / 3.49kg
 - Battery Life: 18 hours
 - Aux Input: Yes
@@ -917,7 +917,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Very rolled off treble.
 - Max Volume: 106db
-- Bass Extension: 47hz (-10db)
+- Bass Extension: 47hz (-10dB)
 - Weight: 4.4lbs / 2.0kg
 - Battery Life: 40 hours
 - Aux Input: Yes
@@ -942,7 +942,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #54 Laney F67: $340
 
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
-- Bass Extension: ~62hz (-10db)
+- Bass Extension: ~62hz (-10dB)
 - Weight: 6.1lbs / 2.8kg
 - Battery Life: 20 hours
 - IP Rating: None
@@ -982,7 +982,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #58 Hopestar A6: $86
 
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
-- Bass Extension: 63hz (-10db)
+- Bass Extension: 63hz (-10dB)
 - Battery Life: 4 hours
 - Aux Input: Yes
 - Power Bank: Yes
@@ -993,7 +993,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Hugely recessed mids and treble
 - Max Volume: 97db
-- Bass Extension: 63hz (-10db)
+- Bass Extension: 63hz (-10dB)
 - Weight: 7.72lbs / 3.5kg
 - Battery Life: 18 hours
 - Aux Input: Yes
@@ -1016,7 +1016,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Rolled off treble, barely any bass
 - Weight: 5.58lbs / 2.53kg
-- Bass Extension: 65hz (-10db)
+- Bass Extension: 65hz (-10dB)
 - Weight: 5.57lbs / 2.52kg
 - Battery Life: 30 hours
 - Power Bank: Yes
