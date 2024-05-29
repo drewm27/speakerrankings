@@ -12,60 +12,60 @@ I've also been to headphone demo shows and have listened to almost all of the po
 My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. 
 
 ###### Current Portable Bluetooth speakers
-1. JBL Partybox 310
-1. 2 Tribit Stormbox Blast
-1. Soundcore Motion Boom Plus
-1. Mifa Wildbox
-1. 2 Soundcore Motion Boom
-1. Mifa Wildcamping
-1. 2 Earfun Uboom L
-1. 2 Soundcore Motion+
-1. Soundcore Motion 300
-1. Tribit Stormbox Micro 2
+- JBL Partybox 310
+- 2 Tribit Stormbox Blast
+- Soundcore Motion Boom Plus
+- Mifa Wildbox
+- 2 Soundcore Motion Boom
+- Mifa Wildcamping
+- 2 Earfun Uboom L
+- 2 Soundcore Motion+
+- Soundcore Motion 300
+- Tribit Stormbox Micro 2
 
 ###### Past Portable Bluetooth speakers
-1. 1 JBL Partybox 100
-1. Vifa Helsinki
+- 1 JBL Partybox 100
+- Vifa Helsinki
 
 ###### My headphone collection includes
-1. [Sennheiser HD 6xx (Sennheiser HD650)](https://www.amazon.com/Sennheiser-HD-650-Professional-Headphone/dp/B00018MSNI/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e101e3168afc0133d8a2e8309182ef8b&camp=1789&creative=9325)
-1. Hifiman HE-400i
-1. [Hifiman HE-560](https://www.amazon.com/HIFIMAN-HE-560-Premium-Magnetic-Headphones/dp/B00LMSR5OS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=893ab614dadd68d28e0dca31da86b6f5&camp=1789&creative=9325)
-1. JDS Labs OL Dac
-1. [JDS Labs O2 Headphone Amplifier](https://jdslabs.com/product/objective2/)
-1. [Earfun Free Pro 2](https://www.amazon.com/Earbuds-Free-Pro-Cancelling-Bluetooth/dp/B09JWMJ7PW/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a00ae141c6dfec0ae78e42151329d561&camp=1789&creative=9325") (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd)
-1. Earfun Free Pro (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd)
-1. Fiil T1 Pro
-1. Altec Lansing inMotion IM616 (Etymotic ER6i rebrand)
+- [Sennheiser HD 6xx (Sennheiser HD650)](https://www.amazon.com/Sennheiser-HD-650-Professional-Headphone/dp/B00018MSNI/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e101e3168afc0133d8a2e8309182ef8b&camp=1789&creative=9325)
+- Hifiman HE-400i
+- [Hifiman HE-560](https://www.amazon.com/HIFIMAN-HE-560-Premium-Magnetic-Headphones/dp/B00LMSR5OS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=893ab614dadd68d28e0dca31da86b6f5&camp=1789&creative=9325)
+- JDS Labs OL Dac
+- [JDS Labs O2 Headphone Amplifier](https://jdslabs.com/product/objective2/)
+- [Earfun Free Pro 2](https://www.amazon.com/Earbuds-Free-Pro-Cancelling-Bluetooth/dp/B09JWMJ7PW/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a00ae141c6dfec0ae78e42151329d561&camp=1789&creative=9325") (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd)
+- Earfun Free Pro (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd)
+- Fiil T1 Pro
+- Altec Lansing inMotion IM616 (Etymotic ER6i rebrand)
 
 ###### Previous headphones included
-1. [Sennheiser HD 280 pro](https://www.amazon.com/Sennheiser-Professional-Over-Ear-Monitoring-Headphones/dp/B00IT0IHOY/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dbc89df049cb5804ed7186dd8fc68e0d&camp=1789&creative=9325")
-1. Anbes 359
-1. Fiil T1X
-1. Mpow M5
+- [Sennheiser HD 280 pro](https://www.amazon.com/Sennheiser-Professional-Over-Ear-Monitoring-Headphones/dp/B00IT0IHOY/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dbc89df049cb5804ed7186dd8fc68e0d&camp=1789&creative=9325")
+- Anbes 359
+- Fiil T1X
+- Mpow M5
 
 ###### Current audio systems include
-1. 4x [GR-Research X-Statik](https://gr-research.com/product/x-statik-kit/) floorstander speakers (2 with upgraded crossovers including Sonicaps)
-1. [GR-Research X-Voce](https://gr-research.com/product/x-voce-kit/) center channel
-1. 2x Dual 15” Epik Empire Subwoofers
-1. Arcam AVR600 receiver
-1. Arcam FMJ DV27A DVD-Audio player
-1. [GR-Research LGK 1.0](https://gr-research.com/product/lgk-2-0/)
-1. Arcam AVR300 receiver
+- 4x [GR-Research X-Statik](https://gr-research.com/product/x-statik-kit/) floorstander speakers (2 with upgraded crossovers including Sonicaps)
+- [GR-Research X-Voce](https://gr-research.com/product/x-voce-kit/) center channel
+- 2x Dual 15” Epik Empire Subwoofers
+- Arcam AVR600 receiver
+- Arcam FMJ DV27A DVD-Audio player
+- [GR-Research LGK 1.0](https://gr-research.com/product/lgk-2-0/)
+- Arcam AVR300 receiver
 
 ###### Past audio systems included
-1. 2x AV123 Rocket RS850
-1. AV123 Rocket RSC200
-1. 2x AV123 Rocket RS450 with risers
-1. Hsu Research VTF-3 mk3
-1. 4x B&W 702s2
-1. B&W CC6
-1. B&W ASW750
-1. NHT Sub Zero
-1. Event 20/20
-1. Infinity RS-IIIb
-1. Infinity Reference One
-1. DCM TimeFrame TF-350
+- 2x AV123 Rocket RS850
+- AV123 Rocket RSC200
+- 2x AV123 Rocket RS450 with risers
+- Hsu Research VTF-3 mk3
+- 4x B&W 702s2
+- B&W CC6
+- B&W ASW750
+- NHT Sub Zero
+- Event 20/20
+- Infinity RS-IIIb
+- Infinity Reference One
+- DCM TimeFrame TF-350
 
 
 
