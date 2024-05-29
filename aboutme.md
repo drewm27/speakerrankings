@@ -24,7 +24,7 @@ My degree is in Electrical Engineering and Computer science and I am quite famil
 - [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
 
 ###### Past Portable Bluetooth speakers
-- 2 [JBL Partybox 100]((https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325)
+- 2 [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325)
 - [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325)
 
 ###### Current headphones
