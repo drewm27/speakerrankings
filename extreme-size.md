@@ -59,6 +59,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=TOACab8wPxw>
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
     - <https://www.youtube.com/watch?v=BVfi7YvlMRg>
+    - <https://www.youtube.com/watch?v=qQ34Z6813oM>
+    - <https://www.youtube.com/watch?v=1MHvBEahqNs>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX310-.html)
 
