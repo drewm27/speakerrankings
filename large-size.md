@@ -271,6 +271,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Charging: USB-C
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=GnSjq7JxJ-Q>
     - <https://www.youtube.com/watch?v=GDY_z3HNO1s>
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html)
