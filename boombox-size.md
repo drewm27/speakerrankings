@@ -476,7 +476,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
     - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
 
-### #22 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl): $210 after coupon at [Soundcore.com](soundcore.sjv.io/Or7BxP) (Coupon code US: AFF3134US40, CA: AFF3134CA50, UK: AFF3134UK40 until 6/30/2024)
+### #22 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl): $210 after coupon at [Soundcore.com](https://soundcore.sjv.io/Or7BxP) (Coupon code US: AFF3134US40, CA: AFF3134CA50, UK: AFF3134UK40 until 6/30/2024)
 - Positives: Quite a bit lighter than most of the other boombox size speakers. This speaker may move around as we get better sound samples and a good EQ tune.
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - Weight: 8.4lbs / 3.8kg
@@ -494,7 +494,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=uhkRccBkVuk>
     - <https://www.youtube.com/watch?v=-R6eOb3r-o0>
 - Links
-    - [Official Product Page](soundcore.sjv.io/Or7BxP)
+    - [Official Product Page](https://soundcore.sjv.io/Or7BxP)
 
 ### #23 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325): $125
 

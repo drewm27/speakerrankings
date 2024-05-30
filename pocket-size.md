@@ -150,7 +150,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 - Links
-    - [Official Product Page](soundcore.sjv.io/R5MR1b)
+    - [Official Product Page](https://soundcore.sjv.io/R5MR1b)
 
 ### #7 [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
 
