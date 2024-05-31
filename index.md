@@ -47,7 +47,7 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). 
 
-Come join us on reddit in [r/WirelessSpeakers](https://www.reddit.com/r/WirelessSpeakers/)
+Come join us on Reddit in [r/WirelessSpeakers](https://www.reddit.com/r/WirelessSpeakers/)
 
 Thanks for stopping by!
 
