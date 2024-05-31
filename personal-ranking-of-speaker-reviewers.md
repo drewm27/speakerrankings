@@ -16,7 +16,7 @@ I only use and link videos that either have useful well recorded sound samples o
 1. <https://www.youtube.com/@alanrossreviews>
     - Good recording quality, lots of speaker comparisons, a pretty good ability to properly rank speakers. He has some slight issues differentiating between boosted bass and deeper bass which is common among people who haven’t built up an extremely trained ear. He also prefers a slightly warm, not neutral sound and expresses that in many videos.
 1. <https://www.youtube.com/@M1MTechChannel>
-    - Good recording quality
+    - Good recording quality, good comparisons of a lot of bigger speakers. All videos in German.
 1. <https://www.youtube.com/@DLXWillington>
     - Reasonable recordings, good picks of larger speakers
 1. <https://www.youtube.com/@Jagistreviews>
