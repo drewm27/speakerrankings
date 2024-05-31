@@ -1,0 +1,6 @@
+#/bin/bash
+
+set -e
+
+# Check for incorrect urls
+grep '](' *md|grep -v README.md|grep -v '(http'|grep -v '(/'
