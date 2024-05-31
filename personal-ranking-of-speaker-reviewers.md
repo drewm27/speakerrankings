@@ -72,26 +72,29 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #21 [DigitalSlang](https://www.youtube.com/@DigitalSlang)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #21 [geekanoids](https://www.youtube.com/@geekanoids)
+### #22 [geekanoids](https://www.youtube.com/@geekanoids)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #21 [raystrazdas](https://www.youtube.com/@raystrazdas)
+### #23 [raystrazdas](https://www.youtube.com/@raystrazdas)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #21 [TKBay](https://www.youtube.com/@TKBay)
+### #24 [TecHMoE](https://www.youtube.com/@TecHMoE)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #22 [StusReviewsUK](https://www.youtube.com/@StusReviewsUK)
+### #25 [TKBay](https://www.youtube.com/@TKBay)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #23 [KosherTech](https://www.youtube.com/@KosherTech)
+### #26 [StusReviewsUK](https://www.youtube.com/@StusReviewsUK)
+- Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
+
+### #27 [KosherTech](https://www.youtube.com/@KosherTech)
 - Pretty close to completely useless, his microphone doesn't pick up any bass at all
 
-### #24 [MaxTechOfficial](https://www.youtube.com/@MaxTechOfficial)
+### #28 [MaxTechOfficial](https://www.youtube.com/@MaxTechOfficial)
 - No Sound samples, comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #25 [PatrickRambles](https://www.youtube.com/@PatrickRambles)
+### #29 [PatrickRambles](https://www.youtube.com/@PatrickRambles)
 - No Sound samples, comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #26 [Techtablets](https://www.youtube.com/@Techtablets)
+### #30 [Techtablets](https://www.youtube.com/@Techtablets)
 - No Sound samples, comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.

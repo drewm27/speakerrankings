@@ -39,7 +39,7 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 
 - [Information About the Rankings](/information-about-the-rankings/)
 - [Information Applying to All Speakers](/information-applying-to-all-speakers/)
-- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 26 reviewers ranked
+- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 30 reviewers ranked
 - [Comments and Suggestions](/comments-suggestions/)
 - [Speakers to be Added](/speakers-to-be-added/)
 - [Issues I'm Working On](/issues-im-working-on/)
@@ -53,4 +53,4 @@ Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 05/30/2024
+Last updated 05/31/2024
