@@ -24,20 +24,20 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #5 [DLXWillington](https://www.youtube.com/@DLXWillington)
 - Reasonable recordings, good picks of larger speakers
 
-### #6 [Jagistreviews](https://www.youtube.com/@Jagistreviews)
+### #6 [JaysStraightUpReviews](https://www.youtube.com/@JaysStraightUpReviews)
+- Recordings done with a Sony Xperia I IV cell phone, not great audio quality, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
+
+### #7 [Jagistreviews](https://www.youtube.com/@Jagistreviews)
 - Reasonable recordings, good comparisons of a lot of speakers.
 
-### #7 [techderaudios](https://www.youtube.com/@techderaudios)
+### #8 [techderaudios](https://www.youtube.com/@techderaudios)
 - Reasonable recordings. Good comparisons of a lot of speakers.
 
-### #8 [pickyaudio](https://www.youtube.com/@pickyaudio)
+### #9 [pickyaudio](https://www.youtube.com/@pickyaudio)
 - Reasonable recordings. About the fairest reviews of speakers even with ones that are sponsored content. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #9 [ELJefeReviews](https://www.youtube.com/@ELJefeReviews)
+### #10 [ELJefeReviews](https://www.youtube.com/@ELJefeReviews)
 - Reasonable recordings. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
-
-### #10 [JaysStraightUpReviews](https://www.youtube.com/@JaysStraightUpReviews)
-- Recordings done with a Sony Xperia I IV cell phone, not great audio quality, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
 
 ### #11 [DannyPops](https://www.youtube.com/@DannyPops)
 - Seems to be recording speakers off axis, always has the microphone above the speaker. Prefers speakers that are fun, rather than neutral. Likely paid heavily by Marshall
