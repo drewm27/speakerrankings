@@ -31,7 +31,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Reasonable recordings. Good comparisons of a lot of speakers.
 
 ### #8 [pickyaudio](https://www.youtube.com/@pickyaudio)
-- Reasonable recordings. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
+- Reasonable recordings. About the fairest reviews of speakers even with ones that are sponsored content. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
 ### #9 [ELJefeReviews](https://www.youtube.com/@ELJefeReviews)
 - Reasonable recordings. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
