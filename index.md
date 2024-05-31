@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-I've been working on finding all the best powered speakers by ranking them by sound quality tested by trusted YouTube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got a total count of 322 speakers ranked.
+I've been working on finding all the best powered speakers by ranking them by sound quality tested by trusted YouTube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got a total count of 323 speakers ranked.
 
 Watching videos on YouTube to figure out the best speakers can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. All speakers below have their best sound samples and comparisons on YouTube linked.
 
@@ -17,7 +17,7 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 
 ### Portable Powered Bluetooth Speaker Rankings
 
-- [Pocket Size Bluetooth Speakers](/pocket-size/): 25 speakers ranked
+- [Pocket Size Bluetooth Speakers](/pocket-size/): 26 speakers ranked
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 108 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 63 speakers ranked
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 53 speakers ranked

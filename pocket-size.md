@@ -254,7 +254,23 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.mifa.net/productinfo/2606938.html)
 
-### #12 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
+### #12 [JBL Clip 5](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl): $80
+- Negatives: Generally more of the same from the Clip series in terms of sound but with more features. Basically about the same as the Clip 4
+- Weight: 0.86lbs / 390g
+- Battery Life: 12 hours
+- Power Bank: No
+- App: Yes
+- EQ: Yes
+- TWS: No
+- Party Mode: Yes (Auracast)
+- IP Rating: IP67
+- Charging: USB-C
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
+- Links
+    - [Official Product Page](https://hu.harmanaudio.com/CLIP-5.html)
+
+### #13 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
 
 - Negatives: Quite a lack of bass. Not very loud.
 - Max Volume: 79db
@@ -274,7 +290,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
 
-### #13 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
+### #14 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
 
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
@@ -296,7 +312,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
 
-### #14 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
+### #15 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
 - Negatives: Not much bass at all, strange mids peak.
 - Max Volume: 88db
@@ -315,7 +331,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
 
-### #15 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
+### #16 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.
 - Weight: 0.60lbs / 274g
@@ -334,7 +350,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxb100-b)
 
-### #16 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
+### #17 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Muddy sounding.
 - Max Volume: 88db
@@ -354,7 +370,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb13)
 
-### #17 JBL Clip: $50
+### #18 JBL Clip: $50
 
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - Bass Extension: ~95hz (-10dB)
@@ -372,7 +388,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/award-winners/JBL+CLIP.html)
 
-### #18 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
+### #19 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
 
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
@@ -390,7 +406,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CLIP+3.html)
 
-### #19 Xiaomi Mi Portable Outdoor
+### #20 Xiaomi Mi Portable Outdoor
 
 - Negatives: Not much bass, treble rolled off
 - Weight: 0.41lbs / 185g
@@ -401,7 +417,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=NwlwyofEYDM>
 
-### #20 Hopestar H54
+### #21 Hopestar H54
 
 - Negatives: Bright treble, not much bass, harsh mids
 - Battery Life: 5 hours
@@ -413,7 +429,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://hopestarshop.com/products/hopestar-h54-speaker)
 
-### #21 Sony SRS-XB12
+### #22 Sony SRS-XB12
 
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
@@ -435,7 +451,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
 
-### #22 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl): $51
+### #23 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl): $51
 - Negatives: Not much bass at all. Not very loud. Only IPX5, not submersible. Short battery life.
 - Bass Extension: ~90hz (-10dB)
 - Weight: 0.41lbs / 187g
@@ -448,7 +464,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://muzenaudio.com/products/wild-go-portable-rugged-wireless-bluetooth-speaker)
 
-### #23 Harman Kardon Esquire Mini 2: $100
+### #24 Harman Kardon Esquire Mini 2: $100
 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - Battery Life: 10 hours
@@ -461,7 +477,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
 
-### #24 Harman Kardon Neo: $90
+### #25 Harman Kardon Neo: $90
 
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
@@ -474,7 +490,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
 
-### #25 Lenovo 700 Ultraportable Bluetooth Speaker: $85
+### #26 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
