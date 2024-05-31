@@ -5,6 +5,8 @@ subtitle: Speaker Ranking
 comments: true
 ---
 
+Now moved to their own pages by size
+
 ### Bookshelf Powered Speaker Rankings
 
 - [Bookshelf Small Size Speakers](/bookshelf-small/)
