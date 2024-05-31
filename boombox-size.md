@@ -492,9 +492,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-R6eOb3r-o0>
+    - <https://www.youtube.com/watch?v=xmi183Y4LN0>
     - <https://www.youtube.com/watch?v=uhkRccBkVuk>
     - <https://www.youtube.com/watch?v=RBYF_I7TcZU>
-    - <https://www.youtube.com/watch?v=-R6eOb3r-o0>
 - Links
     - [Official Product Page](https://soundcore.sjv.io/Or7BxP)
 
