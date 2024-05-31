@@ -30,7 +30,7 @@ I only use and link videos that either have useful well recorded sound samples o
 1. <https://www.youtube.com/@CEONTHEMAKING>
     - Pretty good recording quality, not a great judge of speakers and rarely ever compares them. Looks to be sponsored by Soundcore, likely paid by them. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@PAINFULLYHONESTTECH>
-    - Using a vocal microphone to do speaker recordings is a big nono, they do not have a neutral frequency response. Was seen in a Soundcore advertisement and is likely very biased and paid by Soundcore. 
+    - Using a vocal microphone to do speaker recordings is a big nono, they do not have a neutral frequency response. Was seen in a Soundcore advertisement and is likely very biased and paid by Soundcore. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@storytripperhd>
     - Not great recording quality, done with a cell phone
 1. <https://www.youtube.com/@GYMCADDY>
@@ -42,7 +42,7 @@ I only use and link videos that either have useful well recorded sound samples o
 1. <https://www.youtube.com/@NewStuffTV1> and <https://www.youtube.com/@NewStuffTV2>
     - Not great recording quality, his microphone doesn't pick up any lower bass. Mostly interested in bass. Has been seen in Earfun and Soundcore advertisements on YouTube, likely paid by them. Appears to also be sponsored by Sony. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@FlossyCarter>
-    - Recording quality isn't very good, mostly interested in bass. Paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
+    - Recording quality isn't very good, mostly interested in bass. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@DigitalSlang>
     - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@StusReviewsUK>
