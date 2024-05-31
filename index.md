@@ -45,7 +45,11 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 
-Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). Thanks for stopping by!
+Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). 
+
+Come join us on reddit in [r/WirelessSpeakers](https://www.reddit.com/r/WirelessSpeakers/)
+
+Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
