@@ -30,6 +30,11 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 - [Bookshelf Medium Size Speakers](/bookshelf-medium/): 12 speakers ranked
 - [Bookshelf Large Size Speakers](/bookshelf-large/): 8 speakers ranked
 
+### Related Products
+
+- [Portable Power Stations and Power Banks](/portable-power-stations/)
+- [Karaoke Setups](/karaoke-setups/)
+
 ### Information
 
 - [Information About the Rankings](/information-about-the-rankings/)
@@ -39,8 +44,6 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 - [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 26 reviewers ranked
-- [Portable Power Stations and Power Banks](/portable-power-stations/)
-- [Karaoke Setups](/karaoke-setups/)
 
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). Thanks for stopping by!
 
