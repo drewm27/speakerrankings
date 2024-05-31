@@ -491,6 +491,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=-R6eOb3r-o0>
     - <https://www.youtube.com/watch?v=uhkRccBkVuk>
     - <https://www.youtube.com/watch?v=RBYF_I7TcZU>
     - <https://www.youtube.com/watch?v=-R6eOb3r-o0>

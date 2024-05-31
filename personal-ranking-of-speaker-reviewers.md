@@ -30,6 +30,12 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #7 [techderaudios](https://www.youtube.com/@techderaudios)
 - Reasonable recordings. Good comparisons of a lot of speakers.
 
+### #7 [pickyaudio](https://www.youtube.com/@pickyaudio)
+- Reasonable recordings. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
+
+### #7 [ELJefeReviews](https://www.youtube.com/@ELJefeReviews)
+- Reasonable recordings. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
+
 ### #8 [JaysStraightUpReviews](https://www.youtube.com/@JaysStraightUpReviews)
 - Recordings done with a Sony Xperia I IV cell phone, not great audio quality, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
 
