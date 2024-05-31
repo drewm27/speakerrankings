@@ -72,6 +72,15 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #21 [DigitalSlang](https://www.youtube.com/@DigitalSlang)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
+### #21 [geekanoids](https://www.youtube.com/@geekanoids)
+- Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
+
+### #21 [raystrazdas](https://www.youtube.com/@raystrazdas)
+- Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
+
+### #21 [TKBay](https://www.youtube.com/@TKBay)
+- Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
+
 ### #22 [StusReviewsUK](https://www.youtube.com/@StusReviewsUK)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
