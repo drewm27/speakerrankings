@@ -45,6 +45,8 @@ I only use and link videos that either have useful well recorded sound samples o
     - Recording quality isn't very good, mostly interested in bass. Paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@DigitalSlang>
     - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
+1. <https://www.youtube.com/@StusReviewsUK>
+    - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@KosherTech>
     - Pretty close to completely useless, his microphone doesn't pick up any bass at all
 1. <https://www.youtube.com/@MaxTechOfficial>
