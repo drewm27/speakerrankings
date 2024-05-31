@@ -19,7 +19,8 @@ for file in os.listdir():
             for line in lines:
                 if line.startswith('### #'):
                     number += 1
-                    total += 1
+                    if file != 'personal-ranking-of-speaker-reviewers.md':
+                        total += 1
                     splitline = line.split(' ')
                     if splitline[1].startswith('#'):
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
@@ -44,8 +45,8 @@ with open('index.md', 'w') as f:
             filename = url + '.md'
             if filename in count:
                 if count[filename] > 0:
-                    if ':' in line:
+                    if filename != 'personal-ranking-of-speaker-reviewers.md':
                         line = line.split(':')[0].strip() + ': ' + str(count[filename]) + ' speakers ranked\n'
                     else:
-                        line = line.strip() + ': ' + str(count[filename]) + ' speakers ranked\n'
+                        line = line.split(':')[0].strip() + ': ' + str(count[filename]) + ' reviewers ranked\n'
         f.write(line)

@@ -38,7 +38,7 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 - [Speakers to be Added](/speakers-to-be-added/)
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
-- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/)
+- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 24 reviewers ranked
 - [Portable Power Stations and Power Banks](/portable-power-stations/)
 - [Karaoke Setups](/karaoke-setups/)
 
