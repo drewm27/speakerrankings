@@ -19,16 +19,18 @@ I only use and link videos that either have useful well recorded sound samples o
     - Good recording quality
 1. <https://www.youtube.com/@DLXWillington>
     - Reasonable recordings, good picks of larger speakers
+1. <https://www.youtube.com/@Jagistreviews>
+    - Reasonable recordings, good comparisons of a lot of speakers.
 1. <https://www.youtube.com/@techderaudios>
-    - Reasonable recordings
-1. <https://www.youtube.com/@KULASTECHSHOW20>
-    - Reasonable recordings
+    - Reasonable recordings. Good comparisons of a lot of speakers.
 1. <https://www.youtube.com/@JaysStraightUpReviews>
     - Recordings done with a Sony Xperia I IV cell phone, not great audio quality, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
 1. <https://www.youtube.com/@DannyPops>
     - Seems to be recording speakers off axis, always has the microphone above the speaker. Prefers speakers that are fun, rather than neutral. Likely paid heavily by Marshall
 1. <https://www.youtube.com/@CEONTHEMAKING>
     - Pretty good recording quality, not a great judge of speakers and rarely ever compares them. Looks to be sponsored by Soundcore, likely paid by them. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
+1. <https://www.youtube.com/@KULASTECHSHOW20>
+    - Not great recording quality, the highs are pretty rolled off. Decent comparisons of speakers.
 1. <https://www.youtube.com/@storytripperhd>
     - Not great recording quality, done with a cell phone
 1. <https://www.youtube.com/@GYMCADDY>
