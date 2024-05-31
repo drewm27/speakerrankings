@@ -10,7 +10,7 @@ My personal ranking of speaker reviewers and recordings, obviously this is quite
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
 1. <https://www.youtube.com/@oluvsgadgets> and <https://www.patreon.com/oluvsgadgets/posts>
-    - By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality. He’s a music producer by profession and knows what speakers should sound like. His recordings and recording equipment are all custom and tuned for the most neutral response I’ve heard from any video on Youtube.
+    - By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality. He’s a music producer by profession and knows what speakers should sound like. His recordings and recording equipment are all custom and tuned for the most neutral response I've heard from any video on Youtube.
 1. <https://www.youtube.com/@DSAUDIOreview>
     - My favorite reviewer of non battery bookshelf speakers. Excellent recording quality. They are using a pretty high end recording setup for all of these speakers. The YouTube comments also provide great analysis of the speaker's qualities.
 1. <https://www.youtube.com/@alanrossreviews>
@@ -35,14 +35,18 @@ I only use and link videos that either have useful well recorded sound samples o
     - Not great recording quality, done with a cell phone
 1. <https://www.youtube.com/@GYMCADDY>
     - Not great recording quality. Mostly interested in bass. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
+1. <https://www.youtube.com/@RichBowlin>
+    - Not great recording quality. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@ScottsReviews>
     - Not great recording quality. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@NewStuffTV1> and <https://www.youtube.com/@NewStuffTV2>
     - Not great recording quality, his microphone doesn't pick up any lower bass. Mostly interested in bass. Has been seen in Earfun and Soundcore advertisements on YouTube, likely paid by them. Appears to also be sponsored by Sony. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@FlossyCarter>
-    - Recording quality isn’t very good, mostly interested in bass. Paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
+    - Recording quality isn't very good, mostly interested in bass. Paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
+1. <https://www.youtube.com/@DigitalSlang>
+    - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@KosherTech>
-    - Pretty close to completely useless, his microphone doesn’t pick up any bass at all
+    - Pretty close to completely useless, his microphone doesn't pick up any bass at all
 1. <https://www.youtube.com/@MaxTechOfficial>
     - No Sound samples, comparisons or anything useful in these videos. Was paid to promote the Soundcore Boom 2 Plus and likely many other speakers.
 1. <https://www.youtube.com/@PatrickRambles>
