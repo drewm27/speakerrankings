@@ -283,7 +283,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #12 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $120
 
-- Positives: An insane value speaker. A huge improvement over the gen 1 with much deeper bass.
+- Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
 - Weight: 20.9lbs / 9.5kg
 - Battery Life: 12 hours
