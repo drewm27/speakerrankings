@@ -398,6 +398,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=EhySzuS39Z8>
     - <https://www.youtube.com/watch?v=gTiqH3uTXxc>
     - <https://www.youtube.com/watch?v=IkbDwnQRd5s>
+    - <https://www.youtube.com/watch?v=_Uc44XHmur0>
     - <https://www.youtube.com/watch?v=PMDSpH3mNB8>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
     - <https://www.youtube.com/watch?v=LbT052dM6vI>
