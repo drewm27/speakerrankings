@@ -339,145 +339,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
 
-### #15 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl): $300
-
-- Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
-- Weight: 9.1lbs / 4.2kg
-- Battery Life: No Battery
-- Wifi: Yes
-- TWS: No
-- App: Yes
-- EQ: Yes
-- Party Mode: Yes
-- IP Rating: None
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=fFP_OPriRlM>
-    - <https://www.youtube.com/watch?v=ezYZWoYEXfw>
-- Links
-    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
-
-### #16 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325): $225
-- Negatives: Rising frequency response but upper treble rolled off, 1khz and 4.3khz peaks
-- Max Volume: 112db
-- Bass Extension: ~42hz (-10dB)
-- EQ: Yes
-- App: Yes
-- Aux Input: Yes
-- MicroSD: Yes
-- Power Bank: Yes
-- Charging: USB-C
-- TWS: Yes
-- IP Rating: IPX7
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
-    - <https://www.youtube.com/watch?v=_JZH0Tc2OO8>
-    - <https://www.youtube.com/watch?v=q44mBW2C0m0>
-    - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
-    - <https://www.youtube.com/watch?v=-n-io_2nW3o>
-    - <https://www.youtube.com/watch?v=xMVzR5IgoAQ>
-
-### #17 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
-
-- Negatives: Somewhat bass heavy and boomy.
-- Max Volume: 108db
-- Bass Extension: 46hz (-10dB)
-- Weight: 13lbs / 5.9kg
-- Battery Life: 24 hours
-- Latency: 140ms
-- Aux Latency: 33ms
-- Aux Input: Yes
-- Power Bank: Yes
-- Charging: AC Power brick
-- IP Rating: IPX7
-- Party Mode: Yes (PartyBoost up to 100 speakers)
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
-    - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
-    - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
-    - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
-- Links
-    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
-
-### #18 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
-
-- Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
-- Max Volume: 100db
-- Bass Extension: 45hz (-10dB)
-- Weight: 10.8lbs / 4.9kg
-- Battery Life: 8 hours
-- Charging: AC Power cable
-- Wifi: Yes
-- TWS: No
-- App: Yes
-- EQ: Yes
-- Party Mode: Yes (JBL One)
-- IP Rating: None
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
-- Links
-    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
-
-### #19 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
-
-- Positives: Wireless phone charging.
-- Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
-- Max Volume: 93db
-- Bass Extension: 45hz (-10dB)
-- Weight: 6lbs / 2.7kg
-- Battery Life: 8 hours
-- Aux Input: Yes
-- App: Yes
-- EQ: Yes
-- TWS: Yes
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=OTy29qPeIcI>
-    - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
-    - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
-    - <https://www.patreon.com/posts/b-o-beolit-20-3-52143471>
-    - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
-- Links
-    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
-
-### #20 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
-
-- Positives: Quite deep bass for the size and money.
-- Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
-- Max Volume: 111db
-- Bass Extension: 39hz (-10dB)
-- Weight: 12.8lbs / 5.8kg
-- Latency: 160ms
-- Aux Latency: 16ms
-- Power Bank: Yes
-- Aux Input: Yes
-- MicroSD: Yes
-- App: Yes
-- EQ: Yes
-- Charging: AC Power brick
-- IP Rating: IPX6
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
-- Links
-    - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
-
-### #21 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
-
-- Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. IPX6. Wall wart charger.
-- Max Volume: 112db
-- Bass Extension: 43hz (-10dB)
-- Latency: 66ms
-- Aux Latency: 0ms
-- Weight: 11.2lbs / 5.1kg
-- Battery Life: 10 hours
-- Aux Input: Yes
-- MicroSD: Yes
-- Power Bank: Yes
-- Charging: AC Power brick
-- IP Rating: IPX6
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
-    - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
-
-### #22 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl): $210 after coupon at [Soundcore.com](https://soundcore.sjv.io/Or7BxP) (Coupon code US: AFF3134US40, CA: AFF3134CA50, UK: AFF3134UK40 until 6/30/2024)
+### #15 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl): $210 after coupon at [Soundcore.com](https://soundcore.sjv.io/Or7BxP) (Coupon code US: AFF3134US40, CA: AFF3134CA50, UK: AFF3134UK40 until 6/30/2024)
 - Positives: Quite a bit lighter than most of the other boombox size speakers. This speaker will likely move up as we get a good EQ tune that makes it a lot more neutral.
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - Weight: 8.4lbs / 3.8kg
@@ -500,6 +362,144 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=RBYF_I7TcZU>
 - Links
     - [Official Product Page](https://soundcore.sjv.io/Or7BxP)
+
+### #16 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl): $300
+
+- Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
+- Weight: 9.1lbs / 4.2kg
+- Battery Life: No Battery
+- Wifi: Yes
+- TWS: No
+- App: Yes
+- EQ: Yes
+- Party Mode: Yes
+- IP Rating: None
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=fFP_OPriRlM>
+    - <https://www.youtube.com/watch?v=ezYZWoYEXfw>
+- Links
+    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
+
+### #17 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325): $225
+- Negatives: Rising frequency response but upper treble rolled off, 1khz and 4.3khz peaks
+- Max Volume: 112db
+- Bass Extension: ~42hz (-10dB)
+- EQ: Yes
+- App: Yes
+- Aux Input: Yes
+- MicroSD: Yes
+- Power Bank: Yes
+- Charging: USB-C
+- TWS: Yes
+- IP Rating: IPX7
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
+    - <https://www.youtube.com/watch?v=_JZH0Tc2OO8>
+    - <https://www.youtube.com/watch?v=q44mBW2C0m0>
+    - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
+    - <https://www.youtube.com/watch?v=-n-io_2nW3o>
+    - <https://www.youtube.com/watch?v=xMVzR5IgoAQ>
+
+### #18 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
+
+- Negatives: Somewhat bass heavy and boomy.
+- Max Volume: 108db
+- Bass Extension: 46hz (-10dB)
+- Weight: 13lbs / 5.9kg
+- Battery Life: 24 hours
+- Latency: 140ms
+- Aux Latency: 33ms
+- Aux Input: Yes
+- Power Bank: Yes
+- Charging: AC Power brick
+- IP Rating: IPX7
+- Party Mode: Yes (PartyBoost up to 100 speakers)
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
+    - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
+    - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
+    - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
+- Links
+    - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
+
+### #19 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
+
+- Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
+- Max Volume: 100db
+- Bass Extension: 45hz (-10dB)
+- Weight: 10.8lbs / 4.9kg
+- Battery Life: 8 hours
+- Charging: AC Power cable
+- Wifi: Yes
+- TWS: No
+- App: Yes
+- EQ: Yes
+- Party Mode: Yes (JBL One)
+- IP Rating: None
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
+- Links
+    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
+
+### #20 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325): $495
+
+- Positives: Wireless phone charging.
+- Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
+- Max Volume: 93db
+- Bass Extension: 45hz (-10dB)
+- Weight: 6lbs / 2.7kg
+- Battery Life: 8 hours
+- Aux Input: Yes
+- App: Yes
+- EQ: Yes
+- TWS: Yes
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=OTy29qPeIcI>
+    - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
+    - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
+    - <https://www.patreon.com/posts/b-o-beolit-20-3-52143471>
+    - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
+
+### #21 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325): $180
+
+- Positives: Quite deep bass for the size and money.
+- Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
+- Max Volume: 111db
+- Bass Extension: 39hz (-10dB)
+- Weight: 12.8lbs / 5.8kg
+- Latency: 160ms
+- Aux Latency: 16ms
+- Power Bank: Yes
+- Aux Input: Yes
+- MicroSD: Yes
+- App: Yes
+- EQ: Yes
+- Charging: AC Power brick
+- IP Rating: IPX6
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
+- Links
+    - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
+
+### #22 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
+
+- Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. IPX6. Wall wart charger.
+- Max Volume: 112db
+- Bass Extension: 43hz (-10dB)
+- Latency: 66ms
+- Aux Latency: 0ms
+- Weight: 11.2lbs / 5.1kg
+- Battery Life: 10 hours
+- Aux Input: Yes
+- MicroSD: Yes
+- Power Bank: Yes
+- Charging: AC Power brick
+- IP Rating: IPX6
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
+    - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
 
 ### #23 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325): $125
 
