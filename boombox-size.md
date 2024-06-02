@@ -657,7 +657,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
     - <https://www.youtube.com/watch?v=jOvizwFy9L8>
 
-### #33 [Soundcore Motion Boom+](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325): $155 after $25 coupon
+### #33 [Soundcore Motion Boom+](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325): $140 after $40 coupon
 
 - Positives: The lightest speaker in the group.
 - Negatives: Default presets are all warm sounding with rolled off treble. Will need a custom EQ to get closer to neutral. A shrill sounding 6khz peak comes out when volume is above about 60%. Not much deeper bass than a Motion Boom and a lot less deep bass than other speakers in the class.
