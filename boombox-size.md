@@ -688,6 +688,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Power Bank: Yes
 - Charging: AC power brick
+- Aux Input: Yes
 - App: No
 - EQ: No
 - Comparisons and Sound Samples
