@@ -41,6 +41,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=O0VU-yPXIPs>
     - <https://www.youtube.com/watch?v=fW3W4vVRYnU>
     - <https://www.youtube.com/watch?v=5IjP6DPbDxg>
+    - <https://www.youtube.com/watch?v=SiW11RSCnWI>
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
     - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
@@ -491,6 +492,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Charging: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=SiW11RSCnWI>
     - <https://www.youtube.com/watch?v=-R6eOb3r-o0>
     - <https://www.youtube.com/watch?v=L6psdfVVSQQ>
     - <https://www.youtube.com/watch?v=xmi183Y4LN0>
