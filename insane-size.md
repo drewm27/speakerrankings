@@ -7,6 +7,8 @@ comments: true
 
 If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
+**Use your browser's search feature to search for speakers on this page.**
+
 Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable-party-speakers/).
 
 For longer runtime or off grid use, check out a [power station](/portable-power-stations/).

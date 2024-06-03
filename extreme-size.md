@@ -7,6 +7,8 @@ comments: true
 
 If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 
+**Use your browser's search feature to search for speakers on this page.**
+
 Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable-party-speakers/).
 
 For longer runtime, check out a [power station](/portable-power-stations/).

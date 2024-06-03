@@ -7,6 +7,8 @@ comments: true
 
 One of the best general use size classes, 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
+**Use your browser's search feature to search for speakers on this page.**
+
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)

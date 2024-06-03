@@ -7,6 +7,8 @@ comments: true
 
 A good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Extreme size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
+**Use your browser's search feature to search for speakers on this page.**
+
 For longer runtime, check out a [power station](/portable-power-stations/).
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
