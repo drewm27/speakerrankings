@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Insane Size Speakers
+title: Insane Size Bluetooth Speakers
 subtitle: Speaker Ranking
 comments: true
 ---
