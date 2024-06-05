@@ -22,7 +22,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Good recording quality, good comparisons of a lot of bigger speakers. All videos in German.
 
 ### #5 [DLXWillington](https://www.youtube.com/@DLXWillington)
-- Reasonable recordings, good picks of larger speakers
+- Reasonable recordings, good picks of larger speakers. Looks to have been sponsored by Soundcore for the Motion 300 and Motion X600 videos that he made. Appears to have moved on from speaker reviews to reviews of other tech products.
 
 ### #6 [JaysStraightUpReviews](https://www.youtube.com/@JaysStraightUpReviews)
 - Recordings done with a Sony Xperia I IV cell phone, not great audio quality, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
@@ -40,7 +40,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Reasonable recordings. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
 ### #11 [DannyPops](https://www.youtube.com/@DannyPops)
-- Seems to be recording speakers off axis, always has the microphone above the speaker. Prefers speakers that are fun, rather than neutral. Likely paid heavily by Marshall
+- Seems to be recording speakers off axis, always has the microphone above the speaker. Prefers speakers that are fun, rather than neutral. Likely paid heavily by Marshall. Appears to have moved on from speaker reviews to reviews of other tech products.
 
 ### #12 [CEONTHEMAKING](https://www.youtube.com/@CEONTHEMAKING)
 - Pretty good recording quality, not a great judge of speakers and rarely ever compares them. Looks to be sponsored by Soundcore, likely paid by them. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
