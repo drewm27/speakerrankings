@@ -10,7 +10,7 @@ My personal ranking of speaker reviewers and recordings, obviously this is quite
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
 ### #1 [oluvsgadgets](https://www.youtube.com/@oluvsgadgets) and [Oluv's Patreon](https://www.patreon.com/oluvsgadgets/posts)
-- By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality. He’s a music producer by profession and knows what speakers should sound like. His recordings and recording equipment are all custom and tuned for the most neutral response I've heard from any video on Youtube.
+- By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality and has always given an unbiased review of good and bad speakers. His recordings and recording equipment are all custom and tuned for the most neutral response I've heard from any video on Youtube. One of the best creators of speaker EQs around.
 
 ### #2 [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview)
 - My favorite reviewer of non battery bookshelf speakers. Excellent recording quality. They are using a pretty high end recording setup for all of these speakers. The YouTube comments also provide great analysis of the speaker's qualities.
