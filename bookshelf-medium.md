@@ -33,28 +33,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.genelec.com/8020d#section-technical-specifications)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)
 
-### #2 [Focal Alpha 50 EVO](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl): $600 a pair
-- Positives: More neutral than the great HS5
-- Frequency Response: 45 Hz - 22 kHz (+-3 dB)
-- Dimensions: 12.2"H x 9.0"W x 9.4"D
-- Weight: 13.1lbs / 6.0kg each
-- Watts: 60w Per Speaker
-- Woofer Size: 5"
-- Inputs: XLR, TRS, RCA
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=oKMhczUc0I8>
-    - <https://www.youtube.com/watch?v=0KvXRMa0YY8>
-    - <https://www.youtube.com/watch?v=MspK8S2avGE>
-    - <https://www.youtube.com/watch?v=XeRI_hA1DWg>
-    - <https://www.youtube.com/watch?v=pJouTjwd9gk>
-    - <https://www.youtube.com/watch?v=ujQLiYA0p20>
-    - <https://www.youtube.com/watch?v=51jzb9IpZNE>
-    - <https://www.youtube.com/watch?v=STR16lZhipg>
-    - <https://www.youtube.com/watch?v=6HwCiWldgW4>
-- Links
-    - [Official Product Page](https://www.focal.com/products/alpha-50-evo)
-
-### #3 [Neumann KH80 DSP](https://www.amazon.com/Neumann-DSP-Powered-Studio-Monitor/dp/B06VTFL9Q6?&linkCode=ll1&tag=rankingspea01-20&linkId=f8009cb551c89b8401f8a9ec7b91220c&language=en_US&ref_=as_li_ss_tl): $1100 a pair
+### #2 [Neumann KH80 DSP](https://www.amazon.com/Neumann-DSP-Powered-Studio-Monitor/dp/B06VTFL9Q6?&linkCode=ll1&tag=rankingspea01-20&linkId=f8009cb551c89b8401f8a9ec7b91220c&language=en_US&ref_=as_li_ss_tl): $1100 a pair
 - Positives: Near identical sound to the 8020D. 8020D is slightly cleaner, KH80 is slightly warmer.
 - Negatives: High price
 - Frequency Response: 57 Hz - 25 kHz (+-3 dB)
@@ -74,6 +53,27 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=PyRYDE3Skd8>
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-80-dsp-a-g/)
+
+### #3 [Focal Alpha 50 EVO](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl): $600 a pair
+- Positives: More neutral than the great HS5
+- Frequency Response: 45 Hz - 22 kHz (+-3 dB)
+- Dimensions: 12.2"H x 9.0"W x 9.4"D
+- Weight: 13.1lbs / 6.0kg each
+- Watts: 60w Per Speaker
+- Woofer Size: 5"
+- Inputs: XLR, TRS, RCA
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=oKMhczUc0I8>
+    - <https://www.youtube.com/watch?v=0KvXRMa0YY8>
+    - <https://www.youtube.com/watch?v=MspK8S2avGE>
+    - <https://www.youtube.com/watch?v=XeRI_hA1DWg>
+    - <https://www.youtube.com/watch?v=pJouTjwd9gk>
+    - <https://www.youtube.com/watch?v=ujQLiYA0p20>
+    - <https://www.youtube.com/watch?v=51jzb9IpZNE>
+    - <https://www.youtube.com/watch?v=STR16lZhipg>
+    - <https://www.youtube.com/watch?v=6HwCiWldgW4>
+- Links
+    - [Official Product Page](https://www.focal.com/products/alpha-50-evo)
 
 ### #4 [Yamaha HS5](https://www.amazon.com/Yamaha-HS5-Powered-Studio-Monitor/dp/B075Q5T7Q1?crid=31X5LUBY65SP4&dib=eyJ2IjoiMSJ9.7puFCFa_3g-pXnsDe3afQ3bv5kynT3-em4uwrC2cF931BC7U1n27I8hT4epBfmgn54KbdVlgndxy1HChF_b0AjbpSA2PxwbWh33LrMW9NF6y07CGQRvWsgFI9bSAne1OvkTkEoOTFXSc_QLTwUyGGJS39Ank141i9BFM60ZEKnYns6_9kQGPUR1yFm1QC4q28hv3Y9bhLRisI2NYYWcrCca6cBnlMAjx4RMynjDkeLjgiM4Lr3pc9F9F4ATMVaJkgkENPEfaxgO_EOjOPIYAmCUb2artTrAujSC6L4oWaHA.bTASrE4d4FXSp7yY6Y6xHNLXGQuKO-wDs1UtxHXfwNI&dib_tag=se&keywords=yamaha+hs5&qid=1716437423&sprefix=yamaha+hs%2Caps%2C238&sr=8-4&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=a590c06b6fb6ff7d7bf10fb85be451d5&language=en_US&ref_=as_li_ss_tl): $400 a pair
 - Positives: Very neutral. Excellent for mixing and anything needing a neutral output.
