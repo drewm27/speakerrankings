@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-I've been working on finding all the best battery powered Bluetooth speakers and bookshelf powered speakers by ranking them by sound quality tested by trusted YouTube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got a total count of 325 speakers ranked.
+I've been working on finding all the best battery powered Bluetooth speakers and bookshelf powered speakers by ranking them by sound quality tested by trusted YouTube reviewers in lists categorized by size class with their tonal qualities, attributes and comparison videos against other speakers all documented. It also contains the best EQ tuning and setup for each speaker if possible. I've got a total count of 327 speakers ranked.
 
 Watching videos on YouTube to figure out the best speakers can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. All speakers below have their best sound samples and comparisons on YouTube linked.
 
@@ -27,7 +27,7 @@ Watching videos on YouTube to figure out the best speakers can easily take weeks
 ### Bookshelf Powered Speaker Rankings
 
 - [Bookshelf Small Size Speakers](/bookshelf-small/): 5 speakers ranked
-- [Bookshelf Medium Size Speakers](/bookshelf-medium/): 12 speakers ranked
+- [Bookshelf Medium Size Speakers](/bookshelf-medium/): 14 speakers ranked
 - [Bookshelf Large Size Speakers](/bookshelf-large/): 8 speakers ranked
 
 ### Related Products
