@@ -7,13 +7,17 @@ comments: true
 
 I plan to get around to these as soon as there are good sound samples and comparisons around, stay tuned!
 
+1. Adam Audio T5V
+1. KRK Rokit 5 G4
+1. KRK Classic 5
+1. PreSonus E5 XT
+1. Neumann KH80 DSP
 1. A lot more bookshelf speakers
 1. Miatone *
 1. Nox 160
 1. Klipsch KMC3 
 1. Soundcore X500
 1. Audio Pro
-1. [IKMultimedia iLoud](https://www.ikmultimedia.com/products/iloud/)
 1. HK Audio Move 8
 1. House of Marley
 1. Boat
