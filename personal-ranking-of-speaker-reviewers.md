@@ -5,7 +5,7 @@ subtitle: Speaker Ranking
 comments: true
 ---
 
-My personal ranking of speaker reviewers and recordings, obviously this is quite subjective, but this is how much I trust their recording quality and their ability to rank neutral speakers properly.
+My personal ranking of speaker reviewers and recordings, obviously this is quite subjective, but this is how much I trust their recording quality and their ability to rank neutral speakers properly. As you can see from my comments, there's a lot of garbage on the bottom. 
 
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
