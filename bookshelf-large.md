@@ -53,7 +53,25 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.aps-company.com/klasik-2020-en/)
 
-### #4 [Yamaha HS8](https://www.amazon.com/Yamaha-8-Inch-Powered-Studio-Monitor/dp/B08BGC6DRY?crid=27YPFCNGP8C1K&dib=eyJ2IjoiMSJ9.78nVnlYhp8otV-Zfh9l6tKuxmM4nZaxHAnVqiuAs6nFMg1ul8RmyzTouLOPfbVEwuZvy3mXU82B91pTfzqHj7onyK25JPFv3IZH6rnNcqPP4SBrTUzbDnHnWgzI20O5O9bpuy8jXAYl1ahVN_zjVACgBC5g1CD2ZesgfuDmfssnH7_kQZv7g5EsaZqP22K2fqmI8Q-WeKnq5QyGEBZ2-oOz8Ux0PleShwdrz1y2Qn9pwguWOctFovePK8-v4E9HJFjmwBZuHNKfkJF8hRWcVRB_pL00HqrX3GQBmEjxXIRM.WHzP5S8hPjkAGngJfjyuAsAIWdvkS8bwO2AFd0f1dak&dib_tag=se&keywords=yamaha+hs8&qid=1716354856&sprefix=yamaha+hs8%2Caps%2C213&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=70f57a18e2c4412c44cfc243faebe22f&language=en_US&ref_=as_li_ss_tl): $798 a pair
+### #4 [Focal Alpha 65 EVO](https://www.amazon.com/Focal-Alpha-Powered-Studio-Monitor/dp/B08YRMQ7VQ?crid=BPEF25FQRE4Y&dib=eyJ2IjoiMSJ9.3e8NYNouAV3aSQp9rLfqbV08ou7zMaEi5aICbrvcycJs5dJOcsayuuYKSed0rlvtamlgJDnAvTcWOgBJUZQSJ1PKZstp3hb1bDEyfFzGlRgHrUF3s3DKA4GjJ5cHzoJbQ6NjphtbKOKPy6cO7BVN3ySqPABXlcXU6BJikvkaGymenqAvx6BMdZNPktzQdKIAn171M3EsuOGIkoI11Utq_qYkKb9bdwPIbv3xkYAcHsE.YGjwrWwB1QWmzDMv2xSFKMCqS_40wH_MbgsLGoUUD3U&dib_tag=se&keywords=focal+alpha+65&qid=1717691652&sprefix=focal+alpha%2Caps%2C234&sr=8-2&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=bd741ecea9e1b9ebc01178681d5b48ef&language=en_US&ref_=as_li_ss_tl): $800 a pair
+- Positives: Very neutral, not quite as good as the Klasiks in the midrange, but with better soundstage and instrument definition than the HS8
+- Frequency Response: 40Hz – 22kHz (+-3dB)
+- Dimensions: 13.4"H x 10.3"W x 11.4"D
+- Weight: 16.8lbs / 7.6kg each
+- Watts: 85w Per Speaker
+- Woofer Size: 6.5"
+- Inputs: TRS, XLR, RCA
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=nkN8nbNUt9c>
+    - <https://www.youtube.com/watch?v=t6jqpS2jey0>
+    - <https://www.youtube.com/watch?v=HNAs-czKSy4>
+    - <https://www.youtube.com/watch?v=MspK8S2avGE>
+    - <https://www.youtube.com/watch?v=SVebw2_-9ok>
+    - <https://www.youtube.com/watch?v=M1ZyZbhCCNI>
+- Links
+    - [Official Product Page](https://www.focal.com/products/alpha-65-evo)
+
+### #5 [Yamaha HS8](https://www.amazon.com/Yamaha-8-Inch-Powered-Studio-Monitor/dp/B08BGC6DRY?crid=27YPFCNGP8C1K&dib=eyJ2IjoiMSJ9.78nVnlYhp8otV-Zfh9l6tKuxmM4nZaxHAnVqiuAs6nFMg1ul8RmyzTouLOPfbVEwuZvy3mXU82B91pTfzqHj7onyK25JPFv3IZH6rnNcqPP4SBrTUzbDnHnWgzI20O5O9bpuy8jXAYl1ahVN_zjVACgBC5g1CD2ZesgfuDmfssnH7_kQZv7g5EsaZqP22K2fqmI8Q-WeKnq5QyGEBZ2-oOz8Ux0PleShwdrz1y2Qn9pwguWOctFovePK8-v4E9HJFjmwBZuHNKfkJF8hRWcVRB_pL00HqrX3GQBmEjxXIRM.WHzP5S8hPjkAGngJfjyuAsAIWdvkS8bwO2AFd0f1dak&dib_tag=se&keywords=yamaha+hs8&qid=1716354856&sprefix=yamaha+hs8%2Caps%2C213&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=70f57a18e2c4412c44cfc243faebe22f&language=en_US&ref_=as_li_ss_tl): $798 a pair
 - Positives: Very neutral. Excellent for mixing and anything needing a neutral output.
 - Negatives: Quite expensive.
 - Frequency Response: 47Hz – 24kHz (-3dB)
@@ -72,7 +90,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 
-### #5 [Adam Audio T8V](https://www.amazon.com/ADAM-Audio-2-Way-Active-Monitor/dp/B087NC73NZ?crid=QTLLH394SR59&dib=eyJ2IjoiMSJ9.1SSiwRS5p2AsDx-q07Xq67AeME7UtIey-HCuui8Wkr86NTJk02VLybms3AGeT-HD3iPytDcd16nDgUyZFhuaDJxtN7-9daWu0R1xHtZecSYitS69NlIjwxREWNU8E1rTe9HdneNdzahaGn-fFBcozA.9hFED7qnmB-mphXNPeTYY2YqYf9iZM4yG5I1fYPoqGU&dib_tag=se&keywords=adam%2Bt8v&qid=1716435671&sprefix=adam%2Bt8%2Caps%2C182&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b568df79465094edc9b598e3c61241cd&language=en_US&ref_=as_li_ss_tl): $600 a pair
+### #6 [Adam Audio T8V](https://www.amazon.com/ADAM-Audio-2-Way-Active-Monitor/dp/B087NC73NZ?crid=QTLLH394SR59&dib=eyJ2IjoiMSJ9.1SSiwRS5p2AsDx-q07Xq67AeME7UtIey-HCuui8Wkr86NTJk02VLybms3AGeT-HD3iPytDcd16nDgUyZFhuaDJxtN7-9daWu0R1xHtZecSYitS69NlIjwxREWNU8E1rTe9HdneNdzahaGn-fFBcozA.9hFED7qnmB-mphXNPeTYY2YqYf9iZM4yG5I1fYPoqGU&dib_tag=se&keywords=adam%2Bt8v&qid=1716435671&sprefix=adam%2Bt8%2Caps%2C182&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b568df79465094edc9b598e3c61241cd&language=en_US&ref_=as_li_ss_tl): $600 a pair
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
 - Negatives: Slightly bright treble
 - Dimensions: 15.8"H x 9.8"W x 13.2"D
@@ -86,7 +104,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.adam-audio.com/en/t-series/t8v/)
 
-### #6 [Rokit 8 G4](https://www.amazon.com/KRK-RP8-Professional-Powered-Monitor/dp/B07YZQ4JNV?crid=3AKCT5MW3FDVZ&dib=eyJ2IjoiMSJ9.JxEVModU4jzJlDiXP7IkPj5TMc988Wl3cPWTR5OP-iFEtiovLQ7gs2TnwTTp0SCsL7OnQF1kyR3kpdSPUOUil3YwP1lev3c5USWlW_cyLRQs_NLMRVtbBze3ptaBlSaoh1_ef4E0N4BSVnADwzZ0RWxNojuG7eS7dwN50aeXiQJecvoKO9jhMivVTVMwoCKSnF52pv3cW9SmjVZvHdOY-XsxEz4B_L5rNeYlJ_ICdCM1mMIv3nBqjUaYycEmI3oPGMWiI65Yihv5ha-nZvr8R0tK0U_WFs66lSCutAnJP-E.IeoAwMSw5ej_5vVhuq7ndp_8RlOLKp69oa3Lg1FxmTA&dib_tag=se&keywords=rokit%2B8%2Bg4&qid=1716435118&sprefix=rokit%2B8%2Bg%2Caps%2C173&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4bbf2b71669c5852b994e5b7772e4881&language=en_US&ref_=as_li_ss_tl): $500 a pair
+### #7 [Rokit 8 G4](https://www.amazon.com/KRK-RP8-Professional-Powered-Monitor/dp/B07YZQ4JNV?crid=3AKCT5MW3FDVZ&dib=eyJ2IjoiMSJ9.JxEVModU4jzJlDiXP7IkPj5TMc988Wl3cPWTR5OP-iFEtiovLQ7gs2TnwTTp0SCsL7OnQF1kyR3kpdSPUOUil3YwP1lev3c5USWlW_cyLRQs_NLMRVtbBze3ptaBlSaoh1_ef4E0N4BSVnADwzZ0RWxNojuG7eS7dwN50aeXiQJecvoKO9jhMivVTVMwoCKSnF52pv3cW9SmjVZvHdOY-XsxEz4B_L5rNeYlJ_ICdCM1mMIv3nBqjUaYycEmI3oPGMWiI65Yihv5ha-nZvr8R0tK0U_WFs66lSCutAnJP-E.IeoAwMSw5ej_5vVhuq7ndp_8RlOLKp69oa3Lg1FxmTA&dib_tag=se&keywords=rokit%2B8%2Bg4&qid=1716435118&sprefix=rokit%2B8%2Bg%2Caps%2C173&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4bbf2b71669c5852b994e5b7772e4881&language=en_US&ref_=as_li_ss_tl): $500 a pair
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
 - Dimensions: 15.75"H x 10.5"W x 12.2"D
 - Watts: 100w
@@ -100,7 +118,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.krkmusic.com/collections/rokit-series-g4-powered-studio-monitors)
 
-### #7 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl): $450 a pair
+### #8 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl): $450 a pair
 - Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the neutral sound of the HS8. Shockingly close to the HS8 at half the price.
 - Negatives: Quite large and heavy
 - Frequency Response: 42Hz-20KHz (-3dB)
@@ -116,7 +134,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/r2850db)
 
-### #8 [Edifier S3000Pro](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl): $900 a pair
+### #9 [Edifier S3000Pro](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl): $900 a pair
 - Positives: High resolution digital input up to 96khz/24bit
 - Frequency Response: 38Hz-20KHz (-3dB)
 - Dimensions: 14.5"H x 9.1"W x 14.0"D
