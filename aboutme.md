@@ -33,8 +33,8 @@ My degree is in Electrical Engineering and Computer science and I am quite famil
 - [Hifiman HE-560](https://www.amazon.com/HIFIMAN-HE-560-Premium-Magnetic-Headphones/dp/B00LMSR5OS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=893ab614dadd68d28e0dca31da86b6f5&camp=1789&creative=9325)
 - JDS Labs OL Dac
 - [JDS Labs O2 Headphone Amplifier](https://jdslabs.com/product/objective2/)
-- [Earfun Free Pro 2](https://www.amazon.com/Earbuds-Free-Pro-Cancelling-Bluetooth/dp/B09JWMJ7PW/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a00ae141c6dfec0ae78e42151329d561&camp=1789&creative=9325") (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd)
-- Earfun Free Pro (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd)
+- [Earfun Free Pro 2](https://www.amazon.com/Earbuds-Free-Pro-Cancelling-Bluetooth/dp/B09JWMJ7PW/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a00ae141c6dfec0ae78e42151329d561&camp=1789&creative=9325") (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
+- Earfun Free Pro (with [Oluv's custom ear resonance tune](https://docs.google.com/document/d/1bCOC94C_95H7xIbuUzURG0gBQ1DomcgcNy30yGc0XkI/edit#heading=h.i07j71o7qimd))
 - Fiil T1 Pro
 - Altec Lansing inMotion IM616 (Etymotic ER6i rebrand)
 
