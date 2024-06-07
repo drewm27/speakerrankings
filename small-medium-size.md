@@ -539,6 +539,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-qiyBrX1m-g>
+    - <https://www.youtube.com/watch?v=7GjQ0VXYYqo>
     - <https://www.youtube.com/watch?v=YNifFrDKbV0>
 - Links
     - [Official Product Page](https://cleeraudio.com/smart-speakers/scene-water-resistant-bluetooth-speaker/)
