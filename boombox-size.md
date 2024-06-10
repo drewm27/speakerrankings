@@ -20,12 +20,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~38hz (-10dB)
 - Battery Life: 30 hours
 - Aux Input: Yes
+- Power Bank: Yes
 - App: Yes
 - EQ: Yes
 - TWS: Yes
 - Party Mode: Yes (Up to 50 speakers)
 - Build in Microphone: Yes
 - IP Rating: IPX7
+- Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OoMKjAEGFMs>
     - <https://www.patreon.com/posts/earfun-uboom-x-105747123>
