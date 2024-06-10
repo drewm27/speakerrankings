@@ -7,7 +7,7 @@ I've been working on finding all the best battery powered Bluetooth speakers and
 
 Watching videos on YouTube to figure out the best speakers can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. All speakers below have their best sound samples and comparisons on YouTube linked so you can verify them yourself.
 
-I've got a total count of 329 speakers ranked.
+I've got a total count of 330 speakers ranked.
 
 **Use ctl-f or the search in your browser's drop down menu to search pages**
 
@@ -22,7 +22,7 @@ I've got a total count of 329 speakers ranked.
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 27 speakers ranked
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 108 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 63 speakers ranked
-- [Boombox Size Bluetooth Speakers](/boombox-size/): 54 speakers ranked
+- [Boombox Size Bluetooth Speakers](/boombox-size/): 55 speakers ranked
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 43 speakers ranked
 - [Insane Size Bluetooth Speakers](/insane-size/): 5 speakers ranked
 
