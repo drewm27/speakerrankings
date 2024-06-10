@@ -7,7 +7,7 @@ comments: true
 
 The Small Bookshelf class of speakers generally have woofers under 4". These speakers will fit pretty easily on a desk but you will be trading off bass extension for the small size. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
-For general listening I would not hesitate to recommend any of these speakers on this page except for the few at the bottom. Studio monitoring use is more critical and I would generally recommend something near the top with an added subwoofer.
+For general listening I would not hesitate to recommend any of these speakers on this page except for the few at the bottom. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top with an added subwoofer.
 
 For off grid use, check out a [power bank](/portable-power-stations/)
 
