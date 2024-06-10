@@ -7,15 +7,13 @@ comments: true
 
 The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
-I would not hesitate to recommend any of these speakers on this page for general listening except for the few at the bottom. Studio monitoring is more critical and I would generally recommend something near the top.
-
-**Use your browser's search feature to search for speakers on this page.**
-
-This section is still under development so there may be speakers that are better than the ones below.
+For general listening I would not hesitate to recommend any of these speakers on this page except for the few at the bottom. Studio monitoring use is more critical and I would generally recommend something near the top with an added subwoofer.
 
 For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
+
+**Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [Genelec 8050B](https://www.guitarcenter.com/Genelec/8050B-Bi-Amplified-Monitor-System-Each-1368456531480.gc): $3800 a pair
 - Positives: Likely one of the best studio monitors for mastering recordings in existence. Probably not worth the price for just listening to music. Based on their smaller speaker's performance against others, I'm ranking this accordingly.

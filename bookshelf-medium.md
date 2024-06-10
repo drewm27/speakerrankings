@@ -7,15 +7,13 @@ comments: true
 
 The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
-I would not hesitate to recommend any of these speakers on this page for general listening except for the few at the bottom. Studio monitoring is more critical and I would generally recommend something near the top possibly with an added subwoofer.
-
-**Use your browser's search feature to search for speakers on this page.**
-
-This section is still under development so there may be speakers that are better than the ones below.
+For general listening I would not hesitate to recommend any of these speakers on this page except for the few at the bottom. Studio monitoring use is more critical and I would generally recommend something near the top with an added subwoofer.
 
 For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
+
+**Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [Genelec 8020D](https://www.guitarcenter.com/Genelec/8020D-Studio-Monitor-1500000147710.gc): $1100 a pair
 - Positives: Slightly better than the HS5 for neutrality with deeper bass.
