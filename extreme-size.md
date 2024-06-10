@@ -7,13 +7,15 @@ comments: true
 
 If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 
-**Use your browser's search feature to search for speakers on this page.**
+To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
 Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable-party-speakers/).
 
 For longer runtime, check out a [power station](/portable-power-stations/).
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
+
+**Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [JBL Partybox Stage 320](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl): $600
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
