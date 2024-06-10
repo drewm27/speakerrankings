@@ -11,8 +11,6 @@ Feel free to post/send a link to this document for anyone or on any forum post y
 
 If you are not an audiophile or aren't interested in speakers that can reproduce recordings and musical instruments to a high level of natural accuracy, then you may not agree with the ranking order in this document. Pop or EDM will generally sound fine with a lot of speakers. Instrumental music like Jazz or Classical will only sound natural on speakers with a flat frequency response. If you are only interested in bass boosted, treble boosted, or warm speakers, please search the descriptions of speakers for that trait and look for the ones with an adjustable EQ.
 
-To the average non-audiophile, generally speakers in the top 50% of each category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of each category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
-
 ### How These Rankings Were Assembled
 
 This list is built from thousands of hours of video of the direct comparisons of speakers of trusted YouTube reviewers all spliced together into rankings by speaker size. It is ordered with the best speakers on top of each category with the selection criteria being natural/neutral sounding with reasonable bass extension and features. 80% of the speakers in this ranking have been ranked this way.
