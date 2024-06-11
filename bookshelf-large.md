@@ -130,7 +130,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=R7y6FJJdeUo>
 - Links
     - [Official Product Page](https://www.adam-audio.com/en/t-series/t7v/)
-    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t8v-studio-monitor-review.17118/)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t7v-spinorama-and-eq-inside.17283/)
 
 ### #8 [KRK Rokit 8 G4](https://www.amazon.com/KRK-RP8-Professional-Powered-Monitor/dp/B07YZQ4JNV?crid=3AKCT5MW3FDVZ&dib=eyJ2IjoiMSJ9.JxEVModU4jzJlDiXP7IkPj5TMc988Wl3cPWTR5OP-iFEtiovLQ7gs2TnwTTp0SCsL7OnQF1kyR3kpdSPUOUil3YwP1lev3c5USWlW_cyLRQs_NLMRVtbBze3ptaBlSaoh1_ef4E0N4BSVnADwzZ0RWxNojuG7eS7dwN50aeXiQJecvoKO9jhMivVTVMwoCKSnF52pv3cW9SmjVZvHdOY-XsxEz4B_L5rNeYlJ_ICdCM1mMIv3nBqjUaYycEmI3oPGMWiI65Yihv5ha-nZvr8R0tK0U_WFs66lSCutAnJP-E.IeoAwMSw5ej_5vVhuq7ndp_8RlOLKp69oa3Lg1FxmTA&dib_tag=se&keywords=rokit%2B8%2Bg4&qid=1716435118&sprefix=rokit%2B8%2Bg%2Caps%2C173&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4bbf2b71669c5852b994e5b7772e4881&language=en_US&ref_=as_li_ss_tl): $500 a pair
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
