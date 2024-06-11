@@ -95,6 +95,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #6 [Adam Audio T8V](https://www.amazon.com/ADAM-Audio-2-Way-Active-Monitor/dp/B087NC73NZ?crid=QTLLH394SR59&dib=eyJ2IjoiMSJ9.1SSiwRS5p2AsDx-q07Xq67AeME7UtIey-HCuui8Wkr86NTJk02VLybms3AGeT-HD3iPytDcd16nDgUyZFhuaDJxtN7-9daWu0R1xHtZecSYitS69NlIjwxREWNU8E1rTe9HdneNdzahaGn-fFBcozA.9hFED7qnmB-mphXNPeTYY2YqYf9iZM4yG5I1fYPoqGU&dib_tag=se&keywords=adam%2Bt8v&qid=1716435671&sprefix=adam%2Bt8%2Caps%2C182&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b568df79465094edc9b598e3c61241cd&language=en_US&ref_=as_li_ss_tl): $600 a pair
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
 - Negatives: Slightly bright treble
+- Frequency Response: 33Hz – 25kHz (-6dB)
 - Dimensions: 15.8"H x 9.8"W x 13.2"D
 - Weight: 21.6lbs / 9.8kg
 - Watts: 90w Per Speaker
@@ -110,6 +111,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #7 [Adam Audio T7V](https://www.amazon.com/ADAM-Audio-T7V-Powered-Monitor/dp/B079BBF66V?crid=3A23127F2SA8B&dib=eyJ2IjoiMSJ9.IK_GKydTiizYzwCClaSTVwyzjIGUvBRANqPg-lz-0U9qptzdgFwqcyAGtLJK3u2S6TDSh6CGaHUNgYbgjA5eqIykrZLIWfucHf09bRzqX0FsaGbwFzdMXWSK54rNfdztU6-Ev2caVxgEU0lQA6fz4JcjOxgOJyHBRGt6Fl-O1sNzp_ejSZ3ZQTdl3PlIpyPkwTX0dsBdOzlj9U46feJ6HUVU5UDGEZqmHB21au2mrvqzc5e1RDtPxY1PQrz8oIheY7w2ECUHq3nMJ7h-BqxcOPQDj9IOZq2U34Pk-XCjYVc.XT-a9bxLsWkzQndiTZ9dZmicLXT9ZIQpNrbhIA5ugM4&dib_tag=se&keywords=adam%2Baudio%2Bt7v&qid=1718081384&sprefix=adam%2Baudio%2Bt7v%2Caps%2C174&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=18b38b2503359615a43e44ca2825b8ab&language=en_US&ref_=as_li_ss_tl): $500 a pair
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
 - Negatives: Slightly bright treble
+- Frequency Response: 39Hz – 25kHz (-6dB)
 - Dimensions: 13.7"H x 8.3"W x 11.5"D
 - Weight: 15.7lbs / 7.1kg
 - Watts: 70w Per Speaker
