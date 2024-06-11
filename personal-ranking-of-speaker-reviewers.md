@@ -51,50 +51,53 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #14 [storytripperhd](https://www.youtube.com/@storytripperhd)
 - Not great recording quality, done with a cell phone
 
-### #15 [GYMCADDY](https://www.youtube.com/@GYMCADDY)
+### #15 [Rtings.com](https://www.rtings.com/speaker/reviews/best/by-feature/bluetooth)
+- A lot of problems with their measuring techniques. If you notice, below 150hz they have wavyness on all their speaker frequency response charts. This is due to them measuring all the room reflections, cancellations and room nulls. This is not the way you do frequency response measurements. Therefore their bass extension numbers are all incorrect. Their max SPL numbers are all way off. They rate the 136w Boombox 3 as 91.9dB (Alan Ross says 111dB) and ~100w Sony SRS-XP500 at 92.6db which are both below the much smaller 30w Motion Boom at 93.1dB (Alan Ross says 104dB) which absolutely cannot be correct. Alan Ross’s numbers logically make more sense. Also they put a very heavy weight on if the speaker works with a voice assistant. 
+
+### #16 [GYMCADDY](https://www.youtube.com/@GYMCADDY)
 - Not great recording quality. Mostly interested in bass. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #16 [PAINFULLYHONESTTECH](https://www.youtube.com/@PAINFULLYHONESTTECH)
+### #17 [PAINFULLYHONESTTECH](https://www.youtube.com/@PAINFULLYHONESTTECH)
 - Using a vocal microphone to do speaker recordings is a big nono, they do not have a neutral frequency response. Was seen in a Soundcore advertisement and is likely very biased and paid by Soundcore. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #17 [RichBowlin](https://www.youtube.com/@RichBowlin)
+### #18 [RichBowlin](https://www.youtube.com/@RichBowlin)
 - Not great recording quality. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #18 [ScottsReviews](https://www.youtube.com/@ScottsReviews)
+### #19 [ScottsReviews](https://www.youtube.com/@ScottsReviews)
 - Not great recording quality. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #19 [NewStuffTV1](https://www.youtube.com/@NewStuffTV1) and [NewStuffTV2](https://www.youtube.com/@NewStuffTV2)
+### #20 [NewStuffTV1](https://www.youtube.com/@NewStuffTV1) and [NewStuffTV2](https://www.youtube.com/@NewStuffTV2)
 - Not great recording quality, his microphone doesn't pick up any lower bass. Mostly interested in bass. Has been seen in Earfun and Soundcore advertisements on YouTube, likely paid by them. Appears to also be sponsored by Sony. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #20 [FlossyCarter](https://www.youtube.com/@FlossyCarter)
+### #21 [FlossyCarter](https://www.youtube.com/@FlossyCarter)
 - Recording quality isn't very good, mostly interested in bass. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #21 [DigitalSlang](https://www.youtube.com/@DigitalSlang)
+### #22 [DigitalSlang](https://www.youtube.com/@DigitalSlang)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #22 [geekanoids](https://www.youtube.com/@geekanoids)
+### #23 [geekanoids](https://www.youtube.com/@geekanoids)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #23 [raystrazdas](https://www.youtube.com/@raystrazdas)
+### #24 [raystrazdas](https://www.youtube.com/@raystrazdas)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #24 [TecHMoE](https://www.youtube.com/@TecHMoE)
+### #25 [TecHMoE](https://www.youtube.com/@TecHMoE)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #25 [TKBay](https://www.youtube.com/@TKBay)
+### #26 [TKBay](https://www.youtube.com/@TKBay)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #26 [StusReviewsUK](https://www.youtube.com/@StusReviewsUK)
+### #27 [StusReviewsUK](https://www.youtube.com/@StusReviewsUK)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #27 [KosherTech](https://www.youtube.com/@KosherTech)
+### #28 [KosherTech](https://www.youtube.com/@KosherTech)
 - Pretty close to completely useless, his microphone doesn't pick up any bass at all
 
-### #28 [MaxTechOfficial](https://www.youtube.com/@MaxTechOfficial)
+### #29 [MaxTechOfficial](https://www.youtube.com/@MaxTechOfficial)
 - No Sound samples, comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #29 [PatrickRambles](https://www.youtube.com/@PatrickRambles)
+### #30 [PatrickRambles](https://www.youtube.com/@PatrickRambles)
 - No Sound samples, comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #30 [Techtablets](https://www.youtube.com/@Techtablets)
+### #31 [Techtablets](https://www.youtube.com/@Techtablets)
 - No Sound samples, comparisons or anything useful in these videos. Was paid by Soundcore and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.

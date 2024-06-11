@@ -39,7 +39,7 @@ I've got a total count of 335 speakers ranked on this website.
 
 - [Information About the Rankings](/information-about-the-rankings/)
 - [Information Applying to All Speakers](/information-applying-to-all-speakers/)
-- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 30 reviewers ranked
+- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 31 reviewers ranked
 - [Comments and Suggestions](/comments-suggestions/)
 - [Speakers to be Added](/speakers-to-be-added/)
 - [Issues I'm Working On](/issues-im-working-on/)
