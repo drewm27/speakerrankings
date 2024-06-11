@@ -25,6 +25,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: XLR
 - Links
     - [Official Product Page](https://www.genelec.com/8050b)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
 
 ### #2 [Genelec 8040B](https://www.guitarcenter.com/Genelec/8040B-Bi-Amplified-Monitor-System-Each-Black-1274115036177.gc): $2350 a pair
 - Positives: Likely one of the best studio monitors for mastering recordings in existence. Probably not worth the price for just listening to music. Based on their smaller speaker's performance against others, I'm ranking this accordingly.
@@ -70,6 +71,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=M1ZyZbhCCNI>
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-65-evo)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/focal-alpha-65-evo-review-studio-monitor.28832/)
 
 ### #5 [Yamaha HS8](https://www.amazon.com/Yamaha-8-Inch-Powered-Studio-Monitor/dp/B08BGC6DRY?crid=27YPFCNGP8C1K&dib=eyJ2IjoiMSJ9.78nVnlYhp8otV-Zfh9l6tKuxmM4nZaxHAnVqiuAs6nFMg1ul8RmyzTouLOPfbVEwuZvy3mXU82B91pTfzqHj7onyK25JPFv3IZH6rnNcqPP4SBrTUzbDnHnWgzI20O5O9bpuy8jXAYl1ahVN_zjVACgBC5g1CD2ZesgfuDmfssnH7_kQZv7g5EsaZqP22K2fqmI8Q-WeKnq5QyGEBZ2-oOz8Ux0PleShwdrz1y2Qn9pwguWOctFovePK8-v4E9HJFjmwBZuHNKfkJF8hRWcVRB_pL00HqrX3GQBmEjxXIRM.WHzP5S8hPjkAGngJfjyuAsAIWdvkS8bwO2AFd0f1dak&dib_tag=se&keywords=yamaha+hs8&qid=1716354856&sprefix=yamaha+hs8%2Caps%2C213&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=70f57a18e2c4412c44cfc243faebe22f&language=en_US&ref_=as_li_ss_tl): $798 a pair
 - Positives: Very neutral. Excellent for mixing and anything needing a neutral output.
@@ -103,6 +105,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=-jMpTspSl0U>
 - Links
     - [Official Product Page](https://www.adam-audio.com/en/t-series/t8v/)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t8v-studio-monitor-review.17118/)
 
 ### #7 [KRK Rokit 8 G4](https://www.amazon.com/KRK-RP8-Professional-Powered-Monitor/dp/B07YZQ4JNV?crid=3AKCT5MW3FDVZ&dib=eyJ2IjoiMSJ9.JxEVModU4jzJlDiXP7IkPj5TMc988Wl3cPWTR5OP-iFEtiovLQ7gs2TnwTTp0SCsL7OnQF1kyR3kpdSPUOUil3YwP1lev3c5USWlW_cyLRQs_NLMRVtbBze3ptaBlSaoh1_ef4E0N4BSVnADwzZ0RWxNojuG7eS7dwN50aeXiQJecvoKO9jhMivVTVMwoCKSnF52pv3cW9SmjVZvHdOY-XsxEz4B_L5rNeYlJ_ICdCM1mMIv3nBqjUaYycEmI3oPGMWiI65Yihv5ha-nZvr8R0tK0U_WFs66lSCutAnJP-E.IeoAwMSw5ej_5vVhuq7ndp_8RlOLKp69oa3Lg1FxmTA&dib_tag=se&keywords=rokit%2B8%2Bg4&qid=1716435118&sprefix=rokit%2B8%2Bg%2Caps%2C173&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4bbf2b71669c5852b994e5b7772e4881&language=en_US&ref_=as_li_ss_tl): $500 a pair
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
