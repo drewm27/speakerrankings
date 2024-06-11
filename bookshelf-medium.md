@@ -32,7 +32,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=g38ySbL5vhM>
     - <https://www.youtube.com/watch?v=fJVk4yPkQPs>
 - Links
-    - [Official Product Page](https://www.genelec.com/8020d#section-technical-specifications)
+    - [Official Product Page](https://www.genelec.com/8020d)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)
 
 ### #2 [Neumann KH80 DSP](https://www.amazon.com/Neumann-DSP-Powered-Studio-Monitor/dp/B06VTFL9Q6?&linkCode=ll1&tag=rankingspea01-20&linkId=f8009cb551c89b8401f8a9ec7b91220c&language=en_US&ref_=as_li_ss_tl): $1100 a pair
@@ -55,6 +55,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=PyRYDE3Skd8>
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-80-dsp-a-g/)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh-80-dsp-monitor-review.11018/)
 
 ### #3 [Focal Alpha 50 EVO](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl): $600 a pair
 - Positives: More neutral than the great HS5
@@ -98,6 +99,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=u-R-l588zmg>
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/)
 
 ### #5 [Adam Audio T5V](https://www.amazon.com/ADAM-Audio-T5V-Studio-Monitor/dp/B07BKVY3J1?crid=RNE8UPO1NDTD&dib=eyJ2IjoiMSJ9.s6GO69rhGO3RR8JiF_GYvPaMcwWQMlTgMrUasMmncTaJP-W2UW8eJ1HHpzEfKh382E7qPnlXy7V1LaBKlKomeQwQcHoiVFfkXkyxBpfQf5Znwpr41YY-_q_J3EzsJtykRCPBibZRhX5HQKpabx0zea2RTZ4AJjMc6qyXoahQcgnvRGhqP3flQPm-WGmux5pFxMXxZ2lt3n6PEJ1xP_MtIFlfpfs04Ip9LH3omYOnk3mqR0CHhieIrTQUmihz6drUoUtZpnp9UP7GHBEca5GLIpWfFqvlAMQ13cFSnebbKHs.x82H1XwQU6a-gC6AJVik6oFOyrQ8G5WDL4IuRUGN0Ik&dib_tag=se&keywords=adam%2Bt5v&qid=1718076940&sprefix=adam%2Bt5%2Caps%2C185&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e26f4d29fa8e85cbf2d52ad75e908571&language=en_US&ref_=as_li_ss_tl): $352 a pair
 - Positives: Better than the HS5 in terms of vocals detail and better low end.
@@ -115,6 +117,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=oKMhczUc0I8>
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t5v-review-studio-monitor.18122/)
 
 ### #6 [Yamaha HS5](https://www.amazon.com/Yamaha-HS5-Powered-Studio-Monitor/dp/B075Q5T7Q1?crid=31X5LUBY65SP4&dib=eyJ2IjoiMSJ9.7puFCFa_3g-pXnsDe3afQ3bv5kynT3-em4uwrC2cF931BC7U1n27I8hT4epBfmgn54KbdVlgndxy1HChF_b0AjbpSA2PxwbWh33LrMW9NF6y07CGQRvWsgFI9bSAne1OvkTkEoOTFXSc_QLTwUyGGJS39Ank141i9BFM60ZEKnYns6_9kQGPUR1yFm1QC4q28hv3Y9bhLRisI2NYYWcrCca6cBnlMAjx4RMynjDkeLjgiM4Lr3pc9F9F4ATMVaJkgkENPEfaxgO_EOjOPIYAmCUb2artTrAujSC6L4oWaHA.bTASrE4d4FXSp7yY6Y6xHNLXGQuKO-wDs1UtxHXfwNI&dib_tag=se&keywords=yamaha+hs5&qid=1716437423&sprefix=yamaha+hs%2Caps%2C238&sr=8-4&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=a590c06b6fb6ff7d7bf10fb85be451d5&language=en_US&ref_=as_li_ss_tl): $400 a pair
 - Positives: Very neutral. Excellent for mixing and anything needing a neutral output.
@@ -153,6 +156,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=KYlf6rlVack>
 - Links
     - [Official Product Page](https://www.krkmusic.com/collections/rokit-series-g4-powered-studio-monitors)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-rokit-5-gen-4-review-studio-monitor.20711/)
 
 ### #8 [IK Multimedia iLoud MTM](https://www.amazon.com/IK-Multimedia-Acoustic-Calibration-IP-ILOUD-MTM/dp/B07NC6KFL8?crid=EN9KK4647AWK&dib=eyJ2IjoiMSJ9.3qEA4Zmi4D-bFdUzuEXjtWusjFK_aVWCmLP5TINR5ms03Vn9UBEQE3-yuDLWGxXXVmHqp8j-wSUW5NfiqUf4bJV2yuUsnNU8fuE-MTw5n_zzG5k53xjG7JyvqctDkQUjdgN7YYKDkQwYo_GS2Iv_brKJPTpt6fhurNJuiA6lsIkn6rYsRwtdxKs-004JIgFx-rfDcWGaJrlb4xxG8rUBIPIwzhy6ehjpwxY1hR4L2SkotyUCe_JjSr-eAdRfFv7h-CD_DICRPPGSeLQ6MtamXGROsJ8_BlPGWD4bPEhUtRM.DoIZGp_ZGuefpuuN3UaLqSutaXenKG2PP24McG6b-YQ&dib_tag=se&keywords=iLoud+Mtm&qid=1716443319&sprefix=iloud+mtm%2Caps%2C165&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=46d97e6a4254cd194e5b776ccf1cd7fb&language=en_US&ref_=as_li_ss_tl): $800 a pair
 - Positives: The absolute deepest bass out of a speaker this narrow
@@ -173,6 +177,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Jhm85bHp9_c>
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/ik-multimedia-iloud-mtm-review-active-monitor.18347/)
 
 ### #9 [Edifier S2000MKIII](https://www.amazon.com/Edifier-S2000MKIII-Bluetooth-Bookshelf-Speakers/dp/B07ZVP9XBG?crid=1KAUATXD3LC5N&dib=eyJ2IjoiMSJ9.qOWopqxdeLeO6n2AA4DSKXlafJy8DMTL8gUoPGhLLlJkwnM_GdNR0fCexpRtgAzxwwD3SPEANekvpSaIG1uRIUSkl8-R3I9PcK7gbpBddd1hewUqSYrUp2eLAGIdapYCieDpYzRklRAaeBGOZClgl43-9coco62wJRwHGaFSp0lPNFlWpXdXH3XQLExL2ue6nCnRBerGtYT8pEADesWKWnapOnJhpdkj1RnoPcHn6i64UJ6pb5M17GOomcXeoqTwTjMVmy06BmprB2GnW_WVe3ClfQHAqA2OMJf5sn1kYR4.-Cbf-C1Riy2w5JOu1apOP4QpKYK9yoS6gpsuJHdivOc&dib_tag=se&keywords=edifier+s2000mkiii&qid=1714000498&sprefix=edifier+s2000%2Caps%2C198&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=cf75cbfff839bae1ed1d84789a84eb0c&language=en_US&ref_=as_li_ss_tl): $550 a pair
 - Positives: High resolution digital input up to 192khz/24bit
@@ -233,6 +238,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=DvEBODvCynY>
 - Links
     - [Official Product Page](https://www.krkmusic.com/collections/classic-series-powered-studio-monitors)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)
 
 ### #13 [Audioengine HD6](https://www.amazon.com/Audioengine-Wireless-Bookshelf-Speakers-Resolution/dp/B017E10MPU?crid=3C9VH2DXEWGMY&dib=eyJ2IjoiMSJ9.Sz7nabdSXw-ALEVPS7TgVN8RcZoFZe1K1GuL87GbgW-GxrpKLtO2RG9FXgEgL85eQDQMlGlj73dHvrUSg24U_LBN6B03IO_X6sDgcZEmwf-wqmC87B0NuYfv4HpjWRDyWDXvFHu8-LZh0ILTE8I3oEV4xAVVWa2L_E-RXKVvYztvfZZG90LdoOGeE1fjxvpCfjSKFBkVyKO6_NONvUgW0PePHE_v6IJGbisgOQt2-jQ.0XGs3_kHyyIBP6U49-kYen6hkvMnVa3QPakbEg4xZr8&dib_tag=se&keywords=audioengine%2Bhd6&qid=1713994066&sprefix=audioengine%2Bhd%2Caps%2C174&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73448af7b8740b189af123b4ae61ed40&language=en_US&ref_=as_li_ss_tl): $700 a pair
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.
@@ -285,6 +291,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=RfItNlPYv-U>
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/studio-monitors/mr4)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/)
 
 ### #16 [Edifier R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl): $180 a pair
 - Negatives: more V shaped, not quite as neutral sounding as the Edifier MR4
@@ -318,6 +325,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=C04EP1z7PPw>
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-r1280t-powered-speaker-review.16112/)
 
 ### #18 [Audioengine HD4](https://www.amazon.com/Audioengine-Wireless-Bluetooth-Speakers-Bookshelf/dp/B08CS1J8YW?crid=66HRBNLV0TLW&dib=eyJ2IjoiMSJ9.IoeeeZ_dNMGAnrk-wh-czF1VEVOfCrkbSAfcUsgpjh9qX5T40-Epis8KKDTg-O6-ONwd_xhbqNKTNJB6lrkSNtsh7D1csJc-ZRPbE2zDcOKQv3taqmpyJy3rpEIXZvF9irsUEvNyeMDTafzb9c6I9vkbbLCuI1-GegDIG9RFWIy-RSjcPlx4suONmFRIQrZ_dfSI0vDE6hn2vOvPScmWrBYgu8kXfehPilbcFwng_iE.YZ0xksGywV6b0MF-35pauLqcwwsXc_fecHbVta94YN4&dib_tag=se&keywords=audioengine%2Bhd4&qid=1713997298&sprefix=audioengine%2Bhd3%2Caps%2C155&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=32681d298a53763f3875e85dc06b7b2f&language=en_US&ref_=as_li_ss_tl): $400 a pair
 - Negatives: Not a great sounding speaker for the high price.
