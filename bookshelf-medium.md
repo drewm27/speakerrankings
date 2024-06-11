@@ -155,7 +155,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=PyRYDE3Skd8>
     - <https://www.youtube.com/watch?v=KYlf6rlVack>
 - Links
-    - [Official Product Page](https://www.krkmusic.com/collections/rokit-series-g4-powered-studio-monitors)
+    - [Official Product Page](https://www.krkmusic.com/products/rokit-5-generation-4-powered-studio-monitor-black)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-rokit-5-gen-4-review-studio-monitor.20711/)
 
 ### #8 [IK Multimedia iLoud MTM](https://www.amazon.com/IK-Multimedia-Acoustic-Calibration-IP-ILOUD-MTM/dp/B07NC6KFL8?crid=EN9KK4647AWK&dib=eyJ2IjoiMSJ9.3qEA4Zmi4D-bFdUzuEXjtWusjFK_aVWCmLP5TINR5ms03Vn9UBEQE3-yuDLWGxXXVmHqp8j-wSUW5NfiqUf4bJV2yuUsnNU8fuE-MTw5n_zzG5k53xjG7JyvqctDkQUjdgN7YYKDkQwYo_GS2Iv_brKJPTpt6fhurNJuiA6lsIkn6rYsRwtdxKs-004JIgFx-rfDcWGaJrlb4xxG8rUBIPIwzhy6ehjpwxY1hR4L2SkotyUCe_JjSr-eAdRfFv7h-CD_DICRPPGSeLQ6MtamXGROsJ8_BlPGWD4bPEhUtRM.DoIZGp_ZGuefpuuN3UaLqSutaXenKG2PP24McG6b-YQ&dib_tag=se&keywords=iLoud+Mtm&qid=1716443319&sprefix=iloud+mtm%2Caps%2C165&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=46d97e6a4254cd194e5b776ccf1cd7fb&language=en_US&ref_=as_li_ss_tl): $800 a pair
