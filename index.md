@@ -9,8 +9,6 @@ Watching videos on YouTube while determining which [reviewers are unbiased](/per
 
 I've got a total count of 335 speakers ranked on this website.
 
-**Use ctl-f or the search in your browser's drop down menu to search pages**
-
 ### Top Recommended Speakers
 
 - [Top Recommended Portable Bluetooth Speakers](/top-recommended/)
