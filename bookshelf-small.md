@@ -43,6 +43,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 3"
 - Inputs: RCA, Aux
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=vewagQNrZmU>
     - <https://www.youtube.com/watch?v=eNBQXkxIJNc>
     - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
 - Links

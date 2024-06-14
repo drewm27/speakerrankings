@@ -45,6 +45,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 4.1"
 - Inputs: XLR
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=vewagQNrZmU>
     - <https://www.youtube.com/watch?v=m4YU1iw1pys>
     - <https://www.youtube.com/watch?v=LcldXF0mx0I>
     - <https://www.youtube.com/watch?v=o9tzZdjAKF4>
