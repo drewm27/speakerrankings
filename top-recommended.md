@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Bluetooth Speakers
+title: The Best Portable Bluetooth Speakers
 comments: true
 ---
 
