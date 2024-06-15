@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-I've been working on finding all the best battery powered Bluetooth speakers and bookshelf powered speakers by ranking them by sound quality tested by trusted reviewers in lists categorized by size class with their tonal qualities, attributes, sound samples, comparison videos and quantitative reviews all documented so you can verify them yourself and choose a speaker that makes sense for your tastes. It also contains the best EQ tuning and setup for each speaker if possible. 
+I've been working on finding all the best battery powered Bluetooth speakers and powered bookshelf speakers by ranking them by sound quality tested by trusted reviewers in lists categorized by size class with their tonal qualities, attributes, sound samples, comparison videos and quantitative reviews all documented so you can verify them yourself and choose a speaker that makes sense for your tastes. It also contains the best EQ tuning and setup for each speaker if possible. 
 
 Watching videos on YouTube while determining which [reviewers are unbiased](/personal-ranking-of-speaker-reviewers/) and parsing through quantitative reviews to figure out the best speakers can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. 
 
@@ -13,7 +13,7 @@ I've got a total count of 335 speakers ranked on this website.
 
 - [The Best Portable Bluetooth Speakers](/top-recommended/)
 - [The Best Portable Speakers for parties over 50 people](/portable-party-speakers/)
-- [The Best Bookshelf Speakers](/bookshelf-top-recommended/)
+- [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
 
 ### Portable Powered Bluetooth Speaker Rankings
 
@@ -24,11 +24,11 @@ I've got a total count of 335 speakers ranked on this website.
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 43 speakers ranked
 - [Insane Size Bluetooth Speakers](/insane-size/): 5 speakers ranked
 
-### Bookshelf Powered Speaker Rankings
+### Powered Bookshelf Speaker Rankings
 
-- [Bookshelf Small Size Speakers](/bookshelf-small/): 5 speakers ranked
-- [Bookshelf Medium Size Speakers](/bookshelf-medium/): 18 speakers ranked
-- [Bookshelf Large Size Speakers](/bookshelf-large/): 11 speakers ranked
+- [Powered Bookshelf Small Size Speakers](/bookshelf-small/): 5 speakers ranked
+- [Powered Bookshelf Medium Size Speakers](/bookshelf-medium/): 18 speakers ranked
+- [Powered Bookshelf Large Size Speakers](/bookshelf-large/): 11 speakers ranked
 
 ### Related Products
 
