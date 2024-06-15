@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Portable Power Stations and Power Banks
-subtitle: Speaker Ranking
 comments: true
 ---
 

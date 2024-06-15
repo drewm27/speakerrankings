@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Personal Ranking of Speaker Reviewers
-subtitle: Speaker Ranking
 comments: true
 ---
 

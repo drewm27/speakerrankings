@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Information Applying to All Speakers
-subtitle: Speaker Ranking
 comments: true
 ---
 

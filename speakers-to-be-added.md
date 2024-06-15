@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Speakers to be Added
-subtitle: Speaker Ranking
 comments: true
 ---
 

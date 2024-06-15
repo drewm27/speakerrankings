@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Small/Medium Size Bluetooth Speakers
-subtitle: Speaker Ranking
 comments: true
 ---
 

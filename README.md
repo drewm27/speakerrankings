@@ -120,7 +120,6 @@ This is where you'll be able to give each page some extra parameters (such as a 
 ```
 ---
 title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
 ---
 ```
 

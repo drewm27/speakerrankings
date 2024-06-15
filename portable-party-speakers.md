@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Best Portable speakers for parties over 50 people
-subtitle: Speaker Ranking
 comments: true
 ---
 

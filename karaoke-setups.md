@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Karaoke Setups
-subtitle: Speaker Ranking
 comments: true
 ---
 

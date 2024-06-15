@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Powered Bookshelf Small Size Speakers
-subtitle: Speaker Ranking
 comments: true
 ---
 

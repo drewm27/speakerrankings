@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Best Bookshelf Speakers
-subtitle: Speaker Ranking
 comments: true
 ---
 

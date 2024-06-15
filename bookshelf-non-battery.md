@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bookshelf Non Battery Speakers
-subtitle: Speaker Ranking
 comments: true
 ---
 

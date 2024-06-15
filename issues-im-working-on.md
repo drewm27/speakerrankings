@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Issues I'm Working On
-subtitle: Speaker Ranking
 comments: true
 ---
 

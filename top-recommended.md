@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Best Bluetooth Speakers
-subtitle: Speaker Ranking
 comments: true
 ---
 

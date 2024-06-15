@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Work Currently In Progress
-subtitle: Speaker Ranking
 comments: true
 ---
 

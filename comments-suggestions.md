@@ -1,6 +1,5 @@
 ---
 layout: page
-subtitle: Speaker Ranking
 title: Comments and Suggestions
 comments: true
 ---
