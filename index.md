@@ -9,11 +9,11 @@ Watching videos on YouTube while determining which [reviewers are unbiased](/per
 
 I've got a total count of 335 speakers ranked on this website.
 
-### Top Recommended Speakers
+### Top Recommended speakers
 
-- [Top Recommended Portable Bluetooth Speakers](/top-recommended/)
-- [Top Recommended Portable Speakers for parties over 50 people](/portable-party-speakers/)
-- [Top Recommended Bookshelf Speakers](/bookshelf-top-recommended/)
+- [The Best Portable Bluetooth Speakers](/top-recommended/)
+- [The Best Portable Speakers for parties over 50 people](/portable-party-speakers/)
+- [The Best Bookshelf Speakers](/bookshelf-top-recommended/)
 
 ### Portable Powered Bluetooth Speaker Rankings
 
