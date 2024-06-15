@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Bookshelf Speakers
+title: The Best Powered Bookshelf Speakers
 comments: true
 ---
 
