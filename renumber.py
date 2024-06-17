@@ -35,7 +35,7 @@ with open('index.md') as f:
     lines = f.readlines()
 with open('index.md', 'w') as f:
     for line in lines:
-        if line.startswith('I\'ve got'):
+        if line.startswith('This website ranks a total of'):
             line = re.sub(regex, str(total), line)
         if line.startswith('Last updated '):
             date = current_datetime.strftime("%m/%d/%Y")
