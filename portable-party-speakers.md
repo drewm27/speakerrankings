@@ -4,6 +4,9 @@ title: The Best Portable speakers for parties over 50 people
 comments: true
 ---
 
+These are the best portable speakers for parties over 50 people or for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
+
+
 Speakers like the JBL Partybox 310 although they will play deeper just won't have the output needed for larger areas especially outdoors, so these are the best suggestions for extremely loud speakers.
 
 If you absolutely can't live without an internal battery and need the loudest speaker possible, you'll be limited to the [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) (EU only) or the [Soundboks Gen 3/4](https://soundboks.com/products/speakers/soundboks-4) (126db peak). [Here they are compared](https://www.youtube.com/watch?v=h_LMN0-o9VI)
