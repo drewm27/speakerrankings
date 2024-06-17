@@ -151,7 +151,7 @@ post_search: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "best Bluetooth speaker, best portable Bluetooth speaker, best Bluetooth speakers, Bluetooth speakers"
+#keywords: "best Bluetooth speaker, best portable Bluetooth speaker, best Bluetooth speakers, Bluetooth speakers"
 
 ######################################
 # --- Colours / background image --- #
