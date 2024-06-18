@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-This website ranks a total of 335 battery powered Bluetooth speakers and powered bookshelf speakers in order of sound quality tested by trusted reviewers in lists categorized by size class with their tonal qualities, positives, negatives, attributes, sound samples, comparison videos and quantitative reviews all documented so you can verify the order of the rankings yourself and choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible. None of the rankings or content is sponsored or influenced by any manufacturer. 
+This website ranks a total of 337 battery powered Bluetooth speakers and powered bookshelf speakers in order of sound quality tested by trusted reviewers in lists categorized by size class with their tonal qualities, positives, negatives, attributes, sound samples, comparison videos and quantitative reviews all documented so you can verify the order of the rankings yourself and choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible. None of the rankings or content is sponsored or influenced by any manufacturer. 
 
 Watching videos on YouTube while determining which [reviewers are unbiased](/personal-ranking-of-speaker-reviewers/) and parsing through quantitative reviews to figure out the best speakers can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. 
 
@@ -27,7 +27,7 @@ Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great 
 ### Powered Bookshelf Speaker Rankings
 
 - [Powered Bookshelf Small Size Speakers](/bookshelf-small/): 5 speakers ranked
-- [Powered Bookshelf Medium Size Speakers](/bookshelf-medium/): 18 speakers ranked
+- [Powered Bookshelf Medium Size Speakers](/bookshelf-medium/): 20 speakers ranked
 - [Powered Bookshelf Large Size Speakers](/bookshelf-large/): 11 speakers ranked
 
 ### Related Products
