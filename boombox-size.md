@@ -30,6 +30,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OoMKjAEGFMs>
     - <https://www.patreon.com/posts/tribit-stormbox-106255927>
+    - <https://www.patreon.com/posts/earfun-uboom-x-106109816>
     - <https://www.patreon.com/posts/earfun-uboom-x-106176357>
     - <https://www.patreon.com/posts/earfun-uboom-x-105747123>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-105693987>
