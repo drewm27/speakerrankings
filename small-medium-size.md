@@ -1035,7 +1035,77 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
 
-### #55 JBL Flip Essential: $130
+### #55 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
+
+- Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
+- Max Volume: 98db
+- Bass Extension: 70hz (-10dB)
+- Weight: 2.04lbs / 925g
+- Battery Life: 20 hours
+- Party Mode: Yes (PartyUp up to 50 speakers)
+- Charging: Micro USB
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=I114oDubbic>
+    - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
+
+### #56 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325): $72
+
+- Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
+- Max Volume: 87db
+- Bass Extension: 76hz (-10dB)
+- Weight: 0.93lbs / 420g
+- Latency: 166ms
+- Battery Life: 14 hours
+- Charging: Micro USB
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=IBFY9D23YJU>
+    - <https://www.youtube.com/watch?v=KjIvKngB10M>
+    - <https://www.youtube.com/watch?v=kTzczPis7ic>
+    - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/wonderboom-3)
+
+### #57 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325): $80
+
+- Negatives: Not stereo, barely any bass, recessed treble. Slightly boosted 93hz upper bass Dip at 9khz. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2019. Not technically a 360 speaker, only front and rear.
+- Max Volume: 88db
+- Bass Extension: 82hz (-10dB)
+- Weight: 0.92lbs / 420g
+- Battery Life: 12 hours
+- Charging: Micro USB
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=IBFY9D23YJU>
+    - <https://www.youtube.com/watch?v=EXMSGwFcTZI>
+
+### #58 Ultimate Ears Wonderboom:
+
+- Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
+- Weight: 0.94lbs / 425g
+- Battery Life: 10 hours
+- Charging: Micro USB
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=u-Mvo52ozoU>
+    - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
+    - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
+    - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
+
+### #59 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325): $113
+
+- Negatives: Not stereo, barely any bass, recessed treble. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2021. Lots of mentions of failing batteries on amazon. Not technically a 360 speaker, only front and rear.
+- Max Volume: 87db
+- Bass Extension: 91hz (-10dB)
+- Weight: 1.34lbs / 608g
+- Battery Life: 15 hours
+- Party Mode: Yes (PartyUp up to 50 speakers)
+- Charging: Micro USB
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
+- Links
+    - [Official Product Page](https://us.ultimateears.com/products/boom-3)
+
+### #60 JBL Flip Essential: $130
 
 - Negatives: Less bass than a Flip 5.
 - Weight: ‎1.04lbs / 471g
@@ -1048,7 +1118,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
 
-### #56 JBL Charge 3: $80
+### #61 JBL Charge 3: $80
 
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Max Volume: 100db
@@ -1071,7 +1141,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
 
-### #57 JBL Charge Essential: $180
+### #62 JBL Charge Essential: $180
 
 - Negatives: Less clarity than the Flip 4, highs rolled off. An overpriced rebranded Charge 3 for people who want stereo sound.
 - Weight: 1.7lbs / 770g
@@ -1087,7 +1157,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
 
-### #58 JBL Charge 2
+### #63 JBL Charge 2
 
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
@@ -1103,7 +1173,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/charge/JBL+CHARGE+II+PLUS.html)
 
-### #59 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325): $160
+### #64 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325): $160
 
 - Positives: Very neutral.
 - Negatives: Not stereo. Gets distorted if you turn up the bass.
@@ -1119,7 +1189,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
 
-### #60 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl): $31
+### #65 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl): $31
 
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
@@ -1135,7 +1205,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-go-bluetooth-speakers)
 
-### #61 Tribit Xsound Surf: $26
+### #66 Tribit Xsound Surf: $26
 
 - Negatives: Bass doesn't go as deep as others, strange midrange peaks
 - Weight: 0.97lbs / 440g
@@ -1145,7 +1215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
 
-### #62 [Tribit Stormbox 2](https://tribit.com/products/tribit-stormbox-2-portable-speaker): $60
+### #67 [Tribit Stormbox 2](https://tribit.com/products/tribit-stormbox-2-portable-speaker): $60
 
 - Positives: A little better sounding than the Stormbox 1, less of a rolled off treble. Keep Xbass on for best frequency response.
 - Negatives: Drivers on the side, so it will have a rolled off treble listening to it face on.
@@ -1163,7 +1233,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=req2-T3W2xo>
 
-### #63 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl): $35
+### #68 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl): $35
 
 - Negatives: Bass doesn't go as deep as others
 - Weight: 0.70lbs / 318g
@@ -1173,7 +1243,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
     - <https://www.youtube.com/watch?v=bLi4fsS23Do>
 
-### #64 [Klipsch Groove/Heritage Groove](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl): $100
+### #69 [Klipsch Groove/Heritage Groove](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl): $100
 
 - Positives: Pretty balanced sound.
 - Negatives: Not stereo. Bass doesn't go as deep as others its size. Gets distorted at higher levels. Wouldn't generally recommend these old speakers as they can't compete with modern speakers for bass performance and features.
@@ -1189,7 +1259,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/groove-portable-bluetooth-speaker)
 
-### #65 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl): $137
+### #70 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl): $137
 
 - Negatives: Muffled sounding, not very deep bass. Hollow sounding. Worse than a XB43
 - Weight: Weight: 2.86lbs / 1.3kg
@@ -1203,7 +1273,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe300-bz)
 
-### #66 [Tribit Stormbox](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl): $68
+### #71 [Tribit Stormbox](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl): $68
 
 - Negatives: Muffled sounding, treble dips from 5khz-12khz. Listening from the front is the worst frequency response, lay it down facing up with xbass off for the smoothest response. Not technically a 360 speaker, only front and rear.
 - Max Volume: 97db
@@ -1224,7 +1294,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-portable-speaker)
 
-### #67 Sony SRS-XB20
+### #72 Sony SRS-XB20
 
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.
 - Weight: 1.3lbs / 590g
@@ -1237,7 +1307,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb20/manuals)
 
-### #68 [Tronsmart T7](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl): $43
+### #73 [Tronsmart T7](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl): $43
 
 - Negatives: Peaky in the upper mids and in the mid treble. Worse bass extension than similar size speakers
 - Weight: 1.91lbs / 870g
@@ -1248,14 +1318,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-t7-portable-outdoor-speaker)
 
-### #69 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl): $20
+### #74 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl): $20
 
 - Negatives: Not much bass, peaky upper mids
 - Battery Life: 16 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZInN26jI13M>
 
-### #70 Bose SoundLink Color II
+### #75 Bose SoundLink Color II
 
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble
 - Weight: 1.3lbs / 600g
@@ -1272,7 +1342,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://support.bose.com/s/product/soundlink-color-bluetooth-speaker-ii/01t8c00000OydNUAAZ)
 
-### #71 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl): $132
+### #76 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl): $132
 
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud.
 - Max Volume: 88db
@@ -1290,7 +1360,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
 
-### #72 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl): $152
+### #77 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl): $152
 - Positives: Use "vocal" mode for the flattest response, still not great.
 - Negatives: Huge treble peaks in most sound modes, sounds sizzling and harsh. 
 - Battery Life: 15 hours
@@ -1302,7 +1372,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mwH-ItQf-bc>
 
-### #73 Hifuture Soundpro
+### #78 Hifuture Soundpro
 
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight: 1.1lbs / 500g
@@ -1312,7 +1382,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://store.hifuturegroup.com/products/soundpro)
 
-### #74 Teufel Rockster Go: €83.00
+### #79 Teufel Rockster Go: €83.00
 
 - Negatives: Rolled off treble, muffled sound, mids sound strange. Bass not very deep. Only available in Europe.
 - Weight: 1.54lbs / 700g
@@ -1324,7 +1394,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-go-105727000)
 
-### #75 Sony SRS-XB30
+### #80 Sony SRS-XB30
 
 - Negatives: Muffled sound, worse than a XB20
 - Max Volume: 95db
@@ -1338,7 +1408,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/product/srs-xb30/manuals)
 
-### #76 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325): $80
+### #81 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325): $80
 
 - Positives: Try Alan Ross's EQ for it here <https://ibb.co/q9mcNk1>
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
@@ -1356,76 +1426,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=X_Ol81BBuWk>
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
-
-### #77 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
-
-- Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
-- Max Volume: 98db
-- Bass Extension: 70hz (-10dB)
-- Weight: 2.04lbs / 925g
-- Battery Life: 20 hours
-- Party Mode: Yes (PartyUp up to 50 speakers)
-- Charging: Micro USB
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=I114oDubbic>
-    - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
-- Links
-    - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
-
-### #78 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325): $72
-
-- Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
-- Max Volume: 87db
-- Bass Extension: 76hz (-10dB)
-- Weight: 0.93lbs / 420g
-- Latency: 166ms
-- Battery Life: 14 hours
-- Charging: Micro USB
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IBFY9D23YJU>
-    - <https://www.youtube.com/watch?v=KjIvKngB10M>
-    - <https://www.youtube.com/watch?v=kTzczPis7ic>
-    - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
-- Links
-    - [Official Product Page](https://us.ultimateears.com/products/wonderboom-3)
-
-### #79 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325): $80
-
-- Negatives: Not stereo, barely any bass, recessed treble. Slightly boosted 93hz upper bass Dip at 9khz. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2019. Not technically a 360 speaker, only front and rear.
-- Max Volume: 88db
-- Bass Extension: 82hz (-10dB)
-- Weight: 0.92lbs / 420g
-- Battery Life: 12 hours
-- Charging: Micro USB
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IBFY9D23YJU>
-    - <https://www.youtube.com/watch?v=EXMSGwFcTZI>
-
-### #80 Ultimate Ears Wonderboom:
-
-- Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
-- Weight: 0.94lbs / 425g
-- Battery Life: 10 hours
-- Charging: Micro USB
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=u-Mvo52ozoU>
-    - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
-    - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
-    - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
-
-### #81 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325): $113
-
-- Negatives: Not stereo, barely any bass, recessed treble. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2021. Lots of mentions of failing batteries on amazon. Not technically a 360 speaker, only front and rear.
-- Max Volume: 87db
-- Bass Extension: 91hz (-10dB)
-- Weight: 1.34lbs / 608g
-- Battery Life: 15 hours
-- Party Mode: Yes (PartyUp up to 50 speakers)
-- Charging: Micro USB
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
-- Links
-    - [Official Product Page](https://us.ultimateears.com/products/boom-3)
 
 ### #82 W-King D8 Mini: $60
 
