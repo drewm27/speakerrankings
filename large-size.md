@@ -4,7 +4,7 @@ title: Large Size Bluetooth Speakers
 comments: true
 ---
 
-A good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit 2 of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit 2 of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
