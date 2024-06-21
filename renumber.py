@@ -5,12 +5,12 @@ import re
 from datetime import datetime
 
 count = {}
+count['total'] = 0
+count['bookshelf'] = 0
+count['portable'] = 0
 
 current_datetime = datetime.now()
 regex = re.compile('[0-9][0-9][0-9]*')
-total = 0
-bookshelf = 0
-portable = 0
 for file in os.listdir():
     newfile = ''
     number = 0
@@ -23,10 +23,10 @@ for file in os.listdir():
                     number += 1
                     if file != 'personal-ranking-of-speaker-reviewers.md':
                         if file.startswith('bookshelf-'):
-                            bookshelf += 1
+                            count['bookshelf'] += 1
                         else:
-                            portable += 1
-                        total += 1
+                            count['portable'] += 1
+                        count['total'] += 1
                     splitline = line.split(' ')
                     if splitline[1].startswith('#'):
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
@@ -42,7 +42,7 @@ with open('index.md') as f:
 with open('index.md', 'w') as f:
     for line in lines:
         if line.startswith('This website ranks a total of'):
-            line = re.sub(regex, str(total), line)
+            line = re.sub(regex, str(count['total']), line)
         if line.startswith('Last updated '):
             date = current_datetime.strftime("%m/%d/%Y")
             line = 'Last updated ' + date + '\n'
