@@ -9,6 +9,8 @@ count = {}
 current_datetime = datetime.now()
 regex = re.compile('[0-9][0-9][0-9]*')
 total = 0
+bookshelf = 0
+portable = 0
 for file in os.listdir():
     newfile = ''
     number = 0
@@ -20,6 +22,10 @@ for file in os.listdir():
                 if line.startswith('### #'):
                     number += 1
                     if file != 'personal-ranking-of-speaker-reviewers.md':
+                        if file.startswith('bookshelf-'):
+                            bookshelf += 1
+                        else:
+                            portable += 1
                         total += 1
                     splitline = line.split(' ')
                     if splitline[1].startswith('#'):

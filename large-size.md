@@ -14,7 +14,33 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $290
+### #1 [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325): $400
+
+- Positives: Generally regarded as the best midrange and treble sound quality of any battery powered Bluetooth speaker.
+- Negatives: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. There are mentions that the 2022 "new" version of this speaker doesn't sound as good.
+- Bass Extension: 48hz (-10dB)
+- Weight: 3.1lbs / 1.4kg
+- Battery Life: 8 hours
+- Aux Input: Yes
+- Charging: AC Power brick
+- App: No (official app is broken, 3rd party android app only)
+- Party Mode: No
+- TWS: No
+- IP Rating: None
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
+    - <https://www.youtube.com/watch?v=_4S4b5jsagM>
+    - <https://www.youtube.com/watch?v=_8Ji_6GzudQ>
+    - <https://www.youtube.com/watch?v=PVldZEwR2zg>
+    - <https://www.youtube.com/watch?v=RWUDaopM1sA>
+    - <https://www.youtube.com/watch?v=XB4aoHzkx04>
+    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
+    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
+    - <https://www.patreon.com/posts/soundcore-motion-94933573>
+- Links
+    - [Official Product Page](https://www.vifa.dk/pages/helsinki)
+
+### #2 [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $290
 
 - Positives: Very balanced sound. Finally USB-C charging
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
@@ -34,7 +60,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
 
-### #2 [Minirig mk3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
+### #3 [Minirig mk3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
 
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
@@ -62,7 +88,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
 
-### #3 Minirig mk2 with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
+### #4 Minirig mk2 with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
 
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces, although check out [this carrier](https://www.ebay.com/itm/333869064057). Calls itself splash resistant but has no official water rating. A bit expensive
@@ -78,32 +104,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dKyluqQNX5s>
-
-### #4 [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325): $400
-
-- Positives: Generally regarded as the best midrange and treble sound quality of any battery powered Bluetooth speaker.
-- Negatives: Would be #1 if it wasn't for the following missing features: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. There are mentions that the 2022 "new" version of this speaker doesn't sound as good.
-- Bass Extension: 48hz (-10dB)
-- Weight: 3.1lbs / 1.4kg
-- Battery Life: 8 hours
-- Aux Input: Yes
-- Charging: AC Power brick
-- App: No (official app is broken, 3rd party android app only)
-- Party Mode: No
-- TWS: No
-- IP Rating: None
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
-    - <https://www.youtube.com/watch?v=_4S4b5jsagM>
-    - <https://www.youtube.com/watch?v=_8Ji_6GzudQ>
-    - <https://www.youtube.com/watch?v=PVldZEwR2zg>
-    - <https://www.youtube.com/watch?v=RWUDaopM1sA>
-    - <https://www.youtube.com/watch?v=XB4aoHzkx04>
-    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
-    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
-    - <https://www.patreon.com/posts/soundcore-motion-94933573>
-- Links
-    - [Official Product Page](https://www.vifa.dk/pages/helsinki)
 
 ### #5 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325): $550
 
