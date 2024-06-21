@@ -787,6 +787,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=0UCLAHrrZHs>
     - <https://www.youtube.com/watch?v=oQZVBNr9zJ4>
     - <https://www.youtube.com/watch?v=ut_Q8avymTw>
+- Links
+    - [Official Product Page](https://www.klipsch.com/products/detroit)
 
 ### #42 [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325): $198
 
