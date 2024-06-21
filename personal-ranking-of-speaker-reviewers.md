@@ -4,7 +4,7 @@ title: Personal Ranking of Speaker Reviewers
 comments: true
 ---
 
-This page ranks 31 online speaker reviewers. My personal ranking of speaker reviewers and recordings, obviously this is quite subjective, but this is how much I trust their recording quality and their ability to rank neutral speakers properly. As you can see from my comments, there's a lot of sponsored biased reviewers on the bottom. 
+This page ranks 31 online speaker reviewers. This is my personal ranking of speaker reviewers and recordings, obviously this is quite subjective, but this is how much I trust their recording quality and their ability to rank neutral speakers properly. As you can see from my comments, there's a lot of sponsored biased reviewers on the bottom. 
 
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
