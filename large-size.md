@@ -780,6 +780,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Power Bank: Yes
 - Party Mode: Yes (broadcast mode)
+- TWS: Yes
 - IP Rating: IP67
 - Charging: USB-C
 - Comparisons and Sound Samples

@@ -1039,12 +1039,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Upper bass boost. Bass not as deep as the top ranked speakers. Boosted lower treble, sounds a little harsh like most Klipsch speakers.
 - Max Volume: 89dB
 - Bass Extension: ~64hz (-10dB)
+- Power Bank: Yes
 - Weight: 2.4lbs / 970g
 - Battery Life: 24 hours
 - Aux Input: No
 - Built in Microphone: Yes
 - Party Mode: Yes (broadcast mode)
 - TWS: Yes
+- IP Rating: IP67
+- Charging: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q_W1Wa63xXc>
     - <https://www.youtube.com/watch?v=QuvvD6AFvSk>
