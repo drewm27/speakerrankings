@@ -12,6 +12,8 @@ For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+There are 13 speakers ranked on this page
+
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [Genelec 8050B](https://www.guitarcenter.com/Genelec/8050B-Bi-Amplified-Monitor-System-Each-1368456531480.gc): $3800 a pair

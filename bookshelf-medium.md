@@ -12,6 +12,8 @@ For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+There are 20 speakers ranked on this page
+
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [Genelec 8020D](https://www.guitarcenter.com/Genelec/8020D-Studio-Monitor-1500000147710.gc): $1100 a pair

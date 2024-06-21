@@ -14,6 +14,8 @@ For longer runtime or off grid use, check out a [power station](/portable-power-
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+There are 5 speakers ranked on this page
+
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325): $1301

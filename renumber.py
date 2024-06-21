@@ -5,12 +5,13 @@ import re
 from datetime import datetime
 
 count = {}
+countfile = {}
 count['total'] = 0
 count['bookshelf'] = 0
 count['portable'] = 0
 
 current_datetime = datetime.now()
-regex = re.compile('[0-9][0-9][0-9]*')
+regex = re.compile(' [0-9][0-9]* ')
 for file in os.listdir():
     newfile = ''
     number = 0
@@ -35,24 +36,34 @@ for file in os.listdir():
                 else:
                     newline = line         
                 f.write(newline)
-        count[file] = number
+        if number > 0:
+            countfile[file] = number
 
 with open('index.md') as f:
     lines = f.readlines()
 with open('index.md', 'w') as f:
     for line in lines:
         if line.startswith('This website ranks a total of'):
-            line = re.sub(regex, str(count['total']), line)
+            line = re.sub(regex, ' ' + str(count['total']) + ' ', line)
         if line.startswith('Last updated '):
             date = current_datetime.strftime("%m/%d/%Y")
             line = 'Last updated ' + date + '\n'
         if line.startswith('- '):
             url = line.split('(')[1].split('/')[1]
             filename = url + '.md'
-            if filename in count:
-                if count[filename] > 0:
+            if filename in countfile:
+                if countfile[filename] > 0:
                     if filename != 'personal-ranking-of-speaker-reviewers.md':
-                        line = line.split(':')[0].strip() + ': ' + str(count[filename]) + ' speakers ranked\n'
+                        line = line.split(':')[0].strip() + ': ' + str(countfile[filename]) + ' speakers ranked\n'
                     else:
-                        line = line.split(':')[0].strip() + ': ' + str(count[filename]) + ' reviewers ranked\n'
+                        line = line.split(':')[0].strip() + ': ' + str(countfile[filename]) + ' reviewers ranked\n'
         f.write(line)
+
+for file in countfile:
+    with open(file) as f:
+        lines = f.readlines()
+    with open(file, 'w') as f:
+        for line in lines:
+            if line.startswith('There are'):
+                line = re.sub(regex, ' ' + str(countfile[file]) + ' ', line)
+            f.write(line)

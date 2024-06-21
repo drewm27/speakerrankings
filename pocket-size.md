@@ -10,6 +10,8 @@ To the average non-audiophile, generally speakers in the top 50% of this categor
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
+There are 29 speakers ranked on this page
+
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325): $48

@@ -12,6 +12,8 @@ For longer runtime, check out a [power station](/portable-power-stations/).
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+There are 55 speakers ranked on this page
+
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 Earfun Uboom X: Scheduled for release in June 2024 likely around $150-200
