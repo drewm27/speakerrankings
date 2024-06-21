@@ -1046,6 +1046,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Party Mode: Yes (broadcast mode)
 - TWS: Yes
+- App: Yes
 - IP Rating: IP67
 - Charging: USB-C
 - Comparisons and Sound Samples
