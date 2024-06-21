@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-This website ranks a total of 340 battery powered Bluetooth speakers and powered bookshelf speakers in order of sound quality tested by trusted reviewers in lists categorized by size class with their tonal qualities, positives, negatives, attributes, sound samples, comparison videos and quantitative reviews all documented so you can verify the order of the rankings yourself and choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible. The rankings and content are not sponsored or influenced by any manufacturer. 
+This website ranks a total of 341 battery powered Bluetooth speakers and powered bookshelf speakers in order of sound quality tested by trusted reviewers in lists categorized by size class with their tonal qualities, positives, negatives, attributes, sound samples, comparison videos and quantitative reviews all documented so you can verify the order of the rankings yourself and choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible. The rankings and content are not sponsored or influenced by any manufacturer. 
 
 Watching videos on YouTube while determining which [reviewers are unbiased](/personal-ranking-of-speaker-reviewers/) along with parsing through quantitative reviews to figure out the best speakers can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. 
 
@@ -19,7 +19,7 @@ Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great 
 
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 28 speakers ranked
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 108 speakers ranked
-- [Large Size Bluetooth Speakers](/large-size/): 63 speakers ranked
+- [Large Size Bluetooth Speakers](/large-size/): 64 speakers ranked
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 55 speakers ranked
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 43 speakers ranked
 - [Insane Size Bluetooth Speakers](/insane-size/): 5 speakers ranked
