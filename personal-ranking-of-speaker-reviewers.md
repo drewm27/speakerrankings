@@ -4,11 +4,9 @@ title: Personal Ranking of Speaker Reviewers
 comments: true
 ---
 
-My personal ranking of speaker reviewers and recordings, obviously this is quite subjective, but this is how much I trust their recording quality and their ability to rank neutral speakers properly. As you can see from my comments, there's a lot of sponsored biased reviewers on the bottom. 
+This page ranks 31 online speaker reviewers. My personal ranking of speaker reviewers and recordings, obviously this is quite subjective, but this is how much I trust their recording quality and their ability to rank neutral speakers properly. As you can see from my comments, there's a lot of sponsored biased reviewers on the bottom. 
 
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
-
-There are 31 reviewers ranked on this page
 
 ### #1 [oluvsgadgets](https://www.youtube.com/@oluvsgadgets) and [Oluv's Patreon](https://www.patreon.com/oluvsgadgets/posts)
 - By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality and has always given an unbiased review of good and bad speakers. His recordings and recording equipment are all custom and tuned for the most neutral response I've heard from any video on Youtube. One of the best creators of speaker EQs around.

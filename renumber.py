@@ -80,6 +80,6 @@ for file in countfile:
         lines = f.readlines()
     with open(file, 'w') as f:
         for line in lines:
-            if line.startswith('There are'):
+            if line.startswith('This page ranks'):
                 line = re.sub(regex, ' ' + str(countfile[file]) + ' ', line)
             f.write(line)
