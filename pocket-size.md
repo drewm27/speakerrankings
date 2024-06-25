@@ -481,6 +481,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - App: No
 - EQ: No
+- MicroSD: Yes
+- Aux Input: Yes
+- TWS: Yes
+- IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
 - Links
@@ -524,10 +528,15 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #27 Harman Kardon Esquire Mini 2: $100
 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
+- Bass Extension: ~120hz (-10dB)
+- Weight: 0.55lbs / 250g
 - Battery Life: 10 hours
-- Power Bank: No
+- Power Bank: Yes
+- Built in Microphone: Yes
 - App: No
 - EQ: No
+- TWS: No
+- Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
     - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
@@ -541,7 +550,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension: 105hz (-10dB)
 - Weight: 0.55lbs / 251g
 - Battery Life: 10 hours
+- Power Bank: No
 - TWS: No
+- App: No
+- EQ: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
 - Links
