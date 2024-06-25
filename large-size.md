@@ -956,6 +956,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=v_8Guk1NPa8>
     - <https://www.youtube.com/watch?v=sDLWQNloXgk>
     - <https://www.youtube.com/watch?v=Y__GH361JtQ>
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/d9)
 
 ### #54 Orange Box: £275
 
@@ -966,6 +968,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/orange-box-98897294>
+- Links
+    - [Official Product Page](https://orangeamps.com/product/orange-box/)
 
 ### #55 Laney F67: $340
 
@@ -977,6 +981,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=JYhhBiyZzg4>
     - <https://www.youtube.com/watch?v=w94Uc4SJwiw>
+- Links
+    - [Official Product Page](https://www.laney.co.uk/lifestyle/laney-sound-systems/f67-lionheart)
 
 ### #56 LG Xboom XG7: $120
 
@@ -984,6 +990,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=7KG0dPs-xUQ>
+- Links
+    - [Official Product Page](https://www.lg.com/us/speakers/lg-xg7qbk-portable-bluetooth-speaker)
 
 ### #57 LG Xboom Go PL7: $70
 
@@ -996,6 +1004,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZUJrVyWU8Xs>
     - <https://www.youtube.com/watch?v=AxRJ-7Ac4LU>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
+- Links
+    - [Official Product Page](https://www.lg.com/us/speakers/lg-pl7-portable-bluetooth-speaker)
 
 ### #58 Bugani M83: $60
 
@@ -1007,15 +1017,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 
-### #59 Hopestar A6: $86
+### #59 Hopestar A6 Pro: $86
 
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - Bass Extension: 63hz (-10dB)
 - Battery Life: 4 hours
 - Aux Input: Yes
 - Power Bank: Yes
+- MicroSD: Yes
+- IP Rating: IPX6
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
+- Links
+    - [Official Product Page](https://hopestarshop.com/products/hopestar-a6-pro)
+
 
 ### #60 Soundcore Trance/Rave Mega
 
@@ -1030,7 +1045,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ePD09iI6qkI>
     - <https://www.youtube.com/watch?v=KNfh6TuyLi0>
 
-### #61 Ortizan M8
+### #61 [Ortizan M8](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl): $70
 
 - Negatives: Not much bass, bass distortion and rattle at high volume.
 - Weight: 4.63lbs / 2.1kg
@@ -1052,8 +1067,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=se-REq7pJ3s>
+- Links
+    - [Official Product Page](https://www.dossaudio.com/products/extreme-boom)
 
-### #63 [Zealot S-67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl): $80
+### #63 [Zealot S67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl): $80
 - Negatives: A lot of distortion above 50%, no deep bass, rolled off treble. Just not a good sounding speaker.
 - Weight: 5.29lbs / 2.4kg
 - Battery Life: 20 hours
@@ -1063,11 +1080,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qFEtEaSZnqc>
     - <https://www.youtube.com/watch?v=76ysec3eNto>
+- Links
+    - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
 
 ### #64 [T&G 118](https://www.aliexpress.us/item/2255800259053891.html): $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
 - Weight: 2.42lbs / 1.1kg
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=rE6oDyPAdwU>
+- Links
+    - [Official Product Page](https://tstarelectronics.com/product/tg-118-portable-bluetooth-speaker/)
 
 As an Amazon Associate I earn from qualifying purchases.
