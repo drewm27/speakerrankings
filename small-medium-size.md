@@ -242,6 +242,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Power Bank: No
 - Aux Input: Yes
+- App: Yes
+- EQ: Yes
 - Built in Microphone: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
@@ -374,7 +376,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
+- Power Bank: No
+- App: No
+- EQ: No
+- Power Input: USB-C
 - TWS: Yes
+- IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=y4DYttybhJ8>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
@@ -444,6 +451,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.48lbs / 1.13kg
 - Battery Life: 12 hours
 - IP Rating: IP67
+- TWS: Yes
+- App: No
+- EQ: No
+- Aux Input: No
+- MicroSD: No
+- USB Playback: Yes
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
@@ -538,6 +551,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~62hz (-10dB)
 - Weight: 1.64lbs / 742g
 - Battery Life: 12 hours
+- TWS: No
+- App: No
+- EQ: No
+- Aux Input: Yes
+- IP Rating: IPX7
+- Built in Microphone: Yes
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-qiyBrX1m-g>
     - <https://www.youtube.com/watch?v=7GjQ0VXYYqo>
@@ -552,7 +572,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 100db
 - Bass Extension: 61hz (-10dB)
 - Weight: 1.29lbs / 585g
+- Built in Microphone: Yes
+- TWS: Yes
+- App: No
+- EQ: No
+- Aux Input: No
 - Battery Life: 16 hours
+- IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q_tg3wXjK3k>
     - <https://www.youtube.com/watch?v=8v9BcBgOIpU>
@@ -567,6 +593,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not quite as deep of bass as others. Only available in Europe.
 - Weight: 1.59lbs / 720g
 - Battery Life: 14 hours
+- Power Bank: Yes
 - Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
@@ -604,8 +631,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.3lbs / 589g
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
+- App: Yes
+- EQ: No
+- Party Mode: Yes
 - Battery Life: 12 hours
 - Built in Microphone: Yes
+- IP Rating: IP67
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QT9dcySUf_U>
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
