@@ -31,7 +31,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Aux Input: Yes
 - Built in Microphone: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
@@ -97,7 +97,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Built in Microphone: Yes
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
@@ -126,7 +126,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Aux Input: No
 - Built in Microphone: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - App: Yes
 - EQ: Yes
 - IP Rating: IPX7
@@ -151,7 +151,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 13 hours
 - Aux Input: Yes
 - Latency: 180ms
-- Charging: Micro USB
+- Power Input: Micro USB
 - Built in Microphone: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
@@ -177,7 +177,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: yes
 - TWS: Yes (Bluetooth or cable)
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0WY6HxN_gU>
@@ -200,7 +200,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes (Bluetooth or cable)
 - Built in Microphone: No
 - Aux Input: Yes
-- Charging: Proprietary USB cable
+- Power Input: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>
@@ -226,7 +226,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes (cable)
 - Built in Microphone: No
 - Aux Input: Yes
-- Charging: Proprietary USB cable
+- Power Input: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>
@@ -322,7 +322,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: yes
 - TWS: No
 - Aux Input: Yes
-- Charging: Micro USB
+- Power Input: Micro USB
 - IP Rating: IPX7
 - Built in Microphone: Yes
 - Comparisons and Sound Samples
@@ -341,7 +341,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - TWS: yes
 - Aux Input: No
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Psmgg5ZJCvs>
@@ -358,7 +358,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - TWS: yes
 - Aux Input: No
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=LnNR_uVowaw>
@@ -444,7 +444,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.48lbs / 1.13kg
 - Battery Life: 12 hours
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
 - Links
@@ -463,7 +463,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - MicroSD: Yes
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Latency: 90ms
 - Aux Latency: 16ms
 - Comparisons and Sound Samples
@@ -484,7 +484,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.61lbs / 731g
 - Battery Life: 24 hours
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WIS2Jk83EI8>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
@@ -524,7 +524,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - TWS: Yes
 - Party Mode: No
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
     - <https://www.youtube.com/watch?v=7ZnTEkAwy98>
@@ -586,7 +586,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Aux Latency: 16ms
 - Latency: SBC 233ms, AAC 240ms
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HF3eKZM-ZTs>
     - <https://www.youtube.com/watch?v=k8tm3FwCkWM>
@@ -667,7 +667,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Aux Input: No
 - Built in Microphone: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMOTcXiWXvQ>
@@ -750,7 +750,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2lbs / 0.91kg
 - Battery Life: 17 hours
 - Aux Input: Yes
-- Charging: Micro USB
+- Power Input: Micro USB
 - IP Rating: IP55
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=upSSUEct7Gk>
@@ -766,7 +766,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2lbs / 0.91kg
 - Battery Life: 16 hours
 - Aux Input: Yes
-- Charging: Micro USB
+- Power Input: Micro USB
 - IP Rating: IP55
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
@@ -797,7 +797,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.46lbs / 660g
 - Battery Life: 12 hours
 - Aux Input: Yes
-- Charging: Micro USB
+- Power Input: Micro USB
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
 - Comparisons and Sound Samples
@@ -1010,7 +1010,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: No
-- Charging: Micro USB
+- Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - <https://www.youtube.com/watch?v=wS7xhzv6Beg>
@@ -1048,7 +1048,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: Yes
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q_W1Wa63xXc>
     - <https://www.youtube.com/watch?v=QuvvD6AFvSk>
@@ -1064,7 +1064,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.04lbs / 925g
 - Battery Life: 20 hours
 - Party Mode: Yes (PartyUp up to 50 speakers)
-- Charging: Micro USB
+- Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=I114oDubbic>
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
@@ -1079,7 +1079,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.93lbs / 420g
 - Latency: 166ms
 - Battery Life: 14 hours
-- Charging: Micro USB
+- Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IBFY9D23YJU>
     - <https://www.youtube.com/watch?v=KjIvKngB10M>
@@ -1095,7 +1095,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 82hz (-10dB)
 - Weight: 0.92lbs / 420g
 - Battery Life: 12 hours
-- Charging: Micro USB
+- Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IBFY9D23YJU>
     - <https://www.youtube.com/watch?v=EXMSGwFcTZI>
@@ -1105,7 +1105,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
 - Weight: 0.94lbs / 425g
 - Battery Life: 10 hours
-- Charging: Micro USB
+- Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=u-Mvo52ozoU>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
@@ -1120,7 +1120,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.34lbs / 608g
 - Battery Life: 15 hours
 - Party Mode: Yes (PartyUp up to 50 speakers)
-- Charging: Micro USB
+- Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
@@ -1149,7 +1149,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Bank: Yes
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Charging: Micro USB
+- Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fxoGZdNakIg>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
@@ -1168,7 +1168,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.7lbs / 770g
 - Battery Life: 20 hours
 - Power Bank: Yes
-- Charging: Micro USB
+- Power Input: Micro USB
 - Party Mode: No
 - EQ: No
 - App: No
@@ -1272,7 +1272,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 8 hours
 - Aux Input: Yes
 - IP Rating: IPX4 (Groove), none (Heritage Groove)
-- Charging: Micro USB
+- Power Input: Micro USB
 - TWS: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=V1pufWw-lrg>
@@ -1389,7 +1389,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - MicroSD: Yes
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mwH-ItQf-bc>
 
@@ -1613,7 +1613,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.66lbs / 300g
 - Battery Life: 8 hours
 - IP Rating: IPX5
-- Charging: Micro USB
+- Power Input: Micro USB
 - Aux Input: Yes
 - MicroSD: Yes
 - Comparisons and Sound Samples

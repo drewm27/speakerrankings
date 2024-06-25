@@ -22,7 +22,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.1lbs / 1.4kg
 - Battery Life: 8 hours
 - Aux Input: Yes
-- Charging: AC Power brick
+- Power Input: AC Power brick
 - App: No (official app is broken, 3rd party android app only)
 - Party Mode: No
 - TWS: No
@@ -53,7 +53,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: yes
 - TWS: Yes (Bluetooth or cable)
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=a0WY6HxN_gU>
@@ -75,7 +75,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: yes
 - TWS: Yes (Bluetooth or cable)
 - Aux Input: Yes
-- Charging: Proprietary USB cable
+- Power Input: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=e8lfiOep2pU>
@@ -100,7 +100,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - TWS: Yes (cable)
 - Aux Input: Yes
-- Charging: Proprietary USB cable
+- Power Input: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dKyluqQNX5s>
@@ -115,7 +115,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - IP Rating: None
 - App: No (official app is broken, 3rd party android app only)
-- Charging: AC Power brick
+- Power Input: AC Power brick
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
@@ -141,7 +141,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - TWS: Yes
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mIeR8bNN29A>
     - <https://www.youtube.com/watch?v=PZwvg4i-qYU>
@@ -165,7 +165,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: yes
 - TWS: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IPX7
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Comparisons and Sound Samples
@@ -192,7 +192,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - TWS: No
 - IP Rating: IPX4
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - <https://www.youtube.com/watch?v=HBky_51Uq_g>
@@ -211,7 +211,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: Yes (Mozart 2.0)
 - IP Rating: IP65
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=oB-ZC5qTUHw>
 - Links
@@ -234,7 +234,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - TWS: Yes
 - IP Rating: IPX7
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
     - <https://www.youtube.com/watch?v=PZwvg4i-qYU>
@@ -252,7 +252,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.4 lbs / 1.1kg
 - Battery Life: 24 hours
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Power Bank: Yes
 - TWS: Yes
 - IP Rating: None
@@ -272,7 +272,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: No
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OoMKjAEGFMs>
     - <https://www.youtube.com/watch?v=GnSjq7JxJ-Q>
@@ -293,7 +293,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - TWS: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
@@ -316,7 +316,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Party Mode: Yes (over Wifi)
 - Wifi: Yes
-- Charging: AC cable
+- Power Input: AC cable
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=g05lODItS4w>
@@ -336,7 +336,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux Input: Yes
 - TWS: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=7eQFNduP7ak>
@@ -358,7 +358,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Power Bank: Yes
 - Aux Input: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - TWS: Yes
 - Comparisons and Sound Samples
@@ -375,8 +375,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Battery Life: 16 hours
 - Aux Input: Yes
-- Charging: AC Power Brick
-- Charging: USB-C
+- Power Input: AC Power Brick
+- Power Input: USB-C
 - IP Rating: IPX5
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-LuC0Y1_kXU>
@@ -396,7 +396,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Wifi: Yes
 - IP Rating: IP56
-- Charging: USB-C
+- Power Input: USB-C
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eyhUDYKHtg8>
@@ -415,7 +415,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - EQ: Yes (Bass boost 3 steps)
 - TWS: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tIsmoHIQ5-I>
     - <https://www.youtube.com/watch?v=5tz_AnBghiA>
@@ -437,7 +437,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wifi: Yes
 - Battery Life: 11 hours
 - Power Bank: No
-- Charging: USB-C (requires USB-C PD 12v minimum)
+- Power Input: USB-C (requires USB-C PD 12v minimum)
 - IP Rating: IP56
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=V4Nq-rVAP1k>
@@ -449,7 +449,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Deeper bass than the non-plus version.
 - Power Bank: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=O0YSspRqEoY>
     - <https://www.youtube.com/watch?v=wYjoQjCACcQ>
@@ -460,7 +460,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Power bank.
 - Negatives: Slightly boosted bass
 - Battery Life: 10 hours
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gz-JI1aDaE8>
     - <https://www.youtube.com/watch?v=XElKWWmN9R8>
@@ -479,7 +479,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: No
 - EQ: No
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=hAfUPwhnD4A>
 
@@ -489,7 +489,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange which cannot be EQd out. Some upper mids and treble boost at high levels.
 - Weight: 4.63lbs / 2.1kg
 - Battery Life: 24 hours
-- Charging: USB-C
+- Power Input: USB-C
 - Power Bank: Yes
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
@@ -532,7 +532,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.8lbs / 1.72kg
 - Battery Life: 35 hours
 - Aux Input: Yes
-- Charging: AC Power brick
+- Power Input: AC Power brick
 - Power Bank: Yes
 - IP Rating: IP67
 - Built in Microphone: Yes
@@ -746,7 +746,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - IP Rating: IPX4
-- Charging: AC Power brick
+- Power Input: AC Power brick
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZNob1QwXiqY>
     - <https://www.youtube.com/watch?v=TiVx4pPl1GE>
@@ -783,7 +783,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - App: Yes
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lzMYAggcAmI>
     - <https://www.youtube.com/watch?v=0UCLAHrrZHs>
@@ -962,7 +962,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
 - Weight: 6.62lbs / 3 kg
 - Aux Input: Yes
-- Charging: AC Power brick
+- Power Input: AC Power brick
 - Battery Life: 15 hours
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/orange-box-98897294>

@@ -32,6 +32,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Guitar Input: Yes
 - Microphone Input: Yes
 - IP Rating: IPX4
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=AFaO3biTmZc>
     - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
@@ -54,6 +55,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Aux Input: Yes
 - IP Rating: None
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RwC1QG90RoY>
 - Links
@@ -74,6 +76,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Guitar Input: Yes
 - Microphone Input: Yes
 - IP Rating: IPX4
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=cMer55HGz38>
     - <https://www.youtube.com/watch?v=srx-SAaqFjw>
@@ -93,7 +96,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Guitar Input: Yes
 - Microphone Input: Yes
 - XLR Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
@@ -118,7 +121,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - App: Yes
 - EQ: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1yVnCeuW9uA>
     - <https://www.youtube.com/watch?v=RU02J2XZhYg>

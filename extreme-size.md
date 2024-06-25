@@ -30,7 +30,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Guitar Input: Yes
 - Party Mode: Yes (Auracast)
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: IPX4
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qQ34Z6813oM>
@@ -54,7 +54,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Guitar Input: Yes
 - Party Mode: No
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: IPX4
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
@@ -81,7 +81,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (5 band)
 - TWS: Yes
 - Party Mode: Yes (Auracast)
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: IPX4
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QTQqAp-JtU0>
@@ -99,7 +99,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Bank: Yes
 - USB Playback: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Microphone Input: Yes
 - Guitar Input: Yes
 - IP Rating: None
@@ -139,7 +139,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (3 band)
 - TWS: Yes
 - Party Mode: No
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: IPX4
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
@@ -157,7 +157,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Bank: Yes
 - USB Playback: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: None
 - Microphone Input: Yes
 - Guitar Input: Yes
@@ -185,7 +185,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: IP43
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bxW813jlJKc>
@@ -202,14 +202,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 14.4lbs / 6.5kg
 - Battery Life: 11 hours
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - IP Rating: None
 - Microphone Input: Yes
 - XLR Input: Yes
 - App: Yes
 - EQ: Yes
 - Party Mode: Yes (Bose Party mode)
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - TWS: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
@@ -256,7 +256,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - App: Yes
 - EQ: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TOACab8wPxw>
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
@@ -277,7 +277,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Guitar Input: Yes
 - App: Yes
 - EQ: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=K9qr4EoEqpQ>
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
@@ -295,7 +295,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - FM Radio: Yes
 - Microphone Input: Yes
 - Guitar Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Party Mode: Yes
 - IP Rating: IPX4
 - Comparisons and Sound Samples
@@ -313,7 +313,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Power Bank: Yes
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - App: Yes
 - Microphone Input: Yes
 - Party Mode: Yes (Samsung Group Play up to 10 speakers)
@@ -356,7 +356,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Guitar Input: Yes
 - Party Mode: Yes
-- Charging: AC Power Brick
+- Power Input: AC Power Brick
 - Removable Battery: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
@@ -373,7 +373,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 30 hours
 - Aux Input: Yes
 - Power Bank: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zjX4rJ6qLZ4>
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
@@ -397,7 +397,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes
 - TWS: Yes
 - App: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Removable Battery: Yes
 - IP Rating: IP65
 - Comparisons and Sound Samples
@@ -420,7 +420,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Guitar Input: Yes
 - TWS: Yes
 - App: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Party Mode: Yes
 - Removable Battery: Yes
 - IP Rating: IP65
@@ -442,7 +442,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Guitar Input: Yes
 - TWS: No
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Removable Battery: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
@@ -461,7 +461,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux Input: Yes
 - Party Mode: Yes (PartyUp up to 50 speakers)
-- Charging: AC Power brick
+- Power Input: AC Power brick
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
@@ -478,7 +478,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 20lbs / 9kg
 - Battery Life: 40 hours
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=LeFRtL44rt8>
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
@@ -521,7 +521,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 16.4lbs / 7.44kg
 - Battery Life: No battery
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=U6Sec5_16x4>
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
@@ -535,7 +535,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 18.9lbs / 8.57kg
 - Battery Life: No battery
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
     - <https://www.youtube.com/watch?v=K3350eIvszw>
@@ -548,7 +548,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.4lbs / 7.9kg
 - Battery Life: No battery
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
     - <https://www.youtube.com/watch?v=K3350eIvszw>
@@ -576,7 +576,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Party Mode: Yes
 - TWS: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
@@ -591,7 +591,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 7.7lbs / 3.5kg
 - Battery Life: 16 hours
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
     - <https://www.youtube.com/watch?v=YIpbJERmRpk>
@@ -603,7 +603,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
 - Weight: 25lbs / 11kg
 - Aux Input: Yes
-- Charging: AC Power brick
+- Power Input: AC Power brick
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
@@ -619,7 +619,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 27lbs / 12.5kg
 - Battery Life: 4 hours
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=wqROpxcZmrk>
     - <https://www.youtube.com/watch?v=GTqpcjfd3Fo>
@@ -637,7 +637,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Party Sync Mode)
 - Aux Input: Yes
 - Power Bank: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RXeTaLUzgAo>
     - <https://www.youtube.com/watch?v=dq1JLYaRwkk>
@@ -651,7 +651,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17lbs / 7.7kg
 - Battery Life: 14 hours
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=O6SWv8lnpCI>
     - <https://www.youtube.com/watch?v=rMX9Y-OpNoc>
@@ -666,7 +666,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Aux Input: Yes
 - Power Bank: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=UrgQkhzAe0U>
 - Links
@@ -680,7 +680,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 14.3lbs / 6.5kg
 - Aux Input: Yes
 - Power Bank: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_jlJnhPyALs>
     - <https://www.youtube.com/watch?v=dXoD0Yv_iLM>
@@ -692,7 +692,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz (-10dB)
 - Weight: 19lbs / 8.6kg
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uiRxrnvyvCw>
 - Links
@@ -722,7 +722,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux Input: Yes
 - Power Bank: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
 
@@ -735,7 +735,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Bank: Yes
 - Party Mode: Yes (Partychain up to 100 speakers)
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=R4s5LPfdj7g>
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
@@ -751,7 +751,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partychain up to 100 speakers)
 - USB Playback: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qY0Cdd2QJTU>
 
@@ -765,7 +765,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partychain up to 100 speakers)
 - USB Playback: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yq29uHBJKjI>
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
@@ -781,7 +781,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - FM Radio: Yes
 - Microphone Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
 
@@ -793,7 +793,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 11.8lbs / 5.4kg
 - Battery Life: 6 hours
 - Aux Input: Yes
-- Charging: AC Power cord
+- Power Input: AC Power cord
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eVlB4zq2Q0I>
     - <https://www.youtube.com/watch?v=28bFX3K9Gzs>

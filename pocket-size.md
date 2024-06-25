@@ -29,7 +29,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: No
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - <https://www.youtube.com/watch?v=7LsffgrbXYc>
@@ -60,7 +60,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes (Bluetooth or cable)
 - Party Mode: No
 - Aux Input: Yes
-- Charging: Proprietary USB cable
+- Power Input: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
@@ -84,7 +84,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes (cable)
 - Party Mode: No
 - Aux Input: Yes
-- Charging: Proprietary USB cable
+- Power Input: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
@@ -104,7 +104,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Party Mode: No
 - Built in Microphone: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -122,7 +122,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IP67
 - TWS: Yes
 - Party Mode: No
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
@@ -144,7 +144,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (Partycast up to 100 speakers)
 - IP Rating: IPX7
 - Built in Microphone: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
 
@@ -163,7 +163,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Built in Microphone: Yes
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
@@ -182,7 +182,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - TWS: Yes
 - IP Rating: IPX4
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links
@@ -201,7 +201,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes
 - Built in Microphone: Yes
 - IP Rating: IPX7
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=X2i_dJCrwlc>
     - <https://www.youtube.com/watch?v=che2VHKbnhA>
@@ -220,7 +220,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (Marshall Stack)
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FZWU9gzzac0>
     - <https://www.youtube.com/watch?v=q9u7iRmRdjk>
@@ -243,7 +243,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: Yes
 - TWS: Yes
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FQqBTAap4Gw>
     - <https://www.youtube.com/watch?v=iri3WLn6DBs>
@@ -266,7 +266,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (Bose Party mode)
 - IP Rating: IP67
 - Built in Microphone: Yes
-- Charging: Micro-USB
+- Power Input: Micro-USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>
     - <https://www.youtube.com/watch?v=oTE4EgEict4>
@@ -284,7 +284,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: No
 - IP Rating: None
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links
@@ -305,7 +305,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
 - Links
@@ -321,7 +321,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: Yes (Auracast)
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
 - Links
@@ -340,7 +340,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: No
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
@@ -359,7 +359,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes
 - TWS: Yes
 - Party Mode: Yes (Auracast)
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
@@ -399,7 +399,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Party Mode: No
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uWv_SRZh3TE>
     - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
@@ -420,7 +420,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Party Mode: No
 - IP Rating: IP67
-- Charging: USB-C
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
@@ -438,7 +438,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - TWS: No
 - Party Mode: No
-- Charging: AC Wall wart
+- Power Input: AC Wall wart
 - Aux Input: Yes (integrated 3.5mm cable)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
@@ -456,7 +456,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: No
 - EQ: No
 - TWS: No
-- Charging: Micro-USB
+- Power Input: Micro-USB
 - Party Mode: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
@@ -513,7 +513,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension: ~90hz (-10dB)
 - Weight: 0.41lbs / 187g
 - Battery Life: 8 hours
-- Charging: USB-C
+- Power Input: USB-C
 - IP Rating: IPX5
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=3JsU3QYYRrk>
