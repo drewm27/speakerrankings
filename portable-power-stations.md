@@ -14,6 +14,7 @@ Computing runtime for a power station will be a little difficult for speakers as
 
 Note most Power Stations cannot be taken on airplanes as they have a 100Wh limit for batteries
 
+All of the companies below make very reliable power stations
 
 1. [Ecoflow](https://www.amazon.com/stores/page/49BD72BC-B81B-44B9-9006-F70BB206428B?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=28337f94f8816ce952ac368ef8ce4d91&camp=1789&creative=9325)
 1. [Jackery](https://www.amazon.com/stores/page/1E4C6D32-F39D-4E45-8FD7-AC96F40102F9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e8b189dc201897b3057b0b57b068158&camp=1789&creative=9325)
@@ -21,7 +22,7 @@ Note most Power Stations cannot be taken on airplanes as they have a 100Wh limit
 1. [Anker Solix](https://www.amazon.com/s?k=anker+solix&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=22e798e437ff17c2e641f0363cea1c19&camp=1789&creative=9325)
 
 
-### Power Banks for speakers that need USB
+### Smaller Power Banks for speakers that need USB
 
 For "large size" and smaller speakers that charge over USB you can use a power bank depending on the run time you want out of your speaker.
 
