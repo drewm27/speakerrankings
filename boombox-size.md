@@ -409,18 +409,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
 
-### #18 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325): $225
+### #18 [W-King X20/D20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325): $225
+- Positives: D20 version comes with 2 wireless microphones
 - Negatives: Rising frequency response but upper treble rolled off, 1khz and 4.3khz peaks
 - Max Volume: 112db
 - Bass Extension: ~42hz (-10dB)
 - EQ: Yes
 - App: Yes
 - Aux Input: Yes
+- USB Playback: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - Power Input: USB-C
 - TWS: Yes
-- IP Rating: IPX7
+- IP Rating: IPX6
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
     - <https://www.youtube.com/watch?v=_JZH0Tc2OO8>
@@ -428,6 +430,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
     - <https://www.youtube.com/watch?v=-n-io_2nW3o>
     - <https://www.youtube.com/watch?v=xMVzR5IgoAQ>
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/d20)
 
 ### #19 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325): $350
 

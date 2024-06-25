@@ -739,10 +739,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
 - Battery Life: 24 hours
+- Aux Input: Yes
+- Built in Microphone: Yes
 - MicroSD: Yes
+- App: Yes
+- EQ: Yes
+- TWS: Yes
+- IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kDib9gjeaPQ>
     - <https://www.youtube.com/watch?v=3zEtJi4u-F8>
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/w-king-d320-40w-portable-speaker)
 
 ### #38 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325): $300
 
