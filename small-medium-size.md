@@ -761,6 +761,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - IP Rating: IP67
+- App: Yes
+- EQ: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
 - Links
