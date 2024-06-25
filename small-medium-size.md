@@ -712,6 +712,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~63hz (-10dB)
 - Weight: 1.23lbs / 560g
 - Battery Life: 16 hours
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mqqE0rqYLNQ>
 
@@ -720,9 +721,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 65hz (-10dB)
 - Battery Life: 12 hours
 - Aux Input: No
+- App: Yes
+- EQ: Yes
 - Power Bank: No
+- Aux Input: No
 - TWS: yes
 - IP Rating: IPX7
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/soundcore-motion-94092689>
 - Links
@@ -736,6 +741,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.16lbs / 980g
 - Battery Life: 24 hours
 - Party Mode: No
+- TWS: Yes
+- Power Input: USB-C
+- IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
     - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
@@ -752,6 +760,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.2lbs / 1500g
 - Battery Life: 12 hours
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
 - Links
