@@ -3,6 +3,8 @@ layout: home
 title: Speaker Ranking
 ---
 
+![Earfun Uboom L and Tribit Stormbox Blast](/assets/img/uboomlblast.jpg)
+
 This website ranks a total of 343 battery powered Bluetooth speakers and powered bookshelf speakers in order of sound quality tested by trusted reviewers in lists categorized by size class with their tonal qualities, positives, negatives, attributes, sound samples, comparison videos and quantitative reviews all documented so you can verify the order of the rankings yourself and choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible. The rankings and content are not sponsored or influenced by any manufacturer. 
 
 Watching videos on YouTube while determining which [reviewers are unbiased](/personal-ranking-of-speaker-reviewers/) along with parsing through quantitative reviews to figure out the best speakers can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. 
