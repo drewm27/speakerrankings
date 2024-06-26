@@ -167,7 +167,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #6 [Minirig 4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl): $200
 
 - Positives: Modular, can easily attach a subwoofer. Finally USB-C charging. Dynamically changes sound based on forward facing or upward facing orientation
-- Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
+- Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - Weight: 1.21lbs / 550g
 - Battery Life: 30 hours
 - Power Bank: Yes
@@ -187,7 +187,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #7 [Minirig 3](https://minirigs.co.uk/speakers/bluetooth-minirig-3): $140
 
 - Positives: Modular, can easily attach a subwoofer.
-- Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
+- Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - Max Volume: 105db
 - Bass Extension: 53hz (-10dB)
 - Weight: 1.21lbs / 550g
@@ -214,7 +214,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #8 Minirig 2: $140
 
 - Positives: Modular, can easily attach a subwoofer.
-- Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive
+- Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - Max Volume: 95db
 - Bass Extension: 54hz (-10dB)
 - Weight: 1.08lbs / 488g
