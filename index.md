@@ -11,6 +11,8 @@ Watching videos on YouTube while determining which [reviewers are unbiased](/per
 
 Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings.
 
+Feel free to share this on Reddit or anywhere people could find it useful, thanks!
+
 ### Top Recommended speakers
 
 - [The Best Portable Bluetooth Speakers](/top-recommended/)
