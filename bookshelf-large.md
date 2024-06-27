@@ -187,7 +187,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
 - Dimensions: 13.4"H x 8.9"W x 11.2"D
 - Weight: 16.8lbs / 7.6kg
-- Woofer Size: 8"
+- Woofer Size: 7"
 - Inputs: TRS, XLR
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lH4aACE5tjE>
