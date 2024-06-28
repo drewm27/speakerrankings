@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-This website ranks a total of 343 battery powered Bluetooth speakers and powered bookshelf speakers. They are listed by size class in order of sound quality tested by trusted reviewers with their tonal qualities, positives, negatives, attributes, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible.
+This website ranks a total of 344 battery powered Bluetooth speakers and powered bookshelf speakers. They are listed by size class in order of sound quality tested by trusted reviewers with their tonal qualities, positives, negatives, attributes, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible.
 
 Figuring out which speakers are the best among hundreds by watching videos on YouTube while determining which [reviewers are unbiased](/personal-ranking-of-speaker-reviewers/) can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. All the information used to construct these rankings are linked so you can verify the order of the rankings yourself. The rankings and content are not sponsored or influenced by any manufacturer.
 
@@ -20,7 +20,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 ### Portable Powered Bluetooth Speaker Rankings
 
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 29 speakers ranked
-- [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 109 speakers ranked
+- [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 110 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 64 speakers ranked
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 55 speakers ranked
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 43 speakers ranked
@@ -55,4 +55,4 @@ Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 06/27/2024
+Last updated 06/28/2024
