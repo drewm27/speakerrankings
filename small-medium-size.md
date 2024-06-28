@@ -1035,7 +1035,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.creative.com/p/speakers/creative-iroar-go)
 
 ### #52 [Beats Pill 2024](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl): $150
-- Negatives: Boosted upper bass, somewhat thuddy. Slightly recessed mids. Rolled off treble.
+- Negatives: Boosted upper bass, somewhat thuddy. Slightly recessed mids. Rolled off treble. This may move around a little as better sound samples are found.
 - Weight: 1.34lbs / 680g
 - Battery Life: 24 hours
 - Bass Extension: ~56hz
