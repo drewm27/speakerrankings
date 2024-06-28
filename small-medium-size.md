@@ -1044,6 +1044,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: No
 - Built in Microphone: Yes
+- App: Yes
+- EQ: No
 - Aux Input: No
 - Power Input: USB-C
 - IP Rating: IP67
@@ -1701,6 +1703,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - Bass Extension: 90hz (-10dB)
 - Weight: 1.5lbs / 0.7kg
+- App: Yes
+- EQ: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
 
