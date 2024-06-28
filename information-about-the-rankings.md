@@ -4,11 +4,9 @@ title: Information About the Rankings
 comments: true
 ---
 
-Feel free to post/send a link to this document for anyone or on any forum post you think could benefit from it!
-
 ### Information about Neutral Frequency Response
 
-If you are not an audiophile or aren't interested in speakers that can reproduce recordings and musical instruments to a high level of natural accuracy, then you may not agree with the ranking order in this document. Pop or EDM will generally sound fine with a lot of speakers. Instrumental music like Jazz or Classical will only sound natural on speakers with a flat frequency response. If you are only interested in bass boosted, treble boosted, or warm speakers, please search the descriptions of speakers for that trait and look for the ones with an adjustable EQ.
+If you are not an audiophile or aren't interested in speakers that can reproduce recordings and musical instruments to a high level of natural accuracy, then you may not agree with the ranking order in this document. Pop or EDM will generally sound fine with a lot of speakers. Instrumental music like Jazz or Classical will only sound natural on speakers with a flat frequency response. If you are only interested in bass boosted, treble boosted, or warm speakers, please search the descriptions of speakers for those traits and look for the ones with an adjustable EQ.
 
 ### How These Rankings Were Assembled
 
