@@ -28,6 +28,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Coming July 2024
 - EQ: Coming July 2024
 - TWS: Yes
+- Stereo: Yes
 - Party Mode: No
 - Aux Input: Yes
 - Built in Microphone: Yes
@@ -62,7 +63,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Power Bank: No
 - App: Yes
-- EQ: yes
+- Stereo: Yes
+- EQ: Yes
 - TWS: Yes
 - Built in Microphone: Yes
 - Aux Input: No
@@ -91,6 +93,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 130ms
 - Aux Latency: 0ms
 - Power Bank: No
+- Stereo: Yes
 - App: Yes
 - EQ: Yes
 - TWS: Yes
@@ -120,6 +123,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Power Bank: Yes
 - Latency: 150ms
+- Stereo: Yes
 - App: Yes
 - EQ: Yes
 - TWS: Yes
@@ -152,6 +156,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Latency: 180ms
 - Power Input: Micro USB
+- Stereo: Yes
 - Built in Microphone: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
@@ -175,7 +180,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 60ms
 - Aux Latency: 0ms
 - App: Yes
-- EQ: yes
+- EQ: Yes
 - TWS: Yes (Bluetooth or cable)
 - Aux Input: Yes
 - Power Input: USB-C
@@ -197,7 +202,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 60ms
 - Aux Latency: 0ms
 - App: Yes
-- EQ: yes
+- EQ: Yes
+- Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Built in Microphone: No
 - Aux Input: Yes
@@ -223,8 +229,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - Aux Latency: 0ms
 - App: Yes
-- EQ: yes
+- EQ: Yes
 - TWS: Yes (cable)
+- Stereo: No
 - Built in Microphone: No
 - Aux Input: Yes
 - Power Input: Proprietary USB cable
@@ -242,6 +249,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.3lbs / 589g
 - Battery Life: 24 hours
 - Power Bank: No
+- Stereo: No
 - Aux Input: Yes
 - App: Yes
 - EQ: Yes
@@ -269,8 +277,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - Latency: 90ms
 - App: Yes
-- EQ: yes
+- EQ: Yes
 - TWS: Yes
+- Stereo: No
 - Built in Microphone: Yes
 - Aux Input: No
 - IP Rating: IP67
@@ -297,8 +306,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 116ms
 - Power Bank: No
 - App: Yes
-- EQ: yes
+- EQ: Yes
 - TWS: Yes
+- Stereo: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Aux Input: No
 - Built in Microphone: No
@@ -322,8 +332,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Power Bank: No
 - App: Yes
-- EQ: yes
+- EQ: Yes
 - TWS: No
+- Stereo: Yes
 - Aux Input: Yes
 - Power Input: Micro USB
 - IP Rating: IPX7
@@ -342,7 +353,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - App: No
 - EQ: No
-- TWS: yes
+- TWS: Yes
+- Stereo: No
 - Aux Input: No
 - Power Input: USB-C
 - IP Rating: IPX7
@@ -359,7 +371,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - App: No
 - EQ: No
-- TWS: yes
+- TWS: Yes
+- Stereo: Yes
 - Aux Input: No
 - Power Input: USB-C
 - IP Rating: IPX7
@@ -400,7 +413,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - Latency: 200ms
 - App: Yes
-- EQ: yes
+- EQ: Yes
 - TWS: Yes
 - Aux Input: Yes
 - Built in Microphone: No
@@ -608,7 +621,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Max Volume: 99db
 - TWS: Yes
-- Aux Input: yes
+- Aux Input: Yes
 - Party Mode: Yes
 - App: Yes
 - EQ: Yes
@@ -726,7 +739,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Power Bank: No
 - Aux Input: No
-- TWS: yes
+- TWS: Yes
 - IP Rating: IPX7
 - Power Input: USB-C
 - Comparisons and Sound Samples
