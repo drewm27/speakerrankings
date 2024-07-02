@@ -634,7 +634,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #30 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172): $90
 
-- Negatives: Lacking detail compared to the “Large” and not as deep of bass.
+- Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
 - Battery Life: 20 hours
 - FM Radio: Yes
 - Aux Input: Yes
