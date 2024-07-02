@@ -48,7 +48,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Not great recording quality, the highs are pretty rolled off. Decent comparisons of speakers.
 
 ### #14 [storytripperhd](https://www.youtube.com/@storytripperhd)
-- Not great recording quality, done with a cell phone
+- Not great recording quality, recording lacks a lot of bass and has rolled off treble, done with a cell phone
 
 ### #15 [Rtings.com](https://www.rtings.com/speaker/reviews/best/by-feature/bluetooth)
 - A lot of problems with their measuring techniques. If you notice, below 150hz they have wavyness on all their speaker frequency response charts. This is due to them measuring all the room reflections, cancellations and room nulls. This is not the way you do frequency response measurements. Proper measurement requires an anechoic chamber or doing a gated time window so you capture the frequency response before the wall reflection arrives. Also frequencies below 200hz have to be [measured separately nearfield to each driver and port and summed together and spliced on to the midrange measurement](https://www.diyaudio.com/community/threads/measuring-bass-and-measurements-in-general.390274/post-7122541). Their max SPL numbers are all way off. They rate the 136w Boombox 3 as 91.9dB (Alan Ross says 111dB) and ~100w Sony SRS-XP500 at 92.6db which are both below the much smaller 30w Motion Boom at 93.1dB (Alan Ross says 104dB) which absolutely cannot be correct. Alan Ross’s numbers logically make more sense. Also they put a very heavy weight on if the speaker works with a voice assistant. 
