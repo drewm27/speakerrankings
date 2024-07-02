@@ -605,7 +605,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Treble boosted
 - Bass Extension: ~52hz (-10dB)
-- Battery Life: 8 hours
+- Battery Life: No Battery
 - Aux Input: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=W4sIuhplM9w>
