@@ -14,7 +14,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 Earfun Uboom X: Scheduled for release in July 2024 likely around $150-200
+### #1 Earfun Uboom X: Not released yet likely around $150-200
 - Positives: Tuned by Oluv of [Oluv's Gadgets](https://www.youtube.com/@oluvsgadgets) and he knocked it out of the park. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. The app has sound profiles created by Oluv for studio, indoor, indoor+, outdoor, and BOOM xxX which are all fantastic. This is the only speaker that sounds correct at every single volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L. Sound samples and comparisons against the Stormbox Blast and other top speakers are on Oluv's patreon which is why it is ranked #1, links below.
 - Bass Extension: ~38hz (-10dB)
 - Battery Life: 30 hours
