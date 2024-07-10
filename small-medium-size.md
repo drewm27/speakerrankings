@@ -25,8 +25,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 400ms normal / 66ms low latency mode
 - Aux Latency: 216ms
 - Power Bank: No
-- App: Coming July 2024
-- EQ: Coming July 2024 (10 band)
+- App: Yes
+- EQ: Yes (10 band)
 - TWS: Yes
 - Stereo: Yes
 - Party Mode: No
