@@ -347,6 +347,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - Weight: 8.4lbs / 3.8kg
 - Battery Life: 20 hours
+- Max Volume: 111db
+- Bass Extension: 39hz (-10dB)
 - Power Bank: Yes
 - Aux Input: Yes
 - MicroSD: No
