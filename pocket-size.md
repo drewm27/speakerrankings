@@ -29,6 +29,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: No
 - Built in Microphone: Yes
 - IP Rating: IP67
+- Stereo: No
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -61,6 +62,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - Aux Input: Yes
 - Power Input: Proprietary USB cable
+- Stereo: No
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
@@ -85,6 +87,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - Aux Input: Yes
 - Power Input: Proprietary USB cable
+- Stereo: No
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
@@ -106,6 +109,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - Power Input: USB-C
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - <https://www.youtube.com/watch?v=7LsffgrbXYc>
@@ -124,6 +128,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - Power Input: USB-C
 - IP Rating: IPX7
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
 - Links
@@ -145,6 +150,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX7
 - Built in Microphone: Yes
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
 
@@ -165,6 +171,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - Power Input: USB-C
 - IP Rating: IPX7
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMsB-wvXn34>
 - Links
@@ -183,6 +190,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - IP Rating: IPX4
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links
@@ -202,6 +210,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - IP Rating: IPX7
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=X2i_dJCrwlc>
     - <https://www.youtube.com/watch?v=che2VHKbnhA>
@@ -221,6 +230,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FZWU9gzzac0>
     - <https://www.youtube.com/watch?v=q9u7iRmRdjk>
@@ -244,6 +254,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FQqBTAap4Gw>
     - <https://www.youtube.com/watch?v=iri3WLn6DBs>
@@ -267,6 +278,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IP67
 - Built in Microphone: Yes
 - Power Input: Micro-USB
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jAdCutwAmd4>
     - <https://www.youtube.com/watch?v=oTE4EgEict4>
@@ -285,6 +297,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: None
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links
@@ -306,6 +319,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
 - Links
@@ -322,6 +336,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (Auracast)
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
 - Links
@@ -341,6 +356,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
@@ -361,6 +377,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: Yes (Auracast)
 - Power Input: USB-C
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
     - <https://www.youtube.com/watch?v=Eg3I8aDdI5s>
@@ -382,6 +399,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: No
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=9tigrVLPi5A>
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
@@ -400,6 +418,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uWv_SRZh3TE>
     - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
@@ -421,6 +440,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
@@ -440,6 +460,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - Power Input: AC Wall wart
 - Aux Input: Yes (integrated 3.5mm cable)
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links
@@ -458,6 +479,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Power Input: Micro-USB
 - Party Mode: No
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links
@@ -471,6 +493,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - App: No
 - EQ: No
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=NwlwyofEYDM>
 
@@ -485,6 +508,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - TWS: Yes
 - IP Rating: IPX7
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
 - Links
@@ -505,6 +529,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - Party Mode: NoA
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
     - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
@@ -519,6 +544,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Battery Life: 8 hours
 - Power Input: USB-C
 - IP Rating: IPX5
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=3JsU3QYYRrk>
     - <https://www.youtube.com/watch?v=g0mixdXjVI8>
@@ -537,6 +563,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - TWS: No
 - Aux Input: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
     - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
@@ -554,6 +581,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: No
 - App: No
 - EQ: No
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
 - Links
@@ -568,6 +596,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Battery Life: 12 hours
 - TWS: Yes
 - IP Rating: IPX2
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Yam_mssFqeU>
     - <https://www.youtube.com/watch?v=6CtZiXCJF18>

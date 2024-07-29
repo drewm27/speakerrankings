@@ -32,6 +32,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Power Input: AC Power cord
 - IP Rating: IPX7
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
@@ -70,6 +71,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - EQ: Yes (3 band)
+- Stereo: Partially (1 Woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
     - <https://www.youtube.com/watch?v=sXG-ciWFf60>
@@ -96,6 +98,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - EQ: Yes (3 band)
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
 - Links
@@ -116,6 +119,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (hidden bass and treble adjustment)
 - Power Input: AC Power brick
 - IP Rating: None
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BwuzsGckzos>
     - <https://www.youtube.com/watch?v=ktjCIpky_Lg>
@@ -139,6 +143,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - App: No
 - Party Mode: No
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>
@@ -158,6 +163,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No (official app is broken, 3rd party android app only)
 - Power Input: AC Power brick
 - IP Rating: None
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
@@ -181,6 +187,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - IP Rating: None
 - Built in Microphone: Yes
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZB3Q1d1x4H8>
     - <https://www.youtube.com/watch?v=vuHY5DzSI4U>
@@ -204,6 +211,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Built in Microphone: No
 - Power Input: AC Power brick
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=0qj07kfHTFc>
     - <https://www.youtube.com/watch?v=xUN9hY0iCF4>
@@ -223,6 +231,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Wifi: Yes
 - IP Rating: IPX4
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8Ts5BVWHYDE>
     - <https://www.youtube.com/watch?v=sLsvo5urFaw>
@@ -247,6 +256,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Built in Microphone: No
 - Power Input: AC Power brick
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
     - <https://www.youtube.com/watch?v=0qj07kfHTFc>
@@ -269,6 +279,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Latency: 33ms
 - Aux Latency: 0ms
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BwuzsGckzos>
     - <https://www.youtube.com/watch?v=e7m7DYq1li8>
@@ -290,6 +301,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
 - Power Input: AC Power brick
 - IP Rating: IPX7
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
@@ -312,6 +324,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Power Input: AC Power cable
 - IP Rating: IP67
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
     - <https://www.youtube.com/watch?v=imAhizbiSWw>
@@ -332,6 +345,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Input: AC Power cable
 - IP Rating: IP67
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
     - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
@@ -358,6 +372,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partycast 2.0)
 - Power Input: USB-C
 - IP Rating: IPX7
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Q9tf5j7pJsc>
     - <https://www.youtube.com/watch?v=SiW11RSCnWI>
@@ -378,6 +393,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - App: Yes
 - EQ: Yes
+- Stereo: Partially (1 woofer)
 - Party Mode: Yes
 - IP Rating: None
 - Comparisons and Sound Samples
@@ -400,6 +416,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - IP Rating: IPX6
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
     - <https://www.youtube.com/watch?v=_JZH0Tc2OO8>
@@ -424,6 +441,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - IP Rating: IPX7
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
     - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
@@ -446,6 +464,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Party Mode: Yes (JBL One)
 - IP Rating: None
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
 - Links
@@ -463,6 +482,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - TWS: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OTy29qPeIcI>
     - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
@@ -488,6 +508,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Power Input: AC Power brick
 - IP Rating: IPX6
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
 - Links
@@ -507,6 +528,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power brick
 - IP Rating: IPX6
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
     - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
@@ -523,6 +545,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - USB Playback: Yes
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o5TQLBxyskg>
     - <https://www.youtube.com/watch?v=Q5cn3rG8j6g>
@@ -539,6 +562,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Power Bank: Yes
 - IP Rating: None
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
@@ -550,6 +574,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~50hz (-10dB)
 - Max Volume: 104db
 - Weight: 12lbs / 5.4kg
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TZlSSuIivKo>
     - <https://www.youtube.com/watch?v=ilGvwLRn_EQ>
@@ -572,6 +597,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Aux Input: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=JLk5sdDpO1k>
     - <https://www.youtube.com/watch?v=-yxKYD0JxOE>

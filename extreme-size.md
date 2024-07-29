@@ -32,6 +32,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Auracast)
 - Power Input: AC Power cord
 - IP Rating: IPX4
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qQ34Z6813oM>
     - <https://www.youtube.com/watch?v=1MHvBEahqNs>
@@ -56,6 +57,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Power Input: AC Power cord
 - IP Rating: IPX4
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
     - <https://www.youtube.com/watch?v=I6sUWvuONf0>
@@ -83,6 +85,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Auracast)
 - Power Input: AC Power cord
 - IP Rating: IPX4
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QTQqAp-JtU0>
     - <https://www.youtube.com/watch?v=LFE4dghejGI>
@@ -107,6 +110,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - App: No
 - EQ: No
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
@@ -141,6 +145,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Power Input: AC Power cord
 - IP Rating: IPX4
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
@@ -165,6 +170,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - App: No
 - EQ: No
+- Stereo: Yes (lying down)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
 - Links
@@ -187,6 +193,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - IP Rating: IP43
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bxW813jlJKc>
     - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
@@ -211,6 +218,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Bose Party mode)
 - Power Input: AC Power cord
 - TWS: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
     - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
@@ -236,6 +244,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - IP Rating: None
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=J8c7Ur83_VQ>
     - <https://www.youtube.com/watch?v=I9UpaL-4H5c>
@@ -257,6 +266,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Power Input: AC Power cord
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TOACab8wPxw>
     - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
@@ -278,6 +288,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Power Input: AC Power cord
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=K9qr4EoEqpQ>
     - <https://www.youtube.com/watch?v=JM5izq3u_iM>
@@ -298,6 +309,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Party Mode: Yes
 - IP Rating: IPX4
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=AK_xTAIqejY>
     - <https://www.youtube.com/watch?v=PbA32qofwe8>
@@ -335,6 +347,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - App: Yes
 - IP Rating: None
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8HESRrKdGto>
     - <https://www.youtube.com/watch?v=G_0wnrW8UpA>
