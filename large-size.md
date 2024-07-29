@@ -249,15 +249,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #11 [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325): $80
 
+- Positives: Sounds almost exactly like the Motion Boom
 - Negatives: Boosted bass, rolled off treble. Not as neutral or detailed as other top ranked speakers.
 - Max Volume: 106db
 - Weight: 3.3lbs / 1.5kg
 - Battery Life: 16 hours
 - Power Bank: Yes
+- Aux Input: No
 - Party Mode: Yes (Partycast up to 100 speakers)
 - TWS: No
 - App: Yes (Users say it works)
 - EQ: Yes
+- IP Rating: IPX7
+- Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ko87nHKqfus>
     - <https://www.youtube.com/watch?v=Ef2YxcTQYqE>
