@@ -236,6 +236,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Power Input: USB-C
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=pZsFBGxUwwo>
     - <https://www.youtube.com/watch?v=aaHgcoPfeFQ>
     - <https://www.youtube.com/watch?v=PZwvg4i-qYU>
     - <https://www.youtube.com/watch?v=WzYQ8EHXj6U>
