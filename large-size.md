@@ -384,7 +384,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: USB-C
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
+- App: Yes
+- EQ: Yes
 - TWS: Yes
+- IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vLV0-KGlXEg>
     - <https://www.youtube.com/watch?v=nmVpaJCrKCI>
