@@ -404,7 +404,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - TWS: Yes
-- Stereo: No
+- Stereo: Partially (1 woofer)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vLV0-KGlXEg>
