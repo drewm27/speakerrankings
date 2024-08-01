@@ -412,6 +412,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension: 95hz (-10dB)
 - Weight: 0.4lbs / 185g
 - Battery Life: 6.5 hours
+- Aux Input: Yes
 - Power Bank: No
 - App: No
 - EQ: No
@@ -419,6 +420,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IPX7
 - Stereo: No
+- Links
+    - [Official Product Page](https://parts-express.sjv.io/DKX1Ba)
 
 ### #20 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
