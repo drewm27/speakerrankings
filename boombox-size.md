@@ -374,6 +374,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Stereo: Yes
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=ESN6hgtvba4>
     - <https://www.youtube.com/watch?v=Q9tf5j7pJsc>
     - <https://www.youtube.com/watch?v=SiW11RSCnWI>
     - <https://www.youtube.com/watch?v=-R6eOb3r-o0>
