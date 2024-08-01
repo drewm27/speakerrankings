@@ -3,7 +3,7 @@ layout: home
 title: Speaker Ranking
 ---
 
-This website ranks a total of 345 battery powered Bluetooth speakers and powered bookshelf speakers. They are listed by size class in order of sound quality tested by trusted reviewers with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible.
+This website ranks a total of 346 battery powered Bluetooth speakers and powered bookshelf speakers. They are listed by size class in order of sound quality tested by trusted reviewers with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible.
 
 Figuring out which speakers are the best among hundreds by watching videos on YouTube while determining which [reviewers are unbiased](/personal-ranking-of-speaker-reviewers/) can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. All the information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer.
 
@@ -20,7 +20,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 ### Portable Powered Bluetooth Speaker Rankings
 
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 30 speakers ranked
-- [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 110 speakers ranked
+- [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 111 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 65 speakers ranked
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 54 speakers ranked
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 43 speakers ranked
