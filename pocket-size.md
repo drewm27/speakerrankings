@@ -406,7 +406,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
 
-### #19 [Dayton Audio Boost Mini](https://parts-express.sjv.io/DKX1Ba): $20
+### #19 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl): $20
 
 - Negatives: Not much bass at all, mids slightly boosted, highs rolled off
 - Bass Extension: 95hz (-10dB)
