@@ -1635,6 +1635,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Aux Input: Yes
 - IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
 - Links
     - [Official Product Page](https://parts-express.sjv.io/q4bNkj)
 

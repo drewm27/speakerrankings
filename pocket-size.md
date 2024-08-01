@@ -420,6 +420,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Party Mode: No
 - IP Rating: IPX7
 - Stereo: No
+- Power Input: USB-C
 - Links
     - [Official Product Page](https://parts-express.sjv.io/DKX1Ba)
 
