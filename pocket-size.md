@@ -203,7 +203,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Battery Life: 10 hours
 - Power Bank: No
 - App: No
-- Aux In: Yes
+- Aux Input: Yes
 - EQ: No
 - TWS: No
 - Party Mode: Yes
