@@ -396,6 +396,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=y4DYttybhJ8>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
@@ -418,6 +419,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Built in Microphone: No
 - IP Rating: IPX7
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EhySzuS39Z8>
     - <https://www.youtube.com/watch?v=gTiqH3uTXxc>
@@ -445,6 +447,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - IP Rating: IPX7
 - Built in Microphone: No
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5LUd0Mj5HhQ>
     - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
@@ -472,6 +475,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: No
 - USB Playback: Yes
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
 - Links
@@ -493,6 +497,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Latency: 90ms
 - Aux Latency: 16ms
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
 
@@ -512,6 +517,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux Input: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WIS2Jk83EI8>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
@@ -530,6 +536,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes (3 band)
 - TWS: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fxoGZdNakIg>
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
@@ -552,6 +559,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
     - <https://www.youtube.com/watch?v=7ZnTEkAwy98>
@@ -572,6 +580,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Built in Microphone: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-qiyBrX1m-g>
     - <https://www.youtube.com/watch?v=7GjQ0VXYYqo>
@@ -593,6 +602,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Battery Life: 16 hours
 - IP Rating: IPX7
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q_tg3wXjK3k>
     - <https://www.youtube.com/watch?v=8v9BcBgOIpU>
@@ -609,6 +619,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 14 hours
 - Power Bank: Yes
 - Aux Input: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
 - Links
@@ -628,6 +639,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 16ms
 - Latency: SBC 233ms, AAC 240ms
 - Power Input: USB-C
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HF3eKZM-ZTs>
     - <https://www.youtube.com/watch?v=k8tm3FwCkWM>
@@ -652,6 +664,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - IP Rating: IP67
 - Power Input: USB-C
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QT9dcySUf_U>
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
@@ -673,6 +686,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - App: No
 - EQ: No
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZmYH6zYSNKs>
     - <https://www.youtube.com/watch?v=Y2Tr9qUB4_E>
@@ -687,6 +701,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 56hz (-10dB)
 - Weight: 1.50lbs / 680g
 - Battery Life: 26 hours
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QoJKsPaofl0>
     - <https://www.youtube.com/watch?v=xLJs_zM0UMg>
@@ -697,6 +712,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - IP Rating: IP67
 - TWS: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 - Links
@@ -715,6 +731,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Power Input: USB-C
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mMOTcXiWXvQ>
 - Links
@@ -727,6 +744,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.23lbs / 560g
 - Battery Life: 16 hours
 - Power Input: USB-C
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mqqE0rqYLNQ>
 
@@ -742,6 +760,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - IP Rating: IPX7
 - Power Input: USB-C
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/soundcore-motion-94092689>
 - Links
@@ -758,6 +777,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Power Input: USB-C
 - IP Rating: IPX7
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
     - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
@@ -777,6 +797,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - App: Yes
 - EQ: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
 - Links
@@ -787,6 +808,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
 - Max Volume: 100db
 - Bass Extension: 54hz (-10dB)
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bcoORyAD22o>
 - Links
@@ -803,6 +825,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - TWS: Yes
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kDib9gjeaPQ>
     - <https://www.youtube.com/watch?v=3zEtJi4u-F8>
@@ -817,6 +840,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: Micro USB
 - IP Rating: IP55
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=upSSUEct7Gk>
     - <https://www.youtube.com/watch?v=Jvn9ZkYykF4>
@@ -835,6 +859,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP55
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WD5OLLBXRDc>
     - <https://www.youtube.com/watch?v=Vm3kFL36Sq8>
@@ -850,6 +875,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Aux Input: Yes
 - MicroSD: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1btEBiXCEF0>
 - Links
@@ -865,6 +891,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TvXVeqwo8Jc>
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
@@ -883,6 +910,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 400ms aac, 200ms sbc
 - App: Yes
 - EQ: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
     - <https://www.youtube.com/watch?v=6Yjao_U8RIM>
@@ -907,6 +935,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: No
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=fxoGZdNakIg>
     - <https://www.youtube.com/watch?v=5cppZYdrA9A>
@@ -930,6 +959,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.28lbs / 581g
 - Battery Life: 25 hours
 - Latency: 220ms
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tNxGzF2uPEQ>
     - <https://www.youtube.com/watch?v=kTzczPis7ic>
@@ -950,6 +980,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gmrcrkY_Zck>
 
@@ -964,6 +995,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partycast up to 100 speakers)
 - App: Yes
 - EQ: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1RD6Wz_dg4w>
     - <https://www.youtube.com/watch?v=SxJTZDCiw7g>
@@ -979,6 +1011,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Aux Input: Yes
 - IP Rating: None
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
     - <https://www.youtube.com/watch?v=VukUsbPfDec>
@@ -995,6 +1028,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Aux Input: Yes
 - IP Rating: None
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
@@ -1025,6 +1059,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Aux Input: No
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=P5POaQhiDgE>
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
