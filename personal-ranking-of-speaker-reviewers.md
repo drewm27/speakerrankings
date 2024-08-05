@@ -8,7 +8,7 @@ This page ranks 31 online speaker reviewers. This is my personal ranking of spea
 
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
-### #1 [oluvsgadgets](https://www.youtube.com/@oluvsgadgets) and [Oluv's Patreon](https://www.patreon.com/oluvsgadgets/posts)
+### #1 [oluvsgadgets](https://www.youtube.com/@oluvsgadgets) and [Oluv's Patreon](https://www.patreon.com/oluvsone/posts)
 - By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality and has always given an unbiased review of good and bad speakers. His recordings and recording equipment are all custom and tuned for the most neutral response I've heard from any video on Youtube. One of the best creators of speaker EQs around.
 
 ### #2 [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview)
