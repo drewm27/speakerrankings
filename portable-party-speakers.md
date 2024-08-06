@@ -4,6 +4,8 @@ title: The Best Portable speakers for parties over 50 people
 comments: true
 ---
 
+![Soundboks 4](/assets/img/soundboks4.jpg)
+
 These are the best portable speakers for parties over 50 people or for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
 
 
