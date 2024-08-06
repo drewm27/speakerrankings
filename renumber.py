@@ -44,7 +44,7 @@ with open('index.md') as f:
 with open('index.md', 'w') as f:
     for line in lines:
         if line.startswith('This website ranks a total of'):
-            line = re.sub(regex, ' ' + str(count['total']) + ' ', line)
+            line = re.sub(regex, ' ' + str(count['total']) + ' ', line, 1)
         if line.startswith('Last updated '):
             date = current_datetime.strftime("%m/%d/%Y")
             line = 'Last updated ' + date + '\n'
@@ -64,7 +64,7 @@ with open('top-recommended.md') as f:
 with open('top-recommended.md', 'w') as f:
     for line in lines:
         if line.startswith('This page lists'):
-            line = re.sub(regex, ' ' + str(count['portable']) + ' ', line)
+            line = re.sub(regex, ' ' + str(count['portable']) + ' ', line, 1)
         f.write(line)
 
 with open('bookshelf-top-recommended.md') as f:
@@ -72,7 +72,7 @@ with open('bookshelf-top-recommended.md') as f:
 with open('bookshelf-top-recommended.md', 'w') as f:
     for line in lines:
         if line.startswith('This page lists'):
-            line = re.sub(regex, ' ' + str(count['bookshelf']) + ' ', line)
+            line = re.sub(regex, ' ' + str(count['bookshelf']) + ' ', line, 1)
         f.write(line)
 
 for file in countfile:
@@ -81,5 +81,5 @@ for file in countfile:
     with open(file, 'w') as f:
         for line in lines:
             if line.startswith('This page ranks'):
-                line = re.sub(regex, ' ' + str(countfile[file]) + ' ', line)
+                line = re.sub(regex, ' ' + str(countfile[file]) + ' ', line, 1)
             f.write(line)
