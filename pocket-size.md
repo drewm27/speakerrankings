@@ -4,6 +4,8 @@ title: Pocket Size Bluetooth Speakers
 comments: true
 ---
 
+![Tribit Stormbox Micro 2](/assets/img/stormboxmicro2.jpg)
+
 This page ranks 30 pocket size powered Bluetooth speakers. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
