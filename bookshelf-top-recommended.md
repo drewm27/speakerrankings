@@ -4,7 +4,7 @@ title: The Best Powered Bookshelf Speakers
 comments: true
 ---
 
-![APS Klasik 2020 Top](/assets/img/apsklasik2020.jpg)
+![APS Klasik 2020 Top](/assets/img/klasik2020.jpg)
 
 This page lists the best powered bookshelf speakers out of the 38 that has been ranked on this website. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
 
