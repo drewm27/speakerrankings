@@ -4,7 +4,7 @@ title: The Best Portable speakers for parties over 50 people
 comments: true
 ---
 
-![Soundboks 4](/assets/img/soundboks4.jpg)
+![QSC K12.2](/assets/img/k12.2.jpg)
 
 These are the best portable speakers for parties over 50 people or for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
 
@@ -40,7 +40,5 @@ A lot of this information exists in a few places in the [r/livesound](https://ww
 [Looking for recommendations on good powered speakers for live shows](https://www.reddit.com/r/livesound/comments/xjryin/looking_for_recommendations_on_good_powered/)
 
 [Choosing entry level PA speakers](https://www.reddit.com/r/livesound/comments/1532c3e/choosing_entry_level_pa_speakers/)
-
-![Soundboks 4 Bottom](/assets/img/soundboks4b.jpg)
 
 As an Amazon Associate I earn from qualifying purchases.
