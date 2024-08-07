@@ -4,6 +4,8 @@ title: Portable Power Stations and Power Banks
 comments: true
 ---
 
+![Ecoflow Delta Mini](/assets/img/deltamini.jpg)
+
 To give either battery or non-battery speakers the ability to run disconnected or play longer, you will probably want to pick up a Portable Power Station or power bank.
 
 ### Power Stations for speakers that need AC or USB
