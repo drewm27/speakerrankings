@@ -349,6 +349,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: Yes
 - Comparisons and Sound Samples
+    - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
     - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
     - <https://www.youtube.com/watch?v=3WDir4ajfs4>
