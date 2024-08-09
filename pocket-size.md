@@ -420,6 +420,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: No
 - EQ: No
 - TWS: Yes
+- MicroSD: Yes
 - Party Mode: No
 - IP Rating: IPX7
 - Stereo: No
