@@ -55,7 +55,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
 
-### #2 JBL Partybox Encore: $380
+### #2 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467): $275
 
 - Positives: Likely the best sound quality in the class. 2 included wireless microphones.
 - Negatives: Would be #1 if it wasn't for the following negatives. Only 10 hours of battery at medium volume.
@@ -83,7 +83,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-.html)
 
-### #3 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $285
+### #3 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $250
 
 - Positives: Likely the best sound quality in the class.
 - Negatives: Would be #2 if it wasn't for the following negatives. Only 6 hours of battery at medium volume.
