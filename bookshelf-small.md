@@ -14,7 +14,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Genelec 8010A](https://www.guitarcenter.com/Genelec/8010-Bi-Amplified-Monitor-System-Each.gc): $700 a pair
+### #1 [Genelec 8010A](https://guitar-center.pxf.io/9g1BDW): $700 a pair
 - Positives: An extremely neutral speaker for mastering and mixing recordings. Although for mastering, it's highly recommended to use a larger speaker with deeper bass extension or add a subwoofer
 - Negatives: Not as deep of bass as the iLoud. Probably not the best choice for general music listening due to the price and limited bass extension.
 - Frequency Response: 67 Hz-25 kHz (-6dB)

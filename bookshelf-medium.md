@@ -14,7 +14,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Genelec 8020D](https://www.guitarcenter.com/Genelec/8020D-Studio-Monitor-1500000147710.gc): $1100 a pair
+### #1 [Genelec 8020D](https://guitar-center.pxf.io/LXvYqj): $1100 a pair
 - Positives: Slightly better than the HS5 for neutrality with deeper bass.
 - Negatives: High price
 - Frequency Response: 56 Hz - 25 kHz (-6 dB)
