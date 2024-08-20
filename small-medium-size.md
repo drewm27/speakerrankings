@@ -1358,7 +1358,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
     - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
 
-### #69 [Tribit Stormbox 2](https://tribit.com/products/tribit-stormbox-2-portable-speaker): $60
+### #69 [Tribit Stormbox 2](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl): $70
 
 - Positives: A little better sounding than the Stormbox 1, less of a rolled off treble. Keep Xbass on for best frequency response.
 - Negatives: Drivers on the side, so it will have a rolled off treble listening to it face on.
@@ -1376,6 +1376,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/tribit-stormbox-109758019>
     - <https://www.youtube.com/watch?v=req2-T3W2xo>
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-2-portable-speaker)
 
 ### #70 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl): $35
 
