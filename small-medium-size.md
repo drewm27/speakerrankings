@@ -108,6 +108,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - <https://www.youtube.com/watch?v=mjBlrhZwDmE>
+    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
     - <https://www.youtube.com/watch?v=OXi8Sef-1NA>
     - <https://www.youtube.com/watch?v=q_tg3wXjK3k>
     - <https://www.youtube.com/watch?v=4xVEvEitaPU>
@@ -480,6 +481,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
+    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
 
@@ -670,6 +672,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=QT9dcySUf_U>
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
+    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
     - <https://www.youtube.com/watch?v=6GtVMMbOt6c>
     - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
     - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
@@ -1101,6 +1104,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Y8N22lZDQJ8>
+    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
 - Links
     - [Official Product Page](https://www.beatsbydre.com/speakers/beats-pill)
 
