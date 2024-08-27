@@ -506,6 +506,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes
 - Power Input: USB-C
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-iWZlOB5Nco>
 - Links
