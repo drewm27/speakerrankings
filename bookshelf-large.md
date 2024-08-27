@@ -39,9 +39,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
 
-### #3 APS Klasik 2020: $900 a pair
+### #3 [APS Klasik 2020](https://www.aps-company.com/klasik-2020-en/): $900 a pair
 - Positives: Very neutral. Almost indistinguishable from the HS8 but with deeper bass
-- Negatives: Difficult to find for sale online, possibly local dealers only
+- Negatives: Difficult to find for sale online, no dealers in the United States.
 - Frequency Response: 39Hz – 25kHz (-3dB)
 - Dimensions: 14.2"H x 8.3"W x 12.6"D
 - Weight: 22.1lbs / 10.0kg each
