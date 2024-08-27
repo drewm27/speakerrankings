@@ -754,6 +754,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=mqqE0rqYLNQ>
 
 ### #33 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325): $47
+- Positives: Use [Oluv's EQ](https://www.patreon.com/oluvsone/shop/soundcore-motion-100-flat-eq-setting-172328) for the flattest response
 - Negatives: Not very deep bass, slight distortion
 - Bass Extension: 65hz (-10dB)
 - Battery Life: 12 hours
