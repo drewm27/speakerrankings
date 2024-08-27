@@ -277,6 +277,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 7.8lbs / 3.5kg
 - Wifi: Yes
 - TWS: Yes
+- Aux Input: Yes
 - Party Mode: Yes (Up to 8 speakers)
 - Power Input: AC Power brick
 - IP Rating: IP57
