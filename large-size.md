@@ -305,6 +305,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No battery
 - Aux Input: Yes
 - IP Rating: None
+- Power Bank: No
+- Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2fYIobmLo-o>
 - Links
@@ -316,7 +318,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 56hz (-10dB)
 - Weight: 4.5 lbs / 2.9kg
 - Battery Life: No battery
+- Power Bank: No
 - Aux Input: Yes
+- Stereo: Partially (1 woofer)
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=UNHjks4p7Rk>
