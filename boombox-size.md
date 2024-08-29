@@ -675,6 +675,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=JLk5sdDpO1k>
     - <https://www.youtube.com/watch?v=-yxKYD0JxOE>
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/party-speakers/p/srsult70)
 
 ### #31 [Klipsch The Three II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl); $400
 - Negatives: Treble boosted. Not as deep of bass as others.
@@ -754,6 +756,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
     - <https://www.youtube.com/watch?v=sW7qA0Qyg2U>
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ON-THE-GO-.html)
 
 ### #36 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325): $500
 
@@ -770,6 +774,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ImnPvu49RSM>
     - <https://www.youtube.com/watch?v=yenr1BPMk6s>
     - <https://www.youtube.com/watch?v=KjWAJ67aUMc>
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg500)
 
 ### #37 JBL Boombox:
 
