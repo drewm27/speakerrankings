@@ -6,7 +6,7 @@ comments: true
 
 ![Earfun Uboom L and Tribit Stormbox Blast](/assets/img/uboomlblast.jpg)
 
-This page lists the best portable Bluetooth speakers out of the 310 ranked on this website. The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details of each speaker in the main rankings.
+This page lists the best portable Bluetooth speakers out of the 311 ranked on this website. The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details of each speaker in the main rankings.
 
 My perfect minimal speaker setup would be **2** [**$50 (after clipped coupon and coupon UBOOMLWC on the checkout page) Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=433417fadb743aab2a7725af5f6ffde9&camp=1789&creative=9325) for quiet indoor use and travel and **2** [**$160 Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) for ourdoor and party use in a TWS setup. I believe these two are the best speakers for the money for nearly everyone.
 

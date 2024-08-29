@@ -300,7 +300,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #13 [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325): $280
 
-- Negatives: Not very detailed, not as deep bass as competitors.
+- Negatives: Not as deep bass as competitors.
 - Weight: 6.3lbs / 2.85kg
 - Battery Life: No battery
 - Aux Input: Yes
@@ -312,7 +312,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #14 [Marshall Acton 2](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl): $280
 
-- Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors. Boosted highs. Sounds mushy.
+- Negatives: Boosted upper bass, not as deep bass as competitors. Boosted highs. Sounds mushy.
+- Bass Extension: 56hz (-10dB)
 - Weight: 4.5 lbs / 2.9kg
 - Battery Life: No battery
 - Aux Input: Yes
