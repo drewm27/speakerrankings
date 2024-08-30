@@ -340,7 +340,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Aux Input: Yes
 - Power Input: Micro USB
-- IP Rating: IPX7
+- IP Rating: IPX5
 - Built in Microphone: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=P82BreW-LzY>
