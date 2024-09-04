@@ -16,7 +16,7 @@ The best reasonably priced [large size](/large-size/) battery powered speaker fo
 
 ### The Best Boombox Size Speaker
 
-The best [boombox size](/boombox-size/) battery powered speaker for deep boosted bass is the [**$250 Harmon Kardon Go+ Play 3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325)
+The best [boombox size](/boombox-size/) battery powered speaker for deep boosted bass is the [**$250 Harmon Kardon Go+ Play 3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) but if you need it to be IP67 waterproof get a [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)
 
 ### The Best Extreme Size Speaker
 
