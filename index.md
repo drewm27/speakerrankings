@@ -16,6 +16,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 ### Top Recommended speakers
 
 - [The Best Portable Bluetooth Speakers](/top-recommended/)
+- [The Best Portable Bluetooth Speakers For Bass](/top-recommended-bass/)
 - [The Best Portable Speakers for parties over 50 people](/portable-party-speakers/)
 - [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
 
