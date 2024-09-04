@@ -59,13 +59,14 @@ with open('index.md', 'w') as f:
                         line = line.split(':')[0].strip() + ': ' + str(countfile[filename]) + ' reviewers ranked\n'
         f.write(line)
 
-with open('top-recommended.md') as f:
-    lines = f.readlines()
-with open('top-recommended.md', 'w') as f:
-    for line in lines:
-        if line.startswith('This page lists'):
-            line = re.sub(regex, ' ' + str(count['portable']) + ' ', line, 1)
-        f.write(line)
+for filename in [ 'top-recommended.md' , 'top-recommended-bass.md' ]:
+    with open(filename) as f:
+        lines = f.readlines()
+    with open(filename, 'w') as f:
+        for line in lines:
+            if line.startswith('This page lists'):
+                line = re.sub(regex, ' ' + str(count['portable']) + ' ', line, 1)
+            f.write(line)
 
 with open('bookshelf-top-recommended.md') as f:
     lines = f.readlines()
