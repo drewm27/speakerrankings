@@ -19,7 +19,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 - [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
 - [The Best Portable Bluetooth Speakers For Bass](/top-recommended-bass/)
 - [The Best Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
-- [The Best Powered Bookshelf Speakers For Sound Quality](/bookshelf-top-recommended/)
+- [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
 
 ### Portable Bluetooth Speaker Rankings
 
