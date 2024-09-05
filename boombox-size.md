@@ -535,7 +535,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
 
-### #23 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000)
+### #23 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000): 250€
 - Positives: Pretty balanced sound, slightly warm
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - Weight: 8.3lbs / 3.75kg
