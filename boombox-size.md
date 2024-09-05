@@ -627,7 +627,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://geminisound.com/products/grv-650l)
 
-### #28 Teufel Boomster NG (2017): €99
+### #28 Teufel Boomster NG (2017): 99€
 
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise
