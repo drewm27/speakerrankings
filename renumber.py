@@ -59,7 +59,7 @@ with open('index.md', 'w') as f:
                         line = line.split(':')[0].strip() + ': ' + str(countfile[filename]) + ' reviewers ranked\n'
         f.write(line)
 
-for filename in [ 'top-recommended.md' , 'top-recommended-bass.md' ]:
+for filename in [ 'top-recommended.md' , 'top-recommended-bass.md', 'top-recommended-inexpensive.md' ]:
     with open(filename) as f:
         lines = f.readlines()
     with open(filename, 'w') as f:
