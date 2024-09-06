@@ -24,6 +24,6 @@ The best inexpensive [boombox size](/boombox-size/) battery powered speaker is t
 
 ### The Best Inexpensive Extreme Size Speaker
 
-The best inexpensive [extreme size](/extreme-size/) big party battery powered speaker is the [**$150 Onn Large Party gen 2**](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628).
+The best inexpensive [extreme size](/extreme-size/) battery powered speaker is the [**$150 Onn Large Party gen 2**](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628).
 
 As an Amazon Associate I earn from qualifying purchases.
