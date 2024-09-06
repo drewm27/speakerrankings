@@ -5,9 +5,9 @@ title: Speaker Ranking
 
 ![Earfun Uboom L and Tribit Stormbox Blast](/assets/img/uboomlblast.jpg)
 
-This website ranks a total of 351 battery powered Bluetooth speakers and powered bookshelf speakers. They are listed by size class in order of sound quality tested by trusted reviewers with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible.
+This website ranks a total of 351 battery powered Bluetooth speakers and powered bookshelf speakers. They are listed by size class in order of sound quality tested by [trusted reviewers](/personal-ranking-of-speaker-reviewers/) with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs. It also contains the most neutral EQ tuning and setup for each speaker if possible.
 
-Figuring out which speakers are the best among hundreds by watching videos on YouTube while determining which [reviewers are unbiased](/personal-ranking-of-speaker-reviewers/) can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. All the information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer.
+Figuring out which speakers are the best among hundreds by watching videos on YouTube while determining which reviewers are unbiased can easily take weeks or months. I wrote these rankings so you can easily understand the entire speaker market in minutes. All the information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer.
 
 Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings.
 
