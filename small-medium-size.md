@@ -6,7 +6,7 @@ comments: true
 
 ![Earfun Uboom L](/assets/img/ubooml.jpg)
 
-This page ranks 111 small/medium size powered Bluetooth speakers. The small/medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 112 small/medium size powered Bluetooth speakers. The small/medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
@@ -1659,7 +1659,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
 
-### #91 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325): $32
+### #91 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl): $23
+- Negatives: Lacking quite a bit of bass. Sounds hollow and thuddy. Just not great overall.
+- Lights: Yes
+- Battery Life: 12 hours
+- Weight: 1.56lbs / 708g
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=CVeKxTJumuc>
+    - <https://www.youtube.com/watch?v=AHWErahCd5M>
+- Links
+    - [Official Product Page](https://tribit.com/products/stormbox-mini-portable-bluetooth-speaker)
+
+### #92 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325): $32
 
 - Negatives: Hugely lacking bass compared to similar size speakers. Sounds hollow and thuddy with frequency dips in the midrange.
 - Weight: 1.38lbs / 630g
@@ -1670,7 +1681,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
 
-### #92 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl): $40
+### #93 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl): $40
 
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass.
 - Bass Extension: 87hz (-10dB)
@@ -1685,7 +1696,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://parts-express.sjv.io/q4bNkj)
 
-### #93 Harman Kardon Esquire 2: $200
+### #94 Harman Kardon Esquire 2: $200
 
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
@@ -1694,14 +1705,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
 
-### #94 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325): $36
+### #95 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325): $36
 
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZInN26jI13M>
 
-### #95 Xdobo X8: $35
+### #96 Xdobo X8: $35
 
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Bass Extension: ~65hz (-10dB)
@@ -1715,7 +1726,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
 
-### #96 Xiaomi Mi Outdoor
+### #97 Xiaomi Mi Outdoor
 
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
@@ -1724,7 +1735,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=2xDcb8j9x5M>
     - <https://www.youtube.com/watch?v=YR5qkcPg_i4>
 
-### #97 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325): $34
+### #98 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325): $34
 
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Bass Extension: ~64hz (-10dB)
@@ -1733,7 +1744,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=8uqI1pxHeVM>
 
-### #98 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325): $40
+### #99 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325): $40
 
 - Negatives: Very little bass with horrible upper bass thud at higher levels
 - Max Volume: 86db
@@ -1743,7 +1754,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 
-### #99 Ultimate Ears Roll 2: $100
+### #100 Ultimate Ears Roll 2: $100
 
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Weight: 0.73lbs / 330g
@@ -1751,7 +1762,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SSla-paxi14>
 
-### #100 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325): $50
+### #101 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325): $50
 
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Bass Extension: ~90hz (-10dB)
@@ -1764,14 +1775,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tbd1-9CAnYw>
 
-### #101 EFM Toledo
+### #102 EFM Toledo
 
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SmF_9L5FM7w>
 
-### #102 Beats Pill+: $230
+### #103 Beats Pill+: $230
 
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - Bass Extension: 90hz (-10dB)
@@ -1781,14 +1792,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
 
-### #103 Skullcandy Terrain XT: $80
+### #104 Skullcandy Terrain XT: $80
 
 - Negatives: No bass, very rolled off treble. Just doesn't sound good
 - Battery Life: 14 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=368gHYvN-QQ>
 
-### #104 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
+### #105 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
 
 - Negatives: Barely any bass
 - Weight: 1.23lbs / 558g
@@ -1798,7 +1809,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
 
-### #105 Doss Soundbox
+### #106 Doss Soundbox
 
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Bass Extension: 140hz (-10dB)
@@ -1809,7 +1820,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
 
-### #106 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl): $27
+### #107 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl): $27
 - Negatives: Mids and treble on the harsh side, not much bass
 - Weight: 1.23lbs / 550g
 - Battery Life: 24 hours
@@ -1817,7 +1828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PSqpd9W7oPI>
 
-### #107 Doss E–Go II
+### #108 Doss E–Go II
 
 - Negatives: Horribly bad unless turned up, still not great
 - Bass Extension: 120hz (-10dB)
@@ -1827,7 +1838,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
 
-### #108 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl): $28
+### #109 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl): $28
 
 - Negatives: Very harsh treble, no bass.
 - Max Volume: 89db
@@ -1838,7 +1849,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Wogk7QEtKP4>
 
-### #109 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl): $20
+### #110 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl): $20
 - Negatives: Sounds like a soup can, no bass at all. Weird frequency response all over.
 - Weight: 1.47lbs / 665g
 - Battery Life: 40 hours
@@ -1846,7 +1857,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ADGFOxmXROs>
 
-### #110 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl): $60
+### #111 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl): $60
 
 - Negatives: Barely any bass, “pathetic sounding” said Jay's Reviews. Gets distorted with a lot of bass. The entire Altec Lansing Bluetooth speaker line likely also sounds similarly bad.
 - Weight: 2.7lbs / 1.22kg
@@ -1858,7 +1869,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=YkqfKLSgvfQ>
     - <https://www.youtube.com/watch?v=_5f6b-5wI98>
 
-### #111 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl): $40
+### #112 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl): $40
 
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad
 - Weight: 0.7lbs / 0.3kg

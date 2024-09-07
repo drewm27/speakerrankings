@@ -6,7 +6,7 @@ comments: true
 
 ![Earfun Uboom L and Tribit Stormbox Blast](/assets/img/uboomlblast.jpg)
 
-This page lists the best portable Bluetooth speakers out of the 313 ranked on this website. The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details of each speaker in the main rankings.
+This page lists the best portable Bluetooth speakers out of the 314 ranked on this website. The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details of each speaker in the main rankings.
 
 ### My Perfect Setup
 

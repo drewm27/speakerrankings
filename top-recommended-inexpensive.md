@@ -4,7 +4,7 @@ title: The Best Inexpensive Portable Bluetooth Speakers
 comments: true
 ---
 
-This page lists the best inexpensive portable Bluetooth speakers of the 313 ranked on this website. The suggestions in this section are biased towards value speakers with a reasonable frequency response. See [this link if you are looking for sound quality focused speakers](/top-recommended/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
+This page lists the best inexpensive portable Bluetooth speakers of the 314 ranked on this website. The suggestions in this section are biased towards value speakers with a reasonable frequency response. See [this link if you are looking for sound quality focused speakers](/top-recommended/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
 ### The Best Inexpensive Small/Medium Size Speaker
 
