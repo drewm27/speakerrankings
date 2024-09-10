@@ -54,7 +54,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=0KvXRMa0YY8>
 - Links
     - [Official Product Page](https://www.aps-company.com/klasik-2020-en/)
-    - [Sound On Sound Review](https://www.soundonsound.com/reviews/aps-klasik-2020)
+    - [Sound On Sound Measurements and Review](https://www.soundonsound.com/reviews/aps-klasik-2020)
 
 ### #4 [Focal Alpha 65 EVO](https://www.amazon.com/Focal-Alpha-Powered-Studio-Monitor/dp/B08YRMQ7VQ?crid=BPEF25FQRE4Y&dib=eyJ2IjoiMSJ9.3e8NYNouAV3aSQp9rLfqbV08ou7zMaEi5aICbrvcycJs5dJOcsayuuYKSed0rlvtamlgJDnAvTcWOgBJUZQSJ1PKZstp3hb1bDEyfFzGlRgHrUF3s3DKA4GjJ5cHzoJbQ6NjphtbKOKPy6cO7BVN3ySqPABXlcXU6BJikvkaGymenqAvx6BMdZNPktzQdKIAn171M3EsuOGIkoI11Utq_qYkKb9bdwPIbv3xkYAcHsE.YGjwrWwB1QWmzDMv2xSFKMCqS_40wH_MbgsLGoUUD3U&dib_tag=se&keywords=focal+alpha+65&qid=1717691652&sprefix=focal+alpha%2Caps%2C234&sr=8-2&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=bd741ecea9e1b9ebc01178681d5b48ef&language=en_US&ref_=as_li_ss_tl): $800 a pair
 - Positives: Very neutral, not quite as good as the Klasik 2020 in the midrange, but with better soundstage and instrument definition than the HS8
