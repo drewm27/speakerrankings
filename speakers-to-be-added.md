@@ -7,6 +7,7 @@ comments: true
 I plan to get around to these as soon as there are good sound samples and comparisons around, stay tuned!
 
 1. Dayton Audio M4 (current in review)
+1. Bugani Boost Max
 1. A lot more bookshelf speakers
 1. Miatone *
 1. Nox 160
