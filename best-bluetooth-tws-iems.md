@@ -28,6 +28,6 @@ Scarbir has done an amazing job reviewing, describing and detailing over 300 Blu
 
 He also has [buying guides](https://www.scarbir.com/guides) for every price level, with fantastic IEM choices at the $25, $50, $75, and $100 levels. The $75 level is especially great value:
 
-Crinnacle who has written one of the best high end headphone guides around has also reviewed many [TWS IEMs](https://crinacle.com/guide/tws/) among his [general IEM list](https://crinacle.com/rankings/iems/)
+Crinacle who has written one of the [best high end headphone guides](https://crinacle.com/rankings/headphones/) around has also reviewed many [TWS IEMs](https://crinacle.com/guide/tws/) among his [general IEM list](https://crinacle.com/rankings/iems/)
 
 As an Amazon Associate I earn from qualifying purchases.
