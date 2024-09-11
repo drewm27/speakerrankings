@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Karaoke Setups
+title: Karaoke Equipment and Setups
 comments: true
 ---
 
