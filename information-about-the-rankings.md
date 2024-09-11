@@ -22,7 +22,7 @@ All max volume measurements are at 1m, all bass extension measurements are at a 
 
 ### External Help
 
-If you can’t find the speaker comparison you’re looking for, search Youtube for it.
+If you can’t find the speaker comparison you’re looking for, search [YouTube](https://www.youtube.com/) for it.
 
 ### Other Guides
 
