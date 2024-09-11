@@ -32,7 +32,7 @@ Note, JBL daisychain is not compatible with any other non-JBL speaker and is pos
 
 DJing, playing an instrument, singing, or playing first person shooter games require latency below around 15ms (~1/100s). Watching video generally requires latency below 200ms (1/5s). Youtube on Android appears to automatically adjust for Bluetooth speaker latency, but not on iPhone.
 
-### Bass At High Levels
+### Bass Extension and Bass At High Levels
 
 Almost all these speakers start cutting out bass around 60-80% to get to their maximum volume without distortion. Bigger speakers generally have deeper bass, there’s no way around physics.
 
