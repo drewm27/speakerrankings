@@ -40,6 +40,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 
 - [Portable Power Stations and Power Banks](/portable-power-stations/)
 - [Karaoke Setups](/karaoke-setups/)
+- [The Best Bluetooth TWS IEM Headphones](/best-bluetooth-tws-iems/)
 
 ### Information
 
@@ -59,4 +60,4 @@ Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 09/09/2024
+Last updated 09/10/2024
