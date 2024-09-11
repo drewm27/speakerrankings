@@ -38,7 +38,7 @@ Almost all these speakers start cutting out bass around 60-80% to get to their m
 
 ### Battery Life
 
-Battery life is generally rated at medium volume. Running at full volume, expect 25-33% (example: 10 hours drops to 2.5-3.3 hours) of rated battery life.
+Battery life is generally rated at medium volume. Running at full volume, expect 25%-33% (example: 10 hours drops to 2.5-3.3 hours) of rated battery life.
 
 ### Volume Steps
 
@@ -46,11 +46,11 @@ Iphones seem to be limited to [16 volume steps](https://www.reddit.com/r/iOSBeta
 
 ### Disabling Audio Tones
 
-Newer speakers from Soundcore, Tribit, JBL, Ultimate Ears, and Minirig can disable their startup, pairing and shutdown sounds by changing a setting in their app.
+Newer speakers from Earfun, Soundcore, Tribit, JBL, Ultimate Ears, and Minirig can disable their startup, pairing and shutdown sounds by changing a setting in their app.
 
 ### Changing Tracks
 
-Nearly all speakers can skip forward tracks by pressing play twice and skip back by pressing play 3 times. Certain speakers may use a different button press.
+Nearly all speakers can skip forward tracks by pressing play two times and skip back by pressing play three times. Certain speakers may use a different button press.
 
 ### Speaker Firmware Installation on a Mac
 
