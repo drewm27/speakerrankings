@@ -281,7 +281,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.krkmusic.com/products/classic-5-powered-studio-monitor-pack)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)
 
-### #15 [Audioengine HD6](https://www.amazon.com/Audioengine-Wireless-Bookshelf-Speakers-Resolution/dp/B017E10MPU?crid=3C9VH2DXEWGMY&dib=eyJ2IjoiMSJ9.Sz7nabdSXw-ALEVPS7TgVN8RcZoFZe1K1GuL87GbgW-GxrpKLtO2RG9FXgEgL85eQDQMlGlj73dHvrUSg24U_LBN6B03IO_X6sDgcZEmwf-wqmC87B0NuYfv4HpjWRDyWDXvFHu8-LZh0ILTE8I3oEV4xAVVWa2L_E-RXKVvYztvfZZG90LdoOGeE1fjxvpCfjSKFBkVyKO6_NONvUgW0PePHE_v6IJGbisgOQt2-jQ.0XGs3_kHyyIBP6U49-kYen6hkvMnVa3QPakbEg4xZr8&dib_tag=se&keywords=audioengine%2Bhd6&qid=1713994066&sprefix=audioengine%2Bhd%2Caps%2C174&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73448af7b8740b189af123b4ae61ed40&language=en_US&ref_=as_li_ss_tl): $700 a pair
+### #15 [Audioengine HD6](https://lvnta.com/lv_XV3UeQBotZIJuc8PIw): $700 a pair
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
@@ -368,7 +368,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-r1280t-powered-speaker-review.16112/)
 
-### #20 [Audioengine HD4](https://www.amazon.com/Audioengine-Wireless-Bluetooth-Speakers-Bookshelf/dp/B08CS1J8YW?crid=66HRBNLV0TLW&dib=eyJ2IjoiMSJ9.IoeeeZ_dNMGAnrk-wh-czF1VEVOfCrkbSAfcUsgpjh9qX5T40-Epis8KKDTg-O6-ONwd_xhbqNKTNJB6lrkSNtsh7D1csJc-ZRPbE2zDcOKQv3taqmpyJy3rpEIXZvF9irsUEvNyeMDTafzb9c6I9vkbbLCuI1-GegDIG9RFWIy-RSjcPlx4suONmFRIQrZ_dfSI0vDE6hn2vOvPScmWrBYgu8kXfehPilbcFwng_iE.YZ0xksGywV6b0MF-35pauLqcwwsXc_fecHbVta94YN4&dib_tag=se&keywords=audioengine%2Bhd4&qid=1713997298&sprefix=audioengine%2Bhd3%2Caps%2C155&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=32681d298a53763f3875e85dc06b7b2f&language=en_US&ref_=as_li_ss_tl): $400 a pair
+### #20 [Audioengine HD4](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ): $400 a pair
 - Negatives: Not a great sounding speaker for the high price.
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Weight: 7.2lbs / 3.3kg

@@ -49,7 +49,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/iloud-micro-monitors-measurements-and-quasi-anechoic-spinorama.10988/)
 
-### #3 [Audioengine HD3](https://www.amazon.com/Audioengine-Wireless-Speakers-Bluetooth-Bookshelf/dp/B08SHSVFLY?crid=2PAOFMKQJCA92&dib=eyJ2IjoiMSJ9.-lgXjJT-hOTZbGuByE457OF0Wix6VS3ewqvk55KMbHFK9drJd9dPtMZnw5zhXnbPA4IT_kdb65nx3HXZGXsJSq7RLZtQqtKx4U9oHdLDku4miz1C_OfosL-sk1i_jJZ7j57PSlh0mCElO-JjMwmfH0nqTA_KNKznLd2PkXcQIwlah7Pla45MAoQnqVa0vIxD4-QFWJo3AP_lbgvIldGnXPCMA5NNArUmNUg-KW8kcLc.lADSUyfnqhNaacghdfKgOwANKhiZRs8voVHmAORVj_E&dib_tag=se&keywords=audioengine%2Bhd3&qid=1713997265&sprefix=audioengine%2Bhd%2Caps%2C240&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=88358c04e2d0204d09b8fad4ef74fdf5&language=en_US&ref_=as_li_ss_tl): $350 a pair
+### #3 [Audioengine HD3](https://lvnta.com/lv_PwrN8DlfqFbgBUL9io): $350 a pair
 - Negatives: Small woofer doesn't have very deep bass. Slightly boosted treble. High priced
 - Frequency Response: 65 Hz-20 kHz (-3dB)
 - Weight: 7.2lbs / 3.3kg
