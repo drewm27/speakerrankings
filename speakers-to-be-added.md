@@ -6,6 +6,8 @@ comments: true
 
 I plan to get around to these as soon as there are good sound samples and comparisons around, stay tuned!
 
+1. [Earfun Uboom X](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
+1. [Stormbox Blast 2](https://www.instagram.com/p/C_7n3oxItrD/)
 1. [Aiwa Exos-10](https://www.amazon.com/Aiwa-Exos-10-Portable-Bluetooth-Subwoofer/dp/B0DD5QHSFP?crid=SRT6QT8MAU7D&dib=eyJ2IjoiMSJ9.X0BEgYZ6GINZNWKBpocRgjUOyDDhZO1DJDb39S-nbtGP3XNhNNYu00ky_JHv0MGRSSYV2_fdUKhX2eYtU_wyVxQPASjs0TRjjVfbxrXdkmTwYmuTxO8yCbbkjxEMfZXeW9m2lOeGsii7YdO9--xVSmeRYf2t05DC3YX6zbvlAge3LOTbenXarBVv2641nn6GbCXRjB4lJLojpcA1CPWnTmSq5MXqNlJu4GmpWg82s-k.fmjP-YomJDz6F-7o6uhA07-Gy0hI7YPy4FQd58cuBUU&dib_tag=se&keywords=aiwa%2Bexos%2B10&qid=1726203041&sprefix=aiwa%2Bexos%2Caps%2C301&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=958d02a729f00b9403c10c4295f416bc&language=en_US&ref_=as_li_ss_tl)
 1. [Dayton Audio M4](https://parts-express.sjv.io/oqxLqg) (current in review)
 1. [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=3K6SUTWQ2ST1F&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726203179&sprefix=bugani+bo%2Caps%2C166&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=45d2d8124d5bd0a71336de6be5b76352&language=en_US&ref_=as_li_ss_tl)
