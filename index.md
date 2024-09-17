@@ -9,7 +9,7 @@ This website ranks a total of 352 battery powered Bluetooth speakers and powered
 
 These rankings were assembled in the same way a person would do deep research. Find the [best unbiased reviewer](/personal-ranking-of-speaker-reviewers/) comparisons and sound samples then take all of that information and piece together the full rankings of all speakers. This kind of research can easily take months of watching YouTube videos. I wrote these rankings so you can easily understand the entire speaker market in minutes. All the videos and information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer. 
 
-The top picks on this website are also the same ones that [Oluv](https://www.patreon.com/oluvsone), [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview), [Alan Ross](https://www.youtube.com/c/alanrossreviews) and [DLXWillington](https://www.youtube.com/@DLXWillington) highly recommend.
+The top picks on this website are the same ones that [Oluv](https://www.patreon.com/oluvsone), [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview), [Alan Ross](https://www.youtube.com/c/alanrossreviews) and [DLXWillington](https://www.youtube.com/@DLXWillington) also highly recommend.
 
 Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings.
 
