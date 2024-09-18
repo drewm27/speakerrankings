@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+cat index.md|tail -n +8|head -n -10|sed 's/^Speaker Ranking/[Speaker Ranking]\(https:\/\/www.speakerranking.com\/\)/'|sed 's/](\//](https:\/\/www.speakerranking.com\//'
