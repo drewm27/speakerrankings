@@ -15,7 +15,7 @@ Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great 
 
 Feel free to share this on Reddit or anywhere people could find it useful, thanks!
 
-### Top Recommended Portable Bluetooth Speakers
+### Top Recommended Speaker Guides
 
 - [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
 - [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
