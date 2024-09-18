@@ -733,6 +733,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - Power Input: AC Power brick
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=f_NtZs4HO8c>
     - <https://www.youtube.com/watch?v=QC1ZTsfBrl8>
@@ -753,6 +754,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Power Input: AC Power cord
 - Party Mode: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=9dIs_4-nSfI>
     - <https://www.youtube.com/watch?v=aBh91jFWVXI>
@@ -769,6 +771,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - IP Rating: IPX4
 - USB Playback: Yes
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - <https://www.youtube.com/watch?v=-OAUrom9DZM>
@@ -787,6 +790,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - TWS: No
 - USB Playback: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ImnPvu49RSM>
     - <https://www.youtube.com/watch?v=yenr1BPMk6s>
@@ -801,6 +805,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 11.46lbs / 5.2kg
 - Battery Life: 24 hours
 - Aux Input: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
@@ -823,6 +828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - App: Yes
 - EQ: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=e2mxaanQq3U>
@@ -832,7 +838,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://soundcore.sjv.io/R5qKrv)
 
 ### #40 [Demerbox DB2](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl): $400
-- Negatives: Bass is not as deep as better speakers
+- Negatives: Bass is not as deep as better speakers. Very overpriced.
 - Weight: 7.4lbs / 3.4kg
 - Battery Life: 40 hours
 - Power Bank: Yes
@@ -840,6 +846,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - App: No
 - EQ: No
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=F4VLp6en8Kc>
     - <https://www.youtube.com/watch?v=q-PSiKgiiIM>
@@ -857,6 +864,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 160ms
 - Aux Latency: 16ms
 - TWS: Yes
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=cb6sKTBjHvg>
     - <https://www.youtube.com/watch?v=GaCQQ_34r8k>
@@ -868,6 +876,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Aux Input: Yes
 - IP Rating: None
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qIkm529aaaQ>
     - <https://www.youtube.com/watch?v=NIyRizpppgI>
@@ -887,6 +896,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - IP Rating: None
 - TWS: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mTJTjgryLkE>
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
@@ -904,6 +914,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=e2mxaanQq3U>
     - <https://www.youtube.com/watch?v=v_8Guk1NPa8>
@@ -915,6 +926,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 118db
 - Weight: 19lbs / 8.6kg
 - Battery Life: 12 hours
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kG9Bikc7L4g>
     - <https://www.youtube.com/watch?v=XeydgPPQ6HI>
@@ -926,6 +938,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 115db
 - Weight: 13lbs / 5.9kg
 - Battery Life: 12 hours
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o8DaGePVQzQ>
 
@@ -938,6 +951,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Battery Life: 10 hours
 - TWS: Yes
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tCWXYBzbKkg>
 
@@ -952,6 +966,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - FM Radio: Yes
 - USB Playback: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zlAsAJtwNS8>
 
@@ -963,6 +978,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Aux Input: Yes
 - IP Rating: IPX2
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=gBGUb4G9SpU>
@@ -978,6 +994,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
 
@@ -992,6 +1009,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: IPX6
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=v_8Guk1NPa8>
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
@@ -1003,6 +1021,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
 - Battery Life: 20 hours
 - Aux Input: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=MrlgzwVoFw4>
     - <https://www.youtube.com/watch?v=a-VmNf5kgEA>
@@ -1014,6 +1033,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.4lbs / 7.9kg
 - Battery Life: 18 hours
 - Aux Input: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=uihgotNRgJ0>
     - <https://www.youtube.com/watch?v=3hADMlWdjrw>
@@ -1028,6 +1048,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - FM Radio: Yes
 - USB Playback: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=F4d76SDQPtw>
 
@@ -1043,6 +1064,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - IP Rating: IPX5
 - USB Playback: Yes
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=g05lODItS4w>
 
@@ -1054,6 +1076,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 28.6lbs / 13kg
 - Battery Life: 65 hours
 - FM Radio: Yes
+- Stereo: No
 - Aux Input: Yes
 
 ### #57 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325): $160
@@ -1061,6 +1084,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
 - Weight: 12.6 lbs / 5.7kg
 - Battery Life: 20 hours
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jS0Ofn3aRaI>
 
@@ -1070,6 +1094,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 9.7lbs / 4.4kg
 - Battery Life: 10 hours
 - Aux Input: Yes
+- Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 
@@ -1079,6 +1104,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Aux Input: Yes
 - MicroSD: Yes
+- Stereo: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=elc93N27uL0>
@@ -1093,6 +1119,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - IP Rating: IP67
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=y9aCDZW6I_8?t=392>
     - <https://www.youtube.com/watch?v=tFuilFzXh0Y>
