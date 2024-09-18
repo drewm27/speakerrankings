@@ -975,7 +975,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #45 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325): $38
 
-- Negatives: Not stereo. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
+- Negatives: Front/rear driver configuration. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Max Volume: 96db
 - Bass Extension: 61hz (-10dB)
 - MicroSD: Yes
@@ -986,7 +986,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Weight: 1.67lbs / 757g
 - Battery Life: 30 hours
-- Stereo: Yes
+- Stereo: No (front/rear drivers)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gmrcrkY_Zck>
 
