@@ -58,7 +58,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #2 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467): $275
 
 - Positives: Likely the best sound quality in the class. 2 included wireless microphones.
-- Negatives: Would be #1 if it wasn't for the following negatives. Only 10 hours of battery at medium volume.
+- Negatives: Would be #1 if it wasn't for the following negatives. Only 10 hours of battery at medium volume. Poor water rating.
 - Max Volume: 108db
 - Bass Extension: 38hz (-10dB)
 - Weight: 13lbs / 5.9kg
@@ -86,7 +86,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #3 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $250
 
 - Positives: Likely the best sound quality in the class.
-- Negatives: Would be #2 if it wasn't for the following negatives. Only 6 hours of battery at medium volume.
+- Negatives: Would be #2 if it wasn't for the following negatives. Only 6 hours of battery at medium volume. Poor Water rating.
 - Bass Extension: 38hz (-10dB)
 - Weight: 13lbs / 5.9kg
 - Battery Life: 6 hours
@@ -110,7 +110,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #4 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $250
 
 - Positives: Warm sound with boosted bass. Quite deep bass. Sound is more natural than the Go+play2. Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
-- Negatives: Not as loud as others. Battery life not great. No water resistance.
+- Negatives: Not as loud as others. Battery life not great. No water rating.
 - Max Volume: 103db
 - Bass Extension: 35hz (-10dB)
 - Weight: 10.4lbs / 4.7kg
@@ -135,7 +135,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #5 Aiwa Exos-9: $250
 
 - Positives: Still a great sounding speaker even against today's models.
-- Negatives: Features are lacking, generally not recommended anymore, not sold new anymore.
+- Negatives: Features are lacking, generally not recommended anymore, not sold new anymore. No water rating.
 - Bass Extension: 44hz (-10dB)
 - Weight: 15.3lbs / 6.9kg
 - Battery Life: 10 hours
@@ -157,7 +157,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #6 [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325): $800
 
-- Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
+- Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price. No water rating.
 - Bass Extension: 46hz (-10dB)
 - Weight: 10.25lbs / 4.65kg
 - Battery Life: 8 hours
@@ -177,7 +177,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #7 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325): $155
 
 - Positives: Warm sound with boosted bass.
-- Negatives: Not as loud as others.
+- Negatives: Not as loud as others. No water rating.
 - Max Volume: 96db
 - Bass Extension: 35hz (-10dB)
 - Weight: 7.76lbs / 3.52kg
@@ -188,7 +188,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - IP Rating: None
 - Power Input: AC Power brick
-- IP Rating: None
 - Built in Microphone: Yes
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
@@ -228,7 +227,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #9 Harman Kardon Citation 200: $130
 
 - Positives: Deeper bass than any Onyx.
-- Negatives: Overly boomy by default, you will likely [want to turn the bass down](https://citationsupporthelp.freshdesk.com/en/support/solutions/articles/47001167869-citation-200-eq-adjust-bass-and-treble-level-). 8 hour battery at medium volume. IPX4. Not at loud as others
+- Negatives: Overly boomy by default, you will likely [want to turn the bass down](https://citationsupporthelp.freshdesk.com/en/support/solutions/articles/47001167869-citation-200-eq-adjust-bass-and-treble-level-). 8 hour battery at medium volume. Poor water rating. Not at loud as others
 - Weight: 6.3lbs / 2.85kg
 - Battery Life: 8 hours
 - Aux Input: Yes
@@ -246,7 +245,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #10 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl): $134
 
 - Positives: Warm sound with boosted bass.
-- Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others.
+- Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others. No water rating.
 - Max Volume: 96db
 - Bass Extension: 37hz (-10dB)
 - Weight: 6.5lbs / 2.9kg
@@ -291,7 +290,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #12 Harman Kardon Go+ Play 2: $350
 
 - Positives: Warm sound with boosted bass.
-- Negatives: Not as loud as others.
+- Negatives: Not as loud as others. No water rating.
 - Max Volume: 99db
 - Bass Extension: 40hz (-10dB)
 - Battery Life: 8 hours
@@ -380,7 +379,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #16 [Edifier D12](https://www.amazon.com/Edifier-D12-Tabletop-Speaker-Integrated/dp/B08QR7CT48?crid=19L3AWOW9IPV1&dib=eyJ2IjoiMSJ9.PP1UwlM68CCSoX_R0TP-F6_JvlU-a-AgEklKON_wjc6o9XAmhC_PAN2DC2IbuNJxSnk8e0KMSixcAvP-bkqfiOLi69gVTwQHluBo-Jl0hjeNeo9dCJcrPC5qMNokC6U0joIOuWhydLBVUPnORIaRonEJR4WXY6bqlbJX4DiHMej8tI5_j6dkT-IdNeAcJhY7efyKFQKnwAMuHJ0EWKTGmS2Az-PPvRjhDaV7E7MRftk.VcDfcqEg4Ck3fuVgo1UF4_MZVrJDoJqPc1_fg4ZYNho&dib_tag=se&keywords=edifier%2Bd12&qid=1724907500&sprefix=edifer%2Bd12%2Caps%2C310&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cd7c254a800239f4888509854d56915d&language=en_US&ref_=as_li_ss_tl): $140
 - Positives: Subwoofer line out. 
-- Negatives: Not as deep of bass as other speakers in the category
+- Negatives: Not as deep of bass as other speakers in the category. No water rating.
 - Bass Extension: 57hz (-10dB)
 - Battery Life: No Battery
 - Aux Input: Yes
@@ -595,7 +594,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
 
 ### #26 [Marshall Stanmore II](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl): $300
-- Negatives: Not very deep bass. No battery
+- Negatives: Not very deep bass. No battery. No water rating.
 - Bass Extension: 55hz (-10dB)
 - Battery Life: No Battery
 - Aux Input: Yes
@@ -630,7 +629,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #28 Teufel Boomster NG (2017): 99€
 
 - Positives: Pretty neutral sound. Removable battery
-- Negatives: Not as deep bass as others in the category. Bass port can make noise
+- Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
 - Bass Extension: 47hz (-10dB)
 - Weight: 7.4lbs / 3.4kg
 - Battery Life: 18 hours
@@ -679,7 +678,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://electronics.sony.com/audio/speakers/party-speakers/p/srsult70)
 
 ### #31 [Bugani Boost Max](
-- Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. 
+- Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - Weight: 13.8 lbs / 6.3kg
 - Aux Input: Yes
 - Battery Life: 16 hours
@@ -725,7 +724,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #34 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325): $180
 
 - Positives: This speaker may move around in the rankings as we get better sound samples.
-- Negatives: Only IPX4. Bass extension doesn't seem very good.
+- Negatives: Poor water rating. Bass extension doesn't seem very good.
 - Weight: 10.1lbs / 4.6kg
 - Battery Life: 16 hours
 - Aux Input: Yes
@@ -761,7 +760,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #36 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325): $300
 
 - Positives: Included wireless microphone.
-- Negatives: IPX4 water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Max Volume: 94db
 - Bass Extension: 49hz (-10dB)
 - Weight: 16.5lbs / 7.5kg
@@ -864,7 +863,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #42 [Diamondboxx M3](https://diamondboxx.com/products/m3): $700
 
-- Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive.
+- Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
 - Weight: 11lbs / 5kg
 - Battery Life: 40 hours
 - Aux Input: Yes
@@ -877,7 +876,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #43 [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325): $215
 
 - Positives: Comes with wireless microphone. Loud.
-- Negatives: Not very deep bass. Boosted upper bass. Upper midrange dips. Distorts above medium volumes.
+- Negatives: Not very deep bass. Boosted upper bass. Upper midrange dips. Distorts above medium volumes. No water rating.
 - Max Volume: 115db
 - Bass Extension: 54hz (-10dB)
 - Battery Life: 24 hours
@@ -944,7 +943,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #48 ION Pathfinder 4: $300
 
-- Negatives: Bass is not as deep as competitors. Very heavy. IPX5
+- Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Weight: 25lbs / 11kg
 - Bass Extension: ~62hz (-10dB)
 - Battery Life: 100 hours
@@ -958,7 +957,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #49 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
 
-- Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low IPX2 water rating
+- Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low water rating
 - Bass Extension: 42hz (-10dB)
 - Weight: 10.8lbs / 4.9kg
 - Battery Life: 20 hours
@@ -1021,7 +1020,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #54 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325): $150
 
-- Negatives: Bass is not as deep as competitors. Very heavy
+- Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Weight: 22.7lbs / 10.3kg
 - Battery Life: 100 hours
 - Aux Input: Yes
@@ -1034,7 +1033,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #55 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325): $170
 
-- Negatives: Bass is not as deep as competitors. Very heavy
+- Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Max Volume: 100db
 - Bass Extension: 58hz (-10dB)
 - Weight: 23.8lbs / 10.8kg
