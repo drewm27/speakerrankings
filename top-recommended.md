@@ -10,7 +10,7 @@ This page lists the best portable Bluetooth speakers out of the 316 ranked on th
 
 ### My Perfect Setup
 
-My perfect minimal speaker setup would be **2** [**$50 (after clipped coupon and coupon UBOOMLWC on the checkout page) Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=433417fadb743aab2a7725af5f6ffde9&camp=1789&creative=9325) for quiet indoor use and travel and **2** [**$160 Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) for ourdoor and party use in a TWS setup. I believe these two are the best speakers for the money for nearly everyone.
+My perfect minimal speaker setup would be **2** [**$50 (after clipped coupon and coupon UBOOMLWC on the checkout page) Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=433417fadb743aab2a7725af5f6ffde9&camp=1789&creative=9325) for quiet indoor use and travel and **2** [**$112 Earfun Uboom X**](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv) for ourdoor and party use in a TWS setup. I believe these two are the best speakers for the money for nearly everyone.
 
 ### The Best Pocket Size Speaker For Sound Quality
 
@@ -30,7 +30,7 @@ The best reasonably priced [large size](/large-size/) battery powered speaker fo
 
 ### The Best Boombox Size Speaker For Sound Quality
 
-The best [boombox size](/boombox-size/) battery powered speaker for deep bass with excellent sound quality, that can get loud for a party but can still be carried by hand is the [**$160 (after coupon) Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325).
+The best [boombox size](/boombox-size/) battery powered speaker for deep bass with excellent sound quality, that can get loud for a party but can still be carried by hand is the [**$112 Earfun Uboom X**](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv) set to release on Oct 8 or if you need one right now, the [**$160 (after coupon) Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325).
 
 The best [boombox size](/boombox-size/) reasonably priced battery powered speaker that fits into home decor is the [**$250 Harmon Kardon Go+ Play3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) 
 
