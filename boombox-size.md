@@ -45,7 +45,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/earfun-uboom-x-3-105693987>
     - <https://www.patreon.com/posts/earfun-uboom-x-2-105645365>
     - <https://www.patreon.com/posts/earfun-uboom-x-1-104380759>
--- Links
+- Links
     - [Official Specs on this page](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv)
 
 ### #2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325): $160 after coupon
