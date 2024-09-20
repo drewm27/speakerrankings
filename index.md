@@ -28,7 +28,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 30 speakers ranked
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 112 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 65 speakers ranked
-- [Boombox Size Bluetooth Speakers](/boombox-size/): 60 speakers ranked
+- [Boombox Size Bluetooth Speakers](/boombox-size/): 61 speakers ranked
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 43 speakers ranked
 - [Insane Size Bluetooth Speakers](/insane-size/): 5 speakers ranked
 
@@ -62,4 +62,4 @@ Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 09/18/2024
+Last updated 09/20/2024
