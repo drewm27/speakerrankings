@@ -677,7 +677,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/party-speakers/p/srsult70)
 
-### #31 [Bugani Boost Max](
+### #31 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl): $240
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - Weight: 13.8 lbs / 6.3kg
 - Aux Input: Yes
