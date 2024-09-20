@@ -16,7 +16,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Earfun Uboom X](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv): $112 Shipping October 8
+### #1 [Earfun Uboom X](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv?shareid=8BBEB841E15): $112 Shipping October 8
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone) and he knocked it out of the park again. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. The app has sound profiles created by Oluv for Studio, Indoor, Indoor+, Outdoor, Outdoor+, BOOM xxX, and Ground 0 (for use outdoors when placed on the ground) which are all fantastic. This is the only speaker that sounds correct at every single volume level due to Oluv's individual EQ settings at each volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L. I personally have one and have been testing it since July and can confirm everything that Oluv has said is true.
 - Weight 9.2lbs / 4.18kg
 - Bass Extension: ~38hz (-10dB)
@@ -46,7 +46,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/earfun-uboom-x-2-105645365>
     - <https://www.patreon.com/posts/earfun-uboom-x-1-104380759>
 - Links
-    - [Official Product Page](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv)
+    - [Official Product Page](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv?shareid=8BBEB841E15)
 
 ### #2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325): $160 after coupon
 
