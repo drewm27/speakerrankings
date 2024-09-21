@@ -28,7 +28,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: Yes (Up to 50 speakers)
 - Build in Microphone: Yes
-- IP Rating: IPX7
+- IP Rating: IP67
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
