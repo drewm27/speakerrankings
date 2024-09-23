@@ -6,7 +6,7 @@ comments: true
 
 ![Tribit Stormbox Blast](/assets/img/stormboxblast.jpg)
 
-This page ranks 61 boombox size powered Bluetooth speakers. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Extreme size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+This page ranks 62 boombox size powered Bluetooth speakers. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Extreme size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
@@ -974,7 +974,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=o8DaGePVQzQ>
 
-### #48 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325): $84
+### #48 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl): $260
+- Negatives: Bass not as deep as competitors.
+- Battery Life: 25 hours
+- TWS: No
+- Stereo: No
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=5n-Z3842rOA>
+    - <https://www.youtube.com/watch?v=nMPO3NmXU2g>
+- Links
+    - [Official Product Page](https://ecoxgear.com/products/defender)
+
+### #49 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325): $84
 
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
@@ -987,7 +998,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tCWXYBzbKkg>
 
-### #49 ION Pathfinder 4: $300
+### #50 ION Pathfinder 4: $300
 
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Weight: 25lbs / 11kg
@@ -1002,7 +1013,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=zlAsAJtwNS8>
 
-### #50 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
+### #51 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
 
 - Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low water rating
 - Bass Extension: 42hz (-10dB)
@@ -1015,7 +1026,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=gBGUb4G9SpU>
 
-### #51 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $143
+### #52 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $143
 
 - Negatives: Rolled off treble, not much bass.
 - Max Volume: 108db
@@ -1030,7 +1041,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
 
-### #52 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $80
+### #53 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $80
 
 - Negatives: Heavily rolled off treble, less bass than the top ranked.
 - Max Volume: 106db
@@ -1048,7 +1059,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=t66JKkidpt8>
     - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
 
-### #53 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325): $190
+### #54 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325): $190
 
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
 - Battery Life: 20 hours
@@ -1059,7 +1070,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=a-VmNf5kgEA>
     - <https://www.youtube.com/watch?v=qr2oR3cnCYQ>
 
-### #54 Braven XXL 2: $350
+### #55 Braven XXL 2: $350
 
 - Negatives: Not very deep bass. Very heavy
 - Weight: 17.4lbs / 7.9kg
@@ -1070,7 +1081,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=uihgotNRgJ0>
     - <https://www.youtube.com/watch?v=3hADMlWdjrw>
 
-### #55 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325): $150
+### #56 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325): $150
 
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Weight: 22.7lbs / 10.3kg
@@ -1084,7 +1095,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=F4d76SDQPtw>
 
-### #56 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325): $170
+### #57 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325): $170
 
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Max Volume: 100db
@@ -1100,7 +1111,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=g05lODItS4w>
 
-### #57 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $250
+### #58 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $250
 
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
 - Max Volume: 96db
@@ -1111,38 +1122,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Aux Input: Yes
 
-### #58 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325): $160
-
-- Negatives: Rolled off treble, muddy midrange, not very deep bass
-- Weight: 12.6 lbs / 5.7kg
-- Battery Life: 20 hours
-- Stereo: Yes
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=jS0Ofn3aRaI>
-
-### #59 Artsound PWR05
-
-- Negatives: Strange frequency peaks, sound is very hollow.
-- Weight: 9.7lbs / 4.4kg
-- Battery Life: 10 hours
-- Aux Input: Yes
-- Stereo: Partially
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=46QtNAbtFyU>
-
-### #60 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl): $148
-- Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
-- Weight: 9.7lbs / 4.4kg
-- Battery Life: 40 hours
-- Aux Input: Yes
-- MicroSD: Yes
-- Stereo: Yes
-- IP Rating: IP67
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=elc93N27uL0>
-    - <https://www.youtube.com/watch?v=ui3IZd1Akoc>
-
-### #61 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325): $400
+### #59 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325): $400
 
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
 - Weight: 10lbs / 4.5kg
@@ -1153,8 +1133,44 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=5n-Z3842rOA>
     - <https://www.youtube.com/watch?v=y9aCDZW6I_8?t=392>
+    - <https://www.youtube.com/watch?v=nMPO3NmXU2g>
     - <https://www.youtube.com/watch?v=tFuilFzXh0Y>
     - <https://www.youtube.com/watch?v=1_BYNkiIMx4>
+- Links
+    - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-gen-2)
+
+
+### #60 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325): $160
+
+- Negatives: Rolled off treble, muddy midrange, not very deep bass
+- Weight: 12.6 lbs / 5.7kg
+- Battery Life: 20 hours
+- Stereo: Yes
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=jS0Ofn3aRaI>
+
+### #61 Artsound PWR05
+
+- Negatives: Strange frequency peaks, sound is very hollow.
+- Weight: 9.7lbs / 4.4kg
+- Battery Life: 10 hours
+- Aux Input: Yes
+- Stereo: Partially
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=46QtNAbtFyU>
+
+### #62 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl): $148
+- Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
+- Weight: 9.7lbs / 4.4kg
+- Battery Life: 40 hours
+- Aux Input: Yes
+- MicroSD: Yes
+- Stereo: Yes
+- IP Rating: IP67
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=elc93N27uL0>
+    - <https://www.youtube.com/watch?v=ui3IZd1Akoc>
 
 As an Amazon Associate I earn from qualifying purchases.
