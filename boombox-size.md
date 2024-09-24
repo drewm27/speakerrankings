@@ -932,6 +932,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mTJTjgryLkE>
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/h10)
 
 ### #45 [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325): $84
 
@@ -962,6 +964,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kG9Bikc7L4g>
     - <https://www.youtube.com/watch?v=XeydgPPQ6HI>
+- Links
+    - [Official Product Page](https://bumpboxx.com/products/bumpboxx-flare8)
 
 ### #47 Bumpboxx Flare 6: $300
 
@@ -997,6 +1001,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tCWXYBzbKkg>
+- Links
+    - [Official Product Page](https://geminisound.com/products/ggo-650l-bluetooth-karaoke-speaker)
 
 ### #50 ION Pathfinder 4: $300
 
@@ -1040,6 +1046,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/x10)
 
 ### #53 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $80
 
@@ -1058,6 +1066,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
     - <https://www.youtube.com/watch?v=t66JKkidpt8>
     - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/x10)
 
 ### #54 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325): $190
 
@@ -1069,6 +1079,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=MrlgzwVoFw4>
     - <https://www.youtube.com/watch?v=a-VmNf5kgEA>
     - <https://www.youtube.com/watch?v=qr2oR3cnCYQ>
+- Links
+    - [Official Product Page](https://www.alteclansing.com/products/mix-2-0)
 
 ### #55 Braven XXL 2: $350
 
@@ -1121,6 +1133,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - FM Radio: Yes
 - Stereo: No
 - Aux Input: Yes
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=uL9NPSEAwjE>
+    - <https://www.youtube.com/watch?v=JWQcHpHZBGg>
+- Links
+    - [Official Product Page](https://mymonsteraudio.com/products/monster-rockin-roller-270)
 
 ### #59 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325): $400
 
@@ -1150,6 +1167,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jS0Ofn3aRaI>
+- Links
+    - [Official Product Page](alteclansing.com/products/rockbox-xl-2)
 
 ### #61 Artsound PWR05
 
