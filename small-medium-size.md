@@ -1847,6 +1847,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lrVa4Cnrets>
+    - <https://www.youtube.com/watch?v=Gnh_t3hupag>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-4)
 
