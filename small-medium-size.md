@@ -1387,6 +1387,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: No
 - App: Yes
+- IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lwyO-KbUvvo>
 - Links
