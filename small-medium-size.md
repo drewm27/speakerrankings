@@ -1681,6 +1681,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CVeKxTJumuc>
     - <https://www.youtube.com/watch?v=AHWErahCd5M>
+    - <https://www.youtube.com/watch?v=j2RvrCmY31E>
 - Links
     - [Official Product Page](https://tribit.com/products/stormbox-mini-portable-bluetooth-speaker)
 
