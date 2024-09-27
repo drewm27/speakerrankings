@@ -6,7 +6,7 @@ comments: true
 
 ![Tribit Stormbox Micro 2](/assets/img/stormboxmicro2.jpg)
 
-This page ranks 32 pocket size powered Bluetooth speakers. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 33 pocket size powered Bluetooth speakers. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
@@ -231,7 +231,25 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=X2i_dJCrwlc>
     - <https://www.youtube.com/watch?v=che2VHKbnhA>
 
-### #11 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
+### #11 [Anker Soundcore Mini](https://www.amazon.com/Anker-SoundCore-Super-Portable-Noise-Cancelling-Microphone/dp/B01HTH3C8S?pd_rd_w=hbfUP&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=AE5K36K62JQSERV4VTV1&pd_rd_wg=VXRHm&pd_rd_r=ffdc961a-a954-491e-984b-f1df45a6dd01&pd_rd_i=B01HTH3C8S&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=15db668a4983cf279fcecd42be90081e&language=en_US&ref_=as_li_ss_tl): $22
+- Positives: Has an FM tuner, aux input and MicroSD. Quite cheap
+- Negatives: Not quite as deep of bass as higher ranked speakers. No waterproofing
+- Weight: 0.44lbs / 200g
+- Battery Life: 15 hours
+- Power Bank: No
+- App: No
+- EQ: No
+- Aux Input: Yes
+- FM Tuner: Yes
+- MicroSD: Yes
+- Power Input: Micro USB
+- IP Rating: None
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=KCIjx_WJVYE>
+- Links
+    - [Official Product Page](https://www.soundcore.com/au/products/soundcore-mini)
+
+### #12 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
 
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - Max Volume: 88db
@@ -256,7 +274,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/willen)
 
-### #12 [Klipsch Austin](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=se&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl): $80
+### #13 [Klipsch Austin](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=se&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl): $80
 - Negatives: Not as deep bass as higher ranked speakers
 - Max Volume: 89dB
 - Bass Extension: ~70hz (-10dB)
@@ -278,7 +296,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.klipsch.com/products/austin)
 
-### #13 [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325): $170
+### #14 [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325): $170
 
 - Negatives: Good for its time, but now beat out by many others
 - Weight: 0.61lbs / 275g
@@ -296,7 +314,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beoplay-p2)
 
-### #14 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl): $23
+### #15 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl): $23
 - Positives: Quite cheap for what you get
 - Negatives: Not as deep of bass as higher ranked speakers
 - Weight: 0.58lbs / 265g
@@ -313,7 +331,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.soundcore.com/au/products/a31x1)
 
-### #15 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325): $95
+### #16 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325): $95
 
 - Positives: Loudest pocket speaker by a little.
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
@@ -335,7 +353,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.mifa.net/productinfo/2606938.html)
 
-### #16 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325): $99
+### #17 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325): $99
 
 - Negatives: Lack of clarity. Overly boosted bass
 - Max Volume: 90db
@@ -358,7 +376,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html)
 
-### #17 [JBL Clip 5](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl): $80
+### #18 [JBL Clip 5](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl): $80
 - Negatives: Generally more of the same from the Clip series in terms of sound but with more features. Basically about the same as the Clip 4
 - Weight: 0.86lbs / 390g
 - Battery Life: 12 hours
@@ -375,7 +393,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/CLIP-5.html)
 
-### #18 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
+### #19 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325): $80
 
 - Negatives: Quite a lack of bass. Not very loud.
 - Max Volume: 79db
@@ -396,7 +414,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
 
-### #19 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
+### #20 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
 
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
@@ -419,7 +437,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
 
-### #20 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
+### #21 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
 - Negatives: Not much bass at all, strange mids peak.
 - Max Volume: 88db
@@ -439,7 +457,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
 
-### #21 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl): $20
+### #22 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl): $20
 
 - Positives: The lightest speaker for the performance. The only lighter speaker is the Lenovo in last place
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off
@@ -459,7 +477,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://parts-express.sjv.io/DKX1Ba)
 
-### #22 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
+### #23 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.
 - Weight: 0.60lbs / 274g
@@ -479,7 +497,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxb100-b)
 
-### #23 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
+### #24 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325): $60
 
 - Negatives: Not much bass. Muddy sounding.
 - Max Volume: 88db
@@ -500,7 +518,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb13)
 
-### #24 JBL Clip: $50
+### #25 JBL Clip: $50
 
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - Bass Extension: ~95hz (-10dB)
@@ -519,7 +537,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/award-winners/JBL+CLIP.html)
 
-### #25 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
+### #26 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325): $50
 
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
@@ -538,7 +556,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CLIP+3.html)
 
-### #26 Xiaomi Mi Portable Outdoor
+### #27 Xiaomi Mi Portable Outdoor
 
 - Negatives: Not much bass, treble rolled off
 - Weight: 0.41lbs / 185g
@@ -550,7 +568,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=NwlwyofEYDM>
 
-### #27 Hopestar H54
+### #28 Hopestar H54
 
 - Negatives: Bright treble, not much bass, harsh mids
 - Battery Life: 5 hours
@@ -567,7 +585,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://hopestarshop.com/products/hopestar-h54-speaker)
 
-### #28 Sony SRS-XB12
+### #29 Sony SRS-XB12
 
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
@@ -590,7 +608,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
 
-### #29 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl): $51
+### #30 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl): $51
 - Negatives: Not much bass at all. Not very loud. Only IPX5, not submersible. Short battery life.
 - Bass Extension: ~90hz (-10dB)
 - Weight: 0.41lbs / 187g
@@ -604,7 +622,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://muzenaudio.com/products/wild-go-portable-rugged-wireless-bluetooth-speaker)
 
-### #30 Harman Kardon Esquire Mini 2: $100
+### #31 Harman Kardon Esquire Mini 2: $100
 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - Bass Extension: ~120hz (-10dB)
@@ -623,7 +641,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
 
-### #31 Harman Kardon Neo: $90
+### #32 Harman Kardon Neo: $90
 
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
@@ -640,7 +658,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
 
-### #32 Lenovo 700 Ultraportable Bluetooth Speaker: $85
+### #33 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
