@@ -303,7 +303,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #12 [Brane X](https://shop.braneaudio.com/products/brane-x-smart-speaker): $600
 - Positives: Very deep bass, likely some of the deepest from this category
-- Negatives: Boosted upper bass ~120hz, rolled off treble, nearly 10db up top so it's missing detail up top. Battery life isn't great in real world use. High priced.
+- Negatives: Boosted upper bass ~120hz, rolled off treble, nearly 10db up top so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements.
 - Battery Life: 12 hours
 - Weight: 7.8lbs / 3.5kg
 - Wifi: Yes
