@@ -199,9 +199,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP43
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=bxW813jlJKc>
-    - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
-    - <https://www.youtube.com/watch?v=59374H8e3HQ>
+    - <https://www.youtube.com/watch?v=sKZcCSsg1h0>
+    - <https://www.youtube.com/watch?v=nTSPqFQ4LkQ>
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
 
