@@ -14,7 +14,7 @@ My degree is in Electrical Engineering and Computer science and I am quite famil
 ###### Current Portable Bluetooth speakers
 - [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325)
 - 2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)
-- [Uboom X](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv?shareid=8BBEB841E15)
+- [Earfun Uboom X](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv?shareid=8BBEB841E15)
 - [Soundcore Motion Boom+](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325)
 - [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325)
 - 2 [Soundcore Motion Boom](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)
