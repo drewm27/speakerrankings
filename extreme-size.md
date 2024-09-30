@@ -23,6 +23,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 36.4lbs / 16.5kg
 - Battery Life: 18 hours
+- Removable Battery: Yes
 - Aux Input: Yes
 - Power Bank: Yes
 - USB Playback: Yes
@@ -76,6 +77,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Weight: 24lbs / 10.8kg
 - Battery Life: 12 hours
+- Removable Battery: Yes
 - Aux Input: Yes
 - Power Bank: Yes
 - USB Playback: Yes
@@ -434,6 +436,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 52hz (-10dB)
 - Weight: 34lbs / 15.4kg
 - Battery Life: 40 hours
+- Removable Battery: Yes
 - Aux Input: Yes
 - Microphone Input: Yes
 - Guitar Input: Yes
@@ -458,6 +461,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 52hz (-10dB)
 - Weight: 34lbs / 15.4kg
 - Battery Life: 40 hours
+- Removable Battery: Yes
 - Aux Input: Yes
 - Microphone Input: Yes
 - Guitar Input: Yes
@@ -481,6 +485,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 124db
 - Weight: 33lbs / 15kg
 - Battery Life: 40 hours
+- Removable Battery: Yes
 - Aux Input: Yes
 - Microphone Input: Yes
 - Guitar Input: Yes
@@ -520,6 +525,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 55hz (-10dB)
 - Weight: 20lbs / 9kg
 - Battery Life: 40 hours
+- Removable Battery: Yes
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
