@@ -24,7 +24,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Reasonable recordings, good picks of larger speakers. Looks to have been sponsored by Soundcore for the Motion 300 and Motion X600 videos that he made as there are no comparisons and just push features. Appears to have moved on from speaker reviews to reviews of other tech products.
 
 ### #6 [JaysStraightUpReviews](https://www.youtube.com/@JaysStraightUpReviews)
-- Recordings done with a Sony Xperia I IV cell phone, not great audio quality, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
+- Recordings done with a Sony Xperia I IV cell phone, not great audio quality, speakers are not volume matched properly, song choices do not show bass extension or clarity well. Decent picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
 
 ### #7 [Jagistreviews](https://www.youtube.com/@Jagistreviews)
 - Reasonable recordings, good comparisons of a lot of speakers.
