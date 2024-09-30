@@ -11,7 +11,7 @@ These are the best portable speakers for parties over 50 people or for use in la
 
 Speakers like the JBL Partybox 310 although they will play deeper just won't have the output needed for larger areas especially outdoors, so these are the best suggestions for extremely loud speakers.
 
-If you absolutely can't live without an internal battery and need the loudest speaker possible, you'll be limited to the [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) (EU only) or the [Soundboks Gen 3/4](https://soundboks.com/products/speakers/soundboks-4) (126db peak).
+If you absolutely can't live without an internal battery and need the loudest speaker possible, get the [Electro-Voice Everse 12](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)
 
 Also remember that you can get a power station for any speaker mentioned here. See [this page for more information about Power Stations](/portable-power-stations/)
 

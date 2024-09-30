@@ -178,20 +178,49 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBL+PartyBox+300.html)
 
-### #7 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
+### #7 [Electro-Voice Everse 12](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)
 
-- Positives: Good midrange and treble.
-- Negatives: Not stereo. Only IP44 with the rain cover installed. Designed for more loudness than deeper bass.
-- Max Volume: 121db
-- Bass Extension: 50hz (-10dB)
-- Weight: 17lbs / 8kg
-- Battery Life: 12 hours
+- Positives: Good midrange and treble. The best sounding loud speaker available.
+- Negatives: Not stereo. Designed for more loudness than deeper bass.
+- Max Volume: 126db
+- Bass Extension: 45hz (-10dB)
+- Weight: 31.2lbs / 14.2kg
+- Battery Life: 12+ hours
+- Removable Battery: Yes
 - Microphone Input: Yes
 - XLR Input: Yes
 - Power Bank: Yes
 - TWS: Yes
 - App: Yes
 - EQ: Yes
+- Party Mode: Yes (up to 6 speakers)
+- Aux Input: Yes
+- Power Input: AC Power cord
+- IP Rating: IP43
+- Stereo: No
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=bxW813jlJKc>
+    - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
+    - <https://www.youtube.com/watch?v=59374H8e3HQ>
+- Links
+    - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
+
+### #7 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325): $750
+
+- Positives: Good midrange and treble.
+- Negatives: Not stereo. Designed for more loudness than deeper bass.
+- Max Volume: 121db
+- Bass Extension: 50hz (-10dB)
+- Weight: 17lbs / 8kg
+- Battery Life: 12 hours
+- Removable Battery: Yes
+- Microphone Input: Yes
+- XLR Input: Yes
+- Power Bank: Yes
+- TWS: Yes
+- App: Yes
+- EQ: Yes
+- Party Mode: Yes (up to 6 speakers)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - IP Rating: IP43
