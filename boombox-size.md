@@ -1168,7 +1168,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=jS0Ofn3aRaI>
 - Links
-    - [Official Product Page](alteclansing.com/products/rockbox-xl-2)
+    - [Official Product Page](https://alteclansing.com/products/rockbox-xl-2)
 
 ### #61 Artsound PWR05
 

@@ -4,3 +4,6 @@ set -e
 
 # Check for incorrect urls
 grep '](' *md|tr '[' '\n'|grep ']('|grep -v README.md|grep -v '(http'|grep -v '(/'|grep -v '(./'|grep -v '(#'
+
+# Check for amazon non affilate links
+grep amazon.com *md|grep -v "tag=rankingspea01-20"
