@@ -328,6 +328,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=LQWcNRLtHQI>
+    - <https://www.youtube.com/watch?v=yD3PKKjnIz0>
 - Links
     - [Official Product Page](https://www.soundcore.com/au/products/a31x1)
 
