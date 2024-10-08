@@ -397,7 +397,25 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
 
-### #19 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
+### #19 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl): $23
+- Positives: Quite cheap for what you get
+- Negatives: Not as deep of bass as higher ranked speakers
+- Weight: 0.58lbs / 265g
+- Battery Life: 20 hours
+- IP Rating: IP67
+- App: Yes
+- TWS: Yes
+- Power Input: USB-C
+- Power Bank: No
+- EQ: Yes
+- Stereo: No
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=LQWcNRLtHQI>
+    - <https://www.youtube.com/watch?v=yD3PKKjnIz0>
+- Links
+    - [Official Product Page](https://www.soundcore.com/au/products/a31x1)
+
+### #20 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
 
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
@@ -419,24 +437,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.patreon.com/posts/jbl-go-4-first-103869354>
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
-
-### #20 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl): $23
-- Positives: Quite cheap for what you get
-- Negatives: Not as deep of bass as higher ranked speakers
-- Weight: 0.58lbs / 265g
-- Battery Life: 20 hours
-- IP Rating: IP67
-- App: Yes
-- TWS: Yes
-- Power Input: USB-C
-- Power Bank: No
-- EQ: Yes
-- Stereo: No
-- Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=LQWcNRLtHQI>
-    - <https://www.youtube.com/watch?v=yD3PKKjnIz0>
-- Links
-    - [Official Product Page](https://www.soundcore.com/au/products/a31x1)
 
 ### #21 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325): $50
 
