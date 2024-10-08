@@ -27,6 +27,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes (10 band)
 - TWS: Yes
+- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Party Mode: Yes (Up to 50 speakers)
 - Build in Microphone: Yes
 - IP Rating: IP67
