@@ -23,6 +23,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~38hz (-10dB)
 - Battery Life: 30 hours
 - Aux Input: Yes
+- Aux Latency: 16ms
 - Power Bank: Yes
 - App: Yes
 - EQ: Yes (10 band)
