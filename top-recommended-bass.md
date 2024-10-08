@@ -6,6 +6,10 @@ comments: true
 
 This page lists the best portable Bluetooth speakers for bass out of the 323 ranked on this website. The suggestions in this section are biased towards value speakers which have boosted and deep bass response. See these other links for [The Best Portable Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
+## The Best Pocket Size Speaker For Bass
+
+The best [pocket size](/pocket-size/) speaker with the deepest bass is the [**$51 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
+
 ### The Best Small/Medium Size Speaker For Bass
 
 The best [small/medium size](/small-medium-size/) battery powered speaker with the deepest bass is the [**$100 Tribit Xsound Mega**](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325)
