@@ -34,6 +34,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Power Input: USB-C
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=Q3Wge2qf3xc>
     - <https://www.youtube.com/watch?v=r1Du_IxlPKk>
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
