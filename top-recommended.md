@@ -26,7 +26,7 @@ The best small/medium speaker with a 0 latency aux for video use is the [**$80 S
 
 ### The Best Large Size Speaker For Sound Quality
 
-The best reasonably priced [large size](/large-size/) battery powered speaker for deeper bass with great sound quality is the [**$90 Soundcore Boom 2**](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325) or [**$104 on Soundcore.com with coupon SOUNDCORE202i4**](https://soundcore.sjv.io/vNk6PW) running [Oluv's EQ](https://www.patreon.com/oluvsone/shop/anker-soundcore-boom-2-eq-settings-171292)
+The best reasonably priced [large size](/large-size/) battery powered speaker for deeper bass with great sound quality is the [**$100 Soundcore Boom 2**](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325) or [**$104 on Soundcore.com with coupon SOUNDCORE202i4**](https://soundcore.sjv.io/vNk6PW) running [Oluv's EQ](https://www.patreon.com/oluvsone/shop/anker-soundcore-boom-2-eq-settings-171292)
 
 ### The Best Boombox Size Speaker For Sound Quality
 
