@@ -48,7 +48,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 
 - [Information About the Rankings](/information-about-the-rankings/)
 - [Information Applying to All Speakers](/information-applying-to-all-speakers/)
-- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 36 reviewers ranked
+- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 37 reviewers ranked
 - [Comments and Suggestions](/comments-suggestions/)
 - [Speakers to be Added](/speakers-to-be-added/)
 - [Issues I'm Working On](/issues-im-working-on/)
