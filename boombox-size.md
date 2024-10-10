@@ -16,7 +16,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Earfun Uboom X](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15): $112 with [early bird reservation](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv?shareid=8BBEB841E15). $112 at [Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl) with early bird coupon code or $118 with UBOOMXDR on checkout page
+### #1 [Earfun Uboom X](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl): $118 with UBOOMXDR on checkout page
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone) and he knocked it out of the park again. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. The app has sound profiles created by Oluv for Studio, Indoor, Indoor+, Outdoor, Outdoor+, BOOM xxX, and Ground 0 (for use outdoors when placed on the ground facing up) which are all fantastic. This is the only speaker that sounds correct at every single volume level due to Oluv's individual EQ settings at each volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L. I personally have one and have been testing it since July and can confirm everything that Oluv has said is true.
 - Weight 9.2lbs / 4.18kg
 - Max Volume: 110db
@@ -51,7 +51,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/earfun-uboom-x-1-104380759>
     - <https://www.youtube.com/watch?v=r1Du_IxlPKk>
 - Links
-    - [Official Product Page](https://www.myearfun.com/promo/earfun-uboom-x-early-bird-special-oluv?shareid=8BBEB841E15)
+    - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
 
 ### #2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325): $160 after coupon
 
