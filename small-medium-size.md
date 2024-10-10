@@ -659,7 +659,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
 - App: Yes
-- EQ: Yes
+- EQ: Yes (3 band)
 - Battery Life: 12 hours
 - Built in Microphone: Yes
 - IP Rating: IP67
