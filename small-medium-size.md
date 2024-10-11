@@ -254,6 +254,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - Stereo: No
 - Aux Input: Yes
+- USB Audio: Yes
 - App: Yes
 - EQ: Yes
 - Built in Microphone: Yes
@@ -285,6 +286,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Built in Microphone: Yes
 - Aux Input: No
+- USB Audio: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
@@ -1112,7 +1114,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.34lbs / 680g
 - Battery Life: 24 hours
 - Bass Extension: ~56hz
-- USB Playback: Yes
+- USB Audio: Yes
 - Power Bank: Yes
 - TWS: Yes
 - Stereo: No
@@ -1651,6 +1653,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~70hz (-10dB)
 - Weight: 1.23lbs / 631g
 - Battery Life: 27 hours
+- USB Audio: Yes
+- IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 - Links
