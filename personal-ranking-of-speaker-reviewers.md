@@ -42,7 +42,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Reasonable recordings. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
 ### #12 [DannyPops](https://www.youtube.com/@DannyPops)
-- Seems to be recording speakers off axis, always has the microphone above the speaker. Prefers speakers that are fun, rather than neutral. Likely paid heavily by Marshall. Appears to have moved on from speaker reviews to reviews of other tech products.
+- Seems to be recording speakers off axis, always has the microphone above the speaker. Prefers speakers that are fun, rather than neutral. Doesn't seem to notice the additional reverb echo added by Marshall speakers. Likely paid heavily by Marshall in the past and seems to have turned a new leaf, although it's hard to tell if he's looking for another paid manufacturer. Appears to now also review other tech products.
 
 ### #13 [Techradar](https://www.techradar.com/news/audio/portable-audio/10-best-portable-speakers-1069079)
 - Some good picks and some mediocre ones. This seem to be the best of the big publications, but still some not great speakers chosen like the Stormbox Flow and Epicboom. The author says they've reviewed over 150 products of all types, so likely only a handful of Bluetooth speakers which is not enough to rank the best.
