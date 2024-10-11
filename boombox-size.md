@@ -96,7 +96,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #3 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467): $275
 
 - Positives: Likely the best sound quality in the class. 2 included wireless microphones.
-- Negatives: Would be #1 if it wasn't for the following negatives. Only 10 hours of battery at medium volume. Poor water rating.
+- Negatives: Only 10 hours of battery at medium volume. Poor water rating.
 - Max Volume: 108db
 - Bass Extension: 38hz (-10dB)
 - Weight: 13lbs / 5.9kg
@@ -124,7 +124,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #4 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325): $250
 
 - Positives: Likely the best sound quality in the class.
-- Negatives: Would be #2 if it wasn't for the following negatives. Only 6 hours of battery at medium volume. Poor Water rating.
+- Negatives: Only 6 hours of battery at medium volume. Poor Water rating.
 - Bass Extension: 38hz (-10dB)
 - Weight: 13lbs / 5.9kg
 - Battery Life: 6 hours
@@ -147,8 +147,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #5 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $250
 
-- Positives: Warm sound with boosted bass. Quite deep bass. Sound is more natural than the Go+play2. Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
-- Negatives: Not as loud as others. Battery life not great. No water rating.
+- Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go+play2. Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
+- Negatives: Not as loud as others. Only 8 hours of battery at medium volume. No water rating.
 - Max Volume: 103db
 - Bass Extension: 35hz (-10dB)
 - Weight: 10.4lbs / 4.7kg
