@@ -220,6 +220,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wifi: Yes
 - TWS: Yes
 - Party Mode: Yes (Mozart 2.0)
+- USB Audio: Yes
 - IP Rating: IP65
 - Stereo: No
 - Power Input: USB-C
@@ -953,6 +954,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 7.3lbs / 3.3kg
 - Battery Life: 16 hours
 - Aux Input: Yes
+- Wifi: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/shorts/SepQ-Ri35KM>
     - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
