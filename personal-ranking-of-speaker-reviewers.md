@@ -4,7 +4,7 @@ title: Personal Ranking of Speaker Reviewers
 comments: true
 ---
 
-This page ranks 37 online speaker reviewers. This is my personal ranking of speaker reviewers and recordings. I've dug deeply into their content to detect sponsored and paid advertisements. This is how much I trust their recording quality being done by quality neutral equipment and their ability to rank neutral speakers properly. As you can see from my comments, there's a lot of paid sponsored biased reviewers on the bottom. 
+This page ranks 37 online speaker reviewers and how much I trust their judgement in being unbiased in their choices and the quality of their audio recording equipment and recordings. I've dug deeply into their content to detect sponsored and paid advertisements. As you can see from my comments, there's a lot of paid sponsored biased reviewers on the bottom. 
 
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
