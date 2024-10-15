@@ -1,0 +1,1 @@
+grep -E "^- [A-Za-z]" *size.md bookshelf*.md|grep -v "Comparisons"|grep -v "Links"|cut -f2 -d:|sort|uniq -c
