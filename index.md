@@ -48,6 +48,7 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 
 - [Information About the Rankings](/information-about-the-rankings/)
 - [Information Applying to All Speakers](/information-applying-to-all-speakers/)
+- [How Room Acoustics Affects Speakers](/how-room-acoustics-affects-speakers/)
 - [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 37 reviewers ranked
 - [Comments and Suggestions](/comments-suggestions/)
 - [Speakers to be Added](/speakers-to-be-added/)
