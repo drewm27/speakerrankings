@@ -31,7 +31,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Party Mode: Yes (Up to 50 speakers)
-- Build in Microphone: Yes
+- Built in Microphone: Yes
 - IP Rating: IP67
 - Power Input: USB-C
 - Comparisons and Sound Samples
@@ -784,7 +784,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
 - Battery Life: 20 hours
-- FM Radio: Yes
+- FM Tuner: Yes
 - Aux Input: Yes
 - IP Rating: IPX7
 - Aux Input: Yes
@@ -1019,7 +1019,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Bank: Yes
 - IP Rating: IPX5
-- FM Radio: Yes
+- FM Tuner: Yes
 - USB Playback: Yes
 - Stereo: No
 - Comparisons and Sound Samples
@@ -1107,7 +1107,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Bank: Yes
 - IP Rating: IPX5
-- FM Radio: Yes
+- FM Tuner: Yes
 - USB Playback: Yes
 - Stereo: No
 - Comparisons and Sound Samples
@@ -1121,7 +1121,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 23.8lbs / 10.8kg
 - Battery Life: 100 hours
 - Aux Input: Yes
-- FM Radio: Yes
+- FM Tuner: Yes
 - Power Bank: Yes
 - IP Rating: IPX5
 - USB Playback: Yes
@@ -1136,7 +1136,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 53hz (-10dB)
 - Weight: 28.6lbs / 13kg
 - Battery Life: 65 hours
-- FM Radio: Yes
+- FM Tuner: Yes
 - Stereo: No
 - Aux Input: Yes
 - Comparisons and Sound Samples

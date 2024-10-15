@@ -335,7 +335,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux Input: Yes
 - Power Bank: Yes
-- FM Radio: Yes
+- FM Tuner: Yes
 - Microphone Input: Yes
 - Guitar Input: Yes
 - Power Input: AC Power cord
@@ -828,7 +828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - TWS: Yes
 - USB Playback: Yes
-- FM Radio: Yes
+- FM Tuner: Yes
 - Microphone Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
