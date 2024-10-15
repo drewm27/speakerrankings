@@ -24,7 +24,7 @@ You’ll need to sign up for 1 month of his $11.50 a month Patreon to access the
 
 ### For those who just want to buy IEM headphones and not mess with them
 
-Scarbir has done an amazing job reviewing, describing and detailing over 300 Bluetooth IEMs. [Here’s his best sounding list](https://www.scarbir.com/best-sounding-earbuds). Scarbir also has [buying guides](https://www.scarbir.com/guides) for every price level, with fantastic IEM choices at the $25, $50, $75, and $100 levels. The $75 level is especially great value.
+Scarbir has done an amazing job reviewing, describing and detailing over 400 Bluetooth IEMs. [Here’s his best sounding list](https://www.scarbir.com/best-sounding-earbuds). Scarbir also has [buying guides](https://www.scarbir.com/guides) for every price level, with fantastic IEM choices at the $25, $50, $75, and $100 levels. The $75 level is especially great value.
 
 Crinacle who has written one of the [best high end headphone guides](https://crinacle.com/rankings/headphones/) around has also reviewed many [TWS IEMs](https://crinacle.com/guide/tws/) among his [general IEM list](https://crinacle.com/rankings/iems/)
 
