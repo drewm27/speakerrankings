@@ -1125,6 +1125,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
+    - <https://www.patreon.com/posts/beats-pill-2024-114092056>
     - <https://www.youtube.com/watch?v=Y8N22lZDQJ8>
     - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
 - Links
