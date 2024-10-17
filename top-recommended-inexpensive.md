@@ -16,7 +16,7 @@ The best inexpensive [small/medium size](/small-medium-size/) battery powered po
 
 ### The Best Inexpensive Large Size Speaker
 
-The best inexpensive [large size](/large-size/) battery powered portable Bluetooth speaker is the [**$80 Soundcore Motion Boom**](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)
+The best inexpensive [large size](/large-size/) battery powered portable Bluetooth speaker is the [**$75 Soundcore Motion Boom**](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)
 
 ### The Best Inexpensive Boombox Size Speaker
 
