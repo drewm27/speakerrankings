@@ -368,6 +368,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bCCgG7s4lDQ>
     - <https://www.youtube.com/watch?v=qgelmChNgAE>
+    - <https://www.youtube.com/watch?v=CdhU1W-5pr4>
 - Links
     - [Official Product Page](https://www.klipsch.com/products/gig-xxl-party-speaker)
 
