@@ -669,6 +669,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
+    - <https://www.patreon.com/posts/bose-soundlink-114024442>
     - <https://www.youtube.com/watch?v=b7T9j6JFzJI>
     - <https://www.youtube.com/watch?v=PFTo4M1dI6Q>
 - Links
