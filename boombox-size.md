@@ -614,7 +614,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #26 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325): $150
 
-- Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. IPX6. Wall wart charger.
+- Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. Wall wart charger.
 - Max Volume: 112db
 - Bass Extension: 43hz (-10dB)
 - Latency: 66ms

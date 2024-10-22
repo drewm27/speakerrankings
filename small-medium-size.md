@@ -1795,6 +1795,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
 - Weight: 0.82lbs / 373g
+- IP Rating: IP55
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2xDcb8j9x5M>
     - <https://www.youtube.com/watch?v=YR5qkcPg_i4>
