@@ -1589,7 +1589,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.cabasse.com/the-swell/>
+    - <https://www.youtube.com/watch?v=YsttqCS46QQ>
 - Links
     - [Official Product Page](https://www.cabasse.com/the-swell/)
 
