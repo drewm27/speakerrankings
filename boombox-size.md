@@ -819,7 +819,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #38 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325): $500
 
-- Negatives: Thuddy upper bass, not as deep bass as others. Only IP66. Speaker will not remain at max volume and will turn itself down automatically.
+- Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
 - Bass Extension: 49hz (-10dB)
 - Weight: 12.4lbs / 5.6kg
 - Battery Life: 30 hours
@@ -829,6 +829,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - USB Playback: Yes
 - Stereo: Yes
+- IP Rating: IP66
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ImnPvu49RSM>
     - <https://www.youtube.com/watch?v=yenr1BPMk6s>
