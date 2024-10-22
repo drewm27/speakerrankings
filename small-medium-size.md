@@ -1499,6 +1499,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.1lbs / 500g
 - Battery Life: 12 hours
 - IP Rating: IP67
+- TWS: No
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qG3-KQwTs0A>
