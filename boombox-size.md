@@ -36,6 +36,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Q3Wge2qf3xc>
+    - <https://www.youtube.com/watch?v=XVWtn8ynaPI>
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
@@ -564,6 +565,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: No
 - Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=XVWtn8ynaPI>
     - <https://www.youtube.com/watch?v=OTy29qPeIcI>
     - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
     - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
