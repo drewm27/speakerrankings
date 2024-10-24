@@ -424,6 +424,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Microphone Input: Yes
 - IP Rating: IP67
+- TWS: Yes
 - Power Bank: Yes
 - Stereo: Yes
 - Power Input: AC Power Cable
@@ -441,6 +442,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Bank: No
 - Weight: 10.1lbs / 4.6kg
+- TWS: No
 - IP Rating: None
 - Power Input: AC Power Cable
 - Stereo: Yes
