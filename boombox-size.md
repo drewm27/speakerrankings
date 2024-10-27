@@ -433,6 +433,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
   - <https://www.youtube.com/watch?v=XWp-Ru2YwsE>
   - <https://www.youtube.com/watch?v=5Xv2-HK_4_o>
+  - <https://www.youtube.com/watch?v=9ZDpHCDzpfc>
+  - <https://www.youtube.com/watch?v=IBMLaMH1IWU>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
 
