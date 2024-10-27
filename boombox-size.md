@@ -418,19 +418,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #17 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl): $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
-- Negatives: Sounds quite muddy with the boosted lower and upper bass. Xbass mode rolls off the treble and makes it warm sounding and even more muddy. Nowhere near as neutral as the first Blast and a big downgrade.
+- Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
 - Weight: 19.2 lbs / 8.7kg
+- Bass Extension: 40hz (-10dB)
 - Battery Life: 30 hours
+- Max Volume: 110db
 - Aux Input: Yes
 - Microphone Input: Yes
 - IP Rating: IP67
 - TWS: Yes
 - Power Bank: Yes
 - Stereo: Yes
-- Power Input: AC Power Cable
+- Power Input: AC Power Cable or 10w USB-C
 - Comparisons and Sound Samples
+  - <https://www.youtube.com/watch?v=XWp-Ru2YwsE>
   - <https://www.youtube.com/watch?v=5Xv2-HK_4_o>
-  - <https://www.youtube.com/watch?v=ntp3ESy0V34>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
 
