@@ -37,6 +37,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Q3Wge2qf3xc>
     - <https://www.youtube.com/watch?v=XVWtn8ynaPI>
+    - <https://www.youtube.com/watch?v=R96XSoGD1_4>
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
