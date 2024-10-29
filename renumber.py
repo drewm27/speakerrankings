@@ -2,6 +2,7 @@
 
 import os
 import re
+import requests
 from datetime import datetime
 
 count = {}
@@ -9,6 +10,15 @@ countfile = {}
 count['total'] = 0
 count['bookshelf'] = 0
 count['portable'] = 0
+
+def youtubeid_to_title(ytid):
+    url = 'https://www.googleapis.com/youtube/v3/videos?id=' + ytid + '&key=AIzaSyD2nni2ukaZIWlsI1oFq5BWfhEVL7LjPVQ%20&part=snippet'
+    request = requests.get(url, timeout=30)
+    data = request.json()
+    print(data['items'][0])
+    #description = data['items'][0]['channelTitle'] + ': ' + data['items'][0]['title']
+    description = data['items'][0]['snippet']['channelTitle'] + ': ' + data['items'][0]['snippet']['title']
+    return description
 
 current_datetime = datetime.now()
 regex = re.compile(' [0-9][0-9]* ')
@@ -33,6 +43,15 @@ for file in os.listdir():
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
                     else:
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
+                elif re.match('^    - <https://www.youtube.com/watch', line):
+                    try:
+                        ytid = line.split('=')[1].split('>')[0]
+                        description = youtubeid_to_title(ytid)
+                        line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
+                    except:
+                        pass
+                    newline = line
+
                 else:
                     newline = line         
                 f.write(newline)

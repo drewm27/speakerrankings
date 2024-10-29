@@ -36,9 +36,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=AFaO3biTmZc>
-    - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
-    - <https://www.youtube.com/watch?v=RwC1QG90RoY>
+    - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
+    - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
+    - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
 
@@ -59,7 +59,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=RwC1QG90RoY>
+    - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX1000.html)
 
@@ -80,10 +80,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=cMer55HGz38>
-    - <https://www.youtube.com/watch?v=srx-SAaqFjw>
-    - <https://www.youtube.com/watch?v=RU02J2XZhYg>
-    - <https://www.youtube.com/watch?v=APKDyXgIM6Q>
+    - [DLX Willington: I'M Floored 😲 | JBL Partybox 710 vs 310 | Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
+    - [GYMCADDY: JBL Partybox 710 Review - Its Your Personal Earthquake Machine](https://www.youtube.com/watch?v=srx-SAaqFjw)
+    - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)
+    - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-710-.html)
 
@@ -125,9 +125,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=1yVnCeuW9uA>
-    - <https://www.youtube.com/watch?v=RU02J2XZhYg>
-    - <https://www.youtube.com/watch?v=t6pFY4Sh0Us>
+    - [Jay's Straight Up Reviews & More: Sony SRS-XV900 vs JBL Partybox 310 - Can the JBL Middleweight 💪🏽 Compete With The Sony Heavyweight?](https://www.youtube.com/watch?v=1yVnCeuW9uA)
+    - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)
+    - [GYMCADDY: Sony XV900 Review - Finally, A Good Speaker From Sony!](https://www.youtube.com/watch?v=t6pFY4Sh0Us)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsxv900)
 
