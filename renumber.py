@@ -15,7 +15,6 @@ def youtubeid_to_title(ytid):
     url = 'https://www.googleapis.com/youtube/v3/videos?id=' + ytid + '&key=AIzaSyD2nni2ukaZIWlsI1oFq5BWfhEVL7LjPVQ%20&part=snippet'
     request = requests.get(url, timeout=30)
     data = request.json()
-    print(data['items'][0])
     description = data['items'][0]['snippet']['channelTitle'] + ': ' + data['items'][0]['snippet']['title']
     return description.strip('|')
 
@@ -48,7 +47,7 @@ for file in os.listdir():
                         description = youtubeid_to_title(ytid)
                         line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
                     except:
-                        print('Error fetching info for ' + ytid)
+                        print('Error fetching info for ' + ytid + '\n')
                     newline = line
 
                 else:
