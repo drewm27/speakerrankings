@@ -49,7 +49,7 @@ for file in os.listdir():
                         description = youtubeid_to_title(ytid)
                         line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
                     except:
-                        pass
+                        print('Error fetching info for ' + ytid)
                     newline = line
 
                 else:

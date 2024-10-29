@@ -80,7 +80,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - [DLX Willington: I'M Floored 😲 | JBL Partybox 710 vs 310 | Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
+    - [DLX Willington: I'M Floored 😲 JBL Partybox 710 vs 310 Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
     - [GYMCADDY: JBL Partybox 710 Review - Its Your Personal Earthquake Machine](https://www.youtube.com/watch?v=srx-SAaqFjw)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
