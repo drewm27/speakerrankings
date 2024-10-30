@@ -49,9 +49,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 7"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Ag8qN6Xwm2c>
-    - <https://www.youtube.com/watch?v=dRoeGfDaIuM>
-    - <https://www.youtube.com/watch?v=0KvXRMa0YY8>
+    - [DSAUDIO.review: DSAUDIO.review ||  APS Klasik 2020 vs Yamaha HS8  || sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
+    - [DSAUDIO.review: DSAUDIO.review ||  APS Klasik 2020 vs Kali Audio IN-5  || sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)
+    - [DSAUDIO.review: DSAUDIO.review ||  APS Klasik 2020 vs Focal Alpha 50 EVO  || sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)
 - Links
     - [Official Product Page](https://www.aps-company.com/klasik-2020-en/)
     - [Sound On Sound Measurements and Review](https://www.soundonsound.com/reviews/aps-klasik-2020)
@@ -65,12 +65,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 6.5"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=nkN8nbNUt9c>
-    - <https://www.youtube.com/watch?v=t6jqpS2jey0>
-    - <https://www.youtube.com/watch?v=HNAs-czKSy4>
-    - <https://www.youtube.com/watch?v=MspK8S2avGE>
-    - <https://www.youtube.com/watch?v=SVebw2_-9ok>
-    - <https://www.youtube.com/watch?v=M1ZyZbhCCNI>
+    - [DSAUDIO.review: DSAUDIO.review ||  Focal Alpha 65 EVO vs Yamaha HS8  || sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
+    - [DSAUDIO.review: DSAUDIO.review ||  Focal Alpha 65 EVO vs Focal Alpha 65  || sound.DEMO](https://www.youtube.com/watch?v=t6jqpS2jey0)
+    - [DSAUDIO.review: DSAUDIO.review ||  Focal Alpha 65 EVO vs Kali Audio IN-5  || sound.DEMO](https://www.youtube.com/watch?v=HNAs-czKSy4)
+    - [DSAUDIO.review: DSAUDIO.review ||  Focal Alpha 50 EVO vs Focal Alpha 65 EVO  || sound.DEMO](https://www.youtube.com/watch?v=MspK8S2avGE)
+    - [DSAUDIO.review: DSAUDIO.review ||  Focal Alpha 65 EVO vs Adam Audio A7X  || sound.DEMO](https://www.youtube.com/watch?v=SVebw2_-9ok)
+    - [DSAUDIO.review: DSAUDIO.review ||  Focal Alpha 65 EVO vs Adam Audio T7V  || sound.DEMO](https://www.youtube.com/watch?v=M1ZyZbhCCNI)
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-65-evo)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/focal-alpha-65-evo-review-studio-monitor.28832/)
@@ -84,11 +84,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=XSI_mErI-10>
-    - <https://www.youtube.com/watch?v=Q3D_vcVWytE>
-    - <https://www.youtube.com/watch?v=4vaBRjDPDns>
-    - <https://www.youtube.com/watch?v=2k-z1S8bffE>
-    - <https://www.youtube.com/watch?v=ryztRdDNk28>
+    - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
+    - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)
+    - [DSAUDIO.review: Kali Audio LP-8  vs  Presonus Eris E8 XT  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=4vaBRjDPDns)
+    - [DSAUDIO.review: Tannoy Gold 8  vs  PreSonus Eris E8 XT  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=2k-z1S8bffE)
+    - [DSAUDIO.review: Focal Alpha 80  vs  PreSonus Eris E8 XT  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=ryztRdDNk28)
 - Links
     - [Official Product Page](https://www.presonus.com/en-US/monitors/studio-monitors/eris-series/2777500128.html)
 
@@ -102,11 +102,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tKT1WFR4ZGw>
-    - <https://www.youtube.com/watch?v=vCksLawVPM8>
-    - <https://www.youtube.com/watch?v=u_NQQkwOgTA>
-    - <https://www.youtube.com/watch?v=4vaBRjDPDns>
-    - <https://www.youtube.com/watch?v=ywDG88KvzwA>
+    - [DSAUDIO.review: Tannoy Gold 8  vs  Kali Audio LP-8  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tKT1WFR4ZGw)
+    - [DSAUDIO.review: Focal Alpha 80  vs  Kali Audio LP-8  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vCksLawVPM8)
+    - [DSAUDIO.review: Yamaha HS8  vs  Kali Audio LP-8  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u_NQQkwOgTA)
+    - [DSAUDIO.review: Kali Audio LP-8  vs  Presonus Eris E8 XT  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=4vaBRjDPDns)
+    - [DSAUDIO.review: Kali Audio LP-8  vs  JBL 306P MKII  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=ywDG88KvzwA)
 - Links
     - [Official Product Page](https://www.kaliaudio.com/lone-pine-studio-monitors)
 
@@ -120,12 +120,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kafDlEzEG-U>
-    - <https://www.youtube.com/watch?v=DQGGADSHXSM>
-    - <https://www.youtube.com/watch?v=hiAGhoDTaiE>
-    - <https://www.youtube.com/watch?v=QjcU2RHAeTg>
-    - <https://www.youtube.com/watch?v=uz4gKwJrPs0>
-    - <https://www.youtube.com/watch?v=YftZtzD9Wyc>
+    - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
+    - [DSAUDIO.review: DSAUDIO.review ||  Edifier R2850DB vs Yamaha HS8  || sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
+    - [DSAUDIO.review: DSAUDIO.review ||  Adam Audio A7X vs Yamaha HS8  || sound.DEMO](https://www.youtube.com/watch?v=hiAGhoDTaiE)
+    - [DSAUDIO.review: Yamaha HS7  vs  Yamaha HS8  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=QjcU2RHAeTg)
+    - [DSAUDIO.review: Yamaha HS8  vs  Yamaha HS5  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=uz4gKwJrPs0)
+    - [DSAUDIO.review: Genelec 8020D vs Yamaha HS8  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=YftZtzD9Wyc)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 
@@ -139,8 +139,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kafDlEzEG-U>
-    - <https://www.youtube.com/watch?v=-jMpTspSl0U>
+    - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
+    - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)
 - Links
     - [Official Product Page](https://www.adam-audio.com/en/t-series/t8v/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t8v-studio-monitor-review.17118/)
@@ -155,16 +155,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 7"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=64wfMYpACEQ>
-    - <https://www.youtube.com/watch?v=KRKa30FyOUQ>
-    - <https://www.youtube.com/watch?v=64wfMYpACEQ>
-    - <https://www.youtube.com/watch?v=M1ZyZbhCCNI>
-    - <https://www.youtube.com/watch?v=0_2x6fCvtwQ>
-    - <https://www.youtube.com/watch?v=x31WqgYaisY>
-    - <https://www.youtube.com/watch?v=b4CqEUHjP0w>
-    - <https://www.youtube.com/watch?v=bwX9pnynqUk>
-    - <https://www.youtube.com/watch?v=lH4aACE5tjE>
-    - <https://www.youtube.com/watch?v=R7y6FJJdeUo>
+    - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
+    - [DSAUDIO.review: DSAUDIO.review ||  Adam Audio A7X vs Adam Audio T7V  || sound.DEMO](https://www.youtube.com/watch?v=KRKa30FyOUQ)
+    - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
+    - [DSAUDIO.review: DSAUDIO.review ||  Focal Alpha 65 EVO vs Adam Audio T7V  || sound.DEMO](https://www.youtube.com/watch?v=M1ZyZbhCCNI)
+    - [DSAUDIO.review: DSAUDIO.review ||  Adam Audio T7V vs Adam Audio A5X  || sound.DEMO](https://www.youtube.com/watch?v=0_2x6fCvtwQ)
+    - [DSAUDIO.review: DSAUDIO.review ||  Tannoy Gold 7 vs Adam Audio T7V  || sound.DEMO](https://www.youtube.com/watch?v=x31WqgYaisY)
+    - [DSAUDIO.review: Adam Audio T5V vs Adam Audio T7V  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=b4CqEUHjP0w)
+    - [DSAUDIO.review: Kali LP-6 vs Adam Audio T7V  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=bwX9pnynqUk)
+    - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Adam Audio T7V  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=lH4aACE5tjE)
+    - [DSAUDIO.review: Adam Audio T7V vs JBL 306P MKII  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=R7y6FJJdeUo)
 - Links
     - [Official Product Page](https://www.adam-audio.com/en/t-series/t7v/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t7v-spinorama-and-eq-inside.17283/)
@@ -178,9 +178,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: TRS, XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kafDlEzEG-U>
-    - <https://www.youtube.com/watch?v=asE5dXZe-do>
-    - <https://www.youtube.com/watch?v=-jMpTspSl0U>
+    - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
+    - [DSAUDIO.review: KRK Rokit 8 G4 RP8G4  vs  Yamaha HS8  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=asE5dXZe-do)
+    - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-8-generation-4-powered-studio-monitor-black)
 
@@ -191,10 +191,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 7"
 - Inputs: TRS, XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=lH4aACE5tjE>
-    - <https://www.youtube.com/watch?v=l2UK8sdbVLo>
-    - <https://www.youtube.com/watch?v=z7xYPX9zIW8>
-    - <https://www.youtube.com/watch?v=v7HRnymGYdY>
+    - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Adam Audio T7V  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=lH4aACE5tjE)
+    - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Yamaha HS7  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=l2UK8sdbVLo)
+    - [DSAUDIO.review: KRK Rokit 5 RP5G4 vs KRK Rokit 7 RP7G4  ||  Sound & Frequency Comparison](https://www.youtube.com/watch?v=z7xYPX9zIW8)
+    - [DSAUDIO.review: KRK Rokit 7 RP7G4 vs JBL 306P MKII  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=v7HRnymGYdY)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-7-generation-4-powered-studio-monitor-black)
 
@@ -208,9 +208,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 8"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=DQGGADSHXSM>
-    - <https://www.youtube.com/watch?v=MWeoTZmU6l0>
-    - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
+    - [DSAUDIO.review: DSAUDIO.review ||  Edifier R2850DB vs Yamaha HS8  || sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
+    - [DSAUDIO.review: DSAUDIO.review ||  Edifier R2850DB vs Edifier S2000MKIII  || sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
+    - [DSAUDIO.review: DSAUDIO.review ||  Edifier R2850DB vs Edifier S1000MKII  || sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/r2850db)
 
@@ -223,8 +223,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, XLR, RCA Input, Digital Optical, Digital Coax, USB
 - Outputs: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=DvEBODvCynY>
-    - <https://www.youtube.com/watch?v=Dsh3A4B6Lbo>
+    - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO  ||  Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
+    - [DSAUDIO.review: Edifier S3000 Pro DSP Modes Demo  ||  Sound & Frequency Respnse Comparison](https://www.youtube.com/watch?v=Dsh3A4B6Lbo)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-s3000pro-brown)
 
