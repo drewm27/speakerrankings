@@ -452,10 +452,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Cable
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
-    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1700BT  |sound.DEMO](https://www.youtube.com/watch?v=A7OiJFDdH1Q)
-    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1280DBs  |sound.DEMO](https://www.youtube.com/watch?v=vfZHhoO_Bas)
-    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II  |sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1700BT sound.DEMO](https://www.youtube.com/watch?v=A7OiJFDdH1Q)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1280DBs sound.DEMO](https://www.youtube.com/watch?v=vfZHhoO_Bas)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/wireless-speakers/d12)
 
@@ -668,7 +668,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Brick
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
+    - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
 
 ### #29 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325): $180
 
@@ -766,9 +766,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II  |sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
-    - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II  |sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
-    - [DSAUDIO.review: DSAUDIO.review Edifier S2000MKIII vs Klipsch The Three II  |sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
+    - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
+    - [DSAUDIO.review: DSAUDIO.review Edifier S2000MKIII vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/the-three-ii)
 
