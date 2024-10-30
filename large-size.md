@@ -326,8 +326,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
     - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
-    - [DSAUDIO.review: DSAUDIO.review | Edifier D12 vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
-    - [DSAUDIO.review: DSAUDIO.review | Marshall Stanmore II vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
+    - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
 
 ### #15 [Bose SoundLink Max](https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX?crid=2URAE7I7QCBN6&dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkywXpUwQYoyTiGnhUsV6JF_U0d4CF4ZVY35f2Z-i_OA8lSDMpoAy2UnRqIo5q78XAAwB_OZn9dYafzM36KhfPNVraobHgc8aiqrcKy9DDehobWLTk8SP3UKGLciNskvB_KN9MM071m2OdyqrJBdlKggErseSH17ps8KS-HPSbZsA-lh8ltNYcDY1eNqb5f2ZSobOl_VbtYFqS3PilnzP2odU.4_dXE4jBI0Kg5ysqYf7B_1-WTfaE-Ec3Om8lX6ubZJA&dib_tag=se&keywords=soundlink+max&qid=1716934348&sprefix=soundli%2Caps%2C222&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=9d5c53cccfd923856531da09ee60af40&language=en_US&ref_=as_li_ss_tl): $400
 - Positives: Big peak in the upper bass, dipped midrange and lots of peaks and dips above the midrange
