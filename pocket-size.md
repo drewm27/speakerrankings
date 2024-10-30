@@ -35,14 +35,14 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
-    - <https://www.youtube.com/watch?v=7LsffgrbXYc>
-    - <https://www.youtube.com/watch?v=oTE4EgEict4>
-    - <https://www.youtube.com/watch?v=FZWU9gzzac0>
-    - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
-    - <https://www.youtube.com/watch?v=_vBF_b2AEUg>
-    - <https://www.youtube.com/watch?v=tyFvllnBeSM>
-    - <https://www.youtube.com/watch?v=X7NlGAQBk0s>
-    - <https://www.youtube.com/watch?v=6PwCJ_Xy_I4>
+    - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
+    - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
+    - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)
+    - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
+    - [Storytripper HD: Marshall Willen  vs  Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=_vBF_b2AEUg)
+    - [Alkar Audio: Speaker Bluetooth Marshall Willen Review VS Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=tyFvllnBeSM)
+    - [MyTechAudio: MARSHALL WILLEN Detail Review Indonesia Vs TRIBIT Micro 1 & Micro 2](https://www.youtube.com/watch?v=X7NlGAQBk0s)
+    - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
@@ -68,8 +68,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
-    - <https://www.youtube.com/watch?v=-THqGgH_Tu8>
-    - <https://www.youtube.com/watch?v=7kydvk2xdtA>
+    - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
+    - [Alan Ross Reviews: Minirig Mini mk2 - best small speaker?](https://www.youtube.com/watch?v=7kydvk2xdtA)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)
 
@@ -93,7 +93,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
-    - <https://www.youtube.com/watch?v=jAdCutwAmd4>
+    - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
 
 ### #4 [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E): $40
 
@@ -114,10 +114,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
-    - <https://www.youtube.com/watch?v=7LsffgrbXYc>
+    - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - <https://www.youtube.com/watch?v=hYIQtNJ3gM0>
-    - <https://www.youtube.com/watch?v=jAdCutwAmd4>
-    - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
+    - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
+    - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
 
 ### #5 Teufel Boomster Go: 80€
@@ -153,7 +153,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ZyFUOIp4B0I>
+    - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 
 ### #7 [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325): $41
 
@@ -174,7 +174,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX7
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=mMsB-wvXn34>
+    - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
     - [Official Product Page](https://soundcore.sjv.io/R5MR1b)
 
@@ -208,7 +208,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - Power Input: USB-C
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=LQWcNRLtHQI>
+    - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/miniroll)
 
@@ -228,8 +228,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=X2i_dJCrwlc>
-    - <https://www.youtube.com/watch?v=che2VHKbnhA>
+    - [Tech, Life, And More: My friend's Onn. Rugged Speaker S pocket sized portable Bluetooth speaker sound test, amazing value!](https://www.youtube.com/watch?v=X2i_dJCrwlc)
+    - [SpaztasticTV: New Onn Bluetooth Speakers](https://www.youtube.com/watch?v=che2VHKbnhA)
 
 ### #11 [Anker Soundcore Mini](https://www.amazon.com/Anker-SoundCore-Super-Portable-Noise-Cancelling-Microphone/dp/B01HTH3C8S?pd_rd_w=hbfUP&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=AE5K36K62JQSERV4VTV1&pd_rd_wg=VXRHm&pd_rd_r=ffdc961a-a954-491e-984b-f1df45a6dd01&pd_rd_i=B01HTH3C8S&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=15db668a4983cf279fcecd42be90081e&language=en_US&ref_=as_li_ss_tl): $22
 - Positives: Has an FM tuner, aux input and MicroSD. Quite cheap
@@ -245,7 +245,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: Micro USB
 - IP Rating: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=KCIjx_WJVYE>
+    - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
     - [Official Product Page](https://www.soundcore.com/au/products/soundcore-mini)
 
@@ -266,11 +266,11 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=FZWU9gzzac0>
-    - <https://www.youtube.com/watch?v=q9u7iRmRdjk>
-    - <https://www.youtube.com/watch?v=_vBF_b2AEUg>
-    - <https://www.youtube.com/watch?v=tyFvllnBeSM>
-    - <https://www.youtube.com/watch?v=X7NlGAQBk0s>
+    - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)
+    - [Danny Pops: Marshall Willen VS Bose, Sony, and Tribit Micro Speakers](https://www.youtube.com/watch?v=q9u7iRmRdjk)
+    - [Storytripper HD: Marshall Willen  vs  Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=_vBF_b2AEUg)
+    - [Alkar Audio: Speaker Bluetooth Marshall Willen Review VS Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=tyFvllnBeSM)
+    - [MyTechAudio: MARSHALL WILLEN Detail Review Indonesia Vs TRIBIT Micro 1 & Micro 2](https://www.youtube.com/watch?v=X7NlGAQBk0s)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/willen)
 
@@ -290,9 +290,9 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=FQqBTAap4Gw>
-    - <https://www.youtube.com/watch?v=iri3WLn6DBs>
-    - <https://www.youtube.com/watch?v=cnx3ydaM8gs>
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
+    - [Storytripper HD: JBL Clip 4 vs  B&O A1 2nd  vs  Klipsch Austin](https://www.youtube.com/watch?v=iri3WLn6DBs)
+    - [Storytripper HD: JBL GO 4 vs TRIBIT MICRO 2 vs KLIPSCH AUSTIN vs SONY SRS-XB100](https://www.youtube.com/watch?v=cnx3ydaM8gs)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/austin)
 
@@ -332,7 +332,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=biqsZ3Uhr3U>
+    - [Alan Ross Reviews: Mifa Tango Camping Bluetooth Speaker Review](https://www.youtube.com/watch?v=biqsZ3Uhr3U)
 - Links
     - [Official Product Page](https://www.mifa.net/productinfo/2606938.html)
 
@@ -354,8 +354,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: Micro-USB
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=jAdCutwAmd4>
-    - <https://www.youtube.com/watch?v=oTE4EgEict4>
+    - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
+    - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html)
 
@@ -393,7 +393,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
-    - <https://www.youtube.com/watch?v=Vyc6e3bxoUs>
+    - [Danny Pops: MICRO SPEAKERS - my take on JBL Clip 4 VS Wonderboom 2 VS Bose Micro](https://www.youtube.com/watch?v=Vyc6e3bxoUs)
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
 
@@ -410,8 +410,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=LQWcNRLtHQI>
-    - <https://www.youtube.com/watch?v=yD3PKKjnIz0>
+    - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
+    - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://www.soundcore.com/au/products/a31x1)
 
@@ -432,7 +432,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
-    - <https://www.youtube.com/watch?v=Eg3I8aDdI5s>
+    - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
     - <https://www.youtube.com/shorts/cT-oUhYhPWk>
     - <https://www.patreon.com/posts/jbl-go-4-first-103869354>
 - Links
@@ -453,8 +453,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=9tigrVLPi5A>
-    - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
+    - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
+    - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
 
@@ -492,9 +492,9 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=uWv_SRZh3TE>
-    - <https://www.youtube.com/watch?v=j_YH3cGsQZk>
-    - <https://www.youtube.com/watch?v=EFB1Ut2EZMo>
+    - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
+    - [Flossy Carter: Sony SRS-XB100 - Small Speaker, Huge Sound](https://www.youtube.com/watch?v=j_YH3cGsQZk)
+    - [Danny Pops: Agreeable Gray? - The Sony XB100 is almost the same as the XB13](https://www.youtube.com/watch?v=EFB1Ut2EZMo)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxb100-b)
 
@@ -514,8 +514,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
-    - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
+    - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
+    - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb13)
 
@@ -567,7 +567,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=NwlwyofEYDM>
+    - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
 
 ### #28 Hopestar H54
 
@@ -582,7 +582,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX7
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IHXU3CMEdSg>
+    - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links
     - [Official Product Page](https://hopestarshop.com/products/hopestar-h54-speaker)
 
@@ -603,9 +603,9 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Cy3mfrIrVmI>
-    - <https://www.youtube.com/watch?v=H5oy3xWP3kU>
-    - <https://www.youtube.com/watch?v=mMsB-wvXn34>
+    - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
+    - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
+    - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
 
@@ -618,8 +618,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX5
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=3JsU3QYYRrk>
-    - <https://www.youtube.com/watch?v=g0mixdXjVI8>
+    - [UtmostCoin Reviews: Bringing Sophistications to The Wild - Muzen Wild Go Speaker Review](https://www.youtube.com/watch?v=3JsU3QYYRrk)
+    - [Chrispy Things [EDC]: The NEW ultra portable Muzen Wild Go Sound Test & Review!](https://www.youtube.com/watch?v=g0mixdXjVI8)
 - Links
     - [Official Product Page](https://muzenaudio.com/products/wild-go-portable-rugged-wireless-bluetooth-speaker)
 
@@ -637,8 +637,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=4xCM1mE-1Ww>
-    - <https://www.youtube.com/watch?v=sQT7_LLqJ4M>
+    - [Jaky9114: 2022年12月16日](https://www.youtube.com/watch?v=4xCM1mE-1Ww)
+    - [Jaky9114: Harman Kardon Esquire Mini 2](https://www.youtube.com/watch?v=sQT7_LLqJ4M)
 - Links
     - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
 
@@ -655,7 +655,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=mvcXuYgIsfU>
+    - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
 
@@ -670,8 +670,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX2
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Yam_mssFqeU>
-    - <https://www.youtube.com/watch?v=6CtZiXCJF18>
+    - [Jon Low: The world's thinnest bluetooth speaker- Lenovo 700 Ultra Portable Bluetooth Speaker: #AWGR009](https://www.youtube.com/watch?v=Yam_mssFqeU)
+    - [thomas vanderkin (The Vanderkinverse): Lenovo 700 Ultraportable Bluetooth Speaker](https://www.youtube.com/watch?v=6CtZiXCJF18)
 - Links
     - [Official Product Page](https://www.lenovo.com/us/en/p/accessories-and-software/audio/speakers/4xd0t32974)
 

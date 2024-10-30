@@ -42,13 +42,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=PVldZEwR2zg>
     - <https://www.youtube.com/watch?v=5LUd0Mj5HhQ>
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
-    - <https://www.youtube.com/watch?v=Qd4B8N3V87c>
+    - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - <https://www.youtube.com/watch?v=e33s1WsRBMs>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
     - <https://www.youtube.com/watch?v=cOOI7TM43Fc>
     - <https://www.youtube.com/watch?v=e33s1WsRBMs>
-    - <https://www.youtube.com/watch?v=AtVrVzLUnKM>
-    - <https://www.youtube.com/watch?v=gHEAB0eT7NA> (0.3.9 old firmware)
+    - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
+    - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
     - <https://www.youtube.com/watch?v=AzRRwLO59PI> (0.4.3 vs 0.5.0 firmware comparison)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
@@ -73,12 +73,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=6GtVMMbOt6c>
-    - <https://www.youtube.com/watch?v=Uz07wPZTfzk>
+    - [Alan Ross Reviews: Travel Speakers! Soundcore Motion 300 or Bose Flex or Tribit Stormbow Flow](https://www.youtube.com/watch?v=Uz07wPZTfzk)
     - <https://www.youtube.com/watch?v=_4S4b5jsagM>
-    - <https://www.youtube.com/watch?v=929FIaHlbeI>
+    - [Alan Ross Reviews: Soundcore Motion 300 or JBL Flip 6 or Soundcore Boost v2? we all have issues!](https://www.youtube.com/watch?v=929FIaHlbeI)
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
-    - <https://www.youtube.com/watch?v=SmRn6b0rhzU>
-    - <https://www.youtube.com/watch?v=kP3Dw6g-DZ0>
+    - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
     - <https://www.patreon.com/posts/soundcore-motion-93321960>
     - <https://www.patreon.com/posts/soundcore-motion-94933573>
 - Links
@@ -105,14 +105,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
+    - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
-    - <https://www.youtube.com/watch?v=mjBlrhZwDmE>
-    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
-    - <https://www.youtube.com/watch?v=OXi8Sef-1NA>
+    - [Alan Ross Reviews: 2x Soundcore Boost (stereo) vs Motion Boom and Motion+ - Best Soundcore speaker? 😋](https://www.youtube.com/watch?v=mjBlrhZwDmE)
+    - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
+    - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)
     - <https://www.youtube.com/watch?v=q_tg3wXjK3k>
-    - <https://www.youtube.com/watch?v=4xVEvEitaPU>
-    - <https://www.youtube.com/watch?v=NFeCO7GLgA0>
+    - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
+    - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
     - [Official Product Page](https://soundcore.sjv.io/k0EVK0)
 
@@ -139,12 +139,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=6xcdkK7z7Ys>
-    - <https://www.youtube.com/watch?v=929FIaHlbeI>
-    - <https://www.youtube.com/watch?v=iE3qoiDAn98>
-    - <https://www.youtube.com/watch?v=mjBlrhZwDmE>
-    - <https://www.youtube.com/watch?v=UQ3S8D3_1nE>
-    - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
-    - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
+    - [Alan Ross Reviews: Soundcore Motion 300 or JBL Flip 6 or Soundcore Boost v2? we all have issues!](https://www.youtube.com/watch?v=929FIaHlbeI)
+    - [Alan Ross Reviews: JBL Flip 6 vs Maxsound Plus and Soundcore Boost - ultimate travel speaker!](https://www.youtube.com/watch?v=iE3qoiDAn98)
+    - [Alan Ross Reviews: 2x Soundcore Boost (stereo) vs Motion Boom and Motion+ - Best Soundcore speaker? 😋](https://www.youtube.com/watch?v=mjBlrhZwDmE)
+    - [Speakertech: Anker soundcore Boost (Upgraded) vs minirig mini in stereo /2.0 (and changing the equalizer)](https://www.youtube.com/watch?v=UQ3S8D3_1nE)
+    - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
+    - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
 
@@ -166,9 +166,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=OZEP9ziwkHw>
     - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
     - <https://www.youtube.com/watch?v=BG9oR8mX0Kw>
-    - <https://www.youtube.com/watch?v=8ygpqINtZWM>
-    - <https://www.youtube.com/watch?v=4WYQ-liCcKk>
-    - <https://www.youtube.com/watch?v=sGyp6jGK0D8>
+    - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
+    - [Alan Ross Reviews: Bose Soundlink Flex or JBL Flip 6 (eq adjusted) or Denon Envaya - best speaker for travel!](https://www.youtube.com/watch?v=4WYQ-liCcKk)
+    - [Alan Ross Reviews: Marshall Stockwell 2 vs Denon 250bt - little and large? 🙈](https://www.youtube.com/watch?v=sGyp6jGK0D8)
 - Links
     - [Official Product Page](https://www.denon.com/en-au/shop/bluetoothspeakers/envayadsb250bt)
 
@@ -189,7 +189,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=a0WY6HxN_gU>
+    - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
 
@@ -215,9 +215,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>
     - <https://www.youtube.com/watch?v=HuPEBiJqhPk>
-    - <https://www.youtube.com/watch?v=9uxHwFlAYro>
-    - <https://www.youtube.com/watch?v=9cbx_NfUaiY>
-    - <https://www.youtube.com/watch?v=UQ3S8D3_1nE>
+    - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
+    - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
+    - [Speakertech: Anker soundcore Boost (Upgraded) vs minirig mini in stereo /2.0 (and changing the equalizer)](https://www.youtube.com/watch?v=UQ3S8D3_1nE)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
 
@@ -240,8 +240,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Proprietary USB cable
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=jAdCutwAmd4>
-    - <https://www.youtube.com/watch?v=9cbx_NfUaiY>
+    - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
+    - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
 
 ### #9 B&O Beosound A1: $200
 
@@ -262,10 +262,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
     - <https://www.youtube.com/watch?v=zO3gd-v41Xw>
-    - <https://www.youtube.com/watch?v=8ygpqINtZWM>
+    - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
     - <https://www.youtube.com/watch?v=w2YMjKqHf5c>
     - <https://www.youtube.com/watch?v=k6BuPy-w7pU>
-    - <https://www.youtube.com/watch?v=_sFVv8NhTTY>
+    - [Alan Ross Reviews: Bose Soundlink Flex or Beosound A1 (1st gen) - ultimate compact speaker 😇](https://www.youtube.com/watch?v=_sFVv8NhTTY)
     - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
@@ -290,11 +290,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
-    - <https://www.youtube.com/watch?v=9uxHwFlAYro>
+    - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
     - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
-    - <https://www.youtube.com/watch?v=9uxHwFlAYro>
-    - <https://www.youtube.com/watch?v=kqhySK7MUuI>
-    - <https://www.youtube.com/watch?v=R0G2r9e6y4Y>
+    - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
+    - [Alan Ross Reviews: Soundcore Motion Plus vs Beoplay A1 2nd gen - The Match!](https://www.youtube.com/watch?v=kqhySK7MUuI)
+    - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
     - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
     - <https://www.patreon.com/posts/anker-soundcore-92655183>
 - Links
@@ -322,10 +322,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
-    - <https://www.youtube.com/watch?v=4WYQ-liCcKk>
-    - <https://www.youtube.com/watch?v=iE3qoiDAn98>
-    - <https://www.youtube.com/watch?v=QT9dcySUf_U>
-    - <https://www.youtube.com/watch?v=Qd4B8N3V87c>
+    - [Alan Ross Reviews: Bose Soundlink Flex or JBL Flip 6 (eq adjusted) or Denon Envaya - best speaker for travel!](https://www.youtube.com/watch?v=4WYQ-liCcKk)
+    - [Alan Ross Reviews: JBL Flip 6 vs Maxsound Plus and Soundcore Boost - ultimate travel speaker!](https://www.youtube.com/watch?v=iE3qoiDAn98)
+    - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
+    - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
 
@@ -364,7 +364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Psmgg5ZJCvs>
+    - [SpeakerBlowUpMan Lee: Broke Man's JBL Flip 6! Miatone Boompro Bluetooth Speaker Review](https://www.youtube.com/watch?v=Psmgg5ZJCvs)
 - Links
     - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
 
@@ -382,8 +382,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=LnNR_uVowaw>
-    - <https://www.youtube.com/watch?v=ikGFsH2aeZ8>
+    - [Techder Audios: JBL Flip 6 Martin Garrix Edition VS Wisetiger P3 "PRICEY VS REAL CHEAP?!"](https://www.youtube.com/watch?v=LnNR_uVowaw)
+    - [Techder Audios: Wisetiger P3 VS Mifa Wildrod "BEST CHEAP SPEAKERS?!"](https://www.youtube.com/watch?v=ikGFsH2aeZ8)
 
 ### #15 [Mifa Wildrod](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325): $47
 
@@ -403,7 +403,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=y4DYttybhJ8>
+    - [Alan Ross Reviews: Mifa WildRod Review and new firmware comparison vs JBL Flip 6 - things got interesting 👀](https://www.youtube.com/watch?v=y4DYttybhJ8)
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
@@ -427,12 +427,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EhySzuS39Z8>
-    - <https://www.youtube.com/watch?v=gTiqH3uTXxc>
-    - <https://www.youtube.com/watch?v=IkbDwnQRd5s>
-    - <https://www.youtube.com/watch?v=_Uc44XHmur0>
-    - <https://www.youtube.com/watch?v=PMDSpH3mNB8>
-    - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
-    - <https://www.youtube.com/watch?v=LbT052dM6vI>
+    - [Alan Ross Reviews: Tribit Xsound Mega Review vs Anker Soundcore Motion Plus - bang for buck champs! 😛](https://www.youtube.com/watch?v=gTiqH3uTXxc)
+    - [Alan Ross Reviews: £50/$50 bluetooth speaker shootout! Tribit Xsound Mega vs Soundcore Boost and others...👍](https://www.youtube.com/watch?v=IkbDwnQRd5s)
+    - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs Tribit XSound Mega 😲 Can the Budget Priced Speaker Hang With the Big $ One?](https://www.youtube.com/watch?v=_Uc44XHmur0)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs XSound Mega - Sound Comparison, Stock EQ, Both Mono Sound 😶‍🌫️ A Family Feud](https://www.youtube.com/watch?v=PMDSpH3mNB8)
+    - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
+    - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-mega-portable-wireless-speaker)
 
@@ -456,12 +456,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5LUd0Mj5HhQ>
     - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
-    - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
-    - <https://www.youtube.com/watch?v=kTzczPis7ic>
-    - <https://www.youtube.com/watch?v=1RD6Wz_dg4w>
-    - <https://www.youtube.com/watch?v=iE3qoiDAn98>
-    - <https://www.youtube.com/watch?v=4xVEvEitaPU>
-    - <https://www.youtube.com/watch?v=8dxlVDGHAo4>
+    - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)
+    - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
+    - [Alan Ross Reviews: Anker Soundcore 3 vs Tribit Maxsound Plus - Best £50 speaker](https://www.youtube.com/watch?v=1RD6Wz_dg4w)
+    - [Alan Ross Reviews: JBL Flip 6 vs Maxsound Plus and Soundcore Boost - ultimate travel speaker!](https://www.youtube.com/watch?v=iE3qoiDAn98)
+    - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
+    - [Alan Ross Reviews: Tribit Maxsound Plus v1 vs V2 - upgraded Maxsound Plus tested! 🏅](https://www.youtube.com/watch?v=8dxlVDGHAo4)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-maxsound-plus-bluetooth-speakers)
 
@@ -483,7 +483,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
-    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
+    - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
 
@@ -505,7 +505,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 16ms
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
+    - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
 
 ### #20 [Bogasing M4](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325): $52
 
@@ -525,9 +525,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=WIS2Jk83EI8>
-    - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
-    - <https://www.youtube.com/watch?v=7XZgoEVW7Ng>
+    - [Alan Ross Reviews: Bogasing M4 Review - vs JBL Charge 5 & Motion Plus - a new contender?](https://www.youtube.com/watch?v=WIS2Jk83EI8)
+    - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
+    - [Alan Ross Reviews: Bogasing M4 or Soundcore Boost or Maxsound Plus for $50 champion?? 🤷‍♀️](https://www.youtube.com/watch?v=7XZgoEVW7Ng)
 
 ### #21 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325): $180
 
@@ -544,11 +544,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=fxoGZdNakIg>
-    - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
+    - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
+    - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
-    - <https://www.youtube.com/watch?v=QT9dcySUf_U>
-    - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
+    - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
+    - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
     - <https://www.patreon.com/posts/jbl-charge-5-48693970>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
@@ -568,7 +568,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
-    - <https://www.youtube.com/watch?v=7ZnTEkAwy98>
+    - [NJ Studio Channel: Tribit stormbox micro vs 1More s1001bt Bass Test!!🔥](https://www.youtube.com/watch?v=7ZnTEkAwy98)
 - Links
     - [Official Product Page](https://global.1more.com/products/1more-portable-bt-speaker)
 
@@ -590,7 +590,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-qiyBrX1m-g>
     - <https://www.youtube.com/watch?v=7GjQ0VXYYqo>
-    - <https://www.youtube.com/watch?v=YNifFrDKbV0>
+    - [DHRME: Cleerly More Than Just A Speaker! Cleer Scene Review](https://www.youtube.com/watch?v=YNifFrDKbV0)
 - Links
     - [Official Product Page](https://cleeraudio.com/smart-speakers/scene-water-resistant-bluetooth-speaker/)
 
@@ -612,8 +612,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q_tg3wXjK3k>
     - <https://www.youtube.com/watch?v=8v9BcBgOIpU>
-    - <https://www.youtube.com/watch?v=4xVEvEitaPU>
-    - <https://www.youtube.com/watch?v=AeaMQ3DR_hE>
+    - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
+    - [Alan Ross Reviews: Earfun Uboom vs Tribit Stormbox - 360 degree bluetooth speaker comparison](https://www.youtube.com/watch?v=AeaMQ3DR_hE)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
 
@@ -647,9 +647,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=HF3eKZM-ZTs>
-    - <https://www.youtube.com/watch?v=k8tm3FwCkWM>
-    - <https://www.youtube.com/watch?v=VC7Jq6k26Dk>
+    - [Alan Ross Reviews: Tribit Xsound Plus 2: Upgrade Your Sound With Maxsound Eq Preset! New firmware tested](https://www.youtube.com/watch?v=HF3eKZM-ZTs)
+    - [Alan Ross Reviews: Goodbye Maxsound Plus hello Tribit Xsound Plus 2! neutral heaven or bass for the masses?](https://www.youtube.com/watch?v=k8tm3FwCkWM)
+    - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
     - <https://www.patreon.com/posts/tribit-xsound-2-99145415>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-plus-2-portable-bluetooth-speaker)
@@ -670,8 +670,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/bose-soundlink-114024442>
-    - <https://www.youtube.com/watch?v=b7T9j6JFzJI>
-    - <https://www.youtube.com/watch?v=PFTo4M1dI6Q>
+    - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
+    - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
 
@@ -692,13 +692,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=QT9dcySUf_U>
+    - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
     - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
-    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
+    - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
     - <https://www.youtube.com/watch?v=6GtVMMbOt6c>
-    - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
-    - <https://www.youtube.com/watch?v=jtVSdcyBwt8>
-    - <https://www.youtube.com/watch?v=kTzczPis7ic>
+    - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
+    - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
+    - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-bluetooth-speaker/SLFLX-SPEAKERWIRELESS.html)
 
@@ -715,8 +715,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ZmYH6zYSNKs>
-    - <https://www.youtube.com/watch?v=Y2Tr9qUB4_E>
+    - [The Tech Files: JBL CHARGE 5 Vs. CHARGE ESSENTIAL 2 #shorts](https://www.youtube.com/watch?v=ZmYH6zYSNKs)
+    - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
     - [Official Product Page](https://ca.jbl.com/CHARGE-ESSENTIAL-2-.html)
 
@@ -730,8 +730,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 26 hours
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=QoJKsPaofl0>
-    - <https://www.youtube.com/watch?v=xLJs_zM0UMg>
+    - [Alan Ross Reviews: Huawei Sound Joy Devialet speaker review - Joy or Despair?? 🤷‍♀️](https://www.youtube.com/watch?v=QoJKsPaofl0)
+    - [Alan Ross Reviews: Huawei sound joy vs JBL Charge 5 and Flip 6 - top mono speaker! 🤓](https://www.youtube.com/watch?v=xLJs_zM0UMg)
 
 ### #31 [Fugoo Sport](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325): $33
 
@@ -760,7 +760,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=mMOTcXiWXvQ>
+    - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
 
@@ -773,7 +773,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=mqqE0rqYLNQ>
+    - [スピーカー音質比較: EarFun　UBOOM Slim　音質比較　Norah Jones 「Don't Know Why」](https://www.youtube.com/watch?v=mqqE0rqYLNQ)
 
 ### #34 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325): $47
 - Positives: Use [Oluv's EQ](https://www.patreon.com/oluvsone/shop/soundcore-motion-100-flat-eq-setting-172328) for the flattest response
@@ -807,10 +807,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=bcoORyAD22o>
-    - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
-    - <https://www.youtube.com/watch?v=Vm3kFL36Sq8>
-    - <https://www.youtube.com/watch?v=fuB9IRTKs9Y>
+    - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
+    - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
+    - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
+    - [Alan Ross Reviews: Tribit Stormbox Pro - two versions compared - was it broken? 🤔](https://www.youtube.com/watch?v=fuB9IRTKs9Y)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-pro-portable-speaker)
 
@@ -827,7 +827,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=2I_EWK7p-YI>
+    - [Techder Audios: JBL PULSE 5 VS JBL CHARGE 5 "LIGHTS VS BASS?!"](https://www.youtube.com/watch?v=2I_EWK7p-YI)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
 
@@ -838,7 +838,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 54hz (-10dB)
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=bcoORyAD22o>
+    - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
 - Links
     - [Official Product Page](https://soundcore.sjv.io/Y9PLAr)
 
@@ -855,8 +855,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kDib9gjeaPQ>
-    - <https://www.youtube.com/watch?v=3zEtJi4u-F8>
+    - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
+    - [Audio y Mas *🔊: Altavoces JBL Flip 6 vs W-King D320: ¿Cuál es el mejor en calidad de sonido? 🔊](https://www.youtube.com/watch?v=3zEtJi4u-F8)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/w-king-d320-40w-portable-speaker)
 
@@ -870,9 +870,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP55
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=upSSUEct7Gk>
-    - <https://www.youtube.com/watch?v=Jvn9ZkYykF4>
-    - <https://www.youtube.com/watch?v=R0G2r9e6y4Y>
+    - [Danny Pops: BEST Bose Speaker? Bose is getting lazy.](https://www.youtube.com/watch?v=upSSUEct7Gk)
+    - [Kanwar Anand: Bose Revolve Plus 1 vs 2](https://www.youtube.com/watch?v=Jvn9ZkYykF4)
+    - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-revolve-ii-bluetooth-speaker/SLRVPII-SPEAKERWIRELESS.html)
 
@@ -890,7 +890,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WD5OLLBXRDc>
-    - <https://www.youtube.com/watch?v=Vm3kFL36Sq8>
+    - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
     - <https://www.youtube.com/watch?v=dP36vzF-ykY>
     - <https://www.youtube.com/watch?v=Fi1x6UuIkI4>
 
@@ -905,7 +905,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=1btEBiXCEF0>
+    - [Alan Ross Reviews: Tronsmart Element Force review vs Bogasing M4 - cheap speaker 🤑](https://www.youtube.com/watch?v=1btEBiXCEF0)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/element-force-waterproof-portable-bluetooth-speaker)
 
@@ -940,12 +940,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kTzczPis7ic>
+    - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
     - <https://www.youtube.com/watch?v=6Yjao_U8RIM>
-    - <https://www.youtube.com/watch?v=wlHqDeFMR7E>
-    - <https://www.youtube.com/watch?v=iiHUMfa_OOY>
-    - <https://www.youtube.com/watch?v=PMDSpH3mNB8>
-    - <https://www.youtube.com/watch?v=kP3Dw6g-DZ0>
+    - [Alan Ross Reviews: Tribit Stormbox Flow firmware update 1.2.3 game changing moment in portable bluetooth history!](https://www.youtube.com/watch?v=wlHqDeFMR7E)
+    - [Alan Ross Reviews: Tribit Stormbox Flow firmware update 1.2.5 - stuff gets fixed ✔](https://www.youtube.com/watch?v=iiHUMfa_OOY)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs XSound Mega - Sound Comparison, Stock EQ, Both Mono Sound 😶‍🌫️ A Family Feud](https://www.youtube.com/watch?v=PMDSpH3mNB8)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
     - <https://www.patreon.com/posts/tribit-stormbox-92447387>
     - <https://www.patreon.com/posts/tribit-stormbox-90484533>
 - Links
@@ -965,16 +965,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=fxoGZdNakIg>
+    - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
     - <https://www.youtube.com/watch?v=5cppZYdrA9A>
     - <https://www.youtube.com/watch?v=seSKe2MRngo>
     - <https://www.youtube.com/watch?v=JeObqw-e2Ek>
     - <https://www.youtube.com/watch?v=8LGjl1tsYtY>
-    - <https://www.youtube.com/watch?v=dgIu9fqeW1k>
-    - <https://www.youtube.com/watch?v=fxoGZdNakIg>
-    - <https://www.youtube.com/watch?v=KgMDRxajEZw>
-    - <https://www.youtube.com/watch?v=07qu_39HjyU>
-    - <https://www.youtube.com/watch?v=R9rJuAYwVw0>
+    - [Alan Ross Reviews: jbl Charge 4 unboxing first impressions - vs Charge 3](https://www.youtube.com/watch?v=dgIu9fqeW1k)
+    - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
+    - [Alan Ross Reviews: W King D8 Mini review vs JBL Charge 4 vs Maxsound Plus](https://www.youtube.com/watch?v=KgMDRxajEZw)
+    - [Alan Ross Reviews: Sony XB33 vs XB32 vs JBL Charge 4 best £120 bluetooth speaker?](https://www.youtube.com/watch?v=07qu_39HjyU)
+    - [Alan Ross Reviews: JBL Flip 6 vs JBL Charge 4 and JBL Charge 3 - small one or a large one? 🤷‍♂️](https://www.youtube.com/watch?v=R9rJuAYwVw0)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
 
@@ -989,9 +989,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 220ms
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tNxGzF2uPEQ>
-    - <https://www.youtube.com/watch?v=kTzczPis7ic>
-    - <https://www.youtube.com/watch?v=SmRn6b0rhzU>
+    - [Alan Ross Reviews: 1 million views! Best Budget Tws? Tozo Pa1 Review and sound test](https://www.youtube.com/watch?v=tNxGzF2uPEQ)
+    - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
+    - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
 
@@ -1010,7 +1010,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 30 hours
 - Stereo: No (front/rear drivers)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=gmrcrkY_Zck>
+    - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
 
 ### #47 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325): $50
 
@@ -1025,9 +1025,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=1RD6Wz_dg4w>
-    - <https://www.youtube.com/watch?v=SxJTZDCiw7g>
-    - <https://www.youtube.com/watch?v=XpkitJveFlc>
+    - [Alan Ross Reviews: Anker Soundcore 3 vs Tribit Maxsound Plus - Best £50 speaker](https://www.youtube.com/watch?v=1RD6Wz_dg4w)
+    - [Alan Ross Reviews: Soundcore Boost vs Soundcore 3 - Best small bluetooth speaker❓](https://www.youtube.com/watch?v=SxJTZDCiw7g)
+    - [HQ AUDIO Exchange: Anker SoundCore 3  Vs. SoundCore Select 2 Bass Sound Test](https://www.youtube.com/watch?v=XpkitJveFlc)
 - Links
     - [Official Product Page](https://soundcore.sjv.io/Y9eWOj)
 
@@ -1042,7 +1042,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
-    - <https://www.youtube.com/watch?v=VukUsbPfDec>
+    - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
     - <https://www.youtube.com/watch?v=mQRhBbxKY4o>
 - Links
@@ -1060,7 +1060,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
-    - <https://www.youtube.com/watch?v=VukUsbPfDec>
+    - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
     - <https://www.youtube.com/watch?v=7pEh5c5o74s>
     - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
 - Links
@@ -1072,7 +1072,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.82lbs / 373g
 - Battery Life: 13 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=TF748bXDjIs>
+    - [Techder Audios: Anker Soundcore 3 Vs Soundynamic Twinkle Vs Xiaomi Mi 16w](https://www.youtube.com/watch?v=TF748bXDjIs)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/mi-portable-bluetooth-speaker/)
 
@@ -1089,10 +1089,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=P5POaQhiDgE>
-    - <https://www.youtube.com/watch?v=pDu3G6Bubrk>
-    - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
-    - <https://www.youtube.com/watch?v=xukSQ4JrBpk>
+    - [Alan Ross Reviews: Sony xb33 vs xb43 vs Soundcore Motion Plus speakers test](https://www.youtube.com/watch?v=P5POaQhiDgE)
+    - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
+    - [GYMCADDY: Sony XE300 Review And Compared to Sony XB33 - A Muffled Mess](https://www.youtube.com/watch?v=jHQXf-CZ2Lk)
+    - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
 
@@ -1106,7 +1106,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2A3C3Ec8QJA>
     - <https://www.youtube.com/watch?v=-nn6jz8CLnI>
-    - <https://www.youtube.com/watch?v=AEVRp_Un5gk>
+    - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
 - Links
     - [Official Product Page](https://us.creative.com/p/speakers/creative-iroar-go)
 
@@ -1127,8 +1127,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/beats-pill-2024-114092056>
-    - <https://www.youtube.com/watch?v=Y8N22lZDQJ8>
-    - <https://www.youtube.com/watch?v=CBhZeIuBQl8>
+    - [DailyTekk: NEW Beats Pill First Impressions & Sound Test - Worth $149?](https://www.youtube.com/watch?v=Y8N22lZDQJ8)
+    - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
     - [Official Product Page](https://www.beatsbydre.com/speakers/beats-pill)
 
@@ -1144,7 +1144,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 200ms
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
-    - <https://www.youtube.com/watch?v=8ygpqINtZWM>
+    - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+FLIP+5-.html)
 
@@ -1163,7 +1163,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
-    - <https://www.youtube.com/watch?v=wS7xhzv6Beg>
+    - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
 - Links
@@ -1179,9 +1179,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=_uqf_NKwcP4>
-    - <https://www.youtube.com/watch?v=MeQ5llKSqvc>
-    - <https://www.youtube.com/watch?v=IyCRwXBO26Y>
+    - [Alan Ross Reviews: Sony XB23 vs JBL Flip 5 v Tribit Maxsound Plus](https://www.youtube.com/watch?v=_uqf_NKwcP4)
+    - [Alan Ross Reviews: Huawei Sound Joy vs Sony xb23 - worse or worser? 🤭](https://www.youtube.com/watch?v=MeQ5llKSqvc)
+    - [Alan Ross Reviews: Sony XB23 vs XB33 - specs and measurements](https://www.youtube.com/watch?v=IyCRwXBO26Y)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
 
@@ -1200,9 +1200,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Power Input: USB-C
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=q_W1Wa63xXc>
-    - <https://www.youtube.com/watch?v=QuvvD6AFvSk>
-    - <https://www.youtube.com/watch?v=vVlwl6XhHHI>
+    - [Jay's Straight Up Reviews & More: Klipsch Nashville vs Bogasing M5 Bi-Directional Speaker Battle](https://www.youtube.com/watch?v=q_W1Wa63xXc)
+    - [Storytripper HD: Klipsch Nashville vs JBL Charge 5](https://www.youtube.com/watch?v=QuvvD6AFvSk)
+    - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/nashville)
 
@@ -1215,7 +1215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - App: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=SpGb12ZyC1w>
+    - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
 
@@ -1231,7 +1231,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Input: Micro USB
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=fxoGZdNakIg>
+    - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
     - <https://www.youtube.com/watch?v=APkoD9aBczw>
@@ -1253,8 +1253,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - App: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=KAen9xhQiPc>
-    - <https://www.youtube.com/watch?v=gnjcKKYf7xs>
+    - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
+    - [Techder Audios: JBL EXTREME 3 VS JBL CHARGE ESSENTIAL](https://www.youtube.com/watch?v=gnjcKKYf7xs)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
 
@@ -1285,7 +1285,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mbYsxgScTz8>
-    - <https://www.youtube.com/watch?v=R29TwFZmuNA>
+    - [Alan Ross Reviews: Sonos Roam Review and specs - vs maxsound plus, soundcore boost and others! 👍](https://www.youtube.com/watch?v=R29TwFZmuNA)
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
@@ -1300,7 +1300,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux Input: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
+    - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)
     - <https://www.youtube.com/watch?v=SSla-paxi14>
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 - Links
@@ -1313,8 +1313,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Aux Input: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=7vXafwDd3Z0>
-    - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
+    - [Jay's Straight Up Reviews & More: Tribit XSound Surf vs. XSound Go (Upgraded Model) Bluetooth Speaker Sound Comparison.](https://www.youtube.com/watch?v=7vXafwDd3Z0)
+    - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
 
 ### #65 [Tribit Stormbox 2](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl): $70
 
@@ -1333,7 +1333,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/tribit-stormbox-109758019>
-    - <https://www.youtube.com/watch?v=req2-T3W2xo>
+    - [Alan Ross Reviews: Tribit Stormbox 2 - wow is this deliberate? 🤔](https://www.youtube.com/watch?v=req2-T3W2xo)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-2-portable-speaker)
 
@@ -1344,8 +1344,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux Input: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Vyy56ZayWn0>
-    - <https://www.youtube.com/watch?v=bLi4fsS23Do>
+    - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
+    - [SoulOfTech: Anker SoundCore 2 2021 Review and Sound Test - Best Budget Bluetooth Speaker](https://www.youtube.com/watch?v=bLi4fsS23Do)
 
 ### #67 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
 
@@ -1357,7 +1357,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=I114oDubbic>
+    - [Alan Ross Reviews: UE Megaboom 3 review vs JBL Charge 5 & Motion Boom! how bad can it be??](https://www.youtube.com/watch?v=I114oDubbic)
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
@@ -1372,10 +1372,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 14 hours
 - Power Input: Micro USB
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IBFY9D23YJU>
-    - <https://www.youtube.com/watch?v=KjIvKngB10M>
-    - <https://www.youtube.com/watch?v=kTzczPis7ic>
-    - <https://www.youtube.com/watch?v=Bg6uGn2WCPU>
+    - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
+    - [Jay's Straight Up Reviews & More: JBL Flip 6 vs Ultimate Ears Wonderboom 3 (Indoor Mode)⚔️ Battle of the Handheld Bluetooth Speakers.](https://www.youtube.com/watch?v=KjIvKngB10M)
+    - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
+    - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/wonderboom-3)
 
@@ -1388,8 +1388,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Power Input: Micro USB
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IBFY9D23YJU>
-    - <https://www.youtube.com/watch?v=EXMSGwFcTZI>
+    - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
+    - [Alan Ross Reviews: UE Wonderboom 2 review and sound test - vs Flip 5 - Flip 4](https://www.youtube.com/watch?v=EXMSGwFcTZI)
 
 ### #70 Ultimate Ears Wonderboom:
 
@@ -1412,7 +1412,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=lwyO-KbUvvo>
+    - [Cameron Dougherty Tech: UE Boom 4: A Comprehensive Review](https://www.youtube.com/watch?v=lwyO-KbUvvo)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/boom-4)
 
@@ -1453,10 +1453,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=s3SAQ7lDbOY>
-    - <https://www.youtube.com/watch?v=ugF2D1a2E7o>
-    - <https://www.youtube.com/watch?v=jHQXf-CZ2Lk>
-    - <https://www.youtube.com/watch?v=frYrfHKWJvw>
+    - [New Stuff TV: Sony SRS-XE300 vs JBL Charge 5](https://www.youtube.com/watch?v=s3SAQ7lDbOY)
+    - [DLX Willington: FINALLY! Sony SRS XG300, SRS XE300, & SRS XE200 Are Here. Binaural Sound Samples & First Impressions](https://www.youtube.com/watch?v=ugF2D1a2E7o)
+    - [GYMCADDY: Sony XE300 Review And Compared to Sony XB33 - A Muffled Mess](https://www.youtube.com/watch?v=jHQXf-CZ2Lk)
+    - [GYMCADDY: JBL Charge 5 Vs Sony XE300 - How Can You Mess Up This Bad?](https://www.youtube.com/watch?v=frYrfHKWJvw)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe300-bz)
 
@@ -1475,9 +1475,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - EQ: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=a0nM_Lx89Y4>
-    - <https://www.youtube.com/watch?v=AeaMQ3DR_hE>
-    - <https://www.youtube.com/watch?v=oRHPmcsEwpE>
+    - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)
+    - [Alan Ross Reviews: Earfun Uboom vs Tribit Stormbox - 360 degree bluetooth speaker comparison](https://www.youtube.com/watch?v=AeaMQ3DR_hE)
+    - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-portable-speaker)
 
@@ -1490,7 +1490,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
-    - <https://www.youtube.com/watch?v=_5f6b-5wI98>
+    - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb20/manuals)
 
@@ -1502,7 +1502,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Power Input: USB-C
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=qG3-KQwTs0A>
+    - [スピーカー音質比較: YAMAHA　WS-B1A　音質比較　　Eric Clapton　「Change The World」](https://www.youtube.com/watch?v=qG3-KQwTs0A)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/audio_visual/desktop_audio/truexspeaker1a/index.html)
 
@@ -1513,7 +1513,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=PJEEGkFTfOU>
+    - [Daniel Pérez: Tronsmart T7 vs JBL Flip 6](https://www.youtube.com/watch?v=PJEEGkFTfOU)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-t7-portable-outdoor-speaker)
 
@@ -1522,7 +1522,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not much bass, peaky upper mids
 - Battery Life: 16 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ZInN26jI13M>
+    - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
 ### #80 Bose SoundLink Color II
 
@@ -1537,7 +1537,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=vtfBbnsS7pE>
     - <https://www.youtube.com/watch?v=RKatn95aUvI>
     - <https://www.youtube.com/watch?v=k95hOULIPRI>
-    - <https://www.youtube.com/watch?v=de0ZwpbXYAc>
+    - [Danny Pops: BEST Bose Speaker?? Bose Soundlink Flex vs micro, Color II, and revolve +](https://www.youtube.com/watch?v=de0ZwpbXYAc)
 - Links
     - [Official Product Page](https://support.bose.com/s/product/soundlink-color-bluetooth-speaker-ii/01t8c00000OydNUAAZ)
 
@@ -1552,10 +1552,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 30 hours
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IKyPA1DFI7g>
-    - <https://www.youtube.com/watch?v=6j2Aj5E48Kc>
-    - <https://www.youtube.com/watch?v=nseOM9Ah-jE>
-    - <https://www.youtube.com/watch?v=I8bm5PJl5ZY>
-    - <https://www.youtube.com/watch?v=nNVh5K8fFw8>
+    - [Alan Ross Reviews: Marshall Emberton vs Marshall Stockwell 2 - little guy goes louder?? 🤓](https://www.youtube.com/watch?v=6j2Aj5E48Kc)
+    - [Alan Ross Reviews: Bose Soundlink Flex vs Minirig MK3 and Marshall Emberton - best bluetooth speaker?](https://www.youtube.com/watch?v=nseOM9Ah-jE)
+    - [Alan Ross Reviews: JBL Flip 6 vs Marshall Emberton review - mono or pseudo surround sound? 🤷‍♀️](https://www.youtube.com/watch?v=I8bm5PJl5ZY)
+    - [Alan Ross Reviews: Marshall Emberton vs JBL Flip 5 & Soundcore Boost - true  stereophonic 🤓](https://www.youtube.com/watch?v=nNVh5K8fFw8)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
 
@@ -1576,8 +1576,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight: 1.1lbs / 500g
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tmDMlOdPc8w>
-    - <https://www.youtube.com/watch?v=VM3SggT4ANw>
+    - [Techder Audios: HIFUTURE SOUNDPRO UNBOXING & COMPARISON ,X10,FLIP 6,WILDROD !!](https://www.youtube.com/watch?v=tmDMlOdPc8w)
+    - [Techder Audios: TRONSMART STUDIO VS HIFUTURE SOUNDPRO "STEREO+RACETRACK DRIVER VS NORMAL STEREO!"](https://www.youtube.com/watch?v=VM3SggT4ANw)
 - Links
     - [Official Product Page](https://store.hifuturegroup.com/products/soundpro)
 
@@ -1589,7 +1589,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=YsttqCS46QQ>
+    - [Speaker Toni: Cabasse Swell - Unboxing and first impressions...](https://www.youtube.com/watch?v=YsttqCS46QQ)
 - Links
     - [Official Product Page](https://www.cabasse.com/the-swell/)
 
@@ -1632,9 +1632,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=8ygpqINtZWM>
-    - <https://www.youtube.com/watch?v=IN_RQ2TFKuc>
-    - <https://www.youtube.com/watch?v=X_Ol81BBuWk>
+    - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
+    - [Alan Ross Reviews: Tronsmart T6 Plus upgraded edition vs Anker Motion Plus and Flare 2](https://www.youtube.com/watch?v=IN_RQ2TFKuc)
+    - [Alan Ross Reviews: Soundcore Flare 2 - mega 360 degree speaker shootout!](https://www.youtube.com/watch?v=X_Ol81BBuWk)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
 
@@ -1648,14 +1648,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=NFeCO7GLgA0>
-    - <https://www.youtube.com/watch?v=KgMDRxajEZw>
+    - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
+    - [Alan Ross Reviews: W King D8 Mini review vs JBL Charge 4 vs Maxsound Plus](https://www.youtube.com/watch?v=KgMDRxajEZw)
 
 ### #89 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325): $36
 
 - Negatives: Quite a bit of bass distortion thudding as you turn the volume up. Bass not that deep. The Tozo PA1 totally outclasses it.
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=FyPCrI3jz1Y>
+    - [Jay's Straight Up Reviews & More: The New Tozo PA2 vs PA1 😵 A Portable Bluetooth Speaker Family Feud. Mr Hand ☝️ Makes His Return](https://www.youtube.com/watch?v=FyPCrI3jz1Y)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
 
@@ -1693,9 +1693,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=av0qlp2JalI>
-    - <https://www.youtube.com/watch?v=Hy4zdIT9J60>
-    - <https://www.youtube.com/watch?v=da-yS5OCQ48>
+    - [Chrispy Things [EDC]: New Sony XE200 Bluetooth Speaker Sound Test & Review](https://www.youtube.com/watch?v=av0qlp2JalI)
+    - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
+    - [Danny Pops: Sony XE200 XE300 vs Bose Marshall & JBL](https://www.youtube.com/watch?v=da-yS5OCQ48)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe200-bz)
 
@@ -1708,7 +1708,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Aux Input: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=GbiUY9bdv7g>
+    - [Alan Ross Reviews: LG Xboom Go PL5 review - the Flip 5 should be worried?? 🤭](https://www.youtube.com/watch?v=GbiUY9bdv7g)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl5-portable-bluetooth-speaker)
 
@@ -1717,7 +1717,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 18 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=o0ZgBxwlNE4>
+    - [Luan Tech: JBL FLIP 6 vs LG XBOOM XG5 COMPARATIVO COMPLETO!](https://www.youtube.com/watch?v=o0ZgBxwlNE4)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
 
@@ -1728,9 +1728,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Weight: 1.56lbs / 708g
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=CVeKxTJumuc>
-    - <https://www.youtube.com/watch?v=AHWErahCd5M>
-    - <https://www.youtube.com/watch?v=j2RvrCmY31E>
+    - [Dominik Reviews: Tribit Stormbox Mini - 30$ hit or miss? vs Tribit Micro 2](https://www.youtube.com/watch?v=CVeKxTJumuc)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Mini - Bluetooth Speaker Review 🥴Did Tribit Miss the Mark 🎯 On This One?🤔](https://www.youtube.com/watch?v=AHWErahCd5M)
+    - [Storytripper HD: Tribit Micro 2 vs Tribit STormBox 2 vs Tribit StormBox Mini](https://www.youtube.com/watch?v=j2RvrCmY31E)
 - Links
     - [Official Product Page](https://tribit.com/products/stormbox-mini-portable-bluetooth-speaker)
 
@@ -1741,7 +1741,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=S03_X1Vrm9U>
+    - [Audio 503: Tronsmart T7 Lite (24w) vs JBL Flip 6 (30w)](https://www.youtube.com/watch?v=S03_X1Vrm9U)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
 
@@ -1765,7 +1765,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=HXhIh7a-vE0>
+    - [Dynamic District: Harman Kardon Esquire 2 review](https://www.youtube.com/watch?v=HXhIh7a-vE0)
 - Links
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
 
@@ -1774,7 +1774,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ZInN26jI13M>
+    - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
 ### #100 Xdobo X8: $35
 
@@ -1785,8 +1785,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=DTgp-xGDzvw>
-    - <https://www.youtube.com/watch?v=0_ZOX8rFK6c>
+    - [Naresh Lal: JBL Charge 4 Vs Xdobo X8 Tell me Which one is the BEST?](https://www.youtube.com/watch?v=DTgp-xGDzvw)
+    - [Naresh Lal: Anker Soundcore motion+ Vs Xdobo X8](https://www.youtube.com/watch?v=0_ZOX8rFK6c)
 - Links
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
 
@@ -1797,8 +1797,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.82lbs / 373g
 - IP Rating: IP55
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=2xDcb8j9x5M>
-    - <https://www.youtube.com/watch?v=YR5qkcPg_i4>
+    - [xiaomify (xiaomify): Xiaomi - Outdoor Speaker;  Is it any good??  Full Review [Xiaomify]](https://www.youtube.com/watch?v=2xDcb8j9x5M)
+    - [Frankie Tech: Mi Outdoor Bluetooth Speaker & Speaker Mini Review - Small Price, Big Sound!](https://www.youtube.com/watch?v=YR5qkcPg_i4)
 
 ### #102 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325): $34
 
@@ -1807,7 +1807,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 30 hours
 - Weight: 1.3lbs / 590g
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=8uqI1pxHeVM>
+    - [Techder Audios: JBL GO 3 VS ORTIZAN X10](https://www.youtube.com/watch?v=8uqI1pxHeVM)
 
 ### #103 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325): $40
 
@@ -1838,14 +1838,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tbd1-9CAnYw>
+    - [Jack Of All Trades, Master of None: Walla Sound Wireless Bluetooth Speaker](https://www.youtube.com/watch?v=tbd1-9CAnYw)
 
 ### #106 EFM Toledo
 
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=SmF_9L5FM7w>
+    - [DankPods: The bluetooth speaker shootout.](https://www.youtube.com/watch?v=SmF_9L5FM7w)
 
 ### #107 Beats Pill+: $230
 
@@ -1862,7 +1862,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: No bass, very rolled off treble. Just doesn't sound good
 - Battery Life: 14 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=368gHYvN-QQ>
+    - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 
 ### #109 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
 
@@ -1891,7 +1891,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=PSqpd9W7oPI>
+    - [Techder Audios: Wisetiger F10 Beat Boom "CHEAP & GOOD?!"](https://www.youtube.com/watch?v=PSqpd9W7oPI)
 
 ### #112 Doss E–Go II
 
@@ -1911,8 +1911,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Party Mode: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=lrVa4Cnrets>
-    - <https://www.youtube.com/watch?v=Gnh_t3hupag>
+    - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs Sony ULT Field 1 😧 $200 vs $128 Cylinder Bluetooth Speaker Matchup](https://www.youtube.com/watch?v=lrVa4Cnrets)
+    - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-4)
 
@@ -1933,7 +1933,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ADGFOxmXROs>
+    - [Jay's Straight Up Reviews & More: Zealot S61 🦨 Bluetooth Speaker Review & Sound Comparison to Tribit XSound Surf. Another Zealot dud❓](https://www.youtube.com/watch?v=ADGFOxmXROs)
 
 ### #116 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl): $60
 
@@ -1941,11 +1941,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.7lbs / 1.22kg
 - Battery Life: 30 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=xVCMja9zVSc>
-    - <https://www.youtube.com/watch?v=Yge_hkwdyQ0>
-    - <https://www.youtube.com/watch?v=mqgcIdBATeo>
-    - <https://www.youtube.com/watch?v=YkqfKLSgvfQ>
-    - <https://www.youtube.com/watch?v=_5f6b-5wI98>
+    - [Jay's Straight Up Reviews & More: Altec Lansing Lifejacket 3 🦨 (2022 Version) How Many Versions Have They Made❓ How Bad Is It❓](https://www.youtube.com/watch?v=xVCMja9zVSc)
+    - [Ivan T: Altec lancing lifejacket 3](https://www.youtube.com/watch?v=Yge_hkwdyQ0)
+    - [Altec lansing bass test: bass test altec lansing lifejacket 3 (mambo lambo crazy bass)](https://www.youtube.com/watch?v=mqgcIdBATeo)
+    - [Fewishaツ: Altec Lansing Life Jacket 3 Bass Test](https://www.youtube.com/watch?v=YkqfKLSgvfQ)
+    - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 
 ### #117 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl): $40
 
@@ -1954,7 +1954,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 185hz (-10dB)
 - Battery Life: 9 hours
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=1A5cNDoQCM8>
-    - <https://www.youtube.com/watch?v=VDc2anLRz0w>
+    - [Tom DeCicco: Award Winning CES Bluetooth Speaker is FIRE! TikiTunes](https://www.youtube.com/watch?v=1A5cNDoQCM8)
+    - [Nerd Know Better: TikiTunes Review: Is it Really Best Wireless Bluetooth Speaker?](https://www.youtube.com/watch?v=VDc2anLRz0w)
 
 As an Amazon Associate I earn from qualifying purchases.

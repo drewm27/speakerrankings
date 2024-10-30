@@ -16,7 +16,7 @@ def youtubeid_to_title(ytid):
     request = requests.get(url, timeout=30)
     data = request.json()
     description = data['items'][0]['snippet']['channelTitle'] + ': ' + data['items'][0]['snippet']['title']
-    return description.strip('|')
+    return description.replace('|', '')
 
 current_datetime = datetime.now()
 regex = re.compile(' [0-9][0-9]* ')

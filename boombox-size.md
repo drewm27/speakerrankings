@@ -35,9 +35,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Power Input: USB-C
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Q3Wge2qf3xc>
-    - <https://www.youtube.com/watch?v=XVWtn8ynaPI>
-    - <https://www.youtube.com/watch?v=R96XSoGD1_4>
+    - [Audiophile housewife: Tribit Stormbox Blast vs Earfun UBoom X, a PROPER sound test 😎](https://www.youtube.com/watch?v=Q3Wge2qf3xc)
+    - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
+    - [Mateusz Cholewa: EarFun UBOOM X Deep Bass 🆚 Tribit Stormbox Blast🎶Review👌](https://www.youtube.com/watch?v=R96XSoGD1_4)
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
@@ -52,7 +52,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/earfun-uboom-x-3-105693987>
     - <https://www.patreon.com/posts/earfun-uboom-x-2-105645365>
     - <https://www.patreon.com/posts/earfun-uboom-x-1-104380759>
-    - <https://www.youtube.com/watch?v=r1Du_IxlPKk>
+    - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
 
@@ -78,19 +78,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
-    - <https://www.youtube.com/watch?v=FX2dAK-fpMU>
-    - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
-    - <https://www.youtube.com/watch?v=r8iOd03r-hU>
+    - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
+    - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
+    - [Alan Ross Reviews: Soundcore Motion x600 (best speaker ever) or two motion booms?](https://www.youtube.com/watch?v=r8iOd03r-hU)
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
     - <https://www.youtube.com/watch?v=e33s1WsRBMs>
-    - <https://www.youtube.com/watch?v=ImnPvu49RSM>
-    - <https://www.youtube.com/watch?v=O0VU-yPXIPs>
-    - <https://www.youtube.com/watch?v=fW3W4vVRYnU>
-    - <https://www.youtube.com/watch?v=5IjP6DPbDxg>
-    - <https://www.youtube.com/watch?v=SiW11RSCnWI>
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 🆚  Sony SRS-XG500 - Tailgater Special - Battery Powered ☢️ Bass Boost Enabled.](https://www.youtube.com/watch?v=ImnPvu49RSM)
+    - [Alan Ross Reviews: Tribit Stormbox Blast or two Motion Boom Pluses for best cheap boombox?](https://www.youtube.com/watch?v=O0VU-yPXIPs)
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Harman Kardon Go+ Play 2 Mini by an old bloke!](https://www.youtube.com/watch?v=fW3W4vVRYnU)
+    - [InFaze Audio: SPEAKER SHOOTOUT Does the Tribit Stormbox Blast Beat the InFaze Audio MS5CX?](https://www.youtube.com/watch?v=5IjP6DPbDxg)
+    - [Jay's Straight Up Reviews & More: Soundcore Boom 2 Plus VS Tribit Stormbox Blast 🛜 Boombox Basement Battle 📊Custom EQ  🔥Who You Got?](https://www.youtube.com/watch?v=SiW11RSCnWI)
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
-    - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
-    - <https://www.youtube.com/watch?v=6nzi3ZP2kMA>
+    - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
+    - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
     - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
@@ -117,9 +117,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 Woofer)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
-    - <https://www.youtube.com/watch?v=sXG-ciWFf60>
-    - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
-    - <https://www.youtube.com/watch?v=WdmB0w0W7e4>
+    - [Alan Ross Reviews: This changed my opinion on JBL speakers!](https://www.youtube.com/watch?v=sXG-ciWFf60)
+    - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
+    - [True Techy: BOSE S1 Pro vs JBLPartybox ENCORE This Comparison SHOCKED me!!!](https://www.youtube.com/watch?v=WdmB0w0W7e4)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-.html)
 
@@ -143,7 +143,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (3 band)
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=BQM9L4Z9UNc>
+    - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-.html)
 
@@ -164,8 +164,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=BwuzsGckzos>
-    - <https://www.youtube.com/watch?v=ktjCIpky_Lg>
+    - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
+    - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
     - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
     - <https://www.patreon.com/posts/harman-kardon-go-100467989>
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
@@ -231,10 +231,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ZB3Q1d1x4H8>
-    - <https://www.youtube.com/watch?v=vuHY5DzSI4U>
-    - <https://www.youtube.com/watch?v=hlumnEy0Ufg>
-    - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+    - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
+    - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)
+    - [Alan Ross Reviews: Dead room vs Live room - Onyx studio 8 self tuning test! part 1 of 3](https://www.youtube.com/watch?v=hlumnEy0Ufg)
+    - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-8-.html)
 
@@ -255,12 +255,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=0qj07kfHTFc>
-    - <https://www.youtube.com/watch?v=xUN9hY0iCF4>
+    - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
+    - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
     - <https://www.youtube.com/watch?v=R1EmqPx0Ohs>
-    - <https://www.youtube.com/watch?v=EciHn8jHHdA>
-    - <https://www.youtube.com/watch?v=7Eo79kZ_nWA>
-    - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+    - [Ezekielo: Citation 200 vs Onyx Studio 6 vs Bose Portable Speaker Sound Comparison](https://www.youtube.com/watch?v=EciHn8jHHdA)
+    - [Alan Ross Reviews: Harman Kardon Go+ Play 2 mini  or Onyx Studio 6 - best speaker for bass?](https://www.youtube.com/watch?v=7Eo79kZ_nWA)
+    - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX+STUDIO+6.html)
 
@@ -275,10 +275,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=8Ts5BVWHYDE>
-    - <https://www.youtube.com/watch?v=sLsvo5urFaw>
-    - <https://www.youtube.com/watch?v=EciHn8jHHdA>
-    - <https://www.youtube.com/watch?v=nhXQE196GvQ>
+    - [Ezekielo: Citation 200 vs Beolit 20 with Sound Comparison!](https://www.youtube.com/watch?v=8Ts5BVWHYDE)
+    - [KULAS TECH SHOW: Harman Kardon Citation 200 vs JBL Xtreme3 Sound  & Bass test](https://www.youtube.com/watch?v=sLsvo5urFaw)
+    - [Ezekielo: Citation 200 vs Onyx Studio 6 vs Bose Portable Speaker Sound Comparison](https://www.youtube.com/watch?v=EciHn8jHHdA)
+    - [KULAS TECH SHOW: Harman Kardon Citation 200 vs Onyx Studio 7 Bass comparison](https://www.youtube.com/watch?v=nhXQE196GvQ)
 - Links
     - [Official Product Page](https://www.harmankardon.com/home-audio/CITATION+200-.html)
 
@@ -300,12 +300,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
-    - <https://www.youtube.com/watch?v=0qj07kfHTFc>
+    - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
+    - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
     - <https://www.youtube.com/watch?v=R1EmqPx0Ohs>
-    - <https://www.youtube.com/watch?v=ywy1X1hxU9s>
-    - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
-    - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+    - [Geri's Collection: Harman Kardon Onyx 7 vs Onyx 4](https://www.youtube.com/watch?v=ywy1X1hxU9s)
+    - [KULAS TECH SHOW: Harman / Kardon Onyx Studio 5 vs Onyx Studio 7 - Close battle🔥🔥](https://www.youtube.com/watch?v=L6NwcX8Gy1Q)
+    - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-7-.html)
 
@@ -322,8 +322,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP57
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=aWdDlpqQJbA>
-    - <https://www.youtube.com/watch?v=GSiuRJx-T3g>
+    - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
+    - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links
     - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
 
@@ -341,13 +341,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 0ms
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=BwuzsGckzos>
-    - <https://www.youtube.com/watch?v=e7m7DYq1li8>
-    - <https://www.youtube.com/watch?v=fW3W4vVRYnU>
-    - <https://www.youtube.com/watch?v=7Eo79kZ_nWA>
-    - <https://www.youtube.com/watch?v=omJAluoakSs>
-    - <https://www.youtube.com/watch?v=t4h1-_KqSfo>
-    - <https://www.youtube.com/watch?v=NHVrFZKc5YM>
+    - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
+    - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Harman Kardon Go+ Play 2 Mini by an old bloke!](https://www.youtube.com/watch?v=fW3W4vVRYnU)
+    - [Alan Ross Reviews: Harman Kardon Go+ Play 2 mini  or Onyx Studio 6 - best speaker for bass?](https://www.youtube.com/watch?v=7Eo79kZ_nWA)
+    - [Alan Ross Reviews: Soundcore Motion Boom Plus vs Harman Kardon Go+ Play 2 mini - party vs HiFi](https://www.youtube.com/watch?v=omJAluoakSs)
+    - [Alan Ross Reviews: Bag of Riddim vs Harman Kardon Go+ Play 2 - boom boom in da room! 🥳](https://www.youtube.com/watch?v=t4h1-_KqSfo)
+    - [Alan Ross Reviews: HK Go+ Play vs Soundcore Motion Boom - biggest bass battle ever!!!!!!!!!!!!](https://www.youtube.com/watch?v=NHVrFZKc5YM)
 - Links
     - [Official Product Page](https://www.harmankardon.com/GO+%2B+PLAYII.html)
 
@@ -363,9 +363,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=L6NwcX8Gy1Q>
+    - [KULAS TECH SHOW: Harman / Kardon Onyx Studio 5 vs Onyx Studio 7 - Close battle🔥🔥](https://www.youtube.com/watch?v=L6NwcX8Gy1Q)
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
-    - <https://www.youtube.com/watch?v=eAoQWSnms1M>
+    - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+5.html)
 
@@ -386,8 +386,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
-    - <https://www.youtube.com/watch?v=imAhizbiSWw>
+    - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
+    - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
 - Links
     - [Official Product Page](https://www.jbl.com/wifi-speakers/BOOMBOX-3-WIFI.html)
 
@@ -408,12 +408,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
-    - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
-    - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
-    - <https://www.youtube.com/watch?v=3WDir4ajfs4>
+    - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
+    - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
+    - [Dominik Reviews: JBL Boombox 3 vs 2x Tribit Stormbox Blast 🤑 Huge difference?](https://www.youtube.com/watch?v=3WDir4ajfs4)
     - <https://www.youtube.com/watch?v=e33s1WsRBMs>
-    - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
-    - <https://www.youtube.com/watch?v=imAhizbiSWw>
+    - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
+    - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
 
@@ -452,10 +452,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Cable
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=yx947VUX1ec>
-    - <https://www.youtube.com/watch?v=A7OiJFDdH1Q>
-    - <https://www.youtube.com/watch?v=vfZHhoO_Bas>
-    - <https://www.youtube.com/watch?v=Ef3pEsNnvDc>
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1700BT  |sound.DEMO](https://www.youtube.com/watch?v=A7OiJFDdH1Q)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1280DBs  |sound.DEMO](https://www.youtube.com/watch?v=vfZHhoO_Bas)
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II  |sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/wireless-speakers/d12)
 
@@ -477,14 +477,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ESN6hgtvba4>
-    - <https://www.youtube.com/watch?v=Q9tf5j7pJsc>
-    - <https://www.youtube.com/watch?v=SiW11RSCnWI>
-    - <https://www.youtube.com/watch?v=-R6eOb3r-o0>
-    - <https://www.youtube.com/watch?v=L6psdfVVSQQ>
-    - <https://www.youtube.com/watch?v=xmi183Y4LN0>
-    - <https://www.youtube.com/watch?v=uhkRccBkVuk>
-    - <https://www.youtube.com/watch?v=RBYF_I7TcZU>
+    - [Alan Ross Reviews: This sounds totally different now! Soundcore Boom Plus 2 firmware 03.10](https://www.youtube.com/watch?v=ESN6hgtvba4)
+    - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
+    - [Jay's Straight Up Reviews & More: Soundcore Boom 2 Plus VS Tribit Stormbox Blast 🛜 Boombox Basement Battle 📊Custom EQ  🔥Who You Got?](https://www.youtube.com/watch?v=SiW11RSCnWI)
+    - [Picky Audio: SO CLOSE! Soundcore Boom 2 Plus vs JBL Boombox 3](https://www.youtube.com/watch?v=-R6eOb3r-o0)
+    - [Picky Audio: Extended Sound Test (Soundcore Boom 2 Plus vs JBL Boombox 3)](https://www.youtube.com/watch?v=L6psdfVVSQQ)
+    - [Jay's Straight Up Reviews & More: NEW RELEASE! Soundcore Boom 2 Plus vs Motion Boom Plus🤯Stock EQ, Bass^ Enabled🤜🤛 A Family Feud😆](https://www.youtube.com/watch?v=xmi183Y4LN0)
+    - [GYMCADDY: Soundcore Boom 2 Plus Showcase - Lots Of Bass In A Small Package](https://www.youtube.com/watch?v=uhkRccBkVuk)
+    - [EL JEFE REVIEWS: Soundcore Boom 2 Plus 💥 BIGGER & BADDER!](https://www.youtube.com/watch?v=RBYF_I7TcZU)
 - Links
     - [Official Product Page](https://soundcore.sjv.io/Or7BxP)
 
@@ -501,8 +501,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes
 - IP Rating: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=fFP_OPriRlM>
-    - <https://www.youtube.com/watch?v=ezYZWoYEXfw>
+    - [Danny Pops: JBL Authentics 200 Full Review - This might be the best buy](https://www.youtube.com/watch?v=fFP_OPriRlM)
+    - [Jay's Straight Up Reviews & More: Klipsch The One Plus vs JBL Authentics 200 - 🛜 Battle of the Home Speakers🔌Guest Lando Calrissian 😆](https://www.youtube.com/watch?v=ezYZWoYEXfw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
 
@@ -522,13 +522,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Q9tf5j7pJsc>
-    - <https://www.youtube.com/watch?v=zIdW1rTCgLs>
-    - <https://www.youtube.com/watch?v=_JZH0Tc2OO8>
-    - <https://www.youtube.com/watch?v=q44mBW2C0m0>
-    - <https://www.youtube.com/watch?v=NTYbZL_wPeA>
-    - <https://www.youtube.com/watch?v=-n-io_2nW3o>
-    - <https://www.youtube.com/watch?v=xMVzR5IgoAQ>
+    - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
+    - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
+    - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
+    - [Jagist reviews: W-king X20 Vs Jbl Encore!!! 😁😁😁](https://www.youtube.com/watch?v=q44mBW2C0m0)
+    - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
+    - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
 
@@ -548,8 +548,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=CaqnhHYZpQA>
-    - <https://www.youtube.com/watch?v=2NJMfNB8MlQ>
+    - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
+    - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
 - Links
@@ -571,7 +571,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dXsMWb4yVBw>
+    - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
 
@@ -589,8 +589,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=XVWtn8ynaPI>
-    - <https://www.youtube.com/watch?v=OTy29qPeIcI>
+    - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
+    - [techkiste.net: B&O Beolit 20 vs Vifa Copenhagen 2.0 sound-comparison with different music-genres](https://www.youtube.com/watch?v=OTy29qPeIcI)
     - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
     - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
     - <https://www.patreon.com/posts/b-o-beolit-20-3-52143471>
@@ -610,9 +610,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=6nzi3ZP2kMA>
-    - <https://www.youtube.com/watch?v=o9iTI-5hOGI>
-    - <https://www.youtube.com/watch?v=jsUSaTb7Ojs>
+    - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
+    - [Mateusz Cholewa: Tribit  Stormbox  Blast Audio Test vs Teufel  Boomster 2021](https://www.youtube.com/watch?v=o9iTI-5hOGI)
+    - [Mateusz Cholewa: 2 x 🔊Teufel Boomster 2021🎵 vs JBL Boombox 2 AC🔌 Power Test Audio🎧.](https://www.youtube.com/watch?v=jsUSaTb7Ojs)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/boomster-106141000)
 
@@ -634,7 +634,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=1Wcuer7PIIE>
+    - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
 
@@ -654,8 +654,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=GR7hlEOh-_k>
-    - <https://www.youtube.com/watch?v=dk3KqC-cdsk>
+    - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
+    - [Jay's Straight Up Reviews & More: Dual W-King T11 (EQ1, EQ2) 🆚 JBL Partybox 110 (Bass One) 📛 Are two T11's TWS Louder than one PB110?](https://www.youtube.com/watch?v=dk3KqC-cdsk)
 
 ### #28 [Marshall Stanmore II](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl): $300
 - Negatives: Not very deep bass. No battery. No water rating.
@@ -668,7 +668,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Brick
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=xn6UVcgXx18>
+    - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II  |sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
 
 ### #29 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325): $180
 
@@ -684,9 +684,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=o5TQLBxyskg>
-    - <https://www.youtube.com/watch?v=Q5cn3rG8j6g>
-    - <https://www.youtube.com/watch?v=Ej9mRqO5dvs>
+    - [Jagist reviews: Jbl Encore Vs Gemini GRV-650L!!! 😁](https://www.youtube.com/watch?v=o5TQLBxyskg)
+    - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)
+    - [Jagist reviews: Philips X7207 Vs Gemini GRV-650L!!! 😏😏😏](https://www.youtube.com/watch?v=Ej9mRqO5dvs)
 - Links
     - [Official Product Page](https://geminisound.com/products/grv-650l)
 
@@ -713,12 +713,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 12lbs / 5.4kg
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=TZlSSuIivKo>
-    - <https://www.youtube.com/watch?v=ilGvwLRn_EQ>
-    - <https://www.youtube.com/watch?v=VInmjCyNmxg>
-    - <https://www.youtube.com/watch?v=n6DU7mFw7hc>
-    - <https://www.youtube.com/watch?v=cv234tGZUIc>
-    - <https://www.youtube.com/watch?v=7Ta2H9E0K8Y>
+    - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Boombox vs. JBL Partybox Encore Party Speaker.🛜  How Low Can You Go?😲](https://www.youtube.com/watch?v=ilGvwLRn_EQ)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Bluetooth Boombox Speaker 📦 Unboxing, First Look & 🔉 Sound Demo](https://www.youtube.com/watch?v=VInmjCyNmxg)
+    - [Jay's Straight Up Reviews & More: Skullcandy BARREL XT vs JBL Boombox 3 🤯Budget Banger vs Reigning Champ 🔋 Battery Powered 🏠 Indoors](https://www.youtube.com/watch?v=n6DU7mFw7hc)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs Soundcore Rave Party 2 (Stock & Custom EQ) 🛜 Battery Powered🔋Let's Get It🧨](https://www.youtube.com/watch?v=cv234tGZUIc)
+    - [Jagist reviews: Unboxing Of The Skullcandy Barrel XT](https://www.youtube.com/watch?v=7Ta2H9E0K8Y)
 
 ### #32 [Sony ULT Field 7](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl): $400
 - Positives: Better sounding than the XG500
@@ -736,8 +736,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=JLk5sdDpO1k>
-    - <https://www.youtube.com/watch?v=-yxKYD0JxOE>
+    - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
+    - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/party-speakers/p/srsult70)
 
@@ -753,9 +753,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - IP Rating: IPX5
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dQblSOGsdvg>
-    - <https://www.youtube.com/watch?v=Kla_z-sz0Ec>
-    - <https://www.youtube.com/watch?v=uIkbJTA2wzw>
+    - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
+    - [Jagist reviews: Bugani Boost Max Vs Harmon Kardon Go Plus Play 3!!! 😁😁😁](https://www.youtube.com/watch?v=Kla_z-sz0Ec)
+    - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
 - Links
     - [Official Product Page](https://www.bugani-global.com/products/bugani-boost-max-portable-bluetooth-speaker)
 
@@ -766,9 +766,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Ef3pEsNnvDc>
-    - <https://www.youtube.com/watch?v=4jl8lat8HgA>
-    - <https://www.youtube.com/watch?v=2zAFza0qxrw>
+    - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II  |sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
+    - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II  |sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
+    - [DSAUDIO.review: DSAUDIO.review Edifier S2000MKIII vs Klipsch The Three II  |sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/the-three-ii)
 
@@ -780,8 +780,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=W4sIuhplM9w>
-    - <https://www.youtube.com/watch?v=77HvEdMXy2c>
+    - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
+    - [Solo Trips: Klipsch The One vs Jbl Xtreme](https://www.youtube.com/watch?v=77HvEdMXy2c)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/the-one-ii)
 
@@ -799,12 +799,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=f_NtZs4HO8c>
-    - <https://www.youtube.com/watch?v=QC1ZTsfBrl8>
-    - <https://www.youtube.com/watch?v=CKMGqN1zzkk>
-    - <https://www.youtube.com/watch?v=8KADk_OsLM8>
-    - <https://www.youtube.com/watch?v=dh5lzF8t8w4>
-    - <https://www.youtube.com/watch?v=ZkGFKQuLRzY>
+    - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 vs. Tribit Stormbox Blast - Bluetooth Speaker Basement ⚒ Battle](https://www.youtube.com/watch?v=f_NtZs4HO8c)
+    - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)
+    - [Jagist reviews: Soundcore Rave Party 2 Bass Test 😍](https://www.youtube.com/watch?v=CKMGqN1zzkk)
+    - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)
+    - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🔥 Unboxing & Short Sound Demo. Is This The New Speaker To Beat Under $200?💵](https://www.youtube.com/watch?v=dh5lzF8t8w4)
+    - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
 
 ### #37 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172): $90
 
@@ -820,8 +820,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=9dIs_4-nSfI>
-    - <https://www.youtube.com/watch?v=aBh91jFWVXI>
+    - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs Medium Party Speaker Gen 2 🤜🤛A Family Feud🔌Plugged In Bass Boost On](https://www.youtube.com/watch?v=9dIs_4-nSfI)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
 
 ### #38 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325): $300
 
@@ -838,8 +838,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
-    - <https://www.youtube.com/watch?v=-OAUrom9DZM>
-    - <https://www.youtube.com/watch?v=sW7qA0Qyg2U>
+    - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
+    - [KULAS TECH SHOW: JBL Partybox on the go vs JBL Partybox 110 Bass Comparison](https://www.youtube.com/watch?v=sW7qA0Qyg2U)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ON-THE-GO-.html)
 
@@ -857,9 +857,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - IP Rating: IP66
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ImnPvu49RSM>
-    - <https://www.youtube.com/watch?v=yenr1BPMk6s>
-    - <https://www.youtube.com/watch?v=KjWAJ67aUMc>
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 🆚  Sony SRS-XG500 - Tailgater Special - Battery Powered ☢️ Bass Boost Enabled.](https://www.youtube.com/watch?v=ImnPvu49RSM)
+    - [Jagist reviews: Tribit Stormbox Blast vs Sony SRS XG 500](https://www.youtube.com/watch?v=yenr1BPMk6s)
+    - [DLX Willington: Sony SRS-XG500 vs JBL Encore Essential Sound Battle](https://www.youtube.com/watch?v=KjWAJ67aUMc)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg500)
 
@@ -896,9 +896,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
-    - <https://www.youtube.com/watch?v=e2mxaanQq3U>
-    - <https://www.youtube.com/watch?v=aSK4-UlbE-0>
-    - <https://www.youtube.com/watch?v=DJGTpomhm2k>
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
+    - [Alan Ross Reviews: Tribit Stormbox Blast Review vs Soundcore Motion Boom Plus - cheap bass!](https://www.youtube.com/watch?v=aSK4-UlbE-0)
+    - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
 - Links
     - [Official Product Page](https://soundcore.sjv.io/R5qKrv)
 
@@ -913,8 +913,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=F4VLp6en8Kc>
-    - <https://www.youtube.com/watch?v=q-PSiKgiiIM>
+    - [TailgatingChallenge: Demerbox Review](https://www.youtube.com/watch?v=F4VLp6en8Kc)
+    - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)
 - Links
     - [Official Product Page](https://demerbox.com/collections/db2-speakers)
 
@@ -931,8 +931,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=cb6sKTBjHvg>
-    - <https://www.youtube.com/watch?v=GaCQQ_34r8k>
+    - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
+    - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)
 
 ### #44 [Diamondboxx M3](https://diamondboxx.com/products/m3): $700
 
@@ -963,7 +963,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=mTJTjgryLkE>
+    - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/h10)
@@ -983,8 +983,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=e2mxaanQq3U>
-    - <https://www.youtube.com/watch?v=v_8Guk1NPa8>
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
+    - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
 
 ### #47 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8): $400
 
@@ -995,8 +995,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kG9Bikc7L4g>
-    - <https://www.youtube.com/watch?v=XeydgPPQ6HI>
+    - [Flossy Carter: Bumpboxx Flare 8 - My New Favorite Boombox](https://www.youtube.com/watch?v=kG9Bikc7L4g)
+    - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)
 - Links
     - [Official Product Page](https://bumpboxx.com/products/bumpboxx-flare8)
 
@@ -1009,7 +1009,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=o8DaGePVQzQ>
+    - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 
 ### #49 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl): $260
 - Negatives: Bass not as deep as competitors.
@@ -1017,8 +1017,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=5n-Z3842rOA>
-    - <https://www.youtube.com/watch?v=nMPO3NmXU2g>
+    - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
+    - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
 - Links
     - [Official Product Page](https://ecoxgear.com/products/defender)
 
@@ -1033,7 +1033,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tCWXYBzbKkg>
+    - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links
     - [Official Product Page](https://geminisound.com/products/ggo-650l-bluetooth-karaoke-speaker)
 
@@ -1050,7 +1050,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=zlAsAJtwNS8>
+    - [ReggieTECH: ION Pathfinder 4 Speaker - Unboxing, Review & Test](https://www.youtube.com/watch?v=zlAsAJtwNS8)
 
 ### #52 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325): $450
 
@@ -1063,7 +1063,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
-    - <https://www.youtube.com/watch?v=gBGUb4G9SpU>
+    - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
 
 ### #53 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325): $143
 
@@ -1078,7 +1078,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
+    - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
 
@@ -1095,10 +1095,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=v_8Guk1NPa8>
-    - <https://www.youtube.com/watch?v=ooIKSU0tKDU>
-    - <https://www.youtube.com/watch?v=t66JKkidpt8>
-    - <https://www.youtube.com/watch?v=duGiKJ0h0SY>
+    - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
+    - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
+    - [Alan Ross Reviews: W-King X10 (70w) vs Soundcore Motion Boom (30w) - value for money? 🤑](https://www.youtube.com/watch?v=t66JKkidpt8)
+    - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
 
@@ -1109,9 +1109,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=MrlgzwVoFw4>
-    - <https://www.youtube.com/watch?v=a-VmNf5kgEA>
-    - <https://www.youtube.com/watch?v=qr2oR3cnCYQ>
+    - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
+    - [Jagist reviews: Jbl Extreme 3 vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=a-VmNf5kgEA)
+    - [Jagist reviews: Soundcore Motion Boom vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=qr2oR3cnCYQ)
 - Links
     - [Official Product Page](https://www.alteclansing.com/products/mix-2-0)
 
@@ -1123,8 +1123,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=uihgotNRgJ0>
-    - <https://www.youtube.com/watch?v=3hADMlWdjrw>
+    - [Jagist reviews: Tritbit Stormbox Blast vs Braven xxl 2](https://www.youtube.com/watch?v=uihgotNRgJ0)
+    - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
 
 ### #57 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325): $150
 
@@ -1138,7 +1138,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=F4d76SDQPtw>
+    - [King Vegeta: Ion Pathfinder 320 quick review](https://www.youtube.com/watch?v=F4d76SDQPtw)
 
 ### #58 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325): $170
 
@@ -1154,7 +1154,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=g05lODItS4w>
+    - [Alpha Omega Gz: ION Pathfinder 280 degrees - Unboxing and testing](https://www.youtube.com/watch?v=g05lODItS4w)
 
 ### #59 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325): $250
 
@@ -1167,8 +1167,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Aux Input: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=uL9NPSEAwjE>
-    - <https://www.youtube.com/watch?v=JWQcHpHZBGg>
+    - [Wanna Buy It: Monster Rockin' Roller 270 - Party On Wheels](https://www.youtube.com/watch?v=uL9NPSEAwjE)
+    - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
 - Links
     - [Official Product Page](https://mymonsteraudio.com/products/monster-rockin-roller-270)
 
@@ -1183,11 +1183,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=5n-Z3842rOA>
+    - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - <https://www.youtube.com/watch?v=y9aCDZW6I_8?t=392>
-    - <https://www.youtube.com/watch?v=nMPO3NmXU2g>
-    - <https://www.youtube.com/watch?v=tFuilFzXh0Y>
-    - <https://www.youtube.com/watch?v=1_BYNkiIMx4>
+    - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
+    - [Turtlebox Audio: Turtlebox Gen 2 - Live Sound Demo](https://www.youtube.com/watch?v=tFuilFzXh0Y)
+    - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)
 - Links
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-gen-2)
 
@@ -1199,7 +1199,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=jS0Ofn3aRaI>
+    - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links
     - [Official Product Page](https://alteclansing.com/products/rockbox-xl-2)
 
@@ -1222,7 +1222,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=elc93N27uL0>
-    - <https://www.youtube.com/watch?v=ui3IZd1Akoc>
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
+    - [Jay's Straight Up Reviews & More: DBSOARS F29 Max vs Zealot S78 🛜 (5B) Budget Bluetooth Boombox Basement Battle 🔊 Bass Modes Enabled](https://www.youtube.com/watch?v=ui3IZd1Akoc)
 
 As an Amazon Associate I earn from qualifying purchases.

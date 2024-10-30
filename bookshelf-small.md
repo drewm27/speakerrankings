@@ -24,11 +24,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 3"
 - Inputs: XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Vi5umvPW1yQ>
-    - <https://www.youtube.com/watch?v=9OjbZQoLviY>
-    - <https://www.youtube.com/watch?v=bcYhKrm-z3M>
-    - <https://www.youtube.com/watch?v=Vt1gpbrAyOA>
-    - <https://www.youtube.com/watch?v=gtl978SZsk8>
+    - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs iLoud Micro Monitor   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vi5umvPW1yQ)
+    - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs Presonus Eris E4.5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9OjbZQoLviY)
+    - [DSAUDIO.review: Genelec 8010A (G One) vs JBL LSR305   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=bcYhKrm-z3M)
+    - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs Audioengine A2+   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vt1gpbrAyOA)
+    - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs Yamaha HS5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=gtl978SZsk8)
 - Links
     - [Official Product Page](https://www.genelec.com/8010a)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8010a-powered-studio-monitor-review.16866/)
@@ -43,7 +43,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: RCA, Aux
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
-    - <https://www.youtube.com/watch?v=eNBQXkxIJNc>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs iLoud Micro Monitor  sound.DEMO](https://www.youtube.com/watch?v=eNBQXkxIJNc)
     - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmm/index.php)
@@ -59,9 +59,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
-    - <https://www.youtube.com/watch?v=-pMsnGzolvY>
-    - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
+    - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
+    - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
+    - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
 - Links
     - [Official Product Page](https://audioengine.com/shop/speakers/hd-series/hd3-wireless-speakers/)
 
@@ -75,9 +75,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: RCA, 1/4" Balanced
 - Outputs: 1/8" headphone jack
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=pZqLVCBXgyw>
-    - <https://www.youtube.com/watch?v=9-6zpNiQv5M>
-    - <https://www.youtube.com/watch?v=MoCG-6y1YOQ>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E3.5  sound.DEMO](https://www.youtube.com/watch?v=pZqLVCBXgyw)
+    - [DSAUDIO.review: Presonus Eris E3.5 vs Edifier R1280T   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9-6zpNiQv5M)
+    - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
 - Links
     - [Official Product Page](https://legacy.presonus.com/products/Eris-E35)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/presonus-eris-e3-5-powered-monitor-review-100-pair.23388/)
@@ -92,8 +92,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: RCA, Aux
 - Outputs: 1/8" headphone jack
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=MoCG-6y1YOQ>
-    - <https://www.youtube.com/watch?v=Q4f___YNb7w>
+    - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
+    - [DSAUDIO.review: Mackie CR3-X  vs  Edifier R1280T   Sound, Distortion & Frequency Response Comparison](https://www.youtube.com/watch?v=Q4f___YNb7w)
 - Links
     - [Official Product Page](https://mackie.com/en/products/studio-monitoring/cr-x-series/CR3_X.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/mackie-cr3-x-powered-monitor-review-100-pair.23389/)

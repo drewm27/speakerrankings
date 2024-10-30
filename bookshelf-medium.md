@@ -24,12 +24,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 4.1"
 - Inputs: XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Ipohm9fuz5A>
-    - <https://www.youtube.com/watch?v=YftZtzD9Wyc>
-    - <https://www.youtube.com/watch?v=m4YU1iw1pys>
-    - <https://www.youtube.com/watch?v=Fxj1hDRUkQY>
-    - <https://www.youtube.com/watch?v=g38ySbL5vhM>
-    - <https://www.youtube.com/watch?v=fJVk4yPkQPs>
+    - [DSAUDIO.review: Genelec 8020D  vs  Yamaha HS5   Soun & Frequency Response Comparison](https://www.youtube.com/watch?v=Ipohm9fuz5A)
+    - [DSAUDIO.review: Genelec 8020D vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=YftZtzD9Wyc)
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
+    - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
+    - [DSAUDIO.review: KEF LSX vs Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=g38ySbL5vhM)
+    - [DSAUDIO.review: Genelec 8020D  vs  Adam Audo T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=fJVk4yPkQPs)
 - Links
     - [Official Product Page](https://www.genelec.com/8020d)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)
@@ -45,14 +45,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: XLR
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
-    - <https://www.youtube.com/watch?v=m4YU1iw1pys>
-    - <https://www.youtube.com/watch?v=LcldXF0mx0I>
-    - <https://www.youtube.com/watch?v=o9tzZdjAKF4>
-    - <https://www.youtube.com/watch?v=uAR19TSCt_I>
-    - <https://www.youtube.com/watch?v=3b_NpkDflrM>
-    - <https://www.youtube.com/watch?v=M1SjysuzN0w>
-    - <https://www.youtube.com/watch?v=sur8aYvYUOg>
-    - <https://www.youtube.com/watch?v=PyRYDE3Skd8>
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
+    - [DSAUDIO.review: Neumann KH80 DSP vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=LcldXF0mx0I)
+    - [DSAUDIO.review: Neumann KH80 DSP vs Focal Shape 40   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=o9tzZdjAKF4)
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=uAR19TSCt_I)
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  JBL 305P MKII   Sound & Frquency Response Comparison](https://www.youtube.com/watch?v=3b_NpkDflrM)
+    - [DSAUDIO.review: KEF LSX  vs  Neumann KH80 DSP   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=M1SjysuzN0w)
+    - [DSAUDIO.review: Adam Audio A3X vs Neumann KH80 DSP Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=sur8aYvYUOg)
+    - [DSAUDIO.review: Neumann KH80 DSP vs KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=PyRYDE3Skd8)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-80-dsp-a-g/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh-80-dsp-monitor-review.11018/)
@@ -66,15 +66,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: XLR, TRS, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=oKMhczUc0I8>
-    - <https://www.youtube.com/watch?v=0KvXRMa0YY8>
-    - <https://www.youtube.com/watch?v=MspK8S2avGE>
-    - <https://www.youtube.com/watch?v=XeRI_hA1DWg>
-    - <https://www.youtube.com/watch?v=pJouTjwd9gk>
-    - <https://www.youtube.com/watch?v=ujQLiYA0p20>
-    - <https://www.youtube.com/watch?v=51jzb9IpZNE>
-    - <https://www.youtube.com/watch?v=STR16lZhipg>
-    - <https://www.youtube.com/watch?v=6HwCiWldgW4>
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
+    - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Focal Alpha 65 EVO  sound.DEMO](https://www.youtube.com/watch?v=MspK8S2avGE)
+    - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
+    - [DSAUDIO.review: DSAUDIO.review  Adam Audio A5X vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=ujQLiYA0p20)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Eve Audio SC205  sound.DEMO](https://www.youtube.com/watch?v=51jzb9IpZNE)
+    - [DSAUDIO.review: DSAUDIO.review  Kali Audio LP-6 V2 (2nd Wave) vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=STR16lZhipg)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=6HwCiWldgW4)
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-50-evo)
 
@@ -88,15 +88,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: XLR, TRS
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=pJouTjwd9gk>
-    - <https://www.youtube.com/watch?v=XHG0wv9pOdU>
-    - <https://www.youtube.com/watch?v=nK9j7fr2N7o>
-    - <https://www.youtube.com/watch?v=e6EWbE8VmT4>
-    - <https://www.youtube.com/watch?v=4G2knzEXOLc>
-    - <https://www.youtube.com/watch?v=BdWLggXfHDc>
-    - <https://www.youtube.com/watch?v=AEGVXHRXcfw>
-    - <https://www.youtube.com/watch?v=Bk2JkYbW_NE>
-    - <https://www.youtube.com/watch?v=u-R-l588zmg>
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
+    - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)
+    - [DSAUDIO.review: DSAUDIO.review  JBL 305P MKII vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=nK9j7fr2N7o)
+    - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
+    - [DSAUDIO.review: DSAUDIO.review  Adam Audio A5X vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=4G2knzEXOLc)
+    - [DSAUDIO.review: DSAUDIO.review  Kali Audio LP-6 V2 (2nd Wave) vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=BdWLggXfHDc)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=AEGVXHRXcfw)
+    - [DSAUDIO.review: Kali Audio IN-5  vs  JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Bk2JkYbW_NE)
+    - [DSAUDIO.review: JBL 308P MKII  vs JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u-R-l588zmg)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/)
@@ -110,11 +110,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=e6EWbE8VmT4>
-    - <https://www.youtube.com/watch?v=8eRKA9srFXE>
-    - <https://www.youtube.com/watch?v=Tx2xYhZdYHY>
-    - <https://www.youtube.com/watch?v=20EndvbJT28>
-    - <https://www.youtube.com/watch?v=oKMhczUc0I8>
+    - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
+    - [DSAUDIO.review: Kali LP-6 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=8eRKA9srFXE)
+    - [DSAUDIO.review: Adam Audio T5V vs Yamaha HS5   5 Track Comparison](https://www.youtube.com/watch?v=Tx2xYhZdYHY)
+    - [DSAUDIO.review: DSAUDIO.review  Adam Audio A5X vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=20EndvbJT28)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t5v-review-studio-monitor.18122/)
@@ -129,8 +129,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=xALoyiRwVZM>
-    - <https://www.youtube.com/watch?v=rawoaPBeg74>
+    - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/yamaha-hs5-powered-monitor-review.10967)
@@ -144,15 +144,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=qThZxLqb5EI>
-    - <https://www.youtube.com/watch?v=SWT-9LfiRGc>
-    - <https://www.youtube.com/watch?v=dzbGVcNilCs>
-    - <https://www.youtube.com/watch?v=fk8P8EtqDEk>
-    - <https://www.youtube.com/watch?v=6ok-l7lnMmA>
-    - <https://www.youtube.com/watch?v=-R9l3z7qIvM>
-    - <https://www.youtube.com/watch?v=ohggtzC1Kuk>
-    - <https://www.youtube.com/watch?v=r3nVPXLBhQE>
-    - <https://www.youtube.com/watch?v=8DfhioKq68Y>
+    - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
+    - [DSAUDIO.review: Yamaha HS5 vs Presonus Eris E5  Sound Demo](https://www.youtube.com/watch?v=SWT-9LfiRGc)
+    - [DSAUDIO.review: Fluid Audio F5 vs Presonus Eris E5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=dzbGVcNilCs)
+    - [DSAUDIO.review: M-Audio BX5 D3 vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=fk8P8EtqDEk)
+    - [DSAUDIO.review: PreSonus Eris E5 XT vs PreSonus Eris E5 (new vs old)   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=6ok-l7lnMmA)
+    - [DSAUDIO.review: JBL 305P MKII vs PreSonus Eris E5   6-Track Comparison](https://www.youtube.com/watch?v=-R9l3z7qIvM)
+    - [DSAUDIO.review: Mackie CR5 BT vs Presonus Eris E5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ohggtzC1Kuk)
+    - [DSAUDIO.review: KRK Rokit 5 RP5G3 vs Presonus E5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=r3nVPXLBhQE)
+    - [DSAUDIO.review: JBL LSR305 vs Presonus Eris E5   Sound Demo](https://www.youtube.com/watch?v=8DfhioKq68Y)
 - Links
     - [Official Product Page](https://www.presonus.com/en-US/monitors/studio-monitors/eris-series/2777500107.html)
 
@@ -168,15 +168,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: TRS/XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=XeRI_hA1DWg>
-    - <https://www.youtube.com/watch?v=q6EETP-YrAY>
-    - <https://www.youtube.com/watch?v=AHV9UeN_x84>
-    - <https://www.youtube.com/watch?v=1vgYmj3ZmDY>
-    - <https://www.youtube.com/watch?v=OzGYLmCXjeg>
-    - <https://www.youtube.com/watch?v=vF_z1f5Idbk>
-    - <https://www.youtube.com/watch?v=sSnQcUAkMDo>
-    - <https://www.youtube.com/watch?v=PyRYDE3Skd8>
-    - <https://www.youtube.com/watch?v=KYlf6rlVack>
+    - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=q6EETP-YrAY)
+    - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3  vs  KRK Rokit 5 RP5G4  sound.DEMO](https://www.youtube.com/watch?v=AHV9UeN_x84)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Yamaha HS5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=1vgYmj3ZmDY)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Presonus Eris E5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=OzGYLmCXjeg)
+    - [DSAUDIO.review: PreSonus E5 XT  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vF_z1f5Idbk)
+    - [DSAUDIO.review: Genelec 8020D & KRK Rokit 5 G4 PR5G4  - Same, same, but different   Sound & Response Comparison](https://www.youtube.com/watch?v=sSnQcUAkMDo)
+    - [DSAUDIO.review: Neumann KH80 DSP vs KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=PyRYDE3Skd8)
+    - [DSAUDIO.review: Tannoy Gold 5  vs  KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=KYlf6rlVack)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-5-generation-4-powered-studio-monitor-black)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-rokit-5-gen-4-review-studio-monitor.20711/)
@@ -190,12 +190,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=NgYei-8ej-s>
-    - <https://www.youtube.com/watch?v=E31EQd_EJKc>
-    - <https://www.youtube.com/watch?v=6ok-l7lnMmA>
-    - <https://www.youtube.com/watch?v=GS-OoAGD2KI>
-    - <https://www.youtube.com/watch?v=XSI_mErI-10>
-    - <https://www.youtube.com/watch?v=vF_z1f5Idbk>
+    - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
+    - [DSAUDIO.review: Bright and brighter. PreSonus E5 XT takes on Adam Audio T5V SOUND & FREQUENCY RESPONSE COMPARISON](https://www.youtube.com/watch?v=E31EQd_EJKc)
+    - [DSAUDIO.review: PreSonus Eris E5 XT vs PreSonus Eris E5 (new vs old)   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=6ok-l7lnMmA)
+    - [DSAUDIO.review: PreSonus E7 XT vs PreSonus E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=GS-OoAGD2KI)
+    - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
+    - [DSAUDIO.review: PreSonus E5 XT  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vF_z1f5Idbk)
 - Links
     - [Official Product Page](https://legacy.presonus.com/products/Eris-E5-XT)
 
@@ -209,13 +209,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 2x 3.5"
 - Inputs: XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=Fxj1hDRUkQY>
+    - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
     - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
-    - <https://www.youtube.com/watch?v=pUirqMFmyVw>
-    - <https://www.youtube.com/watch?v=QFWrTMH5hIQ>
-    - <https://www.youtube.com/watch?v=uAR19TSCt_I>
-    - <https://www.youtube.com/watch?v=cOEPf1j7h6o>
-    - <https://www.youtube.com/watch?v=Jhm85bHp9_c>
+    - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=pUirqMFmyVw)
+    - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Edifier S3000 Pro   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=QFWrTMH5hIQ)
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=uAR19TSCt_I)
+    - [DSAUDIO.review: Adam Audio A3X  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=cOEPf1j7h6o)
+    - [DSAUDIO.review: Yamaha HS8  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Jhm85bHp9_c)
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/ik-multimedia-iloud-mtm-review-active-monitor.18347/)
@@ -229,10 +229,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tji_9d3gkZ4>
-    - <https://www.youtube.com/watch?v=2zAFza0qxrw>
-    - <https://www.youtube.com/watch?v=MWeoTZmU6l0>
-    - <https://www.youtube.com/watch?v=DvEBODvCynY>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier S2000MKIII vs Klipsch The Three II  sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
+    - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
 - Links
     - [Official Product Page](https://edifier-online.com/products/ed-s2000mkiii-brown)
 
@@ -246,8 +246,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, Wifi, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=SAdySyVWzq8>
-    - <https://www.youtube.com/watch?v=LP6-6vJLEiw>
+    - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/s1000w)
 
@@ -260,8 +260,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tji_9d3gkZ4>
-    - <https://www.youtube.com/watch?v=DvEBODvCynY>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
+    - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/s1000mkii)
 
@@ -275,8 +275,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: RCA, TRS, XLR
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tji_9d3gkZ4>
-    - <https://www.youtube.com/watch?v=DvEBODvCynY>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
+    - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/classic-5-powered-studio-monitor-pack)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)
@@ -292,8 +292,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, Aux, RCA Input, Digital Optical
 - Outputs: RCA Output
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=SAdySyVWzq8>
-    - <https://www.youtube.com/watch?v=g3Jx7d_iMo4>
+    - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
+    - [DSAUDIO.review: Audioengine HD6 vs Audioengine A5+   5 Track Comparison](https://www.youtube.com/watch?v=g3Jx7d_iMo4)
 - Links
     - [Official Product Page](https://audioengine.com/shop/speakers/hd-series/hd6-wireless-speakers/)
 
@@ -307,9 +307,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer Size: 5"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=tccM1DTZ6ss>
-    - <https://www.youtube.com/watch?v=9JwfnkkM3n4>
-    - <https://www.youtube.com/watch?v=d5DridUDGFY>
+    - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
+    - [DSAUDIO.review: Edifier R2730DB vs Edifier R2000DB   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9JwfnkkM3n4)
+    - [DSAUDIO.review: Edifier R1280T vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=d5DridUDGFY)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r2000db)
 
@@ -323,13 +323,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, 1/4" Balanced, RCA, Aux
 - Outputs: Headphone
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=C04EP1z7PPw>
-    - <https://www.youtube.com/watch?v=5NuLO145dsI>
-    - <https://www.youtube.com/watch?v=AEGVXHRXcfw>
-    - <https://www.youtube.com/watch?v=pZqLVCBXgyw>
-    - <https://www.youtube.com/watch?v=eNBQXkxIJNc>
-    - <https://www.youtube.com/watch?v=TpdGTjNgtnA>
-    - <https://www.youtube.com/watch?v=RfItNlPYv-U>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=AEGVXHRXcfw)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E3.5  sound.DEMO](https://www.youtube.com/watch?v=pZqLVCBXgyw)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs iLoud Micro Monitor  sound.DEMO](https://www.youtube.com/watch?v=eNBQXkxIJNc)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E4.5  sound.DEMO](https://www.youtube.com/watch?v=TpdGTjNgtnA)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Mackie CR4-X  sound.DEMO](https://www.youtube.com/watch?v=RfItNlPYv-U)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/studio-monitors/mr4)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/)
@@ -344,10 +344,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=5NuLO145dsI>
-    - <https://www.youtube.com/watch?v=G6a2KBOLyq0>
-    - <https://www.youtube.com/watch?v=ApdsaDkvoj8>
-    - <https://www.youtube.com/watch?v=Xg2jvzQDPds>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
+    - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
+    - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
+    - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
 
@@ -361,9 +361,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ApdsaDkvoj8>
-    - <https://www.youtube.com/watch?v=Xg2jvzQDPds>
-    - <https://www.youtube.com/watch?v=C04EP1z7PPw>
+    - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
+    - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-r1280t-powered-speaker-review.16112/)
@@ -378,8 +378,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=xEDg7hl7a3A>
-    - <https://www.youtube.com/watch?v=-pMsnGzolvY>
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)
+    - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
 - Links
     - [Official Product Page](https://audioengine.com/shop/speakers/hd-series/hd4-home-music-system/)
 

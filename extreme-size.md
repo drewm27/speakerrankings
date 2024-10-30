@@ -37,9 +37,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=qQ34Z6813oM>
-    - <https://www.youtube.com/watch?v=1MHvBEahqNs>
-    - <https://www.youtube.com/watch?v=bny5v3Gt4Xc>
+    - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
+    - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
+    - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-STAGE-320.html)
 
@@ -62,13 +62,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=-OAUrom9DZM>
-    - <https://www.youtube.com/watch?v=I6sUWvuONf0>
-    - <https://www.youtube.com/watch?v=TOACab8wPxw>
-    - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
-    - <https://www.youtube.com/watch?v=BVfi7YvlMRg>
-    - <https://www.youtube.com/watch?v=qQ34Z6813oM>
-    - <https://www.youtube.com/watch?v=1MHvBEahqNs>
+    - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
+    - [Flossy Carter: JBL PartyBox 310 vs PartyBox 300](https://www.youtube.com/watch?v=I6sUWvuONf0)
+    - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
+    - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
+    - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
+    - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
+    - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX310-.html)
 
@@ -91,8 +91,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=QTQqAp-JtU0>
-    - <https://www.youtube.com/watch?v=LFE4dghejGI>
+    - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
+    - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-CLUB-120.html)
 
@@ -118,16 +118,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
-    - <https://www.youtube.com/watch?v=-OAUrom9DZM>
+    - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
-    - <https://www.youtube.com/watch?v=K9qr4EoEqpQ>
+    - [DLX Willington: 🥰🙄SONY SRS XP500 vs JBL Partybox 100 Sound battle with sound sample love and hate this](https://www.youtube.com/watch?v=K9qr4EoEqpQ)
     - <https://www.youtube.com/watch?v=e8lfiOep2pU>
     - <https://www.youtube.com/watch?v=EElNYJ-58fM>
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - <https://www.youtube.com/watch?v=JF9KBZuQY4w>
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
-    - <https://www.youtube.com/watch?v=YWVFrq61OQk>
+    - [HQ AUDIO Exchange: Bose S1 Pro vs. JBL PartyBox 100  Bass Sound Test 😱💥🔥](https://www.youtube.com/watch?v=YWVFrq61OQk)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX100.html)
 
@@ -152,8 +152,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
-    - <https://www.youtube.com/watch?v=JM5izq3u_iM>
-    - <https://www.youtube.com/watch?v=Z727n9aBfgw>
+    - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
+    - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen. 2 (Bass Boost On) vs JBL Partybox 110 (Bass Boost 1)🩻Battery Powered🔋](https://www.youtube.com/watch?v=Z727n9aBfgw)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-110-.html)
 
@@ -201,8 +201,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP43
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=sKZcCSsg1h0>
-    - <https://www.youtube.com/watch?v=nTSPqFQ4LkQ>
+    - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
+    - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
 
@@ -227,9 +227,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP43
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=bxW813jlJKc>
-    - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
-    - <https://www.youtube.com/watch?v=59374H8e3HQ>
+    - [briansredd: Electro-Voice Everse 8 VS Bose S1 Pro - Side By Side Shoot-Out (Attempt)](https://www.youtube.com/watch?v=bxW813jlJKc)
+    - [briansredd: Q&A - Electro-Voice Everse 8 Vs Bose S1 Pro AND (Warning) My Opinion](https://www.youtube.com/watch?v=yAxDBqN9d2Q)
+    - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-8/)
 
@@ -253,14 +253,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
-    - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
-    - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
+    - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)
+    - [Precision Drive Audio: Bose S1 pro VS PD K8 VS JBL EON ONE COMPACT](https://www.youtube.com/watch?v=mIVdyFo2zgA)
     - <https://www.youtube.com/watch?v=ezTk-Tn1Yog>
-    - <https://www.youtube.com/watch?v=YWVFrq61OQk>
-    - <https://www.youtube.com/watch?v=bxW813jlJKc>
-    - <https://www.youtube.com/watch?v=yAxDBqN9d2Q>
-    - <https://www.youtube.com/watch?v=WdmB0w0W7e4>
-    - <https://www.youtube.com/watch?v=59374H8e3HQ>
+    - [HQ AUDIO Exchange: Bose S1 Pro vs. JBL PartyBox 100  Bass Sound Test 😱💥🔥](https://www.youtube.com/watch?v=YWVFrq61OQk)
+    - [briansredd: Electro-Voice Everse 8 VS Bose S1 Pro - Side By Side Shoot-Out (Attempt)](https://www.youtube.com/watch?v=bxW813jlJKc)
+    - [briansredd: Q&A - Electro-Voice Everse 8 Vs Bose S1 Pro AND (Warning) My Opinion](https://www.youtube.com/watch?v=yAxDBqN9d2Q)
+    - [True Techy: BOSE S1 Pro vs JBLPartybox ENCORE This Comparison SHOCKED me!!!](https://www.youtube.com/watch?v=WdmB0w0W7e4)
+    - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
 - Links
     - [Official Product Page](https://www.bose.com/p/portable-pa/s1-pro-wireless-pa-system/S1PROP-SPEAKERWIRELESS.html)
 
@@ -278,8 +278,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=J8c7Ur83_VQ>
-    - <https://www.youtube.com/watch?v=I9UpaL-4H5c>
+    - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
+    - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 😮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-500.html)
 
@@ -300,8 +300,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=TOACab8wPxw>
-    - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
+    - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
+    - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp700)
 
@@ -322,8 +322,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=K9qr4EoEqpQ>
-    - <https://www.youtube.com/watch?v=JM5izq3u_iM>
+    - [DLX Willington: 🥰🙄SONY SRS XP500 vs JBL Partybox 100 Sound battle with sound sample love and hate this](https://www.youtube.com/watch?v=K9qr4EoEqpQ)
+    - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp500)
 
@@ -337,10 +337,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - IP Rating: IPX4
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=BVfi7YvlMRg>
-    - <https://www.youtube.com/watch?v=Y_G5In55vY4>
-    - <https://www.youtube.com/watch?v=BVfi7YvlMRg>
-    - <https://www.youtube.com/watch?v=Q5k35cigejM>
+    - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
+    - [Jay's Straight Up Reviews & More: LG XL7 vs JBL Partybox 310 🏠 Indoor Bluetooth Party Speaker Battle. Plugged in🔌](https://www.youtube.com/watch?v=Y_G5In55vY4)
+    - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
+    - [GYMCADDY: LG XBOOM XL7 Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=Q5k35cigejM)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xl7s-portable-speaker)
 
@@ -360,10 +360,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX4
 - Stereo: Partially
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=AK_xTAIqejY>
-    - <https://www.youtube.com/watch?v=PbA32qofwe8>
-    - <https://www.youtube.com/watch?v=6YjGuQPD52w>
-    - <https://www.youtube.com/watch?v=Z727n9aBfgw>
+    - [Jay's Straight Up Reviews & More: ONN Large Party Speaker 2 🎶 (Gen 2.0) First Look and Light Demo](https://www.youtube.com/watch?v=AK_xTAIqejY)
+    - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)
+    - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox Encore  🛻 Tailgater Special 🔋 Battery Powered](https://www.youtube.com/watch?v=6YjGuQPD52w)
+    - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen. 2 (Bass Boost On) vs JBL Partybox 110 (Bass Boost 1)🩻Battery Powered🔋](https://www.youtube.com/watch?v=Z727n9aBfgw)
 
 ### #15 [Klipsch Gig XXL](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl): $130
 - Positives: Really amazing value for the money
@@ -383,9 +383,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=bCCgG7s4lDQ>
-    - <https://www.youtube.com/watch?v=qgelmChNgAE>
-    - <https://www.youtube.com/watch?v=CdhU1W-5pr4>
+    - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox 110 🎉 Bluetooth Party Speaker Comparison. Is The Party Over For Gig?](https://www.youtube.com/watch?v=bCCgG7s4lDQ)
+    - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox Encore Essential (Pee-Wee) - Indoors, Plugged In🔌 Bluetooth Speakers](https://www.youtube.com/watch?v=qgelmChNgAE)
+    - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs ONN Large Party Speaker Gen 2 ⚔️ Budge Bluetooth Speaker Battle🔉 Bass Boost On](https://www.youtube.com/watch?v=CdhU1W-5pr4)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/gig-xxl-party-speaker)
 
@@ -404,7 +404,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Samsung Group Play up to 10 speakers)
 - IP Rating: IPX5
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=_Q1i3cG092I>
+    - [HQ AUDIO Exchange: Samsung MX-ST50B vs. JBL Partybox 110 Bass Test!🔥](https://www.youtube.com/watch?v=_Q1i3cG092I)
 - Links
     - [Official Product Page](https://www.samsung.com/us/televisions-home-theater/home-theater/sound-tower/mx-st50b-sound-tower-high-power-audio-240w-2022-mx-st50b-za/)
 
@@ -422,10 +422,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=8HESRrKdGto>
-    - <https://www.youtube.com/watch?v=G_0wnrW8UpA>
-    - <https://www.youtube.com/watch?v=jGOER4-R4gg>
-    - <https://www.youtube.com/watch?v=FW4T7G98MXk>
+    - [W. Weiss: Part 3 Sound Demonstration The New EV Everse 8 compared to The Mackie Thump Go](https://www.youtube.com/watch?v=8HESRrKdGto)
+    - [W. Weiss: Part 3 Shootout MACKIE THUMP GO vs BOSE S1 PRO vs JBL EON ONE COMPACT Max Volume Demo A New Winner!](https://www.youtube.com/watch?v=G_0wnrW8UpA)
+    - [W. Weiss: Part 2 NEW MACKIE THUMP GO review/sound demo VS JBL Compact & Bose S1Pro Most Popular portable PAs](https://www.youtube.com/watch?v=jGOER4-R4gg)
+    - [W. Weiss: The $400 Club - Budget Portable PA's Mackie Thump Go, JBL Partybox 110, Yamaha DBR10](https://www.youtube.com/watch?v=FW4T7G98MXk)
 - Links
     - [Official Product Page](https://mackie.com/en/products/loudspeakers/thump-go/thump_go.html)
     - <https://www.reddit.com/r/DJs/comments/ydxjdb/i_used_the_mackie_thump_gos_for_an_indoor_venue/>
@@ -488,8 +488,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Removable Battery: Yes
 - IP Rating: IP65
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=bNNYuUKvaVQ>
-    - <https://www.youtube.com/watch?v=hjpEDDN_hnY>
+    - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
+    - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)
     - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
 - Links
     - [Official Product Page](https://soundboks.com/products/speakers/soundboks-4)
@@ -516,7 +516,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=-D0YY58zbA4>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
-    - <https://www.youtube.com/watch?v=LeFRtL44rt8>
+    - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
 - Links
     - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-3-refurbished)
 
@@ -554,7 +554,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
-    - <https://www.youtube.com/watch?v=HLO_p671BgA>
+    - [DLX Willington: JBL Partybox 100 vs UE Hyperboom SoundBattle Does Size Matter🤔](https://www.youtube.com/watch?v=HLO_p671BgA)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/hyperboom)
 
@@ -570,10 +570,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=LeFRtL44rt8>
-    - <https://www.youtube.com/watch?v=8K3aTVKL3LE>
-    - <https://www.youtube.com/watch?v=JM5izq3u_iM>
-    - <https://www.youtube.com/watch?v=5NzYJL9jvS8>
+    - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
+    - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
+    - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
+    - [GYMCADDY: Soundboks Go Vs JBL Boombox 2 Vs UE Hyperboom Vs Sony XG500](https://www.youtube.com/watch?v=5NzYJL9jvS8)
 - Links
     - [Official Product Page](https://soundboks.com/products/speakers/soundboks-go)
 
@@ -600,7 +600,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - USB Playback: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=8dZz7MJRAAo>
+    - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
 - Links
     - [Official Product Page](https://www.w-king.com/t9pro.html)
 
@@ -613,8 +613,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=U6Sec5_16x4>
-    - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
+    - [Danny Pops: MY EARS ARE BLEEDING! Marshall Woburn III Unboxing](https://www.youtube.com/watch?v=U6Sec5_16x4)
+    - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/woburn-iii)
 
@@ -627,9 +627,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
-    - <https://www.youtube.com/watch?v=K3350eIvszw>
-    - <https://www.youtube.com/watch?v=qnya_6ew1e4>
+    - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
+    - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
+    - [HiTechKing: Marshall Woburn II Unboxing & Review](https://www.youtube.com/watch?v=qnya_6ew1e4)
 
 ### #29 Marshall Woburn I: $500
 
@@ -640,8 +640,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ypwOXcoMqdo>
-    - <https://www.youtube.com/watch?v=K3350eIvszw>
+    - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
+    - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
 
 ### #30 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325): $630
 
@@ -650,9 +650,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Aux Input: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=59374H8e3HQ>
-    - <https://www.youtube.com/watch?v=DVJv6aMCY2U>
-    - <https://www.youtube.com/watch?v=mIVdyFo2zgA>
+    - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
+    - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)
+    - [Precision Drive Audio: Bose S1 pro VS PD K8 VS JBL EON ONE COMPACT](https://www.youtube.com/watch?v=mIVdyFo2zgA)
 - Links
     - [Official Product Page](https://www.jbl.com/portable-pa-systems/JBL+EON+ONE+Compact.html)
 
@@ -668,8 +668,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
-    - <https://www.youtube.com/watch?v=YIpbJERmRpk>
+    - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
+    - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
 
@@ -683,8 +683,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=CoxE4MbLHyI>
-    - <https://www.youtube.com/watch?v=YIpbJERmRpk>
+    - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
+    - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
 
@@ -711,9 +711,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=wqROpxcZmrk>
-    - <https://www.youtube.com/watch?v=GTqpcjfd3Fo>
-    - <https://www.youtube.com/watch?v=YB4CxTDP1rE>
+    - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)
+    - [DTA AUDIO: dB Technologies B·Hype M, loa đến từ Italia. Mang lại sự an toàn cho những buổi hội thảo quan trọng.](https://www.youtube.com/watch?v=GTqpcjfd3Fo)
+    - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://www.dbtechnologies.com/en/products/b-hype/b-hype-m/)
 
@@ -729,10 +729,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=RXeTaLUzgAo>
-    - <https://www.youtube.com/watch?v=dq1JLYaRwkk>
-    - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
-    - <https://www.youtube.com/watch?v=BzQL3DqcFss>
+    - [Jay's Straight Up Reviews & More: JBL Partybox 110 🆚  Onn Large Party Speaker - Both Plugged In🔌   The Legend vs. the Budget Banger 🍿](https://www.youtube.com/watch?v=RXeTaLUzgAo)
+    - [Jay's Straight Up Reviews & More: W-King T11 (EQ1, Firmware 2.32) 🆚 Onn Large Party Speaker (Bass Boost Off/On) - Budget Battle!💥](https://www.youtube.com/watch?v=dq1JLYaRwkk)
+    - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
+    - [Jay's Straight Up Reviews & More: W-King T9  🆚 ONN Large Party Speaker -By Request for Big Tee. Can the Smaller T9 Hang With The ONN?](https://www.youtube.com/watch?v=BzQL3DqcFss)
 
 ### #36 Philips NX200
 
@@ -743,8 +743,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=O6SWv8lnpCI>
-    - <https://www.youtube.com/watch?v=rMX9Y-OpNoc>
+    - [Audio Mix7: Philips Tanx 200 Review - sound Test -jbl partybox alternative ? Vs Jbl Boombox (eng sub)](https://www.youtube.com/watch?v=O6SWv8lnpCI)
+    - [Jay's Straight Up Reviews & More: PHILIPS NX200 🦨 (TANX200) 🆚 JBL PARTYBOX 110 - Bluetooth Speaker Comparison, Both on Bass mode One.](https://www.youtube.com/watch?v=rMX9Y-OpNoc)
 - Links
     - [Official Product Page](https://www.usa.philips.com/c-p/TANX200_37/bluetooth-party-speaker)
 
@@ -758,7 +758,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=UrgQkhzAe0U>
+    - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
 - Links
     - [Official Product Page](https://www.panasonic.com/mea/en/consumer/home-entertainment/audio/mini-systems/sc-tmax10.html)
 
@@ -772,8 +772,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=_jlJnhPyALs>
-    - <https://www.youtube.com/watch?v=dXoD0Yv_iLM>
+    - [JARA MIKE: Panasonic  SC- TMAX5 ♫](https://www.youtube.com/watch?v=_jlJnhPyALs)
+    - [JARA MIKE: Panasonic 🔴 SC- TMAX5 ♫ .150 W RMS](https://www.youtube.com/watch?v=dXoD0Yv_iLM)
 - Links
     - [Official Product Page](https://www.panasonic.com/nz/consumer/television-audio/audio/bluetooth-speakers/sc-tmax5.specs.html)
 
@@ -784,7 +784,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 19lbs / 8.6kg
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=uiRxrnvyvCw>
+    - [Technotin: Power Audio Sharp PS-929   7day experience](https://www.youtube.com/watch?v=uiRxrnvyvCw)
 - Links
     - [Official Product Page](https://www.sharpconsumer.com/audio/ps929/)
 
@@ -799,8 +799,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=3AmJh4jpKRg>
-    - <https://www.youtube.com/watch?v=ZjQIvZByyns>
+    - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
+    - [Techder Audios: Soundcore Rave+ - Soundtest "NOT IMPRESSIVE ENOUGH?!"](https://www.youtube.com/watch?v=ZjQIvZByyns)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/rave)
 
@@ -843,7 +843,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=qY0Cdd2QJTU>
+    - [Stereo Specs: JBL PARTYBOX 310 VS SONY GTK XB72 SOUND TEST COMPARISON](https://www.youtube.com/watch?v=qY0Cdd2QJTU)
 
 ### #44 Sony GTK-XB60
 
@@ -857,7 +857,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=yq29uHBJKjI>
+    - [DLX Willington: 🤣JBL Partybox 100 vs Sony GTK XB60 Sound Battle You Asked For It](https://www.youtube.com/watch?v=yq29uHBJKjI)
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
     - <https://www.youtube.com/watch?v=Cg2DNPOA8AA>
 
@@ -873,7 +873,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=_09Fi5-pF7Q>
+    - [Jay's Straight Up Reviews & More: Altec Lansing- ☠️ Street Shock (AL500) Bluetooth Speaker Review. A JBL Partybox 200/300 Killer?](https://www.youtube.com/watch?v=_09Fi5-pF7Q)
 
 ### #46 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325): $100
 
@@ -885,7 +885,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cord
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=eVlB4zq2Q0I>
-    - <https://www.youtube.com/watch?v=28bFX3K9Gzs>
+    - [Daniel Parker Big D: Sound Quality Bass Test On Rockville Rock Party 6 Portable Bluetooth Speaker](https://www.youtube.com/watch?v=eVlB4zq2Q0I)
+    - [PAPAGEORGIO84: Jbl party box 100 vs Rockville 6](https://www.youtube.com/watch?v=28bFX3K9Gzs)
 
 As an Amazon Associate I earn from qualifying purchases.
