@@ -41,14 +41,14 @@ for file in os.listdir():
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
                     else:
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
-                elif re.match('^    - <https://www.youtube.com/watch', line):
-                    try:
-                        ytid = line.split('=')[1].split('>')[0]
-                        description = youtubeid_to_title(ytid)
-                        line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
-                    except:
-                        print('Error fetching info for ' + ytid + '\n')
-                    newline = line
+                #elif re.match('^    - <https://www.youtube.com/watch', line):
+                #    try:
+                #        ytid = line.split('=')[1].split('>')[0]
+                #        description = youtubeid_to_title(ytid)
+                #        line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
+                #    except:
+                #        print('Error fetching info for ' + ytid + '\n')
+                #    newline = line
 
                 else:
                     newline = line         
