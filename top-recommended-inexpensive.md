@@ -8,6 +8,8 @@ comments: true
 
 This page lists the best inexpensive portable Bluetooth speakers of the 329 ranked on this website. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. See these other links for [The Best Portable Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
+For more information, sound samples and specs about all these speakers, see the [full rankings by size](/#portable-speaker-rankings)
+
 ### The Best Inexpensive Small/Medium Size Speaker
 
 The best inexpensive [pocket size](/pocket-size/) battery powered portable Bluetooth speaker is the [**$15 Onn Small Rugged Speaker**](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562)
