@@ -6,9 +6,9 @@ comments: true
 
 ![Earfun Uboom L and Earfun Uboom X](/assets/img/uboomluboomx.jpg)
 
-This page lists the best portable Bluetooth speakers out of the 329 ranked on this website. The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details of each speaker in the main rankings. See these other links for [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
+This page lists the best portable Bluetooth speakers out of the 329 ranked on this website. The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details of each speaker in the main [portable speaker rankings by size](/#portable-speaker-rankings). See these other links for [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
-For more information, sound samples and specs about all these speakers, see the [full rankings by size](/#portable-speaker-rankings)
+For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#portable-speaker-rankings)
 
 ### My Perfect Setup
 

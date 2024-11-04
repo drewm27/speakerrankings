@@ -6,7 +6,7 @@ comments: true
 
 This page lists the best portable Bluetooth speakers for bass out of the 329 ranked on this website. The suggestions in this section are biased towards value speakers which have boosted and deep bass response. See these other links for [The Best Portable Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
-For more information, sound samples and specs about all these speakers, see the [full rankings by size](/#portable-speaker-rankings)
+For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#portable-speaker-rankings)
 
 ## The Best Pocket Size Speaker For Bass
 
