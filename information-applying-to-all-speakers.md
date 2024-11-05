@@ -22,6 +22,8 @@ Some Bluetooth speakers can do non-stereo pairing with more than 2 speakers, JBL
 
 Note: Some of these multi speaker technologies may not work if you have a Bluetooth 4.x or less device like many laptops. 
 
+Two speakers with an aux input can be operated in stereo using a [3.5mm to 3.5mm Stereo Breakout Cable](https://www.amazon.com/s?k=Hosa+YMM-261&crid=22IKQQ8OXJCZV&sprefix=hosa+ymm-261%2Caps%2C224&linkCode=ll2&tag=rankingspea01-20&linkId=38852c722042ef50eec0d901022c42f1&language=en_US&ref_=as_li_ss_tl)
+
 ### Multi Speaker Pairing of Different Brands
 
 If you want to stream Bluetooth to multiple models of speakers that don't support party mode you can use [TCL Super Bluetooth](https://www.androidcentral.com/tcl-20s-and-tcl-20-se-review) or [Samsung Dual Audio](https://www.samsung.com/latin_en/support/mobile-devices/how-can-i-use-dual-audio-to-share-media-on-multiple-devices/) although you may have speakers with different latency that may seem out of sync.
