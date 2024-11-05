@@ -960,7 +960,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: None
-- TWS: Yes
+- TWS: No
 - Stereo: Yes
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)
