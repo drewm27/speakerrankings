@@ -851,7 +851,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - App: Yes
 - EQ: Yes
-- TWS: Yes
+- TWS: No
 - IP Rating: IP67
 - Stereo: No
 - Comparisons and Sound Samples
@@ -1646,6 +1646,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.77lbs / 1260g
 - Battery Life: 24 hours
 - Aux Input: Yes
+- TWS: No
 - MicroSD: Yes
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)

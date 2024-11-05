@@ -650,6 +650,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
+- TWS: Yes
 - Power Input: AC Power brick
 - IP Rating: IPX6
 - Stereo: Yes
@@ -980,6 +981,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
+- TWS: No
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
@@ -1092,6 +1094,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
+- TWS: No
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples

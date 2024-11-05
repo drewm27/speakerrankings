@@ -629,6 +629,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - MicroSD: Yes
 - Power Bank: Yes
+- TWS: Yes
 - IP Rating: None
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
@@ -703,6 +704,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Aux Input: Yes
 - MicroSD: Yes
+- TWS: No
 - Power Bank: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
@@ -1009,6 +1011,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Aux Input: Yes
 - MicroSD: Yes
+- TWS: No
 - Power Bank: Yes
 - IP Rating: IPX6
 - Comparisons and Sound Samples
