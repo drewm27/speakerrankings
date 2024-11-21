@@ -13,6 +13,8 @@ The top picks on this website are the same ones that unbiased reviewers like [Ol
 
 Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings.
 
+For top recommended picks of all other types of products, check out the other website I've been working on [AI Quick Buy](https://www.aiquickbuy.com/)
+
 Feel free to share this on Reddit or anywhere people could find it useful, thanks!
 
 ### Top Recommended Speakers
