@@ -903,22 +903,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://soundcore.sjv.io/R5qKrv)
 
-### #42 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=39JU9CUV6BY9X&dib=eyJ2IjoiMSJ9.v2UsYO2RMjJ2HRRNWNZkJhUfns6ujHjHyuCQI6H_jw_GjHj071QN20LucGBJIEps.vR9QbJtORVzyElCgYkEHlxMZ2mUWqoxuId3Quso5dzE&dib_tag=se&keywords=bugani+boost+max&qid=1732517676&sprefix=bugani+boost+ma%2Caps%2C237&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=e60e67b6bc5a31d6d3afc9e4f740e0c1&language=en_US&ref_=as_li_ss_tl): $180
-- Negatives: Not as deep of bass as the top ranked speakers. Only IPX5 water resistance.
-- Weight: 5.5lbs / 2.48kg
-- Battery Life: 16 hours
-- Aux Input: Yes
-- Microphone Input: Yes
-- Power Input: USB-C
-- TWS: Yes
-- IP Rating: IPX5
-- Comparisons and Sound Samples
-    - [Jay's Straight Up Reviews & More: Earfun UBoom X (fw 0.39) vs Bugani Boost Max 🪟 On A Ledge Head to Head 💣Boombox Comparison.](https://www.youtube.com/watch?v=4iNZ6qL5E90)
-    - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
-    - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
-- Links
-    - [Official Product Page](https://www.bugani-global.com/products/bugani-boost-max-portable-bluetooth-speaker)
-
 ### #43 [Demerbox DB2](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl): $400
 - Negatives: Bass is not as deep as better speakers. Very overpriced.
 - Weight: 7.4lbs / 3.4kg
