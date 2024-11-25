@@ -1300,7 +1300,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wifi: No
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=jfB1dUCEsGQ>
+    - [KULAS TECH SHOW: JBL Charge 5 vs Tronsmart Mirtune S100 - Sound Comparison💥🔥](https://www.youtube.com/watch?v=jfB1dUCEsGQ)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-mirtune-s100-portable-outdoor-speaker)
 

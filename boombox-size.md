@@ -913,7 +913,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - IP Rating: IPX5
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dQblSOGsdvg>
+    - [Jay's Straight Up Reviews & More: Earfun UBoom X (fw 0.39) vs Bugani Boost Max 🪟 On A Ledge Head to Head 💣Boombox Comparison.](https://www.youtube.com/watch?v=4iNZ6qL5E90)
+    - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
+    - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
 - Links
     - [Official Product Page](https://www.bugani-global.com/products/bugani-boost-max-portable-bluetooth-speaker)
 
