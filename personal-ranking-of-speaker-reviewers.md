@@ -32,14 +32,14 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #8 [Speaker Toni](https://www.youtube.com/@speakertoni2680)
 - Recording quality is okay but his analysis of speakers is quite accurate
 
-### #9 [JaysStraightUpReviews](https://www.youtube.com/@JaysStraightUpReviews)
+### #9 [techderaudios](https://www.youtube.com/@techderaudios)
+- Reasonable recordings. Good comparisons of a lot of speakers.
+
+### #10 [JaysStraightUpReviews](https://www.youtube.com/@JaysStraightUpReviews)
 - Recordings done with a Sony Xperia I IV cell phone, not great audio quality. Speakers are not volume matched properly. Song choices do not show bass extension or clarity well. Tends to prefer speakers that go louder or have more bass rather than ones with a good frequency response. Okay picks of some larger speakers. Likely the most recent speaker releases of any reviewer.
 
-### #10 [Jagistreviews](https://www.youtube.com/@Jagistreviews)
-- Reasonable recordings, good comparisons of a lot of speakers.
-
-### #11 [techderaudios](https://www.youtube.com/@techderaudios)
-- Reasonable recordings. Good comparisons of a lot of speakers.
+### #11 [Jagistreviews](https://www.youtube.com/@Jagistreviews)
+- Okay recordings likely recorded with a phone. Generally plays hiphop which isn't good for determining frequency response. Okay comparisons of a lot of speakers.
 
 ### #12 [pickyaudio](https://www.youtube.com/@pickyaudio)
 - Reasonable recordings. About the fairest reviews of speakers even with ones that are sponsored content. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
