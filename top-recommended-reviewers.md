@@ -32,6 +32,6 @@ Alan Ross's favorite [small/medium size](/small-medium-size/) speaker is the [**
 
 Alan Ross's favorite [large size](/large-size/) speaker is the [**$200 Marshall Stockwell 2**](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325)
 
-Alan Ross's favorite [boombox size](/boombox-size/) speaker is the [**#350 Harman Kardon Go+ Play 3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): 
+Alan Ross's favorite [boombox size](/boombox-size/) speaker is the [**$350 Harman Kardon Go+ Play 3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): 
 
 As an Amazon Associate I earn from qualifying purchases.
