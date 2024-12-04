@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trusted unbiased reviewers favorite speakers
+title: Top Recommended speakers from other reviewers
 comments: true
 ---
 
