@@ -10,7 +10,7 @@ This page lists the best portable Bluetooth speakers recommended by other top un
 
 For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#portable-speaker-rankings)
 
-### [Oluv](https://www.patreon.com/oluvsone/posts)
+### [Oluv](https://www.patreon.com/oluvsone/posts)'s speaker picks
 
 Oluv prefers a very neutral sound signature and has done the DSP design on the Earfun Uboom L and Earfun Uboom X which is why they are at the top of his list.
 
@@ -22,7 +22,7 @@ Oluv's favorite [large size](/large-size/) battery powered speaker is the [**$10
 
 Oluv's favorite [boombox size](/boombox-size/) battery powered speaker for deep bass with excellent sound quality, that can get loud for a party but can still be carried by hand is the [**$118 Earfun Uboom X**](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and code UBOOMXDR on the payment page). Make sure you install the app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)), update the firmware and select an Oluv EQ like Indoor.
 
-### [alanrossreviews](https://www.youtube.com/@alanrossreviews)
+### [alanrossreviews](https://www.youtube.com/@alanrossreviews)'s speaker picks
 
 Alan Ross has mentioned he prefers a slightly warm sound signature, and the speakers he selects do have some bias towards that but are still fairly neutral.
 
