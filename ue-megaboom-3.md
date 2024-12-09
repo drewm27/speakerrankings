@@ -25,7 +25,7 @@ While the UE Megaboom 3 boasts up to 20 hours of battery life, real-world use of
 The PartyUp feature, which allows pairing multiple UE speakers, is limited to UE-branded devices. This exclusivity can be frustrating if you own speakers from other brands and wish to create a multi-speaker setup.
 
 ### **Portability vs. Weight**
-While the UE Megaboom 3 is marketed as portable, it’s relatively bulky and heavy compared to other speakers in its category. If you’re looking for a speaker to take on the go, smaller alternatives like the [Earfun Ubomo L](/top-recommended/) might be more convenient.
+While the UE Megaboom 3 is marketed as portable, it’s relatively bulky and heavy compared to other speakers in its category. If you’re looking for a speaker to take on the go, smaller alternatives like the [Earfun Uboom L](/top-recommended/) might be more convenient.
 
 ### **Lack of Significant Upgrades**
 The UE Megaboom 3 doesn’t differ significantly from its predecessor, the Megaboom 2. If you already own the earlier model, upgrading to the Megaboom 3 might feel redundant as the changes are primarily cosmetic or minor feature enhancements.
