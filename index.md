@@ -34,9 +34,9 @@ Feel free to share this on Reddit or anywhere people could find it useful, thank
 
 ### Powered Bookshelf Speaker Rankings
 
-- [Powered Bookshelf Small Size Speakers](/bookshelf-small/): 5 speakers ranked
-- [Powered Bookshelf Medium Size Speakers](/bookshelf-medium/): 20 speakers ranked
-- [Powered Bookshelf Large Size Speakers](/bookshelf-large/): 13 speakers ranked
+- [Small Size Powered Bookshelf Speakers](/bookshelf-small/): 5 speakers ranked
+- [Medium Size Powered Bookshelf Speakers](/bookshelf-medium/): 20 speakers ranked
+- [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 13 speakers ranked
 
 ### Related Products
 

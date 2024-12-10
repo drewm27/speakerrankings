@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Powered Bookshelf Small Size Speakers
+title: Small Size Powered Bookshelf Speakers
 comments: true
 ---
 
