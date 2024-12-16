@@ -70,6 +70,8 @@ My degree is in Electrical Engineering and Computer science and I am quite famil
 - Infinity Reference One
 - DCM TimeFrame TF-350
 
+Currently working on another website [www.aiquickbuy.com](https://www.aiquickbuy.com/)
+
 Thanks,
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588/)
