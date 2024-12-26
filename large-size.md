@@ -6,7 +6,7 @@ comments: true
 
 ![Vifa Helsinki](/assets/img/helsinki.jpg)
 
-This page ranks 65 large size powered Bluetooth speakers. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 66 large size powered Bluetooth speakers. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
@@ -1046,7 +1046,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.laney.co.uk/lifestyle/laney-sound-systems/f67-lionheart)
 
-### #57 LG Xboom XG7: $120
+### #57 [Treblab HD-Max](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl): $135
+
+- Negatives: Boosted upper bass, not much lower bass
+- Battery Life: 20 hours
+- Weight: 5.1lbs / 2.3kg
+- Bass Extension: ~60hz
+- Power Bank: Yes
+- Power Input: USB-C
+- IP Rating: IPX7
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=eGbNZFEj8VM>
+- Links
+    - [Official Product Page](https://treblab.com/products/treblab-hd-max)
+
+### #58 LG Xboom XG7: $120
 
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 24 hours
@@ -1055,7 +1069,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg7qbk-portable-bluetooth-speaker)
 
-### #58 LG Xboom Go PL7: $70
+### #59 LG Xboom Go PL7: $70
 
 - Negatives: 9khz peak. Not good sounding.
 - Max Volume: 95db
@@ -1069,7 +1083,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl7-portable-bluetooth-speaker)
 
-### #59 Bugani M83: $60
+### #60 Bugani M83: $60
 
 - Positives: Very inexpensive.
 - Negatives: Not very deep bass, treble a little boosted
@@ -1079,7 +1093,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 
-### #60 Hopestar A6 Pro: $86
+### #61 Hopestar A6 Pro: $86
 
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - Bass Extension: 63hz (-10dB)
@@ -1094,7 +1108,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://hopestarshop.com/products/hopestar-a6-pro)
 
 
-### #61 Soundcore Trance/Rave Mega
+### #62 Soundcore Trance/Rave Mega
 
 - Negatives: Hugely recessed mids and treble
 - Max Volume: 97db
@@ -1107,7 +1121,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Soundcore Rave Neo vs Rave Mega - best party speaker 2021?](https://www.youtube.com/watch?v=ePD09iI6qkI)
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
 
-### #62 [Ortizan M8](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl): $70
+### #63 [Ortizan M8](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl): $70
 
 - Negatives: Not much bass, bass distortion and rattle at high volume.
 - Weight: 4.63lbs / 2.1kg
@@ -1117,7 +1131,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 
-### #63 Doss Extreme Boom
+### #64 Doss Extreme Boom
 
 - Negatives: Rolled off treble, barely any bass
 - Weight: 5.58lbs / 2.53kg
@@ -1132,7 +1146,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.dossaudio.com/products/extreme-boom)
 
-### #64 [Zealot S67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl): $80
+### #65 [Zealot S67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl): $80
 - Negatives: A lot of distortion above 50%, no deep bass, rolled off treble. Just not a good sounding speaker.
 - Weight: 5.29lbs / 2.4kg
 - Battery Life: 20 hours
@@ -1145,7 +1159,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
 
-### #65 [T&G 118](https://www.aliexpress.us/item/2255800259053891.html): $31
+### #66 [T&G 118](https://www.aliexpress.us/item/2255800259053891.html): $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
 - Weight: 2.42lbs / 1.1kg
 - Comparisons and Sound Samples
