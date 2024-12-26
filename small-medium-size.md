@@ -1762,7 +1762,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
 
-### #98 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl): $40
+### #98 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) and [Boat Stone 352](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB): $40
 
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass.
 - Bass Extension: 87hz (-10dB)
@@ -1775,7 +1775,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - Links
-    - [Official Product Page](https://parts-express.sjv.io/q4bNkj)
+    - [Official Product Page Dayton Audio Boost](https://parts-express.sjv.io/q4bNkj)
+    - [Official Product Page Boat Stone 352](https://www.boat-lifestyle.com/products/stone-352)
 
 ### #99 Harman Kardon Esquire 2: $200
 

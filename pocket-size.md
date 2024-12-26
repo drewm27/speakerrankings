@@ -458,7 +458,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
 
-### #22 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl): $20
+### #22 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl) and [Boat Stone 193](https://www.amazon.in/boat-stone-193-bluetooth-speaker/s?k=boat+stone+193+bluetooth+speaker): $20
 
 - Positives: The lightest speaker for the performance. The only lighter speaker is the Lenovo in last place
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off
@@ -476,7 +476,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - Power Input: USB-C
 - Links
-    - [Official Product Page](https://parts-express.sjv.io/DKX1Ba)
+    - [Official Product Page Dayton Audio Boost Mini](https://parts-express.sjv.io/DKX1Ba)
+    - [Official Product Page Boat Stone 193](https://www.boat-lifestyle.com/products/stone-193-portable-speaker)
 
 ### #23 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325): $60
 
