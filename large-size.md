@@ -1056,7 +1056,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=eGbNZFEj8VM>
+    - [KosherTech: TREBLAB HD-Max In Depth Review - Unboxing & Sound Test](https://www.youtube.com/watch?v=eGbNZFEj8VM)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd-max)
 
