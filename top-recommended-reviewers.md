@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top Recommended Speakers From Other Reviewers
+title: Top Recommended Speakers From Other Top Reviewers
 comments: true
 ---
 
