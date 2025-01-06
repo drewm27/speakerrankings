@@ -920,7 +920,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://demerbox.com/collections/db2-speakers)
 
 
-### #43 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325): $190
+### #43 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325): $140
 
 - Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
 - Max Volume: 110db
