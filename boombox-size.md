@@ -929,8 +929,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Latency: 160ms
 - Aux Latency: 16ms
+- Microphone Input: Yes
+- Guitar Input: Yes
 - TWS: Yes
+- Aux Input: Yes
 - Stereo: Partially
+- IP Rating: IPX4
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
     - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)
