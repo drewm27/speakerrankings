@@ -1284,6 +1284,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.95lbs / 429g
 - Wifi: Yes
 - Battery Life: 10 hours
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mbYsxgScTz8>
     - [Alan Ross Reviews: Sonos Roam Review and specs - vs maxsound plus, soundcore boost and others! 👍](https://www.youtube.com/watch?v=R29TwFZmuNA)
@@ -1300,6 +1301,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Wifi: No
 - IP Rating: IPX7
+- Stereo: Partially
 - Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Charge 5 vs Tronsmart Mirtune S100 - Sound Comparison💥🔥](https://www.youtube.com/watch?v=jfB1dUCEsGQ)
 - Links
@@ -1315,6 +1317,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.84lbs / 380g
 - Battery Life: 24 hours
 - Aux Input: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)
     - <https://www.youtube.com/watch?v=SSla-paxi14>
@@ -1328,6 +1331,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.97lbs / 440g
 - Battery Life: 10 hours
 - Aux Input: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Tribit XSound Surf vs. XSound Go (Upgraded Model) Bluetooth Speaker Sound Comparison.](https://www.youtube.com/watch?v=7vXafwDd3Z0)
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
@@ -1347,6 +1351,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - IP Rating: IPX7
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/tribit-stormbox-109758019>
     - [Alan Ross Reviews: Tribit Stormbox 2 - wow is this deliberate? 🤔](https://www.youtube.com/watch?v=req2-T3W2xo)
@@ -1359,6 +1364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.70lbs / 318g
 - Battery Life: 24 hours
 - Aux Input: Yes
+- Stereo: Yes
 - Comparisons and Sound Samples
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
     - [SoulOfTech: Anker SoundCore 2 2021 Review and Sound Test - Best Budget Bluetooth Speaker](https://www.youtube.com/watch?v=bLi4fsS23Do)
@@ -1372,6 +1378,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB
+- Stereo: No
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: UE Megaboom 3 review vs JBL Charge 5 & Motion Boom! how bad can it be??](https://www.youtube.com/watch?v=I114oDubbic)
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
@@ -1387,6 +1394,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 166ms
 - Battery Life: 14 hours
 - Power Input: Micro USB
+- Stereo: No
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
     - [Jay's Straight Up Reviews & More: JBL Flip 6 vs Ultimate Ears Wonderboom 3 (Indoor Mode)⚔️ Battle of the Handheld Bluetooth Speakers.](https://www.youtube.com/watch?v=KjIvKngB10M)
@@ -1403,6 +1411,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.92lbs / 420g
 - Battery Life: 12 hours
 - Power Input: Micro USB
+- Stereo: No
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
     - [Alan Ross Reviews: UE Wonderboom 2 review and sound test - vs Flip 5 - Flip 4](https://www.youtube.com/watch?v=EXMSGwFcTZI)
@@ -1413,6 +1422,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 0.94lbs / 425g
 - Battery Life: 10 hours
 - Power Input: Micro USB
+- Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=u-Mvo52ozoU>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
@@ -1427,6 +1437,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - App: Yes
 - IP Rating: IP67
+- Stereo: Yes
 - Comparisons and Sound Samples
     - [Cameron Dougherty Tech: UE Boom 4: A Comprehensive Review](https://www.youtube.com/watch?v=lwyO-KbUvvo)
 - Links
@@ -1441,6 +1452,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB
+- Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
