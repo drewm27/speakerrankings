@@ -335,6 +335,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Weight: 4.9lbs / 2.2kg
 - Built in Microphone: No
+- Latency: 116ms
+- Aux Latency: 33ms
 - Power Bank: Yes
 - App: Yes
 - Aux Input: No
