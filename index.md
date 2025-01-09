@@ -15,6 +15,8 @@ Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great 
 
 Feel free to share this on Reddit or anywhere people could find it useful, thanks!
 
+Looking for summarized reviews about products besides speakers? Take a look at [summarizereviews.com](https://www.summarizereviews.com/)
+
 ### Top Recommended Speakers
 
 - [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
