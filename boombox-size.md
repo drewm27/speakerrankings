@@ -309,7 +309,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-7-.html)
 
-### #12 [Brane X](https://shop.braneaudio.com/products/brane-x-smart-speaker): $600
+### #12 [Brane X](https://shop.braneaudio.com/products/brane-x-smart-speaker): $500
 - Positives: Very deep bass, likely some of the deepest from this category
 - Negatives: Boosted upper bass ~120hz, rolled off treble, nearly 10db up top so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements.
 - Battery Life: 12 hours
