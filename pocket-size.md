@@ -367,6 +367,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: Yes
 - EQ: Yes
 - TWS: No
+- Aux Input: No
 - Party Mode: Yes (Auracast)
 - IP Rating: IP67
 - Power Input: USB-C
