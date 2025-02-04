@@ -106,6 +106,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 100ms
 - Aux Latency: 17ms
 - Aux Input: Yes
+- Wireless Microphones: Yes
 - Power Bank: Yes
 - IP Rating: IPX4
 - USB Playback: Yes
@@ -962,6 +963,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 150ms
 - Aux Latency: 0ms
 - Aux Input: Yes
+- Wireless Microphones: Yes
 - MicroSD: Yes
 - Power Bank: Yes
 - IP Rating: None

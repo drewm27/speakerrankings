@@ -22,6 +22,7 @@ Looking for summarized reviews about products besides speakers? Take a look at [
 - [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
 - [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
 - [The Best Portable Bluetooth Speakers For Bass](/top-recommended-bass/)
+- [The Best Portable Speakers With Microphone Input](/top-recommended-microphone/)
 - [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 - [The Best Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
 - [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
