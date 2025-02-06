@@ -18,6 +18,7 @@ def youtubeid_to_title(ytid):
     description = data['items'][0]['snippet']['channelTitle'] + ': ' + data['items'][0]['snippet']['title']
     return description.replace('|', '')
 
+doYoutubeLookup = True
 current_datetime = datetime.now()
 regex = re.compile(' [0-9][0-9]* ')
 for file in os.listdir():
@@ -41,14 +42,14 @@ for file in os.listdir():
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
                     else:
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
-                #elif re.match('^    - <https://www.youtube.com/watch', line):
-                #    try:
-                #        ytid = line.split('=')[1].split('>')[0]
-                #        description = youtubeid_to_title(ytid)
-                #        line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
-                #    except:
-                #        print('Error fetching info for ' + ytid + '\n')
-                #    newline = line
+                elif doYoutubeLookup == True and re.match('^    - <https://www.youtube.com/watch', line):
+                    try:
+                        ytid = line.split('=')[1].split('>')[0]
+                        description = youtubeid_to_title(ytid)
+                        line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
+                    except:
+                        print('Error fetching info for ' + ytid + '\n')
+                    newline = line
 
                 else:
                     newline = line         
