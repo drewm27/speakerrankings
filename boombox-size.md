@@ -37,7 +37,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Audiophile housewife: Tribit Stormbox Blast vs Earfun UBoom X, a PROPER sound test 😎](https://www.youtube.com/watch?v=Q3Wge2qf3xc)
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
+    - [Audiophile housewife: 🎃🔥 UBoom X - Halloween Rock Special 🎸🤘](https://www.youtube.com/watch?v=_Dqt64zNjPM)
     - [Mateusz Cholewa: EarFun UBOOM X Deep Bass 🆚 Tribit Stormbox Blast🎶Review👌](https://www.youtube.com/watch?v=R96XSoGD1_4)
+    - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)
+    - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
+    - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
+    - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: outdoors](https://www.youtube.com/watch?v=df-IGT1k1KI)
+    - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: indoors](https://www.youtube.com/watch?v=A9kE4-gpzBk)
+    - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
+    - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
@@ -117,7 +125,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (3 band)
 - Stereo: Partially (1 Woofer)
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
+    - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: outdoors](https://www.youtube.com/watch?v=df-IGT1k1KI)
+    - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: indoors](https://www.youtube.com/watch?v=A9kE4-gpzBk)
     - [Alan Ross Reviews: This changed my opinion on JBL speakers!](https://www.youtube.com/watch?v=sXG-ciWFf60)
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
     - [True Techy: BOSE S1 Pro vs JBLPartybox ENCORE This Comparison SHOCKED me!!!](https://www.youtube.com/watch?v=WdmB0w0W7e4)
@@ -433,10 +442,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Power Input: AC Power Cable or 10w USB-C
 - Comparisons and Sound Samples
-  - <https://www.youtube.com/watch?v=XWp-Ru2YwsE>
-  - <https://www.youtube.com/watch?v=5Xv2-HK_4_o>
-  - <https://www.youtube.com/watch?v=9ZDpHCDzpfc>
-  - <https://www.youtube.com/watch?v=IBMLaMH1IWU>
+    - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
+    - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
+    - [Alan Ross Reviews: Tribit Stormbox Blast 2 review - fun fun fun! sometimes 😊](https://www.youtube.com/watch?v=XWp-Ru2YwsE)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs JBL Boombox 3 🔊 Got Bass? Let's See How They Compare 😲 Battery Powered 🔋](https://www.youtube.com/watch?v=9ZDpHCDzpfc)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs Blast 😲 A Family Feud 🚗 Tailgater Special 🔋 Battery Powered 🎶 Old vs New](https://www.youtube.com/watch?v=IBMLaMH1IWU)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
 
@@ -591,6 +602,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
+    - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)
     - [techkiste.net: B&O Beolit 20 vs Vifa Copenhagen 2.0 sound-comparison with different music-genres](https://www.youtube.com/watch?v=OTy29qPeIcI)
     - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
     - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
@@ -897,7 +909,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Stereo: Yes
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=46QtNAbtFyU>
+    - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
     - [Alan Ross Reviews: Tribit Stormbox Blast Review vs Soundcore Motion Boom Plus - cheap bass!](https://www.youtube.com/watch?v=aSK4-UlbE-0)
     - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
@@ -1011,6 +1023,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - Stereo: Yes
 - Comparisons and Sound Samples
+    - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
 

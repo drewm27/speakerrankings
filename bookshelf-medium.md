@@ -53,6 +53,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: KEF LSX  vs  Neumann KH80 DSP   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=M1SjysuzN0w)
     - [DSAUDIO.review: Adam Audio A3X vs Neumann KH80 DSP Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=sur8aYvYUOg)
     - [DSAUDIO.review: Neumann KH80 DSP vs KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=PyRYDE3Skd8)
+    - [Audiophile housewife: 🎃🔥 UBoom X - Halloween Rock Special 🎸🤘](https://www.youtube.com/watch?v=_Dqt64zNjPM)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-80-dsp-a-g/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh-80-dsp-monitor-review.11018/)

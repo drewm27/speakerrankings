@@ -38,7 +38,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
+    - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - <https://www.youtube.com/watch?v=PVldZEwR2zg>
     - <https://www.youtube.com/watch?v=5LUd0Mj5HhQ>
@@ -73,7 +73,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - IP Rating: IPX7
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=6GtVMMbOt6c>
+    - [Audiophile housewife: Bose Soundlink Flex 2nd gen & Soundcore Motion 300 sound test](https://www.youtube.com/watch?v=SyaGa3I53zM)
     - [Alan Ross Reviews: Travel Speakers! Soundcore Motion 300 or Bose Flex or Tribit Stormbow Flow](https://www.youtube.com/watch?v=Uz07wPZTfzk)
     - <https://www.youtube.com/watch?v=_4S4b5jsagM>
     - [Alan Ross Reviews: Soundcore Motion 300 or JBL Flip 6 or Soundcore Boost v2? we all have issues!](https://www.youtube.com/watch?v=929FIaHlbeI)
@@ -670,8 +670,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/bose-soundlink-114024442>
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
+    - <https://www.patreon.com/posts/bose-soundlink-114024442>
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
@@ -693,8 +693,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: No
 - Comparisons and Sound Samples
+    - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
     - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
-    - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
+    - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
     - <https://www.youtube.com/watch?v=6GtVMMbOt6c>
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
@@ -857,7 +858,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
-    - [Audio y Mas *🔊: Altavoces JBL Flip 6 vs W-King D320: ¿Cuál es el mejor en calidad de sonido? 🔊](https://www.youtube.com/watch?v=3zEtJi4u-F8)
+    - [Audio y Mas 🔊: Altavoces JBL Flip 6 vs W-King D320: ¿Cuál es el mejor en calidad de sonido? 🔊](https://www.youtube.com/watch?v=3zEtJi4u-F8)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/w-king-d320-40w-portable-speaker)
 
@@ -1127,6 +1128,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
+    - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - <https://www.patreon.com/posts/beats-pill-2024-114092056>
     - [DailyTekk: NEW Beats Pill First Impressions & Sound Test - Worth $149?](https://www.youtube.com/watch?v=Y8N22lZDQJ8)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
