@@ -615,7 +615,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #30 [Muzen Wild Mini](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl): $75
 - Negatives: Not much bass at all. Not very loud. Only IPX5, not submersible. Short battery life.
 - Bass Extension: ~90hz (-10dB)
-- Weight: 0.41lbs / 187g
+- Weight: 0.55lbs / 248g
 - Battery Life: 8 hours
 - Power Input: USB-C
 - IP Rating: IPX5
