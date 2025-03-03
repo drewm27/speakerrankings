@@ -1049,13 +1049,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #57 [Treblab HD-Max](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl): $135
 
-- Negatives: Boosted upper bass, not much lower bass
+- Negatives: Boosted upper bass, not much lower bass. Only IPX6 water rating
 - Battery Life: 20 hours
 - Weight: 5.1lbs / 2.3kg
 - Bass Extension: ~60hz
 - Power Bank: Yes
 - Power Input: USB-C
-- IP Rating: IPX7
+- IP Rating: IPX6
 - Comparisons and Sound Samples
     - [KosherTech: TREBLAB HD-Max In Depth Review - Unboxing & Sound Test](https://www.youtube.com/watch?v=eGbNZFEj8VM)
 - Links
