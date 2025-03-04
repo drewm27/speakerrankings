@@ -43,6 +43,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Alkar Audio: Speaker Bluetooth Marshall Willen Review VS Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=tyFvllnBeSM)
     - [MyTechAudio: MARSHALL WILLEN Detail Review Indonesia Vs TRIBIT Micro 1 & Micro 2](https://www.youtube.com/watch?v=X7NlGAQBk0s)
     - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
+    - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)

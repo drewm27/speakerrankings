@@ -39,6 +39,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
+    - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - <https://www.youtube.com/watch?v=PVldZEwR2zg>
     - <https://www.youtube.com/watch?v=5LUd0Mj5HhQ>

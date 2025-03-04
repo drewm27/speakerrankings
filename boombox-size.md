@@ -47,6 +47,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: indoors](https://www.youtube.com/watch?v=A9kE4-gpzBk)
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
+    - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
