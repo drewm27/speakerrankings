@@ -178,6 +178,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX7
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Comparisons and Sound Samples
+    - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
     - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
@@ -345,6 +346,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Power Input: USB-C
 - Comparisons and Sound Samples
+    - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Alan Ross Reviews: Bose Max, the worlds most overpriced speaker? its a shocker!](https://www.youtube.com/watch?v=cdWyfbtLVvQ)
     - <https://www.youtube.com/watch?v=OoMKjAEGFMs>
     - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs. Ultimate Ears EpicBoom 🤑Big Bucks No Whammies? 💣 Let's Find Out 😧](https://www.youtube.com/watch?v=GnSjq7JxJ-Q)
