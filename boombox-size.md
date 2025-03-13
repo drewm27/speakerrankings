@@ -231,6 +231,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Battery Life: 12 hours
 - Weight: 7.8lbs / 3.5kg
+- Max Volume: 106db
 - Bass Extension: 31hz (-10dB)
 - Latency: 100ms
 - Wifi: Yes
