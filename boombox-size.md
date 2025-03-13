@@ -335,6 +335,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP57
 - Stereo: Yes
 - Comparisons and Sound Samples
+    - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
     - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links
