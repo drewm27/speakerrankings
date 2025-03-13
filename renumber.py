@@ -18,7 +18,7 @@ def youtubeid_to_title(ytid):
     description = data['items'][0]['snippet']['channelTitle'] + ': ' + data['items'][0]['snippet']['title']
     return description.replace('|', '')
 
-doYoutubeLookup = True
+doYoutubeLookup = False
 current_datetime = datetime.now()
 regex = re.compile(' [0-9][0-9]* ')
 for file in os.listdir():
