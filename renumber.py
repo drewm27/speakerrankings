@@ -2,6 +2,7 @@
 
 import os
 import re
+import json
 import requests
 from datetime import datetime
 
@@ -18,7 +19,12 @@ def youtubeid_to_title(ytid):
     description = data['items'][0]['snippet']['channelTitle'] + ': ' + data['items'][0]['snippet']['title']
     return description.replace('|', '')
 
-doYoutubeLookup = True
+try:
+    with open('youtubeLookup.json') as f:
+        youtubeLookup = json.load(f)
+except:
+    youtubeLookup = {}
+
 current_datetime = datetime.now()
 regex = re.compile(' [0-9][0-9]* ')
 for file in os.listdir():
@@ -42,13 +48,15 @@ for file in os.listdir():
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
                     else:
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
-                elif doYoutubeLookup == True and re.match('^    - <https://www.youtube.com/watch', line):
+                elif re.match('^    - <https://www.youtube.com/watch', line):
                     try:
                         ytid = line.split('=')[1].split('>')[0]
-                        description = youtubeid_to_title(ytid)
-                        line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
+                        if ytid not in youtubeLookup: 
+                            description = youtubeid_to_title(ytid)
+                            line = '    - [' + description + '](https://www.youtube.com/watch?v=' + ytid + ')\n'
                     except:
                         print('Error fetching info for ' + ytid + '\n')
+                        youtubeLookup[ytid] = False
                     newline = line
 
                 else:
@@ -56,6 +64,9 @@ for file in os.listdir():
                 f.write(newline)
         if number > 0:
             countfile[file] = number
+
+with open('youtubeLookup.json', 'w') as f:
+    f.write(json.dumps(youtubeLookup, indent=4, sort_keys=True))
 
 with open('index.md') as f:
     lines = f.readlines()
