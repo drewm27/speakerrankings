@@ -211,7 +211,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
-    - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
+    - [DSAUDIOreview: IK Multimedia  iLoud MTM  vs  iLoud Micro    Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tdZ9gPdXjZI)
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=pUirqMFmyVw)
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Edifier S3000 Pro   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=QFWrTMH5hIQ)
     - [DSAUDIO.review: Neumann KH80 DSP  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=uAR19TSCt_I)

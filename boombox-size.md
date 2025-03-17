@@ -1234,7 +1234,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
-    - <https://www.youtube.com/watch?v=y9aCDZW6I_8?t=392>
+    - [Risk Profile: TurtleBox Demo  Risk Profile Podcast](https://www.youtube.com/watch?v=y9aCDZW6I_8)
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
     - [Turtlebox Audio: Turtlebox Gen 2 - Live Sound Demo](https://www.youtube.com/watch?v=tFuilFzXh0Y)
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)

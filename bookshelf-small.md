@@ -44,7 +44,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs iLoud Micro Monitor  sound.DEMO](https://www.youtube.com/watch?v=eNBQXkxIJNc)
-    - <https://www.youtube.com/watch?v=tdZ9gPdXjZI?>
+    - [DSAUDIOreview: IK Multimedia  iLoud MTM  vs  iLoud Micro    Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tdZ9gPdXjZI)
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/iloud-micro-monitors-measurements-and-quasi-anechoic-spinorama.10988/)
