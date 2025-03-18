@@ -189,7 +189,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: New Release! Soundcore Boom 2 😯 Bluetooth Boombox Speaker 🔊 Unboxing, First Look & Sound Demo](https://www.youtube.com/watch?v=-zdbjsl730U)
     - [CEONTHEMAKING: Soundcore Boom 2 - HANDS DOWN The Best Speaker Under $150!](https://www.youtube.com/watch?v=AU3Xvf5JyQY)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/vNk6PW)
+    - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fboom2-bluetooth-speaker-for-bass&cjsku=A3138011)
 
 ### #8 [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325): $200
 
@@ -261,7 +261,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W-King X10 (70w) vs Soundcore Motion Boom (30w) - value for money? 🤑](https://www.youtube.com/watch?v=t66JKkidpt8)
     - [Alan Ross Reviews: Ultimate Soundcore Boom 2 Review - Is It Worth The Hype?](https://www.youtube.com/watch?v=R3fLkaez35A)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/KjmgL7)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom&cjsku=A3118011)
 
 ### #11 [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325): $80
 
@@ -426,7 +426,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Craziest firmware update ever - Soundcore Motion X600 3.2.8/4.2.8 🤦‍♀️](https://www.youtube.com/watch?v=CcWVYKNK7sE)
     - <https://www.patreon.com/posts/soundcore-motion-95038563>
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/EK126D)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x600-a3130011&cjsku=A3130011)
 
 ### #19 [Soundcore Rave Neo 2](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325): $130
 
@@ -450,6 +450,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Technoid: Soundcore Rave Neo 2 Review - Get the Grill & Pool Ready!!](https://www.youtube.com/watch?v=nmVpaJCrKCI)
     - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)
+- Links
+    - [Official Product Page](https://support.soundcore.com/s/product/a085g000004yodHAAQ/rave-neo-2)
 
 ### #20 [Teufel Rockster Cross](https://www.amazon.com/Teufel-ROCKSTER-Portable-Wireless-Bluetooth/dp/B0D2P8JRFY?crid=34BUMF0HID77P&dib=eyJ2IjoiMSJ9.H0hxgBkiNdb5tzXaHf7AEE4DsqmNraQf3BWew8t1dtBMRS5_nVa1qkGv_SNfUPu54Ls2z1bhONbw4Gn_Ys2Ml5C_Ww2Hjs3wW2eyVO13Fig9ka60gB2vPU-VZZifGoj53cq4A-hAmJr-CXCKkUUnwSMhOMNQl_0OxKptCyTA8QyZNJa7K-3c3aFOiqGVBR9xWvUS9zYuoqgrDAdlddKThqKwK4szLFw3Fpsqgb7ICcCRfKZTJA4sSrsx7P-Wih4TbbEjc81uFsW4cTwp1wXZhgbiE6PfQ6HHD7p8far86Vg.yYrLtxtHuL_HAGRAJb1pwRCgmovLHD-xjrtG8VVlfes&dib_tag=se&keywords=teufel&qid=1739316042&s=electronics&sprefix=teufel%2Celectronics%2C182&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ef97f52cd1221c152738712931f14a0&language=en_US&ref_=as_li_ss_tl): $180
 
@@ -487,7 +489,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Longest I have ever been, and I don't care who sees it! ❤](https://www.youtube.com/watch?v=ugvcTMDt-bM)
 - Links
-    - [Official Product Page](https://www.soundcore.com/products/motion-x500-a3131011)
+    - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-x500-a3131011)
 
 ### #22 [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325): $450
 

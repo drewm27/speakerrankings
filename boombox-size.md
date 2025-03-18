@@ -479,7 +479,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/wireless-speakers/d12)
 
-### #19 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl): $200 or $200 after coupon at [Soundcore.com](https://soundcore.sjv.io/Or7BxP) (Coupon code US: WS7DV2ZCV4RW until 9/15)
+### #19 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl): $200 
 - Positives: Quite a bit lighter than most of the other boombox size speakers. This speaker will likely move up as we get a good EQ tune that makes it a lot more neutral.
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - Weight: 8.4lbs / 3.8kg
@@ -506,7 +506,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: Soundcore Boom 2 Plus Showcase - Lots Of Bass In A Small Package](https://www.youtube.com/watch?v=uhkRccBkVuk)
     - [EL JEFE REVIEWS: Soundcore Boom 2 Plus 💥 BIGGER & BADDER!](https://www.youtube.com/watch?v=RBYF_I7TcZU)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/Or7BxP)
+    - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3134-boom2-plus-outdoor-bass-speaker&cjsku=A3134031)
 
 ### #20 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl): $300
 
@@ -922,7 +922,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Stormbox Blast Review vs Soundcore Motion Boom Plus - cheap bass!](https://www.youtube.com/watch?v=aSK4-UlbE-0)
     - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/R5qKrv)
+    - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom-plus&cjsku=A3129011)
 
 ### #42 [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl): $40 after clipped coupon
 - Positives: Completely insane value for the money. Comes with 2 metal body wireless microphones that are USB-C chargeable. Comes with Chinese labeled infrared remote control. Has voice delete function that works quite well. Adjustable microphone reverb. Pretty good build quality. The default EQ is the most balanced, the other two sound muffled.

@@ -84,7 +84,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/soundcore-motion-93321960>
     - <https://www.patreon.com/posts/soundcore-motion-94933573>
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/Or0zQZ)
+    - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135061)
 
 ### #3 [Soundcore Motion+](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325): $80 after $20 coupon
 
@@ -116,7 +116,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/k0EVK0)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
 
 ### #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325): $60
 
@@ -795,7 +795,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/soundcore-motion-94092689>
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/AWZLz7)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-100-a3133011)
 
 ### #35 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325): $90
 
@@ -862,7 +862,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/Y9PLAr)
+    - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa3166011
 
 ### #39 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325): $64
 
@@ -1051,7 +1051,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Soundcore Boost vs Soundcore 3 - Best small bluetooth speaker❓](https://www.youtube.com/watch?v=SxJTZDCiw7g)
     - [HQ AUDIO Exchange: Anker SoundCore 3  Vs. SoundCore Select 2 Bass Sound Test](https://www.youtube.com/watch?v=XpkitJveFlc)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/Y9eWOj)
+    - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3117011&cjsku=A3117011)
 
 ### #49 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325): $200
 
@@ -1406,6 +1406,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
     - [SoulOfTech: Anker SoundCore 2 2021 Review and Sound Test - Best Budget Bluetooth Speaker](https://www.youtube.com/watch?v=bLi4fsS23Do)
+- Links
+    - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-2&cjsku=A3105016)
 
 ### #70 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325): $163
 

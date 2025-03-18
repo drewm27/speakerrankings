@@ -177,7 +177,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
-    - [Official Product Page](https://soundcore.sjv.io/R5MR1b)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fa3119011)
 
 ### #8 [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325): $80
 
@@ -248,7 +248,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
-    - [Official Product Page](https://www.soundcore.com/au/products/soundcore-mini)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-mini&cjsku=A3101111)
 
 ### #12 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325): $120
 
@@ -415,7 +415,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
-    - [Official Product Page](https://www.soundcore.com/au/products/a31x1)
+    - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa31x1)
 
 ### #20 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl): $50
 
