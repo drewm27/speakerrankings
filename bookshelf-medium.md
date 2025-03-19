@@ -316,12 +316,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #17 [Edifier MR4](https://www.amazon.com/Edifier-Powered-Monitor-Speakers-Near-Field/dp/B09FXG9BLR?hvadid=563758605815&hvpos=&hvnetw=g&hvrand=14996373029609059198&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1568283915325&mcid=28c0999faba234ceb23ef1aa48dd74d2&gclid=Cj0KCQjw_qexBhCoARIsAFgBletx4GmVvrMFl0mV7uef4xbb9oX-_Sk15dfsugflQcPoJmZZNZKd9-4aAtZuEALw_wcB&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3e40828e354ff5d2dda767b7da2c3a53&language=en_US&ref_=as_li_ss_tl): $130 a pair
 - Positives: More balanced than the R1280DB. The value king.
+- Negatives: No Bluetooth unlike other Edifier models
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Dimensions: 9.0"H x 5.5"W x 7.6"D
 - Weight: 9.9lbs / 4.5kg
 - Watts: 42w RMS Per Speaker
 - Woofer Size: 4"
-- Inputs: Bluetooth, 1/4" Balanced, RCA, Aux
+- Inputs: TRS Balanced, RCA, Aux
 - Outputs: Headphone
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
