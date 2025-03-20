@@ -18,7 +18,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #1 [B&W Zeppelin](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHF64S9D?crid=2W81XEK9D0LM8&dib=eyJ2IjoiMSJ9.S6bk6XSBAf7cIq_vSJJMEBfYoG_dy5nLbtOzJ-do-c7W96yad6ZNZKxGh9n8TGxSSZUagFP-v4IRjw1Or-s4ushnk2ElH8FaKCjfx-1DO56_qsdXz-LGpOknt3Kkr1ouW1-LFIOFCPLTQ_jRUg0Ofk3hvjW5K2l1jvuslkxLtvStn4S02s63zRXyJuCg6l6NRVpjWQ7oGvntqK4jw6_vQBNHyYWaiP2mb40yPtASCsw.vQcaDRXIKxPrKf03cF8NgJSo5nuh-TXsJjt8mToWpIQ&dib_tag=se&keywords=bw%2Bzeppelin&qid=1742483625&sprefix=BW%26%2Bzep%2Caps%2C249&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=997baac3b1c44cb5dd960ca9c826a318&language=en_US&ref_=as_li_ss_tl): $800
 - Positives: Amazingly neutral, quite a wide soundstage due to the width. Bass extension deeper than all others in category.
-- Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker.
+- Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/bookshelf-top-recommended/) instead which will have even better soundstage.
 - Weight: 14.3lbs / 6.5kg
 - Bass Extension: ~32Hz (-10dB)
 - Battery Life: No battery
