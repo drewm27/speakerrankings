@@ -62,7 +62,7 @@ My degree is in Electrical Engineering and Computer science and I am quite famil
 - AV123 Rocket RSC200
 - 2x AV123 Rocket RS450 with risers
 - Hsu Research VTF-3 mk3
-- 4x B&W 702s2
+- 4x B&W 602s2
 - B&W CC6
 - B&W ASW750
 - NHT Sub Zero
