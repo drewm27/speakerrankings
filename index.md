@@ -5,15 +5,13 @@ title: Speaker Ranking
 
 ![Earfun Uboom L and Earfun Uboom X](/assets/img/uboomluboomx.jpg)
 
-Speaker Ranking ranks a total of 376 battery powered Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific tastes. It also contains the most neutral EQ tuning and setup for each speaker if possible.
+Speaker Ranking ranks a total of 376 battery powered Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific tastes. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. It also contains the most neutral EQ tuning and setup for each speaker if possible.
 
 These rankings were assembled in the same way a person would do deep research. Find the [best unbiased reviewer comparisons and sound samples](/personal-ranking-of-speaker-reviewers/) then take all of that information and piece together the full rankings of all speakers. This type of research can easily take months of watching YouTube videos, reading reviews and specs. I did all that work and wrote these rankings so you can easily understand the entire speaker market in minutes. All the videos and information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer. 
 
 The top picks on this website are the same ones that unbiased reviewers who value neutral speakers like [Oluv and Alan Ross](/top-recommended-reviewers/) also highly recommend.
 
-Also, don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings.
-
-Feel free to share this on Reddit or anywhere people could find it useful, thanks!
+Feel free to share this anywhere people could find it useful, thanks!
 
 Looking for summarized reviews about products besides speakers? Take a look at [summarizereviews.com](https://www.summarizereviews.com/)
 
