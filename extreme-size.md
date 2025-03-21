@@ -492,7 +492,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)
     - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
 - Links
-    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-4)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-15624888)
 
 ### #21 [Soundboks 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325): $699
 
@@ -518,7 +518,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
 - Links
-    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-3-refurbished)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-15571488)
 
 ### #22 [Soundboks 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325): $550
 
@@ -575,7 +575,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
     - [GYMCADDY: Soundboks Go Vs JBL Boombox 2 Vs UE Hyperboom Vs Sony XG500](https://www.youtube.com/watch?v=5NzYJL9jvS8)
 - Links
-    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-go)
+    - [Official Product Page](https://www.tkqlhce.com/click-101389079-15571491)
 
 ### #25 Audiocase S10: $892
 
