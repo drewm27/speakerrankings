@@ -248,7 +248,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/copenhagen-2-0)
 
-### #9 [Brane X](https://shop.braneaudio.com/products/brane-x-smart-speaker): $500
+### #9 [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl): $500
 - Positives: Very deep bass, some of the deepest from this category. Medium bass boost is the most balanced.
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Battery Life: 12 hours
