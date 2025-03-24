@@ -23,11 +23,11 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #5 [M1MTechChannel](https://www.youtube.com/@M1MTechChannel)
 - Good recording quality, good comparisons of a lot of bigger speakers. All videos in German.
 
-### #6 [Mateusz Cholewa](https://www.youtube.com/@Audiotest515)
-- Good recording quality
-
-### #7 [Dominik Reviews](https://www.youtube.com/@DominikReviews)
+### #6 [Dominik Reviews](https://www.youtube.com/@DominikReviews)
 - Good recording quality. Some discussion about which is the better speaker in the comments.
+
+### #7 [Mateusz Cholewa](https://www.youtube.com/@Audiotest515)
+- Decent recording quality
 
 ### #8 [DLXWillington](https://www.youtube.com/@DLXWillington)
 - Reasonable recordings, good picks of larger speakers. Looks to have been sponsored by Soundcore for the Motion 300 and Motion X600 videos that he made as there are no comparisons and just push features. Appears to have moved on from speaker reviews to reviews of other tech products.
