@@ -509,8 +509,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
+    - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
+    - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 
@@ -675,6 +677,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (5 band)
 - Aux Input: No
 - Comparisons and Sound Samples
+    - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - <https://www.youtube.com/watch?v=bhmzGxlSBds>
     - <https://www.youtube.com/watch?v=urmp76qTSlE>
     - <https://www.patreon.com/posts/jbl-xtreme-4-99560848>

@@ -51,7 +51,7 @@ Looking for summarized reviews about products besides speakers? Take a look at [
 
 - [Information About the Rankings](/information-about-the-rankings/)
 - [Information Applying to All Speakers](/information-applying-to-all-speakers/)
-- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 40 reviewers ranked
+- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 41 reviewers ranked
 - [Comments and Suggestions](/comments-suggestions/)
 - [Speakers to be Added](/speakers-to-be-added/)
 - [Issues I'm Working On](/issues-im-working-on/)
