@@ -35,6 +35,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - Aux Input: Yes
 - Built in Microphone: Yes
+- Bluetooth Codecs: AAC, SBC
 - Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
@@ -71,6 +72,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - TWS: Yes
 - Built in Microphone: Yes
+- Bluetooth Codecs: LDAC, SBC
 - Aux Input: No
 - IP Rating: IPX7
 - Comparisons and Sound Samples
@@ -105,6 +107,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Aux Input: Yes
 - Power Input: USB-C
+- Bluetooth Codecs: aptX, SBC
 - IP Rating: IPX7
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
@@ -137,6 +140,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - Power Input: USB-C
 - App: Yes
+- Bluetooth Codecs: SBC
 - EQ: Yes
 - IP Rating: IPX7
 - Comparisons and Sound Samples
@@ -189,6 +193,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes (Bluetooth or cable)
 - Aux Input: Yes
 - Power Input: USB-C
+- Bluetooth Codecs: AAC, SBC
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
@@ -213,6 +218,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - Aux Input: Yes
 - Power Input: Proprietary USB cable
+- Bluetooth Codecs: aptX, AAC, SBC
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>

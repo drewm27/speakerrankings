@@ -31,6 +31,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: No
 - Built in Microphone: Yes
 - IP Rating: IP67
+- Bluetooth Codecs: SBC
 - Stereo: No
 - Power Input: USB-C
 - Comparisons and Sound Samples
@@ -66,6 +67,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Power Input: Proprietary USB cable
 - Stereo: No
+- Bluetooth Codecs: aptX, AAC, SBC
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
@@ -91,6 +93,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Power Input: Proprietary USB cable
 - Stereo: No
+- Bluetooth Codecs: aptX, SBC
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
@@ -112,6 +115,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - Power Input: USB-C
 - IP Rating: IP67
+- Bluetooth Codecs: SBC
 - Stereo: No
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -152,6 +156,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - IP Rating: IPX7
 - Built in Microphone: Yes
 - Power Input: USB-C
+- Bluetooth Codecs: SBC
 - Stereo: No
 - Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)

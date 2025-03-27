@@ -35,6 +35,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - IP Rating: IPX4
 - Power Input: AC Power cord
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
@@ -58,6 +59,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - IP Rating: None
 - Power Input: AC Power cord
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
 - Links
@@ -79,6 +81,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - IP Rating: IPX4
 - Power Input: AC Power cord
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [DLX Willington: I'M Floored 😲 JBL Partybox 710 vs 310 Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
     - [GYMCADDY: JBL Partybox 710 Review - Its Your Personal Earthquake Machine](https://www.youtube.com/watch?v=srx-SAaqFjw)
@@ -100,6 +103,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - XLR Input: Yes
 - Power Input: AC Power cord
 - IP Rating: None
+- Bluetooth Codecs: aptX, SBC
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - <https://www.youtube.com/watch?v=gNqERPC67C8>

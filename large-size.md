@@ -29,6 +29,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: No
 - TWS: No
 - Stereo: Partially (shared woofer)
+- Bluetooth Codecs: aptX, SBC
 - IP Rating: None
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
@@ -123,6 +124,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - App: No (official app is broken, 3rd party android app only)
 - Power Input: AC Power brick
+- Bluetooth Codecs: aptX, SBC
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
@@ -149,6 +151,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: Yes
 - IP Rating: IP67
+- Bluetooth Codecs: SBC
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 💣vs Mifa Wildbox 🪇 Basement Battle of the Bluetooth Boombox Welterweights ⚖️](https://www.youtube.com/watch?v=mIeR8bNN29A)
@@ -199,6 +202,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 Woofer)
 - Power Input: USB-C
 - IP Rating: IPX7
+- Bluetooth Codecs: SBC
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Comparisons and Sound Samples
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
@@ -230,6 +234,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - IP Rating: IPX4
 - Power Input: USB-C
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)

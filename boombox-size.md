@@ -54,6 +54,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Party Mode: Yes (Up to 50 speakers)
 - Built in Microphone: Yes
+- Bluetooth Codecs: AAC, SBC
 - IP Rating: IP67
 - Power Input: USB-C
 - Comparisons and Sound Samples
@@ -108,6 +109,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - Power Input: AC Power cord
+- Bluetooth Codecs: SBC
 - IP Rating: IPX7
 - Stereo: Yes
 - Comparisons and Sound Samples
@@ -150,6 +152,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - EQ: Yes (3 band)
+- Bluetooth Codecs: SBC
 - Stereo: Partially (1 Woofer)
 - Comparisons and Sound Samples
     - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: outdoors](https://www.youtube.com/watch?v=df-IGT1k1KI)
@@ -178,6 +181,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Party Mode: No
 - EQ: Yes (3 band)
+- Bluetooth Codecs: SBC
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
@@ -223,6 +227,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - App: No
 - Party Mode: No
+- Bluetooth Codecs: SBC
 - Stereo: Yes
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
@@ -266,6 +271,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Up to 8 speakers on wifi)
 - Power Input: AC Power brick
 - IP Rating: IP57
+- Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Stereo: Yes
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)

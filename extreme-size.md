@@ -36,6 +36,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - IP Rating: IPX4
 - Stereo: Partially
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
@@ -61,6 +62,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - IP Rating: IPX4
 - Stereo: Partially
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
     - [Flossy Carter: JBL PartyBox 310 vs PartyBox 300](https://www.youtube.com/watch?v=I6sUWvuONf0)
@@ -90,6 +92,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - IP Rating: IPX4
 - Stereo: Partially
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
     - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)
@@ -115,6 +118,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - EQ: No
 - Stereo: Partially
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
@@ -150,6 +154,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - IP Rating: IPX4
 - Stereo: Partially
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
@@ -175,6 +180,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - EQ: No
 - Stereo: Yes (lying down)
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
 - Links
@@ -200,6 +206,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - IP Rating: IP43
 - Stereo: No
+- Bluetooth Codecs: aptX, SBC
 - Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
@@ -226,6 +233,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - IP Rating: IP43
 - Stereo: No
+- Bluetooth Codecs: aptX, SBC
 - Comparisons and Sound Samples
     - [briansredd: Electro-Voice Everse 8 VS Bose S1 Pro - Side By Side Shoot-Out (Attempt)](https://www.youtube.com/watch?v=bxW813jlJKc)
     - [briansredd: Q&A - Electro-Voice Everse 8 Vs Bose S1 Pro AND (Warning) My Opinion](https://www.youtube.com/watch?v=yAxDBqN9d2Q)
@@ -251,6 +259,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - TWS: Yes
 - Stereo: No
+- Bluetooth Codecs: AAC, SBC
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
     - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)
@@ -277,6 +286,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - IP Rating: None
 - Stereo: Yes
+- Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
     - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 😮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)
@@ -299,6 +309,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
+- Bluetooth Codecs: LDAC, AAC, SBC
 - Comparisons and Sound Samples
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
@@ -321,6 +332,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
+- Bluetooth Codecs: LDAC, AAC, SBC
 - Comparisons and Sound Samples
     - [DLX Willington: 🥰🙄SONY SRS XP500 vs JBL Partybox 100 Sound battle with sound sample love and hate this](https://www.youtube.com/watch?v=K9qr4EoEqpQ)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
