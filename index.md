@@ -13,7 +13,7 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 
 Feel free to share this anywhere people could find it useful, thanks!
 
-Looking for summarized reviews about products besides speakers? Take a look at [summarizereviews.com](https://www.summarizereviews.com/)
+Looking for summarized reviews about products besides speakers? Take a look at [SummarizeReviews.com](https://www.summarizereviews.com/)
 
 ### Top Recommended Speakers 
 
