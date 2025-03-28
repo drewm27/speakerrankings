@@ -74,7 +74,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - <https://www.patreon.com/posts/harman-kardon-go-107508888>
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
@@ -119,6 +118,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
     - [Alan Ross Reviews: Soundcore Motion x600 (best speaker ever) or two motion booms?](https://www.youtube.com/watch?v=r8iOd03r-hU)
+    - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
     - <https://www.youtube.com/watch?v=e33s1WsRBMs>
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 🆚  Sony SRS-XG500 - Tailgater Special - Battery Powered ☢️ Bass Boost Enabled.](https://www.youtube.com/watch?v=ImnPvu49RSM)
