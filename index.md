@@ -29,8 +29,8 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 ### Portable Speaker Rankings
 
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 34 speakers ranked
-- [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 121 speakers ranked
-- [Large Size Bluetooth Speakers](/large-size/): 69 speakers ranked
+- [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 120 speakers ranked
+- [Large Size Bluetooth Speakers](/large-size/): 70 speakers ranked
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 65 speakers ranked
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 47 speakers ranked
 - [Insane Size Bluetooth Speakers](/insane-size/): 5 speakers ranked
