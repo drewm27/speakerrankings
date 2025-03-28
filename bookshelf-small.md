@@ -63,7 +63,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
 - Links
-    - [Official Product Page](https://audioengine.com/shop/speakers/hd-series/hd3-wireless-speakers/)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd3-wireless-speakers%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D305&cjsku=305)
 
 ### #4 [Presonus Eris E3.5](https://www.amazon.com/PreSonus-Eris-3-5-Gen-Studio-Quality/dp/B0C88ZB3D9?crid=1BXBDC5F38PWQ&dib=eyJ2IjoiMSJ9.31xFOOR9-gtwERWHMFQPHM5MYzxWi333F-Ang6AXHb3XRfCOYSLQJeHqCRd51uoev37Y5AFj5-iiuMPmIKs1sBOfZLcFu8VTnPbfgl4Y-TwbCC2GD3RBluuNdXj-UctmFhVXr-bMZqheVK-4D2wA9Ea7-391phJHoZkMT2K1wIYSC7Pq7pF-HwUO8ISTqLc-cDWQXnZXhmYtv_B0DWVWM5UMAFCRxYh_P5JHLPiYPA_IDndatQwgaJPnpTmMyqYdYOjPNBkmZhGzdO58Agx9rN8qaVCFnH7bbhXVdps5s9g.ZiYxrPMTMWIMwq1RC9Un4I2kNwKx0o0oq3yJw_n9Im4&dib_tag=se&keywords=Presonus%2BEris%2BE3.5&qid=1716352093&sprefix=presonus%2Beris%2Be3.5%2Caps%2C197&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e9ea8d126e89623f2728cc97200109&language=en_US&ref_=as_li_ss_tl): $100 a pair
 - Negatives: Thin sounding in the midrange, some lower treble boost. I'd still recommend the slightly bigger Edifier MR4 over these at the same price.

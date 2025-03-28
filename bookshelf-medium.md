@@ -296,7 +296,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: Audioengine HD6 vs Audioengine A5+   5 Track Comparison](https://www.youtube.com/watch?v=g3Jx7d_iMo4)
 - Links
-    - [Official Product Page](https://audioengine.com/shop/speakers/hd-series/hd6-wireless-speakers/)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd6-wireless-speakers%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D155&cjsku=155)
 
 ### #16 [Edifier R2000DB](https://www.amazon.com/Edifier-R2000DB-Bluetooth-Bookshelf-Speakers/dp/B016PAWJYS?crid=3JD2RMU8HTVIK&dib=eyJ2IjoiMSJ9.12p4yJikFn4L3tFzlxe60Bcau-dhPE08wHQ78FJ8w-gcMPYjJpg7hxk-Bsl1dyHVFCLgwoyjgKlsN6gJb6eIBDr7ccpbgn0D2uTYCrZr7wzf8vfeuaCt8xkBwBdxZ7bnnoNtv6qZKBfCZJ1SoweidQ8pjyrKbIJoKJydFOn2nxCIqQ3D3AGxfM0DhyzKXeuWSbEJh17dDTKwynoiBBapfkV8vDBwd1HwabISpFu-naI.x4BFUp6GuH-jc2lESjarRflfbn0J8mD_V2JgIHTgwk4&dib_tag=se&keywords=edifier%2Br2000db&qid=1714106967&sprefix=edifer%2Br2000d%2Caps%2C164&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=166a5ab0aa7fc04dae93ccf647ddd0c6&language=en_US&ref_=as_li_ss_tl): $250 a pair
 - Negatives: Slight lacking of bass and treble, slight inverted V EQ profile
@@ -383,6 +383,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
 - Links
-    - [Official Product Page](https://audioengine.com/shop/speakers/hd-series/hd4-home-music-system/)
+    - [Official Product Page](https://www.tkqlhce.com/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd4-home-music-system%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D1233138&cjsku=1233138)
 
 As an Amazon Associate I earn from qualifying purchases.
