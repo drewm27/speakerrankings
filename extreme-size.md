@@ -378,7 +378,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: Soundcore Rave 3 160W 🧐🆚 JBL Encore Partybox](https://www.youtube.com/watch?v=33x_e9OLDMw)
     - [Dominik Reviews: Soundcore Rave 3 vs JBL Partybox Encore - Quick Sound Test! 🤗](https://www.youtube.com/watch?v=zjXx2ob3-fI)
 - Links
-    - [Official Product Page](https://www.soundcore.com/rave-3s-ai-karaoke-party-speaker)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17041213)
 
 
 ### #15 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl): $378
