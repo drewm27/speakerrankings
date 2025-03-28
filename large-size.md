@@ -177,6 +177,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - IP Rating: IP67
 - Comparisons and Sound Samples
+    - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
