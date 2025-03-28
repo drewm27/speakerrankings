@@ -208,6 +208,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
+    - [Mateusz Cholewa: BOGASING S8 Pro Max  „HiFi” 🎶🧐🆚 Harman Kardon Go Play 3 „HiFi”🔊](https://www.youtube.com/watch?v=oKOUKRaq1M8)
     - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
     - <https://www.patreon.com/posts/harman-kardon-go-100467989>
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
@@ -437,6 +438,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
+    - [Mateusz Cholewa: Soundcore Rave 3🧐 🆚 Jbl Boombox 3 WiFi](https://www.youtube.com/watch?v=77pcClYhI6I)
 - Links
     - [Official Product Page](https://www.jbl.com/wifi-speakers/BOOMBOX-3-WIFI.html)
 
@@ -485,6 +487,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
     - [Audiophile housewife: Tribit Stormbox Blast 2 vs 2 Earfun UBoom X - outdoor test](https://www.youtube.com/watch?v=hX6IH6pI33E)
     - [Alan Ross Reviews: Tribit Stormbox Blast 2 review - fun fun fun! sometimes 😊](https://www.youtube.com/watch?v=XWp-Ru2YwsE)
+    - [Mateusz Cholewa: Soundcore Rave 3 🤗v🆚s Tribit Stormbox Blast 2👌🎶](https://www.youtube.com/watch?v=Z9IXiGVdANA)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs JBL Boombox 3 🔊 Got Bass? Let's See How They Compare 😲 Battery Powered 🔋](https://www.youtube.com/watch?v=9ZDpHCDzpfc)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs Blast 😲 A Family Feud 🚗 Tailgater Special 🔋 Battery Powered 🎶 Old vs New](https://www.youtube.com/watch?v=IBMLaMH1IWU)
@@ -579,6 +582,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
     - [Jagist reviews: W-king X20 Vs Jbl Encore!!! 😁😁😁](https://www.youtube.com/watch?v=q44mBW2C0m0)
     - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
+    - [Mateusz Cholewa: Soundcore RAVE 3 🤗v🆚s W- KING X20🎶](https://www.youtube.com/watch?v=-Bpt2ryx4V0)
     - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
     - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
 - Links
