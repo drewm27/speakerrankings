@@ -339,24 +339,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp500)
 
-### #13 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl): $378
-- Positives: Wheels and handle. Cool customizable lighting
-- Negatives: Treble is recessed, bass isn't as deep as a Partybox 310. Upper bass boosted.
-- Battery Life: 20 hours
-- Weight: 34.2lbs / 15.5kg
-- Aux Input: Yes
-- App: Yes
-- EQ: Yes
-- IP Rating: IPX4
-- Comparisons and Sound Samples
-    - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
-    - [Jay's Straight Up Reviews & More: LG XL7 vs JBL Partybox 310 🏠 Indoor Bluetooth Party Speaker Battle. Plugged in🔌](https://www.youtube.com/watch?v=Y_G5In55vY4)
-    - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
-    - [GYMCADDY: LG XBOOM XL7 Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=Q5k35cigejM)
-- Links
-    - [Official Product Page](https://www.lg.com/us/speakers/lg-xl7s-portable-speaker)
-
-### #14 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $150
+### #13 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628): $150
 
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
@@ -376,6 +359,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox Encore  🛻 Tailgater Special 🔋 Battery Powered](https://www.youtube.com/watch?v=6YjGuQPD52w)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen. 2 (Bass Boost On) vs JBL Partybox 110 (Bass Boost 1)🩻Battery Powered🔋](https://www.youtube.com/watch?v=Z727n9aBfgw)
+
+### #14 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl): $378
+- Positives: Wheels and handle. Cool customizable lighting
+- Negatives: Treble is recessed, bass isn't as deep as a Partybox 310. Upper bass boosted.
+- Battery Life: 20 hours
+- Weight: 34.2lbs / 15.5kg
+- Aux Input: Yes
+- App: Yes
+- EQ: Yes
+- IP Rating: IPX4
+- Comparisons and Sound Samples
+    - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
+    - [Jay's Straight Up Reviews & More: LG XL7 vs JBL Partybox 310 🏠 Indoor Bluetooth Party Speaker Battle. Plugged in🔌](https://www.youtube.com/watch?v=Y_G5In55vY4)
+    - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
+    - [GYMCADDY: LG XBOOM XL7 Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=Q5k35cigejM)
+- Links
+    - [Official Product Page](https://www.lg.com/us/speakers/lg-xl7s-portable-speaker)
 
 ### #15 [Klipsch Gig XXL](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl): $130
 - Positives: Really amazing value for the money
