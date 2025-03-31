@@ -663,6 +663,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Use [this EQ](https://www.instagram.com/p/C5vDo8gINjx/) for the best sound quality
 - Negatives: Boosted treble, boosted bass in the factory EQs. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
+- Weight: 1.76lbs / 798g
 - Battery Life: 24 hours
 - Max Volume: 99db
 - TWS: Yes
