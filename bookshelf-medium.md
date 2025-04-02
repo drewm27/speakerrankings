@@ -101,6 +101,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: JBL 308P MKII  vs JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u-R-l588zmg)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
+    - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/)
 
 ### #5 [Adam Audio T5V](https://www.amazon.com/ADAM-Audio-T5V-Studio-Monitor/dp/B07BKVY3J1?crid=RNE8UPO1NDTD&dib=eyJ2IjoiMSJ9.s6GO69rhGO3RR8JiF_GYvPaMcwWQMlTgMrUasMmncTaJP-W2UW8eJ1HHpzEfKh382E7qPnlXy7V1LaBKlKomeQwQcHoiVFfkXkyxBpfQf5Znwpr41YY-_q_J3EzsJtykRCPBibZRhX5HQKpabx0zea2RTZ4AJjMc6qyXoahQcgnvRGhqP3flQPm-WGmux5pFxMXxZ2lt3n6PEJ1xP_MtIFlfpfs04Ip9LH3omYOnk3mqR0CHhieIrTQUmihz6drUoUtZpnp9UP7GHBEca5GLIpWfFqvlAMQ13cFSnebbKHs.x82H1XwQU6a-gC6AJVik6oFOyrQ8G5WDL4IuRUGN0Ik&dib_tag=se&keywords=adam%2Bt5v&qid=1718076940&sprefix=adam%2Bt5%2Caps%2C185&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e26f4d29fa8e85cbf2d52ad75e908571&language=en_US&ref_=as_li_ss_tl): $352 a pair
