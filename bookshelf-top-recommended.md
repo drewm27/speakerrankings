@@ -6,7 +6,7 @@ comments: true
 
 ![APS Klasik 2020 Top](/assets/img/klasik2020.jpg)
 
-This page lists the best powered bookshelf speakers out of the 38 that have been ranked on this website. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
+This page lists the best powered bookshelf speakers out of the 39 that have been ranked on this website. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
 
 ### The Best Non Bluetooth Powered Bookshelf Speakers
 
@@ -26,6 +26,6 @@ If you really require Bluetooth to be built in and don't have any size constrain
 
 For a smaller [medium size](/bookshelf-medium/) option, check out the $400 [Edifier S1000MKII](https://www.amazon.com/Edifier-S1000MKII-Audiophile-Bookshelf-Speakers/dp/B07ZVPMR58?crid=26NA8YK3AU010&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZZQsuDqdDgspnq2w4abgL8UWMFnY0dq9-DnqLy7-1RsKIB0ZdiJllN8Aj7C-smtvk6ZlM9byai6U7Uiqc0daDTDASf-CxVAsk0PwSsaf9-vXHOHfTKw2UWn7mVboIoXXKxPjT13mAms0qPFo7LErT8gYNfIYbTz-JjdGak2lYHTBZyJN7s8c4IEpxXdjdRRXc-XJCHNGvK5Ko9sFhghZGzg.lwRPoXbmvQsSnQfjf0PAMhTLGma1cZGN0tI1enR_7iM&dib_tag=se&keywords=edifier+s1000db&qid=1714000153&sprefix=edifier+s1000d,aps,244&sr=8-3&ufe=app_do:amzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=8891126ab3a0f105e12aead8f282f713&language=en_US&ref_=as_li_ss_tl)
 
-For an even smaller [medium size](/bookshelf-medium/) and less expensive option, check out the $180 [Edifier R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl)
+For the best [small size](/bookshelf-small/) reasonably priced option, check out the $120 [Edifier MR3](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl)
 
 As an Amazon Associate I earn from qualifying purchases.

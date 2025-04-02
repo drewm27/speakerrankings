@@ -56,6 +56,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: 🎃🔥 UBoom X - Halloween Rock Special 🎸🤘](https://www.youtube.com/watch?v=_Dqt64zNjPM)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-80-dsp-a-g/)
+    - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/neumann_kh80/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh-80-dsp-monitor-review.11018/)
 
 ### #3 [Focal Alpha 50 EVO](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl): $600 a pair
@@ -334,6 +335,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Mackie CR4-X  sound.DEMO](https://www.youtube.com/watch?v=RfItNlPYv-U)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/studio-monitors/mr4)
+    - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/edifier_mr4/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/)
 
 ### #18 [Edifier R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl): $180 a pair

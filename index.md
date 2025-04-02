@@ -5,7 +5,7 @@ title: Speaker Ranking
 
 ![Earfun Uboom L and Earfun Uboom X](/assets/img/uboomluboomx.jpg)
 
-Speaker Ranking ranks a total of 379 battery powered Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific tastes. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. It also contains the most neutral EQ tuning and setup for each speaker if possible.
+Speaker Ranking ranks a total of 380 battery powered Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific tastes. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. It also contains the most neutral EQ tuning and setup for each speaker if possible.
 
 These rankings were assembled in the same way a person would do deep research. Find the [best unbiased reviewer comparisons and sound samples](/personal-ranking-of-speaker-reviewers/) then take all of that information and piece together the full rankings of all speakers. This type of research can easily take months of watching YouTube videos, reading reviews and specs. I did all that work and wrote these rankings so you can easily understand the entire speaker market in minutes. All the videos and information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer. 
 
@@ -37,7 +37,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 
 ### Powered Bookshelf Speaker Rankings
 
-- [Small Size Powered Bookshelf Speakers](/bookshelf-small/): 5 speakers ranked
+- [Small Size Powered Bookshelf Speakers](/bookshelf-small/): 6 speakers ranked
 - [Medium Size Powered Bookshelf Speakers](/bookshelf-medium/): 20 speakers ranked
 - [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 13 speakers ranked
 
@@ -71,4 +71,4 @@ Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 03/31/2025
+Last updated 04/01/2025
