@@ -8,10 +8,10 @@ This page ranks 44 online speaker reviewers and how much I trust their judgement
 
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
-### #1 [GR-Research](https://gr-research.com/)
+### #1 [GR-Research](https://www.youtube.com/@GRResearch)
 - Danny Richie is my absolute favorite speaker reviewer and speaker designer. Generally they focus on high end passive speakers. One of the few who actually shows frequency response plots and even more importantly, waterfall plots which actually tell the most about how a speaker will actually sound as it correctly shows resonances within the drivers and enclosure of the speaker. They've been around since 1995 designing speakers and crossovers for their own speakers along with improving other speakers which they show in their Youtube videos. Danny Richie is where I've obtained the majority of my speaker knowledge from since I started following him 20 years ago.
 - Links
-    - [GR-Research on Youtube](https://www.youtube.com/@GRResearch)
+    - [GR-Research Website](https://gr-research.com/)
     - [GR-Research on AudioCircle Forums](https://www.audiocircle.com/index.php?board=16.0)
 
 ### #2 [Oluv](https://www.patreon.com/oluvsone/posts) and [oluvsgadgets on Reddit](https://www.reddit.com/user/oluvsgadgets/)
