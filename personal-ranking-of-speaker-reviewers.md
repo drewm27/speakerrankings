@@ -30,7 +30,7 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #5 [Audiophile housewife](https://www.youtube.com/@audiophilehousewife)
 - Very good recording quality. Useful enough sound samples against other speakers to properly judge speakers. No discussion about which speaker is the best, but the sound samples speak for themselves. This is Oluv's wife.
 
-### #6 [alanrossreviews](https://www.youtube.com/@alanrossreviews) [alan_ross_reviews on Reddit](https://www.reddit.com/user/alan_ross_reviews/)
+### #6 [alanrossreviews](https://www.youtube.com/@alanrossreviews)
 - Good recording quality, lots of speaker comparisons, a pretty good ability to properly rank speakers. Very unbiased. He has some slight issues differentiating between boosted bass and deeper bass which is common among people who haven’t built up an extremely trained ear. He also prefers a slightly warm, not neutral sound and expresses that in many videos.
 - Links
     - [alan_ross_reviews on Reddit](https://www.reddit.com/user/alan_ross_reviews/)
