@@ -66,6 +66,8 @@ I only use and link videos that either have useful well recorded sound samples o
 
 ### #16 [Jagistreviews](https://www.youtube.com/@Jagistreviews)
 - Okay recordings likely recorded with a phone. Generally plays hiphop which isn't good for determining frequency response. Okay comparisons of a lot of speakers.
+- Links
+    - [Revolutionary_Fee252 on Reddit](https://www.reddit.com/user/Revolutionary_Fee252/)
 
 ### #17 [pickyaudio](https://www.youtube.com/@pickyaudio)
 - Reasonable recordings. About the fairest reviews of speakers even with ones that are sponsored content. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
