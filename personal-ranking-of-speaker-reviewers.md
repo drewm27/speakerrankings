@@ -14,26 +14,34 @@ I only use and link videos that either have useful well recorded sound samples o
     - [GR-Research Website](https://gr-research.com/)
     - [GR-Research on AudioCircle Forums](https://www.audiocircle.com/index.php?board=16.0)
 
-### #2 [Oluv](https://www.patreon.com/oluvsone/posts) and [oluvsgadgets on Reddit](https://www.reddit.com/user/oluvsgadgets/)
+### #2 [Oluv](https://www.patreon.com/oluvsone/posts)
 - By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality and has always given an unbiased review of good and bad speakers. His recordings and recording equipment are all custom and tuned for the most neutral response I've heard. One of the best creators of speaker EQs around. Sadly his YouTube channel was taken down and many great videos are not available anymore.
+- Links
+    - [oluvsgadgets on Reddit](https://www.reddit.com/user/oluvsgadgets/)
 
 ### #3 [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview)
 - My favorite reviewer of non battery bookshelf speakers. Excellent recording quality. They are using a pretty high end recording setup for all of these speakers. The YouTube comments also provide great analysis of the speaker's qualities.
 
-### #4 [Erin's Audio Corner](https://www.erinsaudiocorner.com/) [Youtube](https://www.youtube.com/@ErinsAudioCorner)
+### #4 [Erin's Audio Corner](https://www.erinsaudiocorner.com/)
 - No sound samples, but a very detailed analysis of many speakers including frequency response, harmonic distortion which may get pretty technical for a lot of people. His Youtube videos and conclusion summary are a lot more layman and are more useful for people.
+- Links
+    - [Erin's Audio Corner on Youtube](https://www.youtube.com/@ErinsAudioCorner)
 
 ### #5 [Audiophile housewife](https://www.youtube.com/@audiophilehousewife)
 - Very good recording quality. Useful enough sound samples against other speakers to properly judge speakers. No discussion about which speaker is the best, but the sound samples speak for themselves. This is Oluv's wife.
 
 ### #6 [alanrossreviews](https://www.youtube.com/@alanrossreviews) [alan_ross_reviews on Reddit](https://www.reddit.com/user/alan_ross_reviews/)
 - Good recording quality, lots of speaker comparisons, a pretty good ability to properly rank speakers. Very unbiased. He has some slight issues differentiating between boosted bass and deeper bass which is common among people who haven’t built up an extremely trained ear. He also prefers a slightly warm, not neutral sound and expresses that in many videos.
+- Links
+    - [alan_ross_reviews on Reddit](https://www.reddit.com/user/alan_ross_reviews/)
 
 ### #7 [M1MTechChannel](https://www.youtube.com/@M1MTechChannel)
 - Good recording quality, good comparisons of a lot of bigger speakers. All videos in German.
 
-### #8 [Dominik Reviews](https://www.youtube.com/@DominikReviews) [Open_Cardiologist848 on Reddit](https://www.reddit.com/user/Open_Cardiologist848/)
+### #8 [Dominik Reviews](https://www.youtube.com/@DominikReviews) 
 - Good recording quality. Some discussion about which is the better speaker in the comments.
+- Links
+    - [Open_Cardiologist848 on Reddit](https://www.reddit.com/user/Open_Cardiologist848/)
 
 ### #9 [Mateusz Cholewa](https://www.youtube.com/@Audiotest515)
 - Decent recording quality
