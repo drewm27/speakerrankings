@@ -325,6 +325,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP68
 - Comparisons and Sound Samples
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
+    - [GYMCADDY: JBL Charge 6 Review - Worth Upgrading Even If You Have The JBL Charge 5](https://www.youtube.com/watch?v=3H5af5Lie_o)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
 
@@ -592,6 +593,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: No
 - Comparisons and Sound Samples
+    - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
+    - [GYMCADDY: JBL Charge 6 Review - Worth Upgrading Even If You Have The JBL Charge 5](https://www.youtube.com/watch?v=3H5af5Lie_o)
     - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
