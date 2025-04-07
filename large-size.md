@@ -609,9 +609,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - App: No
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
+- TWS: No
+- Stereo: Yes
 - Party Mode: Yes
 - Power Bank: No
 - Power Input: USB-C
+- Bluetooth Codecs: SBC
 - IP Rating: IPX6
 - Comparisons and Sound Samples
     - [Feelin Tech Today: JBL Should be worried? (MEE audio partySPKR) [2024]](https://www.youtube.com/watch?v=Ai1vs2-Mc6c)
