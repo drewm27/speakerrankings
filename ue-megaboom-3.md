@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why You Might Want to Skip the UE Megaboom 3
+title: UE Megaboom 3 Review
 comments: true
 ---
 

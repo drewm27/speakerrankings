@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why the Sony SRS-XB33 Might Not Be the Best Choice for Yo
+title: Sony SRS-XB33 Review
 comments: true
 ---
 
