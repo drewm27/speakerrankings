@@ -368,6 +368,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Guitar Input: Yes
 - Microphone Input: Yes
+- Wireless Microphones: Yes 2 included
 - App: Yes
 - EQ: Yes
 - Stereo: No
