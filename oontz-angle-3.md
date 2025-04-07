@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why You Should Think Twice Before Buying the OontZ Angle 3
+title: OontZ Angle 3 Review
 comments: true
 ---
 
