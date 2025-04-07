@@ -602,7 +602,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sonos.com/en-us/shop/move)
 
 ### #27 [Mee audio PartySPKR](https://www.amazon.com/MEE-audio-PartySPKR-Subwoofers-Connecting/dp/B0CS6JF872?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5fe0ecac8f1db81cfd6c5d4deafb0454&language=en_US&ref_=as_li_ss_tl): $80
-- Negatives: Not very deep bass. Possibly slightly bright treble. Will need more sound samples to make a better determination.
+- Negatives: Not very deep bass. Possibly slightly bright treble. Will need more sound samples to make a better determination. Only 12 hours of battery life which is about the worst in the category.
 - Bass Extension: ~50hz (-10dB)
 - Weight: 6.3lbs / 2850g
 - Wifi: No
