@@ -21,6 +21,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
 - [The Best Portable Bluetooth Speakers For Bass](/top-recommended-bass/)
 - [The Best Portable Speakers With Wifi](/top-recommended-wifi/)
+- [The Best Portable Speakers With Party Mode](/top-recommended-party-mode/)
 - [The Best Portable Speakers With Microphone Input](/top-recommended-microphone/)
 - [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 - [The Best Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
