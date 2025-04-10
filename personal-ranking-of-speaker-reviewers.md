@@ -65,7 +65,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Recordings done with a binaural head, but the room they use for recording has no soft materials so bass response is lacking and isn't representative of the actual speaker. Their speaker picks are just okay
 
 ### #16 [Jagistreviews](https://www.youtube.com/@Jagistreviews)
-- Okay recordings likely recorded with a phone. Generally plays hiphop which isn't good for determining frequency response. Okay comparisons of a lot of speakers.
+- Okay recordings likely recorded with a phone. Generally plays hiphop which isn't good for determining neutral frequency response. Okay comparisons of a lot of speakers.
 - Links
     - [Revolutionary_Fee252 on Reddit](https://www.reddit.com/user/Revolutionary_Fee252/)
 
