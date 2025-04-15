@@ -543,7 +543,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3134-boom2-plus-outdoor-bass-speaker&cjsku=A3134031)
 
-### #21 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl): $300
+### #21 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl): $250
 
 - Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - Weight: 9.1lbs / 4.2kg
@@ -611,7 +611,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
 
-### #24 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $380
+### #24 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325): $330
 
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - Max Volume: 100db
