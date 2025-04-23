@@ -311,7 +311,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl): $200
 
 - Positives: Seems more neutral than the Charge 5. Flatter frequency response through the mids and treble as the Charge 5 was quite rolled off up high. This is a preliminary ranking and can go up or down based on more sound samples.
-- Negatives: Still some boosted bass by default
+- Negatives: Still some boosted bass by default. Needs an EQ to sound its best.
 - Weight: 2.18lbs / 990g
 - Battery Life: 24 hours
 - Power Bank: Yes
@@ -326,6 +326,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
     - [GYMCADDY: JBL Charge 6 Review - Worth Upgrading Even If You Have The JBL Charge 5](https://www.youtube.com/watch?v=3H5af5Lie_o)
+    - <https://www.patreon.com/posts/jbl-charge-6-or-126781662>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
 
@@ -1083,6 +1084,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No (front/rear drivers)
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
+    - <https://www.patreon.com/posts/bogasing-m5-126932777>
 
 ### #50 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325): $50
 

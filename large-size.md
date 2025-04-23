@@ -183,6 +183,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
+    - <https://www.patreon.com/posts/tribit-stormbox-125854931>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 

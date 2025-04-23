@@ -210,6 +210,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
     - [Mateusz Cholewa: BOGASING S8 Pro Max  „HiFi” 🎶🧐🆚 Harman Kardon Go Play 3 „HiFi”🔊](https://www.youtube.com/watch?v=oKOUKRaq1M8)
     - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
+    - <https://www.patreon.com/posts/harman-kardon-go-126426378>
     - <https://www.patreon.com/posts/harman-kardon-go-100467989>
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
 - Links
@@ -628,6 +629,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/jbl-authentics-125828125>
+    - <https://www.patreon.com/posts/jbl-authentics-125756901>
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
