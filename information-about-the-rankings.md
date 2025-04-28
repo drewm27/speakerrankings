@@ -32,8 +32,8 @@ If you can’t find the speaker comparison you’re looking for, search [YouTube
 
 ### Other Articles
 
-- [UE Megaboom 3](/ue-megaboom-3/)
-- [Oontz Angle 3](/oontz-angle-3/)
-- [Sony SRS-XB33](/sony-srs-xb33/)
+- [UE Megaboom 3 Review](/ue-megaboom-3/)
+- [Oontz Angle 3 Review](/oontz-angle-3/)
+- [Sony SRS-XB33 Review](/sony-srs-xb33/)
 - [Exploring SummarizeReviews.com](/summarize-reviews/)
 - [Bookshelf Non Battery Speakers](bookshelf-non-battery/)
