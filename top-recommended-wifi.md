@@ -2,6 +2,7 @@
 layout: page
 title: The Best Portable Bluetooth Speakers with Wifi
 comments: true
+cover-img: "/assets/img/branex.jpg"
 ---
 
 This page lists the best portable Bluetooth speakers that have wifi out of the 343 ranked on this website. See these other links for [The Best Portable Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/). 
