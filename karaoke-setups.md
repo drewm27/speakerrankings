@@ -2,9 +2,8 @@
 layout: page
 title: Karaoke Equipment and Setups
 comments: true
+cover-img: "/assets/img/fifinemixer.jpg"
 ---
-
-![Fifine Wireless Microphones and Mixer](/assets/img/fifinemixer.jpg)
 
 Check out [The Best Portable Speakers With Microphone Input](/top-recommended-microphone/)
 

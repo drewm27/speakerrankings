@@ -2,9 +2,8 @@
 layout: page
 title: Large Size Bluetooth Speakers
 comments: true
+cover-img: "/assets/img/helsinki.jpg"
 ---
-
-![Vifa Helsinki](/assets/img/helsinki.jpg)
 
 This page ranks 71 large size powered Bluetooth speakers. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 

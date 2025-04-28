@@ -2,9 +2,8 @@
 layout: page
 title: Small/Medium Size Bluetooth Speakers
 comments: true
+cover-img: "/assets/img/ubooml.jpg"
 ---
-
-![Earfun Uboom L](/assets/img/ubooml.jpg)
 
 This page ranks 121 small/medium size powered Bluetooth speakers. The small/medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 

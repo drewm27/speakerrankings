@@ -2,9 +2,8 @@
 layout: page
 title: Extreme Size Bluetooth Speakers
 comments: true
+cover-img: "/assets/img/partybox320.jpg"
 ---
-
-![JBL Partybox Stage 320](/assets/img/partybox320.jpg)
 
 This page ranks 47 extreme size powered Bluetooth speakers. The extreme size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 

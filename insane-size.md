@@ -2,9 +2,8 @@
 layout: page
 title: Insane Size Bluetooth Speakers
 comments: true
+cover-img: "/assets/img/partyboxultimate.jpg"
 ---
-
-![JBL Partybox Ultimate](/assets/img/partyboxultimate.jpg)
 
 This page ranks 5 insane size powered Bluetooth speakers. The insane size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
