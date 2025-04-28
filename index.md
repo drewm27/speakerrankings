@@ -58,12 +58,6 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 
-### Technical Articles
-
-- [Designing Bluetooth Speakers](/designing-bluetooth-speakers/)
-- [Designing Powered Bookshelf Speakers](/designing-powered-bookshelf-speakers/)
-- [How Room Acoustics Affects Speakers](/how-room-acoustics-affects-speakers/)
-
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). 
 
 Come join us on Reddit in [r/WirelessSpeakers](https://www.reddit.com/r/WirelessSpeakers/)
@@ -72,4 +66,4 @@ Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 04/22/2025
+Last updated 04/28/2025

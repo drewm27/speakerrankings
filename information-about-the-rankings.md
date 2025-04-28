@@ -23,3 +23,17 @@ All max volume measurements are at 1m, all bass extension measurements are at a 
 ### External Help
 
 If you can’t find the speaker comparison you’re looking for, search [YouTube](https://www.youtube.com/) for it.
+
+### Technical Articles
+
+- [Designing Bluetooth Speakers](/designing-bluetooth-speakers/)
+- [Designing Powered Bookshelf Speakers](/designing-powered-bookshelf-speakers/)
+- [How Room Acoustics Affects Speakers](/how-room-acoustics-affects-speakers/)
+
+### Other Articles
+
+- [UE Megaboom 3]((/ue-megaboom-3/)
+- [Oontz Angle 3]((/oontz-angle-3/)
+- [Sony SRS-XB33]((/sony-srs-xb33/)
+- [Exploring SummarizeReviews.com]((/summarize-reviews/)
+- [Bookshelf Non Battery Speakers](bookshelf-non-battery/)
