@@ -2,9 +2,8 @@
 layout: page
 title: The Best Loudest Portable speakers for parties over 50 people
 comments: true
+cover-img: "/assets/img/k12.2.jpg"
 ---
-
-![QSC K12.2](/assets/img/k12.2.jpg)
 
 These are the best portable speakers for parties over 50 people or for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
 
