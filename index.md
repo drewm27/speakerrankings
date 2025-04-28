@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Speaker Ranking
-share-description: "Speaker Ranking ranks a total of 382 battery powered portable Bluetooth speakers and powered bookshelf speakers, the most of any review site." 
 cover-img: "/assets/img/uboomluboomx.jpg"
 ---
 
