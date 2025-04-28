@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Speaker Ranking
+share-description: "Speaker Ranking ranks a total of 382 battery powered portable Bluetooth speakers and powered bookshelf speakers, the most of any review site." 
 ---
 
 ![Earfun Uboom L and Earfun Uboom X](/assets/img/uboomluboomx.jpg)
