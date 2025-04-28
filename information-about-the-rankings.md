@@ -2,6 +2,7 @@
 layout: page
 title: Information About the Rankings
 comments: true
+cover-img: "/assets/img/neutral.jpg"
 ---
 
 ### Information about Neutral Frequency Response
