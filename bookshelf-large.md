@@ -2,6 +2,7 @@
 layout: page
 title: Large Size Powered Bookshelf Speakers
 comments: true
+cover-img: "/assets/img/klasik2020.jpg"
 ---
 
 This page ranks 13 large size powered bookshelf speakers. The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
