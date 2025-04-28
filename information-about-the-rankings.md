@@ -37,4 +37,4 @@ If you can’t find the speaker comparison you’re looking for, search [YouTube
 - [Oontz Angle 3 Review](/oontz-angle-3/)
 - [Sony SRS-XB33 Review](/sony-srs-xb33/)
 - [Exploring SummarizeReviews.com](/summarize-reviews/)
-- [Bookshelf Non Battery Speakers](bookshelf-non-battery/)
+- [Bookshelf Non Battery Speakers](/bookshelf-non-battery/)
