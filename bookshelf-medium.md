@@ -2,6 +2,7 @@
 layout: page
 title: Medium Size Powered Bookshelf Speakers
 comments: true
+cover-img: "/assets/img/kh80.jpg"
 ---
 
 This page ranks 20 medium size powered bookshelf speakers. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 

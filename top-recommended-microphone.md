@@ -2,6 +2,7 @@
 layout: page
 title: The Best Portable Bluetooth Speakers with Microphone Input
 comments: true
+cover-img: "/assets/img/partyboxultimate.jpg"
 ---
 
 This page lists the best portable Bluetooth speakers with microphone input or microphone of the 343 ranked on this website. The suggestions in this section are biased towards value speakers with a reasonable frequency response and have built in microphones or microphone inputs. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. 
