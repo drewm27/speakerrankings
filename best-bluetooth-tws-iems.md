@@ -2,7 +2,7 @@
 layout: page
 title: The Best Bluetooth TWS IEM Headphones
 comments: true
-cover-img: "/assets/img/freepro2"
+cover-img: "/assets/img/freepro2.jpg"
 ---
 
 ### The Absolute Most Neutral TWS IEM Headphones
