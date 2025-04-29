@@ -5,7 +5,7 @@ title: About Me
 
 ## My Background
 
-I've been in ultra high end audio myself for at least 25 years now and even grew up around high end systems my father owned all throughout the 1980s starting with some Sansui electronics, Infinity RS IIIb and DCM Timeframe speakers.  I've listened to countless systems up to 7 figures at high end audio shows including [RMAF](https://www.facebook.com/RockyMountainAudioFest/) and [California Audio Show](https://www.caaudioshow.com/) and owned a lot of different 5 figure systems over the years. I have a few audio systems, plus all my personal Bluetooth speakers
+I've been in ultra high end audio myself for at least 25 years now and even grew up around high end systems my father owned all throughout the 1980s starting with some Sansui electronics, Infinity RS IIIb and DCM Timeframe speakers.  I've listened to countless systems up to 7 figures at large high end audio shows including [RMAF](https://www.facebook.com/RockyMountainAudioFest/) and [California Audio Show](https://www.caaudioshow.com/) and owned a lot of different 5 figure systems over the years. I have a few audio systems, plus all my personal Bluetooth speakers
 
 I've also been to headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) far better than I could put together, otherwise I'd consider doing it. I've built and designed speakers and have done work in crossover, driver and enclosure design. I'm also very familiar with most of the portable livesound speakers and have demoed or used nearly everything on the market.
 
