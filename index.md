@@ -4,7 +4,7 @@ title: Speaker Ranking
 cover-img: "/assets/img/uboomx.jpg"
 ---
 
-Speaker Ranking ranks a total of 382 battery powered portable Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific tastes. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. It also contains the most neutral EQ tuning and setup for each speaker if possible.
+Speaker Ranking ranks a total of 382 battery powered portable Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. It also contains the most neutral EQ tuning and setup for each speaker if possible.
 
 These rankings were assembled in the same way a person would do deep research. Find the [best unbiased reviewer comparisons and sound samples](/personal-ranking-of-speaker-reviewers/) then take all of that information and piece together the full rankings of all speakers. This type of research can easily take months of watching YouTube videos, reading reviews and specs. I did all that work and wrote these rankings so you can easily understand the entire speaker market in minutes. All the videos and information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer. 
 
@@ -66,4 +66,4 @@ Thanks for stopping by!
 
 [Obvious-Bird-3588](https://www.reddit.com/user/Obvious-Bird-3588)
 
-Last updated 04/28/2025
+Last updated 04/29/2025
