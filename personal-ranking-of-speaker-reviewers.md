@@ -20,10 +20,10 @@ I only use and link videos that either have useful well recorded sound samples o
     - [oluvsgadgets on Reddit](https://www.reddit.com/user/oluvsgadgets/)
 
 ### #3 [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview)
-- My favorite reviewer of non battery bookshelf speakers. Excellent recording quality. They are using a pretty high end recording setup for all of these speakers. The YouTube comments also provide great analysis of the speaker's qualities.
+- My favorite reviewer of non battery bookshelf speakers. Excellent recording quality using a pretty high end recording setup for all of these speakers. The YouTube comments also provide great analysis of the speaker's qualities.
 
 ### #4 [Erin's Audio Corner](https://www.youtube.com/@ErinsAudioCorner)
-- No sound samples, but a very detailed analysis of many speakers including frequency response, harmonic distortion which may get pretty technical for a lot of people. His Youtube videos and conclusion summary are a lot more layman and are more useful for people.
+- No sound samples, but a very detailed analysis of many speakers including frequency response, off-axis response and harmonic distortion which may get pretty technical for a lot of people. His Youtube videos and conclusion summary are a lot more layman and are more useful for people.
 - Links
     - [Erin's Audio Corner Website](https://www.erinsaudiocorner.com/)
 
