@@ -44,7 +44,7 @@ I only use and link videos that either have useful well recorded sound samples o
     - [Open_Cardiologist848 on Reddit](https://www.reddit.com/user/Open_Cardiologist848/)
 
 ### #9 [Mateusz Cholewa](https://www.youtube.com/@Audiotest515)
-- Decent recording quality
+- Decent recording quality. Quite a lot of recent speakers are reviewed
 
 ### #10 [Saulius](https://www.youtube.com/@SauliusLT29)
 - Decent recording quality, a little echo and lack of bass response in his room due to a tile floor.
