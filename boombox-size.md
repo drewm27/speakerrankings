@@ -150,6 +150,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 Woofer)
 - Comparisons and Sound Samples
     - [Mateusz Cholewa: JBL Partybox ENCORE 2👌FULL TEST🆚 JBL Partybox ENCORE 1](https://www.youtube.com/watch?v=NoKS37yrdzY)
+    - [Mateusz Cholewa: Jbl Partybox Encore 2 📦UNBOXING. Short TEST AUDIO z ENCORE 1👌](https://www.youtube.com/watch?v=ntyHO2VTfH4)
+    - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
 - Links
     - [Official Product Page](https://uk.jbl.com/PARTYBOX-ENCORE-2.html)
 
