@@ -11,7 +11,7 @@ For more information, sound samples and specs about all these speakers, see the 
 
 ### The Best Speakers With Wireless Microphones
 
-The best [boombox size](/boombox-size/) battery powered Bluetooth speaker with built in wireless microphones is the $275 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467)
+The best [boombox size](/boombox-size/) battery powered Bluetooth speaker with built in wireless microphones is the $230 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467)
 
 For extremely low budgets get the [large size](/large-size/) $40 after clipped coupons [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)
 
