@@ -7,6 +7,7 @@ comments: true
 I plan to get around to these as soon as there are good sound samples and comparisons around, stay tuned!
 
 
+1. [Sonos Roam 2](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl)
 1. [Stage One](https://www.electrotecaudio.com/stage-one/)
 1. [B&W Zeppelin Pro](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHLN6871?crid=2YWCNKEYKCUAY&dib=eyJ2IjoiMSJ9.RV52aBF4sDD19cbuY0uVJpCwkRPLlQ6EF3wtwx5aqko-X2GIsuGfJQ8H_DkLcud6hFSAypz8SODSmDx0ofFvNSR6DBdmwxAfpngjkg3IbzvcXxLoACiDsBt9uXAyf23pAG-Y3_YhqI4mCGmZNq01NtFiZhqpRk861rVZ3mhAs8gEsR7ngs7jvnaVveY8FLzOupMOzNhDXjGuHXlJLIp6b9nDx0ND9Te_t2haxcs3GNY.0ec5wducIwVJbqZZAV6xlyvjjjdK7Yipf3Ik7HblnkY&dib_tag=se&keywords=zeppelin%2Bpro&qid=1745893308&sprefix=zeppelin%2Bpro%2Caps%2C257&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=40b10cf4e177d72ccb44fe762b5e702e&language=en_US&ref_=as_li_ss_tl)
 1. Loewe We HEAR 2
