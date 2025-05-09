@@ -4,7 +4,7 @@ title: Speakers to be Added
 comments: true
 ---
 
-I plan to get around to these as soon as there are good sound samples and comparisons around, stay tuned!
+This page lists all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
 
 1. [Stage One](https://www.electrotecaudio.com/stage-one/)

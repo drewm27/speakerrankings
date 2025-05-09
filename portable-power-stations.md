@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/deltamini.jpg"
 ---
 
-To give either battery or non-battery speakers the ability to run disconnected or play longer, you will probably want to pick up a Portable Power Station or power bank.
+A Portable Power Station or power bank can give a battery or non-battery speaker the ability to run disconnected or play longer. If you need more runtime out of your portable speaker, you will probably want to pick up a Portable Power Station or power bank depending on your battery size needs.
 
 ### Power Stations for speakers that need AC or USB
 

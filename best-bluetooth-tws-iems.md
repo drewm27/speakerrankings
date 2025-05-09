@@ -5,6 +5,8 @@ comments: true
 cover-img: "/assets/img/freepro2.jpg"
 ---
 
+This page lists the best sounding Bluetooth TWS IEMs available. At this point, I don't own any portable over ear headphones that I take out of the house. IEMs have come extremely far in terms of sound quality and switchable noise rejection and are way more portable.
+
 ### The Absolute Most Neutral TWS IEM Headphones
 
 [Oluv](https://www.patreon.com/oluvsone) has created a custom tune for the [$70 Earfun Free Pro 2](https://www.amazon.com/Earbuds-Free-Pro-Cancelling-Bluetooth/dp/B09JWMJ7PW?crid=84UUFOP6Z6NG&dib=eyJ2IjoiMSJ9.996ZyJEdQyoUw6wyxgj4G9c5MFIeGvkRRoW-2hTpHCJasSuhPK5VdbxN7pRA3XZ9_HeR2Ptfv4tvQeOkduLXLWuR93ncYxX7146x7eQ3exJSplmh2o7ZC9h4MbnrouUG4gs4aaYD1AkudjcOUzUUmjo7Lk09svVGGIDbU3WsmqLp5EWVTiVU75lFMKNwW98N8JXd8QctAv5X9R4CLIDZkBGTLg7jp5y9DxSSn4V8o18.wTVKY5zMG2Pim7iVBC-0VHsWOB2Kebr0J8rzb6LsD8I&dib_tag=se&keywords=earfun+free+pro+2&qid=1726036107&sprefix=earfun+free+pro+%2Caps%2C160&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=07e39e6218331bf52b6057113edeefc6&language=en_US&ref_=as_li_ss_tl) using a parametric EQ that's stored onboard the headphones. He is famously known for his very neutral tunes for headphones and portable Bluetooth speakers including the top ranked Earfun Uboom L and Earfun Uboom X.
