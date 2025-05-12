@@ -637,6 +637,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bluetooth Codecs: AAC, SBC
 - Comparisons and Sound Samples
     - [tech reviews daily: LG XBOOM Bounce Review – BASS, LIGHTS & VIBES! 🔊🎉](https://www.youtube.com/watch?v=VZpuSjF5Spw)
+    - [Mike O'Brien: What Did LG Just Launch? (NEW will.i.am x LG xboom Speakers)](https://www.youtube.com/watch?v=QDBumYKUsms)
     - [정민수 (언리얼엔진): LG XBOOM BOUNCE 40W vs BOGASING S9 PRO 50W TWS Sound Samples](https://www.youtube.com/watch?v=0fh0SduVsyA)
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links
