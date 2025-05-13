@@ -438,7 +438,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
 
 ### #17 B&O Beosound A1 3rd gen
-- Negatives: Distorts easier than the 2nd gen. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
+- Negatives: Distorts easier than the 2nd gen with deeper bass. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
 - Weight: 1.23lbs / 558g
 - Battery Life: 24 hours
 - Power Bank: No
