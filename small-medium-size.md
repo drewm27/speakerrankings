@@ -451,6 +451,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Audio: Yes
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/b-o-beosound-a1-128639662>
+    - <https://www.patreon.com/posts/b-o-beosound-a1-128729314>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
 
