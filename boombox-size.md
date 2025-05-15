@@ -219,8 +219,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #7 [Harman Kardon Go+ Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325): $350 or [$262 refurbished](https://www.ebay.com/itm/156428451357?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dYV7A0jR83JeTmj9j2vjkxlnm93aef1rGbuZw5OKLJdkqjRw0OY4TvrYIUrJH%2FALK16p3w%2BAr%2FJPGwMKf9CKxtEuKKVPJhwb2rlCol4P8zrio2QUpnurLOupEqKe3HCowQIrN9VYSF%2FwpSUseY6dCEFC2dZqD8QL05WsP2x3f7FqkRLju%2FkLebxrcI5VUf4X8%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)
 
-- Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go+play2. Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
-- Negatives: Not as loud as others. Only 8 hours of battery at medium volume. No water rating.
+- Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go+play2. 
+- Negatives: Just a little over half as loud as the higher rated boomboxes. Only 8 hours of battery at medium volume. No water rating.
+- Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - Max Volume: 103db
 - Bass Extension: 35hz (-10dB)
 - Weight: 10.4lbs / 4.7kg
