@@ -296,12 +296,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Audio: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
+    - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
-    - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
     - [Alan Ross Reviews: Soundcore Motion Plus vs Beoplay A1 2nd gen - The Match!](https://www.youtube.com/watch?v=kqhySK7MUuI)
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
+    - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
+    - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
     - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
     - <https://www.patreon.com/posts/anker-soundcore-92655183>
 - Links
@@ -450,6 +451,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - USB Audio: Yes
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
     - <https://www.patreon.com/posts/b-o-beosound-a1-128639662>
     - <https://www.patreon.com/posts/b-o-beosound-a1-128729314>
 - Links
