@@ -282,6 +282,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: VIFA Copenhagen 2.0 - premium wireless speaker](https://www.youtube.com/watch?v=PXtV5pPeEdo)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
