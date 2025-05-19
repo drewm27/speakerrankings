@@ -267,6 +267,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
     - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
     - <https://www.youtube.com/watch?v=zO3gd-v41Xw>
     - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
@@ -296,6 +297,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Audio: Yes
 - IP Rating: IP67
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
@@ -451,6 +453,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - USB Audio: Yes
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
+    - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen - outdoor sound test](https://www.youtube.com/watch?v=GtpInB_Saic)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
     - <https://www.patreon.com/posts/b-o-beosound-a1-128639662>
     - <https://www.patreon.com/posts/b-o-beosound-a1-128729314>
