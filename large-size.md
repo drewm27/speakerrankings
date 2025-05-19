@@ -727,6 +727,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes (5 band)
 - Aux Input: No
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
     - <https://www.youtube.com/watch?v=bhmzGxlSBds>

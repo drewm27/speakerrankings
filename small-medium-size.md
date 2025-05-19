@@ -326,6 +326,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Digital Aux Input: Yes (USB-C)
 - IP Rating: IP68
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
     - [GYMCADDY: JBL Charge 6 Review - Worth Upgrading Even If You Have The JBL Charge 5](https://www.youtube.com/watch?v=3H5af5Lie_o)
     - <https://www.patreon.com/posts/jbl-charge-6-or-126781662>
