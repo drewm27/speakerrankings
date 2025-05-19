@@ -208,6 +208,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
@@ -728,6 +729,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - basstest (bigger=better?)](https://www.youtube.com/watch?v=8Hs8dpPau-A)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
     - <https://www.youtube.com/watch?v=bhmzGxlSBds>
