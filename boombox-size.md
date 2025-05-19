@@ -661,6 +661,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Partially (1 woofer)
 - Comparisons and Sound Samples
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Authentics 300 - sound quality test](https://www.youtube.com/watch?v=pBgizWYcEx8)
     - <https://www.patreon.com/posts/jbl-authentics-125828125>
     - <https://www.patreon.com/posts/jbl-authentics-125756901>
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
