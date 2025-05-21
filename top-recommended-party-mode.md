@@ -19,7 +19,7 @@ The best [small/medium size](/small-medium-size/) battery powered speaker with p
 
 ### The Best Large Size Speaker With Party Mode
 
-The best reasonably priced [large size](/large-size/) battery powered speaker with party mode is the [**$100 Soundcore Boom 2**](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325&th=1)
+The best reasonably priced [large size](/large-size/) battery powered speaker with party mode is the [**$120 Soundcore Boom 2**](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325&th=1)
 
 ### The Best Boombox Size Speaker With Party Mode
 
