@@ -29,7 +29,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [The Best Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
 - [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
 
-### The Full Portable Speaker Rankings
+### All Portable Bluetooth Speakers Ranked
 
 - [Pocket Size Bluetooth Speakers](/pocket-size/): 34 speakers ranked
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 124 speakers ranked
@@ -38,7 +38,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [Extreme Size Bluetooth Speakers](/extreme-size/): 47 speakers ranked
 - [Insane Size Bluetooth Speakers](/insane-size/): 5 speakers ranked
 
-### The Full Powered Bookshelf Speaker Rankings
+### All Powered Bookshelf Speaker Ranked
 
 - [Small Size Powered Bookshelf Speakers](/bookshelf-small/): 6 speakers ranked
 - [Medium Size Powered Bookshelf Speakers](/bookshelf-medium/): 20 speakers ranked
