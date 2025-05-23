@@ -2,7 +2,7 @@
 layout: page
 title: The Best Portable Bluetooth Speakers For Loundness
 comments: true
-cover-img: "/assets/img/partybox320.jpg"
+cover-img: "/assets/img/k12.2.jpg"
 ---
 
 This page lists the best portable Bluetooth speakers for loudness out of the 349 ranked on this website. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can.
