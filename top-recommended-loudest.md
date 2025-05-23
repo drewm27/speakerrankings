@@ -2,7 +2,7 @@
 layout: page
 title: The Loudest Portable Bluetooth Speakers
 comments: true
-cover-img: "/assets/img/k12.2.jpg"
+cover-img: "/assets/img/jblencore.jpg"
 ---
 
 This page lists the loudest portable Bluetooth speakers out of the 349 ranked on this website. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can.
