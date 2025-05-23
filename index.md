@@ -60,7 +60,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 
-Last updated 05/19/2025
+Last updated 05/23/2025
 
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). 
 
