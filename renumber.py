@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import os
+import glob
 import re
 import json
 import requests
@@ -88,7 +89,7 @@ with open('index.md', 'w') as f:
                         line = line.split(':')[0].strip() + ': ' + str(countfile[filename]) + ' reviewers ranked\n'
         f.write(line)
 
-for filename in [ 'top-recommended.md' , 'top-recommended-bass.md', 'top-recommended-inexpensive.md', 'top-recommended-wifi.md', 'top-recommended-microphone.md', 'top-recommended-party-mode.md' ]:
+for filename in glob.glob(os.path.join('./', 'top-recommended*.md')):
     with open(filename) as f:
         lines = f.readlines()
     with open(filename, 'w') as f:
