@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Loudest Portable speakers for parties over 50 people
+title: The Loudest Portable Speakers For Parties Over 50 People
 comments: true
 cover-img: "/assets/img/k12.2.jpg"
 ---
