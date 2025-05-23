@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/k12.2.jpg"
 ---
 
-These are the best portable speakers for parties over 50 people or for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
+These are the loudest portable speakers for parties over 50 people or for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
 
 
 Speakers like the JBL Partybox 310 although they will play deeper just won't have the output needed for larger areas especially outdoors, so these are the best suggestions for extremely loud speakers.
