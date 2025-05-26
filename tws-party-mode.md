@@ -32,6 +32,12 @@ Marshall has Marshall Stack
 
 Samsung has [Giga Party](https://www.samsung.com/us/support/answer/ANS00086422/) with up to 10 speakers. 
 
+LG Xboom has [Auracast](https://www.bluetooth.com/auracast/)
+
+# Auracast 
+
+Auracast is a way to do party mode across different manufacturers of speakers. Currently it is supported in very new JBL and LG Bluetooth devices.
+
 ### Speakers That Remember Their Pairing
 
 Earfun, Soundcore and Tribit speakers will remember their pairing after being turned off. JBL, Bose and Sony speakers will not remember their pairing after being turned off.
