@@ -14,7 +14,7 @@ Almost all of the speakers can wirelessly stereo pair (referred to as TWS) with 
 
 ### Party Mode
 
-JBL has [Auracast, Connect+ or Partyboost](https://uk.jbl.com/blog/connect-jbl-speakers.html) (not compatible) up to 100 speakers, 
+JBL (Harmon) has [Auracast, Connect+ or Partyboost](https://uk.jbl.com/blog/connect-jbl-speakers.html) (not compatible) up to 100 speakers, 
 
 Sony has [Wireless PartyChain](https://www.sony.com/electronics/support/articles/MC000028) and [Party Connect](https://www.sony.com/electronics/support/articles/MC000028) (not compatible) up to 100 speakers
 
