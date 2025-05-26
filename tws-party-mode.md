@@ -36,4 +36,6 @@ Samsung has [Giga Party](https://www.samsung.com/us/support/answer/ANS00086422/)
 
 Earfun, Soundcore and Tribit speakers will remember their pairing after being turned off. JBL, Bose and Sony speakers will not remember their pairing after being turned off.
 
-Note: Some of these multi speaker technologies may not work if you have a Bluetooth 4.x or less device like some laptops. 
+### Issues
+
+Some of these multi speaker technologies may not work if you have a Bluetooth 4.x or less device like some laptops. 
