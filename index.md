@@ -4,7 +4,7 @@ title: Speaker Ranking
 cover-img: "/assets/img/uboomx.jpg"
 ---
 
-Speaker Ranking ranks a total of 390 battery powered portable Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes. It also contains the most neutral EQ tuning and setup for each speaker if possible. 
+Speaker Ranking ranks a total of 391 battery powered portable Bluetooth speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes. It also contains the most neutral EQ tuning and setup for each speaker if possible. 
 
 Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings.
 
@@ -32,7 +32,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 
 ### All Portable Bluetooth Speakers Ranked
 
-- [Pocket Size Bluetooth Speakers](/pocket-size/): 35 speakers ranked
+- [Pocket Size Bluetooth Speakers](/pocket-size/): 36 speakers ranked
 - [Small/Medium Size Bluetooth Speakers](/small-medium-size/): 124 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 72 speakers ranked
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 67 speakers ranked
