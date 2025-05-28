@@ -478,7 +478,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - EQ: No
 - TWS: No
 - MicroSD: No
-- Party Mode: No
+- Party Mode: Yes (Broadcast Mode) up to 100 speakers
 - Bluetooth Codecs: SBC
 - Power Input: USB-C
 - IP Rating: IPX5
