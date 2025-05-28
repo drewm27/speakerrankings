@@ -2031,12 +2031,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
 
-### #115 Skullcandy Terrain XT: $80
+### #115 Skullcandy Terrain/Terrain XT/Terrain XL: $80
 
 - Negatives: No bass, very rolled off treble. Just doesn't sound good
 - Battery Life: 14 hours
 - Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
+    - [FishBee Product Reviews: Why is NO ONE Buying the New Skullcandy Speakers??](https://www.youtube.com/watch?v=OJRFayx5pk0)
 
 ### #116 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325): 40
 
