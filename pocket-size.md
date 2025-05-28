@@ -470,7 +470,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
 
 ### #22 [Onn Small Rugged Speaker](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562): $15
-- Positives: Quite balanced. Amazing value for the money.
+- Positives: Amazing value for the money.
 - Negatives: Bass isn't quite as deep as the top ranked models. Lacking clarity compared to other models
 - Weight: 0.63lbs / 286g
 - Battery Life: 10 hours
