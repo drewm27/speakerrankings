@@ -467,7 +467,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
 
 ### #22 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl): $40
-- Positives: Very small, one of the smallest in the pocket class and good performance based on the size and weight.
+- Positives: Very small, one of the smallest in the pocket class and good performance based on the size and weight. Nice magnetic clip with hole for hanging
 - Negatives: For the pocket class, lacking quite a bit of bass compared to the top ranked speakers
 - Bass Extension: 90hz (-10dB)
 - Weight: 0.35lbs / 159g
