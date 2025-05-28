@@ -2033,7 +2033,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #115 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl): $45
 
-- Negatives: No bass, very rolled off treble. Just doesn't sound good
+- Negatives: No bass, very rolled off treble. Distortion in the treble. Just doesn't sound good
 - Battery Life: 14 hours
 - Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
