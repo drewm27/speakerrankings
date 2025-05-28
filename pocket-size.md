@@ -383,7 +383,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
-    - [Electric Chris [Chris Vanderstock]: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
+    - [Electric Chris Chris Vanderstock: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pe1-speaker)
 
