@@ -215,7 +215,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #8 [Electrotec Stage One](https://www.electrotecaudio.com/stage-one/): $1450
 - Positives: Gigantic dual swappable battery. Longest runtime of any speaker. Sounds very balanced. 12+ hour battery at full blast
 - Negatives: Designed for more loudness than deeper bass. Pretty expensive
-- Max Volume: 121db
 - Bass Extension: 48hz (-10dB)
 - Weight: 40lbs / 18.1kg
 - Battery Life: 100 hours
