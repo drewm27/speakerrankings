@@ -4,7 +4,7 @@ title: Personal Ranking of Speaker Reviewers
 comments: true
 ---
 
-This page ranks 45 online speaker reviewers and how much I trust their judgement in being unbiased in their choices and the quality of their audio recording equipment and recordings. I've dug deeply into their content to detect sponsored and paid advertisements. As you can see from my comments, there's a lot of paid sponsored biased reviewers on the bottom. 
+This page ranks 46 online speaker reviewers and how much I trust their judgement in being unbiased in their choices and the quality of their audio recording equipment and recordings. I've dug deeply into their content to detect sponsored and paid advertisements. As you can see from my comments, there's a lot of paid sponsored biased reviewers on the bottom. 
 
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
@@ -103,56 +103,59 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #27 [PAINFULLYHONESTTECH](https://www.youtube.com/@PAINFULLYHONESTTECH)
 - Using a vocal microphone to do speaker recordings is a big nono, they do not have a neutral frequency response. Was seen in a Soundcore advertisement and is likely very biased and paid by Soundcore. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #28 [RichBowlin](https://www.youtube.com/@RichBowlin)
+### #28 [FishBee Product Reviews](https://www.youtube.com/@fishbeeproductreviews)
+- Not great recording quality, treble is rolled off and bass isn't represented well.
+
+### #29 [RichBowlin](https://www.youtube.com/@RichBowlin)
 - Not great recording quality. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #29 [ScottsReviews](https://www.youtube.com/@ScottsReviews)
+### #30 [ScottsReviews](https://www.youtube.com/@ScottsReviews)
 - Not great recording quality. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #30 [Wired](https://www.wired.com/gallery/best-bluetooth-speakers/)
+### #31 [Wired](https://www.wired.com/gallery/best-bluetooth-speakers/)
 - It's pretty easy to see by their mediocre picks they didn't do any research into which are the best speakers and are likely sponsored by their picks directly. At least they managed to mention the excellent Tribit Stormbox Micro 2, but the rest are very mediocre.
 
-### #31 [New York Times](https://www.nytimes.com/wirecutter/reviews/best-bluetooth-speaker/)
+### #32 [New York Times](https://www.nytimes.com/wirecutter/reviews/best-bluetooth-speaker/)
 - Another set of very mediocre picks with no obvious research at all. There are no good picks in their list at all.
 
-### #32 [NewStuffTV1](https://www.youtube.com/@NewStuffTV1) and [NewStuffTV2](https://www.youtube.com/@NewStuffTV2)
+### #33 [NewStuffTV1](https://www.youtube.com/@NewStuffTV1) and [NewStuffTV2](https://www.youtube.com/@NewStuffTV2)
 - Not great recording quality, his microphone doesn't pick up any lower bass. Mostly interested in bass. Has been seen in Earfun and Soundcore advertisements on YouTube, likely paid by them. Appears to also be sponsored by Sony. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #33 [FlossyCarter](https://www.youtube.com/@FlossyCarter)
+### #34 [FlossyCarter](https://www.youtube.com/@FlossyCarter)
 - Recording quality isn't very good, mostly interested in bass. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #34 [DigitalSlang](https://www.youtube.com/@DigitalSlang)
+### #35 [DigitalSlang](https://www.youtube.com/@DigitalSlang)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #35 [geekanoids](https://www.youtube.com/@geekanoids)
+### #36 [geekanoids](https://www.youtube.com/@geekanoids)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #36 [raystrazdas](https://www.youtube.com/@raystrazdas)
+### #37 [raystrazdas](https://www.youtube.com/@raystrazdas)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #37 [TecHMoE](https://www.youtube.com/@TecHMoE)
+### #38 [TecHMoE](https://www.youtube.com/@TecHMoE)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #38 [TKBay](https://www.youtube.com/@TKBay)
+### #39 [TKBay](https://www.youtube.com/@TKBay)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #39 [StusReviewsUK](https://www.youtube.com/@StusReviewsUK)
+### #40 [StusReviewsUK](https://www.youtube.com/@StusReviewsUK)
 - Recording quality isn't very good, no comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #40 [TecH MoE](https://www.youtube.com/@TecHMoE)
+### #41 [TecH MoE](https://www.youtube.com/@TecHMoE)
 - Pretty close to completely useless. He blasts hip-hop at full blast which isn't the way these speakers are generally used. Generally no comparisons of speakers against each other either
 
-### #41 [KosherTech](https://www.youtube.com/@KosherTech)
+### #42 [KosherTech](https://www.youtube.com/@KosherTech)
 - Pretty close to completely useless, his microphone doesn't pick up any bass at all
 
-### #42 [MaxTechOfficial](https://www.youtube.com/@MaxTechOfficial)
+### #43 [MaxTechOfficial](https://www.youtube.com/@MaxTechOfficial)
 - No Sound samples, comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #43 [PatrickRambles](https://www.youtube.com/@PatrickRambles)
+### #44 [PatrickRambles](https://www.youtube.com/@PatrickRambles)
 - No Sound samples, comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #44 [Techtablets](https://www.youtube.com/@Techtablets)
+### #45 [Techtablets](https://www.youtube.com/@Techtablets)
 - No Sound samples, comparisons or anything useful in these videos. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
-### #45 [Popular Mechanics](https://www.popularmechanics.com/technology/gear/g37808156/best-waterproof-bluetooth-speakers/)
+### #46 [Popular Mechanics](https://www.popularmechanics.com/technology/gear/g37808156/best-waterproof-bluetooth-speakers/)
 - When you see an Altec Lansing speaker mentioned you know they didn't even listen to it at all. Almost all their picks are below average and a lot of them sound absolutely horrible.
