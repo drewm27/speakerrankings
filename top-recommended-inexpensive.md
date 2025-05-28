@@ -11,7 +11,7 @@ For more information, sound samples and specs about all these speakers, see the 
 
 ### The Best Inexpensive Small/Medium Size Speaker
 
-The best inexpensive [pocket size](/pocket-size/) battery powered portable Bluetooth speaker is the [**$15 Onn Small Rugged Speaker**](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562)
+The best inexpensive [pocket size](/pocket-size/) battery powered portable Bluetooth speaker is the [**$25 Tozo PE1**](https://www.amazon.com/dp/B0DFH1V13J?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.162P84W5N64Z6&linkCode=tr1&tag=rankingspea01-20&linkId=amzn1.campaign.162P84W5N64Z6_1748476501170)
 
 ### The Best Inexpensive Small/Medium Size Speaker
 
