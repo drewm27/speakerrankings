@@ -25,7 +25,7 @@ All of the companies below make very reliable power stations
 
 ### Smaller Power Banks for speakers that need USB
 
-For "large size" and smaller speakers that charge over USB you can use a power bank depending on the run time you want out of your speaker.
+For certain "boombox size" and all "large size" and smaller speakers that charge over USB you can use a power bank depending on the run time you want out of your speaker.
 
 Boombox size speakers generally have the equivalent of a 20,000mAh 3.7v battery inside. Large size speakers generally have the equivalent of a 10,000mAh 3.7v battery inside. Pocket/Small/Medium speakers generally have the equivalent of a 2500-5,000mAh 3.7v battery inside. This should give you an ideal of how much battery you would need for the runtime you desire. Double the battery would be double the play time.
 
