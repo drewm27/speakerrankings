@@ -9,7 +9,7 @@ I've been in ultra high end audio myself for at least 25 years now and even grew
 
 I've also been to headphone demo shows and have listened to almost all of the popular high end models. Crinacle has [written a headphone ranking doc](https://crinacle.com/rankings/headphones/) far better than I could put together, otherwise I'd consider doing it. I've built and designed speakers and have done work in crossover, driver and enclosure design. I'm also very familiar with most of the portable livesound speakers and have demoed or used nearly everything on the market.
 
-My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. At previous companies I have setup their home theater and livesound setups and have worked with all brands of gear.
+My degree is in Electrical Engineering and Computer science and I am quite familiar with the hardware, software design and tuning of embedded DSPs. I currently work in Software Engineering, and have worked at companies doing music recognition, speech recognition and Digital Signal Processing. At previous companies I have setup their home theater and livesound setups and have worked with a lot of brands of gear.
 
 ###### Current Portable Bluetooth speakers
 - [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325)
