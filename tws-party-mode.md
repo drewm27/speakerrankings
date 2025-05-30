@@ -35,7 +35,7 @@ Samsung has [Giga Party](https://www.samsung.com/us/support/answer/ANS00086422/)
 
 LG Xboom has [Auracast](https://www.bluetooth.com/auracast/)
 
-# Auracast 
+### Auracast 
 
 [Auracast](https://www.bluetooth.com/auracast/) is a way to do party mode across different manufacturers of speakers. Currently it is supported in very new JBL and LG Bluetooth devices. It is currently unknown if there are compatibility issues across speaker manufacturers.
 
