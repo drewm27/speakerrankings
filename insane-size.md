@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/partyboxultimate.jpg"
 ---
 
-This page ranks 5 insane size powered Bluetooth speakers. The insane size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
+This page ranks 6 insane size powered Bluetooth speakers. The insane size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
@@ -80,6 +80,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Microphone Input: Yes
 - IP Rating: IPX4
 - Power Input: AC Power cord
+- Removable Battery: Yes
 - Bluetooth Codecs: SBC
 - Comparisons and Sound Samples
     - [DLX Willington: I'M Floored 😲 JBL Partybox 710 vs 310 Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
@@ -89,7 +90,30 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-710-.html)
 
-### #4 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000): €950
+### #4 JBL Partybox 520: $880
+
+- Positives: Handle and wheels are convenient. Lightshow ability.
+- Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- Weight: 56.2lbs / 25.5kg
+- Battery Life: 15 hours
+- Aux Input: Yes
+- Power Bank: Yes
+- USB Playback: Yes
+- App: Yes
+- EQ: Yes (5 band)
+- TWS: Yes
+- Guitar Input: Yes
+- Microphone Input: Yes
+- Party Mode: Yes (Auracast)
+- IP Rating: IPX4
+- Power Input: AC Power cord
+- Bluetooth Codecs: SBC
+- Comparisons and Sound Samples
+    - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX520AM.html)
+
+### #5 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000): €950
 
 - Positives: Loudest battery powered speaker. Deeper bass than the Soundboks 2/3.
 - Negatives: Insanely heavy, not easy to carry. Not stereo. Only available in Europe
@@ -111,7 +135,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-105575000)
 
-### #5 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
+### #6 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325): $900
 
 - Positives: Can get slightly louder than a Partybox 310. Handle and wheels are convenient.
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page
