@@ -213,7 +213,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
 
 ### #8 [Electrotec Stage One](https://www.electrotecaudio.com/stage-one/): $1450
-- Positives: Gigantic dual swappable battery. Longest runtime of any speaker at 100+ hours. Sounds very balanced. 12+ hour battery at full blast
+- Positives: Gigantic dual swappable battery. Longest runtime of any speaker at 100+ hours. Sounds very balanced. 12+ hour battery at full blast. Extremely loud.
 - Negatives: Designed for more loudness than deeper bass. Pretty expensive
 - Bass Extension: 48hz (-10dB)
 - Weight: 40lbs / 18.1kg
