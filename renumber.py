@@ -11,6 +11,7 @@ count = {}
 countfile = {}
 count['total'] = 0
 count['bookshelf'] = 0
+count['passive'] = 0
 count['portable'] = 0
 
 def youtubeid_to_title(ytid):
@@ -41,6 +42,8 @@ for file in os.listdir():
                     if file != 'personal-ranking-of-speaker-reviewers.md':
                         if file.startswith('bookshelf-'):
                             count['bookshelf'] += 1
+                        elif file.startswith('passive-'):
+                            count['passive'] += 1
                         else:
                             count['portable'] += 1
                         count['total'] += 1
