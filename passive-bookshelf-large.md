@@ -23,7 +23,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
 - Reviews and Comparisons:
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
-    - <https://www.audiocircle.com/index.php?topic=167137.0>
+    - [Tyson's NX-Studio Review](https://www.audiocircle.com/index.php?topic=167137.0)
 
 ### #2 [KEF R3 Meta](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl): $2500
 - Positives: Pretty smooth frequency response and the coaxial midrange/tweeter creates a near perfect off-axis response. One of the best coaxial speakers I've ever seen measured.
@@ -37,6 +37,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons:
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
+    - [Erin's Audio Corner KEF R3 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_r3_meta/)
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
