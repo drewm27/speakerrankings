@@ -5,7 +5,7 @@ comments: true
 #cover-img: "/assets/img/kh80.jpg"
 ---
 
-This page ranks 9 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 6". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier.
+This page ranks 10 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 6". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier.
 
 Consider this page to be a work in progress and more speakers will be added.
 
@@ -28,7 +28,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Positives: Pretty smooth frequency response and the coaxial midrange/tweeter creates a near perfect off-axis response. One of the best coaxial speakers I've ever seen measured.
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D
-- Weight: 27.3lbs / 12.4kg
+- Weight: 27.3lbs / 12.4kg each
 - Frequency Response: 58Hz - 28kHz (+-3dB)
 - Sensitivity: 87dB
 - Impedance: 4 ohms
@@ -70,7 +70,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #6 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
-- Weight: 39.2lbs / 17.8kg
+- Weight: 39.2lbs / 17.8kg each
 - Frequency Response: 54Hz-22kHz (-6dB)
 - Sensitivity: 85dB
 - Impedance: 6 ohms
@@ -80,7 +80,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
-### #7 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
+### #7 [Elac Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl): $500
+- Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
+- Weight: 17.3lbs / 7.8kg each
+- Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Reviews and Comparisons:
+    - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
+
+### #8 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Reviews and Comparisons:
@@ -88,17 +95,17 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M II Website](https://www.klipsch.com/products/rp-600m-ii-bookshelf-speakers)
 
-### #8 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
+### #9 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Reviews and Comparisons:
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #9 Wharfdale Diamond 9.1: $400
+### #10 Wharfdale Diamond 9.1: $400
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
-- Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version)
+- Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
 - Reviews and Comparisons:
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
