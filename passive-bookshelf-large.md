@@ -14,9 +14,9 @@ This page ranks 1 large size bookshelf speakers. The large bookshelf class of sp
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
 - Frequency Response: 70hz - 20khz (+-2dB)
 - Dimensions: 18"H x 8.5"W x 15.5"D
-- Weight: 20lbs / 9kg
-- Tweeter: Neo3 Ribbon
-- Woofer: 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug
+- Weight: 20lbs / 9kg each
+- Tweeter: GR-Research Neo3 Planar Magnetic Ribbon
+- Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug
 - Reviews and Comparisons:
     - <https://www.youtube.com/watch?v=JX4b44M7R_o>
     - <https://www.audiocircle.com/index.php?topic=167137.0>
