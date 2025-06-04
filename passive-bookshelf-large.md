@@ -36,6 +36,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 6.5" Hybrid aluminum ported
 - Reviews and Comparisons:
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
+    - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
