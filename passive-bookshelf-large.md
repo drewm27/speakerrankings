@@ -17,6 +17,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Frequency Response: 70hz - 20khz (+-2dB)
 - Dimensions: 18"H x 8.5"W x 15.5"D
 - Weight: 20lbs / 9kg each
+- Sensitivity: 87dB
+- Impedance: 8 ohms
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
 - Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
 - Reviews and Comparisons:
@@ -32,6 +34,17 @@ Consider this page to be a work in progress and more speakers will be added.
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
+
+### #3 [ATC SCM19 v1](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
+- Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
+- Weight: 39.2lbs / 17.8kg
+- Frequency Response: 54Hz-22kHz (-6dB)
+- Sensitivity: 85dB
+- Impedance: 6 ohms
+- Reviews and Comparisons:
+    - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)
+- Links
+    - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
 ### #3 Wharfdale Diamond 9.1: $400
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
