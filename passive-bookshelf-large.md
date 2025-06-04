@@ -41,6 +41,8 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
 ### #3 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $360 for [the kit](https://gr-research.com/product/x-ls-encore/)
+- Reviews and Comparisons:
+    - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
  
 ### #4 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii): $2400
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz 
