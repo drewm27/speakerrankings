@@ -28,6 +28,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Positives: Pretty smooth frequency response and the coaxial midrange/tweeter creates a near perfect off-axis response. One of the best coaxial speakers I've ever seen measured.
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D
+- Weight: 27.3lbs / 12.4kg
 - Frequency Response: 58Hz - 28kHz (+-3dB)
 - Sensitivity: 87dB
 - Impedance: 4 ohms
@@ -41,6 +42,13 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
 ### #3 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $360 for [the kit](https://gr-research.com/product/x-ls-encore/)
+- Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
+- Dimensions: 13.5"H x 8.5"W x 12.125"D
+- Weight: 17lbs / 7.7kg each
+- Sensitivity: 87dB
+- Impedance: 8 ohms
+- Tweeter: 1" Peerless India T26SG
+- Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
 - Reviews and Comparisons:
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
  
