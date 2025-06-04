@@ -5,7 +5,9 @@ comments: true
 #cover-img: "/assets/img/kh80.jpg"
 ---
 
-This page ranks 1 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 6". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. 
+This page ranks 1 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 6". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier.
+
+Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -37,3 +39,4 @@ This page ranks 1 large size bookshelf speakers. The large bookshelf class of sp
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version)
 - Reviews and Comparisons:
     - <https://www.youtube.com/watch?v=1S-jTJK43t0>
+    - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
