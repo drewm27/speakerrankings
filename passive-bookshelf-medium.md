@@ -34,3 +34,4 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)
     - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
+    - [GR-Research: KEF Q150... can it get any BETTER?](https://www.youtube.com/watch?v=sFy-WtxoXQ0)
