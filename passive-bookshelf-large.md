@@ -2,7 +2,7 @@
 layout: page
 title: Large Size Bookshelf Speakers
 comments: true
-#cover-img: "/assets/img/kh80.jpg"
+cover-img: "/assets/img/kefr3meta.jpg"
 ---
 
 This page ranks 12 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
