@@ -4,7 +4,7 @@ title: Speaker Ranking
 cover-img: "/assets/img/uboomx.jpg"
 ---
 
-Speaker Ranking ranks a total of 404 battery powered portable Bluetooth speakers, passive speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes. It also contains the most neutral EQ tuning and setup for each speaker if possible. 
+Speaker Ranking ranks a total of 407 battery powered portable Bluetooth speakers, passive speakers and powered bookshelf speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes. It also contains the most neutral EQ tuning and setup for each speaker if possible. 
 
 Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings.
 
@@ -46,8 +46,11 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 13 speakers ranked
 
 ### All Passive Speakers Ranked
+Still a work in progress
 
-- [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 12 speakers ranked
+
+- [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 2 speakers ranked
+- [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 13 speakers ranked
 
 ### Related Products
 
@@ -65,7 +68,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 
-Last updated 06/04/2025
+Last updated 06/05/2025
 
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). 
 
