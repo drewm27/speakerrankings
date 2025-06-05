@@ -137,7 +137,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Elac Debut DB63 Website](https://elac.com/db63)
 
 ### #9 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
-- Negatives: Resonance in the driver around 750hz
+- Negatives: A noticeable resonance in the driver around 750hz
 - Tweeter: 1.1" Cerotar soft dome with Hexis
 - Woofer: 7.1" Magnesium Silicate Polymer
 - Reviews and Comparisons
