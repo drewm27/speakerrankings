@@ -87,6 +87,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons:
     - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=VCY_CDu5Xas)
     - [Erin's Audio Corner Website Elac DBR62](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/)
+    - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 - Links
     - [Official Elac DBR6 Website](https://elac.com/dbr62)
 
@@ -142,6 +143,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: What You Need to Know Before Buying The Polk R200!](https://www.youtube.com/watch?v=BzDClEAQsBU)
     - [Erin's Audio Corner Website Polk R200](https://www.erinsaudiocorner.com/loudspeakers/polk_r200/)
+    - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 
 ### #10 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
 - Negatives: A noticeable resonance in the driver around 750hz
@@ -197,7 +199,10 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
 - Reviews and Comparisons:
+    - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
+    - [Erin's Audio Corner Website Klipsch RP-600M II](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/)
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
+    - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 - Links
     - [Official Klipsch RP-600M II Website](https://www.klipsch.com/products/rp-600m-ii-bookshelf-speakers)
 
@@ -212,6 +217,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
 - Reviews and Comparisons:
+    - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
+    - [Erin's Audio Corner Website Klipsch RP-600M](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_i/)
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
