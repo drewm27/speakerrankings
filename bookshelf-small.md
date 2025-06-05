@@ -96,6 +96,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E3.5  sound.DEMO](https://www.youtube.com/watch?v=pZqLVCBXgyw)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Edifier R1280T   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9-6zpNiQv5M)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
+    - [Erin's Audio Corner: Mackie CR3-X vs PreSonus E3.5  Budget Monitor Showdown!](https://www.youtube.com/watch?v=FM4jQh45KyM)
 - Links
     - [Official Product Page](https://legacy.presonus.com/products/Eris-E35)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/presonus_eris3.5_mk2/)
@@ -113,6 +114,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
     - [DSAUDIO.review: Mackie CR3-X  vs  Edifier R1280T   Sound, Distortion & Frequency Response Comparison](https://www.youtube.com/watch?v=Q4f___YNb7w)
+    - [Erin's Audio Corner: Mackie CR3-X vs PreSonus E3.5  Budget Monitor Showdown!](https://www.youtube.com/watch?v=FM4jQh45KyM)
 - Links
     - [Official Product Page](https://mackie.com/en/products/studio-monitoring/cr-x-series/CR3_X.html)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/mackie_cr3x/)
