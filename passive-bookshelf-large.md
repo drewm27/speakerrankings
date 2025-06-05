@@ -99,6 +99,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 6.5"
 - Reviews and Comparisons:
     - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)
+    - [Erin's Audio Corner Website Polk Monitor XT20](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/)
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
