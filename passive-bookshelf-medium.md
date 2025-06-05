@@ -7,6 +7,8 @@ comments: true
 
 This page ranks 2 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". This size class will probably be the most ideal size for most people with a good balance between small size and reasonable bass output. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
+Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones.
+
 Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
