@@ -12,7 +12,7 @@ Consider this page to be a work in progress and more speakers will be added.
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/): $3630 or $1100 for [the kit](https://gr-research.com/product/nx-studio/)
-- Positives: Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
+- Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
 - Frequency Response: 70hz - 20khz (+-2dB)
 - Dimensions: 18"H x 8.5"W x 15.5"D
@@ -56,7 +56,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
 ### #4 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $360 for [the kit](https://gr-research.com/product/x-ls-encore/)
-- Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
+- Positives: Ultra clean burst decay/waterfall plot. An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
 - Weight: 17lbs / 7.7kg each
 - Sensitivity: 87dB
