@@ -5,7 +5,7 @@ comments: true
 #cover-img: "/assets/img/kh80.jpg"
 ---
 
-This page ranks 1 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". This size class will probably be the most ideal size for most people with a good balance between small size and reasonable bass output. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 2 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". This size class will probably be the most ideal size for most people with a good balance between small size and reasonable bass output. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones.
 
@@ -27,3 +27,10 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
     - [Audio Science Review Ascend Sierra 1](https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-1-v2-speaker-review.53350/)
 
+### #2 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl): $350
+- Positives: Fantastic off axis due to the coaxial design. Pretty good frequency response
+- Negatives: About 3dB boosted above 8khz and can be a little shouty
+- Sensitivity: 85dB
+- Reviews and Comparisons
+    - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)
+    - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
