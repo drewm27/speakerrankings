@@ -21,6 +21,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 8 ohms
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
 - Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
+- Woofer Cabinet: Sealed
 - Reviews and Comparisons:
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
 
@@ -34,6 +35,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 6 ohm
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon deep rear cup
 - Woofer: GR-Research M165 6.5" paper cone, non-resonant polymer frame
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Erin's Audio Corner: You've Been Waiting for This... GR Research NX-Bravo Review!](https://www.youtube.com/watch?v=g9MsYUONNhg)
     - [Erin's Audio Corner Website GR-Research NX-Bravo Review](https://www.erinsaudiocorner.com/loudspeakers/gr_nx_bravo/)
@@ -49,6 +51,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Midrange/Tweeter: 5" aluminum cone with 1" vented aluminium dome with MAT
 - Woofer: 6.5" Hybrid aluminum ported
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
     - [Erin's Audio Corner Website KEF R3 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_r3_meta/)
@@ -65,8 +68,25 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 8 ohms
 - Tweeter: 1" Peerless India T26SG
 - Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
+
+### #4 [Elac DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl): $800
+- Positives: Pretty neutral all around, a little bit of a V curve
+- Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
+- Dimensions: 14.1"H x 8.2"W x 10.8"D
+- Weight: 18.1lbs / 8.2kg each
+- Sensitivity: 86dB
+- Impedance: 6 ohms
+- Tweeter: 1" soft dome tweeter
+- Woofer: 6.5" Aramid Fiber
+- Woofer Cabinet: Ported
+- Reviews and Comparisons:
+    - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=VCY_CDu5Xas)
+    - [Erin's Audio Corner Website Elac DBR62](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/)
+- Links
+    - [Official Elac DBR6 Website](https://elac.com/dbr62)
 
 ### #5 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii): $2400
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz
@@ -76,6 +96,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aluminum cone
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=yXhsJejwGuw)
     - [Erin's Audio Corner Website Buchardt S400 MKII](https://www.erinsaudiocorner.com/loudspeakers/buchardt_s400_mkii/)
@@ -91,6 +112,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 6 ohms
 - Tweeter: 1" Esotar soft dome tweeter
 - Woofer: 5.9" MSP (Magnesium Silicate Polymer) cone
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Erin's Audio Corner: Dynaudio Special Forty Looks and Sounds Pretty Awesome!](https://www.youtube.com/watch?v=jDTOAw4gLNM)
     - [Erin's Audio Corner Website Dynaudio Special Forty](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_special_forty/)
@@ -106,6 +128,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 6 ohms
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aramid fiber cone
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
 - Links
@@ -121,6 +144,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 8 ohms
 - Tweeter: 1" Terylene dome tweeter
 - Woofer: 6.5" bilaminate paper cone
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)
     - [Erin's Audio Corner Website Polk Monitor XT20](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/)
@@ -136,6 +160,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 6 ohms
 - Tweeter: 1" soft dome tweeter
 - Woofer: 5.9" Super Linear Magnet cone
+- Woofer Cabinet: Sealed
 - Reviews and Comparisons:
     - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)
 - Links
@@ -151,6 +176,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 8 ohms
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
 - Links
@@ -165,6 +191,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 8 ohms
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
 - Links
@@ -178,6 +205,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 6 ohms
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Kevlar cone
+- Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
