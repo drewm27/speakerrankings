@@ -86,10 +86,7 @@ with open('index.md', 'w') as f:
             filename = url + '.md'
             if filename in countfile:
                 if countfile[filename] > 0:
-                    if filename != 'personal-ranking-of-speaker-reviewers.md':
-                        line = line.split(':')[0].strip() + ': ' + str(countfile[filename]) + ' speakers ranked\n'
-                    else:
-                        line = line.split(':')[0].strip() + ': ' + str(countfile[filename]) + ' reviewers ranked\n'
+                        line = re.sub(regex, ' ' + str(countfile[filename]) + ' ', line, count=1)
         f.write(line)
 
 for filename in glob.glob(os.path.join('./', 'top-recommended*.md')):

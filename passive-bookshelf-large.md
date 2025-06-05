@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/kefr3meta.jpg"
 ---
 
-This page ranks 13 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 14 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones.
 
@@ -136,7 +136,17 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac Debut DB63 Website](https://elac.com/db63)
 
-### #9 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl): $250
+### #9 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
+- Negatives: Resonance in the driver around 750hz
+- Tweeter: 1.1" Cerotar soft dome with Hexis
+- Woofer: 7.1" Magnesium Silicate Polymer
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Hands On With the Dynaudio Emit 20](https://www.youtube.com/watch?v=Z7R9YApGY6w)
+    - [Erin's Audio Corner Website Dynaudio Emit 20](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/)
+- Links
+    - [Official Website](https://dynaudio.com/home-audio/emit/emit-20)
+
+### #10 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl): $250
 - Positives: A great value for the price, nothing else under $300 will compete
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
 - Frequency Response: 38Hz - 40kHz
@@ -153,7 +163,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
-### #10 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
+### #11 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Frequency Response: 54Hz - 22kHz (-6dB)
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
@@ -168,7 +178,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
-### #11 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
+### #12 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
 - Frequency Response: 44Hz - 25kHz (±3dB)
@@ -184,7 +194,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M II Website](https://www.klipsch.com/products/rp-600m-ii-bookshelf-speakers)
 
-### #12 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
+### #13 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Frequency Response: 44Hz - 25kHz (±3dB)
 - Dimensions: 15.7"H x 8"W x 11.9"D
@@ -199,7 +209,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #13 Wharfedale Diamond 9.1: $400
+### #14 Wharfedale Diamond 9.1: $400
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
