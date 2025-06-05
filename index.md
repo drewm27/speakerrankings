@@ -46,11 +46,8 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 13 speakers ranked
 
 ### All Passive Speakers Ranked
-Still a work in progress
-
-
-- [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 2 speakers ranked
-- [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 13 speakers ranked
+- [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 2 speakers ranked (**Note: Work in progress**)
+- [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 13 speakers ranked (**Note: Work in progress**)
 
 ### Related Products
 
