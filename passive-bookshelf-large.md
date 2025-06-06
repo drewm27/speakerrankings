@@ -26,7 +26,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons:
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
 - Links
-    - [Official KEF R3 Meta Website](https://gr-research.com/product/nx-studio-pair/)
+    - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
 
 ### #2 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/20/): $1145
 - Positives: Insanely good directivity and frequency response, and just an insane value for the price.
