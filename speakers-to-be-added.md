@@ -7,7 +7,7 @@ comments: true
 This page lists all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
 1. Flip 7
-1. Polk XT20
+1. Kali Audio IN-8 V2
 1. KEF LS50
 1. KEF Q Concerto Meta
 1. KEF Q3 Meta
