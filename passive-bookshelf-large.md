@@ -59,6 +59,8 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: You've Been Waiting for This... GR Research NX-Bravo Review!](https://www.youtube.com/watch?v=g9MsYUONNhg)
     - [Erin's Audio Corner Website GR-Research NX-Bravo Review](https://www.erinsaudiocorner.com/loudspeakers/gr_nx_bravo/)
     - [GR-Research: Introducing: NX-Bravo  How It Compares](https://www.youtube.com/watch?v=7h72KXd8Q3c)
+- Links
+    - [Official GR-Research NX-Bravo Website](https://gr-research.com/product/nx-bravo-kit/)
 
 ### #4 [KEF R3 Meta](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl): $2500
 - Positives: Pretty smooth frequency response and the coaxial midrange/tweeter creates a near perfect off-axis response. One of the best coaxial speakers I've ever seen measured.
@@ -92,6 +94,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
+- Links
+    - [Official GR-Research X-LS Encor Website](https://gr-research.com/product/xls-encore/)
 
 ### #6 [Elac DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl): $800
 - Positives: Pretty neutral all around, a little bit of a V curve
