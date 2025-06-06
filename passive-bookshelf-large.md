@@ -13,12 +13,11 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/): $3630 or $1100 for [the kit](https://gr-research.com/product/nx-studio/)
+### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/): $3630 or $1500 for [the kit](https://gr-research.com/product/nx-studio/) with flatpack
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
-- Frequency Response: 70hz - 20khz (±2dB)
-- Dimensions: 18"H x 8.5"W x 15.5"D
-- Weight: 20lbs / 9kg each
+- Dimensions: 24"H x 10"W x 14"D
+- Weight: 20.6lbs / 9.3kg each
 - Sensitivity: 87dB
 - Impedance: 8 ohms
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
@@ -47,7 +46,8 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #3 [GR-Research NX-Bravo](https://gr-research.com/product/nx-bravo-kit/): $1540 kit with finished cabinets (assembly required)
 - Positives: Ultra clean burst decay/waterfall plot
 - Negatives: 2db dip at 3.7khz, 2dB dip at 8khz, 2dB treble peak up around 14khz
-- Frequency Response: 55hz - 20khz (±2dB)
+- Bass Extension (-3dB): 77hz
+- Bass Extension (-10dB): 45hz
 - Dimensions: 14"H x 7.5"W x 11.5"D
 - Weight: 16lbs / 7.3kg each
 - Sensitivity: 85dB
@@ -65,7 +65,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D
 - Weight: 27.3lbs / 12.4kg each
-- Frequency Response: 58Hz - 28kHz (±3dB)
+- Bass Extension (-3dB): 76hz
+- Bass Extension (-10dB): 37hz
 - Sensitivity: 87dB
 - Impedance: 4 ohms
 - Midrange/Tweeter: 5" aluminum cone with 1" vented aluminium dome with MAT
@@ -80,11 +81,12 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #5 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $360 for [the kit](https://gr-research.com/product/x-ls-encore/)
 - Positives: Ultra clean burst decay/waterfall plot. An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
-- Frequency Response: 50Hz - 20kHz (±3dB)
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
 - Weight: 17lbs / 7.7kg each
 - Sensitivity: 87dB
 - Impedance: 8 ohms
+- Bass Extension (-3dB): 64hz
+- Bass Extension (-10dB): 44hz
 - Tweeter: 1" Peerless India T26SG
 - Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
@@ -98,6 +100,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Weight: 18.1lbs / 8.2kg each
 - Sensitivity: 86dB
 - Impedance: 6 ohms
+- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 41hz
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Ported
@@ -114,6 +118,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Weight: 16.5lbs / 7.5kg each
 - Sensitivity: 87dB
 - Impedance: 4 ohms
+- Bass Extension (-3dB): 59hz
+- Bass Extension (-10dB): 40hz
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aluminum cone
 - Woofer Cabinet: Ported
@@ -125,11 +131,12 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #8 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair): $3600
 - Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz
-- Frequency Response: 41Hz - 23kHz (±3dB)
 - Dimensions: 14.1"H x 7.7"W x 12.1"D
 - Weight: 17.9lbs / 8.1kg each
 - Sensitivity: 86dB
 - Impedance: 6 ohms
+- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 39hz
 - Tweeter: 1" Esotar soft dome tweeter
 - Woofer: 5.9" MSP (Magnesium Silicate Polymer) cone
 - Woofer Cabinet: Ported
@@ -141,11 +148,12 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #9 [Elac Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl): $500
 - Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
-- Frequency Response: 42Hz - 38kHz (-6dB)
 - Dimensions: 13.3"H x 7.7"W x 11.7"D
 - Weight: 17.3lbs / 7.8kg each
 - Sensitivity: 87dB
 - Impedance: 6 ohms
+- Bass Extension (-3dB): 76hz
+- Bass Extension (-10dB): 40hz
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aramid fiber cone
 - Woofer Cabinet: Ported
@@ -157,13 +165,18 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #10 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl): $750
 - Positives: Really good neutrality and linearity 
 - Negatives: Narrow off axis above 5khz
+- Bass Extension (-3dB): 74hz
+- Bass Extension (-10dB): 50hz
 - Reviews and Comparisons
     - [Erin's Audio Corner: What You Need to Know Before Buying The Polk R200!](https://www.youtube.com/watch?v=BzDClEAQsBU)
     - [Erin's Audio Corner Website Polk R200](https://www.erinsaudiocorner.com/loudspeakers/polk_r200/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 
 ### #11 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
+- Positives: Really deep bass extension for the size class
 - Negatives: A noticeable resonance in the driver around 750hz
+- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 33hz
 - Tweeter: 1.1" Cerotar soft dome with Hexis
 - Woofer: 7.1" Magnesium Silicate Polymer
 - Reviews and Comparisons
@@ -175,11 +188,12 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #12 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl): $250
 - Positives: A great value for the price, nothing else under $300 will compete
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
-- Frequency Response: 38Hz - 40kHz
 - Dimensions: 13"H x 7.5"W x 11"D
 - Weight: 12lbs / 5.4kg each
 - Sensitivity: 87dB
 - Impedance: 8 ohms
+- Bass Extension (-3dB): 75hz
+- Bass Extension (-10dB): 50hz
 - Tweeter: 1" Terylene dome tweeter
 - Woofer: 6.5" bilaminate paper cone
 - Woofer Cabinet: Ported
@@ -191,11 +205,12 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #13 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
-- Frequency Response: 54Hz - 22kHz (-6dB)
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
 - Weight: 39.2lbs / 17.8kg each
 - Sensitivity: 85dB
 - Impedance: 6 ohms
+- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 34hz
 - Tweeter: 1" soft dome tweeter
 - Woofer: 5.9" Super Linear Magnet cone
 - Woofer Cabinet: Sealed
@@ -207,11 +222,12 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #14 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
-- Frequency Response: 44Hz - 25kHz (±3dB)
 - Dimensions: 15.7"H x 8"W x 12.5"D
 - Weight: 13lbs / 5.9kg each
-- Sensitivity: 94.5dB
+- Sensitivity: 86dB
 - Impedance: 8 ohms
+- Bass Extension (-3dB): 70hz
+- Bass Extension (-10dB): 41hz
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
@@ -225,11 +241,12 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #15 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
-- Frequency Response: 44Hz - 25kHz (±3dB)
 - Dimensions: 15.7"H x 8"W x 11.9"D
 - Weight: 16lbs / 7.3kg each
-- Sensitivity: 96dB
+- Sensitivity: 86dB
 - Impedance: 8 ohms
+- Bass Extension (-3dB): 73hz
+- Bass Extension (-10dB): 40hz
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
