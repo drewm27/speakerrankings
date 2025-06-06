@@ -163,6 +163,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer Cabinet: Ported
 - Reviews and Comparisons:
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
+    - [Erin's Audio Corner Website Elac Debut DB63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
     - [Official Elac Debut DB63 Website](https://elac.com/db63)
 
