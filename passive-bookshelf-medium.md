@@ -29,7 +29,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 
 ### #2 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl): $350
-- Positives: Fantastic off axis due to the coaxial design. Pretty good frequency response
+- Positives: Fantastic off axis due to the coaxial design.
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Sensitivity: 85dB
 - Reviews and Comparisons
