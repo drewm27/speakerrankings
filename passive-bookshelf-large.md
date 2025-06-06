@@ -110,7 +110,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Ported
 - Reviews and Comparisons:
-    - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=VCY_CDu5Xas)
+    - [Erin's Audio Corner: Top 3 Things You Need to Know About ELAC DBR62 Before You Buy](https://www.youtube.com/watch?v=VCY_CDu5Xas)
     - [Erin's Audio Corner Website Elac DBR62](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 - Links
