@@ -81,7 +81,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
-### #5 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $360 for [the kit](https://gr-research.com/product/x-ls-encore/)
+### #5 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
 - Positives: Ultra clean burst decay/waterfall plot. An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
 - Weight: 17lbs / 7.7kg each
