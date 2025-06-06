@@ -15,7 +15,13 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #1 [Audiofirst Fidelia](https://audiofirstdesigns.co.uk/fidelia): £950 for the flatpack kit (assembly required)
 - Positives: The absolute top speaker in this size class
-- Negatives: 2dB bump around 5-6khz. Doesn't get super loud. Only in kit form.
+- Negatives: Slight 2dB bump around 5-6khz. Only available in kit form.
+- Dimensions: 11.8"H x 7.1"W x 11.7"D
+- Weight: 15lbs / 6.8kg each
+- Sensitivity: 84dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 38hz
 - Tweeter: 1" ceramic-aluminum tweeter 
 - Woofer: 5" ceramic-aluminum cone woofer
 - Reviews and Comparisons
@@ -30,6 +36,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Weight: 12lbs / 5.4kg each
 - Sensitivity: 82dB
 - Impedance: 8 ohms
+- Bass Extension (-3dB): 55hz
+- Bass Extension (-10dB): 39hz
 - Tweeter: 1" aluminum/magnesium alloy dome
 - Woofer: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings
 - Woofer Cabinet: Ported
@@ -48,6 +56,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Weight: 12.3lbs / 5.6kg each
 - Sensitivity: 85dB
 - Impedance: 8 ohms
+- Bass Extension (-3dB): 51hz
+- Bass Extension (-10dB): 44hz
 - Tweeter: 1" vented aluminium dome
 - Woofer: 5.1" aluminium Uni-Q
 - Reviews and Comparisons

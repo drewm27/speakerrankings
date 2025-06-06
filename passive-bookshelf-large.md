@@ -34,8 +34,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Dimensions: 15.7"H x 8"W x 10.4"D
 - Weight: 18.5lbs / 8.4kg each
 - Impedance: 4 ohm
-- Bass Extension (-3dB): 50hz
-- Bass Extension (-6dB): 41hz
+- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 35hz
 - Sensitivity: 85dB
 - Tweeter: 1" Aluminium Ceramic Dome
 - Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
