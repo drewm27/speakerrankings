@@ -33,7 +33,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Sensitivity: 85dB
 - Reviews and Comparisons
-    - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)
-    - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
+    - <https://www.youtube.com/watch?v=SiGslBHnK9c>
+    - [Erin's Audio Corner Website KEF Q150](https://www.erinsaudiocorner.com/loudspeakers/kef_q150/)
     - [GR-Research: KEF Q150... can it get any BETTER?](https://www.youtube.com/watch?v=sFy-WtxoXQ0)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
