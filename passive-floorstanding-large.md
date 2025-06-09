@@ -75,7 +75,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
 
-### #5 [Revel F226Be](https://www.crutchfield.com/p_265F226BK/Revel-PerformaBe-F226Be-Black-Gloss.html)
+### #5 [Revel F226Be](https://www.crutchfield.com/p_265F226BK/Revel-PerformaBe-F226Be-Black-Gloss.html): $5400
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
 - Dimensions: 41.3"H x 9.8"W x 13.7"D
