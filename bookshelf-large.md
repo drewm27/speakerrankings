@@ -17,7 +17,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 
 ### #1 [Neumann KH420](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189): $10500 a pair
-- Positives: Exceptionally flat frequency response, fantastic off axis. Likely one of the best studio monitors for mastering recordings in existence. Probably not worth the price for just listening to music.
+- Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass Likely one of the best studio monitors for mastering recordings in existence. Probably not worth the price for just listening to music.
 - Negatives: Probably not worth the price for just listening to music. Way expensive
 - Bass Extension (-3dB): 32hz
 - Bass Extension (-10dB): 24hz
@@ -32,7 +32,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-420)
 
 ### #2 [Genelec 8351B](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_active_studio_monitor_dual.html?BI=23745&KBID=29189): $9150 a pair
-- Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Probably not worth the price for just listening to music.
+- Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass. Probably not worth the price for just listening to music.
 - Negatives: Probably not worth the price for just listening to music. Way expensive
 - Bass Extension (-3dB): 33hz
 - Bass Extension (-10dB): 28hz
