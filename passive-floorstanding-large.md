@@ -82,6 +82,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Weight: 58lbs / 26.4kg each
 - Sensitivity: 90dB
 - Impedance: 8 ohms
+- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 36hz
 - Tweeter: 	1" (25mm) Beryllium dome, with acoustic lens waveguide
 - Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Woofer: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames
