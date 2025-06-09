@@ -15,7 +15,7 @@ My perfect minimal speaker setup would be **2** [**$50 Earfun Uboom L**](https:/
 
 ### The Best Small Pocket Size Speaker For Sound Quality
 
-The best [pocket size](/pocket-size/) speaker with the best sound quality is the [**$60 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
+The best [small pocket size](/pocket-size/) speaker with the best sound quality is the [**$60 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
 
 ### The Best Medium Size Speaker For Sound Quality
 
