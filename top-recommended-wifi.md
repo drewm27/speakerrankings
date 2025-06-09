@@ -13,7 +13,7 @@ For more information, sound samples and specs about all these speakers, see the 
 
 ### The Best Medium Size Portable Bluetooth Speaker with Wifi
 
-The best [small/medium size](/small-medium-size/) battery powered speaker with Wifi is the [**$250 JBL Charge 5 Wifi**](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl)
+The best [medium size](/small-medium-size/) battery powered speaker with Wifi is the [**$250 JBL Charge 5 Wifi**](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl)
 
 ### The Best Large Size Portable Bluetooth Speaker with Wifi
 

@@ -15,7 +15,7 @@ The best [pocket size](/pocket-size/) speaker with party mode is the [**$45 Soun
 
 ### The Best Medium Size Speaker With Party Mode
 
-The best [small/medium size](/small-medium-size/) battery powered speaker with party mode is the [**$200 JBL Charge 6**](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl+charge+6&qid=1743788038&sprefix=jbl+charge+6,aps,254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)
+The best [medium size](/small-medium-size/) battery powered speaker with party mode is the [**$200 JBL Charge 6**](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl+charge+6&qid=1743788038&sprefix=jbl+charge+6,aps,254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)
 
 ### The Best Large Size Speaker With Party Mode
 

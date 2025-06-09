@@ -15,7 +15,7 @@ The loudest [pocket size](/pocket-size/) battery powered speaker is the [**$60 T
 
 ### The Loudest Medium Size Speaker
 
-The loudest [small/medium size](/small-medium-size/) battery powered speaker is the [**$200 Minirig 4**](https://www.amazon.com/gp/product/B0D1CFLXX6?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e4785ea4642ece474fa55c18e2ef28d5&language=en_US&ref_=as_li_ss_tl)
+The loudest [medium size](/small-medium-size/) battery powered speaker is the [**$200 Minirig 4**](https://www.amazon.com/gp/product/B0D1CFLXX6?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e4785ea4642ece474fa55c18e2ef28d5&language=en_US&ref_=as_li_ss_tl)
 
 ### The Loudest Large Size Speaker
 
