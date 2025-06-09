@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 4 large size floorstanding speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 5 large size floorstanding speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend any of the speakers in the top 80% of this page, just stay away from the ones near the bottom.
 
@@ -45,7 +45,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #3 [Revel F228Be](https://www.crutchfield.com/S-oLgLybN5EdZ/p_265F228BEB/Revel-PerformaBe-F228Be-High-Gloss-Black.html): $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
-- Negatives: Vertical off aix isn't quite as good as others
+- Negatives: Vertical off axis isn't quite as good as others
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
 - Weight: 112.6lbs / 51kg each
 - Sensitivity: 91dB
@@ -74,3 +74,21 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review KEF R11 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-r11-meta-tower-speaker-review.53282/)
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
+
+### #5 [Revel F226Be](https://www.crutchfield.com/p_265F226BK/Revel-PerformaBe-F226Be-Black-Gloss.html)
+- Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
+- Negatives: Vertical off aix isn't quite as good as others
+- Dimensions: 41.3"H x 9.8"W x 13.7"D
+- Weight: 58lbs / 26.4kg each
+- Sensitivity: 90dB
+- Impedance: 8 ohms
+- Tweeter: 	1" (25mm) Beryllium dome, with acoustic lens waveguide
+- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
+- Woofer: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames
+- Woofer Cabinet: Front ported
+- Reviews and Comparisons:
+    - [Erin's Audio Corner: Should You Buy the Revel F226Be or the MoFi 888?](https://www.youtube.com/watch?v=xJoc_KdoLpQ)
+    - [Erin's Audio Review Website Revel F226B](https://www.erinsaudiocorner.com/loudspeakers/revel_f226be/)
+- Links
+    - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
+
