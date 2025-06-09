@@ -13,7 +13,7 @@ For more information, sound samples and specs about all these speakers, see the 
 
 The loudest [pocket size](/pocket-size/) battery powered speaker is the [**$60 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
 
-### The Loudest Small/Medium Size Speaker
+### The Loudest Medium Size Speaker
 
 The loudest [small/medium size](/small-medium-size/) battery powered speaker is the [**$200 Minirig 4**](https://www.amazon.com/gp/product/B0D1CFLXX6?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e4785ea4642ece474fa55c18e2ef28d5&language=en_US&ref_=as_li_ss_tl)
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Small/Medium Size Bluetooth Speakers
+title: Medium Size Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/ubooml.jpg"
 ---

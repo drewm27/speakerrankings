@@ -17,7 +17,7 @@ My perfect minimal speaker setup would be **2** [**$50 Earfun Uboom L**](https:/
 
 The best [pocket size](/pocket-size/) speaker with the best sound quality is the [**$60 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
 
-### The Best Small/Medium Size Speaker For Sound Quality
+### The Best Medium Size Speaker For Sound Quality
 
 The best [small/medium size](/small-medium-size/) battery powered speaker with the best sound quality with modern features is the [**$50 Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7?crid=2992F60ORGRZS&dib=eyJ2IjoiMSJ9.qR8CZGQDBoXsAOw9Y72_DNL9FR4s_xvGnImzZ2bm4bQfhkyd7QtH7-jNOMiPEklPG4eDLBjmk1MAx4aExf9n-RNNkynu-0rvY_8Pz_cZdbeBpl2pDvccYQ4qGzBGxr7vu15qddrDqlb52kY2DSAAExgeL1m4kGI54-6C1D2GeEDuvUgbrVnyrG-eamCDKo5UxKJnHcBBrUXQzUac5p8vSanUXBQOKOuQN4qS9tDU0Qc.Mbeo5E-cyXEKb47y5825xTnR-TYU9nRQ-EoC9T7n9pQ&dib_tag=se&keywords=uboom+l&qid=1728538687&sprefix=uboom+%2Caps%2C204&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=414d38887e99851dcec65ad88cb86c6f&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and coupon UBOOMLWC in the payment options) with Oluv's EQ turned on in the Earfun app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156). If the app doesn't work, update the speaker to [firmware 1.2.7](https://drive.google.com/drive/folders/1jxg3eJFxHTtSu00NY3wqXOoDnMGqpO3c?usp=drive_link). 
 
