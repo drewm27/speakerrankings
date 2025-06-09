@@ -46,6 +46,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.genelec.com/8351b)
 
+### #3 [HEDD Type 20 MK2](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189): $4800 a pair
+- Comparisons and Sound Samples
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
+- Links
+    - [Official Product Page](https://hedd.audio/products/type-20-mk2)
+
 ### #3 [Genelec 8050B](https://guitar-center.pxf.io/3e5MxK): $3800 a pair
 - Positives: Based on their smaller speaker's performance against others, I'm ranking this accordingly.
 - Negatives: Probably not worth the price for just listening to music. Way expensive
