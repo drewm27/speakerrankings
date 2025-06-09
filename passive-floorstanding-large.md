@@ -2,7 +2,7 @@
 layout: page
 title: Large Size Floorstanding Speakers
 comments: true
-cover-img: "/assets/img/nxstudio.jpg"
+cover-img: "/assets/img/revelf208.jpg"
 ---
 
 This page ranks 5 large size floorstanding speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
