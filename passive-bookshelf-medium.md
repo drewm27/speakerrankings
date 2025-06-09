@@ -37,7 +37,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Sensitivity: 85dB
 - Impedance: 8 ohms
 - Bass Extension (-3dB): 68hz
-- Bass Extension (-10dB): 43434343hz
+- Bass Extension (-10dB): 43hz
 - Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
 - Woofer: 130 mm (5.25 in.) aluminium cone
 - Reviews and Comparisons
