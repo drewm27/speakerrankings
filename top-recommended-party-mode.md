@@ -9,7 +9,7 @@ This page lists the best sounding portable Bluetooth speakers with party mode ou
 
 For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
-### The Best Pocket Size Speaker With Party Mode
+### The Best Small Pocket Size Speaker With Party Mode
 
 The best [pocket size](/pocket-size/) speaker with party mode is the [**$45 Soundcore Mini 3 Pro**](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl)
 
