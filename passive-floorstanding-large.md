@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 12 large size floorstanding speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 13 large size floorstanding speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend any of the speakers in the top 80% of this page, just stay away from the ones near the bottom.
 
@@ -137,3 +137,10 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
+
+### #13 Triangle Esprit Antal Ez
+- Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
+- Reviews and Comparisons:
+    - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
+- Links
+    - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
