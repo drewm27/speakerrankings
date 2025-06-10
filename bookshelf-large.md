@@ -17,8 +17,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 
 ### #1 [Neumann KH420](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189): $10500 a pair
-- Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass Likely one of the best studio monitors for mastering recordings in existence. Probably not worth the price for just listening to music.
-- Negatives: Probably not worth the price for just listening to music. Way expensive
+- Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass Likely one of the best studio monitors for mastering recordings in existence.
+- Negatives: Very expensive
 - Bass Extension (-3dB): 32hz
 - Bass Extension (-10dB): 24hz
 - Dimensions: 25.4"H x 13"W x 17.5"D
@@ -32,8 +32,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-420)
 
 ### #2 [Genelec 8351B](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_active_studio_monitor_dual.html?BI=23745&KBID=29189): $9150 a pair
-- Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass. Probably not worth the price for just listening to music.
-- Negatives: Probably not worth the price for just listening to music. Way expensive
+- Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.
+- Negatives: Very expensive
 - Bass Extension (-3dB): 33hz
 - Bass Extension (-10dB): 28hz
 - Dimensions: 17"H x 11.3"W x 10.9"D
@@ -54,7 +54,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #4 [Genelec 8050B](https://guitar-center.pxf.io/3e5MxK): $3800 a pair
 - Positives: Based on their smaller speaker's performance against others, I'm ranking this accordingly.
-- Negatives: Probably not worth the price for just listening to music. Way expensive
+- Negatives: Very expensive
 - Frequency Response: 32Hz – 25kHz (-6dB)
 - Dimensions: 17.8"H x 11.3"W x 10.9"D
 - Weight: 31.7lbs / 14.4kg each
@@ -68,7 +68,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #5 [Genelec 8040B](https://guitar-center.pxf.io/y2Dx3V): $2350 a pair
 - Positives: Based on their smaller speaker's performance against others, I'm ranking this accordingly.
-- Negatives: Probably not worth the price for just listening to music. Way expensive
+- Negatives: Very expensive
 - Frequency Response: 41Hz – 25kHz (-6dB)
 - Dimensions: 14.4"H x 9.3"W x 8.8"D
 - Weight: 20.7lbs / 9.4kg each
