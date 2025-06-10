@@ -177,7 +177,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
 ### #15 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair): $3600
-- Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz
+- Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz. Not recommended for the price
 - Dimensions: 14.1"H x 7.7"W x 12.1"D
 - Weight: 17.9lbs / 8.1kg each
 - Sensitivity: 86dB
