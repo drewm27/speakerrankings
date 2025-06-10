@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---
 
-This page ranks 7 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". This size class will probably be the most ideal size for most people with a good balance between small size and reasonable bass output. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 8 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". This size class will probably be the most ideal size for most people with a good balance between small size and reasonable bass output. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend any of the speakers in the top 80% of this page, just stay away from the ones near the bottom.
 
@@ -87,11 +87,18 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #6 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)
 - Reviews and Comparisons:
-    - [Wharfedale Diamond 12.1 Speaker Review](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-speaker-review.18655/)
+    - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-speaker-review.18655/)
 - Links:
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
 
-### #7 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl): $350
+### #7 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
+- Reviews and Comparisons:
+    - [Audio Science Review PHilharmonic Affordable Accuracy Monitor](https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/)
+- Links:
+    - [Official PHilharmonic Affordable Accuracy Monitor Website](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
+
+
+### #8 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl): $350
 - Positives: Fantastic off axis due to the coaxial design.
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Dimensions: 11.9"H x 7.1"W x 10.9"D
