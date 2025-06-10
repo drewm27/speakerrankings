@@ -81,42 +81,26 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
-### #5 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
-- Positives: Ultra clean burst decay/waterfall plot. An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
-- Dimensions: 13.5"H x 8.5"W x 12.125"D
-- Weight: 17lbs / 7.7kg each
-- Sensitivity: 87dB
-- Impedance: 8 ohms
-- Bass Extension (-3dB): 64hz
-- Bass Extension (-10dB): 44hz
-- Tweeter: 1" Peerless India T26SG
-- Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
-- Woofer Cabinet: Ported
-- Reviews and Comparisons:
-    - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
-- Links
-    - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
-
-### #6 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364
+### #5 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364
 - Reviews and Comparisons:
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links:
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
-### #7 Revel M106
+### #6 Revel M106
 - Reviews and Comparisons:
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links:
     - [Official Revel M106 Website](https://www.revelspeakers.com/products/types/bookshelf/M106-.html)
 
-### #8 [JBL HDI-1600](https://www.crutchfield.com/S-q5HNA0r6Kpp/p_109HDI16B/JBL-HDI-1600-High-Gloss-Black.html)
+### #7 [JBL HDI-1600](https://www.crutchfield.com/S-q5HNA0r6Kpp/p_109HDI16B/JBL-HDI-1600-High-Gloss-Black.html)
 - Reviews and Comparisons:
     - [Audio Science Review JBL HDI-1600](https://www.audiosciencereview.com/forum/index.php?threads/jbl-hdi-1600-speaker-review.12477/)
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
 
-### #9 [Elac DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl): $800
+### #8 [Elac DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl): $800
 - Positives: Pretty neutral all around, a little bit of a V curve
 - Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
 - Dimensions: 14.1"H x 8.2"W x 10.8"D
@@ -135,7 +119,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac DBR6 Website](https://elac.com/dbr62)
 
-### #10 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii): $2400
+### #9 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii): $2400
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz
 - Dimensions: 14.4"H x 7"W x 11"D
 - Weight: 16.5lbs / 7.5kg each
@@ -151,6 +135,22 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Buchardt S400 MKII](https://www.erinsaudiocorner.com/loudspeakers/buchardt_s400_mkii/)
 - Links
     - [Official Buchardt S400 MKII Website](https://buchardtaudio.com/products/s400-mkii)
+
+### #10 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
+- Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
+- Dimensions: 13.5"H x 8.5"W x 12.125"D
+- Weight: 17lbs / 7.7kg each
+- Sensitivity: 87dB
+- Impedance: 8 ohms
+- Bass Extension (-3dB): 64hz
+- Bass Extension (-10dB): 44hz
+- Tweeter: 1" Peerless India T26SG
+- Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
+- Woofer Cabinet: Ported
+- Reviews and Comparisons:
+    - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
+- Links
+    - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
 ### #11 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair): $3600
 - Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz
