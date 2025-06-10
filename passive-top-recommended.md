@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Passive Speakers
+title: The Best Passive Floorstanding and Bookshelf Speakers
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---

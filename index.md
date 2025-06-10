@@ -29,7 +29,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 - [The Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
 - [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
-- [The Best Passive Speakers](/passive-top-recommended/)
+- [The Best Passive Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 
 ### All Portable Bluetooth Speakers Ranked
 
