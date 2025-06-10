@@ -106,6 +106,14 @@ with open('bookshelf-top-recommended.md', 'w') as f:
             line = re.sub(regex, ' ' + str(count['bookshelf']) + ' ', line, count=1)
         f.write(line)
 
+with open('passive-top-recommended.md') as f:
+    lines = f.readlines()
+with open('passive-top-recommended.md', 'w') as f:
+    for line in lines:
+        if line.startswith('This page lists'):
+            line = re.sub(regex, ' ' + str(count['passive']) + ' ', line, count=1)
+        f.write(line)
+
 for file in countfile:
     with open(file) as f:
         lines = f.readlines()
