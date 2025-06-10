@@ -81,6 +81,18 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
+## #12 [KEF LS50 Meta](https://www.crutchfield.com/p_991LS50MB/KEF-LS50-Meta-Black.html)
+- Reviews and Comparisons:
+    - [Audio Science Review KEF LS50 Meta Review](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-bookshelf-speaker.15954/)
+- Links:
+    - [Official KEF LS50 Meta Website](https://www.kef.com/en-us/ls50-meta)
+
+## #12 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364
+- Reviews and Comparisons:
+    - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
+- Links:
+    - [Official Swans (HiVi) 3.1 Website]((https://www.swanspeakers.com/product/view?id=1405)
+
 ### #5 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
 - Positives: Ultra clean burst decay/waterfall plot. An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
