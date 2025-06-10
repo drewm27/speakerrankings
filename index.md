@@ -4,7 +4,7 @@ title: Speaker Ranking
 cover-img: "/assets/img/uboomx.jpg"
 ---
 
-Speaker Ranking ranks a total of 439 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes. It also contains the most neutral EQ tuning and setup for each speaker if possible.
+Speaker Ranking ranks a total of 440 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes. It also contains the most neutral EQ tuning and setup for each speaker if possible.
 
 The goal of this website is to eliminate the months of reading and watching reviews it would normally take to understand the entire speaker market. All that information is summarized into ranked lists which can help you find what you're looking for in just a few minutes. These rankings were assembled in the same way a person would do deep research. Find the [best unbiased reviewer comparisons, sound samples and objective measurements](/personal-ranking-of-speaker-reviewers/) then take all of that information and piece together the full rankings of all speakers. All the videos and information used to construct these rankings is linked so you can verify the order of the rankings yourself. The rankings and content are not influenced by any manufacturer. 
 
@@ -46,7 +46,7 @@ Looking for summarized reviews for product categories besides speakers? Take a l
 - [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 16 speakers ranked
 
 ### All Passive Speakers Ranked
-- [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 6 speakers ranked (**Note: Work in progress**)
+- [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 7 speakers ranked (**Note: Work in progress**)
 - [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 23 speakers ranked (**Note: Work in progress**)
 - [Large Size Floorstanding Speakers](/passive-floorstanding-large/): 13 speakers ranked (**Note: Work in progress**)
 
