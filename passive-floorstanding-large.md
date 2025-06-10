@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 5 large size floorstanding speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 12 large size floorstanding speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend any of the speakers in the top 80% of this page, just stay away from the ones near the bottom.
 
@@ -94,45 +94,45 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
-### #3 Revel F206: $2000
+### #6 Revel F206: $2000
 - Reviews and Comparisons:
     - [Audio Science Review Revel F206](https://www.audiosciencereview.com/forum/index.php?threads/revel-f206-tower-speaker-review.53691/)
 - Links
     - [Official Revel F206 Website](https://www.revelspeakers.com/products/types/floorstanding/F206-.html)
 
-### #3 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20): $15000 a pair
+### #7 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20): $15000 a pair
 - Negatives: Overpriced and not recommended
 - Reviews and Comparisons:
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
 
-### #3 [Revel Concerta2 F35](https://www.crutchfield.com/S-wE5pRBmsh4o/p_265F35WH/Revel-Concerta2-F35-High-Gloss-White.html): $900 a pair
+### #8 [Revel Concerta2 F35](https://www.crutchfield.com/S-wE5pRBmsh4o/p_265F35WH/Revel-Concerta2-F35-High-Gloss-White.html): $900 a pair
 - Positives: Really amazing value for the performance
 - Reviews and Comparisons:
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
-### #3 [Infinity Reference 253](https://www.crutchfield.com/S-fZo604nZGcD/p_108R253/Infinity-Reference-R253.html)
+### #9 [Infinity Reference 253](https://www.crutchfield.com/S-fZo604nZGcD/p_108R253/Infinity-Reference-R253.html)
 - Reviews and Comparisons:
     - [Audio Science Review Infinity Reference 253](https://www.audiosciencereview.com/forum/index.php?threads/infinity-reference-253-review-speaker.17923/)
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
 
-### #3 [Focal Chora 816](https://www.crutchfield.com/S-KuvyH80oASv/p_091C816LW/Focal-Chora-816-Light-Wood.html)
+### #10 [Focal Chora 816](https://www.crutchfield.com/S-KuvyH80oASv/p_091C816LW/Focal-Chora-816-Light-Wood.html)
 - Reviews and Comparisons:
     - [Audio Science Review Focal Chora 816](https://www.audiosciencereview.com/forum/index.php?threads/focal-chora-816-speaker-review.42988/)
 - Links
     - [Official Focal Chora 816 Website](https://www.focal.com/products/chora-816)
 
-### #3 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
+### #11 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
 - Reviews and Comparisons:
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
-### #3 JBL Studio 590
+### #12 JBL Studio 590
 - Reviews and Comparisons:
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
