@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 25 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 23 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend any of the speakers in the top 80% of this page, just stay away from the ones near the bottom.
 
@@ -131,25 +131,19 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
 
-### #11 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl): $483
-- Reviews and Comparisons:
-    - [Audio Science Review ELAC Uni-Fi 2.0 UB52](https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/)
-- Links:
-    - [Official ELAC Uni-Fi 2.0 UB52 Website](https://elac.com/ub52)
-
-### #12 [Revel Concerta2 M16](https://www.crutchfield.com/p_265M16/Revel-Performa-M16-Black.html)
+### #11 [Revel Concerta2 M16](https://www.crutchfield.com/p_265M16/Revel-Performa-M16-Black.html)
 - Reviews and Comparisons:
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.13163/)
 - Links:
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
 
-### #13 Revel Performa M22
+### #12 Revel Performa M22
 - Reviews and Comparisons:
     - [Audio Science Review Revel Performa M22](https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/)
     - [GR-Research: What the HECK was Revel Thinking?! Revel Performa M22 Upgrades!](https://www.youtube.com/watch?v=JH1DrkqHatQ)
 
 
-### #14 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii): $2400
+### #13 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii): $2400
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz
 - Dimensions: 14.4"H x 7"W x 11"D
 - Weight: 16.5lbs / 7.5kg each
@@ -166,7 +160,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Buchardt S400 MKII Website](https://buchardtaudio.com/products/s400-mkii)
 
-### #15 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
+### #14 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/): $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
 - Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
 - Weight: 17lbs / 7.7kg each
@@ -182,7 +176,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
-### #16 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair): $3600
+### #15 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair): $3600
 - Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz
 - Dimensions: 14.1"H x 7.7"W x 12.1"D
 - Weight: 17.9lbs / 8.1kg each
@@ -199,7 +193,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Dynaudio Special Forty Website](https://dynaudio.com/home-audio/special-forty)
 
-### #17 [Elac Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl): $500
+### #16 [Elac Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl): $500
 - Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
 - Dimensions: 13.3"H x 7.7"W x 11.7"D
 - Weight: 17.3lbs / 7.8kg each
@@ -216,7 +210,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac Debut DB63 Website](https://elac.com/db63)
 
-### #18 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl): $750
+### #17 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl): $750
 - Positives: Really good neutrality and linearity 
 - Negatives: Narrow off axis above 5khz
 - Bass Extension (-3dB): 74hz
@@ -226,15 +220,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Polk R200](https://www.erinsaudiocorner.com/loudspeakers/polk_r200/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 
-### #19 JBL Studio 530
-- Positives: Smooth frequency response besides the drop off way up high
-- Negatives: A good amount of resonances at a bunch of frequencies
-- Reviews and Comparisons:
-    - [Audio Science Review JBL Studio 530](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-530-speaker-review.12298/)
-- Links:
-    - [Official JBL Studio 530 Website](https://www.jbl.com/loudspeakers/STUDIO+530.html)
-
-### #20 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
+### #18 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
 - Positives: Really deep bass extension for the size class
 - Negatives: A noticeable resonance in the driver around 750hz
 - Bass Extension (-3dB): 54hz
@@ -247,7 +233,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Website](https://dynaudio.com/home-audio/emit/emit-20)
 
-### #21 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl): $250
+### #19 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl): $250
 - Positives: A great value for the price, nothing else under $300 will compete
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
 - Dimensions: 13"H x 7.5"W x 11"D
@@ -265,7 +251,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
-### #22 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
+### #20 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
 - Weight: 39.2lbs / 17.8kg each
@@ -281,7 +267,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
-### #23 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
+### #21 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
 - Dimensions: 15.7"H x 8"W x 12.5"D
@@ -301,7 +287,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M II Website](https://www.klipsch.com/products/rp-600m-ii-bookshelf-speakers)
 
-### #24 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
+### #22 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Dimensions: 15.7"H x 8"W x 11.9"D
 - Weight: 16lbs / 7.3kg each
@@ -319,7 +305,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #25 Wharfedale Diamond 9.1: $400
+### #23 Wharfedale Diamond 9.1: $400
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
