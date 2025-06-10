@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top Recommended Passive Speakers
+title: The Best Passive Speakers
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
