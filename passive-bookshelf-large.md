@@ -227,6 +227,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 
 ### #19 JBL Studio 530
+- Positives: Smooth frequency response besides the drop off way up high
 - Negatives: A good amount of resonances at a bunch of frequencies
 - Reviews and Comparisons:
     - [Audio Science Review JBL Studio 530](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-530-speaker-review.12298/)
