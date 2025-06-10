@@ -2,7 +2,7 @@
 layout: page
 title: Top Recommended Passive Speakers
 comments: true
-cover-img: "/assets/img/uboomx.jpg"
+cover-img: "/assets/img/revelf208.jpg"
 ---
 
 This page lists the best sounding passive speakers out of the 353 ranked on this website. The suggestions in this section are biased towards a neutral frequency response with good directivity and a lack of resonances. 
