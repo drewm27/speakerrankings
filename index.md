@@ -14,8 +14,6 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 
 Feel free to share this anywhere people could find it useful, thanks!
 
-Looking for summarized reviews for product categories besides speakers? Take a look at [SummarizeReviews.com](https://www.summarizereviews.com/)
-
 ### Top Recommended Speakers By Preference
 
 - [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
