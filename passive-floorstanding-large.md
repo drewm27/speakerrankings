@@ -94,7 +94,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
-### #6 Revel F206: $2000
+### #6 [Revel F206](https://sovrn.co/msznt7t): $2000
 - Reviews and Comparisons:
     - [Audio Science Review Revel F206](https://www.audiosciencereview.com/forum/index.php?threads/revel-f206-tower-speaker-review.53691/)
 - Links
