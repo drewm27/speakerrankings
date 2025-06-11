@@ -28,7 +28,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F208 Website](https://www.revelspeakers.com/products/types/floorstanding/F208-.html)
 
-### #2 [Revel F328Be](https://www.crutchfield.com/S-YMJhTJE1RwQ/p_265F328BEB/Revel-PerformaBe-F328Be-High-Gloss-Black.html): $13600
+### #2 [Revel F328Be](https://sovrn.co/zpcgdsw): $13600
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
 - Weight: 112.6lbs / 51kg each
@@ -43,7 +43,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F328Be Website](https://www.revelspeakers.com/products/series/series-performabe/F328+BE.html)
 
-### #3 [Revel F228Be](https://www.crutchfield.com/S-oLgLybN5EdZ/p_265F228BEB/Revel-PerformaBe-F228Be-High-Gloss-Black.html): $7000
+### #3 [Revel F228Be](https://sovrn.co/l2szjt3): $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off axis isn't quite as good as others
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
@@ -75,7 +75,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
 
-### #5 [Revel F226Be](https://www.crutchfield.com/p_265F226BK/Revel-PerformaBe-F226Be-Black-Gloss.html): $5400
+### #5 [Revel F226Be](https://sovrn.co/1og8hjl): $5400
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
 - Dimensions: 41.3"H x 9.8"W x 13.7"D
@@ -107,20 +107,20 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
 
-### #8 [Revel Concerta2 F35](https://www.crutchfield.com/S-wE5pRBmsh4o/p_265F35WH/Revel-Concerta2-F35-High-Gloss-White.html): $900 a pair
+### #8 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy): $900 a pair
 - Positives: Really amazing value for the performance
 - Reviews and Comparisons:
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
-### #9 [Infinity Reference 253](https://www.crutchfield.com/S-fZo604nZGcD/p_108R253/Infinity-Reference-R253.html)
+### #9 [Infinity Reference 253](https://sovrn.co/1e99frf)
 - Reviews and Comparisons:
     - [Audio Science Review Infinity Reference 253](https://www.audiosciencereview.com/forum/index.php?threads/infinity-reference-253-review-speaker.17923/)
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
 
-### #10 [Focal Chora 816](https://www.crutchfield.com/S-KuvyH80oASv/p_091C816LW/Focal-Chora-816-Light-Wood.html)
+### #10 [Focal Chora 816](https://sovrn.co/q1zekbu)
 - Reviews and Comparisons:
     - [Audio Science Review Focal Chora 816](https://www.audiosciencereview.com/forum/index.php?threads/focal-chora-816-speaker-review.42988/)
 - Links

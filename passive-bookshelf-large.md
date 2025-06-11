@@ -113,7 +113,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac DBR6 Website](https://elac.com/dbr62)
 
-### #8 [JBL HDI-1600](https://www.crutchfield.com/S-q5HNA0r6Kpp/p_109HDI16B/JBL-HDI-1600-High-Gloss-Black.html): $1980 a pair
+### #8 [JBL HDI-1600](https://sovrn.co/xgfeafc): $1980 a pair
 - Reviews and Comparisons:
     - [Audio Science Review JBL HDI-1600](https://www.audiosciencereview.com/forum/index.php?threads/jbl-hdi-1600-speaker-review.12477/)
 - Links:
@@ -131,7 +131,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
 
-### #11 [Revel Concerta2 M16](https://www.crutchfield.com/p_265M16/Revel-Performa-M16-Black.html)
+### #11 [Revel Concerta2 M16](https://sovrn.co/xrleu93)
 - Reviews and Comparisons:
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.13163/)
 - Links:
