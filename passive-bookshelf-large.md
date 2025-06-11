@@ -88,7 +88,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
-### #6 Revel M106
+### #6 [Revel M106](https://sovrn.co/1dhy5x5)
 - Reviews and Comparisons:
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links:
@@ -119,7 +119,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
 
-### #9 Focal Aria 906
+### #9 [Focal Aria 906](https://sovrn.co/1cjmwr4): $1400
 - Reviews and Comparisons:
     - [Audio Science Review Focal Aria 906](https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/)
 - Links:
