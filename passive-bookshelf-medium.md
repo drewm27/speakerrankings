@@ -41,7 +41,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
 - Woofer: 130 mm (5.25 in.) aluminium cone
 - Reviews and Comparisons
-    - [Audio Science Review KEF LS50 Meta](audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
+    - [Audio Science Review KEF LS50 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
 - Links
     - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
 
