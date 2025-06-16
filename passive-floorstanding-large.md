@@ -126,6 +126,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 50hz
 - Tweeter: 1" Aluminum Tweeter
 - Woofer: 3x 5.25" deep anodized aluminum cone woofers
+- Woofer Cabinet: Rear ported
 - Reviews and Comparisons
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
     - [Erin's Audio Corner: Revel F35 Review: Great Sound, Lower Price!](https://www.youtube.com/watch?v=hr-Qu1etIng)
