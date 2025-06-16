@@ -176,7 +176,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
-### #15 Infinity IL10
+### #15 Infinity IL10: Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
 - Woofer: 6.5"
 - Reviews and Comparisons:
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
@@ -317,7 +317,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #25 Wharfedale Diamond 9.1: $400
+### #25 Wharfedale Diamond 9.1: Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
