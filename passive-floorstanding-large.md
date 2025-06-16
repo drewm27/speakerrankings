@@ -103,6 +103,18 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
 ### #6 [Revel F206](https://sovrn.co/msznt7t): $2000
+- Positives: Really amazing value for the performance
+- Negatives: Some directivity error around 3khz. Vertical off axis is just okay
+- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Weight: 58lbs / 26kg each
+- Sensitivity: 87dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 34hz
+- Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
+- Midrange: 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange
+- Woofer: Dual 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofers
+- Woofer Cabinet: Front ported
 - Reviews and Comparisons
     - [Audio Science Review Revel F206](https://www.audiosciencereview.com/forum/index.php?threads/revel-f206-tower-speaker-review.53691/)
 - Links
@@ -133,13 +145,35 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
-### #9 [Infinity Reference 253](https://sovrn.co/1e99frf)
+### #9 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1): $400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)
+- Positives: Really amazing value for the performance
+- Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
+- Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Weight: 39.2lbs / 17.8kg each
+- Sensitivity: 87dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 78hz
+- Bass Extension (-10dB): 38hz
+- Tweeter: 1" (25mm) CMMD™
+- Midrange: 5.25" (130mm) flat-piston CMMD™
+- Woofer: Dual 5.25" (130mm) CMMD™
+- Woofer Cabinet: Rear ported
 - Reviews and Comparisons
     - [Audio Science Review Infinity Reference 253](https://www.audiosciencereview.com/forum/index.php?threads/infinity-reference-253-review-speaker.17923/)
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
 
-### #10 [Focal Chora 816](https://sovrn.co/q1zekbu)
+### #10 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1): $900 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)
+- Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
+- Dimensions: 40.7"H x 11.8"W x 15.3"D
+- Weight: 40.8lbs / 18.5kg each
+- Sensitivity: 91dB
+- Impedance: 8 ohms
+- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 35hz
+- Tweeter: 1" (25mm) TNF Al/Mg inverted dome tweeter
+- Midrange: 6.5" (16.5cm) Slatefiber
+- Woofer: 6.5” (16.5cm) Slatefiber
 - Reviews and Comparisons
     - [Audio Science Review Focal Chora 816](https://www.audiosciencereview.com/forum/index.php?threads/focal-chora-816-speaker-review.42988/)
 - Links
