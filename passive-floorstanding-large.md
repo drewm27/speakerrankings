@@ -117,6 +117,15 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #8 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy): $900 a pair
 - Positives: Really amazing value for the performance
+- Negatives: Some resonances around 1khz
+- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Weight: 41lbs / 18.6kg each
+- Sensitivity: 90dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 70hz
+- Bass Extension (-10dB): 50hz
+- Tweeter: 1" Aluminum Tweeter
+- Woofer: 3x 5.25" deep anodized aluminum cone woofers
 - Reviews and Comparisons
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
     - [Erin's Audio Corner: Revel F35 Review: Great Sound, Lower Price!](https://www.youtube.com/watch?v=hr-Qu1etIng)
