@@ -13,6 +13,8 @@ For off grid use, check out a [power bank](/portable-power-stations/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
+Also check out [Medium Size Powered Bookshelf Speakers](/bookshelf-medium/), [Large Size Powered Bookshelf Speakers](/bookshelf-large/), [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) and [Large Size Bookshelf Speakers](/passive-bookshelf-large/)
+
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [Genelec 8010A](https://guitar-center.pxf.io/9g1BDW): $700 a pair
