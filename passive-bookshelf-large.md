@@ -81,14 +81,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
-### #5 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364
+### #5 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364 for the kit (assembly required)
 - Reviews and Comparisons:
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links:
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
-### #6 [Revel M106](https://sovrn.co/1dhy5x5)
+### #6 [Revel M106](https://sovrn.co/1dhy5x5): $2000 a pair
 - Reviews and Comparisons:
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links:
@@ -119,7 +119,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
 
-### #9 [Focal Aria 906](https://sovrn.co/1cjmwr4): $1400
+### #9 [Focal Aria 906](https://sovrn.co/1cjmwr4): $1400 a pair
 - Reviews and Comparisons:
     - [Audio Science Review Focal Aria 906](https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/)
 - Links:
@@ -133,7 +133,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #11 [Revel Concerta2 M16](https://sovrn.co/xrleu93)
 - Reviews and Comparisons:
-    - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.13163/)
+    - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/)
 - Links:
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
 
