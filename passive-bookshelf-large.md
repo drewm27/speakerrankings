@@ -23,7 +23,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
 - Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
 - Woofer Cabinet: Sealed
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
 - Links
     - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
@@ -38,7 +38,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Sensitivity: 85dB
 - Tweeter: 1" Aluminium Ceramic Dome
 - Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
 - Links
     - [Official AsciLab C6B Website](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
@@ -55,7 +55,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon deep rear cup
 - Woofer: GR-Research M165 6.5" paper cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: You've Been Waiting for This... GR Research NX-Bravo Review!](https://www.youtube.com/watch?v=g9MsYUONNhg)
     - [Erin's Audio Corner Website GR-Research NX-Bravo Review](https://www.erinsaudiocorner.com/loudspeakers/gr_nx_bravo/)
     - [GR-Research: Introducing: NX-Bravo  How It Compares](https://www.youtube.com/watch?v=7h72KXd8Q3c)
@@ -74,7 +74,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange/Tweeter: 5" aluminum cone with 1" vented aluminium dome with MAT
 - Woofer: 6.5" Hybrid aluminum ported
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
     - [Erin's Audio Corner Website KEF R3 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_r3_meta/)
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
@@ -82,14 +82,14 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
 ### #5 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364 for the kit (assembly required)
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links:
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
 ### #6 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links:
     - [Official Revel M106 Website](https://www.revelspeakers.com/products/types/bookshelf/M106-.html)
@@ -106,7 +106,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: Top 3 Things You Need to Know About ELAC DBR62 Before You Buy](https://www.youtube.com/watch?v=VCY_CDu5Xas)
     - [Erin's Audio Corner Website Elac DBR62](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
@@ -114,31 +114,31 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Elac DBR6 Website](https://elac.com/dbr62)
 
 ### #8 [JBL HDI-1600](https://sovrn.co/xgfeafc): $1980 a pair
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review JBL HDI-1600](https://www.audiosciencereview.com/forum/index.php?threads/jbl-hdi-1600-speaker-review.12477/)
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
 
 ### #9 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1): Discontinued, $1100 a pair on [Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review Focal Aria 906](https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/)
 - Links:
     - [Official Focal Aria 906 Website](https://www.focal.com/products/aria-906)
 
 ### #10 [KEF Q350](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl): $500 a pair
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review KEF Q350](https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/)
 - Links:
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
 
 ### #11 [Revel Concerta2 M16](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1): Discontinued, about $600 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/)
 - Links:
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
 
 ### #12 [Revel Performa M22](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1): About $600 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1)
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review Revel Performa M22](https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/)
     - [GR-Research: What the HECK was Revel Thinking?! Revel Performa M22 Upgrades!](https://www.youtube.com/watch?v=JH1DrkqHatQ)
 
@@ -154,7 +154,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aluminum cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=yXhsJejwGuw)
     - [Erin's Audio Corner Website Buchardt S400 MKII](https://www.erinsaudiocorner.com/loudspeakers/buchardt_s400_mkii/)
 - Links
@@ -171,14 +171,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Peerless India T26SG
 - Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
 ### #15 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1): Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
 - Woofer: 6.5"
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
 
 ### #16 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair): $3600
@@ -192,7 +192,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Esotar soft dome tweeter
 - Woofer: 5.9" MSP (Magnesium Silicate Polymer) cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: Dynaudio Special Forty Looks and Sounds Pretty Awesome!](https://www.youtube.com/watch?v=jDTOAw4gLNM)
     - [Erin's Audio Corner Website Dynaudio Special Forty](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_special_forty/)
 - Links
@@ -209,7 +209,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aramid fiber cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
     - [Erin's Audio Corner Website Elac Debut DB63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
@@ -226,7 +226,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 
 ### #19 [ELAC Debut 2.0 B6.2](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl): $330
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review ELAC Debut 2.0 B6.2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/)
 - Links:
     - [Official ELAC Debut 2.0 B6.2Website](https://elac.com/db62)
@@ -257,7 +257,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Terylene dome tweeter
 - Woofer: 6.5" bilaminate paper cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)
     - [Erin's Audio Corner Website Polk Monitor XT20](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/)
 - Links
@@ -274,7 +274,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 5.9" Super Linear Magnet cone
 - Woofer Cabinet: Sealed
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
@@ -291,7 +291,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
     - [Erin's Audio Corner Website Klipsch RP-600M II](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/)
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
@@ -310,7 +310,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
     - [Erin's Audio Corner Website Klipsch RP-600M](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_i/)
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
@@ -326,6 +326,6 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Kevlar cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons:
+- Reviews and Comparisons
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
