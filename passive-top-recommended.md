@@ -13,9 +13,9 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/bookshelf-top-recomm
 
 ### The Best Passive Floorstanding Speakers For Sound Quality
 
-The best [passive floorstanding large size](/passive-floorstanding-large/) speakers with the best sound quality are the [**$13600 Revel F328Be**](https://www.crutchfield.com/S-YMJhTJE1RwQ/p_265F328BEB/Revel-PerformaBe-F328Be-High-Gloss-Black.html)
+The best [passive floorstanding large size](/passive-floorstanding-large/) speakers with the best sound quality are the [**$13600 Revel F328Be**](https://sovrn.co/zpcgdsw)
 
-The best [passive floorstanding large size](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$900 Revel Concerta2 F35**](https://www.crutchfield.com/S-wE5pRBmsh4o/p_265F35WH/Revel-Concerta2-F35-High-Gloss-White.html)
+The best [passive floorstanding large size](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$900 Revel Concerta2 F35**](https://sovrn.co/cxvgcxy)
 
 
 ### The Best Passive Bookshelf Speakers For Sound Quality
