@@ -88,7 +88,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
-### #6 [Revel M106](https://sovrn.co/1dhy5x5): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)
+### #6 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)
 - Reviews and Comparisons:
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links:
@@ -119,7 +119,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
 
-### #9 Focal Aria 906(https://sovrn.co/1cjmwr4): Discontinued, $1100 a pair on [Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)
+### #9 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1): Discontinued, $1100 a pair on [Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)
 - Reviews and Comparisons:
     - [Audio Science Review Focal Aria 906](https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/)
 - Links:
@@ -131,13 +131,13 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
 
-### #11 Revel Concerta2 M16: Discontinued, about $600 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)
+### #11 [Revel Concerta2 M16](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1): Discontinued, about $600 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)
 - Reviews and Comparisons:
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/)
 - Links:
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
 
-### #12 Revel Performa M22: About $600 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1)
+### #12 [Revel Performa M22](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1): About $600 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1)
 - Reviews and Comparisons:
     - [Audio Science Review Revel Performa M22](https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/)
     - [GR-Research: What the HECK was Revel Thinking?! Revel Performa M22 Upgrades!](https://www.youtube.com/watch?v=JH1DrkqHatQ)
@@ -176,7 +176,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
-### #15 Infinity IL10: Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
+### #15 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1): Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
 - Woofer: 6.5"
 - Reviews and Comparisons:
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
@@ -317,7 +317,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #25 Wharfedale Diamond 9.1: Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
+### #25 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
