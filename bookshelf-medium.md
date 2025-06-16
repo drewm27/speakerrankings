@@ -9,7 +9,7 @@ This page ranks 22 medium size powered bookshelf speakers. The Medium Bookshelf 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top and consider adding a subwoofer.
 
-For off grid use, check out a [power bank](/portable-power-stations/)
+Also check out [Small Size Powered Bookshelf Speakers](/bookshelf-small/), [Large Size Powered Bookshelf Speakers](/bookshelf-large/), [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) and [Large Size Bookshelf Speakers](/passive-bookshelf-large/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 

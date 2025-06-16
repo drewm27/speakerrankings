@@ -9,7 +9,7 @@ This page ranks 16 large size powered bookshelf speakers. The Large Bookshelf cl
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top.
 
-For off grid use, check out a [power bank](/portable-power-stations/)
+Also check out [Small Size Powered Bookshelf Speakers](/bookshelf-small/), [Medium Size Powered Bookshelf Speakers](/bookshelf-medium/), [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) and [Large Size Bookshelf Speakers](/passive-bookshelf-large/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
