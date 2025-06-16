@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---
 
-This page ranks 11 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 12 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend any of the speakers in the top 80% of this page, just stay away from the ones near the bottom.
 
@@ -65,54 +65,54 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)
 
-### [Zaph Audio ZA5.2 TM](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair/): $383
+### #4 [Zaph Audio ZA5.2 TM](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair/): $383
 - Reviews and Comparisons
     - [Audio Science Review Zaph Audio ZA5.2 TM](https://www.audiosciencereview.com/forum/index.php?threads/zaph-audio-za5-2-diy-kit-speaker-review.12086/)
 - Links
     - [Official Zaph Audio ZA5.2 TM Website](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair)
 
-### #4 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl): $483
+### #5 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl): $483
 - Reviews and Comparisons:
     - [Audio Science Review ELAC Uni-Fi 2.0 UB52](https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/)
 - Links:
     - [Official ELAC Uni-Fi 2.0 UB52 Website](https://elac.com/ub52)
 
-### #5 JBL Studio 530
-- Positives: Smooth frequency response besides the drop off way up high
+### #6 JBL Studio 530
+- Positives: Smooth frequency response besides the treble drop off way up high
 - Negatives: Some stored energy resonances at a bunch of frequencies
 - Reviews and Comparisons:
     - [Audio Science Review JBL Studio 530](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-530-speaker-review.12298/)
 - Links:
     - [Official JBL Studio 530 Website](https://www.jbl.com/loudspeakers/STUDIO+530.html)
 
-### #6 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)
+### #7 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)
 - Reviews and Comparisons:
     - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-speaker-review.18655/)
 - Links:
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
 
-### #7 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
+### #8 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
 - Reviews and Comparisons:
     - [Audio Science Review PHilharmonic Affordable Accuracy Monitor](https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/)
 - Links:
     - [Official PHilharmonic Affordable Accuracy Monitor Website](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
 
-### #8 JBL Stage A130
+### #9 JBL Stage A130
 - Reviews and Comparisons:
     - [Audio Science Review JBL Stage A130](https://www.audiosciencereview.com/forum/index.php?threads/jbl-stage-a130-review-speaker.18260/)
 - Links:
     - [Official JBL Stage A130 Website](https://www.jbl.com/loudspeakers/STAGE+A130.html)
 
-### #9 Verdant Audio Bambusa AL-1: $7000 a pair
+### #10 Verdant Audio Bambusa AL-1: $7000 a pair
 - Negatives: Overpriced for the performance and not recommended.
 - Reviews and Comparisons:
     - [Audio Science Review Verdant Audio Bambusa AL-1](https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/)
 
-### #10 ELAC BS U5: $856
+### #11 ELAC BS U5: $856
 - Reviews and Comparisons:
     - [Audio Science Review ELAC BS U5](https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/)
 
-### #11 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl): $350
+### #12 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl): $350
 - Positives: Fantastic off axis due to the coaxial design.
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Dimensions: 11.9"H x 7.1"W x 10.9"D
