@@ -139,7 +139,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #13 Triangle Esprit Antal Ez ([Amazon](https://www.amazon/com/)) ([Ebay](https://www.ebay.com))
+### #13 Triangle Esprit Antal Ez
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews and Comparisons:
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
