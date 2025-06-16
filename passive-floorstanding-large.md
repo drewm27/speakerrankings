@@ -13,7 +13,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)): Discontinued, $2400 used
+### #1 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1): Discontinued, $2400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
 - Weight: 80lbs / 36kg each
@@ -139,7 +139,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #13 Triangle Esprit Antal Ez
+### #13 Triangle Esprit Antal Ez ([Amazon](https://www.amazon/com/)) ([Ebay](https://www.ebay.com))
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews and Comparisons:
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
