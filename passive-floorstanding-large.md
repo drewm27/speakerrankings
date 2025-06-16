@@ -117,7 +117,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #8 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy): $900 a pair
 - Positives: Really amazing value for the performance
-- Negatives: Some resonances around 1khz
+- Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
 - Weight: 41lbs / 18.6kg each
 - Sensitivity: 90dB
