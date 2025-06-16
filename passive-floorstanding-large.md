@@ -111,6 +111,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Positives: Really amazing value for the performance
 - Reviews and Comparisons:
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
+    - [Erin's Audio Corner: Revel F35 Review: Great Sound, Lower Price!](https://www.youtube.com/watch?v=hr-Qu1etIng)
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
