@@ -20,9 +20,9 @@ Consider this page to be a work in progress and more speakers will be added.
 - Sensitivity: 94.5dB
 - Impedance: 8 ohms
 - Bass Extension (-3dB): <20hz (With GR-Research open baffle subwoofers)
-- Tweeter: GR Neo 3 Magnetic planar
-- Midrange: Two 6.5" M165NQ
-- Woofer: Eight 6.5" M165
+- Tweeter: GR Neo 3 Magnetic planar open baffle
+- Midrange: Two 6.5" M165NQ open baffle
+- Woofer: Eight 6.5" M165 open baffle
 - Woofer Cabinet: Open baffle
 - Links
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
