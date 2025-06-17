@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/partybox320.jpg"
 ---
 
-This page lists the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 353 ranked on this website. The suggestions in this section are biased towards value speakers with a neutral frequency response. If you are after specific sound traits like bass boosted or warm speakers, skip this section and read the details of each speaker in the main [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked). See these other links for [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
+This page lists the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 353 ranked on this website. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback.
 
 For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
