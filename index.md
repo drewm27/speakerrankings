@@ -36,8 +36,8 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Medium Size Bluetooth Speakers](/small-medium-size/): 124 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 72 speakers ranked
 - [Boombox Size Bluetooth Speakers](/boombox-size/): 67 speakers ranked
-- [Extreme Size Bluetooth Speakers](/extreme-size/): 48 speakers ranked
-- [Insane Size Bluetooth Speakers](/insane-size/): 6 speakers ranked
+- [Party Size Bluetooth Speakers](/extreme-size/): 48 speakers ranked
+- [Massive Party Size Bluetooth Speakers](/insane-size/): 6 speakers ranked
 
 ### All Powered Bookshelf Speakers Ranked
 

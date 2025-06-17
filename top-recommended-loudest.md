@@ -25,7 +25,7 @@ The loudest [large size](/large-size/) battery powered speaker is the [**$110 Tr
 
 The loudest [boombox size](/boombox-size/) battery powered speaker is the [**$256 W-King X20**](https://www.amazon.com/gp/product/B0CRYXN3S9?smid=A1WZQHG4U0SW66&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=5870cd1572a8e0b4be1fdcb9cd8d11d4&language=en_US&ref_=as_li_ss_tl)
 
-### The Loudest Extreme Size Speaker
+### The Loudest Party Size Speaker
 
 The loudest [extreme size](/extreme-size/) battery powered speaker is the [**$1000 Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest%2B12&qid=1727707873&sprefix=everse%2B12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7756df733ad367e47dc9f88aa59a6e0&language=en_US&ref_=as_li_ss_tl)
 

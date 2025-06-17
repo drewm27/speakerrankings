@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Insane Size Bluetooth Speakers
+title: Massive Party Size Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/partyboxultimate.jpg"
 ---
