@@ -24,13 +24,13 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 26hz
 - Tweeter: 25 mm (1 in.)  aluminium dome with MAT
 - Midrange: 125 mm (5 in.) aluminium cone
-- Woofer:  4 x 165 mm (6.5 in.) aluminium cone, force cancelling
+- Woofer: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling
 - Woofer Cabinet: Rear ported
 - Reviews and Comparisons
     - [Erin's Audio Corner: Mind-Blowing Sound Quality: KEF Blade 2 Meta Review](https://www.youtube.com/watch?v=lh8D7LhlVoQ)
     - [Erin's Audio Review Website KEF Blade Two Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_blade2_meta/)
 - Links
-    - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
+    - [Official KEF Blade Two Meta Website](https://us.kef.com/products/blade-two)
 
 ### #2 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1): Discontinued, $2400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
