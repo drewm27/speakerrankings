@@ -24,6 +24,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [The Best Portable Speakers With Party Mode](/top-recommended-party-mode/)
 - [The Best Portable Speakers With Microphone Input](/top-recommended-microphone/)
 - [The Best Portable Speakers With Wireless Microphones](/top-recommended-wireless-microphone/)
+- [The Best Portable Speakers With SD Card Slot](/top-recommended-sdcard/)
 - [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 - [The Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
 - [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
