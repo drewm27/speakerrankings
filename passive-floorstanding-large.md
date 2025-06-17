@@ -23,6 +23,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: GR Neo 3 Magnetic planar open baffle
 - Midrange: Two 6.5" M165NQ open baffle
 - Woofer: Eight 6.5" M165 open baffle
+- Subwoofer: Three 12" Rythmik Audio servo controlled 
 - Woofer Cabinet: Open baffle
 - Links
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
