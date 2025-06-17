@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---
 
-This page ranks 13 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 14 medium size bookshelf speakers. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend any of the speakers in the top 80% of this page, just stay away from the ones near the bottom.
 
@@ -139,3 +139,14 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 - Links
     - [Official KEF Q150 Website](https://us.kef.com/products/q150-bookshelf-speaker)
+
+### #14 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair): $600
+- Positives: A lot of color choices
+- Negatives: 4dB peak at 900hz, 3dB peak at 5.7khz. Bad resonance around 1.5khz. Bass response isn't great. Vertical off axis isn't great
+- Bass Extension (-3dB): 91hz
+- Bass Extension (-10dB): 59hz
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Speakers... In Color!  Totem Kin One Speaker Review.](https://www.youtube.com/watch?v=37Nd7Uz_zlk)
+    - [Erin's Audio Corner Website Totem Kin One](https://www.erinsaudiocorner.com/loudspeakers/totem_kin_one/)
+- Links
+    - [Official Totem Kin One Website](https://totemacoustic.com/product/totem-kin-one/)
