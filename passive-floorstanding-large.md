@@ -136,6 +136,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer Cabinet: Rear ported
 - Reviews and Comparisons
     - [Erin's Audio Corner: ELAC’s New DF63 is SHOCKINGLY Good!](https://www.youtube.com/watch?v=NI8En4OhvMM)
+    - [Erin's Audio Review Website Elac DF63](https://www.erinsaudiocorner.com/loudspeakers/elac_df63/)
 - Links
     - [Official Elac DF63 Website](https://elac.com/df63)
 
