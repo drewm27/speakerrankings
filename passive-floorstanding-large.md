@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 18 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 19 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -200,7 +200,19 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
-### #12 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1): $400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)
+### #12 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl): $1100 a pair
+- Positives: Pretty neutral frequency response. Quite deep bass response
+- Negatives: Directivity error at around 4.6khz. Not the best for vertical off axis dispersion
+- Sensitivity: 87.5dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 40hz
+- Bass Extension (-10dB): 31hz
+- Reviews and Comparisons
+    - [Erin's Audio Corner: My Top 5 Just Changed: Polk Audio Reserve R700 Review](https://www.youtube.com/watch?v=E6APuGxTtJw)
+- Links
+    - [Official Polk Audio Reserve R700 Website](polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r700/300035.html)
+
+### #13 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1): $400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)
 - Positives: Really amazing value for the performance
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
@@ -218,7 +230,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
 
-### #13 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1): $900 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)
+### #14 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1): $900 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
 - Dimensions: 40.7"H x 11.8"W x 15.3"D
 - Weight: 40.8lbs / 18.5kg each
@@ -234,14 +246,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Focal Chora 816 Website](https://www.focal.com/products/chora-816)
 
-### #14 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
+### #15 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
 - Reviews and Comparisons
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
-### #15 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl): $2500
-- Negatives: A dark speaker with rolled off top end, a frequency response drop that's very linear starting at 0dB around 500hz and dropping 4dB at 10khz. Could be okay in a very reflective room. Bass has a shelf and is designed to be placed near a wall.
+### #16 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl): $2500
+- Negatives: A dark speaker with rolled off top end, a frequency response drop that's very linear starting at 0dB around 500hz and dropping 4dB at 10khz. Could be good in a very reflective room. Bass has a shelf and is designed to be placed within a foot from a wall.
 - Bass Extension (-3dB): 60hz
 - Bass Extension (-10dB): 29hz
 - Reviews and Comparisons
@@ -250,13 +262,13 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q11 Meta Website](https://us.kef.com/products/q11-meta)
 
-### #16 JBL Studio 590
+### #17 JBL Studio 590
 - Reviews and Comparisons
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #17 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
+### #18 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
 - Negatives: Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz
@@ -268,7 +280,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Magnepan LRS+ Website](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
 
 
-### #18 Triangle Esprit Antal Ez
+### #19 Triangle Esprit Antal Ez
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews and Comparisons
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
