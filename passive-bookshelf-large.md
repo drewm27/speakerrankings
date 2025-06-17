@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 28 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 29 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -358,7 +358,15 @@ Consider this page to be a work in progress and more speakers will be added.
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
 
-### #28 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers): $400
+### #28 Chesky LC1: $1000
+- Negatives: Not recommended. Frequency response is just bad, way too low sensitivity
+- Sensitivity: 81.4dB
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Are These $996 Chesky Audio LC1 Speakers Worth the Price?](https://www.youtube.com/watch?v=nUOSTOkFCvU)
+- Links
+    - [Official Chesky LC1 Website](https://www.cheskyaudio.com/products/lc1)
+
+### #29 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers): $400
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
 - Tweeter: 1.5" silk dome tweeter
 - Woofer: 7" rubber surround PP cone
