@@ -13,7 +13,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [GR-Research NX-Treme](https://gr-research.com/product/nx-treme/): $9662 for the kit (assembly required)
+### #1 [GR-Research NX-Treme](https://gr-research.com/product/nx-treme/): $9662 for the kit with subs (assembly required)
 - Positives: One of the highest sensitivity speakers around. Open baffle mids, highs and bass (using GR-Research Open baffle subs). If you have not heard open baffle bass, you must hear it in person, there's no going back. Amazing in terms of imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. Can easily be driven by tube amps.
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
 - Dimensions: 85"H x 17"W x 20"D (plus a subwoofer on each side)
