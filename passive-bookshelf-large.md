@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 32 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 33 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -405,3 +405,14 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review Fosi Audio SP60](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-sp601-2-way-in-room-bookshelf-speakers-for-home-theater-tv-desktop.63508/)
 - Links
     - [Official Fosi Audio SP601 Website](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)
+
+### #33 Yamaha NS-10
+- Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
+- Bass Extension (-3dB): 126hz
+- Bass Extension (-10dB): 75hz
+- Tweeter: 1.4" soft dome
+- Woofer: 7.1"
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Yamaha NS-10M: The Iconic Studio Monitor That Shaped Modern Music](https://www.youtube.com/watch?v=0pYKuBdhmdc)
+    - [Erin's Audio Corner Website Yamaha NS-10](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns10m_studio/)
+
