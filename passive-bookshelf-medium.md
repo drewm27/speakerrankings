@@ -71,8 +71,9 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Zaph Audio ZA5.2 TM Website](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair)
 
-### #5 [Moondrop M4P MTM](https://moondroplab.com/en/products/m4p-mtm)
-- Positives: Slight bump in the bass. Vertical directivity is just okay
+### #5 [Moondrop M4P MTM](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker): $920 a pair
+- Positives: Slight bump in the bass. 
+- Negatives: Vertical directivity is just okay
 - Reviews and Comparisons
     - [Erin's Audio Corner: Is The Moondrop M4P Monitor Speaker Worth EVERY PENNY Of $920?](https://www.youtube.com/watch?v=W6-7H0sGKKA)
     - [Erin's Audio Corner Website Moondrop M4P MTM](https://www.erinsaudiocorner.com/loudspeakers/moondrop_mrp/)
