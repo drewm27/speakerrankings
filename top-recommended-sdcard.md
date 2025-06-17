@@ -15,7 +15,7 @@ The best [small pocket size](/pocket-size/) speaker with a SD card slot is the [
 
 ### The Best Medium Size Speaker With A SD Card Slot
 
-The best [medium size](/small-medium-size/) battery powered speaker with a SD card slot is the [**49 Bogasing G4**](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4,aps,168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)
+The best [medium size](/small-medium-size/) battery powered speaker with a SD card slot is the [**$49 Bogasing G4**](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4,aps,168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)
 
 ### The Best Large Size Speaker With A SD Card Slot
 
