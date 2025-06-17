@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 14 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 15 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -211,7 +211,19 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #14 Triangle Esprit Antal Ez
+### #14 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
+- Negatives: Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
+- Sensitivity: 85dB
+- Bass Extension (-3dB): 74hz
+- Bass Extension (-10dB): 67hz
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Grab Your Pitchforks! The Magnepan LRS+ Review You Didn't See Coming!](https://www.youtube.com/watch?v=PQemV-W48b8)
+    - [Erin's Audio Review Website Magnepan LRS+](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
+- Links
+    - [Official Magnepan LRS+ Website](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
+
+
+### #15 Triangle Esprit Antal Ez
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews and Comparisons
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
