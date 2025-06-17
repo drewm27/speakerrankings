@@ -95,7 +95,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official Revel M106 Website](https://www.revelspeakers.com/products/types/bookshelf/M106-.html)
 
-### #7 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/): $6000
+### #7 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/): $6000 a pair
 - Positives: Fantastic bass extension for a bookshelf
 - Negatives: Very large and heavy. A 3dB midbass dip from 100-170hz, 3dB dip at 800hz
 - Dimensions: 31.8"H x 11.4"W x 17.6"D
