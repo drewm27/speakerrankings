@@ -29,7 +29,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
 
 ### #2 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/): $1145
-- Positives: Insanely good directivity and frequency response, and just an insane value for the price.
+- Positives: Extremely good directivity and frequency response, and just an insane value for the price.
 - Dimensions: 15.7"H x 8"W x 10.4"D
 - Weight: 18.5lbs / 8.4kg each
 - Impedance: 4 ohm

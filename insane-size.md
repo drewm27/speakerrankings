@@ -116,7 +116,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #5 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000): €950
 
 - Positives: Loudest battery powered speaker. Deeper bass than the Soundboks 2/3.
-- Negatives: Insanely heavy, not easy to carry. Not stereo. Only available in Europe
+- Negatives: Extremely heavy, not easy to carry. Not stereo. Only available in Europe
 - Weight: 68lbs / 31kg
 - Battery Life: 30 hours
 - Aux Input: Yes
