@@ -246,13 +246,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Focal Chora 816 Website](https://www.focal.com/products/chora-816)
 
-### #15 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
-- Reviews and Comparisons
-    - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
-- Links
-    - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
-
-### #16 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl): $2500
+### #15 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl): $2500
 - Negatives: A dark speaker with rolled off top end, a frequency response drop that's very linear starting at 0dB around 500hz and dropping 4dB at 10khz. Could be good in a very reflective room. Bass has a shelf and is designed to be placed within a foot from a wall.
 - Bass Extension (-3dB): 60hz
 - Bass Extension (-10dB): 29hz
@@ -262,7 +256,22 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q11 Meta Website](https://us.kef.com/products/q11-meta)
 
-### #17 JBL Studio 590
+### #16 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
+- Positives: Pretty deep bass for the price
+- Negatives: 5dB peak at 1khz, 4dB bright top end from 11khz on up. Just okay vertical off axis
+- Impedance: 4 ohm
+- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 38hz
+- Reviews and Comparisons
+    - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
+- Links
+    - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
+
+### #17 JBL Studio 590: $2000 a pair
+- Positives: Pretty deep bass
+- Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Bad resonance at 8.5khz
+- Bass Extension (-3dB): 48hz
+- Bass Extension (-10dB): 32hz
 - Reviews and Comparisons
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
