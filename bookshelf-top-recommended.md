@@ -7,6 +7,8 @@ cover-img: "/assets/img/klasik2020.jpg"
 
 This page lists the best powered bookshelf speakers out of the 45 that have been ranked on this website. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
 
+For more detailed information and specs about these speakers see the full rankings of all of them at [All Powered Speakers Ranked](/#all-powered-bookshelf-speakers-ranked)
+
 ### The Best Powered Bookshelf Speakers For Most People
 
 The best [medium size powered bookshelf speaker](/bookshelf-medium/) for the majority of people who are looking for great sound while not being too large or expensive is the **$120** [**Edifier MR3**](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl). 

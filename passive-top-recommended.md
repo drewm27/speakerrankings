@@ -9,6 +9,8 @@ This page lists the best sounding passive speakers out of the 56 ranked on this 
 
 Unless you need them to sit on a desktop, shelf or other high surface, I highly recommend getting floorstanding speakers. Also of note, a lot of bookshelf size speakers also come in a floorstanding version which should perform similarly but with deeper bass.
 
+For more detailed information and specs about these speakers see the full rankings of all of them at [All Passive Speakers Ranked](/#all-passive-speakers-ranked)
+
 Also consider [Top Recommended Powered Bookshelf Speakers](/bookshelf-top-recommended/) if you aren't looking for something specifically passive.
 
 ### The Best Passive Floorstanding Speakers For Sound Quality
