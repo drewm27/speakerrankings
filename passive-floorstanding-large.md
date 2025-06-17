@@ -267,9 +267,16 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
-### #17 JBL Studio 590: $2000 a pair
+### #17 Triangle Esprit Antal Ez
+- Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
+- Reviews and Comparisons
+    - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
+- Links
+    - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
+
+### #18 JBL Studio 590: $2000 a pair
 - Positives: Pretty deep bass
-- Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Bad resonance at 8.5khz
+- Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Really bad resonance at 8.5khz. 
 - Bass Extension (-3dB): 48hz
 - Bass Extension (-10dB): 32hz
 - Reviews and Comparisons
@@ -277,7 +284,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #18 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
+### #19 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
 - Negatives: Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz
@@ -288,10 +295,3 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Magnepan LRS+ Website](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
 
-
-### #19 Triangle Esprit Antal Ez
-- Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
-- Reviews and Comparisons
-    - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
-- Links
-    - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
