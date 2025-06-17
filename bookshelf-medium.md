@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/kh80.jpg"
 ---
 
-This page ranks 22 medium size powered bookshelf speakers. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 23 medium size powered bookshelf speakers. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top and consider adding a subwoofer.
 
@@ -90,7 +90,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/neumann_kh80/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh-80-dsp-monitor-review.11018/)
 
-### #5 [Focal Alpha 50 EVO](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl): $600 a pair
+### #5 [Kali LP-UNF](https://www.amazon.com/KALI-AUDIO-LP-UNF-Nearfield-Bluetooth/dp/B0CSDVVYBC?mcid=6d7ff2a558da3c8abdab65971ce3980e&hvocijid=1369021853064517712-B0CSDVVYBC-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=1369021853064517712&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178058&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=eac473512f174456e9d90c3ba837b3e7&language=en_US&ref_=as_li_ss_tl): $350 a pair
+- Positives: An insane value in this class. Slight 2dB bass boost. Pretty deep bass for this size class
+- Negatives: 3dB dip around 240hz
+- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 39hz
+- Tweeter: 1" Textile Dome
+- Woofer Size: 4.5"
+- Comparisons and Sound Samples
+    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
+- Links
+    - [Official Product Page](https://www.kaliaudio.com/lp-unf)
+
+### #6 [Focal Alpha 50 EVO](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl): $600 a pair
 - Positives: More neutral than the great HS5
 - Frequency Response: 45 Hz - 22 kHz (+-3 dB)
 - Dimensions: 12.2"H x 9.0"W x 9.4"D
@@ -111,7 +123,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-50-evo)
 
-### #6 [JBL 305P MKII](https://www.amazon.com/JBL-Professional-Next-Generation-Powered-Monitor/dp/B088VSBV65?crid=25WT87G67Z561&dib=eyJ2IjoiMSJ9.v8plMhx5Sg96qEFLHCIEZP143UPem1WLnn4eBTbhirsMmNDZEc50aYiCnrPszhoYX8FXn1CDewMshbtm2-tDTxEbxHILqFmJ2pzTpBfNSHq9xQs8VaPYb36zpzRXEIso9zCj8t_cxIAMrvr1SER2X0W5zxGl-l9UZwBA9uPzbgc3BLu2vOFJ4yUKoY-Xq2qA_-zkeRLBshoB-9sBYF2Xmzfjo9PtndrotlU_iw61oRrrpwetV2g66XRZ2Ugp6t68n0hGFxY-yt9pp2fR3a5E1joj8Cfu0kD_CpDTOu2szTI.eQkw0BxQGLVZqZFwUt7wMbmhfq46zbIlCHo49Dt-tjI&dib_tag=se&keywords=JBL%2B305P%2BMKII&qid=1717692254&sprefix=%2Caps%2C281&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b793574fc6427117f475aa2dd6987c97&language=en_US&ref_=as_li_ss_tl): $300 a pair
+### #7 [JBL 305P MKII](https://www.amazon.com/JBL-Professional-Next-Generation-Powered-Monitor/dp/B088VSBV65?crid=25WT87G67Z561&dib=eyJ2IjoiMSJ9.v8plMhx5Sg96qEFLHCIEZP143UPem1WLnn4eBTbhirsMmNDZEc50aYiCnrPszhoYX8FXn1CDewMshbtm2-tDTxEbxHILqFmJ2pzTpBfNSHq9xQs8VaPYb36zpzRXEIso9zCj8t_cxIAMrvr1SER2X0W5zxGl-l9UZwBA9uPzbgc3BLu2vOFJ4yUKoY-Xq2qA_-zkeRLBshoB-9sBYF2Xmzfjo9PtndrotlU_iw61oRrrpwetV2g66XRZ2Ugp6t68n0hGFxY-yt9pp2fR3a5E1joj8Cfu0kD_CpDTOu2szTI.eQkw0BxQGLVZqZFwUt7wMbmhfq46zbIlCHo49Dt-tjI&dib_tag=se&keywords=JBL%2B305P%2BMKII&qid=1717692254&sprefix=%2Caps%2C281&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b793574fc6427117f475aa2dd6987c97&language=en_US&ref_=as_li_ss_tl): $300 a pair
 - Positives: A fantastic value in studio monitors. Extremely close to the Focal Alpha 50 EVO, almost indistinguishable.
 - Negatives: Possible slight hissing from the amps at low levels. Rear ported, can be an issue close to walls.
 - Frequency Response: 49 Hz - 20 kHz (+-3 dB)
@@ -135,7 +147,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/)
 
-### #7 [Adam Audio T5V](https://www.amazon.com/ADAM-Audio-T5V-Studio-Monitor/dp/B07BKVY3J1?crid=RNE8UPO1NDTD&dib=eyJ2IjoiMSJ9.s6GO69rhGO3RR8JiF_GYvPaMcwWQMlTgMrUasMmncTaJP-W2UW8eJ1HHpzEfKh382E7qPnlXy7V1LaBKlKomeQwQcHoiVFfkXkyxBpfQf5Znwpr41YY-_q_J3EzsJtykRCPBibZRhX5HQKpabx0zea2RTZ4AJjMc6qyXoahQcgnvRGhqP3flQPm-WGmux5pFxMXxZ2lt3n6PEJ1xP_MtIFlfpfs04Ip9LH3omYOnk3mqR0CHhieIrTQUmihz6drUoUtZpnp9UP7GHBEca5GLIpWfFqvlAMQ13cFSnebbKHs.x82H1XwQU6a-gC6AJVik6oFOyrQ8G5WDL4IuRUGN0Ik&dib_tag=se&keywords=adam%2Bt5v&qid=1718076940&sprefix=adam%2Bt5%2Caps%2C185&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e26f4d29fa8e85cbf2d52ad75e908571&language=en_US&ref_=as_li_ss_tl): $352 a pair
+### #8 [Adam Audio T5V](https://www.amazon.com/ADAM-Audio-T5V-Studio-Monitor/dp/B07BKVY3J1?crid=RNE8UPO1NDTD&dib=eyJ2IjoiMSJ9.s6GO69rhGO3RR8JiF_GYvPaMcwWQMlTgMrUasMmncTaJP-W2UW8eJ1HHpzEfKh382E7qPnlXy7V1LaBKlKomeQwQcHoiVFfkXkyxBpfQf5Znwpr41YY-_q_J3EzsJtykRCPBibZRhX5HQKpabx0zea2RTZ4AJjMc6qyXoahQcgnvRGhqP3flQPm-WGmux5pFxMXxZ2lt3n6PEJ1xP_MtIFlfpfs04Ip9LH3omYOnk3mqR0CHhieIrTQUmihz6drUoUtZpnp9UP7GHBEca5GLIpWfFqvlAMQ13cFSnebbKHs.x82H1XwQU6a-gC6AJVik6oFOyrQ8G5WDL4IuRUGN0Ik&dib_tag=se&keywords=adam%2Bt5v&qid=1718076940&sprefix=adam%2Bt5%2Caps%2C185&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e26f4d29fa8e85cbf2d52ad75e908571&language=en_US&ref_=as_li_ss_tl): $352 a pair
 - Positives: Better than the HS5 in terms of vocals detail and better low end.
 - Frequency Response: 58Hz – 24kHz (-3dB)
 - Dimensions: 11.7"H x 7.0"W x 11.7"D
@@ -153,7 +165,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t5v-review-studio-monitor.18122/)
 
-### #8 [Yamaha HS5](https://www.amazon.com/Yamaha-HS5-Powered-Studio-Monitor/dp/B075Q5T7Q1?crid=31X5LUBY65SP4&dib=eyJ2IjoiMSJ9.7puFCFa_3g-pXnsDe3afQ3bv5kynT3-em4uwrC2cF931BC7U1n27I8hT4epBfmgn54KbdVlgndxy1HChF_b0AjbpSA2PxwbWh33LrMW9NF6y07CGQRvWsgFI9bSAne1OvkTkEoOTFXSc_QLTwUyGGJS39Ank141i9BFM60ZEKnYns6_9kQGPUR1yFm1QC4q28hv3Y9bhLRisI2NYYWcrCca6cBnlMAjx4RMynjDkeLjgiM4Lr3pc9F9F4ATMVaJkgkENPEfaxgO_EOjOPIYAmCUb2artTrAujSC6L4oWaHA.bTASrE4d4FXSp7yY6Y6xHNLXGQuKO-wDs1UtxHXfwNI&dib_tag=se&keywords=yamaha+hs5&qid=1716437423&sprefix=yamaha+hs%2Caps%2C238&sr=8-4&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=a590c06b6fb6ff7d7bf10fb85be451d5&language=en_US&ref_=as_li_ss_tl): $400 a pair
+### #9 [Yamaha HS5](https://www.amazon.com/Yamaha-HS5-Powered-Studio-Monitor/dp/B075Q5T7Q1?crid=31X5LUBY65SP4&dib=eyJ2IjoiMSJ9.7puFCFa_3g-pXnsDe3afQ3bv5kynT3-em4uwrC2cF931BC7U1n27I8hT4epBfmgn54KbdVlgndxy1HChF_b0AjbpSA2PxwbWh33LrMW9NF6y07CGQRvWsgFI9bSAne1OvkTkEoOTFXSc_QLTwUyGGJS39Ank141i9BFM60ZEKnYns6_9kQGPUR1yFm1QC4q28hv3Y9bhLRisI2NYYWcrCca6cBnlMAjx4RMynjDkeLjgiM4Lr3pc9F9F4ATMVaJkgkENPEfaxgO_EOjOPIYAmCUb2artTrAujSC6L4oWaHA.bTASrE4d4FXSp7yY6Y6xHNLXGQuKO-wDs1UtxHXfwNI&dib_tag=se&keywords=yamaha+hs5&qid=1716437423&sprefix=yamaha+hs%2Caps%2C238&sr=8-4&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=a590c06b6fb6ff7d7bf10fb85be451d5&language=en_US&ref_=as_li_ss_tl): $400 a pair
 - Positives: Very neutral. Excellent for mixing and anything needing a neutral output.
 - Negatives: Not quite as deep of bass as some of the others in this size class. Slight midrange boost.
 - Frequency Response: 58Hz – 24kHz (-3dB)
@@ -169,7 +181,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/yamaha-hs5-powered-monitor-review.10967)
 
-### #9 [Presonus Eris E5](https://www.amazon.com/PreSonus-Eris-E5-Active-Monitor/dp/B00CP4IJH0?crid=3Q9VPXQDJ5CZG&dib=eyJ2IjoiMSJ9.IcA3l7adi6e0olw6_a9K75Rd4CrmyPyP5lpwNOMHroVXhMsZWGxqHvLSk1-yL0QINptjLyPMbxPm3M6iBT1NGWgHrp9tgoLOsjoUYEh7K2IzHHVNmYA4Ns4KTLH9EKuSczujuMjQT-FdGLq-ntEu7FcdP9S0VSsxc4-FIR0Y5mQ1udUx5o_4-nnrw_IUhqCSHg2JbVzBr_BEFFbqC7CuQwFQjbaA9WFXxeKzBEujSqZJmL7a6FZxkE_3ycMZ_qJDyIK9AxQHwbXoGgoryghrKCOuA9oJE2ViqW7BmxjUeUA.EBfUJHsfaOVdGXalUS-RO0nIedUgV4Q9xYxmQeOToaY&dib_tag=se&keywords=presonus+e5&qid=1718679938&sprefix=presonus+e5+%2Caps%2C265&sr=8-2&linkCode=ll1&tag=rankingspea01-20&linkId=59925f990689017d481dbdd97c783487&language=en_US&ref_=as_li_ss_tl): $400 a pair
+### #10 [Presonus Eris E5](https://www.amazon.com/PreSonus-Eris-E5-Active-Monitor/dp/B00CP4IJH0?crid=3Q9VPXQDJ5CZG&dib=eyJ2IjoiMSJ9.IcA3l7adi6e0olw6_a9K75Rd4CrmyPyP5lpwNOMHroVXhMsZWGxqHvLSk1-yL0QINptjLyPMbxPm3M6iBT1NGWgHrp9tgoLOsjoUYEh7K2IzHHVNmYA4Ns4KTLH9EKuSczujuMjQT-FdGLq-ntEu7FcdP9S0VSsxc4-FIR0Y5mQ1udUx5o_4-nnrw_IUhqCSHg2JbVzBr_BEFFbqC7CuQwFQjbaA9WFXxeKzBEujSqZJmL7a6FZxkE_3ycMZ_qJDyIK9AxQHwbXoGgoryghrKCOuA9oJE2ViqW7BmxjUeUA.EBfUJHsfaOVdGXalUS-RO0nIedUgV4Q9xYxmQeOToaY&dib_tag=se&keywords=presonus+e5&qid=1718679938&sprefix=presonus+e5+%2Caps%2C265&sr=8-2&linkCode=ll1&tag=rankingspea01-20&linkId=59925f990689017d481dbdd97c783487&language=en_US&ref_=as_li_ss_tl): $400 a pair
 - Negatives: More HiFi sounding than the HS5 and not quite as detailed, although with deeper bass and a more fun listen.
 - Frequency Response: 53Hz – 22kHz
 - Dimensions: 10.2"H x 7.0"W x 7.7"D
@@ -192,7 +204,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 
 
-### #10 [KRK Rokit 5 G4](https://www.amazon.com/KRK-RP5-Professional-Powered-Monitor/dp/B07YZP99W3?crid=2DXSV85B5TDXD&dib=eyJ2IjoiMSJ9.yi7PgsVL-Kj_ghtXNZImG-4BsCYnLx8lG9XESIKWkWLeGv4AJb2VBBjBvreQ-u1JMZPtVyEX2jIEn6quFCnou_QygO-gnAzgFCi6GU5WoZ-fKPm0CSjY9MBsYnAlhdlg1tfLpPWWg9LwW78cWBZ4QCBkjp-acyoeqxkmDHogK2VhJcP4PE6p11eePT2QhJG1Rl4VTSDVbSgrCBNdscOTxvxd4w6ZiZZ6YkVed9IId9ju1JDB8s-RpS9Mnuj0AkuMSd9wY31fJobuSuVF1S1DjXSN8N9hIxNK3oxe0U0ST7w.6lAMpHrOMBhz61M4LJohDSDhWV27uU5CDNcx8Wndaso&dib_tag=se&keywords=krk%2Brokit%2B5&qid=1718077789&sprefix=krk%2Bro%2Caps%2C187&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=81ef25297663661c905e73aba22b93dc&language=en_US&ref_=as_li_ss_tl): $337
+### #11 [KRK Rokit 5 G4](https://www.amazon.com/KRK-RP5-Professional-Powered-Monitor/dp/B07YZP99W3?crid=2DXSV85B5TDXD&dib=eyJ2IjoiMSJ9.yi7PgsVL-Kj_ghtXNZImG-4BsCYnLx8lG9XESIKWkWLeGv4AJb2VBBjBvreQ-u1JMZPtVyEX2jIEn6quFCnou_QygO-gnAzgFCi6GU5WoZ-fKPm0CSjY9MBsYnAlhdlg1tfLpPWWg9LwW78cWBZ4QCBkjp-acyoeqxkmDHogK2VhJcP4PE6p11eePT2QhJG1Rl4VTSDVbSgrCBNdscOTxvxd4w6ZiZZ6YkVed9IId9ju1JDB8s-RpS9Mnuj0AkuMSd9wY31fJobuSuVF1S1DjXSN8N9hIxNK3oxe0U0ST7w.6lAMpHrOMBhz61M4LJohDSDhWV27uU5CDNcx8Wndaso&dib_tag=se&keywords=krk%2Brokit%2B5&qid=1718077789&sprefix=krk%2Bro%2Caps%2C187&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=81ef25297663661c905e73aba22b93dc&language=en_US&ref_=as_li_ss_tl): $337
 - Positives: Deeper bass than the HS5
 - Negatives: Not quite as detailed as the HS5, not as good for mixing. A little more hifi sounding
 - Frequency Response: 58Hz – 24kHz (-3dB)
@@ -215,7 +227,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.krkmusic.com/products/rokit-5-generation-4-powered-studio-monitor-black)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-rokit-5-gen-4-review-studio-monitor.20711/)
 
-### #11 [Presonus Eris E5 XT](https://www.amazon.com/PreSonus-Eris-E7-XT-Waveguide/dp/B084Z8X1TK?crid=MR6LQWURU4U4&dib=eyJ2IjoiMSJ9.6Qpx47E1l2NrQlk50TvDcJqQaeg506BtoPH2ilfcOQwV5grdBgJq93Om8t8llWYx-qkp_vb4bMjySqc48Oo6vagdsqtv0VhM7NgkDu_9Y8JaaJb51gYX2VPJTUabz26LCw7Iei0j_M_FRi2vSWbBKJGGm7wRykvsbTJLXKpF9MTkRfunYiGqmWHOjJgjTrmSBSFinhbYg0uTW2O6MYcQhFIDqcAiPGdRff-X9MBIJxtGnmoBGHh6cd1FM09v9AEh.dPRCRzMNmG_JbgWRUvFC5OUAfCEM8H5fKV5mp3o_9do&dib_tag=se&keywords=presonus%2Be5%2Bxt&qid=1718680644&sprefix=presonus%2Be5%2Bx%2Caps%2C179&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8d932d2de79bc2e1acc1695f392761cb&language=en_US&ref_=as_li_ss_tl): $300 a pair
+### #12 [Presonus Eris E5 XT](https://www.amazon.com/PreSonus-Eris-E7-XT-Waveguide/dp/B084Z8X1TK?crid=MR6LQWURU4U4&dib=eyJ2IjoiMSJ9.6Qpx47E1l2NrQlk50TvDcJqQaeg506BtoPH2ilfcOQwV5grdBgJq93Om8t8llWYx-qkp_vb4bMjySqc48Oo6vagdsqtv0VhM7NgkDu_9Y8JaaJb51gYX2VPJTUabz26LCw7Iei0j_M_FRi2vSWbBKJGGm7wRykvsbTJLXKpF9MTkRfunYiGqmWHOjJgjTrmSBSFinhbYg0uTW2O6MYcQhFIDqcAiPGdRff-X9MBIJxtGnmoBGHh6cd1FM09v9AEh.dPRCRzMNmG_JbgWRUvFC5OUAfCEM8H5fKV5mp3o_9do&dib_tag=se&keywords=presonus%2Be5%2Bxt&qid=1718680644&sprefix=presonus%2Be5%2Bx%2Caps%2C179&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8d932d2de79bc2e1acc1695f392761cb&language=en_US&ref_=as_li_ss_tl): $300 a pair
 - Negatives: More HiFi sounding than a studio monitor. Not as good as the E5. Very close to the Rokit 5, but these sound slightly colored.
 - Frequency Response: 53Hz – 22kHz
 - Dimensions: 10.2"H x 7.0"W x 7.7"D
@@ -233,7 +245,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://legacy.presonus.com/products/Eris-E5-XT)
 
-### #12 [IK Multimedia iLoud MTM](https://www.amazon.com/IK-Multimedia-Acoustic-Calibration-IP-ILOUD-MTM/dp/B07NC6KFL8?crid=EN9KK4647AWK&dib=eyJ2IjoiMSJ9.3qEA4Zmi4D-bFdUzuEXjtWusjFK_aVWCmLP5TINR5ms03Vn9UBEQE3-yuDLWGxXXVmHqp8j-wSUW5NfiqUf4bJV2yuUsnNU8fuE-MTw5n_zzG5k53xjG7JyvqctDkQUjdgN7YYKDkQwYo_GS2Iv_brKJPTpt6fhurNJuiA6lsIkn6rYsRwtdxKs-004JIgFx-rfDcWGaJrlb4xxG8rUBIPIwzhy6ehjpwxY1hR4L2SkotyUCe_JjSr-eAdRfFv7h-CD_DICRPPGSeLQ6MtamXGROsJ8_BlPGWD4bPEhUtRM.DoIZGp_ZGuefpuuN3UaLqSutaXenKG2PP24McG6b-YQ&dib_tag=se&keywords=iLoud+Mtm&qid=1716443319&sprefix=iloud+mtm%2Caps%2C165&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=46d97e6a4254cd194e5b776ccf1cd7fb&language=en_US&ref_=as_li_ss_tl): $800 a pair
+### #13 [IK Multimedia iLoud MTM](https://www.amazon.com/IK-Multimedia-Acoustic-Calibration-IP-ILOUD-MTM/dp/B07NC6KFL8?crid=EN9KK4647AWK&dib=eyJ2IjoiMSJ9.3qEA4Zmi4D-bFdUzuEXjtWusjFK_aVWCmLP5TINR5ms03Vn9UBEQE3-yuDLWGxXXVmHqp8j-wSUW5NfiqUf4bJV2yuUsnNU8fuE-MTw5n_zzG5k53xjG7JyvqctDkQUjdgN7YYKDkQwYo_GS2Iv_brKJPTpt6fhurNJuiA6lsIkn6rYsRwtdxKs-004JIgFx-rfDcWGaJrlb4xxG8rUBIPIwzhy6ehjpwxY1hR4L2SkotyUCe_JjSr-eAdRfFv7h-CD_DICRPPGSeLQ6MtamXGROsJ8_BlPGWD4bPEhUtRM.DoIZGp_ZGuefpuuN3UaLqSutaXenKG2PP24McG6b-YQ&dib_tag=se&keywords=iLoud+Mtm&qid=1716443319&sprefix=iloud+mtm%2Caps%2C165&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=46d97e6a4254cd194e5b776ccf1cd7fb&language=en_US&ref_=as_li_ss_tl): $800 a pair
 - Positives: The absolute deepest bass out of a speaker this narrow
 - Negatives: Boosted bass, more hifi sounding than neutral
 - Frequency Response: 50 Hz - 24 kHz (-3dB)
@@ -254,7 +266,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/ik-multimedia-iloud-mtm-review-active-monitor.18347/)
 
-### #13 [Edifier S2000MKIII](https://www.amazon.com/Edifier-S2000MKIII-Bluetooth-Bookshelf-Speakers/dp/B07ZVP9XBG?crid=1KAUATXD3LC5N&dib=eyJ2IjoiMSJ9.qOWopqxdeLeO6n2AA4DSKXlafJy8DMTL8gUoPGhLLlJkwnM_GdNR0fCexpRtgAzxwwD3SPEANekvpSaIG1uRIUSkl8-R3I9PcK7gbpBddd1hewUqSYrUp2eLAGIdapYCieDpYzRklRAaeBGOZClgl43-9coco62wJRwHGaFSp0lPNFlWpXdXH3XQLExL2ue6nCnRBerGtYT8pEADesWKWnapOnJhpdkj1RnoPcHn6i64UJ6pb5M17GOomcXeoqTwTjMVmy06BmprB2GnW_WVe3ClfQHAqA2OMJf5sn1kYR4.-Cbf-C1Riy2w5JOu1apOP4QpKYK9yoS6gpsuJHdivOc&dib_tag=se&keywords=edifier+s2000mkiii&qid=1714000498&sprefix=edifier+s2000%2Caps%2C198&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=cf75cbfff839bae1ed1d84789a84eb0c&language=en_US&ref_=as_li_ss_tl): $550 a pair
+### #14 [Edifier S2000MKIII](https://www.amazon.com/Edifier-S2000MKIII-Bluetooth-Bookshelf-Speakers/dp/B07ZVP9XBG?crid=1KAUATXD3LC5N&dib=eyJ2IjoiMSJ9.qOWopqxdeLeO6n2AA4DSKXlafJy8DMTL8gUoPGhLLlJkwnM_GdNR0fCexpRtgAzxwwD3SPEANekvpSaIG1uRIUSkl8-R3I9PcK7gbpBddd1hewUqSYrUp2eLAGIdapYCieDpYzRklRAaeBGOZClgl43-9coco62wJRwHGaFSp0lPNFlWpXdXH3XQLExL2ue6nCnRBerGtYT8pEADesWKWnapOnJhpdkj1RnoPcHn6i64UJ6pb5M17GOomcXeoqTwTjMVmy06BmprB2GnW_WVe3ClfQHAqA2OMJf5sn1kYR4.-Cbf-C1Riy2w5JOu1apOP4QpKYK9yoS6gpsuJHdivOc&dib_tag=se&keywords=edifier+s2000mkiii&qid=1714000498&sprefix=edifier+s2000%2Caps%2C198&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=cf75cbfff839bae1ed1d84789a84eb0c&language=en_US&ref_=as_li_ss_tl): $550 a pair
 - Positives: High resolution digital input up to 192khz/24bit
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Dimensions: 13.5"H x 7.8"W x 10.8"D
@@ -270,7 +282,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://edifier-online.com/products/ed-s2000mkiii-brown)
 
-### #14 [Edifier S1000W](https://www.amazon.com/Edifier-Audiophile-Bookshelf-Speakers-Bluetooth/dp/B09NL64VM8?crid=2GRYSRZZU9AL9&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZRdWq1eOp1-qa821wm8x5o2tpQED9QHdl7-zrYg84bnRTOspOUTNaFrZCD9hBQwUZsx50cSuCPF7FqQlM6pFyrt5yyIr0ORjJpxqBearWDSnti_qWP80NhwfusvD4swFR_pFJQQ94eKRFVgLsqHqD0R3mHAyUTbOnSEU8394Vuz9.zCCE2S-RcbkjfSK3y4m17xycn3lpfWAyOCjibyADHjc&dib_tag=se&keywords=edifier%2Bs1000&qid=1713999307&sprefix=edifier%2Bs1000%2Caps%2C215&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=60e012d51764e1ac8819da6a6570af2b&language=en_US&ref_=as_li_ss_tl): $450 a pair
+### #15 [Edifier S1000W](https://www.amazon.com/Edifier-Audiophile-Bookshelf-Speakers-Bluetooth/dp/B09NL64VM8?crid=2GRYSRZZU9AL9&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZRdWq1eOp1-qa821wm8x5o2tpQED9QHdl7-zrYg84bnRTOspOUTNaFrZCD9hBQwUZsx50cSuCPF7FqQlM6pFyrt5yyIr0ORjJpxqBearWDSnti_qWP80NhwfusvD4swFR_pFJQQ94eKRFVgLsqHqD0R3mHAyUTbOnSEU8394Vuz9.zCCE2S-RcbkjfSK3y4m17xycn3lpfWAyOCjibyADHjc&dib_tag=se&keywords=edifier%2Bs1000&qid=1713999307&sprefix=edifier%2Bs1000%2Caps%2C215&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=60e012d51764e1ac8819da6a6570af2b&language=en_US&ref_=as_li_ss_tl): $450 a pair
 - Positives: High resolution digital input up to 192khz/24bit. Wifi
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
@@ -285,7 +297,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/s1000w)
 
-### #15 [Edifier S1000MKII](https://www.amazon.com/Edifier-S1000MKII-Audiophile-Bookshelf-Speakers/dp/B07ZVPMR58?crid=26NA8YK3AU010&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZZQsuDqdDgspnq2w4abgL8UWMFnY0dq9-DnqLy7-1RsKIB0ZdiJllN8Aj7C-smtvk6ZlM9byai6U7Uiqc0daDTDASf-CxVAsk0PwSsaf9-vXHOHfTKw2UWn7mVboIoXXKxPjT13mAms0qPFo7LErT8gYNfIYbTz-JjdGak2lYHTBZyJN7s8c4IEpxXdjdRRXc-XJCHNGvK5Ko9sFhghZGzg.lwRPoXbmvQsSnQfjf0PAMhTLGma1cZGN0tI1enR_7iM&dib_tag=se&keywords=edifier+s1000db&qid=1714000153&sprefix=edifier+s1000d%2Caps%2C244&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=8891126ab3a0f105e12aead8f282f713&language=en_US&ref_=as_li_ss_tl): $400 a pair
+### #16 [Edifier S1000MKII](https://www.amazon.com/Edifier-S1000MKII-Audiophile-Bookshelf-Speakers/dp/B07ZVPMR58?crid=26NA8YK3AU010&dib=eyJ2IjoiMSJ9.t-8ZBlMoxAygGQWj613WZZQsuDqdDgspnq2w4abgL8UWMFnY0dq9-DnqLy7-1RsKIB0ZdiJllN8Aj7C-smtvk6ZlM9byai6U7Uiqc0daDTDASf-CxVAsk0PwSsaf9-vXHOHfTKw2UWn7mVboIoXXKxPjT13mAms0qPFo7LErT8gYNfIYbTz-JjdGak2lYHTBZyJN7s8c4IEpxXdjdRRXc-XJCHNGvK5Ko9sFhghZGzg.lwRPoXbmvQsSnQfjf0PAMhTLGma1cZGN0tI1enR_7iM&dib_tag=se&keywords=edifier+s1000db&qid=1714000153&sprefix=edifier+s1000d%2Caps%2C244&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=8891126ab3a0f105e12aead8f282f713&language=en_US&ref_=as_li_ss_tl): $400 a pair
 - Positives: High resolution digital input up to 192khz/24bit. Very close to the S2000MKIII, almost no reason to pay more
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
 - Weight: 37.0lbs / 16.8kg
@@ -299,7 +311,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/s1000mkii)
 
-### #16 [KRK Classic 5](https://www.amazon.com/KRK-Classic-Professional-Powered-Monitor/dp/B07XZZTZ3Q?crid=2BQB255MWF2DY&dib=eyJ2IjoiMSJ9.f6tYzbse1MNIXYjYyRHJMXwYgG6t3Hi2QKdz68GRG6x_75kqIZKngGC4zkj9Ww9M5zu-zqQmQ_a3u5nP8EdKx_C_ZqsBSqwsXwHtsG_eo6rjOgepzKnFWSsau-Z7darbnSKGxI-QsDaCyJA7rBPG5Ikqqj7tOsjJ__MKXAmz_XDYFBpcvuv0dcc4OkTBRs61XyzHAiTbntuhiHTnX9lvq_ldXFskWg5AiOpzQhpNuZ9RwsB7uwn9X71CHebbm28zrUNZH9C3gDI1OCGvDTI7hVwh-BgG_KzFsxovaon5hGI.LmdUmabW7zPbZxlpyFUVrgRFR4mvx8XzoXS2FAoMQBg&dib_tag=se&keywords=krk%2Bclassic%2B5&qid=1718078777&sprefix=krk%2Bclassic%2B%2Caps%2C143&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fc036e98f6ee9b081d04ede0ac0f2abd&language=en_US&ref_=as_li_ss_tl): $280
+### #17 [KRK Classic 5](https://www.amazon.com/KRK-Classic-Professional-Powered-Monitor/dp/B07XZZTZ3Q?crid=2BQB255MWF2DY&dib=eyJ2IjoiMSJ9.f6tYzbse1MNIXYjYyRHJMXwYgG6t3Hi2QKdz68GRG6x_75kqIZKngGC4zkj9Ww9M5zu-zqQmQ_a3u5nP8EdKx_C_ZqsBSqwsXwHtsG_eo6rjOgepzKnFWSsau-Z7darbnSKGxI-QsDaCyJA7rBPG5Ikqqj7tOsjJ__MKXAmz_XDYFBpcvuv0dcc4OkTBRs61XyzHAiTbntuhiHTnX9lvq_ldXFskWg5AiOpzQhpNuZ9RwsB7uwn9X71CHebbm28zrUNZH9C3gDI1OCGvDTI7hVwh-BgG_KzFsxovaon5hGI.LmdUmabW7zPbZxlpyFUVrgRFR4mvx8XzoXS2FAoMQBg&dib_tag=se&keywords=krk%2Bclassic%2B5&qid=1718078777&sprefix=krk%2Bclassic%2B%2Caps%2C143&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fc036e98f6ee9b081d04ede0ac0f2abd&language=en_US&ref_=as_li_ss_tl): $280
 - Positives: Good soundstage
 - Negatives: More hifi than studio monitors
 - Frequency Response: 56Hz-30KHz (+-3dB)
@@ -315,7 +327,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.krkmusic.com/products/classic-5-powered-studio-monitor-pack)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)
 
-### #17 [Audioengine HD6](https://lvnta.com/lv_XV3UeQBotZIJuc8PIw): $700 a pair
+### #18 [Audioengine HD6](https://lvnta.com/lv_XV3UeQBotZIJuc8PIw): $700 a pair
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
@@ -331,7 +343,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd6-wireless-speakers%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D155&cjsku=155)
 
-### #18 [Edifier R2000DB](https://www.amazon.com/Edifier-R2000DB-Bluetooth-Bookshelf-Speakers/dp/B016PAWJYS?crid=3JD2RMU8HTVIK&dib=eyJ2IjoiMSJ9.12p4yJikFn4L3tFzlxe60Bcau-dhPE08wHQ78FJ8w-gcMPYjJpg7hxk-Bsl1dyHVFCLgwoyjgKlsN6gJb6eIBDr7ccpbgn0D2uTYCrZr7wzf8vfeuaCt8xkBwBdxZ7bnnoNtv6qZKBfCZJ1SoweidQ8pjyrKbIJoKJydFOn2nxCIqQ3D3AGxfM0DhyzKXeuWSbEJh17dDTKwynoiBBapfkV8vDBwd1HwabISpFu-naI.x4BFUp6GuH-jc2lESjarRflfbn0J8mD_V2JgIHTgwk4&dib_tag=se&keywords=edifier%2Br2000db&qid=1714106967&sprefix=edifer%2Br2000d%2Caps%2C164&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=166a5ab0aa7fc04dae93ccf647ddd0c6&language=en_US&ref_=as_li_ss_tl): $250 a pair
+### #19 [Edifier R2000DB](https://www.amazon.com/Edifier-R2000DB-Bluetooth-Bookshelf-Speakers/dp/B016PAWJYS?crid=3JD2RMU8HTVIK&dib=eyJ2IjoiMSJ9.12p4yJikFn4L3tFzlxe60Bcau-dhPE08wHQ78FJ8w-gcMPYjJpg7hxk-Bsl1dyHVFCLgwoyjgKlsN6gJb6eIBDr7ccpbgn0D2uTYCrZr7wzf8vfeuaCt8xkBwBdxZ7bnnoNtv6qZKBfCZJ1SoweidQ8pjyrKbIJoKJydFOn2nxCIqQ3D3AGxfM0DhyzKXeuWSbEJh17dDTKwynoiBBapfkV8vDBwd1HwabISpFu-naI.x4BFUp6GuH-jc2lESjarRflfbn0J8mD_V2JgIHTgwk4&dib_tag=se&keywords=edifier%2Br2000db&qid=1714106967&sprefix=edifer%2Br2000d%2Caps%2C164&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=166a5ab0aa7fc04dae93ccf647ddd0c6&language=en_US&ref_=as_li_ss_tl): $250 a pair
 - Negatives: Slight lacking of bass and treble, slight inverted V EQ profile
 - Frequency Response: 55Hz-40KHz (-3dB)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
@@ -347,7 +359,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r2000db)
 
-### #19 [Edifier MR4](https://www.amazon.com/Edifier-Powered-Monitor-Speakers-Near-Field/dp/B09FXG9BLR?hvadid=563758605815&hvpos=&hvnetw=g&hvrand=14996373029609059198&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1568283915325&mcid=28c0999faba234ceb23ef1aa48dd74d2&gclid=Cj0KCQjw_qexBhCoARIsAFgBletx4GmVvrMFl0mV7uef4xbb9oX-_Sk15dfsugflQcPoJmZZNZKd9-4aAtZuEALw_wcB&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3e40828e354ff5d2dda767b7da2c3a53&language=en_US&ref_=as_li_ss_tl): $130 a pair
+### #20 [Edifier MR4](https://www.amazon.com/Edifier-Powered-Monitor-Speakers-Near-Field/dp/B09FXG9BLR?hvadid=563758605815&hvpos=&hvnetw=g&hvrand=14996373029609059198&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1568283915325&mcid=28c0999faba234ceb23ef1aa48dd74d2&gclid=Cj0KCQjw_qexBhCoARIsAFgBletx4GmVvrMFl0mV7uef4xbb9oX-_Sk15dfsugflQcPoJmZZNZKd9-4aAtZuEALw_wcB&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3e40828e354ff5d2dda767b7da2c3a53&language=en_US&ref_=as_li_ss_tl): $130 a pair
 - Positives: More balanced than the R1280DB. The value king.
 - Negatives: No Bluetooth unlike other Edifier models
 - Frequency Response: 60 Hz-20 kHz (-3dB)
@@ -370,7 +382,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/edifier_mr4/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/)
 
-### #20 [Edifier R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl): $180 a pair
+### #21 [Edifier R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl): $180 a pair
 - Negatives: more V shaped, not quite as neutral sounding as the Edifier MR4
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Dimensions: 10"H x 6.1"W x 8.4"D
@@ -387,7 +399,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
 
-### #21 [Edifier R1280DB](https://www.amazon.com/Edifier-R1280DB-Bluetooth-Bookshelf-Speakers/dp/B06XGG6MFV?crid=26S8RDF4HQ69S&dib=eyJ2IjoiMSJ9.WuwVs0r_EvmoS0jJLV4PX9xI7XBG0MJWk9x6FJzIBRtik1vCS1CVHRpsX4geTrS6ifl9aNchXVzYv2IAXDGjeqXVrC_gZq3X0aJr1GqjGGo3Lb0whZ9SNy8A-lLTaMoaQh_UrNi2jaX5aHXgUF8J83rwbj2UW5bKmSBIh9vJcxXS75r5T14Z2rZ0XkFDihCq7B7dozS_98ifTa3GfiD2Lw.s7k8tpF49QXDFjjUhVs6Nw05QBzEGeHjyufRQ_Jmyok&dib_tag=se&keywords=edifier%2B1280db&qid=1713997683&sprefix=edifer%2B1280d%2Caps%2C197&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fb52ac2b3f710c8897ccb26d42ee8c29&language=en_US&ref_=as_li_ss_tl): $150 a pair
+### #22 [Edifier R1280DB](https://www.amazon.com/Edifier-R1280DB-Bluetooth-Bookshelf-Speakers/dp/B06XGG6MFV?crid=26S8RDF4HQ69S&dib=eyJ2IjoiMSJ9.WuwVs0r_EvmoS0jJLV4PX9xI7XBG0MJWk9x6FJzIBRtik1vCS1CVHRpsX4geTrS6ifl9aNchXVzYv2IAXDGjeqXVrC_gZq3X0aJr1GqjGGo3Lb0whZ9SNy8A-lLTaMoaQh_UrNi2jaX5aHXgUF8J83rwbj2UW5bKmSBIh9vJcxXS75r5T14Z2rZ0XkFDihCq7B7dozS_98ifTa3GfiD2Lw.s7k8tpF49QXDFjjUhVs6Nw05QBzEGeHjyufRQ_Jmyok&dib_tag=se&keywords=edifier%2B1280db&qid=1713997683&sprefix=edifer%2B1280d%2Caps%2C197&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fb52ac2b3f710c8897ccb26d42ee8c29&language=en_US&ref_=as_li_ss_tl): $150 a pair
 - Negatives: Not quite as neutral sounding as the Edifier MR4
 - Frequency Response: 55 Hz-20 kHz (-3dB)
 - Dimensions: 9.2"H x 5.7"W x 7.7"D
@@ -404,7 +416,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-r1280t-powered-speaker-review.16112/)
 
-### #22 [Audioengine HD4](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ): $400 a pair
+### #23 [Audioengine HD4](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ): $400 a pair
 - Negatives: Not a great sounding speaker for the high price.
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Weight: 7.2lbs / 3.3kg
