@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Floorstanding Speakers
+title: Large Size Passive Floorstanding Speakers
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---

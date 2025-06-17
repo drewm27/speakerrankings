@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medium Size Bookshelf Speakers
+title: Medium Size Passive Bookshelf Speakers
 comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---

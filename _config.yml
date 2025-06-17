@@ -44,9 +44,9 @@ navbar-links:
     - Small Size Powered Bookshelf Speakers: "bookshelf-small/"
     - Medium Size Powered Bookshelf Speakers: "bookshelf-medium/"
     - Large Size Powered Bookshelf Speakers: "bookshelf-large/"
-    - Medium Size Bookshelf Speakers: "/passive-bookshelf-medium/"
-    - Large Size Bookshelf Speakers: "/passive-bookshelf-large/"
-    - Large Size Floorstanding Speakers: "/passive-floorstanding-large/"
+    - Medium Size Passive Bookshelf Speakers: "/passive-bookshelf-medium/"
+    - Large Size Passive Bookshelf Speakers: "/passive-bookshelf-large/"
+    - Large Size Passive Floorstanding Speakers: "/passive-floorstanding-large/"
   Information:
     - Information About the Rankings: "information-about-the-rankings/"
     - Information Applying to All Speakers: "information-applying-to-all-speakers/"
