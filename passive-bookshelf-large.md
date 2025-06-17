@@ -100,11 +100,13 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: Very large and heavy. A 3dB midbass dip from 100-170hz, 3dB dip at 800hz
 - Dimensions: 31.8"H x 11.4"W x 17.6"D
 - Weight: 104lbs / 47kg each
+- Impedance: 4 ohms
 - Bass Extension (-3dB): 41hz
 - Bass Extension (-10dB): 26hz
 - Tweeter: 28mm
 - Midrange: 5" 
 - Woofer: Dual 8"
+- Woofer Cabinet: Ported
 - Reviews and Comparisons
     - [Erin's Audio Corner: When Hype Meets Reality: Arendal 1528 Monitor 8 Review](https://www.youtube.com/watch?v=BvKE3jpnsI8)
     - [Erin's Audio Corner Website Arendal 1528 Monitor Review](https://www.erinsaudiocorner.com/loudspeakers/arendal_1528_monitor_8/)
