@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 15 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 16 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -13,7 +13,26 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1): Discontinued, $2400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)
+### #1 KEF Blade Two Meta: $28000
+- Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
+- Negatives: 2dB dip at 200hz, slight resonance. 
+- Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Weight: 80lbs / 36kg each
+- Sensitivity: 87dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 31hz
+- Bass Extension (-10dB): 26hz
+- Tweeter: 25 mm (1 in.)  aluminium dome with MAT
+- Midrange: 125 mm (5 in.) aluminium cone
+- Woofer:  4 x 165 mm (6.5 in.) aluminium cone, force cancelling
+- Woofer Cabinet: Rear ported
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Mind-Blowing Sound Quality: KEF Blade 2 Meta Review](https://www.youtube.com/watch?v=lh8D7LhlVoQ)
+    - [Erin's Audio Review Website KEF Blade Two Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_blade2_meta/)
+- Links
+    - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
+
+### #2 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1): Discontinued, $2400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
 - Weight: 80lbs / 36kg each
@@ -30,7 +49,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F208 Website](https://www.revelspeakers.com/products/types/floorstanding/F208-.html)
 
-### #2 [Revel F328Be](https://sovrn.co/zpcgdsw): $13600
+### #3 [Revel F328Be](https://sovrn.co/zpcgdsw): $13600
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
 - Weight: 112.6lbs / 51kg each
@@ -47,7 +66,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F328Be Website](https://www.revelspeakers.com/products/series/series-performabe/F328+BE.html)
 
-### #3 [Revel F228Be](https://sovrn.co/l2szjt3): $7000
+### #4 [Revel F228Be](https://sovrn.co/l2szjt3): $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off axis isn't quite as good as others
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
@@ -65,7 +84,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F228Be Website](https://www.revelspeakers.com/products/types/floorstanding/F228BE-.html)
 
-### #4 [KEF R11 Meta](https://www.amazon.com/KEF-R11-Meta-Walnut-Each/dp/B0BV76CB2H?crid=AY7IH4U9DBWZ&dib=eyJ2IjoiMSJ9.XmO8BfLEhEvcdMDrggxrjSflfEv-NgsikeTMKBtG8fh-04RhtutqbBFSrtbHaag4jaC9wzn0jyAXxRN4pKWamO8eDgyn7EKGa2CajdBQNYciGSoMWFFUnEROx0ARIxaFOWf7Qdu6u2_LS449J86fExEbrupFq_W0vdrJOE6rFOi6UCisM5py7XqExjjILdbqL6kVs2Ng6FfOvmrz3RkRFWHMxzif_ZbSlJ0xtFJmNDk.7ZtXL3eEi6w6WWqsqb80PU54hxiYMU2MhZX49X5-1yM&dib_tag=se&keywords=kef%2Br11%2Bmeta&qid=1749450920&sprefix=kef%2Br11%2Bmet%2Caps%2C243&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ae199c2cae4ceb8b6514e45e7efc31dc&language=en_US&ref_=as_li_ss_tl): $7000
+### #5 [KEF R11 Meta](https://www.amazon.com/KEF-R11-Meta-Walnut-Each/dp/B0BV76CB2H?crid=AY7IH4U9DBWZ&dib=eyJ2IjoiMSJ9.XmO8BfLEhEvcdMDrggxrjSflfEv-NgsikeTMKBtG8fh-04RhtutqbBFSrtbHaag4jaC9wzn0jyAXxRN4pKWamO8eDgyn7EKGa2CajdBQNYciGSoMWFFUnEROx0ARIxaFOWf7Qdu6u2_LS449J86fExEbrupFq_W0vdrJOE6rFOi6UCisM5py7XqExjjILdbqL6kVs2Ng6FfOvmrz3RkRFWHMxzif_ZbSlJ0xtFJmNDk.7ZtXL3eEi6w6WWqsqb80PU54hxiYMU2MhZX49X5-1yM&dib_tag=se&keywords=kef%2Br11%2Bmeta&qid=1749450920&sprefix=kef%2Br11%2Bmet%2Caps%2C243&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ae199c2cae4ceb8b6514e45e7efc31dc&language=en_US&ref_=as_li_ss_tl): $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Minor 2dB dip between 1-1.5khz
 - Dimensions: 51"H x 12.2"W x 15.1"D
@@ -83,7 +102,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
 
-### #5 [Revel F226Be](https://sovrn.co/1og8hjl): $5400
+### #6 [Revel F226Be](https://sovrn.co/1og8hjl): $5400
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
 - Dimensions: 41.3"H x 9.8"W x 13.7"D
@@ -103,7 +122,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
 
-### #6 [Revel F206](https://sovrn.co/msznt7t): $2000
+### #7 [Revel F206](https://sovrn.co/msznt7t): $2000
 - Positives: Really amazing value for the performance
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
@@ -121,7 +140,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F206 Website](https://www.revelspeakers.com/products/types/floorstanding/F206-.html)
 
-### #7 [Elac DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl): $1300
+### #8 [Elac DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl): $1300
 - Positives: Pretty good frequency response. Very good value
 - Negatives: 3dB dip at 270hz, 3dd dip from 800-2.5khz. Pretty good directivity. A little warm tuned
 - Dimensions: 43.1"H x 7.7"W x 10.6"D
@@ -140,14 +159,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac DF63 Website](https://elac.com/df63)
 
-### #8 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20): $15000 a pair
+### #9 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20): $15000 a pair
 - Negatives: Overpriced and not recommended
 - Reviews and Comparisons
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
 
-### #9 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy): $900 a pair
+### #10 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy): $900 a pair
 - Positives: Really amazing value for the performance
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
@@ -165,7 +184,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
-### #10 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1): $400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)
+### #11 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1): $400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)
 - Positives: Really amazing value for the performance
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
@@ -183,7 +202,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
 
-### #11 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1): $900 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)
+### #12 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1): $900 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
 - Dimensions: 40.7"H x 11.8"W x 15.3"D
 - Weight: 40.8lbs / 18.5kg each
@@ -199,19 +218,19 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Focal Chora 816 Website](https://www.focal.com/products/chora-816)
 
-### #12 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
+### #13 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl): $500
 - Reviews and Comparisons
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
-### #13 JBL Studio 590
+### #14 JBL Studio 590
 - Reviews and Comparisons
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #14 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
+### #15 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
 - Negatives: Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz
@@ -223,7 +242,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Magnepan LRS+ Website](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
 
 
-### #15 Triangle Esprit Antal Ez
+### #16 Triangle Esprit Antal Ez
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews and Comparisons
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
