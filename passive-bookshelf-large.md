@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 31 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 32 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -330,7 +330,6 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Sonus Faber Sonetto II G2 Website](https://www.sonusfaber.com/en/products/sonetto-ii)
 
-
 ### #27 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
@@ -369,7 +368,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #29 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
+### #29 [Cerwin Vega LA165](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl): $270
+- Negatives: Some ringing around 1khz. 3dB at 100hz Boosted punchy upper bass, 2dB dipped midrange, 2dB Dipped from 1.5-3khz
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Are These $270 Speakers Worth It or a Total Letdown?](https://www.youtube.com/watch?v=5LLEbOTBoCk)
+- Links
+    - [Official Cerwin Vega LA165 Website](https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165)
+
+### #30 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
@@ -382,7 +388,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
 
-### #30 Chesky LC1: $1000
+### #31 Chesky LC1: $1000
 - Negatives: Not recommended. Frequency response is just bad, way too low sensitivity
 - Sensitivity: 81.4dB
 - Reviews and Comparisons
@@ -390,7 +396,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Chesky LC1 Website](https://www.cheskyaudio.com/products/lc1)
 
-### #31 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers): $400
+### #32 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers): $400
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
 - Tweeter: 1.5" silk dome tweeter
 - Woofer: 7" rubber surround PP cone
