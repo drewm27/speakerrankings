@@ -25,11 +25,11 @@ The best reasonably priced [large size](/large-size/) battery powered speaker wi
 
 The best [boombox size](/boombox-size/) battery powered speaker with a SD card slot is the [**$240 W-King X20**](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)
 
-### The Best Party Size Speaker With A SD Card Slot
+### The Best Party Size Speaker With A USB memory stick port
 
 The best [extreme size](/extreme-size/) big party battery powered speaker with USB stick playback is the [**$600 JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) or [**$500 JBL Partybox 310**](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325)
 
-### The Best Massive Party Size Speaker With A SD Card Slot
+### The Best Massive Party Size Speaker With A USB memory stick port
 
 The best [insane size](/insane-size/) non-battery Bluetooth speaker with USB stick playback is the [**$1301 JBL Partybox Ultimate**](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325)
 
