@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/iloudmicro.jpg"
 ---
 
-This page ranks 6 small size powered bookshelf speakers. The Small Bookshelf class of speakers generally have woofers under 4". These speakers will fit pretty easily on a desk but you will be trading off bass extension for the small size. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 7 small size powered bookshelf speakers. The Small Bookshelf class of speakers generally have woofers under 4". These speakers will fit pretty easily on a desk but you will be trading off bass extension for the small size. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top with an added subwoofer.
 
@@ -50,7 +50,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/iloud-micro-monitors-measurements-and-quasi-anechoic-spinorama.10988/)
 
-### #3 [Audioengine HD3](https://www.amazon.com/Audioengine-Wireless-Speakers-Bluetooth-Bookshelf/dp/B08SHSVFLY?crid=2PAOFMKQJCA92&dib=eyJ2IjoiMSJ9.-lgXjJT-hOTZbGuByE457OF0Wix6VS3ewqvk55KMbHFK9drJd9dPtMZnw5zhXnbPA4IT_kdb65nx3HXZGXsJSq7RLZtQqtKx4U9oHdLDku4miz1C_OfosL-sk1i_jJZ7j57PSlh0mCElO-JjMwmfH0nqTA_KNKznLd2PkXcQIwlah7Pla45MAoQnqVa0vIxD4-QFWJo3AP_lbgvIldGnXPCMA5NNArUmNUg-KW8kcLc.lADSUyfnqhNaacghdfKgOwANKhiZRs8voVHmAORVj_E&dib_tag=se&keywords=audioengine%2Bhd3&qid=1713997265&sprefix=audioengine%2Bhd%2Caps%2C240&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=88358c04e2d0204d09b8fad4ef74fdf5&language=en_US&ref_=as_li_ss_tl): $350 a pair
+### #3 [Adam Audio D3v](https://www.amazon.com/ADAM-Audio-Desktop-Monitoring-Connection/dp/B0DG9Z58CV?mcid=29110c575dfb316f8491f76c35130fc1&hvocijid=1584197135922328534-B0DG9Z58CV-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=1584197135922328534&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c18732152ad425820bc2245fbf5fbb77&language=en_US&ref_=as_li_ss_tl): $350
+- Positives: Really flat frequency response, decent bass for the size
+- Bass Extension (-3dB): 50hz
+- Bass Extension (-10dB): 45hz
+- Comparisons and Sound Samples
+    - [Erin's Audio Corner: ADAM Audio D3V: Mighty Small But Mighty Awesome Desktop Speaker](https://www.youtube.com/watch?v=bYipzw4qTGk)
+    - [Erin's Audio Review Adam Audio D3v](https://www.erinsaudiocorner.com/loudspeakers/adam_d3v/)
+- Links
+    - [Official Product Page](https://www.adam-audio.com/en/desktop/d3v/)
+
+### #4 [Audioengine HD3](https://www.amazon.com/Audioengine-Wireless-Speakers-Bluetooth-Bookshelf/dp/B08SHSVFLY?crid=2PAOFMKQJCA92&dib=eyJ2IjoiMSJ9.-lgXjJT-hOTZbGuByE457OF0Wix6VS3ewqvk55KMbHFK9drJd9dPtMZnw5zhXnbPA4IT_kdb65nx3HXZGXsJSq7RLZtQqtKx4U9oHdLDku4miz1C_OfosL-sk1i_jJZ7j57PSlh0mCElO-JjMwmfH0nqTA_KNKznLd2PkXcQIwlah7Pla45MAoQnqVa0vIxD4-QFWJo3AP_lbgvIldGnXPCMA5NNArUmNUg-KW8kcLc.lADSUyfnqhNaacghdfKgOwANKhiZRs8voVHmAORVj_E&dib_tag=se&keywords=audioengine%2Bhd3&qid=1713997265&sprefix=audioengine%2Bhd%2Caps%2C240&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=88358c04e2d0204d09b8fad4ef74fdf5&language=en_US&ref_=as_li_ss_tl): $350 a pair
 - Negatives: Small woofer doesn't have very deep bass. Slightly boosted treble. High priced
 - Frequency Response: 65 Hz-20 kHz (-3dB)
 - Weight: 7.2lbs / 3.3kg
@@ -66,7 +76,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd3-wireless-speakers%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D305&cjsku=305)
 
-### #4 [Edifier MR3](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl): $120
+### #5 [Edifier MR3](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl): $120
 - Positives: Pretty linear on axis, a very good value especially when you want Bluetooth included. Better than the MR4 all around.
 - Negatives: Small woofer doesn't have very deep bass like others in this size class.
 - Weight: 8.5lbs / 3.85kg
@@ -83,7 +93,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)
 
-### #5 [Presonus Eris E3.5](https://www.amazon.com/PreSonus-Eris-3-5-Gen-Studio-Quality/dp/B0C88ZB3D9?crid=1BXBDC5F38PWQ&dib=eyJ2IjoiMSJ9.31xFOOR9-gtwERWHMFQPHM5MYzxWi333F-Ang6AXHb3XRfCOYSLQJeHqCRd51uoev37Y5AFj5-iiuMPmIKs1sBOfZLcFu8VTnPbfgl4Y-TwbCC2GD3RBluuNdXj-UctmFhVXr-bMZqheVK-4D2wA9Ea7-391phJHoZkMT2K1wIYSC7Pq7pF-HwUO8ISTqLc-cDWQXnZXhmYtv_B0DWVWM5UMAFCRxYh_P5JHLPiYPA_IDndatQwgaJPnpTmMyqYdYOjPNBkmZhGzdO58Agx9rN8qaVCFnH7bbhXVdps5s9g.ZiYxrPMTMWIMwq1RC9Un4I2kNwKx0o0oq3yJw_n9Im4&dib_tag=se&keywords=Presonus%2BEris%2BE3.5&qid=1716352093&sprefix=presonus%2Beris%2Be3.5%2Caps%2C197&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e9ea8d126e89623f2728cc97200109&language=en_US&ref_=as_li_ss_tl): $100 a pair
+### #6 [Presonus Eris E3.5](https://www.amazon.com/PreSonus-Eris-3-5-Gen-Studio-Quality/dp/B0C88ZB3D9?crid=1BXBDC5F38PWQ&dib=eyJ2IjoiMSJ9.31xFOOR9-gtwERWHMFQPHM5MYzxWi333F-Ang6AXHb3XRfCOYSLQJeHqCRd51uoev37Y5AFj5-iiuMPmIKs1sBOfZLcFu8VTnPbfgl4Y-TwbCC2GD3RBluuNdXj-UctmFhVXr-bMZqheVK-4D2wA9Ea7-391phJHoZkMT2K1wIYSC7Pq7pF-HwUO8ISTqLc-cDWQXnZXhmYtv_B0DWVWM5UMAFCRxYh_P5JHLPiYPA_IDndatQwgaJPnpTmMyqYdYOjPNBkmZhGzdO58Agx9rN8qaVCFnH7bbhXVdps5s9g.ZiYxrPMTMWIMwq1RC9Un4I2kNwKx0o0oq3yJw_n9Im4&dib_tag=se&keywords=Presonus%2BEris%2BE3.5&qid=1716352093&sprefix=presonus%2Beris%2Be3.5%2Caps%2C197&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e9ea8d126e89623f2728cc97200109&language=en_US&ref_=as_li_ss_tl): $100 a pair
 - Negatives: Thin sounding in the midrange, some lower treble boost. I'd still recommend the slightly bigger Edifier MR4 over these at the same price.
 - Frequency Response: 80 Hz-20 kHz (-3dB)
 - Dimensions: 8.3"H x 6.0"W x 5.5"D
@@ -102,7 +112,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/presonus_eris3.5_mk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/presonus-eris-e3-5-powered-monitor-review-100-pair.23388/)
 
-### #6 [Mackie CR3-X](https://www.amazon.com/Mackie-Creative-Reference-Multimedia-Professional/dp/B083N8N7TB?crid=3VVZH09RP3KC6&dib=eyJ2IjoiMSJ9.d-4Eu3yGmWJ5akzu6LiehmOqAWostuJce0FZCE3NempL06EOYsIUkGgXW8p3bxDOidk90SvU9Mr64mxJe1i3PnE-2-Mg8e2U7MAjsfgrzwvgP3IXw54myLmCDQ61dfzK2qcM_hOIY7F6MUN4N_Z5JpUZ3RCvDuYiqf3QHseRsX1djCMx1zhQ-V13-TKc3zh5yFKIWVdsvck6g46_dZQygE9n86i0lpbqXts0aqz76140MinXbD-yJjxcpVAbgUlMNjfvWW4aS1-xiO5sG28k7h9eOcZyKnXsjAKS5j2kFQM.TA77MhOkG1KRMBQIhofwZEyAKR5mqMnSbXxIvznf19Y&dib_tag=se&keywords=mackie%2Bcr3&qid=1716352480&sprefix=mackie%2Bcr3%2Caps%2C195&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=74cf1a31342968d7d02e77be62467d27&language=en_US&ref_=as_li_ss_tl): $88 a pair
+### #7 [Mackie CR3-X](https://www.amazon.com/Mackie-Creative-Reference-Multimedia-Professional/dp/B083N8N7TB?crid=3VVZH09RP3KC6&dib=eyJ2IjoiMSJ9.d-4Eu3yGmWJ5akzu6LiehmOqAWostuJce0FZCE3NempL06EOYsIUkGgXW8p3bxDOidk90SvU9Mr64mxJe1i3PnE-2-Mg8e2U7MAjsfgrzwvgP3IXw54myLmCDQ61dfzK2qcM_hOIY7F6MUN4N_Z5JpUZ3RCvDuYiqf3QHseRsX1djCMx1zhQ-V13-TKc3zh5yFKIWVdsvck6g46_dZQygE9n86i0lpbqXts0aqz76140MinXbD-yJjxcpVAbgUlMNjfvWW4aS1-xiO5sG28k7h9eOcZyKnXsjAKS5j2kFQM.TA77MhOkG1KRMBQIhofwZEyAKR5mqMnSbXxIvznf19Y&dib_tag=se&keywords=mackie%2Bcr3&qid=1716352480&sprefix=mackie%2Bcr3%2Caps%2C195&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=74cf1a31342968d7d02e77be62467d27&language=en_US&ref_=as_li_ss_tl): $88 a pair
 - Negatives: Muffled sounding midrange, not really recommended.
 - Frequency Response: 80 Hz-20 kHz (-3dB)
 - Dimensions: 8.1"H x 5.5"W x 7.1"D
