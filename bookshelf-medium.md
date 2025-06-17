@@ -39,7 +39,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 47hz
 - Weight: 11lbs / 5kg each
 - Watts: 100w Per Speaker
-- Woofer Size: 5.1"
+- Woofer: 5.1"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8030c-studio-monitor-review.14795/)
@@ -53,7 +53,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 9.5"H x 5.8"W x 5.6"D
 - Weight: 7.1lbs / 3.2kg each
 - Watts: 100w Per Speaker
-- Woofer Size: 4.1"
+- Woofer: 4.1"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)
@@ -73,7 +73,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 13.6"H x 10.8"W x 9.6"D
 - Weight: 9.1lbs / 4.1kg each
 - Watts: 140w Per Speaker
-- Woofer Size: 4.1"
+- Woofer: 4.1"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
@@ -96,7 +96,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-3dB): 54hz
 - Bass Extension (-10dB): 39hz
 - Tweeter: 1" Textile Dome
-- Woofer Size: 4.5"
+- Woofer: 4.5"
 - Comparisons and Sound Samples
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
@@ -108,7 +108,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 12.2"H x 9.0"W x 9.4"D
 - Weight: 13.1lbs / 6.0kg each
 - Watts: 60w Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: XLR, TRS, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
@@ -130,7 +130,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11.7"H x 7.3"W x 9.1"D
 - Weight: 10.4lbs / 4.7kg each
 - Watts: 81w Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: XLR, TRS
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
@@ -153,7 +153,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11.7"H x 7.0"W x 11.7"D
 - Weight: 12.6lbs / 5.7kg each
 - Watts: 70w Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
@@ -172,7 +172,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11.2"H x 6.7"W x 8.7"D
 - Weight: 12.1lbs / 5.5kg each
 - Watts: 45w Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
@@ -187,7 +187,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 10.2"H x 7.0"W x 7.7"D
 - Weight: 10.2lbs / 4.6kg each
 - Watts: 80w Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
@@ -211,7 +211,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 11.2"H x 7.5"W x 9.5"D
 - Weight: 10.7lbs / 4.9kg each
 - Watts: 55w Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: TRS/XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
@@ -233,7 +233,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 10.2"H x 7.0"W x 7.7"D
 - Weight: 10.2lbs / 4.6kg each
 - Watts: 80w Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
@@ -252,7 +252,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 10.4"H x 5.1"W x 6.3"D
 - Weight: 5.5lbs / 2.5kg
 - Watts: 100w Per Speaker
-- Woofer Size: 2x 3.5"
+- Woofer: 2x 3.5"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
@@ -271,7 +271,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Dimensions: 13.5"H x 7.8"W x 10.8"D
 - Watts: 65w RMS Per Speaker
-- Woofer Size: 5.5"
+- Woofer: 5.5"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
@@ -288,7 +288,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
 - Weight: 37.0lbs / 16.8kg
 - Watts: 60w RMS Per Speaker
-- Woofer Size: 5.5"
+- Woofer: 5.5"
 - Inputs: Bluetooth, Wifi, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
@@ -302,7 +302,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
 - Weight: 37.0lbs / 16.8kg
 - Watts: 60w RMS Per Speaker
-- Woofer Size: 5.5"
+- Woofer: 5.5"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
@@ -318,7 +318,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 9.7"H x 7.4"W x 11.2"D
 - Weight: 13.0lbs / 5.87kg
 - Watts: 50w RMS Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: RCA, TRS, XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
@@ -334,7 +334,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.5lbs / 7.9kg
 - Dimensions: 11.75"H x 7.25"W x 10"D
 - Watts: 50w RMS Per Speaker
-- Woofer Size: 5.5"
+- Woofer: 5.5"
 - Inputs: Bluetooth, Aux, RCA Input, Digital Optical
 - Outputs: RCA Output
 - Comparisons and Sound Samples
@@ -350,7 +350,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 17.5lbs / 7.9kg
 - Dimensions: 11.25"H x 7.5"W x 9.5"D
 - Watts: 60w RMS Per Speaker
-- Woofer Size: 5"
+- Woofer: 5"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical
 - Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
@@ -366,7 +366,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 9.0"H x 5.5"W x 7.6"D
 - Weight: 9.9lbs / 4.5kg
 - Watts: 42w RMS Per Speaker
-- Woofer Size: 4"
+- Woofer: 4"
 - Inputs: TRS Balanced, RCA, Aux
 - Outputs: Headphone
 - Comparisons and Sound Samples
@@ -388,7 +388,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 10"H x 6.1"W x 8.4"D
 - Weight: 14.5lbs / 6.6kg
 - Watts: 66w RMS Per Speaker
-- Woofer Size: 4"
+- Woofer: 4"
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
 - Comparisons and Sound Samples
@@ -405,7 +405,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 9.2"H x 5.7"W x 7.7"D
 - Weight: 10.8lbs / 4.9kg
 - Watts: 42w RMS Per Speaker
-- Woofer Size: 4"
+- Woofer: 4"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Comparisons and Sound Samples
@@ -422,7 +422,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 7.2lbs / 3.3kg
 - Dimensions: 9"H x 5.5"W x 6.5"D
 - Watts: 50w RMS Per Speaker
-- Woofer Size: 4"
+- Woofer: 4"
 - Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
 - Comparisons and Sound Samples

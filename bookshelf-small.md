@@ -22,7 +22,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.3lbs / 1.5kg
 - Dimensions: 7.7"H x 4.8"W x 4.5"D
 - Watts: 50w RMS Per Speaker
-- Woofer Size: 3"
+- Woofer: 3"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs iLoud Micro Monitor   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vi5umvPW1yQ)
@@ -40,7 +40,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 2.0lbs / 0.9kg
 - Dimensions: 7.1"H x 3.5"W x 5.3"D
 - Watts: 25w RMS Per Speaker
-- Woofer Size: 3"
+- Woofer: 3"
 - Inputs: RCA, Aux
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
@@ -67,7 +67,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 7.2lbs / 3.3kg
 - Dimensions: 9"H x 5.5"W x 6.5"D
 - Watts: 15w RMS Per Speaker
-- Woofer Size: 2.75"
+- Woofer: 2.75"
 - Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
 - Comparisons and Sound Samples
@@ -83,7 +83,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 8.5lbs / 3.85kg
 - Dimensions: 8.7"H x 4.9"W x 7.3"D 
 - Watts: 18w RMS Per Speaker
-- Woofer Size: 3.5"
+- Woofer: 3.5"
 - Inputs: Bluetooth, Balanced 1/4" TRS, RCA, 3.5mm AUX
 - App: Yes
 - EQ: Yes
@@ -100,7 +100,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 8.3"H x 6.0"W x 5.5"D
 - Weight: 8.5lbs / 3.9kg
 - Watts: 25w RMS Per Speaker
-- Woofer Size: 3.5"
+- Woofer: 3.5"
 - Inputs: RCA, 1/4" Balanced
 - Outputs: 1/8" headphone jack
 - Comparisons and Sound Samples
@@ -119,7 +119,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 8.1"H x 5.5"W x 7.1"D
 - Weight: 7.8lbs / 3.5kg
 - Watts: 25w RMS Per Speaker
-- Woofer Size: 3"
+- Woofer: 3"
 - Inputs: RCA, Aux
 - Outputs: 1/8" headphone jack
 - Comparisons and Sound Samples

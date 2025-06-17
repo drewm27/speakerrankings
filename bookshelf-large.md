@@ -24,7 +24,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 25.4"H x 13"W x 17.5"D
 - Weight: 77lbs / 35kg each
 - Watts: 555w Per Speaker
-- Woofer Size: 10"
+- Woofer: 10"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
@@ -39,7 +39,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 17"H x 11.3"W x 10.9"D
 - Weight: 31lbs / 14.1kg each
 - Watts: 550w Per Speaker
-- Woofer Size: 8.6"
+- Woofer: 8.6"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
@@ -59,7 +59,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 17.8"H x 11.3"W x 10.9"D
 - Weight: 31.7lbs / 14.4kg each
 - Watts: 270w Per Speaker
-- Woofer Size: 8"
+- Woofer: 8"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
@@ -73,7 +73,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 14.4"H x 9.3"W x 8.8"D
 - Weight: 20.7lbs / 9.4kg each
 - Watts: 180w Per Speaker
-- Woofer Size: 6.5"
+- Woofer: 6.5"
 - Inputs: XLR
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
@@ -85,7 +85,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 14.2"H x 8.3"W x 12.6"D
 - Weight: 22.1lbs / 10.0kg each
 - Watts: 100w Per Speaker
-- Woofer Size: 7"
+- Woofer: 7"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
@@ -101,7 +101,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 13.4"H x 10.3"W x 11.4"D
 - Weight: 16.8lbs / 7.6kg each
 - Watts: 85w Per Speaker
-- Woofer Size: 6.5"
+- Woofer: 6.5"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
@@ -120,7 +120,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 16.5"H x 9.8"W x 11.7"D
 - Weight: 22.2lbs / 10.1kg each
 - Watts: 140w Per Speaker
-- Woofer Size: 8"
+- Woofer: 8"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
@@ -138,7 +138,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 16.5"H x 10.0"W x 11.3"D
 - Weight: 19.8lbs / 9.0kg each
 - Watts: 100w Per Speaker
-- Woofer Size: 8"
+- Woofer: 8"
 - Inputs: TRS, XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: Tannoy Gold 8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tKT1WFR4ZGw)
@@ -156,7 +156,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 15.4"H x 9.8"W x 13.1"D
 - Weight: 22.5lbs / 10.2kg
 - Watts: 120w Per Speaker
-- Woofer Size: 8"
+- Woofer: 8"
 - Inputs: XLR
 - Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
@@ -175,7 +175,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 15.8"H x 9.8"W x 13.2"D
 - Weight: 21.6lbs / 9.8kg
 - Watts: 90w Per Speaker
-- Woofer Size: 8"
+- Woofer: 8"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
@@ -191,7 +191,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 13.7"H x 8.3"W x 11.5"D
 - Weight: 15.7lbs / 7.1kg
 - Watts: 70w Per Speaker
-- Woofer Size: 7"
+- Woofer: 7"
 - Inputs: XLR, RCA
 - Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
@@ -214,7 +214,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 15.75"H x 10.5"W x 12.2"D
 - Weight: 22.6lbs / 10.5kg
 - Watts: 100w
-- Woofer Size: 8"
+- Woofer: 8"
 - Inputs: TRS, XLR
 - Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
@@ -227,7 +227,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Quite balanced and neutral, very close to the Yamaha HS8. Deeper bass than the HS8
 - Dimensions: 13.4"H x 8.9"W x 11.2"D
 - Weight: 16.8lbs / 7.6kg
-- Woofer Size: 7"
+- Woofer: 7"
 - Inputs: TRS, XLR
 - Comparisons and Sound Samples
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Adam Audio T7V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=lH4aACE5tjE)
@@ -244,7 +244,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 18.1"H x 10.1"W x 12.4"D
 - Weight: 50.7lbs / 23kg
 - Watts: 75w RMS Per Speaker
-- Woofer Size: 8"
+- Woofer: 8"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
@@ -258,7 +258,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Frequency Response: 38Hz-20KHz (-3dB)
 - Dimensions: 14.5"H x 9.1"W x 14.0"D
 - Watts: 78w RMS Per Speaker
-- Woofer Size: 6.5"
+- Woofer: 6.5"
 - Inputs: Bluetooth, XLR, RCA Input, Digital Optical, Digital Coax, USB
 - Outputs: None
 - Comparisons and Sound Samples
