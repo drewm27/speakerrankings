@@ -46,8 +46,8 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 16 speakers ranked
 
 ### All Passive Speakers Ranked
-- [Medium Size Passive Bookshelf Speakers](/passive-bookshelf-medium/): 15 speakers ranked (**Note: Work in progress**)
-- [Large Size Passive Bookshelf Speakers](/passive-bookshelf-large/): 34 speakers ranked (**Note: Work in progress**)
+- [Medium Size Passive Bookshelf Speakers](/passive-bookshelf-medium/): 14 speakers ranked (**Note: Work in progress**)
+- [Large Size Passive Bookshelf Speakers](/passive-bookshelf-large/): 35 speakers ranked (**Note: Work in progress**)
 - [Large Size Passive Floorstanding Speakers](/passive-floorstanding-large/): 20 speakers ranked (**Note: Work in progress**)
 
 ### Related Products
