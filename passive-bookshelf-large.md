@@ -332,7 +332,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
 ### #27 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5): $3500
-- Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz
+- Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz. Not recommended for the price
 - Bass Extension (-3dB): 62hz
 - Bass Extension (-10dB): 38hz
 - Sensitivity: 87dB
