@@ -284,6 +284,13 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #23 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl): $900
 - Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
+- Sensitivity: 87dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 52hz
+- Bass Extension (-10dB): 37hz
+- Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
+- Woofer: 165 mm (6.5 in.) aluminium cone
+- Woofer Cabinet: Rear ported
 - Reviews and Comparisons
     - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)
 - Links
