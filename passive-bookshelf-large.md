@@ -282,6 +282,20 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Website](https://dynaudio.com/home-audio/emit/emit-20)
 
+### #24 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl): $900
+- Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
+- Sensitivity: 87dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 52hz
+- Bass Extension (-10dB): 37hz
+- Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
+- Woofer: 165 mm (6.5 in.) aluminium cone
+- Woofer Cabinet: Rear ported
+- Reviews and Comparisons
+    - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)
+- Links
+    - [Official KEF Q3 Meta Website](https://us.kef.com/products/q3-meta)
+
 ### #23 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl): $250
 - Positives: A great value for the price, nothing else under $300 will compete
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
@@ -299,20 +313,6 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Polk Monitor XT20](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/)
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
-
-### #24 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl): $900
-- Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
-- Sensitivity: 87dB
-- Impedance: 4 ohms
-- Bass Extension (-3dB): 52hz
-- Bass Extension (-10dB): 37hz
-- Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
-- Woofer: 165 mm (6.5 in.) aluminium cone
-- Woofer Cabinet: Rear ported
-- Reviews and Comparisons
-    - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)
-- Links
-    - [Official KEF Q3 Meta Website](https://us.kef.com/products/q3-meta)
 
 ### #25 Pylon Jasper Monitor 18
 - Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
