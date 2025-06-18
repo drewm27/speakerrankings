@@ -101,6 +101,11 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
 
 ### #6 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364 for the kit (assembly required)
+- Negatives: 3dB dip at 300hz. Vertical directivity is just okay
+- Sensitivity: 87dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 38hz
 - Reviews and Comparisons
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links:
@@ -108,6 +113,14 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
 ### #7 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)
+- Positives: Fairly even frequency response. No resonances
+- Negatives: Some directivity error in crossover region
+- Sensitivity: 85dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 43hz
+- Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
+- Woofer: 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofer
 - Reviews and Comparisons
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links:
@@ -151,18 +164,33 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Elac DBR6 Website](https://elac.com/dbr62)
 
 ### #10 [JBL HDI-1600](https://sovrn.co/xgfeafc): $1980 a pair
+- Positives: Slight bass boost at 130hz
+- Negatives: 5dB dip at 10.1k. Some resonance around 700hz and 2khz
+- Sensitivity: 85dB
+- Impedance: 4 ohms
 - Reviews and Comparisons
     - [Audio Science Review JBL HDI-1600](https://www.audiosciencereview.com/forum/index.php?threads/jbl-hdi-1600-speaker-review.12477/)
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
 
 ### #11 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1): Discontinued, $1100 a pair on [Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)
+- Negatives: 3dB dip around 2.8khz. Some resonance around 800hz, small directivity error around 7khz
+- Sensitivity: 87dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 63hz
+- Bass Extension (-10dB): 47hz
 - Reviews and Comparisons
     - [Audio Science Review Focal Aria 906](https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/)
 - Links:
     - [Official Focal Aria 906 Website](https://www.focal.com/products/aria-906)
 
 ### #12 [KEF Q350](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl): $500 a pair
+- Positives: Excellent directivity
+- Negatives: Resonance at 700hz and 1.2khz
+- Sensitivity: 86dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 70hz
+- Bass Extension (-10dB): 38hz
 - Reviews and Comparisons
     - [Audio Science Review KEF Q350](https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/)
 - Links:
