@@ -32,6 +32,9 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #2 [KEF Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl): $1400
 - Positives: Class leading directivity. Quite deep bass for the size
 - Negatives: A little dipped in the treble. 
+- Dimensions: 16.3"H x 8.3"W x 12.4"D
+- Weight: 20.9lbs / 9.5kg each
+- Sensitivity: 85dB
 - Impedance: 4 ohms
 - Bass Extension (-3dB): 53hz
 - Bass Extension (-10dB): 35hz
