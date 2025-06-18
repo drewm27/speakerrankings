@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 33 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 34 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -251,7 +251,6 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official ELAC Debut 2.0 B6.2Website](https://elac.com/db62)
 
-
 ### #21 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
 - Positives: Really deep bass extension for the size class
 - Negatives: A noticeable resonance in the driver around 750hz
@@ -283,14 +282,21 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
-### #23 Pylon Jasper Monitor 18
+### #23 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl): $900
+- Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
+- Reviews and Comparisons
+    - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)
+- Links
+    - [Official KEF Q3 Meta Website](https://us.kef.com/products/q3-meta)
+
+### #24 Pylon Jasper Monitor 18
 - Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
 - Reviews and Comparisons
     - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
 - Links
     - [Official Pylon Jasper Monitor 18 Website](https://pylon.pl/en/jasper-series/jasper-monitor-18/)
 
-### #24 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria): $4000
+### #25 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria): $4000
 - Negatives: 4dB dip from 200hz to 400hz, recessed midrange. Not recommended for the price
 - Sensitivity: 84dB
 - Impedance: 8 ohms
@@ -302,7 +308,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Audio Craftsmen Victoria Website](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)
 
-### #25 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
+### #26 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
 - Weight: 39.2lbs / 17.8kg each
@@ -318,7 +324,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
-### #26 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5): $3500
+### #27 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5): $3500
 - Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz
 - Bass Extension (-3dB): 62hz
 - Bass Extension (-10dB): 38hz
@@ -330,7 +336,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Sonus Faber Sonetto II G2 Website](https://www.sonusfaber.com/en/products/sonetto-ii)
 
-### #27 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
+### #28 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl): $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
 - Dimensions: 15.7"H x 8"W x 12.5"D
@@ -350,7 +356,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M II Website](https://www.klipsch.com/products/rp-600m-ii-bookshelf-speakers)
 
-### #28 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
+### #29 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl): $330
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Dimensions: 15.7"H x 8"W x 11.9"D
 - Weight: 16lbs / 7.3kg each
@@ -368,14 +374,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #29 [Cerwin Vega LA165](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl): $270
+### #30 [Cerwin Vega LA165](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl): $270
 - Negatives: Some ringing around 1khz. 3dB at 100hz Boosted punchy upper bass, 2dB dipped midrange, 2dB Dipped from 1.5-3khz
 - Reviews and Comparisons
     - [Erin's Audio Corner: Are These $270 Speakers Worth It or a Total Letdown?](https://www.youtube.com/watch?v=5LLEbOTBoCk)
 - Links
     - [Official Cerwin Vega LA165 Website](https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165)
 
-### #30 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
+### #31 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1): Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
@@ -388,7 +394,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
 
-### #31 Chesky LC1: $1000
+### #32 Chesky LC1: $1000
 - Negatives: Not recommended. Frequency response is just bad, way too low sensitivity
 - Sensitivity: 81.4dB
 - Reviews and Comparisons
@@ -396,7 +402,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Chesky LC1 Website](https://www.cheskyaudio.com/products/lc1)
 
-### #32 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers): $400
+### #33 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers): $400
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
 - Tweeter: 1.5" silk dome tweeter
 - Woofer: 7" rubber surround PP cone
@@ -406,7 +412,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Fosi Audio SP601 Website](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)
 
-### #33 Yamaha NS-10
+### #34 Yamaha NS-10
 - Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
 - Bass Extension (-3dB): 126hz
 - Bass Extension (-10dB): 75hz
