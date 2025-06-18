@@ -29,7 +29,22 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Audiofirst Fidelia Website](https://audiofirstdesigns.co.uk/fidelia)
 
-### #2 [KEF LS50 Meta](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl): $1600
+### #2 [KEF Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl): $1400
+- Positives: Class leading directivity. Quite deep bass for the size
+- Negatives: A little dipped in the treble. 
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 35hz
+- Tweeter: 19 mm (0.75 in.) vented aluminium dome with MAT
+- Midrange: 100 mm (4 in.) aluminium cone
+- Woofer: 165 mm (6.5 in.) hybrid aluminium cone
+- Reviews and Comparisons
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner Website KEF Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
+- Links
+    - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
+
+### #3 [KEF LS50 Meta](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl): $1600
 - Positives: Quite a good frequency response, excellent off axis.
 - Negatives: 3dB dip at 1.2khz, 2dB dip at 2.4-2.8khz
 - Dimensions: 11.9"H x 7.9"W x 11.0"D
@@ -44,18 +59,6 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review KEF LS50 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
 - Links
     - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
-
-### #3 [KEF Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl): $1400
-- Positives: Class leading directivity. Quite deep bass for the size
-- Negatives: A little dipped in the treble. 
-- Impedance: 4 ohms
-- Bass Extension (-3dB): 53hz
-- Bass Extension (-10dB): 35hz
-- Reviews and Comparisons
-    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
-    - [Erin's Audio Corner Website KEF Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
-- Links
-    - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
 
 ### #4 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair): $1000
 - Positives: An extremely neutral response
