@@ -294,18 +294,28 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #20 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl): $750
 - Positives: Really good neutrality and linearity 
 - Negatives: Narrow off axis above 5khz
+- Sensitivity: 85dB
+- Impedance: 4 ohms
 - Bass Extension (-3dB): 74hz
 - Bass Extension (-10dB): 50hz
 - Reviews and Comparisons
     - [Erin's Audio Corner: What You Need to Know Before Buying The Polk R200!](https://www.youtube.com/watch?v=BzDClEAQsBU)
     - [Erin's Audio Corner Website Polk R200](https://www.erinsaudiocorner.com/loudspeakers/polk_r200/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
+- Links:
+    - [Official Polk R20 Website](https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/reserve-r200/300029.html)
 
 ### #21 [ELAC Debut 2.0 B6.2](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl): $330
+- Positives: Reasonably flat response
+- Negatives: A good size resonant peak around 700hz, directivity error around 3.3khz
+- Sensitivity: 86.5dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 64hz
+- Bass Extension (-10dB): 40hz
 - Reviews and Comparisons
     - [Audio Science Review ELAC Debut 2.0 B6.2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/)
 - Links:
-    - [Official ELAC Debut 2.0 B6.2Website](https://elac.com/db62)
+    - [Official ELAC Debut 2.0 B6.2 Website](https://elac.com/db62)
 
 ### #22 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl): $1050
 - Positives: Really deep bass extension for the size class
@@ -352,26 +362,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
-### #25 Pylon Jasper Monitor 18
-- Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
-- Reviews and Comparisons
-    - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
-- Links
-    - [Official Pylon Jasper Monitor 18 Website](https://pylon.pl/en/jasper-series/jasper-monitor-18/)
-
-### #26 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria): $4000
-- Negatives: 4dB dip from 200hz to 400hz, recessed midrange. Not recommended for the price
-- Sensitivity: 84dB
-- Impedance: 8 ohms
-- Bass Extension (-3dB): 65hz
-- Bass Extension (-10dB): 45hz
-- Reviews and Comparisons
-    - [Erin's Audio Corner: The Surprising Truth About Audio Craftsmen Victoria Speakers](https://www.youtube.com/watch?v=Oujx5LziiZA)
-    - [Erin's Audio Corner Website Audio Craftsmen Victoria](https://www.erinsaudiocorner.com/loudspeakers/audio_craftsmen_victoria/)
-- Links
-    - [Official Audio Craftsmen Victoria Website](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)
-
-### #27 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
+### #25 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/): $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
 - Weight: 39.2lbs / 17.8kg each
@@ -386,6 +377,25 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
+
+### #26 Pylon Jasper Monitor 18
+- Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
+- Reviews and Comparisons
+    - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
+- Links
+    - [Official Pylon Jasper Monitor 18 Website](https://pylon.pl/en/jasper-series/jasper-monitor-18/)
+
+### #27 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria): $4000
+- Negatives: 4dB dip from 200hz to 400hz, recessed midrange. Not recommended for the price
+- Sensitivity: 84dB
+- Impedance: 8 ohms
+- Bass Extension (-3dB): 65hz
+- Bass Extension (-10dB): 45hz
+- Reviews and Comparisons
+    - [Erin's Audio Corner: The Surprising Truth About Audio Craftsmen Victoria Speakers](https://www.youtube.com/watch?v=Oujx5LziiZA)
+    - [Erin's Audio Corner Website Audio Craftsmen Victoria](https://www.erinsaudiocorner.com/loudspeakers/audio_craftsmen_victoria/)
+- Links
+    - [Official Audio Craftsmen Victoria Website](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)
 
 ### #28 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5): $3500
 - Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz. Not recommended for the price
