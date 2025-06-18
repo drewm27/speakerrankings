@@ -176,7 +176,9 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Elac DF63 Website](https://elac.com/df63)
 
 ### #10 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20): $15000 a pair
-- Negatives: Overpriced and not recommended
+- Positives: Nearly flat down to 20hz
+- Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
+- Bass Extension (-3dB): 20hz
 - Reviews and Comparisons
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
