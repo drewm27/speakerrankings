@@ -8,8 +8,6 @@ This page lists all of the speakers I plan to add to the rankings as soon as the
 
 1. Flip 7
 1. Kali Audio IN-8 V2
-1. KEF LS50
-1. KEF Q Concerto Meta
 1. KEF Q3 Meta
 1. Wharfdale Linton 85
 1. Wharfdale Aura 2
