@@ -203,6 +203,12 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
 
 ### #14 [Revel Performa M22](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1): About $600 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1)
+- Positives: Very flat frequency response from 200hz to 10khz
+- Negatives: 3dB bass boost around 100hz
+- Sensitivity: 85dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 58hz
+- Bass Extension (-10dB): 40hz
 - Reviews and Comparisons
     - [Audio Science Review Revel Performa M22](https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/)
     - [GR-Research: What the HECK was Revel Thinking?! Revel Performa M22 Upgrades!](https://www.youtube.com/watch?v=JH1DrkqHatQ)
@@ -241,6 +247,12 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
 ### #17 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1): Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
+- Positives: Impressively flat for a budget bookshelf
+- Negatives: Resonances at 600 and 5khz
+- Sensitivity: 85dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 59hz
+- Bass Extension (-10dB): 44hz
 - Woofer: 6.5"
 - Reviews and Comparisons
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
