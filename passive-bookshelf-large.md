@@ -82,6 +82,24 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
+### #2 [KEF Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl): $1400
+- Positives: Class leading directivity. Quite deep bass for the size
+- Negatives: A little dipped in the treble. 
+- Dimensions: 16.3"H x 8.3"W x 12.4"D
+- Weight: 20.9lbs / 9.5kg each
+- Sensitivity: 85dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 35hz
+- Tweeter: 19 mm (0.75 in.) vented aluminium dome with MAT
+- Midrange: 100 mm (4 in.) aluminium cone
+- Woofer: 165 mm (6.5 in.) hybrid aluminium cone
+- Reviews and Comparisons
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner Website KEF Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
+- Links
+    - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
+
 ### #5 [Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl): $364 for the kit (assembly required)
 - Reviews and Comparisons
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
