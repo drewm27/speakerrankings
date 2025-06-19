@@ -2,6 +2,7 @@
 layout: page
 title: UE Megaboom 3 Review
 comments: true
+cover-img: "/assets/img/megaboom3.jpg"
 ---
 
 The UE Megaboom 3 is a premium portable Bluetooth speaker known for its rugged design and powerful sound. However, it’s not without its shortcomings. If you’re considering this speaker, it’s important to weigh its potential drawbacks against your needs. Here’s why the UE Megaboom 3 might not be the best choice for everyone.
