@@ -66,7 +66,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 
-Last updated 06/18/2025
+Last updated 06/19/2025
 
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). 
 
