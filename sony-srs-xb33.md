@@ -2,6 +2,7 @@
 layout: page
 title: Sony SRS-XB33 Review
 comments: true
+cover-img: "/assets/img/xb33.jpg"
 ---
 
 The Sony SRS-XB33 is a well-known portable Bluetooth speaker with features like Extra Bass and a rugged design. However, it might not be the perfect fit for everyone. If you’re considering this model, here are some reasons why it may not meet your needs and why you might want to look at other options.
