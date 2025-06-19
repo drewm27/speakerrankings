@@ -137,7 +137,6 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
-
 ### #8 [Revel F206](https://sovrn.co/msznt7t): $2000
 - Positives: Really amazing value for the performance
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
