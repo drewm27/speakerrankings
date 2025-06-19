@@ -6,9 +6,7 @@ comments: true
 
 This page lists all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
-1. Flip 7
 1. [Kali Audio IN-8 V2](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)
-1. [KEF Reference 1 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/)
 1. [JBL 4367](https://www.erinsaudiocorner.com/loudspeakers/jbl_4367/)
 1. [Wharfdale Linton 85](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/)
 1. [Wharfdale Aura 2](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_aura2/)
