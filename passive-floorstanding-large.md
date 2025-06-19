@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 21 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier.
+This page ranks 21 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 

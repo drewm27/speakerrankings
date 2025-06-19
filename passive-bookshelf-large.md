@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 38 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. 
+This page ranks 38 large size bookshelf speakers. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 If you don't plan to put these on a desk or bookshelf, I'd highly recommend looking at [Passive Floorstanding Speakers](/passive-floorstanding-large/) instead. These will have deeper bass and generally be a better all around speaker, although at a higher price.
 
