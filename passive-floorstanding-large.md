@@ -229,7 +229,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: My Top 5 Just Changed: Polk Audio Reserve R700 Review](https://www.youtube.com/watch?v=E6APuGxTtJw)
 - Links
-    - [Official Polk Audio Reserve R700 Website](polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r700/300035.html)
+    - [Official Polk Audio Reserve R700 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r700/300035.html)
 
 ### #14 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1): $400 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)
 - Positives: Really amazing value for the performance
