@@ -38,5 +38,6 @@ If you can’t find the speaker comparison you’re looking for, search [YouTube
 - [UE Megaboom 3 Review](/ue-megaboom-3/)
 - [Oontz Angle 3 Review](/oontz-angle-3/)
 - [Sony SRS-XB33 Review](/sony-srs-xb33/)
+- [Tribit StormBox Micro 2 Review](/tribit-stormbox-micro-2/)
 - [Exploring SummarizeReviews.com](/summarize-reviews/)
 - [Bookshelf Non Battery Speakers](/bookshelf-non-battery/)
