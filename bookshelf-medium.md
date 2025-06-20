@@ -263,6 +263,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: Neumann KH80 DSP  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=uAR19TSCt_I)
     - [DSAUDIO.review: Adam Audio A3X  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=cOEPf1j7h6o)
     - [DSAUDIO.review: Yamaha HS8  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Jhm85bHp9_c)
+    - [Erin's Audio Corner: Unbiased Review of iLoud MTM MKII](https://www.youtube.com/watch?v=Pdj69hJNCAg)
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/ik-multimedia-iloud-mtm-review-active-monitor.18347/)
