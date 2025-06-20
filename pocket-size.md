@@ -352,7 +352,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Pretty amazing value for the money. Very long battery life.
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - Weight: 0.55lbs / 248g
-- Battery Life: 32 hours
+- Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that)
 - Bass Extension: 68hz (-10dB)
 - Power Bank: No
 - App: Yes
