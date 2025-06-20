@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/kh80.jpg"
 ---
 
-This page ranks 23 medium size powered bookshelf speakers. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 24 medium size powered bookshelf speakers. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top and consider adding a subwoofer.
 
@@ -313,7 +313,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/s1000mkii)
 
-### #17 [KRK Classic 5](https://www.amazon.com/KRK-Classic-Professional-Powered-Monitor/dp/B07XZZTZ3Q?crid=2BQB255MWF2DY&dib=eyJ2IjoiMSJ9.f6tYzbse1MNIXYjYyRHJMXwYgG6t3Hi2QKdz68GRG6x_75kqIZKngGC4zkj9Ww9M5zu-zqQmQ_a3u5nP8EdKx_C_ZqsBSqwsXwHtsG_eo6rjOgepzKnFWSsau-Z7darbnSKGxI-QsDaCyJA7rBPG5Ikqqj7tOsjJ__MKXAmz_XDYFBpcvuv0dcc4OkTBRs61XyzHAiTbntuhiHTnX9lvq_ldXFskWg5AiOpzQhpNuZ9RwsB7uwn9X71CHebbm28zrUNZH9C3gDI1OCGvDTI7hVwh-BgG_KzFsxovaon5hGI.LmdUmabW7zPbZxlpyFUVrgRFR4mvx8XzoXS2FAoMQBg&dib_tag=se&keywords=krk%2Bclassic%2B5&qid=1718078777&sprefix=krk%2Bclassic%2B%2Caps%2C143&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fc036e98f6ee9b081d04ede0ac0f2abd&language=en_US&ref_=as_li_ss_tl): $280
+### #17 [KEF LSX II LT](https://www.amazon.com/KEF-LSX-Wireless-HiFi-Speakers/dp/B0CTB6SF5X?mcid=ff8110746481325ebb05e109cd99a785&hvocijid=16267046025548171639-B0CTB6SF5X-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=16267046025548171639&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177618&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=354804b3f43203123f8700d03b22c9bb&language=en_US&ref_=as_li_ss_tl): $930
+- Negatives: 3db dip at 500hz and a little jagged up top. Quite good off-axis
+- Dimensions: 9.5"H x 6.1"W x 7.1"D
+- Weight: 15.0lbs / 6.8kg
+- Watts: 100w RMS Per Speaker
+- Tweeter: 19mm (0.75in.) aluminium dome
+- Woofer: 115mm (4.5in.) magnesium/aluminium alloy cone
+- Inputs: Wifi, USB-C, HDMI, Optical, Bluetooth
+- Outputs: RCA Subwoofer
+- Comparisons and Sound Samples
+    - [Erin's Audio Corner: Transform Your Sound System with the KEF LSX II LT Speaker](https://www.youtube.com/watch?v=Tcz905gti5A)
+- Links
+    - [Official Product Page](https://us.kef.com/products/lsx-2-lt)
+
+### #18 [KRK Classic 5](https://www.amazon.com/KRK-Classic-Professional-Powered-Monitor/dp/B07XZZTZ3Q?crid=2BQB255MWF2DY&dib=eyJ2IjoiMSJ9.f6tYzbse1MNIXYjYyRHJMXwYgG6t3Hi2QKdz68GRG6x_75kqIZKngGC4zkj9Ww9M5zu-zqQmQ_a3u5nP8EdKx_C_ZqsBSqwsXwHtsG_eo6rjOgepzKnFWSsau-Z7darbnSKGxI-QsDaCyJA7rBPG5Ikqqj7tOsjJ__MKXAmz_XDYFBpcvuv0dcc4OkTBRs61XyzHAiTbntuhiHTnX9lvq_ldXFskWg5AiOpzQhpNuZ9RwsB7uwn9X71CHebbm28zrUNZH9C3gDI1OCGvDTI7hVwh-BgG_KzFsxovaon5hGI.LmdUmabW7zPbZxlpyFUVrgRFR4mvx8XzoXS2FAoMQBg&dib_tag=se&keywords=krk%2Bclassic%2B5&qid=1718078777&sprefix=krk%2Bclassic%2B%2Caps%2C143&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fc036e98f6ee9b081d04ede0ac0f2abd&language=en_US&ref_=as_li_ss_tl): $280
 - Positives: Good soundstage
 - Negatives: More hifi than studio monitors
 - Frequency Response: 56Hz-30KHz (+-3dB)
@@ -329,7 +343,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.krkmusic.com/products/classic-5-powered-studio-monitor-pack)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)
 
-### #18 [Audioengine HD6](https://lvnta.com/lv_XV3UeQBotZIJuc8PIw): $700 a pair
+### #19 [Audioengine HD6](https://lvnta.com/lv_XV3UeQBotZIJuc8PIw): $700 a pair
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
@@ -345,7 +359,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd6-wireless-speakers%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D155&cjsku=155)
 
-### #19 [Edifier R2000DB](https://www.amazon.com/Edifier-R2000DB-Bluetooth-Bookshelf-Speakers/dp/B016PAWJYS?crid=3JD2RMU8HTVIK&dib=eyJ2IjoiMSJ9.12p4yJikFn4L3tFzlxe60Bcau-dhPE08wHQ78FJ8w-gcMPYjJpg7hxk-Bsl1dyHVFCLgwoyjgKlsN6gJb6eIBDr7ccpbgn0D2uTYCrZr7wzf8vfeuaCt8xkBwBdxZ7bnnoNtv6qZKBfCZJ1SoweidQ8pjyrKbIJoKJydFOn2nxCIqQ3D3AGxfM0DhyzKXeuWSbEJh17dDTKwynoiBBapfkV8vDBwd1HwabISpFu-naI.x4BFUp6GuH-jc2lESjarRflfbn0J8mD_V2JgIHTgwk4&dib_tag=se&keywords=edifier%2Br2000db&qid=1714106967&sprefix=edifer%2Br2000d%2Caps%2C164&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=166a5ab0aa7fc04dae93ccf647ddd0c6&language=en_US&ref_=as_li_ss_tl): $250 a pair
+### #20 [Edifier R2000DB](https://www.amazon.com/Edifier-R2000DB-Bluetooth-Bookshelf-Speakers/dp/B016PAWJYS?crid=3JD2RMU8HTVIK&dib=eyJ2IjoiMSJ9.12p4yJikFn4L3tFzlxe60Bcau-dhPE08wHQ78FJ8w-gcMPYjJpg7hxk-Bsl1dyHVFCLgwoyjgKlsN6gJb6eIBDr7ccpbgn0D2uTYCrZr7wzf8vfeuaCt8xkBwBdxZ7bnnoNtv6qZKBfCZJ1SoweidQ8pjyrKbIJoKJydFOn2nxCIqQ3D3AGxfM0DhyzKXeuWSbEJh17dDTKwynoiBBapfkV8vDBwd1HwabISpFu-naI.x4BFUp6GuH-jc2lESjarRflfbn0J8mD_V2JgIHTgwk4&dib_tag=se&keywords=edifier%2Br2000db&qid=1714106967&sprefix=edifer%2Br2000d%2Caps%2C164&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=166a5ab0aa7fc04dae93ccf647ddd0c6&language=en_US&ref_=as_li_ss_tl): $250 a pair
 - Negatives: Slight lacking of bass and treble, slight inverted V EQ profile
 - Frequency Response: 55Hz-40KHz (-3dB)
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
@@ -361,7 +375,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r2000db)
 
-### #20 [Edifier MR4](https://www.amazon.com/Edifier-Powered-Monitor-Speakers-Near-Field/dp/B09FXG9BLR?hvadid=563758605815&hvpos=&hvnetw=g&hvrand=14996373029609059198&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1568283915325&mcid=28c0999faba234ceb23ef1aa48dd74d2&gclid=Cj0KCQjw_qexBhCoARIsAFgBletx4GmVvrMFl0mV7uef4xbb9oX-_Sk15dfsugflQcPoJmZZNZKd9-4aAtZuEALw_wcB&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3e40828e354ff5d2dda767b7da2c3a53&language=en_US&ref_=as_li_ss_tl): $130 a pair
+### #21 [Edifier MR4](https://www.amazon.com/Edifier-Powered-Monitor-Speakers-Near-Field/dp/B09FXG9BLR?hvadid=563758605815&hvpos=&hvnetw=g&hvrand=14996373029609059198&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1568283915325&mcid=28c0999faba234ceb23ef1aa48dd74d2&gclid=Cj0KCQjw_qexBhCoARIsAFgBletx4GmVvrMFl0mV7uef4xbb9oX-_Sk15dfsugflQcPoJmZZNZKd9-4aAtZuEALw_wcB&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3e40828e354ff5d2dda767b7da2c3a53&language=en_US&ref_=as_li_ss_tl): $130 a pair
 - Positives: More balanced than the R1280DB. The value king.
 - Negatives: No Bluetooth unlike other Edifier models
 - Frequency Response: 60 Hz-20 kHz (-3dB)
@@ -384,7 +398,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/edifier_mr4/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/)
 
-### #21 [Edifier R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl): $180 a pair
+### #22 [Edifier R1700BT](https://www.amazon.com/Edifier-R1700BT-Bluetooth-Bookshelf-Speakers/dp/B016PATXSI?crid=2VBCQZNPA0NXB&dib=eyJ2IjoiMSJ9.18cDsiIRNQP4gJkPZ3OU_qD5RJfEVqmPPsSXsFAjkS0HPyFz4w9HJiaQb7J-becu5VAA-gYMYrDmFuzpDNizyJQa4l6n5NO6N9da567ouKXny9eLvSy0q4fESpG6Vn_s-X2uh6YI8RSQBxKViRoDzaUwLP1tmgZMOrvqTc_EVXjyMGeh0epZpENAbwfBNf4i.s6A70Ty5mrpKaCF3misB04u2tVWmhDc5LKZYwEwZc2A&dib_tag=se&keywords=edifier%2Br1855db&qid=1713996237&s=electronics&sprefix=edifer%2Br1855d%2Celectronics%2C177&sr=1-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ebffee492c04f9a6063025754609712&language=en_US&ref_=as_li_ss_tl): $180 a pair
 - Negatives: more V shaped, not quite as neutral sounding as the Edifier MR4
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Dimensions: 10"H x 6.1"W x 8.4"D
@@ -401,7 +415,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
 
-### #22 [Edifier R1280DB](https://www.amazon.com/Edifier-R1280DB-Bluetooth-Bookshelf-Speakers/dp/B06XGG6MFV?crid=26S8RDF4HQ69S&dib=eyJ2IjoiMSJ9.WuwVs0r_EvmoS0jJLV4PX9xI7XBG0MJWk9x6FJzIBRtik1vCS1CVHRpsX4geTrS6ifl9aNchXVzYv2IAXDGjeqXVrC_gZq3X0aJr1GqjGGo3Lb0whZ9SNy8A-lLTaMoaQh_UrNi2jaX5aHXgUF8J83rwbj2UW5bKmSBIh9vJcxXS75r5T14Z2rZ0XkFDihCq7B7dozS_98ifTa3GfiD2Lw.s7k8tpF49QXDFjjUhVs6Nw05QBzEGeHjyufRQ_Jmyok&dib_tag=se&keywords=edifier%2B1280db&qid=1713997683&sprefix=edifer%2B1280d%2Caps%2C197&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fb52ac2b3f710c8897ccb26d42ee8c29&language=en_US&ref_=as_li_ss_tl): $150 a pair
+### #23 [Edifier R1280DB](https://www.amazon.com/Edifier-R1280DB-Bluetooth-Bookshelf-Speakers/dp/B06XGG6MFV?crid=26S8RDF4HQ69S&dib=eyJ2IjoiMSJ9.WuwVs0r_EvmoS0jJLV4PX9xI7XBG0MJWk9x6FJzIBRtik1vCS1CVHRpsX4geTrS6ifl9aNchXVzYv2IAXDGjeqXVrC_gZq3X0aJr1GqjGGo3Lb0whZ9SNy8A-lLTaMoaQh_UrNi2jaX5aHXgUF8J83rwbj2UW5bKmSBIh9vJcxXS75r5T14Z2rZ0XkFDihCq7B7dozS_98ifTa3GfiD2Lw.s7k8tpF49QXDFjjUhVs6Nw05QBzEGeHjyufRQ_Jmyok&dib_tag=se&keywords=edifier%2B1280db&qid=1713997683&sprefix=edifer%2B1280d%2Caps%2C197&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=fb52ac2b3f710c8897ccb26d42ee8c29&language=en_US&ref_=as_li_ss_tl): $150 a pair
 - Negatives: Not quite as neutral sounding as the Edifier MR4
 - Frequency Response: 55 Hz-20 kHz (-3dB)
 - Dimensions: 9.2"H x 5.7"W x 7.7"D
@@ -418,7 +432,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-r1280t-powered-speaker-review.16112/)
 
-### #23 [Audioengine HD4](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ): $400 a pair
+### #24 [Audioengine HD4](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ): $400 a pair
 - Negatives: Not a great sounding speaker for the high price.
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Weight: 7.2lbs / 3.3kg
