@@ -26,6 +26,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 5" ceramic-aluminum cone woofer
 - Reviews and Comparisons
     - [Erin's Audio Corner: The #1 Reason audiophiles Are Raving About Fidelia's Sound Quality](https://www.youtube.com/watch?v=HKrm19_asro)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Audiofirst Fidelia Website](https://audiofirstdesigns.co.uk/fidelia)
 
@@ -62,6 +63,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
     - [Audio Science Review Ascend Sierra 1 v2](https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-1-v2-speaker-review.53350/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)
 

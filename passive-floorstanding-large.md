@@ -189,6 +189,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: ELAC’s New DF63 is SHOCKINGLY Good!](https://www.youtube.com/watch?v=NI8En4OhvMM)
     - [Erin's Audio Review Website Elac DF63](https://www.erinsaudiocorner.com/loudspeakers/elac_df63/)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Elac DF63 Website](https://elac.com/df63)
 
@@ -314,13 +315,14 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
 ### #21 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1): $1300
-- Negatives: Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
+- Negatives: An open baffle speaker which creates a huge soundstage. Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz
 - Bass Extension (-10dB): 67hz
 - Reviews and Comparisons
     - [Erin's Audio Corner: Grab Your Pitchforks! The Magnepan LRS+ Review You Didn't See Coming!](https://www.youtube.com/watch?v=PQemV-W48b8)
     - [Erin's Audio Review Website Magnepan LRS+](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Magnepan LRS+ Website](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
 

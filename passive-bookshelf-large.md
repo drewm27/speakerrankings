@@ -59,6 +59,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
 - Reviews and Comparisons
     - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official AsciLab C6B Website](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
 
@@ -116,6 +117,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
     - [Erin's Audio Corner Website KEF Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
 
