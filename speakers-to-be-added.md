@@ -6,7 +6,6 @@ comments: true
 
 This page lists all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
-1. [Arendal 1961](https://www.youtube.com/watch?v=h7J50PjJsHM)
 1. [Polk Reserve R500](https://www.youtube.com/watch?v=KhP3LJI0ud4)
 1. [Kali Audio IN-8 V2](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)
 1. [Klipsch RP-6000F](https://www.youtube.com/watch?v=vmGTy5o5Xgc)
