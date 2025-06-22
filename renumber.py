@@ -38,6 +38,7 @@ for file in os.listdir():
             for line in lines:
                 if line.startswith('### #'):
                     number += 1
+                    splitline = line.split(' ')
                     if file != 'personal-ranking-of-speaker-reviewers.md':
                         if file.startswith('bookshelf-'):
                             count['bookshelf'] += 1
@@ -46,19 +47,21 @@ for file in os.listdir():
                         else:
                             count['portable'] += 1
                         count['total'] += 1
-                    splitline = line.split(' ')
+
+                        if splitline[2].startswith('['):
+                            print(line)
+                            name = line.split('[')[1].split(']')[0]
+                            url = line.split('(')[1].split(')')[0]
+                            retailer = url.split('/')[2].replace('www.', '').split('.')[0].capitalize()
+                            #print(name + ' ' + retailer)
+                            print(retailer)
+
+
                     if splitline[1].startswith('#'):
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
                     else:
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
 
-                    # Convert links to new format
-                    if splitline[2].startswith('['):
-                        print(line)
-                        name = line.split('[')[1].split(']')[0]
-                        url = line.split('(')[1].split(')')[0]
-                        retailer = url.split('/')[2].replace('www.', '').split('.')[0].capitalize()
-                        print(name + ' ' + url + ' ' + retailer)
 
                 elif re.match('^    - <https://www.youtube.com/watch', line):
                     try:
@@ -77,7 +80,7 @@ for file in os.listdir():
 
         with open(file, 'w') as f:
             f.write(''.join(newfile))
-        exit(0)
+        #exit(0)
         if number > 0:
             countfile[file] = number
 
@@ -124,6 +127,7 @@ with open('bookshelf-top-recommended.md') as f:
 with open('bookshelf-top-recommended.md', 'w') as f:
     f.write(''.join(newfile))
 
+newfile = []
 with open('passive-top-recommended.md') as f:
     lines = f.readlines()
     for line in lines:
