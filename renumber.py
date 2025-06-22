@@ -30,12 +30,11 @@ except:
 current_datetime = datetime.now()
 regex = re.compile(' [0-9][0-9]* ')
 for file in os.listdir():
-    newfile = ''
+    newfile = []
     number = 0
     if file.endswith('.md'):
         with open(file) as f:
             lines = f.readlines()
-        with open(file, 'w') as f:
             for line in lines:
                 if line.startswith('### #'):
                     number += 1
@@ -52,6 +51,15 @@ for file in os.listdir():
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
                     else:
                         newline = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
+
+                    # Convert links to new format
+                    if splitline[2].startswith('['):
+                        print(line)
+                        name = line.split('[')[1].split(']')[0]
+                        url = line.split('(')[1].split(')')[0]
+                        retailer = url.split('/')[2].replace('www.', '').split('.')[0].capitalize()
+                        print(name + ' ' + url + ' ' + retailer)
+
                 elif re.match('^    - <https://www.youtube.com/watch', line):
                     try:
                         ytid = line.split('=')[1].split('>')[0]
@@ -65,16 +73,20 @@ for file in os.listdir():
 
                 else:
                     newline = line         
-                f.write(newline)
+                newfile.append(newline)
+
+        with open(file, 'w') as f:
+            f.write(''.join(newfile))
+        exit(0)
         if number > 0:
             countfile[file] = number
 
 with open('youtubeLookup.json', 'w') as f:
     f.write(json.dumps(youtubeLookup, indent=4, sort_keys=True))
 
+newfile = []
 with open('index.md') as f:
     lines = f.readlines()
-with open('index.md', 'w') as f:
     for line in lines:
         if line.startswith('Speaker Ranking ranks a total of'):
             line = re.sub(regex, ' ' + str(count['total']) + ' ', line, count=1)
@@ -87,38 +99,47 @@ with open('index.md', 'w') as f:
             if filename in countfile:
                 if countfile[filename] > 0:
                         line = re.sub(regex, ' ' + str(countfile[filename]) + ' ', line, count=1)
-        f.write(line)
+        newfile.append(line)
+with open('index.md', 'w') as f:
+    f.write(''.join(newfile))
 
 for filename in glob.glob(os.path.join('./', 'top-recommended*.md')):
+    newfile = []
     with open(filename) as f:
         lines = f.readlines()
-    with open(filename, 'w') as f:
         for line in lines:
             if line.startswith('This page lists'):
                 line = re.sub(regex, ' ' + str(count['portable']) + ' ', line, count=1)
-            f.write(line)
+            newfile.append(line)
+    with open(filename, 'w') as f:
+        f.write(''.join(newfile))
 
+newfile = []
 with open('bookshelf-top-recommended.md') as f:
     lines = f.readlines()
-with open('bookshelf-top-recommended.md', 'w') as f:
     for line in lines:
         if line.startswith('This page lists'):
             line = re.sub(regex, ' ' + str(count['bookshelf']) + ' ', line, count=1)
-        f.write(line)
+        newfile.append(line)
+with open('bookshelf-top-recommended.md', 'w') as f:
+    f.write(''.join(newfile))
 
 with open('passive-top-recommended.md') as f:
     lines = f.readlines()
-with open('passive-top-recommended.md', 'w') as f:
     for line in lines:
         if line.startswith('This page lists'):
             line = re.sub(regex, ' ' + str(count['passive']) + ' ', line, count=1)
-        f.write(line)
+        newfile.append(line)
+with open('passive-top-recommended.md', 'w') as f:
+    f.write(''.join(newfile))
 
 for file in countfile:
+    newfile = []
     with open(file) as f:
         lines = f.readlines()
-    with open(file, 'w') as f:
         for line in lines:
             if line.startswith('This page ranks'):
                 line = re.sub(regex, ' ' + str(countfile[file]) + ' ', line, count=1)
-            f.write(line)
+            newfile.append(line)
+    with open(file, 'w') as f:
+        f.write(''.join(newfile))
