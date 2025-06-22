@@ -137,7 +137,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
-### #8 [Revel F206](https://sovrn.co/msznt7t): $2000
+### #8 [Revel F206](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1): Discontinued, $2000 used on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)
 - Positives: Really amazing value for the performance
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
