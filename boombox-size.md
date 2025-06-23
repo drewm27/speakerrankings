@@ -367,7 +367,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #13 Harman Kardon Citation 200 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Citation+200&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $130
 
 - Positives: Deeper bass than any Onyx.
-- Negatives: Overly boomy by default, you will likely [want to turn the bass down](https://citationsupporthelp.freshdesk.com/en/support/solutions/articles/47001167869-citation-200-eq-adjust-bass-and-treble-level-). 8 hour battery at medium volume. Poor water rating. Not at loud as others
+- Negatives: Overly boomy by default, you can short press the Bluetooth and volume down buttons simultaneously to decrease the bass, and the Bluetooth and volume up buttons simultaneously to increase it
 - Weight: 6.3lbs / 2.85kg
 - Battery Life: 8 hours
 - Aux Input: Yes

@@ -1767,7 +1767,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Techder Audios: HIFUTURE SOUNDPRO UNBOXING & COMPARISON ,X10,FLIP 6,WILDROD !!](https://www.youtube.com/watch?v=tmDMlOdPc8w)
     - [Techder Audios: TRONSMART STUDIO VS HIFUTURE SOUNDPRO "STEREO+RACETRACK DRIVER VS NORMAL STEREO!"](https://www.youtube.com/watch?v=VM3SggT4ANw)
 - Links
-    - [Official Product Page](https://store.hifuturegroup.com/products/soundpro)
+    - [Official Product Page](https://hifuturegroup.com/pages/soundpro)
 
 ### #92 Cabasse Swell [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Cabasse+Swell&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $300
 
@@ -1778,8 +1778,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Comparisons and Sound Samples
     - [Speaker Toni: Cabasse Swell - Unboxing and first impressions...](https://www.youtube.com/watch?v=YsttqCS46QQ)
-- Links
-    - [Official Product Page](https://www.cabasse.com/the-swell/)
 
 ### #93 Teufel Rockster Go [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Teufel+Rockster+Go&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: €83.00
 

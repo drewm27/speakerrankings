@@ -840,7 +840,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JARA MIKE: Panasonic  SC- TMAX5 ♫](https://www.youtube.com/watch?v=_jlJnhPyALs)
     - [JARA MIKE: Panasonic 🔴 SC- TMAX5 ♫ .150 W RMS](https://www.youtube.com/watch?v=dXoD0Yv_iLM)
 - Links
-    - [Official Product Page](https://www.panasonic.com/nz/consumer/television-audio/audio/bluetooth-speakers/sc-tmax5.specs.html)
+    - [Official Product Page](https://www.panasonic.com/uk/support/discontinued-products/home-entertainment/sc-tmax5.html)
 
 ### #41 Sharp PS-929 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sharp+PS-929&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $150
 
