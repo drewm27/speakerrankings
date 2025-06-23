@@ -49,11 +49,11 @@ for file in os.listdir():
                         count['total'] += 1
 
                         if splitline[2].startswith('['):
-                            print(line)
+                            #print(line)
                             name = line.split('[')[1].split(']')[0]
                             url = line.split('(')[1].split(')')[0]
-                            retailer = url.split('/')[2].replace('www.', '').split('.')[0].capitalize()
-                            #print(name + ' ' + retailer)
+                            retailer = url.replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
+                            #print(name + ' ' + url + ' ' + retailer)
                             print(retailer)
 
 
