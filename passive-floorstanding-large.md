@@ -13,7 +13,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [GR-Research NX-Treme](https://gr-research.com/product/nx-treme/) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=GR-Research%20NX-Treme&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $9662 for the kit with subs (assembly required)
+### #1 [GR-Research NX-Treme](https://gr-research.com/product/nx-treme/) [[Gr-research](https://gr-research.com/product/nx-treme/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=GR-Research%20NX-Treme&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $9662 for the kit with subs (assembly required)
 - Positives: Amazing in terms of soundstage and imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. One of the highest sensitivity speakers around. Open baffle mids, highs and bass (using GR-Research Open baffle subs). If you have not heard open baffle bass, you must hear it in person, there's no going back. Amazing in terms of imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. Can easily be driven by tube amps due to the mild impedance.
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
 - Dimensions: 85"H x 17"W x 20"D (plus a subwoofer on each side)
@@ -65,7 +65,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F208 Website](https://www.revelspeakers.com/products/types/floorstanding/F208-.html)
 
-### #4 [Revel F328Be](https://sovrn.co/zpcgdsw) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F328Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $13600
+### #4 [Revel F328Be](https://sovrn.co/zpcgdsw) [[Crutchfield](https://sovrn.co/zpcgdsw)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F328Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $13600
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
 - Weight: 112.6lbs / 51kg each
@@ -82,7 +82,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F328Be Website](https://www.revelspeakers.com/products/series/series-performabe/F328+BE.html)
 
-### #5 [Revel F228Be](https://sovrn.co/l2szjt3) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F228Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $7000
+### #5 [Revel F228Be](https://sovrn.co/l2szjt3) [[Crutchfield](https://sovrn.co/l2szjt3)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F228Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off axis isn't quite as good as others
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
@@ -118,7 +118,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
 
-### #7 [Revel F226Be](https://sovrn.co/1og8hjl) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F226Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $5400
+### #7 [Revel F226Be](https://sovrn.co/1og8hjl) [[Crutchfield](https://sovrn.co/1og8hjl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F226Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $5400
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
 - Dimensions: 41.3"H x 9.8"W x 13.7"D
@@ -193,7 +193,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac DF63 Website](https://elac.com/df63)
 
-### #11 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bang%20%26%20Olufsen%20Beolab20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $15000 a pair
+### #11 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bang%20%26%20Olufsen%20Beolab20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $15000 a pair
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - Bass Extension (-3dB): 20hz
@@ -202,7 +202,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
 
-### #12 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20Concerta2%20F35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $900 a pair
+### #12 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20Concerta2%20F35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $900 a pair
 - Positives: Really amazing value for the performance
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
@@ -294,7 +294,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q11 Meta Website](https://us.kef.com/products/q11-meta)
 
-### #18 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dali%20Rubikore%206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $8000
+### #18 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dali%20Rubikore%206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $8000
 - Negatives: Resonance at 800hz. 4dB peak at 4k to 15k, going to be a bright speaker. Not recommended
 - Bass Extension (-3dB): 43hz
 - Bass Extension (-10dB): 31hz
@@ -332,7 +332,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #22 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Magnepan%20LRS%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $1300
+### #22 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Magnepan%20LRS%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $1300
 - Negatives: An open baffle speaker which creates a huge soundstage. Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz

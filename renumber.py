@@ -62,12 +62,12 @@ for file in os.listdir():
                             if retailer == 'Sovrn':
                                 retailer = 'Crutchfield'
                             #print(name + ' ' + url + ' ' + retailer)
-                            print(retailer)
-                            #if not '[[' + retailer + ']' in line:
-                            #    line = line.replace(')', ' ) [[Amazon](' + url + ')]', count=1)
-                            #if not '[[Ebay]' in line:
-                            #    line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
-                            #    print(line)
+                            #print(retailer)
+                            line = line.replace(' )', ')')
+                            if not '[[' + retailer + ']' in line:
+                                line = line.replace(')', ') [[' + retailer + '](' + url + ')]', count=1)
+                            if not '[[Ebay]' in line:
+                                line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
 
 
                     splitline = line.split(' ')
