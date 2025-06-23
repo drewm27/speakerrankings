@@ -5,6 +5,7 @@ import glob
 import re
 import json
 import requests
+import urllib
 from datetime import datetime
 
 count = {}
@@ -20,6 +21,9 @@ def youtubeid_to_title(ytid):
     data = request.json()
     description = data['items'][0]['snippet']['channelTitle'] + ': ' + data['items'][0]['snippet']['title']
     return description.replace('|', '')
+
+def ebay_url(search):
+    return 'https://www.ebay.com/sch/i.html?_nkw=' + urllib.parse.quote(search) + '&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1'
 
 try:
     with open('youtubeLookup.json') as f:
@@ -49,12 +53,16 @@ for file in os.listdir():
                         count['total'] += 1
 
                         if splitline[2].startswith('['):
-                            #print(line)
+                            print(line)
                             name = line.split('[')[1].split(']')[0]
                             url = line.split('(')[1].split(')')[0]
                             retailer = url.replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
-                            #print(name + ' ' + url + ' ' + retailer)
-                            print(retailer)
+                            print(name + ' ' + url + ' ' + retailer)
+                            #print(ebay_url(name))
+                            if retailer == 'Amazon' and not '[[Amazon]' in line:
+                                line.replace(':', ' [[Amazon](' + url + ')]:')
+                            if not '[[Ebay]' in line:
+                                line.replace(':', ' [[Ebay](' + ebay_url(name) + ')]:')
 
 
                     if splitline[1].startswith('#'):
@@ -80,7 +88,7 @@ for file in os.listdir():
 
         with open(file, 'w') as f:
             f.write(''.join(newfile))
-        #exit(0)
+        exit(0)
         if number > 0:
             countfile[file] = number
 
