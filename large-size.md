@@ -662,7 +662,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/everboom)
 
-### #30 Dockin D Fine+
+### #30 Dockin D Fine+ [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dockin+D+Fine%2B%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Positives: Deeper bass than the non-plus version.
 - Power Bank: Yes
@@ -761,7 +761,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.w-king.com/t9.html)
 
-### #36 Fugoo XL
+### #36 Fugoo XL [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Fugoo+XL%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Positives: Pretty deep bass for the size
 - Negatives: Some midrange honkyness
@@ -1250,7 +1250,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://hopestarshop.com/products/hopestar-a6-pro)
 
 
-### #68 Soundcore Trance/Rave Mega
+### #68 Soundcore Trance/Rave Mega [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Soundcore+Trance%2FRave+Mega%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Hugely recessed mids and treble
 - Max Volume: 97db
@@ -1273,7 +1273,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 
-### #70 Doss Extreme Boom
+### #70 Doss Extreme Boom [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Doss+Extreme+Boom%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Rolled off treble, barely any bass
 - Weight: 5.58lbs / 2.53kg

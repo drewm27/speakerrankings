@@ -315,7 +315,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
-### #20 Triangle Esprit Antal Ez
+### #20 Triangle Esprit Antal Ez [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Triangle+Esprit+Antal+Ez%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews and Comparisons
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)

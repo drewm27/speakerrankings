@@ -612,7 +612,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CLIP+3.html)
 
-### #29 Xiaomi Mi Portable Outdoor
+### #29 Xiaomi Mi Portable Outdoor [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Xiaomi+Mi+Portable+Outdoor%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Not much bass, treble rolled off
 - Weight: 0.41lbs / 185g
@@ -624,7 +624,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
 
-### #30 Hopestar H54
+### #30 Hopestar H54 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Hopestar+H54%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Bright treble, not much bass, harsh mids
 - Battery Life: 5 hours
@@ -641,7 +641,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://hopestarshop.com/products/hopestar-h54-speaker)
 
-### #31 Sony SRS-XB12
+### #31 Sony SRS-XB12 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+SRS-XB12%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.

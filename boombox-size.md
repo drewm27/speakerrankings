@@ -134,7 +134,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
 
-### #4 [JBL Partybox Encore 2](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)]
+### #4 [JBL Partybox Encore 2](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Partybox+Encore+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 1 wireless microphone. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass. Not available in the US.
 - Battery Life: 15 hours
@@ -433,7 +433,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.harmankardon.com/GO+%2B+PLAYII.html)
 
-### #16 Harman Kardon Onyx Studio 5:
+### #16 Harman Kardon Onyx Studio 5 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Onyx+Studio+5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
 - Weight: 6.6lbs / 3kg
@@ -958,7 +958,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg500)
 
-### #42 JBL Boombox:
+### #42 JBL Boombox [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Boombox&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Positives: Connect+ up to 100 speakers.
 - Negatives: Treble isn't very smooth
@@ -1342,7 +1342,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://alteclansing.com/products/rockbox-xl-2)
 
-### #66 Artsound PWR05
+### #66 Artsound PWR05 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Artsound+PWR05%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Strange frequency peaks, sound is very hollow.
 - Weight: 9.7lbs / 4.4kg

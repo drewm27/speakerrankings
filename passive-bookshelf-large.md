@@ -470,7 +470,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
-### #31 Pylon Jasper Monitor 18
+### #31 Pylon Jasper Monitor 18 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Pylon+Jasper+Monitor+18%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
 - Reviews and Comparisons
     - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
@@ -577,7 +577,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Fosi Audio SP601 Website](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)
 
-### #40 Yamaha NS-10
+### #40 Yamaha NS-10 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Yamaha+NS-10%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
 - Bass Extension (-3dB): 126hz
 - Bass Extension (-10dB): 75hz

@@ -462,7 +462,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
 
-### #18 B&O Beosound A1 3rd gen
+### #18 B&O Beosound A1 3rd gen [[Ebay](https://www.ebay.com/sch/i.html?_nkw=B%26O+Beosound+A1+3rd+gen%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Negatives: Distorts easier than the 2nd gen with deeper bass. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
 - Weight: 1.23lbs / 558g
 - Battery Life: 24 hours
@@ -863,7 +863,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
 
-### #37 Earfun Uboom Slim
+### #37 Earfun Uboom Slim [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Earfun+Uboom+Slim%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Not as deep bass as others. Warm tuned, peaks in the mids and lower treble, rolled off upper treble
 - Bass Extension: ~63hz (-10dB)
@@ -1378,7 +1378,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
 
-### #66 JBL Charge 2
+### #66 JBL Charge 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Charge+2%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
@@ -1588,7 +1588,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
     - [Alan Ross Reviews: UE Wonderboom 2 review and sound test - vs Flip 5 - Flip 4](https://www.youtube.com/watch?v=EXMSGwFcTZI)
 
-### #79 Ultimate Ears Wonderboom:
+### #79 Ultimate Ears Wonderboom: [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Ultimate+Ears+Wonderboom&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
 - Weight: 0.94lbs / 425g
@@ -1681,7 +1681,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-portable-speaker)
 
-### #85 Sony SRS-XB20
+### #85 Sony SRS-XB20 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+SRS-XB20%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.
 - Weight: 1.3lbs / 590g
@@ -1724,7 +1724,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
-### #89 Bose SoundLink Color II
+### #89 Bose SoundLink Color II [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bose+SoundLink+Color+II%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble
 - Weight: 1.3lbs / 600g
@@ -1759,7 +1759,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
 
-### #91 Hifuture Soundpro
+### #91 Hifuture Soundpro [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Hifuture+Soundpro%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight: 1.1lbs / 500g
@@ -1793,7 +1793,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-go-105727000)
 
-### #94 Sony SRS-XB30
+### #94 Sony SRS-XB30 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+SRS-XB30%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Muffled sound, worse than a XB20
 - Max Volume: 95db
@@ -1848,7 +1848,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
 
-### #98 TDK A33
+### #98 TDK A33 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=TDK+A33%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Bass Extension: ~72hz (-10dB)
@@ -1982,7 +1982,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
 
-### #109 Xiaomi Mi Outdoor
+### #109 Xiaomi Mi Outdoor [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Xiaomi+Mi+Outdoor%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
@@ -2032,7 +2032,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Jack Of All Trades, Master of None: Walla Sound Wireless Bluetooth Speaker](https://www.youtube.com/watch?v=tbd1-9CAnYw)
 
-### #114 EFM Toledo
+### #114 EFM Toledo [[Ebay](https://www.ebay.com/sch/i.html?_nkw=EFM+Toledo%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
@@ -2069,7 +2069,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
 
-### #118 Doss Soundbox
+### #118 Doss Soundbox [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Doss+Soundbox%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Bass Extension: 140hz (-10dB)
@@ -2088,7 +2088,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Techder Audios: Wisetiger F10 Beat Boom "CHEAP & GOOD?!"](https://www.youtube.com/watch?v=PSqpd9W7oPI)
 
-### #120 Doss E–Go II
+### #120 Doss E–Go II [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Doss+E%E2%80%93Go+II%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Horribly bad unless turned up, still not great
 - Bass Extension: 120hz (-10dB)

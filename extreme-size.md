@@ -799,7 +799,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
     - [Jay's Straight Up Reviews & More: W-King T9  🆚 ONN Large Party Speaker -By Request for Big Tee. Can the Smaller T9 Hang With The ONN?](https://www.youtube.com/watch?v=BzQL3DqcFss)
 
-### #38 Philips NX200
+### #38 Philips NX200 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Philips+NX200%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: No deep bass, mids are a little harsh
 - Bass Extension: ~55hz (-10dB)
@@ -813,7 +813,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.usa.philips.com/c-p/TANX200_37/bluetooth-party-speaker)
 
-### #39 Panasonic SC-TMAX10
+### #39 Panasonic SC-TMAX10 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Panasonic+SC-TMAX10%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Not as deep bass as others in the class
 - Weight: 22.5lbs / 10.2kg
@@ -827,7 +827,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.panasonic.com/mea/en/consumer/home-entertainment/audio/mini-systems/sc-tmax10.html)
 
-### #40 Panasonic SC-TMAX5
+### #40 Panasonic SC-TMAX5 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Panasonic+SC-TMAX5%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
@@ -881,7 +881,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
 
-### #44 Sony GTK-XB90
+### #44 Sony GTK-XB90 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+GTK-XB90%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~50hz (-10dB)
@@ -896,7 +896,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
     - <https://www.youtube.com/watch?v=NaOdsSNUfl8>
 
-### #45 Sony GTK-XB72
+### #45 Sony GTK-XB72 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+GTK-XB72%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~56hz (-10dB)
@@ -910,7 +910,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Stereo Specs: JBL PARTYBOX 310 VS SONY GTK XB72 SOUND TEST COMPARISON](https://www.youtube.com/watch?v=qY0Cdd2QJTU)
 
-### #46 Sony GTK-XB60
+### #46 Sony GTK-XB60 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+GTK-XB60%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Bass Extension: ~60hz (-10dB)

@@ -107,7 +107,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Zaph Audio ZA5.2 TM Website](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair)
 
-### #7 JBL Studio 530
+### #7 JBL Studio 530 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Studio+530%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Positives: Smooth frequency response besides the treble drop off way up high
 - Negatives: Some stored energy resonances at a bunch of frequencies
 - Reviews and Comparisons
@@ -115,19 +115,19 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official JBL Studio 530 Website](https://www.jbl.com/loudspeakers/STUDIO+530.html)
 
-### #8 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z) [[Amazon](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)]
+### #8 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z) [[Amazon](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+12.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Reviews and Comparisons
     - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-speaker-review.18655/)
 - Links:
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
 
-### #9 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/) [[Audiokarma](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)]
+### #9 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/) [[Audiokarma](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=PHilharmonic+Affordable+Accuracy+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Reviews and Comparisons
     - [Audio Science Review PHilharmonic Affordable Accuracy Monitor](https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/)
 - Links:
     - [Official PHilharmonic Affordable Accuracy Monitor Website](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
 
-### #10 JBL Stage A130
+### #10 JBL Stage A130 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Stage+A130%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
 - Reviews and Comparisons
     - [Audio Science Review JBL Stage A130](https://www.audiosciencereview.com/forum/index.php?threads/jbl-stage-a130-review-speaker.18260/)
 - Links:
