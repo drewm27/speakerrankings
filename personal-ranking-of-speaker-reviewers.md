@@ -14,7 +14,7 @@ I only use and link videos that either have useful well recorded sound samples o
     - [GR-Research Website](https://gr-research.com/)
     - [GR-Research on AudioCircle Forums](https://www.audiocircle.com/index.php?board=16.0)
 
-### #2 [Oluv](https://www.patreon.com/oluvsone/posts)
+### #2 [Oluv](https://www.patreon.com/c/oluvsone/posts)
 - By far the most extremely accurate recordings. He is using a custom set of in ear microphones to do proper binaural recording and he hand tunes the recording EQ for the recordings to sound natural on neutral headphones. Oluv also has an extreme ability to rank speakers properly by neutrality and has always given an unbiased review of good and bad speakers. His recordings and recording equipment are all custom and tuned for the most neutral response I've heard. One of the best creators of speaker EQs around. Sadly his YouTube channel was taken down and many great videos are not available anymore.
 - Links
     - [Oluv's Gadgets Website](https://oluvsgadgets.blogspot.com/)
