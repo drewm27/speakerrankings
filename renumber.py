@@ -23,7 +23,7 @@ def youtubeid_to_title(ytid):
     return description.replace('|', '')
 
 def ebay_url(search):
-    return 'https://www.ebay.com/sch/i.html?_nkw=' + urllib.parse.quote(search) + '&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1'
+    return 'https://www.ebay.com/sch/i.html?_nkw=' + urllib.parse.quote_plus(search) + '&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1'
 
 try:
     with open('youtubeLookup.json') as f:
@@ -53,19 +53,21 @@ for file in os.listdir():
                         count['total'] += 1
 
                         if splitline[2].startswith('['):
-                            print(line)
+                            #print(line)
                             name = line.split('[')[1].split(']')[0]
                             url = line.split('(')[1].split(')')[0]
-                            retailer = url.replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
-                            print(name + ' ' + url + ' ' + retailer)
-                            #print(ebay_url(name))
-                            if retailer == 'Amazon' and not '[[Amazon]' in line:
-                                print('Amazon replace')
-                                line = line.replace(': ', ' [[Amazon](' + url + ')]: ')
-                            if not '[[Ebay]' in line:
-                                print('Ebay replace')
-                                line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
-                                print(line)
+                            retailer = url.replace('/store.', '/').replace('/us.', '/').replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
+                            if retailer == 'Lvnta':
+                                retailer = 'Amazon'
+                            if retailer == 'Sovrn':
+                                retailer = 'Crutchfield'
+                            #print(name + ' ' + url + ' ' + retailer)
+                            print(retailer)
+                            #if not '[[' + retailer + ']' in line:
+                            #    line = line.replace(')', ' ) [[Amazon](' + url + ')]', count=1)
+                            #if not '[[Ebay]' in line:
+                            #    line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
+                            #    print(line)
 
 
                     splitline = line.split(' ')
@@ -89,7 +91,7 @@ for file in os.listdir():
 
         with open(file, 'w') as f:
             f.write(''.join(newfile))
-        exit(0)
+        #exit(0)
         if number > 0:
             countfile[file] = number
 
