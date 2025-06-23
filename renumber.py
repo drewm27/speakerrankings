@@ -57,17 +57,20 @@ for file in os.listdir():
                             name = line.split('[')[1].split(']')[0]
                             url = line.split('(')[1].split(')')[0]
                             retailer = url.replace('/store.', '/').replace('/us.', '/').replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
-                            if retailer == 'Lvnta':
-                                retailer = 'Amazon'
-                            if retailer == 'Sovrn':
-                                retailer = 'Crutchfield'
-                            #print(name + ' ' + url + ' ' + retailer)
-                            #print(retailer)
-                            line = line.replace(' )', ')')
-                            if not '[[' + retailer + ']' in line:
-                                line = line.replace(')', ') [[' + retailer + '](' + url + ')]', count=1)
-                            if not '[[Ebay]' in line:
-                                line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
+                        else:
+                            name = line.split(' ', 2)[2].split(':')[0]
+                            url = ''
+                            retailer = ''
+                        if retailer == 'Lvnta':
+                            retailer = 'Amazon'
+                        if retailer == 'Sovrn':
+                            retailer = 'Crutchfield'
+                        #print(name + ' ' + url + ' ' + retailer)
+                        #print(retailer)
+                        if url and not '[[' + retailer + ']' in line:
+                            line = line.replace(')', ') [[' + retailer + '](' + url + ')]', count=1)
+                        if not '[[Ebay]' in line:
+                            line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
 
 
                     splitline = line.split(' ')

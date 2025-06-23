@@ -29,7 +29,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
     - [Official GR-Research Open Baffle Triple Subwoofers Website](https://gr-research.com/product/sub-series-triple-threat-with-flatpacks/)
 
-### #2 KEF Blade Two Meta: $28000
+### #2 KEF Blade Two Meta [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Blade+Two+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $28000
 - Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
 - Negatives: 2dB dip at 200hz, slight resonance. 
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
@@ -155,7 +155,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F206 Website](https://www.revelspeakers.com/products/types/floorstanding/F206-.html)
 
-### #9 JBL 4367: $16500
+### #9 JBL 4367 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+4367&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $16500
 - Positives: Huge dynamics and the sensitivity is very high. By far the best speaker if you need things extremely loud. Quite a smooth frequency response especially considering these are high efficiency drivers.
 - Negatives: Vertical directivity isn't too great at the crossover point
 - Dimensions: 37.2"H x 22.2"W x 16.8"D
@@ -322,7 +322,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
 
-### #21 JBL Studio 590: $2000 a pair
+### #21 JBL Studio 590 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Studio+590&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $2000 a pair
 - Positives: Pretty deep bass
 - Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Really bad resonance at 8.5khz. 
 - Bass Extension (-3dB): 48hz

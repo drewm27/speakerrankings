@@ -93,7 +93,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
 
-### #4 Minirig mk2 with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
+### #4 Minirig mk2 with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Minirig+mk2+with+%5Bsubwoofer%5D%28https&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $260
 
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
@@ -713,7 +713,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
 
-### #34 JBL Xtreme 4: $380
+### #34 JBL Xtreme 4 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Xtreme+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $380
 
 - Positives: Removable battery. Slightly deeper bass than Xtreme 3. Use [this EQ](https://www.instagram.com/p/C4Sqdy8IkDX/) for the best sound quality.
 - Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange which cannot be EQd out. Some upper mids and treble boost at high levels.
@@ -799,7 +799,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.devialet.com/en-us/portable-speakers/)
 
-### #38 Sony SRS-XB43: $150
+### #38 Sony SRS-XB43 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+SRS-XB43&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $150
 
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
 - Max Volume: 99db
@@ -839,7 +839,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 
-### #40 JBL Xtreme 2: $200
+### #40 JBL Xtreme 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Xtreme+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $200
 
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
 - Max Volume: 98db
@@ -863,7 +863,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
-### #42 Harman Kardon Onyx Studio 4: $100
+### #42 Harman Kardon Onyx Studio 4 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Onyx+Studio+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $100
 
 - Negatives: 8 hour battery at medium volume. Not at loud as others. Not as deep of bass as the newer Onyx. External AC power brick for charging.
 - Weight: 4.5lbs / 2.06kg
@@ -938,7 +938,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-halo-100-portable-party-speaker)
 
-### #47 JBL Xtreme: $200
+### #47 JBL Xtreme [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Xtreme&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $200
 
 - Negatives: Issues with bass distortion at high volumes. An older speaker outclassed by newer releases of the Xtreme. External AC power brick for charging.
 - Max Volume: 96db
@@ -1032,7 +1032,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg300-bz)
 
-### #52 Xdobo X8 Max: $73
+### #52 Xdobo X8 Max [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Xdobo+X8+Max&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $73
 
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
 - Bass Extension: ~52hz (-10dB)
@@ -1089,7 +1089,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-level)
 
-### #56 Ultimate Ears Megablast: $240
+### #56 Ultimate Ears Megablast [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Ultimate+Ears+Megablast&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $240
 
 - Negatives: Bass is not very deep compared to the competition
 - Bass Extension: 64hz (-10dB)
@@ -1114,7 +1114,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: BOGASING S8 Pro Max  „HiFi” 🎶🧐🆚 Harman Kardon Go Play 3 „HiFi”🔊](https://www.youtube.com/watch?v=oKOUKRaq1M8)
     - <https://www.youtube.com/watch?v=mwH-ItQf-bc>
 
-### #58 LG PN7: $150
+### #58 LG PN7 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=LG+PN7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $150
 
 - Negatives: No deep bass
 - Max Volume: 106db
@@ -1126,7 +1126,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.lg.com/uk/speakers/xboom-go/pn7/)
 
-### #59 Soundcore Rave Neo: $80
+### #59 Soundcore Rave Neo [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Soundcore+Rave+Neo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $80
 
 - Negatives: Muddy with treble rolloff.
 - Max Volume: 106db
@@ -1163,7 +1163,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d9)
 
-### #61 Orange Box: £275
+### #61 Orange Box [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Orange+Box&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: £275
 
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
 - Weight: 6.62lbs / 3 kg
@@ -1175,7 +1175,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://orangeamps.com/product/orange-box/)
 
-### #62 Laney F67: $340
+### #62 Laney F67 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Laney+F67&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $340
 
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
 - Bass Extension: ~62hz (-10dB)
@@ -1202,7 +1202,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd-max)
 
-### #64 LG Xboom XG7: $120
+### #64 LG Xboom XG7 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=LG+Xboom+XG7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $120
 
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 24 hours
@@ -1211,7 +1211,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg7qbk-portable-bluetooth-speaker)
 
-### #65 LG Xboom Go PL7: $70
+### #65 LG Xboom Go PL7 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=LG+Xboom+Go+PL7&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $70
 
 - Negatives: 9khz peak. Not good sounding.
 - Max Volume: 95db
@@ -1225,7 +1225,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl7-portable-bluetooth-speaker)
 
-### #66 Bugani M83: $60
+### #66 Bugani M83 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bugani+M83&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $60
 
 - Positives: Very inexpensive.
 - Negatives: Not very deep bass, treble a little boosted
@@ -1235,7 +1235,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 
-### #67 Hopestar A6 Pro: $86
+### #67 Hopestar A6 Pro [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Hopestar+A6+Pro&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $86
 
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - Bass Extension: 63hz (-10dB)

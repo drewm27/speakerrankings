@@ -559,7 +559,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
 
-### #38 Chesky LC1: $1000
+### #38 Chesky LC1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Chesky+LC1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $1000
 - Negatives: Not recommended. Frequency response is just bad, way too low sensitivity
 - Sensitivity: 81.4dB
 - Reviews and Comparisons

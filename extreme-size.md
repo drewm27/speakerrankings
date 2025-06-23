@@ -161,7 +161,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-110-.html)
 
-### #6 JBL Partybox 300: $300
+### #6 JBL Partybox 300 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Partybox+300&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $300
 
 - Negatives: Hard to carry, too tall, drags on the ground. Max spl and bass extension are only as good as the Partybox 100. No real reason to ever get one, get a Partybox 100 instead. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Bass Extension: 40hz (-10dB)
@@ -494,7 +494,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.reddit.com/r/DJs/comments/ydxjdb/i_used_the_mackie_thump_gos_for_an_indoor_venue/>
     - <https://www.reddit.com/r/livesound/comments/sbxm53/mackie_thump_go_review_portable_batterypowered_pa/>
 
-### #20 Audiocase S5: $645
+### #20 Audiocase S5 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Audiocase+S5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $645
 
 - Positives: Removable battery
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
@@ -513,7 +513,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s5)
 
-### #21 Teufel Rockster Air: €500
+### #21 Teufel Rockster Air [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Teufel+Rockster+Air&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: €500
 
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
 - Max Volume: 115db
@@ -642,7 +642,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-15571491)
 
-### #27 Audiocase S10: $892
+### #27 Audiocase S10 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Audiocase+S10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $892
 
 - Positives: One of the loudest in category.
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
@@ -658,7 +658,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s10)
 
-### #28 W-King T9 Pro: $280
+### #28 W-King T9 Pro [[Ebay](https://www.ebay.com/sch/i.html?_nkw=W-King+T9+Pro&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $280
 
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - Battery Life: 12 hours
@@ -696,7 +696,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
     - [HiTechKing: Marshall Woburn II Unboxing & Review](https://www.youtube.com/watch?v=qnya_6ew1e4)
 
-### #31 Marshall Woburn I: $500
+### #31 Marshall Woburn I [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Marshall+Woburn+I&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $500
 
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - Bass Extension: ~50hz (-10dB)
@@ -738,7 +738,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
 
-### #34 B&O Beosound 1: $2000
+### #34 B&O Beosound 1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=B%26O+Beosound+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $2000
 
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Max Volume: 91db
@@ -753,7 +753,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
 
-### #35 Diamondboxx L2: $1000
+### #35 Diamondboxx L2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Diamondboxx+L2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $1000
 
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
 - Weight: 25lbs / 11kg
@@ -767,7 +767,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://diamondboxx.com/collections/wireless_speakers)
 
-### #36 dB technologies B-Hype M: $450
+### #36 dB technologies B-Hype M [[Ebay](https://www.ebay.com/sch/i.html?_nkw=dB+technologies+B-Hype+M&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $450
 
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - Bass Extension: 62hz (-10dB)
@@ -782,7 +782,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.dbtechnologies.com/en/products/b-hype/b-hype-m/)
 
-### #37 Onn Large Party gen 1: $100
+### #37 Onn Large Party gen 1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Onn+Large+Party+gen+1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $100
 
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - Bass Extension: ~60hz (-10dB)
@@ -842,7 +842,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.panasonic.com/nz/consumer/television-audio/audio/bluetooth-speakers/sc-tmax5.specs.html)
 
-### #41 Sharp PS-929: $150
+### #41 Sharp PS-929 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sharp+PS-929&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $150
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz (-10dB)
@@ -854,7 +854,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sharpconsumer.com/audio/ps929/)
 
 
-### #42 Soundcore Rave+: $240
+### #42 Soundcore Rave+ [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Soundcore+Rave%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $240
 
 - Negatives: Pretty big lack of deep bass
 - Bass Extension: ~60hz (-10dB)
@@ -869,7 +869,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/rave)
 
-### #43 Soundcore Rave: $220
+### #43 Soundcore Rave [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Soundcore+Rave&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $220
 
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - Bass Extension: ~60hz (-10dB)
@@ -926,7 +926,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
     - <https://www.youtube.com/watch?v=Cg2DNPOA8AA>
 
-### #47 Altec Lansing AL500: $200
+### #47 Altec Lansing AL500 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Altec+Lansing+AL500&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $200
 
 - Negatives: Not very deep bass
 - Bass Extension: ~60hz (-10dB)

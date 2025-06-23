@@ -140,12 +140,12 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official ELAC Uni-Fi 2.0 UB52 Website](https://elac.com/ub52)
 
-### #12 Verdant Audio Bambusa AL-1: $7000 a pair
+### #12 Verdant Audio Bambusa AL-1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Verdant+Audio+Bambusa+AL-1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $7000 a pair
 - Negatives: Overpriced for the performance and not recommended.
 - Reviews and Comparisons
     - [Audio Science Review Verdant Audio Bambusa AL-1](https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/)
 
-### #13 ELAC BS U5: $856
+### #13 ELAC BS U5 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ELAC+BS+U5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $856
 - Reviews and Comparisons
     - [Audio Science Review ELAC BS U5](https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/)
 

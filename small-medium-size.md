@@ -153,7 +153,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
 
-### #5 Denon Envaya DSB-250BT: $250
+### #5 Denon Envaya DSB-250BT [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Denon+Envaya+DSB-250BT&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $250
 
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
@@ -228,7 +228,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
 
-### #8 Minirig 2: $140
+### #8 Minirig 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Minirig+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $140
 
 - Positives: Modular, can easily attach a subwoofer.
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
@@ -250,7 +250,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
 
-### #9 B&O Beosound A1: $200
+### #9 B&O Beosound A1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=B%26O+Beosound+A1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $200
 
 - Positives: Deeper bass than the A1 2nd gen.
 - Negatives: Not stereo. Not quite as neutral as the A1 2nd gen. Pumping sound artifacts above 60% volume, only good for lower listening levels.
@@ -383,7 +383,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
 
-### #14 Soundcore Boost “original model” pre-2021: $60
+### #14 Soundcore Boost “original model” pre-2021 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Soundcore+Boost+%E2%80%9Coriginal+model%E2%80%9D+pre-2021&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $60
 
 - Positives: A great sounding neutral speaker.
 - Negatives: This old version has micro-usb charging. Only IPX5.
@@ -714,7 +714,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
 
-### #29 Teufel Rockster XS: €180
+### #29 Teufel Rockster XS [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Teufel+Rockster+XS&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: €180
 
 - Positives: A good sounding speaker.
 - Negatives: Not quite as deep of bass as others. Only available in Europe.
@@ -801,7 +801,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-bluetooth-speaker/SLFLX-SPEAKERWIRELESS.html)
 
-### #33 JBL Charge Essential 2: $130
+### #33 JBL Charge Essential 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Charge+Essential+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $130
 
 - Positives:
 - Negatives: Not stereo. Slightly less bass than a Charge 5.
@@ -819,7 +819,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://ca.jbl.com/CHARGE-ESSENTIAL-2-.html)
 
-### #34 Huawei Sound Joy: $145
+### #34 Huawei Sound Joy [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Huawei+Sound+Joy&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $145
 
 - Positives: Use Devialet and +6db EQ for best sound quality
 - Negatives: Boosted treble, not quite as deep of bass as a Charge 5
@@ -994,7 +994,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-revolve-ii-bluetooth-speaker/SLRVPII-SPEAKERWIRELESS.html)
 
-### #45 Bose Soundlink Revolve+: $230
+### #45 Bose Soundlink Revolve+ [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bose+Soundlink+Revolve%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $230
 
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
 - Bass Extension: 56hz (-10dB)
@@ -1012,7 +1012,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=dP36vzF-ykY>
     - <https://www.youtube.com/watch?v=Fi1x6UuIkI4>
 
-### #46 Tronsmart Element Force: $66
+### #46 Tronsmart Element Force [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Tronsmart+Element+Force&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $66
 
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Max Volume: 98db
@@ -1027,7 +1027,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/element-force-waterproof-portable-bluetooth-speaker)
 
-### #47 Bose Soundlink Revolve: $180
+### #47 Bose Soundlink Revolve [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bose+Soundlink+Revolve&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $180
 
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
 - Bass Extension: 60hz (-10dB)
@@ -1167,7 +1167,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-mini-ii-special-edition/SLMINIISE-SPEAKERWIRELESS.html)
 
-### #54 Bose Soundlink Mini: $150
+### #54 Bose Soundlink Mini [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bose+Soundlink+Mini&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $150
 
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Bass Extension: ~58hz (-10dB)
@@ -1195,7 +1195,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/mi-portable-bluetooth-speaker/)
 
-### #56 Sony XB33: $110
+### #56 Sony XB33 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+XB33&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $110
 
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
 - Max Volume: 97db
@@ -1215,7 +1215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
 
-### #57 Creative iRoar Go: $83
+### #57 Creative iRoar Go [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Creative+iRoar+Go&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $83
 
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
@@ -1289,7 +1289,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/gift-yourself/JBL+Flip+4.html)
 
-### #61 Sony XB23: $100
+### #61 Sony XB23 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+XB23&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $100
 
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
@@ -1326,7 +1326,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/nashville)
 
-### #63 JBL Flip Essential: $130
+### #63 JBL Flip Essential [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Flip+Essential&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $130
 
 - Negatives: Less bass than a Flip 5.
 - Weight: ‎1.04lbs / 471g
@@ -1339,7 +1339,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
 
-### #64 JBL Charge 3: $80
+### #64 JBL Charge 3 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Charge+3&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $80
 
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Max Volume: 100db
@@ -1362,7 +1362,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
 
-### #65 JBL Charge Essential: $180
+### #65 JBL Charge Essential [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Charge+Essential&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $180
 
 - Negatives: Less clarity than the Flip 4, highs rolled off. An overpriced rebranded Charge 3 for people who want stereo sound.
 - Weight: 1.7lbs / 770g
@@ -1474,7 +1474,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-go-bluetooth-speakers)
 
-### #72 Tribit Xsound Surf: $26
+### #72 Tribit Xsound Surf [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Tribit+Xsound+Surf&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $26
 
 - Negatives: Bass doesn't go as deep as others, strange midrange peaks
 - Weight: 0.97lbs / 440g
@@ -1769,7 +1769,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://store.hifuturegroup.com/products/soundpro)
 
-### #92 Cabasse Swell: $300
+### #92 Cabasse Swell [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Cabasse+Swell&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $300
 
 - Negatives: Bass boosted. Bass gets distorted and thuddy. Mids recessed
 - Weight: 1.65lbs / 750g
@@ -1781,7 +1781,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.cabasse.com/the-swell/)
 
-### #93 Teufel Rockster Go: €83.00
+### #93 Teufel Rockster Go [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Teufel+Rockster+Go&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: €83.00
 
 - Negatives: Rolled off treble, muffled sound, mids sound strange. Bass not very deep. Only available in Europe.
 - Weight: 1.54lbs / 700g
@@ -1826,7 +1826,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
 
-### #96 W-King D8 Mini: $60
+### #96 W-King D8 Mini [[Ebay](https://www.ebay.com/sch/i.html?_nkw=W-King+D8+Mini&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $60
 
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Max Volume: 100db
@@ -1952,7 +1952,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page Boat Stone 352](https://www.boat-lifestyle.com/products/stone-352)
     - [Official Product Page Boat Stone 358](https://www.boat-lifestyle.com/products/stone-358-bluetooth-speaker)
 
-### #106 Harman Kardon Esquire 2: $200
+### #106 Harman Kardon Esquire 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Esquire+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $200
 
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
@@ -1968,7 +1968,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
-### #108 Xdobo X8: $35
+### #108 Xdobo X8 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Xdobo+X8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $35
 
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Bass Extension: ~65hz (-10dB)
@@ -2011,7 +2011,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 
-### #112 Ultimate Ears Roll 2: $100
+### #112 Ultimate Ears Roll 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Ultimate+Ears+Roll+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $100
 
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Weight: 0.73lbs / 330g
@@ -2039,7 +2039,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [DankPods: The bluetooth speaker shootout.](https://www.youtube.com/watch?v=SmF_9L5FM7w)
 
-### #115 Beats Pill+: $230
+### #115 Beats Pill+ [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Beats+Pill%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $230
 
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - Bass Extension: 90hz (-10dB)

@@ -75,7 +75,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)
 
-### #3 Minirig Mini: $100
+### #3 Minirig Mini [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Minirig+Mini&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $100
 
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
@@ -124,7 +124,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
 
-### #5 Teufel Boomster Go: 80€
+### #5 Teufel Boomster Go [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Teufel+Boomster+Go&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: 80€
 - Positives: Pretty deep bass and quite balanced overall for the size.
 - Weight: 0.78lbs / 355g
 - Battery Life: 10 hours
@@ -574,7 +574,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb13)
 
-### #27 JBL Clip: $50
+### #27 JBL Clip [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Clip&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $50
 
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - Bass Extension: ~95hz (-10dB)
@@ -691,7 +691,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://muzenaudio.com/products/wild-go-portable-rugged-wireless-bluetooth-speaker)
 
-### #34 Harman Kardon Esquire Mini 2: $100
+### #34 Harman Kardon Esquire Mini 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Esquire+Mini+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $100
 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - Bass Extension: ~120hz (-10dB)
@@ -710,7 +710,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
 
-### #35 Harman Kardon Neo: $90
+### #35 Harman Kardon Neo [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Neo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $90
 
 - Negatives: Huge lack of bass.
 - Max Volume: 87db
@@ -727,7 +727,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
 
-### #36 Lenovo 700 Ultraportable Bluetooth Speaker: $85
+### #36 Lenovo 700 Ultraportable Bluetooth Speaker [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Lenovo+700+Ultraportable+Bluetooth+Speaker&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $85
 
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio

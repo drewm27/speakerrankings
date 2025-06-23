@@ -246,7 +246,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
 
-### #8 Aiwa Exos-9: $250
+### #8 Aiwa Exos-9 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Aiwa+Exos-9&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $250
 
 - Positives: Still a great sounding speaker even against today's models.
 - Negatives: Features are lacking, generally not recommended anymore, not sold new anymore. No water rating.
@@ -364,7 +364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX+STUDIO+6.html)
 
-### #13 Harman Kardon Citation 200: $130
+### #13 Harman Kardon Citation 200 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Citation+200&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $130
 
 - Positives: Deeper bass than any Onyx.
 - Negatives: Overly boomy by default, you will likely [want to turn the bass down](https://citationsupporthelp.freshdesk.com/en/support/solutions/articles/47001167869-citation-200-eq-adjust-bass-and-treble-level-). 8 hour battery at medium volume. Poor water rating. Not at loud as others
@@ -409,7 +409,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-7-.html)
 
-### #15 Harman Kardon Go+ Play 2: $350
+### #15 Harman Kardon Go+ Play 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Harman+Kardon+Go%2B+Play+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $350
 
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others. No water rating.
@@ -785,7 +785,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://geminisound.com/products/grv-650l)
 
-### #32 Teufel Boomster NG (2017): 99€
+### #32 Teufel Boomster NG (2017) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Teufel+Boomster+NG+%282017%29&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: 99€
 
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
@@ -1123,7 +1123,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://bumpboxx.com/products/bumpboxx-flare8)
 
-### #51 Bumpboxx Flare 6: $300
+### #51 Bumpboxx Flare 6 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bumpboxx+Flare+6&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $300
 
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
@@ -1160,7 +1160,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://geminisound.com/products/ggo-650l-bluetooth-karaoke-speaker)
 
-### #54 ION Pathfinder 4: $300
+### #54 ION Pathfinder 4 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ION+Pathfinder+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $300
 
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Weight: 25lbs / 11kg
@@ -1239,7 +1239,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.alteclansing.com/products/mix-2-0)
 
-### #59 Braven XXL 2: $350
+### #59 Braven XXL 2 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Braven+XXL+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $350
 
 - Negatives: Not very deep bass. Very heavy
 - Weight: 17.4lbs / 7.9kg
