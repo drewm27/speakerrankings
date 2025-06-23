@@ -60,15 +60,19 @@ for file in os.listdir():
                             print(name + ' ' + url + ' ' + retailer)
                             #print(ebay_url(name))
                             if retailer == 'Amazon' and not '[[Amazon]' in line:
-                                line.replace(':', ' [[Amazon](' + url + ')]:')
+                                print('Amazon replace')
+                                line = line.replace(': ', ' [[Amazon](' + url + ')]: ')
                             if not '[[Ebay]' in line:
-                                line.replace(':', ' [[Ebay](' + ebay_url(name) + ')]:')
+                                print('Ebay replace')
+                                line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
+                                print(line)
 
 
+                    splitline = line.split(' ')
                     if splitline[1].startswith('#'):
-                        newline = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
+                        line = '### #' + str(number) + ' ' + ' '.join(splitline[2:])
                     else:
-                        newline = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
+                        line = '### #' + str(number) + ' ' + ' '.join(splitline[1:])
 
 
                 elif re.match('^    - <https://www.youtube.com/watch', line):
@@ -80,11 +84,8 @@ for file in os.listdir():
                     except:
                         print('Error fetching info for ' + ytid + '\n')
                         youtubeLookup[ytid] = False
-                    newline = line
 
-                else:
-                    newline = line         
-                newfile.append(newline)
+                newfile.append(line)
 
         with open(file, 'w') as f:
             f.write(''.join(newfile))
