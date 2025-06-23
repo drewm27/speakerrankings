@@ -58,7 +58,10 @@ for file in os.listdir():
                             url = line.split('(')[1].split(')')[0]
                             retailer = url.replace('/store.', '/').replace('/us.', '/').replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
                         else:
-                            name = line.split(' ', 2)[2].split(':')[0]
+                            if ':' in line:
+                                name = line.split(' ', 2)[2].split(':')[0]
+                            else:
+                                name = line.split(' ', 2)[2]
                             url = ''
                             retailer = ''
                         if retailer == 'Lvnta':
@@ -70,7 +73,10 @@ for file in os.listdir():
                         if url and not '[[' + retailer + ']' in line:
                             line = line.replace(')', ') [[' + retailer + '](' + url + ')]', count=1)
                         if not '[[Ebay]' in line:
-                            line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
+                            if ': ' in line:
+                                line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
+                            else:
+                                line = line.replace('\n', ' [[Ebay](' + ebay_url(name) + ')]\n')
 
 
                     splitline = line.split(' ')
