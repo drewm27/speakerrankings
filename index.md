@@ -35,7 +35,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Small Pocket Size Bluetooth Speakers](/pocket-size/): 36 speakers ranked
 - [Medium Size Bluetooth Speakers](/small-medium-size/): 125 speakers ranked
 - [Large Size Bluetooth Speakers](/large-size/): 72 speakers ranked
-- [Boombox Size Bluetooth Speakers](/boombox-size/): 67 speakers ranked
+- [Boombox Size Bluetooth Speakers](/boombox-size/): 66 speakers ranked
 - [Party Size Bluetooth Speakers](/extreme-size/): 48 speakers ranked
 - [Massive Party Size Bluetooth Speakers](/insane-size/): 6 speakers ranked
 
@@ -43,7 +43,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 
 - [Small Size Powered Bookshelf Speakers](/bookshelf-small/): 7 speakers ranked
 - [Medium Size Powered Bookshelf Speakers](/bookshelf-medium/): 24 speakers ranked
-- [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 17 speakers ranked
+- [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 18 speakers ranked
 
 ### All Passive Speakers Ranked
 - [Medium Size Passive Bookshelf Speakers](/passive-bookshelf-medium/): 15 speakers ranked

@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/klasik2020.jpg"
 ---
 
-This page ranks 17 large size powered bookshelf speakers. The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 18 large size powered bookshelf speakers. The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top.
 
@@ -254,7 +254,29 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-7-generation-4-powered-studio-monitor-black)
 
-### #16 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Edifier+R2850DB&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $450 a pair
+### #16 [B&W Zeppelin](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHF64S9D?crid=2W81XEK9D0LM8&dib=eyJ2IjoiMSJ9.S6bk6XSBAf7cIq_vSJJMEBfYoG_dy5nLbtOzJ-do-c7W96yad6ZNZKxGh9n8TGxSSZUagFP-v4IRjw1Or-s4ushnk2ElH8FaKCjfx-1DO56_qsdXz-LGpOknt3Kkr1ouW1-LFIOFCPLTQ_jRUg0Ofk3hvjW5K2l1jvuslkxLtvStn4S02s63zRXyJuCg6l6NRVpjWQ7oGvntqK4jw6_vQBNHyYWaiP2mb40yPtASCsw.vQcaDRXIKxPrKf03cF8NgJSo5nuh-TXsJjt8mToWpIQ&dib_tag=se&keywords=bw%2Bzeppelin&qid=1742483625&sprefix=BW%26%2Bzep%2Caps%2C249&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=997baac3b1c44cb5dd960ca9c826a318&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHF64S9D?crid=2W81XEK9D0LM8&dib=eyJ2IjoiMSJ9.S6bk6XSBAf7cIq_vSJJMEBfYoG_dy5nLbtOzJ-do-c7W96yad6ZNZKxGh9n8TGxSSZUagFP-v4IRjw1Or-s4ushnk2ElH8FaKCjfx-1DO56_qsdXz-LGpOknt3Kkr1ouW1-LFIOFCPLTQ_jRUg0Ofk3hvjW5K2l1jvuslkxLtvStn4S02s63zRXyJuCg6l6NRVpjWQ7oGvntqK4jw6_vQBNHyYWaiP2mb40yPtASCsw.vQcaDRXIKxPrKf03cF8NgJSo5nuh-TXsJjt8mToWpIQ&dib_tag=se&keywords=bw%2Bzeppelin&qid=1742483625&sprefix=BW%26%2Bzep%2Caps%2C249&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=997baac3b1c44cb5dd960ca9c826a318&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=B%26W+Zeppelin&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $800
+- Positives: Amazingly neutral, quite a wide soundstage due to the width. Bass extension deeper than all others in category.
+- Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/bookshelf-top-recommended/) instead which will have even better soundstage.
+- Weight: 14.3lbs / 6.5kg
+- Bass Extension: ~32Hz (-10dB)
+- Battery Life: No battery
+- Aux Input: No
+- Wifi: Yes
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- App: No
+- EQ: No
+- IP Rating: None
+- Bluetooth Codecs: aptX Adaptive, AAC, SBC
+- Power Input: AC Power Cord
+- Comparisons and Sound Samples
+    - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
+    - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
+- Links
+    - [Official Product Page](https://www.bowerswilkins.com/en-us/product/wireless-speakers/zeppelin/150242.html)
+
+### #17 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Edifier+R2850DB&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $450 a pair
 - Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the neutral sound of the HS8. Shockingly close to the HS8 at half the price.
 - Negatives: Quite large and heavy
 - Frequency Response: 42Hz-20KHz (-3dB)
@@ -270,7 +292,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/r2850db)
 
-### #17 [Edifier S3000Pro](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Edifier+S3000Pro&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $900 a pair
+### #18 [Edifier S3000Pro](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-S3000Pro-Audiophile-Active-Speakers/dp/B07NP3CS11?crid=2TNSRXQ8ORPEH&dib=eyJ2IjoiMSJ9.UUJ-vN7p3gsdwqCvlfSj0sFEK7m6un5K4cpD0VFEZfPp9EKtlp7QWElRo0ItTt7v.DoKmHZGR49nfPXwJHkeu8ymd0hKmVB0EL9BrxS3toXU&dib_tag=se&keywords=edifier%2Bs3000mkii&qid=1714000675&sprefix=edifier%2Bs3000%2Caps%2C162&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b415ea216015dd583d5cb7193e371be2&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Edifier+S3000Pro&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $900 a pair
 - Positives: High resolution digital input up to 96khz/24bit
 - Frequency Response: 38Hz-20KHz (-3dB)
 - Dimensions: 14.5"H x 9.1"W x 14.0"D
