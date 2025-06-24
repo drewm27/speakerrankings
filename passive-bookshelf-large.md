@@ -150,7 +150,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
-### #9 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)]: Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)
+### #9 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)]: Discontinued
 - Positives: Fairly even frequency response. No resonances
 - Negatives: Some directivity error in crossover region
 - Sensitivity: 85dB
@@ -546,7 +546,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Cerwin Vega LA165 Website](https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165)
 
-### #37 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)]: Discontinued, possibly on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)
+### #37 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)]: Discontinued
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
