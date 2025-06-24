@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 22 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the floorstanding size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 22 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -29,7 +29,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
     - [Official GR-Research Open Baffle Triple Subwoofers Website](https://gr-research.com/product/sub-series-triple-threat-with-flatpacks/)
 
-### #2 KEF Blade Two Meta [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Blade+Two+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $28000
+### #2 KEF Blade Two Meta [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Blade+Two+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $28000 not sold new online
 - Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
 - Negatives: 2dB dip at 200hz, slight resonance. 
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
