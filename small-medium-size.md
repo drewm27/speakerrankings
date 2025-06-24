@@ -7,7 +7,8 @@ cover-img: "/assets/img/ubooml.jpg"
 
 This page ranks 125 medium size powered Bluetooth speakers. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
-See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes.
+See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
+
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
