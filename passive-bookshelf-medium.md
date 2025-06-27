@@ -13,7 +13,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Audiofirst Fidelia](https://audiofirstdesigns.co.uk/fidelia) [[Audiofirstdesigns](https://audiofirstdesigns.co.uk/fidelia)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Audiofirst+Fidelia&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: £950 for the flatpack kit (assembly required)
+### #1 [Audiofirst Fidelia](https://audiofirstdesigns.co.uk/fidelia) [[Audiofirstdesigns](https://audiofirstdesigns.co.uk/fidelia)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Audiofirst+Fidelia&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Audiofirst+Fidelia)]: £950 for the flatpack kit (assembly required)
 - Positives: The absolute top speaker in this size class
 - Negatives: Slight 2dB bump around 5-6khz. Only available in kit form.
 - Dimensions: 11.8"H x 7.1"W x 11.7"D
@@ -30,7 +30,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Audiofirst Fidelia Website](https://audiofirstdesigns.co.uk/fidelia)
 
-### #2 [KEF LS50 Meta](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+LS50+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $1600
+### #2 [KEF LS50 Meta](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+LS50+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+LS50+Meta)]: $1600
 - Positives: Quite a good frequency response, excellent off axis.
 - Negatives: 3dB dip at 1.2khz, 2dB dip at 2.4-2.8khz
 - Dimensions: 11.9"H x 7.9"W x 11.0"D
@@ -46,7 +46,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
 
-### #3 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair) [[Ascendacoustics](https://ascendacoustics.com/products/sierra-1-v2-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Ascend+Sierra+1+v2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $1000
+### #3 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair) [[Ascendacoustics](https://ascendacoustics.com/products/sierra-1-v2-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Ascend+Sierra+1+v2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Ascend+Sierra+1+v2)]: $1000
 - Positives: An extremely neutral response
 - Negatives: Sensitivity is quite low, not great for loud listening and needs lots of amp power
 - Dimensions: 14.25"H x 7.5"W x 10.5"D
@@ -67,7 +67,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)
 
-### #4 [Moondrop M4P MTM](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker) [[Shenzhenaudio](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Moondrop+M4P+MTM&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $920 a pair
+### #4 [Moondrop M4P MTM](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker) [[Shenzhenaudio](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Moondrop+M4P+MTM&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Moondrop+M4P+MTM)]: $920 a pair
 - Positives: Slight bump in the bass. 
 - Negatives: Vertical directivity is just okay
 - Reviews and Comparisons
@@ -76,7 +76,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Moondrop M4P MTM Website](https://moondroplab.com/en/products/m4p-mtm)
 
-### #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Arendal+1961+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $$1150 a pair
+### #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Arendal+1961+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1961+Monitor)]: $$1150 a pair
 - Positives: A high pass is built in to keep distortions down at higher volume. Directivity is pretty good.
 - Negatives: A 3dB peak and lift from 3k to 10k, lightly sounding bright. Minor resonances around 3k and 5k. Won't play very low due to the high pass at the bottom and the sealed enclosure
 - Dimensions: 16.6"H x 6.4"W x 5.9"D
@@ -95,7 +95,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Arendal 1961 Monito Website](https://arendalsound.com/product/1961-monitor/)
 
-### #6 [Zaph Audio ZA5.2 TM](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair/) [[Madisoundspeakerstore](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Zaph+Audio+ZA5.2+TM&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $383 a pair
+### #6 [Zaph Audio ZA5.2 TM](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair/) [[Madisoundspeakerstore](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Zaph+Audio+ZA5.2+TM&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Zaph+Audio+ZA5.2+TM)]: $383 a pair
 - Positives: Pretty smooth frequency response
 - Negatives: Low sensitivity. Not great vertical off axis
 - Sensitivity: 82dB
@@ -107,7 +107,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Zaph Audio ZA5.2 TM Website](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair)
 
-### #7 JBL Studio 530 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Studio+530%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
+### #7 JBL Studio 530 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Studio+530%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+530)]
 - Positives: Smooth frequency response besides the treble drop off way up high
 - Negatives: Some stored energy resonances at a bunch of frequencies
 - Reviews and Comparisons
@@ -115,41 +115,41 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official JBL Studio 530 Website](https://www.jbl.com/loudspeakers/STUDIO+530.html)
 
-### #8 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z) [[Amazon](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+12.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
+### #8 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z) [[Amazon](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+12.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1)]
 - Reviews and Comparisons
     - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-speaker-review.18655/)
 - Links:
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
 
-### #9 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/) [[Audiokarma](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=PHilharmonic+Affordable+Accuracy+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
+### #9 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/) [[Audiokarma](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=PHilharmonic+Affordable+Accuracy+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=PHilharmonic+Affordable+Accuracy+Monitor)]
 - Reviews and Comparisons
     - [Audio Science Review PHilharmonic Affordable Accuracy Monitor](https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/)
 - Links:
     - [Official PHilharmonic Affordable Accuracy Monitor Website](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
 
-### #10 JBL Stage A130 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Stage+A130%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]
+### #10 JBL Stage A130 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Stage+A130%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
 - Reviews and Comparisons
     - [Audio Science Review JBL Stage A130](https://www.audiosciencereview.com/forum/index.php?threads/jbl-stage-a130-review-speaker.18260/)
 - Links:
     - [Official JBL Stage A130 Website](https://www.jbl.com/loudspeakers/STAGE+A130.html)
 
-### #11 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ELAC+Uni-Fi+2.0+UB52&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $483
+### #11 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ELAC+Uni-Fi+2.0+UB52&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+Uni-Fi+2.0+UB52)]: $483
 - Negatives: Dipped 3db from 1.5-3khz. Nasty resonance at 600hz. Not recommended.
 - Reviews and Comparisons
     - [Audio Science Review ELAC Uni-Fi 2.0 UB52](https://www.audiosciencereview.com/forum/index.php?threads/elac-uni-fi-2-0-review-bookshelf-speaker.19216/)
 - Links:
     - [Official ELAC Uni-Fi 2.0 UB52 Website](https://elac.com/ub52)
 
-### #12 Verdant Audio Bambusa AL-1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Verdant+Audio+Bambusa+AL-1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $7000 a pair
+### #12 Verdant Audio Bambusa AL-1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Verdant+Audio+Bambusa+AL-1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Verdant+Audio+Bambusa+AL-1)]: $7000 a pair
 - Negatives: Overpriced for the performance and not recommended.
 - Reviews and Comparisons
     - [Audio Science Review Verdant Audio Bambusa AL-1](https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/)
 
-### #13 ELAC BS U5 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ELAC+BS+U5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $856
+### #13 ELAC BS U5 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ELAC+BS+U5&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+BS+U5)]: $856
 - Reviews and Comparisons
     - [Audio Science Review ELAC BS U5](https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/)
 
-### #14 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Q150&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $350
+### #14 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Q150&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q150)]: $350
 - Positives: Fantastic off axis due to the coaxial design.
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Dimensions: 11.9"H x 7.1"W x 10.9"D
@@ -168,7 +168,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q150 Website](https://us.kef.com/products/q150-bookshelf-speaker)
 
-### #15 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Totem+Kin+One&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $600
+### #15 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Totem+Kin+One&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Totem+Kin+One)]: $600
 - Positives: A lot of color choices
 - Negatives: 4dB peak at 900hz, 3dB peak at 5.7khz. Bad resonance around 1.5khz. Bass response isn't great. Vertical off axis isn't great
 - Bass Extension (-3dB): 91hz
