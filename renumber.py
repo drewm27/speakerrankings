@@ -25,6 +25,9 @@ def youtubeid_to_title(ytid):
 def ebay_url(search):
     return 'https://www.ebay.com/sch/i.html?_nkw=' + urllib.parse.quote_plus(search) + '&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1'
 
+def used_url(search):
+    return 'hifizero.com/index.php?q=' + urllib.parse.quote_plus(search)
+
 try:
     with open('youtubeLookup.json') as f:
         youtubeLookup = json.load(f)
@@ -77,6 +80,12 @@ for file in os.listdir():
                                 line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
                             else:
                                 line = line.replace('\n', ' [[Ebay](' + ebay_url(name) + ')]\n')
+                        if file.startswith('passive-'):
+                            if not '[[Used Listings](' in line:
+                                if ': ' in line:
+                                    line = line.replace(': ', ' [[Used Listings](' + used_url(name) + ')]: ')
+                                else:
+                                    line = line.replace('\n', ' [[Used Listings](' + used_url(name) + ')]\n')
 
 
                     splitline = line.split(' ')
