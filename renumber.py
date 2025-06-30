@@ -80,7 +80,7 @@ for file in os.listdir():
                                 line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
                             else:
                                 line = line.replace('\n', ' [[Ebay](' + ebay_url(name) + ')]\n')
-                        if file.startswith('passive-'):
+                        if file.startswith('passive-') or file.startswith('bookshelf-'):
                             if not '[[Used Listings](' in line:
                                 if ': ' in line:
                                     line = line.replace(': ', ' [[Used Listings](' + used_url(name) + ')]: ')
