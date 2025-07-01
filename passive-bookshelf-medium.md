@@ -120,6 +120,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 5.25" Cerametallic™ cone woofer
 - Woofer Cabinet: Rear Ported
 - Reviews and Comparisons
+    - [Erin's Audio Corner: Why I think the Klipsch RP-500M II is BETTER than RP-600M II.](https://www.youtube.com/watch?v=2Bkgd2_WuH8)
     - [Erin's Audio Corner Website Klipsch RP-500M II](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_ii/)
 - Links
     - [Official Klipsch RP-500M II Website](https://www.klipsch.com/products/rp-500m-bookshelf-speaker)
