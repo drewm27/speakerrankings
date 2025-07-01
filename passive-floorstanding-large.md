@@ -267,6 +267,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: Polk R500 Tower Speaker Review.](https://www.youtube.com/watch?v=yYewhU3ydwE)
     - [Erin's Audio Review Website Polk Reserve R500](https://www.erinsaudiocorner.com/loudspeakers/polk_r500/)
+    - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
 - Links
     - [Official Polk Reserve R500 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r500/300033.html)
 

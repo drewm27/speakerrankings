@@ -99,7 +99,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
     - [Erin's Audio Corner Website KEF R3 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_r3_meta/)
-    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
+    - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
@@ -137,7 +138,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: Why Do People Love the MoFi SourcePoint 8?](https://www.youtube.com/watch?v=h90tqdGsgP4)
     - [Erin's Audio Corner Website Mofi SourcePoint 8](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/)
-    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
+    - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
     - [GR-Research: Danny Tackles Andrews Jones: The Source Point 8! Spoiler Alert (It's Really Good)](https://www.youtube.com/watch?v=6fDq9sJaBJc)
 - Links
     - [Official Mofi SourcePoint 8 Website](https://mofi.com/shop/mofi-electronics/mofi-electronics-sourcepoint-8-bookshelf-speakers-pair/)
@@ -200,7 +202,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: 5 Reasons Wharfedale Super Linton is the Hidden Gem of Audio Equipment](https://www.youtube.com/watch?v=kIf6677oMTA)
     - [Erin's Audio Corner Website Wharfedale Super Linton Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_super_linton/)
-    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
 - Links:
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/super-linton-stand-mount-speakers-pair)
 
@@ -220,7 +222,8 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: Discover Why I Can't Stop Raving About the Wharfedale Linton 85th Anniversary Speaker](https://www.youtube.com/watch?v=CaxknyOrf3I)
     - [Erin's Audio Corner Website Wharfedale Linton 85 Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/)
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
-    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
+    - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
 - Links:
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/linton-85th-anniversary-bookshelf-speakers)
 
@@ -269,7 +272,8 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: Why the Wharfedale AURA 2 Will Blow Your Mind](https://www.youtube.com/watch?v=MCNQDNpM4x0)
     - [Erin's Audio Corner Website Wharfedale Aura 2](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_aura2/)
-    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
+    - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
 - Links
     - [Official Wharfedale Aura 2 Website](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)
 
