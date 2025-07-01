@@ -100,6 +100,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
 - Comparisons and Sound Samples
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
+    - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
 - Links
     - [Official Product Page](https://www.kaliaudio.com/lp-unf)
 

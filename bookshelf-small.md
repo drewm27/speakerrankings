@@ -108,6 +108,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Edifier R1280T   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9-6zpNiQv5M)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
     - [Erin's Audio Corner: Mackie CR3-X vs PreSonus E3.5  Budget Monitor Showdown!](https://www.youtube.com/watch?v=FM4jQh45KyM)
+    - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
 - Links
     - [Official Product Page](https://legacy.presonus.com/products/Eris-E35)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/presonus_eris3.5_mk2/)
