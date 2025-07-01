@@ -134,6 +134,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: Should You Buy the Revel F226Be or the MoFi 888?](https://www.youtube.com/watch?v=xJoc_KdoLpQ)
     - [Erin's Audio Review Website Revel F226B](https://www.erinsaudiocorner.com/loudspeakers/revel_f226be/)
+    - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
 - Links
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
@@ -170,6 +171,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: The JBL 4367 rocks!](https://www.youtube.com/watch?v=eJnOrG3BHaw)
     - [Erin's Audio Review Website JBL 4367](https://www.erinsaudiocorner.com/loudspeakers/jbl_4367/)
+    - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
 - Links
     - [Official JBL 4367 Website](https://www.jbl.com/floorstanding/Studio+Monitor+4367.html)
 

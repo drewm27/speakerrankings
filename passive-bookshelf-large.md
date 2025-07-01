@@ -44,6 +44,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: First Look!! Kef Reference 1 META Bookshelf Speaker Review.](https://www.youtube.com/watch?v=4hyKx9GiB8o)
     - [Erin's Audio Corner Website KEF Reference 1 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/)
+    - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
 - Links
     - [Official KEF Reference 1 Meta Website](https://us.kef.com/products/reference-1-bookshelf-speaker)
 
@@ -214,6 +215,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: Discover Why I Can't Stop Raving About the Wharfedale Linton 85th Anniversary Speaker](https://www.youtube.com/watch?v=CaxknyOrf3I)
     - [Erin's Audio Corner Website Wharfedale Linton 85 Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/)
+    - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
 - Links:
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/linton-85th-anniversary-bookshelf-speakers)
 
