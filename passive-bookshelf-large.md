@@ -99,11 +99,12 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
     - [Erin's Audio Corner Website KEF R3 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_r3_meta/)
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
-### #6 [KEF Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Concerto+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Concerto+Meta)]: $1400
+### #6 [KEF Q Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Concerto+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Concerto+Meta)]: $1400
 - Positives: Class leading directivity. Quite deep bass for the size
 - Negatives: A little dipped in the treble. 
 - Dimensions: 16.3"H x 8.3"W x 12.4"D
@@ -117,8 +118,9 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 165 mm (6.5 in.) hybrid aluminium cone
 - Reviews and Comparisons
     - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
-    - [Erin's Audio Corner Website KEF Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
+    - [Erin's Audio Corner Website KEF Q Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
 - Links
     - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
 
@@ -135,6 +137,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: Why Do People Love the MoFi SourcePoint 8?](https://www.youtube.com/watch?v=h90tqdGsgP4)
     - [Erin's Audio Corner Website Mofi SourcePoint 8](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/)
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
     - [GR-Research: Danny Tackles Andrews Jones: The Source Point 8! Spoiler Alert (It's Really Good)](https://www.youtube.com/watch?v=6fDq9sJaBJc)
 - Links
     - [Official Mofi SourcePoint 8 Website](https://mofi.com/shop/mofi-electronics/mofi-electronics-sourcepoint-8-bookshelf-speakers-pair/)
@@ -197,6 +200,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: 5 Reasons Wharfedale Super Linton is the Hidden Gem of Audio Equipment](https://www.youtube.com/watch?v=kIf6677oMTA)
     - [Erin's Audio Corner Website Wharfedale Super Linton Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_super_linton/)
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
 - Links:
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/super-linton-stand-mount-speakers-pair)
 
@@ -216,6 +220,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: Discover Why I Can't Stop Raving About the Wharfedale Linton 85th Anniversary Speaker](https://www.youtube.com/watch?v=CaxknyOrf3I)
     - [Erin's Audio Corner Website Wharfedale Linton 85 Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/)
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
 - Links:
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/linton-85th-anniversary-bookshelf-speakers)
 
@@ -264,6 +269,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Erin's Audio Corner: Why the Wharfedale AURA 2 Will Blow Your Mind](https://www.youtube.com/watch?v=MCNQDNpM4x0)
     - [Erin's Audio Corner Website Wharfedale Aura 2](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_aura2/)
+    - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
 - Links
     - [Official Wharfedale Aura 2 Website](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)
 
