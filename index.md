@@ -50,7 +50,6 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Medium Size Passive Bookshelf Speakers](/passive-bookshelf-medium/): 16 speakers ranked
 - [Large Size Passive Bookshelf Speakers](/passive-bookshelf-large/): 40 speakers ranked 
 - [Large Size Passive Floorstanding Speakers](/passive-floorstanding-large/): 22 speakers ranked
-- [Large Size Passive Floorstanding Speakers](/passive-floorstanding-large/): 22 speakers ranked
 
 ### Related Products
 
