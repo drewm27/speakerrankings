@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Powered Bookshelf Speakers
+title: The Best Powered Floorstanding and Bookshelf Speakers
 comments: true
 cover-img: "/assets/img/klasik2020.jpg"
 ---
