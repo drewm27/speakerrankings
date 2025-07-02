@@ -2,7 +2,7 @@
 layout: page
 title: Large Size Powered Floorstanding Speakers
 comments: true
-cover-img: "/assets/img/klasik2020.jpg"
+cover-img: "/assets/img/kefls60.jpg"
 ---
 
 This page ranks 1 large size powered floorstanding speakers. The Large Floorstanding class of speakers generally have woofers 6.5" or larger. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
