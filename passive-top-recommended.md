@@ -11,7 +11,7 @@ Unless you need them to sit on a desktop, shelf or other high surface, I highly 
 
 For more detailed information and specs about these speakers see the full rankings of all of them at [All Passive Speakers Ranked](/#all-passive-speakers-ranked)
 
-Also consider [Top Recommended Powered Bookshelf Speakers](/active-top-recommended/) if you aren't looking for something specifically passive.
+Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommended/) if you aren't looking for something specifically passive.
 
 ### The Best Passive Floorstanding Speakers For Sound Quality
 

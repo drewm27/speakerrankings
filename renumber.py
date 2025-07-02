@@ -11,7 +11,7 @@ from datetime import datetime
 count = {}
 countfile = {}
 count['total'] = 0
-count['active'] = 0
+count['powered'] = 0
 count['passive'] = 0
 count['portable'] = 0
 
@@ -47,8 +47,8 @@ for file in os.listdir():
                     number += 1
                     splitline = line.split(' ')
                     if file != 'personal-ranking-of-speaker-reviewers.md':
-                        if file.startswith('active-'):
-                            count['active'] += 1
+                        if file.startswith('powered-'):
+                            count['powered'] += 1
                         elif file.startswith('passive-'):
                             count['passive'] += 1
                         else:
@@ -80,7 +80,7 @@ for file in os.listdir():
                                 line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
                             else:
                                 line = line.replace('\n', ' [[Ebay](' + ebay_url(name) + ')]\n')
-                        if file.startswith('passive-') or file.startswith('active-'):
+                        if file.startswith('passive-') or file.startswith('powered-'):
                             if not '[[Used Listings](' in line:
                                 if ': ' in line:
                                     line = line.replace(': ', ' [[Used Listings](' + used_url(name) + ')]: ')
@@ -147,13 +147,13 @@ for filename in glob.glob(os.path.join('./', 'top-recommended*.md')):
         f.write(''.join(newfile))
 
 newfile = []
-with open('active-top-recommended.md') as f:
+with open('powered-top-recommended.md') as f:
     lines = f.readlines()
     for line in lines:
         if line.startswith('This page lists'):
-            line = re.sub(regex, ' ' + str(count['active']) + ' ', line, count=1)
+            line = re.sub(regex, ' ' + str(count['powered']) + ' ', line, count=1)
         newfile.append(line)
-with open('active-top-recommended.md', 'w') as f:
+with open('powered-top-recommended.md', 'w') as f:
     f.write(''.join(newfile))
 
 newfile = []

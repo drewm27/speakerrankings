@@ -9,13 +9,13 @@ This page ranks 24 medium size powered bookshelf speakers. The Medium Bookshelf 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top and consider adding a subwoofer.
 
-Also check out [Small Size Powered Bookshelf Speakers](/active-bookshelf-small/), [Large Size Powered Bookshelf Speakers](/active-bookshelf-large/), [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) and [Large Size Bookshelf Speakers](/passive-bookshelf-large/)
+Also check out [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/), [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/), [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) and [Large Size Bookshelf Speakers](/passive-bookshelf-large/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [Neumann KH120 MKII](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_active.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_active.html?BI=23745&KBID=29189)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Neumann+KH120+MKII&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH120+MKII)]: $2000 a pair
+### #1 [Neumann KH120 MKII](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Neumann+KH120+MKII&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH120+MKII)]: $2000 a pair
 - Positives: The top rated speaker in this category. Amazingly flat frequency response, fantastic off axis. Bass extension is quite good for this size.
 - Negatives: High price
 - Dimensions: 11.3"H x 7.2"W x 8.9"D
@@ -267,7 +267,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Corner: Unbiased Review of iLoud MTM MKII](https://www.youtube.com/watch?v=Pdj69hJNCAg)
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
-    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/ik-multimedia-iloud-mtm-review-active-monitor.18347/)
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/ik-multimedia-iloud-mtm-review-powered-monitor.18347/)
 
 ### #14 [Edifier S2000MKIII](https://www.amazon.com/Edifier-S2000MKIII-Bluetooth-Bookshelf-Speakers/dp/B07ZVP9XBG?crid=1KAUATXD3LC5N&dib=eyJ2IjoiMSJ9.qOWopqxdeLeO6n2AA4DSKXlafJy8DMTL8gUoPGhLLlJkwnM_GdNR0fCexpRtgAzxwwD3SPEANekvpSaIG1uRIUSkl8-R3I9PcK7gbpBddd1hewUqSYrUp2eLAGIdapYCieDpYzRklRAaeBGOZClgl43-9coco62wJRwHGaFSp0lPNFlWpXdXH3XQLExL2ue6nCnRBerGtYT8pEADesWKWnapOnJhpdkj1RnoPcHn6i64UJ6pb5M17GOomcXeoqTwTjMVmy06BmprB2GnW_WVe3ClfQHAqA2OMJf5sn1kYR4.-Cbf-C1Riy2w5JOu1apOP4QpKYK9yoS6gpsuJHdivOc&dib_tag=se&keywords=edifier+s2000mkiii&qid=1714000498&sprefix=edifier+s2000%2Caps%2C198&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=cf75cbfff839bae1ed1d84789a84eb0c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-S2000MKIII-Bluetooth-Bookshelf-Speakers/dp/B07ZVP9XBG?crid=1KAUATXD3LC5N&dib=eyJ2IjoiMSJ9.qOWopqxdeLeO6n2AA4DSKXlafJy8DMTL8gUoPGhLLlJkwnM_GdNR0fCexpRtgAzxwwD3SPEANekvpSaIG1uRIUSkl8-R3I9PcK7gbpBddd1hewUqSYrUp2eLAGIdapYCieDpYzRklRAaeBGOZClgl43-9coco62wJRwHGaFSp0lPNFlWpXdXH3XQLExL2ue6nCnRBerGtYT8pEADesWKWnapOnJhpdkj1RnoPcHn6i64UJ6pb5M17GOomcXeoqTwTjMVmy06BmprB2GnW_WVe3ClfQHAqA2OMJf5sn1kYR4.-Cbf-C1Riy2w5JOu1apOP4QpKYK9yoS6gpsuJHdivOc&dib_tag=se&keywords=edifier+s2000mkiii&qid=1714000498&sprefix=edifier+s2000%2Caps%2C198&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=cf75cbfff839bae1ed1d84789a84eb0c&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Edifier+S2000MKIII&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+S2000MKIII)]: $550 a pair
 - Positives: High resolution digital input up to 192khz/24bit

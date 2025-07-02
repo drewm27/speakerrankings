@@ -9,7 +9,7 @@ This page ranks 18 large size powered bookshelf speakers. The Large Bookshelf cl
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top.
 
-Also check out [Small Size Powered Bookshelf Speakers](/active-bookshelf-small/), [Medium Size Powered Bookshelf Speakers](/active-bookshelf-medium/), [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) and [Large Size Bookshelf Speakers](/passive-bookshelf-large/)
+Also check out [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/), [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/), [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) and [Large Size Bookshelf Speakers](/passive-bookshelf-large/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
@@ -31,7 +31,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-420)
 
-### #2 [Genelec 8351B](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_active_studio_monitor_dual.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_active_studio_monitor_dual.html?BI=23745&KBID=29189)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Genelec+8351B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8351B)]: $9150 a pair
+### #2 [Genelec 8351B](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_powered_studio_monitor_dual.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_powered_studio_monitor_dual.html?BI=23745&KBID=29189)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Genelec+8351B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8351B)]: $9150 a pair
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.
 - Negatives: Very expensive
 - Bass Extension (-3dB): 33hz
@@ -256,7 +256,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #16 [B&W Zeppelin](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHF64S9D?crid=2W81XEK9D0LM8&dib=eyJ2IjoiMSJ9.S6bk6XSBAf7cIq_vSJJMEBfYoG_dy5nLbtOzJ-do-c7W96yad6ZNZKxGh9n8TGxSSZUagFP-v4IRjw1Or-s4ushnk2ElH8FaKCjfx-1DO56_qsdXz-LGpOknt3Kkr1ouW1-LFIOFCPLTQ_jRUg0Ofk3hvjW5K2l1jvuslkxLtvStn4S02s63zRXyJuCg6l6NRVpjWQ7oGvntqK4jw6_vQBNHyYWaiP2mb40yPtASCsw.vQcaDRXIKxPrKf03cF8NgJSo5nuh-TXsJjt8mToWpIQ&dib_tag=se&keywords=bw%2Bzeppelin&qid=1742483625&sprefix=BW%26%2Bzep%2Caps%2C249&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=997baac3b1c44cb5dd960ca9c826a318&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHF64S9D?crid=2W81XEK9D0LM8&dib=eyJ2IjoiMSJ9.S6bk6XSBAf7cIq_vSJJMEBfYoG_dy5nLbtOzJ-do-c7W96yad6ZNZKxGh9n8TGxSSZUagFP-v4IRjw1Or-s4ushnk2ElH8FaKCjfx-1DO56_qsdXz-LGpOknt3Kkr1ouW1-LFIOFCPLTQ_jRUg0Ofk3hvjW5K2l1jvuslkxLtvStn4S02s63zRXyJuCg6l6NRVpjWQ7oGvntqK4jw6_vQBNHyYWaiP2mb40yPtASCsw.vQcaDRXIKxPrKf03cF8NgJSo5nuh-TXsJjt8mToWpIQ&dib_tag=se&keywords=bw%2Bzeppelin&qid=1742483625&sprefix=BW%26%2Bzep%2Caps%2C249&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=997baac3b1c44cb5dd960ca9c826a318&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=B%26W+Zeppelin&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=B%26W+Zeppelin)]: $800
 - Positives: Amazingly neutral, quite a wide soundstage due to the width. Bass extension deeper than all others in category.
-- Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/active-top-recommended/) instead which will have even better soundstage.
+- Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/powered-top-recommended/) instead which will have even better soundstage.
 - Weight: 14.3lbs / 6.5kg
 - Bass Extension: ~32Hz (-10dB)
 - Battery Life: No battery
