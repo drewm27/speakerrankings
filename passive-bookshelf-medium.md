@@ -184,6 +184,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website KEF Q150](https://www.erinsaudiocorner.com/loudspeakers/kef_q150/)
     - [GR-Research: KEF Q150... can it get any BETTER?](https://www.youtube.com/watch?v=sFy-WtxoXQ0)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
+    - [Erin's Audio Corner: Budget Stereo Systems You Will Love](https://www.youtube.com/watch?v=6GcFznDiJQU)
 - Links
     - [Official KEF Q150 Website](https://us.kef.com/products/q150-bookshelf-speaker)
 
