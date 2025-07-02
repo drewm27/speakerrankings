@@ -123,6 +123,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website KEF Q Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
     - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
+    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
 
@@ -205,6 +206,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: 5 Reasons Wharfedale Super Linton is the Hidden Gem of Audio Equipment](https://www.youtube.com/watch?v=kIf6677oMTA)
     - [Erin's Audio Corner Website Wharfedale Super Linton Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_super_linton/)
     - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
+    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links:
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/super-linton-stand-mount-speakers-pair)
 

@@ -264,6 +264,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 31hz
 - Reviews and Comparisons
     - [Erin's Audio Corner: My Top 5 Just Changed: Polk Audio Reserve R700 Review](https://www.youtube.com/watch?v=E6APuGxTtJw)
+    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Polk Audio Reserve R700 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r700/300035.html)
 
