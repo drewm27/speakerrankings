@@ -43,6 +43,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer: 130 mm (5.25 in.) aluminium cone
 - Reviews and Comparisons
     - [Audio Science Review KEF LS50 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
+    - [GR-Research: KEF LS50 Meta! Worthy of HYPE?](https://www.youtube.com/watch?v=0tzQeYyD4O8)
 - Links
     - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
 
