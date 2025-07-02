@@ -42,8 +42,11 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
 - Woofer: 130 mm (5.25 in.) aluminium cone
 - Reviews and Comparisons
+    - [Erin's Audio Corner: Unveiling the KEF LS50 Meta: The Truth Behind the Hype](https://www.youtube.com/watch?v=RAKKVe6stCs)
+    - [Erin's Audio Corner Website KEF LS50 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/)
     - [Audio Science Review KEF LS50 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
     - [GR-Research: KEF LS50 Meta! Worthy of HYPE?](https://www.youtube.com/watch?v=0tzQeYyD4O8)
+    - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
 
@@ -65,6 +68,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review Ascend Sierra 1 v2](https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-1-v2-speaker-review.53350/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+    - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)
 
