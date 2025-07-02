@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Portable Bluetooth Speakers Which Include Wireless Microphones
+title: The Best Portable Bluetooth Speakers With Wireless Microphones
 comments: true
 cover-img: "/assets/img/jblencore.jpg"
 ---
