@@ -178,7 +178,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Bose Soundlink Flex or JBL Flip 6 (eq adjusted) or Denon Envaya - best speaker for travel!](https://www.youtube.com/watch?v=4WYQ-liCcKk)
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Denon 250bt - little and large? 🙈](https://www.youtube.com/watch?v=sGyp6jGK0D8)
 - Links
-    - [Official Product Page](https://www.denon.com/en-au/shop/bluetoothspeakers/envayadsb250bt)
+    - [Official Product Page](https://www.denon.com/en-us/product/archive-bluetooth-speakers/dsb250bt/137209.html)
 
 ### #6 [Minirig 4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Minirig+4&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $200
 
