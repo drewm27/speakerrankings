@@ -323,7 +323,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
 
-### #19 [Revel Concerta2 M16](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+M16)]: Discontinued, about $600 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)
+### #19 [Revel Concerta2 M16](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+M16)]: Discontinued, about $600 used
 - Reviews and Comparisons
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/)
 - Links:
