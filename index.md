@@ -39,15 +39,17 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Party Size Bluetooth Speakers](/extreme-size/): 48 speakers ranked
 - [Massive Party Size Bluetooth Speakers](/insane-size/): 6 speakers ranked
 
-### All Powered Bookshelf Speakers Ranked
+### All Powered Speakers Ranked
 
 - [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/): 7 speakers ranked
 - [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/): 24 speakers ranked
 - [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/): 18 speakers ranked
+- [Large Size Powered Floorstanding Speakers](/powered-floorstanding-large/): 1 speakers ranked
 
 ### All Passive Speakers Ranked
 - [Medium Size Passive Bookshelf Speakers](/passive-bookshelf-medium/): 16 speakers ranked
 - [Large Size Passive Bookshelf Speakers](/passive-bookshelf-large/): 40 speakers ranked 
+- [Large Size Passive Floorstanding Speakers](/passive-floorstanding-large/): 22 speakers ranked
 - [Large Size Passive Floorstanding Speakers](/passive-floorstanding-large/): 22 speakers ranked
 
 ### Related Products
