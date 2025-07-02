@@ -172,6 +172,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Woofer Cabinet: Rear ported
 - Reviews and Comparisons
     - [Erin's Audio Corner: Why the MoFi SourcePoint 888 Could Be Your Last Speaker Purchase](https://www.youtube.com/watch?v=9bv5Mt5X__k)
+    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Mofi Sourcepoint 888 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-888-floorstanding-speakers-pair)
 
