@@ -27,7 +27,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [The Best Portable Speakers With SD Card Slot](/top-recommended-sdcard/)
 - [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 - [The Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
-- [The Best Powered Bookshelf Speakers](/bookshelf-top-recommended/)
+- [The Best Powered Bookshelf Speakers](/active-top-recommended/)
 - [The Best Passive Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 
 ### All Portable Bluetooth Speakers Ranked
@@ -41,9 +41,9 @@ Feel free to share this anywhere people could find it useful, thanks!
 
 ### All Powered Bookshelf Speakers Ranked
 
-- [Small Size Powered Bookshelf Speakers](/bookshelf-small/): 7 speakers ranked
-- [Medium Size Powered Bookshelf Speakers](/bookshelf-medium/): 24 speakers ranked
-- [Large Size Powered Bookshelf Speakers](/bookshelf-large/): 18 speakers ranked
+- [Small Size Powered Bookshelf Speakers](/active-bookshelf-small/): 7 speakers ranked
+- [Medium Size Powered Bookshelf Speakers](/active-bookshelf-medium/): 24 speakers ranked
+- [Large Size Powered Bookshelf Speakers](/active-bookshelf-large/): 18 speakers ranked
 
 ### All Passive Speakers Ranked
 - [Medium Size Passive Bookshelf Speakers](/passive-bookshelf-medium/): 16 speakers ranked
