@@ -21,10 +21,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: About 3dB boosted in the bass from 80-180hz, 3dB dip at 9khz
 - Bass Extension (-3dB): 23hz
 - Bass Extension (-10dB): <20hz
-- Dimensions: 25.4"H x 13"W x 17.5"D
-- Weight: 77lbs / 35kg each
+- Dimensions: 42.9"H x 8.3"W x 15.5"D
+- Weight: 69lbs / 31.3kg each
 - Watts: 700w Per Speaker
-- Tweeter: 19 mm (0.75 in.) vented aluminium dome with Metamaterial Absorption Technology1
+- Tweeter: 19 mm (0.75 in.) vented aluminium dome with Metamaterial Absorption Technology
 - Midrange: 100 mm (4in.) aluminium cone
 - Woofer: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver:
 - Inputs: Wifi, Optical, Digital coaxial, RCA, HDMI, Ethernet
