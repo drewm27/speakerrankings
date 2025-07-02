@@ -30,27 +30,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Audiofirst Fidelia Website](https://audiofirstdesigns.co.uk/fidelia)
 
-### #2 [KEF LS50 Meta](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+LS50+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+LS50+Meta)]: $1600
-- Positives: Quite a good frequency response, excellent off axis.
-- Negatives: 3dB dip at 1.2khz, 2dB dip at 2.4-2.8khz
-- Dimensions: 11.9"H x 7.9"W x 11.0"D
-- Weight: 17.2lbs / 7.8kg each
-- Sensitivity: 85dB
-- Impedance: 8 ohms
-- Bass Extension (-3dB): 68hz
-- Bass Extension (-10dB): 43hz
-- Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
-- Woofer: 130 mm (5.25 in.) aluminium cone
-- Reviews and Comparisons
-    - [Erin's Audio Corner: Unveiling the KEF LS50 Meta: The Truth Behind the Hype](https://www.youtube.com/watch?v=RAKKVe6stCs)
-    - [Erin's Audio Corner Website KEF LS50 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/)
-    - [Audio Science Review KEF LS50 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
-    - [GR-Research: KEF LS50 Meta! Worthy of HYPE?](https://www.youtube.com/watch?v=0tzQeYyD4O8)
-    - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
-- Links
-    - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
-
-### #3 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair) [[Ascendacoustics](https://ascendacoustics.com/products/sierra-1-v2-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Ascend+Sierra+1+v2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Ascend+Sierra+1+v2)]: $1000
+### #2 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair) [[Ascendacoustics](https://ascendacoustics.com/products/sierra-1-v2-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Ascend+Sierra+1+v2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Ascend+Sierra+1+v2)]: $1000
 - Positives: An extremely neutral response
 - Negatives: Sensitivity is quite low, not great for loud listening and needs lots of amp power
 - Dimensions: 14.25"H x 7.5"W x 10.5"D
@@ -71,6 +51,26 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)
+
+### #3 [KEF LS50 Meta](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-LS50-Meta-Carbon-Black/dp/B08G1T1CYZ?crid=1GMT3G8AEA4VT&dib=eyJ2IjoiMSJ9.PCdO2u-PDohAUBEmz56KiR6SMRMI8HEMQGGzyNln33-ZzILWcHjGoSvfidogaLwIXhIBrReQWsz7-jK3hIvl03n48Lo5wwWW22FeJA9IRNPJz_JMriXc4MLcw0CWnyzjRfb3DaS5OeHGVb80UsmlE2-D5HlpMez63Gu8YliYC7T4gYJ4KI_IjPWHNssHUyw3aLDt9G8U0SNR2rzwDuUgB0Hh-qlReEkFN7HdfcBKPjM.e6Ywuk7J_YsonixW1SaPJ61wA2Ej_wNzcNsmWZEqwyw&dib_tag=se&keywords=ls50%2Bmeta&qid=1749491838&sprefix=ls50%2Bmet%2Caps%2C205&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=29e07fb04092d8d84b9c2d27b1c3dbbb&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+LS50+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+LS50+Meta)]: $1600
+- Positives: Quite a good frequency response, excellent off axis.
+- Negatives: 3dB dip at 1.2khz, 2dB dip at 2.4-2.8khz
+- Dimensions: 11.9"H x 7.9"W x 11.0"D
+- Weight: 17.2lbs / 7.8kg each
+- Sensitivity: 85dB
+- Impedance: 8 ohms
+- Bass Extension (-3dB): 68hz
+- Bass Extension (-10dB): 43hz
+- Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
+- Woofer: 130 mm (5.25 in.) aluminium cone
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Unveiling the KEF LS50 Meta: The Truth Behind the Hype](https://www.youtube.com/watch?v=RAKKVe6stCs)
+    - [Erin's Audio Corner Website KEF LS50 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/)
+    - [Audio Science Review KEF LS50 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
+    - [GR-Research: KEF LS50 Meta! Worthy of HYPE?](https://www.youtube.com/watch?v=0tzQeYyD4O8)
+    - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
+- Links
+    - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
 
 ### #4 [Moondrop M4P MTM](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker) [[Shenzhenaudio](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Moondrop+M4P+MTM&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Moondrop+M4P+MTM)]: $920 a pair
 - Positives: Slight bump in the bass. 
