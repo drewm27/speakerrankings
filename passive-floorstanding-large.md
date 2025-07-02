@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 22 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 23 large size floorstanding speakers. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -175,7 +175,20 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL 4367 Website](https://www.jbl.com/floorstanding/Studio+Monitor+4367.html)
 
-### #10 [Elac DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Elac%20DF63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DF63)]: $1300
+### #10 [PS Audio Aspen FR10](https://www.psaudio.com/products/aspen-fr10-loudspeaker) [[Psaudio](https://www.psaudio.com/products/aspen-fr10-loudspeaker)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=PS+Audio+Aspen+FR10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=PS+Audio+Aspen+FR10)]: $12000
+- Positives: Wide soundstage
+- Negatives: Pretty jagged frequency response, 5dB dip at 6khz, 3dB dip at 760hz. Not recommended
+- Sensitivity: 84.5dB
+- Impedance: 4 ohm
+- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 28hz
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Unveiling the PS Audio aspen FR10 Speakers. Detailed Review and Analysis.](https://www.youtube.com/watch?v=BGmIT3jWfFg)
+    - [Erin's Audio Review Website PS Audio Aspen FR10](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr10/)
+- Links
+    - [Official PS Audio Aspen FR10 Website](https://www.psaudio.com/products/aspen-fr10-loudspeaker)
+
+### #11 [Elac DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Elac%20DF63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DF63)]: $1300
 - Positives: Pretty good frequency response. Very good value
 - Negatives: 3dB dip at 270hz, 3dd dip from 800-2.5khz. Pretty good directivity. A little warm tuned
 - Dimensions: 43.1"H x 7.7"W x 10.6"D
@@ -195,7 +208,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac DF63 Website](https://elac.com/df63)
 
-### #11 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bang%20%26%20Olufsen%20Beolab20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
+### #12 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Bang%20%26%20Olufsen%20Beolab20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - Bass Extension (-3dB): 20hz
@@ -204,7 +217,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
 
-### #12 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20Concerta2%20F35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
+### #13 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20Concerta2%20F35&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
 - Positives: Really amazing value for the performance
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
@@ -222,7 +235,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
-### #13 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk%20Audio%20Reserve%20R700&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Audio+Reserve+R700)]: $1100 a pair
+### #14 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk%20Audio%20Reserve%20R700&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Audio+Reserve+R700)]: $1100 a pair
 - Positives: Pretty neutral frequency response. Quite deep bass response
 - Negatives: Directivity error at around 4.6khz. Not the best for vertical off axis dispersion
 - Sensitivity: 87.5dB
@@ -234,7 +247,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Audio Reserve R700 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r700/300035.html)
 
-### #14 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity%20Reference%20253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+Reference+253)]: $400 used
+### #15 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity%20Reference%20253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+Reference+253)]: $400 used
 - Positives: Really amazing value for the performance
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
@@ -252,7 +265,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
 
-### #15 [Polk Reserve R500](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk%20Reserve%20R500&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Reserve+R500)]: $1300 a pair
+### #16 [Polk Reserve R500](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk%20Reserve%20R500&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Reserve+R500)]: $1300 a pair
 - Positives: Pretty smooth frequency response.
 - Negatives: Can sound a little shouty with an 2dB in room peak around 4khz. Vertical off-axis isn't too great. 
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
@@ -271,7 +284,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Reserve R500 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r500/300033.html)
 
-### #16 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal%20Chora%20816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Chora+816)]: $900 used
+### #17 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal%20Chora%20816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Chora+816)]: $900 used
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
 - Dimensions: 40.7"H x 11.8"W x 15.3"D
 - Weight: 40.8lbs / 18.5kg each
@@ -287,7 +300,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Focal Chora 816 Website](https://www.focal.com/products/chora-816)
 
-### #17 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF%20Q11%20Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q11+Meta)]: $2500
+### #18 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF%20Q11%20Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q11+Meta)]: $2500
 - Negatives: A dark speaker with rolled off top end, a frequency response drop that's very linear starting at 0dB around 500hz and dropping 4dB at 10khz. Could be good in a very reflective room. Bass has a shelf and is designed to be placed within a foot from a wall.
 - Bass Extension (-3dB): 60hz
 - Bass Extension (-10dB): 29hz
@@ -297,7 +310,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q11 Meta Website](https://us.kef.com/products/q11-meta)
 
-### #18 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dali%20Rubikore%206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Dali+Rubikore+6)]: $8000
+### #19 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dali%20Rubikore%206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Dali+Rubikore+6)]: $8000
 - Negatives: Resonance at 800hz. 4dB peak at 4k to 15k, going to be a bright speaker. Not recommended
 - Bass Extension (-3dB): 43hz
 - Bass Extension (-10dB): 31hz
@@ -307,7 +320,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Dali Rubikore 6 Website](https://www.dali-speakers.com/en-us/products/rubikore/rubikore-6/)
 
-### #19 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk%20T50&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+T50)]: $500
+### #20 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk%20T50&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+T50)]: $500
 - Positives: Pretty deep bass for the price
 - Negatives: 5dB peak at 1khz, 4dB bright top end from 11khz on up. Just okay vertical off axis
 - Impedance: 4 ohm
@@ -318,14 +331,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
-### #20 Triangle Esprit Antal Ez [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Triangle+Esprit+Antal+Ez%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez)]
+### #21 Triangle Esprit Antal Ez [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Triangle+Esprit+Antal+Ez%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez)]
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews and Comparisons
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
 - Links
     - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
 
-### #21 JBL Studio 590 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Studio+590&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
+### #22 JBL Studio 590 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+Studio+590&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
 - Positives: Pretty deep bass
 - Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Really bad resonance at 8.5khz. 
 - Bass Extension (-3dB): 48hz
@@ -335,7 +348,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #22 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Magnepan%20LRS%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Magnepan+LRS%2B)]: $1300
+### #23 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Magnepan%20LRS%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Magnepan+LRS%2B)]: $1300
 - Negatives: An open baffle speaker which creates a huge soundstage. Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz
