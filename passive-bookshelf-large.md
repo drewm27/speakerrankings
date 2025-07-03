@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Passive Bookshelf Speakers
+title: Large Size Bookshelf Speakers
 comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
