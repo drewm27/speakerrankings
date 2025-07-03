@@ -28,7 +28,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 - [The Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
 - [The Best Powered Bookshelf Speakers](/powered-top-recommended/)
-- [The Best Passive Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
+- [The Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 
 ### All Portable Bluetooth Speakers Ranked
 
@@ -47,9 +47,9 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Large Size Powered Floorstanding Speakers](/powered-floorstanding-large/): 1 speakers ranked
 
 ### All Passive Speakers Ranked
-- [Medium Size Passive Bookshelf Speakers](/passive-bookshelf-medium/): 16 speakers ranked
-- [Large Size Passive Bookshelf Speakers](/passive-bookshelf-large/): 41 speakers ranked 
-- [Large Size Passive Floorstanding Speakers](/passive-floorstanding-large/): 24 speakers ranked
+- [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 16 speakers ranked
+- [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 41 speakers ranked 
+- [Large Size Floorstanding Speakers](/passive-floorstanding-large/): 24 speakers ranked
 
 ### Related Products
 
