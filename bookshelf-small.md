@@ -4,4 +4,4 @@ title: Redirect
 head-extra: bookshelf-small.html
 ---
 
-If you are not redirected automatically, follow this <a href='https://www.speakerranking.com/passive-bookshelf-small/'>https://www.speakerranking.com/passive-bookshelf-small/<
+If you are not redirected automatically, follow this <a href='https://www.speakerranking.com/active-bookshelf-small/'>https://www.speakerranking.com/active-bookshelf-small/<
