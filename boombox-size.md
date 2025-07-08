@@ -88,6 +88,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - TWS: Yes
+- Built in Microphone: No
 - Party Mode: No
 - Power Input: AC Power cord
 - Bluetooth Codecs: SBC
@@ -123,6 +124,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Aux Input: Yes
 - Wireless Microphones: Yes 1 Included
+- Built in Microphone: No
 - Power Bank: Yes
 - App: Yes
 - EQ: Yes (7 band)
@@ -153,6 +155,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 17ms
 - Aux Input: Yes
 - Wireless Microphones: Yes 2 Included
+- Built in Microphone: No
 - Power Bank: Yes
 - IP Rating: IPX4
 - USB Playback: Yes
@@ -186,6 +189,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - IP Rating: IPX4
 - USB Playback: Yes
+- Built in Microphone: No
 - Power Input: AC Power cord
 - App: Yes
 - TWS: Yes
@@ -211,6 +215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 112ms
 - TWS: Yes
 - App: No
+- Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
 - Power Input: AC Power brick
 - IP Rating: None
@@ -236,6 +241,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Power Input: AC Power cable
 - IP Rating: None
+- Built in Microphone: No
 - TWS: No
 - EQ: Yes
 - App: No
@@ -258,6 +264,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 8 hours
 - Aux Input: Yes
 - TWS: No
+- Built in Microphone: No
 - App: No (official app is broken, 3rd party android app only)
 - Power Input: AC Power brick
 - IP Rating: None
