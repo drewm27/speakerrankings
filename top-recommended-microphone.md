@@ -2,7 +2,7 @@
 layout: page
 title: The Best Portable Bluetooth Speakers with Built In Microphone
 comments: true
-cover-img: "/assets/img/partyboxultimate.jpg"
+cover-img: "/assets/img/ubooml.jpg"
 ---
 
 This page lists the best portable Bluetooth speakers with built in microphone for phone calls of the 353 ranked on this website. The suggestions in this section are biased towards value speakers with  a built in microphone and good sound quality. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. See this for [Speakers with Wireless Handheld Microphones](/top-recommended-wireless-microphone/) or [Speakers with Microphone Input](/top-recommended-microphone-input/)
