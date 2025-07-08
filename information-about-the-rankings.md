@@ -41,3 +41,10 @@ If you can’t find the speaker comparison you’re looking for, search [YouTube
 - [Tribit StormBox Micro 2 Review](/tribit-stormbox-micro-2/)
 - [Exploring SummarizeReviews.com](/summarize-reviews/)
 - [Bookshelf Non Battery Speakers](/bookshelf-non-battery/)
+
+### Old Pages
+
+- [Small Bookshelf](/bookshelf-small/)
+- [Medium Bookshelf](/bookshelf-medium/)
+- [Large Bookshelf](/bookshelf-large/)
+- [Top Recommended Bookshelf](/bookshelf-top-recommended/)
