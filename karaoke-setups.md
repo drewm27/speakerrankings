@@ -7,7 +7,7 @@ cover-img: "/assets/img/fifinemixer.jpg"
 
 This page lists karaoke and microphone setups for portable Bluetooth speakers which can be used for karaoke or PA use.
 
-Check out [The Best Portable Speakers With Microphone Input](/top-recommended-microphone/) for speakers that have a microphone input.
+Check out [The Best Portable Speakers With Microphone Input](/top-recommended-microphone-input/) for speakers that have a microphone input.
 
 Check out [The Best Portable Speakers With Wireless Microphones](/top-recommended-wireless-microphone/) for speakers that have built in wireless microphones.
 

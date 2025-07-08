@@ -173,6 +173,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Power Bank: Yes
 - Party Mode: No
+- Built in Microphone: Yes
 - Stereo: Yes
 - Bluetooth Codecs: AAC, SBC
 - Power Input: USB-C
@@ -198,6 +199,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 125ms
 - Bass Extension: 47hz (-10dB)
 - Aux Input: No
+- Built in Microphone: No
 - MicroSD: No
 - Power Bank: Yes
 - App: Yes
