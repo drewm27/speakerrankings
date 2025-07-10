@@ -193,6 +193,22 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q150 Website](https://us.kef.com/products/q150-bookshelf-speaker)
 
+### [Neumi Silk 4](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl): $200
+- Negatives: A small resonance around 650hz, not very loud or dynamic due to the low sensitivity. 3dB bump around 1khz
+- Dimensions: 8.9"H x 5.5"W x 8.2"D
+- Weight: 6.1lbs / 2.8kg each
+- Sensitivity: 82.5dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 83hz
+- Bass Extension (-10dB): 55hz
+- Tweeter: 1” silk dome, dispersion-optimized waveguide, neodymium magnet
+- Woofer: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Neumi Silk 4 Review. The Supreme Budget Bookshelf Speaker?](https://www.youtube.com/watch?v=VIhu26oRbHI)
+    - [Erin's Audio Corner Website Neumi Silk 4](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/)
+- Links
+    - [Official Neumi Silk 4 Website](https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/)
+
 ### #16 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Totem+Kin+One&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Totem+Kin+One)]: $600
 - Positives: A lot of color choices
 - Negatives: 4dB peak at 900hz, 3dB peak at 5.7khz. Bad resonance around 1.5khz. Bass response isn't great. Vertical off axis isn't great
