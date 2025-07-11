@@ -17,6 +17,10 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 
 The best [large size passive floorstanding](/passive-floorstanding-large/) speakers with the best sound quality are the [**$28000 KEF Blade Two Meta**](https://us.kef.com/products/blade-two)
 
+The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $10000 with the best sound quality are the [**$7000 Revel F228Be**](https://sovrn.co/l2szjt3)
+
+The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $5000 with the best sound quality are the [**$7000 Revel F226Be**](https://sovrn.co/1og8hjl)
+
 The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$900 Revel Concerta2 F35**](https://sovrn.co/cxvgcxy)
 
 For a lot more suggestions see [large size passive floorstanding speakers](/passive-floorstanding-large/)
