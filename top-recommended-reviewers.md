@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/uboomx.jpg"
 ---
 
-This page lists the best portable Bluetooth speakers recommended by other top unbiased reviewers who have reviewed enough speakers to make a reasonable top choice. These speakers also tend to be highly rated in the rankings. 
+This page summarizes the best portable Bluetooth speakers recommended by other top unbiased reviewers who have reviewed enough speakers to make a reasonable top choice. These speakers also tend to be highly rated in the rankings. 
 
 For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 

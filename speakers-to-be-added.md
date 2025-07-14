@@ -4,7 +4,7 @@ title: Speakers to be Added
 comments: true
 ---
 
-This page lists all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
+This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
 1. [Buchardt A10](https://www.youtube.com/watch?v=VL7WtnxIZc8)
 1. [Radiant Acoustics Clarity 6.2](https://www.youtube.com/watch?v=wV52ek8lUWc)

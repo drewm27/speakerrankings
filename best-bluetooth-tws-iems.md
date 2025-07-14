@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/freepro2.jpg"
 ---
 
-This page lists the best sounding Bluetooth TWS IEMs available. At this point, I don't own any portable over ear headphones that I take out of the house. IEMs have come extremely far in terms of sound quality and switchable noise rejection and are way more portable.
+This page summarizes the best sounding Bluetooth TWS IEMs available. At this point, I don't own any portable over ear headphones that I take out of the house. IEMs have come extremely far in terms of sound quality and switchable noise rejection and are way more portable.
 
 ### The Absolute Most Neutral TWS IEM Headphones
 
