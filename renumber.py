@@ -35,6 +35,7 @@ except:
     youtubeLookup = {}
 
 current_datetime = datetime.now()
+date = current_datetime.strftime("%m/%d/%Y")
 regex = re.compile(' [0-9][0-9]* ')
 dateregex = re.compile(r'\b(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])/(\d{2}|\d{4})\b')
 for file in os.listdir():
@@ -125,7 +126,6 @@ with open('index.md') as f:
             line = re.sub(regex, ' ' + str(count['total']) + ' ', line, count=1)
             line = re.sub(dateregex, date, line, count=1)
         if line.startswith('Last updated '):
-            date = current_datetime.strftime("%m/%d/%Y")
             line = 'Last updated ' + date + '\n'
         if line.startswith('- '):
             url = line.split('(')[1].split('/')[1]
