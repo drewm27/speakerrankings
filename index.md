@@ -29,7 +29,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [The Best Portable Bluetooth Speakers With SD Card Slot](/top-recommended-sdcard/)
 - [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 - [The Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
-- [The Best Powered Bookshelf Speakers](/powered-top-recommended/)
+- [The Best Powered Floorstanding and Bookshelf Speakers](/powered-top-recommended/)
 - [The Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 
 ### All Portable Bluetooth Speakers Ranked
