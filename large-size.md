@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Bluetooth Speakers
+title: Large Size Portable Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/helsinki.jpg"
 ---

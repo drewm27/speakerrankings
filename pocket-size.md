@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Small Pocket Size Bluetooth Speakers
+title: Small Pocket Size Portable Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/stormboxmicro2.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Party Size Bluetooth Speakers
+title: Party Size Portable Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/partybox320.jpg"
 ---

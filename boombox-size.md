@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boombox Size Bluetooth Speakers
+title: Boombox Size Portable Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
 ---

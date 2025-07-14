@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Massive Party Size Bluetooth Speakers
+title: Massive Party Size Portable Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/partyboxultimate.jpg"
 ---

@@ -34,12 +34,12 @@ Feel free to share this anywhere people could find it useful, thanks!
 
 ### All Portable Bluetooth Speakers Ranked
 
-- [Small Pocket Size Bluetooth Speakers](/pocket-size/): 36 speakers ranked
-- [Medium Size Bluetooth Speakers](/small-medium-size/): 125 speakers ranked
-- [Large Size Bluetooth Speakers](/large-size/): 72 speakers ranked
-- [Boombox Size Bluetooth Speakers](/boombox-size/): 66 speakers ranked
-- [Party Size Bluetooth Speakers](/extreme-size/): 48 speakers ranked
-- [Massive Party Size Bluetooth Speakers](/insane-size/): 6 speakers ranked
+- [Small Pocket Size Portable Bluetooth Speakers](/pocket-size/): 36 speakers ranked
+- [Medium Size Portable Bluetooth Speakers](/small-medium-size/): 125 speakers ranked
+- [Large Size Portable Bluetooth Speakers](/large-size/): 72 speakers ranked
+- [Boombox Size Portable Bluetooth Speakers](/boombox-size/): 66 speakers ranked
+- [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
+- [Massive Party Size Portable Bluetooth Speakers](/insane-size/): 6 speakers ranked
 
 ### All Powered Speakers Ranked
 
