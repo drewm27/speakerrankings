@@ -5,9 +5,9 @@ comments: true
 cover-img: "/assets/img/uboomx.jpg"
 ---
 
-This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 353 ranked on this website. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. See these other links for [The Best Portable Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
+This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 353 ranked on this website. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
-For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+See these other links for [The Best Portable Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
 ### The Best Inexpensive Medium Size Speaker
 
