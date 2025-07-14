@@ -9,6 +9,8 @@ This page summarizes the best sounding portable Bluetooth speakers out of the 35
 
 For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
+### The Best Small Pocket Size Speaker With Aux Input
+
 The best [small pocket size](/pocket-size/) speaker with aux input and the best sound quality is the [**$100 Minirig Mini 2**](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)
 
 ### The Best Medium Size Speaker With Aux Input
