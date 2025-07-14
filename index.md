@@ -20,6 +20,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
 - [The Best Portable Bluetooth Speakers For Bass](/top-recommended-bass/)
 - [The Loudest Portable Bluetooth Speakers](/top-recommended-loudest/)
+- [The Best Portable Speakers With Aux Input](/top-recommended-auxinput/)
 - [The Best Portable Speakers With Wifi](/top-recommended-wifi/)
 - [The Best Portable Speakers With Party Mode](/top-recommended-party-mode/)
 - [The Best Portable Speakers With Built In Microphone For Calls](/top-recommended-microphone/)
@@ -68,7 +69,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Issues I'm Working On](/issues-im-working-on/)
 - [Work Currently In Progress](/work-currently-in-progress/)
 
-Last updated 07/10/2025
+Last updated 07/13/2025
 
 Many of you likely came from [this Reddit post](https://www.reddit.com/r/WirelessSpeakers/comments/16zs2ol/ranking_all_battery_powered_wireless_speakers/). 
 
