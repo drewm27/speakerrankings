@@ -176,7 +176,7 @@ for file in countfile:
         for line in lines:
             if line.startswith('This page ranks'):
                 line = re.sub(regex, ' ' + str(countfile[file]) + ' ', line, count=1)
-                line = line.replace('speakers.', 'speakers as of 07/13/2025.')
+                line = re.sub(dateregex, date, line, count=1)
             newfile.append(line)
     with open(file, 'w') as f:
         f.write(''.join(newfile))
