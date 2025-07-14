@@ -36,6 +36,7 @@ except:
 
 current_datetime = datetime.now()
 regex = re.compile(' [0-9][0-9]* ')
+dateregex = re.compile(r'\b(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])/(\d{2}|\d{4})\b')
 for file in os.listdir():
     newfile = []
     number = 0
@@ -122,6 +123,7 @@ with open('index.md') as f:
     for line in lines:
         if line.startswith('Speaker Ranking ranks a total of'):
             line = re.sub(regex, ' ' + str(count['total']) + ' ', line, count=1)
+            line = re.sub(dateregex, date, line, count=1)
         if line.startswith('Last updated '):
             date = current_datetime.strftime("%m/%d/%Y")
             line = 'Last updated ' + date + '\n'
@@ -140,8 +142,9 @@ for filename in glob.glob(os.path.join('./', 'top-recommended*.md')):
     with open(filename) as f:
         lines = f.readlines()
         for line in lines:
-            if line.startswith('This page lists'):
+            if line.startswith('This page summarizes'):
                 line = re.sub(regex, ' ' + str(count['portable']) + ' ', line, count=1)
+                line = re.sub(dateregex, date, line, count=1)
             newfile.append(line)
     with open(filename, 'w') as f:
         f.write(''.join(newfile))
@@ -150,8 +153,9 @@ newfile = []
 with open('powered-top-recommended.md') as f:
     lines = f.readlines()
     for line in lines:
-        if line.startswith('This page lists'):
+        if line.startswith('This page summarizes'):
             line = re.sub(regex, ' ' + str(count['powered']) + ' ', line, count=1)
+            line = re.sub(dateregex, date, line, count=1)
         newfile.append(line)
 with open('powered-top-recommended.md', 'w') as f:
     f.write(''.join(newfile))
@@ -160,8 +164,9 @@ newfile = []
 with open('passive-top-recommended.md') as f:
     lines = f.readlines()
     for line in lines:
-        if line.startswith('This page lists'):
+        if line.startswith('This page summarizes'):
             line = re.sub(regex, ' ' + str(count['passive']) + ' ', line, count=1)
+            line = re.sub(dateregex, date, line, count=1)
         newfile.append(line)
 with open('passive-top-recommended.md', 'w') as f:
     f.write(''.join(newfile))
