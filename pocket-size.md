@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/stormboxmicro2.jpg"
 ---
 
-This page ranks 36 pocket size powered Bluetooth speakers last updated on 07/14/2025. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 37 pocket size powered Bluetooth speakers last updated on 07/15/2025. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
 See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -744,5 +744,23 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [thomas vanderkin (The Vanderkinverse): Lenovo 700 Ultraportable Bluetooth Speaker](https://www.youtube.com/watch?v=6CtZiXCJF18)
 - Links
     - [Official Product Page](https://www.lenovo.com/us/en/p/accessories-and-software/audio/speakers/4xd0t32974)
+
+### #37 [Noxgear 39g](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Noxgear+39g&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $70
+- Positives: It's only 39g of weight
+- Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
+- Bass Extension: ~300hz (-10dB)
+- Weight: 0.086lbs / 39g
+- Battery Life: 15 hours
+- TWS: No
+- Built in Microphone: Yes
+- IP Rating: IPX7
+- Aux Input: No
+- Stereo: No
+- Power Input: USB-C
+- Comparisons and Sound Samples
+    - [BigMans World Of Wonders: NOXGEAR 39G WEARABLE BLUETOOTH SPEAKER  WORTH THE HYPE?  AUDIO TESTING & DETAILED REVIEW](https://www.youtube.com/watch?v=P8QaTedwkSw)
+- Links
+    - [Official Product Page](https://www.noxgear.com/39g)
+
 
 As an Amazon Associate I earn from qualifying purchases.
