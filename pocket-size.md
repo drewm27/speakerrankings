@@ -759,6 +759,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Comparisons and Sound Samples
     - [BigMans World Of Wonders: NOXGEAR 39G WEARABLE BLUETOOTH SPEAKER  WORTH THE HYPE?  AUDIO TESTING & DETAILED REVIEW](https://www.youtube.com/watch?v=P8QaTedwkSw)
+    - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)
 - Links
     - [Official Product Page](https://www.noxgear.com/39g)
 
