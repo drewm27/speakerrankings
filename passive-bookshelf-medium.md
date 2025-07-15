@@ -145,7 +145,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
 
-### #10 [PHilharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/) [[Audiokarma](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=PHilharmonic+Affordable+Accuracy+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=PHilharmonic+Affordable+Accuracy+Monitor)]
+### #10 [Philharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/) [[Audiokarma](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=PHilharmonic+Affordable+Accuracy+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=PHilharmonic+Affordable+Accuracy+Monitor)]
 - Reviews and Comparisons
     - [Audio Science Review PHilharmonic Affordable Accuracy Monitor](https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/)
 - Links:
