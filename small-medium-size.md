@@ -88,7 +88,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/soundcore-motion-93321960>
     - <https://www.patreon.com/posts/soundcore-motion-94933573>
 - Links
-    - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135061)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
 
 ### #3 [Soundcore Motion+](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Soundcore+Motion%2B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $80 after $20 coupon
 
@@ -121,7 +121,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
-    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
 
 ### #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Soundcore+Boost+%E2%80%9Cupgraded%E2%80%9D+2021&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $60
 
@@ -669,7 +669,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Picky Audio: Compact Speaker BEAST! 🔥 soundcore Boom 3i](https://www.youtube.com/watch?v=EqSWcfgbX-8)
 - Links
-    - [Official Product Page](https://www.soundcore.com/products/d5100-boom-3i-waterproof-bluetooth-speaker)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fd5100-boom-3i-waterproof-bluetooth-speaker&cjsku=D5100060)
 
 ### #27 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=1More+S1001bt&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $74
 
