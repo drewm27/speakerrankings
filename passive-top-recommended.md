@@ -19,9 +19,11 @@ The best [large size passive floorstanding](/passive-floorstanding-large/) speak
 
 The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $10000 with the best sound quality are the [**$11000 Revel F228Be**](https://sovrn.co/l2szjt3)
 
-The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $5000 with the best sound quality are the [**$7000 Revel F226Be**](https://sovrn.co/1og8hjl)
+The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $5000 with the best sound quality are the [**$5500 Mofi Sourcepoint 888**](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)
 
 The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$900 Revel Concerta2 F35**](https://sovrn.co/cxvgcxy)
+
+The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $500 with the best sound quality are the [**$500 Polk T50**](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)
 
 For a lot more suggestions see [large size passive floorstanding speakers](/passive-floorstanding-large/)
 

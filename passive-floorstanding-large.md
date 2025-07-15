@@ -119,7 +119,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
 
-### #7 [Revel F226Be](https://sovrn.co/1og8hjl) [[Crutchfield](https://sovrn.co/1og8hjl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F226Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F226Be)]: $5400
+### #7 [Revel F226Be](https://sovrn.co/1og8hjl) [[Crutchfield](https://sovrn.co/1og8hjl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel%20F226Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F226Be)]: $7700
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
 - Dimensions: 41.3"H x 9.8"W x 13.7"D
