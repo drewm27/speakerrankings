@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---
 
-This page ranks 17 medium size bookshelf speakers last updated on 07/15/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 18 medium size bookshelf speakers last updated on 07/15/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -209,7 +209,23 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Neumi Silk 4 Website](https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/)
 
-### #17 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Totem+Kin+One&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Totem+Kin+One)]: $600
+### #17 [Sony SS-CS5 M2](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sony+SS-CS5+M2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Sony+SS-CS5+M2)]: $250
+- Negatives: Mellow treble, forward upper midrange
+- Dimensions: 13.9"H x 7"W x 8.7"D
+- Weight: 9.9lbs / 4.5kg each
+- Sensitivity: 82.5dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 80hz
+- Bass Extension (-10dB): 54hz
+- Supertweeter: 0.75 in
+- Tweeter: 0.98 in
+- Woofer: 5.12"
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Is Sony's NEW SS-CS5 Version 2 WORTH the Upgrade?](https://www.youtube.com/watch?v=iI2a-KVuUhw)
+- Links
+    - [Official ony SS-CS5 M2 Website](https://electronics.sony.com/audio/speakers/home-theater-speakers/p/sscs5)
+
+### #18 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Totem+Kin+One&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Totem+Kin+One)]: $600
 - Positives: A lot of color choices
 - Negatives: 4dB peak at 900hz, 3dB peak at 5.7khz. Bad resonance around 1.5khz. Bass response isn't great. Vertical off axis isn't great
 - Bass Extension (-3dB): 91hz
