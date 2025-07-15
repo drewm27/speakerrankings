@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/stormboxmicro2.jpg"
 ---
 
-This page ranks 37 pocket size powered Bluetooth speakers last updated on 07/15/2025. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 38 pocket size powered Bluetooth speakers last updated on 07/15/2025. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
 See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -763,5 +763,23 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://www.noxgear.com/39g)
 
+### #38 [Dewalt Wearable Bluetooth Speaker](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dewalt+Wearable+Bluetooth+Speaker&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: $58
+- Positives: It's lightweight
+- Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
+- Bass Extension: ~300hz (-10dB)
+- Weight: <0.12lbs / <56g
+- Battery Life: 10 hours
+- TWS: No
+- Built in Microphone: Yes
+- IP Rating: IP56
+- Aux Input: No
+- Stereo: No
+- Power Input: USB-C
+- Comparisons and Sound Samples
+    - [BigMans World Of Wonders: NOXGEAR 39G WEARABLE BLUETOOTH SPEAKER  WORTH THE HYPE?  AUDIO TESTING & DETAILED REVIEW](https://www.youtube.com/watch?v=P8QaTedwkSw)
+    - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)
+- Links
+    - [Official Product Page](https://www.noxgear.com/39g)
 
+As an Amazon Associate I earn from qualifying purchases.
 As an Amazon Associate I earn from qualifying purchases.
