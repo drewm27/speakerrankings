@@ -40,6 +40,6 @@ The best [large size passive bookshelf](/passive-floorstanding-large/) speakers 
 
 The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $250 with the best sound quality are the [**$250 Polk Monitor XT20**](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk+xt20&qid=1749100169&sprefix=polk+,aps,205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl)
 
-For a lot more suggestions see [large size passive bookshelf speakers](/passive-floorstanding-large/) and [medium size passive bookshelf speakers](/passive-floorstanding-medium/)
+For a lot more suggestions see [large size passive bookshelf speakers](/passive-bookshelf-large/) and [medium size passive bookshelf speakers](/passive-bookshelf-medium/)
 
 As an Amazon Associate I earn from qualifying purchases.
