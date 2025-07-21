@@ -6,6 +6,7 @@ comments: true
 
 This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
+1. Boombox 4
 1. [Buchardt A10](https://www.youtube.com/watch?v=VL7WtnxIZc8)
 1. [Radiant Acoustics Clarity 6.2](https://www.youtube.com/watch?v=wV52ek8lUWc)
 1. Dutch and Dutch 8C
