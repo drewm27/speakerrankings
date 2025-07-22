@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 44 large size bookshelf speakers. Last updated on 07/21/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 44 large size bookshelf speakers. Last updated on 07/22/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 If you don't plan to put these on a desk or bookshelf, I'd highly recommend looking at [Passive Floorstanding Speakers](/passive-floorstanding-large/) instead. These will have deeper bass and generally be a better all around speaker, although at a higher price.
 
@@ -15,7 +15,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=GR-Research+NX-Studio&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630 or $1500 for [the kit](https://gr-research.com/product/nx-studio/) with flatpack
+### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)]] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630 or $1500 for [the kit](https://gr-research.com/product/nx-studio/) with flatpack
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
 - Dimensions: 24"H x 10"W x 14"D
@@ -30,7 +30,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
 
-### #2 [KEF Reference 1 Meta](https://us.kef.com/products/reference-1-bookshelf-speaker) [[Kef](https://us.kef.com/products/reference-1-bookshelf-speaker)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Reference+1+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Reference+1+Meta)]: $10000
+### #2 [KEF Reference 1 Meta](https://us.kef.com/products/reference-1-bookshelf-speaker) [[Kef](https://us.kef.com/products/reference-1-bookshelf-speaker)]] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Reference+1+Meta)]: $10000
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Configurable to short or long port depending on the bass roll-off you're looking for. Very deep bass for the size
 - Dimensions: 17.3"H x 8.1"W x 16.6"D
 - Weight: 40.1lbs / 18.2kg each
@@ -48,7 +48,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Reference 1 Meta Website](https://us.kef.com/products/reference-1-bookshelf-speaker)
 
-### #3 [March Audio Sointuva AWG](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/) [[Marchaudio](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=March+Audio+Sointuva+AWG&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=March+Audio+Sointuva+AWG)]: $4150
+### #3 [March Audio Sointuva AWG](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/) [[Marchaudio](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)]] [[Used Listings](https://www.hifizero.com/index.php?q=March+Audio+Sointuva+AWG)]: $4150
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Very deep bass for the size
 - Negatives: Sensitivity is pretty low. 
 - Dimensions: 17.7"H x 9.4"W x 8.7"D
@@ -66,7 +66,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official March Audio Sointuva AWG Website](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)
 
-### #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=AsciLab+C6B&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=AsciLab+C6B)]: $1145
+### #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)]] [[Used Listings](https://www.hifizero.com/index.php?q=AsciLab+C6B)]: $1145
 - Positives: Extremely good directivity and frequency response, and just an insane value for the price.
 - Dimensions: 15.7"H x 8"W x 10.4"D
 - Weight: 18.5lbs / 8.4kg each
@@ -82,7 +82,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official AsciLab C6B Website](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
 
-### #5 [GR-Research NX-Bravo](https://gr-research.com/product/nx-bravo-kit/) [[Gr-research](https://gr-research.com/product/nx-bravo-kit/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=GR-Research+NX-Bravo&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Bravo)]: $1540 kit with finished cabinets (assembly required)
+### #5 [GR-Research NX-Bravo](https://gr-research.com/product/nx-bravo-kit/) [[Gr-research](https://gr-research.com/product/nx-bravo-kit/)]] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Bravo)]: $1540 kit with finished cabinets (assembly required)
 - Positives: Ultra clean burst decay/waterfall plot
 - Negatives: 2db dip at 3.7khz, 2dB dip at 8khz, 2dB treble peak up around 14khz
 - Bass Extension (-3dB): 77hz
@@ -101,7 +101,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official GR-Research NX-Bravo Website](https://gr-research.com/product/nx-bravo-kit/)
 
-### #6 [KEF R3 Meta](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+R3+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+R3+Meta)]: $2500
+### #6 [KEF R3 Meta](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+R3+Meta)]: $2500
 - Positives: Pretty smooth frequency response and the coaxial midrange/tweeter creates a near perfect off-axis response. One of the best coaxial speakers I've ever seen measured.
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D
@@ -124,7 +124,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
 
-### #7 [KEF Q Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Concerto+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Concerto+Meta)]: $1400
+### #7 [KEF Q Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Concerto+Meta)]: $1400
 - Positives: Class leading directivity. Quite deep bass for the size
 - Negatives: A little dipped in the treble. 
 - Dimensions: 16.3"H x 8.3"W x 12.4"D
@@ -145,7 +145,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
 
-### #8 [Mofi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Mofi+SourcePoint+10&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
+### #8 [Mofi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)]] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Negatives: Will need to be listened to off-axis, bright up top directly on axis
 - Dimensions: 22.5"H x 14.5"W x 16.6"D
@@ -163,7 +163,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Mofi SourcePoint 10 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-10-loudspeakers)
 
-### #9 [Mofi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Mofi+SourcePoint+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
+### #9 [Mofi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)]] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Dimensions: 18"H x 11.4"W x 13.2"D
 - Weight: 27.9lbs / 12.7kg each
@@ -183,7 +183,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Mofi SourcePoint 8 Website](https://mofi.com/shop/mofi-electronics/mofi-electronics-sourcepoint-8-bookshelf-speakers-pair/)
 
-### #10 [Revel M126Be](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black) [[Audioadvice](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+M126Be&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M126Be)]: $4400
+### #10 [Revel M126Be](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black) [[Audioadvice](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black)]] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M126Be)]: $4400
 - Negatives: Some diffraction issues at 3khz and 7khz where there's some dipped areas. Vertical off-axis is just okay
 - Dimensions: 15.2"H x 8.3"W x 10.3"D
 - Weight: 22lbs / 10.0kg each
@@ -199,7 +199,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel M126Be Website](https://www.revelspeakers.com/products/in-room-loudspeakers/M126BE-.html)
 
-### #11 [Philharmonic BMR Monitor](https://philharmonicaudio.com/products/bmr-monitor) [[Philharmonicaudio](https://philharmonicaudio.com/products/bmr-monitor)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Philharmonic+BMR+Monitor&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Philharmonic+BMR+Monitor)]: $2200
+### #11 [Philharmonic BMR Monitor](https://philharmonicaudio.com/products/bmr-monitor) [[Philharmonicaudio](https://philharmonicaudio.com/products/bmr-monitor)]] [[Used Listings](https://www.hifizero.com/index.php?q=Philharmonic+BMR+Monitor)]: $2200
 - Positives: Very wide off-axis
 - Negatives: Directivity issues at 500hz and 3khz
 - Dimensions: 20"H x 8"W x 12.5"D
@@ -217,7 +217,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Mofi SourcePoint 8 Website](https://philharmonicaudio.com/products/bmr-monitor)
 
-### #12 [HiVi Swans 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=HiVi+Swans+3.1A+Sehlin+Sound+Solutions+mod&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=HiVi+Swans+3.1A+Sehlin+Sound+Solutions+mod)]: $364 for the kit (assembly required)
+### #12 [HiVi Swans 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=HiVi+Swans+3.1A+Sehlin+Sound+Solutions+mod)]: $364 for the kit (assembly required)
 - Negatives: 3dB dip at 300hz. Vertical directivity is just okay
 - Sensitivity: 87dB
 - Impedance: 4 ohms
@@ -229,7 +229,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
 
-### #13 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M106)]: Discontinued
+### #13 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M106)]: Discontinued
 - Positives: Fairly even frequency response. No resonances
 - Negatives: Some directivity error in crossover region
 - Sensitivity: 85dB
@@ -243,7 +243,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official Revel M106 Website](https://www.revelspeakers.com/products/types/bookshelf/M106-.html)
 
-### #14 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/) [[Arendalsound](https://arendalsound.com/product/1528-monitor-8/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Arendal+1528+Monitor+8&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1528+Monitor+8)]: $6000 a pair
+### #14 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/) [[Arendalsound](https://arendalsound.com/product/1528-monitor-8/)]] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1528+Monitor+8)]: $6000 a pair
 - Positives: Fantastic bass extension for a bookshelf
 - Negatives: Very large and heavy. A 3dB midbass dip from 100-170hz, 3dB dip at 800hz
 - Dimensions: 31.8"H x 11.4"W x 17.6"D
@@ -261,7 +261,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official Arendal 1528 Monitor 8 Website](https://arendalsound.com/product/1528-monitor-8/)
 
-### #15 [Wharfedale Super Linton](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Super+Linton&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Super+Linton)]: $3000 a pair
+### #15 [Wharfedale Super Linton](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers)]] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Super+Linton)]: $3000 a pair
 - Positives: Designed for closer wall placement with the leg on the bass frequency response. Better dynamic range in the bass than the old Linton
 - Dimensions: 23.8"H x 11.8"W x 13.0"D
 - Weight: 43.7lbs / 19.8kg each
@@ -280,7 +280,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/super-linton-stand-mount-speakers-pair)
 
-### #16 [Wharfedale Linton 85](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Linton+85&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Linton+85)]: $1700 a pair
+### #16 [Wharfedale Linton 85](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers)]] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Linton+85)]: $1700 a pair
 - Positives: Very neutral frequency response and good bass extension.
 - Negatives: The spacing of the drivers makes the vertical off axis not very good
 - Dimensions: 22.2"H x 11.8"W x 13.0"D
@@ -302,7 +302,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/linton-85th-anniversary-bookshelf-speakers)
 
 
-### #17 [Elac DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Elac+DBR62&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR62)]: $800 a pair
+### #17 [Elac DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR62)]: $800 a pair
 - Positives: Pretty neutral all around, a little bit of a V curve
 - Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
 - Dimensions: 14.1"H x 8.2"W x 10.8"D
@@ -322,7 +322,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac DBR6 Website](https://elac.com/dbr62)
 
-### #18 [JBL HDI-1600](https://sovrn.co/xgfeafc) [[Crutchfield](https://sovrn.co/xgfeafc)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=JBL+HDI-1600&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+HDI-1600)]: $1980 a pair
+### #18 [JBL HDI-1600](https://sovrn.co/xgfeafc) [[Crutchfield](https://sovrn.co/xgfeafc)]] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+HDI-1600)]: $1980 a pair
 - Positives: Slight bass boost at 130hz
 - Negatives: 5dB dip at 10.1k. Some resonance around 700hz and 2khz
 - Sensitivity: 85dB
@@ -332,7 +332,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
 
-### #19 [Wharfedale Aura 2](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair) [[Wharfedaleusa](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Aura+2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Aura+2)]: $3800
+### #19 [Wharfedale Aura 2](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair) [[Wharfedaleusa](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)]] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Aura+2)]: $3800
 - Negatives: Slight 2dB dip in bass response below 180hz, may need to be closer to wall like 2 feet. 4dB peak around 13k. Vertical directivity isn't very good.
 - Dimensions: 22.1"H x 11.3"W x 15.3"D
 - Weight: 45lbs / 20.4kg each
@@ -352,7 +352,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Wharfedale Aura 2 Website](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)
 
-### #20 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Aria+906)]: Discontinued, $1100 a pair on [Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)
+### #20 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Aria+906)]: Discontinued, $1100 a pair on [Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)
 - Negatives: 3dB dip around 2.8khz. Some resonance around 800hz, small directivity error around 7khz
 - Sensitivity: 87dB
 - Impedance: 4 ohms
@@ -363,7 +363,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official Focal Aria 906 Website](https://www.focal.com/products/aria-906)
 
-### #21 [KEF Q350](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Q350&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q350)]: $500 a pair
+### #21 [KEF Q350](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q350)]: $500 a pair
 - Positives: Excellent directivity
 - Negatives: Resonance at 700hz and 1.2khz
 - Sensitivity: 86dB
@@ -375,13 +375,13 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
 
-### #22 [Revel Concerta2 M16](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+M16)]: Discontinued, about $600 used
+### #22 [Revel Concerta2 M16](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+M16)]: Discontinued, about $600 used
 - Reviews and Comparisons
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/)
 - Links:
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
 
-### #23 [Revel Performa M22](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Performa+M22)]: About $600 used
+### #23 [Revel Performa M22](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Performa+M22)]: About $600 used
 - Positives: Very flat frequency response from 200hz to 10khz
 - Negatives: 3dB bass boost around 100hz
 - Sensitivity: 85dB
@@ -392,7 +392,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review Revel Performa M22](https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/)
     - [GR-Research: What the HECK was Revel Thinking?! Revel Performa M22 Upgrades!](https://www.youtube.com/watch?v=JH1DrkqHatQ)
 
-### #24 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii) [[Buchardtaudio](https://buchardtaudio.com/products/s400-mkii)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Buchardt+S400+MKII&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Buchardt+S400+MKII)]: $2400
+### #24 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii) [[Buchardtaudio](https://buchardtaudio.com/products/s400-mkii)]] [[Used Listings](https://www.hifizero.com/index.php?q=Buchardt+S400+MKII)]: $2400
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz
 - Dimensions: 14.4"H x 7"W x 11"D
 - Weight: 16.5lbs / 7.5kg each
@@ -409,7 +409,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Buchardt S400 MKII Website](https://buchardtaudio.com/products/s400-mkii)
 
-### #25 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/) [[Gr-research](https://gr-research.com/product/xls-encore/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=GR-Research+X-LS+Encore&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+X-LS+Encore)]: $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
+### #25 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/) [[Gr-research](https://gr-research.com/product/xls-encore/)]] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+X-LS+Encore)]: $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
 - Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
 - Weight: 17lbs / 7.7kg each
@@ -425,7 +425,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
-### #26 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
+### #26 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
 - Positives: Impressively flat for a budget bookshelf
 - Negatives: Resonances at 600 and 5khz
 - Sensitivity: 85dB
@@ -436,7 +436,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
 
-### #27 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dynaudio+Special+Forty&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Special+Forty)]: $3600
+### #27 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair)]] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Special+Forty)]: $3600
 - Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz. Not recommended for the price
 - Dimensions: 14.1"H x 7.7"W x 12.1"D
 - Weight: 17.9lbs / 8.1kg each
@@ -454,7 +454,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Dynaudio Special Forty Website](https://dynaudio.com/home-audio/special-forty)
 
-### #28 [Elac Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Elac+Debut+DB63&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+Debut+DB63)]: $500
+### #28 [Elac Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+Debut+DB63)]: $500
 - Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
 - Dimensions: 13.3"H x 7.7"W x 11.7"D
 - Weight: 17.3lbs / 7.8kg each
@@ -471,7 +471,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Elac Debut DB63 Website](https://elac.com/db63)
 
-### #29 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk+R200&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+R200)]: $750
+### #29 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+R200)]: $750
 - Positives: Really good neutrality and linearity 
 - Negatives: Narrow off axis above 5khz
 - Sensitivity: 85dB
@@ -485,7 +485,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official Polk R20 Website](https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/reserve-r200/300029.html)
 
-### #30 [ELAC Debut 2.0 B6.2](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ELAC+Debut+2.0+B6.2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+Debut+2.0+B6.2)]: $330
+### #30 [ELAC Debut 2.0 B6.2](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+Debut+2.0+B6.2)]: $330
 - Positives: Reasonably flat response
 - Negatives: A good size resonant peak around 700hz, directivity error around 3.3khz
 - Sensitivity: 86.5dB
@@ -497,7 +497,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official ELAC Debut 2.0 B6.2 Website](https://elac.com/db62)
 
-### #31 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Dynaudio+Emit+20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Emit+20)]: $1050
+### #31 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Emit+20)]: $1050
 - Positives: Really deep bass extension for the size class
 - Negatives: A noticeable resonance in the driver around 750hz
 - Bass Extension (-3dB): 54hz
@@ -510,7 +510,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Website](https://dynaudio.com/home-audio/emit/emit-20)
 
-### #32 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=KEF+Q3+Meta&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q3+Meta)]: $900
+### #32 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q3+Meta)]: $900
 - Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
 - Sensitivity: 87dB
 - Impedance: 4 ohms
@@ -524,7 +524,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q3 Meta Website](https://us.kef.com/products/q3-meta)
 
-### #33 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Polk+Monitor+XT20&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Monitor+XT20)]: $250
+### #33 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Monitor+XT20)]: $250
 - Positives: A great value for the price, nothing else under $300 will compete
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
 - Dimensions: 13"H x 7.5"W x 11"D
@@ -544,7 +544,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
-### #34 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/) [[Tmraudio](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=ATC+SCM19&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=ATC+SCM19)]: $3750
+### #34 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/) [[Tmraudio](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/)]] [[Used Listings](https://www.hifizero.com/index.php?q=ATC+SCM19)]: $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
 - Weight: 39.2lbs / 17.8kg each
@@ -560,14 +560,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
-### #35 Pylon Jasper Monitor 18 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Pylon+Jasper+Monitor+18%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18)]
+### #35 Pylon Jasper Monitor 18] [[Used Listings](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18)]
 - Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
 - Reviews and Comparisons
     - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
 - Links
     - [Official Pylon Jasper Monitor 18 Website](https://pylon.pl/en/jasper-series/jasper-monitor-18/)
 
-### #36 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria) [[Pahmeraudio](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Audio+Craftsmen+Victoria&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Audio+Craftsmen+Victoria)]: $4000
+### #36 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria) [[Pahmeraudio](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)]] [[Used Listings](https://www.hifizero.com/index.php?q=Audio+Craftsmen+Victoria)]: $4000
 - Negatives: 4dB dip from 200hz to 400hz, recessed midrange. Not recommended for the price
 - Sensitivity: 84dB
 - Impedance: 8 ohms
@@ -579,7 +579,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Audio Craftsmen Victoria Website](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)
 
-### #37 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5) [[Crutchfield](https://sovrn.co/kesxoj5)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Sonus+Faber+Sonetto+II+G2&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
+### #37 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5) [[Crutchfield](https://sovrn.co/kesxoj5)]] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
 - Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz. Not recommended for the price
 - Bass Extension (-3dB): 62hz
 - Bass Extension (-10dB): 38hz
@@ -591,7 +591,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Sonus Faber Sonetto II G2 Website](https://www.sonusfaber.com/en/products/sonetto-ii)
 
-### #38 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Klipsch+RP-600M+II&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+RP-600M+II)]: $550
+### #38 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+RP-600M+II)]: $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
 - Dimensions: 15.7"H x 8"W x 12.5"D
@@ -611,7 +611,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M II Website](https://www.klipsch.com/products/rp-600m-ii-bookshelf-speakers)
 
-### #39 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Klipsch+RP-600M&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+RP-600M)]: $330
+### #39 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+RP-600M)]: $330
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Dimensions: 15.7"H x 8"W x 11.9"D
 - Weight: 16lbs / 7.3kg each
@@ -629,14 +629,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
 
-### #40 [Cerwin Vega LA165](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Cerwin+Vega+LA165&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Cerwin+Vega+LA165)]: $270
+### #40 [Cerwin Vega LA165](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl)]] [[Used Listings](https://www.hifizero.com/index.php?q=Cerwin+Vega+LA165)]: $270
 - Negatives: Some ringing around 1khz. 3dB at 100hz Boosted punchy upper bass, 2dB dipped midrange, 2dB Dipped from 1.5-3khz
 - Reviews and Comparisons
     - [Erin's Audio Corner: Are These $270 Speakers Worth It or a Total Letdown?](https://www.youtube.com/watch?v=5LLEbOTBoCk)
 - Links
     - [Official Cerwin Vega LA165 Website](https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165)
 
-### #41 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+9.1)]: Discontinued
+### #41 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+9.1)]: Discontinued
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
@@ -649,7 +649,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
 
-### #42 Chesky LC1 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Chesky+LC1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Chesky+LC1)]: $1000
+### #42 Chesky LC1] [[Used Listings](https://www.hifizero.com/index.php?q=Chesky+LC1)]: $1000
 - Negatives: Not recommended. Frequency response is just bad, way too low sensitivity
 - Sensitivity: 81.4dB
 - Reviews and Comparisons
@@ -657,7 +657,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Chesky LC1 Website](https://www.cheskyaudio.com/products/lc1)
 
-### #43 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)] [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Fosi+Audio+SP601&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400
+### #43 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)]] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
 - Tweeter: 1.5" silk dome tweeter
 - Woofer: 7" rubber surround PP cone
@@ -667,7 +667,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Fosi Audio SP601 Website](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)
 
-### #44 Yamaha NS-10 [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Yamaha+NS-10%0A&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Yamaha+NS-10)]
+### #44 Yamaha NS-10] [[Used Listings](https://www.hifizero.com/index.php?q=Yamaha+NS-10)]
 - Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
 - Bass Extension (-3dB): 126hz
 - Bass Extension (-10dB): 75hz
