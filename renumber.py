@@ -36,7 +36,8 @@ except:
 
 current_datetime = datetime.now()
 date = current_datetime.strftime("%m/%d/%Y")
-regex = re.compile(' [0-9][0-9]* ')
+regex = re.compile(r' [0-9][0-9]* ')
+ebayregex = re.compile(r' \[\[Ebay\]\([^\)]*\)')
 dateregex = re.compile(r'\b(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])/(\d{2}|\d{4})\b')
 for file in os.listdir():
     newfile = []
@@ -77,11 +78,13 @@ for file in os.listdir():
                         #print(retailer)
                         if url and not '[[' + retailer + ']' in line:
                             line = line.replace(')', ') [[' + retailer + '](' + url + ')]', count=1)
-                        if not '[[Ebay]' in line:
-                            if ': ' in line:
-                                line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
-                            else:
-                                line = line.replace('\n', ' [[Ebay](' + ebay_url(name) + ')]\n')
+                        if '[[Ebay]' in line:
+                            line = re.sub(ebayregex, '', line, count=1)
+                        #if not '[[Ebay]' in line:
+                        #    if ': ' in line:
+                        #        line = line.replace(': ', ' [[Ebay](' + ebay_url(name) + ')]: ')
+                        #    else:
+                        #        line = line.replace('\n', ' [[Ebay](' + ebay_url(name) + ')]\n')
                         if file.startswith('passive-') or file.startswith('powered-'):
                             if not '[[Used Listings](' in line:
                                 if ': ' in line:
