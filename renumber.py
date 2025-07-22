@@ -37,7 +37,7 @@ except:
 current_datetime = datetime.now()
 date = current_datetime.strftime("%m/%d/%Y")
 regex = re.compile(r' [0-9][0-9]* ')
-ebayregex = re.compile(r' \[\[Ebay\]\([^\)]*\)')
+ebayregex = re.compile(r' \[\[Ebay\]\([^\)]*\)\]')
 dateregex = re.compile(r'\b(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])/(\d{2}|\d{4})\b')
 for file in os.listdir():
     newfile = []
