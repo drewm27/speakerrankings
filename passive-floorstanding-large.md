@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 24 large size floorstanding speakers. Last updated on 07/22/2025. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 24 large size floorstanding speakers. Last updated on 07/24/2025. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -49,7 +49,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Blade Two Meta Website](https://us.kef.com/products/blade-two)
 
-### #3 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1) [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F208)]: Discontinued, $2400 used
+### #3 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F208)]: Discontinued, $2400 used
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
 - Weight: 80lbs / 36kg each
@@ -139,7 +139,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
 
-### #8 [Revel F206](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1) [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F206)]: Discontinued, $2000 used
+### #8 [Revel F206](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F206)]: Discontinued, $2000 used
 - Positives: Really amazing value for the performance
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
@@ -268,7 +268,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Audio Reserve R700 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r700/300035.html)
 
-### #16 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+Reference+253)]: $400 used
+### #16 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+Reference+253)]: $400 used
 - Positives: Really amazing value for the performance
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
@@ -305,7 +305,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk Reserve R500 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r500/300033.html)
 
-### #18 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1) [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Chora+816)]: $900 used
+### #18 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Chora+816)]: $900 used
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
 - Dimensions: 40.7"H x 11.8"W x 15.3"D
 - Weight: 40.8lbs / 18.5kg each
