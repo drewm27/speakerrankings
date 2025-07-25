@@ -6,6 +6,12 @@ comments: true
 
 This page ranks 47 online speaker reviewers and how much I trust their judgement in being unbiased in their choices and the quality of their audio recording equipment and recordings. I've dug deeply into their content to detect sponsored and paid advertisements. As you can see from my comments, there's a lot of paid sponsored biased reviewers on the bottom. 
 
+A real unbiased reviewer will actually review products pointing out what they like and don't like. They will also come across products that they completely dislike and they should point out all the reasons why. 
+
+The best reviewers have objective measurements including frequency response graphs pointing out why a product is good or bad.
+
+The worst reviewers are generally paid $1-5k by the manufacturer for a glowing review. The easiest way to detect them is they promote and like every single product they review.
+
 I only use and link videos that either have useful well recorded sound samples or accurate comparisons of speakers against each other.
 
 ### #1 [GR-Research](https://www.youtube.com/@GRResearch)
