@@ -223,6 +223,10 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Bass Extension (-3dB): 60hz
 - Bass Extension (-10dB): 38hz
+- Tweeter: 1" Soft Dome
+- Midrange: 2" Dome
+- Woofer: 6.5" Kevlar
+- Woofer Enclosure: Rear Ported
 - Reviews and Comparisons
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links:
