@@ -20,7 +20,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Vertical off-axis is just okay due to the distance between the midrange and tweeter 
 - Bass Extension (-3dB): 23hz
 - Bass Extension (-10dB): <20hz
-- Dimensions: 25.4"H x 13"W x 17.5"D
+- Dimensions: 19"H x 10.5"W x 15"D
 - Weight: 57lbs / 26kg each
 - Watts: 1000w Per Speaker
 - Tweeter: 1" Aluminium / Magnesium dome
