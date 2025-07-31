@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/ubooml.jpg"
 ---
 
-This page summarizes the best portable Bluetooth speakers with built in microphone for phone calls of the 357 ranked on this website. Last updated on 07/30/2025. The suggestions in this section are biased towards value speakers with  a built in microphone and good sound quality. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with built in microphone for phone calls of the 357 ranked on this website. Last updated on 07/31/2025. The suggestions in this section are biased towards value speakers with  a built in microphone and good sound quality. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See this for [Speakers with Wireless Handheld Microphones](/top-recommended-wireless-microphone/) or [Speakers with Microphone Input](/top-recommended-microphone-input/)
 
