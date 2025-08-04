@@ -7,6 +7,7 @@ comments: true
 This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
 1. Turtlebox Ranger
+1. Emotiva XB2(https://www.youtube.com/watch?v=HohLJHia1z0)
 1. Boombox 4
 1. [Radiant Acoustics Clarity 6.2](https://www.youtube.com/watch?v=wV52ek8lUWc)
 1. Stormbox Mini+
