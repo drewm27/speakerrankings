@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 45 large size bookshelf speakers. Last updated on 08/04/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 46 large size bookshelf speakers. Last updated on 08/06/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 If you don't plan to put these on a desk or bookshelf, I'd highly recommend looking at [Passive Floorstanding Speakers](/passive-floorstanding-large/) instead. These will have deeper bass and generally be a better all around speaker, although at a higher price.
 
@@ -698,3 +698,14 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: Yamaha NS-10M: The Iconic Studio Monitor That Shaped Modern Music](https://www.youtube.com/watch?v=0pYKuBdhmdc)
     - [Erin's Audio Corner Website Yamaha NS-10](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns10m_studio/)
 
+### #46 [Zu Audio Method](https://www.zuaudio.com/loudspeakers/p/mb1) [[Zuaudio](https://www.zuaudio.com/loudspeakers/p/mb1)] [[Used Listings](https://www.hifizero.com/index.php?q=Zu+Audio+Method)]: $700
+- Negatives: Horrible frequency response. 4dB peak at 1.3khz, 4dB dip at 1.7Khz, 4dB peaks at 3.5Khz and 4.3Khz. Huge 19dB dip at 6.8Khz. Significant ringing in the midrange and lower treble region. Very edgy sounding in the upper mids and lower treble. This is representative of a lot of Zu Audio speakers which I've also seen measured. A lot of frequency response issues.
+- Sensitivity: 91dB
+- Impedance: 8 ohms
+- Bass Extension (-3dB): 92hz
+- Bass Extension (-10dB): 56hz
+- Tweeter: Eminence ASD-1001
+- Woofer: 8” coax HE (Eminence/Zu)
+- Woofer Cabinet: Front Ported
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Zu Audio Method Bookshelf Speaker Review](https://www.youtube.com/watch?v=INhqKX1QacQ)
