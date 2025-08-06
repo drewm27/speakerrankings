@@ -699,7 +699,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Yamaha NS-10](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns10m_studio/)
 
 ### #46 [Zu Audio Method](https://www.zuaudio.com/loudspeakers/p/mb1) [[Zuaudio](https://www.zuaudio.com/loudspeakers/p/mb1)] [[Used Listings](https://www.hifizero.com/index.php?q=Zu+Audio+Method)]: $700
-- Negatives: Horrible frequency response. 4dB peak at 1.3khz, 4dB dip at 1.7Khz, 4dB peaks at 3.5Khz and 4.3Khz. Huge 19dB dip at 6.8Khz. Significant ringing in the midrange and lower treble region. Very edgy sounding in the upper mids and lower treble. This is representative of a lot of Zu Audio speakers which I've also seen measured. A lot of frequency response issues.
+- Negatives: Horrible frequency response. 4dB peak at 1.3khz, 4dB dip at 1.7Khz, 4dB peaks at 3.5Khz and 4.3Khz. Huge 19dB dip at 6.8Khz. Significant ringing in the midrange and lower treble region. Very edgy sounding in the upper mids and lower treble. This is representative of a lot of Zu Audio speakers which I've also seen measured. A lot of frequency response issues. Erin stated it's one of the worst speakers he has ever tested.
 - Sensitivity: 91dB
 - Impedance: 8 ohms
 - Bass Extension (-3dB): 92hz
