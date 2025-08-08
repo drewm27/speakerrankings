@@ -6,6 +6,8 @@ comments: true
 
 This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
+1. [Marshall Middleton II](https://www.patreon.com/posts/marshall-ii-135972260)
+1. [Bose Soundlink Plus](https://www.patreon.com/posts/bose-soundlink-135685324)
 1. Turtlebox Ranger
 1. Emotiva XB2(https://www.youtube.com/watch?v=HohLJHia1z0)
 1. Boombox 4
