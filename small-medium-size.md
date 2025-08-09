@@ -1467,10 +1467,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Bass Extension: ~66hz (-10dB)
 - Wifi: No
-- Stereo: 
 - IP Rating: IPX7
 - TWS: Yes
-- Stereo: Yes
+- Stereo: No (front/rear drivers)
 - Built in Microphone: Yes
 - Comparisons and Sound Samples
     - [EnforcerMan: JBL CHARGE 3 VS TREBLAB HD77 - FULL REVIEW](https://www.youtube.com/watch?v=6N6q3qppV58)
@@ -1521,7 +1520,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Stereo: Yes
+- Stereo: No (front/rear drivers)
 - Comparisons and Sound Samples
     - <https://www.patreon.com/posts/tribit-stormbox-109758019>
     - [Alan Ross Reviews: Tribit Stormbox 2 - wow is this deliberate? 🤔](https://www.youtube.com/watch?v=req2-T3W2xo)
