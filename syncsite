@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+
+rm -rf _site/
+jekyll b
+rsync -vtr _site/ root@129.146.129.121:/var/www/speakerranking/
