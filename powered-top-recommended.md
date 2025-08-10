@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/klasik2020.jpg"
 ---
 
-This page summarizes the best powered bookshelf speakers out of the 52 that have been ranked on this website. Last updated on 08/09/2025. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
+This page summarizes the best powered bookshelf speakers out of the 52 that have been ranked on this website. Last updated on 08/10/2025. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
 
 For more detailed information and specs about these speakers see the full rankings of all of them at [All Powered Speakers Ranked](/#all-powered-bookshelf-speakers-ranked)
 
