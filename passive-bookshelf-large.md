@@ -185,7 +185,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #10 [Radiant Acoustics Clarity 6.2](https://radiantacoustics.com/products/clarity-6-2) [[Radiantacoustics](https://radiantacoustics.com/products/clarity-6-2)] [[Used Listings](https://www.hifizero.com/index.php?q=Radiant+Acoustics+Clarity+6.2)]: $4500
 - Positives: Very low distortion
-- Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees.. Impedance drops pretty low.
+- Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees.. Impedance drops pretty low. Vertical and horizontal off axis are just okay
 - Dimensions: 14.3"H x 8.7"W x 10.5"D
 - Weight: 23.8lbs / 10.8kg each
 - Sensitivity: 84dB
