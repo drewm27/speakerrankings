@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/kh80.jpg"
 ---
 
-This page ranks 24 medium size powered bookshelf speakers. Last updated on 08/10/2025. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 24 medium size powered bookshelf speakers. Last updated on 08/13/2025. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top and consider adding a subwoofer.
 
@@ -99,9 +99,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 4.5"
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
 - Comparisons and Sound Samples
+    - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
     - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
 - Links
+    - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/kali_lp_unf/)
     - [Official Product Page](https://www.kaliaudio.com/lp-unf)
 
 ### #6 [Focal Alpha 50 EVO](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Focal-Professional-Alpha-Studio-Monitors/dp/B098B1F41N?crid=1RNAFCJ8BKIWY&dib=eyJ2IjoiMSJ9.EDR3NQJ1RjWVzdL6ifkKDCBf0zpFzv6TKGZNPys0U1HlBRgbOHoHPoJ2gOMqkoDxj1a4dUsted_enU4xiA2if__i20him-QAjZMf0rXlXMvGGIXsERkVNOiGBHeaK-IBxNyG2NzMmvkPKOIEM9VW0x1L34EUIXdR11f5q0KegomEs4kSHz_d08fqoTfWMxF57SegcAvjs6hDiSQB_6o_VBQoJL_QhxT05gbo7m8ynpg.4IIfjKVwMojHrURdnCNWFsT1eK7imlPbBm1oK1B9wIA&dib_tag=se&keywords=focal+alpha+50+evo&qid=1717655017&sprefix=focal+alpha+50+ev%2Caps%2C194&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=88a5322a3f3e86e898e2a9acf79d9386&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Alpha+50+EVO)]: $600 a pair
