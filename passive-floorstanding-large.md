@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 24 large size floorstanding speakers. Last updated on 08/13/2025. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 25 large size floorstanding speakers. Last updated on 08/13/2025. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -369,7 +369,18 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
 
-### #24 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Used Listings](https://www.hifizero.com/index.php?q=Magnepan+LRS%2B)]: $1300
+### #24 [Klipsch Forge IV](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html) [[Crutchfield](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+Forge+IV)]: $5500
+- Negatives: 4dB peak at 6khz, 3dB dip at 7khz, 3dB peak at 8.5khz. Very peaky up top. Bass rolls off quite quick due to the high sensitivity. Not recommended
+- Sensitivity: 94dB
+- Bass Extension (-3dB): 82hz
+- Bass Extension (-10dB): 39hz
+- Reviews and Comparisons
+    - [Erin's Audio Corner: $5000 Klipsch Forte IV Review    A Klipsch speaker I could *maybe* live with.](https://www.youtube.com/watch?v=IZPc1tl1aPs)
+    - [Erin's Audio Review Website Klipsch Forge IV](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv/)
+- Links
+    - [Official Klipsch Forge IV Website](https://www.klipsch.com/uk/products/forte-iv-floorstanding-speaker)
+
+### #25 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Used Listings](https://www.hifizero.com/index.php?q=Magnepan+LRS%2B)]: $1300
 - Negatives: An open baffle speaker which creates a huge soundstage. Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz
