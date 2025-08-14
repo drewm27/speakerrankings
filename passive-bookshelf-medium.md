@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---
 
-This page ranks 19 medium size bookshelf speakers. Last updated on 08/13/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 21 medium size bookshelf speakers. Last updated on 08/13/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -247,3 +247,15 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Totem Kin One](https://www.erinsaudiocorner.com/loudspeakers/totem_kin_one/)
 - Links
     - [Official Totem Kin One Website](https://totemacoustic.com/product/totem-kin-one/)
+
+### #20 JBL Stage A120 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A120)]
+- Negatives: Quite a V curve frequency response which isn't great. 
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
+    - [Erin's Audio Corner Website JBL Stage A120](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a120/)
+
+### #21 JBL Stage A130 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
+- Negatives: A lot of midrange resonance, otherwise quite a V-curve frequency response which isn't great.
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
+    - [Erin's Audio Corner Website JBL Stage A130](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a130/)
