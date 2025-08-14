@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---
 
-This page ranks 18 medium size bookshelf speakers. Last updated on 08/13/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 19 medium size bookshelf speakers. Last updated on 08/13/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
@@ -173,7 +173,23 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews and Comparisons
     - [Audio Science Review ELAC BS U5](https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/)
 
-### #15 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q150)]: $350
+### #15 [Neumi Silk 4](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumi+Silk+4)]: $200
+- Negatives: A small resonance around 650hz, not very loud or dynamic due to the low sensitivity. 3dB bump around 1khz
+- Dimensions: 8.9"H x 5.5"W x 8.2"D
+- Weight: 6.1lbs / 2.8kg each
+- Sensitivity: 82.5dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 83hz
+- Bass Extension (-10dB): 55hz
+- Tweeter: 1” silk dome, dispersion-optimized waveguide, neodymium magnet
+- Woofer: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Neumi Silk 4 Review. The Supreme Budget Bookshelf Speaker?](https://www.youtube.com/watch?v=VIhu26oRbHI)
+    - [Erin's Audio Corner Website Neumi Silk 4](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/)
+- Links
+    - [Official Neumi Silk 4 Website](https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/)
+
+### #16 [KEF Q150](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q150-Bookshelf-Speakers-Black/dp/B071P6KQZX?crid=16K4GE099DKP3&dib=eyJ2IjoiMSJ9.x_0nIpAIi0qjjf3U1kNaKIe3WXHbMYU5wjXK5Azn2Q-RN1IDaBbYpAMAACI0FROuZSKFrren_mIC_jvNM5E5_zBN1pbLinMehcFhh31BQS-vZ-fEGwjurFArwzuGeD77zjq1sN0iIxIFnmfZQdx4QlTWLCsK0t46Yk-76A8IVCipv4_9RzTQpsQkPZQ3Q3vdwU5a_Ix-MYTvzvgyw2iAP48BhK9_Ah9u18aOQLLfP6U.HvLB3ruE9mUHU3H1nwYlmR5jDsQq0ezwZYSEYyQN-XE&dib_tag=se&keywords=kef%2Bq150&qid=1749141305&sprefix=kef%2Bq150%2Caps%2C222&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=eb18990358d00cdf56dddfbe6408dab5&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q150)]: $350
 - Positives: Fantastic off axis due to the coaxial design.
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Dimensions: 11.9"H x 7.1"W x 10.9"D
@@ -193,23 +209,19 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Q150 Website](https://us.kef.com/products/q150-bookshelf-speaker)
 
-### #16 [Neumi Silk 4](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumi+Silk+4)]: $200
-- Negatives: A small resonance around 650hz, not very loud or dynamic due to the low sensitivity. 3dB bump around 1khz
-- Dimensions: 8.9"H x 5.5"W x 8.2"D
-- Weight: 6.1lbs / 2.8kg each
-- Sensitivity: 82.5dB
-- Impedance: 6 ohms
-- Bass Extension (-3dB): 83hz
-- Bass Extension (-10dB): 55hz
-- Tweeter: 1” silk dome, dispersion-optimized waveguide, neodymium magnet
-- Woofer: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole
+### #17 [Emotiva B1+](https://emotiva.com/products/airmotiv-b1-pair) [[Emotiva](https://emotiva.com/products/airmotiv-b1-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Emotiva+B1%2B)]: $250
+- Negatives: Resonance and peak from 1-2khz. A little bright up top. Not great vertically off-axis
+- Bass Extension (-3dB): 70hz
+- Bass Extension (-10dB): 49hz
+- Tweeter: 25×32 mm Airmotiv folded ribbon tweeter
+- Woofer: 5-1/4” woven fiber cone with SBR surround
 - Reviews and Comparisons
-    - [Erin's Audio Corner: Neumi Silk 4 Review. The Supreme Budget Bookshelf Speaker?](https://www.youtube.com/watch?v=VIhu26oRbHI)
-    - [Erin's Audio Corner Website Neumi Silk 4](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/)
+    - [Erin's Audio Corner: What are the other reviewers hearing with the $250 @EmotivaAudioCorp B1+?](https://www.youtube.com/watch?v=YmKpCb3d7Vk)
+    - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
 - Links
-    - [Official Neumi Silk 4 Website](https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/)
+    - [Official Emotiva B1+ Website](https://emotiva.com/products/airmotiv-b1-pair)
 
-### #17 [Sony SS-CS5 M2](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Sony+SS-CS5+M2)]: $250
+### #18 [Sony SS-CS5 M2](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Sony+SS-CS5+M2)]: $250
 - Negatives: Mellow treble, forward upper midrange
 - Dimensions: 13.9"H x 7"W x 8.7"D
 - Weight: 9.9lbs / 4.5kg each
@@ -225,7 +237,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ony SS-CS5 M2 Website](https://electronics.sony.com/audio/speakers/home-theater-speakers/p/sscs5)
 
-### #18 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Totem+Kin+One)]: $600
+### #19 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Totem+Kin+One)]: $600
 - Positives: A lot of color choices
 - Negatives: 4dB peak at 900hz, 3dB peak at 5.7khz. Bad resonance around 1.5khz. Bass response isn't great. Vertical off axis isn't great
 - Bass Extension (-3dB): 91hz
