@@ -249,7 +249,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official Totem Kin One Website](https://totemacoustic.com/product/totem-kin-one/)
 
 ### #20 JBL Stage A120 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A120)]
-- Negatives: Quite a V curve frequency response which isn't great. 
+- Negatives: A good amount of resonance in the midrange. Quite a V curve frequency response which isn't great. 
 - Reviews and Comparisons
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
     - [Erin's Audio Corner Website JBL Stage A120](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a120/)
