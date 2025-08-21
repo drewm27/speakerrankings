@@ -26,21 +26,21 @@ I only use and link videos that either have useful well recorded sound samples o
     - [Oluv's Gadgets Website](https://oluvsgadgets.blogspot.com/)
     - [oluvsgadgets on Reddit](https://www.reddit.com/user/oluvsgadgets/)
 
-### #3 [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview)
+### #3 [JOY‘s 🎧3D🔈Audio-Show](https://www.youtube.com/@JOYaudioshow)
+- Very good recording quality. Useful enough sound samples against other speakers to properly judge speakers. No discussion about which speaker is the best, but the sound samples speak for themselves. This is Oluv's wife.
+
+### #4 [alanrossreviews](https://www.youtube.com/@alanrossreviews)
+### #5 [DSAUDIOreview](https://www.youtube.com/@DSAUDIOreview)
 - My favorite reviewer of non battery bookshelf speakers. Excellent recording quality using a pretty high end recording setup for all of these speakers. The YouTube comments also provide great analysis of the speaker's qualities.
 
-### #4 [Erin's Audio Corner](https://www.youtube.com/@ErinsAudioCorner)
+### #6 [Erin's Audio Corner](https://www.youtube.com/@ErinsAudioCorner)
 - No sound samples, but a very detailed analysis of many speakers using the Klippel Near-field Scanne including frequency response, off-axis response and harmonic distortion which may get pretty technical for a lot of people. His Youtube videos and conclusion summary are a lot more layman and are more useful for people.
 - Links
     - [Erin's Audio Corner Website](https://www.erinsaudiocorner.com/)
 
-### #5 [Amir M](https://www.audiosciencereview.com/forum/index.php?pages/Reviews/)
+### #7 [Amir M](https://www.audiosciencereview.com/forum/index.php?pages/Reviews/)
 - A very detailed analysis of many speakers using the Klippel Near-field Scanner including frequency response, off-axis response and harmonic distortion which may get pretty technical for a lot of people. His reviews are only writeups and aren't really broken down for a less technical audience.
 
-### #6 [Audiophile housewife](https://www.youtube.com/@audiophilehousewife)
-- Very good recording quality. Useful enough sound samples against other speakers to properly judge speakers. No discussion about which speaker is the best, but the sound samples speak for themselves. This is Oluv's wife.
-
-### #7 [alanrossreviews](https://www.youtube.com/@alanrossreviews)
 - Good recording quality, lots of speaker comparisons, a pretty good ability to properly rank speakers. Very unbiased. He has some slight issues differentiating between boosted bass and deeper bass which is common among people who haven’t built up an extremely trained ear. He also prefers a slightly warm, not neutral sound and expresses that in many videos.
 - Links
     - [alan_ross_reviews on Reddit](https://www.reddit.com/user/alan_ross_reviews/)
