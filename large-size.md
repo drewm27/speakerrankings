@@ -166,11 +166,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Try [this EQ from Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) for the flattest response.
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - Battery Life: 24 hours
-- Weight: 6.13lbs / 2.78kg
+- Weight: 5.2lbs / 2.37kg
 - Aux Input: Yes
 - App: Yes
-- EQ: Yes
+- EQ: Yes (10 band)
 - TWS: Yes
+- Latency: 128ms AAC, 144ms SBC
 - Power Bank: Yes
 - Party Mode: No
 - Built in Microphone: Yes
