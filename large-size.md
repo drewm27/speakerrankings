@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/helsinki.jpg"
 ---
 
-This page ranks 73 large size powered Bluetooth speakers. Last updated on 08/21/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 73 large size powered Bluetooth speakers. Last updated on 08/22/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -180,6 +180,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
+    - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
