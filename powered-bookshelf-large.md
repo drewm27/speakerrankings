@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/klasik2020.jpg"
 ---
 
-This page ranks 20 large size powered bookshelf speakers. Last updated on 08/22/2025. The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 20 large size powered bookshelf speakers. Last updated on 08/25/2025. The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top.
 
@@ -149,7 +149,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/focal-alpha-65-evo-review-studio-monitor.28832/)
 
 ### #10 [Buchardt A10](https://buchardtaudio.com/products/anniversary-10) [[Buchardtaudio](https://buchardtaudio.com/products/anniversary-10)] [[Used Listings](https://www.hifizero.com/index.php?q=Buchardt+A10)]: $4300
-- Positives: 18 master EQs that it comes with. Insane bass extension, but not at high volumes where it limits the extension. Very small for the bass extension
+- Positives: Comes with 18 master EQs for all types of placement. Insane bass extension, but not at high volumes where it limits the extension. Very small for the bass extension
 - Negatives: Bass limiting and compression. Slightly bright above 2khz
 - Bass Extension (-3dB): 30hz
 - Bass Extension (-10dB): 21hz
