@@ -17,7 +17,7 @@ The loudest [medium size](/small-medium-size/) battery powered speaker is the [*
 
 ### The Loudest Large Size Speaker
 
-The loudest [large size](/large-size/) battery powered speaker is the [**$110 Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) running this [Oluv EQ](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=W6fLfJhp_tX3qukH)
+The loudest [large size](/large-size/) battery powered speaker is the [**$119 Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) running this [Oluv EQ](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=W6fLfJhp_tX3qukH)
 
 ### The Loudest Boombox Size Speaker
 
