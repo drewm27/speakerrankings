@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/helsinki.jpg"
 ---
 
-This page ranks 73 large size powered Bluetooth speakers. Last updated on 08/31/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 73 large size powered Bluetooth speakers. Last updated on 09/05/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -743,8 +743,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange which cannot be EQd out. Some upper mids and treble boost at high levels.
 - Weight: 4.63lbs / 2.1kg
 - Battery Life: 24 hours
+- Max Volume: 106db
 - Power Input: USB-C
 - Power Bank: Yes
+- Latency: 220ms
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
 - TWS: Yes
@@ -755,6 +757,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - basstest (bigger=better?)](https://www.youtube.com/watch?v=8Hs8dpPau-A)
+    - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
     - <https://www.patreon.com/posts/soundcore-boom-137341326>
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)

@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page summarizes the best sounding passive speakers out of the 93 ranked on this website. Last updated on 08/31/2025. The suggestions in this section are biased towards a neutral frequency response with good directivity and a lack of resonances. 
+This page summarizes the best sounding passive speakers out of the 93 ranked on this website. Last updated on 09/05/2025. The suggestions in this section are biased towards a neutral frequency response with good directivity and a lack of resonances. 
 
 Unless you need them to sit on a desktop, shelf or other high surface, I highly recommend getting floorstanding speakers. Also of note, a lot of bookshelf size speakers also come in a floorstanding version which should perform similarly but with deeper bass.
 

@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/iloudmicro.jpg"
 ---
 
-This page ranks 7 small size powered bookshelf speakers. Last updated on 08/31/2025. The Small Bookshelf class of speakers generally have woofers under 4". These speakers will fit pretty easily on a desk but you will be trading off bass extension for the small size. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 7 small size powered bookshelf speakers. Last updated on 09/05/2025. The Small Bookshelf class of speakers generally have woofers under 4". These speakers will fit pretty easily on a desk but you will be trading off bass extension for the small size. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top with an added subwoofer.
 

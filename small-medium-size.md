@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/ubooml.jpg"
 ---
 
-This page ranks 128 medium size powered Bluetooth speakers. Last updated on 08/31/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 128 medium size powered Bluetooth speakers. Last updated on 09/05/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -311,6 +311,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Still some boosted bass by default. Needs an EQ to sound its best.
 - Weight: 2.18lbs / 990g
 - Battery Life: 24 hours
+- Max Volume: 102db
 - Power Bank: Yes
 - App: Yes
 - EQ: Yes (7 band)
@@ -325,6 +326,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs SoundCore Boom 2 - David vs Goliath](https://www.youtube.com/watch?v=7U1oJROtNnU)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - basstest (bigger=better?)](https://www.youtube.com/watch?v=8Hs8dpPau-A)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
+    - [Alan Ross Reviews: JBL Charge 6 or the JBL Charge 5? don't go home till you watch this!](https://www.youtube.com/watch?v=HK8zRB_ZZnI)
+    - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
     - <https://www.patreon.com/posts/evening-with-137116931>
     - <https://www.patreon.com/posts/bose-soundlink-6-136014012>
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
@@ -337,6 +340,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: A very neutral speaker, very small, almost pocket size. Just slightly more treble than the Flip 6 which was already a great speaker. I believe this one is slightly better
 - Weight: 1.23lbs / 560g
 - Battery Life: 14 hours
+- Max Volume: 100db
 - Power Bank: No
 - App: Yes
 - EQ: Yes (7 band)
@@ -348,6 +352,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - IP Rating: IP68
 - Comparisons and Sound Samples
+    - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
+    - [Alan Ross Reviews: JBL Flip 7 is screech-fest heaven!  vs Flip 6!](https://www.youtube.com/watch?v=N2bfwmODxA0)
     - [Chrispy Things [EDC]: JBL Flip 7: My thoughts & sound test VS the Flip 6!](https://www.youtube.com/watch?v=BG7Mq_vc9pk)
     - [GYMCADDY: JBL Flip 7 Review - Is It Worth Upgrading Over The JBL Flip 6 Or Flip 5?](https://www.youtube.com/watch?v=CCSAw7q-n-A)
 
@@ -370,9 +376,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - IP Rating: IP67
 - Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=U3LHLpyD3ss>
-    - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
-    - <https://www.youtube.com/watch?v=y81IF75HKC0>
+    - [Alan Ross Reviews: JBL Flip 7 is screech-fest heaven!  vs Flip 6!](https://www.youtube.com/watch?v=N2bfwmODxA0)
     - [Alan Ross Reviews: Bose Soundlink Flex or JBL Flip 6 (eq adjusted) or Denon Envaya - best speaker for travel!](https://www.youtube.com/watch?v=4WYQ-liCcKk)
     - [Alan Ross Reviews: JBL Flip 6 vs Maxsound Plus and Soundcore Boost - ultimate travel speaker!](https://www.youtube.com/watch?v=iE3qoiDAn98)
     - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
@@ -656,6 +660,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Stereo: No
 - Comparisons and Sound Samples
+    - [Alan Ross Reviews: JBL Charge 6 or the JBL Charge 5? don't go home till you watch this!](https://www.youtube.com/watch?v=HK8zRB_ZZnI)
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
     - [GYMCADDY: JBL Charge 6 Review - Worth Upgrading Even If You Have The JBL Charge 5](https://www.youtube.com/watch?v=3H5af5Lie_o)
     - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
