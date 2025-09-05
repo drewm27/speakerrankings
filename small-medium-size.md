@@ -307,8 +307,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)]: $200
 
-- Positives: Seems more neutral than the Charge 5. Flatter frequency response through the mids and treble as the Charge 5 was quite rolled off up high. This is a preliminary ranking and can go up or down based on more sound samples.
-- Negatives: Still some boosted bass by default. Needs an EQ to sound its best.
+- Positives: Seems more neutral than the Charge 5. Flatter frequency response through the mids and treble as the Charge 5 was quite rolled off up high.
+- Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response. Needs an EQ to sound its best.
 - Weight: 2.18lbs / 990g
 - Battery Life: 24 hours
 - Max Volume: 102db
@@ -336,28 +336,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
 
-### #12 [JBL Flip 7](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl)]: $150
-- Positives: A very neutral speaker, very small, almost pocket size. Just slightly more treble than the Flip 6 which was already a great speaker. I believe this one is slightly better
-- Weight: 1.23lbs / 560g
-- Battery Life: 14 hours
-- Max Volume: 100db
-- Power Bank: No
-- App: Yes
-- EQ: Yes (7 band)
-- TWS: No
-- Stereo: No
-- Party Mode: Yes (Auracast)
-- Aux Input: No
-- USB Audio: Yes
-- Built in Microphone: No
-- IP Rating: IP68
-- Comparisons and Sound Samples
-    - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
-    - [Alan Ross Reviews: JBL Flip 7 is screech-fest heaven!  vs Flip 6!](https://www.youtube.com/watch?v=N2bfwmODxA0)
-    - [Chrispy Things [EDC]: JBL Flip 7: My thoughts & sound test VS the Flip 6!](https://www.youtube.com/watch?v=BG7Mq_vc9pk)
-    - [GYMCADDY: JBL Flip 7 Review - Is It Worth Upgrading Over The JBL Flip 6 Or Flip 5?](https://www.youtube.com/watch?v=CCSAw7q-n-A)
 
-### #13 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325)]: $90
+### #12 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325)]: $90
 
 - Positives: A very neutral speaker, very small, almost pocket size, a huge sound quality leap over the Flip 5.
 - Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
@@ -384,7 +364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
 
-### #14 Soundcore Boost “original model” pre-2021: $60
+### #13 Soundcore Boost “original model” pre-2021: $60
 
 - Positives: A great sounding neutral speaker.
 - Negatives: This old version has micro-usb charging. Only IPX5.
@@ -404,6 +384,28 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=sGYxOHqOYWQ>
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
+
+### #14 [JBL Flip 7](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl)]: $150
+- Positives: A very neutral speaker, very small, almost pocket size. Just slightly more treble than the Flip 6 which was already a great speaker. I believe this one is slightly worse than the Flip 6
+- Negatives: A little bit of a bump at 4khz
+- Weight: 1.23lbs / 560g
+- Battery Life: 14 hours
+- Max Volume: 100db
+- Power Bank: No
+- App: Yes
+- EQ: Yes (7 band)
+- TWS: No
+- Stereo: No
+- Party Mode: Yes (Auracast)
+- Aux Input: No
+- USB Audio: Yes
+- Built in Microphone: No
+- IP Rating: IP68
+- Comparisons and Sound Samples
+    - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
+    - [Alan Ross Reviews: JBL Flip 7 is screech-fest heaven!  vs Flip 6!](https://www.youtube.com/watch?v=N2bfwmODxA0)
+    - [Chrispy Things [EDC]: JBL Flip 7: My thoughts & sound test VS the Flip 6!](https://www.youtube.com/watch?v=BG7Mq_vc9pk)
+    - [GYMCADDY: JBL Flip 7 Review - Is It Worth Upgrading Over The JBL Flip 6 Or Flip 5?](https://www.youtube.com/watch?v=CCSAw7q-n-A)
 
 ### #15 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl)]: $36
 - Positives: Exactly the same as the Wisetiger P3 below. By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
