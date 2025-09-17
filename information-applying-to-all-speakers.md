@@ -8,7 +8,7 @@ This page covers information about all speakers in this guide including portable
 
 ### Compared to Home Audio
 
-None of the portable Bluetooth speakers will be as satisfying as high end home audio or bookshelf speakers which when properly selected and set up can present a 3d sound image with depth, height and pinpoint location accuracy along with a neutral response and extended treble and bass along with more midrange and treble clarity. Enjoy these portable speakers for what they are, a way to enjoy music in any room or any place you bring them. For the closest to ultra high end audio, check out the Vifa Helsinki or a TWS pair of Earfun Uboom L in that order.
+None of the portable Bluetooth speakers will be as satisfying as high end home audio or bookshelf speakers which when properly selected and set up can present a 3d sound image with depth, height and pinpoint location accuracy along with a neutral response and extended treble and bass along with more midrange and treble clarity. They also generally are waterproof which requires them to be made out of plastic rather than wood which also muddies the sound. Enjoy these portable speakers for what they are, a way to enjoy music in any room or any place you bring them. For the closest to ultra high end audio, check out the Vifa Helsinki or a Earfun Uboom X.
 
 Many of the Powered Bookshelf speakers will be very close to high end home audio and can present a 3d sound image with depth, height and pinpoint location accuracy.
 
