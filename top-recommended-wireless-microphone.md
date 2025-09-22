@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/jblencore.jpg"
 ---
 
-This page summarizes the best portable Bluetooth speakers with built in wireless microphones of the 360 ranked on this website. Last updated on 09/11/2025. The suggestions in this section are biased towards value speakers with built in wireless microphones and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with built in wireless microphones of the 360 ranked on this website. Last updated on 09/21/2025. The suggestions in this section are biased towards value speakers with built in wireless microphones and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 Also consider buying [Speakers with Microphone Inputs](/top-recommended-microphone-input/) and purchasing a [wireless microphone](https://www.amazon.com/s?k=wireless+microphones&crid=3ASGOLQJ4SF67&sprefix=wireless+microph%2Caps%2C283&linkCode=ll2&tag=rankingspea01-20&linkId=f42b9f973de28beceaf3e1bf4ddbc319&language=en_US&ref_=as_li_ss_tl)
 
