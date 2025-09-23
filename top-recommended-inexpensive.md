@@ -21,7 +21,7 @@ For cheaper there's the [**$36 Miatone Boompro**](https://www.amazon.com/MIATONE
 
 ### The Best Inexpensive Large Size Speaker
 
-The best inexpensive [large size](/large-size/) battery powered portable Bluetooth speaker is the [**$48 YZZL10 Zealot S97**](https://www.aliexpress.us/item/3256809025525364.html)(After coupon YZZL10)
+The best inexpensive [large size](/large-size/) battery powered portable Bluetooth speaker is the [**$48 YZZL10 Zealot S97**](https://www.aliexpress.us/item/3256809025525364.html) (After coupon YZZL10)
 
 ### The Best Inexpensive Boombox Size Speaker
 
