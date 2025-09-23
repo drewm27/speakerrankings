@@ -908,6 +908,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [Techder Audios: Zealot S97 - Soundtest "MINI BOOMBOX ALMOST PERFECT?!"](https://www.youtube.com/watch?v=4eyFZeBFwpg)
     - [Jay's Straight Up Reviews & More: Zealot S97 mid-size Boombox 📦 Unboxing, Review & Demo. 😵Will I Finally Like A Zealot Speaker?](https://www.youtube.com/watch?v=jaLS0I0jjVQ)
+- Links
+    - [Official Product Page](https://www.zealot-audio.com/productshow_1324.html)
 
 ### #44 Harman Kardon Onyx Studio 4: $100
 
