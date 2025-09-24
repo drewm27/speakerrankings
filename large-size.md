@@ -891,7 +891,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
-### #43 [Zealot S97](https://www.aliexpress.us/item/3256809025525364.html) [[Aliexpress](https://www.aliexpress.us/item/3256809025525364.html)]: $48 with coupon YZZL10
+### #43 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
 - Positives: There is nothing else for $48 with that deep of bass and a reasonable tuning
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
 - Weight: 7.36 / 3.3kg
@@ -1349,7 +1349,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
 
-### #74 [T&G 118](https://www.aliexpress.us/item/2255800259053891.html) [[Aliexpress](https://www.aliexpress.us/item/2255800259053891.html)]: $31
+### #74 [T&G 118](https://s.click.aliexpress.com/e/_c4ed9RU7) [[Aliexpress](https://s.click.aliexpress.com/e/_c4ed9RU7)]: $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
 - Weight: 2.42lbs / 1.1kg
 - Comparisons and Sound Samples
