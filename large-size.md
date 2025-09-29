@@ -771,7 +771,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://ro.harmanaudio.com/XTREME-4.html)
 
-### #36 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)]: $130
+### #36 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3xpFLqb)]: $130
 
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
 - Max Volume: 106db
@@ -891,7 +891,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
-### #43 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[S](https://s.click.aliexpress.com/e/_c3t2EHtH)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
+### #43 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
 - Positives: There is nothing else for $48 with that deep of bass and a reasonable tuning
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
 - Weight: 7.36 / 3.3kg
@@ -1336,7 +1336,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.dossaudio.com/products/extreme-boom)
 
-### #73 [Zealot S67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl)]: $80
+### #73 [Zealot S67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39WWwR1)]: $80
 - Negatives: A lot of distortion above 50%, no deep bass, rolled off treble. Just not a good sounding speaker.
 - Weight: 5.29lbs / 2.4kg
 - Battery Life: 20 hours
@@ -1349,7 +1349,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
 
-### #74 [T&G 118](https://s.click.aliexpress.com/e/_c4ed9RU7) [[S](https://s.click.aliexpress.com/e/_c4ed9RU7)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4ed9RU7)]: $31
+### #74 [T&G 118](https://s.click.aliexpress.com/e/_c4ed9RU7) [[Aliexpress](https://s.click.aliexpress.com/e/_c4ed9RU7)]: $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
 - Weight: 2.42lbs / 1.1kg
 - Comparisons and Sound Samples

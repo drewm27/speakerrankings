@@ -1005,7 +1005,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa3166011
 
-### #45 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325)]: $64
+### #45 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39V6kzd)]: $64
 
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
 - Battery Life: 24 hours
@@ -1884,7 +1884,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
 
-### #99 W-King D8 Mini: $60
+### #99 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
 
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Max Volume: 100db

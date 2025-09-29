@@ -611,7 +611,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
 
-### #23 [W-King X20/D20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $225
+### #23 [W-King X20/D20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L]: $225
 - Positives: D20 version comes with 2 wireless microphones
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - Max Volume: 112db
@@ -748,7 +748,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
 
-### #29 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325)]: $150
+### #29 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c2wKDoLt)]: $150
 
 - Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. Wall wart charger.
 - Max Volume: 112db
@@ -1204,7 +1204,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
 
-### #56 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)]: $143
+### #56 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $143
 
 - Negatives: Rolled off treble, not much bass.
 - Max Volume: 108db
@@ -1221,7 +1221,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
 
-### #57 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)]: $80
+### #57 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $80
 
 - Negatives: Heavily rolled off treble, less bass than the top ranked.
 - Max Volume: 106db
@@ -1368,7 +1368,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 
-### #67 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)]: $148
+### #67 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
 - Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
 - Weight: 9.7lbs / 4.4kg
 - Battery Life: 40 hours
