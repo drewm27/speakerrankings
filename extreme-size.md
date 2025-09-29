@@ -660,7 +660,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s10)
 
-### #28 W-King T9 Pro: $280
+### #28 [W-King T9 Pro](https://s.click.aliexpress.com/e/_c3zh0rJN) [[Aliexpress](https://s.click.aliexpress.com/e/_c3zh0rJN)]: $294
 
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - Battery Life: 12 hours
