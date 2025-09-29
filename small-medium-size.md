@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/ubooml.jpg"
 ---
 
-This page ranks 128 medium size powered Bluetooth speakers. Last updated on 09/23/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 128 medium size powered Bluetooth speakers. Last updated on 09/28/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -427,7 +427,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
 
-### #16 Wisetiger P3: $43
+### #16 [Wisetiger P3](https://s.click.aliexpress.com/e/_c3Auku4T) [[Aliexpress](https://s.click.aliexpress.com/e/_c3Auku4T)]: $38
 - Positives: Exactly the same as the Miatone Boompro above. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
 - Negatives: Slightly less bass extension than higher ranked speakers.
 - Weight: 1.1lbs / 500g
@@ -864,10 +864,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://ca.jbl.com/CHARGE-ESSENTIAL-2-.html)
 
-### #36 Huawei Sound Joy: $145
+### #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
 
 - Positives: Use Devialet and +6db EQ for best sound quality
-- Negatives: Boosted treble, not quite as deep of bass as a Charge 5
+- Negatives: Boosted treble, not quite as deep of bass as a Charge 5. Very expensive
 - Max Volume: 100db
 - Bass Extension: 56hz (-10dB)
 - Weight: 1.50lbs / 680g
@@ -2180,7 +2180,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Wogk7QEtKP4>
 
-### #126 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl)]: $20
+### #126 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress]](https://s.click.aliexpress.com/e/_c42agFcJ)]: $20
 - Negatives: Sounds like a soup can, no bass at all. Weird frequency response all over.
 - Weight: 1.47lbs / 665g
 - Battery Life: 40 hours

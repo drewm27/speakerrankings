@@ -62,7 +62,7 @@ for file in os.listdir():
                             #print(line)
                             name = line.split('[')[1].split(']')[0]
                             url = line.split('(')[1].split(')')[0]
-                            retailer = url.replace('/store.', '/').replace('/us.', '/').replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
+                            retailer = url.replace('/store.', '/').replace('/us.', '/').replace('/s.click.', '/').replace('/lu.', '/').replace('www.', '').split('/')[2].split('.')[0].capitalize()
                         else:
                             if ':' in line:
                                 name = line.split(' ', 2)[2].split(':')[0].split('[')[0].strip()

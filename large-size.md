@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/helsinki.jpg"
 ---
 
-This page ranks 74 large size powered Bluetooth speakers. Last updated on 09/23/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 74 large size powered Bluetooth speakers. Last updated on 09/28/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 See [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -891,7 +891,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
-### #43 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
+### #43 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[S](https://s.click.aliexpress.com/e/_c3t2EHtH)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
 - Positives: There is nothing else for $48 with that deep of bass and a reasonable tuning
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
 - Weight: 7.36 / 3.3kg
@@ -1349,7 +1349,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
 
-### #74 [T&G 118](https://s.click.aliexpress.com/e/_c4ed9RU7) [[Aliexpress](https://s.click.aliexpress.com/e/_c4ed9RU7)]: $31
+### #74 [T&G 118](https://s.click.aliexpress.com/e/_c4ed9RU7) [[S](https://s.click.aliexpress.com/e/_c4ed9RU7)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4ed9RU7)]: $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
 - Weight: 2.42lbs / 1.1kg
 - Comparisons and Sound Samples
