@@ -70,7 +70,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: Handle and wheels are convenient. Lightshow ability.
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Weight: 61lbs / 28kg
+- Weight: 68.3lbs / 31kg
 - Battery Life: 15 hours 
 - Aux Input: Yes
 - Power Bank: Yes
