@@ -4,7 +4,7 @@ title: Speaker Ranking
 cover-img: "/assets/img/uboomx.jpg"
 ---
 
-Speaker Ranking ranks a total of 507 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 10/15/2025. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
+Speaker Ranking ranks a total of 508 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 10/31/2025. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
 
 Unlike most other review websites pushing specific sponsored speakers, I don't hide away details. I give you the honest good and bad about every speaker and then leave the choice up to you. Every single speaker is detailed out. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. The rankings and content are not influenced by any manufacturer.
 
@@ -39,7 +39,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Large Size Portable Bluetooth Speakers](/large-size/): 74 speakers ranked
 - [Boombox Size Portable Bluetooth Speakers](/boombox-size/): 68 speakers ranked
 - [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
-- [Massive Party Size Portable Bluetooth Speakers](/insane-size/): 6 speakers ranked
+- [Massive Party Size Portable Bluetooth Speakers](/insane-size/): 7 speakers ranked
 
 ### All Powered Speakers Ranked
 
