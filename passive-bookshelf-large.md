@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 47 large size bookshelf speakers. Last updated on 10/31/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 47 large size bookshelf speakers. Last updated on 11/06/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 If you don't plan to put these on a desk or bookshelf, I'd highly recommend looking at [Passive Floorstanding Speakers](/passive-floorstanding-large/) instead. These will have deeper bass and generally be a better all around speaker, although at a higher price.
 
@@ -120,6 +120,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
     - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
+    - [GR-Research: Finally… a Speaker Danny Doesn’t Have to Fix?](https://www.youtube.com/watch?v=Xbi7jFJ6J_w)
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
