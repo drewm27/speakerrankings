@@ -3,6 +3,7 @@ layout: page
 title: Party Size Portable Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/partybox320.jpg"
+share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."
 ---
 
 This page ranks 48 party size powered Bluetooth speakers. Last updated on 11/17/2025. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
