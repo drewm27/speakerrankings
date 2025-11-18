@@ -2,7 +2,7 @@
 layout: home
 title: Speaker Ranking
 cover-img: "/assets/img/uboomx.jpg"
-share-description: "Discover the best portable Bluetooth speakers ranked across sound quality, bass, loudness & budget. Browse expert-recommended picks for every use case."
+share-description: "Find top-rated portable Bluetooth speakers sorted by sound quality, affordability, bass, and more. Unbiased expert rankings and audio insights."
 
 ---
 
