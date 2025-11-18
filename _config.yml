@@ -146,7 +146,7 @@ share-links-powered:
 title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 30
+excerpt_length: 25
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
