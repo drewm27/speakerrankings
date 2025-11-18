@@ -25,7 +25,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [The Best Portable Bluetooth Speakers With Aux Input](/top-recommended-auxinput/)
 - [The Best Portable Bluetooth Speakers With Wifi](/top-recommended-wifi/)
 - [The Best Portable Bluetooth Speakers With Party Mode](/top-recommended-party-mode/)
-- [The Best Portable Bluetooth Speakers With Built In Microphone For Calls](/top-recommended-microphone/)
+- [The Best Portable Bluetooth Speakers With Microphone For Calls](/top-recommended-microphone/)
 - [The Best Portable Bluetooth Speakers With Microphone Input](/top-recommended-microphone-input/)
 - [The Best Portable Bluetooth Speakers With Wireless Microphones](/top-recommended-wireless-microphone/)
 - [The Best Portable Bluetooth Speakers With SD Card Slot](/top-recommended-sdcard/)
