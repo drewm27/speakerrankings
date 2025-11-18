@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Floorstanding and Bookshelf Speakers
+title: Best Floorstanding and Bookshelf Speakers of 2025
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
 share-description: "Explore our top‑recommended passive (non‑powered) speakers. Expertly ranked for sound quality, versatility & value, ideal for home audio setups with external amplification."

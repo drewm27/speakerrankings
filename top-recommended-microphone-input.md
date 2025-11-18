@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Bluetooth Speakers with Microphone Input
+title: Best Bluetooth Speakers with Microphone Input of 2025
 comments: true
 cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best portable Bluetooth speakers with mic input. Expert-ranked picks offering strong sound, karaoke-ready performance & excellent value for wired microphones."

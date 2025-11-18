@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top Recommended Speakers From Other Top Reviewers
+title: Top Recommended Speakers From Other Top Reviewers of 2025
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
 ---

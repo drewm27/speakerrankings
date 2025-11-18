@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Powered Floorstanding and Bookshelf Speakers
+title: Best Powered Floorstanding and Bookshelf Speakers of 2025
 comments: true
 cover-img: "/assets/img/klasik2020.jpg"
 share-description: "Discover the top‑recommended powered (self‑amplified) speakers. Expertly ranked for plug‑and‑play convenience, sound quality & value without needing an external amp."
