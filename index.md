@@ -18,30 +18,30 @@ Feel free to share this anywhere people could find it useful, thanks!
 
 ### Top Recommended Speakers By Features
 
-- [The Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
-- [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
-- [The Best Portable Bluetooth Speakers For Bass](/top-recommended-bass/)
-- [The Loudest Portable Bluetooth Speakers](/top-recommended-loudest/)
-- [The Best Portable Bluetooth Speakers With Aux Input](/top-recommended-auxinput/)
-- [The Best Portable Bluetooth Speakers With Wifi](/top-recommended-wifi/)
-- [The Best Portable Bluetooth Speakers With Party Mode](/top-recommended-party-mode/)
-- [The Best Portable Bluetooth Speakers With Microphone For Calls](/top-recommended-microphone/)
-- [The Best Portable Bluetooth Speakers With Microphone Input](/top-recommended-microphone-input/)
-- [The Best Portable Bluetooth Speakers With Wireless Microphones](/top-recommended-wireless-microphone/)
-- [The Best Portable Bluetooth Speakers With SD Card Slot](/top-recommended-sdcard/)
-- [The Best Portable Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
-- [The Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
-- [The Best Powered Floorstanding and Bookshelf Speakers](/powered-top-recommended/)
-- [The Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
+- [Best Bluetooth Speakers For Sound Quality](/top-recommended/)
+- [Best Inexpensive Bluetooth Speakers](/top-recommended-inexpensive/)
+- [Best Bluetooth Speakers For Bass](/top-recommended-bass/)
+- [Loudest Bluetooth Speakers](/top-recommended-loudest/)
+- [Best Bluetooth Speakers With Aux Input](/top-recommended-auxinput/)
+- [Best Bluetooth Speakers With Wifi](/top-recommended-wifi/)
+- [Best Bluetooth Speakers With Party Mode](/top-recommended-party-mode/)
+- [Best Bluetooth Speakers With Microphone For Calls](/top-recommended-microphone/)
+- [Best Bluetooth Speakers With Microphone Input](/top-recommended-microphone-input/)
+- [Best Bluetooth Speakers With Wireless Microphones](/top-recommended-wireless-microphone/)
+- [Best Bluetooth Speakers With SD Card Slot](/top-recommended-sdcard/)
+- [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
+- [Loudest Portable Speakers For Parties Over 50 People](/portable-party-speakers/)
+- [Best Powered Floorstanding and Bookshelf Speakers](/powered-top-recommended/)
+- [Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 
-### All Portable Bluetooth Speakers Ranked
+### All Bluetooth Speakers Ranked
 
-- [Small Pocket Size Portable Bluetooth Speakers](/pocket-size/): 38 speakers ranked
-- [Medium Size Portable Bluetooth Speakers](/small-medium-size/): 128 speakers ranked
-- [Large Size Portable Bluetooth Speakers](/large-size/): 74 speakers ranked
-- [Boombox Size Portable Bluetooth Speakers](/boombox-size/): 68 speakers ranked
-- [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
-- [Massive Party Size Portable Bluetooth Speakers](/insane-size/): 7 speakers ranked
+- [Small Pocket Size Bluetooth Speakers](/pocket-size/): 38 speakers ranked
+- [Medium Size Bluetooth Speakers](/small-medium-size/): 128 speakers ranked
+- [Large Size Bluetooth Speakers](/large-size/): 74 speakers ranked
+- [Boombox Size Bluetooth Speakers](/boombox-size/): 68 speakers ranked
+- [Party Size Bluetooth Speakers](/extreme-size/): 48 speakers ranked
+- [Massive Party Size Bluetooth Speakers](/insane-size/): 7 speakers ranked
 
 ### All Powered Speakers Ranked
 

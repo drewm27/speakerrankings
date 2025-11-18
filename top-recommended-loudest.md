@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Loudest Portable Bluetooth Speakers
+title: Loudest Bluetooth Speakers
 comments: true
 cover-img: "/assets/img/k12.2.jpg"
 share-description: "Browse our top-recommended Bluetooth speakers with the loudest output. Expert-ranked for volume, clarity & value to make your music heard."

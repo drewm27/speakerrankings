@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Bluetooth TWS IEM Headphones
+title: Best Bluetooth TWS IEM Headphones
 comments: true
 cover-img: "/assets/img/freepro2.jpg"
 ---

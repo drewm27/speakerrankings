@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Best Portable Bluetooth Speakers with Microphone For Calls
+title: Best Bluetooth Speakers with Microphone For Calls
 comments: true
 cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore top-recommended Bluetooth speakers with built-in microphones. Expert-ranked picks for clear calls, hands-free voice control & excellent sound quality."
