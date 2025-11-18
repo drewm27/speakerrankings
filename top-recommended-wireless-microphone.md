@@ -3,6 +3,7 @@ layout: page
 title: The Best Portable Bluetooth Speakers With Wireless Microphones
 comments: true
 cover-img: "/assets/img/jblencore.jpg"
+share-description: "Discover the top recommended Bluetooth speakers with wireless microphone support. Expert‑ranked for karaoke performance, battery life & mic quality."
 ---
 
 This page summarizes the best portable Bluetooth speakers with built in wireless microphones of the 363 ranked on this website. Last updated on 11/17/2025. The suggestions in this section are biased towards value speakers with built in wireless microphones and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
