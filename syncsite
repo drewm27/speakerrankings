@@ -4,4 +4,4 @@ set -e
 
 rm -rf _site/
 jekyll b
-rsync -vtr --delete _site/ root@129.146.129.121:/var/www/speakerranking/
+rsync -vtr --delete _site/ root@www.speakerranking.com:/var/www/speakerranking/

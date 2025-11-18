@@ -2,6 +2,8 @@
 layout: home
 title: Speaker Ranking
 cover-img: "/assets/img/uboomx.jpg"
+share-description: "Discover the best portable Bluetooth speakers ranked across sound quality, bass, loudness & budget. Browse expert-recommended picks for every use case."
+
 ---
 
 Speaker Ranking ranks a total of 508 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 11/17/2025. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
