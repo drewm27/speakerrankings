@@ -3,7 +3,7 @@ layout: page
 title: Best Floorstanding and Bookshelf Speakers in 2025
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
-share-description: "Explore our top‑recommended passive (non‑powered) speakers. Expertly ranked for sound quality, versatility & value, ideal for home audio setups with external amplification."
+share-description: "Explore the top-recommended passive speakers. Expert-ranked picks that require a separate amp, offering flexibility, upgrade potential & high-fidelity sound."
 ---
 
 This page summarizes the best sounding passive speakers out of the 93 ranked on this website. Last updated on 11/18/2025. The suggestions in this section are biased towards a neutral frequency response with good directivity and a lack of resonances. 

@@ -3,6 +3,7 @@ layout: page
 title: Tribit StormBox Micro 2 Review
 comments: true
 cover-img: "/assets/img/stormboxmicro2.jpg"
+share-description: "Portable, rugged & powerful: the Tribit StormBox Micro 2 packs 12 hours of playtime, IP67 waterproofing, a strap for on-the-go use, and Bluetooth 5.3 range."
 ---
 
 The [Tribit StormBox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325&th=1) is an upgraded version of the popular StormBox Micro, delivering enhanced sound, longer battery life, and new features in a compact, budget-friendly package priced at around $60. This portable Bluetooth speaker is designed for outdoor enthusiasts and casual listeners alike, offering impressive value. Here’s a breakdown of its performance and features.
