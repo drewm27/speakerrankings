@@ -2,6 +2,7 @@
 layout: page
 title: Speakers to be Added
 comments: true
+share-description: "See what speakers are queued to be added. Suggest new models you’d like us to review and help expand our SpeakerRanking database."
 ---
 
 This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
