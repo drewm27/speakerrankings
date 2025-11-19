@@ -17,5 +17,5 @@ For any speaker without a dedicated microphone input that has an aux in, I highl
 
 See [this page](/top-recommended-microphone/) for speakers which have direct microphone inputs or include wireless microphones.
 
-For more professional setups with PA speakers and a mixer, see [The Best Portable Speakers for parties over 50 people](/portable-party-speakers/)
+For more professional setups with PA speakers and a mixer, see the [Best Portable Speakers for parties over 50 people](/portable-party-speakers/)
 
