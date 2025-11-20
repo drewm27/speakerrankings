@@ -330,6 +330,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [Alan Ross Reviews: JBL Charge 6 or the JBL Charge 5? don't go home till you watch this!](https://www.youtube.com/watch?v=HK8zRB_ZZnI)
     - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
+    - <https://www.patreon.com/posts/marshall-ii-with-136883522>
     - <https://www.patreon.com/posts/evening-with-137116931>
     - <https://www.patreon.com/posts/bose-soundlink-6-136014012>
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
