@@ -71,6 +71,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/earfun-uboom-x-3-105693987>
     - <https://www.patreon.com/posts/earfun-uboom-x-2-105645365>
     - <https://www.patreon.com/posts/earfun-uboom-x-1-104380759>
+    - <https://www.patreon.com/posts/marshall-ii-135972260>
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
