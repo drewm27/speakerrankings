@@ -630,7 +630,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #28 [Marshall Middleton II](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=se&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=se&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl)]: $330
 - Positives: Very deep bass for the size/weight.
 - Negatives: Bass boosted. Dip around 200hz, peak at 1khz, dipped at 1.6khz. Strange frequency response through the mids.
-- Bass Extension: 39hz (-10dB)
+- Bass Extension: 38hz (-10dB)
 - Weight: 3.9lbs / 1.8kg
 - Battery Life: 30 hours
 - Aux Input: Yes
