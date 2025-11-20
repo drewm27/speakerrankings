@@ -2,7 +2,7 @@
 layout: page
 title: Best Bluetooth Speakers with Microphone Input in 2025
 comments: true
-cover-img: "/assets/img/bogasingg4.jpg"
+cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best microphone-input speakers — expert-reviewed picks for crystal-clear sound, recording, streaming & more with built-in input options."
 ---
 
