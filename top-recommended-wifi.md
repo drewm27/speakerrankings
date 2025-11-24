@@ -33,20 +33,6 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
     - [Official Product Page](https://www.jbl.com/wifi-speakers/CHARGE-5-WIFI.html)
 
 ### The Best Large Size Bluetooth Speaker with Wifi
-- Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
-- Weight: 8.5lbs / 3.86kg
-- Max Volume: 101db
-- Wifi: Yes
-- TWS: Yes
-- Party Mode: Yes (Mozart 2.0)
-- USB Audio: Yes
-- IP Rating: IP65
-- Stereo: No
-- Power Input: USB-C
-- Comparisons and Sound Samples
-    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
-- Links
-    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
 
 #### The best [large size](/large-size/) battery powered speaker with Wifi is the [**$1200 B&O Beosound A5**](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25?_encoding=UTF8&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=99c4924215474b4d9e1c2c475ea3f067&language=en_US&ref_=as_li_ss_tl) or for something more reasonably priced get a [**$300 Audio Pro C5 MK II**](https://www.amazon.com/dp/B09NM4HRDK?ie=UTF8&pd_rd_plhdr=t&aref=AM8iipR7bb&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0ad7b077f12716904689a270d3643515&language=en_US&ref_=as_li_ss_tl)
 
