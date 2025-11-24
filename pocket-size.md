@@ -783,4 +783,3 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Official Product Page](https://www.noxgear.com/39g)
 
 As an Amazon Associate I earn from qualifying purchases.
-As an Amazon Associate I earn from qualifying purchases.
