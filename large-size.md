@@ -938,7 +938,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #45 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
 - Positives: There is nothing else for $48 with that deep of bass and a reasonable tuning
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
-- Weight: 7.36 / 3.3kg
+- Weight: 7.36lbs / 3.3kg
 - Battery Life: 12 hours
 - Power 
 - EQ: 3 EQ presets
