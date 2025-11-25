@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Bluetooth Speakers With Wireless Microphones in 2025
+title: Best Bluetooth Speakers With Wireless Microphones in Nov 2025
 comments: true
 cover-img: "/assets/img/jblencore.jpg"
 share-description: "Discover the top recommended Bluetooth speakers with wireless microphone support. Expert‑ranked for karaoke performance, battery life & mic quality."
