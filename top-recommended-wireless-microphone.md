@@ -14,7 +14,7 @@ See this for [Speakers with Built In Microphone For Calls](/top-recommended-micr
 
 ### The Best Speakers With Wireless Microphones
 
-The best [boombox size](/boombox-size/) battery powered Bluetooth speaker with built in wireless microphones is the $230 [JBL Partybox Encore 2](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)
+#### The best [boombox size](/boombox-size/) battery powered Bluetooth speaker with built in wireless microphones is the $230 [JBL Partybox Encore 2](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)
 
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 1 wireless microphone. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass. Not available in the US, see the below speaker for the US non-microphone version.
@@ -44,7 +44,7 @@ The best [boombox size](/boombox-size/) battery powered Bluetooth speaker with b
 - Links
     - [Official Product Page](https://uk.jbl.com/PARTYBOX-ENCORE-2.html)
 
-For extremely low budgets get the [large size](/large-size/) $40 after clipped coupons [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)
+#### For extremely low budgets get the [large size](/large-size/) $40 after clipped coupons [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Completely insane value for the money. Comes with 2 metal body wireless microphones that are USB-C chargeable. Comes with Chinese labeled infrared remote control. Has voice delete function that works quite well. Adjustable microphone reverb. Pretty good build quality. The default EQ is the most balanced, the other two sound muffled.
 - Negatives: Very V curve frequency response, can be harsh in the treble range. Treble is boosted a good +10dB. Midbass is recessed. Slight distortion issue at all volume levels due to the bass high pass filter being set too low
