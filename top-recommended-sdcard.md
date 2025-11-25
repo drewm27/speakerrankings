@@ -55,7 +55,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ### The Best Large Size Speaker With A SD Card Slot
 
-The best reasonably priced [large size](/large-size/) battery powered speaker with a SD card slot is the [**$130 W-King T9**](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)
+#### The best reasonably priced [large size](/large-size/) battery powered speaker with a SD card slot is the [**$130 W-King T9**](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)
 
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
 - Max Volume: 106db
