@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the top massive party size Bluetooth speakers. Massive, AC‑powered giants designed for deep bass, huge sound, and epic party performance."
 ---
 
-This page ranks 7 massive party size powered Bluetooth speakers. Last updated on 11/24/2025. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
+This page ranks 8 massive party size powered Bluetooth speakers. Last updated on 11/24/2025. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
 See the [Best Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -165,7 +165,29 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-105575000)
 
-### #7 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325)]: $900
+### #7 [Sony ULT Tower 10](https://www.amazon.com/Sony-Tower-Bluetooth-Karaoke-Speaker/dp/B0DHTYSL66?crid=19Q6E6KJHV4MO&dib=eyJ2IjoiMSJ9.Ze8kFI3TGP_MmBZSAXFZB-1dyTyw2jWh_KUGnrsi6wVz1bqBVjjP8LnCfBfJK4aNUZ_ptqKq_RL7sM3CVmsGw0EyI0WbQLa9E35nV_GVBeerxOBn2_133rKykZwwwd9oACniiehrNV0_KeqSSWrK7FIknaKEOJXyYkCf-lYfC64xn41rb6tTAjS0zMvS8lEI7B4RhV3YLtWX0sAeSM0P86qwbdjEXjCTl5xGoqADo9JWEIiVqC-MZD337n5Zl0glTQzMHgZAajXiekQFQoa-CFn8HwHZoT_tQGEykT5wqeo.W6BMzJRvmJYus68t0fGDof0iFJmKEl8JVufyWxoPLls&dib_tag=se&keywords=sony+ult+tower&qid=1764049923&s=electronics&sprefix=sony+u%2Celectronics%2C648&sr=1-5&linkCode=ll1&tag=rankingspea01-20&linkId=d98a72cad722b91404503a18eb375e21&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Tower-Bluetooth-Karaoke-Speaker/dp/B0DHTYSL66?crid=19Q6E6KJHV4MO&dib=eyJ2IjoiMSJ9.Ze8kFI3TGP_MmBZSAXFZB-1dyTyw2jWh_KUGnrsi6wVz1bqBVjjP8LnCfBfJK4aNUZ_ptqKq_RL7sM3CVmsGw0EyI0WbQLa9E35nV_GVBeerxOBn2_133rKykZwwwd9oACniiehrNV0_KeqSSWrK7FIknaKEOJXyYkCf-lYfC64xn41rb6tTAjS0zMvS8lEI7B4RhV3YLtWX0sAeSM0P86qwbdjEXjCTl5xGoqADo9JWEIiVqC-MZD337n5Zl0glTQzMHgZAajXiekQFQoa-CFn8HwHZoT_tQGEykT5wqeo.W6BMzJRvmJYus68t0fGDof0iFJmKEl8JVufyWxoPLls&dib_tag=se&keywords=sony+ult+tower&qid=1764049923&s=electronics&sprefix=sony+u%2Celectronics%2C648&sr=1-5&linkCode=ll1&tag=rankingspea01-20&linkId=d98a72cad722b91404503a18eb375e21&language=en_US&ref_=as_li_ss_tl)]: $929
+- Positives: Louder than the Partybox Ultimate
+- Negatives: Not as deep of bass and loses more bass at high volume even compared to the lower end Partybox speakers. Bass drops off a lot at higher volumes.
+- Weight: 64lbs / 29kg
+- Battery Life: No Battery
+- Aux Input: Yes
+- Power Bank: Yes
+- Microphone Input: Yes
+- Guitar Input: Yes
+- TWS: Yes
+- Party Mode: Yes (Auracast up to 100 speakers)
+- EQ: Yes (7 band)
+- App: Yes
+- Wireless Microphone: Yes Included
+- USB Playback: Yes
+- Power Input: AC Power cord
+- Comparisons and Sound Samples
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
+- Links
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult1000)
+
+
+### #8 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325)]: $900
 
 - Positives: Can get slightly louder than a Partybox 310. Handle and wheels are convenient.
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page
