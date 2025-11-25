@@ -96,7 +96,6 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
 - Weight: 7.36lbs / 3.3kg
 - Battery Life: 12 hours
-- Power
 - EQ: 3 EQ presets
 - App: No
 - Aux Input: Yes
