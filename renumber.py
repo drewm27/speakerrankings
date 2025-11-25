@@ -39,6 +39,7 @@ date = current_datetime.strftime("%m/%d/%Y")
 regex = re.compile(r' [0-9][0-9]* ')
 #ebayregex = re.compile(r' \[\[Ebay\]\([^\)]*\)\]')
 dateregex = re.compile(r'\b(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])/(\d{2}|\d{4})\b')
+titleregex = re.compile(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) 20[0-9][0-9]')
 for file in os.listdir():
     newfile = []
     number = 0
@@ -46,6 +47,9 @@ for file in os.listdir():
         with open(file) as f:
             lines = f.readlines()
             for line in lines:
+                if line.startswith('title:'):
+                    dateStr = datetime.now().strftime("%b %Y")
+                    line = re.sub(titleregex, dateStr, line, count=1)
                 if line.startswith('### #'):
                     number += 1
                     splitline = line.split(' ')
