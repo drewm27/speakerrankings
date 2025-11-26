@@ -82,7 +82,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Moondrop M4P MTM Website](https://moondroplab.com/en/products/m4p-mtm)
 
-### #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1961+Monitor)]: $$1150 a pair
+### #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1961+Monitor)]: $1150 a pair
 - Positives: A high pass is built in to keep distortions down at higher volume. Directivity is pretty good.
 - Negatives: A 3dB peak and lift from 3k to 10k, lightly sounding bright. Minor resonances around 3k and 5k. Won't play very low due to the high pass at the bottom and the sealed enclosure
 - Dimensions: 16.6"H x 6.4"W x 5.9"D
