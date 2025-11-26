@@ -110,10 +110,6 @@ For more detailed information and specs about these speakers see the full rankin
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/)
 
-### Bluetooth Receivers
-
-Note if you require Bluetooth there's a lot of [Bluetooth receivers on Amazon](https://www.amazon.com/s?k=bluetooth+receiver&tag=rankingspea01-20). I'd recommend one with aptX or LDAC if possible. For the highest end one with a nice Dac and [aptX Lossless](https://www.trustedreviews.com/explainer/which-phones-support-aptx-lossless-4534146) support, check out the [iFi Zen Blue 3](https://www.amazon.com/iFi-Zen-Blue-Bluetooth-Transmitter/dp/B0D8851W2X?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2XGE4CX5AV74X&gQT=1&linkCode=ll1&tag=rankingspea01-20&linkId=4418e45bbc1af1daf80ca757fd656b0d&language=en_US&ref_=as_li_ss_tl) 
-
 ### The Best Bluetooth Powered Bookshelf Speakers
 
 #### If you really require Bluetooth to be built in and don't have any size constraints, check out the [large size](/powered-bookshelf-large/) [**$450 Edifier R2850DB**](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27,aps,291&sr=8-1&ufe=app_do:amzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl). 
@@ -167,5 +163,9 @@ Note if you require Bluetooth there's a lot of [Bluetooth receivers on Amazon](h
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)
+
+### Bluetooth Receivers
+
+Note if you require Bluetooth there's a lot of [Bluetooth receivers on Amazon](https://www.amazon.com/s?k=bluetooth+receiver&tag=rankingspea01-20). I'd recommend one with aptX or LDAC if possible. For the highest end one with a nice Dac and [aptX Lossless](https://www.trustedreviews.com/explainer/which-phones-support-aptx-lossless-4534146) support, check out the [iFi Zen Blue 3](https://www.amazon.com/iFi-Zen-Blue-Bluetooth-Transmitter/dp/B0D8851W2X?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2XGE4CX5AV74X&gQT=1&linkCode=ll1&tag=rankingspea01-20&linkId=4418e45bbc1af1daf80ca757fd656b0d&language=en_US&ref_=as_li_ss_tl) 
 
 As an Amazon Associate I earn from qualifying purchases.
