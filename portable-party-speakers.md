@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Loudest Possible Portable Speakers
+title: Loudest Possible Portable Speakers Nov 2025
 comments: true
 cover-img: "/assets/img/k12.2.jpg"
 share-description: "Explore the ultimate portable party speakers. Expertly ranked for booming volume, rich bass & battery life so you can pump up any gathering anywhere."
