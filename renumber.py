@@ -48,7 +48,7 @@ for file in os.listdir():
             lines = f.readlines()
             for line in lines:
                 if line.startswith('title:'):
-                    dateStr = datetime.now().strftime("%Y")
+                    dateStr = datetime.now().strftime(" %Y")
                     line = re.sub(titleregex, dateStr, line, count=1)
                 if line.startswith('### #'):
                     number += 1
