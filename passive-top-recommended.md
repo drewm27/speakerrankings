@@ -16,30 +16,187 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 
 ### The Best Passive Floorstanding Speakers For Sound Quality
 
-The best [large size passive floorstanding](/passive-floorstanding-large/) speakers with the best sound quality are the [**$28000 KEF Blade Two Meta**](https://us.kef.com/products/blade-two)
+#### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers with the best sound quality are the [**$28000 KEF Blade Two Meta**](https://us.kef.com/products/blade-two)
 
-The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $10000 with the best sound quality are the [**$11000 Revel F228Be**](https://sovrn.co/l2szjt3)
+- Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
+- Negatives: 2dB dip at 200hz, slight resonance.
+- Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Weight: 80lbs / 36kg each
+- Sensitivity: 87dB
+- Impedance: 4 ohms
+- Bass Extension (-3dB): 31hz
+- Bass Extension (-10dB): 26hz
+- Tweeter: 25 mm (1 in.)  aluminium dome with MAT
+- Midrange: 125 mm (5 in.) aluminium cone
+- Woofer: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling
+- Woofer Cabinet: Rear ported
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Mind-Blowing Sound Quality: KEF Blade 2 Meta Review](https://www.youtube.com/watch?v=lh8D7LhlVoQ)
+    - [Erin's Audio Review Website KEF Blade Two Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_blade2_meta/)
+    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
+- Links
+    - [Official KEF Blade Two Meta Website](https://us.kef.com/products/blade-two)
 
-The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $5000 with the best sound quality are the [**$5500 Mofi Sourcepoint 888**](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)
+#### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $10000 with the best sound quality are the [**$11000 Revel F228Be**](https://sovrn.co/l2szjt3)
 
-The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$900 Revel Concerta2 F35**](https://sovrn.co/cxvgcxy)
+- Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
+- Negatives: Vertical off axis isn't quite as good as others
+- Dimensions: 50.9"H x 13.5"W x 17.6"D
+- Weight: 112.6lbs / 51kg each
+- Sensitivity: 89.5dB
+- Impedance: 8 ohms
+- Bass Extension (-3dB): 61hz
+- Bass Extension (-10dB): 25hz
+- Tweeter: 1" (25mm) Beryllium dome, with acoustic lens waveguide
+- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
+- Woofer: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames
+- Woofer Cabinet: Front ported
+- Reviews and Comparisons
+    - [Audio Science Review Revel F228Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f228be-review-speaker.23659/)
+- Links
+    - [Official Revel F228Be Website](https://www.revelspeakers.com/products/types/floorstanding/F228BE-.html)
 
-The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $500 with the best sound quality are the [**$500 Polk T50**](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)
+#### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $5000 with the best sound quality are the [**$5500 Mofi Sourcepoint 888**](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)
+
+- Positives: Great off axis. Great bass extension
+- Negatives: Some dipped area reaching 3dB from 3khz to 7khz
+- Dimensions: 41.2"H x 12.6"W x 16.1"D
+- Weight: 96.2lbs / 43kg each
+- Sensitivity: 85.5dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 34hz
+- Bass Extension (-10dB): 26hz
+- Tweeter: 1.25" wide roll soft dome tweeter
+- Midrange: 8” Paper Cone
+- Woofer: Dual 8" paper cone woofers
+- Woofer Cabinet: Rear ported
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Why the MoFi SourcePoint 888 Could Be Your Last Speaker Purchase](https://www.youtube.com/watch?v=9bv5Mt5X__k)
+    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
+- Links
+    - [Official Mofi Sourcepoint 888 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-888-floorstanding-speakers-pair)
+
+#### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$900 Revel Concerta2 F35**](https://sovrn.co/cxvgcxy)
+
+- Positives: Really amazing value for the performance
+- Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
+- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Weight: 41lbs / 18.6kg each
+- Sensitivity: 90dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 70hz
+- Bass Extension (-10dB): 50hz 
+- Tweeter: 1" Aluminum Tweeter
+- Woofer: 3x 5.25" deep anodized aluminum cone woofers
+- Woofer Cabinet: Rear ported
+- Reviews and Comparisons
+    - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
+    - [Erin's Audio Corner: Revel F35 Review: Great Sound, Lower Price!](https://www.youtube.com/watch?v=hr-Qu1etIng)
+- Links
+    - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
+
+#### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $500 with the best sound quality are the [**$500 Polk T50**](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: Pretty deep bass for the price
+- Negatives: 5dB peak at 1khz, 4dB bright top end from 11khz on up. Just okay vertical off axis
+- Impedance: 4 ohm
+- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 38hz
+- Reviews and Comparisons 
+    - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
+- Links
+    - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
 For a lot more suggestions see [large size passive floorstanding speakers](/passive-floorstanding-large/)
 
 
 ### The Best Passive Bookshelf Speakers For Sound Quality
 
-The best [large size passive bookshelf](/passive-floorstanding-large/) speakers with the best sound quality are the [**$3630 GR-Research NX-Studio**](https://gr-research.com/product/nx-studio-pair/)
+#### The best [large size passive bookshelf](/passive-floorstanding-large/) speakers with the best sound quality are the [**$3630 GR-Research NX-Studio**](https://gr-research.com/product/nx-studio-pair/)
 
-The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$1145 AsciLab C6B**](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
+- Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
+- Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
+- Dimensions: 24"H x 10"W x 14"D
+- Weight: 20.6lbs / 9.3kg each
+- Sensitivity: 87dB
+- Impedance: 8 ohms
+- Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
+- Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
+- Woofer Cabinet: Sealed
+- Reviews and Comparisons
+    - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
+- Links
+    - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
 
-The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $500 with the best sound quality are the [**$500 Elac DBR63**](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)
+#### The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $1000 with the best sound quality are the [**$1145 AsciLab C6B**](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
 
-The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $300 with the best sound quality are the [**$330 ELAC Debut 2.0 B6.2**](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac+DB62&qid=1749576253&sprefix=db62,aps,294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl)
+- Positives: Extremely good directivity and frequency response, and just an insane value for the price. 
+- Dimensions: 15.7"H x 8"W x 10.4"D
+- Weight: 18.5lbs / 8.4kg each 
+- Sensitivity: 85dB
+- Impedance: 4 ohm
+- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 35hz
+- Tweeter: 1" Aluminium Ceramic Dome
+- Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
+- Reviews and Comparisons
+    - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+- Links
+    - [Official AsciLab C6B Website](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
 
-The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $250 with the best sound quality are the [**$250 Polk Monitor XT20**](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk+xt20&qid=1749100169&sprefix=polk+,aps,205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl)
+#### The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $500 with the best sound quality are the [**$500 Elac DBR63**](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: A class leader at the $500 price point
+- Negatives: 3dB dip at 500hz, 3dB peak at 700hz. Not great in the vertical off-axis
+- Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Weight: 17.3lbs / 7.8kg each
+- Sensitivity: 86dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 76hz
+- Bass Extension (-10dB): 40hz
+- Tweeter: 1" soft dome tweeter
+- Woofer: 6.5" Aramid Fiber
+- Woofer Cabinet: Rear Ported
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
+    - [Erin's Audio Corner Website Elac DBR63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
+- Links
+    - [Official Elac DBR63 Website](https://elac.com/dbr63)
+
+#### The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $300 with the best sound quality are the [**$330 ELAC Debut 2.0 B6.2**](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac+DB62&qid=1749576253&sprefix=db62,aps,294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: Reasonably flat response
+- Negatives: A good size resonant peak around 700hz, directivity error around 3.3khz
+- Sensitivity: 86.5dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 64hz
+- Bass Extension (-10dB): 40hz
+- Reviews and Comparisons
+    - [Audio Science Review ELAC Debut 2.0 B6.2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/)
+- Links:
+    - [Official ELAC Debut 2.0 B6.2 Website](https://elac.com/db62)
+
+#### The best [large size passive bookshelf](/passive-floorstanding-large/) speakers around $250 with the best sound quality are the [**$250 Polk Monitor XT20**](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk+xt20&qid=1749100169&sprefix=polk+,aps,205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: A great value for the price, nothing else under $300 will compete
+- Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
+- Dimensions: 13"H x 7.5"W x 11"D
+- Weight: 12lbs / 5.4kg each 
+- Sensitivity: 87dB 
+- Impedance: 8 ohms
+- Bass Extension (-3dB): 75hz
+- Bass Extension (-10dB): 50hz
+- Tweeter: 1" Terylene dome tweeter
+- Woofer: 6.5" bilaminate paper cone
+- Woofer Cabinet: Ported
+- Reviews and Comparisons
+    - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)
+    - [Erin's Audio Corner Website Polk Monitor XT20](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/)
+    - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
+    - [Erin's Audio Corner: Budget Stereo Systems You Will Love](https://www.youtube.com/watch?v=6GcFznDiJQU)
+- Links
+    - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
 For a lot more suggestions see [large size passive bookshelf speakers](/passive-bookshelf-large/) and [medium size passive bookshelf speakers](/passive-bookshelf-medium/)
 
