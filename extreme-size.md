@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Party Size Bluetooth Speakers
+title: Party Size Bluetooth Speakers 2025
 comments: true
 cover-img: "/assets/img/partybox320.jpg"
 share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."

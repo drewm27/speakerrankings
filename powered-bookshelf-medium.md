@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medium Size Powered Bookshelf Speakers
+title: Medium Size Powered Bookshelf Speakers 2025
 comments: true
 cover-img: "/assets/img/kh80.jpg"
 ---
