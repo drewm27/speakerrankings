@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SummarizeReviews.com: Revolutionizing the Way We Research Products"
+title: Revolutionizing the Way We Research Products
 comments: true
 ---
 
