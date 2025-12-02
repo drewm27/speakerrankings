@@ -34,14 +34,14 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 - [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 
-### All Bluetooth Speakers Ranked
+### All Portable Bluetooth Speakers Ranked
 
-- [Small Pocket Size Bluetooth Speakers](/pocket-size/): 38 speakers ranked
-- [Medium Size Bluetooth Speakers](/small-medium-size/): 128 speakers ranked
-- [Large Size Bluetooth Speakers](/large-size/): 75 speakers ranked
-- [Boombox Size Bluetooth Speakers](/boombox-size/): 69 speakers ranked
-- [Party Size Bluetooth Speakers](/extreme-size/): 48 speakers ranked
-- [Massive Party Size Bluetooth Speakers](/insane-size/): 9 speakers ranked
+- [Small Size Portable Bluetooth Speakers](/pocket-size/): 38 speakers ranked
+- [Medium Size Portable Bluetooth Speakers](/small-medium-size/): 128 speakers ranked
+- [Large Size Portable Bluetooth Speakers](/large-size/): 75 speakers ranked
+- [Boombox Size Portable Bluetooth Speakers](/boombox-size/): 69 speakers ranked
+- [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
+- [Huge Party Size Portable Bluetooth Speakers](/insane-size/): 9 speakers ranked
 
 ### All Powered Speakers Ranked
 
