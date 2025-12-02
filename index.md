@@ -41,7 +41,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Large Size Portable Bluetooth Speakers](/large-size/): 75 speakers ranked
 - [Boombox Size Portable Bluetooth Speakers](/boombox-size/): 69 speakers ranked
 - [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
-- [Huge Party Size Portable Bluetooth Speakers](/insane-size/): 9 speakers ranked
+- [Large Party Size Portable Bluetooth Speakers](/insane-size/): 9 speakers ranked
 
 ### All Powered Speakers Ranked
 
