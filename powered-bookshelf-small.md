@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Small Size Powered Bookshelf Speakers 2025
+title: Small Size Powered Bookshelf Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/iloudmicro.jpg"
 ---

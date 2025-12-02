@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Bookshelf Speakers 2025
+title: Large Size Bookshelf Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---

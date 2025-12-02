@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Floorstanding Speakers 2025
+title: Large Size Floorstanding Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---

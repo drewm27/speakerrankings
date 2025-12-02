@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Powered Floorstanding Speakers 2025
+title: Large Size Powered Floorstanding Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/kefls60.jpg"
 ---

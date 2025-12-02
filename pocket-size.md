@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Small Pocket Size Bluetooth Speakers 2025
+title: Small Pocket Size Bluetooth Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/stormboxmicro2.jpg"
 share-description: "Explore the top pocket‑size Bluetooth speakers. Compact, lightweight, and powerful picks expertly ranked for portability, sound quality & budget."

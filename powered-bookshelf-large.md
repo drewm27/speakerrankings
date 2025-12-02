@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Powered Bookshelf Speakers 2025
+title: Large Size Powered Bookshelf Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/klasik2020.jpg"
 ---
