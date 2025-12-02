@@ -29,10 +29,10 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Best Portable Bluetooth Speakers With Mic Input](/top-recommended-microphone-input/)
 - [Best Portable Bluetooth Speakers With Wireless Mic](/top-recommended-wireless-microphone/)
 - [Best Portable Bluetooth Speakers With SD Card Slot](/top-recommended-sdcard/)
-- [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
-- [Loudest Portable Party Speakers](/portable-party-speakers/)
+- [Loudest Portable Bluetooth Party Speakers](/portable-party-speakers/)
 - [Best Powered Floorstanding and Bookshelf Speakers](/powered-top-recommended/)
 - [Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
+- [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 
 ### All Bluetooth Speakers Ranked
 

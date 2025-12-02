@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Loudest Portable Party Speakers 2025
+title: Loudest Portable Bluetooth Party Speakers 2025
 comments: true
 cover-img: "/assets/img/k12.2.jpg"
 share-description: "Explore the ultimate portable party speakers. Expertly ranked for booming volume, rich bass & battery life so you can pump up any gathering anywhere."
