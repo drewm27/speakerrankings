@@ -7,7 +7,7 @@ cover-img: "/assets/img/partybox320.jpg"
 
 True Wireless Stereo (TWS) and party modes are popular features in Bluetooth speakers, enhancing audio experiences by enabling seamless stereo sound or multi-speaker connectivity. These technologies allow users to enjoy immersive soundscapes without the clutter of wires, making them ideal for home, outdoor, or party settings.
 
-All speakers in the rankings are [labeled with the technology they support](/#all-portable-bluetooth-speakers-ranked). Search using ctl-f for "TWS: Yes" or "Party Mode: Yes" or the specific technology name to find them.
+All speakers in the rankings are [labeled with the technology they support](/#all-bluetooth-speakers-ranked). Search using ctl-f for "TWS: Yes" or "Party Mode: Yes" or the specific technology name to find them.
 
 ### True Wireless Stereo (TWS)
 
