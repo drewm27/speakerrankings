@@ -123,6 +123,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Missing a little bit of upper bass. Not available in the US, see the below speaker for the US non-microphone version.
 - Battery Life: 15 hours
 - Weight: 14.11lbs / 6.4kg
+- Max Volume: 110db
 - Party Mode: Yes (Auracast)
 - TWS: Yes
 - Aux Input: Yes
@@ -153,6 +154,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
 - Battery Life: 15 hours
 - Weight: 14.11lbs / 6.4kg
+- Max Volume: 110db
 - Party Mode: Yes (Auracast)
 - TWS: Yes
 - Aux Input: Yes
@@ -178,7 +180,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 - Positives: A great sounding somewhat boosted bass party speaker. 2 included wireless microphones.
 - Negatives: Only 10 hours of battery at medium volume. Poor water rating.
-- Max Volume: 108db
+- Max Volume: 110db
 - Bass Extension: 38hz (-10dB)
 - Weight: 13lbs / 5.9kg
 - Battery Life: 10 hours
