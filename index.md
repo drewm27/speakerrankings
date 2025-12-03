@@ -16,7 +16,7 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 
 Feel free to share this anywhere people could find it useful, thanks!
 
-### Top Recommended Speakers By Attribute
+### Top Recommended Speakers By Preference
 
 - [Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
 - [Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
