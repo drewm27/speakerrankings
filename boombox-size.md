@@ -215,6 +215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Only 6 hours of battery at medium volume. Poor Water rating.
 - Bass Extension: 38hz (-10dB)
 - Weight: 13lbs / 5.9kg
+- Max Volume: 110db
 - Battery Life: 6 hours
 - Latency: 100ms
 - Aux Latency: 17ms
