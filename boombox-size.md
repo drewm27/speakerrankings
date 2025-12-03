@@ -137,6 +137,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Stereo: Partially (1 Woofer)
 - Comparisons and Sound Samples
+    - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)
     - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
     - [Mateusz Cholewa: JBL Partybox ENCORE 2👌FULL TEST🆚 JBL Partybox ENCORE 1](https://www.youtube.com/watch?v=NoKS37yrdzY)
