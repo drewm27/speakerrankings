@@ -133,6 +133,8 @@ with open('index.md') as f:
         if line.startswith('Speaker Ranking ranks a total of'):
             line = re.sub(regex, ' ' + str(count['total']) + ' ', line, count=1)
             line = re.sub(dateregex, date, line, count=1)
+        if line.startswith('share-description:'):
+            line = re.sub(regex, ' ' + str(count['total']) + ' ', line, count=1)
         if line.startswith('- '):
             url = line.split('(')[1].split('/')[1]
             filename = url + '.md'
