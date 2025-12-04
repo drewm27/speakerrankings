@@ -153,6 +153,8 @@ for filename in glob.glob(os.path.join('./', 'top-recommended*.md')):
             if line.startswith('This page summarizes'):
                 line = re.sub(regex, ' ' + str(count['portable']) + ' ', line, count=1)
                 line = re.sub(dateregex, date, line, count=1)
+            if line.startswith('share-description:'):
+                line = re.sub(regex, ' ' + str(count['portable']) + ' ', line, count=1)
             newfile.append(line)
     with open(filename, 'w') as f:
         f.write(''.join(newfile))
