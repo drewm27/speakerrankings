@@ -55,6 +55,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 367 rank
 - Weight: 1.21lbs / 550g
 - Battery Life: 30 hours
 - Max Volume: 106db
+- Bass Extension: 56hz (-10dB)
 - Stereo: No
 - Power Bank: Yes
 - Latency: 60ms

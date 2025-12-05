@@ -180,6 +180,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.21lbs / 550g
 - Battery Life: 30 hours
 - Max Volume: 106db
+- Bass Extension: 56hz (-10dB)
 - Stereo: No
 - Power Bank: Yes
 - Latency: 60ms
