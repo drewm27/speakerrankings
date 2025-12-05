@@ -54,6 +54,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 367 rank
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - Weight: 1.21lbs / 550g
 - Battery Life: 30 hours
+- Max Volume: 106db
 - Stereo: No
 - Power Bank: Yes
 - Latency: 60ms
@@ -66,6 +67,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 367 rank
 - Bluetooth Codecs: AAC, SBC
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
+    - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
