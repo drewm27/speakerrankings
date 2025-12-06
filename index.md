@@ -6,7 +6,7 @@ share-description: "Find 513 portable Bluetooth speakers sorted by sound quality
 
 ---
 
-Speaker Ranking ranks a total of 513 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 12/04/2025. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
+Speaker Ranking ranks a total of 513 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 12/06/2025. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
 
 Unlike most other review websites pushing specific sponsored speakers, I don't hide away details. I give you the honest good and bad about every speaker and then leave the choice up to you. Every single speaker is detailed out. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. The rankings and content are not influenced by any manufacturer.
 
@@ -65,7 +65,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 
 - [Information About the Rankings](/information-about-the-rankings/)
 - [Information Applying to All Speakers](/information-applying-to-all-speakers/)
-- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 47 reviewers ranked
+- [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 48 reviewers ranked
 - [Comments and Suggestions](/comments-suggestions/)
 - [Speakers to be Added](/speakers-to-be-added/)
 - [Issues I'm Working On](/issues-im-working-on/)
