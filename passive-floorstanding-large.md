@@ -49,6 +49,23 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official KEF Blade Two Meta Website](https://us.kef.com/products/blade-two)
 
+### #2 [MoFi SourcePoint V10 Master Edition](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair): $8000 a pair
+- Positives: One of the best value floorstanders
+- Dimensions: 48.8"H x 15.5"W x 19.9"D
+- Weight: 160lbs / 73kg
+- Sensitivity: 89dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 38hz
+- Bass Extension (-10dB): 25hz
+- Tweeter: 1.25" soft‑dome concentric
+- Midrange: 10" paper‑cone concentric
+- Woofer: 10"
+- Woofer Cabinet: Dual 10" passive rear passive radiators
+- Reviews and Comparisons
+    - <https://www.youtube.com/watch?v=0-2OWJ0RmX8>
+- Links
+    - [Official MoFi SourcePoint V10 Master Edition Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-v10-floodstanding-speakers-pair)
+
 ### #3 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F208)]: Discontinued, $2400 used
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
