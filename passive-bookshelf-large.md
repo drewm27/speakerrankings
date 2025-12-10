@@ -271,6 +271,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Dimensions: 31.8"H x 11.4"W x 17.6"D
 - Weight: 104lbs / 47kg each
 - Impedance: 4 ohms
+- Sensitivity: 84dB
 - Bass Extension (-3dB): 41hz
 - Bass Extension (-10dB): 26hz
 - Tweeter: 28mm
@@ -288,6 +289,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Dimensions: 23.8"H x 11.8"W x 13.0"D
 - Weight: 43.7lbs / 19.8kg each
 - Impedance: 4 ohms
+- Sensitivity: 88 dB
 - Bass Extension (-3dB): 77hz
 - Bass Extension (-10dB): 34hz
 - Tweeter: 1" (25mm) soft dome
@@ -308,6 +310,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Dimensions: 22.2"H x 11.8"W x 13.0"D
 - Weight: 40.6lbs / 18.4kg each
 - Impedance: 6 ohms
+- Sensitivity: 85 dB
 - Bass Extension (-3dB): 52hz
 - Bass Extension (-10dB): 35hz
 - Tweeter: 1" (25mm) soft dome
