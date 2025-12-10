@@ -37,24 +37,22 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Links
     - [Official KEF Blade Two Meta Website](https://us.kef.com/products/blade-two)
 
-#### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $10000 with the best sound quality are the [**$11000 Revel F228Be**](https://sovrn.co/l2szjt3)
-
-- Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
-- Negatives: Vertical off axis isn't quite as good as others
-- Dimensions: 50.9"H x 13.5"W x 17.6"D
-- Weight: 112.6lbs / 51kg each
-- Sensitivity: 89.5dB
-- Impedance: 8 ohms
-- Bass Extension (-3dB): 61hz
+#### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $10000 with the best sound quality are the [**$8000 MoFi SourcePoint V10 Master Edition**](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair)
+- Positives: One of the best value floorstanders
+- Dimensions: 48.8"H x 15.5"W x 19.9"D
+- Weight: 160lbs / 73kg
+- Sensitivity: 89dB
+- Impedance: 6 ohms
+- Bass Extension (-3dB): 38hz
 - Bass Extension (-10dB): 25hz
-- Tweeter: 1" (25mm) Beryllium dome, with acoustic lens waveguide
-- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
-- Woofer: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames
-- Woofer Cabinet: Front ported
+- Tweeter: 1.25" soft‑dome concentric
+- Midrange: 10" paper‑cone concentric
+- Woofer: 10"
+- Woofer Cabinet: Dual 10" passive rear passive radiators
 - Reviews and Comparisons
-    - [Audio Science Review Revel F228Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f228be-review-speaker.23659/)
+    - <https://www.youtube.com/watch?v=0-2OWJ0RmX8>
 - Links
-    - [Official Revel F228Be Website](https://www.revelspeakers.com/products/types/floorstanding/F228BE-.html)
+    - [Official MoFi SourcePoint V10 Master Edition Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-v10-floodstanding-speakers-pair)
 
 #### The best [large size passive floorstanding](/passive-floorstanding-large/) speakers around $5000 with the best sound quality are the [**$5500 Mofi Sourcepoint 888**](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)
 
