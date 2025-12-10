@@ -94,6 +94,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)
 
+### #6 [Edifier M60](https://www.amazon.com/Edifier-Multimedia-Speaker-Bluetooth-Wireless/dp/B0D95R2PXM?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=81601858ae85d7feeb293cefde3c818c&language=en_US&ref_=as_li_ss_tl): $170
+- Negatives: Not quite as good as the MR3 above. 3dB dip at 1.1khz and 3khz. 3db hot treble from 3.5khz on up.
+- Weight: 6.8lbs / 3kg
+- Dimensions: 6.6"H x 3.9"W x 5.8"D 
+- Bass Extension (-3dB): 67hz
+- Bass Extension (-10dB): 57hz
+- Watts: 33w RMS Per Speaker
+- Tweeter: 1" silk dome
+- Woofer: 3"
+- App: Yes
+- EQ: Yes
+- Inputs: Bluetooth, Aux, USB-C
+- Bluetooth Codecs: SBC, LDAC
+- Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=27vZ-7l8ng8>
+- Links
+    - [Official Product Page](https://www.edifier.com/us/p/computer-speakers/m60)
+
 ### #6 [Presonus Eris E3.5](https://www.amazon.com/PreSonus-Eris-3-5-Gen-Studio-Quality/dp/B0C88ZB3D9?crid=1BXBDC5F38PWQ&dib=eyJ2IjoiMSJ9.31xFOOR9-gtwERWHMFQPHM5MYzxWi333F-Ang6AXHb3XRfCOYSLQJeHqCRd51uoev37Y5AFj5-iiuMPmIKs1sBOfZLcFu8VTnPbfgl4Y-TwbCC2GD3RBluuNdXj-UctmFhVXr-bMZqheVK-4D2wA9Ea7-391phJHoZkMT2K1wIYSC7Pq7pF-HwUO8ISTqLc-cDWQXnZXhmYtv_B0DWVWM5UMAFCRxYh_P5JHLPiYPA_IDndatQwgaJPnpTmMyqYdYOjPNBkmZhGzdO58Agx9rN8qaVCFnH7bbhXVdps5s9g.ZiYxrPMTMWIMwq1RC9Un4I2kNwKx0o0oq3yJw_n9Im4&dib_tag=se&keywords=Presonus%2BEris%2BE3.5&qid=1716352093&sprefix=presonus%2Beris%2Be3.5%2Caps%2C197&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e9ea8d126e89623f2728cc97200109&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/PreSonus-Eris-3-5-Gen-Studio-Quality/dp/B0C88ZB3D9?crid=1BXBDC5F38PWQ&dib=eyJ2IjoiMSJ9.31xFOOR9-gtwERWHMFQPHM5MYzxWi333F-Ang6AXHb3XRfCOYSLQJeHqCRd51uoev37Y5AFj5-iiuMPmIKs1sBOfZLcFu8VTnPbfgl4Y-TwbCC2GD3RBluuNdXj-UctmFhVXr-bMZqheVK-4D2wA9Ea7-391phJHoZkMT2K1wIYSC7Pq7pF-HwUO8ISTqLc-cDWQXnZXhmYtv_B0DWVWM5UMAFCRxYh_P5JHLPiYPA_IDndatQwgaJPnpTmMyqYdYOjPNBkmZhGzdO58Agx9rN8qaVCFnH7bbhXVdps5s9g.ZiYxrPMTMWIMwq1RC9Un4I2kNwKx0o0oq3yJw_n9Im4&dib_tag=se&keywords=Presonus%2BEris%2BE3.5&qid=1716352093&sprefix=presonus%2Beris%2Be3.5%2Caps%2C197&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e9ea8d126e89623f2728cc97200109&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Presonus+Eris+E3.5)]: $100 a pair
 - Negatives: Thin sounding in the midrange, some lower treble boost. I'd still recommend the slightly bigger Edifier MR3 over these at the same price.
 - Frequency Response: 80 Hz-20 kHz (-3dB)
