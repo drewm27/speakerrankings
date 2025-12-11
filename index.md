@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Speaker Ranking: Best Bluetooth & Home Speakers 2025"
-cover-img: "/assets/img/uboomx.jpg"
+cover-img: "/assets/img/homeimage.jpg"
 share-description: "513 portable Bluetooth speakers sorted by sound quality, affordability, bass, and more. Unbiased expert rankings and audio insights."
 
 ---
