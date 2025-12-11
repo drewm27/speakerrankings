@@ -90,6 +90,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Reviews and Comparisons
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
     - [Erin's Audio Corner: Revel F35 Review: Great Sound, Lower Price!](https://www.youtube.com/watch?v=hr-Qu1etIng)
+    - [Erin's Audio Review Website Revel Concerta2 F35](https://www.erinsaudiocorner.com/loudspeakers/revel_f35/)
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
 
