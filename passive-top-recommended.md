@@ -6,7 +6,7 @@ cover-img: "/assets/img/revelf208.jpg"
 share-description: "Explore the top-recommended passive speakers. Expert-ranked picks that require a separate amp, offering flexibility, upgrade potential & high-fidelity sound."
 ---
 
-This page summarizes the best sounding passive speakers out of the 94 ranked on this website. Last updated on 12/10/2025. The suggestions in this section are biased towards a neutral frequency response with good directivity and a lack of resonances. 
+This page summarizes the best sounding passive speakers out of the 95 ranked on this website. Last updated on 12/10/2025. The suggestions in this section are biased towards a neutral frequency response with good directivity and a lack of resonances. 
 
 Unless you need them to sit on a desktop, shelf or other high surface, I highly recommend getting floorstanding speakers. Also of note, a lot of bookshelf size speakers also come in a floorstanding version which should perform similarly but with deeper bass.
 
@@ -50,7 +50,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Woofer: 10"
 - Woofer Cabinet: Dual 10" passive rear passive radiators
 - Reviews and Comparisons
-    - <https://www.youtube.com/watch?v=0-2OWJ0RmX8>
+    - [Erin's Audio Corner: Is This the Best Speaker of 2025?  MoFi SourcePoint V10 Review.](https://www.youtube.com/watch?v=0-2OWJ0RmX8)
 - Links
     - [Official MoFi SourcePoint V10 Master Edition Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-v10-floodstanding-speakers-pair)
 
