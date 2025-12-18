@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best of 367 Bluetooth speakers ranked for sound quality. The best picks for every style and budget."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers out of the 367 ranked on this website. Last updated on 12/10/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers out of the 367 ranked on this website. Last updated on 12/17/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
@@ -171,6 +171,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
     - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)

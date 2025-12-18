@@ -6,7 +6,7 @@ cover-img: "/assets/img/k12.2.jpg"
 share-description: "Browse our top-recommended Bluetooth speakers with the loudest output. Expert-ranked for volume, clarity & value to make your music heard."
 ---
 
-This page summarizes the loudest portable Bluetooth speakers out of the 367 ranked on this website. Last updated on 12/10/2025. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the loudest portable Bluetooth speakers out of the 367 ranked on this website. Last updated on 12/17/2025. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 ### The Loudest Small Pocket Size Speaker
 
@@ -96,6 +96,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 367 rank
 - Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
     - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)
