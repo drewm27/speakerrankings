@@ -47,8 +47,6 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
 
-
-
 ### The Best Medium Size Speaker For Audiophiles
 
 #### The best [medium size](/small-medium-size/) battery powered speaker for audiophiles with modern features is the [**$50 Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7?crid=2992F60ORGRZS&dib=eyJ2IjoiMSJ9.qR8CZGQDBoXsAOw9Y72_DNL9FR4s_xvGnImzZ2bm4bQfhkyd7QtH7-jNOMiPEklPG4eDLBjmk1MAx4aExf9n-RNNkynu-0rvY_8Pz_cZdbeBpl2pDvccYQ4qGzBGxr7vu15qddrDqlb52kY2DSAAExgeL1m4kGI54-6C1D2GeEDuvUgbrVnyrG-eamCDKo5UxKJnHcBBrUXQzUac5p8vSanUXBQOKOuQN4qS9tDU0Qc.Mbeo5E-cyXEKb47y5825xTnR-TYU9nRQ-EoC9T7n9pQ&dib_tag=se&keywords=uboom+l&qid=1728538687&sprefix=uboom+%2Caps%2C204&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=414d38887e99851dcec65ad88cb86c6f&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and coupon UBOOMLWC in the payment options) 
