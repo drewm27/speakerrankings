@@ -20,7 +20,7 @@ def main():
         line = f.readline()
         while line:
             if line.startswith('###'):
-                print(line)
+                #print(line)
                 if '[' in line:
                     name = line.split('[')[1].split(']')[0]
                     if ': ' in line:
@@ -78,7 +78,7 @@ def main():
                             url = match.group(2)
                             speaker['links'].append([name, url])
                         line = f.readline()
-                elif '- Positives:' in line or '- Negatives:' in line:
+                elif '- Positives:' in line or '- Negatives:' in line or '- Setup:' in line:
                     attribute = line.split(':')[0].replace('- ','').strip()
                     atttributeValue = ':'.join(line.split(':')[1:]).strip()
                     speaker[attribute] = atttributeValue

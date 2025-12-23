@@ -33,6 +33,8 @@ def main():
                 print('- Positives: ' + item['Positives'])
             if 'Negatives' in item:
                 print('- Negatives: ' + item['Negatives'])
+            if 'Setup' in item:
+                print('- Setup: ' + item['Setup'])
             if 'attributes' in item:
                 for attribute in item['attributes']:
                     print('- ' + attribute + ': ' + item['attributes'][attribute])
