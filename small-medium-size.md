@@ -853,7 +853,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #35 JBL Charge Essential 2: $130
 
-- Positives:
 - Negatives: Not stereo. Slightly less bass than a Charge 5.
 - Weight: 2.05lbs / 930g
 - Bass Extension: ~55hz (-10dB)
