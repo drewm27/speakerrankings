@@ -40,7 +40,9 @@ def main():
                         urls.append([sitename, siteurl])
                 if speaker:
                     jsonOut.append(speaker)
-                speaker = { "name": name, "price": price, "urls": urls, "attributes":{} }
+                speaker = { "name": name, "price": price, "attributes":{} }
+                if urls:
+                    speaker['urls'] = urls
             if line.startswith('- '):
                 if '- Comparisons and Sound Samples' in line:
                     speaker['comparisons'] = []
@@ -60,7 +62,7 @@ def main():
                             print('Error in : ' + line)
                             sys.exit(1)
                         line = f.readline()
-                elif '- Links' in line:
+                if '- Links' in line:
                     speaker['links'] = []
                     line = f.readline()
                     while line.startswith('    - '):
@@ -79,7 +81,7 @@ def main():
                     attribute = line.split(':')[0].replace('- ','').strip()
                     atttributeValue = ':'.join(line.split(':')[1:]).strip()
                     speaker[attribute] = atttributeValue
-                else:
+                elif line.startswith('- '):
                     attribute = line.split(':')[0].replace('- ','').strip()
                     atttributeValue = ':'.join(line.split(':')[1:]).strip()
                     speaker['attributes'][attribute] = atttributeValue
