@@ -43,7 +43,7 @@ titleregex = re.compile(r' 20[0-9][0-9]$')
 for file in os.listdir():
     newfile = []
     number = 0
-    if file.endswith('.md'):
+    if file.endswith('.md') or file.endswith('.header'):
         with open(file) as f:
             lines = f.readlines()
             for line in lines:
