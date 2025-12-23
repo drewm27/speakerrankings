@@ -500,7 +500,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page](https://mct-audio.com/products/monster-atomic-atom)
 
-### #24 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl)]: 
+### #24 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl)]: $20
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Monster Bluetooth Speaker
 - App: No
