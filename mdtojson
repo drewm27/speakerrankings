@@ -20,6 +20,7 @@ def main():
         line = f.readline()
         while line:
             if line.startswith('###'):
+                print(line)
                 if '[' in line:
                     name = line.split('[')[1].split(']')[0]
                     if ': ' in line:
