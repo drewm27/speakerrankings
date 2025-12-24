@@ -46,7 +46,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/helsinki)
 
-### #2 [Minirig mk4](https://minirigs.co.uk/speakers/bluetooth-minirig-4) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-4)] with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $290
+### #2 [Minirig mk4 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-4) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-4)]: $290
 
 - Positives: Very balanced sound. Finally USB-C charging
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
@@ -66,8 +66,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
+    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
 
-### #3 [Minirig mk3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)] with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
+### #3 [Minirig mk3 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $260
 
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
@@ -95,8 +96,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
+    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
 
-### #4 Minirig mk2 with [subwoofer](https://minirigs.co.uk/speakers/minirig-subwoofer-3): $260
+### #4 Minirig mk2 with subwoofer: $260
 
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
@@ -113,6 +115,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: Splash resistant
 - Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
+- Links
+    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
 
 ### #5 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325)]: $550
 
