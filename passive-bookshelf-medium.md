@@ -131,7 +131,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Klipsch RP-500M II Website](https://www.klipsch.com/products/rp-500m-bookshelf-speaker)
 
-### #8 JBL Studio 530 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+530)]
+### #8 [JBL Studio 530](https://www.hifizero.com/index.php?q=JBL+Studio+53) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+530)]
 - Positives: Smooth frequency response besides the treble drop off way up high
 - Negatives: Some stored energy resonances at a bunch of frequencies
 - Reviews, Comparisons and Sound Samples
@@ -151,7 +151,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official PHilharmonic Affordable Accuracy Monitor Website](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
 
-### #11 JBL Stage A130 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
+### #11 [JBL Stage A130](https://www.hifizero.com/index.php?q=JBL+Stage+A130) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Stage A130](https://www.audiosciencereview.com/forum/index.php?threads/jbl-stage-a130-review-speaker.18260/)
 - Links:
@@ -169,7 +169,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Verdant Audio Bambusa AL-1](https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/)
 
-### #14 ELAC BS U5 [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+BS+U5)]: $856
+### #14 [ELAC BS U5](https://www.hifizero.com/index.php?q=ELAC+BS+U5) [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+BS+U5)]: $856
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review ELAC BS U5](https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/)
 
@@ -248,13 +248,13 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Totem Kin One Website](https://totemacoustic.com/product/totem-kin-one/)
 
-### #20 JBL Stage A120 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A120)]
+### #20 [JBL Stage A120](https://www.hifizero.com/index.php?q=JBL+Stage+A120) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A120)]
 - Negatives: A good amount of resonance in the midrange. Quite a V curve frequency response which isn't great. 
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
     - [Erin's Audio Corner Website JBL Stage A120](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a120/)
 
-### #21 JBL Stage A130 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
+### #21 [JBL Stage A130](https://www.hifizero.com/index.php?q=JBL+Stage+A130) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
 - Negatives: A lot of midrange resonance, otherwise quite a V-curve frequency response which isn't great.
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
