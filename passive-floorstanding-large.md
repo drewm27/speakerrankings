@@ -29,7 +29,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
     - [Official GR-Research Open Baffle Triple Subwoofers Website](https://gr-research.com/product/sub-series-triple-threat-with-flatpacks/)
 
-### #2 KEF Blade Two Meta [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta)]: $28000 not sold new online
+### #2 [KEF Blade Two Meta](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta) [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta)]: $28000 only sold in stores
 - Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
 - Negatives: 2dB dip at 200hz, slight resonance. 
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
