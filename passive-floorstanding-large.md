@@ -193,7 +193,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Mofi Sourcepoint 888 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-888-floorstanding-speakers-pair)
 
-### #11 JBL 4367 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+4367)]: $16500
+### #11 [JBL 4367](https://www.hifizero.com/index.php?q=JBL+4367) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+4367)]: $16500
 - Positives: Huge dynamics and the sensitivity is very high. By far the best speaker if you need things extremely loud. Quite a smooth frequency response especially considering these are high efficiency drivers.
 - Negatives: Vertical directivity isn't too great at the crossover point
 - Dimensions: 37.2"H x 22.2"W x 16.8"D
@@ -370,14 +370,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
-### #23 Triangle Esprit Antal Ez [[Used Listings](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez)]
+### #23 [Triangle Esprit Antal Ez](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez) [[Used Listings](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez)]
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
 - Links
     - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
 
-### #24 JBL Studio 590 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
+### #24 [JBL Studio 590](https://www.hifizero.com/index.php?q=JBL+Studio+590) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
 - Positives: Pretty deep bass
 - Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Really bad resonance at 8.5khz. 
 - Bass Extension (-3dB): 48hz
