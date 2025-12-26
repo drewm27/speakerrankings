@@ -164,7 +164,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links:
     - [Official ELAC Uni-Fi 2.0 UB52 Website](https://elac.com/ub52)
 
-### #13 Verdant Audio Bambusa AL-1 [[Used Listings](https://www.hifizero.com/index.php?q=Verdant+Audio+Bambusa+AL-1)]: $7000 a pair
+### #13 [Verdant Audio Bambusa AL-1](https://www.hifizero.com/index.php?q=Verdant+Audio+Bambusa+AL-1) [[Used Listings](https://www.hifizero.com/index.php?q=Verdant+Audio+Bambusa+AL-1)]: $7000 a pair
 - Negatives: Overpriced for the performance and not recommended.
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Verdant Audio Bambusa AL-1](https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/)
