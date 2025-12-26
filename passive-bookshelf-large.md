@@ -15,7 +15,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
 
-### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630 or $1500 for [the kit](https://gr-research.com/product/nx-studio/) with flatpack
+### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630 
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
 - Dimensions: 24"H x 10"W x 14"D
@@ -29,6 +29,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
 - Links
     - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
+    - [Official GR-Research NX-Studio Kit Website](https://gr-research.com/product/nx-studio-pair/)
 
 ### #2 [KEF Reference 1 Meta](https://us.kef.com/products/reference-1-bookshelf-speaker) [[Kef](https://us.kef.com/products/reference-1-bookshelf-speaker)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Reference+1+Meta)]: $10000
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Configurable to short or long port depending on the bass roll-off you're looking for. Very deep bass for the size
@@ -186,7 +187,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #10 [Radiant Acoustics Clarity 6.2](https://radiantacoustics.com/products/clarity-6-2) [[Radiantacoustics](https://radiantacoustics.com/products/clarity-6-2)] [[Used Listings](https://www.hifizero.com/index.php?q=Radiant+Acoustics+Clarity+6.2)]: $4500
 - Positives: Very low distortion
-- Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees.. Impedance drops pretty low. Vertical and horizontal off axis are just okay
+- Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees. Impedance drops pretty low. Vertical and horizontal off axis are just okay
 - Dimensions: 14.3"H x 8.7"W x 10.5"D
 - Weight: 23.8lbs / 10.8kg each
 - Sensitivity: 84dB
@@ -410,7 +411,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Wharfedale Aura 2 Website](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)
 
-### #23 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Aria+906)]: Discontinued, $1100 a pair on [Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)
+### #23 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Aria+906)]: $1100 a pair used, discontinued
 - Negatives: 3dB dip around 2.8khz. Some resonance around 800hz, small directivity error around 7khz
 - Sensitivity: 87dB
 - Impedance: 4 ohms
@@ -483,7 +484,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
 
-### #29 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: Discontinued, about $160 on [Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)
+### #29 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: $160 a pair used, discontinued
 - Positives: Impressively flat for a budget bookshelf
 - Negatives: Resonances at 600 and 5khz
 - Sensitivity: 85dB
@@ -618,7 +619,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
-### #38 Pylon Jasper Monitor 18 [[Used Listings](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18)]
+### #38 [Pylon Jasper Monitor 18](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18) [[Used Listings](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18)]
 - Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
@@ -707,7 +708,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
 
-### #45 Chesky LC1 [[Used Listings](https://www.hifizero.com/index.php?q=Chesky+LC1)]: $1000
+### #45 [Chesky LC1](https://www.hifizero.com/index.php?q=Chesky+LC1) [[Used Listings](https://www.hifizero.com/index.php?q=Chesky+LC1)]: $1000
 - Negatives: Not recommended. Frequency response is just bad, way too low sensitivity
 - Sensitivity: 81.4dB
 - Reviews, Comparisons and Sound Samples
@@ -725,7 +726,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Fosi Audio SP601 Website](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)
 
-### #47 Yamaha NS-10 [[Used Listings](https://www.hifizero.com/index.php?q=Yamaha+NS-10)]
+### #47 [Yamaha NS-10](https://www.hifizero.com/index.php?q=Yamaha+NS-10) [[Used Listings](https://www.hifizero.com/index.php?q=Yamaha+NS-10)]
 - Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
 - Bass Extension (-3dB): 126hz
 - Bass Extension (-10dB): 75hz
