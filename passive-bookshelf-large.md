@@ -468,7 +468,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Links
     - [Official Buchardt S400 MKII Website](https://buchardtaudio.com/products/s400-mkii)
 
-### #28 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/) [[Gr-research](https://gr-research.com/product/xls-encore/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+X-LS+Encore)]: $1300 or $635 for [the kit](https://gr-research.com/product/x-ls-encore/) with flatpack
+### #28 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/) [[Gr-research](https://gr-research.com/product/xls-encore/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+X-LS+Encore)]: $1300 
 - Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
 - Weight: 17lbs / 7.7kg each
@@ -483,6 +483,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
+    - [Official GR-Research X-LS Encore Kit Website](https://gr-research.com/product/x-ls-encore/)
 
 ### #29 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: $160 a pair used, discontinued
 - Positives: Impressively flat for a budget bookshelf
