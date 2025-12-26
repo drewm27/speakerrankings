@@ -37,7 +37,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 87lbs / 39kg
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
@@ -59,7 +59,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 76lbs / 34kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX1000.html)
@@ -82,7 +82,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 68.3lbs / 31kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
@@ -108,7 +108,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 61lbs / 28kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DLX Willington: I'M Floored 😲 JBL Partybox 710 vs 310 Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
     - [GYMCADDY: JBL Partybox 710 Review - Its Your Personal Earthquake Machine](https://www.youtube.com/watch?v=srx-SAaqFjw)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)
@@ -133,7 +133,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 56.2lbs / 25.5kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX520AM.html)
@@ -151,7 +151,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Weight: 68lbs / 31kg
 - XLR Input: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - <https://www.youtube.com/watch?v=gNqERPC67C8>
     - <https://www.youtube.com/watch?v=S112dkr_2mE>
@@ -174,7 +174,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 65.2lbs / 29.6kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
     - [GYMCADDY: Sony ULT Tower 9 Review - Amazing Instrument Separation](https://www.youtube.com/watch?v=xbVBvaGDDy0)
 - Links
@@ -196,7 +196,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 64lbs / 29kg
 - Wireless Microphone: Yes Included
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult1000)
@@ -216,7 +216,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - USB Playback: Yes
 - Weight: 58.6lbs / 26.6kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Sony SRS-XV900 vs JBL Partybox 310 - Can the JBL Middleweight 💪🏽 Compete With The Sony Heavyweight?](https://www.youtube.com/watch?v=1yVnCeuW9uA)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)
     - [GYMCADDY: Sony XV900 Review - Finally, A Good Speaker From Sony!](https://www.youtube.com/watch?v=t6pFY4Sh0Us)

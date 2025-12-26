@@ -25,7 +25,7 @@ For more detailed information and specs about these speakers see the full rankin
 - EQ: Yes
 - Frequency Response: 67-20 kHz (-3dB) 
 - Inputs: Bluetooth, Aux, RCA Input 
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)
@@ -39,7 +39,7 @@ For more detailed information and specs about these speakers see the full rankin
 - Tweeter: 1" Textile Dome
 - Woofer: 4.5"
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
     - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
@@ -59,7 +59,7 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 100w Per Speaker
 - Woofer: 7"
 - Inputs: XLR, RCA 
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)
@@ -76,7 +76,7 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 140w Per Speaker
 - Woofer: 8" 
 - Inputs: TRS, XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)
     - [DSAUDIO.review: Kali Audio LP-8  vs  Presonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=4vaBRjDPDns)
@@ -95,7 +95,7 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 81w Per Speaker
 - Woofer: 5"
 - Inputs: XLR, TRS
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
     - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)
     - [DSAUDIO.review: DSAUDIO.review  JBL 305P MKII vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=nK9j7fr2N7o)
@@ -122,7 +122,7 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 75w RMS Per Speaker
 - Woofer: 8"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
@@ -138,7 +138,7 @@ For more detailed information and specs about these speakers see the full rankin
 - Tweeter: 1" Textile Dome
 - Woofer: 4.5"
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
     - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
@@ -159,7 +159,7 @@ For more detailed information and specs about these speakers see the full rankin
 - EQ: Yes
 - Frequency Response: 67-20 kHz (-3dB)
 - Inputs: Bluetooth, Aux, RCA Input
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)

@@ -24,7 +24,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 38hz
 - Tweeter: 1" ceramic-aluminum tweeter 
 - Woofer: 5" ceramic-aluminum cone woofer
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The #1 Reason audiophiles Are Raving About Fidelia's Sound Quality](https://www.youtube.com/watch?v=HKrm19_asro)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
@@ -43,7 +43,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" aluminum/magnesium alloy dome
 - Woofer: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)
     - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
     - [Audio Science Review Ascend Sierra 1 v2](https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-1-v2-speaker-review.53350/)
@@ -64,7 +64,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 43hz
 - Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
 - Woofer: 130 mm (5.25 in.) aluminium cone
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Unveiling the KEF LS50 Meta: The Truth Behind the Hype](https://www.youtube.com/watch?v=RAKKVe6stCs)
     - [Erin's Audio Corner Website KEF LS50 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/)
     - [Audio Science Review KEF LS50 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/)
@@ -76,7 +76,7 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #4 [Moondrop M4P MTM](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker) [[Shenzhenaudio](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker)] [[Used Listings](https://www.hifizero.com/index.php?q=Moondrop+M4P+MTM)]: $920 a pair
 - Positives: Slight bump in the bass. 
 - Negatives: Vertical directivity is just okay
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is The Moondrop M4P Monitor Speaker Worth EVERY PENNY Of $920?](https://www.youtube.com/watch?v=W6-7H0sGKKA)
     - [Erin's Audio Corner Website Moondrop M4P MTM](https://www.erinsaudiocorner.com/loudspeakers/moondrop_mrp/)
 - Links
@@ -94,7 +94,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 28mm
 - Woofer: 2 x 5,5”
 - Woofer Cabinet: Sealed
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner Website Arendal 1961 Monitor](https://www.erinsaudiocorner.com/loudspeakers/arenda_1961_monitor/)
     - [Audio Science Review Arendal 1961 Monitor](https://www.audiosciencereview.com/forum/index.php?threads/arendal-1961-center-monitor-speaker-review.43190/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
@@ -108,7 +108,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 8 ohms
 - Bass Extension (-3dB): 60hz
 - Bass Extension (-10dB): 40hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Zaph Audio ZA5.2 TM](https://www.audiosciencereview.com/forum/index.php?threads/zaph-audio-za5-2-diy-kit-speaker-review.12086/)
 - Links
     - [Official Zaph Audio ZA5.2 TM Website](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair)
@@ -125,7 +125,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" LTS (Linear Travel Suspension) titanium diaphragm tweeter with Tractrix® horn
 - Woofer: 5.25" Cerametallic™ cone woofer
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why I think the Klipsch RP-500M II is BETTER than RP-600M II.](https://www.youtube.com/watch?v=2Bkgd2_WuH8)
     - [Erin's Audio Corner Website Klipsch RP-500M II](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_ii/)
 - Links
@@ -134,43 +134,43 @@ Consider this page to be a work in progress and more speakers will be added.
 ### #8 JBL Studio 530 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+530)]
 - Positives: Smooth frequency response besides the treble drop off way up high
 - Negatives: Some stored energy resonances at a bunch of frequencies
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Studio 530](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-530-speaker-review.12298/)
 - Links:
     - [Official JBL Studio 530 Website](https://www.jbl.com/loudspeakers/STUDIO+530.html)
 
 ### #9 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z) [[Amazon](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1)]
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-speaker-review.18655/)
 - Links:
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
 
 ### #10 [Philharmonic Affordable Accuracy Monitor](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/) [[Audiokarma](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)] [[Used Listings](https://www.hifizero.com/index.php?q=PHilharmonic+Affordable+Accuracy+Monitor)]
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review PHilharmonic Affordable Accuracy Monitor](https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/)
 - Links:
     - [Official PHilharmonic Affordable Accuracy Monitor Website](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
 
 ### #11 JBL Stage A130 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Stage A130](https://www.audiosciencereview.com/forum/index.php?threads/jbl-stage-a130-review-speaker.18260/)
 - Links:
     - [Official JBL Stage A130 Website](https://www.jbl.com/loudspeakers/STAGE+A130.html)
 
 ### #12 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+Uni-Fi+2.0+UB52)]: $483
 - Negatives: Dipped 3db from 1.5-3khz. Nasty resonance at 600hz. Not recommended.
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review ELAC Uni-Fi 2.0 UB52](https://www.audiosciencereview.com/forum/index.php?threads/elac-uni-fi-2-0-review-bookshelf-speaker.19216/)
 - Links:
     - [Official ELAC Uni-Fi 2.0 UB52 Website](https://elac.com/ub52)
 
 ### #13 Verdant Audio Bambusa AL-1 [[Used Listings](https://www.hifizero.com/index.php?q=Verdant+Audio+Bambusa+AL-1)]: $7000 a pair
 - Negatives: Overpriced for the performance and not recommended.
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Verdant Audio Bambusa AL-1](https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/)
 
 ### #14 ELAC BS U5 [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+BS+U5)]: $856
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review ELAC BS U5](https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/)
 
 ### #15 [Neumi Silk 4](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumi+Silk+4)]: $200
@@ -183,7 +183,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 55hz
 - Tweeter: 1” silk dome, dispersion-optimized waveguide, neodymium magnet
 - Woofer: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Neumi Silk 4 Review. The Supreme Budget Bookshelf Speaker?](https://www.youtube.com/watch?v=VIhu26oRbHI)
     - [Erin's Audio Corner Website Neumi Silk 4](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/)
 - Links
@@ -200,7 +200,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 44hz
 - Tweeter: 1" vented aluminium dome
 - Woofer: 5.1" aluminium Uni-Q
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kef's Cheapest Bookshelf.  Is the Q150 worth your money?](https://www.youtube.com/watch?v=SiGslBHnK9c)
     - [Erin's Audio Corner Website KEF Q150](https://www.erinsaudiocorner.com/loudspeakers/kef_q150/)
     - [GR-Research: KEF Q150... can it get any BETTER?](https://www.youtube.com/watch?v=sFy-WtxoXQ0)
@@ -215,7 +215,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 49hz
 - Tweeter: 25×32 mm Airmotiv folded ribbon tweeter
 - Woofer: 5-1/4” woven fiber cone with SBR surround
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What are the other reviewers hearing with the $250 @EmotivaAudioCorp B1+?](https://www.youtube.com/watch?v=YmKpCb3d7Vk)
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
 - Links
@@ -232,7 +232,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Supertweeter: 0.75 in
 - Tweeter: 0.98 in
 - Woofer: 5.12"
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is Sony's NEW SS-CS5 Version 2 WORTH the Upgrade?](https://www.youtube.com/watch?v=iI2a-KVuUhw)
 - Links
     - [Official ony SS-CS5 M2 Website](https://electronics.sony.com/audio/speakers/home-theater-speakers/p/sscs5)
@@ -242,7 +242,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: 4dB peak at 900hz, 3dB peak at 5.7khz. Bad resonance around 1.5khz. Bass response isn't great. Vertical off axis isn't great
 - Bass Extension (-3dB): 91hz
 - Bass Extension (-10dB): 59hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Speakers... In Color!  Totem Kin One Speaker Review.](https://www.youtube.com/watch?v=37Nd7Uz_zlk)
     - [Erin's Audio Corner Website Totem Kin One](https://www.erinsaudiocorner.com/loudspeakers/totem_kin_one/)
 - Links
@@ -250,12 +250,12 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #20 JBL Stage A120 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A120)]
 - Negatives: A good amount of resonance in the midrange. Quite a V curve frequency response which isn't great. 
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
     - [Erin's Audio Corner Website JBL Stage A120](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a120/)
 
 ### #21 JBL Stage A130 [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
 - Negatives: A lot of midrange resonance, otherwise quite a V-curve frequency response which isn't great.
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
     - [Erin's Audio Corner Website JBL Stage A130](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a130/)

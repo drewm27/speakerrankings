@@ -30,7 +30,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Midrange: 125 mm (5 in.) aluminium cone
 - Woofer: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Mind-Blowing Sound Quality: KEF Blade 2 Meta Review](https://www.youtube.com/watch?v=lh8D7LhlVoQ)
     - [Erin's Audio Review Website KEF Blade Two Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_blade2_meta/)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
@@ -49,7 +49,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Midrange: 10" paper‑cone concentric
 - Woofer: 10"
 - Woofer Cabinet: Dual 10" passive rear passive radiators
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is This the Best Speaker of 2025?  MoFi SourcePoint V10 Review.](https://www.youtube.com/watch?v=0-2OWJ0RmX8)
 - Links
     - [Official MoFi SourcePoint V10 Master Edition Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-v10-floodstanding-speakers-pair)
@@ -68,7 +68,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Midrange: 8” Paper Cone
 - Woofer: Dual 8" paper cone woofers
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the MoFi SourcePoint 888 Could Be Your Last Speaker Purchase](https://www.youtube.com/watch?v=9bv5Mt5X__k)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
@@ -87,7 +87,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Tweeter: 1" Aluminum Tweeter
 - Woofer: 3x 5.25" deep anodized aluminum cone woofers
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
     - [Erin's Audio Corner: Revel F35 Review: Great Sound, Lower Price!](https://www.youtube.com/watch?v=hr-Qu1etIng)
     - [Erin's Audio Review Website Revel Concerta2 F35](https://www.erinsaudiocorner.com/loudspeakers/revel_f35/)
@@ -101,7 +101,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered-top-recommen
 - Impedance: 4 ohm
 - Bass Extension (-3dB): 47hz
 - Bass Extension (-10dB): 38hz
-- Reviews and Comparisons 
+- Reviews, Comparisons and Sound Samples 
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
@@ -122,7 +122,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
 - Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
 - Woofer Cabinet: Sealed
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
 - Links
     - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
@@ -138,7 +138,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Bass Extension (-10dB): 35hz
 - Tweeter: 1" Aluminium Ceramic Dome
 - Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
@@ -157,7 +157,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
     - [Erin's Audio Corner Website Elac DBR63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
@@ -171,7 +171,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Impedance: 6 ohms
 - Bass Extension (-3dB): 64hz
 - Bass Extension (-10dB): 40hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review ELAC Debut 2.0 B6.2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/)
 - Links:
     - [Official ELAC Debut 2.0 B6.2 Website](https://elac.com/db62)
@@ -189,7 +189,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Tweeter: 1" Terylene dome tweeter
 - Woofer: 6.5" bilaminate paper cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)
     - [Erin's Audio Corner Website Polk Monitor XT20](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/)
     - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)

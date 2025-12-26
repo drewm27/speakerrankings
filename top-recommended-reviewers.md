@@ -32,7 +32,7 @@ Oluv's favorite [small pocket size](/pocket-size/) speaker is the [**$60 Tribit 
 - Bluetooth Codecs: SBC
 - Stereo: No
 - Power Input: USB-C
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
@@ -70,7 +70,7 @@ Oluv's favorite [medium size](/small-medium-size/) battery powered speaker is th
 - Bluetooth Codecs: AAC, SBC
 - Power Input: USB-C
 - IP Rating: IP67
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.patreon.com/posts/soundcore-boom-137341326>
@@ -102,7 +102,7 @@ Oluv's favorite [large size](/large-size/) battery powered speaker is the [**$12
 - IP Rating: IPX7
 - Bluetooth Codecs: SBC
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs SoundCore Boom 2 - David vs Goliath](https://www.youtube.com/watch?v=7U1oJROtNnU)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
@@ -138,7 +138,7 @@ Oluv's favorite [boombox size](/boombox-size/) battery powered speaker is the [*
 - Bluetooth Codecs: AAC, SBC
 - IP Rating: IP67
 - Power Input: USB-C
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
     - <https://www.patreon.com/posts/evening-with-137116931>
@@ -201,7 +201,7 @@ Alan Ross's favorite [small pocket size](/pocket-size/) speaker is the [**$60 Tr
 - Bluetooth Codecs: SBC
 - Stereo: No
 - Power Input: USB-C
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
@@ -238,7 +238,7 @@ Alan Ross's favorite [medium size](/small-medium-size/) speaker is the [**$80 So
 - Power Input: USB-C
 - Bluetooth Codecs: aptX, SBC
 - IP Rating: IPX7
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - [Alan Ross Reviews: 2x Soundcore Boost (stereo) vs Motion Boom and Motion+ - Best Soundcore speaker? 😋](https://www.youtube.com/watch?v=mjBlrhZwDmE)
@@ -266,7 +266,7 @@ Alan Ross's favorite [large size](/large-size/) speaker is the [**$200 Marshall 
 - IP Rating: IPX4
 - Power Input: USB-C
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Denon 250bt - little and large? 🙈](https://www.youtube.com/watch?v=sGyp6jGK0D8)
@@ -293,7 +293,7 @@ Alan Ross's favorite [boombox size](/boombox-size/) speaker is the [**$350 Harma
 - Power Input: AC Power brick
 - IP Rating: None
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
     - [Alan Ross Reviews: JBL Distortion Fest vs my favorite speaker today! I wasn't expecting this!](https://www.youtube.com/watch?v=Eo8q8xLBg-o)

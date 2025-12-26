@@ -28,7 +28,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Midrange: 100 mm (4in.) aluminium cone
 - Woofer: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver:
 - Inputs: Wifi, Optical, Digital coaxial, RCA, HDMI, Ethernet
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF LS60 Wireless: The Ultimate Review, Measurements Exposed!](https://www.youtube.com/watch?v=E1DA6ER58Gg)
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)
 - Links

@@ -30,7 +30,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 370 rank
 - Bluetooth Codecs: SBC
 - Stereo: No
 - Power Input: USB-C
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
@@ -67,7 +67,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 370 rank
 - Power Input: USB-C
 - Bluetooth Codecs: AAC, SBC
 - IP Rating: Splash resistant
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
@@ -93,7 +93,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 370 rank
 - Bluetooth Codecs: AAC, SBC
 - Power Input: USB-C
 - IP Rating: IP67 
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - <https://www.patreon.com/posts/evening-with-137116931>
     - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
@@ -125,7 +125,7 @@ ned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) f
 - App: Yes
 - EQ: Yes (7 band)
 - IP Rating: IP68
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - old one sounding better? 🤔](https://www.youtube.com/watch?v=Sbqb85lSqVc)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - any improvement?](https://www.youtube.com/watch?v=Gcy5rcIioEs)
@@ -152,7 +152,7 @@ ned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) f
 - TWS: Yes
 - IP Rating: IPX6
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
     - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
@@ -187,7 +187,7 @@ ned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) f
 - IP Rating: IP43
 - Stereo: No
 - Bluetooth Codecs: aptX, SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links

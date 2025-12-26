@@ -24,7 +24,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - MicroSD: Yes
 - Power Input: Micro USB
 - IP Rating: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-mini&cjsku=A3101111)
@@ -50,7 +50,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - Latency: 90ms
 - Aux Latency: 16ms 
 - Stereo: Yes 
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
 
 ### The Best Large Size Speaker With A SD Card Slot
@@ -67,7 +67,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - Power Bank: Yes
 - TWS: Yes
 - IP Rating: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
     - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)
 - Links
@@ -91,7 +91,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - TWS: Yes
 - IP Rating: IPX6
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
     - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
@@ -125,7 +125,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - IP Rating: IPX4
 - Stereo: Partially
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
@@ -152,7 +152,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - IP Rating: IPX4
 - Power Input: AC Power cord
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)

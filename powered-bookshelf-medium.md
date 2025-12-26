@@ -26,7 +26,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Tweeter: 1"
 - Woofer: 5.25"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh120-ii-monitor-review.46362/)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-120-ii)
@@ -41,7 +41,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Woofer: 5.1"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8030c-studio-monitor-review.14795/)
 - Links
     - [Official Product Page](https://www.genelec.com/8030c)
@@ -55,7 +55,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Woofer: 4.1"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)
     - [DSAUDIO.review: Genelec 8020D  vs  Yamaha HS5   Soun & Frequency Response Comparison](https://www.youtube.com/watch?v=Ipohm9fuz5A)
     - [DSAUDIO.review: Genelec 8020D vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=YftZtzD9Wyc)
@@ -75,7 +75,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 140w Per Speaker
 - Woofer: 4.1"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
     - [DSAUDIO.review: Neumann KH80 DSP vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=LcldXF0mx0I)
     - [DSAUDIO.review: Neumann KH80 DSP vs Focal Shape 40   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=o9tzZdjAKF4)
@@ -98,7 +98,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Tweeter: 1" Textile Dome
 - Woofer: 4.5"
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
     - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
@@ -114,7 +114,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 60w Per Speaker
 - Woofer: 5"
 - Inputs: XLR, TRS, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Focal Alpha 65 EVO  sound.DEMO](https://www.youtube.com/watch?v=MspK8S2avGE)
@@ -136,7 +136,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 81w Per Speaker
 - Woofer: 5"
 - Inputs: XLR, TRS
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
     - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)
     - [DSAUDIO.review: DSAUDIO.review  JBL 305P MKII vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=nK9j7fr2N7o)
@@ -159,7 +159,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 70w Per Speaker
 - Woofer: 5"
 - Inputs: XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
     - [DSAUDIO.review: Kali LP-6 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=8eRKA9srFXE)
     - [DSAUDIO.review: Adam Audio T5V vs Yamaha HS5   5 Track Comparison](https://www.youtube.com/watch?v=Tx2xYhZdYHY)
@@ -178,7 +178,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 45w Per Speaker
 - Woofer: 5"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
 - Links
@@ -193,7 +193,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 80w Per Speaker
 - Woofer: 5"
 - Inputs: TRS, XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
     - [DSAUDIO.review: Yamaha HS5 vs Presonus Eris E5  Sound Demo](https://www.youtube.com/watch?v=SWT-9LfiRGc)
     - [DSAUDIO.review: Fluid Audio F5 vs Presonus Eris E5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=dzbGVcNilCs)
@@ -217,7 +217,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 55w Per Speaker
 - Woofer: 5"
 - Inputs: TRS/XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
     - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=q6EETP-YrAY)
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3  vs  KRK Rokit 5 RP5G4  sound.DEMO](https://www.youtube.com/watch?v=AHV9UeN_x84)
@@ -239,7 +239,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 80w Per Speaker
 - Woofer: 5"
 - Inputs: TRS, XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
     - [DSAUDIO.review: Bright and brighter. PreSonus E5 XT takes on Adam Audio T5V SOUND & FREQUENCY RESPONSE COMPARISON](https://www.youtube.com/watch?v=E31EQd_EJKc)
     - [DSAUDIO.review: PreSonus Eris E5 XT vs PreSonus Eris E5 (new vs old)   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=6ok-l7lnMmA)
@@ -258,7 +258,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Woofer: 2x 3.5"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
     - [DSAUDIOreview: IK Multimedia  iLoud MTM  vs  iLoud Micro    Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tdZ9gPdXjZI)
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=pUirqMFmyVw)
@@ -279,7 +279,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 5.5"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: DSAUDIO.review  Edifier S2000MKIII vs Klipsch The Three II  sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
@@ -296,7 +296,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 5.5"
 - Inputs: Bluetooth, Wifi, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
 - Links
@@ -310,7 +310,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 5.5"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
 - Links
@@ -325,7 +325,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 115mm (4.5in.) magnesium/aluminium alloy cone
 - Inputs: Wifi, USB-C, HDMI, Optical, Bluetooth
 - Outputs: RCA Subwoofer
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Transform Your Sound System with the KEF LSX II LT Speaker](https://www.youtube.com/watch?v=Tcz905gti5A)
 - Links
     - [Official Product Page](https://us.kef.com/products/lsx-2-lt)
@@ -339,7 +339,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 50w RMS Per Speaker
 - Woofer: 5"
 - Inputs: RCA, TRS, XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
 - Links
@@ -356,7 +356,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 5.5"
 - Inputs: Bluetooth, Aux, RCA Input, Digital Optical
 - Outputs: RCA Output
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: Audioengine HD6 vs Audioengine A5+   5 Track Comparison](https://www.youtube.com/watch?v=g3Jx7d_iMo4)
 - Links
@@ -371,7 +371,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 60w RMS Per Speaker
 - Woofer: 5"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
     - [DSAUDIO.review: Edifier R2730DB vs Edifier R2000DB   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9JwfnkkM3n4)
     - [DSAUDIO.review: Edifier R1280T vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=d5DridUDGFY)
@@ -388,7 +388,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 4"
 - Inputs: TRS Balanced, RCA, Aux
 - Outputs: Headphone
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=AEGVXHRXcfw)
@@ -410,7 +410,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 4"
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
@@ -427,7 +427,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 4"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
     - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
@@ -444,7 +444,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 4"
 - Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
 - Links

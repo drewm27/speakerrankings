@@ -25,7 +25,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
 - Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
 - Woofer Cabinet: Sealed
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
 - Links
     - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
@@ -41,7 +41,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 25 mm (1 in.) aluminium dome with MAT
 - Midrange: 125 mm (5 in.) aluminium cone
 - Woofer: 165 mm (6.5 in.) aluminium cone
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: First Look!! Kef Reference 1 META Bookshelf Speaker Review.](https://www.youtube.com/watch?v=4hyKx9GiB8o)
     - [Erin's Audio Corner Website KEF Reference 1 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/)
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
@@ -59,7 +59,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
 - Woofer: 6.5" Purifi PTT-OEM Midwoofer
 - Woofer Cabinet: Passive Radiators
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Class Leading. March Audio Sointuva AWG Review.](https://www.youtube.com/watch?v=CBIjLicpAck)
     - [Erin's Audio Corner Website March Audio Sointuva AWG Review](https://www.erinsaudiocorner.com/loudspeakers/march_audio_sointuva/)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
@@ -76,7 +76,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 35hz
 - Tweeter: 1" Aluminium Ceramic Dome
 - Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
@@ -94,7 +94,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon deep rear cup
 - Woofer: GR-Research M165 6.5" paper cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: You've Been Waiting for This... GR Research NX-Bravo Review!](https://www.youtube.com/watch?v=g9MsYUONNhg)
     - [Erin's Audio Corner Website GR-Research NX-Bravo Review](https://www.erinsaudiocorner.com/loudspeakers/gr_nx_bravo/)
     - [GR-Research: Introducing: NX-Bravo  How It Compares](https://www.youtube.com/watch?v=7h72KXd8Q3c)
@@ -114,7 +114,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5" aluminum cone
 - Woofer: 6.5" Hybrid aluminum ported
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
     - [Erin's Audio Corner Website KEF R3 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_r3_meta/)
     - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
@@ -137,7 +137,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 19 mm (0.75 in.) vented aluminium dome with MAT
 - Midrange: 100 mm (4 in.) aluminium cone
 - Woofer: 165 mm (6.5 in.) hybrid aluminium cone
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
     - [Erin's Audio Corner Website KEF Q Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
@@ -158,7 +158,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1.25-inch soft-dome
 - Woofer: 10" Paper-pulp Cone
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: MoFi SourcePoint 10 Review](https://www.youtube.com/watch?v=DcYVu0TQtDs)
     - [Erin's Audio Corner Website Mofi SourcePoint 10](https://www.erinsaudiocorner.com/loudspeakers/mofi_10/)
 - Links
@@ -174,7 +174,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 43hz
 - Tweeter: 1.25-inch soft-dome
 - Woofer: 8"
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why Do People Love the MoFi SourcePoint 8?](https://www.youtube.com/watch?v=h90tqdGsgP4)
     - [Erin's Audio Corner Website Mofi SourcePoint 8](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/)
     - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
@@ -196,7 +196,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: Custom AMT (Air Motion Transformer)
 - Woofer: 6.5" PURIFI USHINDI
 - Woofer Enclosure: Passive radiator
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: New Brand Comes Out Swinging: Radiant Acoustics Clarity 6.2 Review](https://www.youtube.com/watch?v=wV52ek8lUWc)
 - Links
     - [Official adiant Acoustics Clarity 6.2 Website](https://radiantacoustics.com/products/clarity-6-2)
@@ -211,7 +211,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 44hz
 - Tweeter: 1" Beryllium dome with acoustic lens waveguide
 - Woofer: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Revel M126Be is Almost Perfect.](https://www.youtube.com/watch?v=KecbtoerdE0)
     - [Erin's Audio Corner Website Revel M126Be](https://www.erinsaudiocorner.com/loudspeakers/revel_m126be/)
 - Links
@@ -229,7 +229,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: RAAL 64-10X OEM
 - Midrange: Balanced Mode Radiator 2.5"
 - Woofer: 6" Ceramic
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Philharmonic BMR Monitor v2 Review.](https://www.youtube.com/watch?v=7k0PNLo0j9g)
     - [Erin's Audio Corner Website Philharmonic BMR Monitor](https://www.erinsaudiocorner.com/loudspeakers/philharmonic_bmr_v2/)
 - Links
@@ -245,7 +245,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 2" Dome
 - Woofer: 6.5" Kevlar
 - Woofer Enclosure: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links:
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
@@ -260,7 +260,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 43hz
 - Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Woofer: 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofer
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links:
     - [Official Revel M106 Website](https://www.revelspeakers.com/products/types/bookshelf/M106-.html)
@@ -278,7 +278,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5" 
 - Woofer: Dual 8"
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: When Hype Meets Reality: Arendal 1528 Monitor 8 Review](https://www.youtube.com/watch?v=BvKE3jpnsI8)
     - [Erin's Audio Corner Website Arendal 1528 Monitor Review](https://www.erinsaudiocorner.com/loudspeakers/arendal_1528_monitor_8/)
 - Links:
@@ -296,7 +296,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5"(135mm) black woven Kevlar® cone
 - Woofer: 8"(200mm) black woven Kevlar® cone
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: 5 Reasons Wharfedale Super Linton is the Hidden Gem of Audio Equipment](https://www.youtube.com/watch?v=kIf6677oMTA)
     - [Erin's Audio Corner Website Wharfedale Super Linton Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_super_linton/)
     - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
@@ -317,7 +317,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5"(135mm) black woven Kevlar® cone
 - Woofer: 8"(200mm) black woven Kevlar® cone
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Discover Why I Can't Stop Raving About the Wharfedale Linton 85th Anniversary Speaker](https://www.youtube.com/watch?v=CaxknyOrf3I)
     - [Erin's Audio Corner Website Wharfedale Linton 85 Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/)
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
@@ -337,7 +337,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 28mm Esotar 2i with Hexis
 - Woofer: 18 cm MSP
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dynaudio Contour 20i Bookshelf Speaker Review](https://www.youtube.com/watch?v=HcAwjBpzNbE)
 - Links:
     - [Official Dynaudio Contour 20i Website](https://dynaudio.com/home-audio/contour-i/contour-20i)
@@ -354,7 +354,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Front Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Top 3 Things You Need to Know About ELAC DBR62 Before You Buy](https://www.youtube.com/watch?v=VCY_CDu5Xas)
     - [Erin's Audio Corner Website Elac DBR62](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
@@ -374,7 +374,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
     - [Erin's Audio Corner Website Elac DBR63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
@@ -385,7 +385,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: 5dB dip at 10.1k. Some resonance around 700hz and 2khz
 - Sensitivity: 85dB
 - Impedance: 4 ohms
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL HDI-1600](https://www.audiosciencereview.com/forum/index.php?threads/jbl-hdi-1600-speaker-review.12477/)
 - Links:
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
@@ -402,7 +402,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 4" Black Glass Fibre Matrix Cone
 - Woofer: 6.5" Black Glass Fibre Matrix Cone
 - Woofer Cabinet: Rear Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the Wharfedale AURA 2 Will Blow Your Mind](https://www.youtube.com/watch?v=MCNQDNpM4x0)
     - [Erin's Audio Corner Website Wharfedale Aura 2](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_aura2/)
     - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
@@ -416,7 +416,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Bass Extension (-3dB): 63hz
 - Bass Extension (-10dB): 47hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Focal Aria 906](https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/)
 - Links:
     - [Official Focal Aria 906 Website](https://www.focal.com/products/aria-906)
@@ -428,13 +428,13 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Bass Extension (-3dB): 70hz
 - Bass Extension (-10dB): 38hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review KEF Q350](https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/)
 - Links:
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
 
 ### #25 [Revel Concerta2 M16](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m16&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria+906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM16&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+M16)]: Discontinued, about $600 used
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/)
 - Links:
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
@@ -446,7 +446,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Bass Extension (-3dB): 58hz
 - Bass Extension (-10dB): 40hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel Performa M22](https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/)
     - [GR-Research: What the HECK was Revel Thinking?! Revel Performa M22 Upgrades!](https://www.youtube.com/watch?v=JH1DrkqHatQ)
 
@@ -461,7 +461,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aluminum cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=yXhsJejwGuw)
     - [Erin's Audio Corner Website Buchardt S400 MKII](https://www.erinsaudiocorner.com/loudspeakers/buchardt_s400_mkii/)
 - Links
@@ -478,7 +478,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Peerless India T26SG
 - Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
@@ -491,7 +491,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-3dB): 59hz
 - Bass Extension (-10dB): 44hz
 - Woofer: 6.5"
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
 
 ### #30 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Special+Forty)]: $3600
@@ -505,7 +505,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Esotar soft dome tweeter
 - Woofer: 5.9" MSP (Magnesium Silicate Polymer) cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dynaudio Special Forty Looks and Sounds Pretty Awesome!](https://www.youtube.com/watch?v=jDTOAw4gLNM)
     - [Erin's Audio Corner Website Dynaudio Special Forty](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_special_forty/)
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
@@ -523,7 +523,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" aramid fiber cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
     - [Erin's Audio Corner Website Elac Debut DB63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
@@ -536,7 +536,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Bass Extension (-3dB): 74hz
 - Bass Extension (-10dB): 50hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What You Need to Know Before Buying The Polk R200!](https://www.youtube.com/watch?v=BzDClEAQsBU)
     - [Erin's Audio Corner Website Polk R200](https://www.erinsaudiocorner.com/loudspeakers/polk_r200/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
@@ -550,7 +550,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 6 ohms
 - Bass Extension (-3dB): 64hz
 - Bass Extension (-10dB): 40hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review ELAC Debut 2.0 B6.2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/)
 - Links:
     - [Official ELAC Debut 2.0 B6.2 Website](https://elac.com/db62)
@@ -562,7 +562,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 33hz
 - Tweeter: 1.1" Cerotar soft dome with Hexis
 - Woofer: 7.1" Magnesium Silicate Polymer
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Hands On With the Dynaudio Emit 20](https://www.youtube.com/watch?v=Z7R9YApGY6w)
     - [Erin's Audio Corner Website Dynaudio Emit 20](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/)
 - Links
@@ -577,7 +577,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
 - Woofer: 165 mm (6.5 in.) aluminium cone
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)
 - Links
     - [Official KEF Q3 Meta Website](https://us.kef.com/products/q3-meta)
@@ -594,7 +594,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Terylene dome tweeter
 - Woofer: 6.5" bilaminate paper cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)
     - [Erin's Audio Corner Website Polk Monitor XT20](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/)
     - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
@@ -613,14 +613,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 5.9" Super Linear Magnet cone
 - Woofer Cabinet: Sealed
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
 
 ### #38 Pylon Jasper Monitor 18 [[Used Listings](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18)]
 - Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
 - Links
     - [Official Pylon Jasper Monitor 18 Website](https://pylon.pl/en/jasper-series/jasper-monitor-18/)
@@ -631,7 +631,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 8 ohms
 - Bass Extension (-3dB): 65hz
 - Bass Extension (-10dB): 45hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Surprising Truth About Audio Craftsmen Victoria Speakers](https://www.youtube.com/watch?v=Oujx5LziiZA)
     - [Erin's Audio Corner Website Audio Craftsmen Victoria](https://www.erinsaudiocorner.com/loudspeakers/audio_craftsmen_victoria/)
 - Links
@@ -643,7 +643,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 38hz
 - Sensitivity: 87dB
 - Impedance: 4 ohms
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Sonus faber Speaker Comparison: Sonetto II G2 vs Lumina II – Which Wins?](https://www.youtube.com/watch?v=EBQQtr9qIso)
     - [Erin's Audio Corner Website Sonus Faber Sonetto II G2](https://www.erinsaudiocorner.com/loudspeakers/sonus_faber_sonetto_ii_g2/)
 - Links
@@ -661,7 +661,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
     - [Erin's Audio Corner Website Klipsch RP-600M II](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/)
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
@@ -680,7 +680,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
     - [Erin's Audio Corner Website Klipsch RP-600M](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_i/)
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
@@ -689,7 +689,7 @@ Consider this page to be a work in progress and more speakers will be added.
 
 ### #43 [Cerwin Vega LA165](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/CERWIN-VEGA-LA165-Bookshelf-Speakers-Cognac/dp/B0CJLL4Q2N?mcid=0f50f2ee6d9c31cf894cb684b9069117&hvocijid=7732350812692208532-B0CJLL4Q2N-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=7732350812692208532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177858&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=875d26f7a0519423b2e555c4fae82330&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Cerwin+Vega+LA165)]: $270
 - Negatives: Some ringing around 1khz. 3dB at 100hz Boosted punchy upper bass, 2dB dipped midrange, 2dB Dipped from 1.5-3khz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are These $270 Speakers Worth It or a Total Letdown?](https://www.youtube.com/watch?v=5LLEbOTBoCk)
 - Links
     - [Official Cerwin Vega LA165 Website](https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165)
@@ -703,14 +703,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" soft dome tweeter
 - Woofer: 6.5" Kevlar cone
 - Woofer Cabinet: Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
 
 ### #45 Chesky LC1 [[Used Listings](https://www.hifizero.com/index.php?q=Chesky+LC1)]: $1000
 - Negatives: Not recommended. Frequency response is just bad, way too low sensitivity
 - Sensitivity: 81.4dB
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are These $996 Chesky Audio LC1 Speakers Worth the Price?](https://www.youtube.com/watch?v=nUOSTOkFCvU)
 - Links
     - [Official Chesky LC1 Website](https://www.cheskyaudio.com/products/lc1)
@@ -719,7 +719,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
 - Tweeter: 1.5" silk dome tweeter
 - Woofer: 7" rubber surround PP cone
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
     - [Audio Science Review Fosi Audio SP60](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-sp601-2-way-in-room-bookshelf-speakers-for-home-theater-tv-desktop.63508/)
 - Links
@@ -731,7 +731,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Bass Extension (-10dB): 75hz
 - Tweeter: 1.4" soft dome
 - Woofer: 7.1"
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Yamaha NS-10M: The Iconic Studio Monitor That Shaped Modern Music](https://www.youtube.com/watch?v=0pYKuBdhmdc)
     - [Erin's Audio Corner Website Yamaha NS-10](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns10m_studio/)
 
@@ -744,7 +744,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: Eminence ASD-1001
 - Woofer: 8” coax HE (Eminence/Zu)
 - Woofer Cabinet: Front Ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Zu Audio Method Bookshelf Speaker Review](https://www.youtube.com/watch?v=INhqKX1QacQ)
 - Links
     - [Official Zu Audio Method Website](https://www.zuaudio.com/loudspeakers/p/mb1)

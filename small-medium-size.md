@@ -40,7 +40,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.43lbs / 650g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.patreon.com/posts/soundcore-boom-137341326>
@@ -68,7 +68,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.70lbs / 772g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen & Soundcore Motion 300 sound test](https://www.youtube.com/watch?v=SyaGa3I53zM)
     - [Alan Ross Reviews: Travel Speakers! Soundcore Motion 300 or Bose Flex or Tribit Stormbow Flow](https://www.youtube.com/watch?v=Uz07wPZTfzk)
     - <https://www.youtube.com/watch?v=_4S4b5jsagM>
@@ -101,7 +101,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 2.31lbs / 1050g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - [Alan Ross Reviews: 2x Soundcore Boost (stereo) vs Motion Boom and Motion+ - Best Soundcore speaker? 😋](https://www.youtube.com/watch?v=mjBlrhZwDmE)
@@ -132,7 +132,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.29lbs / 590g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=6xcdkK7z7Ys>
     - [Alan Ross Reviews: Soundcore Motion 300 or JBL Flip 6 or Soundcore Boost v2? we all have issues!](https://www.youtube.com/watch?v=929FIaHlbeI)
     - [Alan Ross Reviews: JBL Flip 6 vs Maxsound Plus and Soundcore Boost - ultimate travel speaker!](https://www.youtube.com/watch?v=iE3qoiDAn98)
@@ -156,7 +156,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Stereo: Yes
 - Weight: 1.6lbs / 750g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OZEP9ziwkHw>
     - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
     - <https://www.youtube.com/watch?v=BG9oR8mX0Kw>
@@ -184,7 +184,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 1.21lbs / 550g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
@@ -209,7 +209,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 1.21lbs / 550g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>
     - <https://www.youtube.com/watch?v=HuPEBiJqhPk>
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
@@ -235,7 +235,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 1.08lbs / 488g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
 
@@ -254,7 +254,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - USB Audio: Yes
 - Weight: 1.3lbs / 589g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
     - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
     - <https://www.youtube.com/watch?v=zO3gd-v41Xw>
@@ -283,7 +283,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Audio: Yes
 - Weight: 1.23lbs / 558g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
@@ -313,7 +313,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 2.18lbs / 990g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs SoundCore Boom 2 - David vs Goliath](https://www.youtube.com/watch?v=7U1oJROtNnU)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - basstest (bigger=better?)](https://www.youtube.com/watch?v=8Hs8dpPau-A)
@@ -346,7 +346,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.21lbs / 544g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Flip 7 is screech-fest heaven!  vs Flip 6!](https://www.youtube.com/watch?v=N2bfwmODxA0)
     - [Alan Ross Reviews: Bose Soundlink Flex or JBL Flip 6 (eq adjusted) or Denon Envaya - best speaker for travel!](https://www.youtube.com/watch?v=4WYQ-liCcKk)
     - [Alan Ross Reviews: JBL Flip 6 vs Maxsound Plus and Soundcore Boost - ultimate travel speaker!](https://www.youtube.com/watch?v=iE3qoiDAn98)
@@ -369,7 +369,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 1.29lbs / 590g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=P82BreW-LzY>
     - <https://www.youtube.com/watch?v=sGYxOHqOYWQ>
 - Links
@@ -392,7 +392,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - USB Audio: Yes
 - Weight: 1.23lbs / 560g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
     - [Alan Ross Reviews: JBL Flip 7 is screech-fest heaven!  vs Flip 6!](https://www.youtube.com/watch?v=N2bfwmODxA0)
     - [Chrispy Things [EDC]: JBL Flip 7: My thoughts & sound test VS the Flip 6!](https://www.youtube.com/watch?v=BG7Mq_vc9pk)
@@ -411,7 +411,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.1lbs / 500g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [SpeakerBlowUpMan Lee: Broke Man's JBL Flip 6! Miatone Boompro Bluetooth Speaker Review](https://www.youtube.com/watch?v=Psmgg5ZJCvs)
 - Links
     - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
@@ -429,7 +429,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.1lbs / 500g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL Flip 6 Martin Garrix Edition VS Wisetiger P3 "PRICEY VS REAL CHEAP?!"](https://www.youtube.com/watch?v=LnNR_uVowaw)
     - [Techder Audios: Wisetiger P3 VS Mifa Wildrod "BEST CHEAP SPEAKERS?!"](https://www.youtube.com/watch?v=ikGFsH2aeZ8)
 
@@ -449,7 +449,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.39lbs / 630g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa WildRod Review and new firmware comparison vs JBL Flip 6 - things got interesting 👀](https://www.youtube.com/watch?v=y4DYttybhJ8)
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
 - Links
@@ -467,7 +467,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Audio: Yes
 - Weight: 1.23lbs / 558g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen - outdoor sound test](https://www.youtube.com/watch?v=GtpInB_Saic)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
@@ -490,7 +490,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - USB Audio: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Grimluck: XIAOMI Sound Party Review and Comparison (Jbl charge and Xiaomi outdoor)](https://www.youtube.com/watch?v=PrlSH9kcjWs)
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
 - Links
@@ -512,7 +512,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 2.3lbs / 1020g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EhySzuS39Z8>
     - [Alan Ross Reviews: Tribit Xsound Mega Review vs Anker Soundcore Motion Plus - bang for buck champs! 😛](https://www.youtube.com/watch?v=gTiqH3uTXxc)
     - [Alan Ross Reviews: £50/$50 bluetooth speaker shootout! Tribit Xsound Mega vs Soundcore Boost and others...👍](https://www.youtube.com/watch?v=IkbDwnQRd5s)
@@ -539,7 +539,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.31lbs / 595g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5LUd0Mj5HhQ>
     - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
     - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)
@@ -566,7 +566,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 2.48lbs / 1.13kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.patreon.com/posts/harman-kardon-90318892>
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
@@ -589,7 +589,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.83lbs / 0.83kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
 
 ### #24 [Bogasing M4](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325)]: $52
@@ -608,7 +608,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.61lbs / 731g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Bogasing M4 Review - vs JBL Charge 5 & Motion Plus - a new contender?](https://www.youtube.com/watch?v=WIS2Jk83EI8)
     - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
     - [Alan Ross Reviews: Bogasing M4 or Soundcore Boost or Maxsound Plus for $50 champion?? 🤷‍♀️](https://www.youtube.com/watch?v=7XZgoEVW7Ng)
@@ -627,7 +627,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 2.2lbs / 1000g
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Charge 5 Wifi Review - Is Wifi Worth The Upgrade?](https://www.youtube.com/watch?v=cAhKNL1rpLU)
 - Links
     - [Official Product Page](https://www.jbl.com/wifi-speakers/CHARGE-5-WIFI.html)
@@ -645,7 +645,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 2.1lbs / 960g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 6 or the JBL Charge 5? don't go home till you watch this!](https://www.youtube.com/watch?v=HK8zRB_ZZnI)
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
     - [GYMCADDY: JBL Charge 6 Review - Worth Upgrading Even If You Have The JBL Charge 5](https://www.youtube.com/watch?v=3H5af5Lie_o)
@@ -671,7 +671,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.patreon.com/posts/soundcore-boom-137341326>
     - [Picky Audio: Compact Speaker BEAST! 🔥 soundcore Boom 3i](https://www.youtube.com/watch?v=EqSWcfgbX-8)
 - Links
@@ -689,7 +689,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
     - [NJ Studio Channel: Tribit stormbox micro vs 1More s1001bt Bass Test!!🔥](https://www.youtube.com/watch?v=7ZnTEkAwy98)
 - Links
@@ -709,7 +709,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 1.64lbs / 742g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-qiyBrX1m-g>
     - <https://www.youtube.com/watch?v=7GjQ0VXYYqo>
     - [DHRME: Cleerly More Than Just A Speaker! Cleer Scene Review](https://www.youtube.com/watch?v=YNifFrDKbV0)
@@ -730,7 +730,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.29lbs / 585g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=q_tg3wXjK3k>
     - <https://www.youtube.com/watch?v=8v9BcBgOIpU>
     - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
@@ -746,7 +746,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 1.59lbs / 720g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
 - Links
     - [Official Product Page](https://ie.teufelaudio.com/rockster-xs-105565000)
@@ -766,7 +766,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.76lbs / 798g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tribit Xsound Plus 2: Upgrade Your Sound With Maxsound Eq Preset! New firmware tested](https://www.youtube.com/watch?v=HF3eKZM-ZTs)
     - [Alan Ross Reviews: Goodbye Maxsound Plus hello Tribit Xsound Plus 2! neutral heaven or bass for the masses?](https://www.youtube.com/watch?v=k8tm3FwCkWM)
     - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
@@ -787,7 +787,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.3lbs / 586g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
     - <https://www.patreon.com/posts/bose-soundlink-114024442>
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
@@ -809,7 +809,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.3lbs / 589g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
     - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
@@ -831,7 +831,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Stereo: No
 - Weight: 2.05lbs / 930g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [The Tech Files: JBL CHARGE 5 Vs. CHARGE ESSENTIAL 2 #shorts](https://www.youtube.com/watch?v=ZmYH6zYSNKs)
     - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
@@ -845,7 +845,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 100db
 - Stereo: No
 - Weight: 1.50lbs / 680g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Huawei Sound Joy Devialet speaker review - Joy or Despair?? 🤷‍♀️](https://www.youtube.com/watch?v=QoJKsPaofl0)
     - [Alan Ross Reviews: Huawei sound joy vs JBL Charge 5 and Flip 6 - top mono speaker! 🤓](https://www.youtube.com/watch?v=xLJs_zM0UMg)
 
@@ -855,7 +855,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Stereo: Yes
 - TWS: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 - Links
     - [Official Product Page](https://fugoo.com/products/fugoo)
@@ -874,7 +874,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.43lbs / 650g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
@@ -886,7 +886,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.23lbs / 560g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [スピーカー音質比較: EarFun　UBOOM Slim　音質比較　Norah Jones 「Don't Know Why」](https://www.youtube.com/watch?v=mqqE0rqYLNQ)
 
 ### #40 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325)]: $47
@@ -902,7 +902,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.patreon.com/posts/soundcore-motion-94092689>
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-100-a3133011)
@@ -918,7 +918,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 2.16lbs / 980g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
     - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
@@ -939,7 +939,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.32lbs / 597g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.patreon.com/posts/xiaomi-sound-124370191>
     - [FishBee Product Reviews: Xiaomi Mi Sound Outdoor 30W Speaker vs JBL Flip 6 - CRAZY GOOD!](https://www.youtube.com/watch?v=HWN-qW5vvyY)
 - Links
@@ -956,7 +956,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Stereo: No
 - Weight: 3.2lbs / 1500g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL PULSE 5 VS JBL CHARGE 5 "LIGHTS VS BASS?!"](https://www.youtube.com/watch?v=2I_EWK7p-YI)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
@@ -966,7 +966,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 54hz (-10dB)
 - Max Volume: 100db
 - Stereo: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa3166011)
@@ -982,7 +982,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Stereo: No
 - TWS: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
     - [Audio y Mas 🔊: Altavoces JBL Flip 6 vs W-King D320: ¿Cuál es el mejor en calidad de sonido? 🔊](https://www.youtube.com/watch?v=3zEtJi4u-F8)
 - Links
@@ -996,7 +996,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Stereo: No
 - Weight: 2lbs / 0.91kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Danny Pops: BEST Bose Speaker? Bose is getting lazy.](https://www.youtube.com/watch?v=upSSUEct7Gk)
     - [Kanwar Anand: Bose Revolve Plus 1 vs 2](https://www.youtube.com/watch?v=Jvn9ZkYykF4)
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
@@ -1014,7 +1014,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 2lbs / 0.91kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WD5OLLBXRDc>
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
     - <https://www.youtube.com/watch?v=dP36vzF-ykY>
@@ -1029,7 +1029,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Stereo: Yes
 - Weight: 1.7lbs / 0.771kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Element Force review vs Bogasing M4 - cheap speaker 🤑](https://www.youtube.com/watch?v=1btEBiXCEF0)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/element-force-waterproof-portable-bluetooth-speaker)
@@ -1044,7 +1044,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 1.46lbs / 660g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=TvXVeqwo8Jc>
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
     - <https://www.youtube.com/watch?v=w2YMjKqHf5c>
@@ -1062,7 +1062,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 400ms aac, 200ms sbc
 - Stereo: No
 - Weight: 1.45lbs / 657g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
     - <https://www.youtube.com/watch?v=6Yjao_U8RIM>
     - [Alan Ross Reviews: Tribit Stormbox Flow firmware update 1.2.3 game changing moment in portable bluetooth history!](https://www.youtube.com/watch?v=wlHqDeFMR7E)
@@ -1086,7 +1086,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: No
 - Weight: 2.12lbs / 960g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
     - <https://www.youtube.com/watch?v=5cppZYdrA9A>
     - <https://www.youtube.com/watch?v=seSKe2MRngo>
@@ -1109,7 +1109,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 98db
 - Stereo: No
 - Weight: 1.28lbs / 581g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: 1 million views! Best Budget Tws? Tozo Pa1 Review and sound test](https://www.youtube.com/watch?v=tNxGzF2uPEQ)
     - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
     - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
@@ -1129,7 +1129,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 1.67lbs / 757g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
     - <https://www.patreon.com/posts/bogasing-m5-126932777>
 
@@ -1144,7 +1144,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Stereo: Yes
 - Weight: 0.82lbs / 372g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Anker Soundcore 3 vs Tribit Maxsound Plus - Best £50 speaker](https://www.youtube.com/watch?v=1RD6Wz_dg4w)
     - [Alan Ross Reviews: Soundcore Boost vs Soundcore 3 - Best small bluetooth speaker❓](https://www.youtube.com/watch?v=SxJTZDCiw7g)
     - [HQ AUDIO Exchange: Anker SoundCore 3  Vs. SoundCore Select 2 Bass Sound Test](https://www.youtube.com/watch?v=XpkitJveFlc)
@@ -1159,7 +1159,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Yes
 - Weight: 1.5lbs / 680g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
     - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
@@ -1175,7 +1175,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Yes
 - Weight: 1.5lbs / 680g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
     - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
     - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
@@ -1188,7 +1188,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: A bit of a sharp treble
 - Battery Life: 13 hours
 - Weight: 0.82lbs / 373g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: Anker Soundcore 3 Vs Soundynamic Twinkle Vs Xiaomi Mi 16w](https://www.youtube.com/watch?v=TF748bXDjIs)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/mi-portable-bluetooth-speaker/)
@@ -1204,7 +1204,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 2.43lbs / 1.1kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony xb33 vs xb43 vs Soundcore Motion Plus speakers test](https://www.youtube.com/watch?v=P5POaQhiDgE)
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - [GYMCADDY: Sony XE300 Review And Compared to Sony XB33 - A Muffled Mess](https://www.youtube.com/watch?v=jHQXf-CZ2Lk)
@@ -1218,7 +1218,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 64hz (-10dB)
 - Battery Life: 12 hours
 - Weight: 1.8lbs / 816g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2A3C3Ec8QJA>
     - <https://www.youtube.com/watch?v=-nn6jz8CLnI>
     - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
@@ -1240,7 +1240,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Audio: Yes
 - Weight: 1.34lbs / 680g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - <https://www.patreon.com/posts/beats-pill-2024-114092056>
     - [DailyTekk: NEW Beats Pill First Impressions & Sound Test - Worth $149?](https://www.youtube.com/watch?v=Y8N22lZDQJ8)
@@ -1256,7 +1256,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 92db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Weight: 1.19lbs / 540g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
 - Links
@@ -1274,7 +1274,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - TWS: No
 - Weight: 1.1lbs / 510g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
@@ -1290,7 +1290,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 95db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Weight: 1.28lbs / 580g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB23 vs JBL Flip 5 v Tribit Maxsound Plus](https://www.youtube.com/watch?v=_uqf_NKwcP4)
     - [Alan Ross Reviews: Huawei Sound Joy vs Sony xb23 - worse or worser? 🤭](https://www.youtube.com/watch?v=MeQ5llKSqvc)
     - [Alan Ross Reviews: Sony XB23 vs XB33 - specs and measurements](https://www.youtube.com/watch?v=IyCRwXBO26Y)
@@ -1311,7 +1311,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 2.4lbs / 970g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Klipsch Nashville vs Bogasing M5 Bi-Directional Speaker Battle](https://www.youtube.com/watch?v=q_W1Wa63xXc)
     - [Storytripper HD: Klipsch Nashville vs JBL Charge 5](https://www.youtube.com/watch?v=QuvvD6AFvSk)
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
@@ -1325,7 +1325,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - Party Mode: No
 - Weight: ‎1.04lbs / 471g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
@@ -1340,7 +1340,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: Micro USB
 - Weight: 1.8 lbs / 800g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 5 vs JBL Charge 4 and Charge 3 - best JBL charge 5 review 2021?](https://www.youtube.com/watch?v=fxoGZdNakIg)
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
@@ -1361,7 +1361,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: Micro USB
 - Weight: 1.7lbs / 770g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
     - [Techder Audios: JBL EXTREME 3 VS JBL CHARGE ESSENTIAL](https://www.youtube.com/watch?v=gnjcKKYf7xs)
 - Links
@@ -1371,7 +1371,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
 - Power Bank: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
     - <https://www.youtube.com/watch?v=0vht8NRUrl4>
     - <https://www.youtube.com/watch?v=X1pEsqtN61c>
@@ -1391,7 +1391,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Weight: 0.95lbs / 429g
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [The Product Lab: Sonos Roam 2 (2025)  Watch Before You Buy](https://www.youtube.com/watch?v=2irJYDv7O74)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
@@ -1405,7 +1405,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - Weight: 0.95lbs / 429g
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=mbYsxgScTz8>
     - [Alan Ross Reviews: Sonos Roam Review and specs - vs maxsound plus, soundcore boost and others! 👍](https://www.youtube.com/watch?v=R29TwFZmuNA)
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
@@ -1422,7 +1422,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially
 - Weight: 3.0lbs / 1.36kg
 - Wifi: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Charge 5 vs Tronsmart Mirtune S100 - Sound Comparison💥🔥](https://www.youtube.com/watch?v=jfB1dUCEsGQ)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-mirtune-s100-portable-outdoor-speaker)
@@ -1437,7 +1437,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 1.4lbs / 637g
 - Wifi: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [EnforcerMan: JBL CHARGE 3 VS TREBLAB HD77 - FULL REVIEW](https://www.youtube.com/watch?v=6N6q3qppV58)
     - [Brian Unboxed: Treblab HD77 Bluetooth Speakers - Review & Audio Samples](https://www.youtube.com/watch?v=q91zXgCpPQQ)
 - Links
@@ -1452,7 +1452,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 98db
 - Stereo: Yes
 - Weight: 0.84lbs / 380g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)
     - <https://www.youtube.com/watch?v=SSla-paxi14>
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
@@ -1465,7 +1465,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Stereo: Yes
 - Weight: 0.97lbs / 440g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Tribit XSound Surf vs. XSound Go (Upgraded Model) Bluetooth Speaker Sound Comparison.](https://www.youtube.com/watch?v=7vXafwDd3Z0)
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
 
@@ -1484,7 +1484,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No (front/rear drivers)
 - TWS: Yes
 - Weight: 1.3lbs / 593g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.patreon.com/posts/tribit-stormbox-109758019>
     - [Alan Ross Reviews: Tribit Stormbox 2 - wow is this deliberate? 🤔](https://www.youtube.com/watch?v=req2-T3W2xo)
 - Links
@@ -1496,7 +1496,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Stereo: Yes
 - Weight: 0.70lbs / 318g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
     - [SoulOfTech: Anker SoundCore 2 2021 Review and Sound Test - Best Budget Bluetooth Speaker](https://www.youtube.com/watch?v=bLi4fsS23Do)
 - Links
@@ -1516,7 +1516,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 1.5lbs / 680kg
 - Wifi: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [FishBee Product Reviews: LG XBOOM Grab (2025) by Will.i.am - BETTER Than JBL Flip 7??](https://www.youtube.com/watch?v=pvjIlFA7TWU)
     - [Mike O'Brien: What Did LG Just Launch? (NEW will.i.am x LG xboom Speakers)](https://www.youtube.com/watch?v=QDBumYKUsms)
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
@@ -1532,7 +1532,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Stereo: No
 - Weight: 2.04lbs / 925g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: UE Megaboom 3 review vs JBL Charge 5 & Motion Boom! how bad can it be??](https://www.youtube.com/watch?v=I114oDubbic)
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
@@ -1547,7 +1547,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Stereo: No
 - Weight: 0.93lbs / 420g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
     - [Jay's Straight Up Reviews & More: JBL Flip 6 vs Ultimate Ears Wonderboom 3 (Indoor Mode)⚔️ Battle of the Handheld Bluetooth Speakers.](https://www.youtube.com/watch?v=KjIvKngB10M)
     - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
@@ -1563,7 +1563,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Stereo: No
 - Weight: 0.92lbs / 420g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
     - [Alan Ross Reviews: UE Wonderboom 2 review and sound test - vs Flip 5 - Flip 4](https://www.youtube.com/watch?v=EXMSGwFcTZI)
 
@@ -1573,7 +1573,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Stereo: No
 - Weight: 0.94lbs / 425g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=u-Mvo52ozoU>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
     - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
@@ -1587,7 +1587,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.36 lbs / 620g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Cameron Dougherty Tech: UE Boom 4: A Comprehensive Review](https://www.youtube.com/watch?v=lwyO-KbUvvo)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/boom-4)
@@ -1601,7 +1601,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - Stereo: Yes
 - Weight: 1.34lbs / 608g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/boom-3)
@@ -1615,7 +1615,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: Micro USB
 - TWS: No
 - Weight: 1.7lbs / 770g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=V1pufWw-lrg>
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
 - Links
@@ -1626,7 +1626,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Weight: Weight: 2.86lbs / 1.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [New Stuff TV: Sony SRS-XE300 vs JBL Charge 5](https://www.youtube.com/watch?v=s3SAQ7lDbOY)
     - [DLX Willington: FINALLY! Sony SRS XG300, SRS XE300, & SRS XE200 Are Here. Binaural Sound Samples & First Impressions](https://www.youtube.com/watch?v=ugF2D1a2E7o)
     - [GYMCADDY: Sony XE300 Review And Compared to Sony XB33 - A Muffled Mess](https://www.youtube.com/watch?v=jHQXf-CZ2Lk)
@@ -1647,7 +1647,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Latency: 166ms
 - Max Volume: 97db
 - Weight: 1.2lbs / 535g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)
     - [Alan Ross Reviews: Earfun Uboom vs Tribit Stormbox - 360 degree bluetooth speaker comparison](https://www.youtube.com/watch?v=AeaMQ3DR_hE)
     - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
@@ -1660,7 +1660,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Weight: 1.3lbs / 590g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
     - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
@@ -1673,7 +1673,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: No
 - Weight: 1.1lbs / 500g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [スピーカー音質比較: YAMAHA　WS-B1A　音質比較　　Eric Clapton　「Change The World」](https://www.youtube.com/watch?v=qG3-KQwTs0A)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/audio_visual/desktop_audio/truexspeaker1a/index.html)
@@ -1683,7 +1683,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Weight: 1.91lbs / 870g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Daniel Pérez: Tronsmart T7 vs JBL Flip 6](https://www.youtube.com/watch?v=PJEEGkFTfOU)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-t7-portable-outdoor-speaker)
@@ -1691,7 +1691,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #90 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl)]: $20
 - Negatives: Not much bass, peaky upper mids
 - Battery Life: 16 hours
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
 ### #91 Bose SoundLink Color II
@@ -1700,7 +1700,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Bose Party mode)
 - TWS: Yes
 - Weight: 1.3lbs / 600g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
     - <https://www.youtube.com/watch?v=V9v9t9BEIe4>
     - <https://www.youtube.com/watch?v=vtfBbnsS7pE>
@@ -1717,7 +1717,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 32 hours
 - Party Mode: Yes (Marshall Stack)
 - Weight: 1.5lbs / 673g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Danny Pops: Should you get the Marshall Emberton III? I'll be very honest...](https://www.youtube.com/watch?v=ackV4YXZwoI)
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
     - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
@@ -1733,7 +1733,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 88db
 - Party Mode: Yes (Marshall Stack)
 - Weight: 1.5lbs / 700g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=IKyPA1DFI7g>
     - [Alan Ross Reviews: Marshall Emberton vs Marshall Stockwell 2 - little guy goes louder?? 🤓](https://www.youtube.com/watch?v=6j2Aj5E48Kc)
     - [Alan Ross Reviews: Bose Soundlink Flex vs Minirig MK3 and Marshall Emberton - best bluetooth speaker?](https://www.youtube.com/watch?v=nseOM9Ah-jE)
@@ -1745,7 +1745,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #94 Hifuture Soundpro
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight: 1.1lbs / 500g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: HIFUTURE SOUNDPRO UNBOXING & COMPARISON ,X10,FLIP 6,WILDROD !!](https://www.youtube.com/watch?v=tmDMlOdPc8w)
     - [Techder Audios: TRONSMART STUDIO VS HIFUTURE SOUNDPRO "STEREO+RACETRACK DRIVER VS NORMAL STEREO!"](https://www.youtube.com/watch?v=VM3SggT4ANw)
 - Links
@@ -1757,7 +1757,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.65lbs / 750g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Speaker Toni: Cabasse Swell - Unboxing and first impressions...](https://www.youtube.com/watch?v=YsttqCS46QQ)
 
 ### #96 Teufel Rockster Go: €83.00
@@ -1766,7 +1766,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - IP Rating: IPX7
 - Weight: 1.54lbs / 700g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dHRkJTQ9nmw>
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-go-105727000)
@@ -1779,7 +1779,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 95db
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Weight: 2.2lbs / 1000g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/product/srs-xb30/manuals)
@@ -1795,7 +1795,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Weight: 1.3lbs / 600g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
     - [Alan Ross Reviews: Tronsmart T6 Plus upgraded edition vs Anker Motion Plus and Flare 2](https://www.youtube.com/watch?v=IN_RQ2TFKuc)
     - [Alan Ross Reviews: Soundcore Flare 2 - mega 360 degree speaker shootout!](https://www.youtube.com/watch?v=X_Ol81BBuWk)
@@ -1811,13 +1811,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - TWS: No
 - Weight: 2.77lbs / 1260g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
     - [Alan Ross Reviews: W King D8 Mini review vs JBL Charge 4 vs Maxsound Plus](https://www.youtube.com/watch?v=KgMDRxajEZw)
 
 ### #100 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325)]: $36
 - Negatives: Quite a bit of bass distortion thudding as you turn the volume up. Bass not that deep. The Tozo PA1 totally outclasses it.
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: The New Tozo PA2 vs PA1 😵 A Bluetooth Speaker Family Feud. Mr Hand ☝️ Makes His Return](https://www.youtube.com/watch?v=FyPCrI3jz1Y)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
@@ -1828,7 +1828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~72hz (-10dB)
 - Battery Life: 6 hours
 - Weight: 2.8lbs / 1270g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=VaR5Mi24b8Y>
     - <https://www.youtube.com/watch?v=ONaYmlCDaGQ>
     - <https://www.youtube.com/watch?v=zHKapeBRfJw>
@@ -1842,7 +1842,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 91db
 - USB Audio: Yes
 - Weight: 1.23lbs / 631g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-explore)
@@ -1852,7 +1852,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Weight: 1.76lbs / 800g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Chrispy Things [EDC]: New Sony XE200 Bluetooth Speaker Sound Test & Review](https://www.youtube.com/watch?v=av0qlp2JalI)
     - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
     - [Danny Pops: Sony XE200 XE300 vs Bose Marshall & JBL](https://www.youtube.com/watch?v=da-yS5OCQ48)
@@ -1866,7 +1866,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Max Volume: 100db
 - Weight: 1.4lbs / 640g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: LG Xboom Go PL5 review - the Flip 5 should be worried?? 🤭](https://www.youtube.com/watch?v=GbiUY9bdv7g)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl5-portable-bluetooth-speaker)
@@ -1874,7 +1874,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #105 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325)]: $90
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 18 hours
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Luan Tech: JBL FLIP 6 vs LG XBOOM XG5 COMPARATIVO COMPLETO!](https://www.youtube.com/watch?v=o0ZgBxwlNE4)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
@@ -1885,7 +1885,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Lights: Yes
 - Weight: 1.56lbs / 708g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: Tribit Stormbox Mini - 30$ hit or miss? vs Tribit Micro 2](https://www.youtube.com/watch?v=CVeKxTJumuc)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Mini - Bluetooth Speaker Review 🥴Did Tribit Miss the Mark 🎯 On This One?🤔](https://www.youtube.com/watch?v=AHWErahCd5M)
     - [Storytripper HD: Tribit Micro 2 vs Tribit STormBox 2 vs Tribit StormBox Mini](https://www.youtube.com/watch?v=j2RvrCmY31E)
@@ -1897,7 +1897,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Weight: 1.38lbs / 630g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio 503: Tronsmart T7 Lite (24w) vs JBL Flip 6 (30w)](https://www.youtube.com/watch?v=S03_X1Vrm9U)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
@@ -1935,7 +1935,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #110 Harman Kardon Esquire 2: $200
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Dynamic District: Harman Kardon Esquire 2 review](https://www.youtube.com/watch?v=HXhIh7a-vE0)
 - Links
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
@@ -1943,7 +1943,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #111 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325)]: $36
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 
 ### #112 Xdobo X8: $35
@@ -1953,7 +1953,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - MicroSD: Yes
 - Weight: 1.9lbs / 860g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Naresh Lal: JBL Charge 4 Vs Xdobo X8 Tell me Which one is the BEST?](https://www.youtube.com/watch?v=DTgp-xGDzvw)
     - [Naresh Lal: Anker Soundcore motion+ Vs Xdobo X8](https://www.youtube.com/watch?v=0_ZOX8rFK6c)
 - Links
@@ -1964,7 +1964,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - IP Rating: IP55
 - Weight: 0.82lbs / 373g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [xiaomify (xiaomify): Xiaomi - Outdoor Speaker;  Is it any good??  Full Review [Xiaomify]](https://www.youtube.com/watch?v=2xDcb8j9x5M)
     - [Frankie Tech: Mi Outdoor Bluetooth Speaker & Speaker Mini Review - Small Price, Big Sound!](https://www.youtube.com/watch?v=YR5qkcPg_i4)
 
@@ -1973,7 +1973,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: ~64hz (-10dB)
 - Battery Life: 30 hours
 - Weight: 1.3lbs / 590g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS ORTIZAN X10](https://www.youtube.com/watch?v=8uqI1pxHeVM)
 
 ### #115 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
@@ -1982,14 +1982,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Max Volume: 86db
 - Weight: 0.9lbs / 400g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 
 ### #116 Ultimate Ears Roll 2: $100
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Battery Life: 9 hours
 - Weight: 0.73lbs / 330g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SSla-paxi14>
 
 ### #117 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
@@ -2001,13 +2001,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Input: Micro USB
 - Weight: 0.66lbs / 300g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jack Of All Trades, Master of None: Walla Sound Wireless Bluetooth Speaker](https://www.youtube.com/watch?v=tbd1-9CAnYw)
 
 ### #118 EFM Toledo
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DankPods: The bluetooth speaker shootout.](https://www.youtube.com/watch?v=SmF_9L5FM7w)
 
 ### #119 Beats Pill+: $230
@@ -2016,13 +2016,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 90hz (-10dB)
 - EQ: No
 - Weight: 1.5lbs / 0.7kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
 
 ### #120 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
 - Negatives: No bass, very rolled off treble. Distortion in the treble. Just doesn't sound good
 - Battery Life: 14 hours
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
     - [FishBee Product Reviews: Why is NO ONE Buying the New Skullcandy Speakers??](https://www.youtube.com/watch?v=OJRFayx5pk0)
     - [GYMCADDY: Skullcandy Terrain & Terrain Mini Review](https://www.youtube.com/watch?v=Fm98ccBcZng)
@@ -2034,7 +2034,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - MicroSD: Yes
 - Weight: 1.23lbs / 558g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
 
 ### #122 Doss Soundbox
@@ -2044,7 +2044,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Weight: 1.23lbs / 558g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
 
 ### #123 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl)]: $27
@@ -2052,7 +2052,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - IP Rating: IPX7
 - Weight: 1.23lbs / 550g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: Wisetiger F10 Beat Boom "CHEAP & GOOD?!"](https://www.youtube.com/watch?v=PSqpd9W7oPI)
 
 ### #124 Doss E–Go II
@@ -2061,7 +2061,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 120hz (-10dB)
 - Battery Life: 12 hours
 - MicroSD: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
 
 ### #125 [Ultimate Ears Megaboom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl)]: $200
@@ -2071,7 +2071,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IP67
 - Party Mode: Yes
 - Stereo: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs Sony ULT Field 1 😧 $200 vs $128 Cylinder Bluetooth Speaker Matchup](https://www.youtube.com/watch?v=lrVa4Cnrets)
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)
 - Links
@@ -2084,7 +2084,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX5
 - Max Volume: 89db
 - Weight: 1.28lbs / 580g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Wogk7QEtKP4>
 
 ### #127 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c42agFcJ)]: $20
@@ -2092,14 +2092,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - IP Rating: IPX7
 - Weight: 1.47lbs / 665g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Zealot S61 🦨 Bluetooth Speaker Review & Sound Comparison to Tribit XSound Surf. Another Zealot dud❓](https://www.youtube.com/watch?v=ADGFOxmXROs)
 
 ### #128 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl)]: $60
 - Negatives: Barely any bass, “pathetic sounding” said Jay's Reviews. Gets distorted with a lot of bass. The entire Altec Lansing Bluetooth speaker line likely also sounds similarly bad.
 - Battery Life: 30 hours
 - Weight: 2.7lbs / 1.22kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing Lifejacket 3 🦨 (2022 Version) How Many Versions Have They Made❓ How Bad Is It❓](https://www.youtube.com/watch?v=xVCMja9zVSc)
     - [Ivan T: Altec lancing lifejacket 3](https://www.youtube.com/watch?v=Yge_hkwdyQ0)
     - [Altec lansing bass test: bass test altec lansing lifejacket 3 (mambo lambo crazy bass)](https://www.youtube.com/watch?v=mqgcIdBATeo)
@@ -2111,7 +2111,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension: 185hz (-10dB)
 - Battery Life: 9 hours
 - Weight: 0.7lbs / 0.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Tom DeCicco: Award Winning CES Bluetooth Speaker is FIRE! TikiTunes](https://www.youtube.com/watch?v=1A5cNDoQCM8)
     - [Nerd Know Better: TikiTunes Review: Is it Really Best Wireless Bluetooth Speaker?](https://www.youtube.com/watch?v=VDc2anLRz0w)
 

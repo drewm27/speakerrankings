@@ -36,7 +36,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.7lbs / 317g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
@@ -70,7 +70,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 0.71lbs / 320g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
     - [Alan Ross Reviews: Minirig Mini mk2 - best small speaker?](https://www.youtube.com/watch?v=7kydvk2xdtA)
@@ -95,7 +95,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 0.69lbs / 314g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
 
@@ -116,7 +116,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.65lbs / 295g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - <https://www.youtube.com/watch?v=hYIQtNJ3gM0>
@@ -134,7 +134,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.78lbs / 355g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/boomster-go-105954000)
@@ -156,7 +156,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fsoundcore-mini-3)
@@ -178,7 +178,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fa3119011)
@@ -196,7 +196,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.66lbs / 300g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/vifa-city)
@@ -211,7 +211,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Weight: 0.62 lbs / 279g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/miniroll)
@@ -229,7 +229,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - Power Input: Micro USB
 - Weight: 0.44lbs / 200g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-mini&cjsku=A3101111)
@@ -249,7 +249,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.68lbs / 309g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)
     - [Danny Pops: Marshall Willen VS Bose, Sony, and Tribit Micro Speakers](https://www.youtube.com/watch?v=q9u7iRmRdjk)
     - [Storytripper HD: Marshall Willen  vs  Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=_vBF_b2AEUg)
@@ -273,7 +273,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.88lbs / 397g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
     - [Storytripper HD: JBL Clip 4 vs  B&O A1 2nd  vs  Klipsch Austin](https://www.youtube.com/watch?v=iri3WLn6DBs)
     - [Storytripper HD: JBL GO 4 vs TRIBIT MICRO 2 vs KLIPSCH AUSTIN vs SONY SRS-XB100](https://www.youtube.com/watch?v=cnx3ydaM8gs)
@@ -292,7 +292,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.61lbs / 275g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beoplay-p2)
@@ -313,7 +313,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.86lbs / 390g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Tango Camping Bluetooth Speaker Review](https://www.youtube.com/watch?v=biqsZ3Uhr3U)
 - Links
     - [Official Product Page](https://www.mifa.net/productinfo/2606938.html)
@@ -334,7 +334,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.64lbs / 289g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
 - Links
@@ -355,7 +355,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.55lbs / 248g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
     - [Electric Chris Chris Vanderstock: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
 - Links
@@ -374,7 +374,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.86lbs / 390g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/CLIP-5.html)
@@ -393,7 +393,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.53lbs / 239g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - [Danny Pops: MICRO SPEAKERS - my take on JBL Clip 4 VS Wonderboom 2 VS Bose Micro](https://www.youtube.com/watch?v=Vyc6e3bxoUs)
 - Links
@@ -411,7 +411,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.58lbs / 265g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
@@ -431,7 +431,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.42lbs / 190g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
     - <https://www.youtube.com/shorts/cT-oUhYhPWk>
@@ -452,7 +452,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.46lbs / 209g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
 - Links
@@ -474,7 +474,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.63lbs / 286g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Tech, Life, And More: My friend's Onn. Rugged Speaker S pocket sized portable Bluetooth speaker sound test, amazing value!](https://www.youtube.com/watch?v=X2i_dJCrwlc)
     - [SpaztasticTV: New Onn Bluetooth Speakers](https://www.youtube.com/watch?v=che2VHKbnhA)
     - <https://www.youtube.com/shorts/gQB9CV_--Gk>
@@ -495,7 +495,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - TWS: No
 - Weight: 0.35lbs / 159g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [wwjoshdew: Monster Atomic Atom Bluetooth 5.4 Speaker](https://www.youtube.com/watch?v=4RJTt8arMM4)
 - Links
     - [Official Product Page](https://mct-audio.com/products/monster-atomic-atom)
@@ -568,7 +568,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.60lbs / 274g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
     - [Flossy Carter: Sony SRS-XB100 - Small Speaker, Huge Sound](https://www.youtube.com/watch?v=j_YH3cGsQZk)
     - [Danny Pops: Agreeable Gray? - The Sony XB100 is almost the same as the XB13](https://www.youtube.com/watch?v=EFB1Ut2EZMo)
@@ -589,7 +589,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.56lbs / 255g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)
 - Links
@@ -608,7 +608,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.35lbs / 158g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links
     - [Official Product Page](https://www.jbl.com/award-winners/JBL+CLIP.html)
@@ -626,7 +626,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.5lb / 227g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CLIP+3.html)
@@ -639,7 +639,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - Stereo: No
 - Weight: 0.41lbs / 185g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
 
 ### #32 Hopestar H54: 
@@ -653,7 +653,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Bank: No
 - Stereo: No
 - TWS: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links
     - [Official Product Page](https://hopestarshop.com/products/hopestar-h54-speaker)
@@ -673,7 +673,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.54lbs / 243g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
@@ -687,7 +687,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Weight: 0.55lbs / 248g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)
     - [RodrickViews: Muzen Wild Mini Rugged Outdoor Speaker](https://www.youtube.com/watch?v=NI_2TlxDbWQ)
     - [Survival Gear: You NEED This Tiny Speaker! MUZEN WILD MINI REVIEW](https://www.youtube.com/watch?v=Cu74DhLpYCI)
@@ -701,7 +701,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Power Input: USB-C
 - Stereo: No
 - Weight: 0.41lbs / 187g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [UtmostCoin Reviews: Bringing Sophistications to The Wild - Muzen Wild Go Speaker Review](https://www.youtube.com/watch?v=3JsU3QYYRrk)
     - [Chrispy Things [EDC]: The NEW ultra portable Muzen Wild Go Sound Test & Review!](https://www.youtube.com/watch?v=g0mixdXjVI8)
 - Links
@@ -719,7 +719,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 250g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jaky9114: 2022年12月16日](https://www.youtube.com/watch?v=4xCM1mE-1Ww)
     - [Jaky9114: Harman Kardon Esquire Mini 2](https://www.youtube.com/watch?v=sQT7_LLqJ4M)
 - Links
@@ -736,7 +736,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 251g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
@@ -750,7 +750,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: Yes
 - TWS: Yes
 - Weight: 0.32lbs / 145g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jon Low: The world's thinnest bluetooth speaker- Lenovo 700 Ultra Bluetooth Speaker: #AWGR009](https://www.youtube.com/watch?v=Yam_mssFqeU)
     - [thomas vanderkin (The Vanderkinverse): Lenovo 700 Ultraportable Bluetooth Speaker](https://www.youtube.com/watch?v=6CtZiXCJF18)
 - Links
@@ -768,7 +768,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.086lbs / 39g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [BigMans World Of Wonders: NOXGEAR 39G WEARABLE BLUETOOTH SPEAKER  WORTH THE HYPE?  AUDIO TESTING & DETAILED REVIEW](https://www.youtube.com/watch?v=P8QaTedwkSw)
     - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)
 - Links
@@ -786,7 +786,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: <0.12lbs / <56g
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [BigMans World Of Wonders: NOXGEAR 39G WEARABLE BLUETOOTH SPEAKER  WORTH THE HYPE?  AUDIO TESTING & DETAILED REVIEW](https://www.youtube.com/watch?v=P8QaTedwkSw)
     - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)
 - Links

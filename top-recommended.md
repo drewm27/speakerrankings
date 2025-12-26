@@ -31,7 +31,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Bluetooth Codecs: SBC
 - Stereo: No
 - Power Input: USB-C
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
@@ -73,7 +73,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Bluetooth Codecs: AAC, SBC
 - Power Input: USB-C
 - IP Rating: IP67
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.patreon.com/posts/soundcore-boom-137341326>
@@ -102,7 +102,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Bluetooth Codecs: LDAC, SBC
 - Aux Input: No
 - IP Rating: IPX7
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen & Soundcore Motion 300 sound test](https://www.youtube.com/watch?v=SyaGa3I53zM)
     - [Alan Ross Reviews: Travel Speakers! Soundcore Motion 300 or Bose Flex or Tribit Stormbow Flow](https://www.youtube.com/watch?v=Uz07wPZTfzk)
     - <https://www.youtube.com/watch?v=_4S4b5jsagM>
@@ -136,7 +136,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Power Input: USB-C
 - Bluetooth Codecs: aptX, SBC
 - IP Rating: IPX7
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - [Alan Ross Reviews: 2x Soundcore Boost (stereo) vs Motion Boom and Motion+ - Best Soundcore speaker? 😋](https://www.youtube.com/watch?v=mjBlrhZwDmE)
@@ -168,7 +168,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Bluetooth Codecs: AAC, SBC
 - Power Input: USB-C
 - IP Rating: IP67
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - <https://www.patreon.com/posts/evening-with-137116931>
     - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
@@ -203,7 +203,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - IP Rating: IPX7
 - Bluetooth Codecs: SBC
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs SoundCore Boom 2 - David vs Goliath](https://www.youtube.com/watch?v=7U1oJROtNnU)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
@@ -242,7 +242,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Bluetooth Codecs: AAC, SBC
 - IP Rating: IP67
 - Power Input: USB-C
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
     - <https://www.patreon.com/posts/evening-with-137116931>
@@ -302,7 +302,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Bluetooth Codecs: SBC
 - IP Rating: IPX7
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
@@ -342,7 +342,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Power Input: AC Power brick
 - IP Rating: None
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
     - [Alan Ross Reviews: JBL Distortion Fest vs my favorite speaker today! I wasn't expecting this!](https://www.youtube.com/watch?v=Eo8q8xLBg-o)
@@ -377,7 +377,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - IP Rating: IPX4
 - Stereo: Partially
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
@@ -404,7 +404,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - IP Rating: IPX4
 - Power Input: AC Power cord
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
@@ -430,7 +430,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Power Input: AC Power cord
 - Removable Battery: Yes
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
@@ -462,7 +462,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - IP Rating: IP43
 - Stereo: No
 - Bluetooth Codecs: aptX, SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links

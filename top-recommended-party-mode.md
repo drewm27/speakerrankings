@@ -30,7 +30,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Power Input: USB-C
 - Bluetooth Codecs: SBC
 - Stereo: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fsoundcore-mini-3)
@@ -54,7 +54,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Aux Input: No 
 - Digital Aux Input: Yes (USB-C)
 - IP Rating: IP68
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs SoundCore Boom 2 - David vs Goliath](https://www.youtube.com/watch?v=7U1oJROtNnU)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - basstest (bigger=better?)](https://www.youtube.com/watch?v=8Hs8dpPau-A)
@@ -93,7 +93,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - IP Rating: IPX7
 - Bluetooth Codecs: SBC
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs SoundCore Boom 2 - David vs Goliath](https://www.youtube.com/watch?v=7U1oJROtNnU)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
@@ -131,7 +131,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Bluetooth Codecs: AAC, SBC
 - IP Rating: IP67
 - Power Input: USB-C
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
     - <https://www.patreon.com/posts/evening-with-137116931>
@@ -192,7 +192,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - IP Rating: IPX4
 - Stereo: Partially
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
@@ -219,7 +219,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - IP Rating: IPX4
 - Power Input: AC Power cord
 - Bluetooth Codecs: SBC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)

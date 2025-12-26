@@ -27,7 +27,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Midrange: 8" Aluminium Cone
 - Woofer: 2x 8" Aluminium Cone
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dutch & Dutch 8c Bookshelf Speaker Review](https://www.youtube.com/watch?v=j38gkS-Q8f8)
     - [Erin's Audio Corner Website Dutch & Dutch 8C](https://www.erinsaudiocorner.com/loudspeakers/dutch_dutch_8c/)
 - Links
@@ -43,7 +43,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 555w Per Speaker
 - Woofer: 10"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-420)
@@ -60,7 +60,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Midrange: 5 1/8"
 - Woofer: Dual 263 x 137 mm
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Genelec 8361a is FANTASTIC for Your Home Studio or HiFi!](https://www.youtube.com/watch?v=2VjzJRXbafI)
 - Links
     - [Official Product Page](https://www.genelec.com/8361a)
@@ -75,13 +75,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 550w Per Speaker
 - Woofer: 8.6"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
 - Links
     - [Official Product Page](https://www.genelec.com/8351b)
 
 ### #5 [HEDD Type 20 MK2](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=HEDD+Type+20+MK2)]: $4800 a pair
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
 - Links
     - [Official Product Page](https://hedd.audio/products/type-20-mk2)
@@ -95,7 +95,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 270w Per Speaker
 - Woofer: 8"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
 - Links
     - [Official Product Page](https://www.genelec.com/8050b)
@@ -121,7 +121,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Woofer: 7"
 - Inputs: XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)
@@ -139,7 +139,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 36hz
 - Woofer: 8"
 - Inputs: XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
     - [Erin's Audio Corner Website Kali Audio IN-8](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
@@ -154,7 +154,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 85w Per Speaker
 - Woofer: 6.5"
 - Inputs: TRS, XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Focal Alpha 65  sound.DEMO](https://www.youtube.com/watch?v=t6jqpS2jey0)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=HNAs-czKSy4)
@@ -177,7 +177,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil
 - Woofer Cabinet: Sealed
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt A10 Bookshelf Review: The Real Pros and Cons](https://www.youtube.com/watch?v=VL7WtnxIZc8)
 - Links
     - [Official Product Page](https://buchardtaudio.com/products/anniversary-10)
@@ -190,7 +190,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 140w Per Speaker
 - Woofer: 8"
 - Inputs: TRS, XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)
     - [DSAUDIO.review: Kali Audio LP-8  vs  Presonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=4vaBRjDPDns)
@@ -208,7 +208,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Woofer: 8"
 - Inputs: TRS, XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Tannoy Gold 8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tKT1WFR4ZGw)
     - [DSAUDIO.review: Focal Alpha 80  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vCksLawVPM8)
     - [DSAUDIO.review: Yamaha HS8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u_NQQkwOgTA)
@@ -226,7 +226,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 120w Per Speaker
 - Woofer: 8"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A7X vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=hiAGhoDTaiE)
@@ -245,7 +245,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 90w Per Speaker
 - Woofer: 8"
 - Inputs: XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)
 - Links
@@ -261,7 +261,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 70w Per Speaker
 - Woofer: 7"
 - Inputs: XLR, RCA
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A7X vs Adam Audio T7V  sound.DEMO](https://www.youtube.com/watch?v=KRKa30FyOUQ)
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
@@ -284,7 +284,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w
 - Woofer: 8"
 - Inputs: TRS, XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: KRK Rokit 8 G4 RP8G4  vs  Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=asE5dXZe-do)
     - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)
@@ -297,7 +297,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 16.8lbs / 7.6kg
 - Woofer: 7"
 - Inputs: TRS, XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Adam Audio T7V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=lH4aACE5tjE)
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=l2UK8sdbVLo)
     - [DSAUDIO.review: KRK Rokit 5 RP5G4 vs KRK Rokit 7 RP7G4   Sound & Frequency Comparison](https://www.youtube.com/watch?v=z7xYPX9zIW8)
@@ -321,7 +321,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
 - Power Input: AC Power Cord
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
 - Links
@@ -336,7 +336,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 75w RMS Per Speaker
 - Woofer: 8"
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
@@ -351,7 +351,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 6.5"
 - Inputs: Bluetooth, XLR, RCA Input, Digital Optical, Digital Coax, USB
 - Outputs: None
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
     - [DSAUDIO.review: Edifier S3000 Pro DSP Modes Demo   Sound & Frequency Respnse Comparison](https://www.youtube.com/watch?v=Dsh3A4B6Lbo)
 - Links

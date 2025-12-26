@@ -42,7 +42,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 125 mm (5 in.) aluminium cone
 - Woofer: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Mind-Blowing Sound Quality: KEF Blade 2 Meta Review](https://www.youtube.com/watch?v=lh8D7LhlVoQ)
     - [Erin's Audio Review Website KEF Blade Two Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_blade2_meta/)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
@@ -61,7 +61,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 10" paper‑cone concentric
 - Woofer: 10"
 - Woofer Cabinet: Dual 10" passive rear passive radiators
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is This the Best Speaker of 2025?  MoFi SourcePoint V10 Review.](https://www.youtube.com/watch?v=0-2OWJ0RmX8)
 - Links
     - [Official MoFi SourcePoint V10 Master Edition Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-v10-floodstanding-speakers-pair)
@@ -78,7 +78,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange
 - Woofer: Dual 8” (20 cm) Aluminum Cone, Cast-frame Woofers
 - Woofer Cabinet: Front ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F208](https://www.audiosciencereview.com/forum/index.php?threads/revel-f208-tower-speaker-review.13192/)
 - Links
     - [Official Revel F208 Website](https://www.revelspeakers.com/products/types/floorstanding/F208-.html)
@@ -95,7 +95,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Woofer: Three 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Dual rear-mounted ports
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F328Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f328be-speaker-review.17443/)
 - Links
     - [Official Revel F328Be Website](https://www.revelspeakers.com/products/series/series-performabe/F328+BE.html)
@@ -113,7 +113,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Woofer: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Front ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F228Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f228be-review-speaker.23659/)
 - Links
     - [Official Revel F228Be Website](https://www.revelspeakers.com/products/types/floorstanding/F228BE-.html)
@@ -131,7 +131,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 125 mm (5 in.) aluminium cone
 - Woofer: 4 x 165 mm (6.5 in.) hybrid aluminium cone
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review KEF R11 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-r11-meta-tower-speaker-review.53282/)
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
@@ -149,7 +149,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Woofer: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Front ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Should You Buy the Revel F226Be or the MoFi 888?](https://www.youtube.com/watch?v=xJoc_KdoLpQ)
     - [Erin's Audio Review Website Revel F226B](https://www.erinsaudiocorner.com/loudspeakers/revel_f226be/)
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
@@ -169,7 +169,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange
 - Woofer: Dual 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofers
 - Woofer Cabinet: Front ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F206](https://www.audiosciencereview.com/forum/index.php?threads/revel-f206-tower-speaker-review.53691/)
 - Links
     - [Official Revel F206 Website](https://www.revelspeakers.com/products/types/floorstanding/F206-.html)
@@ -187,7 +187,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 8” Paper Cone
 - Woofer: Dual 8" paper cone woofers
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the MoFi SourcePoint 888 Could Be Your Last Speaker Purchase](https://www.youtube.com/watch?v=9bv5Mt5X__k)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
@@ -205,7 +205,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 3” (75mm) D2430K dual compression
 - Woofer: 15” (380mm) 2216Nd-1 Dual Differential Drive® woofer
 - Woofer Cabinet: Front ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The JBL 4367 rocks!](https://www.youtube.com/watch?v=eJnOrG3BHaw)
     - [Erin's Audio Review Website JBL 4367](https://www.erinsaudiocorner.com/loudspeakers/jbl_4367/)
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
@@ -219,7 +219,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohm
 - Bass Extension (-3dB): 47hz
 - Bass Extension (-10dB): 28hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Unveiling the PS Audio aspen FR10 Speakers. Detailed Review and Analysis.](https://www.youtube.com/watch?v=BGmIT3jWfFg)
     - [Erin's Audio Review Website PS Audio Aspen FR10](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr10/)
 - Links
@@ -238,7 +238,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 6.5" Aramid Fiber
 - Woofer: Two 6.5" Aramid Fiber
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: ELAC’s New DF63 is SHOCKINGLY Good!](https://www.youtube.com/watch?v=NI8En4OhvMM)
     - [Erin's Audio Review Website Elac DF63](https://www.erinsaudiocorner.com/loudspeakers/elac_df63/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
@@ -249,7 +249,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - Bass Extension (-3dB): 20hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
@@ -266,7 +266,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Aluminum Tweeter
 - Woofer: 3x 5.25" deep anodized aluminum cone woofers
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
     - [Erin's Audio Corner: Revel F35 Review: Great Sound, Lower Price!](https://www.youtube.com/watch?v=hr-Qu1etIng)
     - [Erin's Audio Review Website Revel Concerta2 F35](https://www.erinsaudiocorner.com/loudspeakers/revel_f35/)
@@ -280,7 +280,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohms
 - Bass Extension (-3dB): 40hz
 - Bass Extension (-10dB): 31hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: My Top 5 Just Changed: Polk Audio Reserve R700 Review](https://www.youtube.com/watch?v=E6APuGxTtJw)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
@@ -299,7 +299,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Midrange: 5.25" (130mm) flat-piston CMMD™
 - Woofer: Dual 5.25" (130mm) CMMD™
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity Reference 253](https://www.audiosciencereview.com/forum/index.php?threads/infinity-reference-253-review-speaker.17923/)
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
@@ -316,7 +316,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" Pinnacle Ring Radiator
 - Woofer: Two 5.25" Turbine Cone
 - Woofer Cabinet: Rear ported
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Polk R500 Tower Speaker Review.](https://www.youtube.com/watch?v=yYewhU3ydwE)
     - [Erin's Audio Review Website Polk Reserve R500](https://www.erinsaudiocorner.com/loudspeakers/polk_r500/)
     - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
@@ -334,7 +334,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Tweeter: 1" (25mm) TNF Al/Mg inverted dome tweeter
 - Midrange: 6.5" (16.5cm) Slatefiber
 - Woofer: 6.5” (16.5cm) Slatefiber
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Focal Chora 816](https://www.audiosciencereview.com/forum/index.php?threads/focal-chora-816-speaker-review.42988/)
 - Links
     - [Official Focal Chora 816 Website](https://www.focal.com/products/chora-816)
@@ -343,7 +343,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: A dark speaker with rolled off top end, a frequency response drop that's very linear starting at 0dB around 500hz and dropping 4dB at 10khz. Could be good in a very reflective room. Bass has a shelf and is designed to be placed within a foot from a wall.
 - Bass Extension (-3dB): 60hz
 - Bass Extension (-10dB): 29hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF Q11 Speaker Review Reveals Stunning Performance](https://www.youtube.com/watch?v=dPIWppFirmk)
     - [Erin's Audio Review Website KEF Q11 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_q11_meta/)
 - Links
@@ -353,7 +353,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: Resonance at 800hz. 4dB peak at 4k to 15k, going to be a bright speaker. Not recommended
 - Bass Extension (-3dB): 43hz
 - Bass Extension (-10dB): 31hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: DALI Rubikore 6 Floorstanding Speaker Review](https://www.youtube.com/watch?v=IlpFZPevKpM)
     - [Erin's Audio Review Website Dali Rubikore 6](https://www.erinsaudiocorner.com/loudspeakers/dali_rubikore_6/)
 - Links
@@ -365,14 +365,14 @@ Consider this page to be a work in progress and more speakers will be added.
 - Impedance: 4 ohm
 - Bass Extension (-3dB): 47hz
 - Bass Extension (-10dB): 38hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
 
 ### #23 Triangle Esprit Antal Ez [[Used Listings](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez)]
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
 - Links
     - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
@@ -382,7 +382,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Really bad resonance at 8.5khz. 
 - Bass Extension (-3dB): 48hz
 - Bass Extension (-10dB): 32hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
@@ -392,7 +392,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Sensitivity: 94dB
 - Bass Extension (-3dB): 82hz
 - Bass Extension (-10dB): 39hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: $5000 Klipsch Forte IV Review    A Klipsch speaker I could *maybe* live with.](https://www.youtube.com/watch?v=IZPc1tl1aPs)
     - [Erin's Audio Review Website Klipsch Forge IV](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv/)
 - Links
@@ -403,7 +403,7 @@ Consider this page to be a work in progress and more speakers will be added.
 - Sensitivity: 85dB
 - Bass Extension (-3dB): 74hz
 - Bass Extension (-10dB): 67hz
-- Reviews and Comparisons
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Grab Your Pitchforks! The Magnepan LRS+ Review You Didn't See Coming!](https://www.youtube.com/watch?v=PQemV-W48b8)
     - [Erin's Audio Review Website Magnepan LRS+](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)

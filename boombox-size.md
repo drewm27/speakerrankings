@@ -37,7 +37,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 9.2lbs / 4.18kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
     - <https://www.patreon.com/posts/evening-with-137116931>
@@ -96,7 +96,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 11.6lbs / 5.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
@@ -135,7 +135,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: Yes 1 Included
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)
     - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
@@ -167,7 +167,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-2.html)
@@ -194,7 +194,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 13lbs / 5.9kg
 - Wireless Microphones: Yes 2 Included
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: outdoors](https://www.youtube.com/watch?v=df-IGT1k1KI)
     - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: indoors](https://www.youtube.com/watch?v=A9kE4-gpzBk)
     - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
@@ -225,7 +225,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 13lbs / 5.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-.html)
@@ -247,7 +247,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 10.4lbs / 4.7kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
     - [Alan Ross Reviews: JBL Distortion Fest vs my favorite speaker today! I wasn't expecting this!](https://www.youtube.com/watch?v=Eo8q8xLBg-o)
@@ -275,7 +275,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 15.3lbs / 6.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>
     - <https://www.youtube.com/watch?v=aARmhttq85o>
@@ -295,7 +295,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 10.25lbs / 4.65kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: VIFA Copenhagen 2.0 - premium wireless speaker](https://www.youtube.com/watch?v=PXtV5pPeEdo)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
@@ -320,7 +320,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 7.8lbs / 3.5kg
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
     - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
@@ -342,7 +342,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 7.76lbs / 3.52kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
     - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)
     - [Alan Ross Reviews: Dead room vs Live room - Onyx studio 8 self tuning test! part 1 of 3](https://www.youtube.com/watch?v=hlumnEy0Ufg)
@@ -365,7 +365,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
 - Weight: 6.5lbs / 2.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
     - <https://www.youtube.com/watch?v=R1EmqPx0Ohs>
@@ -384,7 +384,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - Weight: 6.3lbs / 2.85kg
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Ezekielo: Citation 200 vs Beolit 20 with Sound Comparison!](https://www.youtube.com/watch?v=8Ts5BVWHYDE)
     - [KULAS TECH SHOW: Harman Kardon Citation 200 vs JBL Xtreme3 Sound  & Bass test](https://www.youtube.com/watch?v=sLsvo5urFaw)
     - [Ezekielo: Citation 200 vs Onyx Studio 6 vs Bose Portable Speaker Sound Comparison](https://www.youtube.com/watch?v=EciHn8jHHdA)
@@ -408,7 +408,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 6.5lbs / 2.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
     - <https://www.youtube.com/watch?v=R1EmqPx0Ohs>
@@ -432,7 +432,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Auracast)
 - Power Input: AC Power Cord
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - old one sounding better? 🤔](https://www.youtube.com/watch?v=Sbqb85lSqVc)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - any improvement?](https://www.youtube.com/watch?v=Gcy5rcIioEs)
@@ -455,7 +455,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (up to 2 speakers)
 - Power Input: AC Power brick
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Harman Kardon Go+ Play 2 Mini by an old bloke!](https://www.youtube.com/watch?v=fW3W4vVRYnU)
@@ -476,7 +476,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
 - Weight: 6.6lbs / 3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: Harman / Kardon Onyx Studio 5 vs Onyx Studio 7 - Close battle🔥🔥](https://www.youtube.com/watch?v=L6NwcX8Gy1Q)
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
@@ -498,7 +498,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: JBL Partybox Encore 2 vs JBL Boombox 3 WiFi - Sound Test - Wide vs Narrow Soundstage!](https://www.youtube.com/watch?v=J-dsO2KOSzY)
     - [Mateusz Cholewa: JBL Encore 2 Partybox Deep Bass 🆚 Jbl Boombox 3 WiFi 🎶](https://www.youtube.com/watch?v=srLPSYOcTGw)
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
@@ -521,7 +521,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 14.lbs / 6.7kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
@@ -546,7 +546,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 19.2 lbs / 8.7kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
     - [Audiophile housewife: Tribit Stormbox Blast 2 vs 2 Earfun UBoom X - outdoor test](https://www.youtube.com/watch?v=hX6IH6pI33E)
@@ -570,7 +570,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 10.1lbs / 4.6kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1700BT sound.DEMO](https://www.youtube.com/watch?v=A7OiJFDdH1Q)
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1280DBs sound.DEMO](https://www.youtube.com/watch?v=vfZHhoO_Bas)
@@ -595,7 +595,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 8.4lbs / 3.8kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This sounds totally different now! Soundcore Boom Plus 2 firmware 03.10](https://www.youtube.com/watch?v=ESN6hgtvba4)
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 Plus VS Tribit Stormbox Blast 🛜 Boombox Basement Battle 📊Custom EQ  🔥Who You Got?](https://www.youtube.com/watch?v=SiW11RSCnWI)
@@ -618,7 +618,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 9.1lbs / 4.2kg
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Danny Pops: JBL Authentics 200 Full Review - This might be the best buy](https://www.youtube.com/watch?v=fFP_OPriRlM)
     - [Jay's Straight Up Reviews & More: Klipsch The One Plus vs JBL Authentics 200 - 🛜 Battle of the Home Speakers🔌Guest Lando Calrissian 😆](https://www.youtube.com/watch?v=ezYZWoYEXfw)
 - Links
@@ -640,7 +640,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
     - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
@@ -666,7 +666,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - Stereo: Yes
 - Weight: 13lbs / 5.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
@@ -688,7 +688,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 10.8lbs / 4.9kg
 - Wifi: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Authentics 300 - sound quality test](https://www.youtube.com/watch?v=pBgizWYcEx8)
     - <https://www.patreon.com/posts/jbl-authentics-125828125>
     - <https://www.patreon.com/posts/jbl-authentics-125756901>
@@ -708,7 +708,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 6lbs / 2.7kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)
     - [techkiste.net: B&O Beolit 20 vs Vifa Copenhagen 2.0 sound-comparison with different music-genres](https://www.youtube.com/watch?v=OTy29qPeIcI)
@@ -730,7 +730,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 8.3lbs / 3.75kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
     - [Mateusz Cholewa: Tribit  Stormbox  Blast Audio Test vs Teufel  Boomster 2021](https://www.youtube.com/watch?v=o9iTI-5hOGI)
     - [Mateusz Cholewa: 2 x 🔊Teufel Boomster 2021🎵 vs JBL Boombox 2 AC🔌 Power Test Audio🎧.](https://www.youtube.com/watch?v=jsUSaTb7Ojs)
@@ -753,7 +753,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - Stereo: Yes
 - Weight: 12.8lbs / 5.8kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
@@ -773,7 +773,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 11.2lbs / 5.1kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
     - [Jay's Straight Up Reviews & More: Dual W-King T11 (EQ1, EQ2) 🆚 JBL Partybox 110 (Bass One) 📛 Are two T11's TWS Louder than one PB110?](https://www.youtube.com/watch?v=dk3KqC-cdsk)
 
@@ -787,7 +787,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Brick
 - Stereo: Partially (1 woofer)
 - Weight: 10.3lbs / 4.65kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
 
 ### #32 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325)]: $180
@@ -802,7 +802,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - USB Playback: Yes
 - Weight: 15.8lbs / 7.1kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GRV-650L!!! 😁](https://www.youtube.com/watch?v=o5TQLBxyskg)
     - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)
     - [Jagist reviews: Philips X7207 Vs Gemini GRV-650L!!! 😏😏😏](https://www.youtube.com/watch?v=Ej9mRqO5dvs)
@@ -818,7 +818,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 7.4lbs / 3.4kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
     - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
@@ -829,7 +829,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 104db
 - Stereo: Yes
 - Weight: 12lbs / 5.4kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Boombox vs. JBL Partybox Encore Party Speaker.🛜  How Low Can You Go?😲](https://www.youtube.com/watch?v=ilGvwLRn_EQ)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Bluetooth Boombox Speaker 📦 Unboxing, First Look & 🔉 Sound Demo](https://www.youtube.com/watch?v=VInmjCyNmxg)
@@ -852,7 +852,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - USB Playback: Yes
 - Weight: 13.8lbs / 6.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
     - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
 - Links
@@ -869,7 +869,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 13.8 lbs / 6.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
     - [Jagist reviews: Bugani Boost Max Vs Harmon Kardon Go Plus Play 3!!! 😁😁😁](https://www.youtube.com/watch?v=Kla_z-sz0Ec)
     - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
@@ -882,7 +882,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No Battery
 - Stereo: Partially (1 woofer)
 - Weight: 10.3lbs / 4.7kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
     - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
     - [DSAUDIO.review: DSAUDIO.review Edifier S2000MKIII vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
@@ -895,7 +895,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No Battery
 - Stereo: Partially (1 woofer)
 - Weight: 8.5lbs / 3.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
     - [Solo Trips: Klipsch The One vs Jbl Xtreme](https://www.youtube.com/watch?v=77HvEdMXy2c)
 - Links
@@ -913,7 +913,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - Stereo: Yes
 - Weight: 10.1lbs / 4.6kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 vs. Tribit Stormbox Blast - Bluetooth Speaker Basement ⚒ Battle](https://www.youtube.com/watch?v=f_NtZs4HO8c)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)
     - [Jagist reviews: Soundcore Rave Party 2 Bass Test 😍](https://www.youtube.com/watch?v=CKMGqN1zzkk)
@@ -932,7 +932,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs Medium Party Speaker Gen 2 🤜🤛A Family Feud🔌Plugged In Bass Boost On](https://www.youtube.com/watch?v=9dIs_4-nSfI)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
 
@@ -948,7 +948,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially
 - USB Playback: Yes
 - Weight: 16.5lbs / 7.5kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
     - [KULAS TECH SHOW: JBL Partybox on the go vs JBL Partybox 110 Bass Comparison](https://www.youtube.com/watch?v=sW7qA0Qyg2U)
@@ -967,7 +967,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - USB Playback: Yes
 - Weight: 12.4lbs / 5.6kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 🆚  Sony SRS-XG500 - Tailgater Special - Battery Powered ☢️ Bass Boost Enabled.](https://www.youtube.com/watch?v=ImnPvu49RSM)
     - [Jagist reviews: Tribit Stormbox Blast vs Sony SRS XG 500](https://www.youtube.com/watch?v=yenr1BPMk6s)
     - [DLX Willington: Sony SRS-XG500 vs JBL Encore Essential Sound Battle](https://www.youtube.com/watch?v=KjWAJ67aUMc)
@@ -981,7 +981,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Stereo: Yes
 - Weight: 11.46lbs / 5.2kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
     - <https://www.youtube.com/watch?v=jOvizwFy9L8>
@@ -1003,7 +1003,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 5.3lbs / 2.4kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
     - [Alan Ross Reviews: Tribit Stormbox Blast Review vs Soundcore Motion Boom Plus - cheap bass!](https://www.youtube.com/watch?v=aSK4-UlbE-0)
@@ -1026,7 +1026,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Weight: 7.0lbs / 3.1kg
 - Wireless Microphones: Yes 2 Included
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)
     - [Josh's Gadgets and More: Skullcandy Barrel XT vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=87rzg5ZxKfo)
@@ -1041,7 +1041,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC power brick
 - Stereo: Yes
 - Weight: 7.4lbs / 3.4kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [TailgatingChallenge: Demerbox Review](https://www.youtube.com/watch?v=F4VLp6en8Kc)
     - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)
 - Links
@@ -1061,7 +1061,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially
 - TWS: Yes
 - Weight: 13.4lbs / 6.1kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
     - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)
 
@@ -1072,7 +1072,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: None
 - Stereo: Yes
 - Weight: 11lbs / 5kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qIkm529aaaQ>
     - <https://www.youtube.com/watch?v=NIyRizpppgI>
     - <https://www.youtube.com/watch?v=IHo7U4X49Tw>
@@ -1092,7 +1092,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Wireless Microphones: Yes 2 Included
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
 - Links
@@ -1112,7 +1112,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 8lbs / 3.6kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
@@ -1130,7 +1130,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 18.8lbs / 8.5kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Blue Collar Outdoors USA: Is the TURTLEBOX GRANDE Speaker REALLY Worth the HYPE ?](https://www.youtube.com/watch?v=Kr_7Wi9IfpA)
 - Links
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-grande)
@@ -1142,7 +1142,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 118db
 - Stereo: Yes
 - Weight: 19lbs / 8.6kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Flossy Carter: Bumpboxx Flare 8 - My New Favorite Boombox](https://www.youtube.com/watch?v=kG9Bikc7L4g)
     - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)
 - Links
@@ -1155,7 +1155,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 115db
 - Stereo: Yes
 - Weight: 13lbs / 5.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 
 ### #54 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
@@ -1163,7 +1163,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 25 hours
 - Stereo: No
 - TWS: No
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
 - Links
@@ -1178,7 +1178,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links
     - [Official Product Page](https://geminisound.com/products/ggo-650l-bluetooth-karaoke-speaker)
@@ -1194,7 +1194,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - USB Playback: Yes
 - Weight: 25lbs / 11kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [ReggieTECH: ION Pathfinder 4 Speaker - Unboxing, Review & Test](https://www.youtube.com/watch?v=zlAsAJtwNS8)
 
 ### #57 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325)]: $450
@@ -1205,7 +1205,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX2
 - Stereo: No
 - Weight: 10.8lbs / 4.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
 
@@ -1220,7 +1220,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 7.4lbs / 3.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
@@ -1237,7 +1237,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 7.4lbs / 3.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
     - [Alan Ross Reviews: W-King X10 (70w) vs Soundcore Motion Boom (30w) - value for money? 🤑](https://www.youtube.com/watch?v=t66JKkidpt8)
@@ -1250,7 +1250,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: 20 hours
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
     - [Jagist reviews: Jbl Extreme 3 vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=a-VmNf5kgEA)
     - [Jagist reviews: Soundcore Motion Boom vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=qr2oR3cnCYQ)
@@ -1263,7 +1263,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Stereo: Yes
 - Weight: 17.4lbs / 7.9kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tritbit Stormbox Blast vs Braven xxl 2](https://www.youtube.com/watch?v=uihgotNRgJ0)
     - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
 
@@ -1277,7 +1277,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - USB Playback: Yes
 - Weight: 22.7lbs / 10.3kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [King Vegeta: Ion Pathfinder 320 quick review](https://www.youtube.com/watch?v=F4d76SDQPtw)
 
 ### #63 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325)]: $170
@@ -1292,7 +1292,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - USB Playback: Yes
 - Weight: 23.8lbs / 10.8kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Alpha Omega Gz: ION Pathfinder 280 degrees - Unboxing and testing](https://www.youtube.com/watch?v=g05lODItS4w)
 
 ### #64 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
@@ -1304,7 +1304,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 96db
 - Stereo: No
 - Weight: 28.6lbs / 13kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Wanna Buy It: Monster Rockin' Roller 270 - Party On Wheels](https://www.youtube.com/watch?v=uL9NPSEAwjE)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
 - Links
@@ -1319,7 +1319,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Auracast)
 - Stereo: Partially (1 woofer)
 - Weight: 13.6lbs / 6.2kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Mike O'Brien: What Did LG Just Launch? (NEW will.i.am x LG xboom Speakers)](https://www.youtube.com/watch?v=QDBumYKUsms)
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links
@@ -1334,7 +1334,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Stereo: No
 - Weight: 10lbs / 4.5kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Risk Profile: TurtleBox Demo  Risk Profile Podcast](https://www.youtube.com/watch?v=y9aCDZW6I_8)
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
@@ -1348,7 +1348,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - Stereo: Yes
 - Weight: 12.6 lbs / 5.7kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links
     - [Official Product Page](https://alteclansing.com/products/rockbox-xl-2)
@@ -1359,7 +1359,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 10 hours
 - Stereo: Partially
 - Weight: 9.7lbs / 4.4kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 
 ### #69 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
@@ -1370,7 +1370,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Stereo: Yes
 - Weight: 9.7lbs / 4.4kg
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
     - [Jay's Straight Up Reviews & More: DBSOARS F29 Max vs Zealot S78 🛜 (5B) Budget Bluetooth Boombox Basement Battle 🔊 Bass Modes Enabled](https://www.youtube.com/watch?v=ui3IZd1Akoc)
 

@@ -33,7 +33,7 @@ See this for [Speakers with Built In Microphone For Calls](/top-recommended-micr
 - USB Playback: Yes
 - Power Input: AC Power cord
 - Stereo: Partially (1 Woofer)
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)
     - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
     - [Mateusz Cholewa: JBL Partybox ENCORE 2👌FULL TEST🆚 JBL Partybox ENCORE 1](https://www.youtube.com/watch?v=NoKS37yrdzY)
@@ -60,7 +60,7 @@ See this for [Speakers with Built In Microphone For Calls](/top-recommended-micr
 - App: No
 - EQ: 3 fixed EQs
 - Stereo: Yes
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)
     - [Josh's Gadgets and More: Skullcandy Barrel XT vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=87rzg5ZxKfo)

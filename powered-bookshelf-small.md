@@ -24,7 +24,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 50w RMS Per Speaker
 - Woofer: 3"
 - Inputs: XLR
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs iLoud Micro Monitor   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vi5umvPW1yQ)
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs Presonus Eris E4.5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9OjbZQoLviY)
     - [DSAUDIO.review: Genelec 8010A (G One) vs JBL LSR305   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=bcYhKrm-z3M)
@@ -42,7 +42,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 25w RMS Per Speaker
 - Woofer: 3"
 - Inputs: RCA, Aux
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs iLoud Micro Monitor  sound.DEMO](https://www.youtube.com/watch?v=eNBQXkxIJNc)
     - [DSAUDIOreview: IK Multimedia  iLoud MTM  vs  iLoud Micro    Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tdZ9gPdXjZI)
@@ -55,7 +55,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Vertical off axis is just okay
 - Bass Extension (-3dB): 50hz
 - Bass Extension (-10dB): 45hz
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: ADAM Audio D3V: Mighty Small But Mighty Awesome Desktop Speaker](https://www.youtube.com/watch?v=bYipzw4qTGk)
     - [Erin's Audio Review Adam Audio D3v](https://www.erinsaudiocorner.com/loudspeakers/adam_d3v/)
 - Links
@@ -70,7 +70,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 2.75"
 - Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
@@ -89,7 +89,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Frequency Response: 67-20 kHz (-3dB)
 - Inputs: Bluetooth, Aux, RCA Input
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)
@@ -107,7 +107,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: Yes
 - Inputs: Bluetooth, Aux, USB-C
 - Bluetooth Codecs: SBC, LDAC
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)
 - Links
     - [Official Product Page](https://www.edifier.com/us/p/computer-speakers/m60)
@@ -121,7 +121,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 3.5"
 - Inputs: RCA, 1/4" Balanced
 - Outputs: 1/8" headphone jack
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E3.5  sound.DEMO](https://www.youtube.com/watch?v=pZqLVCBXgyw)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Edifier R1280T   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9-6zpNiQv5M)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
@@ -141,7 +141,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 3"
 - Inputs: RCA, Aux
 - Outputs: 1/8" headphone jack
-- Comparisons and Sound Samples
+- Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
     - [DSAUDIO.review: Mackie CR3-X  vs  Edifier R1280T   Sound, Distortion & Frequency Response Comparison](https://www.youtube.com/watch?v=Q4f___YNb7w)
     - [Erin's Audio Corner: Mackie CR3-X vs PreSonus E3.5  Budget Monitor Showdown!](https://www.youtube.com/watch?v=FM4jQh45KyM)
