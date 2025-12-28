@@ -6,7 +6,7 @@ cover-img: "/assets/img/helsinki.jpg"
 share-description: "Explore our top-ranked large-size Bluetooth speakers. Expert picks for full, powerful sound and deep bass in a home or party setup."
 ---
 
-This page ranks 75 large size powered Bluetooth speakers. Last updated on 12/23/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 75 large size powered Bluetooth speakers. Last updated on 12/28/2025. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -17,7 +17,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
-
 ### #1 [Vifa Helsinki](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-Helsinki-Bluetooth-Appearance-Hi-Resolution/dp/B0B182BGHS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49a541d7478a17863aff8efcc88396f7&camp=1789&creative=9325)]: $400
 - Positives: Generally regarded as the best midrange and treble sound quality of any battery powered Bluetooth speaker.
 - Negatives: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. There are mentions that the 2022 "new" version of this speaker doesn't sound as good as Vifa was purchased by a Chinese company and laid off all the great sound engineers in the Austria office.
@@ -1324,4 +1323,3 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
-

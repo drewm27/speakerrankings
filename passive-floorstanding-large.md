@@ -5,14 +5,13 @@ comments: true
 cover-img: "/assets/img/revelf208.jpg"
 ---
 
-This page ranks 26 large size floorstanding speakers. Last updated on 12/23/2025. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 26 large size floorstanding speakers. Last updated on 12/28/2025. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
 Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
-
 ### #1 [GR-Research NX-Treme](https://gr-research.com/product/nx-treme/) [[Gr-research](https://gr-research.com/product/nx-treme/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Treme)]: $9662 for the kit with subs (assembly required)
 - Positives: Amazing in terms of soundstage and imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. One of the highest sensitivity speakers around. Open baffle mids, highs and bass (using GR-Research Open baffle subs). If you have not heard open baffle bass, you must hear it in person, there's no going back. Amazing in terms of imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. Can easily be driven by tube amps due to the mild impedance.
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
@@ -412,4 +411,3 @@ Consider this page to be a work in progress and more speakers will be added.
 
 
 As an Amazon Associate I earn from qualifying purchases.
-

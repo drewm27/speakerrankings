@@ -5,14 +5,13 @@ comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 ---
 
-This page ranks 21 medium size bookshelf speakers. Last updated on 12/23/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 21 medium size bookshelf speakers. Last updated on 12/28/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
 Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
-
 ### #1 [Audiofirst Fidelia](https://audiofirstdesigns.co.uk/fidelia) [[Audiofirstdesigns](https://audiofirstdesigns.co.uk/fidelia)] [[Used Listings](https://www.hifizero.com/index.php?q=Audiofirst+Fidelia)]: £950 for the flatpack kit (assembly required)
 - Positives: The absolute top speaker in this size class
 - Negatives: Slight 2dB bump around 5-6khz. Only available in kit form.
@@ -262,4 +261,3 @@ Consider this page to be a work in progress and more speakers will be added.
 
 
 As an Amazon Associate I earn from qualifying purchases.
-

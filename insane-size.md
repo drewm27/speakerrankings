@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the top massive party size Bluetooth speakers. Massive, AC‑powered giants designed for deep bass, huge sound, and epic party performance."
 ---
 
-This page ranks 9 massive party size powered Bluetooth speakers. Last updated on 12/23/2025. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
+This page ranks 9 massive party size powered Bluetooth speakers. Last updated on 12/28/2025. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
 See [Party Size Portable Bluetooth Speakers Ranked](/extreme-size/) for smaller party speakers. See the [Best Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -19,7 +19,6 @@ For longer runtime or off grid use, check out a [power station](/portable-power-
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
-
 ### #1 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325)]: $1301
 - Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
 - Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
@@ -225,4 +224,3 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
-

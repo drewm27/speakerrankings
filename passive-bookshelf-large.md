@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 ---
 
-This page ranks 48 large size bookshelf speakers. Last updated on 12/23/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
+This page ranks 48 large size bookshelf speakers. Last updated on 12/28/2025. The large bookshelf class of speakers have woofers above 5.75". This size class will have the deepest bass of all the bookshelf size speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
 
 If you don't plan to put these on a desk or bookshelf, I'd highly recommend looking at [Passive Floorstanding Speakers](/passive-floorstanding-large/) instead. These will have deeper bass and generally be a better all around speaker, although at a higher price.
 
@@ -14,7 +14,6 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
 Consider this page to be a work in progress and more speakers will be added.
 
 **Use your browser's search feature to search for speakers on this page.**
-
 
 ### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
@@ -754,4 +753,3 @@ Consider this page to be a work in progress and more speakers will be added.
 
 
 As an Amazon Associate I earn from qualifying purchases.
-

@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
 ---
 
-This page ranks 129 medium size powered Bluetooth speakers. Last updated on 12/23/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 129 medium size powered Bluetooth speakers. Last updated on 12/28/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -18,7 +18,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
-
 ### #1 [Earfun Uboom L](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325)]: $50 after clipped coupon and coupon UBOOMLWC in the payment options
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone/) and he knocked it out of the park. The audiophile choice. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every volume level. Other speakers will need a different EQ at each volume level. For maximum volume without distortion use max volume - 1 step for most songs. Oluv left another higher volume for sounds that are quiet. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour).
 - Negatives: Latency is high (400ms) without turning on low latency mode (66ms) which doesn't work when two speakers are TWS paired. Low latency mode can be turned on by pressing the Bluetooth button twice. If latency in TWS paired mode is a very important feature, like if you watch a lot of video, you may want to choose another speaker. The power button can sometimes get accidentally pressed when put in a bag. The aux input has quite a bit of latency and isn't recommended for video use.
@@ -2117,4 +2116,3 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
-

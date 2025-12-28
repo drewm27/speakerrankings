@@ -5,7 +5,7 @@ comments: true
 cover-img: "/assets/img/kh80.jpg"
 ---
 
-This page ranks 24 medium size powered bookshelf speakers. Last updated on 12/23/2025. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 24 medium size powered bookshelf speakers. Last updated on 12/28/2025. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop.
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top and consider adding a subwoofer.
 
@@ -14,7 +14,6 @@ Also check out [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
-
 ### #1 [Neumann KH120 MKII](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH120+MKII)]: $2000 a pair
 - Positives: The top rated speaker in this category. Amazingly flat frequency response, fantastic off axis. Bass extension is quite good for this size.
 - Negatives: High price
@@ -448,4 +447,3 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
-
