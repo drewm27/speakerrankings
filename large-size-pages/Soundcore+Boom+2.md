@@ -12,7 +12,7 @@ The Soundcore Boom 2 ranks #8 out of 75 total [Large Size Portable Bluetooth Spe
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No

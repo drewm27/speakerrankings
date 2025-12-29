@@ -10,7 +10,7 @@ The Xdobo X8 Max ranks #55 out of 75 total [Large Size Portable Bluetooth Speake
 ### #55 Xdobo X8 Max: $73
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
 - Aux Input: Yes
-- Bass Extension: ~52hz (-10dB)
+- Bass Extension (-10dB): ~52hz
 - Battery Life: 15 hours
 - MicroSD: Yes
 - Power Bank: Yes

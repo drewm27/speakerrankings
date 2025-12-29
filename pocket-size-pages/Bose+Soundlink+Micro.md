@@ -10,7 +10,7 @@ The Bose Soundlink Micro ranks #15 out of 40 total [Small Size Portable Bluetoot
 ### #15 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325)]: $99
 - Negatives: Lack of clarity. Overly boosted bass
 - App: Yes
-- Bass Extension: 66hz (-10dB)
+- Bass Extension (-10dB): 66hz
 - Battery Life: 6 hours
 - Built in Microphone: Yes
 - EQ: No

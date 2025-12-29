@@ -11,7 +11,7 @@ The Tronsmart Halo 200 ranks #48 out of 70 total [Boombox Size Portable Bluetoot
 - Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 18 hours
 - Guitar Input: Yes
 - IP Rating: IPX4

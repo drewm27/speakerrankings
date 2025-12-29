@@ -12,7 +12,7 @@ The Tribit Xsound Mega ranks #20 out of 129 total [Medium Size Portable Bluetoot
 - Negatives: Single driver, not stereo. Lack of detail. Lack of upper treble, peaky lower treble. Not great off axis. Keep in mind this speaker gives up some sound quality for deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 20 hours
 - Built in Microphone: No
 - EQ: Yes

@@ -12,7 +12,7 @@ The Boat Stone 190/193 ranks #26 out of 40 total [Small Size Portable Bluetooth 
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No
 - Aux Input: Yes
-- Bass Extension: 95hz (-10dB)
+- Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
 - EQ: No
 - IP Rating: IPX7

@@ -11,7 +11,7 @@ The Mifa Tango ranks #14 out of 40 total [Small Size Portable Bluetooth Speakers
 - Positives: Loudest pocket speaker by a little.
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - App: No
-- Bass Extension: 69hz (-10dB)
+- Bass Extension (-10dB): 69hz
 - Battery Life: 25 hours
 - EQ: No
 - IP Rating: IP67

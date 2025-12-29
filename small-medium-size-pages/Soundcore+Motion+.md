@@ -13,7 +13,7 @@ The Soundcore Motion+ ranks #3 out of 129 total [Medium Size Portable Bluetooth 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes

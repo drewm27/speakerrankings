@@ -9,7 +9,7 @@ The B&O Beosound Explore ranks #102 out of 129 total [Medium Size Portable Bluet
 
 ### #102 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.
-- Bass Extension: ~70hz (-10dB)
+- Bass Extension (-10dB): ~70hz
 - Battery Life: 27 hours
 - IP Rating: IP67
 - Max Volume: 91db

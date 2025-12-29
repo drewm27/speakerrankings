@@ -13,7 +13,7 @@ The Harman Kardon Go + Play 3 ranks #7 out of 70 total [Boombox Size Portable Bl
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: No
 - Aux Latency: 112ms
-- Bass Extension: 35hz (-10dB)
+- Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)

@@ -11,7 +11,7 @@ The W-King D8 ranks #42 out of 75 total [Large Size Portable Bluetooth Speakers]
 - Positives: Decent sounding.
 - Negatives: Slightly recessed mids. Distorted at high volumes.
 - Aux Input: Yes
-- Bass Extension: 49hz (-10dB)
+- Bass Extension (-10dB): 49hz
 - Battery Life: 24 hours
 - Max Volume: 101db
 - MicroSD: Yes

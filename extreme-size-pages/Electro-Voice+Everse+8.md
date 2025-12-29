@@ -12,7 +12,7 @@ The Electro-Voice Everse 8 ranks #9 out of 48 total [Party Size Portable Bluetoo
 - Negatives: Not stereo. Designed for more loudness than deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - EQ: Yes

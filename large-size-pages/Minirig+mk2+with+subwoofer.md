@@ -12,7 +12,7 @@ The Minirig mk2 with subwoofer ranks #4 out of 75 total [Large Size Portable Blu
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 40 hours
 - EQ: Yes
 - IP Rating: Splash resistant

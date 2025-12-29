@@ -11,7 +11,7 @@ The Mifa Wildbox ranks #7 out of 75 total [Large Size Portable Bluetooth Speaker
 - Positives: A really neutral frequency response across the midrange. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifalife.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn't very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
 - Negatives: Doesn't seem to be available anymore. No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn't textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
 - Aux Input: Yes
-- Bass Extension: 45hz (-10dB)
+- Bass Extension (-10dB): 45hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - IP Rating: IP67

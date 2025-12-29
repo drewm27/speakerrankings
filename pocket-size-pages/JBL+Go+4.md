@@ -11,7 +11,7 @@ The JBL Go 4 ranks #20 out of 40 total [Small Size Portable Bluetooth Speakers](
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
 - App: Yes
-- Bass Extension: ~82hz (-10dB)
+- Bass Extension (-10dB): ~82hz
 - Battery Life: 7 hours
 - EQ: Yes
 - IP Rating: IP67

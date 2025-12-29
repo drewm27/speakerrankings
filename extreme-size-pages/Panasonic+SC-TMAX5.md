@@ -11,7 +11,7 @@ The Panasonic SC-TMAX5 ranks #40 out of 48 total [Party Size Portable Bluetooth 
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
 - Aux Input: Yes
-- Bass Extension: ~57hz (-10dB)
+- Bass Extension (-10dB): ~57hz
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Weight: 14.3lbs / 6.5kg

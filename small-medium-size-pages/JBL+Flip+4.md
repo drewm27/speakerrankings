@@ -11,7 +11,7 @@ The JBL Flip 4 ranks #62 out of 129 total [Medium Size Portable Bluetooth Speake
 - Positives: Less bass than a Flip 5. Peaky lower treble.
 - Negatives: Battery failures are common.
 - Aux Input: Yes
-- Bass Extension: 66hz (-10dB)
+- Bass Extension (-10dB): 66hz
 - Battery Life: 12 hours
 - Latency: 300ms
 - Max Volume: 92db

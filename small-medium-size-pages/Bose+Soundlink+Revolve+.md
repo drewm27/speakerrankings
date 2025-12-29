@@ -10,7 +10,7 @@ The Bose Soundlink Revolve+ ranks #47 out of 129 total [Medium Size Portable Blu
 ### #47 Bose Soundlink Revolve+: $230
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
 - Aux Input: Yes
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - IP Rating: IP55
 - Party Mode: Yes (Bose Party mode)

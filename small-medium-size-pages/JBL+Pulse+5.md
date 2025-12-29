@@ -11,7 +11,7 @@ The JBL Pulse 5 ranks #43 out of 129 total [Medium Size Portable Bluetooth Speak
 - Positives: Cool light show, although not synced to the music like the Pulse 2.
 - Negatives: Not quite as deep bass as others. Plastic scratches easily.
 - App: Yes
-- Bass Extension: ~58hz (-10dB)
+- Bass Extension (-10dB): ~58hz
 - Battery Life: 12 hours
 - EQ: Yes
 - IP Rating: IP67

@@ -12,7 +12,7 @@ The Soundcore Motion X600 ranks #20 out of 75 total [Large Size Portable Bluetoo
 - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn't very deep and the sound is still a little unnatural.
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 52hz (-10dB)
+- Bass Extension (-10dB): 52hz
 - Battery Life: 12 hours
 - IP Rating: IPX7
 - Latency: 83ms

@@ -18,7 +18,7 @@ Oluv's favorite [small pocket size](/pocket-size/) speaker is the [**$60 Tribit 
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -57,7 +57,7 @@ Oluv's favorite [medium size](/small-medium-size/) battery powered speaker is th
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -89,7 +89,7 @@ Oluv's favorite [large size](/large-size/) battery powered speaker is the [**$11
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -124,7 +124,7 @@ Oluv's favorite [boombox size](/boombox-size/) battery powered speaker is the [*
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: ~38hz (-10dB)
+- Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -187,7 +187,7 @@ Alan Ross's favorite [small pocket size](/pocket-size/) speaker is the [**$60 Tr
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -225,7 +225,7 @@ Alan Ross's favorite [medium size](/small-medium-size/) speaker is the [**$80 So
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
@@ -257,7 +257,7 @@ Alan Ross's favorite [large size](/large-size/) speaker is the [**$200 Marshall 
 - Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - IP Rating: IPX4
@@ -285,7 +285,7 @@ Alan Ross's favorite [boombox size](/boombox-size/) speaker is the [**$350 Harma
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: No
 - Aux Latency: 112ms
-- Bass Extension: 35hz (-10dB)
+- Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)

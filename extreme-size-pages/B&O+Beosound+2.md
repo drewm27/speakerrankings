@@ -10,7 +10,7 @@ The B&O Beosound 2 ranks #33 out of 48 total [Party Size Portable Bluetooth Spea
 ### #33 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Aux Input: Yes
-- Bass Extension: ~45hz (-10dB)
+- Bass Extension (-10dB): ~45hz
 - Battery Life: No battery
 - Max Volume: 94db
 - Party Mode: Yes

@@ -10,7 +10,7 @@ The Devialet Mania ranks #40 out of 75 total [Large Size Portable Bluetooth Spea
 ### #40 [Devialet Mania](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325)]: $800
 - Positives: Small, nice looking.
 - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 10 hours
 - IP Rating: IPX4
 - Max Volume: 95db

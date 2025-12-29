@@ -10,7 +10,7 @@ The Sony SRS-XB43 ranks #41 out of 75 total [Large Size Portable Bluetooth Speak
 ### #41 Sony SRS-XB43: $150
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: Yes
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
 - Latency: 85ms
 - Max Volume: 99db

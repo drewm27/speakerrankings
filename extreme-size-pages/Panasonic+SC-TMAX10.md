@@ -10,7 +10,7 @@ The Panasonic SC-TMAX10 ranks #39 out of 48 total [Party Size Portable Bluetooth
 ### #39 Panasonic SC-TMAX10
 - Negatives: Not as deep bass as others in the class
 - Aux Input: Yes
-- Bass Extension: ~57hz (-10dB)
+- Bass Extension (-10dB): ~57hz
 - Battery Life: 10 hours
 - Power Bank: Yes
 - Power Input: AC Power cord

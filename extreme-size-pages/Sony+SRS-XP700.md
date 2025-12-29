@@ -11,7 +11,7 @@ The Sony SRS-XP700 ranks #12 out of 48 total [Party Size Portable Bluetooth Spea
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 25 hours
 - Bluetooth Codecs: LDAC, AAC, SBC
 - EQ: Yes

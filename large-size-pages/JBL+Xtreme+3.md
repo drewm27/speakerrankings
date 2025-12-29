@@ -11,7 +11,7 @@ The JBL Xtreme 3 ranks #18 out of 75 total [Large Size Portable Bluetooth Speake
 - Positives: Better treble and deeper bass than the Xtreme 2. More balanced sounding than the Xtreme 4
 - Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
 - Aux Input: Yes
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 15 hours
 - Latency: 133ms
 - Max Volume: 105db

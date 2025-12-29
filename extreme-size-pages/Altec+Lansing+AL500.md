@@ -10,7 +10,7 @@ The Altec Lansing AL500 ranks #47 out of 48 total [Party Size Portable Bluetooth
 ### #47 Altec Lansing AL500: $200
 - Negatives: Not very deep bass
 - Aux Input: Yes
-- Bass Extension: ~60hz (-10dB)
+- Bass Extension (-10dB): ~60hz
 - FM Tuner: Yes
 - Microphone Input: Yes
 - Power Input: AC Power cord

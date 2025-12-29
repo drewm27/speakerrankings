@@ -10,7 +10,7 @@ The Sony SRS-XG500 ranks #43 out of 70 total [Boombox Size Portable Bluetooth Sp
 ### #43 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: Yes
-- Bass Extension: 49hz (-10dB)
+- Bass Extension (-10dB): 49hz
 - Battery Life: 30 hours
 - IP Rating: IP66
 - Party Mode: Yes (Partyconnect up to 100 speakers)

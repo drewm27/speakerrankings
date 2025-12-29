@@ -12,7 +12,7 @@ The Tribit Stormbox Micro 2 ranks #1 out of 40 total [Small Size Portable Blueto
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

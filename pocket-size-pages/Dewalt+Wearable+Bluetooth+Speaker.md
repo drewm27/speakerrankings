@@ -11,7 +11,7 @@ The Dewalt Wearable Bluetooth Speaker ranks #40 out of 40 total [Small Size Port
 - Positives: It's lightweight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - Aux Input: No
-- Bass Extension: ~300hz (-10dB)
+- Bass Extension (-10dB): ~300hz
 - Battery Life: 10 hours
 - Built in Microphone: Yes
 - IP Rating: IP56

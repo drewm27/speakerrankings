@@ -10,7 +10,7 @@ The Sony GTK-XB90 ranks #44 out of 48 total [Party Size Portable Bluetooth Speak
 ### #44 Sony GTK-XB90
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - Aux Input: Yes
-- Bass Extension: ~50hz (-10dB)
+- Bass Extension (-10dB): ~50hz
 - Battery Life: 16 hours
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Power Bank: Yes

@@ -12,7 +12,7 @@ The Soundcore Motion 100 ranks #40 out of 129 total [Medium Size Portable Blueto
 - Negatives: Not very deep bass, slight distortion
 - App: Yes
 - Aux Input: No
-- Bass Extension: 65hz (-10dB)
+- Bass Extension (-10dB): 65hz
 - Battery Life: 12 hours
 - EQ: Yes
 - IP Rating: IPX7

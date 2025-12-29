@@ -12,7 +12,7 @@ The Soundcore Boom 2 Plus ranks #22 out of 70 total [Boombox Size Portable Bluet
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 39hz (-10dB)
+- Bass Extension (-10dB): 39hz
 - Battery Life: 20 hours
 - EQ: Yes
 - IP Rating: IPX7

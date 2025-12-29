@@ -11,7 +11,7 @@ The Harman Kardon Esquire Mini 2 ranks #36 out of 40 total [Small Size Portable 
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - App: No
 - Aux Input: Yes
-- Bass Extension: ~120hz (-10dB)
+- Bass Extension (-10dB): ~120hz
 - Battery Life: 10 hours
 - Built in Microphone: Yes
 - EQ: No

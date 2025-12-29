@@ -6,7 +6,7 @@ cover-img: "/assets/img/branex.jpg"
 share-description: "Discover the top-recommended WiFi speakers. Expertly ranked for seamless multi-room streaming, sound quality, and value across smart home setups."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers that have wifi out of the 371 ranked on this website. Last updated on 12/28/2025. Note by limiting your search to only speakers with Wifi, you'll take a hit in sound quality generally. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers that have wifi out of the 371 ranked on this website. Last updated on 12/29/2025. Note by limiting your search to only speakers with Wifi, you'll take a hit in sound quality generally. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/). 
 
@@ -17,7 +17,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Positives: Has Wifi. Sounds exactly the same as the non-Wifi version
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
 - EQ: Yes (3 band)
 - Max Volume: 99db
@@ -64,7 +64,7 @@ For something more reasonably priced get a [**$300 Audio Pro C5 MK II**](https:/
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Aux Input: Yes
 - Aux Latency: 300ms
-- Bass Extension: 31hz (-10dB)
+- Bass Extension (-10dB): 31hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - IP Rating: IP57

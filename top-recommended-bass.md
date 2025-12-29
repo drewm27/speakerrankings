@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Uncover the top recommended Bluetooth speakers with powerful bass. Expert-ranked picks that deliver deep, punchy lows without compromising clarity or value."
 ---
 
-This page summarizes the best portable Bluetooth speakers for bass out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards loud speakers which have boosted and deep bass response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers for bass out of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards loud speakers which have boosted and deep bass response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
@@ -18,7 +18,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -57,7 +57,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
 - Digital Aux Input: Yes (USB-C)
 - EQ: Yes (7 band)
@@ -93,7 +93,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -129,7 +129,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Aux Input: Yes
 - Aux Latency: 300ms
-- Bass Extension: 31hz (-10dB)
+- Bass Extension (-10dB): 31hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - IP Rating: IP57
@@ -156,7 +156,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: ~38hz (-10dB)
+- Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes

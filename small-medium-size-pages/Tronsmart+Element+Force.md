@@ -10,7 +10,7 @@ The Tronsmart Element Force ranks #48 out of 129 total [Medium Size Portable Blu
 ### #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 15 hours
 - Max Volume: 98db
 - MicroSD: Yes

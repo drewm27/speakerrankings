@@ -11,7 +11,7 @@ The Sony ULT Field 7 ranks #36 out of 70 total [Boombox Size Portable Bluetooth 
 - Positives: Better sounding than the XG500
 - Negatives: Still not as deep bass as the top ranked speakers. 8khz peak
 - Aux Input: Yes
-- Bass Extension: ~52hz (-10dB)
+- Bass Extension (-10dB): ~52hz
 - Battery Life: 30 hours
 - Guitar Input: Yes
 - IP Rating: IP67

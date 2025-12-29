@@ -10,7 +10,7 @@ The Gemini GGO-650L ranks #56 out of 70 total [Boombox Size Portable Bluetooth S
 ### #56 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325)]: $84
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
-- Bass Extension: ~56hz (-10dB)
+- Bass Extension (-10dB): ~56hz
 - Battery Life: 10 hours
 - MicroSD: Yes
 - Stereo: Partially

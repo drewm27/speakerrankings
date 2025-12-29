@@ -12,7 +12,7 @@ The Dayton Audio Boost Mini ranks #24 out of 40 total [Small Size Portable Bluet
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Monster Bluetooth Speaker
 - App: No
 - Aux Input: Yes
-- Bass Extension: 95hz (-10dB)
+- Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
 - EQ: No
 - IP Rating: IPX7

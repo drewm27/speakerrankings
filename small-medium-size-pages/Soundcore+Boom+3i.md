@@ -12,7 +12,7 @@ The Soundcore Boom 3i ranks #27 out of 129 total [Medium Size Portable Bluetooth
 - Negatives: Not quite as good as a Charge 5, doesn't go quite as loud or sound quite as balanced, but very very close. An earlier firmware version had some bass distortion, update your firmware in the Soundcore App
 - App: Yes
 - Aux Input: No
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - EQ: Yes
 - IP Rating: IP68

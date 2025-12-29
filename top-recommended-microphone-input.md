@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best microphone-input speakers — expert-reviewed picks for crystal-clear sound, recording, streaming & more with built-in input options."
 ---
 
-This page summarizes the best portable Bluetooth speakers with microphone input of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with microphone input of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See this for [Speakers with Wireless Microphones](/top-recommended-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/top-recommended-microphone/)
 
@@ -22,7 +22,7 @@ The best sounding [party size](/extreme-size/) loudest battery powered speaker f
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 45hz (-10dB)
+- Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
 - EQ: Yes
@@ -186,7 +186,7 @@ And with a longer battery, the $300 [Tribit Stormbox Blast 2](https://www.amazon
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
 - Aux Input: Yes
-- Bass Extension: 40hz (-10dB)
+- Bass Extension (-10dB): 40hz
 - Battery Life: 30 hours
 - IP Rating: IP67
 - Max Volume: 110db

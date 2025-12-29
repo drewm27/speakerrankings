@@ -12,7 +12,7 @@ The Monster Atomic Atom ranks #23 out of 40 total [Small Size Portable Bluetooth
 - Negatives: For the pocket class, lacking quite a bit of bass compared to the top ranked speakers
 - App: No
 - Aux Input: No
-- Bass Extension: 90hz (-10dB)
+- Bass Extension (-10dB): 90hz
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
 - EQ: No

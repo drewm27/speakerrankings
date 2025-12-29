@@ -6,7 +6,7 @@ cover-img: "/assets/img/k12.2.jpg"
 share-description: "Browse our top-recommended Bluetooth speakers with the loudest output. Expert-ranked for volume, clarity & value to make your music heard."
 ---
 
-This page summarizes the loudest portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the loudest portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 ### The Loudest Small Pocket Size Speaker
 
@@ -16,7 +16,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -56,7 +56,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - EQ: Yes
@@ -83,7 +83,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -119,7 +119,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 41hz (-10dB)
+- Bass Extension (-10dB): 41hz
 - Battery Life: 28 hours
 - EQ: Yes (7 band)
 - IP Rating: IP68
@@ -145,7 +145,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: ~42hz (-10dB)
+- Bass Extension (-10dB): ~42hz
 - EQ: Yes
 - IP Rating: IPX6
 - Max Volume: 112db
@@ -176,7 +176,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 45hz (-10dB)
+- Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
 - EQ: Yes

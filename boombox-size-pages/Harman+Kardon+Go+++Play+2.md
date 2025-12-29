@@ -11,7 +11,7 @@ The Harman Kardon Go + Play 2 ranks #16 out of 70 total [Boombox Size Portable B
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others. No water rating.
 - Aux Latency: 0ms
-- Bass Extension: 40hz (-10dB)
+- Bass Extension (-10dB): 40hz
 - Battery Life: 8 hours
 - IP Rating: None
 - Latency: 33ms

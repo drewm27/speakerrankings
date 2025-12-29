@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Find the top recommended Bluetooth speakers for party mode. Expert-ranked for booming volume, long battery life & rich bass to keep the party going all night."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
@@ -17,7 +17,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -44,7 +44,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
 - Digital Aux Input: Yes (USB-C)
 - EQ: Yes (7 band)
@@ -80,7 +80,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -121,7 +121,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: ~38hz (-10dB)
+- Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes

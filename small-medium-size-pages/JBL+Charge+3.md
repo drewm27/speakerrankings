@@ -10,7 +10,7 @@ The JBL Charge 3 ranks #66 out of 129 total [Medium Size Portable Bluetooth Spea
 ### #66 JBL Charge 3: $80
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 20 hours
 - Max Volume: 100db
 - Party Mode: Yes (Connect+ up to 100 speakers)

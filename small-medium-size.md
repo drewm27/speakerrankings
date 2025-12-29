@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
 ---
 
-This page ranks 129 medium size powered Bluetooth speakers. Last updated on 12/28/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 129 medium size powered Bluetooth speakers. Last updated on 12/29/2025. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -25,7 +25,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -56,7 +56,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
 - Built in Microphone: Yes
@@ -88,7 +88,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
@@ -120,7 +120,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Slight DSP tuning issue which makes bass get lighter at times at very low volumes, examples in oluv's video.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -150,7 +150,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Aux Input: Yes
-- Bass Extension: 57hz (-10dB)
+- Bass Extension (-10dB): 57hz
 - Battery Life: 13 hours
 - Built in Microphone: Yes
 - IP Rating: IP67
@@ -176,7 +176,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - EQ: Yes
@@ -201,7 +201,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: No
@@ -230,7 +230,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 40 hours
 - Built in Microphone: No
 - EQ: Yes
@@ -252,7 +252,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Not quite as neutral as the A1 2nd gen. Pumping sound artifacts above 60% volume, only good for lower listening levels.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 24 hours
 - Built in Microphone: Yes
 - EQ: Yes
@@ -280,7 +280,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Not as deep bass as the A1. Pumping sound artifacts above 60% volume, only good for lower listening levels.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 18 hours
 - Built in Microphone: Yes
 - EQ: Yes
@@ -312,7 +312,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
 - Digital Aux Input: Yes (USB-C)
 - EQ: Yes (7 band)
@@ -345,7 +345,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
 - App: Yes
 - Aux Input: No
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - Built in Microphone: No
 - EQ: Yes
@@ -393,7 +393,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: A little bit of a bump at 4khz, not quite as neutral as the FLip 6. I believe this one is slightly worse than the Flip 6.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 14 hours
 - Built in Microphone: No
 - EQ: Yes (7 band)
@@ -455,7 +455,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Flash latest firmware for the best sound, much improved bass and treble.
 - Negatives: Not stereo, slight peak around 250hz, slightly rolled off treble.
 - App: No
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - EQ: No
 - IP Rating: IP67
@@ -522,7 +522,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Single driver, not stereo. Lack of detail. Lack of upper treble, peaky lower treble. Not great off axis. Keep in mind this speaker gives up some sound quality for deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 20 hours
 - Built in Microphone: No
 - EQ: Yes
@@ -550,7 +550,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Slightly less deep bass than the best in category.
 - App: No
 - Aux Input: Yes
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 20 hours
 - Built in Microphone: No
 - EQ: No
@@ -579,7 +579,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Boosted bass, not as detailed as higher ranked speakers
 - App: No
 - Aux Input: No
-- Bass Extension: 57hz (-10dB)
+- Bass Extension (-10dB): 57hz
 - Battery Life: 12 hours
 - EQ: No
 - IP Rating: IP67
@@ -601,7 +601,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 24 hours
 - EQ: No
 - IP Rating: IPX7
@@ -623,7 +623,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: A bit harsh and thin sounding. Default mode has a boosted treble.
 - App: No
 - Aux Input: Yes
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 24 hours
 - EQ: No
 - IP Rating: IPX7
@@ -645,7 +645,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Has Wifi. Sounds exactly the same as the non-Wifi version
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
 - EQ: Yes (3 band)
 - Max Volume: 99db
@@ -664,7 +664,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)]: $180
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
 - EQ: Yes (3 band)
 - Latency: 125ms
@@ -693,7 +693,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not quite as good as a Charge 5, doesn't go quite as loud or sound quite as balanced, but very very close. An earlier firmware version had some bass distortion, update your firmware in the Soundcore App
 - App: Yes
 - Aux Input: No
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - EQ: Yes
 - IP Rating: IP68
@@ -732,7 +732,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Less bass extension than a Flip 6
 - App: No
 - Aux Input: Yes
-- Bass Extension: ~62hz (-10dB)
+- Bass Extension (-10dB): ~62hz
 - Battery Life: 12 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -754,7 +754,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Slightly rolled off treble, not as deep of bass as the best in category. Outdoor mode is more flat, indoor mode boosts bass. Not technically a 360 speaker, only front and rear.
 - App: No
 - Aux Input: No
-- Bass Extension: 61hz (-10dB)
+- Bass Extension (-10dB): 61hz
 - Battery Life: 16 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -834,7 +834,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #34 [Bose Soundlink Flex](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325)]: $150
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail
 - App: Yes
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -862,7 +862,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #35 JBL Charge Essential 2: $130
 - Negatives: Not stereo. Slightly less bass than a Charge 5.
 - App: No
-- Bass Extension: ~55hz (-10dB)
+- Bass Extension (-10dB): ~55hz
 - Battery Life: 20 hours
 - EQ: No
 - Party Mode: No
@@ -879,7 +879,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
 - Positives: Use Devialet and +6db EQ for best sound quality
 - Negatives: Boosted treble, not quite as deep of bass as a Charge 5. Very expensive
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 26 hours
 - Max Volume: 100db
 - Stereo: No
@@ -924,7 +924,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #39 Earfun Uboom Slim
 - Negatives: Not as deep bass as others. Warm tuned, peaks in the mids and lower treble, rolled off upper treble
-- Bass Extension: ~63hz (-10dB)
+- Bass Extension (-10dB): ~63hz
 - Battery Life: 16 hours
 - Power Input: USB-C
 - Stereo: Yes
@@ -939,7 +939,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not very deep bass, slight distortion
 - App: Yes
 - Aux Input: No
-- Bass Extension: 65hz (-10dB)
+- Bass Extension (-10dB): 65hz
 - Battery Life: 12 hours
 - EQ: Yes
 - IP Rating: IPX7
@@ -955,7 +955,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #41 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325)]: $90
 - Negatives: Bottom woofer was fixed in a later firmware, upgrade for best sound. Peaky mids, highs rolled off. Not technically a 360 speaker, only front and rear.
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 24 hours
 - IP Rating: IPX7
 - Max Volume: 99db
@@ -997,7 +997,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Cool light show, although not synced to the music like the Pulse 2.
 - Negatives: Not quite as deep bass as others. Plastic scratches easily.
 - App: Yes
-- Bass Extension: ~58hz (-10dB)
+- Bass Extension (-10dB): ~58hz
 - Battery Life: 12 hours
 - EQ: Yes
 - IP Rating: IP67
@@ -1012,7 +1012,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #44 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)]: $80 after $20 coupon
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Max Volume: 100db
 - Stereo: No
 - Reviews, Comparisons and Sound Samples
@@ -1058,7 +1058,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #47 Bose Soundlink Revolve+: $230
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
 - Aux Input: Yes
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - IP Rating: IP55
 - Party Mode: Yes (Bose Party mode)
@@ -1077,7 +1077,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 15 hours
 - Max Volume: 98db
 - MicroSD: Yes
@@ -1092,7 +1092,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #49 Bose Soundlink Revolve: $180
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
 - Aux Input: Yes
-- Bass Extension: 60hz (-10dB)
+- Bass Extension (-10dB): 60hz
 - Battery Life: 12 hours
 - Party Mode: Yes (Bose Party mode)
 - Power Input: Micro USB
@@ -1113,7 +1113,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #50 [Tribit Stormbox Flow](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325)]: $60
 - Negatives: Not stereo. Midrange and bass are weirdly recessed about 4db below 700hz. You need xbass mode for it to not sound like a clock radio with missing bass. You also can't turn up the bass enough in the custom EQ modes to get it neutral, so it will sound bass light. Firmware 1.2.3 fixes the distortion issues with xbass mode on, but bass still sounds wobbly and uncontrolled.
 - App: Yes
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 30 hours
 - EQ: Yes
 - Latency: 400ms aac, 200ms sbc
@@ -1135,7 +1135,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #51 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325)]: $85
 - Negatives: Not stereo. 1 Oval driver. Boosted bass, top a little rolled off, warm sound. Not as loud as a Charge 3.
 - Aux Input: Yes
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 20 hours
 - Latency: 330ms
 - Max Volume: 99db
@@ -1162,7 +1162,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #52 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325)]: $36
 - Positives: Use bass model for flattest response. Pretty deep bass for the money.
 - Negatives: Peaks in the upper mids, low treble and a big peak in upper treble.
-- Bass Extension: 52hz (-10dB)
+- Bass Extension (-10dB): 52hz
 - Battery Life: 25 hours
 - Latency: 220ms
 - Max Volume: 98db
@@ -1179,7 +1179,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
 - Negatives: Front/rear driver configuration. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Aux Input: Yes
-- Bass Extension: 61hz (-10dB)
+- Bass Extension (-10dB): 61hz
 - Battery Life: 30 hours
 - IP Rating: IPX7
 - Max Volume: 96db
@@ -1198,7 +1198,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #54 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325)]: $50
 - Negatives: A little less bass than similar size speakers.
 - App: Yes
-- Bass Extension: 60hz (-10dB)
+- Bass Extension (-10dB): 60hz
 - Battery Life: 24 hours
 - EQ: Yes
 - Latency: 180ms
@@ -1217,7 +1217,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
-- Bass Extension: ~58hz (-10dB)
+- Bass Extension (-10dB): ~58hz
 - Battery Life: 10 hours
 - IP Rating: None
 - Stereo: Yes
@@ -1234,7 +1234,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #56 Bose Soundlink Mini: $150
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
-- Bass Extension: ~58hz (-10dB)
+- Bass Extension (-10dB): ~58hz
 - Battery Life: 10 hours
 - IP Rating: None
 - Stereo: Yes
@@ -1262,7 +1262,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #58 Sony XB33: $110
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: No
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 24 hours
 - Latency: 110ms
 - Max Volume: 97db
@@ -1282,7 +1282,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #59 Creative iRoar Go: $83
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
-- Bass Extension: 64hz (-10dB)
+- Bass Extension (-10dB): 64hz
 - Battery Life: 12 hours
 - Weight: 1.8lbs / 816g
 - Reviews, Comparisons and Sound Samples
@@ -1319,7 +1319,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #61 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325)]: $90
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Latency: 200ms
 - Max Volume: 92db
@@ -1336,7 +1336,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Less bass than a Flip 5. Peaky lower treble.
 - Negatives: Battery failures are common.
 - Aux Input: Yes
-- Bass Extension: 66hz (-10dB)
+- Bass Extension (-10dB): 66hz
 - Battery Life: 12 hours
 - Latency: 300ms
 - Max Volume: 92db
@@ -1356,7 +1356,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #63 Sony XB23: $100
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
-- Bass Extension: 67hz (-10dB)
+- Bass Extension (-10dB): 67hz
 - Battery Life: 12 hours
 - Max Volume: 95db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1373,7 +1373,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Upper bass boost. Bass not as deep as the top ranked speakers. Boosted lower treble, sounds a little harsh like most Klipsch speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension: ~64hz (-10dB)
+- Bass Extension (-10dB): ~64hz
 - Battery Life: 24 hours
 - Built in Microphone: Yes
 - IP Rating: IP67
@@ -1407,7 +1407,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #66 JBL Charge 3: $80
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 20 hours
 - Max Volume: 100db
 - Party Mode: Yes (Connect+ up to 100 speakers)
@@ -1462,7 +1462,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #69 [Sonos Roam 2](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl)]: $180
 - Positives: Very neutral. Additional button for pairing instead of being shared with power button
 - Negatives: Exact same sound quality as the original Roam. Bass extension isn't very good. Not stereo. Gets distorted as you turn up the bass.
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 10 hours
 - Max Volume: 95db
 - Stereo: No
@@ -1477,7 +1477,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #70 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325)]: $160
 - Positives: Very neutral.
 - Negatives: Bass extension isn't very good. Not stereo. Gets distorted if you turn up the bass.
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 10 hours
 - Max Volume: 95db
 - Stereo: No
@@ -1494,7 +1494,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #71 [Tronsmart Mirtune S100](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl)]: $64
 - Positives: Reasonably balanced
 - Negatives: Lacking deeper bass compared to higher ranked speakers
-- Bass Extension: ~64hz (-10dB)
+- Bass Extension (-10dB): ~64hz
 - Battery Life: 20 hours
 - Built in Microphone: Yes
 - IP Rating: IPX7
@@ -1509,7 +1509,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #72 [Treblab HD77](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl)]: $60
 - Negatives: Lacking quite a bit of bass compared to higher ranked speakers. Unable to disable the music flashing lights
-- Bass Extension: ~66hz (-10dB)
+- Bass Extension (-10dB): ~66hz
 - Battery Life: 20 hours
 - Built in Microphone: Yes
 - IP Rating: IPX7
@@ -1528,7 +1528,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
 - Aux Input: Yes
-- Bass Extension: 83hz (-10dB)
+- Bass Extension (-10dB): 83hz
 - Battery Life: 24 hours
 - Max Volume: 98db
 - Stereo: Yes
@@ -1591,7 +1591,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #77 [LG Xboom Grab](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl)]: $127
 - Negatives: Bass extension not as deep as the top speakers. Overpriced. This may move around in the rankings as we get better sound samples
 - App: Yes
-- Bass Extension: 75hz (-10dB)
+- Bass Extension (-10dB): 75hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: AAC, SBC
 - EQ: Yes
@@ -1612,7 +1612,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #78 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325)]: $163
 - Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
-- Bass Extension: 70hz (-10dB)
+- Bass Extension (-10dB): 70hz
 - Battery Life: 20 hours
 - Max Volume: 98db
 - Party Mode: Yes (PartyUp up to 50 speakers)
@@ -1628,7 +1628,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #79 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325)]: $72
 - Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
-- Bass Extension: 76hz (-10dB)
+- Bass Extension (-10dB): 76hz
 - Battery Life: 14 hours
 - Latency: 166ms
 - Max Volume: 87db
@@ -1646,7 +1646,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #80 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325)]: $80
 - Negatives: Not stereo, barely any bass, recessed treble. Slightly boosted 93hz upper bass Dip at 9khz. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2019. Not technically a 360 speaker, only front and rear.
-- Bass Extension: 82hz (-10dB)
+- Bass Extension (-10dB): 82hz
 - Battery Life: 12 hours
 - Max Volume: 88db
 - Power Input: Micro USB
@@ -1688,7 +1688,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #83 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325)]: $113
 - Negatives: Not stereo, barely any bass, recessed treble. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2021. Lots of mentions of failing batteries on amazon. Not technically a 360 speaker, only front and rear.
-- Bass Extension: 91hz (-10dB)
+- Bass Extension (-10dB): 91hz
 - Battery Life: 15 hours
 - Max Volume: 87db
 - Party Mode: Yes (PartyUp up to 50 speakers)
@@ -1736,7 +1736,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0
-- Bass Extension: 52hz (-10dB)
+- Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -1817,7 +1817,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #92 [Marshall Emberton III](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl)]: $150
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud. Not really any different from the Emberton II except having the treble turned down a little bit.
 - App: Yes
-- Bass Extension: 62hz (-10dB)
+- Bass Extension (-10dB): 62hz
 - Battery Life: 32 hours
 - Party Mode: Yes (Marshall Stack)
 - Weight: 1.5lbs / 673g
@@ -1832,7 +1832,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #93 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl)]: $132
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud.
 - App: Yes
-- Bass Extension: 62hz (-10dB)
+- Bass Extension (-10dB): 62hz
 - Battery Life: 30 hours
 - Latency: 80ms
 - Max Volume: 88db
@@ -1884,7 +1884,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #97 Sony SRS-XB30
 - Negatives: Muffled sound, worse than a XB20
 - Aux Input: Yes
-- Bass Extension: 55hz (-10dB)
+- Bass Extension (-10dB): 55hz
 - Battery Life: 24 hours
 - Max Volume: 95db
 - Party Mode: Yes (Partychain up to 100 speakers)
@@ -1899,7 +1899,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Try Alan Ross's EQ for it here <https://ibb.co/q9mcNk1>
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
 - App: Yes
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - EQ: Yes
 - Latency: 80ms
@@ -1917,7 +1917,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #99 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 24 hours
 - Max Volume: 100db
 - MicroSD: Yes
@@ -1940,7 +1940,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #101 TDK A33
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Aux Input: Yes
-- Bass Extension: ~72hz (-10dB)
+- Bass Extension (-10dB): ~72hz
 - Battery Life: 6 hours
 - Weight: 2.8lbs / 1270g
 - Reviews, Comparisons and Sound Samples
@@ -1953,7 +1953,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #102 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.
-- Bass Extension: ~70hz (-10dB)
+- Bass Extension (-10dB): ~70hz
 - Battery Life: 27 hours
 - IP Rating: IP67
 - Max Volume: 91db
@@ -1981,7 +1981,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #104 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100
 - Negatives: Barely any bass. 14khz peak, bright on top. Soundboost mode makes the top end even harsher.
 - Aux Input: Yes
-- Bass Extension: 71hz (-10dB)
+- Bass Extension (-10dB): 71hz
 - Battery Life: 15 hours
 - Max Volume: 100db
 - Weight: 1.4lbs / 640g
@@ -2028,7 +2028,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #108 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358
 - Aux Input: Yes
-- Bass Extension: 87hz (-10dB)
+- Bass Extension (-10dB): 87hz
 - Battery Life: 6 hours
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -2043,7 +2043,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #109 [Boat Stone 350/352/358](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB) [[Amazon](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB)]: ₹1,399
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Dayton Audio Boost
 - Aux Input: Yes
-- Bass Extension: 87hz (-10dB)
+- Bass Extension (-10dB): 87hz
 - Battery Life: 6 hours
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -2077,7 +2077,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #112 Xdobo X8: $35
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Aux Input: Yes
-- Bass Extension: ~65hz (-10dB)
+- Bass Extension (-10dB): ~65hz
 - Battery Life: 15 hours
 - MicroSD: Yes
 - Weight: 1.9lbs / 860g
@@ -2101,7 +2101,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #114 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
-- Bass Extension: ~64hz (-10dB)
+- Bass Extension (-10dB): ~64hz
 - Battery Life: 30 hours
 - Weight: 1.3lbs / 590g
 - Reviews, Comparisons and Sound Samples
@@ -2111,7 +2111,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #115 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
 - Negatives: Very little bass with horrible upper bass thud at higher levels
-- Bass Extension: ~90hz (-10dB)
+- Bass Extension (-10dB): ~90hz
 - Battery Life: 20 hours
 - Max Volume: 86db
 - Weight: 0.9lbs / 400g
@@ -2132,7 +2132,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #117 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Aux Input: Yes
-- Bass Extension: ~90hz (-10dB)
+- Bass Extension (-10dB): ~90hz
 - Battery Life: 8 hours
 - IP Rating: IPX5
 - MicroSD: Yes
@@ -2154,7 +2154,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #119 Beats Pill+: $230
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - App: Yes
-- Bass Extension: 90hz (-10dB)
+- Bass Extension (-10dB): 90hz
 - EQ: No
 - Weight: 1.5lbs / 0.7kg
 - Reviews, Comparisons and Sound Samples
@@ -2187,7 +2187,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #122 Doss Soundbox
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Aux Input: Yes
-- Bass Extension: 140hz (-10dB)
+- Bass Extension (-10dB): 140hz
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Weight: 1.23lbs / 558g
@@ -2209,7 +2209,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ### #124 Doss E–Go II
 - Negatives: Horribly bad unless turned up, still not great
 - Aux Input: Yes
-- Bass Extension: 120hz (-10dB)
+- Bass Extension (-10dB): 120hz
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Reviews, Comparisons and Sound Samples
@@ -2233,7 +2233,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #126 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl)]: $28
 - Negatives: Very harsh treble, no bass.
-- Bass Extension: 138hz (-10dB)
+- Bass Extension (-10dB): 138hz
 - Battery Life: 14 hours
 - IP Rating: IPX5
 - Max Volume: 89db
@@ -2268,7 +2268,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ### #129 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad
-- Bass Extension: 185hz (-10dB)
+- Bass Extension (-10dB): 185hz
 - Battery Life: 9 hours
 - Weight: 0.7lbs / 0.3kg
 - Reviews, Comparisons and Sound Samples

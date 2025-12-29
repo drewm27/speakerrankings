@@ -10,7 +10,7 @@ The TDK A33 ranks #101 out of 129 total [Medium Size Portable Bluetooth Speakers
 ### #101 TDK A33
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Aux Input: Yes
-- Bass Extension: ~72hz (-10dB)
+- Bass Extension (-10dB): ~72hz
 - Battery Life: 6 hours
 - Weight: 2.8lbs / 1270g
 - Reviews, Comparisons and Sound Samples

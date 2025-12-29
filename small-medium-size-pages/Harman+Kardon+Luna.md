@@ -12,7 +12,7 @@ The Harman Kardon Luna ranks #22 out of 129 total [Medium Size Portable Bluetoot
 - Negatives: Not stereo. Boosted bass, not as detailed as higher ranked speakers
 - App: No
 - Aux Input: No
-- Bass Extension: 57hz (-10dB)
+- Bass Extension (-10dB): 57hz
 - Battery Life: 12 hours
 - EQ: No
 - IP Rating: IP67

@@ -12,7 +12,7 @@ The JBL Charge 6 ranks #11 out of 129 total [Medium Size Portable Bluetooth Spea
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
 - Digital Aux Input: Yes (USB-C)
 - EQ: Yes (7 band)

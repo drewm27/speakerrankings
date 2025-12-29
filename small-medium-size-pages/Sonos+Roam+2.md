@@ -10,7 +10,7 @@ The Sonos Roam 2 ranks #69 out of 129 total [Medium Size Portable Bluetooth Spea
 ### #69 [Sonos Roam 2](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl)]: $180
 - Positives: Very neutral. Additional button for pairing instead of being shared with power button
 - Negatives: Exact same sound quality as the original Roam. Bass extension isn't very good. Not stereo. Gets distorted as you turn up the bass.
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 10 hours
 - Max Volume: 95db
 - Stereo: No

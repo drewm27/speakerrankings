@@ -11,7 +11,7 @@ The Vifa City ranks #8 out of 40 total [Small Size Portable Bluetooth Speakers](
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
 - App: No
-- Bass Extension: 73hz (-10dB)
+- Bass Extension (-10dB): 73hz
 - Battery Life: 12 hours
 - EQ: No
 - IP Rating: IPX4

@@ -12,7 +12,7 @@ The JBL Partybox 310 ranks #2 out of 48 total [Party Size Portable Bluetooth Spe
 - Negatives: Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 32hz (-10dB)
+- Bass Extension (-10dB): 32hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
 - EQ: Yes (3 band)

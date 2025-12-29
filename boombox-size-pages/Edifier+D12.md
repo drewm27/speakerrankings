@@ -11,7 +11,7 @@ The Edifier D12 ranks #21 out of 70 total [Boombox Size Portable Bluetooth Speak
 - Positives: Subwoofer line out.
 - Negatives: Not as deep of bass as other speakers in the category. No water rating.
 - Aux Input: Yes
-- Bass Extension: 57hz (-10dB)
+- Bass Extension (-10dB): 57hz
 - Battery Life: No Battery
 - IP Rating: None
 - Power Bank: No

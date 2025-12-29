@@ -10,7 +10,7 @@ The B&O Beosound 1 ranks #34 out of 48 total [Party Size Portable Bluetooth Spea
 ### #34 B&O Beosound 1: $2000
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Aux Input: Yes
-- Bass Extension: ~53hz (-10dB)
+- Bass Extension (-10dB): ~53hz
 - Battery Life: 16 hours
 - Max Volume: 91db
 - Power Input: AC Power cord

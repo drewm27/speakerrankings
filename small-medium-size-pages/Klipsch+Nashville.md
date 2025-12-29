@@ -11,7 +11,7 @@ The Klipsch Nashville ranks #64 out of 129 total [Medium Size Portable Bluetooth
 - Negatives: Upper bass boost. Bass not as deep as the top ranked speakers. Boosted lower treble, sounds a little harsh like most Klipsch speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension: ~64hz (-10dB)
+- Bass Extension (-10dB): ~64hz
 - Battery Life: 24 hours
 - Built in Microphone: Yes
 - IP Rating: IP67

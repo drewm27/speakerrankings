@@ -9,7 +9,7 @@ The Laney F67 ranks #65 out of 75 total [Large Size Portable Bluetooth Speakers]
 
 ### #65 Laney F67: $340
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
-- Bass Extension: ~62hz (-10dB)
+- Bass Extension (-10dB): ~62hz
 - Battery Life: 20 hours
 - IP Rating: None
 - Weight: 6.1lbs / 2.8kg

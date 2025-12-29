@@ -10,7 +10,7 @@ The W-King T9 ranks #38 out of 75 total [Large Size Portable Bluetooth Speakers]
 ### #38 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3xpFLqb)]: $130
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
 - Aux Input: Yes
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - IP Rating: None
 - Max Volume: 106db

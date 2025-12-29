@@ -11,7 +11,7 @@ The JBL Clip ranks #29 out of 40 total [Small Size Portable Bluetooth Speakers](
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - App: No
 - Aux Input: Yes (integrated 3.5mm cable)
-- Bass Extension: ~95hz (-10dB)
+- Bass Extension (-10dB): ~95hz
 - Battery Life: 5 hours
 - EQ: No
 - Party Mode: No

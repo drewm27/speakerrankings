@@ -11,7 +11,7 @@ The Sony SRS-XP500 ranks #13 out of 48 total [Party Size Portable Bluetooth Spea
 - Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 42hz (-10dB)
+- Bass Extension (-10dB): 42hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: LDAC, AAC, SBC
 - EQ: Yes

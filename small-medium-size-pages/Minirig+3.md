@@ -13,7 +13,7 @@ The Minirig 3 ranks #7 out of 129 total [Medium Size Portable Bluetooth Speakers
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: No

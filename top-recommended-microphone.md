@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore top-recommended Bluetooth speakers with built-in microphones. Expert-ranked picks for clear calls, hands-free voice control & excellent sound quality."
 ---
 
-This page summarizes the best portable Bluetooth speakers with built in microphone for phone calls of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with  a built in microphone and good sound quality. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with built in microphone for phone calls of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards value speakers with  a built in microphone and good sound quality. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See this for [Speakers with Wireless Handheld Microphones](/top-recommended-wireless-microphone/) or [Speakers with Microphone Input](/top-recommended-microphone-input/)
 
@@ -24,7 +24,7 @@ The best [medium size](/small-medium-size/) battery powered speaker with a built
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -56,7 +56,7 @@ If you need a [medium size](/small-medium-size/) stereo and omnidirectional spea
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
 - Built in Microphone: Yes
@@ -89,7 +89,7 @@ The best [medium size](/small-medium-size/) speaker with a built in microphone a
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
@@ -124,7 +124,7 @@ The best reasonably priced [large size](/large-size/) battery powered speaker fo
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -161,7 +161,7 @@ The best [boombox size](/boombox-size/) battery powered speaker with a built in 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: ~38hz (-10dB)
+- Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes

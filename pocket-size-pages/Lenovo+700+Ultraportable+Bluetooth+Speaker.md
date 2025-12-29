@@ -10,7 +10,7 @@ The Lenovo 700 Ultraportable Bluetooth Speaker ranks #38 out of 40 total [Small 
 ### #38 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
-- Bass Extension: ~220hz (-10dB)
+- Bass Extension (-10dB): ~220hz
 - Battery Life: 12 hours
 - IP Rating: IPX2
 - Stereo: Yes

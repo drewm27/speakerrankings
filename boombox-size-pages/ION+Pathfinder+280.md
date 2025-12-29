@@ -10,7 +10,7 @@ The ION Pathfinder 280 ranks #64 out of 70 total [Boombox Size Portable Bluetoot
 ### #64 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325)]: $170
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Aux Input: Yes
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 100 hours
 - FM Tuner: Yes
 - IP Rating: IPX5

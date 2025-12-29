@@ -12,7 +12,7 @@ The Soundcore Motion Boom ranks #12 out of 75 total [Large Size Portable Bluetoo
 - Negatives: Not as neutral or detailed as other top ranked speakers
 - App: Yes
 - Aux Input: No
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
 - EQ: Yes
 - IP Rating: IPX7

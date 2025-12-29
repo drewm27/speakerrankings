@@ -10,7 +10,7 @@ The LG Xboom Go PL5 ranks #104 out of 129 total [Medium Size Portable Bluetooth 
 ### #104 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100
 - Negatives: Barely any bass. 14khz peak, bright on top. Soundboost mode makes the top end even harsher.
 - Aux Input: Yes
-- Bass Extension: 71hz (-10dB)
+- Bass Extension (-10dB): 71hz
 - Battery Life: 15 hours
 - Max Volume: 100db
 - Weight: 1.4lbs / 640g

@@ -11,7 +11,7 @@ The JBL Boombox 2 ranks #26 out of 70 total [Boombox Size Portable Bluetooth Spe
 - Negatives: Somewhat bass heavy and boomy.
 - Aux Input: Yes
 - Aux Latency: 33ms
-- Bass Extension: 46hz (-10dB)
+- Bass Extension (-10dB): 46hz
 - Battery Life: 24 hours
 - IP Rating: IPX7
 - Latency: 140ms

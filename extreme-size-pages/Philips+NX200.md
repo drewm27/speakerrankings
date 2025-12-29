@@ -10,7 +10,7 @@ The Philips NX200 ranks #38 out of 48 total [Party Size Portable Bluetooth Speak
 ### #38 Philips NX200
 - Negatives: No deep bass, mids are a little harsh
 - Aux Input: Yes
-- Bass Extension: ~55hz (-10dB)
+- Bass Extension (-10dB): ~55hz
 - Battery Life: 14 hours
 - Power Input: AC Power cord
 - Weight: 17lbs / 7.7kg

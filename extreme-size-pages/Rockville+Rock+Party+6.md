@@ -11,7 +11,7 @@ The Rockville Rock Party 6 ranks #48 out of 48 total [Party Size Portable Blueto
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
 - Aux Input: Yes
-- Bass Extension: ~60hz (-10dB)
+- Bass Extension (-10dB): ~60hz
 - Battery Life: 6 hours
 - Power Input: AC Power cord
 - Weight: 11.8lbs / 5.4kg

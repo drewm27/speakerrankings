@@ -10,7 +10,7 @@ The Soundcore Rave ranks #43 out of 48 total [Party Size Portable Bluetooth Spea
 ### #43 Soundcore Rave: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - Aux Input: Yes
-- Bass Extension: ~60hz (-10dB)
+- Bass Extension (-10dB): ~60hz
 - Battery Life: 24 hours
 - Power Bank: Yes
 - Power Input: AC Power cord

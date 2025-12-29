@@ -11,7 +11,7 @@ The Mifa Wildrod ranks #17 out of 129 total [Medium Size Portable Bluetooth Spea
 - Positives: Flash latest firmware for the best sound, much improved bass and treble.
 - Negatives: Not stereo, slight peak around 250hz, slightly rolled off treble.
 - App: No
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - EQ: No
 - IP Rating: IP67

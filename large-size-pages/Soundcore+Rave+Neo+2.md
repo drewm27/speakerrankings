@@ -12,7 +12,7 @@ The Soundcore Rave Neo 2 ranks #21 out of 75 total [Large Size Portable Bluetoot
 - Negatives: Slight treble rolloff
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 18 hours
 - EQ: Yes
 - IP Rating: IPX7

@@ -12,7 +12,7 @@ The Soundboks 4 ranks #22 out of 48 total [Party Size Portable Bluetooth Speaker
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 52hz (-10dB)
+- Bass Extension (-10dB): 52hz
 - Battery Life: 40 hours
 - Guitar Input: Yes
 - IP Rating: IP65

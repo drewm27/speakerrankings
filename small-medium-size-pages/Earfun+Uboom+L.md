@@ -14,7 +14,7 @@ The Earfun Uboom L ranks #1 out of 129 total [Medium Size Portable Bluetooth Spe
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes

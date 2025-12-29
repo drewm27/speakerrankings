@@ -12,7 +12,7 @@ The Soundcore Motion 300 ranks #2 out of 129 total [Medium Size Portable Bluetoo
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
 - Built in Microphone: Yes

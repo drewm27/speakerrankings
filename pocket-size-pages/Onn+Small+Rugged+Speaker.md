@@ -12,7 +12,7 @@ The Onn Small Rugged Speaker ranks #22 out of 40 total [Small Size Portable Blue
 - Negatives: Bass isn't quite as deep as the top ranked models. Lacking clarity compared to other models
 - App: No
 - Aux Input: Yes
-- Bass Extension: 66hz (-10dB)
+- Bass Extension (-10dB): 66hz
 - Battery Life: 10 hours
 - Built in Microphone: Yes
 - EQ: No

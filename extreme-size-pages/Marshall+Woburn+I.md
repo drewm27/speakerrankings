@@ -10,7 +10,7 @@ The Marshall Woburn I ranks #31 out of 48 total [Party Size Portable Bluetooth S
 ### #31 Marshall Woburn I: $500
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - Aux Input: Yes
-- Bass Extension: ~50hz (-10dB)
+- Bass Extension (-10dB): ~50hz
 - Battery Life: No battery
 - Power Input: AC Power cord
 - Weight: 17.4lbs / 7.9kg

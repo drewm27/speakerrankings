@@ -12,7 +12,7 @@ The Brane X ranks #10 out of 70 total [Boombox Size Portable Bluetooth Speakers]
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Aux Input: Yes
 - Aux Latency: 300ms
-- Bass Extension: 31hz (-10dB)
+- Bass Extension (-10dB): 31hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - IP Rating: IP57

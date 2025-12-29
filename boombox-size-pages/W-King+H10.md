@@ -12,7 +12,7 @@ The W-King H10 ranks #50 out of 70 total [Boombox Size Portable Bluetooth Speake
 - Negatives: Not very deep bass. Boosted upper bass. Upper midrange dips. Distorts above medium volumes. No water rating.
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 24 hours
 - IP Rating: None
 - Latency: 150ms

@@ -12,7 +12,7 @@ The Earfun Uboom 360 ranks #30 out of 129 total [Medium Size Portable Bluetooth 
 - Negatives: Not stereo. Slightly rolled off treble, not as deep of bass as the best in category. Outdoor mode is more flat, indoor mode boosts bass. Not technically a 360 speaker, only front and rear.
 - App: No
 - Aux Input: No
-- Bass Extension: 61hz (-10dB)
+- Bass Extension (-10dB): 61hz
 - Battery Life: 16 hours
 - Built in Microphone: Yes
 - EQ: No

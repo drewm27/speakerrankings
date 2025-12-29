@@ -10,7 +10,7 @@ The ION Pathfinder 4 ranks #57 out of 70 total [Boombox Size Portable Bluetooth 
 ### #57 ION Pathfinder 4: $300
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Aux Input: Yes
-- Bass Extension: ~62hz (-10dB)
+- Bass Extension (-10dB): ~62hz
 - Battery Life: 100 hours
 - FM Tuner: Yes
 - IP Rating: IPX5

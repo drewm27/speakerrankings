@@ -10,7 +10,7 @@ The Bose Soundlink Mini ranks #56 out of 129 total [Medium Size Portable Bluetoo
 ### #56 Bose Soundlink Mini: $150
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
-- Bass Extension: ~58hz (-10dB)
+- Bass Extension (-10dB): ~58hz
 - Battery Life: 10 hours
 - IP Rating: None
 - Stereo: Yes

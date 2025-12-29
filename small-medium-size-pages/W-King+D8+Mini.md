@@ -10,7 +10,7 @@ The W-King D8 Mini ranks #99 out of 129 total [Medium Size Portable Bluetooth Sp
 ### #99 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 24 hours
 - Max Volume: 100db
 - MicroSD: Yes

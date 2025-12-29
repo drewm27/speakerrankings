@@ -6,7 +6,7 @@ cover-img: "/assets/img/bogasingg4.jpg"
 share-description: "Find the best Bluetooth speakers with SD‑card support. Expertly ranked for sound quality, portability & value, so you can play music straight from memory cards."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 ### The Best Small Pocket Size Speaker With A SD Card Slot
 
@@ -38,7 +38,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - App: No
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 24 hours
 - EQ: No
 - IP Rating: IPX7
@@ -60,7 +60,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
 - Aux Input: Yes
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - IP Rating: None
 - Max Volume: 106db
@@ -82,7 +82,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: ~42hz (-10dB)
+- Bass Extension (-10dB): ~42hz
 - EQ: Yes
 - IP Rating: IPX6
 - Max Volume: 112db

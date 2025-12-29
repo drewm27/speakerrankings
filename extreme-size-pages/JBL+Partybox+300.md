@@ -11,7 +11,7 @@ The JBL Partybox 300 ranks #6 out of 48 total [Party Size Portable Bluetooth Spe
 - Negatives: Hard to carry, too tall, drags on the ground. Max spl and bass extension are only as good as the Partybox 100. No real reason to ever get one, get a Partybox 100 instead. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No
 - Aux Input: Yes
-- Bass Extension: 40hz (-10dB)
+- Bass Extension (-10dB): 40hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
 - EQ: No

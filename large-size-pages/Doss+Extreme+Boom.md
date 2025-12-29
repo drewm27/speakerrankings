@@ -10,7 +10,7 @@ The Doss Extreme Boom ranks #73 out of 75 total [Large Size Portable Bluetooth S
 ### #73 Doss Extreme Boom
 - Negatives: Rolled off treble, barely any bass
 - Aux Input: Yes
-- Bass Extension: 65hz (-10dB)
+- Bass Extension (-10dB): 65hz
 - Battery Life: 30 hours
 - MicroSD: Yes
 - Power Bank: Yes

@@ -12,7 +12,7 @@ The Marshall Middleton II ranks #28 out of 75 total [Large Size Portable Bluetoo
 - Negatives: Bass boosted which drowns out the midrange. Dip around 200hz, peak at 1khz, dipped at 1.6khz. Strange frequency response through the mids.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 38hz (-10dB)
+- Bass Extension (-10dB): 38hz
 - Battery Life: 30 hours
 - Built in Microphone: Yes
 - EQ: Yes (5 band)

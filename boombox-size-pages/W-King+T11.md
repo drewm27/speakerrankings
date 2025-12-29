@@ -11,7 +11,7 @@ The W-King T11 ranks #31 out of 70 total [Boombox Size Portable Bluetooth Speake
 - Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. Wall wart charger.
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 43hz (-10dB)
+- Bass Extension (-10dB): 43hz
 - Battery Life: 10 hours
 - IP Rating: IPX6
 - Latency: 66ms

@@ -11,7 +11,7 @@ The JBL Boombox 3 Wifi ranks #18 out of 70 total [Boombox Size Portable Bluetoot
 - Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
 - Negatives: Bass boosted. Dip at 160hz
 - Aux Input: No
-- Bass Extension: 43hz (-10dB)
+- Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
 - IP Rating: IP67
 - Max Volume: 111db

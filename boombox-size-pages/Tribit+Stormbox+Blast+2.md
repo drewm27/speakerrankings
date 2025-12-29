@@ -11,7 +11,7 @@ The Tribit Stormbox Blast 2 ranks #20 out of 70 total [Boombox Size Portable Blu
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
 - Aux Input: Yes
-- Bass Extension: 40hz (-10dB)
+- Bass Extension (-10dB): 40hz
 - Battery Life: 30 hours
 - IP Rating: IP67
 - Max Volume: 110db

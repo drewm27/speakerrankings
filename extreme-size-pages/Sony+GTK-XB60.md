@@ -10,7 +10,7 @@ The Sony GTK-XB60 ranks #46 out of 48 total [Party Size Portable Bluetooth Speak
 ### #46 Sony GTK-XB60
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Aux Input: Yes
-- Bass Extension: ~60hz (-10dB)
+- Bass Extension (-10dB): ~60hz
 - Battery Life: 14 hours
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Power Bank: Yes

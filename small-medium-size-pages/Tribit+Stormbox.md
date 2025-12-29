@@ -12,7 +12,7 @@ The Tribit Stormbox ranks #86 out of 129 total [Medium Size Portable Bluetooth S
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0
-- Bass Extension: 52hz (-10dB)
+- Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
 - Built in Microphone: Yes
 - EQ: No

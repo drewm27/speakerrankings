@@ -10,7 +10,7 @@ The Teufel Boomster NG (2017) ranks #34 out of 70 total [Boombox Size Portable B
 ### #34 Teufel Boomster NG (2017): 99€
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 18 hours
 - IP Rating: None
 - Power Bank: Yes

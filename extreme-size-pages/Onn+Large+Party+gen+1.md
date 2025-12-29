@@ -10,7 +10,7 @@ The Onn Large Party gen 1 ranks #37 out of 48 total [Party Size Portable Bluetoo
 ### #37 Onn Large Party gen 1: $100
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - Aux Input: Yes
-- Bass Extension: ~60hz (-10dB)
+- Bass Extension (-10dB): ~60hz
 - Battery Life: 13 hours
 - Party Mode: Yes (Party Sync Mode)
 - Power Bank: Yes

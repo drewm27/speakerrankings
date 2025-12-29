@@ -11,7 +11,7 @@ The Soundcore Rave Neo ranks #62 out of 75 total [Large Size Portable Bluetooth 
 - Negatives: Muddy with treble rolloff.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 60hz (-10dB)
+- Bass Extension (-10dB): 60hz
 - Battery Life: 18 hours
 - EQ: Yes
 - Max Volume: 106db

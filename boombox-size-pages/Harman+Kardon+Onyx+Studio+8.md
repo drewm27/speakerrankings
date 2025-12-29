@@ -12,7 +12,7 @@ The Harman Kardon Onyx Studio 8 ranks #11 out of 70 total [Boombox Size Portable
 - Negatives: Not as loud as others. No water rating.
 - Aux Input: Yes
 - Aux Latency: 42ms
-- Bass Extension: 35hz (-10dB)
+- Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Built in Microphone: Yes
 - IP Rating: None

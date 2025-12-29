@@ -6,7 +6,7 @@ cover-img: "/assets/img/klasik2020.jpg"
 share-description: "Find the best large powered bookshelf speakers of 2025 with expert reviews, performance comparison, and buying tips for powerful, clear high-quality sound."
 ---
 
-This page ranks 21 large size powered bookshelf speakers. Last updated on 12/28/2025. The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 21 large size powered bookshelf speakers. Last updated on 12/29/2025. The Large Bookshelf class of speakers generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top.
 
@@ -328,7 +328,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/powered-top-recommended/) instead which will have even better soundstage.
 - App: No
 - Aux Input: No
-- Bass Extension: ~32Hz (-10dB)
+- Bass Extension (-10dB): ~32Hz
 - Battery Life: No battery
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
 - EQ: No

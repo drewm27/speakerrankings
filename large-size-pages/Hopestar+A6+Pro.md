@@ -10,7 +10,7 @@ The Hopestar A6 Pro ranks #70 out of 75 total [Large Size Portable Bluetooth Spe
 ### #70 Hopestar A6 Pro: $86
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 4 hours
 - IP Rating: IPX6
 - MicroSD: Yes

@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the top-recommended portable Bluetooth speakers with aux (3.5 mm) input. Expert-ranked for sound quality, value & versatile wired connectivity"
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
@@ -21,7 +21,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - EQ: yes
@@ -51,7 +51,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -84,7 +84,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
@@ -119,7 +119,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -156,7 +156,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: ~38hz (-10dB)
+- Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -216,7 +216,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 43hz (-10dB)
+- Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -259,7 +259,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: No
 - Aux Latency: 112ms
-- Bass Extension: 35hz (-10dB)
+- Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
@@ -378,7 +378,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 45hz (-10dB)
+- Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
 - EQ: Yes

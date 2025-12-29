@@ -12,7 +12,7 @@ The Bose SoundLink Max ranks #17 out of 75 total [Large Size Portable Bluetooth 
 - App: Yes
 - Aux Input: No
 - Aux Latency: 33ms
-- Bass Extension: 48hz (-10dB)
+- Bass Extension (-10dB): 48hz
 - Battery Life: 20 hours
 - Built in Microphone: No
 - IP Rating: IP67

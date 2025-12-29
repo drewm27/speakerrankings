@@ -11,7 +11,7 @@ The JBL Boombox 3 ranks #19 out of 70 total [Boombox Size Portable Bluetooth Spe
 - Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.
 - Aux Input: Yes
 - Aux Latency: 25ms
-- Bass Extension: 43hz (-10dB)
+- Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
 - IP Rating: IP67
 - Latency: 100ms

@@ -10,7 +10,7 @@ The dB technologies B-Hype M ranks #36 out of 48 total [Party Size Portable Blue
 ### #36 dB technologies B-Hype M: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - Aux Input: Yes
-- Bass Extension: 62hz (-10dB)
+- Bass Extension (-10dB): 62hz
 - Battery Life: 4 hours
 - Power Input: AC Power cord
 - Weight: 27lbs / 12.5kg

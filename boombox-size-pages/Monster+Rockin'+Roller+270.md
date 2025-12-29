@@ -10,7 +10,7 @@ The Monster Rockin' Roller 270 ranks #65 out of 70 total [Boombox Size Portable 
 ### #65 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
 - Aux Input: Yes
-- Bass Extension: 53hz (-10dB)
+- Bass Extension (-10dB): 53hz
 - Battery Life: 65 hours
 - FM Tuner: Yes
 - Max Volume: 96db

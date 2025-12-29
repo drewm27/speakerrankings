@@ -13,7 +13,7 @@ The JBL Partybox Encore ranks #5 out of 70 total [Boombox Size Portable Bluetoot
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 17ms
-- Bass Extension: 38hz (-10dB)
+- Bass Extension (-10dB): 38hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No

@@ -6,7 +6,7 @@ cover-img: "/assets/img/stormboxmicro2.jpg"
 share-description: "Explore the top pocket‑size Bluetooth speakers. Compact, lightweight, and powerful picks expertly ranked for portability, sound quality & budget."
 ---
 
-This page ranks 40 pocket size powered Bluetooth speakers. Last updated on 12/28/2025. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 40 pocket size powered Bluetooth speakers. Last updated on 12/29/2025. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/top-recommended/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -21,7 +21,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -58,7 +58,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - EQ: yes
@@ -84,7 +84,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: aptX, SBC
 - EQ: Yes
@@ -105,7 +105,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #4 [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E) [[Amazon](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E)]: $40
 - Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - App: No
-- Bass Extension: 62hz (-10dB)
+- Bass Extension (-10dB): 62hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -149,7 +149,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -172,7 +172,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Built in Microphone: Yes
 - EQ: Yes
@@ -195,7 +195,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
 - App: No
-- Bass Extension: 73hz (-10dB)
+- Bass Extension (-10dB): 73hz
 - Battery Life: 12 hours
 - EQ: No
 - IP Rating: IPX4
@@ -248,7 +248,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #11 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325)]: $120
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - App: Yes
-- Bass Extension: 75hz (-10dB)
+- Bass Extension (-10dB): 75hz
 - Battery Life: 15 hours
 - Built in Microphone: Yes
 - EQ: Yes
@@ -274,7 +274,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Not as deep bass as higher ranked speakers
 - App: Yes
 - Aux Input: No
-- Bass Extension: ~70hz (-10dB)
+- Bass Extension (-10dB): ~70hz
 - Battery Life: 12 hours
 - Built in Microphone: Yes
 - IP Rating: IP67
@@ -315,7 +315,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Loudest pocket speaker by a little.
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - App: No
-- Bass Extension: 69hz (-10dB)
+- Bass Extension (-10dB): 69hz
 - Battery Life: 25 hours
 - EQ: No
 - IP Rating: IP67
@@ -336,7 +336,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #15 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325)]: $99
 - Negatives: Lack of clarity. Overly boosted bass
 - App: Yes
-- Bass Extension: 66hz (-10dB)
+- Bass Extension (-10dB): 66hz
 - Battery Life: 6 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -361,7 +361,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 68hz (-10dB)
+- Bass Extension (-10dB): 68hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that)
 - EQ: Yes
 - IP Rating: IPX8
@@ -400,7 +400,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #18 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325)]: $80
 - Negatives: Quite a lack of bass. Not very loud.
 - App: No
-- Bass Extension: 80hz (-10dB)
+- Bass Extension (-10dB): 80hz
 - Battery Life: 10 hours
 - EQ: No
 - IP Rating: IP67
@@ -441,7 +441,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
 - App: Yes
-- Bass Extension: ~82hz (-10dB)
+- Bass Extension (-10dB): ~82hz
 - Battery Life: 7 hours
 - EQ: Yes
 - IP Rating: IP67
@@ -463,7 +463,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #21 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325)]: $50
 - Negatives: Not much bass at all, strange mids peak.
 - App: No
-- Bass Extension: 87hz (-10dB)
+- Bass Extension (-10dB): 87hz
 - Battery Life: 5 hours
 - EQ: No
 - IP Rating: IP67
@@ -485,7 +485,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Bass isn't quite as deep as the top ranked models. Lacking clarity compared to other models
 - App: No
 - Aux Input: Yes
-- Bass Extension: 66hz (-10dB)
+- Bass Extension (-10dB): 66hz
 - Battery Life: 10 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -508,7 +508,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: For the pocket class, lacking quite a bit of bass compared to the top ranked speakers
 - App: No
 - Aux Input: No
-- Bass Extension: 90hz (-10dB)
+- Bass Extension (-10dB): 90hz
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
 - EQ: No
@@ -530,7 +530,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Monster Bluetooth Speaker
 - App: No
 - Aux Input: Yes
-- Bass Extension: 95hz (-10dB)
+- Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
 - EQ: No
 - IP Rating: IPX7
@@ -550,7 +550,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Dayton Audio Boost Mini
 - App: No
 - Aux Input: Yes
-- Bass Extension: 95hz (-10dB)
+- Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
 - EQ: No
 - IP Rating: IPX7
@@ -569,7 +569,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No
 - Aux Input: Yes
-- Bass Extension: 95hz (-10dB)
+- Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
 - EQ: No
 - IP Rating: IPX7
@@ -608,7 +608,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #28 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325)]: $60
 - Negatives: Not much bass. Muddy sounding.
 - App: No
-- Bass Extension: 88hz (-10dB)
+- Bass Extension (-10dB): 88hz
 - Battery Life: 16 hours
 - EQ: No
 - IP Rating: IP67
@@ -630,7 +630,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - App: No
 - Aux Input: Yes (integrated 3.5mm cable)
-- Bass Extension: ~95hz (-10dB)
+- Bass Extension (-10dB): ~95hz
 - Battery Life: 5 hours
 - EQ: No
 - Party Mode: No
@@ -649,7 +649,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
 - App: No
-- Bass Extension: ~100hz (-10dB)
+- Bass Extension (-10dB): ~100hz
 - Battery Life: 10 hours
 - EQ: No
 - Party Mode: No
@@ -698,7 +698,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
-- Bass Extension: 97hz (-10dB)
+- Bass Extension (-10dB): 97hz
 - Battery Life: 16 hours
 - EQ: No
 - IP Rating: IP67
@@ -750,7 +750,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - App: No
 - Aux Input: Yes
-- Bass Extension: ~120hz (-10dB)
+- Bass Extension (-10dB): ~120hz
 - Battery Life: 10 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -768,7 +768,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #37 Harman Kardon Neo: $90
 - Negatives: Huge lack of bass.
 - App: No
-- Bass Extension: 105hz (-10dB)
+- Bass Extension (-10dB): 105hz
 - Battery Life: 10 hours
 - EQ: No
 - Max Volume: 87db
@@ -785,7 +785,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ### #38 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
-- Bass Extension: ~220hz (-10dB)
+- Bass Extension (-10dB): ~220hz
 - Battery Life: 12 hours
 - IP Rating: IPX2
 - Stereo: Yes
@@ -802,7 +802,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: It's only 39g of weight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - Aux Input: No
-- Bass Extension: ~300hz (-10dB)
+- Bass Extension (-10dB): ~300hz
 - Battery Life: 15 hours
 - Built in Microphone: Yes
 - IP Rating: IPX7
@@ -821,7 +821,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: It's lightweight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - Aux Input: No
-- Bass Extension: ~300hz (-10dB)
+- Bass Extension (-10dB): ~300hz
 - Battery Life: 10 hours
 - Built in Microphone: Yes
 - IP Rating: IP56

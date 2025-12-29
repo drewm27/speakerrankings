@@ -11,7 +11,7 @@ The Klipsch Austin ranks #12 out of 40 total [Small Size Portable Bluetooth Spea
 - Negatives: Not as deep bass as higher ranked speakers
 - App: Yes
 - Aux Input: No
-- Bass Extension: ~70hz (-10dB)
+- Bass Extension (-10dB): ~70hz
 - Battery Life: 12 hours
 - Built in Microphone: Yes
 - IP Rating: IP67

@@ -10,7 +10,7 @@ The Harman Kardon Neo ranks #37 out of 40 total [Small Size Portable Bluetooth S
 ### #37 Harman Kardon Neo: $90
 - Negatives: Huge lack of bass.
 - App: No
-- Bass Extension: 105hz (-10dB)
+- Bass Extension (-10dB): 105hz
 - Battery Life: 10 hours
 - EQ: No
 - Max Volume: 87db

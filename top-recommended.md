@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers ranked for sound quality. The best picks for every style and budget."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
@@ -18,7 +18,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 59hz (-10dB)
+- Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -59,7 +59,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -91,7 +91,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 50hz (-10dB)
+- Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
 - Built in Microphone: Yes
@@ -124,7 +124,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
@@ -159,7 +159,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -193,7 +193,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 47hz (-10dB)
+- Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -234,7 +234,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: ~38hz (-10dB)
+- Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -294,7 +294,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 43hz (-10dB)
+- Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -337,7 +337,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: No
 - Aux Latency: 112ms
-- Bass Extension: 35hz (-10dB)
+- Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
@@ -456,7 +456,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension: 45hz (-10dB)
+- Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
 - EQ: Yes

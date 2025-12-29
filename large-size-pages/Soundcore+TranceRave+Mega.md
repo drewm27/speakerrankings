@@ -10,7 +10,7 @@ The Soundcore Trance/Rave Mega ranks #71 out of 75 total [Large Size Portable Bl
 ### #71 Soundcore Trance/Rave Mega
 - Negatives: Hugely recessed mids and treble
 - Aux Input: Yes
-- Bass Extension: 63hz (-10dB)
+- Bass Extension (-10dB): 63hz
 - Battery Life: 18 hours
 - Max Volume: 97db
 - Power Bank: Yes

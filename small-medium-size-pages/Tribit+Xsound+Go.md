@@ -11,7 +11,7 @@ The Tribit Xsound Go ranks #73 out of 129 total [Medium Size Portable Bluetooth 
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
 - Aux Input: Yes
-- Bass Extension: 83hz (-10dB)
+- Bass Extension (-10dB): 83hz
 - Battery Life: 24 hours
 - Max Volume: 98db
 - Stereo: Yes

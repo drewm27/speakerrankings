@@ -10,7 +10,7 @@ The Sony SRS-XB30 ranks #97 out of 129 total [Medium Size Portable Bluetooth Spe
 ### #97 Sony SRS-XB30
 - Negatives: Muffled sound, worse than a XB20
 - Aux Input: Yes
-- Bass Extension: 55hz (-10dB)
+- Bass Extension (-10dB): 55hz
 - Battery Life: 24 hours
 - Max Volume: 95db
 - Party Mode: Yes (Partychain up to 100 speakers)

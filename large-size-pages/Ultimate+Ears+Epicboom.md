@@ -9,7 +9,7 @@ The Ultimate Ears Epicboom ranks #56 out of 75 total [Large Size Portable Blueto
 
 ### #56 [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325)]: $300
 - Negatives: Not very deep bass for the size. Gets distorted at around 70-80% with bass thuds.
-- Bass Extension: ~55hz (-10dB)
+- Bass Extension (-10dB): ~55hz
 - Battery Life: 17 hours
 - Max Volume: 94db
 - Weight: 4.3lbs / 1.97kg

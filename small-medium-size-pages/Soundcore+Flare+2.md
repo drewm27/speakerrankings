@@ -11,7 +11,7 @@ The Soundcore Flare 2 ranks #98 out of 129 total [Medium Size Portable Bluetooth
 - Positives: Try Alan Ross's EQ for it here <https://ibb.co/q9mcNk1>
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
 - App: Yes
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - EQ: Yes
 - Latency: 80ms

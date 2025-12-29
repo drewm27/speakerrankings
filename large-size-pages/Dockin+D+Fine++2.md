@@ -10,7 +10,7 @@ The Dockin D Fine+ 2 ranks #26 out of 75 total [Large Size Portable Bluetooth Sp
 ### #26 [Dockin D Fine+ 2](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325)]: $150
 - Positives: Quite deep bass for the category.
 - Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
-- Bass Extension: 45hz (-10dB)
+- Bass Extension (-10dB): 45hz
 - Battery Life: 16 hours
 - EQ: Yes (Bass boost 3 steps)
 - IP Rating: IPX5

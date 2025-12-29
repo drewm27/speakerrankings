@@ -11,7 +11,7 @@ The Marshall Stockwell 2 ranks #9 out of 75 total [Large Size Portable Bluetooth
 - Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
 - Aux Input: Yes
-- Bass Extension: 44hz (-10dB)
+- Bass Extension (-10dB): 44hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - IP Rating: IPX4

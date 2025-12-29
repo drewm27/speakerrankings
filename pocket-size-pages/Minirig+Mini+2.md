@@ -13,7 +13,7 @@ The Minirig Mini 2 ranks #2 out of 40 total [Small Size Portable Bluetooth Speak
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - EQ: yes

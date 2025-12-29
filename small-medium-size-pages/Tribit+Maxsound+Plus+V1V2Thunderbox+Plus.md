@@ -12,7 +12,7 @@ The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks #21 out of 129 total [Mediu
 - Negatives: Slightly less deep bass than the best in category.
 - App: No
 - Aux Input: Yes
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 20 hours
 - Built in Microphone: No
 - EQ: No

@@ -12,7 +12,7 @@ The JBL Flip 6 ranks #12 out of 129 total [Medium Size Portable Bluetooth Speake
 - Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
 - App: Yes
 - Aux Input: No
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - Built in Microphone: No
 - EQ: Yes

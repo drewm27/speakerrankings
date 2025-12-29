@@ -10,7 +10,7 @@ The Doss E–Go II ranks #124 out of 129 total [Medium Size Portable Bluetooth S
 ### #124 Doss E–Go II
 - Negatives: Horribly bad unless turned up, still not great
 - Aux Input: Yes
-- Bass Extension: 120hz (-10dB)
+- Bass Extension (-10dB): 120hz
 - Battery Life: 12 hours
 - MicroSD: Yes
 - Reviews, Comparisons and Sound Samples

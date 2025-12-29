@@ -9,7 +9,7 @@ The Skullcandy Barrel ranks #35 out of 70 total [Boombox Size Portable Bluetooth
 
 ### #35 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
-- Bass Extension: ~50hz (-10dB)
+- Bass Extension (-10dB): ~50hz
 - Max Volume: 104db
 - Stereo: Yes
 - Weight: 12lbs / 5.4kg

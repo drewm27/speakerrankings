@@ -11,7 +11,7 @@ The Soundcore Mini 3 Pro ranks #6 out of 40 total [Small Size Portable Bluetooth
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
-- Bass Extension: 58hz (-10dB)
+- Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

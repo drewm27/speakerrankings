@@ -11,7 +11,7 @@ The Soundboks Go ranks #26 out of 48 total [Party Size Portable Bluetooth Speake
 - Positives: Removable 40 hour battery.
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Aux Input: Yes
-- Bass Extension: 55hz (-10dB)
+- Bass Extension (-10dB): 55hz
 - Battery Life: 40 hours
 - Max Volume: 121db
 - Power Input: AC Power cord

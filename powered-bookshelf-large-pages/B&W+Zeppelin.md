@@ -12,7 +12,7 @@ The B&W Zeppelin ranks #19 out of 21 total [Large Size Powered Bookshelf Speaker
 - Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/powered-top-recommended/) instead which will have even better soundstage.
 - App: No
 - Aux Input: No
-- Bass Extension: ~32Hz (-10dB)
+- Bass Extension (-10dB): ~32Hz
 - Battery Life: No battery
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
 - EQ: No

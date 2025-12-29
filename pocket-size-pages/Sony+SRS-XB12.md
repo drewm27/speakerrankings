@@ -11,7 +11,7 @@ The Sony SRS-XB12 ranks #33 out of 40 total [Small Size Portable Bluetooth Speak
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
-- Bass Extension: 97hz (-10dB)
+- Bass Extension (-10dB): 97hz
 - Battery Life: 16 hours
 - EQ: No
 - IP Rating: IP67

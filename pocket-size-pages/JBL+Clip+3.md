@@ -11,7 +11,7 @@ The JBL Clip 3 ranks #30 out of 40 total [Small Size Portable Bluetooth Speakers
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
 - App: No
-- Bass Extension: ~100hz (-10dB)
+- Bass Extension (-10dB): ~100hz
 - Battery Life: 10 hours
 - EQ: No
 - Party Mode: No

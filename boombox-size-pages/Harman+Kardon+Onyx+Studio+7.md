@@ -12,7 +12,7 @@ The Harman Kardon Onyx Studio 7 ranks #14 out of 70 total [Boombox Size Portable
 - Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others. No water rating.
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 37hz (-10dB)
+- Bass Extension (-10dB): 37hz
 - Battery Life: 8 hours
 - Built in Microphone: No
 - IP Rating: None

@@ -11,7 +11,7 @@ The Gemini GRV-650L ranks #33 out of 70 total [Boombox Size Portable Bluetooth S
 - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
 - Negatives: Not quite as deep bass as the top ranked speakers.
 - Aux Input: yes
-- Bass Extension: ~47hz (-10dB)
+- Bass Extension (-10dB): ~47hz
 - Battery Life: 9 hours
 - Max Volume: 104db
 - MicroSD: Yes

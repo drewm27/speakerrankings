@@ -11,7 +11,7 @@ The Harman Kardon Onyx Studio 6 ranks #12 out of 70 total [Boombox Size Portable
 - Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
 - Negatives: 8 hour battery at medium volume. Not at loud as others.
 - Aux Input: Yes
-- Bass Extension: 37hz (-10dB)
+- Bass Extension (-10dB): 37hz
 - Battery Life: 8 hours
 - Built in Microphone: No
 - IP Rating: IPX7

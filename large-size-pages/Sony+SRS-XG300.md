@@ -10,7 +10,7 @@ The Sony SRS-XG300 ranks #54 out of 75 total [Large Size Portable Bluetooth Spea
 ### #54 [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325)]: $198
 - Negatives: Overly expensive. Bass not as deep as competitors. Upper mids peak. Hollow sounding. Rolled off treble. Not much clarity. Does not float. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: Yes
-- Bass Extension: 54hz (-10dB)
+- Bass Extension (-10dB): 54hz
 - Battery Life: 25 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes

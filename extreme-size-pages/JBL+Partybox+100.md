@@ -12,7 +12,7 @@ The JBL Partybox 100 ranks #4 out of 48 total [Party Size Portable Bluetooth Spe
 - Negatives: A slight peak in the upper mids. Slight TWS issue where the 2nd is slightly delayed. Just as loud and slightly deeper bass than a Stormbox Blast which is way smaller with better sound quality. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No
 - Aux Input: Yes
-- Bass Extension: 41hz (-10dB)
+- Bass Extension (-10dB): 41hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - EQ: No

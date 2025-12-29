@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Discover the best inexpensive portable Bluetooth speakers. Expert-ranked value picks with great sound and budget-friendly performance."
 ---
 
-This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 371 ranked on this website. Last updated on 12/29/2025. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
@@ -18,7 +18,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension: 68hz (-10dB)
+- Bass Extension (-10dB): 68hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that)
 - EQ: Yes
 - IP Rating: IPX8
@@ -45,7 +45,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension: 56hz (-10dB)
+- Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -123,7 +123,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension: ~38hz (-10dB)
+- Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -183,7 +183,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension: 43hz (-10dB)
+- Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
