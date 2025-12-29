@@ -3,6 +3,7 @@ layout: page
 title: Medium Size Bookshelf Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
+share-description: "Find the top medium passive bookshelf speakers of 2025 with expert reviews, sound comparisons, and buying tips for balanced performance and quality audio."
 ---
 
 This page ranks 21 medium size bookshelf speakers. Last updated on 12/28/2025. The medium bookshelf class of speakers have woofers between 4" and 5.75". Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.

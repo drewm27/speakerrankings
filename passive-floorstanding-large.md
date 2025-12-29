@@ -3,6 +3,7 @@ layout: page
 title: Large Size Floorstanding Speakers Ranked 2025
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
+share-description: "Discover the best large passive floorstanding speakers of 2025 with expert reviews, performance comparisons, and buying tips for powerful, high-fidelity sound."
 ---
 
 This page ranks 26 large size floorstanding speakers. Last updated on 12/28/2025. The large floorstanding class of speakers have woofers above 5.75". This size class will have the deepest bass of all the speakers. Bigger woofers will have deeper bass but the speaker will generally be bigger and heavier. Note these are ranked to my own preferences which is a flat frequency response, good directivity, reasonable dynamics, good imaging and detail. Others may prioritize these traits differently.
