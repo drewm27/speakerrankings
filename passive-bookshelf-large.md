@@ -11,8 +11,6 @@ If you don't plan to put these on a desk or bookshelf, I'd highly recommend look
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
-Consider this page to be a work in progress and more speakers will be added.
-
 **Use your browser's search feature to search for speakers on this page.**
 
 ### #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630

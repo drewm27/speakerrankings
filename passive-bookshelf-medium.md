@@ -9,8 +9,6 @@ This page ranks 21 medium size bookshelf speakers. Last updated on 12/28/2025. T
 
 Keep in mind that the law of diminishing returns applies and the extremely expensive speakers at the top are really just a little better than the more reasonably priced ones. I would not hesitate to recommend the majority of speakers on this page. Just note the ones that are not recommended.
 
-Consider this page to be a work in progress and more speakers will be added.
-
 **Use your browser's search feature to search for speakers on this page.**
 ### #1 [Audiofirst Fidelia](https://audiofirstdesigns.co.uk/fidelia) [[Audiofirstdesigns](https://audiofirstdesigns.co.uk/fidelia)] [[Used Listings](https://www.hifizero.com/index.php?q=Audiofirst+Fidelia)]: £950 for the flatpack kit (assembly required)
 - Positives: The absolute top speaker in this size class
