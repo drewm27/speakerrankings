@@ -6,13 +6,14 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers ranked for audiophiles. The best neutral picks for every budget."
 ---
 
-This page summarizes the best sounding audiophile portable Bluetooth speakers out of the 370 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding audiophile portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
 ### The Best Small Pocket Size Speaker For Audiophiles
 
 #### The best [small pocket size](/pocket-size/) speaker for audiophiles is the [**$60 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
+
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
@@ -51,6 +52,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 ### The Best Medium Size Speaker For Audiophiles
 
 #### The best [medium size](/small-medium-size/) battery powered speaker for audiophiles with modern features is the [**$50 Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7?crid=2992F60ORGRZS&dib=eyJ2IjoiMSJ9.qR8CZGQDBoXsAOw9Y72_DNL9FR4s_xvGnImzZ2bm4bQfhkyd7QtH7-jNOMiPEklPG4eDLBjmk1MAx4aExf9n-RNNkynu-0rvY_8Pz_cZdbeBpl2pDvccYQ4qGzBGxr7vu15qddrDqlb52kY2DSAAExgeL1m4kGI54-6C1D2GeEDuvUgbrVnyrG-eamCDKo5UxKJnHcBBrUXQzUac5p8vSanUXBQOKOuQN4qS9tDU0Qc.Mbeo5E-cyXEKb47y5825xTnR-TYU9nRQ-EoC9T7n9pQ&dib_tag=se&keywords=uboom+l&qid=1728538687&sprefix=uboom+%2Caps%2C204&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=414d38887e99851dcec65ad88cb86c6f&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and coupon UBOOMLWC in the payment options) 
+
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone/) and he knocked it out of the park. The audiophile choice. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every volume level. Other speakers will need a different EQ at each volume level. For maximum volume without distortion use max volume - 1 step for most songs. Oluv left another higher volume for sounds that are quiet. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour).
 - Negatives: Latency is high (400ms) without turning on low latency mode (66ms) which doesn't work when two speakers are TWS paired. Low latency mode can be turned on by pressing the Bluetooth button twice. If latency in TWS paired mode is a very important feature, like if you watch a lot of video, you may want to choose another speaker. The power button can sometimes get accidentally pressed when put in a bag. The aux input has quite a bit of latency and isn't recommended for video use.
 - Setup: Try setting up the Earfun App ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US&pli=1) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) to see if that works. If not, you'll need to flash [firmware 1.2.7](https://drive.google.com/drive/folders/1jxg3eJFxHTtSu00NY3wqXOoDnMGqpO3c?usp=drive_link) to work with the app and set with Oluv's EQ in the Earfun app which sounds the best. The instructions say that you need a USB3 cable, but most USB2 cables work just fine, try the one included with your phone. Check the current firmware version by turning it on, then pressing the power and Bluetooth buttons at the same time. To flash, turn the speaker off then hold down the Bluetooth button while plugging in the cable. To flash on a mac, [see these instructions](https://www.reddit.com/r/Bluetooth_Speakers/comments/17slpcs/guide_downgrading_earfun_uboom_l_to_oluvs/). In TWS mode, long press the outdoor button for 2 seconds to change TWS to Party mode and back.
@@ -291,7 +293,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 
 #### The best [boombox size](/boombox-size/) battery powered speaker for audiophiles that fits into home decor is the [**$350 Harman Kardon Go + Play3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) 
 
-- Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go+play2.
+- Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go + Play2.
 - Negatives: Just a little over half as loud as the higher rated boomboxes. Only 8 hours of battery at medium volume. No water rating.
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: No

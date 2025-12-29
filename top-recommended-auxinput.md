@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the top-recommended portable Bluetooth speakers with aux (3.5 mm) input. Expert-ranked for sound quality, value & versatile wired connectivity"
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers out of the 370 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recommended-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
@@ -18,21 +18,21 @@ For more information, sound samples and specs about all these speakers, see the 
 
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
-- Max Volume: 92db 
-- Bass Extension: 58hz (-10dB)
-- Weight: 0.71lbs / 320g
-- Battery Life: 12 hours
-- Aux Latency: 0ms
-- Power Bank: No
 - App: Yes
-- EQ: yes
-- TWS: Yes (Bluetooth or cable)
-- Party Mode: No
 - Aux Input: Yes
+- Aux Latency: 0ms
+- Bass Extension: 58hz (-10dB)
+- Battery Life: 12 hours
+- Bluetooth Codecs: aptX, AAC, SBC
+- EQ: yes
+- IP Rating: Splash resistant
+- Max Volume: 92db
+- Party Mode: No
+- Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
-- Bluetooth Codecs: aptX, AAC, SBC
-- IP Rating: Splash resistant 
+- TWS: Yes (Bluetooth or cable)
+- Weight: 0.71lbs / 320g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
@@ -48,23 +48,23 @@ For more information, sound samples and specs about all these speakers, see the 
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone/) and he knocked it out of the park. The audiophile choice. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every volume level. Other speakers will need a different EQ at each volume level. For maximum volume without distortion use max volume - 1 step for most songs. Oluv left another higher volume for sounds that are quiet. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour).
 - Negatives: Latency is high (400ms) without turning on low latency mode (66ms) which doesn't work when two speakers are TWS paired. Low latency mode can be turned on by pressing the Bluetooth button twice. If latency in TWS paired mode is a very important feature, like if you watch a lot of video, you may want to choose another speaker. The power button can sometimes get accidentally pressed when put in a bag. The aux input has quite a bit of latency and isn't recommended for video use.
 - Setup: Try setting up the Earfun App ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US&pli=1) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) to see if that works. If not, you'll need to flash [firmware 1.2.7](https://drive.google.com/drive/folders/1jxg3eJFxHTtSu00NY3wqXOoDnMGqpO3c?usp=drive_link) to work with the app and set with Oluv's EQ in the Earfun app which sounds the best. The instructions say that you need a USB3 cable, but most USB2 cables work just fine, try the one included with your phone. Check the current firmware version by turning it on, then pressing the power and Bluetooth buttons at the same time. To flash, turn the speaker off then hold down the Bluetooth button while plugging in the cable. To flash on a mac, [see these instructions](https://www.reddit.com/r/Bluetooth_Speakers/comments/17slpcs/guide_downgrading_earfun_uboom_l_to_oluvs/). In TWS mode, long press the outdoor button for 2 seconds to change TWS to Party mode and back.
-- Max Volume: 103db
-- Bass Extension: 56hz (-10dB)
-- Weight: 1.43lbs / 650g
-- Battery Life: 16 hours
-- Latency: 400ms normal / 66ms low latency mode
-- Aux Latency: 216ms
-- Power Bank: No
 - App: Yes (firmware >= 1.2.6)
-- EQ: Yes (10 band, firmware >= 1.2.6)
-- TWS: Yes
-- Stereo: Yes
-- Party Mode: No
 - Aux Input: Yes
-- Built in Microphone: Yes
+- Aux Latency: 216ms
+- Bass Extension: 56hz (-10dB)
+- Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
-- Power Input: USB-C
+- Built in Microphone: Yes
+- EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
+- Latency: 400ms normal / 66ms low latency mode
+- Max Volume: 103db
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- Weight: 1.43lbs / 650g
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
@@ -76,27 +76,28 @@ For more information, sound samples and specs about all these speakers, see the 
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
 
+
 #### The best [medium size](/small-medium-size/) batter powered speaker with a 0 latency aux input for video use is the [**$80 Soundcore Motion+**](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325)
 
-- Positives: The previous best sounding in class, still a great speaker with separate tweeters, more bass at full volume and better off-axis treble frequency response than the Uboom L. Just okay with the default EQ, I highly recommend using [this EQ setting](https://www.tumblr.com/techaudiophoto/706620138302144512/motion-hi-fi-eq) from [r/kai7895](https://www.reddit.com/user/kai7895) to get it more neutral. To achieve the absolute best sound you'll need the Wavelet app (Android only) and set the provided Wavelet EQ in there too. Turn off the wavelet EQ for outdoor use. An alternative is [Oluv's EQ](https://ibb.co/XkfBtSS) which only needs the Soundcore app EQ. Note these EQs only really sound perfect at a medium volume level.
+- Positives: The previous best sounding in class, still a great speaker with separate tweeters, more bass at full volume and better off-axis treble frequency response than the Uboom L. Just okay with the default EQ, I highly recommend using [this EQ setting](https://www.tumblr.com/techaudiophoto/706620138302144512/motion-hi-fi-eq) from [r/kai7895](https://www.reddit.com/user/kai7895) to get it more neutral. To achieve the absolute best sound you'll need the Wavelet app (Android only) and set the provided Wavelet EQ in there too. Turn off the wavelet EQ for outdoor use. An alternative is [Oluv's EQ](https://ibb.co/XkfBtSS) which only needs the Soundcore app EQ.
 - Negatives: Not quite as neutral or detailed as the Uboom L. Without the above EQ, this speaker will rank around #25 in the rankings.
-- Max Volume: 104db
-- Bass Extension: 54hz (-10dB)
-- Weight: 2.31lbs / 1050g
-- Battery Life: 12 hours
-- Latency: 130ms
-- Aux Latency: 0ms
-- Power Bank: No
-- Stereo: Yes
 - App: Yes
-- EQ: Yes
-- TWS: Yes
-- Party Mode: No
-- Built in Microphone: Yes
 - Aux Input: Yes
-- Power Input: USB-C
+- Aux Latency: 0ms
+- Bass Extension: 54hz (-10dB)
+- Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
+- Built in Microphone: Yes
+- EQ: Yes
 - IP Rating: IPX7
+- Latency: 130ms
+- Max Volume: 104db
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- Weight: 2.31lbs / 1050g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
@@ -114,25 +115,26 @@ For more information, sound samples and specs about all these speakers, see the 
 
 #### The best reasonably priced [large size](/large-size/) battery powered speaker with aux input for deeper bass with great sound quality is the [**$119 Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) running this [Oluv EQ](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=W6fLfJhp_tX3qukH)
 
-- Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Try [this EQ from Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) for the flattest response although adjust the lowest slider to your bass boost preference.
+- Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Try [this EQ from Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) for the flattest response although adjust the lowest slider to your bass boost preference. Firmware 2.0.0 is a big improvement in neutrality.
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
-- Battery Life: 24 hours
-- Weight: 5.2lbs / 2.37kg
-- Aux Input: Yes
 - App: Yes
-- EQ: Yes (10 band)
-- TWS: Yes
-- Latency: 128ms AAC, 144ms SBC
-- Power Bank: Yes
-- Party Mode: No
-- Built in Microphone: Yes
-- Stereo: Yes
+- Aux Input: Yes
+- Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
-- Power Input: USB-C
+- Built in Microphone: Yes
+- EQ: Yes (10 band)
 - IP Rating: IP67
+- Latency: 128ms AAC, 144ms SBC
+- Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- Weight: 5.2lbs / 2.37kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
     - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)
@@ -150,22 +152,22 @@ For more information, sound samples and specs about all these speakers, see the 
 
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone) and he knocked it out of the park again. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. The Earfun app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) has sound profiles created by Oluv for [Studio, Indoor, Indoor+, Outdoor, Outdoor+, BOOM xxX, and Ground 0](https://www.reddit.com/r/Bluetooth_Speakers/comments/1jbzt2m/the_truth_about_the_earfun_uboom_x_and_my_part/) which are all fantastic. This is the only speaker that sounds correct at every single volume level due to Oluv's individual EQ settings at each volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L.
 - Negatives: The out of the box 0.33 firmware and EQ sounds horrible, please update it using the Earfun app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) and select an Oluv EQ. Some people have mentioned sound interruption issues when using 2 in TWS, I don't have this issue with my Pixel 7 Pro.
-- Weight: 9.2lbs / 4.18kg
-- Max Volume: 110db
-- Bass Extension: ~38hz (-10dB)
-- Battery Life: 30 hours
+- App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Power Bank: Yes
-- App: Yes
-- EQ: Yes (10 band)
-- TWS: Yes 
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
-- Party Mode: Yes (Up to 50 speakers)
-- Built in Microphone: Yes
+- Bass Extension: ~38hz (-10dB)
+- Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Built in Microphone: Yes
+- EQ: Yes (10 band)
 - IP Rating: IP67
+- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Max Volume: 110db
+- Party Mode: Yes (Up to 50 speakers)
+- Power Bank: Yes
 - Power Input: USB-C
+- TWS: Yes
+- Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
@@ -210,23 +212,23 @@ For more information, sound samples and specs about all these speakers, see the 
 
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
 - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings. The curved underside of the handle makes it a little harder to grip and can be uncomfortable to carry long distances.
-- Max Volume: 108db
-- Bass Extension: 43hz (-10dB)
-- Weight: 11.6lbs / 5.3kg
-- Battery Life: 30 hours
-- Latency: 66ms
-- Aux Latency: 0ms
-- Aux Input: Yes
-- Power Bank: Yes
 - App: Yes
-- EQ: Yes
-- TWS: Yes
-- Built in Microphone: No
-- Party Mode: No
-- Power Input: AC Power cord
+- Aux Input: Yes
+- Aux Latency: 0ms
+- Bass Extension: 43hz (-10dB)
+- Battery Life: 30 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes
 - IP Rating: IPX7
+- Latency: 66ms
+- Max Volume: 108db
+- Party Mode: No
+- Power Bank: Yes
+- Power Input: AC Power cord
 - Stereo: Yes
+- TWS: Yes
+- Weight: 11.6lbs / 5.3kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
@@ -248,24 +250,25 @@ For more information, sound samples and specs about all these speakers, see the 
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
 
+
 #### The best [boombox size](/boombox-size/) battery powered speaker with aux input and excellent sound quality that fits into home decor is the [**$350 Harmon Kardon Go+ Play3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) 
 
-- Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go+play2.
+- Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go + Play2.
 - Negatives: Just a little over half as loud as the higher rated boomboxes. Only 8 hours of battery at medium volume. No water rating.
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
-- Max Volume: 103db
-- Bass Extension: 35hz (-10dB)
-- Weight: 10.4lbs / 4.7kg
-- Battery Life: 8 hours
-- Latency: 120ms
-- Aux Latency: 112ms
-- TWS: Yes
 - App: No
+- Aux Latency: 112ms
+- Bass Extension: 35hz (-10dB)
+- Battery Life: 8 hours
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
-- Power Input: AC Power brick
 - IP Rating: None
+- Latency: 120ms
+- Max Volume: 103db
+- Power Input: AC Power brick
 - Stereo: Yes
+- TWS: Yes
+- Weight: 10.4lbs / 4.7kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
@@ -278,28 +281,29 @@ For more information, sound samples and specs about all these speakers, see the 
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
 
+
 ### The Best Party Size Speaker With Aux Input
 
 #### The best [party size](/extreme-size/) big party battery powered speaker with aux input and excellent sound quality and very deep bass is the [**$600 JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Weight: 36.4lbs / 16.5kg
-- Battery Life: 18 hours
-- Removable Battery: Yes
-- Aux Input: Yes
-- Power Bank: Yes
-- USB Playback: Yes
 - App: Yes
-- EQ: Yes (5 band)
-- TWS: Yes
-- Microphone Input: Yes
-- Guitar Input: Yes
-- Party Mode: Yes (Auracast)
-- Power Input: AC Power cord
-- IP Rating: IPX4
-- Stereo: Partially
+- Aux Input: Yes
+- Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- EQ: Yes (5 band)
+- Guitar Input: Yes
+- IP Rating: IPX4
+- Microphone Input: Yes
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: Partially
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
@@ -314,20 +318,20 @@ For more information, sound samples and specs about all these speakers, see the 
 
 - Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
 - Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Weight: 87lbs / 39kg
-- Battery Life: No Battery
-- Aux Input: Yes
-- Power Bank: Yes
-- USB Playback: Yes
 - App: Yes
-- EQ: Yes (3 band)
-- TWS: Yes
-- Wifi: Yes
-- Guitar Input: Yes
-- Microphone Input: Yes
-- IP Rating: IPX4
-- Power Input: AC Power cord
+- Aux Input: Yes
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- EQ: Yes (3 band)
+- Guitar Input: Yes
+- IP Rating: IPX4
+- Microphone Input: Yes
+- Power Bank: Yes
+- Power Input: AC Power cord
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 87lbs / 39kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
@@ -335,25 +339,26 @@ For more information, sound samples and specs about all these speakers, see the 
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
 
+
 #### If you need your [massive party size](/insane-size/) speaker with aux input to have a battery, check out the [**$800 JBL Partybox 720**](https://www.amazon.com/JBL-PartyBox-720-Battery-Powered-Futuristic/dp/B0FNBWSN54?crid=10IDD2ETA8121&dib=eyJ2IjoiMSJ9.i-9ojde1fO24hREqJ3-JfszPsvqpW-GznOo57Wu7rPbdsb4HiYg61ML9d8vzIYXxomN_p_11GzXphlKQf3OzzfqMCvyE6iy1ohL9F8pWWKExa_YRgYizwI7RdqYm_iIS4mksNbOmLWgCKV4NDYhCxIF2H62UuP5iPF8e-L7gZWBFlBk7EM9cCwZwU2XOHmNUlLDcSM39Qq3dheF_PaJbMAa9hNzPlIvhm7E2-ERdqyY.KFPnvA-7vt5p0lEoQ6kjRgCIRws_ATRyWlCW7OtJdeM&dib_tag=se&keywords=partybox+720&qid=1761945428&sprefix=partybox+%2Caps%2C476&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=22ac52b8578981cfd9a9379495d13f7a&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Handle and wheels are convenient. Lightshow ability.
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- Weight: 68.3lbs / 31kg
-- Battery Life: 15 hours
-- Aux Input: Yes
-- Power Bank: Yes
-- USB Playback: Yes
 - App: Yes
+- Aux Input: Yes
+- Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - EQ: Yes (5 band)
-- TWS: Yes
 - Guitar Input: Yes
-- Party Mode: Yes (Auracast)
-- Microphone Input: Yes
 - IP Rating: IPX4
+- Microphone Input: Yes
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
-- Bluetooth Codecs: SBC
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 68.3lbs / 31kg
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
@@ -363,33 +368,35 @@ For more information, sound samples and specs about all these speakers, see the 
 - Links
     - [Official Product Page](https://www.jbl.com/PARTYBOX-720.html)
 
+
 ### The Best Sounding Absolute Loudest Speaker With Aux Input
 
 #### The best sounding absolute loudest battery powered speaker with aux input is the [party size](/extreme-size/) [**$1000 Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Good midrange and treble. The best sounding extremely loud speaker available.
 - Negatives: Not stereo. Designed for more loudness than deep bass.
-- Max Volume: 126db
-- Bass Extension: 45hz (-10dB)
-- Weight: 31.2lbs / 14.2kg
-- Battery Life: 12+ hours
-- Removable Battery: Yes
-- Microphone Input: Yes
-- XLR Input: Yes
-- Power Bank: Yes
-- TWS: Yes
 - App: Yes
-- EQ: Yes
-- Party Mode: Yes (up to 6 speakers)
 - Aux Input: Yes
-- Power Input: AC Power cord
-- IP Rating: IP43
-- Stereo: No
+- Bass Extension: 45hz (-10dB)
+- Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
+- EQ: Yes
+- IP Rating: IP43
+- Max Volume: 126db
+- Microphone Input: Yes
+- Party Mode: Yes (up to 6 speakers)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: No
+- TWS: Yes
+- Weight: 31.2lbs / 14.2kg
+- XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
+
 
 As an Amazon Associate I earn from qualifying purchases.

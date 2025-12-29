@@ -6,7 +6,7 @@ cover-img: "/assets/img/k12.2.jpg"
 share-description: "Browse our top-recommended Bluetooth speakers with the loudest output. Expert-ranked for volume, clarity & value to make your music heard."
 ---
 
-This page summarizes the loudest portable Bluetooth speakers out of the 370 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the loudest portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 ### The Loudest Small Pocket Size Speaker
 
@@ -14,22 +14,22 @@ This page summarizes the loudest portable Bluetooth speakers out of the 370 rank
 
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
-- Max Volume: 96db
-- Bass Extension: 59hz (-10dB)
-- Weight: 0.7lbs / 317g
-- Battery Life: 12 hours
-- Latency: 265ms
-- Power Bank: Yes (but it doesn't usually work)
 - App: Yes
-- EQ: Yes
-- TWS: Yes
-- Party Mode: No
 - Aux Input: No
-- Built in Microphone: Yes
-- IP Rating: IP67
+- Bass Extension: 59hz (-10dB)
+- Battery Life: 12 hours
 - Bluetooth Codecs: SBC
-- Stereo: No
+- Built in Microphone: Yes
+- EQ: Yes
+- IP Rating: IP67
+- Latency: 265ms
+- Max Volume: 96db
+- Party Mode: No
+- Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
@@ -46,53 +46,55 @@ This page summarizes the loudest portable Bluetooth speakers out of the 370 rank
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
 
+
 ### The Loudest Medium Size Speaker
 
 #### The loudest [medium size](/small-medium-size/) battery powered speaker is the [**$200 Minirig 4**](https://www.amazon.com/gp/product/B0D1CFLXX6?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e4785ea4642ece474fa55c18e2ef28d5&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Modular, can easily attach a subwoofer. Finally USB-C charging. Dynamically changes sound based on forward facing or upward facing orientation
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
-- Weight: 1.21lbs / 550g
-- Battery Life: 30 hours
-- Max Volume: 106db
-- Bass Extension: 56hz (-10dB)
-- Stereo: No
-- Power Bank: Yes
-- Latency: 60ms
-- Aux Latency: 0ms
 - App: Yes
-- EQ: Yes
-- TWS: Yes (Bluetooth or cable)
 - Aux Input: Yes
-- Power Input: USB-C
+- Aux Latency: 0ms
+- Bass Extension: 56hz (-10dB)
+- Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- EQ: Yes
 - IP Rating: Splash resistant
+- Latency: 60ms
+- Max Volume: 106db
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: No
+- TWS: Yes (Bluetooth or cable)
+- Weight: 1.21lbs / 550g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
 
+
 ### The Loudest Large Size Speaker
 
 #### The loudest [large size](/large-size/) battery powered speaker is the [**$119 Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) running this [Oluv EQ](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=W6fLfJhp_tX3qukH)
 
-- Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Try [this EQ from Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) for the flattest response although adjust the lowest slider to your bass boost preference.
+- Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Try [this EQ from Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) for the flattest response although adjust the lowest slider to your bass boost preference. Firmware 2.0.0 is a big improvement in neutrality.
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
-- Battery Life: 24 hours
-- Weight: 5.2lbs / 2.37kg
-- Aux Input: Yes
 - App: Yes
-- EQ: Yes (10 band)
-- TWS: Yes
-- Latency: 128ms AAC, 144ms SBC
-- Power Bank: Yes
-- Party Mode: No
-- Built in Microphone: Yes
-- Stereo: Yes 
+- Aux Input: Yes
+- Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
+- Built in Microphone: Yes
+- EQ: Yes (10 band)
+- IP Rating: IP67
+- Latency: 128ms AAC, 144ms SBC
+- Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
-- IP Rating: IP67 
+- Stereo: Yes
+- TWS: Yes
+- Weight: 5.2lbs / 2.37kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - <https://www.patreon.com/posts/evening-with-137116931>
@@ -107,24 +109,24 @@ This page summarizes the loudest portable Bluetooth speakers out of the 370 rank
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 
+
 ### The Loudest Boombox Size Speaker
 
 #### The loudest [boombox size](/boombox-size/) battery powered speaker is the [**$550 JBL Boombox 4**](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox+4&qid=1759945803&sprefix=boombox+,aps,348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Pretty insane output capability for the size.
-- Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tu
-ned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
-- Max Volume: 115db
+- Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
+- App: Yes
+- Aux Input: No
 - Bass Extension: 41hz (-10dB)
 - Battery Life: 28 hours
-- Party Mode: Yes (Auracast)
-- Power Input: AC Power Cord
-- Latency: AAC 144ms, SBC 48ms
-- Aux Input: No
-- Stereo: Yes
-- App: Yes
 - EQ: Yes (7 band)
 - IP Rating: IP68
+- Latency: AAC 144ms, SBC 48ms
+- Max Volume: 115db
+- Party Mode: Yes (Auracast)
+- Power Input: AC Power Cord
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - old one sounding better? 🤔](https://www.youtube.com/watch?v=Sbqb85lSqVc)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
@@ -136,22 +138,22 @@ ned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) f
 - Links
     - [Official Product Page](https://www.jbl.com/BOOMBOX-4.html)
 
+
 #### If you want something cheaper, take a look at the [**$256 W-King X20**](https://www.amazon.com/gp/product/B0CRYXN3S9?smid=A1WZQHG4U0SW66&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=5870cd1572a8e0b4be1fdcb9cd8d11d4&language=en_US&ref_=as_li_ss_tl)
 
-- Positives: D20 version comes with 2 wireless microphones
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
-- Max Volume: 112db
-- Bass Extension: ~42hz (-10dB)
-- EQ: Yes
 - App: Yes
 - Aux Input: Yes
-- USB Playback: Yes
+- Bass Extension: ~42hz (-10dB)
+- EQ: Yes
+- IP Rating: IPX6
+- Max Volume: 112db
 - MicroSD: Yes
 - Power Bank: Yes
 - Power Input: USB-C
-- TWS: Yes
-- IP Rating: IPX6
 - Stereo: Yes
+- TWS: Yes
+- USB Playback: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
@@ -164,33 +166,35 @@ ned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) f
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
 
+
 ### The Loudest Party Size Speaker
 
 #### The loudest [party size](/extreme-size/) battery powered speaker is the [**$1000 Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest%2B12&qid=1727707873&sprefix=everse%2B12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7756df733ad367e47dc9f88aa59a6e0&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Good midrange and treble. The best sounding extremely loud speaker available.
 - Negatives: Not stereo. Designed for more loudness than deep bass.
-- Max Volume: 126db
-- Bass Extension: 45hz (-10dB)
-- Weight: 31.2lbs / 14.2kg
-- Battery Life: 12+ hours
-- Removable Battery: Yes
-- Microphone Input: Yes
-- XLR Input: Yes
-- Power Bank: Yes
-- TWS: Yes
 - App: Yes
-- EQ: Yes
-- Party Mode: Yes (up to 6 speakers)
 - Aux Input: Yes
-- Power Input: AC Power cord
-- IP Rating: IP43
-- Stereo: No
+- Bass Extension: 45hz (-10dB)
+- Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
+- EQ: Yes
+- IP Rating: IP43
+- Max Volume: 126db
+- Microphone Input: Yes
+- Party Mode: Yes (up to 6 speakers)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: No
+- TWS: Yes
+- Weight: 31.2lbs / 14.2kg
+- XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
+
 
 As an Amazon Associate I earn from qualifying purchases.

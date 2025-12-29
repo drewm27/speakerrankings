@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best microphone-input speakers — expert-reviewed picks for crystal-clear sound, recording, streaming & more with built-in input options."
 ---
 
-This page summarizes the best portable Bluetooth speakers with microphone input of the 370 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with microphone input of the 371 ranked on this website. Last updated on 12/28/2025. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See this for [Speakers with Wireless Microphones](/top-recommended-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/top-recommended-microphone/)
 
@@ -18,8 +18,195 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 
 The best sounding [party size](/extreme-size/) loudest battery powered speaker for microphone usage is the [$1000 Electro-Voice Everse 12](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl). This will reach 126dB peaks and should be loud enough for wedding use.
 
-The next best battery powered speakers for this use will be the [party size](/extreme-size/) and [massive party size](/insane-size/) JBL Partybox line which won't get quite as loud as the speaker above but will all have much deeper bass. In order from largest to smallest is the $1300 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325), $800 [JBL Partybox 710](https://www.amazon.com/JBL-PartyBox-710-Built-connectivity/dp/B09CW9WXML/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=acdd7f31b8c495f5a2bba5f5eb60a834&camp=1789&creative=9325), $600 [JBL Partybox Stage 320](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl), $500 [JBL Partybox 310](https://www.amazon.com/JBL-Partybox-310-Portable-Powerful/dp/B08HBG3M7M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8969a6af8d8f3c740dcf69fa2551b17c&camp=1789&creative=9325), $400 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl), and the $300 [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325)
+- Positives: Good midrange and treble. The best sounding extremely loud speaker available.
+- Negatives: Not stereo. Designed for more loudness than deep bass.
+- App: Yes
+- Aux Input: Yes
+- Bass Extension: 45hz (-10dB)
+- Battery Life: 12+ hours
+- Bluetooth Codecs: aptX, SBC
+- EQ: Yes
+- IP Rating: IP43
+- Max Volume: 126db
+- Microphone Input: Yes
+- Party Mode: Yes (up to 6 speakers)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: No
+- TWS: Yes
+- Weight: 31.2lbs / 14.2kg
+- XLR Input: Yes
+- Reviews, Comparisons and Sound Samples
+    - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
+    - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
+- Links
+    - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
 
-If you need smaller, the best sounding [boombox sized](/boombox-size/) speakers with microphone inputs are the $230 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=1P938Z1RJ2VRX&dib=eyJ2IjoiMSJ9.MW5QIxOH-gPsDUrVQ3vYx4JCIOhz4q1HZyWkUkPN-_LDCtXNBqHJy9OIRwF9drxF1ni7_3aMWDx0nIAEuDgipnvrADfETGAqLRymwNEIRUsOmksfn-q7ZO3f5sMXLcgtKKN1hB-iU4jpvyEIUeHLe3FlQ9zspARJKh4XWztck65U_Lr1S_rPlPmCKhaJ_aixwBUc8dV3W9ZETIhUzmuFkAnzAGZBuI6EGcuzfKeTeJM.eGRXtVRkCAZ4ytN7AbaukZaUVfn99SsznQ4JVhtNlbc&dib_tag=se&keywords=encore%2Bessential&qid=1763683682&sprefix=encore%2Bessential%2B%2Caps%2C314&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=52e800c6d287e54e65a4500829f9b4c6&language=en_US&ref_=as_li_ss_tl) and with a longer battery, the $300 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)
+
+The next best battery powered speakers for this use will be the [party size](/extreme-size/) and [massive party size](/insane-size/) JBL Partybox line which won't get quite as loud as the speaker above but will all have much deeper bass. In order from largest to smallest is the $1300 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325) 
+
+- Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
+- Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- App: Yes
+- Aux Input: Yes
+- Battery Life: No Battery
+- Bluetooth Codecs: SBC
+- EQ: Yes (3 band)
+- Guitar Input: Yes
+- IP Rating: IPX4
+- Microphone Input: Yes
+- Power Bank: Yes
+- Power Input: AC Power cord
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 87lbs / 39kg
+- Wifi: Yes
+- Reviews, Comparisons and Sound Samples
+    - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
+    - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
+    - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
+- Links
+    - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
+
+
+$800 [JBL Partybox 720](https://www.amazon.com/JBL-PartyBox-720-Battery-Powered-Futuristic/dp/B0FNBWSN54?crid=10IDD2ETA8121&dib=eyJ2IjoiMSJ9.i-9ojde1fO24hREqJ3-JfszPsvqpW-GznOo57Wu7rPbdsb4HiYg61ML9d8vzIYXxomN_p_11GzXphlKQf3OzzfqMCvyE6iy1ohL9F8pWWKExa_YRgYizwI7RdqYm_iIS4mksNbOmLWgCKV4NDYhCxIF2H62UuP5iPF8e-L7gZWBFlBk7EM9cCwZwU2XOHmNUlLDcSM39Qq3dheF_PaJbMAa9hNzPlIvhm7E2-ERdqyY.KFPnvA-7vt5p0lEoQ6kjRgCIRws_ATRyWlCW7OtJdeM&dib_tag=se&keywords=partybox+720&qid=1761945428&sprefix=partybox+%2Caps%2C476&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=22ac52b8578981cfd9a9379495d13f7a&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: Handle and wheels are convenient. Lightshow ability.
+- Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- App: Yes
+- Aux Input: Yes
+- Battery Life: 15 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes (5 band)
+- Guitar Input: Yes
+- IP Rating: IPX4
+- Microphone Input: Yes
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 68.3lbs / 31kg
+- Reviews, Comparisons and Sound Samples
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
+    - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
+    - [GYMCADDY: JBL Partybox 720 Vs Sony ULT Tower 9](https://www.youtube.com/watch?v=ftc_uQxgLnA)
+    - [AudioTribe: JBL Partybox 720 vs JBL Partybox 520 Who's Better?](https://www.youtube.com/watch?v=jcW1CkaMfRc)
+- Links
+    - [Official Product Page](https://www.jbl.com/PARTYBOX-720.html)
+
+
+$600 [JBL Partybox Stage 320](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
+- Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- App: Yes
+- Aux Input: Yes
+- Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes (5 band)
+- Guitar Input: Yes
+- IP Rating: IPX4
+- Microphone Input: Yes
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: Partially
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 36.4lbs / 16.5kg
+- Reviews, Comparisons and Sound Samples
+    - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
+    - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
+    - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-STAGE-320.html)
+
+
+$400 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: Handle and wheels are convenient. Customizable color lighting modes. Quite neutral sound. deeper bass than the 100 and 110. Removable battery.
+- Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- App: Yes
+- Aux Input: Yes
+- Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes (5 band)
+- Guitar Input: Yes
+- IP Rating: IPX4
+- Microphone Input: Yes
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: Partially
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 24lbs / 10.8kg
+- Reviews, Comparisons and Sound Samples
+    - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
+    - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-CLUB-120.html)
+
+
+If you need smaller, the best sounding [boombox sized](/boombox-size/) speakers with microphone inputs are the $230 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=1P938Z1RJ2VRX&dib=eyJ2IjoiMSJ9.MW5QIxOH-gPsDUrVQ3vYx4JCIOhz4q1HZyWkUkPN-_LDCtXNBqHJy9OIRwF9drxF1ni7_3aMWDx0nIAEuDgipnvrADfETGAqLRymwNEIRUsOmksfn-q7ZO3f5sMXLcgtKKN1hB-iU4jpvyEIUeHLe3FlQ9zspARJKh4XWztck65U_Lr1S_rPlPmCKhaJ_aixwBUc8dV3W9ZETIhUzmuFkAnzAGZBuI6EGcuzfKeTeJM.eGRXtVRkCAZ4ytN7AbaukZaUVfn99SsznQ4JVhtNlbc&dib_tag=se&keywords=encore%2Bessential&qid=1763683682&sprefix=encore%2Bessential%2B%2Caps%2C314&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=52e800c6d287e54e65a4500829f9b4c6&language=en_US&ref_=as_li_ss_tl) 
+
+- Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Better battery life than the first Encore.
+- Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
+- App: Yes
+- Aux Input: Yes
+- Battery Life: 15 hours
+- Built in Microphone: No
+- EQ: Yes (7 band)
+- Guitar Input: Yes
+- IP Rating: IPX4
+- Max Volume: 110db
+- Microphone Input: yes
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Stereo: Partially (1 Woofer)
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 14.11lbs / 6.4kg
+- Wireless Microphones: No
+- Reviews, Comparisons and Sound Samples
+    - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
+- Links
+    - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-2.html)
+
+
+And with a longer battery, the $300 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)
+
+- Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
+- Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
+- Aux Input: Yes
+- Bass Extension: 40hz (-10dB)
+- Battery Life: 30 hours
+- IP Rating: IP67
+- Max Volume: 110db
+- Microphone Input: Yes
+- Power Bank: Yes
+- Power Input: AC Power Cable or 10w USB-C
+- Stereo: Yes
+- TWS: Yes
+- Weight: 19.2 lbs / 8.7kg
+- Reviews, Comparisons and Sound Samples
+    - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
+    - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
+    - [Audiophile housewife: Tribit Stormbox Blast 2 vs 2 Earfun UBoom X - outdoor test](https://www.youtube.com/watch?v=hX6IH6pI33E)
+    - [Alan Ross Reviews: Tribit Stormbox Blast 2 review - fun fun fun! sometimes 😊](https://www.youtube.com/watch?v=XWp-Ru2YwsE)
+    - [Mateusz Cholewa: Soundcore Rave 3 🤗v🆚s Tribit Stormbox Blast 2👌🎶](https://www.youtube.com/watch?v=Z9IXiGVdANA)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs JBL Boombox 3 🔊 Got Bass? Let's See How They Compare 😲 Battery Powered 🔋](https://www.youtube.com/watch?v=9ZDpHCDzpfc)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs Blast 😲 A Family Feud 🚗 Tailgater Special 🔋 Battery Powered 🎶 Old vs New](https://www.youtube.com/watch?v=IBMLaMH1IWU)
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
+
 
 As an Amazon Associate I earn from qualifying purchases.
