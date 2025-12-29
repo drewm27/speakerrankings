@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Dayton Audio Boost ranks #108 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Dayton Audio Boost ranks #108 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Dayton Audio Boost ranks #108 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #108 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358

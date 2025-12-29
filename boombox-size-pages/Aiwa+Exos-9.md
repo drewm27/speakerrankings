@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Aiwa Exos-9 ranks #8 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Aiwa Exos-9 ranks #8 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Aiwa Exos-9 ranks #8 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #8 Aiwa Exos-9: $250
 - Positives: Still a great sounding speaker even against today's models.

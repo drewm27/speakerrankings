@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Ultimate Ears Hyperboom ranks #25 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Ultimate Ears Hyperboom ranks #25 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Ultimate Ears Hyperboom ranks #25 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #25 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325)]: $450
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.

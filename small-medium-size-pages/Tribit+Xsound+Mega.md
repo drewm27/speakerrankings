@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Tribit Xsound Mega ranks #20 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tribit Xsound Mega ranks #20 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Tribit Xsound Mega ranks #20 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #20 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325)]: $100
 - Positives: Deepest bass of any medium size speaker. Use xbass mode for flattest frequency response.

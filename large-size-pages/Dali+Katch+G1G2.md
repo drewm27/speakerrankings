@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Dali Katch G1/G2 ranks #57 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Dali Katch G1/G2 ranks #57 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Dali Katch G1/G2 ranks #57 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #57 [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325)]: $600
 - Positives: Pretty neutral

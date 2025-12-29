@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Diamondboxx M3 ranks #49 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Diamondboxx M3 ranks #49 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Diamondboxx M3 ranks #49 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #49 [Diamondboxx M3](https://diamondboxx.com/products/m3) [[Diamondboxx](https://diamondboxx.com/products/m3)]: $700
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.

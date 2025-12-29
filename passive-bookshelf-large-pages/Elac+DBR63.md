@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Elac DBR63 ranks #20 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Elac DBR63 ranks #20 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Elac DBR63 ranks #20 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #20 [Elac DBR63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR63)]: $500
 - Positives: A class leader at the $500 price point

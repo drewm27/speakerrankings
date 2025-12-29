@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Neumann KH120 MKII ranks #1 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Neumann KH120 MKII ranks #1 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Neumann KH120 MKII ranks #1 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #1 [Neumann KH120 MKII](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH120+MKII)]: $2000 a pair
 - Positives: The top rated speaker in this category. Amazingly flat frequency response, fantastic off axis. Bass extension is quite good for this size.

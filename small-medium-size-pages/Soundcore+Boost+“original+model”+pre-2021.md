@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Soundcore Boost “original model” pre-2021 ranks #13 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Boost “original model” pre-2021 ranks #13 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Soundcore Boost “original model” pre-2021 ranks #13 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #13 Soundcore Boost “original model” pre-2021: $60
 - Positives: A great sounding neutral speaker.

@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Walla Sound ranks #117 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Walla Sound ranks #117 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Walla Sound ranks #117 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #117 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.

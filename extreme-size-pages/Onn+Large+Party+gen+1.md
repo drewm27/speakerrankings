@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Onn Large Party gen 1 ranks #37 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Onn Large Party gen 1 ranks #37 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Onn Large Party gen 1 ranks #37 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #37 Onn Large Party gen 1: $100
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.

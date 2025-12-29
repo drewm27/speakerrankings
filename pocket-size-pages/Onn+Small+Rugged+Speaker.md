@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Onn Small Rugged Speaker ranks #22 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Onn Small Rugged Speaker ranks #22 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Onn Small Rugged Speaker ranks #22 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #22 [Onn Small Rugged Speaker](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562) [[Walmart](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562)]: $15
 - Positives: Amazing value for the money.

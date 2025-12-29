@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Audio Craftsmen Victoria ranks #39 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Audio Craftsmen Victoria ranks #39 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Audio Craftsmen Victoria ranks #39 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #39 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria) [[Pahmeraudio](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)] [[Used Listings](https://www.hifizero.com/index.php?q=Audio+Craftsmen+Victoria)]: $4000
 - Negatives: 4dB dip from 200hz to 400hz, recessed midrange. Not recommended for the price

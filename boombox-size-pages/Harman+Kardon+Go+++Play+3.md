@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Harman Kardon Go + Play 3 ranks #7 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Harman Kardon Go + Play 3 ranks #7 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Harman Kardon Go + Play 3 ranks #7 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #7 [Harman Kardon Go + Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325)] [[Ebay Refurbished](https://www.ebay.com/itm/156428451357?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dYV7A0jR83JeTmj9j2vjkxlnm93aef1rGbuZw5OKLJdkqjRw0OY4TvrYIUrJH%2FALK16p3w%2BAr%2FJPGwMKf9CKxtEuKKVPJhwb2rlCol4P8zrio2QUpnurLOupEqKe3HCowQIrN9VYSF%2FwpSUseY6dCEFC2dZqD8QL05WsP2x3f7FqkRLju%2FkLebxrcI5VUf4X8%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $350
 - Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go + Play2.

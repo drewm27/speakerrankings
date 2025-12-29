@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Gemini GRV-650L ranks #33 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Gemini GRV-650L ranks #33 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Gemini GRV-650L ranks #33 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #33 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325)]: $180
 - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control

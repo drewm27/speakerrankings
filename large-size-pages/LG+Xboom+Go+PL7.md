@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The LG Xboom Go PL7 ranks #68 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The LG Xboom Go PL7 ranks #68 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The LG Xboom Go PL7 ranks #68 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #68 LG Xboom Go PL7: $70
 - Negatives: 9khz peak. Not good sounding.

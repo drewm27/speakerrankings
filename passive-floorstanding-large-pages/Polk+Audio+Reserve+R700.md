@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Polk Audio Reserve R700 ranks #16 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Polk Audio Reserve R700 ranks #16 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Polk Audio Reserve R700 ranks #16 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #16 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Audio+Reserve+R700)]: $1100 a pair
 - Positives: Pretty neutral frequency response. Quite deep bass response

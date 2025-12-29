@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The ION Pathfinder 280 ranks #64 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The ION Pathfinder 280 ranks #64 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The ION Pathfinder 280 ranks #64 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #64 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325)]: $170
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.

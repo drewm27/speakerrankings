@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Buchardt A10 ranks #11 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Buchardt A10 ranks #11 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Buchardt A10 ranks #11 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #11 [Buchardt A10](https://buchardtaudio.com/products/anniversary-10) [[Buchardtaudio](https://buchardtaudio.com/products/anniversary-10)] [[Used Listings](https://www.hifizero.com/index.php?q=Buchardt+A10)]: $4300
 - Positives: Comes with 18 master EQs for all types of placement. Insane bass extension, but not at high volumes where it limits the extension. Very small for the bass extension

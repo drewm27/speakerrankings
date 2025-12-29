@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Soundcore Motion 100 ranks #40 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Motion 100 ranks #40 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Soundcore Motion 100 ranks #40 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #40 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325)]: $47
 - Positives: Use [Oluv's EQ](https://www.patreon.com/oluvsone/shop/soundcore-motion-100-flat-eq-setting-172328) for the flattest response

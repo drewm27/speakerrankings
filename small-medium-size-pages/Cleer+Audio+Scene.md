@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Cleer Audio Scene ranks #29 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Cleer Audio Scene ranks #29 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Cleer Audio Scene ranks #29 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #29 [Cleer Audio Scene](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl)]: $100
 - Positives: Quite neutral frequency response, almost indistinguishable from the very neutral Flip 6 besides the worse bass extension.

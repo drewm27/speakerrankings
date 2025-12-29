@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Partybox Encore 2 ranks #3 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Partybox Encore 2 ranks #3 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The JBL Partybox Encore 2 ranks #3 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #3 [JBL Partybox Encore 2](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)] [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 1 wireless microphone. Better battery life than the first Encore.

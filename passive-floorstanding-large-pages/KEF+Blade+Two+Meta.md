@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The KEF Blade Two Meta ranks #2 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The KEF Blade Two Meta ranks #2 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The KEF Blade Two Meta ranks #2 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
 ### #2 [KEF Blade Two Meta](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta) [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta)]: $28000 only sold in stores
 - Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
