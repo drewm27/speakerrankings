@@ -4,4 +4,5 @@ set -e
 
 rm -rf _site/
 jekyll b
+sed -i 's/^<loc>/<loc>https:\/\/www.speakerranking.com/g' _site/sitemap.xml
 rsync -vtr --delete _site/ root@www.speakerranking.com:/var/www/speakerranking/
