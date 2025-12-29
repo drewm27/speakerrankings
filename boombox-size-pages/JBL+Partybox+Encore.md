@@ -30,6 +30,7 @@ The JBL Partybox Encore ranks #5 out of 70 total [Boombox Size Portable Bluetoot
 - Weight: 13lbs / 5.9kg
 - Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: outdoors](https://www.youtube.com/watch?v=df-IGT1k1KI)
     - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: indoors](https://www.youtube.com/watch?v=A9kE4-gpzBk)
     - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
