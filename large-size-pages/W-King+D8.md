@@ -2,6 +2,7 @@
 layout: page
 title: W-King D8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The W-King D8 ranks #42 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The W-King D8 ranks #42 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

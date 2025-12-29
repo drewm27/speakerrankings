@@ -2,6 +2,7 @@
 layout: page
 title: Focal Chora 816 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Focal Chora 816 ranks #19 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place
 ---
 
 The Focal Chora 816 ranks #19 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

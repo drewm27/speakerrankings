@@ -2,6 +2,7 @@
 layout: page
 title: Sony SRS-XG500 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Sony SRS-XG500 ranks #43 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Sony SRS-XG500 ranks #43 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

@@ -2,6 +2,7 @@
 layout: page
 title: AsciLab C6B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The AsciLab C6B ranks #4 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The AsciLab C6B ranks #4 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

@@ -2,6 +2,7 @@
 layout: page
 title: Brane X Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Brane X ranks #10 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Brane X ranks #10 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

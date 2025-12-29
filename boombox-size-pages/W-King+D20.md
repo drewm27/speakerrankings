@@ -2,6 +2,7 @@
 layout: page
 title: W-King D20 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The W-King D20 ranks #24 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The W-King D20 ranks #24 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

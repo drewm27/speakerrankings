@@ -2,6 +2,7 @@
 layout: page
 title: Treblab HD77 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Treblab HD77 ranks #72 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Treblab HD77 ranks #72 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

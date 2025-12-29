@@ -2,6 +2,7 @@
 layout: page
 title: Zaph Audio ZA5.2 TM Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Zaph Audio ZA5.2 TM ranks #6 out of 21 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Zaph Audio ZA5.2 TM ranks #6 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

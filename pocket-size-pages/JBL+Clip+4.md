@@ -2,6 +2,7 @@
 layout: page
 title: JBL Clip 4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The JBL Clip 4 ranks #18 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The JBL Clip 4 ranks #18 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

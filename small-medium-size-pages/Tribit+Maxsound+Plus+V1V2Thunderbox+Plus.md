@@ -2,6 +2,7 @@
 layout: page
 title: Tribit Maxsound Plus V1/V2/Thunderbox Plus Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks #21 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks #21 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

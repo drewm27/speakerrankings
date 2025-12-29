@@ -2,6 +2,7 @@
 layout: page
 title: Genelec 8351B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Genelec 8351B ranks #4 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Genelec 8351B ranks #4 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

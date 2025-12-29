@@ -2,6 +2,7 @@
 layout: page
 title: Monster Rockin' Roller 270 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Monster Rockin' Roller 270 ranks #65 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Monster Rockin' Roller 270 ranks #65 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

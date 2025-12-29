@@ -2,6 +2,7 @@
 layout: page
 title: Harman Kardon Esquire Mini 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Harman Kardon Esquire Mini 2 ranks #36 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Harman Kardon Esquire Mini 2 ranks #36 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

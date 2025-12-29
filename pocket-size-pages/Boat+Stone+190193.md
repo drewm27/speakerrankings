@@ -2,6 +2,7 @@
 layout: page
 title: Boat Stone 190/193 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Boat Stone 190/193 ranks #26 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Boat Stone 190/193 ranks #26 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

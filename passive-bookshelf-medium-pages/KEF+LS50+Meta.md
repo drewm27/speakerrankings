@@ -2,6 +2,7 @@
 layout: page
 title: KEF LS50 Meta Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The KEF LS50 Meta ranks #3 out of 21 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The KEF LS50 Meta ranks #3 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

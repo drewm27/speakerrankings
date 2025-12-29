@@ -2,6 +2,7 @@
 layout: page
 title: Soundboks 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Soundboks 2 ranks #24 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Soundboks 2 ranks #24 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

@@ -2,6 +2,7 @@
 layout: page
 title: B&O Beosound A5 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The B&O Beosound A5 ranks #11 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The B&O Beosound A5 ranks #11 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

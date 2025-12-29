@@ -2,6 +2,7 @@
 layout: page
 title: Mackie Thump Go Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Mackie Thump Go ranks #19 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Mackie Thump Go ranks #19 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

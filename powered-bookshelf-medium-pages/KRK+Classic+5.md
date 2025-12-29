@@ -2,6 +2,7 @@
 layout: page
 title: KRK Classic 5 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The KRK Classic 5 ranks #18 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The KRK Classic 5 ranks #18 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

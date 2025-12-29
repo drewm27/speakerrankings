@@ -2,6 +2,7 @@
 layout: page
 title: Harman Kardon Go + Play 3 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Harman Kardon Go + Play 3 ranks #7 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Harman Kardon Go + Play 3 ranks #7 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

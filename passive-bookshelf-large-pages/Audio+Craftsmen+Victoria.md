@@ -2,6 +2,7 @@
 layout: page
 title: Audio Craftsmen Victoria Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Audio Craftsmen Victoria ranks #39 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Audio Craftsmen Victoria ranks #39 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

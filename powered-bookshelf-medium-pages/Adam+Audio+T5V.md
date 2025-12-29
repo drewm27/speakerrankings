@@ -2,6 +2,7 @@
 layout: page
 title: Adam Audio T5V Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Adam Audio T5V ranks #8 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Adam Audio T5V ranks #8 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

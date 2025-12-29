@@ -2,6 +2,7 @@
 layout: page
 title: Presonus Eris Studio 8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Presonus Eris Studio 8 ranks #12 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Presonus Eris Studio 8 ranks #12 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

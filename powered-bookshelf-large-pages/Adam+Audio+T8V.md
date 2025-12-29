@@ -2,6 +2,7 @@
 layout: page
 title: Adam Audio T8V Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Adam Audio T8V ranks #15 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Adam Audio T8V ranks #15 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

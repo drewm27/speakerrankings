@@ -2,6 +2,7 @@
 layout: page
 title: Mackie CR3-X Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Mackie CR3-X ranks #8 out of 8 total Small Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Mackie CR3-X ranks #8 out of 8 total [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

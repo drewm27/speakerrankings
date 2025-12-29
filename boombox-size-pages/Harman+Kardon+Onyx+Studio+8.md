@@ -2,6 +2,7 @@
 layout: page
 title: Harman Kardon Onyx Studio 8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Harman Kardon Onyx Studio 8 ranks #11 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Harman Kardon Onyx Studio 8 ranks #11 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

@@ -2,6 +2,7 @@
 layout: page
 title: Neumann KH120 MKII Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Neumann KH120 MKII ranks #1 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
 ---
 
 The Neumann KH120 MKII ranks #1 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

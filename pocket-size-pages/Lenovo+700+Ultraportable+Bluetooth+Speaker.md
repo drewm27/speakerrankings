@@ -2,6 +2,7 @@
 layout: page
 title: Lenovo 700 Ultraportable Bluetooth Speaker Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Lenovo 700 Ultraportable Bluetooth Speaker ranks #38 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
 ---
 
 The Lenovo 700 Ultraportable Bluetooth Speaker ranks #38 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
