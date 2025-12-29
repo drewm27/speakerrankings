@@ -1,0 +1,36 @@
+---
+layout: page
+title: Aiwa Exos-9 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Aiwa Exos-9 ranks #8 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #8 Aiwa Exos-9: $250
+- Positives: Still a great sounding speaker even against today's models.
+- Negatives: Features are lacking, generally not recommended anymore, not sold new anymore. No water rating.
+- App: No
+- Aux Input: Yes
+- Bass Extension: 44hz (-10dB)
+- Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes
+- IP Rating: None
+- Party Mode: No
+- Power Input: AC Power cable
+- Stereo: Yes
+- TWS: No
+- Weight: 15.3lbs / 6.9kg
+- Reviews, Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
+    - <https://www.youtube.com/watch?v=1gD1spoV-g0>
+    - <https://www.youtube.com/watch?v=aARmhttq85o>
+    - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
+    - <https://www.youtube.com/watch?v=EaFtQNoYeKg>
+    - <https://www.youtube.com/watch?v=QMvDPqHhA-4>
+- Links
+    - [Direct Speakerranking Link](/boombox-size-pages/Aiwa+Exos-9/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

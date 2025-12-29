@@ -1,0 +1,25 @@
+---
+layout: page
+title: Dayton Audio Boost Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Dayton Audio Boost ranks #108 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #108 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
+- Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358
+- Aux Input: Yes
+- Bass Extension: 87hz (-10dB)
+- Battery Life: 6 hours
+- IP Rating: IPX7
+- MicroSD: Yes
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- Weight: 0.94lbs / 426g
+- Links
+    - [Official Product Page Dayton Audio Boost](https://parts-express.sjv.io/q4bNkj)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Dayton+Audio+Boost/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

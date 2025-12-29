@@ -1,0 +1,22 @@
+---
+layout: page
+title: Braven XXL 2 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Braven XXL 2 ranks #62 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #62 Braven XXL 2: $350
+- Negatives: Not very deep bass. Very heavy
+- Aux Input: Yes
+- Battery Life: 18 hours
+- Stereo: Yes
+- Weight: 17.4lbs / 7.9kg
+- Reviews, Comparisons and Sound Samples
+    - [Jagist reviews: Tritbit Stormbox Blast vs Braven xxl 2](https://www.youtube.com/watch?v=uihgotNRgJ0)
+    - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
+- Links
+    - [Direct Speakerranking Link](/boombox-size-pages/Braven+XXL+2/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

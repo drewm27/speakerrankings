@@ -1,0 +1,29 @@
+---
+layout: page
+title: JBL Clip Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The JBL Clip ranks #29 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #29 JBL Clip: $50
+- Negatives: Quite a lack of bass. Mids are a little hollow.
+- App: No
+- Aux Input: Yes (integrated 3.5mm cable)
+- Bass Extension: ~95hz (-10dB)
+- Battery Life: 5 hours
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: AC Wall wart
+- Stereo: No
+- TWS: No
+- Weight: 0.35lbs / 158g
+- Reviews, Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=M6khpcPwr8c>
+- Links
+    - [Official Product Page](https://www.jbl.com/award-winners/JBL+CLIP.html)
+    - [Direct Speakerranking Link](/pocket-size-pages/JBL+Clip/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

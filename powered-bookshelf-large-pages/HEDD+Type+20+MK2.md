@@ -1,0 +1,17 @@
+---
+layout: page
+title: HEDD Type 20 MK2 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The HEDD Type 20 MK2 ranks #5 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #5 [HEDD Type 20 MK2](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=HEDD+Type+20+MK2)]: $4800 a pair
+- Reviews, Comparisons and Sound Samples
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
+- Links
+    - [Official Product Page](https://hedd.audio/products/type-20-mk2)
+    - [Direct Speakerranking Link](/powered-bookshelf-large-pages/HEDD+Type+20+MK2/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

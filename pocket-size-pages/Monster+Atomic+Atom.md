@@ -1,0 +1,32 @@
+---
+layout: page
+title: Monster Atomic Atom Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Monster Atomic Atom ranks #23 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #23 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl)]: $40
+- Positives: Very small, one of the smallest in the pocket class and good performance based on the size and weight. Nice magnetic clip with hole for hanging
+- Negatives: For the pocket class, lacking quite a bit of bass compared to the top ranked speakers
+- App: No
+- Aux Input: No
+- Bass Extension: 90hz (-10dB)
+- Battery Life: 9 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: IPX5
+- MicroSD: No
+- Party Mode: Yes (Broadcast Mode) up to 100 speakers
+- Power Bank: No
+- Power Input: USB-C
+- TWS: No
+- Weight: 0.35lbs / 159g
+- Reviews, Comparisons and Sound Samples
+    - [wwjoshdew: Monster Atomic Atom Bluetooth 5.4 Speaker](https://www.youtube.com/watch?v=4RJTt8arMM4)
+- Links
+    - [Official Product Page](https://mct-audio.com/products/monster-atomic-atom)
+    - [Direct Speakerranking Link](/pocket-size-pages/Monster+Atomic+Atom/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

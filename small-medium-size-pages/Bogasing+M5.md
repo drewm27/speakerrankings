@@ -1,0 +1,29 @@
+---
+layout: page
+title: Bogasing M5 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Bogasing M5 ranks #53 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
+- Negatives: Front/rear driver configuration. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
+- Aux Input: Yes
+- Bass Extension: 61hz (-10dB)
+- Battery Life: 30 hours
+- IP Rating: IPX7
+- Max Volume: 96db
+- MicroSD: Yes
+- Power Bank: Yes
+- Stereo: No (front/rear drivers)
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 1.67lbs / 757g
+- Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
+    - <https://www.patreon.com/posts/bogasing-m5-126932777>
+- Links
+    - [Direct Speakerranking Link](/small-medium-size-pages/Bogasing+M5/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

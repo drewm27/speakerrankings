@@ -1,0 +1,29 @@
+---
+layout: page
+title: Miatone Boompro Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Miatone Boompro ranks #15 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #15 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl)]: $36
+- Positives: Exactly the same as the Wisetiger P3 below. By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
+- Negatives: Slightly less bass extension than higher ranked speakers.
+- App: No
+- Aux Input: No
+- Battery Life: 16 hours
+- EQ: No
+- IP Rating: IPX7
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- Weight: 1.1lbs / 500g
+- Reviews, Comparisons and Sound Samples
+    - [SpeakerBlowUpMan Lee: Broke Man's JBL Flip 6! Miatone Boompro Bluetooth Speaker Review](https://www.youtube.com/watch?v=Psmgg5ZJCvs)
+- Links
+    - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Miatone+Boompro/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

@@ -1,0 +1,29 @@
+---
+layout: page
+title: Harman Kardon Onyx Studio 4 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Harman Kardon Onyx Studio 4 ranks #46 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #46 Harman Kardon Onyx Studio 4: $100
+- Negatives: 8 hour battery at medium volume. Not at loud as others. Not as deep of bass as the newer Onyx. External AC power brick for charging.
+- App: Yes (HK Connect)
+- Aux Input: Yes
+- Battery Life: 8 hours
+- EQ: No
+- IP Rating: None
+- Party Mode: Yes (Connect+ up to 100 speakers)
+- Power Bank: No
+- TWS: Yes
+- Weight: 4.5lbs / 2.06kg
+- Reviews, Comparisons and Sound Samples
+    - [Geri's Collection: Harman Kardon Onyx 7 vs Onyx 4](https://www.youtube.com/watch?v=ywy1X1hxU9s)
+    - [OCM Reviews: Onyx Studio 4 Vs Onyx Studio 5  - Sound Quality Comparison - Bluetooth Speaker](https://www.youtube.com/watch?v=F5CoJB_xm2E)
+    - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
+- Links
+    - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+4.html)
+    - [Direct Speakerranking Link](/large-size-pages/Harman+Kardon+Onyx+Studio+4/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

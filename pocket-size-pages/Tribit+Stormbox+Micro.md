@@ -1,0 +1,37 @@
+---
+layout: page
+title: Tribit Stormbox Micro Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Tribit Stormbox Micro ranks #4 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #4 [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E) [[Amazon](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E)]: $40
+- Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
+- App: No
+- Bass Extension: 62hz (-10dB)
+- Battery Life: 8 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IP67
+- Latency: 180ms
+- Max Volume: 93db
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- Weight: 0.65lbs / 295g
+- Reviews, Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+    - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
+    - <https://www.youtube.com/watch?v=hYIQtNJ3gM0>
+    - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
+    - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
+    - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
+- Links
+    - [Direct Speakerranking Link](/pocket-size-pages/Tribit+Stormbox+Micro/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

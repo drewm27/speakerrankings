@@ -1,0 +1,24 @@
+---
+layout: page
+title: Xdobo X8 Max Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Xdobo X8 Max ranks #55 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #55 Xdobo X8 Max: $73
+- Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
+- Aux Input: Yes
+- Bass Extension: ~52hz (-10dB)
+- Battery Life: 15 hours
+- MicroSD: Yes
+- Power Bank: Yes
+- Weight: 6.3lbs / 2.86kg
+- Reviews, Comparisons and Sound Samples
+    - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
+- Links
+    - [Official Product Page](https://xdobo.com/products/x8-max)
+    - [Direct Speakerranking Link](/large-size-pages/Xdobo+X8+Max/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

@@ -1,0 +1,32 @@
+---
+layout: page
+title: Tronsmart Bang Max Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Tronsmart Bang Max ranks #30 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #30 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325)]: $180
+- Positives: Quite deep bass for the size and money.
+- Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
+- App: Yes
+- Aux Input: Yes
+- Aux Latency: 16ms
+- Bass Extension: 39hz (-10dB)
+- EQ: Yes
+- IP Rating: IPX6
+- Latency: 160ms
+- Max Volume: 111db
+- MicroSD: Yes
+- Power Bank: Yes
+- Power Input: AC Power brick
+- Stereo: Yes
+- Weight: 12.8lbs / 5.8kg
+- Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
+- Links
+    - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
+    - [Direct Speakerranking Link](/boombox-size-pages/Tronsmart+Bang+Max/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

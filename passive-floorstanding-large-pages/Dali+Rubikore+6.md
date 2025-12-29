@@ -1,0 +1,21 @@
+---
+layout: page
+title: Dali Rubikore 6 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Dali Rubikore 6 ranks #21 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #21 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dali+Rubikore+6)]: $8000
+- Negatives: Resonance at 800hz. 4dB peak at 4k to 15k, going to be a bright speaker. Not recommended
+- Bass Extension (-10dB): 31hz
+- Bass Extension (-3dB): 43hz
+- Reviews, Comparisons and Sound Samples
+    - [Erin's Audio Corner: DALI Rubikore 6 Floorstanding Speaker Review](https://www.youtube.com/watch?v=IlpFZPevKpM)
+    - [Erin's Audio Review Website Dali Rubikore 6](https://www.erinsaudiocorner.com/loudspeakers/dali_rubikore_6/)
+- Links
+    - [Official Dali Rubikore 6 Website](https://www.dali-speakers.com/en-us/products/rubikore/rubikore-6/)
+    - [Direct Speakerranking Link](/passive-floorstanding-large-pages/Dali+Rubikore+6/)
+
+
+As an Amazon Associate I earn from qualifying purchases.

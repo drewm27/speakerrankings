@@ -83,6 +83,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
+- Bass Extension: 44hz (-10dB)
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes

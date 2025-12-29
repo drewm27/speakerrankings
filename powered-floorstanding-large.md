@@ -31,6 +31,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)
 - Links
     - [Official Product Page](https://us.kef.com/products/ls60-wireless)
+    - [Direct Speakerranking Link](/powered-floorstanding-large-pages/KEF+LS60/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -1,0 +1,24 @@
+---
+layout: page
+title: Rockville Rock Party 6 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+---
+
+The Rockville Rock Party 6 ranks #48 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+
+### #48 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325)]: $100
+- Positives: It's cheap.
+- Negatives: No deep bass, slightly harsh upper mids
+- Aux Input: Yes
+- Bass Extension: ~60hz (-10dB)
+- Battery Life: 6 hours
+- Power Input: AC Power cord
+- Weight: 11.8lbs / 5.4kg
+- Reviews, Comparisons and Sound Samples
+    - [Daniel Parker Big D: Sound Quality Bass Test On Rockville Rock Party 6 Bluetooth Speaker](https://www.youtube.com/watch?v=eVlB4zq2Q0I)
+    - [PAPAGEORGIO84: Jbl party box 100 vs Rockville 6](https://www.youtube.com/watch?v=28bFX3K9Gzs)
+- Links
+    - [Direct Speakerranking Link](/extreme-size-pages/Rockville+Rock+Party+6/)
+
+
+As an Amazon Associate I earn from qualifying purchases.
