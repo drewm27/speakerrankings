@@ -237,7 +237,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
 - Links
     - [Official Emotiva B1+ Website](https://emotiva.com/products/airmotiv-b1-pair)
-    - [Direct Speakerranking Link](/passive-bookshelf-medium-pages/Emotiva+B1%2B/)
+    - [Direct Speakerranking Link](/passive-bookshelf-medium-pages/Emotiva+B1+/)
 
 ### #18 [Sony SS-CS5 M2](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Sony+SS-CS5+M2)]: $250
 - Negatives: Mellow treble, forward upper midrange

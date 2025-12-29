@@ -263,7 +263,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
-    - [Direct Speakerranking Link](/boombox-size-pages/Harman+Kardon+Go+%2B+Play+3/)
+    - [Direct Speakerranking Link](/boombox-size-pages/Harman+Kardon+Go+++Play+3/)
 
 ### #8 Aiwa Exos-9: $250
 - Positives: Still a great sounding speaker even against today's models.
@@ -480,7 +480,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: HK Go+ Play vs Soundcore Motion Boom - biggest bass battle ever!!!!!!!!!!!!](https://www.youtube.com/watch?v=NHVrFZKc5YM)
 - Links
     - [Official Product Page](https://www.harmankardon.com/GO+%2B+PLAYII.html)
-    - [Direct Speakerranking Link](/boombox-size-pages/Harman+Kardon+Go+%2B+Play+2/)
+    - [Direct Speakerranking Link](/boombox-size-pages/Harman+Kardon+Go+++Play+2/)
 
 ### #17 Harman Kardon Onyx Studio 5
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
@@ -773,7 +773,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
-    - [Direct Speakerranking Link](/boombox-size-pages/B%26O+Beolit+20/)
+    - [Direct Speakerranking Link](/boombox-size-pages/B&O+Beolit+20/)
 
 ### #29 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: 250€
 - Positives: Pretty balanced sound, slightly warm
@@ -886,7 +886,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
     - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
 - Links
-    - [Direct Speakerranking Link](/boombox-size-pages/Teufel+Boomster+NG+%282017%29/)
+    - [Direct Speakerranking Link](/boombox-size-pages/Teufel+Boomster+NG+(2017)/)
 
 ### #35 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
@@ -1089,7 +1089,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom-plus&cjsku=A3129011)
-    - [Direct Speakerranking Link](/boombox-size-pages/Soundcore+Motion+Boom%2B/)
+    - [Direct Speakerranking Link](/boombox-size-pages/Soundcore+Motion+Boom+/)
 
 ### #46 [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)]: $40 after clipped coupon
 - Positives: Completely insane value for the money. Comes with 2 metal body wireless microphones that are USB-C chargeable. Comes with Chinese labeled infrared remote control. Has voice delete function that works quite well. Adjustable microphone reverb. Pretty good build quality. The default EQ is the most balanced, the other two sound muffled.
@@ -1418,7 +1418,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
 - Links
     - [Official Product Page](https://mymonsteraudio.com/products/monster-rockin-roller-270)
-    - [Direct Speakerranking Link](/boombox-size-pages/Monster+Rockin%27+Roller+270/)
+    - [Direct Speakerranking Link](/boombox-size-pages/Monster+Rockin'+Roller+270/)
 
 ### #66 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
 - Negatives: Pathetic bass extension compared to most other speakers. Way overpriced for what it is.
@@ -1453,7 +1453,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)
 - Links
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-gen-2)
-    - [Direct Speakerranking Link](/boombox-size-pages/Turtlebox%2FTurtlebox+G2/)
+    - [Direct Speakerranking Link](/boombox-size-pages/TurtleboxTurtlebox+G2/)
 
 ### #68 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass

@@ -113,7 +113,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Motion%2B/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Motion+/)
 
 ### #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325)]: $60
 - Positives: A very neutral good sounding inexpensive small speaker with quite deep bass for the size. This upgraded version has a usb-c port while the old one has micro usb.
@@ -144,7 +144,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Boost+%E2%80%9Cupgraded%E2%80%9D+2021/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Boost+“upgraded”+2021/)
 
 ### #5 Denon Envaya DSB-250BT: $250
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
@@ -273,7 +273,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
-    - [Direct Speakerranking Link](/small-medium-size-pages/B%26O+Beosound+A1/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+A1/)
 
 ### #10 [B&O Beosound A1 2nd gen](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325)]: $200
 - Positives: More neutral than the first A1
@@ -305,7 +305,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/anker-soundcore-92655183>
 - Links
     - [Official Product Page](https://luxussound.com/products/beosound-a1-2nd-generation)
-    - [Direct Speakerranking Link](/small-medium-size-pages/B%26O+Beosound+A1+2nd+gen/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+A1+2nd+gen/)
 
 ### #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)]: $200
 - Positives: Seems more neutral than the Charge 5. Flatter frequency response through the mids and treble as the Charge 5 was quite rolled off up high. Use this [EQ from Joy/Oluv](http://youtube.com/post/Ugkx0Fa17eFCOUaEOiLivjPy4ERgAa3qzWSV?si=mJRhUhTW23IriBue) and turn down the lowest bass slider for the best sound quality. Oluv has even more [paid EQs specifically for the GG and TL models indoors and outdoors here](https://www.patreon.com/posts/jbl-charge-6-eqs-137659087?source=storefront)
@@ -386,7 +386,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=sGYxOHqOYWQ>
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Boost+%E2%80%9Coriginal+model%E2%80%9D+pre-2021/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Boost+“original+model”+pre-2021/)
 
 ### #14 [JBL Flip 7](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl)]: $150
 - Positives: A very neutral speaker, very small, almost pocket size. Just slightly more treble than the Flip 6 which was already a great speaker. Slightly deeper bass than the Flip 6
@@ -494,7 +494,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beosound-a1-128729314>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
-    - [Direct Speakerranking Link](/small-medium-size-pages/B%26O+Beosound+A1+3rd+gen/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+A1+3rd+gen/)
 
 ### #19 Xiaomi Sound Party
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
@@ -572,7 +572,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Maxsound Plus v1 vs V2 - upgraded Maxsound Plus tested! 🏅](https://www.youtube.com/watch?v=8dxlVDGHAo4)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-maxsound-plus-bluetooth-speakers)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Maxsound+Plus+V1%2FV2%2FThunderbox+Plus/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Maxsound+Plus+V1V2Thunderbox+Plus/)
 
 ### #22 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325)]: $150
 - Positives: Pretty balanced sound besides the boosted bass.
@@ -1053,7 +1053,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-revolve-ii-bluetooth-speaker/SLRVPII-SPEAKERWIRELESS.html)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Revolve%2B+II/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Revolve++II/)
 
 ### #47 Bose Soundlink Revolve+: $230
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
@@ -1072,7 +1072,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=dP36vzF-ykY>
     - <https://www.youtube.com/watch?v=Fi1x6UuIkI4>
 - Links
-    - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Revolve%2B/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Revolve+/)
 
 ### #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing
@@ -1212,7 +1212,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [HQ AUDIO Exchange: Anker SoundCore 3  Vs. SoundCore Select 2 Bass Sound Test](https://www.youtube.com/watch?v=XpkitJveFlc)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3117011&cjsku=A3117011)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+3%2FSoundcore+Select+2/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+3Soundcore+Select+2/)
 
 ### #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
@@ -1715,7 +1715,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
 - Links
     - [Official Product Page](https://www.klipsch.com/products/groove-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Klipsch+Groove%2FHeritage+Groove/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Klipsch+GrooveHeritage+Groove/)
 
 ### #85 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl)]: $137
 - Negatives: Muffled sounding, not very deep bass. Hollow sounding. Worse than a XB43
@@ -1963,7 +1963,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-explore)
-    - [Direct Speakerranking Link](/small-medium-size-pages/B%26O+Beosound+Explore/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+Explore/)
 
 ### #103 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325)]: $97
 - Negatives: Sounds hollow. Very muffled. Rolled off treble, weird midrange boost, just not great overall. Worse than a XB33.
@@ -2055,7 +2055,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page Boat Stone 350](https://www.boat-lifestyle.com/products/stone-350)
     - [Official Product Page Boat Stone 352](https://www.boat-lifestyle.com/products/stone-352)
     - [Official Product Page Boat Stone 358](https://www.boat-lifestyle.com/products/stone-358-bluetooth-speaker)
-    - [Direct Speakerranking Link](/small-medium-size-pages/Boat+Stone+350%2F352%2F358/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Boat+Stone+350352358/)
 
 ### #110 Harman Kardon Esquire 2: $200
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
@@ -2160,7 +2160,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
 - Links
-    - [Direct Speakerranking Link](/small-medium-size-pages/Beats+Pill%2B/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Beats+Pill+/)
 
 ### #120 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
 - Negatives: No bass, very rolled off treble. Distortion in the treble. Just doesn't sound good
@@ -2171,7 +2171,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: Skullcandy Terrain & Terrain Mini Review](https://www.youtube.com/watch?v=Fm98ccBcZng)
     - [Flossy Carter: All The New SkullCandy Bluetooth Speakers](https://www.youtube.com/watch?v=-UYSKvCkz94)
 - Links
-    - [Direct Speakerranking Link](/small-medium-size-pages/Skullcandy+Terrain%2FTerrain+XT%2FTerrain+XL/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Skullcandy+TerrainTerrain+XTTerrain+XL/)
 
 ### #121 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: 40
 - Negatives: Barely any bass
@@ -2215,7 +2215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
 - Links
-    - [Direct Speakerranking Link](/small-medium-size-pages/Doss+E%E2%80%93Go+II/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Doss+E–Go+II/)
 
 ### #125 [Ultimate Ears Megaboom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl)]: $200
 - Negatives: A lot of distortion at higher volumes. Rolled off treble. Not very loud. They really screwed this up
@@ -2264,7 +2264,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Fewishaツ: Altec Lansing Life Jacket 3 Bass Test](https://www.youtube.com/watch?v=YkqfKLSgvfQ)
     - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
-    - [Direct Speakerranking Link](/small-medium-size-pages/Altec+Lansing+Lifejacket+2%2F+Lifejacket+3/)
+    - [Direct Speakerranking Link](/small-medium-size-pages/Altec+Lansing+Lifejacket+2+Lifejacket+3/)
 
 ### #129 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad

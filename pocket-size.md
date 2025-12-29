@@ -309,7 +309,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beoplay-p2)
-    - [Direct Speakerranking Link](/pocket-size-pages/B%26O+Beoplay+P2/)
+    - [Direct Speakerranking Link](/pocket-size-pages/B&O+Beoplay+P2/)
 
 ### #14 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325)]: $95
 - Positives: Loudest pocket speaker by a little.
@@ -583,7 +583,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Links
     - [Official Product Page Boat Stone 190](https://www.boat-lifestyle.com/products/stone-190)
     - [Official Product Page Boat Stone 193](https://www.boat-lifestyle.com/products/stone-193-portable-speaker)
-    - [Direct Speakerranking Link](/pocket-size-pages/Boat+Stone+190%2F193/)
+    - [Direct Speakerranking Link](/pocket-size-pages/Boat+Stone+190193/)
 
 ### #27 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325)]: $60
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.

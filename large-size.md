@@ -295,7 +295,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
-    - [Direct Speakerranking Link](/large-size-pages/B%26O+Beosound+A5/)
+    - [Direct Speakerranking Link](/large-size-pages/B&O+Beosound+A5/)
 
 ### #12 [Soundcore Motion Boom](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)]: $90
 - Positives: Decently neutral speaker after EQ is applied. Slight DSP issue which makes bass get lighter at times at very low volumes. Try [Oluv's EQ](https://ibb.co/wNFwQ1h) for a more neutral sound.
@@ -364,7 +364,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
 - Links
     - [Official Product Page](https://support.bang-olufsen.com/hc/en-us/articles/360040947931-Beoplay-A2-Active)
-    - [Direct Speakerranking Link](/large-size-pages/B%26O+Beoplay+A2+active/)
+    - [Direct Speakerranking Link](/large-size-pages/B&O+Beoplay+A2+active/)
 
 ### #15 [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325)]: $280
 - Negatives: Not as deep bass as competitors.
@@ -618,7 +618,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
 - Links
     - [Official Product Page](https://dockin.de/products/dockin-d-fine-1)
-    - [Direct Speakerranking Link](/large-size-pages/Dockin+D+Fine%2B+2/)
+    - [Direct Speakerranking Link](/large-size-pages/Dockin+D+Fine++2/)
 
 ### #27 [Sonos Move](https://www.amazon.com/Sonos-Move-Battery-Powered-Bluetooth-Built/dp/B089DPZR96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bb880c2ab7548fa6a993a8843b001dfa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-Move-Battery-Powered-Bluetooth-Built/dp/B089DPZR96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bb880c2ab7548fa6a993a8843b001dfa&camp=1789&creative=9325)]: $380
 - Positives: Warm sounding with somewhat rolled off treble.
@@ -753,7 +753,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=wYjoQjCACcQ>
     - <https://www.youtube.com/watch?v=OZBmY6fQHCA>
 - Links
-    - [Direct Speakerranking Link](/large-size-pages/Dockin+D+Fine%2B/)
+    - [Direct Speakerranking Link](/large-size-pages/Dockin+D+Fine+/)
 
 ### #34 [Dockin D Fine](https://www.amazon.com/Bluetooth-Performance-PowerBank-Waterproof-Protection/dp/B01M0YCMIO/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c9fac4537d95d3053fe43c331ec0280&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-Performance-PowerBank-Waterproof-Protection/dp/B01M0YCMIO/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c9fac4537d95d3053fe43c331ec0280&camp=1789&creative=9325)]: $110
 - Positives: Power bank.
@@ -784,7 +784,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [SpeakerBlowUpMan Lee: Zicoroop Ts (Xdobo bucket) Bluetooth Speaker Review/Teardown](https://www.youtube.com/watch?v=hAfUPwhnD4A)
 - Links
-    - [Direct Speakerranking Link](/large-size-pages/Xdobo+Bucket+%2FBMTL+Bucket+%2F+Zicoroop+Ts/)
+    - [Direct Speakerranking Link](/large-size-pages/Xdobo+Bucket+BMTL+Bucket++Zicoroop+Ts/)
 
 ### #36 [Marshall Killburn II](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl)]: $280
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
@@ -1166,7 +1166,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
 - Links
     - [Official Product Page](https://www.dali-speakers.com/en-us/products/katch/katch-g2/)
-    - [Direct Speakerranking Link](/large-size-pages/Dali+Katch+G1%2FG2/)
+    - [Direct Speakerranking Link](/large-size-pages/Dali+Katch+G1G2/)
 
 ### #58 [B&O Beosound Level](https://www.amazon.com/Bang-Olufsen-Beosound-Portable-Multiroom/dp/B09FY649CQ?hvadid=693602822109&hvpos=&hvnetw=g&hvrand=17694119370364938316&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1681213333156&mcid=2a0d0851780b35d88777a746b09b8668&gad_source=1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3a120cfe2ea46753d4c9298b01fe6fb0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Portable-Multiroom/dp/B09FY649CQ?hvadid=693602822109&hvpos=&hvnetw=g&hvrand=17694119370364938316&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1681213333156&mcid=2a0d0851780b35d88777a746b09b8668&gad_source=1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3a120cfe2ea46753d4c9298b01fe6fb0&language=en_US&ref_=as_li_ss_tl)]: $2000
 - Negatives: Not very deep bass, peaks in midrange. Hugely expensive.
@@ -1181,7 +1181,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-level)
-    - [Direct Speakerranking Link](/large-size-pages/B%26O+Beosound+Level/)
+    - [Direct Speakerranking Link](/large-size-pages/B&O+Beosound+Level/)
 
 ### #59 Ultimate Ears Megablast: $240
 - Negatives: Bass is not very deep compared to the competition
@@ -1359,7 +1359,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Soundcore Rave Neo vs Rave Mega - best party speaker 2021?](https://www.youtube.com/watch?v=ePD09iI6qkI)
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
 - Links
-    - [Direct Speakerranking Link](/large-size-pages/Soundcore+Trance%2FRave+Mega/)
+    - [Direct Speakerranking Link](/large-size-pages/Soundcore+TranceRave+Mega/)
 
 ### #72 [Ortizan M8](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl)]: $70
 - Negatives: Not much bass, bass distortion and rattle at high volume.
@@ -1407,7 +1407,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Taylor Soloai: TG 118 vs JBL Xtreme Speaker (2023)](https://www.youtube.com/watch?v=rE6oDyPAdwU)
 - Links
     - [Official Product Page](https://tstarelectronics.com/product/tg-118-portable-bluetooth-speaker/)
-    - [Direct Speakerranking Link](/large-size-pages/T%26G+118/)
+    - [Direct Speakerranking Link](/large-size-pages/T&G+118/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

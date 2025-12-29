@@ -265,7 +265,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
-    - [Direct Speakerranking Link](/passive-floorstanding-large-pages/Bang+%26+Olufsen+Beolab20/)
+    - [Direct Speakerranking Link](/passive-floorstanding-large-pages/Bang+&+Olufsen+Beolab20/)
 
 ### #15 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
 - Positives: Really amazing value for the performance
@@ -433,7 +433,7 @@ Consider this page to be a work in progress and more speakers will be added.
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Magnepan LRS+ Website](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
-    - [Direct Speakerranking Link](/passive-floorstanding-large-pages/Magnepan+LRS%2B/)
+    - [Direct Speakerranking Link](/passive-floorstanding-large-pages/Magnepan+LRS+/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

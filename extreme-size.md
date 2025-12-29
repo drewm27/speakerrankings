@@ -416,7 +416,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: Soundcore Rave 3 🤗v🆚s Tribit Stormbox Blast 2👌🎶](https://www.youtube.com/watch?v=Z9IXiGVdANA)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17041213)
-    - [Direct Speakerranking Link](/extreme-size-pages/Soundcore+Rave+3%2F3s/)
+    - [Direct Speakerranking Link](/extreme-size-pages/Soundcore+Rave+33s/)
 
 ### #16 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl)]: $378
 - Positives: Wheels and handle. Cool customizable lighting
@@ -744,7 +744,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
-    - [Direct Speakerranking Link](/extreme-size-pages/B%26O+Beosound+2/)
+    - [Direct Speakerranking Link](/extreme-size-pages/B&O+Beosound+2/)
 
 ### #34 B&O Beosound 1: $2000
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
@@ -759,7 +759,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
-    - [Direct Speakerranking Link](/extreme-size-pages/B%26O+Beosound+1/)
+    - [Direct Speakerranking Link](/extreme-size-pages/B&O+Beosound+1/)
 
 ### #35 Diamondboxx L2: $1000
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
@@ -875,7 +875,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Techder Audios: Soundcore Rave+ - Soundtest "NOT IMPRESSIVE ENOUGH?!"](https://www.youtube.com/watch?v=ZjQIvZByyns)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/rave)
-    - [Direct Speakerranking Link](/extreme-size-pages/Soundcore+Rave%2B/)
+    - [Direct Speakerranking Link](/extreme-size-pages/Soundcore+Rave+/)
 
 ### #43 Soundcore Rave: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off
