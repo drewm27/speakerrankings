@@ -2,7 +2,7 @@
 layout: page
 title: W-King T9 Pro Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The W-King T9 Pro ranks #28 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The W-King T9 Pro ranks #28 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The W-King T9 Pro ranks #28 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

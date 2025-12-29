@@ -2,7 +2,7 @@
 layout: page
 title: KEF LS60 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The KEF LS60 ranks #1 out of 1 total Large Size Powered Floorstanding Speakers. Find all the specifications and reviews in one place
+share-description: "The KEF LS60 ranks #1 out of 1 total Large Size Powered Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
 The KEF LS60 ranks #1 out of 1 total [Large Size Powered Floorstanding Speakers](/powered-floorstanding-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

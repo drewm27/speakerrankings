@@ -2,7 +2,7 @@
 layout: page
 title: Kali Audio IN-8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Kali Audio IN-8 ranks #9 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
+share-description: "The Kali Audio IN-8 ranks #9 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Kali Audio IN-8 ranks #9 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

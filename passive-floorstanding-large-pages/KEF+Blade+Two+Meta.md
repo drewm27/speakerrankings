@@ -2,7 +2,7 @@
 layout: page
 title: KEF Blade Two Meta Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The KEF Blade Two Meta ranks #2 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place
+share-description: "The KEF Blade Two Meta ranks #2 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
 The KEF Blade Two Meta ranks #2 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

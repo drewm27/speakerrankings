@@ -2,7 +2,7 @@
 layout: page
 title: Sony SRS-XV900 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony SRS-XV900 ranks #9 out of 9 total Large Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Sony SRS-XV900 ranks #9 out of 9 total Large Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Sony SRS-XV900 ranks #9 out of 9 total [Large Party Size Portable Bluetooth Speakers](/insane-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

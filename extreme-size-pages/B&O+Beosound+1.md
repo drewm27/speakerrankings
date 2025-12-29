@@ -2,7 +2,7 @@
 layout: page
 title: B&O Beosound 1 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The B&O Beosound 1 ranks #34 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The B&O Beosound 1 ranks #34 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The B&O Beosound 1 ranks #34 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

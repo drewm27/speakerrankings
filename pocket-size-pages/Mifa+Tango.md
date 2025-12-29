@@ -2,7 +2,7 @@
 layout: page
 title: Mifa Tango Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Mifa Tango ranks #14 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Mifa Tango ranks #14 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Mifa Tango ranks #14 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

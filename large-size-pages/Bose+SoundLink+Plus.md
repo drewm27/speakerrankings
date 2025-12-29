@@ -2,7 +2,7 @@
 layout: page
 title: Bose SoundLink Plus Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bose SoundLink Plus ranks #23 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Bose SoundLink Plus ranks #23 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Bose SoundLink Plus ranks #23 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

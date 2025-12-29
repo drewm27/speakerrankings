@@ -2,7 +2,7 @@
 layout: page
 title: HiVi Swans 3.1A Sehlin Sound Solutions mod Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The HiVi Swans 3.1A Sehlin Sound Solutions mod ranks #13 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place
+share-description: "The HiVi Swans 3.1A Sehlin Sound Solutions mod ranks #13 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
 The HiVi Swans 3.1A Sehlin Sound Solutions mod ranks #13 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

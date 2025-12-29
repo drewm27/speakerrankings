@@ -2,7 +2,7 @@
 layout: page
 title: Altec Lansing Lifejacket 2/ Lifejacket 3 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Altec Lansing Lifejacket 2/ Lifejacket 3 ranks #128 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Altec Lansing Lifejacket 2/ Lifejacket 3 ranks #128 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Altec Lansing Lifejacket 2/ Lifejacket 3 ranks #128 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

@@ -2,7 +2,7 @@
 layout: page
 title: Klipsch RP-600M Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Klipsch RP-600M ranks #42 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place
+share-description: "The Klipsch RP-600M ranks #42 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Klipsch RP-600M ranks #42 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

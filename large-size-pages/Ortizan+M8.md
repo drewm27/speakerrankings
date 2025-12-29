@@ -2,7 +2,7 @@
 layout: page
 title: Ortizan M8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Ortizan M8 ranks #72 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Ortizan M8 ranks #72 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Ortizan M8 ranks #72 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

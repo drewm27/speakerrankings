@@ -2,7 +2,7 @@
 layout: page
 title: Audioengine HD4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Audioengine HD4 ranks #24 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
+share-description: "The Audioengine HD4 ranks #24 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Audioengine HD4 ranks #24 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

@@ -2,7 +2,7 @@
 layout: page
 title: Sony ULT Field 7 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony ULT Field 7 ranks #36 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Sony ULT Field 7 ranks #36 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Sony ULT Field 7 ranks #36 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

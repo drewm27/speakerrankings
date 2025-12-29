@@ -2,7 +2,7 @@
 layout: page
 title: KEF Q150 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The KEF Q150 ranks #16 out of 21 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place
+share-description: "The KEF Q150 ranks #16 out of 21 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
 The KEF Q150 ranks #16 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

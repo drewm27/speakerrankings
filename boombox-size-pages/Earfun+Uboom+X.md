@@ -2,7 +2,7 @@
 layout: page
 title: Earfun Uboom X Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Earfun Uboom X ranks #1 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Earfun Uboom X ranks #1 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Earfun Uboom X ranks #1 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

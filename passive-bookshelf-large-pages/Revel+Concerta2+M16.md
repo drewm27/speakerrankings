@@ -2,7 +2,7 @@
 layout: page
 title: Revel Concerta2 M16 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Revel Concerta2 M16 ranks #25 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place
+share-description: "The Revel Concerta2 M16 ranks #25 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Revel Concerta2 M16 ranks #25 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

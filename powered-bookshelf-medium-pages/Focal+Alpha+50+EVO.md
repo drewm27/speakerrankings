@@ -2,7 +2,7 @@
 layout: page
 title: Focal Alpha 50 EVO Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Focal Alpha 50 EVO ranks #6 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place
+share-description: "The Focal Alpha 50 EVO ranks #6 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Focal Alpha 50 EVO ranks #6 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

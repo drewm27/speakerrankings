@@ -2,7 +2,7 @@
 layout: page
 title: Philips NX200 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Philips NX200 ranks #38 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Philips NX200 ranks #38 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Philips NX200 ranks #38 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

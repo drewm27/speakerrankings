@@ -2,7 +2,7 @@
 layout: page
 title: Sony ULT Field 1 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony ULT Field 1 ranks #38 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Sony ULT Field 1 ranks #38 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Sony ULT Field 1 ranks #38 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.

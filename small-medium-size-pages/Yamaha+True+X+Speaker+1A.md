@@ -2,7 +2,7 @@
 layout: page
 title: Yamaha True X Speaker 1A Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Yamaha True X Speaker 1A ranks #88 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place
+share-description: "The Yamaha True X Speaker 1A ranks #88 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
 The Yamaha True X Speaker 1A ranks #88 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/). See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
