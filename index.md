@@ -14,8 +14,6 @@ The goal of this website is to eliminate the months of reading and watching revi
 
 The top picks on this website are the same ones that unbiased reviewers who value neutral speakers like [Oluv and Alan Ross](/top-recommended-reviewers/) also highly recommend.
 
-Feel free to share this anywhere people could find it useful, thanks!
-
 ## Top Recommended Speakers By Preference
 
 - [Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
