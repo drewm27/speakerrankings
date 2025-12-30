@@ -16,7 +16,7 @@ The Tronsmart Bang Max ranks #30 out of 70 total [Boombox Size Portable Bluetoot
 - Bass Extension (-10dB): 39hz
 - EQ: Yes
 - IP Rating: IPX6
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 111db
 - MicroSD: Yes
 - Power Bank: Yes

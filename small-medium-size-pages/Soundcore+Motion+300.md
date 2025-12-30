@@ -18,7 +18,7 @@ The Soundcore Motion 300 ranks #2 out of 129 total [Medium Size Portable Bluetoo
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 216ms ldac, 200ms aac, 116ms sbc
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes

@@ -14,7 +14,7 @@ The JBL Boombox 2 ranks #26 out of 70 total [Boombox Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 46hz
 - Battery Life: 24 hours
 - IP Rating: IPX7
-- Latency: 140ms
+- Bluetooth Latency: 140ms
 - Max Volume: 108db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes

@@ -19,7 +19,7 @@ The JBL Partybox Encore ranks #5 out of 70 total [Boombox Size Portable Bluetoot
 - Built in Microphone: No
 - EQ: Yes (3 band)
 - IP Rating: IPX4
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: No
 - Power Bank: Yes

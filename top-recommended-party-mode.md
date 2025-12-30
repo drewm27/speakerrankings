@@ -86,7 +86,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Built in Microphone: No
 - EQ: yes
 - IP Rating: IPX7
-- Latency: 125ms
+- Bluetooth Latency: 125ms
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
@@ -128,7 +128,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes

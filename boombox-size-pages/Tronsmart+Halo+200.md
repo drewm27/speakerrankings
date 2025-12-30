@@ -15,7 +15,7 @@ The Tronsmart Halo 200 ranks #48 out of 70 total [Boombox Size Portable Bluetoot
 - Battery Life: 18 hours
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 110db
 - Microphone Input: Yes
 - Stereo: Partially

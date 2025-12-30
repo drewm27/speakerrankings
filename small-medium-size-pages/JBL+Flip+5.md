@@ -11,7 +11,7 @@ The JBL Flip 5 ranks #61 out of 129 total [Medium Size Portable Bluetooth Speake
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
-- Latency: 200ms
+- Bluetooth Latency: 200ms
 - Max Volume: 92db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Weight: 1.19lbs / 540g

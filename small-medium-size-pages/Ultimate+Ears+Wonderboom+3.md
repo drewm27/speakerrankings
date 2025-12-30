@@ -11,7 +11,7 @@ The Ultimate Ears Wonderboom 3 ranks #79 out of 129 total [Medium Size Portable 
 - Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 76hz
 - Battery Life: 14 hours
-- Latency: 166ms
+- Bluetooth Latency: 166ms
 - Max Volume: 87db
 - Power Input: Micro USB
 - Stereo: No

@@ -19,7 +19,7 @@ The Minirig 3 ranks #7 out of 129 total [Medium Size Portable Bluetooth Speakers
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: Splash resistant
-- Latency: 60ms
+- Bluetooth Latency: 60ms
 - Max Volume: 105db
 - Power Bank: No
 - Power Input: Proprietary USB cable

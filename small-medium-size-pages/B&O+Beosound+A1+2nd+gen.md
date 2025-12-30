@@ -17,7 +17,7 @@ The B&O Beosound A1 2nd gen ranks #10 out of 129 total [Medium Size Portable Blu
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 90ms
+- Bluetooth Latency: 90ms
 - Max Volume: 93db
 - Power Bank: No
 - Stereo: No

@@ -15,7 +15,7 @@ The Harman Kardon Onyx Studio 6 ranks #12 out of 70 total [Boombox Size Portable
 - Battery Life: 8 hours
 - Built in Microphone: No
 - IP Rating: IPX7
-- Latency: 180ms
+- Bluetooth Latency: 180ms
 - Max Volume: 96db
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Input: AC Power brick

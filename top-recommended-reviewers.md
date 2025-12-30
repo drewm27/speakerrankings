@@ -24,7 +24,7 @@ Oluv's favorite [small pocket size](/pocket-size/) speaker is the [**$60 Tribit 
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 265ms
+- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -63,7 +63,7 @@ Oluv's favorite [medium size](/small-medium-size/) battery powered speaker is th
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Latency: 400ms normal / 66ms low latency mode
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -95,7 +95,7 @@ Oluv's favorite [large size](/large-size/) battery powered speaker is the [**$11
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: 128ms AAC, 144ms SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -131,7 +131,7 @@ Oluv's favorite [boombox size](/boombox-size/) battery powered speaker is the [*
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -194,7 +194,7 @@ Alan Ross's favorite [small pocket size](/pocket-size/) speaker is the [**$60 Tr
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 265ms
+- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -232,7 +232,7 @@ Alan Ross's favorite [medium size](/small-medium-size/) speaker is the [**$80 So
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 130ms
+- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
@@ -262,7 +262,7 @@ Alan Ross's favorite [large size](/large-size/) speaker is the [**$200 Marshall 
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - IP Rating: IPX4
-- Latency: 50ms
+- Bluetooth Latency: 50ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Input: USB-C
@@ -291,7 +291,7 @@ Alan Ross's favorite [boombox size](/boombox-size/) speaker is the [**$350 Harma
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
 - IP Rating: None
-- Latency: 120ms
+- Bluetooth Latency: 120ms
 - Max Volume: 103db
 - Power Input: AC Power brick
 - Stereo: Yes

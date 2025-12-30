@@ -16,7 +16,7 @@ The Soundcore Motion Boom ranks #12 out of 75 total [Large Size Portable Bluetoo
 - Battery Life: 24 hours
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 170ms
+- Bluetooth Latency: 170ms
 - Max Volume: 106db
 - Party Mode: No
 - Power Bank: Yes

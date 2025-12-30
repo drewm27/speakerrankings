@@ -18,7 +18,7 @@ The Minirig 4 ranks #6 out of 129 total [Medium Size Portable Bluetooth Speakers
 - Bluetooth Codecs: AAC, SBC
 - EQ: Yes
 - IP Rating: Splash resistant
-- Latency: 60ms
+- Bluetooth Latency: 60ms
 - Max Volume: 106db
 - Power Bank: Yes
 - Power Input: USB-C

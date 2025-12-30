@@ -42,7 +42,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - Battery Life: 24 hours
 - EQ: No
 - IP Rating: IPX7
-- Latency: 90ms
+- Bluetooth Latency: 90ms
 - Max Volume: 100db
 - MicroSD: Yes
 - Party Mode: No

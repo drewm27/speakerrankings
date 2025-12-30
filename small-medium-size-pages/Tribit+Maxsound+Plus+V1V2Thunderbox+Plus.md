@@ -17,7 +17,7 @@ The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks #21 out of 129 total [Mediu
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IPX7
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 99db
 - Power Bank: No
 - Stereo: Yes

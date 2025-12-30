@@ -16,7 +16,7 @@ The Soundcore Mini 3 ranks #7 out of 40 total [Small Size Portable Bluetooth Spe
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 87db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: No

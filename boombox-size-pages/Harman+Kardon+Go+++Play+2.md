@@ -14,7 +14,7 @@ The Harman Kardon Go + Play 2 ranks #16 out of 70 total [Boombox Size Portable B
 - Bass Extension (-10dB): 40hz
 - Battery Life: 8 hours
 - IP Rating: None
-- Latency: 33ms
+- Bluetooth Latency: 33ms
 - Max Volume: 99db
 - Party Mode: Yes (up to 2 speakers)
 - Power Input: AC Power brick

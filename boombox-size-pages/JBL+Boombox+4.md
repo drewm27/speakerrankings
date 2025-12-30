@@ -16,7 +16,7 @@ The JBL Boombox 4 ranks #15 out of 70 total [Boombox Size Portable Bluetooth Spe
 - Battery Life: 28 hours
 - EQ: Yes (7 band)
 - IP Rating: IP68
-- Latency: AAC 144ms, SBC 48ms
+- Bluetooth Latency: AAC 144ms, SBC 48ms
 - Max Volume: 115db
 - Party Mode: Yes (Auracast)
 - Power Input: AC Power Cord

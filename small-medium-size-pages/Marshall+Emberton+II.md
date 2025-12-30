@@ -12,7 +12,7 @@ The Marshall Emberton II ranks #93 out of 129 total [Medium Size Portable Blueto
 - App: Yes
 - Bass Extension (-10dB): 62hz
 - Battery Life: 30 hours
-- Latency: 80ms
+- Bluetooth Latency: 80ms
 - Max Volume: 88db
 - Party Mode: Yes (Marshall Stack)
 - Weight: 1.5lbs / 700g

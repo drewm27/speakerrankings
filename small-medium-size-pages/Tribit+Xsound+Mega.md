@@ -17,7 +17,7 @@ The Tribit Xsound Mega ranks #20 out of 129 total [Medium Size Portable Bluetoot
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 200ms
+- Bluetooth Latency: 200ms
 - Max Volume: 100db
 - Power Bank: No
 - Stereo: No

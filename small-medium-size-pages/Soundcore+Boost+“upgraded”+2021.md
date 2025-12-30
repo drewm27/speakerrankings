@@ -18,7 +18,7 @@ The Soundcore Boost “upgraded” 2021 ranks #4 out of 129 total [Medium Size P
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 150ms
+- Bluetooth Latency: 150ms
 - Max Volume: 99db
 - Party Mode: No
 - Power Bank: Yes

@@ -15,7 +15,7 @@ The Marshall Stockwell 2 ranks #9 out of 75 total [Large Size Portable Bluetooth
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - IP Rating: IPX4
-- Latency: 50ms
+- Bluetooth Latency: 50ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Input: USB-C

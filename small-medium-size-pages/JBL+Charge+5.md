@@ -13,7 +13,7 @@ The JBL Charge 5 ranks #26 out of 129 total [Medium Size Portable Bluetooth Spea
 - Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
 - EQ: Yes (3 band)
-- Latency: 125ms
+- Bluetooth Latency: 125ms
 - Max Volume: 99db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes

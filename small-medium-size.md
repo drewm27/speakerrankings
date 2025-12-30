@@ -32,7 +32,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Latency: 400ms normal / 66ms low latency mode
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -63,7 +63,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 216ms ldac, 200ms aac, 116ms sbc
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes
@@ -95,7 +95,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 130ms
+- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
@@ -127,7 +127,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 150ms
+- Bluetooth Latency: 150ms
 - Max Volume: 99db
 - Party Mode: No
 - Power Bank: Yes
@@ -155,7 +155,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 13 hours
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Latency: 180ms
+- Bluetooth Latency: 180ms
 - Max Volume: 97db
 - Power Input: Micro USB
 - Stereo: Yes
@@ -182,7 +182,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bluetooth Codecs: AAC, SBC
 - EQ: Yes
 - IP Rating: Splash resistant
-- Latency: 60ms
+- Bluetooth Latency: 60ms
 - Max Volume: 106db
 - Power Bank: Yes
 - Power Input: USB-C
@@ -208,7 +208,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: Splash resistant
-- Latency: 60ms
+- Bluetooth Latency: 60ms
 - Max Volume: 105db
 - Power Bank: No
 - Power Input: Proprietary USB cable
@@ -286,7 +286,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 90ms
+- Bluetooth Latency: 90ms
 - Max Volume: 93db
 - Power Bank: No
 - Stereo: No
@@ -351,7 +351,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 116ms
+- Bluetooth Latency: 116ms
 - Max Volume: 98db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: No
@@ -528,7 +528,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 200ms
+- Bluetooth Latency: 200ms
 - Max Volume: 100db
 - Power Bank: No
 - Stereo: No
@@ -556,7 +556,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IPX7
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 99db
 - Power Bank: No
 - Stereo: Yes
@@ -606,7 +606,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - EQ: No
 - IP Rating: IPX7
-- Latency: 90ms
+- Bluetooth Latency: 90ms
 - Max Volume: 100db
 - MicroSD: Yes
 - Party Mode: No
@@ -628,7 +628,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - EQ: No
 - IP Rating: IPX7
-- Latency: 150ms
+- Bluetooth Latency: 150ms
 - Max Volume: 99db
 - MicroSD: Yes
 - Power Input: USB-C
@@ -668,7 +668,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
 - EQ: Yes (3 band)
-- Latency: 125ms
+- Bluetooth Latency: 125ms
 - Max Volume: 99db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
@@ -795,7 +795,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 16ms
 - Battery Life: 24 hours
 - EQ: Yes
-- Latency: SBC 233ms, AAC 240ms
+- Bluetooth Latency: SBC 233ms, AAC 240ms
 - Max Volume: 99db
 - Party Mode: Yes
 - Power Input: USB-C
@@ -840,7 +840,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Latency: 33ms
+- Bluetooth Latency: 33ms
 - Max Volume: 96db
 - Party Mode: Yes (Bose Party mode)
 - Power Input: USB-C
@@ -1117,7 +1117,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 47hz
 - Battery Life: 30 hours
 - EQ: Yes
-- Latency: 400ms aac, 200ms sbc
+- Bluetooth Latency: 400ms aac, 200ms sbc
 - Stereo: No
 - Weight: 1.45lbs / 657g
 - Reviews, Comparisons and Sound Samples
@@ -1138,7 +1138,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 54hz
 - Battery Life: 20 hours
-- Latency: 330ms
+- Bluetooth Latency: 330ms
 - Max Volume: 99db
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Bank: Yes
@@ -1165,7 +1165,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Peaks in the upper mids, low treble and a big peak in upper treble.
 - Bass Extension (-10dB): 52hz
 - Battery Life: 25 hours
-- Latency: 220ms
+- Bluetooth Latency: 220ms
 - Max Volume: 98db
 - Stereo: No
 - Weight: 1.28lbs / 581g
@@ -1202,7 +1202,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 60hz
 - Battery Life: 24 hours
 - EQ: Yes
-- Latency: 180ms
+- Bluetooth Latency: 180ms
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Stereo: Yes
@@ -1265,7 +1265,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Bass Extension (-10dB): 50hz
 - Battery Life: 24 hours
-- Latency: 110ms
+- Bluetooth Latency: 110ms
 - Max Volume: 97db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
@@ -1322,7 +1322,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
-- Latency: 200ms
+- Bluetooth Latency: 200ms
 - Max Volume: 92db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Weight: 1.19lbs / 540g
@@ -1339,7 +1339,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 66hz
 - Battery Life: 12 hours
-- Latency: 300ms
+- Bluetooth Latency: 300ms
 - Max Volume: 92db
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Input: Micro USB
@@ -1563,7 +1563,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 400ms AAC, 400ms SBC
+- Bluetooth Latency: 400ms AAC, 400ms SBC
 - Max Volume: 99db
 - Party Mode: Yes
 - Stereo: No (front/rear drivers)
@@ -1631,7 +1631,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 76hz
 - Battery Life: 14 hours
-- Latency: 166ms
+- Bluetooth Latency: 166ms
 - Max Volume: 87db
 - Power Input: Micro USB
 - Stereo: No
@@ -1742,7 +1742,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
-- Latency: 166ms
+- Bluetooth Latency: 166ms
 - Max Volume: 97db
 - Weight: 1.2lbs / 535g
 - Reviews, Comparisons and Sound Samples
@@ -1835,7 +1835,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Bass Extension (-10dB): 62hz
 - Battery Life: 30 hours
-- Latency: 80ms
+- Bluetooth Latency: 80ms
 - Max Volume: 88db
 - Party Mode: Yes (Marshall Stack)
 - Weight: 1.5lbs / 700g
@@ -1903,7 +1903,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - EQ: Yes
-- Latency: 80ms
+- Bluetooth Latency: 80ms
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Weight: 1.3lbs / 600g

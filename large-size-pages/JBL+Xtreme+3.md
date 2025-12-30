@@ -13,7 +13,7 @@ The JBL Xtreme 3 ranks #18 out of 75 total [Large Size Portable Bluetooth Speake
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 15 hours
-- Latency: 133ms
+- Bluetooth Latency: 133ms
 - Max Volume: 105db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes

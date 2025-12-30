@@ -18,7 +18,7 @@ The Tribit Stormbox Lava ranks #6 out of 75 total [Large Size Portable Bluetooth
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: 128ms AAC, 144ms SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

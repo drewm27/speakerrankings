@@ -17,7 +17,7 @@ The JBL Flip 6 ranks #12 out of 129 total [Medium Size Portable Bluetooth Speake
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 116ms
+- Bluetooth Latency: 116ms
 - Max Volume: 98db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: No

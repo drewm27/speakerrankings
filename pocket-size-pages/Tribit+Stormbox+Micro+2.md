@@ -18,7 +18,7 @@ The Tribit Stormbox Micro 2 ranks #1 out of 40 total [Small Size Portable Blueto
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 265ms
+- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)

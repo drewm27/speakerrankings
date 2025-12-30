@@ -15,7 +15,7 @@ The JBL Xtreme 4 ranks #37 out of 75 total [Large Size Portable Bluetooth Speake
 - Battery Life: 24 hours
 - EQ: Yes (5 band)
 - IP Rating: IP67
-- Latency: 220ms
+- Bluetooth Latency: 220ms
 - Max Volume: 106db
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes

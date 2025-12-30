@@ -15,7 +15,7 @@ The W-King H10 ranks #50 out of 70 total [Boombox Size Portable Bluetooth Speake
 - Bass Extension (-10dB): 54hz
 - Battery Life: 24 hours
 - IP Rating: None
-- Latency: 150ms
+- Bluetooth Latency: 150ms
 - Max Volume: 115db
 - MicroSD: Yes
 - Power Bank: Yes

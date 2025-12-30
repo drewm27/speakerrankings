@@ -12,7 +12,7 @@ The Sony SRS-XB43 ranks #41 out of 75 total [Large Size Portable Bluetooth Speak
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
-- Latency: 85ms
+- Bluetooth Latency: 85ms
 - Max Volume: 99db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes

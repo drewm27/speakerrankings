@@ -68,7 +68,7 @@ For something more reasonably priced get a [**$300 Audio Pro C5 MK II**](https:/
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - IP Rating: IP57
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 106db
 - Party Mode: Yes (Up to 8 speakers on wifi)
 - Power Input: AC Power brick

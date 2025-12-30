@@ -15,7 +15,7 @@ The Sony SRS-XB12 ranks #33 out of 40 total [Small Size Portable Bluetooth Speak
 - Battery Life: 16 hours
 - EQ: No
 - IP Rating: IP67
-- Latency: 240ms
+- Bluetooth Latency: 240ms
 - Max Volume: 93db
 - Party Mode: NoA
 - Power Bank: No

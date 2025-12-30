@@ -16,7 +16,7 @@ The Minirig mk4 with subwoofer ranks #2 out of 75 total [Large Size Portable Blu
 - Battery Life: 30 hours
 - EQ: yes
 - IP Rating: Splash resistant
-- Latency: 60ms
+- Bluetooth Latency: 60ms
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No

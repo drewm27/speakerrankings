@@ -12,7 +12,7 @@ The JBL Charge 4 ranks #51 out of 129 total [Medium Size Portable Bluetooth Spea
 - Aux Input: Yes
 - Bass Extension (-10dB): 54hz
 - Battery Life: 20 hours
-- Latency: 330ms
+- Bluetooth Latency: 330ms
 - Max Volume: 99db
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Bank: Yes

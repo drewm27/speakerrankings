@@ -20,7 +20,7 @@ The Earfun Uboom X ranks #1 out of 70 total [Boombox Size Portable Bluetooth Spe
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes

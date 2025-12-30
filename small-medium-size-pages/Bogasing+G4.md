@@ -16,7 +16,7 @@ The Bogasing G4 ranks #23 out of 129 total [Medium Size Portable Bluetooth Speak
 - Battery Life: 24 hours
 - EQ: No
 - IP Rating: IPX7
-- Latency: 90ms
+- Bluetooth Latency: 90ms
 - Max Volume: 100db
 - MicroSD: Yes
 - Party Mode: No

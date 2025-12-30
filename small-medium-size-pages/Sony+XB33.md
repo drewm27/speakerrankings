@@ -12,7 +12,7 @@ The Sony XB33 ranks #58 out of 129 total [Medium Size Portable Bluetooth Speaker
 - Aux Input: No
 - Bass Extension (-10dB): 50hz
 - Battery Life: 24 hours
-- Latency: 110ms
+- Bluetooth Latency: 110ms
 - Max Volume: 97db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes

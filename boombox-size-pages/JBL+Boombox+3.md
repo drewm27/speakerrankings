@@ -14,7 +14,7 @@ The JBL Boombox 3 ranks #19 out of 70 total [Boombox Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
 - IP Rating: IP67
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Input: AC Power cable

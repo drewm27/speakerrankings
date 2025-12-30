@@ -19,7 +19,7 @@ The Tribit Stormbox Blast ranks #2 out of 70 total [Boombox Size Portable Blueto
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 66ms
+- Bluetooth Latency: 66ms
 - Max Volume: 108db
 - Party Mode: No
 - Power Bank: Yes

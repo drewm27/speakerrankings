@@ -13,7 +13,7 @@ The JBL Flip 4 ranks #62 out of 129 total [Medium Size Portable Bluetooth Speake
 - Aux Input: Yes
 - Bass Extension (-10dB): 66hz
 - Battery Life: 12 hours
-- Latency: 300ms
+- Bluetooth Latency: 300ms
 - Max Volume: 92db
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Input: Micro USB

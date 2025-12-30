@@ -15,7 +15,7 @@ The Soundcore Motion X600 ranks #20 out of 75 total [Large Size Portable Bluetoo
 - Bass Extension (-10dB): 52hz
 - Battery Life: 12 hours
 - IP Rating: IPX7
-- Latency: 83ms
+- Bluetooth Latency: 83ms
 - Max Volume: 104db
 - Power Bank: Yes
 - Power Input: USB-C

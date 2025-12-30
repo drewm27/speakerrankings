@@ -20,7 +20,7 @@ The Earfun Uboom L ranks #1 out of 129 total [Medium Size Portable Bluetooth Spe
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Latency: 400ms normal / 66ms low latency mode
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No

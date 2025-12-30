@@ -19,7 +19,7 @@ The Soundcore Motion+ ranks #3 out of 129 total [Medium Size Portable Bluetooth 
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 130ms
+- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No

@@ -16,7 +16,7 @@ The Harman Kardon Onyx Studio 7 ranks #14 out of 70 total [Boombox Size Portable
 - Battery Life: 8 hours
 - Built in Microphone: No
 - IP Rating: None
-- Latency: 266ms
+- Bluetooth Latency: 266ms
 - Max Volume: 96db
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Input: AC Power brick

@@ -17,7 +17,7 @@ The Tribit Stormbox ranks #86 out of 129 total [Medium Size Portable Bluetooth S
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
-- Latency: 166ms
+- Bluetooth Latency: 166ms
 - Max Volume: 97db
 - Weight: 1.2lbs / 535g
 - Reviews, Comparisons and Sound Samples

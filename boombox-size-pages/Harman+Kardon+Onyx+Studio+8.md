@@ -16,7 +16,7 @@ The Harman Kardon Onyx Studio 8 ranks #11 out of 70 total [Boombox Size Portable
 - Battery Life: 8 hours
 - Built in Microphone: Yes
 - IP Rating: None
-- Latency: 175ms
+- Bluetooth Latency: 175ms
 - Max Volume: 96db
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)

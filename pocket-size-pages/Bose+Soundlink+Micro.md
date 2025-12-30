@@ -15,7 +15,7 @@ The Bose Soundlink Micro ranks #15 out of 40 total [Small Size Portable Bluetoot
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Latency: 50ms
+- Bluetooth Latency: 50ms
 - Max Volume: 90db
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No

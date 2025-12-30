@@ -24,7 +24,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 265ms
+- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -99,7 +99,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: 128ms AAC, 144ms SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -133,7 +133,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - IP Rating: IP57
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 106db
 - Party Mode: Yes (Up to 8 speakers on wifi)
 - Power Input: AC Power brick
@@ -163,7 +163,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes

@@ -30,7 +30,7 @@ The best [medium size](/small-medium-size/) battery powered speaker with a built
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Latency: 400ms normal / 66ms low latency mode
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -62,7 +62,7 @@ If you need a [medium size](/small-medium-size/) stereo and omnidirectional spea
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 216ms ldac, 200ms aac, 116ms sbc
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes
@@ -95,7 +95,7 @@ The best [medium size](/small-medium-size/) speaker with a built in microphone a
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 130ms
+- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
@@ -130,7 +130,7 @@ The best reasonably priced [large size](/large-size/) battery powered speaker fo
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: 128ms AAC, 144ms SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -168,7 +168,7 @@ The best [boombox size](/boombox-size/) battery powered speaker with a built in 
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes

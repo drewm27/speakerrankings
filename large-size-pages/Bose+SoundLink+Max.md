@@ -16,7 +16,7 @@ The Bose SoundLink Max ranks #17 out of 75 total [Large Size Portable Bluetooth 
 - Battery Life: 20 hours
 - Built in Microphone: No
 - IP Rating: IP67
-- Latency: 116ms
+- Bluetooth Latency: 116ms
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 tweeter)

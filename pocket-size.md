@@ -27,7 +27,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 265ms
+- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -111,7 +111,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Latency: 180ms
+- Bluetooth Latency: 180ms
 - Max Volume: 93db
 - Party Mode: No
 - Power Bank: No
@@ -177,7 +177,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 87db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: No
@@ -341,7 +341,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Latency: 50ms
+- Bluetooth Latency: 50ms
 - Max Volume: 90db
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
@@ -702,7 +702,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Battery Life: 16 hours
 - EQ: No
 - IP Rating: IP67
-- Latency: 240ms
+- Bluetooth Latency: 240ms
 - Max Volume: 93db
 - Party Mode: NoA
 - Power Bank: No

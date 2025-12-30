@@ -24,7 +24,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 265ms
+- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -65,7 +65,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Latency: 400ms normal / 66ms low latency mode
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -97,7 +97,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 216ms ldac, 200ms aac, 116ms sbc
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes
@@ -130,7 +130,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 130ms
+- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
@@ -165,7 +165,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: 128ms AAC, 144ms SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -203,7 +203,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -263,7 +263,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 66ms
+- Bluetooth Latency: 66ms
 - Max Volume: 108db
 - Party Mode: No
 - Power Bank: Yes
@@ -305,7 +305,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/top-recomme
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
 - IP Rating: None
-- Latency: 120ms
+- Bluetooth Latency: 120ms
 - Max Volume: 103db
 - Power Input: AC Power brick
 - Stereo: Yes

@@ -16,7 +16,7 @@ The Soundcore Motion Boom+ ranks #45 out of 70 total [Boombox Size Portable Blue
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
 - EQ: Yes
-- Latency: 33ms
+- Bluetooth Latency: 33ms
 - Max Volume: 108db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes

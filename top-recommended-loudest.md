@@ -22,7 +22,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Latency: 265ms
+- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -61,7 +61,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Bluetooth Codecs: AAC, SBC
 - EQ: Yes
 - IP Rating: Splash resistant
-- Latency: 60ms
+- Bluetooth Latency: 60ms
 - Max Volume: 106db
 - Power Bank: Yes
 - Power Input: USB-C
@@ -89,7 +89,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: 128ms AAC, 144ms SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -123,7 +123,7 @@ This page summarizes the loudest portable Bluetooth speakers out of the 371 rank
 - Battery Life: 28 hours
 - EQ: Yes (7 band)
 - IP Rating: IP68
-- Latency: AAC 144ms, SBC 48ms
+- Bluetooth Latency: AAC 144ms, SBC 48ms
 - Max Volume: 115db
 - Party Mode: Yes (Auracast)
 - Power Input: AC Power Cord

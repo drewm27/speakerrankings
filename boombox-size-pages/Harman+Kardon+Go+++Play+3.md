@@ -18,7 +18,7 @@ The Harman Kardon Go + Play 3 ranks #7 out of 70 total [Boombox Size Portable Bl
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
 - IP Rating: None
-- Latency: 120ms
+- Bluetooth Latency: 120ms
 - Max Volume: 103db
 - Power Input: AC Power brick
 - Stereo: Yes

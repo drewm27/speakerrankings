@@ -30,7 +30,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -89,7 +89,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Latency: 66ms
+- Bluetooth Latency: 66ms
 - Max Volume: 108db
 - Party Mode: No
 - Power Bank: Yes
@@ -188,7 +188,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - EQ: Yes (3 band)
 - IP Rating: IPX4
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: No
 - Power Bank: Yes
@@ -222,7 +222,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: No
 - EQ: Yes (3 band)
 - IP Rating: IPX4
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: No
 - Power Bank: Yes
@@ -248,7 +248,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
 - IP Rating: None
-- Latency: 120ms
+- Bluetooth Latency: 120ms
 - Max Volume: 103db
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -323,7 +323,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - IP Rating: IP57
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 106db
 - Party Mode: Yes (Up to 8 speakers on wifi)
 - Power Input: AC Power brick
@@ -348,7 +348,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 8 hours
 - Built in Microphone: Yes
 - IP Rating: None
-- Latency: 175ms
+- Bluetooth Latency: 175ms
 - Max Volume: 96db
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
@@ -371,7 +371,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 8 hours
 - Built in Microphone: No
 - IP Rating: IPX7
-- Latency: 180ms
+- Bluetooth Latency: 180ms
 - Max Volume: 96db
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Input: AC Power brick
@@ -416,7 +416,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 8 hours
 - Built in Microphone: No
 - IP Rating: None
-- Latency: 266ms
+- Bluetooth Latency: 266ms
 - Max Volume: 96db
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Input: AC Power brick
@@ -443,7 +443,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 28 hours
 - EQ: Yes (7 band)
 - IP Rating: IP68
-- Latency: AAC 144ms, SBC 48ms
+- Bluetooth Latency: AAC 144ms, SBC 48ms
 - Max Volume: 115db
 - Party Mode: Yes (Auracast)
 - Power Input: AC Power Cord
@@ -467,7 +467,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 40hz
 - Battery Life: 8 hours
 - IP Rating: None
-- Latency: 33ms
+- Bluetooth Latency: 33ms
 - Max Volume: 99db
 - Party Mode: Yes (up to 2 speakers)
 - Power Input: AC Power brick
@@ -534,7 +534,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
 - IP Rating: IP67
-- Latency: 100ms
+- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Input: AC Power cable
@@ -714,7 +714,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 46hz
 - Battery Life: 24 hours
 - IP Rating: IPX7
-- Latency: 140ms
+- Bluetooth Latency: 140ms
 - Max Volume: 108db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
@@ -805,7 +805,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 39hz
 - EQ: Yes
 - IP Rating: IPX6
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 111db
 - MicroSD: Yes
 - Power Bank: Yes
@@ -825,7 +825,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 43hz
 - Battery Life: 10 hours
 - IP Rating: IPX6
-- Latency: 66ms
+- Bluetooth Latency: 66ms
 - Max Volume: 112db
 - MicroSD: Yes
 - Power Bank: Yes
@@ -1076,7 +1076,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
 - EQ: Yes
-- Latency: 33ms
+- Bluetooth Latency: 33ms
 - Max Volume: 108db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
@@ -1140,7 +1140,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Latency: 160ms
+- Bluetooth Latency: 160ms
 - Max Volume: 110db
 - Microphone Input: Yes
 - Stereo: Partially
@@ -1174,7 +1174,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 54hz
 - Battery Life: 24 hours
 - IP Rating: None
-- Latency: 150ms
+- Bluetooth Latency: 150ms
 - Max Volume: 115db
 - MicroSD: Yes
 - Power Bank: Yes
@@ -1195,7 +1195,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 60hz
 - Battery Life: 42 hours
 - IP Rating: IPX6
-- Latency: 133ms
+- Bluetooth Latency: 133ms
 - Max Volume: 106db
 - MicroSD: Yes
 - Power Bank: Yes

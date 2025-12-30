@@ -14,7 +14,7 @@ The W-King T11 ranks #31 out of 70 total [Boombox Size Portable Bluetooth Speake
 - Bass Extension (-10dB): 43hz
 - Battery Life: 10 hours
 - IP Rating: IPX6
-- Latency: 66ms
+- Bluetooth Latency: 66ms
 - Max Volume: 112db
 - MicroSD: Yes
 - Power Bank: Yes

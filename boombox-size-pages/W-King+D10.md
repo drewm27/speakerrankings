@@ -14,7 +14,7 @@ The W-King D10 ranks #51 out of 70 total [Boombox Size Portable Bluetooth Speake
 - Bass Extension (-10dB): 60hz
 - Battery Life: 42 hours
 - IP Rating: IPX6
-- Latency: 133ms
+- Bluetooth Latency: 133ms
 - Max Volume: 106db
 - MicroSD: Yes
 - Power Bank: Yes
