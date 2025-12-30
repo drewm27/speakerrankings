@@ -7,11 +7,11 @@ cover-img: "/assets/img/neutral.jpg"
 
 This page covers background information about the rankings.
 
-### Information about Neutral Frequency Response
+## Information about Neutral Frequency Response
 
 If you are not an audiophile or aren't interested in speakers that can reproduce recordings and musical instruments to a high level of natural accuracy, then you may not agree with the ranking order in this document. Pop or EDM will generally sound fine with a lot of speakers. Instrumental music like Jazz or Classical will only sound natural on speakers with a flat frequency response. If you are only interested in bass boosted, treble boosted, or warm speakers, please search the descriptions of speakers for those traits and look for the ones with an adjustable EQ.
 
-### How These Rankings Were Assembled
+## How These Rankings Were Assembled
 
 This list is built from thousands of hours of video of the direct comparisons of speakers of trusted YouTube reviewers all spliced together into rankings by speaker size. It is ordered with the best speakers on top of each category with the selection criteria being natural/neutral sounding with reasonable bass extension and features. 80% of the speakers in this ranking have been ranked this way.
 
@@ -19,21 +19,21 @@ About 20% of the time when there are no direct comparisons, I've done my best to
 
 Adjusting for microphone frequency response issues outside of well recorded audio like [Oluv](https://www.patreon.com/oluvsone/) or [Alan Ross](https://www.youtube.com/@alanrossreviews) is quite difficult. I first need a sound sample of a speaker I know extremely well and then compensate in my head for what the microphone is doing to frequency response based on what I know the speaker should sound like and then analyze the other speaker in question with that same frequency compensation. It’s not easy and it means a lot of videos I can’t use beyond just analyzing bass extension.
 
-### Maximum Volume and Bass Extension Measurements
+## Maximum Volume and Bass Extension Measurements
 
 All max volume measurements are at 1m, all bass extension measurements are at a -10db falloff and taken from frequency response charts and data from YouTube reviews and rtings. If you see a ~ that’s me estimating bass extension off the music because there’s no frequency response chart anywhere. Higher max volume and lower bass extension are better.
 
-### External Help
+## External Help
 
 If you can’t find the speaker comparison you’re looking for, search [YouTube](https://www.youtube.com/) for it.
 
-### Technical Articles
+## Technical Articles
 
 - [Designing Bluetooth Speakers](/designing-bluetooth-speakers/)
 - [Designing Powered Bookshelf Speakers](/designing-powered-bookshelf-speakers/)
 - [How Room Acoustics Affects Speakers](/how-room-acoustics-affects-speakers/)
 
-### Other Articles
+## Other Articles
 
 - [Exploring SummarizeReviews.com](/summarize-reviews/)
 - [Bookshelf Non Battery Speakers](/bookshelf-non-battery/)

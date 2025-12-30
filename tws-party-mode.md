@@ -9,11 +9,11 @@ True Wireless Stereo (TWS) and party modes are popular features in Bluetooth spe
 
 All speakers in the rankings are [labeled with the technology they support](/#all-portable-bluetooth-speakers-ranked). Search using ctl-f for "TWS: Yes" or "Party Mode: Yes" or the specific technology name to find them.
 
-### True Wireless Stereo (TWS)
+## True Wireless Stereo (TWS)
 
 Almost all of the speakers can wirelessly stereo pair (referred to as TWS) with the same model speaker for 6db more output and wide stereo separation.
 
-### Party Mode
+## Party Mode
 
 JBL (Harmon) has [Auracast, Connect+ or Partyboost](https://uk.jbl.com/blog/connect-jbl-speakers.html) (not compatible) up to 100 speakers
 
@@ -35,14 +35,14 @@ Samsung has [Giga Party](https://www.samsung.com/us/support/answer/ANS00086422/)
 
 LG Xboom has [Auracast](https://www.bluetooth.com/auracast/)
 
-### Auracast 
+## Auracast 
 
 [Auracast](https://www.bluetooth.com/auracast/) is a way to do party mode across different manufacturers of speakers. Currently it is supported in very new JBL and LG Bluetooth devices. It is currently unknown if there are compatibility issues across speaker manufacturers.
 
-### Speakers That Remember Their Pairing
+## Speakers That Remember Their Pairing
 
 Earfun, Soundcore and Tribit speakers will remember their pairing after being turned off. JBL, Bose and Sony speakers will not remember their pairing after being turned off.
 
-### Issues
+## Issues
 
 Some of these multi speaker technologies may not work if you have a Bluetooth 4.x or less device like some laptops. 

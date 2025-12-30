@@ -7,7 +7,7 @@ cover-img: "/assets/img/deltamini.jpg"
 
 A Portable Power Station or power bank can give a battery or non-battery speaker the ability to run disconnected or play longer. If you need more runtime out of your portable speaker, you will probably want to pick up a Portable Power Station or power bank depending on your battery size needs.
 
-### Power Stations for speakers that need AC or USB
+## Power Stations for speakers that need AC or USB
 
 If you need to power speakers over AC, make sure the Power Station you are choosing can handle the wattage of your speaker plus 25%. For very big speakers that will be around 1500w. Not doing so will cause your power station to shut down entirely or sag causing audible clipping.
 
@@ -23,7 +23,7 @@ All of the companies below make very reliable power stations
 1. [Anker Solix](https://www.amazon.com/s?k=anker+solix&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=22e798e437ff17c2e641f0363cea1c19&camp=1789&creative=9325)
 
 
-### Smaller Power Banks for speakers that need USB
+## Smaller Power Banks for speakers that need USB
 
 For certain "boombox size" and all "large size" and smaller speakers that charge over USB you can use a power bank depending on the run time you want out of your speaker.
 
