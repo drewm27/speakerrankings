@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Top Portable Bluetooth and Home Speakers 2025"
+title: "Top Portable Bluetooth and Home Speaker Rankings & Reviews"
 cover-img: "/assets/img/homeimage.jpg"
 share-description: "Passive, Powered and Portable Bluetooth speakers sorted by sound quality, affordability, bass, and more. Unbiased expert rankings and audio insights."
 
