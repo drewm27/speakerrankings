@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Speaker Ranking: Portable Bluetooth and Home Speakers"
+title: "Top Portable Bluetooth and Home Speakers 2025"
 cover-img: "/assets/img/homeimage.jpg"
 share-description: "Passive, Powered and Portable Bluetooth speakers sorted by sound quality, affordability, bass, and more. Unbiased expert rankings and audio insights."
 
@@ -31,8 +31,8 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Best Portable Bluetooth Speakers With Wireless Mic](/top-recommended-wireless-microphone/)
 - [Best Portable Bluetooth Speakers With SD Card Slot](/top-recommended-sdcard/)
 - [Loudest Portable Bluetooth Party Speakers](/portable-party-speakers/)
-- [Best Powered Floorstanding and Bookshelf Speakers](/powered-top-recommended/)
-- [Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
+- [Best Powered Home Bookshelf Speakers](/powered-top-recommended/)
+- [Best Home Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 - [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 
 ## All Portable Bluetooth Speakers Ranked
