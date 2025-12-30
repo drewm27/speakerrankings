@@ -15,6 +15,8 @@ Also check out [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
+
+## Medium Size Powered Bookshelf Speakers Ranked
 ### #1 [Neumann KH120 MKII](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1898515-REG/neumann_kh_120_ii_powered.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH120+MKII)]: $2000 a pair
 - Positives: The top rated speaker in this category. Amazingly flat frequency response, fantastic off axis. Bass extension is quite good for this size.
 - Negatives: High price
