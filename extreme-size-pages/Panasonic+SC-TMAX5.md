@@ -7,7 +7,7 @@ share-description: "The Panasonic SC-TMAX5 ranks #40 out of 48 total Party Size 
 
 The Panasonic SC-TMAX5 ranks #40 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #40 Panasonic SC-TMAX5
+## #40 Panasonic SC-TMAX5
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
 - Aux Input: Yes

@@ -7,7 +7,7 @@ share-description: "The Ascend Sierra 1 v2 ranks #2 out of 21 total Medium Size 
 
 The Ascend Sierra 1 v2 ranks #2 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #2 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair) [[Ascendacoustics](https://ascendacoustics.com/products/sierra-1-v2-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Ascend+Sierra+1+v2)]: $1000
+## #2 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair) [[Ascendacoustics](https://ascendacoustics.com/products/sierra-1-v2-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Ascend+Sierra+1+v2)]: $1000
 - Positives: An extremely neutral response
 - Negatives: Sensitivity is quite low, not great for loud listening and needs lots of amp power
 - Bass Extension (-10dB): 39hz

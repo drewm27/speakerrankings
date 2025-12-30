@@ -7,7 +7,7 @@ share-description: "The Fosi Audio SP601 ranks #46 out of 48 total Large Size Bo
 
 The Fosi Audio SP601 ranks #46 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #46 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400
+## #46 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
 - Tweeter: 1.5" silk dome tweeter
 - Woofer: 7" rubber surround PP cone

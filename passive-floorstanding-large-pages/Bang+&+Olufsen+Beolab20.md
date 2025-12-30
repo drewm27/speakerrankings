@@ -7,7 +7,7 @@ share-description: "The Bang & Olufsen Beolab20 ranks #14 out of 26 total Large 
 
 The Bang & Olufsen Beolab20 ranks #14 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #14 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
+## #14 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - Bass Extension (-3dB): 20hz

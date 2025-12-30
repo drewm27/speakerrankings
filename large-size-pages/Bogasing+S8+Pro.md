@@ -7,7 +7,7 @@ share-description: "The Bogasing S8 Pro ranks #60 out of 75 total Large Size Por
 
 The Bogasing S8 Pro ranks #60 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #60 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl)]: $152
+## #60 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl)]: $152
 - Positives: Use "vocal" mode for the flattest response, still not great.
 - Negatives: Huge treble peaks in most sound modes, sounds sizzling and harsh.
 - Aux Input: Yes

@@ -7,7 +7,7 @@ share-description: "The JBL Pulse 5 ranks #43 out of 129 total Medium Size Porta
 
 The JBL Pulse 5 ranks #43 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #43 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325)]: $250
+## #43 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325)]: $250
 - Positives: Cool light show, although not synced to the music like the Pulse 2.
 - Negatives: Not quite as deep bass as others. Plastic scratches easily.
 - App: Yes

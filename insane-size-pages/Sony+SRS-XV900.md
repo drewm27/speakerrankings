@@ -7,7 +7,7 @@ share-description: "The Sony SRS-XV900 ranks #9 out of 9 total Large Party Size 
 
 The Sony SRS-XV900 ranks #9 out of 9 total [Large Party Size Portable Bluetooth Speakers](/insane-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #9 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325)]: $900
+## #9 [Sony SRS-XV900](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Hour-Battery-Omnidirectional-Sound/dp/B0BDTFDB1M/ref=sr_1_fkmr0_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fe34568e0316851b8b27309bdbe3fd6&camp=1789&creative=9325)]: $900
 - Positives: Can get slightly louder than a Partybox 310. Handle and wheels are convenient.
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page
 - App: Yes

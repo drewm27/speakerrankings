@@ -7,7 +7,7 @@ share-description: "The Altec Lansing AL500 ranks #47 out of 48 total Party Size
 
 The Altec Lansing AL500 ranks #47 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #47 Altec Lansing AL500: $200
+## #47 Altec Lansing AL500: $200
 - Negatives: Not very deep bass
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz

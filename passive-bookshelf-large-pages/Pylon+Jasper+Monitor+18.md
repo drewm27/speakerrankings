@@ -7,7 +7,7 @@ share-description: "The Pylon Jasper Monitor 18 ranks #38 out of 48 total Large 
 
 The Pylon Jasper Monitor 18 ranks #38 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #38 [Pylon Jasper Monitor 18](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18) [[Used Listings](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18)]
+## #38 [Pylon Jasper Monitor 18](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18) [[Used Listings](https://www.hifizero.com/index.php?q=Pylon+Jasper+Monitor+18)]
 - Negatives: 3dB boosted bass at 80hz, 2dB dipped midrange from 300-500hz. Slight resonance around 800hz. Vertical off axis isn't great
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)

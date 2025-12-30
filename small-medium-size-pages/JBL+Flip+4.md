@@ -7,7 +7,7 @@ share-description: "The JBL Flip 4 ranks #62 out of 129 total Medium Size Portab
 
 The JBL Flip 4 ranks #62 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #62 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325)]: $70
+## #62 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325)]: $70
 - Positives: Less bass than a Flip 5. Peaky lower treble.
 - Negatives: Battery failures are common.
 - Aux Input: Yes

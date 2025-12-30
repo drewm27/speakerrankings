@@ -7,7 +7,7 @@ share-description: "The Doss Soundbox ranks #122 out of 129 total Medium Size Po
 
 The Doss Soundbox ranks #122 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #122 Doss Soundbox
+## #122 Doss Soundbox
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Aux Input: Yes
 - Bass Extension (-10dB): 140hz

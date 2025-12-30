@@ -7,7 +7,7 @@ share-description: "The Braven XXL 2 ranks #62 out of 70 total Boombox Size Port
 
 The Braven XXL 2 ranks #62 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #62 Braven XXL 2: $350
+## #62 Braven XXL 2: $350
 - Negatives: Not very deep bass. Very heavy
 - Aux Input: Yes
 - Battery Life: 18 hours

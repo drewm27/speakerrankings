@@ -7,7 +7,7 @@ share-description: "The JBL Partybox 1000 ranks #2 out of 9 total Large Party Si
 
 The JBL Partybox 1000 ranks #2 out of 9 total [Large Party Size Portable Bluetooth Speakers](/insane-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #2 [JBL Partybox 1000](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325)]: $949
+## #2 [JBL Partybox 1000](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325)]: $949
 - Positives: Handle and wheels are convenient. Right up there with the Partybox Ultimate, this was the previous speaker in that size. A better value than the Partybox Ultimate. Nice waterfall lightshow.
 - Negatives: Very large and heavy. No battery. No app. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No

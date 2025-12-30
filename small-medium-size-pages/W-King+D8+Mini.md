@@ -7,7 +7,7 @@ share-description: "The W-King D8 Mini ranks #99 out of 129 total Medium Size Po
 
 The W-King D8 Mini ranks #99 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #99 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
+## #99 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz

@@ -7,7 +7,7 @@ share-description: "The Marshall Middleton ranks #31 out of 75 total Large Size 
 
 The Marshall Middleton ranks #31 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #31 [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325)]: $236
+## #31 [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325)]: $236
 - Positives: Very deep bass for the size/weight.
 - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall's added dsp echo which cannot be turned off, very distracting and annoying. It's like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
 - Aux Input: Yes

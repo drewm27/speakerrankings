@@ -7,7 +7,7 @@ share-description: "The Minirig 2 ranks #8 out of 129 total Medium Size Portable
 
 The Minirig 2 ranks #8 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #8 Minirig 2: $140
+## #8 Minirig 2: $140
 - Positives: Modular, can easily attach a subwoofer.
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes

@@ -7,7 +7,7 @@ share-description: "The Tronsmart Element Force ranks #48 out of 129 total Mediu
 
 The Tronsmart Element Force ranks #48 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #48 Tronsmart Element Force: $66
+## #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz

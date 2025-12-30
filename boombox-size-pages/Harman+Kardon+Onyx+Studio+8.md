@@ -7,7 +7,7 @@ share-description: "The Harman Kardon Onyx Studio 8 ranks #11 out of 70 total Bo
 
 The Harman Kardon Onyx Studio 8 ranks #11 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #11 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325)]: $155
+## #11 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325)]: $155
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others. No water rating.
 - Aux Input: Yes

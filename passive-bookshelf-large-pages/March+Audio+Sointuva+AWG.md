@@ -7,7 +7,7 @@ share-description: "The March Audio Sointuva AWG ranks #3 out of 48 total Large 
 
 The March Audio Sointuva AWG ranks #3 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #3 [March Audio Sointuva AWG](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/) [[Marchaudio](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)] [[Used Listings](https://www.hifizero.com/index.php?q=March+Audio+Sointuva+AWG)]: $4150
+## #3 [March Audio Sointuva AWG](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/) [[Marchaudio](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)] [[Used Listings](https://www.hifizero.com/index.php?q=March+Audio+Sointuva+AWG)]: $4150
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Very deep bass for the size
 - Negatives: Sensitivity is pretty low.
 - Bass Extension (-10dB): 30hz

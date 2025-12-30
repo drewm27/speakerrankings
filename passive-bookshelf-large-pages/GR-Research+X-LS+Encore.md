@@ -7,7 +7,7 @@ share-description: "The GR-Research X-LS Encore ranks #28 out of 48 total Large 
 
 The GR-Research X-LS Encore ranks #28 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #28 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/) [[Gr-research](https://gr-research.com/product/xls-encore/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+X-LS+Encore)]: $1300
+## #28 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/) [[Gr-research](https://gr-research.com/product/xls-encore/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+X-LS+Encore)]: $1300
 - Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 64hz

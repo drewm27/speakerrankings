@@ -7,7 +7,7 @@ share-description: "The JBL Partybox 100 ranks #4 out of 48 total Party Size Por
 
 The JBL Partybox 100 ranks #4 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #4 [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325)]: $260
+## #4 [JBL Partybox 100](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Portable-Wireless-Bluetooth/dp/B07VHTF419/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=429b5a08ffd354f029ceca7aeca05a8a&camp=1789&creative=9325)]: $260
 - Positives: Quite neutral sound, pretty deep bass.
 - Negatives: A slight peak in the upper mids. Slight TWS issue where the 2nd is slightly delayed. Just as loud and slightly deeper bass than a Stormbox Blast which is way smaller with better sound quality. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No

@@ -7,7 +7,7 @@ share-description: "The JBL Boombox 3 Wifi ranks #18 out of 70 total Boombox Siz
 
 The JBL Boombox 3 Wifi ranks #18 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #18 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
+## #18 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
 - Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
 - Negatives: Bass boosted. Dip at 160hz
 - Aux Input: No

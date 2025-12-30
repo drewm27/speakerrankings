@@ -7,7 +7,7 @@ share-description: "The Hifuture Soundpro ranks #94 out of 129 total Medium Size
 
 The Hifuture Soundpro ranks #94 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #94 Hifuture Soundpro
+## #94 Hifuture Soundpro
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight: 1.1lbs / 500g
 - Reviews, Comparisons and Sound Samples

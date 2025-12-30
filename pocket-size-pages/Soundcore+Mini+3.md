@@ -7,7 +7,7 @@ share-description: "The Soundcore Mini 3 ranks #7 out of 40 total Small Size Por
 
 The Soundcore Mini 3 ranks #7 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #7 [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325)]: $41
+## #7 [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325)]: $41
 - Positives: Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes

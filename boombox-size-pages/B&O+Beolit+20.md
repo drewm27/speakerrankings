@@ -7,7 +7,7 @@ share-description: "The B&O Beolit 20 ranks #28 out of 70 total Boombox Size Por
 
 The B&O Beolit 20 ranks #28 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #28 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
+## #28 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
 - Positives: Wireless phone charging.
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
 - App: Yes

@@ -7,7 +7,7 @@ share-description: "The Orange Box ranks #64 out of 75 total Large Size Portable
 
 The Orange Box ranks #64 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #64 Orange Box: £275
+## #64 Orange Box: £275
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
 - Aux Input: Yes
 - Battery Life: 15 hours

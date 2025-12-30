@@ -7,7 +7,7 @@ share-description: "The Fugoo Sport ranks #37 out of 129 total Medium Size Porta
 
 The Fugoo Sport ranks #37 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #37 [Fugoo Sport](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325)]: $33
+## #37 [Fugoo Sport](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325)]: $33
 - Positives: Pretty neutral sound, slight upper mids peaks
 - Battery Life: 10 hours
 - IP Rating: IP67

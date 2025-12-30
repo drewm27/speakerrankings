@@ -7,7 +7,7 @@ share-description: "The JBL Studio 530 ranks #8 out of 21 total Medium Size Book
 
 The JBL Studio 530 ranks #8 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #8 [JBL Studio 530](https://www.hifizero.com/index.php?q=JBL+Studio+530) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+530)]
+## #8 [JBL Studio 530](https://www.hifizero.com/index.php?q=JBL+Studio+530) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+530)]
 - Positives: Smooth frequency response besides the treble drop off way up high
 - Negatives: Some stored energy resonances at a bunch of frequencies
 - Reviews, Comparisons and Sound Samples

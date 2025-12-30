@@ -7,7 +7,7 @@ share-description: "The LG PN7 ranks #61 out of 75 total Large Size Portable Blu
 
 The LG PN7 ranks #61 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #61 LG PN7: $150
+## #61 LG PN7: $150
 - Negatives: No deep bass
 - Aux Input: Yes
 - Battery Life: 24 hours

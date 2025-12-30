@@ -7,7 +7,7 @@ share-description: "The Ultimate Ears Roll 2 ranks #116 out of 129 total Medium 
 
 The Ultimate Ears Roll 2 ranks #116 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #116 Ultimate Ears Roll 2: $100
+## #116 Ultimate Ears Roll 2: $100
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Battery Life: 9 hours
 - Weight: 0.73lbs / 330g

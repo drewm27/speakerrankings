@@ -7,7 +7,7 @@ share-description: "The Sony SRS-XB43 ranks #41 out of 75 total Large Size Porta
 
 The Sony SRS-XB43 ranks #41 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #41 Sony SRS-XB43: $150
+## #41 Sony SRS-XB43: $150
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz

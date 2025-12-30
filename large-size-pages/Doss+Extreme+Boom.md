@@ -7,7 +7,7 @@ share-description: "The Doss Extreme Boom ranks #73 out of 75 total Large Size P
 
 The Doss Extreme Boom ranks #73 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #73 Doss Extreme Boom
+## #73 Doss Extreme Boom
 - Negatives: Rolled off treble, barely any bass
 - Aux Input: Yes
 - Bass Extension (-10dB): 65hz

@@ -7,7 +7,7 @@ share-description: "The Minirig Mini ranks #3 out of 40 total Small Size Portabl
 
 The Minirig Mini ranks #3 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #3 Minirig Mini: $100
+## #3 Minirig Mini: $100
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
 - App: Yes

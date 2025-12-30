@@ -7,7 +7,7 @@ share-description: "The Xdobo X8 ranks #112 out of 129 total Medium Size Portabl
 
 The Xdobo X8 ranks #112 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #112 Xdobo X8: $35
+## #112 Xdobo X8: $35
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz

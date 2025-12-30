@@ -7,7 +7,7 @@ share-description: "The Xiaomi Sound Party ranks #19 out of 129 total Medium Siz
 
 The Xiaomi Sound Party ranks #19 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #19 Xiaomi Sound Party
+## #19 Xiaomi Sound Party
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
 - Negatives: Bass can sound slightly thuddy at high volume
 - App: Yes

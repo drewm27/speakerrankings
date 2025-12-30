@@ -7,7 +7,7 @@ share-description: "The Minirig mk3 with subwoofer ranks #3 out of 75 total Larg
 
 The Minirig mk3 with subwoofer ranks #3 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #3 [Minirig mk3 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $260
+## #3 [Minirig mk3 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $260
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes

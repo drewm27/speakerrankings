@@ -7,7 +7,7 @@ share-description: "The Teufel Rockster XS ranks #31 out of 129 total Medium Siz
 
 The Teufel Rockster XS ranks #31 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #31 Teufel Rockster XS: €180
+## #31 Teufel Rockster XS: €180
 - Positives: A good sounding speaker.
 - Negatives: Not quite as deep of bass as others. Only available in Europe.
 - Aux Input: Yes

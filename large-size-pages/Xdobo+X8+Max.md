@@ -7,7 +7,7 @@ share-description: "The Xdobo X8 Max ranks #55 out of 75 total Large Size Portab
 
 The Xdobo X8 Max ranks #55 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #55 Xdobo X8 Max: $73
+## #55 Xdobo X8 Max: $73
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz

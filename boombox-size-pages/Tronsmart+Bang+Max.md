@@ -7,7 +7,7 @@ share-description: "The Tronsmart Bang Max ranks #30 out of 70 total Boombox Siz
 
 The Tronsmart Bang Max ranks #30 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #30 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325)]: $180
+## #30 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325)]: $180
 - Positives: Quite deep bass for the size and money.
 - Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
 - App: Yes

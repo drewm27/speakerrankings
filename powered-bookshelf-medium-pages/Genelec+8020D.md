@@ -7,7 +7,7 @@ share-description: "The Genelec 8020D ranks #3 out of 24 total Medium Size Power
 
 The Genelec 8020D ranks #3 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #3 [Genelec 8020D](https://guitar-center.pxf.io/LXvYqj) [[Guitar-center](https://guitar-center.pxf.io/LXvYqj)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8020D)]: $1100 a pair
+## #3 [Genelec 8020D](https://guitar-center.pxf.io/LXvYqj) [[Guitar-center](https://guitar-center.pxf.io/LXvYqj)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8020D)]: $1100 a pair
 - Positives: Slightly better than the HS5 for neutrality with deeper bass.
 - Negatives: High price
 - Dimensions: 9.5"H x 5.8"W x 5.6"D

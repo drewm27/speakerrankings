@@ -7,7 +7,7 @@ share-description: "The Dutch & Dutch 8C ranks #1 out of 21 total Large Size Pow
 
 The Dutch & Dutch 8C ranks #1 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #1 [Dutch & Dutch 8C](https://tidepoolaudio.com/products/dutch-dutch-8c-studio-active-monitor-speaker-pair) [[Tidepoolaudio](https://tidepoolaudio.com/products/dutch-dutch-8c-studio-active-monitor-speaker-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dutch+%26+Dutch+8C)]: $13000
+## #1 [Dutch & Dutch 8C](https://tidepoolaudio.com/products/dutch-dutch-8c-studio-active-monitor-speaker-pair) [[Tidepoolaudio](https://tidepoolaudio.com/products/dutch-dutch-8c-studio-active-monitor-speaker-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dutch+%26+Dutch+8C)]: $13000
 - Positives: Some of the deepest bass you will find anywhere from a reasonably sized bookshelf speaker. Performs like a big floorstander. Very smooth frequency response
 - Negatives: Vertical off-axis is just okay due to the distance between the midrange and tweeter
 - Bass Extension (-10dB): <20hz

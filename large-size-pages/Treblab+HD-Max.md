@@ -7,7 +7,7 @@ share-description: "The Treblab HD-Max ranks #66 out of 75 total Large Size Port
 
 The Treblab HD-Max ranks #66 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #66 [Treblab HD-Max](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl)]: $135
+## #66 [Treblab HD-Max](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl)]: $135
 - Negatives: Boosted upper bass, not much lower bass. Only IPX6 water rating
 - Bass Extension: ~60hz
 - Battery Life: 20 hours

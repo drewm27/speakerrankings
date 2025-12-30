@@ -7,7 +7,7 @@ share-description: "The Wharfedale Super Linton ranks #16 out of 48 total Large 
 
 The Wharfedale Super Linton ranks #16 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #16 [Wharfedale Super Linton](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Super+Linton)]: $3000 a pair
+## #16 [Wharfedale Super Linton](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Super+Linton)]: $3000 a pair
 - Positives: Designed for closer wall placement with the leg on the bass frequency response. Better dynamic range in the bass than the old Linton
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 77hz

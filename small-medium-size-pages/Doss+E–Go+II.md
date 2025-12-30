@@ -7,7 +7,7 @@ share-description: "The Doss E–Go II ranks #124 out of 129 total Medium Size P
 
 The Doss E–Go II ranks #124 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #124 Doss E–Go II
+## #124 Doss E–Go II
 - Negatives: Horribly bad unless turned up, still not great
 - Aux Input: Yes
 - Bass Extension (-10dB): 120hz

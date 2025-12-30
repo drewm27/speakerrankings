@@ -7,7 +7,7 @@ share-description: "The B&O Beosound 1 ranks #34 out of 48 total Party Size Port
 
 The B&O Beosound 1 ranks #34 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #34 B&O Beosound 1: $2000
+## #34 B&O Beosound 1: $2000
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Aux Input: Yes
 - Bass Extension (-10dB): ~53hz

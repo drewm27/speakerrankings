@@ -7,7 +7,7 @@ share-description: "The Denon Envaya DSB-250BT ranks #5 out of 129 total Medium 
 
 The Denon Envaya DSB-250BT ranks #5 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #5 Denon Envaya DSB-250BT: $250
+## #5 Denon Envaya DSB-250BT: $250
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Aux Input: Yes

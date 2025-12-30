@@ -7,7 +7,7 @@ share-description: "The Mofi SourcePoint 10 ranks #8 out of 48 total Large Size 
 
 The Mofi SourcePoint 10 ranks #8 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #8 [Mofi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
+## #8 [Mofi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Negatives: Will need to be listened to off-axis, bright up top directly on axis
 - Bass Extension (-10dB): 38hz

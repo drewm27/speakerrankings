@@ -7,7 +7,7 @@ share-description: "The Bumpboxx Flare 6 ranks #54 out of 70 total Boombox Size 
 
 The Bumpboxx Flare 6 ranks #54 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #54 Bumpboxx Flare 6: $300
+## #54 Bumpboxx Flare 6: $300
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - Battery Life: 12 hours

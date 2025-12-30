@@ -7,7 +7,7 @@ share-description: "The Harman Kardon Esquire Mini 2 ranks #36 out of 40 total S
 
 The Harman Kardon Esquire Mini 2 ranks #36 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #36 Harman Kardon Esquire Mini 2: $100
+## #36 Harman Kardon Esquire Mini 2: $100
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - App: No
 - Aux Input: Yes

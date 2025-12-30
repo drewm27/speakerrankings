@@ -7,7 +7,7 @@ share-description: "The Zealot S97 ranks #45 out of 75 total Large Size Portable
 
 The Zealot S97 ranks #45 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #45 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
+## #45 [Zealot S97](https://s.click.aliexpress.com/e/_c3t2EHtH) [[Aliexpress](https://s.click.aliexpress.com/e/_c3t2EHtH)]: $48 with coupon YZZL10
 - Positives: There is nothing else for $48 with that deep of bass and a reasonable tuning
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
 - App: No

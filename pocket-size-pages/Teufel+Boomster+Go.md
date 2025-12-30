@@ -7,7 +7,7 @@ share-description: "The Teufel Boomster Go ranks #5 out of 40 total Small Size P
 
 The Teufel Boomster Go ranks #5 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #5 Teufel Boomster Go: 80€
+## #5 Teufel Boomster Go: 80€
 - Positives: Pretty deep bass and quite balanced overall for the size.
 - Battery Life: 10 hours
 - IP Rating: IPX7

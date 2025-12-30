@@ -7,7 +7,7 @@ share-description: "The Wisetiger P3 ranks #16 out of 129 total Medium Size Port
 
 The Wisetiger P3 ranks #16 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #16 [Wisetiger P3](https://s.click.aliexpress.com/e/_c3Auku4T) [[Aliexpress](https://s.click.aliexpress.com/e/_c3Auku4T)]: $38
+## #16 [Wisetiger P3](https://s.click.aliexpress.com/e/_c3Auku4T) [[Aliexpress](https://s.click.aliexpress.com/e/_c3Auku4T)]: $38
 - Positives: Exactly the same as the Miatone Boompro above. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
 - Negatives: Slightly less bass extension than higher ranked speakers.
 - App: No

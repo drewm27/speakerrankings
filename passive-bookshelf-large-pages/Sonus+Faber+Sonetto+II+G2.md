@@ -7,7 +7,7 @@ share-description: "The Sonus Faber Sonetto II G2 ranks #40 out of 48 total Larg
 
 The Sonus Faber Sonetto II G2 ranks #40 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #40 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5) [[Crutchfield](https://sovrn.co/kesxoj5)] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
+## #40 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5) [[Crutchfield](https://sovrn.co/kesxoj5)] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
 - Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz. Not recommended for the price
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 62hz

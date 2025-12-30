@@ -7,7 +7,7 @@ share-description: "The Bose Soundlink Revolve ranks #49 out of 129 total Medium
 
 The Bose Soundlink Revolve ranks #49 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #49 Bose Soundlink Revolve: $180
+## #49 Bose Soundlink Revolve: $180
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
 - Aux Input: Yes
 - Bass Extension (-10dB): 60hz

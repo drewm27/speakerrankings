@@ -7,7 +7,7 @@ share-description: "The Arendal 1528 Monitor 8 ranks #15 out of 48 total Large S
 
 The Arendal 1528 Monitor 8 ranks #15 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #15 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/) [[Arendalsound](https://arendalsound.com/product/1528-monitor-8/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1528+Monitor+8)]: $6000 a pair
+## #15 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/) [[Arendalsound](https://arendalsound.com/product/1528-monitor-8/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1528+Monitor+8)]: $6000 a pair
 - Positives: Fantastic bass extension for a bookshelf
 - Negatives: Very large and heavy. A 3dB midbass dip from 100-170hz, 3dB dip at 800hz
 - Bass Extension (-10dB): 26hz

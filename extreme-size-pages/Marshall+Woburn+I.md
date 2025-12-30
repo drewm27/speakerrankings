@@ -7,7 +7,7 @@ share-description: "The Marshall Woburn I ranks #31 out of 48 total Party Size P
 
 The Marshall Woburn I ranks #31 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #31 Marshall Woburn I: $500
+## #31 Marshall Woburn I: $500
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz

@@ -7,7 +7,7 @@ share-description: "The Bogasing M5 ranks #53 out of 129 total Medium Size Porta
 
 The Bogasing M5 ranks #53 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
+## #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
 - Negatives: Front/rear driver configuration. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Aux Input: Yes
 - Bass Extension (-10dB): 61hz

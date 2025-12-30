@@ -7,7 +7,7 @@ share-description: "The JBL Flip Essential ranks #65 out of 129 total Medium Siz
 
 The JBL Flip Essential ranks #65 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #65 JBL Flip Essential: $130
+## #65 JBL Flip Essential: $130
 - Negatives: Less bass than a Flip 5.
 - App: No
 - Battery Life: 10 hours

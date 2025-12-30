@@ -7,7 +7,7 @@ share-description: "The AsciLab C6B ranks #4 out of 48 total Large Size Bookshel
 
 The AsciLab C6B ranks #4 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)] [[Used Listings](https://www.hifizero.com/index.php?q=AsciLab+C6B)]: $1145
+## #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)] [[Used Listings](https://www.hifizero.com/index.php?q=AsciLab+C6B)]: $1145
 - Positives: Extremely good directivity and frequency response, and just an insane value for the price.
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 54hz

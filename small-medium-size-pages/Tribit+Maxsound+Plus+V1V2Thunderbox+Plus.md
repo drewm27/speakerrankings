@@ -7,7 +7,7 @@ share-description: "The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks #21 out
 
 The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks #21 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #21 [Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325)]: $50
+## #21 [Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325)]: $50
 - Positives: Use Xbass mode for flattest frequency response. V1/V2/Thunderbox Plus sound exactly the same.
 - Negatives: Slightly less deep bass than the best in category.
 - App: No

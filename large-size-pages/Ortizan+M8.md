@@ -7,7 +7,7 @@ share-description: "The Ortizan M8 ranks #72 out of 75 total Large Size Portable
 
 The Ortizan M8 ranks #72 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #72 [Ortizan M8](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl)]: $70
+## #72 [Ortizan M8](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl)]: $70
 - Negatives: Not much bass, bass distortion and rattle at high volume.
 - Aux Input: Yes
 - Battery Life: 18 hours

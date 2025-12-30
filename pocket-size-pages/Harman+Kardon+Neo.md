@@ -7,7 +7,7 @@ share-description: "The Harman Kardon Neo ranks #37 out of 40 total Small Size P
 
 The Harman Kardon Neo ranks #37 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #37 Harman Kardon Neo: $90
+## #37 Harman Kardon Neo: $90
 - Negatives: Huge lack of bass.
 - App: No
 - Bass Extension (-10dB): 105hz

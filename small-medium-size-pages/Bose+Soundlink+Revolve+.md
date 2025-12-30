@@ -7,7 +7,7 @@ share-description: "The Bose Soundlink Revolve+ ranks #47 out of 129 total Mediu
 
 The Bose Soundlink Revolve+ ranks #47 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #47 Bose Soundlink Revolve+: $230
+## #47 Bose Soundlink Revolve+: $230
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
 - Aux Input: Yes
 - Bass Extension (-10dB): 56hz

@@ -7,7 +7,7 @@ share-description: "The B&O Beosound A1 3rd gen ranks #18 out of 129 total Mediu
 
 The B&O Beosound A1 3rd gen ranks #18 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #18 B&O Beosound A1 3rd gen
+## #18 B&O Beosound A1 3rd gen
 - Negatives: Distorts easier than the 2nd gen with deeper bass. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
 - App: Yes
 - Aux Input: No

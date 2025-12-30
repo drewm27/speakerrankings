@@ -7,7 +7,7 @@ share-description: "The Teufel Rockster ranks #6 out of 9 total Large Party Size
 
 The Teufel Rockster ranks #6 out of 9 total [Large Party Size Portable Bluetooth Speakers](/insane-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #6 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) [[Teufelaudio](https://lu.teufelaudio.com/rockster-105575000)]: €950
+## #6 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) [[Teufelaudio](https://lu.teufelaudio.com/rockster-105575000)]: €950
 - Positives: Loudest battery powered speaker. Deeper bass than the Soundboks 2/3.
 - Negatives: Extremely heavy, not easy to carry. Not stereo. Only available in Europe
 - Aux Input: Yes

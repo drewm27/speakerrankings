@@ -7,7 +7,7 @@ share-description: "The Infinity IL10 ranks #29 out of 48 total Large Size Books
 
 The Infinity IL10 ranks #29 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #29 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: $160 a pair used, discontinued
+## #29 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: $160 a pair used, discontinued
 - Positives: Impressively flat for a budget bookshelf
 - Negatives: Resonances at 600 and 5khz
 - Bass Extension (-10dB): 44hz

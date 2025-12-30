@@ -7,7 +7,7 @@ share-description: "The Harman Kardon Luna ranks #22 out of 129 total Medium Siz
 
 The Harman Kardon Luna ranks #22 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #22 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325)]: $150
+## #22 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325)]: $150
 - Positives: Pretty balanced sound besides the boosted bass.
 - Negatives: Not stereo. Boosted bass, not as detailed as higher ranked speakers
 - App: No

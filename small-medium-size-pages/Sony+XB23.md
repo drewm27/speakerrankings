@@ -7,7 +7,7 @@ share-description: "The Sony XB23 ranks #63 out of 129 total Medium Size Portabl
 
 The Sony XB23 ranks #63 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #63 Sony XB23: $100
+## #63 Sony XB23: $100
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
 - Bass Extension (-10dB): 67hz

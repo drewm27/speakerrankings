@@ -7,7 +7,7 @@ share-description: "The JBL Stage A120 ranks #20 out of 21 total Medium Size Boo
 
 The JBL Stage A120 ranks #20 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #20 [JBL Stage A120](https://www.hifizero.com/index.php?q=JBL+Stage+A120) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A120)]
+## #20 [JBL Stage A120](https://www.hifizero.com/index.php?q=JBL+Stage+A120) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A120)]
 - Negatives: A good amount of resonance in the midrange. Quite a V curve frequency response which isn't great.
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)

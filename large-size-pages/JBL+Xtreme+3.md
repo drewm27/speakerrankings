@@ -7,7 +7,7 @@ share-description: "The JBL Xtreme 3 ranks #18 out of 75 total Large Size Portab
 
 The JBL Xtreme 3 ranks #18 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #18 [JBL Xtreme 3](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325)]: $230
+## #18 [JBL Xtreme 3](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325)]: $230
 - Positives: Better treble and deeper bass than the Xtreme 2. More balanced sounding than the Xtreme 4
 - Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
 - Aux Input: Yes

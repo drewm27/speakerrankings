@@ -7,7 +7,7 @@ share-description: "The Harman Kardon Esquire 2 ranks #110 out of 129 total Medi
 
 The Harman Kardon Esquire 2 ranks #110 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #110 Harman Kardon Esquire 2: $200
+## #110 Harman Kardon Esquire 2: $200
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
 - Reviews, Comparisons and Sound Samples

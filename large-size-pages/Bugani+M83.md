@@ -7,7 +7,7 @@ share-description: "The Bugani M83 ranks #69 out of 75 total Large Size Portable
 
 The Bugani M83 ranks #69 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #69 Bugani M83: $60
+## #69 Bugani M83: $60
 - Positives: Very inexpensive.
 - Negatives: Not very deep bass, treble a little boosted
 - Battery Life: 40 hours

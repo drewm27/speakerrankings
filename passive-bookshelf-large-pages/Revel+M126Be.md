@@ -7,7 +7,7 @@ share-description: "The Revel M126Be ranks #11 out of 48 total Large Size Booksh
 
 The Revel M126Be ranks #11 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #11 [Revel M126Be](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black) [[Audioadvice](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M126Be)]: $4400
+## #11 [Revel M126Be](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black) [[Audioadvice](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M126Be)]: $4400
 - Negatives: Some diffraction issues at 3khz and 7khz where there's some dipped areas. Vertical off-axis is just okay
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 103hz

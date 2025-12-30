@@ -7,7 +7,7 @@ share-description: "The Klipsch The One II ranks #39 out of 70 total Boombox Siz
 
 The Klipsch The One II ranks #39 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #39 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
+## #39 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
 - Negatives: Treble boosted. Not as deep of bass as others.
 - Aux Input: Yes
 - Battery Life: No Battery

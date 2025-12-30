@@ -7,7 +7,7 @@ share-description: "The Harman Kardon Onyx Studio 4 ranks #46 out of 75 total La
 
 The Harman Kardon Onyx Studio 4 ranks #46 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #46 Harman Kardon Onyx Studio 4: $100
+## #46 Harman Kardon Onyx Studio 4: $100
 - Negatives: 8 hour battery at medium volume. Not at loud as others. Not as deep of bass as the newer Onyx. External AC power brick for charging.
 - App: Yes (HK Connect)
 - Aux Input: Yes

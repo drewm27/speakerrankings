@@ -7,7 +7,7 @@ share-description: "The Gemini GGO-650L ranks #56 out of 70 total Boombox Size P
 
 The Gemini GGO-650L ranks #56 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #56 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325)]: $84
+## #56 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325)]: $84
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
 - Bass Extension (-10dB): ~56hz

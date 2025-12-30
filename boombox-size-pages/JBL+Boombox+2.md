@@ -7,7 +7,7 @@ share-description: "The JBL Boombox 2 ranks #26 out of 70 total Boombox Size Por
 
 The JBL Boombox 2 ranks #26 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #26 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325)]: $350
+## #26 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325)]: $350
 - Negatives: Somewhat bass heavy and boomy.
 - Aux Input: Yes
 - Aux Latency: 33ms

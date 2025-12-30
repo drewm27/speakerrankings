@@ -7,7 +7,7 @@ share-description: "The Philips NX200 ranks #38 out of 48 total Party Size Porta
 
 The Philips NX200 ranks #38 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #38 Philips NX200
+## #38 Philips NX200
 - Negatives: No deep bass, mids are a little harsh
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz

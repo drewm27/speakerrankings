@@ -7,7 +7,7 @@ share-description: "The JBL Charge Essential 2 ranks #35 out of 129 total Medium
 
 The JBL Charge Essential 2 ranks #35 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #35 JBL Charge Essential 2: $130
+## #35 JBL Charge Essential 2: $130
 - Negatives: Not stereo. Slightly less bass than a Charge 5.
 - App: No
 - Bass Extension (-10dB): ~55hz

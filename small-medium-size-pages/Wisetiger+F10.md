@@ -7,7 +7,7 @@ share-description: "The Wisetiger F10 ranks #123 out of 129 total Medium Size Po
 
 The Wisetiger F10 ranks #123 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #123 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl)]: $27
+## #123 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl)]: $27
 - Negatives: Mids and treble on the harsh side, not much bass
 - Battery Life: 24 hours
 - IP Rating: IPX7

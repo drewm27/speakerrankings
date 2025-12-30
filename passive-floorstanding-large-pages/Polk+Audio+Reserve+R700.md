@@ -7,7 +7,7 @@ share-description: "The Polk Audio Reserve R700 ranks #16 out of 26 total Large 
 
 The Polk Audio Reserve R700 ranks #16 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #16 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Audio+Reserve+R700)]: $1100 a pair
+## #16 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Audio+Reserve+R700)]: $1100 a pair
 - Positives: Pretty neutral frequency response. Quite deep bass response
 - Negatives: Directivity error at around 4.6khz. Not the best for vertical off axis dispersion
 - Bass Extension (-10dB): 31hz

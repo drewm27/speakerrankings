@@ -7,7 +7,7 @@ share-description: "The GR-Research NX-Bravo ranks #5 out of 48 total Large Size
 
 The GR-Research NX-Bravo ranks #5 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #5 [GR-Research NX-Bravo](https://gr-research.com/product/nx-bravo-kit/) [[Gr-research](https://gr-research.com/product/nx-bravo-kit/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Bravo)]: $1540 kit with finished cabinets (assembly required)
+## #5 [GR-Research NX-Bravo](https://gr-research.com/product/nx-bravo-kit/) [[Gr-research](https://gr-research.com/product/nx-bravo-kit/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Bravo)]: $1540 kit with finished cabinets (assembly required)
 - Positives: Ultra clean burst decay/waterfall plot
 - Negatives: 2db dip at 3.7khz, 2dB dip at 8khz, 2dB treble peak up around 14khz
 - Bass Extension (-10dB): 45hz

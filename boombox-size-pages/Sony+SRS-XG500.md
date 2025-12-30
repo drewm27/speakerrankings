@@ -7,7 +7,7 @@ share-description: "The Sony SRS-XG500 ranks #43 out of 70 total Boombox Size Po
 
 The Sony SRS-XG500 ranks #43 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #43 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
+## #43 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz

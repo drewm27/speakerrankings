@@ -7,7 +7,7 @@ share-description: "The JBL Partybox On the Go ranks #42 out of 70 total Boombox
 
 The JBL Partybox On the Go ranks #42 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #42 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
+## #42 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
 - Positives: Included wireless microphone.
 - Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - Aux Input: Yes

@@ -7,7 +7,7 @@ share-description: "The Genelec 8030C ranks #2 out of 24 total Medium Size Power
 
 The Genelec 8030C ranks #2 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #2 [Genelec 8030C](https://www.bhphotovideo.com/c/product/1337681-REG/genelec_8030cp_8030c_two_way_5_studio.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1337681-REG/genelec_8030cp_8030c_two_way_5_studio.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8030C)]: $1590 a pair
+## #2 [Genelec 8030C](https://www.bhphotovideo.com/c/product/1337681-REG/genelec_8030cp_8030c_two_way_5_studio.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1337681-REG/genelec_8030cp_8030c_two_way_5_studio.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8030C)]: $1590 a pair
 - Positives: One of the best speakers in this size class
 - Negatives: High price
 - Bass Extension (-10dB): 47hz

@@ -7,7 +7,7 @@ share-description: "The Beats Pill+ ranks #119 out of 129 total Medium Size Port
 
 The Beats Pill+ ranks #119 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #119 Beats Pill+: $230
+## #119 Beats Pill+: $230
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - App: Yes
 - Bass Extension (-10dB): 90hz

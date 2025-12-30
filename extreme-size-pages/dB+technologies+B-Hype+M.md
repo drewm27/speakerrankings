@@ -7,7 +7,7 @@ share-description: "The dB technologies B-Hype M ranks #36 out of 48 total Party
 
 The dB technologies B-Hype M ranks #36 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #36 dB technologies B-Hype M: $450
+## #36 dB technologies B-Hype M: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - Aux Input: Yes
 - Bass Extension (-10dB): 62hz

@@ -7,7 +7,7 @@ share-description: "The Huawei Sound Joy ranks #36 out of 129 total Medium Size 
 
 The Huawei Sound Joy ranks #36 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
+## #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
 - Positives: Use Devialet and +6db EQ for best sound quality
 - Negatives: Boosted treble, not quite as deep of bass as a Charge 5. Very expensive
 - Bass Extension (-10dB): 56hz

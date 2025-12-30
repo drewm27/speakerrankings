@@ -7,7 +7,7 @@ share-description: "The Mofi SourcePoint 8 ranks #9 out of 48 total Large Size B
 
 The Mofi SourcePoint 8 ranks #9 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #9 [Mofi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
+## #9 [Mofi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 52hz

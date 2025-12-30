@@ -7,7 +7,7 @@ share-description: "The Bose SoundLink Color II ranks #91 out of 129 total Mediu
 
 The Bose SoundLink Color II ranks #91 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #91 Bose SoundLink Color II
+## #91 Bose SoundLink Color II
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble
 - Battery Life: 8 hours
 - Party Mode: Yes (Bose Party mode)

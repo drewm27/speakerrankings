@@ -7,7 +7,7 @@ share-description: "The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks #35 out of
 
 The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks #35 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #35 [Xdobo Bucket /BMTL Bucket / Zicoroop Ts](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl)]: $60
+## #35 [Xdobo Bucket /BMTL Bucket / Zicoroop Ts](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl)]: $60
 - Positives: Sounds quite good for the price. A little difficult to rank based on the sound samples, this one could move around as we get better samples.
 - Negatives: Dip from 120-180hz, a little bass boosted. Muffled with cover on.
 - App: No

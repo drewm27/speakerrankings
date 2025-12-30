@@ -7,7 +7,7 @@ share-description: "The Teufel Boomster NG (2017) ranks #34 out of 70 total Boom
 
 The Teufel Boomster NG (2017) ranks #34 out of 70 total [Boombox Size Portable Bluetooth Speakers](/boombox-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #34 Teufel Boomster NG (2017): 99€
+## #34 Teufel Boomster NG (2017): 99€
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
 - Bass Extension (-10dB): 47hz

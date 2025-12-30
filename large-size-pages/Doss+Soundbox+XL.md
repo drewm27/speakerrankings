@@ -7,7 +7,7 @@ share-description: "The Doss Soundbox XL ranks #52 out of 75 total Large Size Po
 
 The Doss Soundbox XL ranks #52 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #52 [Doss Soundbox XL](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325)]: $65
+## #52 [Doss Soundbox XL](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SoundBox-XL-Bluetooth-Speakers-Subwoofer/dp/B071JN4FW6/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c593c338084b484eae67c906497edab&camp=1789&creative=9325)]: $65
 - Negatives: A little hollow sounding.
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz

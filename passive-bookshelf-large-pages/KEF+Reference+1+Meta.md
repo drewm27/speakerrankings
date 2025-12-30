@@ -7,7 +7,7 @@ share-description: "The KEF Reference 1 Meta ranks #2 out of 48 total Large Size
 
 The KEF Reference 1 Meta ranks #2 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #2 [KEF Reference 1 Meta](https://us.kef.com/products/reference-1-bookshelf-speaker) [[Kef](https://us.kef.com/products/reference-1-bookshelf-speaker)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Reference+1+Meta)]: $10000
+## #2 [KEF Reference 1 Meta](https://us.kef.com/products/reference-1-bookshelf-speaker) [[Kef](https://us.kef.com/products/reference-1-bookshelf-speaker)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Reference+1+Meta)]: $10000
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Configurable to short or long port depending on the bass roll-off you're looking for. Very deep bass for the size
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 52hz

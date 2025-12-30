@@ -7,7 +7,7 @@ share-description: "The Ortizan X10 ranks #114 out of 129 total Medium Size Port
 
 The Ortizan X10 ranks #114 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #114 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
+## #114 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Bass Extension (-10dB): ~64hz
 - Battery Life: 30 hours

@@ -7,7 +7,7 @@ share-description: "The Vifa City ranks #8 out of 40 total Small Size Portable B
 
 The Vifa City ranks #8 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #8 [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325)]: $80
+## #8 [Vifa City](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-City-Portable-Bluetooth-Loudspeaker/dp/B07VYTN6RP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=92c297d947f29811f130d2573fc7a4c6&camp=1789&creative=9325)]: $80
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
 - App: No

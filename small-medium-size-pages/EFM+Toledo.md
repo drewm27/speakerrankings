@@ -7,7 +7,7 @@ share-description: "The EFM Toledo ranks #118 out of 129 total Medium Size Porta
 
 The EFM Toledo ranks #118 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #118 EFM Toledo
+## #118 EFM Toledo
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
 - Reviews, Comparisons and Sound Samples

@@ -7,7 +7,7 @@ share-description: "The JBL Charge 3 ranks #66 out of 129 total Medium Size Port
 
 The JBL Charge 3 ranks #66 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #66 JBL Charge 3: $80
+## #66 JBL Charge 3: $80
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz

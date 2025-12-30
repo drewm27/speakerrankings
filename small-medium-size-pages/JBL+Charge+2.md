@@ -7,7 +7,7 @@ share-description: "The JBL Charge 2 ranks #68 out of 129 total Medium Size Port
 
 The JBL Charge 2 ranks #68 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #68 JBL Charge 2
+## #68 JBL Charge 2
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
 - Power Bank: Yes

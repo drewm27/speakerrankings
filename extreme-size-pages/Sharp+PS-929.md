@@ -7,7 +7,7 @@ share-description: "The Sharp PS-929 ranks #41 out of 48 total Party Size Portab
 
 The Sharp PS-929 ranks #41 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #41 Sharp PS-929: $150
+## #41 Sharp PS-929: $150
 - Negatives: Not very deep bass
 - Bass Extension (-10dB): ~60hz
 - Power Input: AC Power cord

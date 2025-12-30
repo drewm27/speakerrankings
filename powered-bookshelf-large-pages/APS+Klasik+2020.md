@@ -7,7 +7,7 @@ share-description: "The APS Klasik 2020 ranks #8 out of 21 total Large Size Powe
 
 The APS Klasik 2020 ranks #8 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #8 [APS Klasik 2020](https://www.aps-company.com/klasik-2020-en/) [[Aps-company](https://www.aps-company.com/klasik-2020-en/)] [[Used Listings](https://www.hifizero.com/index.php?q=APS+Klasik+2020)]: $900 a pair
+## #8 [APS Klasik 2020](https://www.aps-company.com/klasik-2020-en/) [[Aps-company](https://www.aps-company.com/klasik-2020-en/)] [[Used Listings](https://www.hifizero.com/index.php?q=APS+Klasik+2020)]: $900 a pair
 - Positives: Very neutral. Almost indistinguishable from the HS8 but with deeper bass
 - Negatives: Difficult to find for sale online, no dealers in the United States.
 - Dimensions: 14.2"H x 8.3"W x 12.6"D

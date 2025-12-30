@@ -7,7 +7,7 @@ share-description: "The Cabasse Swell ranks #95 out of 129 total Medium Size Por
 
 The Cabasse Swell ranks #95 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #95 Cabasse Swell: $300
+## #95 Cabasse Swell: $300
 - Negatives: Bass boosted. Bass gets distorted and thuddy. Mids recessed
 - Battery Life: 10 hours
 - Stereo: Yes

@@ -7,7 +7,7 @@ share-description: "The Radiant Acoustics Clarity 6.2 ranks #10 out of 48 total 
 
 The Radiant Acoustics Clarity 6.2 ranks #10 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #10 [Radiant Acoustics Clarity 6.2](https://radiantacoustics.com/products/clarity-6-2) [[Radiantacoustics](https://radiantacoustics.com/products/clarity-6-2)] [[Used Listings](https://www.hifizero.com/index.php?q=Radiant+Acoustics+Clarity+6.2)]: $4500
+## #10 [Radiant Acoustics Clarity 6.2](https://radiantacoustics.com/products/clarity-6-2) [[Radiantacoustics](https://radiantacoustics.com/products/clarity-6-2)] [[Used Listings](https://www.hifizero.com/index.php?q=Radiant+Acoustics+Clarity+6.2)]: $4500
 - Positives: Very low distortion
 - Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees. Impedance drops pretty low. Vertical and horizontal off axis are just okay
 - Bass Extension (-10dB): 32hz

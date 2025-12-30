@@ -7,7 +7,7 @@ share-description: "The MoFi SourcePoint V10 Master Edition ranks #3 out of 26 t
 
 The MoFi SourcePoint V10 Master Edition ranks #3 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #3 [MoFi SourcePoint V10 Master Edition](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=MoFi+SourcePoint+V10+Master+Edition)]: $8000 a pair
+## #3 [MoFi SourcePoint V10 Master Edition](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=MoFi+SourcePoint+V10+Master+Edition)]: $8000 a pair
 - Positives: One of the best value floorstanders
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 38hz

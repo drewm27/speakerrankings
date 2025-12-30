@@ -7,7 +7,7 @@ share-description: "The Tribit Stormbox Micro ranks #4 out of 40 total Small Siz
 
 The Tribit Stormbox Micro ranks #4 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #4 [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E) [[Amazon](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E)]: $40
+## #4 [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E) [[Amazon](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E)]: $40
 - Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - App: No
 - Bass Extension (-10dB): 62hz

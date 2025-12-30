@@ -7,7 +7,7 @@ share-description: "The W-King T9 Pro ranks #28 out of 48 total Party Size Porta
 
 The W-King T9 Pro ranks #28 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #28 [W-King T9 Pro](https://s.click.aliexpress.com/e/_c3zh0rJN) [[Aliexpress](https://s.click.aliexpress.com/e/_c3zh0rJN)]: $294
+## #28 [W-King T9 Pro](https://s.click.aliexpress.com/e/_c3zh0rJN) [[Aliexpress](https://s.click.aliexpress.com/e/_c3zh0rJN)]: $294
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - Aux Input: Yes
 - Battery Life: 12 hours

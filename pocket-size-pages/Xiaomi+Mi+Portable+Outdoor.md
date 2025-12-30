@@ -7,7 +7,7 @@ share-description: "The Xiaomi Mi Portable Outdoor ranks #31 out of 40 total Sma
 
 The Xiaomi Mi Portable Outdoor ranks #31 out of 40 total [Small Size Portable Bluetooth Speakers](/pocket-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #31 Xiaomi Mi Portable Outdoor: 
+## #31 Xiaomi Mi Portable Outdoor: 
 - Negatives: Not much bass, treble rolled off
 - App: No
 - Battery Life: 20 hours

@@ -7,7 +7,7 @@ share-description: "The JBL Flip 6 ranks #12 out of 129 total Medium Size Portab
 
 The JBL Flip 6 ranks #12 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #12 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325)]: $90
+## #12 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325)]: $90
 - Positives: A very neutral speaker, very small, almost pocket size, a huge sound quality leap over the Flip 5.
 - Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
 - App: Yes

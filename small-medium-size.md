@@ -19,8 +19,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 **Use your browser's search feature to search for speakers on this page.**
 
-## Medium Size Portable Bluetooth Speakers Ranked
-### #1 [Earfun Uboom L](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325)]: $50 after clipped coupon and coupon UBOOMLWC in the payment options
+## #1 [Earfun Uboom L](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325)]: $50 after clipped coupon and coupon UBOOMLWC in the payment options
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone/) and he knocked it out of the park. The audiophile choice. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every volume level. Other speakers will need a different EQ at each volume level. For maximum volume without distortion use max volume - 1 step for most songs. Oluv left another higher volume for songs that are quiet. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour).
 - Negatives: Latency is high (400ms) without turning on low latency mode (66ms) which doesn't work when two speakers are TWS paired. Low latency mode can be turned on by pressing the Bluetooth button twice. If latency in TWS paired mode is a very important feature, like if you watch a lot of video, you may want to choose another speaker. The power button can sometimes get accidentally pressed when put in a bag. The aux input has quite a bit of latency and isn't recommended for video use.
 - Setup: Try setting up the Earfun App ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US&pli=1) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) to see if that works. If not, you'll need to flash [firmware 1.2.7](https://drive.google.com/drive/folders/1jxg3eJFxHTtSu00NY3wqXOoDnMGqpO3c?usp=drive_link) to work with the app and set with Oluv's EQ in the Earfun app which sounds the best. The instructions say that you need a USB3 cable, but most USB2 cables work just fine, try the one included with your phone. Check the current firmware version by turning it on, then pressing the power and Bluetooth buttons at the same time. To flash, turn the speaker off then hold down the Bluetooth button while plugging in the cable. To flash on a mac, [see these instructions](https://www.reddit.com/r/Bluetooth_Speakers/comments/17slpcs/guide_downgrading_earfun_uboom_l_to_oluvs/). In TWS mode, long press the outdoor button for 2 seconds to change TWS to Party mode and back.
@@ -53,7 +52,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
     - [Direct Speakerranking Link](/small-medium-size-pages/Earfun+Uboom+L/)
 
-### #2 [Soundcore Motion 300](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
+## #2 [Soundcore Motion 300](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
 - Positives: Pretty deep bass for the small size. Pocket size in a big pocket. Can be used in stereo facing you, or omnidirectional lying down. Ability to have a custom EQ for each orientation, standing, lying flat, hanging. Try [the Uboom L EQs from Oluv for a more neutral sound](https://www.patreon.com/oluvsone/shop/soundcore-motion-300-eq-settings-uboom-l-95778).
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
@@ -84,7 +83,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Motion+300/)
 
-### #3 [Soundcore Motion+](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325)]: $80 after $20 coupon
+## #3 [Soundcore Motion+](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Customizable-Waterproof/dp/B07P39MLKH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=69752640fc8844e1034f29371a3bd3c4&camp=1789&creative=9325)]: $80 after $20 coupon
 - Positives: The previous best sounding in class, still a great speaker with separate tweeters, more bass at full volume and better off-axis treble frequency response than the Uboom L. Just okay with the default EQ, I highly recommend using [this EQ setting](https://www.tumblr.com/techaudiophoto/706620138302144512/motion-hi-fi-eq) from [r/kai7895](https://www.reddit.com/user/kai7895) to get it more neutral. To achieve the absolute best sound you'll need the Wavelet app (Android only) and set the provided Wavelet EQ in there too. Turn off the wavelet EQ for outdoor use. An alternative is [Oluv's EQ](https://ibb.co/XkfBtSS) which only needs the Soundcore app EQ.
 - Negatives: Not quite as neutral or detailed as the Uboom L. Without the above EQ, this speaker will rank around #25 in the rankings.
 - App: Yes
@@ -117,7 +116,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Motion+/)
 
-### #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325)]: $60
+## #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325)]: $60
 - Positives: A very neutral good sounding inexpensive small speaker with quite deep bass for the size. This upgraded version has a usb-c port while the old one has micro usb.
 - Negatives: Slight DSP tuning issue which makes bass get lighter at times at very low volumes, examples in oluv's video.
 - App: Yes
@@ -148,7 +147,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Boost+“upgraded”+2021/)
 
-### #5 Denon Envaya DSB-250BT: $250
+## #5 Denon Envaya DSB-250BT: $250
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Aux Input: Yes
@@ -172,7 +171,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.denon.com/en-us/product/archive-bluetooth-speakers/dsb250bt/137209.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Denon+Envaya+DSB-250BT/)
 
-### #6 [Minirig 4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl)]: $200
+## #6 [Minirig 4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl)]: $200
 - Positives: Modular, can easily attach a subwoofer. Finally USB-C charging. Dynamically changes sound based on forward facing or upward facing orientation
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes
@@ -197,7 +196,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
     - [Direct Speakerranking Link](/small-medium-size-pages/Minirig+4/)
 
-### #7 [Minirig 3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $140
+## #7 [Minirig 3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $140
 - Positives: Modular, can easily attach a subwoofer.
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes
@@ -226,7 +225,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
     - [Direct Speakerranking Link](/small-medium-size-pages/Minirig+3/)
 
-### #8 Minirig 2: $140
+## #8 Minirig 2: $140
 - Positives: Modular, can easily attach a subwoofer.
 - Negatives: Not stereo. Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes
@@ -249,7 +248,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Minirig+2/)
 
-### #9 B&O Beosound A1: $200
+## #9 B&O Beosound A1: $200
 - Positives: Deeper bass than the A1 2nd gen.
 - Negatives: Not stereo. Not quite as neutral as the A1 2nd gen. Pumping sound artifacts above 60% volume, only good for lower listening levels.
 - App: Yes
@@ -277,7 +276,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
     - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+A1/)
 
-### #10 [B&O Beosound A1 2nd gen](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325)]: $200
+## #10 [B&O Beosound A1 2nd gen](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325)]: $200
 - Positives: More neutral than the first A1
 - Negatives: Not stereo. Not as deep bass as the A1. Pumping sound artifacts above 60% volume, only good for lower listening levels.
 - App: Yes
@@ -309,7 +308,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://luxussound.com/products/beosound-a1-2nd-generation)
     - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+A1+2nd+gen/)
 
-### #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)]: $200
+## #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)]: $200
 - Positives: Seems more neutral than the Charge 5. Flatter frequency response through the mids and treble as the Charge 5 was quite rolled off up high. Use this [EQ from Joy/Oluv](http://youtube.com/post/Ugkx0Fa17eFCOUaEOiLivjPy4ERgAa3qzWSV?si=mJRhUhTW23IriBue) and turn down the lowest bass slider for the best sound quality. Oluv has even more [paid EQs specifically for the GG and TL models indoors and outdoors here](https://www.patreon.com/posts/jbl-charge-6-eqs-137659087?source=storefront)
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
@@ -342,7 +341,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+6/)
 
-### #12 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325)]: $90
+## #12 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325)]: $90
 - Positives: A very neutral speaker, very small, almost pocket size, a huge sound quality leap over the Flip 5.
 - Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
 - App: Yes
@@ -369,7 +368,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Flip+6/)
 
-### #13 Soundcore Boost “original model” pre-2021: $60
+## #13 Soundcore Boost “original model” pre-2021: $60
 - Positives: A great sounding neutral speaker.
 - Negatives: This old version has micro-usb charging. Only IPX5.
 - App: Yes
@@ -390,7 +389,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Boost+“original+model”+pre-2021/)
 
-### #14 [JBL Flip 7](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl)]: $150
+## #14 [JBL Flip 7](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl)]: $150
 - Positives: A very neutral speaker, very small, almost pocket size. Just slightly more treble than the Flip 6 which was already a great speaker. Slightly deeper bass than the Flip 6
 - Negatives: A little bit of a bump at 4khz, not quite as neutral as the FLip 6. I believe this one is slightly worse than the Flip 6.
 - App: Yes
@@ -415,7 +414,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Flip+7/)
 
-### #15 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl)]: $36
+## #15 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl)]: $36
 - Positives: Exactly the same as the Wisetiger P3 below. By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
 - Negatives: Slightly less bass extension than higher ranked speakers.
 - App: No
@@ -434,7 +433,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
     - [Direct Speakerranking Link](/small-medium-size-pages/Miatone+Boompro/)
 
-### #16 [Wisetiger P3](https://s.click.aliexpress.com/e/_c3Auku4T) [[Aliexpress](https://s.click.aliexpress.com/e/_c3Auku4T)]: $38
+## #16 [Wisetiger P3](https://s.click.aliexpress.com/e/_c3Auku4T) [[Aliexpress](https://s.click.aliexpress.com/e/_c3Auku4T)]: $38
 - Positives: Exactly the same as the Miatone Boompro above. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
 - Negatives: Slightly less bass extension than higher ranked speakers.
 - App: No
@@ -453,7 +452,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Wisetiger+P3/)
 
-### #17 [Mifa Wildrod](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325)]: $47
+## #17 [Mifa Wildrod](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325)]: $47
 - Positives: Flash latest firmware for the best sound, much improved bass and treble.
 - Negatives: Not stereo, slight peak around 250hz, slightly rolled off treble.
 - App: No
@@ -476,7 +475,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
     - [Direct Speakerranking Link](/small-medium-size-pages/Mifa+Wildrod/)
 
-### #18 B&O Beosound A1 3rd gen
+## #18 B&O Beosound A1 3rd gen
 - Negatives: Distorts easier than the 2nd gen with deeper bass. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
 - App: Yes
 - Aux Input: No
@@ -498,7 +497,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
     - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+A1+3rd+gen/)
 
-### #19 Xiaomi Sound Party
+## #19 Xiaomi Sound Party
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
 - Negatives: Bass can sound slightly thuddy at high volume
 - App: Yes
@@ -519,7 +518,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-party/)
     - [Direct Speakerranking Link](/small-medium-size-pages/Xiaomi+Sound+Party/)
 
-### #20 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325)]: $100
+## #20 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325)]: $100
 - Positives: Deepest bass of any medium size speaker. Use xbass mode for flattest frequency response.
 - Negatives: Single driver, not stereo. Lack of detail. Lack of upper treble, peaky lower treble. Not great off axis. Keep in mind this speaker gives up some sound quality for deeper bass.
 - App: Yes
@@ -547,7 +546,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-xsound-mega-portable-wireless-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Xsound+Mega/)
 
-### #21 [Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325)]: $50
+## #21 [Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325)]: $50
 - Positives: Use Xbass mode for flattest frequency response. V1/V2/Thunderbox Plus sound exactly the same.
 - Negatives: Slightly less deep bass than the best in category.
 - App: No
@@ -576,7 +575,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-maxsound-plus-bluetooth-speakers)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Maxsound+Plus+V1V2Thunderbox+Plus/)
 
-### #22 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325)]: $150
+## #22 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325)]: $150
 - Positives: Pretty balanced sound besides the boosted bass.
 - Negatives: Not stereo. Boosted bass, not as detailed as higher ranked speakers
 - App: No
@@ -598,7 +597,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Harman+Kardon+Luna/)
 
-### #23 [Bogasing G4](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)]: $49
+## #23 [Bogasing G4](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)]: $49
 - Negatives: Some boosted treble that's wavy up top. Slighty dipped mids. Super Bass and vocal mode seem identical.
 - App: No
 - Aux Input: Yes
@@ -620,7 +619,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Bogasing+G4/)
 
-### #24 [Bogasing M4](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325)]: $52
+## #24 [Bogasing M4](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325)]: $52
 - Positives: Use super bass mode for the most balanced sound
 - Negatives: A bit harsh and thin sounding. Default mode has a boosted treble.
 - App: No
@@ -643,7 +642,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Bogasing+M4/)
 
-### #25 [JBL Charge 5 Wifi](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl)]: $250
+## #25 [JBL Charge 5 Wifi](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl)]: $250
 - Positives: Has Wifi. Sounds exactly the same as the non-Wifi version
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
@@ -663,7 +662,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/wifi-speakers/CHARGE-5-WIFI.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+5+Wifi/)
 
-### #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)]: $180
+## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)]: $180
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
 - Bass Extension (-10dB): 53hz
@@ -690,7 +689,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+5/)
 
-### #27 [Soundcore Boom 3i](https://www.amazon.com/Soundcore-Speakers-Waterproof-Saltwater-Resistant-Bluetooth/dp/B0F6315R3J?crid=1I3RZARPHMIYJ&dib=eyJ2IjoiMSJ9.F8ZRNeIM-cmxNNjZ32cCpS1eoMv976h2MaOc0fIyeagUot1EKLRfoK8JiFv9moGk4H9-_F1FPjwtr6Aah1-pPNTiS8Z968lnN3Fq44NYNyqb3K1kDSq5OR98sCBgS4qS9h2arynWlgFGrW68pZQSy3ECVrV3ODy5pIFlHN5EPlO7Y6XX5dj-lO0ay7DM4BaLOv4JyHhiQdxvzPrIBkULKVG397c3hhy44RXou4q4URA.XlqU3xXJ5cj901gTYhtTYdjNoBvGe_BylOv3dFoZ-MM&dib_tag=se&keywords=soundcore%2Bboom%2B3i&qid=1752512605&sprefix=soundcore%2Bboom%2B3i%2Caps%2C220&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=259183c00073e5792773d4a2b889a3cc&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Speakers-Waterproof-Saltwater-Resistant-Bluetooth/dp/B0F6315R3J?crid=1I3RZARPHMIYJ&dib=eyJ2IjoiMSJ9.F8ZRNeIM-cmxNNjZ32cCpS1eoMv976h2MaOc0fIyeagUot1EKLRfoK8JiFv9moGk4H9-_F1FPjwtr6Aah1-pPNTiS8Z968lnN3Fq44NYNyqb3K1kDSq5OR98sCBgS4qS9h2arynWlgFGrW68pZQSy3ECVrV3ODy5pIFlHN5EPlO7Y6XX5dj-lO0ay7DM4BaLOv4JyHhiQdxvzPrIBkULKVG397c3hhy44RXou4q4URA.XlqU3xXJ5cj901gTYhtTYdjNoBvGe_BylOv3dFoZ-MM&dib_tag=se&keywords=soundcore%2Bboom%2B3i&qid=1752512605&sprefix=soundcore%2Bboom%2B3i%2Caps%2C220&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=259183c00073e5792773d4a2b889a3cc&language=en_US&ref_=as_li_ss_tl)]: $110
+## #27 [Soundcore Boom 3i](https://www.amazon.com/Soundcore-Speakers-Waterproof-Saltwater-Resistant-Bluetooth/dp/B0F6315R3J?crid=1I3RZARPHMIYJ&dib=eyJ2IjoiMSJ9.F8ZRNeIM-cmxNNjZ32cCpS1eoMv976h2MaOc0fIyeagUot1EKLRfoK8JiFv9moGk4H9-_F1FPjwtr6Aah1-pPNTiS8Z968lnN3Fq44NYNyqb3K1kDSq5OR98sCBgS4qS9h2arynWlgFGrW68pZQSy3ECVrV3ODy5pIFlHN5EPlO7Y6XX5dj-lO0ay7DM4BaLOv4JyHhiQdxvzPrIBkULKVG397c3hhy44RXou4q4URA.XlqU3xXJ5cj901gTYhtTYdjNoBvGe_BylOv3dFoZ-MM&dib_tag=se&keywords=soundcore%2Bboom%2B3i&qid=1752512605&sprefix=soundcore%2Bboom%2B3i%2Caps%2C220&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=259183c00073e5792773d4a2b889a3cc&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Speakers-Waterproof-Saltwater-Resistant-Bluetooth/dp/B0F6315R3J?crid=1I3RZARPHMIYJ&dib=eyJ2IjoiMSJ9.F8ZRNeIM-cmxNNjZ32cCpS1eoMv976h2MaOc0fIyeagUot1EKLRfoK8JiFv9moGk4H9-_F1FPjwtr6Aah1-pPNTiS8Z968lnN3Fq44NYNyqb3K1kDSq5OR98sCBgS4qS9h2arynWlgFGrW68pZQSy3ECVrV3ODy5pIFlHN5EPlO7Y6XX5dj-lO0ay7DM4BaLOv4JyHhiQdxvzPrIBkULKVG397c3hhy44RXou4q4URA.XlqU3xXJ5cj901gTYhtTYdjNoBvGe_BylOv3dFoZ-MM&dib_tag=se&keywords=soundcore%2Bboom%2B3i&qid=1752512605&sprefix=soundcore%2Bboom%2B3i%2Caps%2C220&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=259183c00073e5792773d4a2b889a3cc&language=en_US&ref_=as_li_ss_tl)]: $110
 - Positives: Looks to be designed as a direct competitor to the Charge 5 with a very similar sound profile, warm tuned with boosted bass. Better value for the money than the Charge 5.
 - Negatives: Not quite as good as a Charge 5, doesn't go quite as loud or sound quite as balanced, but very very close. An earlier firmware version had some bass distortion, update your firmware in the Soundcore App
 - App: Yes
@@ -710,7 +709,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fd5100-boom-3i-waterproof-bluetooth-speaker&cjsku=D5100060)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Boom+3i/)
 
-### #28 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325)]: $74
+## #28 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325)]: $74
 - Positives: Pretty decent sounding.
 - Negatives: Not stereo. Somewhat bass boosted, and more of a warm sound. Quite bassy off axis.
 - App: Yes
@@ -729,7 +728,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://global.1more.com/products/1more-portable-bt-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/1More+S1001bt/)
 
-### #29 [Cleer Audio Scene](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl)]: $100
+## #29 [Cleer Audio Scene](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl)]: $100
 - Positives: Quite neutral frequency response, almost indistinguishable from the very neutral Flip 6 besides the worse bass extension.
 - Negatives: Less bass extension than a Flip 6
 - App: No
@@ -751,7 +750,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://cleeraudio.com/smart-speakers/scene-water-resistant-bluetooth-speaker/)
     - [Direct Speakerranking Link](/small-medium-size-pages/Cleer+Audio+Scene/)
 
-### #30 [Earfun Uboom 360](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325)]: $42
+## #30 [Earfun Uboom 360](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325)]: $42
 - Positives: Similar to the Maxsound Plus in sound, likely uses the same drivers. Likely the best 360 speaker.
 - Negatives: Not stereo. Slightly rolled off treble, not as deep of bass as the best in category. Outdoor mode is more flat, indoor mode boosts bass. Not technically a 360 speaker, only front and rear.
 - App: No
@@ -774,7 +773,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - [Direct Speakerranking Link](/small-medium-size-pages/Earfun+Uboom+360/)
 
-### #31 Teufel Rockster XS: €180
+## #31 Teufel Rockster XS: €180
 - Positives: A good sounding speaker.
 - Negatives: Not quite as deep of bass as others. Only available in Europe.
 - Aux Input: Yes
@@ -788,7 +787,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://ie.teufelaudio.com/rockster-xs-105565000)
     - [Direct Speakerranking Link](/small-medium-size-pages/Teufel+Rockster+XS/)
 
-### #32 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl)]: $60
+## #32 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl)]: $60
 - Positives: Use [this EQ](https://www.instagram.com/p/C5vDo8gINjx/) for the best sound quality
 - Negatives: Boosted treble, boosted bass in the factory EQs. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
 - App: Yes
@@ -812,7 +811,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-xsound-plus-2-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Xsound+Plus+2/)
 
-### #33 [Bose Soundlink Flex 2nd gen](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl)]: $150
+## #33 [Bose Soundlink Flex 2nd gen](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl)]: $150
 - Positives: Pretty much identical sounding to the 1st gen
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail. Self drains the battery about 10% a week.
 - App: Yes
@@ -833,7 +832,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Flex+2nd+gen/)
 
-### #34 [Bose Soundlink Flex](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325)]: $150
+## #34 [Bose Soundlink Flex](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325)]: $150
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail
 - App: Yes
 - Bass Extension (-10dB): 56hz
@@ -861,7 +860,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-bluetooth-speaker/SLFLX-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Flex/)
 
-### #35 JBL Charge Essential 2: $130
+## #35 JBL Charge Essential 2: $130
 - Negatives: Not stereo. Slightly less bass than a Charge 5.
 - App: No
 - Bass Extension (-10dB): ~55hz
@@ -878,7 +877,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://ca.jbl.com/CHARGE-ESSENTIAL-2-.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+Essential+2/)
 
-### #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
+## #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
 - Positives: Use Devialet and +6db EQ for best sound quality
 - Negatives: Boosted treble, not quite as deep of bass as a Charge 5. Very expensive
 - Bass Extension (-10dB): 56hz
@@ -892,7 +891,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Huawei+Sound+Joy/)
 
-### #37 [Fugoo Sport](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325)]: $33
+## #37 [Fugoo Sport](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325)]: $33
 - Positives: Pretty neutral sound, slight upper mids peaks
 - Battery Life: 10 hours
 - IP Rating: IP67
@@ -904,7 +903,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://fugoo.com/products/fugoo)
     - [Direct Speakerranking Link](/small-medium-size-pages/Fugoo+Sport/)
 
-### #38 [Sony ULT Field 1](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl)]: $128
+## #38 [Sony ULT Field 1](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl)]: $128
 - Negatives: Upper midrange peak, rolled off treble
 - App: Yes
 - Aux Input: No
@@ -924,7 +923,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sony+ULT+Field+1/)
 
-### #39 Earfun Uboom Slim
+## #39 Earfun Uboom Slim
 - Negatives: Not as deep bass as others. Warm tuned, peaks in the mids and lower treble, rolled off upper treble
 - Bass Extension (-10dB): ~63hz
 - Battery Life: 16 hours
@@ -936,7 +935,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Earfun+Uboom+Slim/)
 
-### #40 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325)]: $47
+## #40 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325)]: $47
 - Positives: Use [Oluv's EQ](https://www.patreon.com/oluvsone/shop/soundcore-motion-100-flat-eq-setting-172328) for the flattest response
 - Negatives: Not very deep bass, slight distortion
 - App: Yes
@@ -955,7 +954,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-100-a3133011)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Motion+100/)
 
-### #41 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325)]: $90
+## #41 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325)]: $90
 - Negatives: Bottom woofer was fixed in a later firmware, upgrade for best sound. Peaky mids, highs rolled off. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 58hz
 - Battery Life: 24 hours
@@ -975,7 +974,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-pro-portable-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Stormbox+Pro/)
 
-### #42 [Xiaomi Sound Outdoor](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B0D9ZHZDV3?crid=3RA4TEAI06H5I&dib=eyJ2IjoiMSJ9.q99J2aDzdHfFkAp1RNroBh81NzfQa1-e1h74nWrFNw46wu0iF8Txs8y-tJcuth-eN2EmHNyW6cMggBKjyUJxE0PeT2nilstKGezarquzJjbjSDqKC5JdukHD4W6nKe_qdp1yD5OeRKDAP11cqGtmgqISK5_g_bYhU_TzD_BQ9B8_ye9dJYrcHV7I8DbNhpg9s2qnddmGOcEFtyfGGn51Lqb8BhYuNGWbBHHx1K5el5Q.nctcp_LM8Qx9CB4-cOvd6zfP5KCJPhh5--kuurILEUg&dib_tag=se&keywords=xiaomi%2Bsound%2Boutdoor&qid=1742234895&sprefix=xiaomi%2Bsound%2Boutdoo%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=44280b93bfe81370fbc637e1e1b0054a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B0D9ZHZDV3?crid=3RA4TEAI06H5I&dib=eyJ2IjoiMSJ9.q99J2aDzdHfFkAp1RNroBh81NzfQa1-e1h74nWrFNw46wu0iF8Txs8y-tJcuth-eN2EmHNyW6cMggBKjyUJxE0PeT2nilstKGezarquzJjbjSDqKC5JdukHD4W6nKe_qdp1yD5OeRKDAP11cqGtmgqISK5_g_bYhU_TzD_BQ9B8_ye9dJYrcHV7I8DbNhpg9s2qnddmGOcEFtyfGGn51Lqb8BhYuNGWbBHHx1K5el5Q.nctcp_LM8Qx9CB4-cOvd6zfP5KCJPhh5--kuurILEUg&dib_tag=se&keywords=xiaomi%2Bsound%2Boutdoor&qid=1742234895&sprefix=xiaomi%2Bsound%2Boutdoo%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=44280b93bfe81370fbc637e1e1b0054a&language=en_US&ref_=as_li_ss_tl)]: $33
+## #42 [Xiaomi Sound Outdoor](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B0D9ZHZDV3?crid=3RA4TEAI06H5I&dib=eyJ2IjoiMSJ9.q99J2aDzdHfFkAp1RNroBh81NzfQa1-e1h74nWrFNw46wu0iF8Txs8y-tJcuth-eN2EmHNyW6cMggBKjyUJxE0PeT2nilstKGezarquzJjbjSDqKC5JdukHD4W6nKe_qdp1yD5OeRKDAP11cqGtmgqISK5_g_bYhU_TzD_BQ9B8_ye9dJYrcHV7I8DbNhpg9s2qnddmGOcEFtyfGGn51Lqb8BhYuNGWbBHHx1K5el5Q.nctcp_LM8Qx9CB4-cOvd6zfP5KCJPhh5--kuurILEUg&dib_tag=se&keywords=xiaomi%2Bsound%2Boutdoor&qid=1742234895&sprefix=xiaomi%2Bsound%2Boutdoo%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=44280b93bfe81370fbc637e1e1b0054a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B0D9ZHZDV3?crid=3RA4TEAI06H5I&dib=eyJ2IjoiMSJ9.q99J2aDzdHfFkAp1RNroBh81NzfQa1-e1h74nWrFNw46wu0iF8Txs8y-tJcuth-eN2EmHNyW6cMggBKjyUJxE0PeT2nilstKGezarquzJjbjSDqKC5JdukHD4W6nKe_qdp1yD5OeRKDAP11cqGtmgqISK5_g_bYhU_TzD_BQ9B8_ye9dJYrcHV7I8DbNhpg9s2qnddmGOcEFtyfGGn51Lqb8BhYuNGWbBHHx1K5el5Q.nctcp_LM8Qx9CB4-cOvd6zfP5KCJPhh5--kuurILEUg&dib_tag=se&keywords=xiaomi%2Bsound%2Boutdoor&qid=1742234895&sprefix=xiaomi%2Bsound%2Boutdoo%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=44280b93bfe81370fbc637e1e1b0054a&language=en_US&ref_=as_li_ss_tl)]: $33
 - Positives: A pretty decent sounding speaker.
 - Negatives: Boosted bass. Somewhat uncontrolled in the bass at high levels
 - App: No
@@ -995,7 +994,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-outdoor/)
     - [Direct Speakerranking Link](/small-medium-size-pages/Xiaomi+Sound+Outdoor/)
 
-### #43 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325)]: $250
+## #43 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325)]: $250
 - Positives: Cool light show, although not synced to the music like the Pulse 2.
 - Negatives: Not quite as deep bass as others. Plastic scratches easily.
 - App: Yes
@@ -1012,7 +1011,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Pulse+5/)
 
-### #44 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)]: $80 after $20 coupon
+## #44 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)]: $80 after $20 coupon
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 54hz
 - Max Volume: 100db
@@ -1023,7 +1022,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa3166011)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Glow/)
 
-### #45 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39V6kzd)]: $64
+## #45 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39V6kzd)]: $64
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
 - App: Yes
 - Aux Input: Yes
@@ -1041,7 +1040,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://w-kingaudio.com/products/w-king-d320-40w-portable-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/W-King+D320/)
 
-### #46 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325)]: $300
+## #46 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325)]: $300
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble. Only IP55.
 - Aux Input: Yes
 - Battery Life: 17 hours
@@ -1057,7 +1056,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-revolve-ii-bluetooth-speaker/SLRVPII-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Revolve++II/)
 
-### #47 Bose Soundlink Revolve+: $230
+## #47 Bose Soundlink Revolve+: $230
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
 - Aux Input: Yes
 - Bass Extension (-10dB): 56hz
@@ -1076,7 +1075,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Revolve+/)
 
-### #48 Tronsmart Element Force: $66
+## #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
@@ -1091,7 +1090,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tronsmart.com/products/element-force-waterproof-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tronsmart+Element+Force/)
 
-### #49 Bose Soundlink Revolve: $180
+## #49 Bose Soundlink Revolve: $180
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
 - Aux Input: Yes
 - Bass Extension (-10dB): 60hz
@@ -1112,7 +1111,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Revolve/)
 
-### #50 [Tribit Stormbox Flow](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325)]: $60
+## #50 [Tribit Stormbox Flow](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325)]: $60
 - Negatives: Not stereo. Midrange and bass are weirdly recessed about 4db below 700hz. You need xbass mode for it to not sound like a clock radio with missing bass. You also can't turn up the bass enough in the custom EQ modes to get it neutral, so it will sound bass light. Firmware 1.2.3 fixes the distortion issues with xbass mode on, but bass still sounds wobbly and uncontrolled.
 - App: Yes
 - Bass Extension (-10dB): 47hz
@@ -1134,7 +1133,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-flow-portable-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Stormbox+Flow/)
 
-### #51 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325)]: $85
+## #51 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325)]: $85
 - Negatives: Not stereo. 1 Oval driver. Boosted bass, top a little rolled off, warm sound. Not as loud as a Charge 3.
 - Aux Input: Yes
 - Bass Extension (-10dB): 54hz
@@ -1161,7 +1160,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+4/)
 
-### #52 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325)]: $36
+## #52 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325)]: $36
 - Positives: Use bass model for flattest response. Pretty deep bass for the money.
 - Negatives: Peaks in the upper mids, low treble and a big peak in upper treble.
 - Bass Extension (-10dB): 52hz
@@ -1178,7 +1177,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tozostore.com/products/pa2)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tozo+PA1/)
 
-### #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
+## #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
 - Negatives: Front/rear driver configuration. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Aux Input: Yes
 - Bass Extension (-10dB): 61hz
@@ -1197,7 +1196,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Bogasing+M5/)
 
-### #54 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325)]: $50
+## #54 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325)]: $50
 - Negatives: A little less bass than similar size speakers.
 - App: Yes
 - Bass Extension (-10dB): 60hz
@@ -1216,7 +1215,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3117011&cjsku=A3117011)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+3Soundcore+Select+2/)
 
-### #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
+## #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
@@ -1233,7 +1232,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-mini-ii-special-edition/SLMINIISE-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Mini+2/)
 
-### #56 Bose Soundlink Mini: $150
+## #56 Bose Soundlink Mini: $150
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
@@ -1251,7 +1250,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://support.bose.com/s/product/soundlink-mini-bluetooth-speaker/01t8c00000OydNqAAJ)
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+Soundlink+Mini/)
 
-### #57 [Xiaomi Mi Portable](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325)]: $55
+## #57 [Xiaomi Mi Portable](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325)]: $55
 - Negatives: A bit of a sharp treble
 - Battery Life: 13 hours
 - Weight: 0.82lbs / 373g
@@ -1261,7 +1260,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.mi.com/global/product/mi-portable-bluetooth-speaker/)
     - [Direct Speakerranking Link](/small-medium-size-pages/Xiaomi+Mi+Portable/)
 
-### #58 Sony XB33: $110
+## #58 Sony XB33: $110
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: No
 - Bass Extension (-10dB): 50hz
@@ -1281,7 +1280,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sony+XB33/)
 
-### #59 Creative iRoar Go: $83
+## #59 Creative iRoar Go: $83
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
 - Bass Extension (-10dB): 64hz
@@ -1295,7 +1294,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.creative.com/p/speakers/creative-iroar-go)
     - [Direct Speakerranking Link](/small-medium-size-pages/Creative+iRoar+Go/)
 
-### #60 [Beats Pill 2024](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl)]: $150
+## #60 [Beats Pill 2024](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl)]: $150
 - Negatives: Boosted upper bass, somewhat thuddy. Slightly recessed mids. Rolled off treble. This may move around a little as better sound samples are found.
 - App: Yes
 - Aux Input: No
@@ -1319,7 +1318,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.beatsbydre.com/speakers/beats-pill)
     - [Direct Speakerranking Link](/small-medium-size-pages/Beats+Pill+2024/)
 
-### #61 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325)]: $90
+## #61 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325)]: $90
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
@@ -1334,7 +1333,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+FLIP+5-.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Flip+5/)
 
-### #62 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325)]: $70
+## #62 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325)]: $70
 - Positives: Less bass than a Flip 5. Peaky lower treble.
 - Negatives: Battery failures are common.
 - Aux Input: Yes
@@ -1355,7 +1354,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/gift-yourself/JBL+Flip+4.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Flip+4/)
 
-### #63 Sony XB23: $100
+## #63 Sony XB23: $100
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
 - Bass Extension (-10dB): 67hz
@@ -1371,7 +1370,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sony+XB23/)
 
-### #64 [Klipsch Nashville](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl)]: $150
+## #64 [Klipsch Nashville](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl)]: $150
 - Negatives: Upper bass boost. Bass not as deep as the top ranked speakers. Boosted lower treble, sounds a little harsh like most Klipsch speakers.
 - App: Yes
 - Aux Input: No
@@ -1393,7 +1392,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.klipsch.com/products/nashville)
     - [Direct Speakerranking Link](/small-medium-size-pages/Klipsch+Nashville/)
 
-### #65 JBL Flip Essential: $130
+## #65 JBL Flip Essential: $130
 - Negatives: Less bass than a Flip 5.
 - App: No
 - Battery Life: 10 hours
@@ -1406,7 +1405,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Flip+Essential/)
 
-### #66 JBL Charge 3: $80
+## #66 JBL Charge 3: $80
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
@@ -1429,7 +1428,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+3/)
 
-### #67 JBL Charge Essential: $180
+## #67 JBL Charge Essential: $180
 - Negatives: Less clarity than the Flip 4, highs rolled off. An overpriced rebranded Charge 3 for people who want stereo sound.
 - App: No
 - Battery Life: 20 hours
@@ -1445,7 +1444,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+Essential/)
 
-### #68 JBL Charge 2
+## #68 JBL Charge 2
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
 - Power Bank: Yes
@@ -1461,7 +1460,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/charge/JBL+CHARGE+II+PLUS.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/JBL+Charge+2/)
 
-### #69 [Sonos Roam 2](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl)]: $180
+## #69 [Sonos Roam 2](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl)]: $180
 - Positives: Very neutral. Additional button for pairing instead of being shared with power button
 - Negatives: Exact same sound quality as the original Roam. Bass extension isn't very good. Not stereo. Gets distorted as you turn up the bass.
 - Bass Extension (-10dB): 63hz
@@ -1476,7 +1475,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sonos+Roam+2/)
 
-### #70 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325)]: $160
+## #70 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325)]: $160
 - Positives: Very neutral.
 - Negatives: Bass extension isn't very good. Not stereo. Gets distorted if you turn up the bass.
 - Bass Extension (-10dB): 63hz
@@ -1493,7 +1492,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sonos+Roam/)
 
-### #71 [Tronsmart Mirtune S100](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl)]: $64
+## #71 [Tronsmart Mirtune S100](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl)]: $64
 - Positives: Reasonably balanced
 - Negatives: Lacking deeper bass compared to higher ranked speakers
 - Bass Extension (-10dB): ~64hz
@@ -1509,7 +1508,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-mirtune-s100-portable-outdoor-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tronsmart+Mirtune+S100/)
 
-### #72 [Treblab HD77](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl)]: $60
+## #72 [Treblab HD77](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl)]: $60
 - Negatives: Lacking quite a bit of bass compared to higher ranked speakers. Unable to disable the music flashing lights
 - Bass Extension (-10dB): ~66hz
 - Battery Life: 20 hours
@@ -1526,7 +1525,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://treblab.com/products/treblab-hd77)
     - [Direct Speakerranking Link](/small-medium-size-pages/Treblab+HD77/)
 
-### #73 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl)]: $31
+## #73 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl)]: $31
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
 - Aux Input: Yes
@@ -1543,7 +1542,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-xsound-go-bluetooth-speakers)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Xsound+Go/)
 
-### #74 Tribit Xsound Surf: $26
+## #74 Tribit Xsound Surf: $26
 - Negatives: Bass doesn't go as deep as others, strange midrange peaks
 - Aux Input: Yes
 - Battery Life: 10 hours
@@ -1555,7 +1554,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Xsound+Surf/)
 
-### #75 [Tribit Stormbox 2](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl)]: $70
+## #75 [Tribit Stormbox 2](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl)]: $70
 - Positives: A little better sounding than the Stormbox 1, less of a rolled off treble. Keep Xbass on for best frequency response.
 - Negatives: Drivers on the side, so it will have a rolled off treble listening to it face on.
 - App: Yes
@@ -1577,7 +1576,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-2-portable-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Stormbox+2/)
 
-### #76 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl)]: $35
+## #76 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl)]: $35
 - Negatives: Bass doesn't go as deep as others
 - Aux Input: Yes
 - Battery Life: 24 hours
@@ -1590,7 +1589,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-2&cjsku=A3105016)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+2/)
 
-### #77 [LG Xboom Grab](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl)]: $127
+## #77 [LG Xboom Grab](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl)]: $127
 - Negatives: Bass extension not as deep as the top speakers. Overpriced. This may move around in the rankings as we get better sound samples
 - App: Yes
 - Bass Extension (-10dB): 75hz
@@ -1612,7 +1611,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.lg.com/us/speakers/lg-xboom-grab-portable-speaker>
     - [Direct Speakerranking Link](/small-medium-size-pages/LG+Xboom+Grab/)
 
-### #78 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325)]: $163
+## #78 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325)]: $163
 - Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 70hz
 - Battery Life: 20 hours
@@ -1628,7 +1627,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Megaboom+3/)
 
-### #79 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325)]: $72
+## #79 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325)]: $72
 - Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 76hz
 - Battery Life: 14 hours
@@ -1646,7 +1645,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.ultimateears.com/products/wonderboom-3)
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Wonderboom+3/)
 
-### #80 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325)]: $80
+## #80 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325)]: $80
 - Negatives: Not stereo, barely any bass, recessed treble. Slightly boosted 93hz upper bass Dip at 9khz. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2019. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 82hz
 - Battery Life: 12 hours
@@ -1660,7 +1659,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Wonderboom+2/)
 
-### #81 Ultimate Ears Wonderboom
+## #81 Ultimate Ears Wonderboom
 - Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
 - Battery Life: 10 hours
 - Power Input: Micro USB
@@ -1674,7 +1673,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Wonderboom/)
 
-### #82 [Ultimate Ears Boom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Crystal-Clear/dp/B0CVFKZ1LC?crid=3U72X6PVZ2GFH&dib=eyJ2IjoiMSJ9.33gymUy3DwEfBahHTOxYJA7JhA-u-tUoOua5DiZq8jLsWrF6P6xVGTGicayF7U1HhhkYMjwaJgVpScwTzwCa16Yp--yrOPpQZtWkV7HSPh_a_TPz_iyTGPqRySg3PnubilpBCNv4bn8xg42GXsP5LUjFA7xSSUq92w24l6kaAfR1zG3kg7j21-pDygVclL7h5r-9eH6Dwq9LW8w5Wc9BazKVF6Uan_AclZQcsEJcCV4.Me_BZvfqBbl2-duddqaImFUdSIY94xhgddagq0QTZg8&dib_tag=se&keywords=ultimate%2Bears%2Bboom%2B4&qid=1727391457&sprefix=ultimate%2Bears%2Bboom%2B4%2Caps%2C304&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=98217fcf3c44881c9ed9ccc9087a8fea&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Crystal-Clear/dp/B0CVFKZ1LC?crid=3U72X6PVZ2GFH&dib=eyJ2IjoiMSJ9.33gymUy3DwEfBahHTOxYJA7JhA-u-tUoOua5DiZq8jLsWrF6P6xVGTGicayF7U1HhhkYMjwaJgVpScwTzwCa16Yp--yrOPpQZtWkV7HSPh_a_TPz_iyTGPqRySg3PnubilpBCNv4bn8xg42GXsP5LUjFA7xSSUq92w24l6kaAfR1zG3kg7j21-pDygVclL7h5r-9eH6Dwq9LW8w5Wc9BazKVF6Uan_AclZQcsEJcCV4.Me_BZvfqBbl2-duddqaImFUdSIY94xhgddagq0QTZg8&dib_tag=se&keywords=ultimate%2Bears%2Bboom%2B4&qid=1727391457&sprefix=ultimate%2Bears%2Bboom%2B4%2Caps%2C304&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=98217fcf3c44881c9ed9ccc9087a8fea&language=en_US&ref_=as_li_ss_tl)]: $105
+## #82 [Ultimate Ears Boom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Crystal-Clear/dp/B0CVFKZ1LC?crid=3U72X6PVZ2GFH&dib=eyJ2IjoiMSJ9.33gymUy3DwEfBahHTOxYJA7JhA-u-tUoOua5DiZq8jLsWrF6P6xVGTGicayF7U1HhhkYMjwaJgVpScwTzwCa16Yp--yrOPpQZtWkV7HSPh_a_TPz_iyTGPqRySg3PnubilpBCNv4bn8xg42GXsP5LUjFA7xSSUq92w24l6kaAfR1zG3kg7j21-pDygVclL7h5r-9eH6Dwq9LW8w5Wc9BazKVF6Uan_AclZQcsEJcCV4.Me_BZvfqBbl2-duddqaImFUdSIY94xhgddagq0QTZg8&dib_tag=se&keywords=ultimate%2Bears%2Bboom%2B4&qid=1727391457&sprefix=ultimate%2Bears%2Bboom%2B4%2Caps%2C304&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=98217fcf3c44881c9ed9ccc9087a8fea&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Crystal-Clear/dp/B0CVFKZ1LC?crid=3U72X6PVZ2GFH&dib=eyJ2IjoiMSJ9.33gymUy3DwEfBahHTOxYJA7JhA-u-tUoOua5DiZq8jLsWrF6P6xVGTGicayF7U1HhhkYMjwaJgVpScwTzwCa16Yp--yrOPpQZtWkV7HSPh_a_TPz_iyTGPqRySg3PnubilpBCNv4bn8xg42GXsP5LUjFA7xSSUq92w24l6kaAfR1zG3kg7j21-pDygVclL7h5r-9eH6Dwq9LW8w5Wc9BazKVF6Uan_AclZQcsEJcCV4.Me_BZvfqBbl2-duddqaImFUdSIY94xhgddagq0QTZg8&dib_tag=se&keywords=ultimate%2Bears%2Bboom%2B4&qid=1727391457&sprefix=ultimate%2Bears%2Bboom%2B4%2Caps%2C304&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=98217fcf3c44881c9ed9ccc9087a8fea&language=en_US&ref_=as_li_ss_tl)]: $105
 - Negatives: Not much improvement over the old ones. Weak bass extension and thuddy bass. Gets distorted above 90%
 - App: Yes
 - Battery Life: 15 hours
@@ -1688,7 +1687,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.ultimateears.com/products/boom-4)
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Boom+4/)
 
-### #83 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325)]: $113
+## #83 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325)]: $113
 - Negatives: Not stereo, barely any bass, recessed treble. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2021. Lots of mentions of failing batteries on amazon. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 91hz
 - Battery Life: 15 hours
@@ -1703,7 +1702,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.ultimateears.com/products/boom-3)
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Boom+3/)
 
-### #84 [Klipsch Groove/Heritage Groove](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl)]: $100
+## #84 [Klipsch Groove/Heritage Groove](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl)]: $100
 - Positives: Pretty balanced sound.
 - Negatives: Not stereo. Bass doesn't go as deep as others its size. Gets distorted at higher levels. Wouldn't generally recommend these old speakers as they can't compete with modern speakers for bass performance and features.
 - Aux Input: Yes
@@ -1719,7 +1718,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.klipsch.com/products/groove-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Klipsch+GrooveHeritage+Groove/)
 
-### #85 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl)]: $137
+## #85 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl)]: $137
 - Negatives: Muffled sounding, not very deep bass. Hollow sounding. Worse than a XB43
 - Battery Life: 24 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1733,7 +1732,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe300-bz)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sony+SRS-XE300/)
 
-### #86 [Tribit Stormbox](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl)]: $68
+## #86 [Tribit Stormbox](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl)]: $68
 - Negatives: Muffled sounding, treble dips from 5khz-12khz. Listening from the front is the worst frequency response, lay it down facing up with xbass off for the smoothest response. Not technically a 360 speaker, only front and rear.
 - App: No
 - Aux Input: Yes
@@ -1754,7 +1753,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-portable-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Stormbox/)
 
-### #87 Sony SRS-XB20
+## #87 Sony SRS-XB20
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.
 - Aux Input: Yes
 - Battery Life: 12 hours
@@ -1767,7 +1766,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb20/manuals)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sony+SRS-XB20/)
 
-### #88 [Yamaha True X Speaker 1A](https://www.amazon.com/YAMAHA-Portable-Wireless-Bluetooth-Exclusively/dp/B0CBQQSHGM?crid=2UHHO6UV7AZ69&dib=eyJ2IjoiMSJ9.aVAsiNLT5M4EXGKazs3oTmAGQJ4at1WepJt1khTnzpI_sxWldjnwRnTB3T-8uEmeFZwhgaHusmIVyEUk7IunrjvylOybgSl-9E0dAXqhim78z8a0f3jPR7lkLBwNjz94c-uPD-dP3z7hCq1VxiOTIIYtKsF-2MQVRpaZmS3WTyI9Bk2dj4w3Wd4soh88aehpw0OJBTZaKSNbMjHa5QO-whL2R3ytxvr1R_1To3j4NrE.S0if--6zcXzGzXRxioRHu36211Je9xUNG_B5hVIhDDY&dib_tag=se&keywords=Yamaha+True+X+Speaker+1A&qid=1729615814&sprefix=yamaha+true+x+speaker+1a%2Caps%2C227&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2d78b248fda656cee21a26a0bd867a57&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/YAMAHA-Portable-Wireless-Bluetooth-Exclusively/dp/B0CBQQSHGM?crid=2UHHO6UV7AZ69&dib=eyJ2IjoiMSJ9.aVAsiNLT5M4EXGKazs3oTmAGQJ4at1WepJt1khTnzpI_sxWldjnwRnTB3T-8uEmeFZwhgaHusmIVyEUk7IunrjvylOybgSl-9E0dAXqhim78z8a0f3jPR7lkLBwNjz94c-uPD-dP3z7hCq1VxiOTIIYtKsF-2MQVRpaZmS3WTyI9Bk2dj4w3Wd4soh88aehpw0OJBTZaKSNbMjHa5QO-whL2R3ytxvr1R_1To3j4NrE.S0if--6zcXzGzXRxioRHu36211Je9xUNG_B5hVIhDDY&dib_tag=se&keywords=Yamaha+True+X+Speaker+1A&qid=1729615814&sprefix=yamaha+true+x+speaker+1a%2Caps%2C227&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2d78b248fda656cee21a26a0bd867a57&language=en_US&ref_=as_li_ss_tl)]: $150
+## #88 [Yamaha True X Speaker 1A](https://www.amazon.com/YAMAHA-Portable-Wireless-Bluetooth-Exclusively/dp/B0CBQQSHGM?crid=2UHHO6UV7AZ69&dib=eyJ2IjoiMSJ9.aVAsiNLT5M4EXGKazs3oTmAGQJ4at1WepJt1khTnzpI_sxWldjnwRnTB3T-8uEmeFZwhgaHusmIVyEUk7IunrjvylOybgSl-9E0dAXqhim78z8a0f3jPR7lkLBwNjz94c-uPD-dP3z7hCq1VxiOTIIYtKsF-2MQVRpaZmS3WTyI9Bk2dj4w3Wd4soh88aehpw0OJBTZaKSNbMjHa5QO-whL2R3ytxvr1R_1To3j4NrE.S0if--6zcXzGzXRxioRHu36211Je9xUNG_B5hVIhDDY&dib_tag=se&keywords=Yamaha+True+X+Speaker+1A&qid=1729615814&sprefix=yamaha+true+x+speaker+1a%2Caps%2C227&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2d78b248fda656cee21a26a0bd867a57&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/YAMAHA-Portable-Wireless-Bluetooth-Exclusively/dp/B0CBQQSHGM?crid=2UHHO6UV7AZ69&dib=eyJ2IjoiMSJ9.aVAsiNLT5M4EXGKazs3oTmAGQJ4at1WepJt1khTnzpI_sxWldjnwRnTB3T-8uEmeFZwhgaHusmIVyEUk7IunrjvylOybgSl-9E0dAXqhim78z8a0f3jPR7lkLBwNjz94c-uPD-dP3z7hCq1VxiOTIIYtKsF-2MQVRpaZmS3WTyI9Bk2dj4w3Wd4soh88aehpw0OJBTZaKSNbMjHa5QO-whL2R3ytxvr1R_1To3j4NrE.S0if--6zcXzGzXRxioRHu36211Je9xUNG_B5hVIhDDY&dib_tag=se&keywords=Yamaha+True+X+Speaker+1A&qid=1729615814&sprefix=yamaha+true+x+speaker+1a%2Caps%2C227&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2d78b248fda656cee21a26a0bd867a57&language=en_US&ref_=as_li_ss_tl)]: $150
 - Negatives: Not very deep bass, upper mids peak that makes voices sibilant
 - Battery Life: 12 hours
 - IP Rating: IP67
@@ -1780,7 +1779,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://usa.yamaha.com/products/audio_visual/desktop_audio/truexspeaker1a/index.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Yamaha+True+X+Speaker+1A/)
 
-### #89 [Tronsmart T7](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl)]: $43
+## #89 [Tronsmart T7](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl)]: $43
 - Negatives: Peaky in the upper mids and in the mid treble. Worse bass extension than similar size speakers
 - Battery Life: 12 hours
 - MicroSD: Yes
@@ -1791,7 +1790,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-t7-portable-outdoor-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tronsmart+T7/)
 
-### #90 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl)]: $20
+## #90 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl)]: $20
 - Negatives: Not much bass, peaky upper mids
 - Battery Life: 16 hours
 - Reviews, Comparisons and Sound Samples
@@ -1799,7 +1798,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Raymate+R5/)
 
-### #91 Bose SoundLink Color II
+## #91 Bose SoundLink Color II
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble
 - Battery Life: 8 hours
 - Party Mode: Yes (Bose Party mode)
@@ -1816,7 +1815,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://support.bose.com/s/product/soundlink-color-bluetooth-speaker-ii/01t8c00000OydNUAAZ)
     - [Direct Speakerranking Link](/small-medium-size-pages/Bose+SoundLink+Color+II/)
 
-### #92 [Marshall Emberton III](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl)]: $150
+## #92 [Marshall Emberton III](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl)]: $150
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud. Not really any different from the Emberton II except having the treble turned down a little bit.
 - App: Yes
 - Bass Extension (-10dB): 62hz
@@ -1831,7 +1830,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-iii)
     - [Direct Speakerranking Link](/small-medium-size-pages/Marshall+Emberton+III/)
 
-### #93 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl)]: $132
+## #93 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl)]: $132
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud.
 - App: Yes
 - Bass Extension (-10dB): 62hz
@@ -1850,7 +1849,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
     - [Direct Speakerranking Link](/small-medium-size-pages/Marshall+Emberton+II/)
 
-### #94 Hifuture Soundpro
+## #94 Hifuture Soundpro
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight: 1.1lbs / 500g
 - Reviews, Comparisons and Sound Samples
@@ -1860,7 +1859,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://hifuturegroup.com/pages/soundpro)
     - [Direct Speakerranking Link](/small-medium-size-pages/Hifuture+Soundpro/)
 
-### #95 Cabasse Swell: $300
+## #95 Cabasse Swell: $300
 - Negatives: Bass boosted. Bass gets distorted and thuddy. Mids recessed
 - Battery Life: 10 hours
 - Stereo: Yes
@@ -1871,7 +1870,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Cabasse+Swell/)
 
-### #96 Teufel Rockster Go: €83.00
+## #96 Teufel Rockster Go: €83.00
 - Negatives: Rolled off treble, muffled sound, mids sound strange. Bass not very deep. Only available in Europe.
 - Aux Input: Yes
 - Battery Life: 12 hours
@@ -1883,7 +1882,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://lu.teufelaudio.com/rockster-go-105727000)
     - [Direct Speakerranking Link](/small-medium-size-pages/Teufel+Rockster+Go/)
 
-### #97 Sony SRS-XB30
+## #97 Sony SRS-XB30
 - Negatives: Muffled sound, worse than a XB20
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
@@ -1897,7 +1896,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sony.com/electronics/support/product/srs-xb30/manuals)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sony+SRS-XB30/)
 
-### #98 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325)]: $80
+## #98 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325)]: $80
 - Positives: Try Alan Ross's EQ for it here <https://ibb.co/q9mcNk1>
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
 - App: Yes
@@ -1916,7 +1915,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
     - [Direct Speakerranking Link](/small-medium-size-pages/Soundcore+Flare+2/)
 
-### #99 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
+## #99 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
@@ -1931,7 +1930,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/W-King+D8+Mini/)
 
-### #100 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325)]: $36
+## #100 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325)]: $36
 - Negatives: Quite a bit of bass distortion thudding as you turn the volume up. Bass not that deep. The Tozo PA1 totally outclasses it.
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: The New Tozo PA2 vs PA1 😵 A Bluetooth Speaker Family Feud. Mr Hand ☝️ Makes His Return](https://www.youtube.com/watch?v=FyPCrI3jz1Y)
@@ -1939,7 +1938,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tozostore.com/products/pa2)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tozo+PA2/)
 
-### #101 TDK A33
+## #101 TDK A33
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~72hz
@@ -1953,7 +1952,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/TDK+A33/)
 
-### #102 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
+## #102 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.
 - Bass Extension (-10dB): ~70hz
 - Battery Life: 27 hours
@@ -1967,7 +1966,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-explore)
     - [Direct Speakerranking Link](/small-medium-size-pages/B&O+Beosound+Explore/)
 
-### #103 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325)]: $97
+## #103 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325)]: $97
 - Negatives: Sounds hollow. Very muffled. Rolled off treble, weird midrange boost, just not great overall. Worse than a XB33.
 - Battery Life: 16 hours
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1980,7 +1979,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe200-bz)
     - [Direct Speakerranking Link](/small-medium-size-pages/Sony+SRS-XE200/)
 
-### #104 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100
+## #104 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100
 - Negatives: Barely any bass. 14khz peak, bright on top. Soundboost mode makes the top end even harsher.
 - Aux Input: Yes
 - Bass Extension (-10dB): 71hz
@@ -1993,7 +1992,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl5-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/LG+Xboom+Go+PL5/)
 
-### #105 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325)]: $90
+## #105 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325)]: $90
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 18 hours
 - Reviews, Comparisons and Sound Samples
@@ -2002,7 +2001,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/LG+Xboom+XG5/)
 
-### #106 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl)]: $23
+## #106 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl)]: $23
 - Negatives: Lacking quite a bit of bass. Sounds hollow and thuddy. Just not great overall.
 - Bass Extension: ~85hz
 - Battery Life: 12 hours
@@ -2016,7 +2015,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://tribit.com/products/stormbox-mini-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tribit+Stormbox+Mini/)
 
-### #107 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325)]: $32
+## #107 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325)]: $32
 - Negatives: Hugely lacking bass compared to similar size speakers. Sounds hollow and thuddy with frequency dips in the midrange.
 - Battery Life: 12 hours
 - MicroSD: Yes
@@ -2027,7 +2026,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Tronsmart+T7+Lite/)
 
-### #108 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
+## #108 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358
 - Aux Input: Yes
 - Bass Extension (-10dB): 87hz
@@ -2042,7 +2041,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page Dayton Audio Boost](https://parts-express.sjv.io/q4bNkj)
     - [Direct Speakerranking Link](/small-medium-size-pages/Dayton+Audio+Boost/)
 
-### #109 [Boat Stone 350/352/358](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB) [[Amazon](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB)]: ₹1,399
+## #109 [Boat Stone 350/352/358](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB) [[Amazon](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB)]: ₹1,399
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Dayton Audio Boost
 - Aux Input: Yes
 - Bass Extension (-10dB): 87hz
@@ -2059,7 +2058,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page Boat Stone 358](https://www.boat-lifestyle.com/products/stone-358-bluetooth-speaker)
     - [Direct Speakerranking Link](/small-medium-size-pages/Boat+Stone+350352358/)
 
-### #110 Harman Kardon Esquire 2: $200
+## #110 Harman Kardon Esquire 2: $200
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
 - Reviews, Comparisons and Sound Samples
@@ -2068,7 +2067,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
     - [Direct Speakerranking Link](/small-medium-size-pages/Harman+Kardon+Esquire+2/)
 
-### #111 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325)]: $36
+## #111 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325)]: $36
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
 - Reviews, Comparisons and Sound Samples
@@ -2076,7 +2075,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Raymate+S7/)
 
-### #112 Xdobo X8: $35
+## #112 Xdobo X8: $35
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz
@@ -2090,7 +2089,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
     - [Direct Speakerranking Link](/small-medium-size-pages/Xdobo+X8/)
 
-### #113 Xiaomi Mi Outdoor
+## #113 Xiaomi Mi Outdoor
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
 - IP Rating: IP55
@@ -2101,7 +2100,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Xiaomi+Mi+Outdoor/)
 
-### #114 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
+## #114 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Bass Extension (-10dB): ~64hz
 - Battery Life: 30 hours
@@ -2111,7 +2110,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Ortizan+X10/)
 
-### #115 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
+## #115 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
 - Negatives: Very little bass with horrible upper bass thud at higher levels
 - Bass Extension (-10dB): ~90hz
 - Battery Life: 20 hours
@@ -2122,7 +2121,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Oontz+Angle+3+Ultra/)
 
-### #116 Ultimate Ears Roll 2: $100
+## #116 Ultimate Ears Roll 2: $100
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Battery Life: 9 hours
 - Weight: 0.73lbs / 330g
@@ -2131,7 +2130,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Roll+2/)
 
-### #117 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
+## #117 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~90hz
@@ -2145,7 +2144,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Walla+Sound/)
 
-### #118 EFM Toledo
+## #118 EFM Toledo
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
 - Reviews, Comparisons and Sound Samples
@@ -2153,7 +2152,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/EFM+Toledo/)
 
-### #119 Beats Pill+: $230
+## #119 Beats Pill+: $230
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - App: Yes
 - Bass Extension (-10dB): 90hz
@@ -2164,7 +2163,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Beats+Pill+/)
 
-### #120 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
+## #120 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
 - Negatives: No bass, very rolled off treble. Distortion in the treble. Just doesn't sound good
 - Battery Life: 14 hours
 - Reviews, Comparisons and Sound Samples
@@ -2175,7 +2174,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Skullcandy+TerrainTerrain+XTTerrain+XL/)
 
-### #121 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: 40
+## #121 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: 40
 - Negatives: Barely any bass
 - Aux Input: Yes
 - Battery Life: 20 hours
@@ -2186,7 +2185,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Doss+Soundbox+Pro/)
 
-### #122 Doss Soundbox
+## #122 Doss Soundbox
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Aux Input: Yes
 - Bass Extension (-10dB): 140hz
@@ -2198,7 +2197,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Doss+Soundbox/)
 
-### #123 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl)]: $27
+## #123 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl)]: $27
 - Negatives: Mids and treble on the harsh side, not much bass
 - Battery Life: 24 hours
 - IP Rating: IPX7
@@ -2208,7 +2207,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Wisetiger+F10/)
 
-### #124 Doss E–Go II
+## #124 Doss E–Go II
 - Negatives: Horribly bad unless turned up, still not great
 - Aux Input: Yes
 - Bass Extension (-10dB): 120hz
@@ -2219,7 +2218,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Doss+E–Go+II/)
 
-### #125 [Ultimate Ears Megaboom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl)]: $200
+## #125 [Ultimate Ears Megaboom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl)]: $200
 - Negatives: A lot of distortion at higher volumes. Rolled off treble. Not very loud. They really screwed this up
 - App: Yes
 - Battery Life: 20 hours
@@ -2233,7 +2232,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-4)
     - [Direct Speakerranking Link](/small-medium-size-pages/Ultimate+Ears+Megaboom+4/)
 
-### #126 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl)]: $28
+## #126 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl)]: $28
 - Negatives: Very harsh treble, no bass.
 - Bass Extension (-10dB): 138hz
 - Battery Life: 14 hours
@@ -2245,7 +2244,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Oontz+Angle+3/)
 
-### #127 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c42agFcJ)]: $20
+## #127 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c42agFcJ)]: $20
 - Negatives: Sounds like a soup can, no bass at all. Weird frequency response all over.
 - Battery Life: 40 hours
 - IP Rating: IPX7
@@ -2255,7 +2254,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Zealot+S61/)
 
-### #128 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl)]: $60
+## #128 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl)]: $60
 - Negatives: Barely any bass, “pathetic sounding” said Jay's Reviews. Gets distorted with a lot of bass. The entire Altec Lansing Bluetooth speaker line likely also sounds similarly bad.
 - Battery Life: 30 hours
 - Weight: 2.7lbs / 1.22kg
@@ -2268,7 +2267,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/small-medium-size-pages/Altec+Lansing+Lifejacket+2+Lifejacket+3/)
 
-### #129 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl)]: $40
+## #129 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad
 - Bass Extension (-10dB): 185hz
 - Battery Life: 9 hours

@@ -7,7 +7,7 @@ share-description: "The Sony XB33 ranks #58 out of 129 total Medium Size Portabl
 
 The Sony XB33 ranks #58 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #58 Sony XB33: $110
+## #58 Sony XB33: $110
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: No
 - Bass Extension (-10dB): 50hz

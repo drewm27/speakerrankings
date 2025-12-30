@@ -7,7 +7,7 @@ share-description: "The Electrotec Stage One ranks #8 out of 48 total Party Size
 
 The Electrotec Stage One ranks #8 out of 48 total [Party Size Portable Bluetooth Speakers](/extreme-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #8 [Electrotec Stage One](https://www.electrotecaudio.com/stage-one/) [[Electrotecaudio](https://www.electrotecaudio.com/stage-one/)]: $1450
+## #8 [Electrotec Stage One](https://www.electrotecaudio.com/stage-one/) [[Electrotecaudio](https://www.electrotecaudio.com/stage-one/)]: $1450
 - Positives: Gigantic dual swappable battery. Longest runtime of any speaker at 100+ hours. Sounds very balanced. 12+ hour battery at full blast. Extremely loud.
 - Negatives: Designed for more loudness than deeper bass. Pretty expensive
 - App: Yes

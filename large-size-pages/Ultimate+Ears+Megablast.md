@@ -7,7 +7,7 @@ share-description: "The Ultimate Ears Megablast ranks #59 out of 75 total Large 
 
 The Ultimate Ears Megablast ranks #59 out of 75 total [Large Size Portable Bluetooth Speakers](/large-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #59 Ultimate Ears Megablast: $240
+## #59 Ultimate Ears Megablast: $240
 - Negatives: Bass is not very deep compared to the competition
 - Bass Extension (-10dB): 64hz
 - Battery Life: 16 hours

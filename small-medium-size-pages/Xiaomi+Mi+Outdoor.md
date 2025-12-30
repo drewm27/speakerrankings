@@ -7,7 +7,7 @@ share-description: "The Xiaomi Mi Outdoor ranks #113 out of 129 total Medium Siz
 
 The Xiaomi Mi Outdoor ranks #113 out of 129 total [Medium Size Portable Bluetooth Speakers](/small-medium-size/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
 
-### #113 Xiaomi Mi Outdoor
+## #113 Xiaomi Mi Outdoor
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
 - IP Rating: IP55
