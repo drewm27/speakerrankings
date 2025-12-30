@@ -10,11 +10,11 @@ This page summarizes the best portable Bluetooth speakers with microphone input 
 
 See this for [Speakers with Wireless Microphones](/top-recommended-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/top-recommended-microphone/)
 
-### The Best Loud Powered Speakers with Microphone Input
+## The Best Loud Powered Speakers with Microphone Input
 
 If you don't need a battery and need the speaker to be the loudest possible, PA speakers will be your best bet. The best ones are generally the [QSC K12.2](https://www.amazon.com/QSC-K12-2-Active-Powered-Loudspeaker/dp/B06Y477LND/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf3c0056f3ef63bee7512b791af2e9b6&camp=1789&creative=9325) (132dB peak) or the [EV EKX-12P](https://www.amazon.com/Electro-Voice-EKX12P-Range-Powered-Loudspeaker/dp/B0779P36PH/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=55e34def00766ce51d3d42ed06f4322a&camp=1789&creative=9325) (132dB peak)
 
-### The Best Battery Powered Bluetooth Speakers with Microphone Input
+## The Best Battery Powered Bluetooth Speakers with Microphone Input
 
 The best sounding [party size](/extreme-size/) loudest battery powered speaker for microphone usage is the [$1000 Electro-Voice Everse 12](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl). This will reach 126dB peaks and should be loud enough for wedding use.
 

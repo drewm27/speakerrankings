@@ -10,9 +10,9 @@ This page summarizes the best sounding inexpensive portable Bluetooth speakers o
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-recommended/) and [The Best Portable Bluetooth Speakers for Bass](/top-recommended-bass/). 
 
-### The Best Inexpensive Medium Size Speaker
+## The Best Inexpensive Medium Size Speaker
 
-#### The best inexpensive [small pocket size](/pocket-size/) battery powered portable Bluetooth speaker is the [**$25 Tozo PE1**](https://www.amazon.com/dp/B0DFH1V13J?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.162P84W5N64Z6&linkCode=tr1&tag=rankingspea01-20&linkId=amzn1.campaign.162P84W5N64Z6_1748476501170)
+### The best inexpensive [small pocket size](/pocket-size/) battery powered portable Bluetooth speaker is the [**$25 Tozo PE1**](https://www.amazon.com/dp/B0DFH1V13J?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.162P84W5N64Z6&linkCode=tr1&tag=rankingspea01-20&linkId=amzn1.campaign.162P84W5N64Z6_1748476501170)
 
 - Positives: Pretty amazing value for the money. Very long battery life.
 - Negatives: Bass not quite as deep as the top ranked speakers.
@@ -35,9 +35,9 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
     - [Official Product Page](https://www.tozostore.com/products/pe1-speaker)
 
 
-### The Best Inexpensive Medium Size Speaker
+## The Best Inexpensive Medium Size Speaker
 
-#### The best inexpensive [medium size](/small-medium-size/) battery powered portable Bluetooth speaker is the [**$50 Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7?crid=2992F60ORGRZS&dib=eyJ2IjoiMSJ9.qR8CZGQDBoXsAOw9Y72_DNL9FR4s_xvGnImzZ2bm4bQfhkyd7QtH7-jNOMiPEklPG4eDLBjmk1MAx4aExf9n-RNNkynu-0rvY_8Pz_cZdbeBpl2pDvccYQ4qGzBGxr7vu15qddrDqlb52kY2DSAAExgeL1m4kGI54-6C1D2GeEDuvUgbrVnyrG-eamCDKo5UxKJnHcBBrUXQzUac5p8vSanUXBQOKOuQN4qS9tDU0Qc.Mbeo5E-cyXEKb47y5825xTnR-TYU9nRQ-EoC9T7n9pQ&dib_tag=se&keywords=uboom+l&qid=1728538687&sprefix=uboom+%2Caps%2C204&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=414d38887e99851dcec65ad88cb86c6f&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and coupon UBOOMLWC in the payment options)
+### The best inexpensive [medium size](/small-medium-size/) battery powered portable Bluetooth speaker is the [**$50 Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7?crid=2992F60ORGRZS&dib=eyJ2IjoiMSJ9.qR8CZGQDBoXsAOw9Y72_DNL9FR4s_xvGnImzZ2bm4bQfhkyd7QtH7-jNOMiPEklPG4eDLBjmk1MAx4aExf9n-RNNkynu-0rvY_8Pz_cZdbeBpl2pDvccYQ4qGzBGxr7vu15qddrDqlb52kY2DSAAExgeL1m4kGI54-6C1D2GeEDuvUgbrVnyrG-eamCDKo5UxKJnHcBBrUXQzUac5p8vSanUXBQOKOuQN4qS9tDU0Qc.Mbeo5E-cyXEKb47y5825xTnR-TYU9nRQ-EoC9T7n9pQ&dib_tag=se&keywords=uboom+l&qid=1728538687&sprefix=uboom+%2Caps%2C204&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=414d38887e99851dcec65ad88cb86c6f&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and coupon UBOOMLWC in the payment options)
 
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone/) and he knocked it out of the park. The audiophile choice. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every volume level. Other speakers will need a different EQ at each volume level. For maximum volume without distortion use max volume - 1 step for most songs. Oluv left another higher volume for sounds that are quiet. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour).
 - Negatives: Latency is high (400ms) without turning on low latency mode (66ms) which doesn't work when two speakers are TWS paired. Low latency mode can be turned on by pressing the Bluetooth button twice. If latency in TWS paired mode is a very important feature, like if you watch a lot of video, you may want to choose another speaker. The power button can sometimes get accidentally pressed when put in a bag. The aux input has quite a bit of latency and isn't recommended for video use.
@@ -71,7 +71,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
 
 
-#### For cheaper there's the [**$36 Miatone Boompro**](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl)
+### For cheaper there's the [**$36 Miatone Boompro**](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Exactly the same as the Wisetiger P3 below. By far the best sounding speaker under $50. Actually very well balanced. Very balanced even at full volume. Short press the power button to change the lighting mode.
 - Negatives: Slightly less bass extension than higher ranked speakers.
@@ -91,9 +91,9 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
     - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
 
 
-### The Best Inexpensive Large Size Speaker
+## The Best Inexpensive Large Size Speaker
 
-#### The best inexpensive [large size](/large-size/) battery powered portable Bluetooth speaker is the [**$48 Zealot S97**](https://s.click.aliexpress.com/e/_c3t2EHtH) (After coupon YZZL10)
+### The best inexpensive [large size](/large-size/) battery powered portable Bluetooth speaker is the [**$48 Zealot S97**](https://s.click.aliexpress.com/e/_c3t2EHtH) (After coupon YZZL10)
 
 - Positives: There is nothing else for $48 with that deep of bass and a reasonable tuning
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
@@ -114,9 +114,9 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
     - [Official Product Page](https://www.zealot-audio.com/productshow_1324.html)
 
 
-### The Best Inexpensive Boombox Size Speaker
+## The Best Inexpensive Boombox Size Speaker
 
-#### The best inexpensive [boombox size](/boombox-size/) battery powered speaker for deep bass with excellent sound quality, that can get loud for a party but can still be carried by hand is the [**$110 Earfun Uboom X**](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and code UBOOMXDR in the payment options). Make sure you install the app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156), update the firmware and select an Oluv EQ like Indoor.
+### The best inexpensive [boombox size](/boombox-size/) battery powered speaker for deep bass with excellent sound quality, that can get loud for a party but can still be carried by hand is the [**$110 Earfun Uboom X**](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl) (after clipped coupon and code UBOOMXDR in the payment options). Make sure you install the app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156), update the firmware and select an Oluv EQ like Indoor.
 
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone) and he knocked it out of the park again. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every single volume level due to Oluv's individual EQ settings at each volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L.
 - Negatives: The out of the box 0.33 firmware and EQ sounds horrible. Some people have mentioned sound interruption issues when using 2 in TWS, I don't have this issue with my Pixel 7 Pro, try disabling AAC in that case
@@ -177,7 +177,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
 
 
-#### If the Uboom X is out of stock, I'd recommend the [**$160 Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)
+### If the Uboom X is out of stock, I'd recommend the [**$160 Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)
 
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
 - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings. The curved underside of the handle makes it a little harder to grip and can be uncomfortable to carry long distances.
@@ -220,9 +220,9 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/top-r
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
 
 
-### The Best Inexpensive Party Size Speaker
+## The Best Inexpensive Party Size Speaker
 
-#### The best inexpensive [party size](/extreme-size/) battery powered speaker is the [**$150 Onn Large Party gen 2**](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628).
+### The best inexpensive [party size](/extreme-size/) battery powered speaker is the [**$150 Onn Large Party gen 2**](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628).
 
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.

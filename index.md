@@ -16,7 +16,7 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 
 Feel free to share this anywhere people could find it useful, thanks!
 
-### Top Recommended Speakers By Preference
+## Top Recommended Speakers By Preference
 
 - [Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
 - [Best Portable Bluetooth Speakers For Audiophiles](/top-recommended-audiophile/)
@@ -35,7 +35,7 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Best Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
 - [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 
-### All Portable Bluetooth Speakers Ranked
+## All Portable Bluetooth Speakers Ranked
 
 - [Small Size Portable Bluetooth Speakers](/pocket-size/): 40 speakers ranked
 - [Medium Size Portable Bluetooth Speakers](/small-medium-size/): 129 speakers ranked
@@ -44,25 +44,25 @@ Feel free to share this anywhere people could find it useful, thanks!
 - [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
 - [Large Party Size Portable Bluetooth Speakers](/insane-size/): 9 speakers ranked
 
-### All Powered Speakers Ranked
+## All Powered Speakers Ranked
 
 - [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/): 8 speakers ranked
 - [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/): 24 speakers ranked
 - [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/): 21 speakers ranked
 - [Large Size Powered Floorstanding Speakers](/powered-floorstanding-large/): 1 speakers ranked
 
-### All Passive Speakers Ranked
+## All Passive Speakers Ranked
 - [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 21 speakers ranked
 - [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 48 speakers ranked 
 - [Large Size Floorstanding Speakers](/passive-floorstanding-large/): 26 speakers ranked
 
-### Related Products
+## Related Products
 
 - [Portable Power Stations and Power Banks](/portable-power-stations/)
 - [Karaoke Equipment and Setups](/karaoke-setups/)
 - [The Best Bluetooth TWS IEM Headphones](/best-bluetooth-tws-iems/)
 
-### Information
+## Information
 
 - [Information About the Rankings](/information-about-the-rankings/)
 - [Information Applying to All Speakers](/information-applying-to-all-speakers/)
