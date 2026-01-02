@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Large Size Powered Floorstanding Speakers Ranked 2025
+title: Large Size Powered Floorstanding Speakers Ranked 2026
 comments: true
 cover-img: "/assets/img/kefls60.jpg"
-share-description: "Compare the best large powered floorstanding speakers of 2025 with expert reviews, sound performance insights, and buying tips for rich, powerful audio."
+share-description: "Compare the best large powered floorstanding speakers of 2026 with expert reviews, sound performance insights, and buying tips for rich, powerful audio."
 ---
 
-This page ranks 1 large size powered floorstanding speakers. Last updated on 12/30/2025. The Large Floorstanding class of speakers generally have woofers 6.5" or larger. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 1 large size powered floorstanding speakers. Last updated on 01/01/2026. The Large Floorstanding class of speakers generally have woofers 6.5" or larger. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+
+For the best picks of this page see [Best Powered Home Bookshelf Speakers](/powered-top-recommended/)
 
 For general listening I would not hesitate to recommend any of these speakers on this page except for the ones at the bottom labeled not recommended. Nearly all of these sound fantastic. Studio monitoring use is more critical and I would generally recommend something near the top.
 
