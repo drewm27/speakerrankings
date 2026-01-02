@@ -42,14 +42,14 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 - [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
 - [Large Party Size Portable Bluetooth Speakers](/insane-size/): 9 speakers ranked
 
-## All Powered Speakers Ranked
+## All Home Powered Speakers Ranked
 
 - [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/): 8 speakers ranked
 - [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/): 24 speakers ranked
 - [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/): 21 speakers ranked
 - [Large Size Powered Floorstanding Speakers](/powered-floorstanding-large/): 1 speakers ranked
 
-## All Passive Speakers Ranked
+## All Home Passive Speakers Ranked
 - [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 21 speakers ranked
 - [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 48 speakers ranked 
 - [Large Size Floorstanding Speakers](/passive-floorstanding-large/): 26 speakers ranked
