@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Wharfedale Linton 85 ranks #17 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Wharfedale Linton 85 ranks #17 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Wharfedale Linton 85 ranks #17 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #17 [Wharfedale Linton 85](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Linton+85)]: $1700 a pair
 - Positives: Very neutral frequency response and good bass extension.

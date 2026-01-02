@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Genelec 8361A ranks #3 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Genelec 8361A ranks #3 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Genelec 8361A ranks #3 out of 21 total [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #3 [Genelec 8361A](https://www.bhphotovideo.com/c/product/1507380-REG/genelec_8361ap_3way_active_studio_monitor_dual.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1507380-REG/genelec_8361ap_3way_active_studio_monitor_dual.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8361A)]: $10900 a pair
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.

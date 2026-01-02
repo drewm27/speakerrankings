@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Audioengine HD4 ranks #24 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Audioengine HD4 ranks #24 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Audioengine HD4 ranks #24 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #24 [Audioengine HD4](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ) [[Amazon](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ)] [[Used Listings](https://www.hifizero.com/index.php?q=Audioengine+HD4)]: $400 a pair
 - Negatives: Not a great sounding speaker for the high price.

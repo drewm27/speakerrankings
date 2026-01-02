@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Studio 590 ranks #24 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Studio 590 ranks #24 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The JBL Studio 590 ranks #24 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #24 [JBL Studio 590](https://www.hifizero.com/index.php?q=JBL+Studio+590) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
 - Positives: Pretty deep bass

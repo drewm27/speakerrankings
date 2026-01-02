@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Ascend Sierra 1 v2 ranks #2 out of 21 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Ascend Sierra 1 v2 ranks #2 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference) for all the top speaker suggestions.
+The Ascend Sierra 1 v2 ranks #2 out of 21 total [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 [Ascend Sierra 1 v2](https://ascendacoustics.com/products/sierra-1-v2-pair) [[Ascendacoustics](https://ascendacoustics.com/products/sierra-1-v2-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Ascend+Sierra+1+v2)]: $1000
 - Positives: An extremely neutral response
