@@ -2,10 +2,10 @@
 layout: page
 title: Tribit Stormbox Micro 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tribit Stormbox Micro 2 ranks #1 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tribit Stormbox Micro 2 ranks #1 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tribit Stormbox Micro 2 ranks #1 out of 40 total [Small Size Portable Bluetooth Speakers](/portable/small/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tribit Stormbox Micro 2 ranks #1 out of 41 total [Small Size Portable Bluetooth Speakers](/portable/small/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $60
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
@@ -28,6 +28,7 @@ The Tribit Stormbox Micro 2 ranks #1 out of 40 total [Small Size Portable Blueto
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+    - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)

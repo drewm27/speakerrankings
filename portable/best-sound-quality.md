@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers ranked for sound quality. The best picks for every style and budget."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 01/02/2026. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers out of the 372 ranked on this website. Last updated on 01/02/2026. The suggestions in this section are biased towards value speakers with a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/best-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/portable/best-bass/). 
 
@@ -34,6 +34,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+    - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)

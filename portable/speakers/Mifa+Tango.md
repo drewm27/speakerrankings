@@ -2,12 +2,12 @@
 layout: page
 title: Mifa Tango Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Mifa Tango ranks #14 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Mifa Tango ranks #15 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Mifa Tango ranks #14 out of 40 total [Small Size Portable Bluetooth Speakers](/portable/small/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Mifa Tango ranks #15 out of 41 total [Small Size Portable Bluetooth Speakers](/portable/small/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #14 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325)]: $95
+## #15 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325)]: $95
 - Positives: Loudest pocket speaker by a little.
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - App: No

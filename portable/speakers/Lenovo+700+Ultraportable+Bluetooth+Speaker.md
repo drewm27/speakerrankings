@@ -2,12 +2,12 @@
 layout: page
 title: Lenovo 700 Ultraportable Bluetooth Speaker Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Lenovo 700 Ultraportable Bluetooth Speaker ranks #38 out of 40 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Lenovo 700 Ultraportable Bluetooth Speaker ranks #39 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Lenovo 700 Ultraportable Bluetooth Speaker ranks #38 out of 40 total [Small Size Portable Bluetooth Speakers](/portable/small/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Lenovo 700 Ultraportable Bluetooth Speaker ranks #39 out of 41 total [Small Size Portable Bluetooth Speakers](/portable/small/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #38 Lenovo 700 Ultraportable Bluetooth Speaker: $85
+## #39 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
 - Bass Extension (-10dB): ~220hz

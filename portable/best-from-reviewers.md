@@ -34,6 +34,7 @@ Oluv's favorite [small pocket size](/portable/small/) speaker is the [**$60 Trib
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+    - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)
@@ -204,6 +205,7 @@ Alan Ross's favorite [small pocket size](/portable/small/) speaker is the [**$60
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+    - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)
