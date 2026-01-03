@@ -8,6 +8,8 @@ share-description: "Browse our top-recommended Bluetooth speakers with the loude
 
 This page summarizes the loudest portable Bluetooth speakers out of the 371 ranked on this website. Last updated on 01/02/2026. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
+For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
+
 ## The Loudest Small Pocket Size Speaker
 
 ### The loudest [small pocket size](/portable/small/) battery powered speaker is the [**$60 Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)
