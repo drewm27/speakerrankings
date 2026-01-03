@@ -6,7 +6,7 @@ cover-img: "/assets/img/kefls60.jpg"
 share-description: "Compare the best large powered floorstanding speakers of 2026 with expert reviews, sound performance insights, and buying tips for rich, powerful audio."
 ---
 
-This page ranks 1 large size powered floorstanding speakers. Last updated on 01/02/2026. The Large Floorstanding class of speakers generally have woofers 6.5" or larger. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 1 large size powered floorstanding speakers. Last updated on 01/03/2026. The Large Floorstanding class of speakers generally have woofers 6.5" or larger. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For the best picks of this page see [Best Powered Home Bookshelf Speakers](/powered/best/)
 
@@ -35,7 +35,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)
 - Links
     - [Official Product Page](https://us.kef.com/products/ls60-wireless)
-    - [Direct Speakerranking Link](/powered/speakers/KEF+LS60/)
+    - [Direct Speakerranking Link](/powered/speakers/KEF-LS60/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

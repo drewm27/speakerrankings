@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore our top-rated boombox‑size Bluetooth speakers. Powerful picks with booming bass, long battery life, and bold sound for on-the-go or home use."
 ---
 
-This page ranks 70 boombox size powered Bluetooth speakers. Last updated on 01/02/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+This page ranks 70 boombox size powered Bluetooth speakers. Last updated on 01/03/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -75,7 +75,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
-    - [Direct Speakerranking Link](/portable/speakers/Earfun+Uboom+X/)
+    - [Direct Speakerranking Link](/portable/speakers/Earfun-Uboom-X/)
 
 ## #2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170 after coupon
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
@@ -117,7 +117,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tribit+Stormbox+Blast/)
+    - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast/)
 
 ## #3 [JBL Partybox Encore 2](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)] [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 1 wireless microphone. Better battery life than the first Encore.
@@ -148,7 +148,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
 - Links
     - [Official Product Page](https://uk.jbl.com/PARTYBOX-ENCORE-2.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Partybox+Encore+2/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore-2/)
 
 ## #4 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl)]: $230
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Better battery life than the first Encore.
@@ -174,7 +174,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-2.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Partybox+Encore+Essential+2/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore-Essential-2/)
 
 ## #5 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467) [[Walmart](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467)]: $230
 - Positives: A great sounding somewhat boosted bass party speaker. 2 included wireless microphones.
@@ -208,7 +208,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [True Techy: BOSE S1 Pro vs JBLPartybox ENCORE This Comparison SHOCKED me!!!](https://www.youtube.com/watch?v=WdmB0w0W7e4)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Partybox+Encore/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore/)
 
 ## #6 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)] [[Ebay Refurbished](https://www.ebay.com/itm/204761708018?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fFZ0h46Z2SVOh4TPBrU2A5h%2BV3qp3LWIAvQijmkNNYDE64BEvPiEJwGYk5XQX1uf8FCoz5lAczYNYLlAhK%2B9%2BuBXOgmkGz8hyvRk1ZJ8aDyAem6XRI8JfbaRb8DcdeEV09kiOZa0%2FUctuzrYroVq0GQMJrFkbUVbU3WhO0R1e%2FgIkBIJLyNUx9pLVpo%2FnoVek%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $250
 - Positives: A great sounding somewhat boosted bass party speaker.
@@ -235,7 +235,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Partybox+Encore+Essential/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore-Essential/)
 
 ## #7 [Harman Kardon Go + Play 3](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325)] [[Ebay Refurbished](https://www.ebay.com/itm/156428451357?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dYV7A0jR83JeTmj9j2vjkxlnm93aef1rGbuZw5OKLJdkqjRw0OY4TvrYIUrJH%2FALK16p3w%2BAr%2FJPGwMKf9CKxtEuKKVPJhwb2rlCol4P8zrio2QUpnurLOupEqKe3HCowQIrN9VYSF%2FwpSUseY6dCEFC2dZqD8QL05WsP2x3f7FqkRLju%2FkLebxrcI5VUf4X8%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $350
 - Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go + Play2.
@@ -265,7 +265,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/harman-kardon-go-100339904>
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman+Kardon+Go+++Play+3/)
+    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Go-+-Play-3/)
 
 ## #8 Aiwa Exos-9: $250
 - Positives: Still a great sounding speaker even against today's models.
@@ -291,7 +291,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=EaFtQNoYeKg>
     - <https://www.youtube.com/watch?v=QMvDPqHhA-4>
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Aiwa+Exos-9/)
+    - [Direct Speakerranking Link](/portable/speakers/Aiwa-Exos-9/)
 
 ## #9 [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325)]: $800
 - Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price. No water rating.
@@ -312,7 +312,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/copenhagen-2-0)
-    - [Direct Speakerranking Link](/portable/speakers/Vifa+Copenhagen+2.0/)
+    - [Direct Speakerranking Link](/portable/speakers/Vifa-Copenhagen-2.0/)
 
 ## #10 [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
 - Positives: Very deep bass, some of the deepest from this category. Medium bass boost is the most balanced.
@@ -337,7 +337,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links
     - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Brane+X/)
+    - [Direct Speakerranking Link](/portable/speakers/Brane-X/)
 
 ## #11 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325)]: $155
 - Positives: Warm sound with boosted bass.
@@ -361,7 +361,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-8-.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman+Kardon+Onyx+Studio+8/)
+    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-8/)
 
 ## #12 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325)]: $130
 - Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
@@ -387,7 +387,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX+STUDIO+6.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman+Kardon+Onyx+Studio+6/)
+    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-6/)
 
 ## #13 Harman Kardon Citation 200: $130
 - Positives: Deeper bass than any Onyx.
@@ -405,7 +405,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [KULAS TECH SHOW: Harman Kardon Citation 200 vs Onyx Studio 7 Bass comparison](https://www.youtube.com/watch?v=nhXQE196GvQ)
 - Links
     - [Official Product Page](https://www.harmankardon.com/home-audio/CITATION+200-.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman+Kardon+Citation+200/)
+    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Citation-200/)
 
 ## #14 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl)]: $134
 - Positives: Warm sound with boosted bass.
@@ -432,7 +432,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-7-.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman+Kardon+Onyx+Studio+7/)
+    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-7/)
 
 ## #15 [JBL Boombox 4](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)]: $550
 - Positives: Pretty insane output capability for the size.
@@ -458,7 +458,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: JBL Boombox 4 distortion fest bonanza! how bad can it be lol 🤣](https://www.youtube.com/watch?v=yocFGmXux_4)
 - Links
     - [Official Product Page](https://www.jbl.com/BOOMBOX-4.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Boombox+4/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-4/)
 
 ## #16 Harman Kardon Go + Play 2: $350
 - Positives: Warm sound with boosted bass.
@@ -482,7 +482,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: HK Go+ Play vs Soundcore Motion Boom - biggest bass battle ever!!!!!!!!!!!!](https://www.youtube.com/watch?v=NHVrFZKc5YM)
 - Links
     - [Official Product Page](https://www.harmankardon.com/GO+%2B+PLAYII.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman+Kardon+Go+++Play+2/)
+    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Go-+-Play-2/)
 
 ## #17 Harman Kardon Onyx Studio 5
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
@@ -500,7 +500,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+5.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman+Kardon+Onyx+Studio+5/)
+    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-5/)
 
 ## #18 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
 - Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
@@ -525,7 +525,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: Soundcore Rave 3🧐 🆚 Jbl Boombox 3 WiFi](https://www.youtube.com/watch?v=77pcClYhI6I)
 - Links
     - [Official Product Page](https://www.jbl.com/wifi-speakers/BOOMBOX-3-WIFI.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Boombox+3+Wifi/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3-Wifi/)
 
 ## #19 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325)]: $500
 - Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.
@@ -551,7 +551,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Boombox+3/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3/)
 
 ## #20 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
@@ -578,7 +578,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs Blast 😲 A Family Feud 🚗 Tailgater Special 🔋 Battery Powered 🎶 Old vs New](https://www.youtube.com/watch?v=IBMLaMH1IWU)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tribit+Stormbox+Blast+2/)
+    - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast-2/)
 
 ## #21 [Edifier D12](https://www.amazon.com/Edifier-D12-Tabletop-Speaker-Integrated/dp/B08QR7CT48?crid=19L3AWOW9IPV1&dib=eyJ2IjoiMSJ9.PP1UwlM68CCSoX_R0TP-F6_JvlU-a-AgEklKON_wjc6o9XAmhC_PAN2DC2IbuNJxSnk8e0KMSixcAvP-bkqfiOLi69gVTwQHluBo-Jl0hjeNeo9dCJcrPC5qMNokC6U0joIOuWhydLBVUPnORIaRonEJR4WXY6bqlbJX4DiHMej8tI5_j6dkT-IdNeAcJhY7efyKFQKnwAMuHJ0EWKTGmS2Az-PPvRjhDaV7E7MRftk.VcDfcqEg4Ck3fuVgo1UF4_MZVrJDoJqPc1_fg4ZYNho&dib_tag=se&keywords=edifier%2Bd12&qid=1724907500&sprefix=edifer%2Bd12%2Caps%2C310&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cd7c254a800239f4888509854d56915d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-D12-Tabletop-Speaker-Integrated/dp/B08QR7CT48?crid=19L3AWOW9IPV1&dib=eyJ2IjoiMSJ9.PP1UwlM68CCSoX_R0TP-F6_JvlU-a-AgEklKON_wjc6o9XAmhC_PAN2DC2IbuNJxSnk8e0KMSixcAvP-bkqfiOLi69gVTwQHluBo-Jl0hjeNeo9dCJcrPC5qMNokC6U0joIOuWhydLBVUPnORIaRonEJR4WXY6bqlbJX4DiHMej8tI5_j6dkT-IdNeAcJhY7efyKFQKnwAMuHJ0EWKTGmS2Az-PPvRjhDaV7E7MRftk.VcDfcqEg4Ck3fuVgo1UF4_MZVrJDoJqPc1_fg4ZYNho&dib_tag=se&keywords=edifier%2Bd12&qid=1724907500&sprefix=edifer%2Bd12%2Caps%2C310&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cd7c254a800239f4888509854d56915d&language=en_US&ref_=as_li_ss_tl)]: $140
 - Positives: Subwoofer line out.
@@ -599,7 +599,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/wireless-speakers/d12)
-    - [Direct Speakerranking Link](/portable/speakers/Edifier+D12/)
+    - [Direct Speakerranking Link](/portable/speakers/Edifier-D12/)
 
 ## #22 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl)]: $200
 - Positives: Quite a bit lighter than most of the other boombox size speakers. This speaker will likely move up as we get a good EQ tune that makes it a lot more neutral.
@@ -629,7 +629,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [EL JEFE REVIEWS: Soundcore Boom 2 Plus 💥 BIGGER & BADDER!](https://www.youtube.com/watch?v=RBYF_I7TcZU)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3134-boom2-plus-outdoor-bass-speaker&cjsku=A3134031)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore+Boom+2+Plus/)
+    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boom-2-Plus/)
 
 ## #23 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl)]: $250
 - Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
@@ -647,7 +647,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Klipsch The One Plus vs JBL Authentics 200 - 🛜 Battle of the Home Speakers🔌Guest Lando Calrissian 😆](https://www.youtube.com/watch?v=ezYZWoYEXfw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Authentics+200/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Authentics-200/)
 
 ## #24 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L]: $215
 ) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L]: $215
@@ -678,7 +678,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x20)
-    - [Direct Speakerranking Link](/portable/speakers/W-King+D20/)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-D20/)
 
 ## #25 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $300
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
@@ -705,7 +705,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
-    - [Direct Speakerranking Link](/portable/speakers/W-King+X20/)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-X20/)
 
 ## #26 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325)]: $350
 - Negatives: Somewhat bass heavy and boomy.
@@ -728,7 +728,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Boombox+2/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-2/)
 
 ## #27 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325)]: $330
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
@@ -751,7 +751,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Authentics+300/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Authentics-300/)
 
 ## #28 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
 - Positives: Wireless phone charging.
@@ -775,7 +775,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
-    - [Direct Speakerranking Link](/portable/speakers/BO+Beolit+20/)
+    - [Direct Speakerranking Link](/portable/speakers/BO-Beolit-20/)
 
 ## #29 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: 250€
 - Positives: Pretty balanced sound, slightly warm
@@ -794,7 +794,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: 2 x 🔊Teufel Boomster 2021🎵 vs JBL Boombox 2 AC🔌 Power Test Audio🎧.](https://www.youtube.com/watch?v=jsUSaTb7Ojs)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/boomster-106141000)
-    - [Direct Speakerranking Link](/portable/speakers/Teufel+Boomster+2021/)
+    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-2021/)
 
 ## #30 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325)]: $180
 - Positives: Quite deep bass for the size and money.
@@ -816,7 +816,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tronsmart+Bang+Max/)
+    - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Bang-Max/)
 
 ## #31 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c2wKDoLt)]: $150
 - Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. Wall wart charger.
@@ -837,7 +837,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
     - [Jay's Straight Up Reviews & More: Dual W-King T11 (EQ1, EQ2) 🆚 JBL Partybox 110 (Bass One) 📛 Are two T11's TWS Louder than one PB110?](https://www.youtube.com/watch?v=dk3KqC-cdsk)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/W-King+T11/)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-T11/)
 
 ## #32 [Marshall Stanmore II](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl)]: $300
 - Negatives: Not very deep bass. No battery. No water rating.
@@ -852,7 +852,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Marshall+Stanmore+II/)
+    - [Direct Speakerranking Link](/portable/speakers/Marshall-Stanmore-II/)
 
 ## #33 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325)]: $180
 - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
@@ -872,7 +872,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jagist reviews: Philips X7207 Vs Gemini GRV-650L!!! 😏😏😏](https://www.youtube.com/watch?v=Ej9mRqO5dvs)
 - Links
     - [Official Product Page](https://geminisound.com/products/grv-650l)
-    - [Direct Speakerranking Link](/portable/speakers/Gemini+GRV-650L/)
+    - [Direct Speakerranking Link](/portable/speakers/Gemini-GRV-650L/)
 
 ## #34 Teufel Boomster NG (2017): 99€
 - Positives: Pretty neutral sound. Removable battery
@@ -888,7 +888,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
     - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Teufel+Boomster+NG+(2017)/)
+    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-NG-(2017)/)
 
 ## #35 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
@@ -904,7 +904,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs Soundcore Rave Party 2 (Stock & Custom EQ) 🛜 Battery Powered🔋Let's Get It🧨](https://www.youtube.com/watch?v=cv234tGZUIc)
     - [Jagist reviews: Unboxing Of The Skullcandy Barrel XT](https://www.youtube.com/watch?v=7Ta2H9E0K8Y)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Skullcandy+Barrel/)
+    - [Direct Speakerranking Link](/portable/speakers/Skullcandy-Barrel/)
 
 ## #36 [Sony ULT Field 7](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl)]: $400
 - Positives: Better sounding than the XG500
@@ -926,7 +926,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/party-speakers/p/srsult70)
-    - [Direct Speakerranking Link](/portable/speakers/Sony+ULT+Field+7/)
+    - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Field-7/)
 
 ## #37 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl)]: $240
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
@@ -945,7 +945,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
 - Links
     - [Official Product Page](https://www.bugani-global.com/products/bugani-boost-max-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Bugani+Boost+Max/)
+    - [Direct Speakerranking Link](/portable/speakers/Bugani-Boost-Max/)
 
 ## #38 [Klipsch The Three II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl)]: $400
 - Negatives: Treble boosted. Not as deep of bass as others.
@@ -959,7 +959,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review Edifier S2000MKIII vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/the-three-ii)
-    - [Direct Speakerranking Link](/portable/speakers/Klipsch+The+Three+II/)
+    - [Direct Speakerranking Link](/portable/speakers/Klipsch-The-Three-II/)
 
 ## #39 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
 - Negatives: Treble boosted. Not as deep of bass as others.
@@ -972,7 +972,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Solo Trips: Klipsch The One vs Jbl Xtreme](https://www.youtube.com/watch?v=77HvEdMXy2c)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/the-one-ii)
-    - [Direct Speakerranking Link](/portable/speakers/Klipsch+The+One+II/)
+    - [Direct Speakerranking Link](/portable/speakers/Klipsch-The-One-II/)
 
 ## #40 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325)]: $180
 - Positives: This speaker may move around in the rankings as we get better sound samples.
@@ -994,7 +994,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🔥 Unboxing & Short Sound Demo. Is This The New Speaker To Beat Under $200?💵](https://www.youtube.com/watch?v=dh5lzF8t8w4)
     - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore+Rave+Party+2/)
+    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Party-2/)
 
 ## #41 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172) [[Walmart](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172)]: $90
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
@@ -1011,7 +1011,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs Medium Party Speaker Gen 2 🤜🤛A Family Feud🔌Plugged In Bass Boost On](https://www.youtube.com/watch?v=9dIs_4-nSfI)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Onn+Medium+Party+Speaker+Gen+2/)
+    - [Direct Speakerranking Link](/portable/speakers/Onn-Medium-Party-Speaker-Gen-2/)
 
 ## #42 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
 - Positives: Included wireless microphone.
@@ -1031,7 +1031,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [KULAS TECH SHOW: JBL Partybox on the go vs JBL Partybox 110 Bass Comparison](https://www.youtube.com/watch?v=sW7qA0Qyg2U)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ON-THE-GO-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Partybox+On+the+Go/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-On-the-Go/)
 
 ## #43 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
@@ -1051,7 +1051,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: Sony SRS-XG500 vs JBL Encore Essential Sound Battle](https://www.youtube.com/watch?v=KjWAJ67aUMc)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg500)
-    - [Direct Speakerranking Link](/portable/speakers/Sony+SRS-XG500/)
+    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XG500/)
 
 ## #44 JBL Boombox
 - Positives: Connect+ up to 100 speakers.
@@ -1065,7 +1065,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
     - <https://www.youtube.com/watch?v=jOvizwFy9L8>
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/JBL+Boombox/)
+    - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox/)
 
 ## #45 [Soundcore Motion Boom+](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325)]: $140 after $40 coupon
 - Positives: The lightest speaker in the group.
@@ -1091,7 +1091,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom-plus&cjsku=A3129011)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore+Motion+Boom+/)
+    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-Boom+/)
 
 ## #46 [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)]: $40 after clipped coupon
 - Positives: Completely insane value for the money. Comes with 2 metal body wireless microphones that are USB-C chargeable. Comes with Chinese labeled infrared remote control. Has voice delete function that works quite well. Adjustable microphone reverb. Pretty good build quality. The default EQ is the most balanced, the other two sound muffled.
@@ -1113,7 +1113,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)
     - [Josh's Gadgets and More: Skullcandy Barrel XT vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=87rzg5ZxKfo)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/ZZA+K8/)
+    - [Direct Speakerranking Link](/portable/speakers/ZZA-K8/)
 
 ## #47 [Demerbox DB2](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl)]: $400
 - Negatives: Bass is not as deep as better speakers. Very overpriced.
@@ -1130,7 +1130,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)
 - Links
     - [Official Product Page](https://demerbox.com/collections/db2-speakers)
-    - [Direct Speakerranking Link](/portable/speakers/Demerbox+DB2/)
+    - [Direct Speakerranking Link](/portable/speakers/Demerbox-DB2/)
 
 ## #48 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325)]: $140
 - Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
@@ -1150,7 +1150,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
     - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Tronsmart+Halo+200/)
+    - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Halo-200/)
 
 ## #49 [Diamondboxx M3](https://diamondboxx.com/products/m3) [[Diamondboxx](https://diamondboxx.com/products/m3)]: $700
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
@@ -1164,7 +1164,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=NIyRizpppgI>
     - <https://www.youtube.com/watch?v=IHo7U4X49Tw>
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Diamondboxx+M3/)
+    - [Direct Speakerranking Link](/portable/speakers/Diamondboxx-M3/)
 
 ## #50 [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325)]: $215
 - Positives: Comes with wireless microphone. Loud.
@@ -1186,7 +1186,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/h10)
-    - [Direct Speakerranking Link](/portable/speakers/W-King+H10/)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-H10/)
 
 ## #51 [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325)]: $84
 - Negatives: Upper bass boost, bass not that deep.
@@ -1207,7 +1207,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/W-King+D10/)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-D10/)
 
 ## #52 [Turtlebox Grande](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl)]: $730
 - Negatives: They pretty much lie about all their specs and sound just okay in all youtube sound samples. Only 100w will never hit 126db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass for a 10" woofer. Overpriced and not worth it.
@@ -1226,7 +1226,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Blue Collar Outdoors USA: Is the TURTLEBOX GRANDE Speaker REALLY Worth the HYPE ?](https://www.youtube.com/watch?v=Kr_7Wi9IfpA)
 - Links
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-grande)
-    - [Direct Speakerranking Link](/portable/speakers/Turtlebox+Grande/)
+    - [Direct Speakerranking Link](/portable/speakers/Turtlebox-Grande/)
 
 ## #53 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8) [[Bumpboxx](https://bumpboxx.com/products/bumpboxx-flare8)]: $400
 - Positives: It can get pretty loud
@@ -1240,7 +1240,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)
 - Links
     - [Official Product Page](https://bumpboxx.com/products/bumpboxx-flare8)
-    - [Direct Speakerranking Link](/portable/speakers/Bumpboxx+Flare+8/)
+    - [Direct Speakerranking Link](/portable/speakers/Bumpboxx-Flare-8/)
 
 ## #54 Bumpboxx Flare 6: $300
 - Positives: It can get pretty loud
@@ -1252,7 +1252,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Bumpboxx+Flare+6/)
+    - [Direct Speakerranking Link](/portable/speakers/Bumpboxx-Flare-6/)
 
 ## #55 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
 - Negatives: Bass not as deep as competitors.
@@ -1264,7 +1264,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
 - Links
     - [Official Product Page](https://ecoxgear.com/products/defender)
-    - [Direct Speakerranking Link](/portable/speakers/EcoXGear+Defender/)
+    - [Direct Speakerranking Link](/portable/speakers/EcoXGear-Defender/)
 
 ## #56 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325)]: $84
 - Positives: It's cheap, included wireless microphone
@@ -1279,7 +1279,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links
     - [Official Product Page](https://geminisound.com/products/ggo-650l-bluetooth-karaoke-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Gemini+GGO-650L/)
+    - [Direct Speakerranking Link](/portable/speakers/Gemini-GGO-650L/)
 
 ## #57 ION Pathfinder 4: $300
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
@@ -1295,7 +1295,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [ReggieTECH: ION Pathfinder 4 Speaker - Unboxing, Review & Test](https://www.youtube.com/watch?v=zlAsAJtwNS8)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/ION+Pathfinder+4/)
+    - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-4/)
 
 ## #58 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325)]: $450
 - Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low water rating
@@ -1309,7 +1309,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Marshall+Tufton/)
+    - [Direct Speakerranking Link](/portable/speakers/Marshall-Tufton/)
 
 ## #59 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $143
 - Negatives: Rolled off treble, not much bass.
@@ -1326,7 +1326,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
-    - [Direct Speakerranking Link](/portable/speakers/W-King+X10-1/)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-X10-1/)
 
 ## #60 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $80
 - Negatives: Heavily rolled off treble, less bass than the top ranked.
@@ -1347,7 +1347,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
-    - [Direct Speakerranking Link](/portable/speakers/W-King+X10/)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-X10/)
 
 ## #61 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325)]: $190
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
@@ -1360,7 +1360,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jagist reviews: Soundcore Motion Boom vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=qr2oR3cnCYQ)
 - Links
     - [Official Product Page](https://www.alteclansing.com/products/mix-2-0)
-    - [Direct Speakerranking Link](/portable/speakers/Altec+Lansing+Mix+2.0/)
+    - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Mix-2.0/)
 
 ## #62 Braven XXL 2: $350
 - Negatives: Not very deep bass. Very heavy
@@ -1372,7 +1372,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jagist reviews: Tritbit Stormbox Blast vs Braven xxl 2](https://www.youtube.com/watch?v=uihgotNRgJ0)
     - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Braven+XXL+2/)
+    - [Direct Speakerranking Link](/portable/speakers/Braven-XXL-2/)
 
 ## #63 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325)]: $150
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
@@ -1387,7 +1387,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [King Vegeta: Ion Pathfinder 320 quick review](https://www.youtube.com/watch?v=F4d76SDQPtw)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/ION+Pathfinder+320/)
+    - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-320/)
 
 ## #64 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325)]: $170
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
@@ -1404,7 +1404,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Alpha Omega Gz: ION Pathfinder 280 degrees - Unboxing and testing](https://www.youtube.com/watch?v=g05lODItS4w)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/ION+Pathfinder+280/)
+    - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-280/)
 
 ## #65 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
@@ -1420,7 +1420,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
 - Links
     - [Official Product Page](https://mymonsteraudio.com/products/monster-rockin-roller-270)
-    - [Direct Speakerranking Link](/portable/speakers/Monster+Rockin'+Roller+270/)
+    - [Direct Speakerranking Link](/portable/speakers/Monster-Rockin'-Roller-270/)
 
 ## #66 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
 - Negatives: Pathetic bass extension compared to most other speakers. Way overpriced for what it is.
@@ -1436,7 +1436,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xboom-stage-301-party-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/LG+Xboom+Stage+301/)
+    - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Stage-301/)
 
 ## #67 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325)]: $400
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
@@ -1455,7 +1455,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)
 - Links
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-gen-2)
-    - [Direct Speakerranking Link](/portable/speakers/TurtleboxTurtlebox+G2/)
+    - [Direct Speakerranking Link](/portable/speakers/TurtleboxTurtlebox-G2/)
 
 ## #68 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
@@ -1466,7 +1466,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links
     - [Official Product Page](https://alteclansing.com/products/rockbox-xl-2)
-    - [Direct Speakerranking Link](/portable/speakers/Altec+Lansing+Rockbox+XL+2.0/)
+    - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Rockbox-XL-2.0/)
 
 ## #69 Artsound PWR05
 - Negatives: Strange frequency peaks, sound is very hollow.
@@ -1477,7 +1477,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Artsound+PWR05/)
+    - [Direct Speakerranking Link](/portable/speakers/Artsound-PWR05/)
 
 ## #70 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
 - Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
@@ -1491,7 +1491,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
     - [Jay's Straight Up Reviews & More: DBSOARS F29 Max vs Zealot S78 🛜 (5B) Budget Bluetooth Boombox Basement Battle 🔊 Bass Modes Enabled](https://www.youtube.com/watch?v=ui3IZd1Akoc)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Zealot+S78/)
+    - [Direct Speakerranking Link](/portable/speakers/Zealot-S78/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
