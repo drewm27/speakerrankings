@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-Speaker Ranking ranks a total of 520 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 01/01/2026. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
+Speaker Ranking ranks a total of 520 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 01/02/2026. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
 
 Unlike most other review websites pushing specific sponsored speakers, I don't hide away details. I give you the honest good and bad about every speaker and then leave the choice up to you. Every single speaker is detailed out. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. The rankings and content are not influenced by any manufacturer.
 
@@ -16,43 +16,43 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 
 ## Top Recommended Speakers By Attribute
 
-- [Best Portable Bluetooth Speakers For Sound Quality](/top-recommended/)
-- [Best Portable Bluetooth Speakers For Audiophiles](/top-recommended-audiophile/)
-- [Best Inexpensive Portable Bluetooth Speakers](/top-recommended-inexpensive/)
-- [Best Portable Bluetooth Speakers For Bass](/top-recommended-bass/)
-- [Loudest Portable Bluetooth Speakers](/top-recommended-loudest/)
-- [Best Portable Bluetooth Speakers With Aux Input](/top-recommended-auxinput/)
-- [Best Portable Bluetooth Speakers With Wifi](/top-recommended-wifi/)
-- [Best Portable Bluetooth Speakers With Party Mode](/top-recommended-party-mode/)
-- [Best Portable Bluetooth Speakers With Built-in Mic](/top-recommended-microphone/)
-- [Best Portable Bluetooth Speakers With Mic Input](/top-recommended-microphone-input/)
-- [Best Portable Bluetooth Speakers With Wireless Mic](/top-recommended-wireless-microphone/)
-- [Best Portable Bluetooth Speakers With SD Card Slot](/top-recommended-sdcard/)
+- [Best Portable Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/)
+- [Best Portable Bluetooth Speakers For Audiophiles](/portable/best-audiophile/)
+- [Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/)
+- [Best Portable Bluetooth Speakers For Bass](/portable/best-bass/)
+- [Loudest Portable Bluetooth Speakers](/portable/best-loudest/)
+- [Best Portable Bluetooth Speakers With Aux Input](/portable/best-auxinput/)
+- [Best Portable Bluetooth Speakers With Wifi](/portable/best-wifi/)
+- [Best Portable Bluetooth Speakers With Party Mode](/portable/best-party-mode/)
+- [Best Portable Bluetooth Speakers With Built-in Mic](/portable/best-microphone/)
+- [Best Portable Bluetooth Speakers With Mic Input](/portable/best-microphone-input/)
+- [Best Portable Bluetooth Speakers With Wireless Mic](/portable/best-wireless-microphone/)
+- [Best Portable Bluetooth Speakers With SD Card Slot](/portable/best-sdcard/)
 - [Loudest Portable Bluetooth Party Speakers](/portable-party-speakers/)
-- [Best Powered Home Bookshelf Speakers](/powered-top-recommended/)
-- [Best Home Floorstanding and Bookshelf Speakers](/passive-top-recommended/)
+- [Best Powered Home Bookshelf Speakers](/powered/best/)
+- [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 - [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
 
 ## All Portable Bluetooth Speakers Ranked
 
-- [Small Size Portable Bluetooth Speakers](/pocket-size/): 40 speakers ranked
-- [Medium Size Portable Bluetooth Speakers](/small-medium-size/): 129 speakers ranked
-- [Large Size Portable Bluetooth Speakers](/large-size/): 75 speakers ranked
-- [Boombox Size Portable Bluetooth Speakers](/boombox-size/): 70 speakers ranked
-- [Party Size Portable Bluetooth Speakers](/extreme-size/): 48 speakers ranked
-- [Large Party Size Portable Bluetooth Speakers](/insane-size/): 9 speakers ranked
+- [Small Size Portable Bluetooth Speakers](/portable/small/): 40 speakers ranked
+- [Medium Size Portable Bluetooth Speakers](/portable/medium/): 129 speakers ranked
+- [Large Size Portable Bluetooth Speakers](/portable/large/): 75 speakers ranked
+- [Boombox Size Portable Bluetooth Speakers](/portable/boombox/): 70 speakers ranked
+- [Party Size Portable Bluetooth Speakers](/portable/party/): 48 speakers ranked
+- [Large Party Size Portable Bluetooth Speakers](/portable/largeparty/): 9 speakers ranked
 
 ## All Home Powered Speakers Ranked
 
-- [Small Size Powered Bookshelf Speakers](/powered-bookshelf-small/): 8 speakers ranked
-- [Medium Size Powered Bookshelf Speakers](/powered-bookshelf-medium/): 24 speakers ranked
-- [Large Size Powered Bookshelf Speakers](/powered-bookshelf-large/): 21 speakers ranked
-- [Large Size Powered Floorstanding Speakers](/powered-floorstanding-large/): 1 speakers ranked
+- [Small Size Powered Bookshelf Speakers](/powered/bookshelf-small/): 8 speakers ranked
+- [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/): 24 speakers ranked
+- [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/): 21 speakers ranked
+- [Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/): 1 speakers ranked
 
 ## All Home Passive Speakers Ranked
-- [Medium Size Bookshelf Speakers](/passive-bookshelf-medium/): 21 speakers ranked
-- [Large Size Bookshelf Speakers](/passive-bookshelf-large/): 48 speakers ranked 
-- [Large Size Floorstanding Speakers](/passive-floorstanding-large/): 26 speakers ranked
+- [Medium Size Bookshelf Speakers](/passive/bookshelf-medium/): 21 speakers ranked
+- [Large Size Bookshelf Speakers](/passive/bookshelf-large/): 48 speakers ranked 
+- [Large Size Floorstanding Speakers](/passive/floorstanding-large/): 26 speakers ranked
 
 ## Related Products
 
