@@ -215,6 +215,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: More balanced than the first Willen, no sharp treble
 - Negatives: Not that deep of bass.
 - App: Yes
+- Bass Extension (-10dB): 70hz
 - Battery Life: 17 hours
 - Built in Microphone: Yes
 - EQ: Yes
