@@ -36,7 +36,7 @@ The Soundcore Boost “upgraded” 2021 ranks #4 out of 129 total [Medium Size P
     - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore+Boost+“upgraded”+2021/)
+    - [Direct Speakerranking Link](/portable/speakers/Soundcore+Boost+upgraded+2021/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

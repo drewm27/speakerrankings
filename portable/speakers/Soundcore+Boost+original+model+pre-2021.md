@@ -26,7 +26,7 @@ The Soundcore Boost “original model” pre-2021 ranks #13 out of 129 total [Me
     - <https://www.youtube.com/watch?v=sGYxOHqOYWQ>
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore+Boost+“original+model”+pre-2021/)
+    - [Direct Speakerranking Link](/portable/speakers/Soundcore+Boost+original+model+pre-2021/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
