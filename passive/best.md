@@ -170,7 +170,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
     - [Erin's Audio Corner Website Elac DBR63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
-    - [Official Elac DBR63 Website](https://elac.com/dbr63)
+    - [Official Elac DBR63 Website](https://elac.com/db63)
 
 
 ### The best [large size passive bookshelf](/passive/bookshelf-large/) speakers around $300 with the best sound quality are the [**$330 ELAC Debut 2.0 B6.2**](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac+DB62&qid=1749576253&sprefix=db62,aps,294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl)

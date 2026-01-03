@@ -296,7 +296,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+A5/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+A5/)
 
 ## #12 [Soundcore Motion Boom](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Titanium-Technology-Waterproof-Bluetooth/dp/B08LQNL42Z/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34fcc0dfadaaa33dbb7b19487fb321f2&camp=1789&creative=9325)]: $90
 - Positives: Decently neutral speaker after EQ is applied. Slight DSP issue which makes bass get lighter at times at very low volumes. Try [Oluv's EQ](https://ibb.co/wNFwQ1h) for a more neutral sound.
@@ -365,7 +365,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
 - Links
     - [Official Product Page](https://support.bang-olufsen.com/hc/en-us/articles/360040947931-Beoplay-A2-Active)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beoplay+A2+active/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beoplay+A2+active/)
 
 ## #15 [Marshall Acton 3](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325)]: $280
 - Negatives: Not as deep bass as competitors.
@@ -1182,7 +1182,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-level)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+Level/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+Level/)
 
 ## #59 Ultimate Ears Megablast: $240
 - Negatives: Bass is not very deep compared to the competition
@@ -1408,7 +1408,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Taylor Soloai: TG 118 vs JBL Xtreme Speaker (2023)](https://www.youtube.com/watch?v=rE6oDyPAdwU)
 - Links
     - [Official Product Page](https://tstarelectronics.com/product/tg-118-portable-bluetooth-speaker/)
-    - [Direct Speakerranking Link](/portable/speakers/T&G+118/)
+    - [Direct Speakerranking Link](/portable/speakers/TG+118/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

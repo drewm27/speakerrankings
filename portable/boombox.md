@@ -775,7 +775,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beolit+20/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beolit+20/)
 
 ## #29 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: 250€
 - Positives: Pretty balanced sound, slightly warm

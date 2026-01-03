@@ -745,7 +745,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+2/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+2/)
 
 ## #34 B&O Beosound 1: $2000
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
@@ -760,7 +760,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+1/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+1/)
 
 ## #35 Diamondboxx L2: $1000
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.

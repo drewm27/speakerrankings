@@ -274,7 +274,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+A1/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+A1/)
 
 ## #10 [B&O Beosound A1 2nd gen](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325)]: $200
 - Positives: More neutral than the first A1
@@ -306,7 +306,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/anker-soundcore-92655183>
 - Links
     - [Official Product Page](https://luxussound.com/products/beosound-a1-2nd-generation)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+A1+2nd+gen/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+A1+2nd+gen/)
 
 ## #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)]: $200
 - Positives: Seems more neutral than the Charge 5. Flatter frequency response through the mids and treble as the Charge 5 was quite rolled off up high. Use this [EQ from Joy/Oluv](http://youtube.com/post/Ugkx0Fa17eFCOUaEOiLivjPy4ERgAa3qzWSV?si=mJRhUhTW23IriBue) and turn down the lowest bass slider for the best sound quality. Oluv has even more [paid EQs specifically for the GG and TL models indoors and outdoors here](https://www.patreon.com/posts/jbl-charge-6-eqs-137659087?source=storefront)
@@ -495,7 +495,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.patreon.com/posts/b-o-beosound-a1-128729314>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+A1+3rd+gen/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+A1+3rd+gen/)
 
 ## #19 Xiaomi Sound Party
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
@@ -770,7 +770,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
     - [Alan Ross Reviews: Earfun Uboom vs Tribit Stormbox - 360 degree bluetooth speaker comparison](https://www.youtube.com/watch?v=AeaMQ3DR_hE)
 - Links
-    - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - [Direct Speakerranking Link](/portable/speakers/Earfun+Uboom+360/)
 
 ## #31 Teufel Rockster XS: €180
@@ -1964,7 +1963,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-explore)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beosound+Explore/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beosound+Explore/)
 
 ## #103 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325)]: $97
 - Negatives: Sounds hollow. Very muffled. Rolled off treble, weird midrange boost, just not great overall. Worse than a XB33.

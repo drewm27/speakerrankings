@@ -267,7 +267,7 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
-    - [Direct Speakerranking Link](/passive/speakers/Bang+&+Olufsen+Beolab20/)
+    - [Direct Speakerranking Link](/passive/speakers/Bang++Olufsen+Beolab20/)
 
 ## #15 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
 - Positives: Really amazing value for the performance

@@ -27,7 +27,6 @@ The Earfun Uboom 360 ranks #30 out of 129 total [Medium Size Portable Bluetooth 
     - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
     - [Alan Ross Reviews: Earfun Uboom vs Tribit Stormbox - 360 degree bluetooth speaker comparison](https://www.youtube.com/watch?v=AeaMQ3DR_hE)
 - Links
-    - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - [Direct Speakerranking Link](/portable/speakers/Earfun+Uboom+360/)
 
 

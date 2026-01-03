@@ -309,7 +309,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beoplay-p2)
-    - [Direct Speakerranking Link](/portable/speakers/B&O+Beoplay+P2/)
+    - [Direct Speakerranking Link](/portable/speakers/BO+Beoplay+P2/)
 
 ## #14 [Mifa Tango](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Bluetooth-Waterproof-Portable-Activities/dp/B0BZ33LS26/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=250e04e54754234a7c2d669c1c7d18f0&camp=1789&creative=9325)]: $95
 - Positives: Loudest pocket speaker by a little.
