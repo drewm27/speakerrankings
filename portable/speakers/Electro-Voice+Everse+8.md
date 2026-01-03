@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Electro-Voice Everse 8 ranks #9 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Electro-Voice Everse 8 ranks #9 out of 48 total [Party Size Portable Bluetooth Speakers](/portable-party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Electro-Voice Everse 8 ranks #9 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #9 [Electro-Voice Everse 8](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2f64752cd27e0668a30f0877fe7a9351&camp=1789&creative=9325)]: $750
 - Positives: Good midrange and treble.

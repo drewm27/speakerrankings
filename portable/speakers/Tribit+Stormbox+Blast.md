@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Tribit Stormbox Blast ranks #2 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tribit Stormbox Blast ranks #2 out of 70 total [Boombox Size Portable Bluetooth Speakers](/portable-boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tribit Stormbox Blast ranks #2 out of 70 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170 after coupon
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.

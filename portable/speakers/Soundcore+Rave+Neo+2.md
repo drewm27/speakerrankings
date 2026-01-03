@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Soundcore Rave Neo 2 ranks #21 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Rave Neo 2 ranks #21 out of 75 total [Large Size Portable Bluetooth Speakers](/portable-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Rave Neo 2 ranks #21 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #21 [Soundcore Rave Neo 2](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325)]: $130
 - Positives: A big improvement in sound quality over the original Rave Neo. Use bass up at higher volumes, but turn it off for lower volumes.

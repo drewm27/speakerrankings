@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Focal Chora 816 ranks #19 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Focal Chora 816 ranks #19 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Focal Chora 816 ranks #19 out of 26 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #19 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Chora+816)]: $900 used
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances

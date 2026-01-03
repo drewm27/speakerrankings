@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Soundcore Rave ranks #43 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Rave ranks #43 out of 48 total [Party Size Portable Bluetooth Speakers](/portable-party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Rave ranks #43 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #43 Soundcore Rave: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off

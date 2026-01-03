@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The KEF Q350 ranks #24 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The KEF Q350 ranks #24 out of 48 total [Large Size Bookshelf Speakers](/passive-bookshelf-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The KEF Q350 ranks #24 out of 48 total [Large Size Bookshelf Speakers](/passive/bookshelf-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #24 [KEF Q350](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q350)]: $500 a pair
 - Positives: Excellent directivity

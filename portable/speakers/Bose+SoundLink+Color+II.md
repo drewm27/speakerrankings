@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Bose SoundLink Color II ranks #91 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Bose SoundLink Color II ranks #91 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable-medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bose SoundLink Color II ranks #91 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #91 Bose SoundLink Color II
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble

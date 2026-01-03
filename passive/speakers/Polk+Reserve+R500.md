@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Polk Reserve R500 ranks #18 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Polk Reserve R500 ranks #18 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Polk Reserve R500 ranks #18 out of 26 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #18 [Polk Reserve R500](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Reserve+R500)]: $1300 a pair
 - Positives: Pretty smooth frequency response.

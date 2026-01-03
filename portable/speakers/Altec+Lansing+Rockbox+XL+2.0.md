@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Altec Lansing Rockbox XL 2.0 ranks #68 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Altec Lansing Rockbox XL 2.0 ranks #68 out of 70 total [Boombox Size Portable Bluetooth Speakers](/portable-boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Altec Lansing Rockbox XL 2.0 ranks #68 out of 70 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #68 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass

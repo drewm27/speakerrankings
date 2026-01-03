@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The PS Audio Aspen FR10 ranks #12 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The PS Audio Aspen FR10 ranks #12 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The PS Audio Aspen FR10 ranks #12 out of 26 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #12 [PS Audio Aspen FR10](https://www.psaudio.com/products/aspen-fr10-loudspeaker) [[Psaudio](https://www.psaudio.com/products/aspen-fr10-loudspeaker)] [[Used Listings](https://www.hifizero.com/index.php?q=PS+Audio+Aspen+FR10)]: $12000
 - Positives: Wide soundstage

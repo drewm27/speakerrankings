@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Tozo PA2 ranks #100 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tozo PA2 ranks #100 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable-medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tozo PA2 ranks #100 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #100 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325)]: $36
 - Negatives: Quite a bit of bass distortion thudding as you turn the volume up. Bass not that deep. The Tozo PA1 totally outclasses it.

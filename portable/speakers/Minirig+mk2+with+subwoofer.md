@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Minirig mk2 with subwoofer ranks #4 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig mk2 with subwoofer ranks #4 out of 75 total [Large Size Portable Bluetooth Speakers](/portable-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig mk2 with subwoofer ranks #4 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 Minirig mk2 with subwoofer: $260
 - Positives: Very balanced sound

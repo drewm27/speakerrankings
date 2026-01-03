@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Treblab HD77 ranks #72 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Treblab HD77 ranks #72 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable-medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Treblab HD77 ranks #72 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #72 [Treblab HD77](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl)]: $60
 - Negatives: Lacking quite a bit of bass compared to higher ranked speakers. Unable to disable the music flashing lights

@@ -26,7 +26,7 @@ navbar-links:
     - Best Inexpensive Portable Bluetooth Speakers: "/portable/best-inexpensive/"
     - Best Portable Bluetooth Speakers For Bass: "/portable/best-bass/"
     - Loudest Portable Bluetooth Speakers: "/portable/best-loudest/"
-    - Best Portable Bluetooth Speakers With Aux Input: ".top-recommended-auxinput/"
+    - Best Portable Bluetooth Speakers With Aux Input: "/portable/best-auxinput/"
     - Best Portable Bluetooth Speakers With Wifi: "/portable/best-wifi/"
     - Best Portable Bluetooth Speakers With Party Mode: "/portable/best-party-mode/"
     - Best Portable Bluetooth Speakers With Built-in Mic: "/portable/best-microphone/"
@@ -40,7 +40,7 @@ navbar-links:
   Speaker Rankings:
     - Small Size Portable Bluetooth Speakers: "/portable/small/"
     - Medium Size Portable Bluetooth Speakers: "/portable/medium/"
-    - Large Size Portable Bluetooth Speakers: "l/arge-size/"
+    - Large Size Portable Bluetooth Speakers: "/large-size/"
     - Boombox Size Portable Bluetooth Speakers: "/portable/boombox/"
     - Party Size Portable Bluetooth Speakers: "/portable/party/"
     - Large Party Size Portable Bluetooth Speakers: "/portable/largeparty/"

@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Magnepan LRS+ ranks #26 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Magnepan LRS+ ranks #26 out of 26 total [Large Size Floorstanding Speakers](/passive-floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Magnepan LRS+ ranks #26 out of 26 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #26 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Used Listings](https://www.hifizero.com/index.php?q=Magnepan+LRS%2B)]: $1300
 - Negatives: An open baffle speaker which creates a huge soundstage. Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity

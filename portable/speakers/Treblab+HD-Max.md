@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Treblab HD-Max ranks #66 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Treblab HD-Max ranks #66 out of 75 total [Large Size Portable Bluetooth Speakers](/portable-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Treblab HD-Max ranks #66 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #66 [Treblab HD-Max](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl)]: $135
 - Negatives: Boosted upper bass, not much lower bass. Only IPX6 water rating
