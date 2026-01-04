@@ -7,7 +7,7 @@ share-description: "The JBL Partybox Ultimate ranks #1 out of 9 total Large Part
 
 The JBL Partybox Ultimate ranks #1 out of 9 total [Large Party Size Portable Bluetooth Speakers](/portable/largeparty/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #1 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325)]: $1301
+## #1 [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325)]: $1300
 - Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
 - Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
