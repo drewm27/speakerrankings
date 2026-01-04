@@ -680,7 +680,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://w-kingaudio.com/products/x20)
     - [Direct Speakerranking Link](/portable/speakers/W-King-D20/)
 
-## #25 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $300
+## #25 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $240 after coupon
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes
 - Aux Input: Yes
