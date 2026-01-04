@@ -10,8 +10,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ## The Best Small Pocket Size Speaker With A SD Card Slot
 
-### The best [small pocket size](/portable/small/) speaker with a SD card slot is the [**$30 Anker Soundcore Mini**](https://www.amazon.com/Anker-SoundCore-Super-Portable-Noise-Cancelling-Microphone/dp/B01HTH3C8S?pd_rd_w=hbfUP&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=AE5K36K62JQSERV4VTV1&pd_rd_wg=VXRHm&pd_rd_r=ffdc961a-a954-491e-984b-f1df45a6dd01&pd_rd_i=B01HTH3C8S&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=15db668a4983cf279fcecd42be90081e&language=en_US&ref_=as_li_ss_tl)
-
+### The best [small pocket size](/portable/small/) speaker with a SD card slot is the [Anker Soundcore Mini](https://www.amazon.com/Anker-SoundCore-Super-Portable-Noise-Cancelling-Microphone/dp/B01HTH3C8S?pd_rd_w=hbfUP&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=AE5K36K62JQSERV4VTV1&pd_rd_wg=VXRHm&pd_rd_r=ffdc961a-a954-491e-984b-f1df45a6dd01&pd_rd_i=B01HTH3C8S&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=15db668a4983cf279fcecd42be90081e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Anker-SoundCore-Super-Portable-Noise-Cancelling-Microphone/dp/B01HTH3C8S?pd_rd_w=hbfUP&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=AE5K36K62JQSERV4VTV1&pd_rd_wg=VXRHm&pd_rd_r=ffdc961a-a954-491e-984b-f1df45a6dd01&pd_rd_i=B01HTH3C8S&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=15db668a4983cf279fcecd42be90081e&language=en_US&ref_=as_li_ss_tl)]: $30
 - Positives: Has an FM tuner, aux input and MicroSD. Quite cheap
 - Negatives: Not quite as deep of bass as higher ranked speakers. No waterproofing
 - App: No
@@ -32,8 +31,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ## The Best Medium Size Speaker With A SD Card Slot
 
-##### The best [medium size](/portable/medium/) battery powered speaker with a SD card slot is the [**$49 Bogasing G4**](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4,aps,168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)
-
+##### The best [medium size](/portable/medium/) battery powered speaker with a SD card slot is the [Bogasing G4](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)]: $49
 - Negatives: Some boosted treble that's wavy up top. Slighty dipped mids. Super Bass and vocal mode seem identical.
 - App: No
 - Aux Input: Yes
@@ -56,8 +54,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ## The Best Large Size Speaker With A SD Card Slot
 
-### The best reasonably priced [large size](/portable/large/) battery powered speaker with a SD card slot is the [**$130 W-King T9**](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)
-
+### The best reasonably priced [large size](/portable/large/) battery powered speaker with a SD card slot is the [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3xpFLqb)]: $130
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
@@ -77,8 +74,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ## The Best Boombox Size Speaker With A SD Card Slot
 
-### The best [boombox size](/portable/boombox/) battery powered speaker with a SD card slot is the [**$240 W-King X20**](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)
-
+### The best [boombox size](/portable/boombox/) battery powered speaker with a SD card slot is the [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $300
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes
 - Aux Input: Yes
@@ -107,8 +103,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ## The Best Party Size Speaker With A USB memory stick port
 
-### The best [party size](/portable/party/) big party battery powered speaker with USB stick playback is the [**$600 JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)
-
+### The best [party size](/portable/party/) big party battery powered speaker with USB stick playback is the [JBL Partybox Stage 320](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $600
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
@@ -137,8 +132,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ## The Best Massive Party Size Speaker With A USB memory stick port
 
-### The best [massive party size](/portable/largeparty/) non-battery Bluetooth speaker with USB stick playback is the [**$1301 JBL Partybox Ultimate**](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325)
-
+### The best [massive party size](/portable/largeparty/) non-battery Bluetooth speaker with USB stick playback is the [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325)]: $1301
 - Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
 - Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes

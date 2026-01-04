@@ -31,7 +31,7 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 - [Loudest Portable Bluetooth Party Speakers](/portable-party-speakers/)
 - [Best Powered Home Bookshelf Speakers](/powered/best/)
 - [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
-- [Best Bluetooth Speakers From Other Top Reviewers](/top-recommended-reviewers/)
+- [Best Bluetooth Speakers From Other Top Reviewers](/portable/best-from-reviewers/)
 
 ## All Portable Bluetooth Speakers Ranked
 

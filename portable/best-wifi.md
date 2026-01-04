@@ -12,8 +12,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Medium Size Bluetooth Speaker with Wifi
 
-### The best [medium size](/portable/medium/) battery powered speaker with Wifi is the [**$250 JBL Charge 5 Wifi**](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl)
-
+### The best [medium size](/portable/medium/) battery powered speaker with Wifi is the [JBL Charge 5 Wifi](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl)]: $250
 - Positives: Has Wifi. Sounds exactly the same as the non-Wifi version
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
@@ -35,8 +34,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Large Size Bluetooth Speaker with Wifi
 
-### The best [large size](/portable/large/) battery powered speaker with Wifi is the [**$1200 B&O Beosound A5**](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25?_encoding=UTF8&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=99c4924215474b4d9e1c2c475ea3f067&language=en_US&ref_=as_li_ss_tl) 
-
+### The best [large size](/portable/large/) battery powered speaker with Wifi is the [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325)]: $1200
 - Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
 - IP Rating: IP65
 - Max Volume: 101db
@@ -53,13 +51,10 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
 
 
-For something more reasonably priced get a [**$300 Audio Pro C5 MK II**](https://www.amazon.com/dp/B09NM4HRDK?ie=UTF8&pd_rd_plhdr=t&aref=AM8iipR7bb&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0ad7b077f12716904689a270d3643515&language=en_US&ref_=as_li_ss_tl)
-
 
 ## The Best Boombox Size Bluetooth Speaker with Wifi
 
-### The best [boombox size](/portable/boombox/) battery powered speaker with Wifi is the [**$500 Brane X**](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)
-
+### The best [boombox size](/portable/boombox/) battery powered speaker with Wifi is the [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
 - Positives: Very deep bass, some of the deepest from this category. Medium bass boost is the most balanced.
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Aux Input: Yes
