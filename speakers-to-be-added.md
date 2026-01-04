@@ -7,7 +7,6 @@ share-description: "See what speakers are queued to be added. Suggest new models
 
 This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
-1. Willen II
 1. Onn Portable Boombox
 1. [Turtlebox Ranger](https://www.amazon.com/Turtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JGNZLS?crid=3NTJ49YV3L4WD&dib=eyJ2IjoiMSJ9.ctbNMkxn48V5mo_D8znQUpVb4TPjIYL-S47Al6wEgX7vICuh76mRpShDspKtPSwvJlqYflaNtnLI3lU_4K951zkGmp26pqa7Uv7ALfYe2tbqAMoFEbLNvXTZvzatdzHOtnLZ9SKTpnxtY4tV6hOf8n9DEvBPgwNS6396B1YNMsB0iKpZnZHnqSWxjXxDOA5BWa3wfkv-PLdmxOyRzGletV86zSdimZKZ5JPcilF3m7w.CCXJWbWs0Gtsj9R_7oa2vY65gvRlj_8RtqRMNnZyMvE&dib_tag=se&keywords=turtlebox%2Branger&qid=1763684927&sprefix=turtlebox%2Bran%2Caps%2C263&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c1f48862bd8655ff3a798c4685730e25&language=en_US&ref_=as_li_ss_tl)
 1. [Sierra LX](https://www.youtube.com/watch?v=SfB_4mABPJ8)
