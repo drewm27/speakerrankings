@@ -14,9 +14,9 @@ See this for [Speakers with Built In Microphone For Calls](/portable/best-microp
 
 ## The Best Speakers With Wireless Microphones
 
-### The best [boombox size](/portable/boombox/) battery powered Bluetooth speaker with built in wireless microphones is the [JBL Partybox Encore 2](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.co.uk/JBL-Bluetooth-Splashproof-Multi-Speaker-Connection/dp/B0F2B122XW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)] [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]
-- Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 1 wireless microphone. Better battery life than the first Encore.
-- Negatives: Missing a little bit of upper bass. Not available in the US, see the below speaker for the US non-microphone version.
+### The best [boombox size](/portable/boombox/) battery powered Bluetooth speaker with built in wireless microphones is the [JBL Partybox Encore 2](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631) [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]: $330
+- Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 2 wireless microphones. Better battery life than the first Encore.
+- Negatives: Missing a little bit of upper bass.
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 15 hours
@@ -31,7 +31,7 @@ See this for [Speakers with Built In Microphone For Calls](/portable/best-microp
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
-- Wireless Microphones: Yes 1 Included
+- Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)

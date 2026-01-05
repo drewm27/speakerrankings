@@ -1506,6 +1506,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Musou1: JBL flip 7 vs KEF muo vs Bose flex 2](https://www.youtube.com/watch?v=wZmMRVBii3A)
     - [Musou1: Sound Test: Bo a1 vs 2025 Kef muo](https://www.youtube.com/watch?v=OWoukS4amoY)
+    - [Storytripper HD: KEF MUO vs JBL Charge 5](https://www.youtube.com/watch?v=K5k7HZFH6DY)
 - Links
     - [Official Product Page](https://us.kef.com/products/muo)
     - [Direct Speakerranking Link](/portable/speakers/KEF-Muo/)
