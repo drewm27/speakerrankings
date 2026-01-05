@@ -14,7 +14,7 @@ See this for [Speakers with Wireless Microphones](/portable/best-wireless-microp
 
 If you don't need a battery and need the speaker to be the loudest possible, PA speakers will be your best bet. The best ones are generally the [QSC K12.2](https://www.amazon.com/QSC-K12-2-Active-Powered-Loudspeaker/dp/B06Y477LND/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf3c0056f3ef63bee7512b791af2e9b6&camp=1789&creative=9325) (132dB peak) or the [EV EKX-12P](https://www.amazon.com/Electro-Voice-EKX12P-Range-Powered-Loudspeaker/dp/B0779P36PH/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=55e34def00766ce51d3d42ed06f4322a&camp=1789&creative=9325) (132dB peak)
 
-## The Best Battery Powered Bluetooth Speakers with Microphone Input
+## The Loudest Battery Powered Bluetooth Speakers with Microphone Input
 
 ### The best sounding [party size](/portable/party/) loudest battery powered speaker for microphone usage is the [Electro-Voice Everse 12](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
 - Positives: Good midrange and treble. The best sounding extremely loud speaker available.
@@ -43,32 +43,9 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
 
 
+## The Next Loudest And Best Sounding Battery Powered Bluetooth Speakers with Microphone Input
+
 The next best battery powered speakers for this use will be the [party size](/portable/party/) and [massive party size](/portable/largeparty/) JBL Partybox line which won't get quite as loud as the speaker above but will all have much deeper bass. In order from largest to smallest 
-
-### [JBL Partybox Ultimate](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Ultimate-Connectivity-Slashproof/dp/B0CFZMKYXH/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5d6ef5cb2de9adba94b491ab60da98ac&camp=1789&creative=9325)]: $1300
-- Positives: Absolute deepest bass of any Bluetooth speaker. Handle and wheels are convenient. Very nice lightshow ability.
-- Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- App: Yes
-- Aux Input: Yes
-- Battery Life: No Battery
-- Bluetooth Codecs: SBC
-- EQ: Yes (3 band)
-- Guitar Input: Yes
-- IP Rating: IPX4
-- Microphone Input: Yes
-- Power Bank: Yes
-- Power Input: AC Power cord
-- TWS: Yes
-- USB Playback: Yes
-- Weight: 87lbs / 39kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
-    - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
-    - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
-- Links
-    - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
-
 
 ### [JBL Partybox 720](https://www.amazon.com/JBL-PartyBox-720-Battery-Powered-Futuristic/dp/B0FNBWSN54?crid=10IDD2ETA8121&dib=eyJ2IjoiMSJ9.i-9ojde1fO24hREqJ3-JfszPsvqpW-GznOo57Wu7rPbdsb4HiYg61ML9d8vzIYXxomN_p_11GzXphlKQf3OzzfqMCvyE6iy1ohL9F8pWWKExa_YRgYizwI7RdqYm_iIS4mksNbOmLWgCKV4NDYhCxIF2H62UuP5iPF8e-L7gZWBFlBk7EM9cCwZwU2XOHmNUlLDcSM39Qq3dheF_PaJbMAa9hNzPlIvhm7E2-ERdqyY.KFPnvA-7vt5p0lEoQ6kjRgCIRws_ATRyWlCW7OtJdeM&dib_tag=se&keywords=partybox+720&qid=1761945428&sprefix=partybox+%2Caps%2C476&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=22ac52b8578981cfd9a9379495d13f7a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-720-Battery-Powered-Futuristic/dp/B0FNBWSN54?crid=10IDD2ETA8121&dib=eyJ2IjoiMSJ9.i-9ojde1fO24hREqJ3-JfszPsvqpW-GznOo57Wu7rPbdsb4HiYg61ML9d8vzIYXxomN_p_11GzXphlKQf3OzzfqMCvyE6iy1ohL9F8pWWKExa_YRgYizwI7RdqYm_iIS4mksNbOmLWgCKV4NDYhCxIF2H62UuP5iPF8e-L7gZWBFlBk7EM9cCwZwU2XOHmNUlLDcSM39Qq3dheF_PaJbMAa9hNzPlIvhm7E2-ERdqyY.KFPnvA-7vt5p0lEoQ6kjRgCIRws_ATRyWlCW7OtJdeM&dib_tag=se&keywords=partybox+720&qid=1761945428&sprefix=partybox+%2Caps%2C476&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=22ac52b8578981cfd9a9379495d13f7a&language=en_US&ref_=as_li_ss_tl)]: $800
 - Positives: Handle and wheels are convenient. Lightshow ability.
@@ -151,7 +128,9 @@ The next best battery powered speakers for this use will be the [party size](/po
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-CLUB-120.html)
 
 
-### If you need smaller, the best sounding [boombox sized](/portable/boombox/) speakers with microphone inputs are the [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl)]: $230
+## Boombox Sized Powered Bluetooth Speakers with Microphone Input
+
+### [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl)]: $230
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
 - App: Yes
