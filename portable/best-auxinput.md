@@ -14,9 +14,7 @@ For more information, sound samples and specs about all these speakers, see the 
 
 ## The Best Small Pocket Size Speaker With Aux Input
 
-### The best [small pocket size](/portable/small/) speaker with aux input and the best sound quality is the [**$100 Minirig Mini 2**](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)
-
-[Minirig Mini 2](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)]: $100
+### The best [small pocket size](/portable/small/) speaker with aux input and the best sound quality is the [Minirig Mini 2](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)]: $100
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
 - App: Yes
