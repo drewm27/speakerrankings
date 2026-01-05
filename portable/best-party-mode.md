@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Find the top recommended Bluetooth speakers for party mode. Expert-ranked for booming volume, long battery life & rich bass to keep the party going all night."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 372 ranked on this website. Last updated on 01/04/2026. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 373 ranked on this website. Last updated on 01/05/2026. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 

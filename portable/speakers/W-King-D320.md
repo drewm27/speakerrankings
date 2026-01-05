@@ -2,10 +2,10 @@
 layout: page
 title: W-King D320 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The W-King D320 ranks #45 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The W-King D320 ranks #45 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The W-King D320 ranks #45 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The W-King D320 ranks #45 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #45 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39V6kzd)]: $64
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble

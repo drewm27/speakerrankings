@@ -2,10 +2,10 @@
 layout: page
 title: JBL Flip 4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Flip 4 ranks #62 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Flip 4 ranks #62 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Flip 4 ranks #62 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Flip 4 ranks #62 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #62 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325)]: $70
 - Positives: Less bass than a Flip 5. Peaky lower treble.

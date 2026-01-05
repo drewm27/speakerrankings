@@ -2,12 +2,12 @@
 layout: page
 title: Ultimate Ears Wonderboom Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Ultimate Ears Wonderboom ranks #81 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Ultimate Ears Wonderboom ranks #82 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Ultimate Ears Wonderboom ranks #81 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Ultimate Ears Wonderboom ranks #82 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #81 Ultimate Ears Wonderboom
+## #82 Ultimate Ears Wonderboom
 - Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
 - Battery Life: 10 hours
 - Power Input: Micro USB

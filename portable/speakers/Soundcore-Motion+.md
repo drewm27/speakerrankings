@@ -2,10 +2,10 @@
 layout: page
 title: Soundcore Motion+ Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Motion+ ranks #3 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Motion+ ranks #3 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Motion+ ranks #3 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Motion+ ranks #3 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #3 [Soundcore Motion+](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl)]: $80 used
 - Positives: The previous best sounding in class, still a great speaker with separate tweeters, more bass at full volume and better off-axis treble frequency response than the Uboom L. Just okay with the default EQ, I highly recommend using [this EQ setting](https://www.tumblr.com/techaudiophoto/706620138302144512/motion-hi-fi-eq) from [r/kai7895](https://www.reddit.com/user/kai7895) to get it more neutral. To achieve the absolute best sound you'll need the Wavelet app (Android only) and set the provided Wavelet EQ in there too. Turn off the wavelet EQ for outdoor use. An alternative is [Oluv's EQ](https://ibb.co/XkfBtSS) which only needs the Soundcore app EQ.

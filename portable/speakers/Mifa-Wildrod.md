@@ -2,10 +2,10 @@
 layout: page
 title: Mifa Wildrod Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Mifa Wildrod ranks #17 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Mifa Wildrod ranks #17 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Mifa Wildrod ranks #17 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Mifa Wildrod ranks #17 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #17 [Mifa Wildrod](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325)]: $47
 - Positives: Flash latest firmware for the best sound, much improved bass and treble.

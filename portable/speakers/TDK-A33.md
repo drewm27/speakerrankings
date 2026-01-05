@@ -2,12 +2,12 @@
 layout: page
 title: TDK A33 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The TDK A33 ranks #101 out of 129 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The TDK A33 ranks #102 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The TDK A33 ranks #101 out of 129 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The TDK A33 ranks #102 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #101 TDK A33
+## #102 TDK A33
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~72hz
