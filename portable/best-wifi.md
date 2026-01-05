@@ -6,7 +6,7 @@ cover-img: "/assets/img/branex.jpg"
 share-description: "Discover the top-recommended WiFi speakers. Expertly ranked for seamless multi-room streaming, sound quality, and value across smart home setups."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers that have wifi out of the 372 ranked on this website. Last updated on 01/03/2026. Note by limiting your search to only speakers with Wifi, you'll take a hit in sound quality generally. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers that have wifi out of the 372 ranked on this website. Last updated on 01/04/2026. Note by limiting your search to only speakers with Wifi, you'll take a hit in sound quality generally. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/). 
 
@@ -33,23 +33,6 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 
 ## The Best Large Size Bluetooth Speaker with Wifi
-
-### The best [large size](/portable/large/) battery powered speaker with Wifi is the [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325)]: $1200
-- Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
-- IP Rating: IP65
-- Max Volume: 101db
-- Party Mode: Yes (Mozart 2.0)
-- Power Input: USB-C
-- Stereo: No
-- TWS: Yes
-- USB Audio: Yes
-- Weight: 8.5lbs / 3.86kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
-- Links
-    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
-
 
 
 ## The Best Boombox Size Bluetooth Speaker with Wifi
