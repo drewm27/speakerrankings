@@ -31,6 +31,7 @@ The Minirig mk3 with subwoofer ranks #3 out of 75 total [Large Size Portable Blu
     - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
     - [Alan Ross Reviews: Minirig mk3 2.2 (2x subwoofers) vs 2x Soundcore Motion Booms 🤑](https://www.youtube.com/watch?v=WzYQ8EHXj6U)
+    - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
     - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
