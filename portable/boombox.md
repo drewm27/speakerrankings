@@ -651,9 +651,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Authentics-200/)
 
-## #24 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L]: $215
-) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L]: $215
-)]: $225
+## #24 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L)]: $225
 - Positives: Comes with 2 wireless microphones
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes

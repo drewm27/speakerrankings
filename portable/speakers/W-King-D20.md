@@ -7,9 +7,7 @@ share-description: "The W-King D20 ranks #24 out of 70 total Boombox Size Portab
 
 The W-King D20 ranks #24 out of 70 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #24 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L]: $215
-) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L]: $215
-)]: $225
+## #24 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L)]: $225
 - Positives: Comes with 2 wireless microphones
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes
