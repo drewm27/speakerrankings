@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Uncover the top recommended Bluetooth speakers with powerful bass. Expert-ranked picks that deliver deep, punchy lows without compromising clarity or value."
 ---
 
-This page summarizes the best portable Bluetooth speakers for bass out of the 373 ranked on this website. Last updated on 01/05/2026. The suggestions in this section are biased towards loud speakers which have boosted and deep bass response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers for bass out of the 373 ranked on this website. Last updated on 01/07/2026. The suggestions in this section are biased towards loud speakers which have boosted and deep bass response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
@@ -140,6 +140,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 - Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
+    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links

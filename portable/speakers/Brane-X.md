@@ -26,6 +26,7 @@ The Brane X ranks #10 out of 70 total [Boombox Size Portable Bluetooth Speakers]
 - Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
+    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links

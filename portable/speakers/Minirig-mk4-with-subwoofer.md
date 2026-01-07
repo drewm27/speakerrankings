@@ -23,6 +23,8 @@ The Minirig mk4 with subwoofer ranks #2 out of 75 total [Large Size Portable Blu
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.17lbs / 1.44kg
 - Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
+    - [Alan Ross Reviews:  Game changer! Minirig wireless portable subwoofer mk4 goes boom!  ](https://www.youtube.com/watch?v=nUN93WecLUs)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
