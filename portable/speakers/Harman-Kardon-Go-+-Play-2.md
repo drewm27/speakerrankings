@@ -2,10 +2,10 @@
 layout: page
 title: Harman Kardon Go + Play 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Harman Kardon Go + Play 2 ranks #18 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Harman Kardon Go + Play 2 ranks #18 out of 69 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Harman Kardon Go + Play 2 ranks #18 out of 68 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Harman Kardon Go + Play 2 ranks #18 out of 69 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #18 Harman Kardon Go + Play 2: $350
 - Positives: Warm sound with boosted bass.

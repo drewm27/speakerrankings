@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Discover the best inexpensive portable Bluetooth speakers. Expert-ranked value picks with great sound and budget-friendly performance."
 ---
 
-This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 363 ranked on this website. Last updated on 01/08/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 364 ranked on this website. Last updated on 01/08/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Portable Bluetooth Speakers for Bass](/portable/best-bass/). 
 
@@ -173,11 +173,11 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 
 ### If you're looking for cheaper, I'd recommend the [Zealot S95](https://s.click.aliexpress.com/e/_c4SCb9RH) [[Aliexpress](https://s.click.aliexpress.com/e/_c4SCb9RH)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=se&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl)]: $110
-- Positives: A good value for the boombox class.
+- Positives: A good value for the boombox class. Appears to be the same internals as the ZE01. Bigger case and goes deeper than the ZE01
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 45hz
 - Battery Life: 12 hours
 - EQ: Yes (3 modes)
 - IP Rating: IPX6
