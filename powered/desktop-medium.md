@@ -10,7 +10,7 @@ This page ranks 12 medium size powered desktop speakers. Last updated on 01/08/2
 
 For the best picks of this page see [Best Powered Home Desktop Speakers](/powered/best/)
 
-I generally tell people to avoid this class of speaker as they won't have good imaging like the [Desktop](/powered/bookshelf-large/) class and generally aren't tuned as neutral. These are more for a person who wants a speaker to take up as little space as possible.  Also consider portable Bluetooth speakers with a battery and waterproofing.
+I generally tell people to avoid this class of speaker as they won't have good imaging due to not having wide seperated left and right channels like the [Bookshelf](/powered/bookshelf-large/) class and generally aren't tuned as neutral. These are more for a person who wants a speaker to take up as little space as possible.  Also consider portable Bluetooth speakers with a battery and waterproofing.
 
 Also check out [Small Size Powered Desktop Speakers](/powered/desktop-small/), [Medium Size Powered Desktop Speakers](/powered/desktop-medium/), [Large Size Powered Desktop Speakers](/powered/desktop-large/), and [Large Size Desktop Speakers](/passive/desktop-large/)
 
