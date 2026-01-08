@@ -18,6 +18,7 @@ The LG Xboom Stage 301 ranks #23 out of 73 total [Boombox Size Portable Bluetoot
 - Weight: 13.6lbs / 6.2kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: LG xboom Stage 301 Vs Zealot S95!!!](https://www.youtube.com/watch?v=LGpXEteV6-I)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
     - [Mike O'Brien: What Did LG Just Launch? (NEW will.i.am x LG xboom Speakers)](https://www.youtube.com/watch?v=QDBumYKUsms)
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links

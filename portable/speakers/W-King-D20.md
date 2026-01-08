@@ -27,6 +27,7 @@ The W-King D20 ranks #28 out of 73 total [Boombox Size Portable Bluetooth Speake
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
     - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
     - [Jagist reviews: W-king X20 Vs Jbl Encore!!! 😁😁😁](https://www.youtube.com/watch?v=q44mBW2C0m0)
     - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
     - [Mateusz Cholewa: Soundcore RAVE 3 🤗v🆚s W- KING X20🎶](https://www.youtube.com/watch?v=-Bpt2ryx4V0)
