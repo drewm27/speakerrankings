@@ -2,12 +2,12 @@
 layout: page
 title: Artsound PWR05 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Artsound PWR05 ranks #70 out of 71 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Artsound PWR05 ranks #71 out of 72 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Artsound PWR05 ranks #70 out of 71 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Artsound PWR05 ranks #71 out of 72 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #70 Artsound PWR05
+## #71 Artsound PWR05
 - Negatives: Strange frequency peaks, sound is very hollow.
 - Aux Input: Yes
 - Battery Life: 10 hours

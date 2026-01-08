@@ -2,12 +2,12 @@
 layout: page
 title: ION Pathfinder 4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The ION Pathfinder 4 ranks #58 out of 71 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The ION Pathfinder 4 ranks #59 out of 72 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The ION Pathfinder 4 ranks #58 out of 71 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ION Pathfinder 4 ranks #59 out of 72 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #58 ION Pathfinder 4: $300
+## #59 ION Pathfinder 4: $300
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~62hz
