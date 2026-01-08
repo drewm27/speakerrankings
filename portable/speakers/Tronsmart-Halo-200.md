@@ -2,12 +2,12 @@
 layout: page
 title: Tronsmart Halo 200 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tronsmart Halo 200 ranks #48 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tronsmart Halo 200 ranks #49 out of 71 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tronsmart Halo 200 ranks #48 out of 70 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tronsmart Halo 200 ranks #49 out of 71 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #48 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325)]: $140
+## #49 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325)]: $140
 - Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
 - Aux Input: Yes
 - Aux Latency: 16ms

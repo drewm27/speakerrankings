@@ -6,7 +6,7 @@ cover-img: "/assets/img/bogasingg4.jpg"
 share-description: "Find the best Bluetooth speakers with SD‑card support. Expertly ranked for sound quality, portability & value, so you can play music straight from memory cards."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 373 ranked on this website. Last updated on 01/07/2026. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 374 ranked on this website. Last updated on 01/07/2026. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 ## The Best Small Pocket Size Speaker With A SD Card Slot
 
@@ -74,31 +74,28 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 
 ## The Best Boombox Size Speaker With A SD Card Slot
 
-### The best [boombox size](/portable/boombox/) battery powered speaker with a SD card slot is the [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $240 after coupon
-- Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
-- App: Yes
+### The best [boombox size](/portable/boombox/) battery powered speaker with a SD card slot is the [Zealot ZE21](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
+- Positives: The absolute best value for the bass performance, play time and max volume in the boombox class.
+- Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
+- App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~42hz
-- EQ: Yes
+- Bass Extension (-10dB): 36hz
+- Battery Life: 40 hours
+- EQ: Yes (3 modes)
 - IP Rating: IPX6
-- Max Volume: 112db
+- Bluetooth Latency: SBC
+- Max Volume: 116db
 - MicroSD: Yes
-- Power Bank: Yes
+- Party Mode: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- USB Playback: Yes
+- Weight: 20.4lbs / 9.27kg
 - Reviews, Comparisons and Sound Samples
-    - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
-    - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
-    - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
-    - [Jagist reviews: W-king X20 Vs Jbl Encore!!! 😁😁😁](https://www.youtube.com/watch?v=q44mBW2C0m0)
-    - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
-    - [Mateusz Cholewa: Soundcore RAVE 3 🤗v🆚s W- KING X20🎶](https://www.youtube.com/watch?v=-Bpt2ryx4V0)
-    - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
-    - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
+    - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
 - Links
-    - [Official Product Page](https://w-kingaudio.com/products/d20)
+    - [Official Product Page](https://www.zealot.com/products/zealot-ze21-portable-bluetooth-speaker-high-volume-waterproof-wireless-tws-subwoofer-support-u)
 
 
 ## The Best Party Size Speaker With A USB memory stick port

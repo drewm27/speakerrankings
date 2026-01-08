@@ -2,10 +2,10 @@
 layout: page
 title: Harman Kardon Onyx Studio 6 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Harman Kardon Onyx Studio 6 ranks #12 out of 70 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Harman Kardon Onyx Studio 6 ranks #12 out of 71 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Harman Kardon Onyx Studio 6 ranks #12 out of 70 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Harman Kardon Onyx Studio 6 ranks #12 out of 71 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #12 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325)]: $130
 - Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
