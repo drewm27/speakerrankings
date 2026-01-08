@@ -2,12 +2,12 @@
 layout: page
 title: Bumpboxx Flare 8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bumpboxx Flare 8 ranks #55 out of 72 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Bumpboxx Flare 8 ranks #56 out of 73 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Bumpboxx Flare 8 ranks #55 out of 72 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bumpboxx Flare 8 ranks #56 out of 73 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #55 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8) [[Bumpboxx](https://bumpboxx.com/products/bumpboxx-flare8)]: $400
+## #56 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8) [[Bumpboxx](https://bumpboxx.com/products/bumpboxx-flare8)]: $400
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - Battery Life: 12 hours
