@@ -2,7 +2,7 @@
 layout: page
 title: Large Size Powered Desktop Speakers Ranked 2026
 comments: true
-cover-img: "/assets/img/klasik2020.jpg"
+cover-img: "/assets/img/authentics500.jpg"
 share-description: "Find the best large powered bookshelf speakers of 2026 with expert reviews, performance comparison, and buying tips for powerful, clear high-quality sound."
 ---
 
