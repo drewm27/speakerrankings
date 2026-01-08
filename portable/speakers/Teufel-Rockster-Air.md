@@ -2,12 +2,12 @@
 layout: page
 title: Teufel Rockster Air Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Teufel Rockster Air ranks #21 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Teufel Rockster Air ranks #20 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Teufel Rockster Air ranks #21 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Teufel Rockster Air ranks #20 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #21 Teufel Rockster Air: €500
+## #20 Teufel Rockster Air: €500
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz

@@ -2,12 +2,12 @@
 layout: page
 title: Soundboks Go Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundboks Go ranks #26 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundboks Go ranks #25 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundboks Go ranks #26 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundboks Go ranks #25 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #26 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325)]: $550
+## #25 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325)]: $550
 - Positives: Removable 40 hour battery.
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Aux Input: Yes

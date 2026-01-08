@@ -2,12 +2,12 @@
 layout: page
 title: W-King X10-1 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The W-King X10-1 ranks #63 out of 73 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The W-King X10-1 ranks #58 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The W-King X10-1 ranks #63 out of 73 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The W-King X10-1 ranks #58 out of 68 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #63 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $143
+## #58 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $143
 - Negatives: Rolled off treble, not much bass.
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz

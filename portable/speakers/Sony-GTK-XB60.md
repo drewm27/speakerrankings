@@ -2,12 +2,12 @@
 layout: page
 title: Sony GTK-XB60 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony GTK-XB60 ranks #46 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Sony GTK-XB60 ranks #41 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony GTK-XB60 ranks #46 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony GTK-XB60 ranks #41 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #46 Sony GTK-XB60
+## #41 Sony GTK-XB60
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz

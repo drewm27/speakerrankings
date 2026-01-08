@@ -2,12 +2,12 @@
 layout: page
 title: Dockin D Fine+ Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Dockin D Fine+ ranks #33 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Dockin D Fine+ ranks #30 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Dockin D Fine+ ranks #33 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Dockin D Fine+ ranks #30 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #33 Dockin D Fine+
+## #30 Dockin D Fine+
 - Positives: Deeper bass than the non-plus version.
 - Power Bank: Yes
 - Power Input: USB-C

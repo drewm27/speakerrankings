@@ -2,12 +2,12 @@
 layout: page
 title: Audiocase S10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Audiocase S10 ranks #27 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Audiocase S10 ranks #26 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Audiocase S10 ranks #27 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Audiocase S10 ranks #26 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #27 Audiocase S10: $892
+## #26 Audiocase S10: $892
 - Positives: One of the loudest in category.
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
 - Aux Input: Yes

@@ -2,12 +2,12 @@
 layout: page
 title: Audiocase S5 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Audiocase S5 ranks #20 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Audiocase S5 ranks #19 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Audiocase S5 ranks #20 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Audiocase S5 ranks #19 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #20 Audiocase S5: $645
+## #19 Audiocase S5: $645
 - Positives: Removable battery
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
 - Aux Input: Yes

@@ -2,12 +2,12 @@
 layout: page
 title: JBL Xtreme 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Xtreme 2 ranks #43 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Xtreme 2 ranks #40 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Xtreme 2 ranks #43 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Xtreme 2 ranks #40 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #43 JBL Xtreme 2: $200
+## #40 JBL Xtreme 2: $200
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
 - Bass Extension (-10dB): 54hz
 - Battery Life: 15 hours

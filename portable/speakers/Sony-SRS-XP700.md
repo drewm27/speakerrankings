@@ -2,12 +2,12 @@
 layout: page
 title: Sony SRS-XP700 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony SRS-XP700 ranks #12 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Sony SRS-XP700 ranks #11 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony SRS-XP700 ranks #12 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SRS-XP700 ranks #11 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #12 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325)]: $400
+## #11 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325)]: $400
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
 - App: Yes
 - Aux Input: Yes

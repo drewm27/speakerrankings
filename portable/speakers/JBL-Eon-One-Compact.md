@@ -2,12 +2,12 @@
 layout: page
 title: JBL Eon One Compact Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Eon One Compact ranks #32 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Eon One Compact ranks #28 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Eon One Compact ranks #32 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Eon One Compact ranks #28 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #32 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325)]: $630
+## #28 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325)]: $630
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - Aux Input: Yes
 - Battery Life: 12 hours

@@ -2,12 +2,12 @@
 layout: page
 title: Soundcore Rave+ Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Rave+ ranks #42 out of 48 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Rave+ ranks #37 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Rave+ ranks #42 out of 48 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Rave+ ranks #37 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #42 Soundcore Rave+: $240
+## #37 Soundcore Rave+: $240
 - Negatives: Pretty big lack of deep bass
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz

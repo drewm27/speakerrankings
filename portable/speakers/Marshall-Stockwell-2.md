@@ -2,10 +2,10 @@
 layout: page
 title: Marshall Stockwell 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Marshall Stockwell 2 ranks #9 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Marshall Stockwell 2 ranks #9 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Marshall Stockwell 2 ranks #9 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Marshall Stockwell 2 ranks #9 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #9 [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325)]: $200
 - Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.

@@ -2,12 +2,12 @@
 layout: page
 title: B&O Beoplay A2 active Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The B&O Beoplay A2 active ranks #14 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The B&O Beoplay A2 active ranks #13 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beoplay A2 active ranks #14 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beoplay A2 active ranks #13 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #14 [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325)]: $400
+## #13 [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325)]: $400
 - Negatives: Not stereo
 - Aux Input: Yes
 - Battery Life: 24 hours

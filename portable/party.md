@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."
 ---
 
-This page ranks 48 party size powered Bluetooth speakers. Last updated on 01/07/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
+This page ranks 43 party size powered Bluetooth speakers. Last updated on 01/08/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -306,27 +306,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bose.com/p/portable-pa/s1-pro-wireless-pa-system/S1PROP-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-S1-Pro/)
 
-## #11 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl)]: $600
-- Positives: Quite powerful sound, and quite deep bass for the size.
-- Negatives: No battery. Boosted upper bass. Peaky upper mids.
-- App: Yes
-- Aux Input: Yes
-- Battery Life: No battery
-- Bluetooth Codecs: SBC
-- EQ: Yes
-- IP Rating: None
-- Party Mode: Yes
-- Stereo: Yes
-- Weight: 17.2lbs / 7.8kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
-    - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 😮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)
-- Links
-    - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-500.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Authentics-500/)
-
-## #12 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325)]: $400
+## #11 [Sony SRS-XP700](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094T99V63/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7f5d78c110c2522e3ce095f40dbc3f7d&camp=1789&creative=9325)]: $400
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
 - App: Yes
 - Aux Input: Yes
@@ -349,7 +329,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp700)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XP700/)
 
-## #13 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325)]: $300
+## #12 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325)]: $300
 - Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
 - App: Yes
 - Aux Input: Yes
@@ -372,7 +352,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp500)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XP500/)
 
-## #14 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $130
+## #13 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $130
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
 - Aux Input: Yes
@@ -394,7 +374,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Onn-Large-Party-gen-2/)
 
-## #15 [Soundcore Rave 3/3s](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=se&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=se&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl)]: $350
+## #14 [Soundcore Rave 3/3s](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=se&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=se&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl)]: $350
 - Positives: 2 AA battery Wireless Microphones and remote control included. AI voice removal feature for Karaoke
 - Negatives: Some upper bass and upper mids boost. Not as deep of bass as a Partybox 110/120
 - App: Yes
@@ -419,7 +399,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17041213)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-33s/)
 
-## #16 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl)]: $378
+## #15 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl)]: $378
 - Positives: Wheels and handle. Cool customizable lighting
 - Negatives: Treble is recessed, bass isn't as deep as a Partybox 310. Upper bass boosted.
 - App: Yes
@@ -437,7 +417,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xl7s-portable-speaker)
     - [Direct Speakerranking Link](/portable/speakers/LG-XL7/)
 
-## #17 [Klipsch Gig XXL](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl)]: $130
+## #16 [Klipsch Gig XXL](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl)]: $130
 - Positives: Really amazing value for the money
 - Negatives: Not quite as clean sounding as the top ranked speakers. Not quite as deep of bass Partybox 110. Bass gets muddy at high volume. Low battery life. No water rating
 - App: No
@@ -462,7 +442,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.klipsch.com/products/gig-xxl-party-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Klipsch-Gig-XXL/)
 
-## #18 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325)]: $300
+## #17 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325)]: $300
 - Positives: Sounds reasonably balanced. A little tough to judge based on the sound samples, would be nice to have more comparisons.
 - Negatives: Not as deep bass as the Partybox 110 or other higher ranked speakers. Needs to be plugged in to reach higher volume.
 - App: Yes
@@ -481,7 +461,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.samsung.com/us/televisions-home-theater/home-theater/sound-tower/mx-st50b-sound-tower-high-power-audio-240w-2022-mx-st50b-za/)
     - [Direct Speakerranking Link](/portable/speakers/Samsung-MX-ST50B/)
 
-## #19 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325)]: $450
+## #18 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325)]: $450
 - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass. Battery latch breaks easily. Handle on top also can break off. Not very deep bass
 - App: Yes
 - Aux Input: Yes
@@ -504,7 +484,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.reddit.com/r/livesound/comments/sbxm53/mackie_thump_go_review_portable_batterypowered_pa/>
     - [Direct Speakerranking Link](/portable/speakers/Mackie-Thump-Go/)
 
-## #20 Audiocase S5: $645
+## #19 Audiocase S5: $645
 - Positives: Removable battery
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
 - Aux Input: Yes
@@ -523,7 +503,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://audiocase.dk/products/audiocase-s5)
     - [Direct Speakerranking Link](/portable/speakers/Audiocase-S5/)
 
-## #21 Teufel Rockster Air: €500
+## #20 Teufel Rockster Air: €500
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
@@ -542,7 +522,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://fi.teufelaudio.com/rockster-air-105401000)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster-Air/)
 
-## #22 [Soundboks 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325)]: $1000
+## #21 [Soundboks 4](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Wireless-Portable/dp/B0CJG1W336/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325)]: $1000
 - Positives: Tied for the loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: Yes
@@ -567,7 +547,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-15624888)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-4/)
 
-## #23 [Soundboks 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325)]: $699
+## #22 [Soundboks 3](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7e2a38c44082a23ae208486255b43055&camp=1789&creative=9325)]: $699
 - Positives: Tied for the loudest battery powered speaker. Removable 40 hour battery.
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: Yes
@@ -593,7 +573,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-15571488)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-3/)
 
-## #24 [Soundboks 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325)]: $550
+## #23 [Soundboks 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325)]: $550
 - Positives: Tied for the loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Aux Input: Yes
 - Battery Life: 40 hours
@@ -614,7 +594,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-2)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-2/)
 
-## #25 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325)]: $450
+## #24 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325)]: $450
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
@@ -630,7 +610,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://us.ultimateears.com/products/hyperboom)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Hyperboom/)
 
-## #26 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325)]: $550
+## #25 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325)]: $550
 - Positives: Removable 40 hour battery.
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
 - Aux Input: Yes
@@ -649,7 +629,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-15571491)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-Go/)
 
-## #27 Audiocase S10: $892
+## #26 Audiocase S10: $892
 - Positives: One of the loudest in category.
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
 - Aux Input: Yes
@@ -665,7 +645,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://audiocase.dk/products/audiocase-s10)
     - [Direct Speakerranking Link](/portable/speakers/Audiocase-S10/)
 
-## #28 [W-King T9 Pro](https://s.click.aliexpress.com/e/_c3zh0rJN) [[Aliexpress](https://s.click.aliexpress.com/e/_c3zh0rJN)]: $294
+## #27 [W-King T9 Pro](https://s.click.aliexpress.com/e/_c3zh0rJN) [[Aliexpress](https://s.click.aliexpress.com/e/_c3zh0rJN)]: $294
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - Aux Input: Yes
 - Battery Life: 12 hours
@@ -676,48 +656,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.w-king.com/t9pro.html)
     - [Direct Speakerranking Link](/portable/speakers/W-King-T9-Pro/)
 
-## #29 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325)]: $580
-- Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
-- Aux Input: Yes
-- Bass Extension (-10dB): ~45hz
-- Battery Life: No battery
-- Power Input: AC Power cord
-- Weight: 16.4lbs / 7.44kg
-- Reviews, Comparisons and Sound Samples
-    - [Danny Pops: MY EARS ARE BLEEDING! Marshall Woburn III Unboxing](https://www.youtube.com/watch?v=U6Sec5_16x4)
-    - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
-- Links
-    - [Official Product Page](https://www.marshall.com/us/en/product/woburn-iii)
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Woburn-III/)
-
-## #30 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325)]: $430
-- Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
-- Aux Input: Yes
-- Bass Extension (-10dB): ~47hz
-- Battery Life: No battery
-- Power Input: AC Power cord
-- Weight: 18.9lbs / 8.57kg
-- Reviews, Comparisons and Sound Samples
-    - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
-    - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
-    - [HiTechKing: Marshall Woburn II Unboxing & Review](https://www.youtube.com/watch?v=qnya_6ew1e4)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Woburn-II/)
-
-## #31 Marshall Woburn I: $500
-- Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
-- Aux Input: Yes
-- Bass Extension (-10dB): ~50hz
-- Battery Life: No battery
-- Power Input: AC Power cord
-- Weight: 17.4lbs / 7.9kg
-- Reviews, Comparisons and Sound Samples
-    - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
-    - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Woburn-I/)
-
-## #32 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325)]: $630
+## #28 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325)]: $630
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - Aux Input: Yes
 - Battery Life: 12 hours
@@ -730,24 +669,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.jbl.com/portable-pa-systems/JBL+EON+ONE+Compact.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Eon-One-Compact/)
 
-## #33 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
-- Negatives: Overly boosted bass and recessed mids. Overly expensive
-- Aux Input: Yes
-- Bass Extension (-10dB): ~45hz
-- Battery Life: No battery
-- Max Volume: 94db
-- Party Mode: Yes
-- Power Input: AC Power cord
-- TWS: Yes
-- Weight: 9lbs / 4.1kg
-- Reviews, Comparisons and Sound Samples
-    - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
-    - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
-- Links
-    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-2/)
-
-## #34 B&O Beosound 1: $2000
+## #29 B&O Beosound 1: $2000
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Aux Input: Yes
 - Bass Extension (-10dB): ~53hz
@@ -762,7 +684,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-1/)
 
-## #35 Diamondboxx L2: $1000
+## #30 Diamondboxx L2: $1000
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
 - Aux Input: Yes
 - IP Rating: None
@@ -776,7 +698,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://diamondboxx.com/collections/wireless_speakers)
     - [Direct Speakerranking Link](/portable/speakers/Diamondboxx-L2/)
 
-## #36 dB technologies B-Hype M: $450
+## #31 dB technologies B-Hype M: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - Aux Input: Yes
 - Bass Extension (-10dB): 62hz
@@ -791,7 +713,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.dbtechnologies.com/en/products/b-hype/b-hype-m/)
     - [Direct Speakerranking Link](/portable/speakers/dB-technologies-B-Hype-M/)
 
-## #37 Onn Large Party gen 1: $100
+## #32 Onn Large Party gen 1: $100
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
@@ -809,7 +731,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Onn-Large-Party-gen-1/)
 
-## #38 Philips NX200
+## #33 Philips NX200
 - Negatives: No deep bass, mids are a little harsh
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
@@ -823,7 +745,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.usa.philips.com/c-p/TANX200_37/bluetooth-party-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Philips-NX200/)
 
-## #39 Panasonic SC-TMAX10
+## #34 Panasonic SC-TMAX10
 - Negatives: Not as deep bass as others in the class
 - Aux Input: Yes
 - Bass Extension (-10dB): ~57hz
@@ -837,7 +759,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.panasonic.com/mea/en/consumer/home-entertainment/audio/mini-systems/sc-tmax10.html)
     - [Direct Speakerranking Link](/portable/speakers/Panasonic-SC-TMAX10/)
 
-## #40 Panasonic SC-TMAX5
+## #35 Panasonic SC-TMAX5
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
 - Aux Input: Yes
@@ -852,7 +774,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.panasonic.com/uk/support/discontinued-products/home-entertainment/sc-tmax5.html)
     - [Direct Speakerranking Link](/portable/speakers/Panasonic-SC-TMAX5/)
 
-## #41 Sharp PS-929: $150
+## #36 Sharp PS-929: $150
 - Negatives: Not very deep bass
 - Bass Extension (-10dB): ~60hz
 - Power Input: AC Power cord
@@ -863,7 +785,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.sharpconsumer.com/audio/ps929/)
     - [Direct Speakerranking Link](/portable/speakers/Sharp-PS-929/)
 
-## #42 Soundcore Rave+: $240
+## #37 Soundcore Rave+: $240
 - Negatives: Pretty big lack of deep bass
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
@@ -878,7 +800,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://nz.soundcore.com/products/rave)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave+/)
 
-## #43 Soundcore Rave: $220
+## #38 Soundcore Rave: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
@@ -891,7 +813,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave/)
 
-## #44 Sony GTK-XB90
+## #39 Sony GTK-XB90
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
@@ -907,7 +829,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB90/)
 
-## #45 Sony GTK-XB72
+## #40 Sony GTK-XB72
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Aux Input: Yes
 - Bass Extension (-10dB): ~56hz
@@ -922,7 +844,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB72/)
 
-## #46 Sony GTK-XB60
+## #41 Sony GTK-XB60
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
@@ -939,7 +861,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB60/)
 
-## #47 Altec Lansing AL500: $200
+## #42 Altec Lansing AL500: $200
 - Negatives: Not very deep bass
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
@@ -954,7 +876,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-AL500/)
 
-## #48 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325)]: $100
+## #43 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325)]: $100
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
 - Aux Input: Yes

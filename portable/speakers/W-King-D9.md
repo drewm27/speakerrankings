@@ -2,12 +2,12 @@
 layout: page
 title: W-King D9 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The W-King D9 ranks #63 out of 75 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The W-King D9 ranks #60 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The W-King D9 ranks #63 out of 75 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The W-King D9 ranks #60 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #63 [W-King D9](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325)]: $72
+## #60 [W-King D9](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325)]: $72
 - Negatives: Very rolled off treble.
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz

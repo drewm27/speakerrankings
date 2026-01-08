@@ -6,7 +6,7 @@ cover-img: "/assets/img/branex.jpg"
 share-description: "Discover the top-recommended WiFi speakers. Expertly ranked for seamless multi-room streaming, sound quality, and value across smart home setups."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers that have wifi out of the 376 ranked on this website. Last updated on 01/07/2026. Note by limiting your search to only speakers with Wifi, you'll take a hit in sound quality generally. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers that have wifi out of the 363 ranked on this website. Last updated on 01/08/2026. Note by limiting your search to only speakers with Wifi, you'll take a hit in sound quality generally. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/). 
 
@@ -34,23 +34,21 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Large Size Bluetooth Speaker with Wifi
 
-### The best [large size](/portable/large/) powered speaker with Wifi is the [Audio Pro C5 MkII](https://www.amazon.com/Audio-Pro-C5-Bluetooth-Multiroom/dp/B09NM2VF85?crid=366YLUJLRMNVT&dib=eyJ2IjoiMSJ9.i1clhCy8UJh_0DMn2JY-dgOyM9_LiqmbltjwRC87tZKb8TmLbM0tQCKxvxydT0k9diDGB9dDLCX_RctxlqlinFZ9Fm8-xJAr0oaKoJ-zwoMyZryRN3zzIltRmg7rehkp9bPIbXE3Y_RvI9EIob6BJy5C3J_IiXvuSlj99PJUxlLg48qvZ6cqcm-AjShMekOVB28MMNs6jXf55T_OPWV99o_YNHwctvEUeZKKAX_Wzyo.iJ2cGgxHQKaFo1w9CGLlcvYBdxPj-AjLL8QuWoMJdPU&dib_tag=se&keywords=audio%2Bpro%2Bc5&qid=1742763022&sprefix=audio%2Bpro%2Bc%2Caps%2C242&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a762728559d4551484c8912924d9d608&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Audio-Pro-C5-Bluetooth-Multiroom/dp/B09NM2VF85?crid=366YLUJLRMNVT&dib=eyJ2IjoiMSJ9.i1clhCy8UJh_0DMn2JY-dgOyM9_LiqmbltjwRC87tZKb8TmLbM0tQCKxvxydT0k9diDGB9dDLCX_RctxlqlinFZ9Fm8-xJAr0oaKoJ-zwoMyZryRN3zzIltRmg7rehkp9bPIbXE3Y_RvI9EIob6BJy5C3J_IiXvuSlj99PJUxlLg48qvZ6cqcm-AjShMekOVB28MMNs6jXf55T_OPWV99o_YNHwctvEUeZKKAX_Wzyo.iJ2cGgxHQKaFo1w9CGLlcvYBdxPj-AjLL8QuWoMJdPU&dib_tag=se&keywords=audio%2Bpro%2Bc5&qid=1742763022&sprefix=audio%2Bpro%2Bc%2Caps%2C242&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a762728559d4551484c8912924d9d608&language=en_US&ref_=as_li_ss_tl)]: $300
-- Positives: Pretty neutral sound. Wifi
-- Negatives: No battery
-- Aux Input: Yes
-- Battery Life: None
-- IP Rating: None
-- Party Mode: Yes (over Wifi)
-- Power Input: AC Cord
-- Stereo: Partially
-- TWS: No
-- Weight: 5.3lbs / 2.4kg
+### The best [large size](/portable/large/) powered speaker with Wifi is the [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325)]: $1200
+- Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
+- IP Rating: IP65
+- Max Volume: 101db
+- Party Mode: Yes (Mozart 2.0)
+- Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- USB Audio: Yes
+- Weight: 8.5lbs / 3.86kg
 - Wifi: Yes
 - Reviews, Comparisons and Sound Samples
-    - [Storytripper HD: Audio Pro Addon C5 vs C5 MKii](https://www.youtube.com/watch?v=RoJNPpDDzLA)
-    - [Smart Home Sounds: Audio Pro Addon Series: A serious multi-room contender?](https://www.youtube.com/watch?v=ig8h32VcU8o)
+    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
 - Links
-    - [Official Product Page](https://audiopro.com/products/c5-mkii)
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
 
 
 ## The Best Boombox Size Bluetooth Speaker with Wifi
