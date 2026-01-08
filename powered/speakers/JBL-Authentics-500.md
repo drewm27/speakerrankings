@@ -16,10 +16,13 @@ The JBL Authentics 500 ranks #1 out of 1 total [Large Size Powered Desktop Speak
 - Bluetooth Codecs: SBC
 - EQ: Yes
 - IP Rating: None
+- Midrange: 3x 2.75"
 - Party Mode: Yes
 - Stereo: Yes
+- Tweeter: 3x 1"
 - Weight: 17.2lbs / 7.8kg
 - Wifi: Yes
+- Woofer: 6.5"
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
     - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 😮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)
