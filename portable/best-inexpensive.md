@@ -200,7 +200,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Inexpensive Party Size Speaker
 
-### The best inexpensive [party size](/portable/party/) battery powered speaker is the [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $150
+### The best inexpensive [party size](/portable/party/) battery powered speaker is the [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $130
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
 - Aux Input: Yes
