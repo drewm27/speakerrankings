@@ -12,7 +12,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
 
-Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable-party-speakers/).
+Keep in mind these are designed more for deep bass than extreme loudness and if you're throwing parties for over 50 people you may want to look at real PA speakers instead, see [this](/portable/loudest-speakers/).
 
 For longer runtime, check out a [power station](/portable-power-stations/).
 

@@ -12,7 +12,7 @@ Unlike most other review websites pushing specific sponsored speakers, I don't h
 
 The goal of this website is to eliminate the months of reading and watching reviews it would normally take to understand the entire speaker market. All that information is summarized into ranked lists which can help you find what you're looking for in just a few minutes. These rankings were assembled in the same way a person would do deep research. Find the [best unbiased reviewer comparisons, sound samples and objective measurements](/personal-ranking-of-speaker-reviewers/) then take all of that information and piece together the full rankings of all speakers. All the videos and information used to construct these rankings are linked so you can verify the order of the rankings yourself.
 
-The top picks on this website are the same ones that unbiased reviewers who value neutral speakers like [Oluv and Alan Ross](/top-recommended-reviewers/) also highly recommend.
+The top picks on this website are the same ones that unbiased reviewers who value neutral speakers like [Oluv and Alan Ross](/portable/best-from-reviewers/) also highly recommend.
 
 ## Top Recommended Speakers By Attribute
 
@@ -28,7 +28,7 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 - [Best Portable Bluetooth Speakers With Mic Input](/portable/best-microphone-input/)
 - [Best Portable Bluetooth Speakers With Wireless Mic](/portable/best-wireless-microphone/)
 - [Best Portable Bluetooth Speakers With SD Card Slot](/portable/best-sdcard/)
-- [Loudest Portable Bluetooth Party Speakers](/portable-party-speakers/)
+- [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
 - [Best Powered Home Bookshelf Speakers](/powered/best/)
 - [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 - [Best Bluetooth Speakers From Other Top Reviewers](/portable/best-from-reviewers/)

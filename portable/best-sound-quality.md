@@ -468,6 +468,6 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
 
 
-If you're throwing parties for over 50 people and need louder, see [this page](/portable-party-speakers/) and pick up a [portable power station](/portable-power-stations/) for battery use
+If you're throwing parties for over 50 people and need louder, see [this page](/portable/loudest-speakers/) and pick up a [portable power station](/portable-power-stations/) for battery use
 
 As an Amazon Associate I earn from qualifying purchases.
