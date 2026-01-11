@@ -6,13 +6,13 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-Speaker Ranking ranks a total of 526 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 01/08/2026. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
+Speaker Ranking ranks a total of 526 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 01/10/2026. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
 
 Unlike most other review websites pushing specific sponsored speakers, I don't hide away details. I give you the honest good and bad about every speaker and then leave the choice up to you. Every single speaker is detailed out. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. The rankings and content are not influenced by any manufacturer.
 
 The goal of this website is to eliminate the months of reading and watching reviews it would normally take to understand the entire speaker market. All that information is summarized into ranked lists which can help you find what you're looking for in just a few minutes. These rankings were assembled in the same way a person would do deep research. Find the [best unbiased reviewer comparisons, sound samples and objective measurements](/personal-ranking-of-speaker-reviewers/) then take all of that information and piece together the full rankings of all speakers. All the videos and information used to construct these rankings are linked so you can verify the order of the rankings yourself.
 
-The top picks on this website are the same ones that unbiased reviewers who value neutral speakers like [Oluv and Alan Ross](/portable/best-from-reviewers/) also highly recommend.
+The top picks on this website are the same ones that unbiased reviewers who value neutral speakers like [Oluv and Alan Ross](/top-recommended-reviewers/) also highly recommend.
 
 ## Top Recommended Speakers By Attribute
 
