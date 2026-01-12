@@ -48,6 +48,22 @@ For more detailed information and specs about these speakers see the full rankin
 
 ## The Best Powered Bookshelf Speakers For Critical Mixing and Mastering
 
+### The absolute best [large size powered bookshelf speaker](/powered/bookshelf-large/) for critical mixing and mastering with an extremely neutral resolving profile is the [Neumann KH420](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH420)]: $10500 a pair
+- Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass. Likely one of the best studio monitors for mastering recordings in existence.
+- Negatives: Very expensive
+- Bass Extension (-10dB): 24hz
+- Bass Extension (-3dB): 32hz
+- Dimensions: 25.4"H x 13"W x 17.5"D
+- Inputs: XLR
+- Watts: 555w Per Speaker
+- Weight: 77lbs / 35kg each
+- Woofer: 10"
+- Reviews, Comparisons and Sound Samples
+    - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
+- Links
+    - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-420)
+
+
 ### The best [large size powered bookshelf speaker](/powered/bookshelf-large/) for critical mixing and mastering with an extremely neutral resolving profile and reasonable price is the [Kali Audio IN-8](https://www.amazon.com/Audio-Powered-3-Way-Studio-Monitor/dp/B0D3242PDD?crid=1FXXT955OZUO7&dib=eyJ2IjoiMSJ9.WUrayXNz0r7veIBTlnD6uHSTct7WDeLrmhpAQVgZ2p-dE4DJfGvXaV2MleBSvJyaODhtan3Zm5j5z07URKfIwSI_C_jj7MjE3C1xZp1d1NY.hTUNpj4SkiOHNxDoTf6xdZ-C-Z5m6O_pwKUH4x_b8_c&dib_tag=se&keywords=kali+in8+v2&qid=1750480560&s=electronics&sprefix=kali+%2Celectronics%2C210&sr=1-3&linkCode=ll1&tag=rankingspea01-20&linkId=e6f2abced485f60c621a58c640aa13de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Audio-Powered-3-Way-Studio-Monitor/dp/B0D3242PDD?crid=1FXXT955OZUO7&dib=eyJ2IjoiMSJ9.WUrayXNz0r7veIBTlnD6uHSTct7WDeLrmhpAQVgZ2p-dE4DJfGvXaV2MleBSvJyaODhtan3Zm5j5z07URKfIwSI_C_jj7MjE3C1xZp1d1NY.hTUNpj4SkiOHNxDoTf6xdZ-C-Z5m6O_pwKUH4x_b8_c&dib_tag=se&keywords=kali+in8+v2&qid=1750480560&s=electronics&sprefix=kali+%2Celectronics%2C210&sr=1-3&linkCode=ll1&tag=rankingspea01-20&linkId=e6f2abced485f60c621a58c640aa13de&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Kali+Audio+IN-8)]: $1000 a pair
 - Positives: Pretty smooth frequency response below 10khz. Pretty good off-axis response due to the coaxial driver.
 - Negatives: A 3dB dip around 10.3khz
