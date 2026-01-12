@@ -63,7 +63,7 @@ For more detailed information and specs about these speakers see the full rankin
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/r2850db)
 
 
-## The Best Powered Bookshelf Speakers For Critical Mixing and Mastering
+## The Best Neutral Powered Bookshelf Speakers For Critical Mixing and Mastering
 
 ### The absolute best [large size powered bookshelf speaker](/powered/bookshelf-large/) for critical mixing and mastering with an extremely neutral resolving profile is the [Neumann KH420](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH420)]: $10500 a pair
 - Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass. Likely one of the best studio monitors for mastering recordings in existence.
