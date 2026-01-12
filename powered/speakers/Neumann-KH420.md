@@ -8,7 +8,7 @@ share-description: "The Neumann KH420 ranks #2 out of 21 total Large Size Powere
 The Neumann KH420 ranks #2 out of 21 total [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 [Neumann KH420](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH420)]: $10500 a pair
-- Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass Likely one of the best studio monitors for mastering recordings in existence.
+- Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass. Likely one of the best studio monitors for mastering recordings in existence.
 - Negatives: Very expensive
 - Bass Extension (-10dB): 24hz
 - Bass Extension (-3dB): 32hz
