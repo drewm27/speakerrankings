@@ -46,6 +46,23 @@ For more detailed information and specs about these speakers see the full rankin
     - [Official Product Page](https://www.kaliaudio.com/lp-unf)
 
 
+### If you don't have any size constraints, check out the [large size](/powered/bookshelf-large/) [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+R2850DB)]: $500 a pair
+- Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the neutral sound of the HS8. Shockingly close to the HS8 at half the price.
+- Negatives: Quite large and heavy
+- Dimensions: 18.1"H x 10.1"W x 12.4"D
+- Frequency Response: 42Hz-20KHz (-3dB)
+- Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
+- Watts: 75w RMS Per Speaker
+- Weight: 50.7lbs / 23kg
+- Woofer: 8"
+- Reviews, Comparisons and Sound Samples
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
+- Links
+    - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/r2850db)
+
+
 ## The Best Powered Bookshelf Speakers For Critical Mixing and Mastering
 
 ### The absolute best [large size powered bookshelf speaker](/powered/bookshelf-large/) for critical mixing and mastering with an extremely neutral resolving profile is the [Neumann KH420](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1086804-REG/neumann_kh_420_3_way_studio.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH420)]: $10500 a pair
@@ -123,59 +140,6 @@ For more detailed information and specs about these speakers see the full rankin
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/)
-
-
-## The Best Bluetooth Powered Bookshelf Speakers
-
-### If you really require Bluetooth to be built in and don't have any size constraints, check out the [large size](/powered/bookshelf-large/) [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+R2850DB)]: $500 a pair
-- Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the neutral sound of the HS8. Shockingly close to the HS8 at half the price.
-- Negatives: Quite large and heavy
-- Dimensions: 18.1"H x 10.1"W x 12.4"D
-- Frequency Response: 42Hz-20KHz (-3dB)
-- Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
-- Watts: 75w RMS Per Speaker
-- Weight: 50.7lbs / 23kg
-- Woofer: 8"
-- Reviews, Comparisons and Sound Samples
-    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
-    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
-    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
-- Links
-    - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/r2850db)
-
-
-### For a smaller [medium size](/powered/bookshelf-medium/) option, check out the [Kali LP-UNF](https://www.amazon.com/KALI-AUDIO-LP-UNF-Nearfield-Bluetooth/dp/B0CSDVVYBC?mcid=6d7ff2a558da3c8abdab65971ce3980e&hvocijid=1369021853064517712-B0CSDVVYBC-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=1369021853064517712&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178058&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=eac473512f174456e9d90c3ba837b3e7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KALI-AUDIO-LP-UNF-Nearfield-Bluetooth/dp/B0CSDVVYBC?mcid=6d7ff2a558da3c8abdab65971ce3980e&hvocijid=1369021853064517712-B0CSDVVYBC-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=1369021853064517712&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178058&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=eac473512f174456e9d90c3ba837b3e7&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Kali+LP-UNF)]: $350 a pair
-- Positives: An insane value in this class. Slight 2dB bass boost. Pretty deep bass for this size class. Includes Bluetooth
-- Negatives: 3dB dip around 240hz
-- Bass Extension (-10dB): 39hz
-- Bass Extension (-3dB): 54hz
-- Inputs: Bluetooth, USB-C (digital), RCA, TRS
-- Tweeter: 1" Textile Dome
-- Woofer: 4.5"
-- Reviews, Comparisons and Sound Samples
-    - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
-    - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
-    - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
-- Links
-    - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/kali_lp_unf/)
-    - [Official Product Page](https://www.kaliaudio.com/lp-unf)
-
-
-### For the best [small size](/powered/bookshelf-small/) reasonably priced option, check out the [Edifier MR3](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+MR3)]: $135
-- Positives: Pretty linear on axis, a very good value especially when you want Bluetooth included. Better than the MR4 all around.
-- Negatives: Small woofer doesn't have very deep bass like others in this size class.
-- App: Yes
-- Dimensions: 8.7"H x 4.9"W x 7.3"D
-- EQ: Yes
-- Frequency Response: 67-20 kHz (-3dB)
-- Inputs: Bluetooth, Aux, RCA Input
-- Watts: 18w RMS Per Speaker
-- Weight: 8.5lbs / 3.85kg
-- Woofer: 3.5"
-- Reviews, Comparisons and Sound Samples
-    - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
-- Links
-    - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)
 
 
 ## Bluetooth Receivers
