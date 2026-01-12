@@ -48,22 +48,22 @@ For more detailed information and specs about these speakers see the full rankin
 
 ## The Best Powered Bookshelf Speakers For Critical Mixing and Mastering
 
-### The best [large size powered bookshelf speaker](/powered/bookshelf-large/) for critical mixing and mastering with an extremely neutral resolving profile and reasonable price is the [APS Klasik 2020](https://www.aps-company.com/klasik-2020-en/) [[Aps-company](https://www.aps-company.com/klasik-2020-en/)] [[Used Listings](https://www.hifizero.com/index.php?q=APS+Klasik+2020)]: $900 a pair
-- Positives: Very neutral. Almost indistinguishable from the HS8 but with deeper bass
-- Negatives: Difficult to find for sale online, no dealers in the United States.
-- Dimensions: 14.2"H x 8.3"W x 12.6"D
-- Frequency Response: 39Hz – 25kHz (-3dB)
+### The best [large size powered bookshelf speaker](/powered/bookshelf-large/) for critical mixing and mastering with an extremely neutral resolving profile and reasonable price is the [Kali Audio IN-8](https://www.amazon.com/Audio-Powered-3-Way-Studio-Monitor/dp/B0D3242PDD?crid=1FXXT955OZUO7&dib=eyJ2IjoiMSJ9.WUrayXNz0r7veIBTlnD6uHSTct7WDeLrmhpAQVgZ2p-dE4DJfGvXaV2MleBSvJyaODhtan3Zm5j5z07URKfIwSI_C_jj7MjE3C1xZp1d1NY.hTUNpj4SkiOHNxDoTf6xdZ-C-Z5m6O_pwKUH4x_b8_c&dib_tag=se&keywords=kali+in8+v2&qid=1750480560&s=electronics&sprefix=kali+%2Celectronics%2C210&sr=1-3&linkCode=ll1&tag=rankingspea01-20&linkId=e6f2abced485f60c621a58c640aa13de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Audio-Powered-3-Way-Studio-Monitor/dp/B0D3242PDD?crid=1FXXT955OZUO7&dib=eyJ2IjoiMSJ9.WUrayXNz0r7veIBTlnD6uHSTct7WDeLrmhpAQVgZ2p-dE4DJfGvXaV2MleBSvJyaODhtan3Zm5j5z07URKfIwSI_C_jj7MjE3C1xZp1d1NY.hTUNpj4SkiOHNxDoTf6xdZ-C-Z5m6O_pwKUH4x_b8_c&dib_tag=se&keywords=kali+in8+v2&qid=1750480560&s=electronics&sprefix=kali+%2Celectronics%2C210&sr=1-3&linkCode=ll1&tag=rankingspea01-20&linkId=e6f2abced485f60c621a58c640aa13de&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Kali+Audio+IN-8)]: $1000 a pair
+- Positives: Pretty smooth frequency response below 10khz. Pretty good off-axis response due to the coaxial driver.
+- Negatives: A 3dB dip around 10.3khz
+- Bass Extension (-10dB): 36hz
+- Bass Extension (-3dB): 44hz
+- Dimensions: 17.8"H x 10"W x 11.3"D
 - Inputs: XLR, RCA
-- Watts: 100w Per Speaker
-- Weight: 22.1lbs / 10.0kg each
-- Woofer: 7"
+- Watts: 140w Per Speaker
+- Weight: 23lbs / 10.4kg each
+- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
-    - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
-    - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)
-    - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)
+    - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
+    - [Erin's Audio Corner Website Kali Audio IN-8](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
-    - [Official Product Page](https://www.aps-company.com/klasik-2020-en/)
-    - [Sound On Sound Measurements and Review](https://www.soundonsound.com/reviews/aps-klasik-2020)
+    - [Official Product Page](https://www.kaliaudio.com/independence)
 
 
 ### For better value in a [large size powered bookshelf speaker](/powered/bookshelf-large/) for mixing and mastering check out the [Presonus Eris Studio 8](https://www.amazon.com/PreSonus-Eris-Studio-Monitors-Waveguide/dp/B0C88Y9TY5?crid=2SBCDA8NTACP1&dib=eyJ2IjoiMSJ9.TSlr90ShLqeB3ktIpiLMCYEMWv0XkcORkmOMX-zRPg_D-3FG77Y0Gw2sUj6KUM3C6zzrrBgCpW7ssXB6zHjMgKlMy2T_pJvFbSmMwfLYWMsza7k-melVKLyOzDNEwU0VqHTX1mEor5L_JEIjIxPqUi1GYhCWOInm329CImYrW1hC3n4armdHnGAR8KqCon1IOVloYXvwYAjA9lNYfOlWww.RTVnvEis2bdSsPI44gWf1YEvyom-7hyMstbAbOwrDqE&dib_tag=se&keywords=presonus+e8+xt&qid=1718681115&sprefix=presonus+e8+xt%2Caps%2C229&sr=8-5&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&linkCode=ll1&tag=rankingspea01-20&linkId=3966be0bc3edc5f999cce60b507106f1&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/PreSonus-Eris-Studio-Monitors-Waveguide/dp/B0C88Y9TY5?crid=2SBCDA8NTACP1&dib=eyJ2IjoiMSJ9.TSlr90ShLqeB3ktIpiLMCYEMWv0XkcORkmOMX-zRPg_D-3FG77Y0Gw2sUj6KUM3C6zzrrBgCpW7ssXB6zHjMgKlMy2T_pJvFbSmMwfLYWMsza7k-melVKLyOzDNEwU0VqHTX1mEor5L_JEIjIxPqUi1GYhCWOInm329CImYrW1hC3n4armdHnGAR8KqCon1IOVloYXvwYAjA9lNYfOlWww.RTVnvEis2bdSsPI44gWf1YEvyom-7hyMstbAbOwrDqE&dib_tag=se&keywords=presonus+e8+xt&qid=1718681115&sprefix=presonus+e8+xt%2Caps%2C229&sr=8-5&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&linkCode=ll1&tag=rankingspea01-20&linkId=3966be0bc3edc5f999cce60b507106f1&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Presonus+Eris+Studio+8)]: $462 a pair
