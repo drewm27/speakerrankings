@@ -44,7 +44,7 @@ The Tribit Stormbox Blast ranks #2 out of 69 total [Boombox Size Portable Blueto
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
-    - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
+    - [Oluv: SoundBoks 4 vs Stormbox Blast - first impressions](https://www.patreon.com/posts/soundboks-4-vs-104257079)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast/)

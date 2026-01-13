@@ -30,10 +30,9 @@ The Harman Kardon Go + Play 3 ranks #3 out of 69 total [Boombox Size Portable Bl
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [Alan Ross Reviews: JBL Distortion Fest vs my favorite speaker today! I wasn't expecting this!](https://www.youtube.com/watch?v=Eo8q8xLBg-o)
     - [Mateusz Cholewa: BOGASING S8 Pro Max  „HiFi” 🎶🧐🆚 Harman Kardon Go Play 3 „HiFi”🔊](https://www.youtube.com/watch?v=oKOUKRaq1M8)
-    - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
-    - <https://www.patreon.com/posts/harman-kardon-go-126426378>
-    - <https://www.patreon.com/posts/harman-kardon-go-100467989>
-    - <https://www.patreon.com/posts/harman-kardon-go-100339904>
+    - [Oluv: Harman Kardon go+play 3 - best sounding?](https://www.patreon.com/posts/harman-kardon-go-126426378)
+    - [Oluv: Harman Kardon go+play 3 vs Tribit Stormbox Blast - outdoor soundtest](https://www.patreon.com/posts/harman-kardon-go-100467989)
+    - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Go-+-Play-3/)

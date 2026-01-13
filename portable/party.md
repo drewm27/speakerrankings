@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."
 ---
 
-This page ranks 43 party size powered Bluetooth speakers. Last updated on 01/11/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
+This page ranks 43 party size powered Bluetooth speakers. Last updated on 01/13/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -497,8 +497,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Removable Battery: Yes
 - Weight: 17.4lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
-    - <https://www.patreon.com/posts/audiocase-s5-vs-91754902>
+    - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s5)
     - [Direct Speakerranking Link](/portable/speakers/Audiocase-S5/)
@@ -513,11 +512,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Weight: 32.0lbs / 14.5kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=zjX4rJ6qLZ4>
-    - <https://www.youtube.com/watch?v=XS6oh6cfACA>
-    - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
-    - <https://www.youtube.com/watch?v=ITnoz10G2jU>
-    - <https://www.youtube.com/watch?v=S112dkr_2mE>
+    - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links
     - [Official Product Page](https://fi.teufelaudio.com/rockster-air-105401000)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster-Air/)
@@ -542,7 +537,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)
-    - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
+    - [Oluv: SoundBoks 4 vs Stormbox Blast - first impressions](https://www.patreon.com/posts/soundboks-4-vs-104257079)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-15624888)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-4/)
@@ -639,8 +634,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 44.7lbs / 19.8kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=ZgTCD12iFHk>
-    - <https://www.patreon.com/posts/audiocase-s10-92786890>
+    - [Oluv: Audiocase S10 - first impressions](https://www.patreon.com/posts/audiocase-s10-92786890)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s10)
     - [Direct Speakerranking Link](/portable/speakers/Audiocase-S10/)

@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore our top-rated boombox‑size Bluetooth speakers. Powerful picks with booming bass, long battery life, and bold sound for on-the-go or home use."
 ---
 
-This page ranks 69 boombox size powered Bluetooth speakers. Last updated on 01/11/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+This page ranks 69 boombox size powered Bluetooth speakers. Last updated on 01/13/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -39,8 +39,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
-    - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
-    - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
+    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
     - [Audiophile housewife: Tribit Stormbox Blast vs Earfun UBoom X, a PROPER sound test 😎](https://www.youtube.com/watch?v=Q3Wge2qf3xc)
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: 🎃🔥 UBoom X - Halloween Rock Special 🎸🤘](https://www.youtube.com/watch?v=_Dqt64zNjPM)
@@ -57,21 +57,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/harman-kardon-go-107508888>
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
-    - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-107811131>
-    - <https://www.patreon.com/posts/uboom-x-desktop-112000449>
-    - <https://www.patreon.com/posts/earfun-uboom-x-109887332>
-    - <https://www.patreon.com/posts/uboom-x-final-107131115>
-    - <https://www.patreon.com/posts/tribit-stormbox-106255927>
-    - <https://www.patreon.com/posts/earfun-uboom-x-106109816>
-    - <https://www.patreon.com/posts/earfun-uboom-x-106176357>
-    - <https://www.patreon.com/posts/earfun-uboom-x-105747123>
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-105693987>
-    - <https://www.patreon.com/posts/earfun-uboom-x-2-105645365>
-    - <https://www.patreon.com/posts/earfun-uboom-x-1-104380759>
-    - <https://www.patreon.com/posts/marshall-ii-135972260>
+    - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
+    - [Oluv: Harman Kardon go+play 3 vs Earfun UBoom X](https://www.patreon.com/posts/harman-kardon-go-107508888)
+    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
+    - [Oluv: Earfun UBoom X im Vergleich zum Teufel nochmal](https://www.patreon.com/posts/earfun-uboom-x-107936392)
+    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor](https://www.patreon.com/posts/earfun-uboom-x-3-107811131)
+    - [Oluv: UBoom X - desktop mode demonstration](https://www.patreon.com/posts/uboom-x-desktop-112000449)
+    - [Oluv: Earfun UBoom X - different firmware versions](https://www.patreon.com/posts/earfun-uboom-x-109887332)
+    - [Oluv: UBoom X - final outdoor test](https://www.patreon.com/posts/uboom-x-final-107131115)
+    - [Oluv: Tribit Stormbox Blast vs Earfun UBoom X - outdoor test](https://www.patreon.com/posts/tribit-stormbox-106255927)
+    - [Oluv: Earfun UBoom X - listening session](https://www.patreon.com/posts/earfun-uboom-x-106109816)
+    - [Oluv: Earfun UBoom X vs JBL Partybox 100](https://www.patreon.com/posts/earfun-uboom-x-106176357)
+    - [Oluv: Earfun UBoom X - final sound check](https://www.patreon.com/posts/earfun-uboom-x-105747123)
+    - [Oluv: Earfun UBoom X - teaser 3](https://www.patreon.com/posts/earfun-uboom-x-3-105693987)
+    - [Oluv: Earfun UBoom X - teaser 2](https://www.patreon.com/posts/earfun-uboom-x-2-105645365)
+    - [Oluv: Earfun UBoom X - teaser 1](https://www.patreon.com/posts/earfun-uboom-x-1-104380759)
+    - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
+    - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
@@ -114,7 +116,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
-    - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
+    - [Oluv: SoundBoks 4 vs Stormbox Blast - first impressions](https://www.patreon.com/posts/soundboks-4-vs-104257079)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast/)
@@ -142,10 +144,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [Alan Ross Reviews: JBL Distortion Fest vs my favorite speaker today! I wasn't expecting this!](https://www.youtube.com/watch?v=Eo8q8xLBg-o)
     - [Mateusz Cholewa: BOGASING S8 Pro Max  „HiFi” 🎶🧐🆚 Harman Kardon Go Play 3 „HiFi”🔊](https://www.youtube.com/watch?v=oKOUKRaq1M8)
-    - <https://www.youtube.com/watch?v=hNOPnN-sMI8>
-    - <https://www.patreon.com/posts/harman-kardon-go-126426378>
-    - <https://www.patreon.com/posts/harman-kardon-go-100467989>
-    - <https://www.patreon.com/posts/harman-kardon-go-100339904>
+    - [Oluv: Harman Kardon go+play 3 - best sounding?](https://www.patreon.com/posts/harman-kardon-go-126426378)
+    - [Oluv: Harman Kardon go+play 3 vs Tribit Stormbox Blast - outdoor soundtest](https://www.patreon.com/posts/harman-kardon-go-100467989)
+    - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Go-+-Play-3/)
@@ -428,7 +429,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
-    - <https://www.youtube.com/watch?v=R1EmqPx0Ohs>
     - [Geri's Collection: Harman Kardon Onyx 7 vs Onyx 4](https://www.youtube.com/watch?v=ywy1X1hxU9s)
     - [KULAS TECH SHOW: Harman / Kardon Onyx Studio 5 vs Onyx Studio 7 - Close battle🔥🔥](https://www.youtube.com/watch?v=L6NwcX8Gy1Q)
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
@@ -594,11 +594,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 14.lbs / 6.7kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
+    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
     - [Dominik Reviews: JBL Boombox 3 vs 2x Tribit Stormbox Blast 🤑 Huge difference?](https://www.youtube.com/watch?v=3WDir4ajfs4)
-    - <https://www.youtube.com/watch?v=e33s1WsRBMs>
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
 - Links
@@ -827,8 +826,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Authentics 300 - sound quality test](https://www.youtube.com/watch?v=pBgizWYcEx8)
-    - <https://www.patreon.com/posts/jbl-authentics-125828125>
-    - <https://www.patreon.com/posts/jbl-authentics-125756901>
+    - [Oluv: JBL Authentics 300 - update](https://www.patreon.com/posts/jbl-authentics-125828125)
+    - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
@@ -850,10 +849,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)
     - [techkiste.net: B&O Beolit 20 vs Vifa Copenhagen 2.0 sound-comparison with different music-genres](https://www.youtube.com/watch?v=OTy29qPeIcI)
-    - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
-    - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
-    - <https://www.patreon.com/posts/b-o-beolit-20-3-52143471>
-    - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
+    - [Oluv: B&O Beolit 20 - frequency response measurements](https://www.patreon.com/posts/b-o-beolit-20-52246953)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beolit-20/)

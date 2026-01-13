@@ -23,10 +23,7 @@ The B&O Beolit 20 ranks #31 out of 69 total [Boombox Size Portable Bluetooth Spe
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)
     - [techkiste.net: B&O Beolit 20 vs Vifa Copenhagen 2.0 sound-comparison with different music-genres](https://www.youtube.com/watch?v=OTy29qPeIcI)
-    - <https://www.patreon.com/posts/b-o-beolit-20-1-51907150>
-    - <https://www.patreon.com/posts/b-o-beolit-20-2-52004151>
-    - <https://www.patreon.com/posts/b-o-beolit-20-3-52143471>
-    - <https://www.patreon.com/posts/b-o-beolit-20-52246953>
+    - [Oluv: B&O Beolit 20 - frequency response measurements](https://www.patreon.com/posts/b-o-beolit-20-52246953)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beolit-20/)

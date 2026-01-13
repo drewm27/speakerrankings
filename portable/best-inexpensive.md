@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Discover the best inexpensive portable Bluetooth speakers. Expert-ranked value picks with great sound and budget-friendly performance."
 ---
 
-This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 364 ranked on this website. Last updated on 01/11/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 364 ranked on this website. Last updated on 01/13/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Portable Bluetooth Speakers for Bass](/portable/best-bass/). 
 
@@ -134,8 +134,8 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 - Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
-    - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
-    - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
+    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
     - [Audiophile housewife: Tribit Stormbox Blast vs Earfun UBoom X, a PROPER sound test 😎](https://www.youtube.com/watch?v=Q3Wge2qf3xc)
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: 🎃🔥 UBoom X - Halloween Rock Special 🎸🤘](https://www.youtube.com/watch?v=_Dqt64zNjPM)
@@ -152,21 +152,23 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/harman-kardon-go-107508888>
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
-    - <https://www.patreon.com/posts/earfun-uboom-x-107936392>
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-107811131>
-    - <https://www.patreon.com/posts/uboom-x-desktop-112000449>
-    - <https://www.patreon.com/posts/earfun-uboom-x-109887332>
-    - <https://www.patreon.com/posts/uboom-x-final-107131115>
-    - <https://www.patreon.com/posts/tribit-stormbox-106255927>
-    - <https://www.patreon.com/posts/earfun-uboom-x-106109816>
-    - <https://www.patreon.com/posts/earfun-uboom-x-106176357>
-    - <https://www.patreon.com/posts/earfun-uboom-x-105747123>
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-105693987>
-    - <https://www.patreon.com/posts/earfun-uboom-x-2-105645365>
-    - <https://www.patreon.com/posts/earfun-uboom-x-1-104380759>
-    - <https://www.patreon.com/posts/marshall-ii-135972260>
+    - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
+    - [Oluv: Harman Kardon go+play 3 vs Earfun UBoom X](https://www.patreon.com/posts/harman-kardon-go-107508888)
+    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
+    - [Oluv: Earfun UBoom X im Vergleich zum Teufel nochmal](https://www.patreon.com/posts/earfun-uboom-x-107936392)
+    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor](https://www.patreon.com/posts/earfun-uboom-x-3-107811131)
+    - [Oluv: UBoom X - desktop mode demonstration](https://www.patreon.com/posts/uboom-x-desktop-112000449)
+    - [Oluv: Earfun UBoom X - different firmware versions](https://www.patreon.com/posts/earfun-uboom-x-109887332)
+    - [Oluv: UBoom X - final outdoor test](https://www.patreon.com/posts/uboom-x-final-107131115)
+    - [Oluv: Tribit Stormbox Blast vs Earfun UBoom X - outdoor test](https://www.patreon.com/posts/tribit-stormbox-106255927)
+    - [Oluv: Earfun UBoom X - listening session](https://www.patreon.com/posts/earfun-uboom-x-106109816)
+    - [Oluv: Earfun UBoom X vs JBL Partybox 100](https://www.patreon.com/posts/earfun-uboom-x-106176357)
+    - [Oluv: Earfun UBoom X - final sound check](https://www.patreon.com/posts/earfun-uboom-x-105747123)
+    - [Oluv: Earfun UBoom X - teaser 3](https://www.patreon.com/posts/earfun-uboom-x-3-105693987)
+    - [Oluv: Earfun UBoom X - teaser 2](https://www.patreon.com/posts/earfun-uboom-x-2-105645365)
+    - [Oluv: Earfun UBoom X - teaser 1](https://www.patreon.com/posts/earfun-uboom-x-1-104380759)
+    - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
+    - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)

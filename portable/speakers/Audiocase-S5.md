@@ -20,8 +20,7 @@ The Audiocase S5 ranks #19 out of 43 total [Party Size Portable Bluetooth Speake
 - Removable Battery: Yes
 - Weight: 17.4lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=IzgfvGWsnSc>
-    - <https://www.patreon.com/posts/audiocase-s5-vs-91754902>
+    - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s5)
     - [Direct Speakerranking Link](/portable/speakers/Audiocase-S5/)

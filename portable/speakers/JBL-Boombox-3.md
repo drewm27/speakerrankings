@@ -22,11 +22,10 @@ The JBL Boombox 3 ranks #21 out of 69 total [Boombox Size Portable Bluetooth Spe
 - TWS: Yes
 - Weight: 14.lbs / 6.7kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/earfun-uboom-x-3-109640648>
+    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
     - [Dominik Reviews: JBL Boombox 3 vs 2x Tribit Stormbox Blast 🤑 Huge difference?](https://www.youtube.com/watch?v=3WDir4ajfs4)
-    - <https://www.youtube.com/watch?v=e33s1WsRBMs>
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
 - Links

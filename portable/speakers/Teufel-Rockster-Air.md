@@ -17,11 +17,7 @@ The Teufel Rockster Air ranks #20 out of 43 total [Party Size Portable Bluetooth
 - Power Input: AC Power cord
 - Weight: 32.0lbs / 14.5kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=zjX4rJ6qLZ4>
-    - <https://www.youtube.com/watch?v=XS6oh6cfACA>
-    - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
-    - <https://www.youtube.com/watch?v=ITnoz10G2jU>
-    - <https://www.youtube.com/watch?v=S112dkr_2mE>
+    - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links
     - [Official Product Page](https://fi.teufelaudio.com/rockster-air-105401000)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster-Air/)

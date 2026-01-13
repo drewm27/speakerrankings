@@ -27,7 +27,7 @@ The Soundboks 4 ranks #21 out of 43 total [Party Size Portable Bluetooth Speaker
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)
-    - <https://www.patreon.com/posts/soundboks-4-vs-104257079>
+    - [Oluv: SoundBoks 4 vs Stormbox Blast - first impressions](https://www.patreon.com/posts/soundboks-4-vs-104257079)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-15624888)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-4/)
