@@ -34,9 +34,9 @@ The Soundcore Boom 2 ranks #8 out of 72 total [Large Size Portable Bluetooth Spe
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Alan Ross Reviews: Ultimate Soundcore Boom 2 Review - Is It Worth The Hype?](https://www.youtube.com/watch?v=R3fLkaez35A)
-    - <https://www.patreon.com/posts/anker-soundcore-100643572>
+    - [Oluv: Anker Soundcore Boom 2 - first impressions](https://www.patreon.com/posts/anker-soundcore-100643572)
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 💣vs Mifa Wildbox 🪇 Basement Battle of the Bluetooth Boombox Welterweights ⚖️](https://www.youtube.com/watch?v=mIeR8bNN29A)
     - [Jay's Straight Up Reviews & More: New Release! Soundcore Boom 2 😯 Bluetooth Boombox Speaker 🔊 Unboxing, First Look & Sound Demo](https://www.youtube.com/watch?v=-zdbjsl730U)
     - [CEONTHEMAKING: Soundcore Boom 2 - HANDS DOWN The Best Speaker Under $150!](https://www.youtube.com/watch?v=AU3Xvf5JyQY)

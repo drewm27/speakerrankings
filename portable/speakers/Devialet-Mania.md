@@ -21,7 +21,7 @@ The Devialet Mania ranks #37 out of 72 total [Large Size Portable Bluetooth Spea
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
     - [HT Sound: Devialet Mania VS JBL Xtreme 2 - 60% Vol (Listen with headphones)](https://www.youtube.com/watch?v=lHt2VPFNmgI)
     - [BitsBytesBobs: Devialet Mania Music  Audio Test Results](https://www.youtube.com/watch?v=wUUkwxyDA58)
-    - <https://www.patreon.com/posts/visit-at-store-75995137>
+    - [Oluv: Visit at the Devialet store in Vienna](https://www.patreon.com/posts/visit-at-store-75995137)
 - Links
     - [Official Product Page](https://www.devialet.com/en-us/portable-speakers/)
     - [Direct Speakerranking Link](/portable/speakers/Devialet-Mania/)

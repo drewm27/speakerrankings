@@ -25,8 +25,7 @@ The Bose SoundLink Max ranks #14 out of 72 total [Large Size Portable Bluetooth 
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
     - [Alan Ross Reviews: Bose Max, the worlds most overpriced speaker? its a shocker!](https://www.youtube.com/watch?v=cdWyfbtLVvQ)
-    - <https://www.patreon.com/posts/marshall-ii-135972260>
-    - <https://www.youtube.com/watch?v=OoMKjAEGFMs>
+    - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs. Ultimate Ears EpicBoom 🤑Big Bucks No Whammies? 💣 Let's Find Out 😧](https://www.youtube.com/watch?v=GnSjq7JxJ-Q)
     - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs Tribit XSound Mega 😲 Can the Budget Priced Speaker Hang With the Big $ One?](https://www.youtube.com/watch?v=_Uc44XHmur0)
     - [Scott’s Reviews: Bose SoundLink Max First Impressions, Unboxing, and Sound Test.](https://www.youtube.com/watch?v=GDY_z3HNO1s)

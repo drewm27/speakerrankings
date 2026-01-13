@@ -170,7 +170,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
 - Weight: 5.2lbs / 2.37kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
-    - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
     - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
     - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
@@ -178,7 +178,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
-    - <https://www.patreon.com/posts/tribit-stormbox-125854931>
+    - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 
@@ -210,9 +210,9 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Alan Ross Reviews: Ultimate Soundcore Boom 2 Review - Is It Worth The Hype?](https://www.youtube.com/watch?v=R3fLkaez35A)
-    - <https://www.patreon.com/posts/anker-soundcore-100643572>
+    - [Oluv: Anker Soundcore Boom 2 - first impressions](https://www.patreon.com/posts/anker-soundcore-100643572)
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 💣vs Mifa Wildbox 🪇 Basement Battle of the Bluetooth Boombox Welterweights ⚖️](https://www.youtube.com/watch?v=mIeR8bNN29A)
     - [Jay's Straight Up Reviews & More: New Release! Soundcore Boom 2 😯 Bluetooth Boombox Speaker 🔊 Unboxing, First Look & Sound Demo](https://www.youtube.com/watch?v=-zdbjsl730U)
     - [CEONTHEMAKING: Soundcore Boom 2 - HANDS DOWN The Best Speaker Under $150!](https://www.youtube.com/watch?v=AU3Xvf5JyQY)

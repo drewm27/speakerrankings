@@ -22,8 +22,8 @@ The Marshall Middleton II ranks #25 out of 72 total [Large Size Portable Bluetoo
 - Power Input: USB-C
 - Weight: 3.9lbs / 1.8kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/marshall-ii-with-136883522>
-    - <https://www.patreon.com/posts/marshall-ii-135972260>
+    - [Oluv: Marshall Middleton II - better with EQ?](https://www.patreon.com/posts/marshall-ii-with-136883522)
+    - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Dominik Reviews: Marshall Middleton II vs Middleton I - Huge Differences? - Sound Test](https://www.youtube.com/watch?v=GYuq-dc_zNI)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton-ii)

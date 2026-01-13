@@ -22,15 +22,8 @@ The Vifa Helsinki ranks #1 out of 72 total [Large Size Portable Bluetooth Speake
 - TWS: No
 - Weight: 3.1lbs / 1.4kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
-    - <https://www.youtube.com/watch?v=_4S4b5jsagM>
-    - <https://www.youtube.com/watch?v=_8Ji_6GzudQ>
-    - <https://www.youtube.com/watch?v=PVldZEwR2zg>
-    - <https://www.youtube.com/watch?v=RWUDaopM1sA>
-    - <https://www.youtube.com/watch?v=XB4aoHzkx04>
-    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
-    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
-    - <https://www.patreon.com/posts/soundcore-motion-94933573>
+    - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
+    - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/helsinki)
     - [Direct Speakerranking Link](/portable/speakers/Vifa-Helsinki/)

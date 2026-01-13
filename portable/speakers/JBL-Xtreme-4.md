@@ -27,15 +27,12 @@ The JBL Xtreme 4 ranks #34 out of 72 total [Large Size Portable Bluetooth Speake
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - basstest (bigger=better?)](https://www.youtube.com/watch?v=8Hs8dpPau-A)
     - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
-    - <https://www.youtube.com/watch?v=bhmzGxlSBds>
-    - <https://www.youtube.com/watch?v=urmp76qTSlE>
-    - <https://www.patreon.com/posts/jbl-xtreme-4-99560848>
-    - <https://www.patreon.com/posts/jbl-xtreme-4-98947429>
-    - <https://www.patreon.com/posts/jbl-xtreme-4-vs-99980591>
-    - <https://www.patreon.com/posts/harman-kardon-go-100339904>
+    - [Oluv: JBL Xtreme 4 - sound analysis](https://www.patreon.com/posts/jbl-xtreme-4-99560848)
+    - [Oluv: JBL Xtreme 4 - unboxing & first impressions](https://www.patreon.com/posts/jbl-xtreme-4-98947429)
+    - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
     - [Dominik Reviews: JBL Xtreme 4 vs JBL Xtreme 3 Sound Test 😍 Best upgrade in the history? 😂](https://www.youtube.com/watch?v=MtCDfPVxV08)
 - Links
     - [Official Product Page](https://ro.harmanaudio.com/XTREME-4.html)

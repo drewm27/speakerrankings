@@ -130,7 +130,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - Weight: 5.2lbs / 2.37kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
-    - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
     - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
     - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
@@ -138,7 +138,7 @@ For more information, sound samples and specs about all these speakers, see the 
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
-    - <https://www.patreon.com/posts/tribit-stormbox-125854931>
+    - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 

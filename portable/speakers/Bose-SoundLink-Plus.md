@@ -20,8 +20,8 @@ The Bose SoundLink Plus ranks #20 out of 72 total [Large Size Portable Bluetooth
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/bose-soundlink-135685324>
-    - <https://www.patreon.com/posts/bose-soundlink-6-136014012>
+    - [Oluv: Bose Soundlink Plus & Flex compared](https://www.patreon.com/posts/bose-soundlink-135685324)
+    - [Oluv: Bose Soundlink Plus vs JBL Charge 6 - fight!](https://www.patreon.com/posts/bose-soundlink-6-136014012)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-plus-portable-speaker/SLP-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-SoundLink-Plus/)

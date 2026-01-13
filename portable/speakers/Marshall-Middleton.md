@@ -22,7 +22,7 @@ The Marshall Middleton ranks #28 out of 72 total [Large Size Portable Bluetooth 
     - [Alan Ross Reviews: 3 minutes ago..... Marshall Middleton Review, true stereophonic, no honestly 😊](https://www.youtube.com/watch?v=Dh00qH6YGTk)
     - [Mateusz Cholewa: BOGASING S8 Pro MAX HiFi ?🆚 MARSHALL🎸MIDDELTON](https://www.youtube.com/watch?v=-70aPJuPOqI)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
-    - <https://www.patreon.com/posts/marshall-first-78807089>
+    - [Oluv: Marshall Middleton - first impressions](https://www.patreon.com/posts/marshall-first-78807089)
     - [Danny Pops: Is it Any Good? - Marshall Middleton Review](https://www.youtube.com/watch?v=PBZvukWGJk0)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton)

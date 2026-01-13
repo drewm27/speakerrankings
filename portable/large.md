@@ -33,15 +33,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 3.1lbs / 1.4kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
-    - <https://www.youtube.com/watch?v=_4S4b5jsagM>
-    - <https://www.youtube.com/watch?v=_8Ji_6GzudQ>
-    - <https://www.youtube.com/watch?v=PVldZEwR2zg>
-    - <https://www.youtube.com/watch?v=RWUDaopM1sA>
-    - <https://www.youtube.com/watch?v=XB4aoHzkx04>
-    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
-    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
-    - <https://www.patreon.com/posts/soundcore-motion-94933573>
+    - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
+    - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/helsinki)
     - [Direct Speakerranking Link](/portable/speakers/Vifa-Helsinki/)
@@ -165,7 +158,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 5.2lbs / 2.37kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
-    - <https://www.patreon.com/posts/evening-with-137116931>
+    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
     - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
     - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
@@ -173,7 +166,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
-    - <https://www.patreon.com/posts/tribit-stormbox-125854931>
+    - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Lava/)
@@ -231,9 +224,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Alan Ross Reviews: Ultimate Soundcore Boom 2 Review - Is It Worth The Hype?](https://www.youtube.com/watch?v=R3fLkaez35A)
-    - <https://www.patreon.com/posts/anker-soundcore-100643572>
+    - [Oluv: Anker Soundcore Boom 2 - first impressions](https://www.patreon.com/posts/anker-soundcore-100643572)
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 💣vs Mifa Wildbox 🪇 Basement Battle of the Bluetooth Boombox Welterweights ⚖️](https://www.youtube.com/watch?v=mIeR8bNN29A)
     - [Jay's Straight Up Reviews & More: New Release! Soundcore Boom 2 😯 Bluetooth Boombox Speaker 🔊 Unboxing, First Look & Sound Demo](https://www.youtube.com/watch?v=-zdbjsl730U)
     - [CEONTHEMAKING: Soundcore Boom 2 - HANDS DOWN The Best Speaker Under $150!](https://www.youtube.com/watch?v=AU3Xvf5JyQY)
@@ -370,8 +363,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
     - [Alan Ross Reviews: Bose Max, the worlds most overpriced speaker? its a shocker!](https://www.youtube.com/watch?v=cdWyfbtLVvQ)
-    - <https://www.patreon.com/posts/marshall-ii-135972260>
-    - <https://www.youtube.com/watch?v=OoMKjAEGFMs>
+    - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs. Ultimate Ears EpicBoom 🤑Big Bucks No Whammies? 💣 Let's Find Out 😧](https://www.youtube.com/watch?v=GnSjq7JxJ-Q)
     - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs Tribit XSound Mega 😲 Can the Budget Priced Speaker Hang With the Big $ One?](https://www.youtube.com/watch?v=_Uc44XHmur0)
     - [Scott’s Reviews: Bose SoundLink Max First Impressions, Unboxing, and Sound Test.](https://www.youtube.com/watch?v=GDY_z3HNO1s)
@@ -445,7 +437,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Spatial Audio: Soundcore Motion X600 Vs Tribit Stormbox Blast](https://www.youtube.com/watch?v=Eo4vyy5ZkUk)
     - [Alan Ross Reviews: Soundcore Motion x600 (best speaker ever) or two motion booms?](https://www.youtube.com/watch?v=r8iOd03r-hU)
     - [Alan Ross Reviews: Craziest firmware update ever - Soundcore Motion X600 3.2.8/4.2.8 🤦‍♀️](https://www.youtube.com/watch?v=CcWVYKNK7sE)
-    - <https://www.patreon.com/posts/soundcore-motion-95038563>
+    - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x600-a3130011&cjsku=A3130011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-X600/)
@@ -508,8 +500,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/bose-soundlink-135685324>
-    - <https://www.patreon.com/posts/bose-soundlink-6-136014012>
+    - [Oluv: Bose Soundlink Plus & Flex compared](https://www.patreon.com/posts/bose-soundlink-135685324)
+    - [Oluv: Bose Soundlink Plus vs JBL Charge 6 - fight!](https://www.patreon.com/posts/bose-soundlink-6-136014012)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-plus-portable-speaker/SLP-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-SoundLink-Plus/)
@@ -607,8 +599,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Weight: 3.9lbs / 1.8kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/marshall-ii-with-136883522>
-    - <https://www.patreon.com/posts/marshall-ii-135972260>
+    - [Oluv: Marshall Middleton II - better with EQ?](https://www.patreon.com/posts/marshall-ii-with-136883522)
+    - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Dominik Reviews: Marshall Middleton II vs Middleton I - Huge Differences? - Sound Test](https://www.youtube.com/watch?v=GYuq-dc_zNI)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton-ii)
@@ -673,7 +665,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: 3 minutes ago..... Marshall Middleton Review, true stereophonic, no honestly 😊](https://www.youtube.com/watch?v=Dh00qH6YGTk)
     - [Mateusz Cholewa: BOGASING S8 Pro MAX HiFi ?🆚 MARSHALL🎸MIDDELTON](https://www.youtube.com/watch?v=-70aPJuPOqI)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
-    - <https://www.patreon.com/posts/marshall-first-78807089>
+    - [Oluv: Marshall Middleton - first impressions](https://www.patreon.com/posts/marshall-first-78807089)
     - [Danny Pops: Is it Any Good? - Marshall Middleton Review](https://www.youtube.com/watch?v=PBZvukWGJk0)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton)
@@ -774,15 +766,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - basstest (bigger=better?)](https://www.youtube.com/watch?v=8Hs8dpPau-A)
     - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
-    - <https://www.youtube.com/watch?v=bhmzGxlSBds>
-    - <https://www.youtube.com/watch?v=urmp76qTSlE>
-    - <https://www.patreon.com/posts/jbl-xtreme-4-99560848>
-    - <https://www.patreon.com/posts/jbl-xtreme-4-98947429>
-    - <https://www.patreon.com/posts/jbl-xtreme-4-vs-99980591>
-    - <https://www.patreon.com/posts/harman-kardon-go-100339904>
+    - [Oluv: JBL Xtreme 4 - sound analysis](https://www.patreon.com/posts/jbl-xtreme-4-99560848)
+    - [Oluv: JBL Xtreme 4 - unboxing & first impressions](https://www.patreon.com/posts/jbl-xtreme-4-98947429)
+    - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
     - [Dominik Reviews: JBL Xtreme 4 vs JBL Xtreme 3 Sound Test 😍 Best upgrade in the history? 😂](https://www.youtube.com/watch?v=MtCDfPVxV08)
 - Links
     - [Official Product Page](https://ro.harmanaudio.com/XTREME-4.html)
@@ -839,7 +828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
     - [HT Sound: Devialet Mania VS JBL Xtreme 2 - 60% Vol (Listen with headphones)](https://www.youtube.com/watch?v=lHt2VPFNmgI)
     - [BitsBytesBobs: Devialet Mania Music  Audio Test Results](https://www.youtube.com/watch?v=wUUkwxyDA58)
-    - <https://www.patreon.com/posts/visit-at-store-75995137>
+    - [Oluv: Visit at the Devialet store in Vienna](https://www.patreon.com/posts/visit-at-store-75995137)
 - Links
     - [Official Product Page](https://www.devialet.com/en-us/portable-speakers/)
     - [Direct Speakerranking Link](/portable/speakers/Devialet-Mania/)
@@ -1221,7 +1210,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power brick
 - Weight: 6.62lbs / 3 kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/orange-box-98897294>
+    - [Oluv: Orange Box](https://www.patreon.com/posts/orange-box-98897294)
 - Links
     - [Official Product Page](https://orangeamps.com/product/orange-box/)
     - [Direct Speakerranking Link](/portable/speakers/Orange-Box/)
