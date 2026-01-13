@@ -66,7 +66,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)

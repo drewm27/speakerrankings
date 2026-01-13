@@ -23,8 +23,8 @@ The B&O Beosound A1 3rd gen ranks #18 out of 130 total [Medium Size Portable Blu
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen - outdoor sound test](https://www.youtube.com/watch?v=GtpInB_Saic)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
-    - <https://www.patreon.com/posts/b-o-beosound-a1-128639662>
-    - <https://www.patreon.com/posts/b-o-beosound-a1-128729314>
+    - [Oluv: B&O Beosound A1 3rd gen - soundcheck](https://www.patreon.com/posts/b-o-beosound-a1-128639662)
+    - [Oluv: B&O Beosound A1 3rd gen - outdoor test](https://www.patreon.com/posts/b-o-beosound-a1-128729314)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-3rd-gen/)

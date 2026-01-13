@@ -476,10 +476,9 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - TWS: Yes
 - Weight: 0.42lbs / 190g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
-    - <https://www.youtube.com/shorts/cT-oUhYhPWk>
-    - <https://www.patreon.com/posts/jbl-go-4-first-103869354>
+    - [StereoSpecs: JBL GO 4 vs JBL GO 3 : Worth the upgrade?](https://www.youtube.com/shorts/cT-oUhYhPWk)
+    - [Oluv: JBL Go 4 - first impressions (how to waste your money)](https://www.patreon.com/posts/jbl-go-4-first-103869354)
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-4/)

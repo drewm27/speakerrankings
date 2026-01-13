@@ -22,7 +22,7 @@ The Bogasing M5 ranks #53 out of 130 total [Medium Size Portable Bluetooth Speak
 - Weight: 1.67lbs / 757g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
-    - <https://www.patreon.com/posts/bogasing-m5-126932777>
+    - [Oluv: Bogasing M5](https://www.patreon.com/posts/bogasing-m5-126932777)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-M5/)
 

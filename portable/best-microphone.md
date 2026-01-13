@@ -75,7 +75,7 @@ The best [medium size](/portable/medium/) battery powered speaker with a built i
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
@@ -109,8 +109,8 @@ If you need a [medium size](/portable/medium/) stereo and omnidirectional speake
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
     - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
-    - <https://www.patreon.com/posts/soundcore-motion-93321960>
-    - <https://www.patreon.com/posts/soundcore-motion-94933573>
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
 

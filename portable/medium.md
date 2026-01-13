@@ -43,7 +43,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
@@ -77,8 +77,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
     - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
-    - <https://www.patreon.com/posts/soundcore-motion-93321960>
-    - <https://www.patreon.com/posts/soundcore-motion-94933573>
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-300/)
@@ -271,7 +271,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=w2YMjKqHf5c>
     - <https://www.youtube.com/watch?v=k6BuPy-w7pU>
     - [Alan Ross Reviews: Bose Soundlink Flex or Beosound A1 (1st gen) - ultimate compact speaker 😇](https://www.youtube.com/watch?v=_sFVv8NhTTY)
-    - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
+    - [Oluv: B&O Beosound A1 2nd gen vs Beoplay A1 outdoors with a bit of Anker Soundcore Motion+ too](https://www.patreon.com/posts/b-o-beosound-a1-39584977)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1/)
@@ -300,10 +300,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
     - [Alan Ross Reviews: Soundcore Motion Plus vs Beoplay A1 2nd gen - The Match!](https://www.youtube.com/watch?v=kqhySK7MUuI)
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
-    - <https://www.youtube.com/watch?v=IYoOvwAb8WE>
-    - <https://www.youtube.com/watch?v=ZBuOSCowyTU>
-    - <https://www.patreon.com/posts/b-o-beosound-a1-39584977>
-    - <https://www.patreon.com/posts/anker-soundcore-92655183>
+    - [Oluv: B&O Beosound A1 2nd gen vs Beoplay A1 outdoors with a bit of Anker Soundcore Motion+ too](https://www.patreon.com/posts/b-o-beosound-a1-39584977)
+    - [Oluv: (Anker) Soundcore Motion 300 - first impressions](https://www.patreon.com/posts/anker-soundcore-92655183)
 - Links
     - [Official Product Page](https://luxussound.com/products/beosound-a1-2nd-generation)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-2nd-gen/)
@@ -331,12 +329,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [Alan Ross Reviews: JBL Charge 6 or the JBL Charge 5? don't go home till you watch this!](https://www.youtube.com/watch?v=HK8zRB_ZZnI)
     - [Alan Ross Reviews: JBL Xtreme 4 vs Flip 7 vs Charge 6 – The ULTIMATE JBL Speaker Showdown!](https://www.youtube.com/watch?v=tDHbjJdEbHg)
-    - <https://www.patreon.com/posts/marshall-ii-with-136883522>
-    - <https://www.patreon.com/posts/evening-with-137116931>
-    - <https://www.patreon.com/posts/bose-soundlink-6-136014012>
+    - [Oluv: Marshall Middleton II - better with EQ?](https://www.patreon.com/posts/marshall-ii-with-136883522)
+    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
+    - [Oluv: Bose Soundlink Plus vs JBL Charge 6 - fight!](https://www.patreon.com/posts/bose-soundlink-6-136014012)
     - [Mateusz Cholewa: JBL Charge 6 🎶👌Unboxing 📦vs Jbl Charge 5 Short Test Audio i Hz.](https://www.youtube.com/watch?v=vVjb_wUgLwA)
     - [GYMCADDY: JBL Charge 6 Review - Worth Upgrading Even If You Have The JBL Charge 5](https://www.youtube.com/watch?v=3H5af5Lie_o)
-    - <https://www.patreon.com/posts/jbl-charge-6-or-126781662>
+    - [Oluv: JBL Charge 6 - good or bad?](https://www.patreon.com/posts/jbl-charge-6-or-126781662)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-6/)
@@ -491,8 +489,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beoplay/Beosound A1 - all 3 generations compared](https://www.youtube.com/watch?v=U0snhRkkKhM)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen - outdoor sound test](https://www.youtube.com/watch?v=GtpInB_Saic)
     - [JOY‘s 🎧3D🔈Audio-Show: B&O Beosound A1 3rd gen vs 2nd gen - worth the premium?](https://www.youtube.com/watch?v=LCZ0X4ezCGs)
-    - <https://www.patreon.com/posts/b-o-beosound-a1-128639662>
-    - <https://www.patreon.com/posts/b-o-beosound-a1-128729314>
+    - [Oluv: B&O Beosound A1 3rd gen - soundcheck](https://www.patreon.com/posts/b-o-beosound-a1-128639662)
+    - [Oluv: B&O Beosound A1 3rd gen - outdoor test](https://www.patreon.com/posts/b-o-beosound-a1-128729314)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-3rd-gen/)
@@ -591,7 +589,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 2.48lbs / 1.13kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/harman-kardon-90318892>
+    - [Oluv: Harman Kardon Luna - sound demo](https://www.patreon.com/posts/harman-kardon-90318892)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
@@ -684,7 +682,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
-    - <https://www.patreon.com/posts/jbl-charge-5-48693970>
+    - [Oluv: JBL Charge 5 - unboxing & first impressions](https://www.patreon.com/posts/jbl-charge-5-48693970)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5/)
@@ -703,7 +701,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Picky Audio: Compact Speaker BEAST! 🔥 soundcore Boom 3i](https://www.youtube.com/watch?v=EqSWcfgbX-8)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fd5100-boom-3i-waterproof-bluetooth-speaker&cjsku=D5100060)
@@ -805,7 +803,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Xsound Plus 2: Upgrade Your Sound With Maxsound Eq Preset! New firmware tested](https://www.youtube.com/watch?v=HF3eKZM-ZTs)
     - [Alan Ross Reviews: Goodbye Maxsound Plus hello Tribit Xsound Plus 2! neutral heaven or bass for the masses?](https://www.youtube.com/watch?v=k8tm3FwCkWM)
     - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
-    - <https://www.patreon.com/posts/tribit-xsound-2-99145415>
+    - [Oluv: Tribit XSound Plus 2 - first impressions](https://www.patreon.com/posts/tribit-xsound-2-99145415)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-plus-2-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Plus-2/)
@@ -825,7 +823,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.3lbs / 586g
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
-    - <https://www.patreon.com/posts/bose-soundlink-114024442>
+    - [Oluv: Bose Soundlink Flex 2nd gen - sound demo](https://www.patreon.com/posts/bose-soundlink-114024442)
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
@@ -948,7 +946,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/soundcore-motion-94092689>
+    - [Oluv: SoundCore Motion 100 - first impressions](https://www.patreon.com/posts/soundcore-motion-94092689)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-100-a3133011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-100/)
@@ -987,7 +985,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 1.32lbs / 597g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/xiaomi-sound-124370191>
+    - [Oluv: Xiaomi Sound Outdoor - sound demo](https://www.patreon.com/posts/xiaomi-sound-124370191)
     - [FishBee Product Reviews: Xiaomi Mi Sound Outdoor 30W Speaker vs JBL Flip 6 - CRAZY GOOD!](https://www.youtube.com/watch?v=HWN-qW5vvyY)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-outdoor/)
@@ -1126,8 +1124,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Stormbox Flow firmware update 1.2.5 - stuff gets fixed ✔](https://www.youtube.com/watch?v=iiHUMfa_OOY)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs XSound Mega - Sound Comparison, Stock EQ, Both Mono Sound 😶‍🌫️ A Family Feud](https://www.youtube.com/watch?v=PMDSpH3mNB8)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
-    - <https://www.patreon.com/posts/tribit-stormbox-92447387>
-    - <https://www.patreon.com/posts/tribit-stormbox-90484533>
+    - [Oluv: Tribit Stormbox Flow - after firmware update](https://www.patreon.com/posts/tribit-stormbox-92447387)
+    - [Oluv: Tribit Stormbox Flow - sound demo](https://www.patreon.com/posts/tribit-stormbox-90484533)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-flow-portable-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Flow/)
@@ -1191,7 +1189,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.67lbs / 757g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
-    - <https://www.patreon.com/posts/bogasing-m5-126932777>
+    - [Oluv: Bogasing M5](https://www.patreon.com/posts/bogasing-m5-126932777)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-M5/)
 
@@ -1310,7 +1308,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.34lbs / 680g
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
-    - <https://www.patreon.com/posts/beats-pill-2024-114092056>
+    - [Oluv: Beats Pill 2024 - first & last impression](https://www.patreon.com/posts/beats-pill-2024-114092056)
     - [DailyTekk: NEW Beats Pill First Impressions & Sound Test - Worth $149?](https://www.youtube.com/watch?v=Y8N22lZDQJ8)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
@@ -1589,7 +1587,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 1.3lbs / 593g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/tribit-stormbox-109758019>
+    - [Oluv: Tribit Stormbox 2 - sound test](https://www.patreon.com/posts/tribit-stormbox-109758019)
     - [Alan Ross Reviews: Tribit Stormbox 2 - wow is this deliberate? 🤔](https://www.youtube.com/watch?v=req2-T3W2xo)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-2-portable-speaker)

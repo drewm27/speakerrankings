@@ -23,8 +23,8 @@ The Tribit Stormbox Flow ranks #50 out of 130 total [Medium Size Portable Blueto
     - [Alan Ross Reviews: Tribit Stormbox Flow firmware update 1.2.5 - stuff gets fixed ✔](https://www.youtube.com/watch?v=iiHUMfa_OOY)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs XSound Mega - Sound Comparison, Stock EQ, Both Mono Sound 😶‍🌫️ A Family Feud](https://www.youtube.com/watch?v=PMDSpH3mNB8)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
-    - <https://www.patreon.com/posts/tribit-stormbox-92447387>
-    - <https://www.patreon.com/posts/tribit-stormbox-90484533>
+    - [Oluv: Tribit Stormbox Flow - after firmware update](https://www.patreon.com/posts/tribit-stormbox-92447387)
+    - [Oluv: Tribit Stormbox Flow - sound demo](https://www.patreon.com/posts/tribit-stormbox-90484533)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-flow-portable-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Flow/)

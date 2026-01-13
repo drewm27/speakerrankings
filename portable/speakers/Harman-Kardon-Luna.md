@@ -23,7 +23,7 @@ The Harman Kardon Luna ranks #22 out of 130 total [Medium Size Portable Bluetoot
 - USB Playback: Yes
 - Weight: 2.48lbs / 1.13kg
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/harman-kardon-90318892>
+    - [Oluv: Harman Kardon Luna - sound demo](https://www.patreon.com/posts/harman-kardon-90318892)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)

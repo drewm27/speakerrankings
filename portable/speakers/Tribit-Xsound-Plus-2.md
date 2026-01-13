@@ -26,7 +26,7 @@ The Tribit Xsound Plus 2 ranks #32 out of 130 total [Medium Size Portable Blueto
     - [Alan Ross Reviews: Tribit Xsound Plus 2: Upgrade Your Sound With Maxsound Eq Preset! New firmware tested](https://www.youtube.com/watch?v=HF3eKZM-ZTs)
     - [Alan Ross Reviews: Goodbye Maxsound Plus hello Tribit Xsound Plus 2! neutral heaven or bass for the masses?](https://www.youtube.com/watch?v=k8tm3FwCkWM)
     - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
-    - <https://www.patreon.com/posts/tribit-xsound-2-99145415>
+    - [Oluv: Tribit XSound Plus 2 - first impressions](https://www.patreon.com/posts/tribit-xsound-2-99145415)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-plus-2-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Plus-2/)

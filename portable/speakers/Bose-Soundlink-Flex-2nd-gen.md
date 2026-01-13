@@ -22,7 +22,7 @@ The Bose Soundlink Flex 2nd gen ranks #33 out of 130 total [Medium Size Portable
 - Weight: 1.3lbs / 586g
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
-    - <https://www.patreon.com/posts/bose-soundlink-114024442>
+    - [Oluv: Bose Soundlink Flex 2nd gen - sound demo](https://www.patreon.com/posts/bose-soundlink-114024442)
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)

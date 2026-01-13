@@ -32,8 +32,8 @@ The Soundcore Motion 300 ranks #2 out of 130 total [Medium Size Portable Bluetoo
     - <https://www.youtube.com/watch?v=FaBJmIhALqI>
     - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
-    - <https://www.patreon.com/posts/soundcore-motion-93321960>
-    - <https://www.patreon.com/posts/soundcore-motion-94933573>
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-300/)

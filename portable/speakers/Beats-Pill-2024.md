@@ -24,7 +24,7 @@ The Beats Pill 2024 ranks #60 out of 130 total [Medium Size Portable Bluetooth S
 - Weight: 1.34lbs / 680g
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: New Beats Pill 2024: sound demo](https://www.youtube.com/watch?v=MEYs2nH--Zs)
-    - <https://www.patreon.com/posts/beats-pill-2024-114092056>
+    - [Oluv: Beats Pill 2024 - first & last impression](https://www.patreon.com/posts/beats-pill-2024-114092056)
     - [DailyTekk: NEW Beats Pill First Impressions & Sound Test - Worth $149?](https://www.youtube.com/watch?v=Y8N22lZDQJ8)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links

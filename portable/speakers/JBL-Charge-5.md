@@ -29,7 +29,7 @@ The JBL Charge 5 ranks #26 out of 130 total [Medium Size Portable Bluetooth Spea
     - <https://www.youtube.com/watch?v=_7NOhGtdzy0>
     - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
-    - <https://www.patreon.com/posts/jbl-charge-5-48693970>
+    - [Oluv: JBL Charge 5 - unboxing & first impressions](https://www.patreon.com/posts/jbl-charge-5-48693970)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5/)

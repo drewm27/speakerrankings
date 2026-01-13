@@ -21,7 +21,7 @@ The Xiaomi Sound Outdoor ranks #42 out of 130 total [Medium Size Portable Blueto
 - TWS: Yes
 - Weight: 1.32lbs / 597g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/xiaomi-sound-124370191>
+    - [Oluv: Xiaomi Sound Outdoor - sound demo](https://www.patreon.com/posts/xiaomi-sound-124370191)
     - [FishBee Product Reviews: Xiaomi Mi Sound Outdoor 30W Speaker vs JBL Flip 6 - CRAZY GOOD!](https://www.youtube.com/watch?v=HWN-qW5vvyY)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-outdoor/)

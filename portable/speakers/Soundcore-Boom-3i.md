@@ -21,7 +21,7 @@ The Soundcore Boom 3i ranks #27 out of 130 total [Medium Size Portable Bluetooth
 - Stereo: No
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
-    - <https://www.patreon.com/posts/soundcore-boom-137341326>
+    - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Picky Audio: Compact Speaker BEAST! 🔥 soundcore Boom 3i](https://www.youtube.com/watch?v=EqSWcfgbX-8)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fd5100-boom-3i-waterproof-bluetooth-speaker&cjsku=D5100060)
