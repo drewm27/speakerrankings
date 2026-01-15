@@ -28,6 +28,7 @@ The Minirig Mini ranks #3 out of 41 total [Small Size Portable Bluetooth Speaker
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
+    - [Alan Ross Reviews: Minirig Mini mk2 - best small speaker?](https://www.youtube.com/watch?v=7kydvk2xdtA)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Minirig-Mini/)
 

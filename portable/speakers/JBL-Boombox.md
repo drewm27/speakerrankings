@@ -18,6 +18,7 @@ The JBL Boombox ranks #44 out of 69 total [Boombox Size Portable Bluetooth Speak
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
     - <https://www.youtube.com/watch?v=jOvizwFy9L8>
+    - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox/)
 

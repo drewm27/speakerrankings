@@ -25,6 +25,8 @@ The Tronsmart Bang Max ranks #33 out of 69 total [Boombox Size Portable Bluetoot
 - Weight: 12.8lbs / 5.8kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
+    - [Techder Audios: Zealot ZE01 VS Tronsmart Bang Max SOLID VOCALS VS DEEPER BASS](https://www.youtube.com/watch?v=_lZVAEHjLe8)
+    - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Bang-Max/)

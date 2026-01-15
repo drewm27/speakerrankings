@@ -19,6 +19,10 @@ The JBL Xtreme 2 ranks #40 out of 72 total [Large Size Portable Bluetooth Speake
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
+    - [Alan Ross Reviews: JBL Xtreme 3 vs JBL Xtreme 2 and Xtreme 1 - review and sound test](https://www.youtube.com/watch?v=_4250Xm3Igc)
+    - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
+    - [Ezekielo: JBL Xtreme 2 vs Sonos Move with Sound Comparison](https://www.youtube.com/watch?v=V4Nq-rVAP1k)
+    - [HT Sound: Devialet Mania VS JBL Xtreme 2 - 60% Vol (Listen with headphones)](https://www.youtube.com/watch?v=lHt2VPFNmgI)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+Xtreme+2.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme-2/)

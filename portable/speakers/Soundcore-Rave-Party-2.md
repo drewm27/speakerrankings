@@ -26,6 +26,7 @@ The Soundcore Rave Party 2 ranks #40 out of 69 total [Boombox Size Portable Blue
     - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🔥 Unboxing & Short Sound Demo. Is This The New Speaker To Beat Under $200?💵](https://www.youtube.com/watch?v=dh5lzF8t8w4)
     - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs Soundcore Rave Party 2 (Stock & Custom EQ) 🛜 Battery Powered🔋Let's Get It🧨](https://www.youtube.com/watch?v=cv234tGZUIc)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Party-2/)
 

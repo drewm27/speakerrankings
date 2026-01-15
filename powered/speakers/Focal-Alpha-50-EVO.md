@@ -25,6 +25,7 @@ The Focal Alpha 50 EVO ranks #6 out of 24 total [Medium Size Powered Bookshelf S
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Eve Audio SC205  sound.DEMO](https://www.youtube.com/watch?v=51jzb9IpZNE)
     - [DSAUDIO.review: DSAUDIO.review  Kali Audio LP-6 V2 (2nd Wave) vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=STR16lZhipg)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=6HwCiWldgW4)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-50-evo)
     - [Direct Speakerranking Link](/powered/speakers/Focal-Alpha-50-EVO/)

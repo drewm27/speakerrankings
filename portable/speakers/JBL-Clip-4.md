@@ -24,6 +24,10 @@ The JBL Clip 4 ranks #19 out of 41 total [Small Size Portable Bluetooth Speakers
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - [Danny Pops: MICRO SPEAKERS - my take on JBL Clip 4 VS Wonderboom 2 VS Bose Micro](https://www.youtube.com/watch?v=Vyc6e3bxoUs)
+    - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
+    - [Storytripper HD: JBL Clip 4 vs  B&O A1 2nd  vs  Klipsch Austin](https://www.youtube.com/watch?v=iri3WLn6DBs)
+    - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
+    - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-4/)

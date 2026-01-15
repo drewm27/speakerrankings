@@ -18,6 +18,7 @@ The Edifier S1000MKII ranks #16 out of 24 total [Medium Size Powered Bookshelf S
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/s1000mkii)
     - [Direct Speakerranking Link](/powered/speakers/Edifier-S1000MKII/)

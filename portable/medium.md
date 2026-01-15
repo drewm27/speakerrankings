@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
 ---
 
-This page ranks 130 medium size powered Bluetooth speakers. Last updated on 01/14/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 130 medium size powered Bluetooth speakers. Last updated on 01/15/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -47,6 +47,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
@@ -79,6 +81,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
     - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
+    - [Oluv: (Anker) Soundcore Motion 300 - first impressions](https://www.patreon.com/posts/anker-soundcore-92655183)
+    - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
+    - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-300/)
@@ -221,6 +226,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: B&O Beoplay A1 2nd gen vs Minirig mk3 bluetooth speaker](https://www.youtube.com/watch?v=9uxHwFlAYro)
     - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
     - [Speakertech: Anker soundcore Boost (Upgraded) vs minirig mini in stereo /2.0 (and changing the equalizer)](https://www.youtube.com/watch?v=UQ3S8D3_1nE)
+    - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
+    - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
     - [Direct Speakerranking Link](/portable/speakers/Minirig-3/)
@@ -272,6 +279,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=k6BuPy-w7pU>
     - [Alan Ross Reviews: Bose Soundlink Flex or Beosound A1 (1st gen) - ultimate compact speaker 😇](https://www.youtube.com/watch?v=_sFVv8NhTTY)
     - [Oluv: B&O Beosound A1 2nd gen vs Beoplay A1 outdoors with a bit of Anker Soundcore Motion+ too](https://www.patreon.com/posts/b-o-beosound-a1-39584977)
+    - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
+    - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1/)
@@ -362,6 +371,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: JBL Flip 6 vs Maxsound Plus and Soundcore Boost - ultimate travel speaker!](https://www.youtube.com/watch?v=iE3qoiDAn98)
     - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
+    - [Alan Ross Reviews: Soundcore Motion 300 or JBL Flip 6 or Soundcore Boost v2? we all have issues!](https://www.youtube.com/watch?v=929FIaHlbeI)
+    - [Alan Ross Reviews: Soundcore Motion 300 or JBL Flip 6 or Soundcore Boost v2? we all have issues!](https://www.youtube.com/watch?v=929FIaHlbeI)
+    - [GYMCADDY: JBL Flip 7 Review - Is It Worth Upgrading Over The JBL Flip 6 Or Flip 5?](https://www.youtube.com/watch?v=CCSAw7q-n-A)
+    - [SpeakerBlowUpMan Lee: Broke Man's JBL Flip 6! Miatone Boompro Bluetooth Speaker Review](https://www.youtube.com/watch?v=Psmgg5ZJCvs)
+    - [Techder Audios: JBL Flip 6 Martin Garrix Edition VS Wisetiger P3 "PRICEY VS REAL CHEAP?!"](https://www.youtube.com/watch?v=LnNR_uVowaw)
+    - [Alan Ross Reviews: Mifa WildRod Review and new firmware comparison vs JBL Flip 6 - things got interesting 👀](https://www.youtube.com/watch?v=y4DYttybhJ8)
+    - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
+    - [FishBee Product Reviews: Xiaomi Mi Sound Outdoor 30W Speaker vs JBL Flip 6 - CRAZY GOOD!](https://www.youtube.com/watch?v=HWN-qW5vvyY)
+    - [Audio y Mas 🔊: Altavoces JBL Flip 6 vs W-King D320: ¿Cuál es el mejor en calidad de sonido? 🔊](https://www.youtube.com/watch?v=3zEtJi4u-F8)
+    - [Alan Ross Reviews: JBL Flip 6 vs JBL Charge 4 and JBL Charge 3 - small one or a large one? 🤷‍♂️](https://www.youtube.com/watch?v=R9rJuAYwVw0)
+    - [Jay's Straight Up Reviews & More: JBL Flip 6 vs Ultimate Ears Wonderboom 3 (Indoor Mode)⚔️ Battle of the Handheld Bluetooth Speakers.](https://www.youtube.com/watch?v=KjIvKngB10M)
+    - [Daniel Pérez: Tronsmart T7 vs JBL Flip 6](https://www.youtube.com/watch?v=PJEEGkFTfOU)
+    - [Alan Ross Reviews: JBL Flip 6 vs Marshall Emberton review - mono or pseudo surround sound? 🤷‍♀️](https://www.youtube.com/watch?v=I8bm5PJl5ZY)
+    - [Luan Tech: JBL FLIP 6 vs LG XBOOM XG5 COMPARATIVO COMPLETO!](https://www.youtube.com/watch?v=o0ZgBxwlNE4)
+    - [Audio 503: Tronsmart T7 Lite (24w) vs JBL Flip 6 (30w)](https://www.youtube.com/watch?v=S03_X1Vrm9U)
+    - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-6/)
@@ -409,6 +434,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: JBL Flip 7 is screech-fest heaven!  vs Flip 6!](https://www.youtube.com/watch?v=N2bfwmODxA0)
     - [Chrispy Things [EDC]: JBL Flip 7: My thoughts & sound test VS the Flip 6!](https://www.youtube.com/watch?v=BG7Mq_vc9pk)
     - [GYMCADDY: JBL Flip 7 Review - Is It Worth Upgrading Over The JBL Flip 6 Or Flip 5?](https://www.youtube.com/watch?v=CCSAw7q-n-A)
+    - [Musou1: JBL flip 7 vs KEF muo vs Bose flex 2](https://www.youtube.com/watch?v=wZmMRVBii3A)
+    - [FishBee Product Reviews: LG XBOOM Grab (2025) by Will.i.am - BETTER Than JBL Flip 7??](https://www.youtube.com/watch?v=pvjIlFA7TWU)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-7/)
 
@@ -469,6 +496,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa WildRod Review and new firmware comparison vs JBL Flip 6 - things got interesting 👀](https://www.youtube.com/watch?v=y4DYttybhJ8)
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
+    - [Techder Audios: Wisetiger P3 VS Mifa Wildrod "BEST CHEAP SPEAKERS?!"](https://www.youtube.com/watch?v=ikGFsH2aeZ8)
+    - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
     - [Direct Speakerranking Link](/portable/speakers/Mifa-Wildrod/)
@@ -591,6 +620,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Harman Kardon Luna - sound demo](https://www.patreon.com/posts/harman-kardon-90318892)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
+    - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Luna/)
@@ -637,6 +667,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Bogasing M4 Review - vs JBL Charge 5 & Motion Plus - a new contender?](https://www.youtube.com/watch?v=WIS2Jk83EI8)
     - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
     - [Alan Ross Reviews: Bogasing M4 or Soundcore Boost or Maxsound Plus for $50 champion?? 🤷‍♀️](https://www.youtube.com/watch?v=7XZgoEVW7Ng)
+    - [Alan Ross Reviews: Tronsmart Element Force review vs Bogasing M4 - cheap speaker 🤑](https://www.youtube.com/watch?v=1btEBiXCEF0)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-M4/)
 
@@ -683,6 +714,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Bose Soundlink Flex Review! vs JBL Flip 6 and JBL Charge 5. Travel heaven?? 🤞](https://www.youtube.com/watch?v=QT9dcySUf_U)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
     - [Oluv: JBL Charge 5 - unboxing & first impressions](https://www.patreon.com/posts/jbl-charge-5-48693970)
+    - [Alan Ross Reviews: Bogasing M4 Review - vs JBL Charge 5 & Motion Plus - a new contender?](https://www.youtube.com/watch?v=WIS2Jk83EI8)
+    - [The Tech Files: JBL CHARGE 5 Vs. CHARGE ESSENTIAL 2 #shorts](https://www.youtube.com/watch?v=ZmYH6zYSNKs)
+    - [Alan Ross Reviews: Huawei sound joy vs JBL Charge 5 and Flip 6 - top mono speaker! 🤓](https://www.youtube.com/watch?v=xLJs_zM0UMg)
+    - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
+    - [Techder Audios: JBL PULSE 5 VS JBL CHARGE 5 "LIGHTS VS BASS?!"](https://www.youtube.com/watch?v=2I_EWK7p-YI)
+    - [Storytripper HD: Klipsch Nashville vs JBL Charge 5](https://www.youtube.com/watch?v=QuvvD6AFvSk)
+    - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
+    - [Storytripper HD: KEF MUO vs JBL Charge 5](https://www.youtube.com/watch?v=K5k7HZFH6DY)
+    - [KULAS TECH SHOW: JBL Charge 5 vs Tronsmart Mirtune S100 - Sound Comparison💥🔥](https://www.youtube.com/watch?v=jfB1dUCEsGQ)
+    - [Alan Ross Reviews: UE Megaboom 3 review vs JBL Charge 5 & Motion Boom! how bad can it be??](https://www.youtube.com/watch?v=I114oDubbic)
+    - [New Stuff TV: Sony SRS-XE300 vs JBL Charge 5](https://www.youtube.com/watch?v=s3SAQ7lDbOY)
+    - [GYMCADDY: JBL Charge 5 Vs Sony XE300 - How Can You Mess Up This Bad?](https://www.youtube.com/watch?v=frYrfHKWJvw)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5/)
@@ -825,6 +868,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
     - [Oluv: Bose Soundlink Flex 2nd gen - sound demo](https://www.patreon.com/posts/bose-soundlink-114024442)
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
+    - [Audiophile housewife: Bose Soundlink Flex 2nd gen & Soundcore Motion 300 sound test](https://www.youtube.com/watch?v=SyaGa3I53zM)
+    - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Flex-2nd-gen/)
@@ -853,6 +898,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
     - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
     - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Alan Ross Reviews: Bose Soundlink Flex or JBL Flip 6 (eq adjusted) or Denon Envaya - best speaker for travel!](https://www.youtube.com/watch?v=4WYQ-liCcKk)
+    - [Alan Ross Reviews: Bose Soundlink Flex or Beosound A1 (1st gen) - ultimate compact speaker 😇](https://www.youtube.com/watch?v=_sFVv8NhTTY)
+    - [Alan Ross Reviews: Bose Soundlink Flex or JBL Flip 6 (eq adjusted) or Denon Envaya - best speaker for travel!](https://www.youtube.com/watch?v=4WYQ-liCcKk)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
+    - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
+    - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
+    - [Danny Pops: BEST Bose Speaker?? Bose Soundlink Flex vs micro, Color II, and revolve +](https://www.youtube.com/watch?v=de0ZwpbXYAc)
+    - [Alan Ross Reviews: Bose Soundlink Flex vs Minirig MK3 and Marshall Emberton - best bluetooth speaker?](https://www.youtube.com/watch?v=nseOM9Ah-jE)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-bluetooth-speaker/SLFLX-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Flex/)
@@ -885,6 +940,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Huawei Sound Joy Devialet speaker review - Joy or Despair?? 🤷‍♀️](https://www.youtube.com/watch?v=QoJKsPaofl0)
     - [Alan Ross Reviews: Huawei sound joy vs JBL Charge 5 and Flip 6 - top mono speaker! 🤓](https://www.youtube.com/watch?v=xLJs_zM0UMg)
+    - [Alan Ross Reviews: Huawei Sound Joy vs Sony xb23 - worse or worser? 🤭](https://www.youtube.com/watch?v=MeQ5llKSqvc)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Huawei-Sound-Joy/)
 
@@ -916,6 +972,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 1.43lbs / 650g
 - Reviews, Comparisons and Sound Samples
     - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
+    - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs Sony ULT Field 1 😧 $200 vs $128 Cylinder Bluetooth Speaker Matchup](https://www.youtube.com/watch?v=lrVa4Cnrets)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
     - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Field-1/)
@@ -1033,6 +1090,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
     - [Audio y Mas 🔊: Altavoces JBL Flip 6 vs W-King D320: ¿Cuál es el mejor en calidad de sonido? 🔊](https://www.youtube.com/watch?v=3zEtJi4u-F8)
+    - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/w-king-d320-40w-portable-speaker)
     - [Direct Speakerranking Link](/portable/speakers/W-King-D320/)
@@ -1105,6 +1163,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=7pEh5c5o74s>
     - <https://www.youtube.com/watch?v=Fi1x6UuIkI4>
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>
+    - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
+    - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Revolve/)
 
@@ -1153,6 +1213,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W King D8 Mini review vs JBL Charge 4 vs Maxsound Plus](https://www.youtube.com/watch?v=KgMDRxajEZw)
     - [Alan Ross Reviews: Sony XB33 vs XB32 vs JBL Charge 4 best £120 bluetooth speaker?](https://www.youtube.com/watch?v=07qu_39HjyU)
     - [Alan Ross Reviews: JBL Flip 6 vs JBL Charge 4 and JBL Charge 3 - small one or a large one? 🤷‍♂️](https://www.youtube.com/watch?v=R9rJuAYwVw0)
+    - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
+    - [Naresh Lal: JBL Charge 4 Vs Xdobo X8 Tell me Which one is the BEST?](https://www.youtube.com/watch?v=DTgp-xGDzvw)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-4/)
@@ -1170,6 +1232,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: 1 million views! Best Budget Tws? Tozo Pa1 Review and sound test](https://www.youtube.com/watch?v=tNxGzF2uPEQ)
     - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
     - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
+    - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
     - [Direct Speakerranking Link](/portable/speakers/Tozo-PA1/)
@@ -1190,6 +1253,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
     - [Oluv: Bogasing M5](https://www.patreon.com/posts/bogasing-m5-126932777)
+    - [Jay's Straight Up Reviews & More: Klipsch Nashville vs Bogasing M5 Bi-Directional Speaker Battle](https://www.youtube.com/watch?v=q_W1Wa63xXc)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-M5/)
 
@@ -1225,6 +1289,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
     - <https://www.youtube.com/watch?v=mQRhBbxKY4o>
+    - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-mini-ii-special-edition/SLMINIISE-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Mini-2/)
@@ -1273,6 +1338,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - [GYMCADDY: Sony XE300 Review And Compared to Sony XB33 - A Muffled Mess](https://www.youtube.com/watch?v=jHQXf-CZ2Lk)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
+    - [Alan Ross Reviews: Sony XB33 vs XB32 vs JBL Charge 4 best £120 bluetooth speaker?](https://www.youtube.com/watch?v=07qu_39HjyU)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB33/)
@@ -1326,6 +1392,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
+    - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
+    - [Alan Ross Reviews: Sony XB23 vs JBL Flip 5 v Tribit Maxsound Plus](https://www.youtube.com/watch?v=_uqf_NKwcP4)
+    - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)
+    - [Alan Ross Reviews: Marshall Emberton vs JBL Flip 5 & Soundcore Boost - true  stereophonic 🤓](https://www.youtube.com/watch?v=nNVh5K8fFw8)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+FLIP+5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-5/)
@@ -1347,6 +1417,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
+    - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
+    - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
     - [Official Product Page](https://www.jbl.com/gift-yourself/JBL+Flip+4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-4/)
@@ -1363,6 +1435,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Sony XB23 vs JBL Flip 5 v Tribit Maxsound Plus](https://www.youtube.com/watch?v=_uqf_NKwcP4)
     - [Alan Ross Reviews: Huawei Sound Joy vs Sony xb23 - worse or worser? 🤭](https://www.youtube.com/watch?v=MeQ5llKSqvc)
     - [Alan Ross Reviews: Sony XB23 vs XB33 - specs and measurements](https://www.youtube.com/watch?v=IyCRwXBO26Y)
+    - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB23/)
@@ -1421,6 +1494,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=seSKe2MRngo>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=yiwtSAiu6d8>
+    - [Alan Ross Reviews: JBL Flip 6 vs JBL Charge 4 and JBL Charge 3 - small one or a large one? 🤷‍♂️](https://www.youtube.com/watch?v=R9rJuAYwVw0)
+    - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
+    - [EnforcerMan: JBL CHARGE 3 VS TREBLAB HD77 - FULL REVIEW](https://www.youtube.com/watch?v=6N6q3qppV58)
 - Links
     - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-3/)
@@ -1437,6 +1513,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
     - [Techder Audios: JBL EXTREME 3 VS JBL CHARGE ESSENTIAL](https://www.youtube.com/watch?v=gnjcKKYf7xs)
+    - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-Essential/)
@@ -1568,6 +1645,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Tribit XSound Surf vs. XSound Go (Upgraded Model) Bluetooth Speaker Sound Comparison.](https://www.youtube.com/watch?v=7vXafwDd3Z0)
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
+    - [Jay's Straight Up Reviews & More: Zealot S61 🦨 Bluetooth Speaker Review & Sound Comparison to Tribit XSound Surf. Another Zealot dud❓](https://www.youtube.com/watch?v=ADGFOxmXROs)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Surf/)
 
@@ -1589,6 +1667,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Tribit Stormbox 2 - sound test](https://www.patreon.com/posts/tribit-stormbox-109758019)
     - [Alan Ross Reviews: Tribit Stormbox 2 - wow is this deliberate? 🤔](https://www.youtube.com/watch?v=req2-T3W2xo)
+    - [Storytripper HD: Tribit Micro 2 vs Tribit STormBox 2 vs Tribit StormBox Mini](https://www.youtube.com/watch?v=j2RvrCmY31E)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-2-portable-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-2/)
@@ -1862,6 +1941,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Bose Soundlink Flex vs Minirig MK3 and Marshall Emberton - best bluetooth speaker?](https://www.youtube.com/watch?v=nseOM9Ah-jE)
     - [Alan Ross Reviews: JBL Flip 6 vs Marshall Emberton review - mono or pseudo surround sound? 🤷‍♀️](https://www.youtube.com/watch?v=I8bm5PJl5ZY)
     - [Alan Ross Reviews: Marshall Emberton vs JBL Flip 5 & Soundcore Boost - true  stereophonic 🤓](https://www.youtube.com/watch?v=nNVh5K8fFw8)
+    - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Emberton-II/)

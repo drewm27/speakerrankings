@@ -24,6 +24,9 @@ The Marshall Middleton ranks #28 out of 72 total [Large Size Portable Bluetooth 
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
     - [Oluv: Marshall Middleton - first impressions](https://www.patreon.com/posts/marshall-first-78807089)
     - [Danny Pops: Is it Any Good? - Marshall Middleton Review](https://www.youtube.com/watch?v=PBZvukWGJk0)
+    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
+    - [Storytripper HD: Marshall Middleton vs Klipsch Detroit](https://www.youtube.com/watch?v=ut_Q8avymTw)
+    - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Middleton/)

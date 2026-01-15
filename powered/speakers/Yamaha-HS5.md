@@ -19,6 +19,12 @@ The Yamaha HS5 ranks #9 out of 24 total [Medium Size Powered Bookshelf Speakers]
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
+    - [DSAUDIO.review: Genelec 8020D  vs  Yamaha HS5   Soun & Frequency Response Comparison](https://www.youtube.com/watch?v=Ipohm9fuz5A)
+    - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)
+    - [DSAUDIO.review: Adam Audio T5V vs Yamaha HS5   5 Track Comparison](https://www.youtube.com/watch?v=Tx2xYhZdYHY)
+    - [DSAUDIO.review: Yamaha HS5 vs Presonus Eris E5  Sound Demo](https://www.youtube.com/watch?v=SWT-9LfiRGc)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Yamaha HS5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=1vgYmj3ZmDY)
+    - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/yamaha-hs5-powered-monitor-review.10967)

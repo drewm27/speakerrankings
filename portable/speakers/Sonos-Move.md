@@ -21,6 +21,8 @@ The Sonos Move ranks #24 out of 72 total [Large Size Portable Bluetooth Speakers
 - Reviews, Comparisons and Sound Samples
     - [Ezekielo: JBL Xtreme 2 vs Sonos Move with Sound Comparison](https://www.youtube.com/watch?v=V4Nq-rVAP1k)
     - [NeverEnoughTech: soundcore Motion X600 vs. Sonos Move vs. Bose Soundlink Revolve II](https://www.youtube.com/watch?v=bPfwaZp1x1Q)
+    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
+    - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/move)
     - [Direct Speakerranking Link](/portable/speakers/Sonos-Move/)

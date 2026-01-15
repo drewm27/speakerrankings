@@ -26,6 +26,9 @@ The JBL Charge 3 ranks #66 out of 130 total [Medium Size Portable Bluetooth Spea
     - <https://www.youtube.com/watch?v=seSKe2MRngo>
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=yiwtSAiu6d8>
+    - [Alan Ross Reviews: JBL Flip 6 vs JBL Charge 4 and JBL Charge 3 - small one or a large one? 🤷‍♂️](https://www.youtube.com/watch?v=R9rJuAYwVw0)
+    - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
+    - [EnforcerMan: JBL CHARGE 3 VS TREBLAB HD77 - FULL REVIEW](https://www.youtube.com/watch?v=6N6q3qppV58)
 - Links
     - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-3/)

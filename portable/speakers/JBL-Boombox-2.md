@@ -26,6 +26,9 @@ The JBL Boombox 2 ranks #29 out of 69 total [Boombox Size Portable Bluetooth Spe
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
+    - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
+    - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)
+    - [Mateusz Cholewa: 2 x 🔊Teufel Boomster 2021🎵 vs JBL Boombox 2 AC🔌 Power Test Audio🎧.](https://www.youtube.com/watch?v=jsUSaTb7Ojs)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-2/)

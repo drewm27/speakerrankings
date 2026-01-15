@@ -26,6 +26,8 @@ The JBL Partybox 520 ranks #5 out of 9 total [Large Party Size Portable Bluetoot
 - Weight: 56.2lbs / 25.5kg
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
+    - [AudioTribe: JBL Partybox 720 vs JBL Partybox 520 Who's Better?](https://www.youtube.com/watch?v=jcW1CkaMfRc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX520AM.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-520/)

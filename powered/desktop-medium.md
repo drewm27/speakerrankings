@@ -6,7 +6,7 @@ cover-img: "/assets/img/audioproc5.jpg"
 share-description: "Explore the best medium powered desktop speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."
 ---
 
-This page ranks 12 medium size powered desktop speakers. Last updated on 01/14/2026. The Medium Desktop class of speakers are stereo inside a single enclosure and generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Desktop class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 12 medium size powered desktop speakers. Last updated on 01/15/2026. The Medium Desktop class of speakers are stereo inside a single enclosure and generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Desktop class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For the best picks of this page see [Best Powered Home Desktop Speakers](/powered/best/)
 
@@ -128,6 +128,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - Weight: 10.3lbs / 4.65kg
 - Reviews, Comparisons and Sound Samples
+    - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Stanmore-II/)
@@ -156,10 +157,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - Weight: 4.5 lbs / 2.9kg
 - Reviews, Comparisons and Sound Samples
-    - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
-    - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
+    - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
+    - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
+    - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-II/)
 
@@ -201,6 +203,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - Weight: 8.5lbs / 3.9kg
 - Reviews, Comparisons and Sound Samples
+    - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
     - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
     - [Solo Trips: Klipsch The One vs Jbl Xtreme](https://www.youtube.com/watch?v=77HvEdMXy2c)
 - Links

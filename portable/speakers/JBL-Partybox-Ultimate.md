@@ -28,6 +28,8 @@ The JBL Partybox Ultimate ranks #1 out of 9 total [Large Party Size Portable Blu
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Ultimate/)

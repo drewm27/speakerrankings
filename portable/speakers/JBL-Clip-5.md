@@ -22,6 +22,7 @@ The JBL Clip 5 ranks #18 out of 41 total [Small Size Portable Bluetooth Speakers
 - Weight: 0.86lbs / 390g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
+    - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/CLIP-5.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-5/)

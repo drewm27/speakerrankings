@@ -34,6 +34,9 @@ The Soundcore Motion 300 ranks #2 out of 130 total [Medium Size Portable Bluetoo
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
     - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
+    - [Oluv: (Anker) Soundcore Motion 300 - first impressions](https://www.patreon.com/posts/anker-soundcore-92655183)
+    - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
+    - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-300/)

@@ -28,6 +28,7 @@ The Soundcore Rave Neo 2 ranks #18 out of 72 total [Large Size Portable Bluetoot
     - [Technoid: Soundcore Rave Neo 2 Review - Get the Grill & Pool Ready!!](https://www.youtube.com/watch?v=nmVpaJCrKCI)
     - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)
+    - [Jay's Straight Up Reviews & More: $350 Ultimate Ears EpicBoom gets Epic Beat-Down 😮by $120 Soundcore Rave Neo 2. Bluetooth Speaker KO🤛](https://www.youtube.com/watch?v=Vyo6VlUOYf8)
 - Links
     - [Official Product Page](https://support.soundcore.com/s/product/a085g000004yodHAAQ/rave-neo-2)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Neo-2/)

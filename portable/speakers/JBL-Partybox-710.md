@@ -29,6 +29,7 @@ The JBL Partybox 710 ranks #4 out of 9 total [Large Party Size Portable Bluetoot
     - [GYMCADDY: JBL Partybox 710 Review - Its Your Personal Earthquake Machine](https://www.youtube.com/watch?v=srx-SAaqFjw)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-710-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-710/)

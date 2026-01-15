@@ -23,6 +23,7 @@ The Sony XB33 ranks #58 out of 130 total [Medium Size Portable Bluetooth Speaker
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Plus and Sony XB33 - ultimate travel speaker 2021 🤗](https://www.youtube.com/watch?v=pDu3G6Bubrk)
     - [GYMCADDY: Sony XE300 Review And Compared to Sony XB33 - A Muffled Mess](https://www.youtube.com/watch?v=jHQXf-CZ2Lk)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
+    - [Alan Ross Reviews: Sony XB33 vs XB32 vs JBL Charge 4 best £120 bluetooth speaker?](https://www.youtube.com/watch?v=07qu_39HjyU)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB33/)

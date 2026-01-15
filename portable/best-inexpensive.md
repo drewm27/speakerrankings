@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Discover the best inexpensive portable Bluetooth speakers. Expert-ranked value picks with great sound and budget-friendly performance."
 ---
 
-This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 364 ranked on this website. Last updated on 01/14/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 364 ranked on this website. Last updated on 01/15/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Portable Bluetooth Speakers for Bass](/portable/best-bass/). 
 
@@ -64,6 +64,8 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
@@ -170,6 +172,8 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
+    - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
 

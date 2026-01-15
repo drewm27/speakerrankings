@@ -6,7 +6,7 @@ cover-img: "/assets/img/k12.2.jpg"
 share-description: "Browse our top-recommended Bluetooth speakers with the loudest output. Expert-ranked for volume, clarity & value to make your music heard."
 ---
 
-This page summarizes the loudest portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 01/14/2026. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the loudest portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 01/15/2026. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
 
@@ -44,6 +44,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
@@ -107,6 +108,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
+    - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 
@@ -162,6 +164,12 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [Mateusz Cholewa: Soundcore RAVE 3 🤗v🆚s W- KING X20🎶](https://www.youtube.com/watch?v=-Bpt2ryx4V0)
     - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
     - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
+    - [Techder Audios: W-king X20 VS Zealot S95 DEEP BASS VS DEEPER & LOUDER BASS?!](https://www.youtube.com/watch?v=FEW4UmyDHoY)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
+    - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)
+    - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
 

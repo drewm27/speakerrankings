@@ -26,6 +26,8 @@ The JBL 305P MKII ranks #7 out of 24 total [Medium Size Powered Bookshelf Speake
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=AEGVXHRXcfw)
     - [DSAUDIO.review: Kali Audio IN-5  vs  JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Bk2JkYbW_NE)
     - [DSAUDIO.review: JBL 308P MKII  vs JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u-R-l588zmg)
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  JBL 305P MKII   Sound & Frquency Response Comparison](https://www.youtube.com/watch?v=3b_NpkDflrM)
+    - [DSAUDIO.review: JBL 305P MKII vs PreSonus Eris E5   6-Track Comparison](https://www.youtube.com/watch?v=-R9l3z7qIvM)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)

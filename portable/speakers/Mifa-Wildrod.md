@@ -26,6 +26,8 @@ The Mifa Wildrod ranks #17 out of 130 total [Medium Size Portable Bluetooth Spea
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa WildRod Review and new firmware comparison vs JBL Flip 6 - things got interesting 👀](https://www.youtube.com/watch?v=y4DYttybhJ8)
     - <https://www.youtube.com/watch?v=y81IF75HKC0>
+    - [Techder Audios: Wisetiger P3 VS Mifa Wildrod "BEST CHEAP SPEAKERS?!"](https://www.youtube.com/watch?v=ikGFsH2aeZ8)
+    - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
     - [Direct Speakerranking Link](/portable/speakers/Mifa-Wildrod/)

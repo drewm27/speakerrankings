@@ -19,6 +19,7 @@ The JBL Charge Essential ranks #67 out of 130 total [Medium Size Portable Blueto
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
     - [Techder Audios: JBL EXTREME 3 VS JBL CHARGE ESSENTIAL](https://www.youtube.com/watch?v=gnjcKKYf7xs)
+    - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-Essential/)

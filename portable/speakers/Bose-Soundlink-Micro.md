@@ -26,6 +26,7 @@ The Bose Soundlink Micro ranks #16 out of 41 total [Small Size Portable Bluetoot
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
+    - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Micro/)

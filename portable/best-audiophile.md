@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers ranked for audiophiles. The best neutral picks for every budget."
 ---
 
-This page summarizes the best sounding audiophile portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 01/14/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding audiophile portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 01/15/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/best-inexpensive/) and [The Best Portable Bluetooth Speakers for Bass](/portable/best-bass/). 
 
@@ -44,6 +44,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
@@ -79,6 +80,8 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
@@ -111,6 +114,9 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs Soundcore Motion 300 (LDAC) 😵 Budget Bose Soundlink Flex "Inspired" Speakers](https://www.youtube.com/watch?v=kP3Dw6g-DZ0)
     - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
+    - [Oluv: (Anker) Soundcore Motion 300 - first impressions](https://www.patreon.com/posts/anker-soundcore-92655183)
+    - [New Stuff TV 2: Sony ULT Field 1 vs JBL Flip 6, JBL Charge 5 & Soundcore Motion 300](https://www.youtube.com/watch?v=mMOTcXiWXvQ)
+    - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
 
@@ -179,6 +185,7 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
+    - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 
@@ -243,6 +250,8 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
+    - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
 
@@ -285,6 +294,22 @@ See these other links for [The Best Inexpensive Bluetooth Speakers](/portable/be
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
     - [Oluv: SoundBoks 4 vs Stormbox Blast - first impressions](https://www.patreon.com/posts/soundboks-4-vs-104257079)
+    - [Audiophile housewife: Tribit Stormbox Blast vs Earfun UBoom X, a PROPER sound test 😎](https://www.youtube.com/watch?v=Q3Wge2qf3xc)
+    - [Mateusz Cholewa: EarFun UBOOM X Deep Bass 🆚 Tribit Stormbox Blast🎶Review👌](https://www.youtube.com/watch?v=R96XSoGD1_4)
+    - [Oluv: Tribit Stormbox Blast vs Earfun UBoom X - outdoor test](https://www.patreon.com/posts/tribit-stormbox-106255927)
+    - [Oluv: Harman Kardon go+play 3 vs Tribit Stormbox Blast - outdoor soundtest](https://www.patreon.com/posts/harman-kardon-go-100467989)
+    - [Dominik Reviews: JBL Boombox 3 vs 2x Tribit Stormbox Blast 🤑 Huge difference?](https://www.youtube.com/watch?v=3WDir4ajfs4)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
+    - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
+    - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 vs. Tribit Stormbox Blast - Bluetooth Speaker Basement ⚒ Battle](https://www.youtube.com/watch?v=f_NtZs4HO8c)
+    - [Jagist reviews: Tribit Stormbox Blast vs Sony SRS XG 500](https://www.youtube.com/watch?v=yenr1BPMk6s)
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
+    - [Alan Ross Reviews: Tribit Stormbox Blast Review vs Soundcore Motion Boom Plus - cheap bass!](https://www.youtube.com/watch?v=aSK4-UlbE-0)
+    - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
+    - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
 

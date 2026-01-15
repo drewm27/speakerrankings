@@ -6,7 +6,7 @@ cover-img: "/assets/img/klasik2020.jpg"
 share-description: "Discover the top-recommended powered speakers. Expert-ranked picks with built-in amplifiers for effortless, high-quality sound."
 ---
 
-This page summarizes the best powered bookshelf speakers out of the 67 that have been ranked on this website. Last updated on 01/14/2026. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
+This page summarizes the best powered bookshelf speakers out of the 67 that have been ranked on this website. Last updated on 01/15/2026. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
 
 For more detailed information and specs about these speakers see the full rankings of all of them at [All Powered Speakers Ranked](/#all-powered-speakers-ranked)
 
@@ -136,6 +136,8 @@ For more detailed information and specs about these speakers see the full rankin
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=AEGVXHRXcfw)
     - [DSAUDIO.review: Kali Audio IN-5  vs  JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Bk2JkYbW_NE)
     - [DSAUDIO.review: JBL 308P MKII  vs JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u-R-l588zmg)
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  JBL 305P MKII   Sound & Frquency Response Comparison](https://www.youtube.com/watch?v=3b_NpkDflrM)
+    - [DSAUDIO.review: JBL 305P MKII vs PreSonus Eris E5   6-Track Comparison](https://www.youtube.com/watch?v=-R9l3z7qIvM)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)

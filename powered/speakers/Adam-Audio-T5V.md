@@ -21,6 +21,9 @@ The Adam Audio T5V ranks #8 out of 24 total [Medium Size Powered Bookshelf Speak
     - [DSAUDIO.review: Adam Audio T5V vs Yamaha HS5   5 Track Comparison](https://www.youtube.com/watch?v=Tx2xYhZdYHY)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A5X vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=20EndvbJT28)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
+    - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=q6EETP-YrAY)
+    - [DSAUDIO.review: Bright and brighter. PreSonus E5 XT takes on Adam Audio T5V SOUND & FREQUENCY RESPONSE COMPARISON](https://www.youtube.com/watch?v=E31EQd_EJKc)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t5v-review-studio-monitor.18122/)

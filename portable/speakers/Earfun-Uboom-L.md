@@ -35,6 +35,8 @@ The Earfun Uboom L ranks #1 out of 130 total [Medium Size Portable Bluetooth Spe
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>

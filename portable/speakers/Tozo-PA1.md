@@ -20,6 +20,7 @@ The Tozo PA1 ranks #52 out of 130 total [Medium Size Portable Bluetooth Speakers
     - [Alan Ross Reviews: 1 million views! Best Budget Tws? Tozo Pa1 Review and sound test](https://www.youtube.com/watch?v=tNxGzF2uPEQ)
     - [Alan Ross Reviews: Tribit Stormbox Flow has deeper bass than the Bose Flex but...........](https://www.youtube.com/watch?v=kTzczPis7ic)
     - [Jay's Straight Up Reviews & More: On A Ledge 🪟  Soundcore Motion 300 vs Tozo PA1 ⚒ Battle of the Budget Handheld Bluetooth Speakers](https://www.youtube.com/watch?v=SmRn6b0rhzU)
+    - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
     - [Direct Speakerranking Link](/portable/speakers/Tozo-PA1/)

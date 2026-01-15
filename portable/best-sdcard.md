@@ -6,7 +6,7 @@ cover-img: "/assets/img/bogasingg4.jpg"
 share-description: "Find the best Bluetooth speakers with SD‑card support. Expertly ranked for sound quality, portability & value, so you can play music straight from memory cards."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 364 ranked on this website. Last updated on 01/14/2026. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 364 ranked on this website. Last updated on 01/15/2026. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 ## The Best Small Pocket Size Speaker With A SD Card Slot
 
@@ -152,6 +152,8 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
 

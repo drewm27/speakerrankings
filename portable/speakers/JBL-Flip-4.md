@@ -24,6 +24,8 @@ The JBL Flip 4 ranks #62 out of 130 total [Medium Size Portable Bluetooth Speake
     - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
     - <https://www.youtube.com/watch?v=Cze7m5DDJ7o>
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
+    - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
+    - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
     - [Official Product Page](https://www.jbl.com/gift-yourself/JBL+Flip+4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-4/)

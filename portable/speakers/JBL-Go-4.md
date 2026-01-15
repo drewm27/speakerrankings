@@ -25,6 +25,8 @@ The JBL Go 4 ranks #21 out of 41 total [Small Size Portable Bluetooth Speakers](
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
     - [StereoSpecs: JBL GO 4 vs JBL GO 3 : Worth the upgrade?](https://www.youtube.com/shorts/cT-oUhYhPWk)
     - [Oluv: JBL Go 4 - first impressions (how to waste your money)](https://www.patreon.com/posts/jbl-go-4-first-103869354)
+    - [Storytripper HD: JBL GO 4 vs TRIBIT MICRO 2 vs KLIPSCH AUSTIN vs SONY SRS-XB100](https://www.youtube.com/watch?v=cnx3ydaM8gs)
+    - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-4/)

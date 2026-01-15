@@ -21,6 +21,7 @@ The Edifier R1700BT ranks #22 out of 24 total [Medium Size Powered Bookshelf Spe
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
     - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)
+    - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
     - [Direct Speakerranking Link](/powered/speakers/Edifier-R1700BT/)

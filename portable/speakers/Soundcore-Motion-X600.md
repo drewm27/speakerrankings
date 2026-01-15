@@ -29,6 +29,8 @@ The Soundcore Motion X600 ranks #17 out of 72 total [Large Size Portable Bluetoo
     - [Alan Ross Reviews: Soundcore Motion x600 (best speaker ever) or two motion booms?](https://www.youtube.com/watch?v=r8iOd03r-hU)
     - [Alan Ross Reviews: Craziest firmware update ever - Soundcore Motion X600 3.2.8/4.2.8 🤦‍♀️](https://www.youtube.com/watch?v=CcWVYKNK7sE)
     - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
+    - [NeverEnoughTech: soundcore Motion X600 vs. Sonos Move vs. Bose Soundlink Revolve II](https://www.youtube.com/watch?v=bPfwaZp1x1Q)
+    - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x600-a3130011&cjsku=A3130011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-X600/)

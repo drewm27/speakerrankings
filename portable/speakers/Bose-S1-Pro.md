@@ -34,6 +34,8 @@ The Bose S1 Pro ranks #10 out of 43 total [Party Size Portable Bluetooth Speaker
     - [briansredd: Q&A - Electro-Voice Everse 8 Vs Bose S1 Pro AND (Warning) My Opinion](https://www.youtube.com/watch?v=yAxDBqN9d2Q)
     - [True Techy: BOSE S1 Pro vs JBLPartybox ENCORE This Comparison SHOCKED me!!!](https://www.youtube.com/watch?v=WdmB0w0W7e4)
     - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
+    - [W. Weiss: Part 3 Shootout MACKIE THUMP GO vs BOSE S1 PRO vs JBL EON ONE COMPACT Max Volume Demo A New Winner!](https://www.youtube.com/watch?v=G_0wnrW8UpA)
+    - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://www.bose.com/p/portable-pa/s1-pro-wireless-pa-system/S1PROP-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-S1-Pro/)

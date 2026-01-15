@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the top massive party size Bluetooth speakers. Massive, AC‑powered giants designed for deep bass, huge sound, and epic party performance."
 ---
 
-This page ranks 9 large party size powered Bluetooth speakers. Last updated on 01/14/2026. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
+This page ranks 9 large party size powered Bluetooth speakers. Last updated on 01/15/2026. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
 See [Party Size Portable Bluetooth Speakers Ranked](/portable/party/) for smaller party speakers. See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -41,6 +41,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Ultimate/)
@@ -117,6 +119,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: JBL Partybox 710 Review - Its Your Personal Earthquake Machine](https://www.youtube.com/watch?v=srx-SAaqFjw)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-710-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-710/)
@@ -140,6 +143,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 56.2lbs / 25.5kg
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
+    - [AudioTribe: JBL Partybox 720 vs JBL Partybox 520 Who's Better?](https://www.youtube.com/watch?v=jcW1CkaMfRc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX520AM.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-520/)
@@ -184,6 +189,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
     - [GYMCADDY: Sony ULT Tower 9 Review - Amazing Instrument Separation](https://www.youtube.com/watch?v=xbVBvaGDDy0)
+    - [GYMCADDY: JBL Partybox 720 Vs Sony ULT Tower 9](https://www.youtube.com/watch?v=ftc_uQxgLnA)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult900)
     - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Tower-9/)
@@ -206,6 +212,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wireless Microphone: Yes Included
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
+    - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult1000)
     - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Tower-10/)

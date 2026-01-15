@@ -34,6 +34,9 @@ The JBL Partybox 310 ranks #2 out of 43 total [Party Size Portable Bluetooth Spe
     - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
+    - [Jay's Straight Up Reviews & More: LG XL7 vs JBL Partybox 310 🏠 Indoor Bluetooth Party Speaker Battle. Plugged in🔌](https://www.youtube.com/watch?v=Y_G5In55vY4)
+    - [GYMCADDY: LG XBOOM XL7 Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=Q5k35cigejM)
+    - [Stereo Specs: JBL PARTYBOX 310 VS SONY GTK XB72 SOUND TEST COMPARISON](https://www.youtube.com/watch?v=qY0Cdd2QJTU)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX310-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-310/)

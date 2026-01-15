@@ -29,6 +29,7 @@ The Marshall Willen ranks #12 out of 41 total [Small Size Portable Bluetooth Spe
     - [Storytripper HD: Marshall Willen  vs  Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=_vBF_b2AEUg)
     - [Alkar Audio: Speaker Bluetooth Marshall Willen Review VS Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=tyFvllnBeSM)
     - [MyTechAudio: MARSHALL WILLEN Detail Review Indonesia Vs TRIBIT Micro 1 & Micro 2](https://www.youtube.com/watch?v=X7NlGAQBk0s)
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/willen)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Willen/)

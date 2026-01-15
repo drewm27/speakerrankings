@@ -25,6 +25,7 @@ The Soundcore Select Pro ranks #12 out of 72 total [Large Size Portable Bluetoot
 - Reviews, Comparisons and Sound Samples
     - [Snow Queen's Tech: ANKER SOUNDCORE SELECT PRO VS MOTION BOOM - DO THEY SOUND THE SAME? SOUND TEST ( PLEASE WEAR 🎧)](https://www.youtube.com/watch?v=Ko87nHKqfus)
     - [Chowa: Soundcore Select Pro (Review)](https://www.youtube.com/watch?v=Ef2YxcTQYqE)
+    - [Jay's Straight Up Reviews & More: On a Ledge 🪟 Zealot S67 🆚 Soundcore Select Pro - Bluetooth Speaker Comparison](https://www.youtube.com/watch?v=76ysec3eNto)
 - Links
     - [Official Product Page](https://support.soundcore.com/s/product/a085g000000NlyAAAS/select-pro)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Select-Pro/)

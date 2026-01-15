@@ -19,6 +19,10 @@ The KRK Classic 5 ranks #18 out of 24 total [Medium Size Powered Bookshelf Speak
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=6HwCiWldgW4)
+    - [DSAUDIO.review: DSAUDIO.review  JBL 305P MKII vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=nK9j7fr2N7o)
+    - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
+    - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3  vs  KRK Rokit 5 RP5G4  sound.DEMO](https://www.youtube.com/watch?v=AHV9UeN_x84)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/classic-5-powered-studio-monitor-pack)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)

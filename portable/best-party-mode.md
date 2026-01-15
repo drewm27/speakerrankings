@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Find the top recommended Bluetooth speakers for party mode. Expert-ranked for booming volume, long battery life & rich bass to keep the party going all night."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 364 ranked on this website. Last updated on 01/14/2026. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 364 ranked on this website. Last updated on 01/15/2026. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
@@ -169,6 +169,8 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
+    - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
 
@@ -225,6 +227,8 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
 

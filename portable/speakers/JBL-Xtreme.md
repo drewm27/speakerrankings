@@ -19,6 +19,7 @@ The JBL Xtreme ranks #48 out of 72 total [Large Size Portable Bluetooth Speakers
     - <https://www.youtube.com/watch?v=XojJNqtq6xQ>
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
+    - [Taylor Soloai: TG 118 vs JBL Xtreme Speaker (2023)](https://www.youtube.com/watch?v=rE6oDyPAdwU)
 - Links
     - [Official Product Page](https://mm.jbl.com/XTREME.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme/)

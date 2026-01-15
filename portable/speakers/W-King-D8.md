@@ -26,6 +26,7 @@ The W-King D8 ranks #39 out of 72 total [Large Size Portable Bluetooth Speakers]
     - [Alan Ross Reviews: W King D8 vs W-King D9 - budget boombox battle!](https://www.youtube.com/watch?v=sDLWQNloXgk)
     - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
+    - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/W-King-D8/)
 

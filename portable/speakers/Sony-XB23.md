@@ -19,6 +19,7 @@ The Sony XB23 ranks #63 out of 130 total [Medium Size Portable Bluetooth Speaker
     - [Alan Ross Reviews: Sony XB23 vs JBL Flip 5 v Tribit Maxsound Plus](https://www.youtube.com/watch?v=_uqf_NKwcP4)
     - [Alan Ross Reviews: Huawei Sound Joy vs Sony xb23 - worse or worser? 🤭](https://www.youtube.com/watch?v=MeQ5llKSqvc)
     - [Alan Ross Reviews: Sony XB23 vs XB33 - specs and measurements](https://www.youtube.com/watch?v=IyCRwXBO26Y)
+    - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB23/)

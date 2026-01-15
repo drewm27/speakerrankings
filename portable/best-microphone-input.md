@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best microphone-input speakers — expert-reviewed picks for crystal-clear sound, recording, streaming & more with built-in input options."
 ---
 
-This page summarizes the best portable Bluetooth speakers with microphone input of the 364 ranked on this website. Last updated on 01/14/2026. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with microphone input of the 364 ranked on this website. Last updated on 01/15/2026. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See this for [Speakers with Wireless Microphones](/portable/best-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/portable/best-microphone/)
 
@@ -180,6 +180,8 @@ The next best battery powered speakers for this use will be the [party size](/po
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs JBL Boombox 3 🔊 Got Bass? Let's See How They Compare 😲 Battery Powered 🔋](https://www.youtube.com/watch?v=9ZDpHCDzpfc)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs Blast 😲 A Family Feud 🚗 Tailgater Special 🔋 Battery Powered 🎶 Old vs New](https://www.youtube.com/watch?v=IBMLaMH1IWU)
+    - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
+    - [Jagist reviews: Zealot S95 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=7QDLOCQhGes)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
 

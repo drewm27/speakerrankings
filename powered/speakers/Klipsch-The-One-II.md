@@ -14,6 +14,7 @@ The Klipsch The One II ranks #12 out of 12 total [Medium Size Powered Desktop Sp
 - Stereo: Partially (1 woofer)
 - Weight: 8.5lbs / 3.9kg
 - Reviews, Comparisons and Sound Samples
+    - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
     - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
     - [Solo Trips: Klipsch The One vs Jbl Xtreme](https://www.youtube.com/watch?v=77HvEdMXy2c)
 - Links

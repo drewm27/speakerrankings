@@ -30,6 +30,8 @@ The JBL Charge 4 ranks #51 out of 130 total [Medium Size Portable Bluetooth Spea
     - [Alan Ross Reviews: W King D8 Mini review vs JBL Charge 4 vs Maxsound Plus](https://www.youtube.com/watch?v=KgMDRxajEZw)
     - [Alan Ross Reviews: Sony XB33 vs XB32 vs JBL Charge 4 best £120 bluetooth speaker?](https://www.youtube.com/watch?v=07qu_39HjyU)
     - [Alan Ross Reviews: JBL Flip 6 vs JBL Charge 4 and JBL Charge 3 - small one or a large one? 🤷‍♂️](https://www.youtube.com/watch?v=R9rJuAYwVw0)
+    - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
+    - [Naresh Lal: JBL Charge 4 Vs Xdobo X8 Tell me Which one is the BEST?](https://www.youtube.com/watch?v=DTgp-xGDzvw)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-4/)

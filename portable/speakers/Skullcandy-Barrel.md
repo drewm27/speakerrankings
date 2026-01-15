@@ -20,6 +20,10 @@ The Skullcandy Barrel ranks #37 out of 69 total [Boombox Size Portable Bluetooth
     - [Jay's Straight Up Reviews & More: Skullcandy BARREL XT vs JBL Boombox 3 🤯Budget Banger vs Reigning Champ 🔋 Battery Powered 🏠 Indoors](https://www.youtube.com/watch?v=n6DU7mFw7hc)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs Soundcore Rave Party 2 (Stock & Custom EQ) 🛜 Battery Powered🔋Let's Get It🧨](https://www.youtube.com/watch?v=cv234tGZUIc)
     - [Jagist reviews: Unboxing Of The Skullcandy Barrel XT](https://www.youtube.com/watch?v=7Ta2H9E0K8Y)
+    - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
+    - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
+    - [Josh's Gadgets and More: Skullcandy Barrel XT vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=87rzg5ZxKfo)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Skullcandy-Barrel/)
 

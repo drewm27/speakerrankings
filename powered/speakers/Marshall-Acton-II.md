@@ -17,10 +17,11 @@ The Marshall Acton II ranks #9 out of 12 total [Medium Size Powered Desktop Spea
 - Stereo: Partially (1 woofer)
 - Weight: 4.5 lbs / 2.9kg
 - Reviews, Comparisons and Sound Samples
-    - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
-    - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
+    - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
+    - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
+    - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-II/)
 

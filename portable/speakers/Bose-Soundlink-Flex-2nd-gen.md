@@ -24,6 +24,8 @@ The Bose Soundlink Flex 2nd gen ranks #33 out of 130 total [Medium Size Portable
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen vs Flex](https://www.youtube.com/watch?v=b7T9j6JFzJI)
     - [Oluv: Bose Soundlink Flex 2nd gen - sound demo](https://www.patreon.com/posts/bose-soundlink-114024442)
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
+    - [Audiophile housewife: Bose Soundlink Flex 2nd gen & Soundcore Motion 300 sound test](https://www.youtube.com/watch?v=SyaGa3I53zM)
+    - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Flex-2nd-gen/)

@@ -30,6 +30,12 @@ The W-King X20 ranks #28 out of 69 total [Boombox Size Portable Bluetooth Speake
     - [Mateusz Cholewa: Soundcore RAVE 3 🤗v🆚s W- KING X20🎶](https://www.youtube.com/watch?v=-Bpt2ryx4V0)
     - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
     - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
+    - [Techder Audios: W-king X20 VS Zealot S95 DEEP BASS VS DEEPER & LOUDER BASS?!](https://www.youtube.com/watch?v=FEW4UmyDHoY)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
+    - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)
+    - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
     - [Direct Speakerranking Link](/portable/speakers/W-King-X20/)

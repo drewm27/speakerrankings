@@ -31,6 +31,12 @@ The JBL Xtreme 3 ranks #15 out of 72 total [Large Size Portable Bluetooth Speake
     - [DLX Willington: Who Sounds The Best Of Sony XG300, XB43 & JBL XTREME3 With Sound Sample BLIND CHALLENGE Reveal.](https://www.youtube.com/watch?v=4gxvC_KjNbk)
     - [New Stuff TV: Sony SRS-XG300 Vs JBL Xtreme 3](https://www.youtube.com/watch?v=fY3VYy-O9eE)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
+    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
+    - [Dominik Reviews: JBL Xtreme 4 vs JBL Xtreme 3 Sound Test 😍 Best upgrade in the history? 😂](https://www.youtube.com/watch?v=MtCDfPVxV08)
+    - [Audio Inside Scoop: Klipsch Detroit VS JBL Xtreme 3 Hear With Me!!](https://www.youtube.com/watch?v=0UCLAHrrZHs)
+    - [GYMCADDY: JBL Xtreme 3 Vs Sony XG300 - Its Not Even Close](https://www.youtube.com/watch?v=Lq0g6v40fRk)
+    - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
+    - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/XTREME-3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme-3/)

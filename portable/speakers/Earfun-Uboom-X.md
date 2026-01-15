@@ -65,6 +65,8 @@ The Earfun Uboom X ranks #1 out of 69 total [Boombox Size Portable Bluetooth Spe
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
+    - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
     - [Direct Speakerranking Link](/portable/speakers/Earfun-Uboom-X/)

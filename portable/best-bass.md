@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Uncover the top recommended Bluetooth speakers with powerful bass. Expert-ranked picks that deliver deep, punchy lows without compromising clarity or value."
 ---
 
-This page summarizes the best portable Bluetooth speakers for bass out of the 364 ranked on this website. Last updated on 01/14/2026. The suggestions in this section are biased towards loud speakers which have boosted and deep bass response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers for bass out of the 364 ranked on this website. Last updated on 01/15/2026. The suggestions in this section are biased towards loud speakers which have boosted and deep bass response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See these other links for [The Best Bluetooth Speakers for Sound Quality](/portable/best-sound-quality/) and [The Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/). Keep in mind that bigger speakers have deeper bass, so always go as big as you can.
 
@@ -44,6 +44,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
@@ -115,6 +116,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
+    - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 
@@ -225,6 +227,8 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
+    - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
+    - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
 

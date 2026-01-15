@@ -25,6 +25,7 @@ The Harman Kardon Luna ranks #22 out of 130 total [Medium Size Portable Bluetoot
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Harman Kardon Luna - sound demo](https://www.patreon.com/posts/harman-kardon-90318892)
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
+    - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Luna/)

@@ -18,6 +18,10 @@ The JBL Flip 5 ranks #61 out of 130 total [Medium Size Portable Bluetooth Speake
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
     - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)
+    - [DLX Willington: JBL Flip 5 vs Flip 4 :Sound Battle: Almost to the size of the JBL Charge 3?](https://www.youtube.com/watch?v=wS7xhzv6Beg)
+    - [Alan Ross Reviews: Sony XB23 vs JBL Flip 5 v Tribit Maxsound Plus](https://www.youtube.com/watch?v=_uqf_NKwcP4)
+    - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)
+    - [Alan Ross Reviews: Marshall Emberton vs JBL Flip 5 & Soundcore Boost - true  stereophonic 🤓](https://www.youtube.com/watch?v=nNVh5K8fFw8)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+FLIP+5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-5/)

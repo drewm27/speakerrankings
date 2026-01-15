@@ -44,6 +44,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
     - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
@@ -77,6 +78,8 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
     - [CEONTHEMAKING: Earfun Uboom L - This Speaker Replaced My JBL Flip 6...](https://www.youtube.com/watch?v=Qd4B8N3V87c)
     - [Techder Audios: EARFUN UBOOM L VS SOUNDCORE MOTION+](https://www.youtube.com/watch?v=AtVrVzLUnKM)
     - [Alan Ross Reviews: Earfun UBoom L Review Speaker tuned by a Geek vs Soundcore Motion Plus $100 dollar best portable?](https://www.youtube.com/watch?v=gHEAB0eT7NA)
+    - [Oluv: Soundcore Motion 300 = Bose Soundlink Flex = Earfun UBoom L?](https://www.patreon.com/posts/soundcore-motion-93321960)
+    - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
@@ -111,6 +114,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
+    - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
 
@@ -173,6 +177,8 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
+    - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
 
@@ -213,6 +219,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
     - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>

@@ -6,7 +6,7 @@ cover-img: "/assets/img/kh80.jpg"
 share-description: "Explore the best medium powered bookshelf speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."
 ---
 
-This page ranks 24 medium size powered bookshelf speakers. Last updated on 01/14/2026. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 24 medium size powered bookshelf speakers. Last updated on 01/15/2026. The Medium Bookshelf class of speakers generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Bookshelf class have no battery, come in pairs and generally will sound better than most portable battery Bluetooth speakers. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For the best picks of this page see [Best Powered Home Bookshelf Speakers](/powered/best/)
 
@@ -68,6 +68,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
     - [DSAUDIO.review: KEF LSX vs Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=g38ySbL5vhM)
     - [DSAUDIO.review: Genelec 8020D  vs  Adam Audo T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=fJVk4yPkQPs)
+    - [DSAUDIO.review: Genelec 8020D & KRK Rokit 5 G4 PR5G4  - Same, same, but different   Sound & Response Comparison](https://www.youtube.com/watch?v=sSnQcUAkMDo)
 - Links
     - [Official Product Page](https://www.genelec.com/8020d)
     - [Direct Speakerranking Link](/powered/speakers/Genelec-8020D/)
@@ -132,6 +133,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Eve Audio SC205  sound.DEMO](https://www.youtube.com/watch?v=51jzb9IpZNE)
     - [DSAUDIO.review: DSAUDIO.review  Kali Audio LP-6 V2 (2nd Wave) vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=STR16lZhipg)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=6HwCiWldgW4)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-50-evo)
     - [Direct Speakerranking Link](/powered/speakers/Focal-Alpha-50-EVO/)
@@ -155,6 +157,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=AEGVXHRXcfw)
     - [DSAUDIO.review: Kali Audio IN-5  vs  JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Bk2JkYbW_NE)
     - [DSAUDIO.review: JBL 308P MKII  vs JBL 305P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u-R-l588zmg)
+    - [DSAUDIO.review: Neumann KH80 DSP  vs  JBL 305P MKII   Sound & Frquency Response Comparison](https://www.youtube.com/watch?v=3b_NpkDflrM)
+    - [DSAUDIO.review: JBL 305P MKII vs PreSonus Eris E5   6-Track Comparison](https://www.youtube.com/watch?v=-R9l3z7qIvM)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)
@@ -175,6 +179,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: Adam Audio T5V vs Yamaha HS5   5 Track Comparison](https://www.youtube.com/watch?v=Tx2xYhZdYHY)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A5X vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=20EndvbJT28)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
+    - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=q6EETP-YrAY)
+    - [DSAUDIO.review: Bright and brighter. PreSonus E5 XT takes on Adam Audio T5V SOUND & FREQUENCY RESPONSE COMPARISON](https://www.youtube.com/watch?v=E31EQd_EJKc)
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t5v-review-studio-monitor.18122/)
@@ -192,6 +199,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
+    - [DSAUDIO.review: Genelec 8020D  vs  Yamaha HS5   Soun & Frequency Response Comparison](https://www.youtube.com/watch?v=Ipohm9fuz5A)
+    - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)
+    - [DSAUDIO.review: Adam Audio T5V vs Yamaha HS5   5 Track Comparison](https://www.youtube.com/watch?v=Tx2xYhZdYHY)
+    - [DSAUDIO.review: Yamaha HS5 vs Presonus Eris E5  Sound Demo](https://www.youtube.com/watch?v=SWT-9LfiRGc)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Yamaha HS5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=1vgYmj3ZmDY)
+    - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/yamaha-hs5-powered-monitor-review.10967)
@@ -215,6 +228,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: Mackie CR5 BT vs Presonus Eris E5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ohggtzC1Kuk)
     - [DSAUDIO.review: KRK Rokit 5 RP5G3 vs Presonus E5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=r3nVPXLBhQE)
     - [DSAUDIO.review: JBL LSR305 vs Presonus Eris E5   Sound Demo](https://www.youtube.com/watch?v=8DfhioKq68Y)
+    - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Presonus Eris E5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=OzGYLmCXjeg)
 - Links
     - [Official Product Page](https://www.presonus.com/en-US/monitors/studio-monitors/eris-series/2777500107.html)
     - [Direct Speakerranking Link](/powered/speakers/Presonus-Eris-E5/)
@@ -238,6 +252,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: Genelec 8020D & KRK Rokit 5 G4 PR5G4  - Same, same, but different   Sound & Response Comparison](https://www.youtube.com/watch?v=sSnQcUAkMDo)
     - [DSAUDIO.review: Neumann KH80 DSP vs KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=PyRYDE3Skd8)
     - [DSAUDIO.review: Tannoy Gold 5  vs  KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=KYlf6rlVack)
+    - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=pUirqMFmyVw)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-5-generation-4-powered-studio-monitor-black)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-rokit-5-gen-4-review-studio-monitor.20711/)
@@ -329,6 +344,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
+    - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/s1000mkii)
     - [Direct Speakerranking Link](/powered/speakers/Edifier-S1000MKII/)
@@ -360,6 +376,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=6HwCiWldgW4)
+    - [DSAUDIO.review: DSAUDIO.review  JBL 305P MKII vs KRK Classic 5 CL5G3  sound.DEMO](https://www.youtube.com/watch?v=nK9j7fr2N7o)
+    - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
+    - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3  vs  KRK Rokit 5 RP5G4  sound.DEMO](https://www.youtube.com/watch?v=AHV9UeN_x84)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/classic-5-powered-studio-monitor-pack)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)
@@ -435,6 +455,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
     - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)
+    - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
     - [Direct Speakerranking Link](/powered/speakers/Edifier-R1700BT/)

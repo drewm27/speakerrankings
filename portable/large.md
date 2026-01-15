@@ -6,7 +6,7 @@ cover-img: "/assets/img/helsinki.jpg"
 share-description: "Explore our top-ranked large-size Bluetooth speakers. Expert picks for full, powerful sound and deep bass in a home or party setup."
 ---
 
-This page ranks 72 large size powered Bluetooth speakers. Last updated on 01/14/2026. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 72 large size powered Bluetooth speakers. Last updated on 01/15/2026. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -167,6 +167,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
     - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
+    - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Lava/)
@@ -302,6 +303,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)
     - [Alan Ross Reviews: W-King X10 (70w) vs Soundcore Motion Boom (30w) - value for money? 🤑](https://www.youtube.com/watch?v=t66JKkidpt8)
     - [Alan Ross Reviews: Ultimate Soundcore Boom 2 Review - Is It Worth The Hype?](https://www.youtube.com/watch?v=R3fLkaez35A)
+    - [Alan Ross Reviews: Dockin D Fine+ 2 vs Soundcore Motion Boom 50w vs 30w 😱](https://www.youtube.com/watch?v=bPhWuK7-xYM)
+    - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)
+    - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
+    - [Alan Ross Reviews: Doss Soundbox xl vs Soundcore Motion boom and Plus - woopeeeee!!!!!!!!](https://www.youtube.com/watch?v=ZNob1QwXiqY)
+    - [Techder Audios: SONY XG300 VS SOUNDCORE MOTION BOOM](https://www.youtube.com/watch?v=QIdwUHaJVf4)
+    - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
+    - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom&cjsku=A3118011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-Boom/)
@@ -324,6 +332,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Snow Queen's Tech: ANKER SOUNDCORE SELECT PRO VS MOTION BOOM - DO THEY SOUND THE SAME? SOUND TEST ( PLEASE WEAR 🎧)](https://www.youtube.com/watch?v=Ko87nHKqfus)
     - [Chowa: Soundcore Select Pro (Review)](https://www.youtube.com/watch?v=Ef2YxcTQYqE)
+    - [Jay's Straight Up Reviews & More: On a Ledge 🪟 Zealot S67 🆚 Soundcore Select Pro - Bluetooth Speaker Comparison](https://www.youtube.com/watch?v=76ysec3eNto)
 - Links
     - [Official Product Page](https://support.soundcore.com/s/product/a085g000000NlyAAAS/select-pro)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Select-Pro/)
@@ -395,6 +404,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: Who Sounds The Best Of Sony XG300, XB43 & JBL XTREME3 With Sound Sample BLIND CHALLENGE Reveal.](https://www.youtube.com/watch?v=4gxvC_KjNbk)
     - [New Stuff TV: Sony SRS-XG300 Vs JBL Xtreme 3](https://www.youtube.com/watch?v=fY3VYy-O9eE)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
+    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
+    - [Dominik Reviews: JBL Xtreme 4 vs JBL Xtreme 3 Sound Test 😍 Best upgrade in the history? 😂](https://www.youtube.com/watch?v=MtCDfPVxV08)
+    - [Audio Inside Scoop: Klipsch Detroit VS JBL Xtreme 3 Hear With Me!!](https://www.youtube.com/watch?v=0UCLAHrrZHs)
+    - [GYMCADDY: JBL Xtreme 3 Vs Sony XG300 - Its Not Even Close](https://www.youtube.com/watch?v=Lq0g6v40fRk)
+    - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
+    - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/XTREME-3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme-3/)
@@ -438,6 +453,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Soundcore Motion x600 (best speaker ever) or two motion booms?](https://www.youtube.com/watch?v=r8iOd03r-hU)
     - [Alan Ross Reviews: Craziest firmware update ever - Soundcore Motion X600 3.2.8/4.2.8 🤦‍♀️](https://www.youtube.com/watch?v=CcWVYKNK7sE)
     - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
+    - [NeverEnoughTech: soundcore Motion X600 vs. Sonos Move vs. Bose Soundlink Revolve II](https://www.youtube.com/watch?v=bPfwaZp1x1Q)
+    - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x600-a3130011&cjsku=A3130011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-X600/)
@@ -463,6 +480,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Technoid: Soundcore Rave Neo 2 Review - Get the Grill & Pool Ready!!](https://www.youtube.com/watch?v=nmVpaJCrKCI)
     - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)
+    - [Jay's Straight Up Reviews & More: $350 Ultimate Ears EpicBoom gets Epic Beat-Down 😮by $120 Soundcore Rave Neo 2. Bluetooth Speaker KO🤛](https://www.youtube.com/watch?v=Vyo6VlUOYf8)
 - Links
     - [Official Product Page](https://support.soundcore.com/s/product/a085g000004yodHAAQ/rave-neo-2)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Neo-2/)
@@ -580,6 +598,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Ezekielo: JBL Xtreme 2 vs Sonos Move with Sound Comparison](https://www.youtube.com/watch?v=V4Nq-rVAP1k)
     - [NeverEnoughTech: soundcore Motion X600 vs. Sonos Move vs. Bose Soundlink Revolve II](https://www.youtube.com/watch?v=bPfwaZp1x1Q)
+    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
+    - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/move)
     - [Direct Speakerranking Link](/portable/speakers/Sonos-Move/)
@@ -667,6 +687,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: Marshall Middleton👌🎶 🆚 JBL Xtreme 4 🎶📢](https://www.youtube.com/watch?v=Xj_J6LJiuS0)
     - [Oluv: Marshall Middleton - first impressions](https://www.patreon.com/posts/marshall-first-78807089)
     - [Danny Pops: Is it Any Good? - Marshall Middleton Review](https://www.youtube.com/watch?v=PBZvukWGJk0)
+    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
+    - [Storytripper HD: Marshall Middleton vs Klipsch Detroit](https://www.youtube.com/watch?v=ut_Q8avymTw)
+    - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Middleton/)
@@ -712,6 +735,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=TMor8krrlXM>
     - <https://www.youtube.com/watch?v=-9Fz7XjyQYs>
     - <https://www.youtube.com/watch?v=T3ZjkGcpRa0>
+    - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Dockin-D-Fine/)
 
@@ -871,6 +895,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: W King D8 vs W-King D9 - budget boombox battle!](https://www.youtube.com/watch?v=sDLWQNloXgk)
     - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
+    - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/W-King-D8/)
 
@@ -886,6 +911,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
+    - [Alan Ross Reviews: JBL Xtreme 3 vs JBL Xtreme 2 and Xtreme 1 - review and sound test](https://www.youtube.com/watch?v=_4250Xm3Igc)
+    - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
+    - [Ezekielo: JBL Xtreme 2 vs Sonos Move with Sound Comparison](https://www.youtube.com/watch?v=V4Nq-rVAP1k)
+    - [HT Sound: Devialet Mania VS JBL Xtreme 2 - 60% Vol (Listen with headphones)](https://www.youtube.com/watch?v=lHt2VPFNmgI)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+Xtreme+2.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme-2/)
@@ -963,6 +992,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 Speaker Review 🔉 360° Sound, 90w, TWS, 20Hr 🔋 The Cadillac of Bluetooth Speakers?😲](https://www.youtube.com/watch?v=ORawKC23apY)
+    - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd-360-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Treblab-HD-360/)
@@ -1007,6 +1037,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=XojJNqtq6xQ>
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
+    - [Taylor Soloai: TG 118 vs JBL Xtreme Speaker (2023)](https://www.youtube.com/watch?v=rE6oDyPAdwU)
 - Links
     - [Official Product Page](https://mm.jbl.com/XTREME.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme/)
@@ -1092,6 +1123,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
     - [Jay's Straight Up Reviews & More: $350 Ultimate Ears EpicBoom gets Epic Beat-Down 😮by $120 Soundcore Rave Neo 2. Bluetooth Speaker KO🤛](https://www.youtube.com/watch?v=Vyo6VlUOYf8)
+    - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs. Ultimate Ears EpicBoom 🤑Big Bucks No Whammies? 💣 Let's Find Out 😧](https://www.youtube.com/watch?v=GnSjq7JxJ-Q)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/epicboom)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Epicboom/)
@@ -1339,6 +1371,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ZEALOT S-67 🦨 75w Bluetooth Speaker Review🤦🏼‍♂️  & Comparison With W-King X10.](https://www.youtube.com/watch?v=qFEtEaSZnqc)
     - [Jay's Straight Up Reviews & More: On a Ledge 🪟 Zealot S67 🆚 Soundcore Select Pro - Bluetooth Speaker Comparison](https://www.youtube.com/watch?v=76ysec3eNto)
+    - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S67/)

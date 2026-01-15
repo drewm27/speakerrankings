@@ -26,6 +26,7 @@ The KRK Rokit 5 G4 ranks #11 out of 24 total [Medium Size Powered Bookshelf Spea
     - [DSAUDIO.review: Genelec 8020D & KRK Rokit 5 G4 PR5G4  - Same, same, but different   Sound & Response Comparison](https://www.youtube.com/watch?v=sSnQcUAkMDo)
     - [DSAUDIO.review: Neumann KH80 DSP vs KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=PyRYDE3Skd8)
     - [DSAUDIO.review: Tannoy Gold 5  vs  KRK Rokit 5 G4 RP5G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=KYlf6rlVack)
+    - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=pUirqMFmyVw)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-5-generation-4-powered-studio-monitor-black)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-rokit-5-gen-4-review-studio-monitor.20711/)

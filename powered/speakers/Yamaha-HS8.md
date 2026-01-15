@@ -23,6 +23,11 @@ The Yamaha HS8 ranks #14 out of 21 total [Large Size Powered Bookshelf Speakers]
     - [DSAUDIO.review: Yamaha HS7  vs  Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=QjcU2RHAeTg)
     - [DSAUDIO.review: Yamaha HS8  vs  Yamaha HS5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=uz4gKwJrPs0)
     - [DSAUDIO.review: Genelec 8020D vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=YftZtzD9Wyc)
+    - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
+    - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
+    - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)
+    - [DSAUDIO.review: Yamaha HS8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=u_NQQkwOgTA)
+    - [DSAUDIO.review: KRK Rokit 8 G4 RP8G4  vs  Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=asE5dXZe-do)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
     - [Direct Speakerranking Link](/powered/speakers/Yamaha-HS8/)

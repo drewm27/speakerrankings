@@ -39,6 +39,9 @@ The JBL Partybox 100 ranks #4 out of 43 total [Party Size Portable Bluetooth Spe
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
     - [HQ AUDIO Exchange: Bose S1 Pro vs. JBL PartyBox 100  Bass Sound Test 😱💥🔥](https://www.youtube.com/watch?v=YWVFrq61OQk)
+    - [DLX Willington: JBL Partybox 100 vs UE Hyperboom SoundBattle Does Size Matter🤔](https://www.youtube.com/watch?v=HLO_p671BgA)
+    - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
+    - [DLX Willington: 🤣JBL Partybox 100 vs Sony GTK XB60 Sound Battle You Asked For It](https://www.youtube.com/watch?v=yq29uHBJKjI)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX100.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-100/)

@@ -15,6 +15,7 @@ The Treblab HD-360 ranks #45 out of 72 total [Large Size Portable Bluetooth Spea
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 Speaker Review 🔉 360° Sound, 90w, TWS, 20Hr 🔋 The Cadillac of Bluetooth Speakers?😲](https://www.youtube.com/watch?v=ORawKC23apY)
+    - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd-360-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Treblab-HD-360/)

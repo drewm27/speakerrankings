@@ -23,6 +23,11 @@ The JBL Go 3 ranks #22 out of 41 total [Small Size Portable Bluetooth Speakers](
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
+    - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
+    - [StereoSpecs: JBL GO 4 vs JBL GO 3 : Worth the upgrade?](https://www.youtube.com/shorts/cT-oUhYhPWk)
+    - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
+    - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
+    - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-3/)

@@ -30,6 +30,11 @@ The JBL Boombox 4 ranks #17 out of 69 total [Boombox Size Portable Bluetooth Spe
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 - finally a real BOOMbox from JBL 👏](https://www.youtube.com/watch?v=onyNizs-_Bo)
     - [Alan Ross Reviews: JBL Boombox 4 Compared to Boombox 3 & 3 WiFi – Worth the Upgrade?](https://www.youtube.com/watch?v=90iB4XVANRY)
     - [Alan Ross Reviews: JBL Boombox 4 distortion fest bonanza! how bad can it be lol 🤣](https://www.youtube.com/watch?v=yocFGmXux_4)
+    - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
+    - [Techder Audios: JBL Boombox 4 VS Zealot ZE21 BATTLE OF THE BOOMBOXES!](https://www.youtube.com/watch?v=PSsCmWvvd3U)
+    - [Dominik Reviews: Zealot S89 vs JBL Boombox 4 - JBL Alternative? Sound Test ](https://www.youtube.com/watch?v=ft96mq3SKgY)
+    - [Jagist reviews: Jbl Boombox 4 Vs Zealot S89!!!](https://www.youtube.com/watch?v=4wfkO78OKvk)
+    - [Jagist reviews: Jbl Boombox 4 Vs Zealot S95!!!](https://www.youtube.com/watch?v=T3QHnVPsd90)
 - Links
     - [Official Product Page](https://www.jbl.com/BOOMBOX-4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-4/)

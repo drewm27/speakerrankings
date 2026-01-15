@@ -30,6 +30,8 @@ The Tribit Stormbox Blast 2 ranks #22 out of 69 total [Boombox Size Portable Blu
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs JBL Boombox 3 🔊 Got Bass? Let's See How They Compare 😲 Battery Powered 🔋](https://www.youtube.com/watch?v=9ZDpHCDzpfc)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs Blast 😲 A Family Feud 🚗 Tailgater Special 🔋 Battery Powered 🎶 Old vs New](https://www.youtube.com/watch?v=IBMLaMH1IWU)
+    - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
+    - [Jagist reviews: Zealot S95 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=7QDLOCQhGes)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast-2/)

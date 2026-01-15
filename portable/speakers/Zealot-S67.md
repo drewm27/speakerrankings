@@ -17,6 +17,7 @@ The Zealot S67 ranks #71 out of 72 total [Large Size Portable Bluetooth Speakers
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ZEALOT S-67 🦨 75w Bluetooth Speaker Review🤦🏼‍♂️  & Comparison With W-King X10.](https://www.youtube.com/watch?v=qFEtEaSZnqc)
     - [Jay's Straight Up Reviews & More: On a Ledge 🪟 Zealot S67 🆚 Soundcore Select Pro - Bluetooth Speaker Comparison](https://www.youtube.com/watch?v=76ysec3eNto)
+    - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S67/)

@@ -31,6 +31,8 @@ The B&O Beosound A1 ranks #9 out of 130 total [Medium Size Portable Bluetooth Sp
     - <https://www.youtube.com/watch?v=k6BuPy-w7pU>
     - [Alan Ross Reviews: Bose Soundlink Flex or Beosound A1 (1st gen) - ultimate compact speaker 😇](https://www.youtube.com/watch?v=_sFVv8NhTTY)
     - [Oluv: B&O Beosound A1 2nd gen vs Beoplay A1 outdoors with a bit of Anker Soundcore Motion+ too](https://www.patreon.com/posts/b-o-beosound-a1-39584977)
+    - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
+    - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1/)

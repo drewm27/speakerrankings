@@ -25,6 +25,7 @@ The Sony ULT Tower 10 ranks #8 out of 9 total [Large Party Size Portable Bluetoo
 - Wireless Microphone: Yes Included
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
+    - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult1000)
     - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Tower-10/)

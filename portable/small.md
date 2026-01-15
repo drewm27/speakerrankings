@@ -6,7 +6,7 @@ cover-img: "/assets/img/stormboxmicro2.jpg"
 share-description: "Explore the top pocket‑size Bluetooth speakers. Compact, lightweight, and powerful picks expertly ranked for portability, sound quality & budget."
 ---
 
-This page ranks 41 pocket size powered Bluetooth speakers. Last updated on 01/14/2026. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 41 pocket size powered Bluetooth speakers. Last updated on 01/15/2026. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the pocket size are mono (single driver) and IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -48,6 +48,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
     - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
     - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
@@ -100,6 +101,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
+    - [Alan Ross Reviews: Minirig Mini mk2 - best small speaker?](https://www.youtube.com/watch?v=7kydvk2xdtA)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Minirig-Mini/)
 
@@ -127,6 +129,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
+    - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Micro/)
 
@@ -290,6 +293,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Storytripper HD: Marshall Willen  vs  Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=_vBF_b2AEUg)
     - [Alkar Audio: Speaker Bluetooth Marshall Willen Review VS Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=tyFvllnBeSM)
     - [MyTechAudio: MARSHALL WILLEN Detail Review Indonesia Vs TRIBIT Micro 1 & Micro 2](https://www.youtube.com/watch?v=X7NlGAQBk0s)
+    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/willen)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Willen/)
@@ -376,6 +380,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
+    - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Micro/)
@@ -417,6 +422,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Weight: 0.86lbs / 390g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
+    - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/CLIP-5.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-5/)
@@ -438,6 +444,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - [Danny Pops: MICRO SPEAKERS - my take on JBL Clip 4 VS Wonderboom 2 VS Bose Micro](https://www.youtube.com/watch?v=Vyc6e3bxoUs)
+    - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
+    - [Storytripper HD: JBL Clip 4 vs  B&O A1 2nd  vs  Klipsch Austin](https://www.youtube.com/watch?v=iri3WLn6DBs)
+    - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
+    - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-4/)
@@ -479,6 +489,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
     - [StereoSpecs: JBL GO 4 vs JBL GO 3 : Worth the upgrade?](https://www.youtube.com/shorts/cT-oUhYhPWk)
     - [Oluv: JBL Go 4 - first impressions (how to waste your money)](https://www.patreon.com/posts/jbl-go-4-first-103869354)
+    - [Storytripper HD: JBL GO 4 vs TRIBIT MICRO 2 vs KLIPSCH AUSTIN vs SONY SRS-XB100](https://www.youtube.com/watch?v=cnx3ydaM8gs)
+    - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-4/)
@@ -499,6 +511,11 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
+    - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
+    - [StereoSpecs: JBL GO 4 vs JBL GO 3 : Worth the upgrade?](https://www.youtube.com/shorts/cT-oUhYhPWk)
+    - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
+    - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
+    - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-3/)
@@ -624,6 +641,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
     - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
     - [Flossy Carter: Sony SRS-XB100 - Small Speaker, Huge Sound](https://www.youtube.com/watch?v=j_YH3cGsQZk)
     - [Danny Pops: Agreeable Gray? - The Sony XB100 is almost the same as the XB13](https://www.youtube.com/watch?v=EFB1Ut2EZMo)
+    - [Storytripper HD: JBL GO 4 vs TRIBIT MICRO 2 vs KLIPSCH AUSTIN vs SONY SRS-XB100](https://www.youtube.com/watch?v=cnx3ydaM8gs)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxb100-b)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB100/)

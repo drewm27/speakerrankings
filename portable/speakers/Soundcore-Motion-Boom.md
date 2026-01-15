@@ -33,6 +33,13 @@ The Soundcore Motion Boom ranks #11 out of 72 total [Large Size Portable Bluetoo
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)
     - [Alan Ross Reviews: W-King X10 (70w) vs Soundcore Motion Boom (30w) - value for money? 🤑](https://www.youtube.com/watch?v=t66JKkidpt8)
     - [Alan Ross Reviews: Ultimate Soundcore Boom 2 Review - Is It Worth The Hype?](https://www.youtube.com/watch?v=R3fLkaez35A)
+    - [Alan Ross Reviews: Dockin D Fine+ 2 vs Soundcore Motion Boom 50w vs 30w 😱](https://www.youtube.com/watch?v=bPhWuK7-xYM)
+    - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)
+    - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
+    - [Alan Ross Reviews: Doss Soundbox xl vs Soundcore Motion boom and Plus - woopeeeee!!!!!!!!](https://www.youtube.com/watch?v=ZNob1QwXiqY)
+    - [Techder Audios: SONY XG300 VS SOUNDCORE MOTION BOOM](https://www.youtube.com/watch?v=QIdwUHaJVf4)
+    - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
+    - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom&cjsku=A3118011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-Boom/)

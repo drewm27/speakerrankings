@@ -24,6 +24,7 @@ The Genelec 8020D ranks #3 out of 24 total [Medium Size Powered Bookshelf Speake
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
     - [DSAUDIO.review: KEF LSX vs Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=g38ySbL5vhM)
     - [DSAUDIO.review: Genelec 8020D  vs  Adam Audo T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=fJVk4yPkQPs)
+    - [DSAUDIO.review: Genelec 8020D & KRK Rokit 5 G4 PR5G4  - Same, same, but different   Sound & Response Comparison](https://www.youtube.com/watch?v=sSnQcUAkMDo)
 - Links
     - [Official Product Page](https://www.genelec.com/8020d)
     - [Direct Speakerranking Link](/powered/speakers/Genelec-8020D/)

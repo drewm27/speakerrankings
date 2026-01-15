@@ -22,6 +22,7 @@ The Marshall Emberton II ranks #94 out of 130 total [Medium Size Portable Blueto
     - [Alan Ross Reviews: Bose Soundlink Flex vs Minirig MK3 and Marshall Emberton - best bluetooth speaker?](https://www.youtube.com/watch?v=nseOM9Ah-jE)
     - [Alan Ross Reviews: JBL Flip 6 vs Marshall Emberton review - mono or pseudo surround sound? 🤷‍♀️](https://www.youtube.com/watch?v=I8bm5PJl5ZY)
     - [Alan Ross Reviews: Marshall Emberton vs JBL Flip 5 & Soundcore Boost - true  stereophonic 🤓](https://www.youtube.com/watch?v=nNVh5K8fFw8)
+    - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Emberton-II/)

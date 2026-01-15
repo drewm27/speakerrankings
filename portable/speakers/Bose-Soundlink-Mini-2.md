@@ -20,6 +20,7 @@ The Bose Soundlink Mini 2 ranks #55 out of 130 total [Medium Size Portable Bluet
     - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
     - <https://www.youtube.com/watch?v=mQRhBbxKY4o>
+    - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-mini-ii-special-edition/SLMINIISE-SPEAKERWIRELESS.html)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Mini-2/)

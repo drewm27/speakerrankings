@@ -16,6 +16,7 @@ The Ultimate Ears Epicboom ranks #53 out of 72 total [Large Size Portable Blueto
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
     - [Jay's Straight Up Reviews & More: $350 Ultimate Ears EpicBoom gets Epic Beat-Down 😮by $120 Soundcore Rave Neo 2. Bluetooth Speaker KO🤛](https://www.youtube.com/watch?v=Vyo6VlUOYf8)
+    - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs. Ultimate Ears EpicBoom 🤑Big Bucks No Whammies? 💣 Let's Find Out 😧](https://www.youtube.com/watch?v=GnSjq7JxJ-Q)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/epicboom)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Epicboom/)

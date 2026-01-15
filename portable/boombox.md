@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore our top-rated boombox‑size Bluetooth speakers. Powerful picks with booming bass, long battery life, and bold sound for on-the-go or home use."
 ---
 
-This page ranks 69 boombox size powered Bluetooth speakers. Last updated on 01/14/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+This page ranks 69 boombox size powered Bluetooth speakers. Last updated on 01/15/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -75,6 +75,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
+    - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
+    - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
     - [Direct Speakerranking Link](/portable/speakers/Earfun-Uboom-X/)
@@ -117,6 +119,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
     - [Oluv: SoundBoks 4 vs Stormbox Blast - first impressions](https://www.patreon.com/posts/soundboks-4-vs-104257079)
+    - [Audiophile housewife: Tribit Stormbox Blast vs Earfun UBoom X, a PROPER sound test 😎](https://www.youtube.com/watch?v=Q3Wge2qf3xc)
+    - [Mateusz Cholewa: EarFun UBOOM X Deep Bass 🆚 Tribit Stormbox Blast🎶Review👌](https://www.youtube.com/watch?v=R96XSoGD1_4)
+    - [Oluv: Tribit Stormbox Blast vs Earfun UBoom X - outdoor test](https://www.patreon.com/posts/tribit-stormbox-106255927)
+    - [Oluv: Harman Kardon go+play 3 vs Tribit Stormbox Blast - outdoor soundtest](https://www.patreon.com/posts/harman-kardon-go-100467989)
+    - [Dominik Reviews: JBL Boombox 3 vs 2x Tribit Stormbox Blast 🤑 Huge difference?](https://www.youtube.com/watch?v=3WDir4ajfs4)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
+    - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
+    - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 vs. Tribit Stormbox Blast - Bluetooth Speaker Basement ⚒ Battle](https://www.youtube.com/watch?v=f_NtZs4HO8c)
+    - [Jagist reviews: Tribit Stormbox Blast vs Sony SRS XG 500](https://www.youtube.com/watch?v=yenr1BPMk6s)
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
+    - [Alan Ross Reviews: Tribit Stormbox Blast Review vs Soundcore Motion Boom Plus - cheap bass!](https://www.youtube.com/watch?v=aSK4-UlbE-0)
+    - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
+    - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
+    - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast/)
@@ -238,6 +256,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: This changed my opinion on JBL speakers!](https://www.youtube.com/watch?v=sXG-ciWFf60)
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
     - [True Techy: BOSE S1 Pro vs JBLPartybox ENCORE This Comparison SHOCKED me!!!](https://www.youtube.com/watch?v=WdmB0w0W7e4)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Boombox vs. JBL Partybox Encore Party Speaker.🛜  How Low Can You Go?😲](https://www.youtube.com/watch?v=ilGvwLRn_EQ)
+    - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore/)
@@ -265,6 +285,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 13lbs / 5.9kg
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
+    - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore-Essential/)
@@ -312,6 +333,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=aGzAxZf8cT4>
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
+    - [techkiste.net: B&O Beolit 20 vs Vifa Copenhagen 2.0 sound-comparison with different music-genres](https://www.youtube.com/watch?v=OTy29qPeIcI)
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/copenhagen-2-0)
     - [Direct Speakerranking Link](/portable/speakers/Vifa-Copenhagen-2.0/)
@@ -481,6 +503,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: Zealot S89 vs JBL Boombox 4 - JBL Alternative? Sound Test ](https://www.youtube.com/watch?v=ft96mq3SKgY)
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S89!!!](https://www.youtube.com/watch?v=4wfkO78OKvk)
+    - [Techder Audios: ZEALOT S89 VS ZEALOT ZE01 EXTREME POWERFULL VS COMPACTER BASS PERFORMANCE!](https://www.youtube.com/watch?v=6MkVOVJZL_w)
 - Links
     - [Official Product Page](https://www.zealot.com/products/portable-wireless-speaker-with-powerful-bass-and-3d-surround-sound)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S89/)
@@ -508,6 +531,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 - finally a real BOOMbox from JBL 👏](https://www.youtube.com/watch?v=onyNizs-_Bo)
     - [Alan Ross Reviews: JBL Boombox 4 Compared to Boombox 3 & 3 WiFi – Worth the Upgrade?](https://www.youtube.com/watch?v=90iB4XVANRY)
     - [Alan Ross Reviews: JBL Boombox 4 distortion fest bonanza! how bad can it be lol 🤣](https://www.youtube.com/watch?v=yocFGmXux_4)
+    - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
+    - [Techder Audios: JBL Boombox 4 VS Zealot ZE21 BATTLE OF THE BOOMBOXES!](https://www.youtube.com/watch?v=PSsCmWvvd3U)
+    - [Dominik Reviews: Zealot S89 vs JBL Boombox 4 - JBL Alternative? Sound Test ](https://www.youtube.com/watch?v=ft96mq3SKgY)
+    - [Jagist reviews: Jbl Boombox 4 Vs Zealot S89!!!](https://www.youtube.com/watch?v=4wfkO78OKvk)
+    - [Jagist reviews: Jbl Boombox 4 Vs Zealot S95!!!](https://www.youtube.com/watch?v=T3QHnVPsd90)
 - Links
     - [Official Product Page](https://www.jbl.com/BOOMBOX-4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-4/)
@@ -600,6 +628,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Dominik Reviews: JBL Boombox 3 vs 2x Tribit Stormbox Blast 🤑 Huge difference?](https://www.youtube.com/watch?v=3WDir4ajfs4)
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
     - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
+    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor](https://www.patreon.com/posts/earfun-uboom-x-3-107811131)
+    - [Jay's Straight Up Reviews & More: Zealot ZE21 vs JBL Boombox 3 Tailgater Special @20ft. The Budget Beast Against the OG Boombox](https://www.youtube.com/watch?v=6iCXmjbgsrA)
+    - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs JBL Boombox 3 🔊 Got Bass? Let's See How They Compare 😲 Battery Powered 🔋](https://www.youtube.com/watch?v=9ZDpHCDzpfc)
+    - [Picky Audio: SO CLOSE! Soundcore Boom 2 Plus vs JBL Boombox 3](https://www.youtube.com/watch?v=-R6eOb3r-o0)
+    - [Picky Audio: Extended Sound Test (Soundcore Boom 2 Plus vs JBL Boombox 3)](https://www.youtube.com/watch?v=L6psdfVVSQQ)
+    - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
+    - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
+    - [Alan Ross Reviews: W-King X20 JBL Boombox 3 killer! this should be illegal! - I was shocked!](https://www.youtube.com/watch?v=_JZH0Tc2OO8)
+    - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
+    - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
+    - [Jay's Straight Up Reviews & More: Skullcandy BARREL XT vs JBL Boombox 3 🤯Budget Banger vs Reigning Champ 🔋 Battery Powered 🏠 Indoors](https://www.youtube.com/watch?v=n6DU7mFw7hc)
+    - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3/)
@@ -627,6 +667,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs JBL Boombox 3 🔊 Got Bass? Let's See How They Compare 😲 Battery Powered 🔋](https://www.youtube.com/watch?v=9ZDpHCDzpfc)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 vs Blast 😲 A Family Feud 🚗 Tailgater Special 🔋 Battery Powered 🎶 Old vs New](https://www.youtube.com/watch?v=IBMLaMH1IWU)
+    - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
+    - [Jagist reviews: Zealot S95 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=7QDLOCQhGes)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast-2/)
@@ -726,6 +768,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: NEW RELEASE! Soundcore Boom 2 Plus vs Motion Boom Plus🤯Stock EQ, Bass^ Enabled🤜🤛 A Family Feud😆](https://www.youtube.com/watch?v=xmi183Y4LN0)
     - [GYMCADDY: Soundcore Boom 2 Plus Showcase - Lots Of Bass In A Small Package](https://www.youtube.com/watch?v=uhkRccBkVuk)
     - [EL JEFE REVIEWS: Soundcore Boom 2 Plus 💥 BIGGER & BADDER!](https://www.youtube.com/watch?v=RBYF_I7TcZU)
+    - [Jagist reviews: Zealot S95 Vs Soundcore Boom 2 Plus!!!](https://www.youtube.com/watch?v=OC1uPbMEsMk)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3134-boom2-plus-outdoor-bass-speaker&cjsku=A3134031)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boom-2-Plus/)
@@ -783,6 +826,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Mateusz Cholewa: Soundcore RAVE 3 🤗v🆚s W- KING X20🎶](https://www.youtube.com/watch?v=-Bpt2ryx4V0)
     - [Jay's Straight Up Reviews & More: New! W-King X20 vs JBL Boombox 3 🛜 Head to Head 🔋Battery Powered 📊Custom EQ - Links In Description](https://www.youtube.com/watch?v=-n-io_2nW3o)
     - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
+    - [Techder Audios: W-king X20 VS Zealot S95 DEEP BASS VS DEEPER & LOUDER BASS?!](https://www.youtube.com/watch?v=FEW4UmyDHoY)
+    - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
+    - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)
+    - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
+    - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
     - [Direct Speakerranking Link](/portable/speakers/W-King-X20/)
@@ -806,6 +855,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - <https://www.youtube.com/watch?v=0o9nb4-A4GU>
     - <https://www.youtube.com/watch?v=ba0Mqk8qeZU>
+    - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
+    - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)
+    - [Mateusz Cholewa: 2 x 🔊Teufel Boomster 2021🎵 vs JBL Boombox 2 AC🔌 Power Test Audio🎧.](https://www.youtube.com/watch?v=jsUSaTb7Ojs)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-2/)
@@ -891,6 +943,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 12.8lbs / 5.8kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
+    - [Techder Audios: Zealot ZE01 VS Tronsmart Bang Max SOLID VOCALS VS DEEPER BASS](https://www.youtube.com/watch?v=_lZVAEHjLe8)
+    - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Bang-Max/)
@@ -965,6 +1019,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Skullcandy BARREL XT vs JBL Boombox 3 🤯Budget Banger vs Reigning Champ 🔋 Battery Powered 🏠 Indoors](https://www.youtube.com/watch?v=n6DU7mFw7hc)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs Soundcore Rave Party 2 (Stock & Custom EQ) 🛜 Battery Powered🔋Let's Get It🧨](https://www.youtube.com/watch?v=cv234tGZUIc)
     - [Jagist reviews: Unboxing Of The Skullcandy Barrel XT](https://www.youtube.com/watch?v=7Ta2H9E0K8Y)
+    - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
+    - [Jagist reviews: W-king X20 Vs Skullcandy Barrel XT!!! 🤔😋](https://www.youtube.com/watch?v=NTYbZL_wPeA)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
+    - [Josh's Gadgets and More: Skullcandy Barrel XT vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=87rzg5ZxKfo)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Skullcandy-Barrel/)
 
@@ -1028,6 +1086,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🔥 Unboxing & Short Sound Demo. Is This The New Speaker To Beat Under $200?💵](https://www.youtube.com/watch?v=dh5lzF8t8w4)
     - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
+    - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs Soundcore Rave Party 2 (Stock & Custom EQ) 🛜 Battery Powered🔋Let's Get It🧨](https://www.youtube.com/watch?v=cv234tGZUIc)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Party-2/)
 
@@ -1099,6 +1158,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
     - <https://www.youtube.com/watch?v=jOvizwFy9L8>
+    - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox/)
 
@@ -1219,6 +1279,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
+    - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/h10)
     - [Direct Speakerranking Link](/portable/speakers/W-King-H10/)
