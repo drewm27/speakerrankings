@@ -150,7 +150,7 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
 
 ## #9 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z) [[Amazon](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1)]
 - Reviews, Comparisons and Sound Samples
-    - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-speaker-review.18655/)
+    - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-review-speaker.26780/)
 - Links
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
     - [Direct Speakerranking Link](/passive/speakers/Wharfedale-Diamond-12.1/)
