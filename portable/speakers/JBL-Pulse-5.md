@@ -20,6 +20,7 @@ The JBL Pulse 5 ranks #43 out of 130 total [Medium Size Portable Bluetooth Speak
 - Weight: 3.2lbs / 1500g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL PULSE 5 VS JBL CHARGE 5 "LIGHTS VS BASS?!"](https://www.youtube.com/watch?v=2I_EWK7p-YI)
+    - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Pulse-5/)

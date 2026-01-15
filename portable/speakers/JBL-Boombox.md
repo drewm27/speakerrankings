@@ -19,6 +19,7 @@ The JBL Boombox ranks #44 out of 69 total [Boombox Size Portable Bluetooth Speak
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
     - <https://www.youtube.com/watch?v=jOvizwFy9L8>
     - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
+    - [Audio Mix7: Philips Tanx 200 Review - sound Test -jbl partybox alternative ? Vs Jbl Boombox (eng sub)](https://www.youtube.com/watch?v=O6SWv8lnpCI)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox/)
 

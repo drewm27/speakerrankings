@@ -77,6 +77,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: LG XL7 vs JBL Partybox 310 🏠 Indoor Bluetooth Party Speaker Battle. Plugged in🔌](https://www.youtube.com/watch?v=Y_G5In55vY4)
     - [GYMCADDY: LG XBOOM XL7 Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=Q5k35cigejM)
     - [Stereo Specs: JBL PARTYBOX 310 VS SONY GTK XB72 SOUND TEST COMPARISON](https://www.youtube.com/watch?v=qY0Cdd2QJTU)
+    - [Jay's Straight Up Reviews & More: Sony SRS-XV900 vs JBL Partybox 310 - Can the JBL Middleweight 💪🏽 Compete With The Sony Heavyweight?](https://www.youtube.com/watch?v=1yVnCeuW9uA)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX310-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-310/)
@@ -142,6 +143,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: JBL Partybox 100 vs UE Hyperboom SoundBattle Does Size Matter🤔](https://www.youtube.com/watch?v=HLO_p671BgA)
     - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
     - [DLX Willington: 🤣JBL Partybox 100 vs Sony GTK XB60 Sound Battle You Asked For It](https://www.youtube.com/watch?v=yq29uHBJKjI)
+    - [Oluv: Earfun UBoom X vs JBL Partybox 100](https://www.patreon.com/posts/earfun-uboom-x-106176357)
+    - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX100.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-100/)
@@ -178,6 +181,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
     - [Jay's Straight Up Reviews & More: PHILIPS NX200 🦨 (TANX200) 🆚 JBL PARTYBOX 110 - Bluetooth Speaker Comparison, Both on Bass mode One.](https://www.youtube.com/watch?v=rMX9Y-OpNoc)
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
+    - [Jay's Straight Up Reviews & More: Dual W-King T11 (EQ1, EQ2) 🆚 JBL Partybox 110 (Bass One) 📛 Are two T11's TWS Louder than one PB110?](https://www.youtube.com/watch?v=dk3KqC-cdsk)
+    - [KULAS TECH SHOW: JBL Partybox on the go vs JBL Partybox 110 Bass Comparison](https://www.youtube.com/watch?v=sW7qA0Qyg2U)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-110-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-110/)
@@ -555,6 +560,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)
     - [Oluv: SoundBoks 4 vs Stormbox Blast - first impressions](https://www.patreon.com/posts/soundboks-4-vs-104257079)
+    - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-15624888)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-4/)
@@ -637,6 +643,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
     - [GYMCADDY: Soundboks Go Vs JBL Boombox 2 Vs UE Hyperboom Vs Sony XG500](https://www.youtube.com/watch?v=5NzYJL9jvS8)
+    - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-15571491)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-Go/)
@@ -821,6 +828,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 21.6lbs / 9.8kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
+    - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave/)
 

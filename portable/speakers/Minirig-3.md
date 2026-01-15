@@ -34,6 +34,7 @@ The Minirig 3 ranks #7 out of 130 total [Medium Size Portable Bluetooth Speakers
     - [Speakertech: Anker soundcore Boost (Upgraded) vs minirig mini in stereo /2.0 (and changing the equalizer)](https://www.youtube.com/watch?v=UQ3S8D3_1nE)
     - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
+    - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
     - [Direct Speakerranking Link](/portable/speakers/Minirig-3/)

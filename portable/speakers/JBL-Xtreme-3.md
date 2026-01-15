@@ -37,6 +37,7 @@ The JBL Xtreme 3 ranks #15 out of 72 total [Large Size Portable Bluetooth Speake
     - [GYMCADDY: JBL Xtreme 3 Vs Sony XG300 - Its Not Even Close](https://www.youtube.com/watch?v=Lq0g6v40fRk)
     - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
     - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
+    - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/XTREME-3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme-3/)

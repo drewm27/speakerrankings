@@ -32,6 +32,7 @@ The Tribit Stormbox Micro ranks #4 out of 41 total [Small Size Portable Bluetoot
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
+    - [NJ Studio Channel: Tribit stormbox micro vs 1More s1001bt Bass Test!!🔥](https://www.youtube.com/watch?v=7ZnTEkAwy98)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Micro/)
 

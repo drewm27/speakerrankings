@@ -42,6 +42,9 @@ The JBL Charge 5 ranks #26 out of 130 total [Medium Size Portable Bluetooth Spea
     - [Alan Ross Reviews: UE Megaboom 3 review vs JBL Charge 5 & Motion Boom! how bad can it be??](https://www.youtube.com/watch?v=I114oDubbic)
     - [New Stuff TV: Sony SRS-XE300 vs JBL Charge 5](https://www.youtube.com/watch?v=s3SAQ7lDbOY)
     - [GYMCADDY: JBL Charge 5 Vs Sony XE300 - How Can You Mess Up This Bad?](https://www.youtube.com/watch?v=frYrfHKWJvw)
+    - [Alan Ross Reviews: Marshall Stockwell 2 Review and huge sound test! - vs JBL Charge 5! 💯](https://www.youtube.com/watch?v=2RYtK6iuU2Y)
+    - [Alan Ross Reviews: JBL Charge 5 vs Motion Boom vs Sony XB43 - a step to far? 🤪](https://www.youtube.com/watch?v=OSznIl_lxJI)
+    - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5/)

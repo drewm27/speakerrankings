@@ -40,6 +40,8 @@ The Soundcore Motion Boom ranks #11 out of 72 total [Large Size Portable Bluetoo
     - [Techder Audios: SONY XG300 VS SOUNDCORE MOTION BOOM](https://www.youtube.com/watch?v=QIdwUHaJVf4)
     - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
     - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
+    - [Alan Ross Reviews: HK Go+ Play vs Soundcore Motion Boom - biggest bass battle ever!!!!!!!!!!!!](https://www.youtube.com/watch?v=NHVrFZKc5YM)
+    - [Jagist reviews: Soundcore Motion Boom vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=qr2oR3cnCYQ)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom&cjsku=A3118011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-Boom/)

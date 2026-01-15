@@ -228,6 +228,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Speakertech: Anker soundcore Boost (Upgraded) vs minirig mini in stereo /2.0 (and changing the equalizer)](https://www.youtube.com/watch?v=UQ3S8D3_1nE)
     - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
+    - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
     - [Direct Speakerranking Link](/portable/speakers/Minirig-3/)
@@ -252,6 +253,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
+    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Minirig-2/)
 
@@ -726,6 +728,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: UE Megaboom 3 review vs JBL Charge 5 & Motion Boom! how bad can it be??](https://www.youtube.com/watch?v=I114oDubbic)
     - [New Stuff TV: Sony SRS-XE300 vs JBL Charge 5](https://www.youtube.com/watch?v=s3SAQ7lDbOY)
     - [GYMCADDY: JBL Charge 5 Vs Sony XE300 - How Can You Mess Up This Bad?](https://www.youtube.com/watch?v=frYrfHKWJvw)
+    - [Alan Ross Reviews: Marshall Stockwell 2 Review and huge sound test! - vs JBL Charge 5! 💯](https://www.youtube.com/watch?v=2RYtK6iuU2Y)
+    - [Alan Ross Reviews: JBL Charge 5 vs Motion Boom vs Sony XB43 - a step to far? 🤪](https://www.youtube.com/watch?v=OSznIl_lxJI)
+    - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5/)
@@ -1024,6 +1029,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
     - [Alan Ross Reviews: Tribit Stormbox Pro - two versions compared - was it broken? 🤔](https://www.youtube.com/watch?v=fuB9IRTKs9Y)
+    - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-pro-portable-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Pro/)
@@ -1061,6 +1067,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 3.2lbs / 1500g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL PULSE 5 VS JBL CHARGE 5 "LIGHTS VS BASS?!"](https://www.youtube.com/watch?v=2I_EWK7p-YI)
+    - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Pulse-5/)
@@ -1215,6 +1222,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: JBL Flip 6 vs JBL Charge 4 and JBL Charge 3 - small one or a large one? 🤷‍♂️](https://www.youtube.com/watch?v=R9rJuAYwVw0)
     - [Flossy Carter: JBL Charge 5 vs JBL Charge 4 vs JBL Charge Essential](https://www.youtube.com/watch?v=KAen9xhQiPc)
     - [Naresh Lal: JBL Charge 4 Vs Xdobo X8 Tell me Which one is the BEST?](https://www.youtube.com/watch?v=DTgp-xGDzvw)
+    - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-4/)
@@ -1339,6 +1347,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: Sony XE300 Review And Compared to Sony XB33 - A Muffled Mess](https://www.youtube.com/watch?v=jHQXf-CZ2Lk)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
     - [Alan Ross Reviews: Sony XB33 vs XB32 vs JBL Charge 4 best £120 bluetooth speaker?](https://www.youtube.com/watch?v=07qu_39HjyU)
+    - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB33/)

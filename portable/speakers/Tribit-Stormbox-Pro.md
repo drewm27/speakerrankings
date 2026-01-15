@@ -23,6 +23,7 @@ The Tribit Stormbox Pro ranks #41 out of 130 total [Medium Size Portable Bluetoo
     - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
     - [Alan Ross Reviews: Tribit Stormbox Pro - two versions compared - was it broken? 🤔](https://www.youtube.com/watch?v=fuB9IRTKs9Y)
+    - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-pro-portable-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Pro/)

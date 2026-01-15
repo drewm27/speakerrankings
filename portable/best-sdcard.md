@@ -68,6 +68,7 @@ This page summarizes the best sounding portable Bluetooth speakers with SD card 
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
     - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)
+    - [Jay's Straight Up Reviews & More: W-King T9  🆚 ONN Large Party Speaker -By Request for Big Tee. Can the Smaller T9 Hang With The ONN?](https://www.youtube.com/watch?v=BzQL3DqcFss)
 - Links
     - [Official Product Page](https://www.w-king.com/t9.html)
 

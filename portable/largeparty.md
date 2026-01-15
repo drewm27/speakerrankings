@@ -167,6 +167,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=gNqERPC67C8>
     - <https://www.youtube.com/watch?v=S112dkr_2mE>
     - <https://www.youtube.com/watch?v=NbnolJzmA5s>
+    - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-105575000)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster/)

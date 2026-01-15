@@ -40,6 +40,7 @@ The JBL Boombox 3 ranks #21 out of 69 total [Boombox Size Portable Bluetooth Spe
     - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
     - [Jay's Straight Up Reviews & More: Skullcandy BARREL XT vs JBL Boombox 3 🤯Budget Banger vs Reigning Champ 🔋 Battery Powered 🏠 Indoors](https://www.youtube.com/watch?v=n6DU7mFw7hc)
     - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
+    - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3/)
