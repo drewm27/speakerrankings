@@ -6,7 +6,7 @@ cover-img: "/assets/img/kefls60.jpg"
 share-description: "Compare the best large powered floorstanding speakers of 2026 with expert reviews, sound performance insights, and buying tips for rich, powerful audio."
 ---
 
-This page ranks 1 large size powered floorstanding speakers. Last updated on 01/15/2026. The Large Floorstanding class of speakers generally have woofers 6.5" or larger. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 2 large size powered floorstanding speakers. Last updated on 01/15/2026. The Large Floorstanding class of speakers generally have woofers 6.5" or larger. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For the best picks of this page see [Best Powered Home Bookshelf Speakers](/powered/best/)
 
@@ -36,6 +36,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Official Product Page](https://us.kef.com/products/ls60-wireless)
     - [Direct Speakerranking Link](/powered/speakers/KEF-LS60/)
+
+## #2 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
+- Positives: Nearly flat down to 20hz
+- Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
+- Bass Extension (-3dB): 20hz
+- Reviews, Comparisons and Sound Samples
+    - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
+- Links
+    - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
+    - [Direct Speakerranking Link](/powered/speakers/Bang--Olufsen-Beolab20/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

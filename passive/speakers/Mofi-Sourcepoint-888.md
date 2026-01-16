@@ -2,10 +2,10 @@
 layout: page
 title: Mofi Sourcepoint 888 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Mofi Sourcepoint 888 ranks #10 out of 26 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
+share-description: "The Mofi Sourcepoint 888 ranks #10 out of 25 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Mofi Sourcepoint 888 ranks #10 out of 26 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Mofi Sourcepoint 888 ranks #10 out of 25 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #10 [Mofi Sourcepoint 888](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+Sourcepoint+888)]: $5500
 - Positives: Great off axis. Great bass extension
