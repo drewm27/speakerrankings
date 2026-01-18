@@ -12,7 +12,7 @@ For the best picks of this page see [Best Powered Home Desktop Speakers](/powere
 
 I generally tell people to avoid this class of speaker as they won't have good imaging due to not having wide seperated left and right channels like the [Bookshelf](/powered/bookshelf-large/) class and generally aren't tuned as neutral. These are more for a person who wants a speaker to take up as little space as possible.  Also consider portable Bluetooth speakers with a battery and waterproofing.
 
-Also check out [Small Size Powered Bookshelf Speakers](/powered/bookshelf-small/), [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/), [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/), and [Large Size Desktop Speakers](/passive/desktop-large/)
+Also check out [Small Size Powered Bookshelf Speakers](/powered/bookshelf-small/), [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/), [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/), and [Large Size Powered Desktop Speakers](/powered/desktop-large/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
