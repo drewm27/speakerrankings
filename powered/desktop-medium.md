@@ -6,13 +6,13 @@ cover-img: "/assets/img/audioproc5.jpg"
 share-description: "Explore the best medium powered desktop speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."
 ---
 
-This page ranks 12 medium size powered desktop speakers. Last updated on 01/16/2026. The Medium Desktop class of speakers are stereo inside a single enclosure and generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Desktop class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 12 medium size powered desktop speakers. Last updated on 01/18/2026. The Medium Desktop class of speakers are stereo inside a single enclosure and generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Desktop class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For the best picks of this page see [Best Powered Home Desktop Speakers](/powered/best/)
 
 I generally tell people to avoid this class of speaker as they won't have good imaging due to not having wide seperated left and right channels like the [Bookshelf](/powered/bookshelf-large/) class and generally aren't tuned as neutral. These are more for a person who wants a speaker to take up as little space as possible.  Also consider portable Bluetooth speakers with a battery and waterproofing.
 
-Also check out [Small Size Powered Desktop Speakers](/powered/desktop-small/), [Medium Size Powered Desktop Speakers](/powered/desktop-medium/), [Large Size Powered Desktop Speakers](/powered/desktop-large/), and [Large Size Desktop Speakers](/passive/desktop-large/)
+Also check out [Small Size Powered Bookshelf Speakers](/powered/bookshelf-small/), [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/), [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/), and [Large Size Desktop Speakers](/passive/desktop-large/)
 
 For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 

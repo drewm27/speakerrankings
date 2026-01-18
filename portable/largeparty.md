@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the top massive party size Bluetooth speakers. Massive, AC‑powered giants designed for deep bass, huge sound, and epic party performance."
 ---
 
-This page ranks 9 large party size powered Bluetooth speakers. Last updated on 01/16/2026. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
+This page ranks 9 large party size powered Bluetooth speakers. Last updated on 01/18/2026. The massive party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
 See [Party Size Portable Bluetooth Speakers Ranked](/portable/party/) for smaller party speakers. See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
