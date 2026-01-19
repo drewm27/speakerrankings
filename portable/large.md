@@ -941,6 +941,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 12 hours
 - EQ: 3 EQ presets
 - IP Rating: IPX6
+- MicroSD: Yes
 - Party Mode: No
 - Power Input: USB-C
 - Stereo: Yes

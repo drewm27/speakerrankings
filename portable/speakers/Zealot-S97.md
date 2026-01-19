@@ -15,6 +15,7 @@ The Zealot S97 ranks #42 out of 72 total [Large Size Portable Bluetooth Speakers
 - Battery Life: 12 hours
 - EQ: 3 EQ presets
 - IP Rating: IPX6
+- MicroSD: Yes
 - Party Mode: No
 - Power Input: USB-C
 - Stereo: Yes
