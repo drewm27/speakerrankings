@@ -12,7 +12,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Small Pocket Size Speaker With Party Mode
 
-### The best [small pocket size](/portable/small/) speaker with party mode is the [Soundcore Mini 3 Pro](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl)]: $30
+### The best [small size](/portable/small/) speaker with party mode is the [Soundcore Mini 3 Pro](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl)]: $30
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
