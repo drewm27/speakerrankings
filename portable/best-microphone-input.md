@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best microphone-input speakers — expert-reviewed picks for crystal-clear sound, recording, streaming & more with built-in input options."
 ---
 
-This page summarizes the best portable Bluetooth speakers with microphone input of the 364 ranked on this website. Last updated on 01/18/2026. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with microphone input of the 364 ranked on this website. Last updated on 01/19/2026. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See this for [Speakers with Wireless Microphones](/portable/best-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/portable/best-microphone/)
 
@@ -45,7 +45,7 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 
 ## The Next Loudest And Best Sounding Battery Powered Bluetooth Speakers with Microphone Input
 
-The next best battery powered speakers for this use will be the [party size](/portable/party/) and [massive party size](/portable/largeparty/) JBL Partybox line which won't get quite as loud as the speaker above but will all have much deeper bass. In order from largest to smallest 
+The next best battery powered speakers for this use will be the [party size](/portable/party/) and [large party size](/portable/largeparty/) JBL Partybox line which won't get quite as loud as the speaker above but will all have much deeper bass. In order from largest to smallest 
 
 ### [JBL Partybox 720](https://www.amazon.com/JBL-PartyBox-720-Battery-Powered-Futuristic/dp/B0FNBWSN54?crid=10IDD2ETA8121&dib=eyJ2IjoiMSJ9.i-9ojde1fO24hREqJ3-JfszPsvqpW-GznOo57Wu7rPbdsb4HiYg61ML9d8vzIYXxomN_p_11GzXphlKQf3OzzfqMCvyE6iy1ohL9F8pWWKExa_YRgYizwI7RdqYm_iIS4mksNbOmLWgCKV4NDYhCxIF2H62UuP5iPF8e-L7gZWBFlBk7EM9cCwZwU2XOHmNUlLDcSM39Qq3dheF_PaJbMAa9hNzPlIvhm7E2-ERdqyY.KFPnvA-7vt5p0lEoQ6kjRgCIRws_ATRyWlCW7OtJdeM&dib_tag=se&keywords=partybox+720&qid=1761945428&sprefix=partybox+%2Caps%2C476&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=22ac52b8578981cfd9a9379495d13f7a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-720-Battery-Powered-Futuristic/dp/B0FNBWSN54?crid=10IDD2ETA8121&dib=eyJ2IjoiMSJ9.i-9ojde1fO24hREqJ3-JfszPsvqpW-GznOo57Wu7rPbdsb4HiYg61ML9d8vzIYXxomN_p_11GzXphlKQf3OzzfqMCvyE6iy1ohL9F8pWWKExa_YRgYizwI7RdqYm_iIS4mksNbOmLWgCKV4NDYhCxIF2H62UuP5iPF8e-L7gZWBFlBk7EM9cCwZwU2XOHmNUlLDcSM39Qq3dheF_PaJbMAa9hNzPlIvhm7E2-ERdqyY.KFPnvA-7vt5p0lEoQ6kjRgCIRws_ATRyWlCW7OtJdeM&dib_tag=se&keywords=partybox+720&qid=1761945428&sprefix=partybox+%2Caps%2C476&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=22ac52b8578981cfd9a9379495d13f7a&language=en_US&ref_=as_li_ss_tl)]: $800
 - Positives: Biggest best sounding speaker with a battery. Handle and wheels are convenient. Lightshow ability.
