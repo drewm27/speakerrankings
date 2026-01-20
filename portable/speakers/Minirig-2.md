@@ -28,8 +28,6 @@ The Minirig 2 ranks #8 out of 130 total [Medium Size Portable Bluetooth Speakers
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Minirig-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

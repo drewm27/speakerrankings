@@ -23,7 +23,6 @@ The Presonus Eris Studio 8 ranks #12 out of 21 total [Large Size Powered Bookshe
     - [DSAUDIO.review: Focal Alpha 80  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=ryztRdDNk28)
 - Links
     - [Official Product Page](https://www.presonus.com/en-US/monitors/studio-monitors/eris-series/2777500128.html)
-    - [Direct Speakerranking Link](/powered/speakers/Presonus-Eris-Studio-8/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

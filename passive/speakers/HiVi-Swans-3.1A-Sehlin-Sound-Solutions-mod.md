@@ -22,7 +22,6 @@ The HiVi Swans 3.1A Sehlin Sound Solutions mod ranks #13 out of 48 total [Large 
 - Links
     - [Official Swans (HiVi) 3.1 Website](https://www.swanspeakers.com/product/view?id=1405)
     - [Sehlin Sound Solutions mod page for Swans 3.1](https://sites.google.com/view/sehlin-sound-solutions/hivi-diy-3-1-modifications)
-    - [Direct Speakerranking Link](/passive/speakers/HiVi-Swans-3.1A-Sehlin-Sound-Solutions-mod/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

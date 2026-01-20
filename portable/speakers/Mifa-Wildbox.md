@@ -31,7 +31,6 @@ The Mifa Wildbox ranks #7 out of 72 total [Large Size Portable Bluetooth Speaker
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/A-series/WildBox)
     - <https://www.diysubwoofers.org/projects/other/BT/Wildbox/>
-    - [Direct Speakerranking Link](/portable/speakers/Mifa-Wildbox/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -19,7 +19,6 @@ The Marshall Woburn III ranks #4 out of 12 total [Medium Size Powered Desktop Sp
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/woburn-iii)
-    - [Direct Speakerranking Link](/powered/speakers/Marshall-Woburn-III/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

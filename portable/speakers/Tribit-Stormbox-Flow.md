@@ -27,7 +27,6 @@ The Tribit Stormbox Flow ranks #50 out of 130 total [Medium Size Portable Blueto
     - [Oluv: Tribit Stormbox Flow - sound demo](https://www.patreon.com/posts/tribit-stormbox-90484533)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-flow-portable-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Flow/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

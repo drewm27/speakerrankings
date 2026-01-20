@@ -26,7 +26,6 @@ The Sony SRS-XB13 ranks #29 out of 41 total [Small Size Portable Bluetooth Speak
     - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb13)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB13/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

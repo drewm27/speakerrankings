@@ -20,7 +20,6 @@ The Tronsmart Halo 100 ranks #47 out of 72 total [Large Size Portable Bluetooth 
     - [Alan Ross Reviews: Tronsmart Halo 100 bluetooth party speaker - their best yet!](https://www.youtube.com/watch?v=sCaHSGO4_MY)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-halo-100-portable-party-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Halo-100/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

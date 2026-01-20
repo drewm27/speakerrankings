@@ -26,7 +26,6 @@ The Klipsch RP-600M II ranks #41 out of 48 total [Large Size Bookshelf Speakers]
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 - Links
     - [Official Klipsch RP-600M II Website](https://www.klipsch.com/products/rp-600m-ii-bookshelf-speakers)
-    - [Direct Speakerranking Link](/passive/speakers/Klipsch-RP-600M-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

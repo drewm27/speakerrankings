@@ -21,7 +21,6 @@ The Bose Soundlink Revolve+ II ranks #46 out of 130 total [Medium Size Portable 
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-revolve-ii-bluetooth-speaker/SLRVPII-SPEAKERWIRELESS.html)
-    - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Revolve+-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

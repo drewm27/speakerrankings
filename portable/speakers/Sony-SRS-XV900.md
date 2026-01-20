@@ -28,7 +28,6 @@ The Sony SRS-XV900 ranks #9 out of 9 total [Large Party Size Portable Bluetooth 
     - [GYMCADDY: Sony XV900 Review - Finally, A Good Speaker From Sony!](https://www.youtube.com/watch?v=t6pFY4Sh0Us)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsxv900)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XV900/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -26,7 +26,6 @@ The JBL Partybox 1000 ranks #2 out of 9 total [Large Party Size Portable Bluetoo
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX1000.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-1000/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

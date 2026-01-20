@@ -19,7 +19,6 @@ The Muzen Wild Go ranks #36 out of 41 total [Small Size Portable Bluetooth Speak
     - [Chrispy Things [EDC]: The NEW ultra portable Muzen Wild Go Sound Test & Review!](https://www.youtube.com/watch?v=g0mixdXjVI8)
 - Links
     - [Official Product Page](https://muzenaudio.com/products/wild-go-portable-rugged-wireless-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Muzen-Wild-Go/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

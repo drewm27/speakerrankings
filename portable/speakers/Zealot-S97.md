@@ -26,7 +26,6 @@ The Zealot S97 ranks #42 out of 72 total [Large Size Portable Bluetooth Speakers
     - [Jay's Straight Up Reviews & More: Zealot S97 mid-size Boombox 📦 Unboxing, Review & Demo. 😵Will I Finally Like A Zealot Speaker?](https://www.youtube.com/watch?v=jaLS0I0jjVQ)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1324.html)
-    - [Direct Speakerranking Link](/portable/speakers/Zealot-S97/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

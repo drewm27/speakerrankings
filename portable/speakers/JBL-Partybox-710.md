@@ -32,7 +32,6 @@ The JBL Partybox 710 ranks #4 out of 9 total [Large Party Size Portable Bluetoot
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-710-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-710/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -25,7 +25,6 @@ The Mofi Sourcepoint 888 ranks #10 out of 25 total [Large Size Floorstanding Spe
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Mofi Sourcepoint 888 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-888-floorstanding-speakers-pair)
-    - [Direct Speakerranking Link](/passive/speakers/Mofi-Sourcepoint-888/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

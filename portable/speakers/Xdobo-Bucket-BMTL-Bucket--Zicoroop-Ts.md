@@ -21,8 +21,6 @@ The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks #32 out of 72 total [Large Siz
 - Weight: 2.69lbs / 1.22kg
 - Reviews, Comparisons and Sound Samples
     - [SpeakerBlowUpMan Lee: Zicoroop Ts (Xdobo bucket) Bluetooth Speaker Review/Teardown](https://www.youtube.com/watch?v=hAfUPwhnD4A)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Xdobo-Bucket-BMTL-Bucket--Zicoroop-Ts/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

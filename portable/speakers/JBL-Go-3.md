@@ -31,7 +31,6 @@ The JBL Go 3 ranks #22 out of 41 total [Small Size Portable Bluetooth Speakers](
     - [Techder Audios: JBL GO 3 VS ORTIZAN X10](https://www.youtube.com/watch?v=8uqI1pxHeVM)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/GO+3-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Go-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

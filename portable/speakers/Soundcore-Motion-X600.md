@@ -33,7 +33,6 @@ The Soundcore Motion X600 ranks #17 out of 72 total [Large Size Portable Bluetoo
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-x600-a3130011&cjsku=A3130011)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-X600/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

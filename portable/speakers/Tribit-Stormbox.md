@@ -26,7 +26,6 @@ The Tribit Stormbox ranks #87 out of 130 total [Medium Size Portable Bluetooth S
     - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-portable-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

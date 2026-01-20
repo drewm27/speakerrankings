@@ -24,7 +24,6 @@ The Revel F228Be ranks #6 out of 25 total [Large Size Floorstanding Speakers](/p
     - [Audio Science Review Revel F228Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f228be-review-speaker.23659/)
 - Links
     - [Official Revel F228Be Website](https://www.revelspeakers.com/products/types/floorstanding/F228BE-.html)
-    - [Direct Speakerranking Link](/passive/speakers/Revel-F228Be/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

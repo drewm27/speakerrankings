@@ -17,7 +17,6 @@ The Polk T50 ranks #21 out of 25 total [Large Size Floorstanding Speakers](/pass
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links
     - [Official Polk T50 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/t50/112653-new.html)
-    - [Direct Speakerranking Link](/passive/speakers/Polk-T50/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

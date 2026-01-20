@@ -26,7 +26,6 @@ The Sony ULT Field 1 ranks #38 out of 130 total [Medium Size Portable Bluetooth 
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs Sony ULT Field 1 😧 $200 vs $128 Cylinder Bluetooth Speaker Matchup](https://www.youtube.com/watch?v=lrVa4Cnrets)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Field-1/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

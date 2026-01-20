@@ -22,7 +22,6 @@ The GR-Research NX-Studio ranks #1 out of 48 total [Large Size Bookshelf Speaker
 - Links
     - [Official GR-Research NX-Studio Website](https://gr-research.com/product/nx-studio-pair/)
     - [Official GR-Research NX-Studio Kit Website](https://gr-research.com/product/nx-studio-pair/)
-    - [Direct Speakerranking Link](/passive/speakers/GR-Research-NX-Studio/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

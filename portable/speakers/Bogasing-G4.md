@@ -26,8 +26,6 @@ The Bogasing G4 ranks #23 out of 130 total [Medium Size Portable Bluetooth Speak
 - Weight: 1.83lbs / 0.83kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Bogasing-G4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -22,7 +22,6 @@ The Harman Kardon Neo ranks #38 out of 41 total [Small Size Portable Bluetooth S
     - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Neo/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

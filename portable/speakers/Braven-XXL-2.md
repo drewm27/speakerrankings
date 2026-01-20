@@ -16,8 +16,6 @@ The Braven XXL 2 ranks #62 out of 69 total [Boombox Size Portable Bluetooth Spea
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tritbit Stormbox Blast vs Braven xxl 2](https://www.youtube.com/watch?v=uihgotNRgJ0)
     - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Braven-XXL-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

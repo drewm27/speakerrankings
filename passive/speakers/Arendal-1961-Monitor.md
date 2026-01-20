@@ -25,7 +25,6 @@ The Arendal 1961 Monitor ranks #5 out of 21 total [Medium Size Bookshelf Speaker
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Arendal 1961 Monito Website](https://arendalsound.com/product/1961-monitor/)
-    - [Direct Speakerranking Link](/passive/speakers/Arendal-1961-Monitor/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

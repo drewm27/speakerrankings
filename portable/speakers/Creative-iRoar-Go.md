@@ -19,7 +19,6 @@ The Creative iRoar Go ranks #59 out of 130 total [Medium Size Portable Bluetooth
     - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
 - Links
     - [Official Product Page](https://us.creative.com/p/speakers/creative-iroar-go)
-    - [Direct Speakerranking Link](/portable/speakers/Creative-iRoar-Go/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

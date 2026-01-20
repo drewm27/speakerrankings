@@ -19,7 +19,6 @@ The Ultimate Ears Boom 4 ranks #83 out of 130 total [Medium Size Portable Blueto
     - [Cameron Dougherty Tech: UE Boom 4: A Comprehensive Review](https://www.youtube.com/watch?v=lwyO-KbUvvo)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/boom-4)
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Boom-4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

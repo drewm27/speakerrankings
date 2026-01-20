@@ -19,7 +19,6 @@ The Teufel Rockster XS ranks #31 out of 130 total [Medium Size Portable Bluetoot
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
 - Links
     - [Official Product Page](https://ie.teufelaudio.com/rockster-xs-105565000)
-    - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster-XS/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

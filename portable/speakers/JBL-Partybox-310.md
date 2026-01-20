@@ -40,7 +40,6 @@ The JBL Partybox 310 ranks #2 out of 43 total [Party Size Portable Bluetooth Spe
     - [Jay's Straight Up Reviews & More: Sony SRS-XV900 vs JBL Partybox 310 - Can the JBL Middleweight 💪🏽 Compete With The Sony Heavyweight?](https://www.youtube.com/watch?v=1yVnCeuW9uA)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX310-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-310/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

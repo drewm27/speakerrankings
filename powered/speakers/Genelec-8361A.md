@@ -23,7 +23,6 @@ The Genelec 8361A ranks #3 out of 21 total [Large Size Powered Bookshelf Speaker
     - [Erin's Audio Corner: Genelec 8361a is FANTASTIC for Your Home Studio or HiFi!](https://www.youtube.com/watch?v=2VjzJRXbafI)
 - Links
     - [Official Product Page](https://www.genelec.com/8361a)
-    - [Direct Speakerranking Link](/powered/speakers/Genelec-8361A/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -24,7 +24,6 @@ The Turtlebox Grande ranks #52 out of 69 total [Boombox Size Portable Bluetooth 
     - [Blue Collar Outdoors USA: Is the TURTLEBOX GRANDE Speaker REALLY Worth the HYPE ?](https://www.youtube.com/watch?v=Kr_7Wi9IfpA)
 - Links
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-grande)
-    - [Direct Speakerranking Link](/portable/speakers/Turtlebox-Grande/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

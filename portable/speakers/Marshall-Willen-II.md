@@ -27,7 +27,6 @@ The Marshall Willen II ranks #9 out of 41 total [Small Size Portable Bluetooth S
     - [HammoTech Reviews: Marshall Willen 2 Review - Hard To Recommend](https://www.youtube.com/watch?v=PL8bC3wIRQQ)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/willen-ii)
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Willen-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

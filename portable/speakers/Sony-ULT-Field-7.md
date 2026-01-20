@@ -27,7 +27,6 @@ The Sony ULT Field 7 ranks #38 out of 69 total [Boombox Size Portable Bluetooth 
     - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/party-speakers/p/srsult70)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Field-7/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

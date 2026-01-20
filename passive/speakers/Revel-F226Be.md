@@ -26,7 +26,6 @@ The Revel F226Be ranks #8 out of 25 total [Large Size Floorstanding Speakers](/p
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
 - Links
     - [Official Revel F226Be Website](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html)
-    - [Direct Speakerranking Link](/passive/speakers/Revel-F226Be/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

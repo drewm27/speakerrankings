@@ -25,7 +25,6 @@ The Xiaomi Sound Outdoor ranks #42 out of 130 total [Medium Size Portable Blueto
     - [FishBee Product Reviews: Xiaomi Mi Sound Outdoor 30W Speaker vs JBL Flip 6 - CRAZY GOOD!](https://www.youtube.com/watch?v=HWN-qW5vvyY)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-outdoor/)
-    - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Sound-Outdoor/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

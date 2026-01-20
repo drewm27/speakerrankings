@@ -16,7 +16,6 @@ The Dali Rubikore 6 ranks #20 out of 25 total [Large Size Floorstanding Speakers
     - [Erin's Audio Review Website Dali Rubikore 6](https://www.erinsaudiocorner.com/loudspeakers/dali_rubikore_6/)
 - Links
     - [Official Dali Rubikore 6 Website](https://www.dali-speakers.com/en-us/products/rubikore/rubikore-6/)
-    - [Direct Speakerranking Link](/passive/speakers/Dali-Rubikore-6/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

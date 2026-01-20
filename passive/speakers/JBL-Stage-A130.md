@@ -12,8 +12,6 @@ The JBL Stage A130 ranks #21 out of 21 total [Medium Size Bookshelf Speakers](/p
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)
     - [Erin's Audio Corner Website JBL Stage A130](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a130/)
-- Links
-    - [Direct Speakerranking Link](/passive/speakers/JBL-Stage-A130/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

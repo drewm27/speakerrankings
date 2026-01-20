@@ -24,7 +24,6 @@ The Anker Soundcore Mini ranks #11 out of 41 total [Small Size Portable Bluetoot
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-mini&cjsku=A3101111)
-    - [Direct Speakerranking Link](/portable/speakers/Anker-Soundcore-Mini/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

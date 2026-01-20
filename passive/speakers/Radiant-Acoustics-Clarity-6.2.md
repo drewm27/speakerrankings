@@ -23,7 +23,6 @@ The Radiant Acoustics Clarity 6.2 ranks #10 out of 48 total [Large Size Bookshel
     - [Erin's Audio Corner: New Brand Comes Out Swinging: Radiant Acoustics Clarity 6.2 Review](https://www.youtube.com/watch?v=wV52ek8lUWc)
 - Links
     - [Official adiant Acoustics Clarity 6.2 Website](https://radiantacoustics.com/products/clarity-6-2)
-    - [Direct Speakerranking Link](/passive/speakers/Radiant-Acoustics-Clarity-6.2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

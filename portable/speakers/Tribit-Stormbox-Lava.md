@@ -39,7 +39,6 @@ The Tribit Stormbox Lava ranks #6 out of 72 total [Large Size Portable Bluetooth
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Lava/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

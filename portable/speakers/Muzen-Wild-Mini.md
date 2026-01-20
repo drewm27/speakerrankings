@@ -20,7 +20,6 @@ The Muzen Wild Mini ranks #35 out of 41 total [Small Size Portable Bluetooth Spe
     - [Survival Gear: You NEED This Tiny Speaker! MUZEN WILD MINI REVIEW](https://www.youtube.com/watch?v=Cu74DhLpYCI)
 - Links
     - [Official Product Page](https://muzenaudio.com/products/wild-mini-rugged-waterproof-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Muzen-Wild-Mini/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

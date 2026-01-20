@@ -23,7 +23,6 @@ The Bose Soundlink Mini 2 ranks #55 out of 130 total [Medium Size Portable Bluet
     - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-mini-ii-special-edition/SLMINIISE-SPEAKERWIRELESS.html)
-    - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Mini-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

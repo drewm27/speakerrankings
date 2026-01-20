@@ -22,7 +22,6 @@ The Dynaudio Contour 20i ranks #18 out of 48 total [Large Size Bookshelf Speaker
     - [Erin's Audio Corner: Dynaudio Contour 20i Bookshelf Speaker Review](https://www.youtube.com/watch?v=HcAwjBpzNbE)
 - Links
     - [Official Dynaudio Contour 20i Website](https://dynaudio.com/home-audio/contour-i/contour-20i)
-    - [Direct Speakerranking Link](/passive/speakers/Dynaudio-Contour-20i/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

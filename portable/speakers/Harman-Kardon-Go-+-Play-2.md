@@ -29,7 +29,6 @@ The Harman Kardon Go + Play 2 ranks #18 out of 69 total [Boombox Size Portable B
     - [Alan Ross Reviews: HK Go+ Play vs Soundcore Motion Boom - biggest bass battle ever!!!!!!!!!!!!](https://www.youtube.com/watch?v=NHVrFZKc5YM)
 - Links
     - [Official Product Page](https://www.harmankardon.com/GO+%2B+PLAYII.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Go-+-Play-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

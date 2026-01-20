@@ -30,7 +30,6 @@ The Yamaha HS5 ranks #9 out of 24 total [Medium Size Powered Bookshelf Speakers]
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/yamaha-hs5-powered-monitor-review.10967)
-    - [Direct Speakerranking Link](/powered/speakers/Yamaha-HS5/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

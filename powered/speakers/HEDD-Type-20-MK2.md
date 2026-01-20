@@ -12,7 +12,6 @@ The HEDD Type 20 MK2 ranks #5 out of 21 total [Large Size Powered Bookshelf Spea
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
 - Links
     - [Official Product Page](https://hedd.audio/products/type-20-mk2)
-    - [Direct Speakerranking Link](/powered/speakers/HEDD-Type-20-MK2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

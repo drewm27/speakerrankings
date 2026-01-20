@@ -18,8 +18,6 @@ The Soundcore Rave ranks #38 out of 43 total [Party Size Portable Bluetooth Spea
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -19,7 +19,6 @@ The Klipsch The Three II ranks #11 out of 12 total [Medium Size Powered Desktop 
     - [DSAUDIO.review: DSAUDIO.review Edifier S2000MKIII vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/the-three-ii)
-    - [Direct Speakerranking Link](/powered/speakers/Klipsch-The-Three-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

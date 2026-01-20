@@ -19,8 +19,6 @@ The Sony GTK-XB72 ranks #40 out of 43 total [Party Size Portable Bluetooth Speak
 - Weight: 27lbs / 12.2kg
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: JBL PARTYBOX 310 VS SONY GTK XB72 SOUND TEST COMPARISON](https://www.youtube.com/watch?v=qY0Cdd2QJTU)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB72/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

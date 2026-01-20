@@ -18,8 +18,6 @@ The Ultimate Ears Wonderboom ranks #82 out of 130 total [Medium Size Portable Bl
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
     - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Wonderboom/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

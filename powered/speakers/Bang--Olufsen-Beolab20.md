@@ -15,7 +15,6 @@ The Bang & Olufsen Beolab20 ranks #2 out of 2 total [Large Size Powered Floorsta
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
-    - [Direct Speakerranking Link](/powered/speakers/Bang--Olufsen-Beolab20/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

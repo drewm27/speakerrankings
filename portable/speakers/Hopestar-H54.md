@@ -22,7 +22,6 @@ The Hopestar H54 ranks #33 out of 41 total [Small Size Portable Bluetooth Speake
     - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links
     - [Official Product Page](https://hopestarshop.com/products/hopestar-h54-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Hopestar-H54/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

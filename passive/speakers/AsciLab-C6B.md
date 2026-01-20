@@ -22,7 +22,6 @@ The AsciLab C6B ranks #4 out of 48 total [Large Size Bookshelf Speakers](/passiv
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official AsciLab C6B Website](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
-    - [Direct Speakerranking Link](/passive/speakers/AsciLab-C6B/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

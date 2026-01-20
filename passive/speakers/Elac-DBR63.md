@@ -24,7 +24,6 @@ The Elac DBR63 ranks #20 out of 48 total [Large Size Bookshelf Speakers](/passiv
     - [Erin's Audio Corner Website Elac DBR63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
     - [Official Elac DBR63 Website](https://elac.com/db63)
-    - [Direct Speakerranking Link](/passive/speakers/Elac-DBR63/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

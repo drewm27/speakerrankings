@@ -17,7 +17,6 @@ The Totem Kin One ranks #19 out of 21 total [Medium Size Bookshelf Speakers](/pa
     - [Erin's Audio Corner Website Totem Kin One](https://www.erinsaudiocorner.com/loudspeakers/totem_kin_one/)
 - Links
     - [Official Totem Kin One Website](https://totemacoustic.com/product/totem-kin-one/)
-    - [Direct Speakerranking Link](/passive/speakers/Totem-Kin-One/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

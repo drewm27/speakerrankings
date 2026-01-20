@@ -24,7 +24,6 @@ The Kali Audio LP-8 ranks #13 out of 21 total [Large Size Powered Bookshelf Spea
     - [DSAUDIO.review: Kali Audio LP-8  vs  JBL 306P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=ywDG88KvzwA)
 - Links
     - [Official Product Page](https://www.kaliaudio.com/lone-pine-studio-monitors)
-    - [Direct Speakerranking Link](/powered/speakers/Kali-Audio-LP-8/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

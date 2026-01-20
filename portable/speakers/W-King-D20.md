@@ -35,7 +35,6 @@ The W-King D20 ranks #27 out of 69 total [Boombox Size Portable Bluetooth Speake
     - [Jay's Straight Up Reviews & More: W-King X20 vs Tribit Stormbox Blast 🍿 Garage Battle of Boombox Speakers 🍻Custom & Standard EQ's](https://www.youtube.com/watch?v=xMVzR5IgoAQ)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x20)
-    - [Direct Speakerranking Link](/portable/speakers/W-King-D20/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

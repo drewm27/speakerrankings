@@ -27,8 +27,6 @@ The Onn Small Rugged Speaker ranks #23 out of 41 total [Small Size Portable Blue
     - [Tech, Life, And More: My friend's Onn. Rugged Speaker S pocket sized portable Bluetooth speaker sound test, amazing value!](https://www.youtube.com/watch?v=X2i_dJCrwlc)
     - [SpaztasticTV: New Onn Bluetooth Speakers](https://www.youtube.com/watch?v=che2VHKbnhA)
     - <https://www.youtube.com/shorts/gQB9CV_--Gk>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Onn-Small-Rugged-Speaker/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

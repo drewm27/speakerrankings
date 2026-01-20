@@ -20,8 +20,6 @@ The Sony GTK-XB90 ranks #39 out of 43 total [Party Size Portable Bluetooth Speak
     - <https://www.youtube.com/watch?v=R4s5LPfdj7g>
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
     - <https://www.youtube.com/watch?v=NaOdsSNUfl8>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB90/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

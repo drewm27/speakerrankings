@@ -26,7 +26,6 @@ The Sony SRS-XB100 ranks #28 out of 41 total [Small Size Portable Bluetooth Spea
     - [Storytripper HD: JBL GO 4 vs TRIBIT MICRO 2 vs KLIPSCH AUSTIN vs SONY SRS-XB100](https://www.youtube.com/watch?v=cnx3ydaM8gs)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxb100-b)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB100/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

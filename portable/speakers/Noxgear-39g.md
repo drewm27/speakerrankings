@@ -24,7 +24,6 @@ The Noxgear 39g ranks #40 out of 41 total [Small Size Portable Bluetooth Speaker
     - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)
 - Links
     - [Official Product Page](https://www.noxgear.com/39g)
-    - [Direct Speakerranking Link](/portable/speakers/Noxgear-39g/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

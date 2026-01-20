@@ -28,7 +28,6 @@ The Soundcore Mini 3 ranks #7 out of 41 total [Small Size Portable Bluetooth Spe
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fa3119011)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Mini-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

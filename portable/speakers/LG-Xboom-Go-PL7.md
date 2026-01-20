@@ -19,7 +19,6 @@ The LG Xboom Go PL7 ranks #65 out of 72 total [Large Size Portable Bluetooth Spe
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl7-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Go-PL7/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

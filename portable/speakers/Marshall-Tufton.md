@@ -18,8 +18,6 @@ The Marshall Tufton ranks #58 out of 69 total [Boombox Size Portable Bluetooth S
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Tufton/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

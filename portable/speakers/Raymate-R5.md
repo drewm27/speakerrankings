@@ -12,8 +12,6 @@ The Raymate R5 ranks #91 out of 130 total [Medium Size Portable Bluetooth Speake
 - Battery Life: 16 hours
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Raymate-R5/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

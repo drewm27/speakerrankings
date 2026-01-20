@@ -27,7 +27,6 @@ The Vifa Copenhagen 2.0 ranks #9 out of 69 total [Boombox Size Portable Bluetoot
     - [techkiste.net: B&O Beolit 20 vs Vifa Copenhagen 2.0 sound-comparison with different music-genres](https://www.youtube.com/watch?v=OTy29qPeIcI)
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/copenhagen-2-0)
-    - [Direct Speakerranking Link](/portable/speakers/Vifa-Copenhagen-2.0/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

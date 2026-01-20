@@ -46,7 +46,6 @@ The JBL Partybox 100 ranks #4 out of 43 total [Party Size Portable Bluetooth Spe
     - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX100.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-100/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -25,7 +25,6 @@ The JBL Xtreme 2 ranks #40 out of 72 total [Large Size Portable Bluetooth Speake
     - [HT Sound: Devialet Mania VS JBL Xtreme 2 - 60% Vol (Listen with headphones)](https://www.youtube.com/watch?v=lHt2VPFNmgI)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+Xtreme+2.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

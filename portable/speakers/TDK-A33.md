@@ -18,8 +18,6 @@ The TDK A33 ranks #102 out of 130 total [Medium Size Portable Bluetooth Speakers
     - <https://www.youtube.com/watch?v=ONaYmlCDaGQ>
     - <https://www.youtube.com/watch?v=zHKapeBRfJw>
     - <https://www.youtube.com/watch?v=kuOeIek7F8U>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/TDK-A33/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

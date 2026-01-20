@@ -32,7 +32,6 @@ The Electro-Voice Everse 12 ranks #7 out of 43 total [Party Size Portable Blueto
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
-    - [Direct Speakerranking Link](/portable/speakers/Electro-Voice-Everse-12/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

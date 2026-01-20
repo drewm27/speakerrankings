@@ -26,7 +26,6 @@ The Polk Monitor XT20 ranks #36 out of 48 total [Large Size Bookshelf Speakers](
     - [Erin's Audio Corner: Budget Stereo Systems You Will Love](https://www.youtube.com/watch?v=6GcFznDiJQU)
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
-    - [Direct Speakerranking Link](/passive/speakers/Polk-Monitor-XT20/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

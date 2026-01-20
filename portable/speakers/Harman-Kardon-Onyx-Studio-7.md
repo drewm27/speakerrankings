@@ -31,7 +31,6 @@ The Harman Kardon Onyx Studio 7 ranks #14 out of 69 total [Boombox Size Portable
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-7-.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-7/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

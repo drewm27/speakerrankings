@@ -31,7 +31,6 @@ The Soundboks 4 ranks #21 out of 43 total [Party Size Portable Bluetooth Speaker
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-15624888)
-    - [Direct Speakerranking Link](/portable/speakers/Soundboks-4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

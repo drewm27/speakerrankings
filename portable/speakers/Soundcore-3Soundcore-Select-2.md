@@ -24,7 +24,6 @@ The Soundcore 3/Soundcore Select 2 ranks #54 out of 130 total [Medium Size Porta
     - [HQ AUDIO Exchange: Anker SoundCore 3  Vs. SoundCore Select 2 Bass Sound Test](https://www.youtube.com/watch?v=XpkitJveFlc)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3117011&cjsku=A3117011)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-3Soundcore-Select-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

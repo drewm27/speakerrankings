@@ -26,7 +26,6 @@ The Elac DBR62 ranks #19 out of 48 total [Large Size Bookshelf Speakers](/passiv
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official Elac DBR62 Website](https://elac.com/dbr62)
-    - [Direct Speakerranking Link](/passive/speakers/Elac-DBR62/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

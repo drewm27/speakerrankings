@@ -26,7 +26,6 @@ The Mee audio PartySPKR ranks #26 out of 72 total [Large Size Portable Bluetooth
     - [Feelin Tech Today: JBL Should be worried? (MEE audio partySPKR) [2024]](https://www.youtube.com/watch?v=Ai1vs2-Mc6c)
 - Links
     - [Official Product Page](https://meeaudio.com/products/partyspkr)
-    - [Direct Speakerranking Link](/portable/speakers/Mee-audio-PartySPKR/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

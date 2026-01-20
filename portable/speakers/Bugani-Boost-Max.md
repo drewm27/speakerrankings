@@ -24,7 +24,6 @@ The Bugani Boost Max ranks #39 out of 69 total [Boombox Size Portable Bluetooth 
     - [Jagist reviews: Bugani Boost Max Vs W-king X20!!! 😍😍😍](https://www.youtube.com/watch?v=uIkbJTA2wzw)
 - Links
     - [Official Product Page](https://www.bugani-global.com/products/bugani-boost-max-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Bugani-Boost-Max/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

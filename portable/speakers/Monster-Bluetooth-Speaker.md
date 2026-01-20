@@ -23,8 +23,6 @@ The Monster Bluetooth Speaker ranks #26 out of 41 total [Small Size Portable Blu
 - Stereo: No
 - TWS: Yes
 - Weight: 0.4lbs / 185g
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Monster-Bluetooth-Speaker/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -19,7 +19,6 @@ The Sony SRS-XE300 ranks #86 out of 130 total [Medium Size Portable Bluetooth Sp
     - [GYMCADDY: JBL Charge 5 Vs Sony XE300 - How Can You Mess Up This Bad?](https://www.youtube.com/watch?v=frYrfHKWJvw)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe300-bz)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XE300/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

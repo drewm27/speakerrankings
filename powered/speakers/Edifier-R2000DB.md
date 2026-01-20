@@ -21,7 +21,6 @@ The Edifier R2000DB ranks #20 out of 24 total [Medium Size Powered Bookshelf Spe
     - [DSAUDIO.review: Edifier R1280T vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=d5DridUDGFY)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r2000db)
-    - [Direct Speakerranking Link](/powered/speakers/Edifier-R2000DB/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -12,8 +12,6 @@ The Raymate S7 ranks #112 out of 130 total [Medium Size Portable Bluetooth Speak
 - Battery Life: 15 hours
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Raymate-S7/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

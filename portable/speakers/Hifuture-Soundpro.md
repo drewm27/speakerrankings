@@ -15,7 +15,6 @@ The Hifuture Soundpro ranks #95 out of 130 total [Medium Size Portable Bluetooth
     - [Techder Audios: TRONSMART STUDIO VS HIFUTURE SOUNDPRO "STEREO+RACETRACK DRIVER VS NORMAL STEREO!"](https://www.youtube.com/watch?v=VM3SggT4ANw)
 - Links
     - [Official Product Page](https://hifuturegroup.com/pages/soundpro)
-    - [Direct Speakerranking Link](/portable/speakers/Hifuture-Soundpro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

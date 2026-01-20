@@ -31,7 +31,6 @@ The Bose SoundLink Max ranks #14 out of 72 total [Large Size Portable Bluetooth 
     - [Scott’s Reviews: Bose SoundLink Max First Impressions, Unboxing, and Sound Test.](https://www.youtube.com/watch?v=GDY_z3HNO1s)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html)
-    - [Direct Speakerranking Link](/portable/speakers/Bose-SoundLink-Max/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

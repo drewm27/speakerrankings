@@ -19,7 +19,6 @@ The Treblab HD-Max ranks #63 out of 72 total [Large Size Portable Bluetooth Spea
     - [KosherTech: TREBLAB HD-Max In Depth Review - Unboxing & Sound Test](https://www.youtube.com/watch?v=eGbNZFEj8VM)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd-max)
-    - [Direct Speakerranking Link](/portable/speakers/Treblab-HD-Max/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

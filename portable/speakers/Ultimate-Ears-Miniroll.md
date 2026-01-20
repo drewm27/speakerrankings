@@ -21,7 +21,6 @@ The Ultimate Ears Miniroll ranks #10 out of 41 total [Small Size Portable Blueto
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/miniroll)
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Miniroll/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

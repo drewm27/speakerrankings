@@ -32,7 +32,6 @@ The JBL Boombox 2 ranks #29 out of 69 total [Boombox Size Portable Bluetooth Spe
     - [GYMCADDY: Soundboks Go Vs JBL Boombox 2 Vs UE Hyperboom Vs Sony XG500](https://www.youtube.com/watch?v=5NzYJL9jvS8)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

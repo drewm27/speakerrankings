@@ -13,8 +13,6 @@ The Ultimate Ears Roll 2 ranks #117 out of 130 total [Medium Size Portable Bluet
 - Weight: 0.73lbs / 330g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SSla-paxi14>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Roll-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

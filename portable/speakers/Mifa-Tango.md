@@ -27,7 +27,6 @@ The Mifa Tango ranks #15 out of 41 total [Small Size Portable Bluetooth Speakers
     - [Alan Ross Reviews: Mifa Tango Camping Bluetooth Speaker Review](https://www.youtube.com/watch?v=biqsZ3Uhr3U)
 - Links
     - [Official Product Page](https://www.mifa.net/productinfo/2606938.html)
-    - [Direct Speakerranking Link](/portable/speakers/Mifa-Tango/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

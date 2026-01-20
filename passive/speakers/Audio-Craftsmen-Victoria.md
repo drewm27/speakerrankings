@@ -18,7 +18,6 @@ The Audio Craftsmen Victoria ranks #39 out of 48 total [Large Size Bookshelf Spe
     - [Erin's Audio Corner Website Audio Craftsmen Victoria](https://www.erinsaudiocorner.com/loudspeakers/audio_craftsmen_victoria/)
 - Links
     - [Official Audio Craftsmen Victoria Website](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)
-    - [Direct Speakerranking Link](/passive/speakers/Audio-Craftsmen-Victoria/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

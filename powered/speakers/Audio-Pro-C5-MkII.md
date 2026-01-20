@@ -24,7 +24,6 @@ The Audio Pro C5 MkII ranks #1 out of 12 total [Medium Size Powered Desktop Spea
     - [Smart Home Sounds: Audio Pro Addon Series: A serious multi-room contender?](https://www.youtube.com/watch?v=ig8h32VcU8o)
 - Links
     - [Official Product Page](https://audiopro.com/products/c5-mkii)
-    - [Direct Speakerranking Link](/powered/speakers/Audio-Pro-C5-MkII/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

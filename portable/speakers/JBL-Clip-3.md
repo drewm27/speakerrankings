@@ -24,7 +24,6 @@ The JBL Clip 3 ranks #31 out of 41 total [Small Size Portable Bluetooth Speakers
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CLIP+3.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -26,7 +26,6 @@ The Wharfedale Super Linton ranks #16 out of 48 total [Large Size Bookshelf Spea
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/super-linton-stand-mount-speakers-pair)
-    - [Direct Speakerranking Link](/passive/speakers/Wharfedale-Super-Linton/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

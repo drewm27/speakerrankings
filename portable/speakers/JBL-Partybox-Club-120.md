@@ -31,7 +31,6 @@ The JBL Partybox Club 120 ranks #3 out of 43 total [Party Size Portable Bluetoot
     - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-CLUB-120.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Club-120/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

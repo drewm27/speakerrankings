@@ -18,8 +18,6 @@ The Walla Sound ranks #118 out of 130 total [Medium Size Portable Bluetooth Spea
 - Weight: 0.66lbs / 300g
 - Reviews, Comparisons and Sound Samples
     - [Jack Of All Trades, Master of None: Walla Sound Wireless Bluetooth Speaker](https://www.youtube.com/watch?v=tbd1-9CAnYw)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Walla-Sound/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

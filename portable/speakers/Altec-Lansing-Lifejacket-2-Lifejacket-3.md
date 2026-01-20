@@ -17,8 +17,6 @@ The Altec Lansing Lifejacket 2/ Lifejacket 3 ranks #129 out of 130 total [Medium
     - [Altec lansing bass test: bass test altec lansing lifejacket 3 (mambo lambo crazy bass)](https://www.youtube.com/watch?v=mqgcIdBATeo)
     - [Fewishaツ: Altec Lansing Life Jacket 3 Bass Test](https://www.youtube.com/watch?v=YkqfKLSgvfQ)
     - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Lifejacket-2-Lifejacket-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

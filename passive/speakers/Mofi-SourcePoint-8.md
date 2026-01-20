@@ -26,7 +26,6 @@ The Mofi SourcePoint 8 ranks #9 out of 48 total [Large Size Bookshelf Speakers](
     - [GR-Research: Danny Tackles Andrews Jones: The Source Point 8! Spoiler Alert (It's Really Good)](https://www.youtube.com/watch?v=6fDq9sJaBJc)
 - Links
     - [Official Mofi SourcePoint 8 Website](https://mofi.com/shop/mofi-electronics/mofi-electronics-sourcepoint-8-bookshelf-speakers-pair/)
-    - [Direct Speakerranking Link](/passive/speakers/Mofi-SourcePoint-8/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

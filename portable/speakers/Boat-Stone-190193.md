@@ -26,7 +26,6 @@ The Boat Stone 190/193 ranks #27 out of 41 total [Small Size Portable Bluetooth 
 - Links
     - [Official Product Page Boat Stone 190](https://www.boat-lifestyle.com/products/stone-190)
     - [Official Product Page Boat Stone 193](https://www.boat-lifestyle.com/products/stone-193-portable-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Boat-Stone-190193/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

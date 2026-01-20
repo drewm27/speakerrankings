@@ -25,7 +25,6 @@ The Sony SRS-XG500 ranks #43 out of 69 total [Boombox Size Portable Bluetooth Sp
     - [DLX Willington: Sony SRS-XG500 vs JBL Encore Essential Sound Battle](https://www.youtube.com/watch?v=KjWAJ67aUMc)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg500)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XG500/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

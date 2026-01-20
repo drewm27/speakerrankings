@@ -15,8 +15,6 @@ The Skullcandy Terrain/Terrain XT/Terrain XL ranks #121 out of 130 total [Medium
     - [FishBee Product Reviews: Why is NO ONE Buying the New Skullcandy Speakers??](https://www.youtube.com/watch?v=OJRFayx5pk0)
     - [GYMCADDY: Skullcandy Terrain & Terrain Mini Review](https://www.youtube.com/watch?v=Fm98ccBcZng)
     - [Flossy Carter: All The New SkullCandy Bluetooth Speakers](https://www.youtube.com/watch?v=-UYSKvCkz94)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Skullcandy-TerrainTerrain-XTTerrain-XL/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

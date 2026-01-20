@@ -25,7 +25,6 @@ The Marshall Emberton II ranks #94 out of 130 total [Medium Size Portable Blueto
     - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Emberton-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

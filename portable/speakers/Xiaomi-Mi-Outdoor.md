@@ -15,8 +15,6 @@ The Xiaomi Mi Outdoor ranks #114 out of 130 total [Medium Size Portable Bluetoot
 - Reviews, Comparisons and Sound Samples
     - [xiaomify (xiaomify): Xiaomi - Outdoor Speaker;  Is it any good??  Full Review [Xiaomify]](https://www.youtube.com/watch?v=2xDcb8j9x5M)
     - [Frankie Tech: Mi Outdoor Bluetooth Speaker & Speaker Mini Review - Small Price, Big Sound!](https://www.youtube.com/watch?v=YR5qkcPg_i4)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Outdoor/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

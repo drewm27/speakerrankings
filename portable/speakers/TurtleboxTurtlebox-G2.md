@@ -24,7 +24,6 @@ The Turtlebox/Turtlebox G2 ranks #66 out of 69 total [Boombox Size Portable Blue
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)
 - Links
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-gen-2)
-    - [Direct Speakerranking Link](/portable/speakers/TurtleboxTurtlebox-G2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

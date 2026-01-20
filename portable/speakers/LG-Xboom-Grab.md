@@ -27,7 +27,6 @@ The LG Xboom Grab ranks #78 out of 130 total [Medium Size Portable Bluetooth Spe
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links
     - <https://www.lg.com/us/speakers/lg-xboom-grab-portable-speaker>
-    - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Grab/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

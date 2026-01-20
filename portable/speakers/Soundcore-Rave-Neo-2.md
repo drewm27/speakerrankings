@@ -31,7 +31,6 @@ The Soundcore Rave Neo 2 ranks #18 out of 72 total [Large Size Portable Bluetoot
     - [Jay's Straight Up Reviews & More: $350 Ultimate Ears EpicBoom gets Epic Beat-Down 😮by $120 Soundcore Rave Neo 2. Bluetooth Speaker KO🤛](https://www.youtube.com/watch?v=Vyo6VlUOYf8)
 - Links
     - [Official Product Page](https://support.soundcore.com/s/product/a085g000004yodHAAQ/rave-neo-2)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Neo-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

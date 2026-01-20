@@ -24,7 +24,6 @@ The Edifier M60 ranks #6 out of 8 total [Small Size Powered Bookshelf Speakers](
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)
 - Links
     - [Official Product Page](https://www.edifier.com/us/p/computer-speakers/m60)
-    - [Direct Speakerranking Link](/powered/speakers/Edifier-M60/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

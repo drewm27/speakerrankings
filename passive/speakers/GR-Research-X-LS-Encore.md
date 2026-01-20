@@ -23,7 +23,6 @@ The GR-Research X-LS Encore ranks #28 out of 48 total [Large Size Bookshelf Spea
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
     - [Official GR-Research X-LS Encore Kit Website](https://gr-research.com/product/x-ls-encore/)
-    - [Direct Speakerranking Link](/passive/speakers/GR-Research-X-LS-Encore/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

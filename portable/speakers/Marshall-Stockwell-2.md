@@ -30,7 +30,6 @@ The Marshall Stockwell 2 ranks #9 out of 72 total [Large Size Portable Bluetooth
     - [Alan Ross Reviews: Marshall Emberton vs Marshall Stockwell 2 - little guy goes louder?? 🤓](https://www.youtube.com/watch?v=6j2Aj5E48Kc)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/stockwell-ii)
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Stockwell-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

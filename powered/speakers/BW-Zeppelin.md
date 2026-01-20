@@ -28,7 +28,6 @@ The B&W Zeppelin ranks #19 out of 21 total [Large Size Powered Bookshelf Speaker
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
 - Links
     - [Official Product Page](https://www.bowerswilkins.com/en-us/product/wireless-speakers/zeppelin/150242.html)
-    - [Direct Speakerranking Link](/powered/speakers/BW-Zeppelin/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

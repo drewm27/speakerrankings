@@ -24,7 +24,6 @@ The Audiofirst Fidelia ranks #1 out of 21 total [Medium Size Bookshelf Speakers]
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Audiofirst Fidelia Website](https://audiofirstdesigns.co.uk/fidelia)
-    - [Direct Speakerranking Link](/passive/speakers/Audiofirst-Fidelia/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

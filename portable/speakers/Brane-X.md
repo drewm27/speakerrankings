@@ -31,7 +31,6 @@ The Brane X ranks #10 out of 69 total [Boombox Size Portable Bluetooth Speakers]
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links
     - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Brane-X/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

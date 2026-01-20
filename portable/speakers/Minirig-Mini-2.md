@@ -31,7 +31,6 @@ The Minirig Mini 2 ranks #2 out of 41 total [Small Size Portable Bluetooth Speak
     - [Alan Ross Reviews: Minirig Mini mk2 - best small speaker?](https://www.youtube.com/watch?v=7kydvk2xdtA)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)
-    - [Direct Speakerranking Link](/portable/speakers/Minirig-Mini-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -13,7 +13,6 @@ The Cerwin Vega LA165 ranks #43 out of 48 total [Large Size Bookshelf Speakers](
     - [Erin's Audio Corner: Are These $270 Speakers Worth It or a Total Letdown?](https://www.youtube.com/watch?v=5LLEbOTBoCk)
 - Links
     - [Official Cerwin Vega LA165 Website](https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165)
-    - [Direct Speakerranking Link](/passive/speakers/Cerwin-Vega-LA165/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

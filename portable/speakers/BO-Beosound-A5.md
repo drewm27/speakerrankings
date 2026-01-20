@@ -22,7 +22,6 @@ The B&O Beosound A5 ranks #10 out of 72 total [Large Size Portable Bluetooth Spe
     - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A5/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

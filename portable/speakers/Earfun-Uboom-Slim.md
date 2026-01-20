@@ -16,8 +16,6 @@ The Earfun Uboom Slim ranks #39 out of 130 total [Medium Size Portable Bluetooth
 - Weight: 1.23lbs / 560g
 - Reviews, Comparisons and Sound Samples
     - [スピーカー音質比較: EarFun　UBOOM Slim　音質比較　Norah Jones 「Don't Know Why」](https://www.youtube.com/watch?v=mqqE0rqYLNQ)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Earfun-Uboom-Slim/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

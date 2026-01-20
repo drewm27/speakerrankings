@@ -19,7 +19,6 @@ The PS Audio Aspen FR10 ranks #12 out of 25 total [Large Size Floorstanding Spea
     - [Erin's Audio Review Website PS Audio Aspen FR10](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr10/)
 - Links
     - [Official PS Audio Aspen FR10 Website](https://www.psaudio.com/products/aspen-fr10-loudspeaker)
-    - [Direct Speakerranking Link](/passive/speakers/PS-Audio-Aspen-FR10/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

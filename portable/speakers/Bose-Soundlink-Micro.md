@@ -29,7 +29,6 @@ The Bose Soundlink Micro ranks #16 out of 41 total [Small Size Portable Bluetoot
     - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-bluetooth-speaker/SLMC-SPEAKERWIRELESS.html)
-    - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Micro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

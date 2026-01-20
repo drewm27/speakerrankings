@@ -16,7 +16,6 @@ The Sharp PS-929 ranks #36 out of 43 total [Party Size Portable Bluetooth Speake
     - [Technotin: Power Audio Sharp PS-929   7day experience](https://www.youtube.com/watch?v=uiRxrnvyvCw)
 - Links
     - [Official Product Page](https://www.sharpconsumer.com/audio/ps929/)
-    - [Direct Speakerranking Link](/portable/speakers/Sharp-PS-929/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

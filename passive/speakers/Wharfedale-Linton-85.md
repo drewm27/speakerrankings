@@ -28,7 +28,6 @@ The Wharfedale Linton 85 ranks #17 out of 48 total [Large Size Bookshelf Speaker
     - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
 - Links
     - [Official Wharfedale Linton 85 Website](https://www.wharfedaleusa.com/products/linton-85th-anniversary-bookshelf-speakers)
-    - [Direct Speakerranking Link](/passive/speakers/Wharfedale-Linton-85/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

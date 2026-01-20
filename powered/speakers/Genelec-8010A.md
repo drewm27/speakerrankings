@@ -25,7 +25,6 @@ The Genelec 8010A ranks #1 out of 8 total [Small Size Powered Bookshelf Speakers
 - Links
     - [Official Product Page](https://www.genelec.com/8010a)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8010a-powered-studio-monitor-review.16866/)
-    - [Direct Speakerranking Link](/powered/speakers/Genelec-8010A/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

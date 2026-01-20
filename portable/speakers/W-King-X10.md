@@ -27,7 +27,6 @@ The W-King X10 ranks #60 out of 69 total [Boombox Size Portable Bluetooth Speake
     - [Jay's Straight Up Reviews & More: ZEALOT S-67 🦨 75w Bluetooth Speaker Review🤦🏼‍♂️  & Comparison With W-King X10.](https://www.youtube.com/watch?v=qFEtEaSZnqc)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
-    - [Direct Speakerranking Link](/portable/speakers/W-King-X10/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

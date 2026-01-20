@@ -25,7 +25,6 @@ The JBL Clip 5 ranks #18 out of 41 total [Small Size Portable Bluetooth Speakers
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/CLIP-5.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-5/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -30,7 +30,6 @@ The JBL Boombox 3 Wifi ranks #20 out of 69 total [Boombox Size Portable Bluetoot
     - [Mateusz Cholewa: Soundcore Rave 3🧐 🆚 Jbl Boombox 3 WiFi](https://www.youtube.com/watch?v=77pcClYhI6I)
 - Links
     - [Official Product Page](https://www.jbl.com/wifi-speakers/BOOMBOX-3-WIFI.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3-Wifi/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

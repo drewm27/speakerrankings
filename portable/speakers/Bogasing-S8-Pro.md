@@ -22,8 +22,6 @@ The Bogasing S8 Pro ranks #57 out of 72 total [Large Size Portable Bluetooth Spe
     - [Mateusz Cholewa: BOGASING S8 Pro MAX HiFi ?🆚 MARSHALL🎸MIDDELTON](https://www.youtube.com/watch?v=-70aPJuPOqI)
     - [Mateusz Cholewa: BOGASING S8 Pro Max  „HiFi” 🎶🧐🆚 Harman Kardon Go Play 3 „HiFi”🔊](https://www.youtube.com/watch?v=oKOUKRaq1M8)
     - <https://www.youtube.com/watch?v=mwH-ItQf-bc>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Bogasing-S8-Pro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

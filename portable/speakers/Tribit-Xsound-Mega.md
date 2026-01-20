@@ -31,8 +31,6 @@ The Tribit Xsound Mega ranks #20 out of 130 total [Medium Size Portable Bluetoot
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Flow vs XSound Mega - Sound Comparison, Stock EQ, Both Mono Sound 😶‍🌫️ A Family Feud](https://www.youtube.com/watch?v=PMDSpH3mNB8)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
     - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Mega/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -19,8 +19,6 @@ The Altec Lansing AL500 ranks #42 out of 43 total [Party Size Portable Bluetooth
 - Weight: 14.4lbs / 6.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing- ☠️ Street Shock (AL500) Bluetooth Speaker Review. A JBL Partybox 200/300 Killer?](https://www.youtube.com/watch?v=_09Fi5-pF7Q)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-AL500/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

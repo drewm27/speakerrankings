@@ -25,7 +25,6 @@ The Gemini GRV-650L ranks #35 out of 69 total [Boombox Size Portable Bluetooth S
     - [Jagist reviews: Philips X7207 Vs Gemini GRV-650L!!! 😏😏😏](https://www.youtube.com/watch?v=Ej9mRqO5dvs)
 - Links
     - [Official Product Page](https://geminisound.com/products/grv-650l)
-    - [Direct Speakerranking Link](/portable/speakers/Gemini-GRV-650L/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

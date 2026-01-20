@@ -24,7 +24,6 @@ The KEF Reference 1 Meta ranks #2 out of 48 total [Large Size Bookshelf Speakers
     - [Erin's Audio Corner: My Top 5 Speakers at Any Price](https://www.youtube.com/watch?v=nYK77lbgorw)
 - Links
     - [Official KEF Reference 1 Meta Website](https://us.kef.com/products/reference-1-bookshelf-speaker)
-    - [Direct Speakerranking Link](/passive/speakers/KEF-Reference-1-Meta/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

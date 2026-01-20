@@ -30,7 +30,6 @@ The KRK Rokit 5 G4 ranks #11 out of 24 total [Medium Size Powered Bookshelf Spea
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-5-generation-4-powered-studio-monitor-black)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-rokit-5-gen-4-review-studio-monitor.20711/)
-    - [Direct Speakerranking Link](/powered/speakers/KRK-Rokit-5-G4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

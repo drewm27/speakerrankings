@@ -18,7 +18,6 @@ The JBL Eon One Compact ranks #28 out of 43 total [Party Size Portable Bluetooth
     - [Precision Drive Audio: Bose S1 pro VS PD K8 VS JBL EON ONE COMPACT](https://www.youtube.com/watch?v=mIVdyFo2zgA)
 - Links
     - [Official Product Page](https://www.jbl.com/portable-pa-systems/JBL+EON+ONE+Compact.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Eon-One-Compact/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

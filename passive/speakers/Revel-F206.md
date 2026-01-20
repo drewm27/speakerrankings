@@ -24,7 +24,6 @@ The Revel F206 ranks #9 out of 25 total [Large Size Floorstanding Speakers](/pas
     - [Audio Science Review Revel F206](https://www.audiosciencereview.com/forum/index.php?threads/revel-f206-tower-speaker-review.53691/)
 - Links
     - [Official Revel F206 Website](https://www.revelspeakers.com/products/types/floorstanding/F206-.html)
-    - [Direct Speakerranking Link](/passive/speakers/Revel-F206/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -19,7 +19,6 @@ The Panasonic SC-TMAX10 ranks #34 out of 43 total [Party Size Portable Bluetooth
     - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
 - Links
     - [Official Product Page](https://www.panasonic.com/mea/en/consumer/home-entertainment/audio/mini-systems/sc-tmax10.html)
-    - [Direct Speakerranking Link](/portable/speakers/Panasonic-SC-TMAX10/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

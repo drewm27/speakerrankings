@@ -65,7 +65,6 @@ The Tribit Stormbox Blast ranks #2 out of 69 total [Boombox Size Portable Blueto
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

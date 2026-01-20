@@ -32,7 +32,6 @@ The JBL 305P MKII ranks #7 out of 24 total [Medium Size Powered Bookshelf Speake
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/jbl_305pmk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/jbl-lsr305p-mkii-and-control-1-pro-monitors-review.10811/)
-    - [Direct Speakerranking Link](/powered/speakers/JBL-305P-MKII/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

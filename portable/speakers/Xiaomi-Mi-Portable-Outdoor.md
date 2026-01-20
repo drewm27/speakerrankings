@@ -17,8 +17,6 @@ The Xiaomi Mi Portable Outdoor ranks #32 out of 41 total [Small Size Portable Bl
 - Weight: 0.41lbs / 185g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Portable-Outdoor/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

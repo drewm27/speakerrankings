@@ -23,8 +23,6 @@ The Soundcore Rave Neo ranks #59 out of 72 total [Large Size Portable Bluetooth 
     - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
     - [Alan Ross Reviews: Soundcore Rave Neo vs Rave Mega - best party speaker 2021?](https://www.youtube.com/watch?v=ePD09iI6qkI)
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Neo/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -18,7 +18,6 @@ The Genelec 8040B ranks #7 out of 21 total [Large Size Powered Bookshelf Speaker
 - Woofer: 6.5"
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
-    - [Direct Speakerranking Link](/powered/speakers/Genelec-8040B/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

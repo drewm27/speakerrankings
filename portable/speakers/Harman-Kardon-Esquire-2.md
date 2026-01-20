@@ -14,7 +14,6 @@ The Harman Kardon Esquire 2 ranks #111 out of 130 total [Medium Size Portable Bl
     - [Dynamic District: Harman Kardon Esquire 2 review](https://www.youtube.com/watch?v=HXhIh7a-vE0)
 - Links
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Esquire-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

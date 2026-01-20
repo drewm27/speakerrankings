@@ -24,7 +24,6 @@ The Dewalt Wearable Bluetooth Speaker ranks #41 out of 41 total [Small Size Port
     - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)
 - Links
     - [Official Product Page](https://www.dewalt.com/product/dxma1901158/jobsite-pro-wearable-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Dewalt-Wearable-Bluetooth-Speaker/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

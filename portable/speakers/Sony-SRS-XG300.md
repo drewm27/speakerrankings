@@ -23,7 +23,6 @@ The Sony SRS-XG300 ranks #51 out of 72 total [Large Size Portable Bluetooth Spea
     - [New Stuff TV: Sony SRS-XG300 Vs JBL Xtreme 3](https://www.youtube.com/watch?v=fY3VYy-O9eE)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg300-bz)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XG300/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

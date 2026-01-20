@@ -24,7 +24,6 @@ The Vifa City ranks #8 out of 41 total [Small Size Portable Bluetooth Speakers](
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/vifa-city)
-    - [Direct Speakerranking Link](/portable/speakers/Vifa-City/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

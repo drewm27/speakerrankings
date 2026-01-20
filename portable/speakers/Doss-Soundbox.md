@@ -16,8 +16,6 @@ The Doss Soundbox ranks #123 out of 130 total [Medium Size Portable Bluetooth Sp
 - Weight: 1.23lbs / 558g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

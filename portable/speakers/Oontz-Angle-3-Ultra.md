@@ -15,8 +15,6 @@ The Oontz Angle 3 Ultra ranks #116 out of 130 total [Medium Size Portable Blueto
 - Weight: 0.9lbs / 400g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Oontz-Angle-3-Ultra/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -14,8 +14,6 @@ The Wisetiger F10 ranks #124 out of 130 total [Medium Size Portable Bluetooth Sp
 - Weight: 1.23lbs / 550g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Wisetiger F10 Beat Boom "CHEAP & GOOD?!"](https://www.youtube.com/watch?v=PSqpd9W7oPI)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Wisetiger-F10/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

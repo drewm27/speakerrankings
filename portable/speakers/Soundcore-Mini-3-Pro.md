@@ -28,7 +28,6 @@ The Soundcore Mini 3 Pro ranks #6 out of 41 total [Small Size Portable Bluetooth
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fsoundcore-mini-3)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Mini-3-Pro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

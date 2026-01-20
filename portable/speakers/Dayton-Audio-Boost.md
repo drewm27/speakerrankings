@@ -20,7 +20,6 @@ The Dayton Audio Boost ranks #109 out of 130 total [Medium Size Portable Bluetoo
 - Weight: 0.94lbs / 426g
 - Links
     - [Official Product Page Dayton Audio Boost](https://parts-express.sjv.io/q4bNkj)
-    - [Direct Speakerranking Link](/portable/speakers/Dayton-Audio-Boost/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

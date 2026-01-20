@@ -22,7 +22,6 @@ The Adam Audio T8V ranks #15 out of 21 total [Large Size Powered Bookshelf Speak
 - Links
     - [Official Product Page](https://www.adam-audio.com/en/t-series/t8v/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t8v-studio-monitor-review.17118/)
-    - [Direct Speakerranking Link](/powered/speakers/Adam-Audio-T8V/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

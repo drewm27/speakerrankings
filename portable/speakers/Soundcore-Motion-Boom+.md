@@ -31,7 +31,6 @@ The Soundcore Motion Boom+ ranks #45 out of 69 total [Boombox Size Portable Blue
     - [DLX Willington: Tough Game! Tribit Stormbox Blast vs  Soundcore Motion Boom Plus Binaural sound samples](https://www.youtube.com/watch?v=DJGTpomhm2k)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom-plus&cjsku=A3129011)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-Boom+/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

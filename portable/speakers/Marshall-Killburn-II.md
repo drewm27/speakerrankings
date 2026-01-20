@@ -18,8 +18,6 @@ The Marshall Killburn II ranks #33 out of 72 total [Large Size Portable Bluetoot
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Killburn-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

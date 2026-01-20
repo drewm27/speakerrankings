@@ -27,7 +27,6 @@ The Monster Atomic Atom ranks #24 out of 41 total [Small Size Portable Bluetooth
     - [wwjoshdew: Monster Atomic Atom Bluetooth 5.4 Speaker](https://www.youtube.com/watch?v=4RJTt8arMM4)
 - Links
     - [Official Product Page](https://mct-audio.com/products/monster-atomic-atom)
-    - [Direct Speakerranking Link](/portable/speakers/Monster-Atomic-Atom/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

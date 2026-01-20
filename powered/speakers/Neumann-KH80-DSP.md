@@ -30,7 +30,6 @@ The Neumann KH80 DSP ranks #4 out of 24 total [Medium Size Powered Bookshelf Spe
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-80-dsp-a-g/)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/neumann_kh80/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh-80-dsp-monitor-review.11018/)
-    - [Direct Speakerranking Link](/powered/speakers/Neumann-KH80-DSP/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

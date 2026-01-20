@@ -19,8 +19,6 @@ The ION Pathfinder 320 ranks #63 out of 69 total [Boombox Size Portable Bluetoot
 - Weight: 22.7lbs / 10.3kg
 - Reviews, Comparisons and Sound Samples
     - [King Vegeta: Ion Pathfinder 320 quick review](https://www.youtube.com/watch?v=F4d76SDQPtw)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-320/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

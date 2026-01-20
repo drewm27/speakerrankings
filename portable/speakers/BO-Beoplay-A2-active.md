@@ -22,7 +22,6 @@ The B&O Beoplay A2 active ranks #13 out of 72 total [Large Size Portable Bluetoo
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
 - Links
     - [Official Product Page](https://support.bang-olufsen.com/hc/en-us/articles/360040947931-Beoplay-A2-Active)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beoplay-A2-active/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

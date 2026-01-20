@@ -28,7 +28,6 @@ The Klipsch Austin ranks #13 out of 41 total [Small Size Portable Bluetooth Spea
     - [Storytripper HD: JBL GO 4 vs TRIBIT MICRO 2 vs KLIPSCH AUSTIN vs SONY SRS-XB100](https://www.youtube.com/watch?v=cnx3ydaM8gs)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/austin)
-    - [Direct Speakerranking Link](/portable/speakers/Klipsch-Austin/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

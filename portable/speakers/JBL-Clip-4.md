@@ -30,7 +30,6 @@ The JBL Clip 4 ranks #19 out of 41 total [Small Size Portable Bluetooth Speakers
     - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)
 - Links
     - [Official Product Page](https://www.jbl.com/outdoor-speakers/CLIP+4-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -43,7 +43,6 @@ The Tribit Stormbox Micro 2 ranks #1 out of 41 total [Small Size Portable Blueto
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
-    - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Micro-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

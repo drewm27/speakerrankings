@@ -28,7 +28,6 @@ The Soundcore Select Pro ranks #12 out of 72 total [Large Size Portable Bluetoot
     - [Jay's Straight Up Reviews & More: On a Ledge 🪟 Zealot S67 🆚 Soundcore Select Pro - Bluetooth Speaker Comparison](https://www.youtube.com/watch?v=76ysec3eNto)
 - Links
     - [Official Product Page](https://support.soundcore.com/s/product/a085g000000NlyAAAS/select-pro)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Select-Pro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

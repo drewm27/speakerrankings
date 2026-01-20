@@ -16,8 +16,6 @@ The Yamaha NS-10 ranks #47 out of 48 total [Large Size Bookshelf Speakers](/pass
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Yamaha NS-10M: The Iconic Studio Monitor That Shaped Modern Music](https://www.youtube.com/watch?v=0pYKuBdhmdc)
     - [Erin's Audio Corner Website Yamaha NS-10](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns10m_studio/)
-- Links
-    - [Direct Speakerranking Link](/passive/speakers/Yamaha-NS-10/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

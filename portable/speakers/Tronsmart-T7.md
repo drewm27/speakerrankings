@@ -16,7 +16,6 @@ The Tronsmart T7 ranks #90 out of 130 total [Medium Size Portable Bluetooth Spea
     - [Daniel Pérez: Tronsmart T7 vs JBL Flip 6](https://www.youtube.com/watch?v=PJEEGkFTfOU)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-t7-portable-outdoor-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tronsmart-T7/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -22,7 +22,6 @@ The Neumann KH120 MKII ranks #1 out of 24 total [Medium Size Powered Bookshelf S
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh120-ii-monitor-review.46362/)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-120-ii)
-    - [Direct Speakerranking Link](/powered/speakers/Neumann-KH120-MKII/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

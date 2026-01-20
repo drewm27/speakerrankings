@@ -23,7 +23,6 @@ The JBL Xtreme ranks #48 out of 72 total [Large Size Portable Bluetooth Speakers
     - [Solo Trips: Klipsch The One vs Jbl Xtreme](https://www.youtube.com/watch?v=77HvEdMXy2c)
 - Links
     - [Official Product Page](https://mm.jbl.com/XTREME.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

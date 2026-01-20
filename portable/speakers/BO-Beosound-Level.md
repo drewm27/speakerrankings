@@ -20,7 +20,6 @@ The B&O Beosound Level ranks #55 out of 72 total [Large Size Portable Bluetooth 
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-level)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-Level/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -29,7 +29,6 @@ The Zealot S89 ranks #16 out of 69 total [Boombox Size Portable Bluetooth Speake
     - [Techder Audios: ZEALOT S89 VS ZEALOT ZE01 EXTREME POWERFULL VS COMPACTER BASS PERFORMANCE!](https://www.youtube.com/watch?v=6MkVOVJZL_w)
 - Links
     - [Official Product Page](https://www.zealot.com/products/portable-wireless-speaker-with-powerful-bass-and-3d-surround-sound)
-    - [Direct Speakerranking Link](/portable/speakers/Zealot-S89/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

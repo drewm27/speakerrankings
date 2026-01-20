@@ -22,7 +22,6 @@ The Kali LP-UNF ranks #5 out of 24 total [Medium Size Powered Bookshelf Speakers
 - Links
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/kali_lp_unf/)
     - [Official Product Page](https://www.kaliaudio.com/lp-unf)
-    - [Direct Speakerranking Link](/powered/speakers/Kali-LP-UNF/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

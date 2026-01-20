@@ -22,7 +22,6 @@ The Edifier R2850DB ranks #20 out of 21 total [Large Size Powered Bookshelf Spea
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/bookshelf-speakers/r2850db)
-    - [Direct Speakerranking Link](/powered/speakers/Edifier-R2850DB/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

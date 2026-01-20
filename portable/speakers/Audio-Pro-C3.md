@@ -22,7 +22,6 @@ The Audio Pro C3 ranks #16 out of 72 total [Large Size Portable Bluetooth Speake
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 - Links
     - [Official Product Page](https://www.audiopro.com/en/product/c3/)
-    - [Direct Speakerranking Link](/portable/speakers/Audio-Pro-C3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

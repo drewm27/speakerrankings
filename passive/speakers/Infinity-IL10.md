@@ -17,8 +17,6 @@ The Infinity IL10 ranks #29 out of 48 total [Large Size Bookshelf Speakers](/pas
 - Woofer: 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
-- Links
-    - [Direct Speakerranking Link](/passive/speakers/Infinity-IL10/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

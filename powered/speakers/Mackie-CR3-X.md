@@ -24,7 +24,6 @@ The Mackie CR3-X ranks #8 out of 8 total [Small Size Powered Bookshelf Speakers]
     - [Official Product Page](https://mackie.com/en/products/studio-monitoring/cr-x-series/CR3_X.html)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/mackie_cr3x/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/mackie-cr3-x-powered-monitor-review-100-pair.23389/)
-    - [Direct Speakerranking Link](/powered/speakers/Mackie-CR3-X/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

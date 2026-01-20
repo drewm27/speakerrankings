@@ -24,7 +24,6 @@ The Mofi SourcePoint 10 ranks #8 out of 48 total [Large Size Bookshelf Speakers]
     - [Erin's Audio Corner Website Mofi SourcePoint 10](https://www.erinsaudiocorner.com/loudspeakers/mofi_10/)
 - Links
     - [Official Mofi SourcePoint 10 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-10-loudspeakers)
-    - [Direct Speakerranking Link](/passive/speakers/Mofi-SourcePoint-10/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

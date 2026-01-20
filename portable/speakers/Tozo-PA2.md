@@ -13,7 +13,6 @@ The Tozo PA2 ranks #101 out of 130 total [Medium Size Portable Bluetooth Speaker
     - [Jay's Straight Up Reviews & More: The New Tozo PA2 vs PA1 😵 A Bluetooth Speaker Family Feud. Mr Hand ☝️ Makes His Return](https://www.youtube.com/watch?v=FyPCrI3jz1Y)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
-    - [Direct Speakerranking Link](/portable/speakers/Tozo-PA2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

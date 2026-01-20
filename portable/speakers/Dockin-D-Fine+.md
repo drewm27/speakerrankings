@@ -15,8 +15,6 @@ The Dockin D Fine+ ranks #30 out of 72 total [Large Size Portable Bluetooth Spea
     - <https://www.youtube.com/watch?v=O0YSspRqEoY>
     - <https://www.youtube.com/watch?v=wYjoQjCACcQ>
     - <https://www.youtube.com/watch?v=OZBmY6fQHCA>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Dockin-D-Fine+/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

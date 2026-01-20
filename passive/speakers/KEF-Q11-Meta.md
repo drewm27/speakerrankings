@@ -16,7 +16,6 @@ The KEF Q11 Meta ranks #19 out of 25 total [Large Size Floorstanding Speakers](/
     - [Erin's Audio Review Website KEF Q11 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_q11_meta/)
 - Links
     - [Official KEF Q11 Meta Website](https://us.kef.com/products/q11-meta)
-    - [Direct Speakerranking Link](/passive/speakers/KEF-Q11-Meta/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

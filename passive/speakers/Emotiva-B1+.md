@@ -18,7 +18,6 @@ The Emotiva B1+ ranks #17 out of 21 total [Medium Size Bookshelf Speakers](/pass
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
 - Links
     - [Official Emotiva B1+ Website](https://emotiva.com/products/airmotiv-b1-pair)
-    - [Direct Speakerranking Link](/passive/speakers/Emotiva-B1+/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

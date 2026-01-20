@@ -21,7 +21,6 @@ The Ultimate Ears Megaboom 3 ranks #79 out of 130 total [Medium Size Portable Bl
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Megaboom-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

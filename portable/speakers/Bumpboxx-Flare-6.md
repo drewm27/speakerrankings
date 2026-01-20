@@ -16,8 +16,6 @@ The Bumpboxx Flare 6 ranks #54 out of 69 total [Boombox Size Portable Bluetooth 
 - Weight: 13lbs / 5.9kg
 - Reviews, Comparisons and Sound Samples
     - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Bumpboxx-Flare-6/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

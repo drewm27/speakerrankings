@@ -29,7 +29,6 @@ The Edifier MR4 ranks #21 out of 24 total [Medium Size Powered Bookshelf Speaker
     - [Official Product Page](https://www.edifier.com/global/p/studio-monitors/mr4)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/edifier_mr4/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-mr4-review-budget-monitor.29068/)
-    - [Direct Speakerranking Link](/powered/speakers/Edifier-MR4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

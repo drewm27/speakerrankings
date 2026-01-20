@@ -31,7 +31,6 @@ The JBL Charge 3 ranks #66 out of 130 total [Medium Size Portable Bluetooth Spea
     - [EnforcerMan: JBL CHARGE 3 VS TREBLAB HD77 - FULL REVIEW](https://www.youtube.com/watch?v=6N6q3qppV58)
 - Links
     - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

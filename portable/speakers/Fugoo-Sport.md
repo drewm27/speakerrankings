@@ -17,7 +17,6 @@ The Fugoo Sport ranks #37 out of 130 total [Medium Size Portable Bluetooth Speak
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 - Links
     - [Official Product Page](https://fugoo.com/products/fugoo)
-    - [Direct Speakerranking Link](/portable/speakers/Fugoo-Sport/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -21,7 +21,6 @@ The Ultimate Ears Hyperboom ranks #24 out of 43 total [Party Size Portable Bluet
     - [DLX Willington: JBL Partybox 100 vs UE Hyperboom SoundBattle Does Size Matter🤔](https://www.youtube.com/watch?v=HLO_p671BgA)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/hyperboom)
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Hyperboom/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

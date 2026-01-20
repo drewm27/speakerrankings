@@ -34,7 +34,6 @@ The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks #21 out of 130 total [Mediu
     - [Alan Ross Reviews: Tribit Maxsound Plus v1 vs V2 - upgraded Maxsound Plus tested! 🏅](https://www.youtube.com/watch?v=8dxlVDGHAo4)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-maxsound-plus-bluetooth-speakers)
-    - [Direct Speakerranking Link](/portable/speakers/Tribit-Maxsound-Plus-V1V2Thunderbox-Plus/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

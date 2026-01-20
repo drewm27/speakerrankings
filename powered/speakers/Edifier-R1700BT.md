@@ -25,7 +25,6 @@ The Edifier R1700BT ranks #22 out of 24 total [Medium Size Powered Bookshelf Spe
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1700BT sound.DEMO](https://www.youtube.com/watch?v=A7OiJFDdH1Q)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
-    - [Direct Speakerranking Link](/powered/speakers/Edifier-R1700BT/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

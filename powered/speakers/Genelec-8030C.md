@@ -21,7 +21,6 @@ The Genelec 8030C ranks #2 out of 24 total [Medium Size Powered Bookshelf Speake
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8030c-studio-monitor-review.14795/)
 - Links
     - [Official Product Page](https://www.genelec.com/8030c)
-    - [Direct Speakerranking Link](/powered/speakers/Genelec-8030C/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

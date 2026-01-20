@@ -19,7 +19,6 @@ The Hopestar A6 Pro ranks #67 out of 72 total [Large Size Portable Bluetooth Spe
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
 - Links
     - [Official Product Page](https://hopestarshop.com/products/hopestar-a6-pro)
-    - [Direct Speakerranking Link](/portable/speakers/Hopestar-A6-Pro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

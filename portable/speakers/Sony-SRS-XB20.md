@@ -18,7 +18,6 @@ The Sony SRS-XB20 ranks #88 out of 130 total [Medium Size Portable Bluetooth Spe
     - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb20/manuals)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB20/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

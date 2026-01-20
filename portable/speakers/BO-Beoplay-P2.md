@@ -23,7 +23,6 @@ The B&O Beoplay P2 ranks #14 out of 41 total [Small Size Portable Bluetooth Spea
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beoplay-p2)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beoplay-P2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

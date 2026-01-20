@@ -23,7 +23,6 @@ The Harman Kardon Citation 200 ranks #13 out of 69 total [Boombox Size Portable 
     - [KULAS TECH SHOW: Harman Kardon Citation 200 vs Onyx Studio 7 Bass comparison](https://www.youtube.com/watch?v=nhXQE196GvQ)
 - Links
     - [Official Product Page](https://www.harmankardon.com/home-audio/CITATION+200-.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Citation-200/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

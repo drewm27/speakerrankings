@@ -13,7 +13,6 @@ The ELAC Uni-Fi 2.0 UB52 ranks #12 out of 21 total [Medium Size Bookshelf Speake
     - [Audio Science Review ELAC Uni-Fi 2.0 UB52](https://www.audiosciencereview.com/forum/index.php?threads/elac-uni-fi-2-0-review-bookshelf-speaker.19216/)
 - Links
     - [Official ELAC Uni-Fi 2.0 UB52 Website](https://elac.com/ub52)
-    - [Direct Speakerranking Link](/passive/speakers/ELAC-Uni-Fi-2.0-UB52/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

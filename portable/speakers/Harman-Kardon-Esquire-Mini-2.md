@@ -24,7 +24,6 @@ The Harman Kardon Esquire Mini 2 ranks #37 out of 41 total [Small Size Portable 
     - [Jaky9114: Harman Kardon Esquire Mini 2](https://www.youtube.com/watch?v=sQT7_LLqJ4M)
 - Links
     - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Esquire-Mini-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

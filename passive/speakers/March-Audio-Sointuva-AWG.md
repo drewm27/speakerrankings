@@ -24,7 +24,6 @@ The March Audio Sointuva AWG ranks #3 out of 48 total [Large Size Bookshelf Spea
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official March Audio Sointuva AWG Website](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)
-    - [Direct Speakerranking Link](/passive/speakers/March-Audio-Sointuva-AWG/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

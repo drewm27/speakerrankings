@@ -11,8 +11,6 @@ The Verdant Audio Bambusa AL-1 ranks #13 out of 21 total [Medium Size Bookshelf 
 - Negatives: Overpriced for the performance and not recommended.
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Verdant Audio Bambusa AL-1](https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/)
-- Links
-    - [Direct Speakerranking Link](/passive/speakers/Verdant-Audio-Bambusa-AL-1/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

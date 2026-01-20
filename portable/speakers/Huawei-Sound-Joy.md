@@ -19,8 +19,6 @@ The Huawei Sound Joy ranks #36 out of 130 total [Medium Size Portable Bluetooth 
     - [Alan Ross Reviews: Huawei Sound Joy Devialet speaker review - Joy or Despair?? 🤷‍♀️](https://www.youtube.com/watch?v=QoJKsPaofl0)
     - [Alan Ross Reviews: Huawei sound joy vs JBL Charge 5 and Flip 6 - top mono speaker! 🤓](https://www.youtube.com/watch?v=xLJs_zM0UMg)
     - [Alan Ross Reviews: Huawei Sound Joy vs Sony xb23 - worse or worser? 🤭](https://www.youtube.com/watch?v=MeQ5llKSqvc)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Huawei-Sound-Joy/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

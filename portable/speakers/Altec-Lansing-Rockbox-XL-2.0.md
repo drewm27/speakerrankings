@@ -16,7 +16,6 @@ The Altec Lansing Rockbox XL 2.0 ranks #67 out of 69 total [Boombox Size Portabl
     - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links
     - [Official Product Page](https://alteclansing.com/products/rockbox-xl-2)
-    - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Rockbox-XL-2.0/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

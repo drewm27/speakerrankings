@@ -29,7 +29,6 @@ The JBL Partybox 300 ranks #6 out of 43 total [Party Size Portable Bluetooth Spe
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBL+PartyBox+300.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-300/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

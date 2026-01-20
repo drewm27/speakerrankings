@@ -22,7 +22,6 @@ The JBL Charge Essential 2 ranks #35 out of 130 total [Medium Size Portable Blue
     - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
     - [Official Product Page](https://www.jbl.com/CHARGE-ESSENTIAL-2-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-Essential-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

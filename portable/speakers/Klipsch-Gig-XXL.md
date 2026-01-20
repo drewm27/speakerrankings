@@ -30,7 +30,6 @@ The Klipsch Gig XXL ranks #16 out of 43 total [Party Size Portable Bluetooth Spe
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs ONN Large Party Speaker Gen 2 ⚔️ Budge Bluetooth Speaker Battle🔉 Bass Boost On](https://www.youtube.com/watch?v=CdhU1W-5pr4)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/gig-xxl-party-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Klipsch-Gig-XXL/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

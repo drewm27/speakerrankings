@@ -38,7 +38,6 @@ The JBL Charge 6 ranks #11 out of 130 total [Medium Size Portable Bluetooth Spea
     - [Oluv: JBL Charge 6 - good or bad?](https://www.patreon.com/posts/jbl-charge-6-or-126781662)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-6/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

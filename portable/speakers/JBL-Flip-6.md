@@ -48,7 +48,6 @@ The JBL Flip 6 ranks #12 out of 130 total [Medium Size Portable Bluetooth Speake
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-6/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

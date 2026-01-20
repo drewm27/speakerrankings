@@ -17,7 +17,6 @@ The Klipsch Forge IV ranks #24 out of 25 total [Large Size Floorstanding Speaker
     - [Erin's Audio Review Website Klipsch Forge IV](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv/)
 - Links
     - [Official Klipsch Forge IV Website](https://www.klipsch.com/uk/products/forte-iv-floorstanding-speaker)
-    - [Direct Speakerranking Link](/passive/speakers/Klipsch-Forge-IV/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

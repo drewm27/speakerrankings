@@ -15,8 +15,6 @@ The Doss E-Go II ranks #125 out of 130 total [Medium Size Portable Bluetooth Spe
 - MicroSD: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Doss-E-Go-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

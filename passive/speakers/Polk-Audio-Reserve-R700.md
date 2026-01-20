@@ -19,7 +19,6 @@ The Polk Audio Reserve R700 ranks #15 out of 25 total [Large Size Floorstanding 
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Polk Audio Reserve R700 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r700/300035.html)
-    - [Direct Speakerranking Link](/passive/speakers/Polk-Audio-Reserve-R700/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -26,7 +26,6 @@ The Xiaomi Sound Party ranks #19 out of 130 total [Medium Size Portable Bluetoot
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-party/)
-    - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Sound-Party/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

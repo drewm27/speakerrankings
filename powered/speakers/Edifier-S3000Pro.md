@@ -20,7 +20,6 @@ The Edifier S3000Pro ranks #21 out of 21 total [Large Size Powered Bookshelf Spe
     - [DSAUDIO.review: Edifier S3000 Pro DSP Modes Demo   Sound & Frequency Respnse Comparison](https://www.youtube.com/watch?v=Dsh3A4B6Lbo)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-s3000pro-brown)
-    - [Direct Speakerranking Link](/powered/speakers/Edifier-S3000Pro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

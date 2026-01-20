@@ -24,7 +24,6 @@ The Teufel Boomster 2021 ranks #32 out of 69 total [Boombox Size Portable Blueto
     - [Mateusz Cholewa: 2 x 🔊Teufel Boomster 2021🎵 vs JBL Boombox 2 AC🔌 Power Test Audio🎧.](https://www.youtube.com/watch?v=jsUSaTb7Ojs)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/boomster-106141000)
-    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-2021/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

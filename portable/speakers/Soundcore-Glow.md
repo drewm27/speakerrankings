@@ -16,7 +16,6 @@ The Soundcore Glow ranks #44 out of 130 total [Medium Size Portable Bluetooth Sp
     - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa3166011)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Glow/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

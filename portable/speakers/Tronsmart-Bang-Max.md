@@ -29,7 +29,6 @@ The Tronsmart Bang Max ranks #33 out of 69 total [Boombox Size Portable Bluetoot
     - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Bang-Max/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

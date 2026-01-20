@@ -43,7 +43,6 @@ The JBL Partybox Encore ranks #6 out of 69 total [Boombox Size Portable Bluetoot
     - [Dominik Reviews: Soundcore Rave 3 vs JBL Partybox Encore - Quick Sound Test! 🤗](https://www.youtube.com/watch?v=zjXx2ob3-fI)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -25,7 +25,6 @@ The Dayton Audio Boost Mini ranks #25 out of 41 total [Small Size Portable Bluet
 - Weight: 0.4lbs / 185g
 - Links
     - [Official Product Page Dayton Audio Boost Mini](https://parts-express.sjv.io/DKX1Ba)
-    - [Direct Speakerranking Link](/portable/speakers/Dayton-Audio-Boost-Mini/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

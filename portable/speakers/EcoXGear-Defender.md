@@ -17,7 +17,6 @@ The EcoXGear Defender ranks #55 out of 69 total [Boombox Size Portable Bluetooth
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
 - Links
     - [Official Product Page](https://ecoxgear.com/products/defender)
-    - [Direct Speakerranking Link](/portable/speakers/EcoXGear-Defender/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

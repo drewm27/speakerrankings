@@ -32,7 +32,6 @@ The Yamaha HS8 ranks #14 out of 21 total [Large Size Powered Bookshelf Speakers]
     - [DSAUDIO.review: Yamaha HS8  vs  IK Multimedia iLoud MTM   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Jhm85bHp9_c)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
-    - [Direct Speakerranking Link](/powered/speakers/Yamaha-HS8/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -21,7 +21,6 @@ The Teufel Boomster Go ranks #5 out of 41 total [Small Size Portable Bluetooth S
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/boomster-go-105954000)
-    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-Go/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

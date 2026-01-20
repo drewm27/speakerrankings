@@ -15,8 +15,6 @@ The Beats Pill+ ranks #120 out of 130 total [Medium Size Portable Bluetooth Spea
 - Weight: 1.5lbs / 0.7kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Beats-Pill+/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

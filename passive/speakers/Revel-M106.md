@@ -20,7 +20,6 @@ The Revel M106 ranks #14 out of 48 total [Large Size Bookshelf Speakers](/passiv
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links
     - [Official Revel M106 Website](https://www.revelspeakers.com/products/types/bookshelf/M106-.html)
-    - [Direct Speakerranking Link](/passive/speakers/Revel-M106/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

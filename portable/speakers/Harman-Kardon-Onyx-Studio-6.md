@@ -31,7 +31,6 @@ The Harman Kardon Onyx Studio 6 ranks #12 out of 69 total [Boombox Size Portable
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX+STUDIO+6.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-6/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

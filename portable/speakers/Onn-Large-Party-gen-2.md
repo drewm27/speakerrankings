@@ -26,8 +26,6 @@ The Onn Large Party gen 2 ranks #13 out of 43 total [Party Size Portable Bluetoo
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox Encore  🛻 Tailgater Special 🔋 Battery Powered](https://www.youtube.com/watch?v=6YjGuQPD52w)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen. 2 (Bass Boost On) vs JBL Partybox 110 (Bass Boost 1)🩻Battery Powered🔋](https://www.youtube.com/watch?v=Z727n9aBfgw)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Onn-Large-Party-gen-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

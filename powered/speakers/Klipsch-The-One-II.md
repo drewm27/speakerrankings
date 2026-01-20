@@ -19,7 +19,6 @@ The Klipsch The One II ranks #12 out of 12 total [Medium Size Powered Desktop Sp
     - [Solo Trips: Klipsch The One vs Jbl Xtreme](https://www.youtube.com/watch?v=77HvEdMXy2c)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/the-one-ii)
-    - [Direct Speakerranking Link](/powered/speakers/Klipsch-The-One-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

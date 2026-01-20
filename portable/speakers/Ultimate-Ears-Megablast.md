@@ -14,7 +14,6 @@ The Ultimate Ears Megablast ranks #56 out of 72 total [Large Size Portable Bluet
 - Weight: 2.4lbs / 1.1kg
 - Links
     - [Official Product Page](https://www.ultimateears.com/it-it/wireless-speakers/megablast.html)
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Megablast/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

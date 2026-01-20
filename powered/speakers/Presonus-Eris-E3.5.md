@@ -26,7 +26,6 @@ The Presonus Eris E3.5 ranks #7 out of 8 total [Small Size Powered Bookshelf Spe
     - [Official Product Page](https://legacy.presonus.com/products/Eris-E35)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/presonus_eris3.5_mk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/presonus-eris-e3-5-powered-monitor-review-100-pair.23388/)
-    - [Direct Speakerranking Link](/powered/speakers/Presonus-Eris-E3.5/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

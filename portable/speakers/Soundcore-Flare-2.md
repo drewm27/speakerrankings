@@ -24,7 +24,6 @@ The Soundcore Flare 2 ranks #99 out of 130 total [Medium Size Portable Bluetooth
     - [Alan Ross Reviews: Soundcore Flare 2 - mega 360 degree speaker shootout!](https://www.youtube.com/watch?v=X_Ol81BBuWk)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Flare-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

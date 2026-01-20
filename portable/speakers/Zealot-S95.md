@@ -31,7 +31,6 @@ The Zealot S95 ranks #24 out of 69 total [Boombox Size Portable Bluetooth Speake
     - [Techder Audios: W-king X20 VS Zealot S95 DEEP BASS VS DEEPER & LOUDER BASS?!](https://www.youtube.com/watch?v=FEW4UmyDHoY)
 - Links
     - [Official Product Page](https://www.zealot.com/products/zealot-120w-bluetooth-speaker--wireless-speakers-ipx6-waterproof-loud-bluetooth-subwoofer-speaker-with-led-light--40h-playtime--custom-eq--portable-wireless-stereo-paired-speakers-for-outdoor--party-b0dnf682pp)
-    - [Direct Speakerranking Link](/portable/speakers/Zealot-S95/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

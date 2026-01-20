@@ -19,8 +19,6 @@ The Wharfedale Diamond 9.1 ranks #44 out of 48 total [Large Size Bookshelf Speak
 - Reviews, Comparisons and Sound Samples
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
     - [Hi-Fi World Warfedale's Diamond 9.1 Review](https://www.hi-fiworld.co.uk/index.php/loudspeakers/65-reviews/135-wharfedale-diamond-91.html)
-- Links
-    - [Direct Speakerranking Link](/passive/speakers/Wharfedale-Diamond-9.1/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

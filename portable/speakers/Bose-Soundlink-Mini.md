@@ -23,7 +23,6 @@ The Bose Soundlink Mini ranks #56 out of 130 total [Medium Size Portable Bluetoo
     - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
 - Links
     - [Official Product Page](https://support.bose.com/s/product/soundlink-mini-bluetooth-speaker/01t8c00000OydNqAAJ)
-    - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Mini/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

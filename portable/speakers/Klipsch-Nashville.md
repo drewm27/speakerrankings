@@ -27,7 +27,6 @@ The Klipsch Nashville ranks #64 out of 130 total [Medium Size Portable Bluetooth
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/nashville)
-    - [Direct Speakerranking Link](/portable/speakers/Klipsch-Nashville/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -29,7 +29,6 @@ The Dockin D Fine+ 2 ranks #23 out of 72 total [Large Size Portable Bluetooth Sp
     - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
 - Links
     - [Official Product Page](https://dockin.de/products/dockin-d-fine-1)
-    - [Direct Speakerranking Link](/portable/speakers/Dockin-D-Fine+-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

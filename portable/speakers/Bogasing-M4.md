@@ -28,8 +28,6 @@ The Bogasing M4 ranks #24 out of 130 total [Medium Size Portable Bluetooth Speak
     - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
     - [Alan Ross Reviews: Bogasing M4 or Soundcore Boost or Maxsound Plus for $50 champion?? 🤷‍♀️](https://www.youtube.com/watch?v=7XZgoEVW7Ng)
     - [Alan Ross Reviews: Tronsmart Element Force review vs Bogasing M4 - cheap speaker 🤑](https://www.youtube.com/watch?v=1btEBiXCEF0)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Bogasing-M4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

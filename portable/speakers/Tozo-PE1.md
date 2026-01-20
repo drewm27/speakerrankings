@@ -27,7 +27,6 @@ The Tozo PE1 ranks #17 out of 41 total [Small Size Portable Bluetooth Speakers](
     - [Electric Chris Chris Vanderstock: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pe1-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Tozo-PE1/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

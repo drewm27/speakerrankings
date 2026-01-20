@@ -22,7 +22,6 @@ The ATC SCM19 ranks #37 out of 48 total [Large Size Bookshelf Speakers](/passive
     - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)
 - Links
     - [Official ATC SCM19 Website](https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/)
-    - [Direct Speakerranking Link](/passive/speakers/ATC-SCM19/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

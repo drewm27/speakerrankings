@@ -34,7 +34,6 @@ The JBL Partybox Encore Essential ranks #7 out of 69 total [Boombox Size Portabl
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox Encore Essential (Pee-Wee) - Indoors, Plugged In🔌 Bluetooth Speakers](https://www.youtube.com/watch?v=qgelmChNgAE)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore-Essential/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

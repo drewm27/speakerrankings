@@ -21,7 +21,6 @@ The Klipsch Groove/Heritage Groove ranks #85 out of 130 total [Medium Size Porta
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
 - Links
     - [Official Product Page](https://www.klipsch.com/products/groove-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Klipsch-GrooveHeritage-Groove/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

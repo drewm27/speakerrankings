@@ -12,7 +12,6 @@ The Wharfedale Diamond 12.1 ranks #9 out of 21 total [Medium Size Bookshelf Spea
     - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-review-speaker.26780/)
 - Links
     - [Official Wharfedale Diamond 12.1 Website](https://www.wharfedale.co.uk/diamond-12-1/)
-    - [Direct Speakerranking Link](/passive/speakers/Wharfedale-Diamond-12.1/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

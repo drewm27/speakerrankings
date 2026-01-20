@@ -24,7 +24,6 @@ The Philharmonic BMR Monitor ranks #12 out of 48 total [Large Size Bookshelf Spe
     - [Erin's Audio Corner Website Philharmonic BMR Monitor](https://www.erinsaudiocorner.com/loudspeakers/philharmonic_bmr_v2/)
 - Links
     - [Official Mofi SourcePoint 8 Website](https://philharmonicaudio.com/products/bmr-monitor)
-    - [Direct Speakerranking Link](/passive/speakers/Philharmonic-BMR-Monitor/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

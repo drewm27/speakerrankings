@@ -25,7 +25,6 @@ The Soundboks Go ranks #25 out of 43 total [Party Size Portable Bluetooth Speake
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-15571491)
-    - [Direct Speakerranking Link](/portable/speakers/Soundboks-Go/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

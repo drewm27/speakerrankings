@@ -30,7 +30,6 @@ The KEF R3 Meta ranks #6 out of 48 total [Large Size Bookshelf Speakers](/passiv
     - [New Record Day: The Gold Standard Of "Pretty Good"  KEF R3 Meta Review](https://www.youtube.com/watch?v=bIWY8NCk0qA)
 - Links
     - [Official KEF R3 Meta Website](https://us.kef.com/products/r3-meta)
-    - [Direct Speakerranking Link](/passive/speakers/KEF-R3-Meta/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

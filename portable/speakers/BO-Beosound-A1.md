@@ -35,7 +35,6 @@ The B&O Beosound A1 ranks #9 out of 130 total [Medium Size Portable Bluetooth Sp
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

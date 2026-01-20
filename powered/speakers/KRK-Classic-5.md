@@ -26,7 +26,6 @@ The KRK Classic 5 ranks #18 out of 24 total [Medium Size Powered Bookshelf Speak
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/classic-5-powered-studio-monitor-pack)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/krk-classic-5-review-studio-monitor.19031/)
-    - [Direct Speakerranking Link](/powered/speakers/KRK-Classic-5/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

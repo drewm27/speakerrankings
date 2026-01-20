@@ -15,8 +15,6 @@ The Doss Soundbox Pro ranks #122 out of 130 total [Medium Size Portable Bluetoot
 - Weight: 1.23lbs / 558g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox-Pro/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

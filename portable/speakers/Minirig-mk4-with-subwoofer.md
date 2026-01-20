@@ -30,7 +30,6 @@ The Minirig mk4 with subwoofer ranks #2 out of 72 total [Large Size Portable Blu
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
     - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
-    - [Direct Speakerranking Link](/portable/speakers/Minirig-mk4-with-subwoofer/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

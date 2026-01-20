@@ -25,7 +25,6 @@ The Revel Concerta2 F35 ranks #14 out of 25 total [Large Size Floorstanding Spea
     - [Erin's Audio Review Website Revel Concerta2 F35](https://www.erinsaudiocorner.com/loudspeakers/revel_f35/)
 - Links
     - [Official Revel Concerta2 F35 Website](https://www.revelspeakers.com/products/types/floorstanding/F35-.html)
-    - [Direct Speakerranking Link](/passive/speakers/Revel-Concerta2-F35/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

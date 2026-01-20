@@ -20,8 +20,6 @@ The ION Pathfinder 4 ranks #57 out of 69 total [Boombox Size Portable Bluetooth 
 - Weight: 25lbs / 11kg
 - Reviews, Comparisons and Sound Samples
     - [ReggieTECH: ION Pathfinder 4 Speaker - Unboxing, Review & Test](https://www.youtube.com/watch?v=zlAsAJtwNS8)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-4/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

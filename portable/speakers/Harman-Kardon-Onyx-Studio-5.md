@@ -23,7 +23,6 @@ The Harman Kardon Onyx Studio 5 ranks #19 out of 69 total [Boombox Size Portable
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+5.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-5/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

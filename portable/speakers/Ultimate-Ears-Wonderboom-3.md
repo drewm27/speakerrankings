@@ -23,7 +23,6 @@ The Ultimate Ears Wonderboom 3 ranks #80 out of 130 total [Medium Size Portable 
     - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/wonderboom-3)
-    - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Wonderboom-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

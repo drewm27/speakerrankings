@@ -19,8 +19,6 @@ The W-King D8 Mini ranks #100 out of 130 total [Medium Size Portable Bluetooth S
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
     - [Alan Ross Reviews: W King D8 Mini review vs JBL Charge 4 vs Maxsound Plus](https://www.youtube.com/watch?v=KgMDRxajEZw)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/W-King-D8-Mini/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

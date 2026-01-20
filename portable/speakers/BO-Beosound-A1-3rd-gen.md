@@ -27,7 +27,6 @@ The B&O Beosound A1 3rd gen ranks #18 out of 130 total [Medium Size Portable Blu
     - [Oluv: B&O Beosound A1 3rd gen - outdoor test](https://www.patreon.com/posts/b-o-beosound-a1-128729314)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-3rd-gen/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

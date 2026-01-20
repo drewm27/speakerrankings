@@ -31,7 +31,6 @@ The Zealot ZE21 ranks #15 out of 69 total [Boombox Size Portable Bluetooth Speak
     - [Jay's Straight Up Reviews & More: Zealot ZE21 vs JBL Boombox 3 Tailgater Special @20ft. The Budget Beast Against the OG Boombox](https://www.youtube.com/watch?v=6iCXmjbgsrA)
 - Links
     - [Official Product Page](https://www.zealot.com/products/zealot-ze21-portable-bluetooth-speaker-high-volume-waterproof-wireless-tws-subwoofer-support-u)
-    - [Direct Speakerranking Link](/portable/speakers/Zealot-ZE21/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

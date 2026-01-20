@@ -21,7 +21,6 @@ The Audioengine HD6 ranks #19 out of 24 total [Medium Size Powered Bookshelf Spe
     - [DSAUDIO.review: Audioengine HD6 vs Audioengine A5+   5 Track Comparison](https://www.youtube.com/watch?v=g3Jx7d_iMo4)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd6-wireless-speakers%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D155&cjsku=155)
-    - [Direct Speakerranking Link](/powered/speakers/Audioengine-HD6/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

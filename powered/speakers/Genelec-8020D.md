@@ -27,7 +27,6 @@ The Genelec 8020D ranks #3 out of 24 total [Medium Size Powered Bookshelf Speake
     - [DSAUDIO.review: Genelec 8020D & KRK Rokit 5 G4 PR5G4  - Same, same, but different   Sound & Response Comparison](https://www.youtube.com/watch?v=sSnQcUAkMDo)
 - Links
     - [Official Product Page](https://www.genelec.com/8020d)
-    - [Direct Speakerranking Link](/powered/speakers/Genelec-8020D/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

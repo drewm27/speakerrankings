@@ -12,8 +12,6 @@ The EFM Toledo ranks #119 out of 130 total [Medium Size Portable Bluetooth Speak
 - Battery Life: 15 hours
 - Reviews, Comparisons and Sound Samples
     - [DankPods: The bluetooth speaker shootout.](https://www.youtube.com/watch?v=SmF_9L5FM7w)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/EFM-Toledo/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

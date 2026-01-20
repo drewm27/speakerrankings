@@ -15,8 +15,6 @@ The Cabasse Swell ranks #96 out of 130 total [Medium Size Portable Bluetooth Spe
 - Weight: 1.65lbs / 750g
 - Reviews, Comparisons and Sound Samples
     - [Speaker Toni: Cabasse Swell - Unboxing and first impressions...](https://www.youtube.com/watch?v=YsttqCS46QQ)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Cabasse-Swell/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -14,8 +14,6 @@ The Zealot S61 ranks #128 out of 130 total [Medium Size Portable Bluetooth Speak
 - Weight: 1.47lbs / 665g
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Zealot S61 🦨 Bluetooth Speaker Review & Sound Comparison to Tribit XSound Surf. Another Zealot dud❓](https://www.youtube.com/watch?v=ADGFOxmXROs)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Zealot-S61/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

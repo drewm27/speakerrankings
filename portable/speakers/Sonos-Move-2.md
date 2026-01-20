@@ -22,7 +22,6 @@ The Sonos Move 2 ranks #22 out of 72 total [Large Size Portable Bluetooth Speake
     - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/move-2)
-    - [Direct Speakerranking Link](/portable/speakers/Sonos-Move-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

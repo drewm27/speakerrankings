@@ -32,7 +32,6 @@ The JBL Partybox Stage 320 ranks #1 out of 43 total [Party Size Portable Bluetoo
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-STAGE-320.html)
-    - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Stage-320/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

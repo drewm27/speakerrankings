@@ -23,7 +23,6 @@ The APS Klasik 2020 ranks #8 out of 21 total [Large Size Powered Bookshelf Speak
 - Links
     - [Official Product Page](https://www.aps-company.com/klasik-2020-en/)
     - [Sound On Sound Measurements and Review](https://www.soundonsound.com/reviews/aps-klasik-2020)
-    - [Direct Speakerranking Link](/powered/speakers/APS-Klasik-2020/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

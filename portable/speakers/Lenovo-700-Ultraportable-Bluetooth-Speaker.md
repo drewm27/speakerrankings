@@ -21,7 +21,6 @@ The Lenovo 700 Ultraportable Bluetooth Speaker ranks #39 out of 41 total [Small 
     - [thomas vanderkin (The Vanderkinverse): Lenovo 700 Ultraportable Bluetooth Speaker](https://www.youtube.com/watch?v=6CtZiXCJF18)
 - Links
     - [Official Product Page](https://www.lenovo.com/us/en/p/accessories-and-software/audio/speakers/4xd0t32974)
-    - [Direct Speakerranking Link](/portable/speakers/Lenovo-700-Ultraportable-Bluetooth-Speaker/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

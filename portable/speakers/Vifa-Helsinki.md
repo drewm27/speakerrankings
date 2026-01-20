@@ -26,7 +26,6 @@ The Vifa Helsinki ranks #1 out of 72 total [Large Size Portable Bluetooth Speake
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/helsinki)
-    - [Direct Speakerranking Link](/portable/speakers/Vifa-Helsinki/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

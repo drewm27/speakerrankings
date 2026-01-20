@@ -22,8 +22,6 @@ The Marshall Acton II ranks #9 out of 12 total [Medium Size Powered Desktop Spea
     - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
     - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
-- Links
-    - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

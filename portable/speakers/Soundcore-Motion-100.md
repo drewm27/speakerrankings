@@ -24,7 +24,6 @@ The Soundcore Motion 100 ranks #40 out of 130 total [Medium Size Portable Blueto
     - [Oluv: SoundCore Motion 100 - first impressions](https://www.patreon.com/posts/soundcore-motion-94092689)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-100-a3133011)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-100/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

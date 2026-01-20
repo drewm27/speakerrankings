@@ -24,7 +24,6 @@ The Soundcore Select 4 Go ranks #20 out of 41 total [Small Size Portable Bluetoo
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa31x1)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Select-4-Go/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

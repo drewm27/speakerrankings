@@ -14,7 +14,6 @@ The LG Xboom XG7 ranks #64 out of 72 total [Large Size Portable Bluetooth Speake
     - [Techder Audios: Lg Xg7 Vs Soundcore Motion+  "CAN LG DEFEAT BEST BUDGET SPEAKER?!"](https://www.youtube.com/watch?v=7KG0dPs-xUQ)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg7qbk-portable-bluetooth-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-XG7/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

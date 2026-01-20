@@ -24,7 +24,6 @@ The Presonus Eris E5 XT ranks #12 out of 24 total [Medium Size Powered Bookshelf
     - [DSAUDIO.review: PreSonus E5 XT  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vF_z1f5Idbk)
 - Links
     - [Official Product Page](https://legacy.presonus.com/products/Eris-E5-XT)
-    - [Direct Speakerranking Link](/powered/speakers/Presonus-Eris-E5-XT/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

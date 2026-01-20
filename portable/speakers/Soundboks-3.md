@@ -31,7 +31,6 @@ The Soundboks 3 ranks #22 out of 43 total [Party Size Portable Bluetooth Speaker
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-15571488)
-    - [Direct Speakerranking Link](/portable/speakers/Soundboks-3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

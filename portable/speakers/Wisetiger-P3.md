@@ -23,8 +23,6 @@ The Wisetiger P3 ranks #16 out of 130 total [Medium Size Portable Bluetooth Spea
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL Flip 6 Martin Garrix Edition VS Wisetiger P3 "PRICEY VS REAL CHEAP?!"](https://www.youtube.com/watch?v=LnNR_uVowaw)
     - [Techder Audios: Wisetiger P3 VS Mifa Wildrod "BEST CHEAP SPEAKERS?!"](https://www.youtube.com/watch?v=ikGFsH2aeZ8)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Wisetiger-P3/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -27,7 +27,6 @@ The Marshall Middleton II ranks #25 out of 72 total [Large Size Portable Bluetoo
     - [Dominik Reviews: Marshall Middleton II vs Middleton I - Huge Differences? - Sound Test](https://www.youtube.com/watch?v=GYuq-dc_zNI)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton-ii)
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Middleton-II/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

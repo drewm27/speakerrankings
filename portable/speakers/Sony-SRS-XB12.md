@@ -28,7 +28,6 @@ The Sony SRS-XB12 ranks #34 out of 41 total [Small Size Portable Bluetooth Speak
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
-    - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB12/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

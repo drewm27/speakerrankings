@@ -19,7 +19,6 @@ The Diamondboxx L2 ranks #30 out of 43 total [Party Size Portable Bluetooth Spea
     - <https://www.youtube.com/watch?v=zjpNEBJDq_U>
 - Links
     - [Official Product Page](https://diamondboxx.com/collections/wireless_speakers)
-    - [Direct Speakerranking Link](/portable/speakers/Diamondboxx-L2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
