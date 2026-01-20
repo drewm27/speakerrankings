@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Neumann KH80 DSP ranks #4 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Neumann KH80 DSP ranks #4 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Neumann KH80 DSP ranks #4 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/#4-neumann-kh80-dsp-amazon-used-listings-1100-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 [Neumann KH80 DSP](https://www.amazon.com/Neumann-DSP-Powered-Studio-Monitor/dp/B06VTFL9Q6?&linkCode=ll1&tag=rankingspea01-20&linkId=f8009cb551c89b8401f8a9ec7b91220c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Neumann-DSP-Powered-Studio-Monitor/dp/B06VTFL9Q6?&linkCode=ll1&tag=rankingspea01-20&linkId=f8009cb551c89b8401f8a9ec7b91220c&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH80+DSP)]: $1100 a pair
 - Positives: Near identical sound to the 8020D. 8020D is slightly cleaner, KH80 is slightly warmer.

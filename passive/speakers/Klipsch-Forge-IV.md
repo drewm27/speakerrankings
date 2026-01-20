@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Klipsch Forge IV ranks #24 out of 25 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Klipsch Forge IV ranks #24 out of 25 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Klipsch Forge IV ranks #24 out of 25 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/#24-klipsch-forge-iv-crutchfield-used-listings-5500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #24 [Klipsch Forge IV](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html) [[Crutchfield](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+Forge+IV)]: $5500
 - Negatives: 4dB peak at 6khz, 3dB dip at 7khz, 3dB peak at 8.5khz. Very peaky up top. Bass rolls off quite quick due to the high sensitivity. Not recommended

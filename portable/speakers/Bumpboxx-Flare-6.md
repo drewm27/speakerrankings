@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Bumpboxx Flare 6 ranks #54 out of 69 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Bumpboxx Flare 6 ranks #54 out of 69 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bumpboxx Flare 6 ranks #54 out of 69 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/#54-bumpboxx-flare-6-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #54 Bumpboxx Flare 6: $300
 - Positives: It can get pretty loud

@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Minirig mk3 with subwoofer ranks #3 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig mk3 with subwoofer ranks #3 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig mk3 with subwoofer ranks #3 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/#3-minirig-mk3-with-subwoofer-minirigs-260) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #3 [Minirig mk3 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $260
 - Positives: Very balanced sound
