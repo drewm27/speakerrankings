@@ -21,7 +21,7 @@ The Sony XB23 ranks #63 out of 130 total [Medium Size Portable Bluetooth Speaker
     - [Alan Ross Reviews: Sony XB23 vs XB33 - specs and measurements](https://www.youtube.com/watch?v=IyCRwXBO26Y)
     - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
 - Links
-    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
+    - [Official Product Page](https://www.sony.com/electronics/support/wireless-speakers/srs-xb23/specifications)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB23/)
 
 

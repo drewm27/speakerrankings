@@ -17,7 +17,7 @@ The Sony SRS-XE200 ranks #104 out of 130 total [Medium Size Portable Bluetooth S
     - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
     - [Danny Pops: Sony XE200 XE300 vs Bose Marshall & JBL](https://www.youtube.com/watch?v=da-yS5OCQ48)
 - Links
-    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe200-bz)
+    - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xe200/specifications)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XE200/)
 
 

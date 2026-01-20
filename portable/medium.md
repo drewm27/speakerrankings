@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
 ---
 
-This page ranks 130 medium size powered Bluetooth speakers. Last updated on 01/19/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 130 medium size powered Bluetooth speakers. Last updated on 01/20/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -314,7 +314,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Oluv: B&O Beosound A1 2nd gen vs Beoplay A1 outdoors with a bit of Anker Soundcore Motion+ too](https://www.patreon.com/posts/b-o-beosound-a1-39584977)
     - [Oluv: (Anker) Soundcore Motion 300 - first impressions](https://www.patreon.com/posts/anker-soundcore-92655183)
 - Links
-    - [Official Product Page](https://luxussound.com/products/beosound-a1-2nd-generation)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-2nd-gen/)
 
 ## #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)]: $200
@@ -572,7 +571,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
     - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
-    - [Official Product Page](https://tribit.com/products/tribit-xsound-mega-portable-wireless-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Mega/)
 
 ## #21 [Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325)]: $50
@@ -931,7 +929,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [The Tech Files: JBL CHARGE 5 Vs. CHARGE ESSENTIAL 2 #shorts](https://www.youtube.com/watch?v=ZmYH6zYSNKs)
     - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
-    - [Official Product Page](https://ca.jbl.com/CHARGE-ESSENTIAL-2-.html)
+    - [Official Product Page](https://www.jbl.com/CHARGE-ESSENTIAL-2-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-Essential-2/)
 
 ## #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
@@ -1349,7 +1347,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Sony XB33 vs XB32 vs JBL Charge 4 best £120 bluetooth speaker?](https://www.youtube.com/watch?v=07qu_39HjyU)
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
 - Links
-    - [Official Product Page](https://www.sony.com/lr/electronics/portable-speakers/srs-xb33)
+    - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb33/specifications)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB33/)
 
 ## #59 Creative iRoar Go: $83
@@ -1446,7 +1444,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Alan Ross Reviews: Sony XB23 vs XB33 - specs and measurements](https://www.youtube.com/watch?v=IyCRwXBO26Y)
     - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
 - Links
-    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xb23)
+    - [Official Product Page](https://www.sony.com/electronics/support/wireless-speakers/srs-xb23/specifications)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB23/)
 
 ## #64 [Klipsch Nashville](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl)]: $150
@@ -2082,7 +2080,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
     - [Danny Pops: Sony XE200 XE300 vs Bose Marshall & JBL](https://www.youtube.com/watch?v=da-yS5OCQ48)
 - Links
-    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe200-bz)
+    - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xe200/specifications)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XE200/)
 
 ## #105 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100

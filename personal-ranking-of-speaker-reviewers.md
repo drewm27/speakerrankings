@@ -114,7 +114,7 @@ I only use and link videos that either have useful well recorded sound samples o
 ### #28 [GYMCADDY](https://www.youtube.com/@GYMCADDY)
 - Not great recording quality. Mostly interested in bass. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers. Was also paid to promote the Soundcore Boom 3i and was caught [repeating false information that Soundcore wanted pushed](https://www.youtube.com/post/Ugkx0SWI9LFZI50EU0LQ3oQehASMbrV8B5_d)
 
-### #29 [PAINFULLYHONESTTECH](https://www.youtube.com/@painfullyhonesttech)
+### #29 [PAINFULLYHONESTTECH](https://www.youtube.com/@painfullyhonestJTL)
 - Using a vocal microphone to do speaker recordings is a big nono, they do not have a neutral frequency response. Was seen in a Soundcore advertisement and is likely very biased and paid by Soundcore. Was [paid by Soundcore](https://www.reddit.com/r/Bluetooth_Speakers/comments/1d4nz4i/list_of_youtubers_paid_by_soundcore_to_use_their/) and given a strict script to promote the Soundcore Boom 2 Plus and likely many other speakers.
 
 ### #30 [FishBee Product Reviews](https://www.youtube.com/@fishbeeproductreviews)
