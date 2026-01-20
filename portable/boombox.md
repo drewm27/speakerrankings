@@ -1012,7 +1012,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
     - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-NG-(2017)/)
+    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-NG-2017/)
 
 ## #37 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
@@ -1526,7 +1526,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
 - Links
     - [Official Product Page](https://mymonsteraudio.com/products/monster-rockin-roller-270)
-    - [Direct Speakerranking Link](/portable/speakers/Monster-Rockin'-Roller-270/)
+    - [Direct Speakerranking Link](/portable/speakers/Monster-Rockin-Roller-270/)
 
 ## #66 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325)]: $400
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.

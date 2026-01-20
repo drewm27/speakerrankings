@@ -21,7 +21,7 @@ The Monster Rockin' Roller 270 ranks #65 out of 69 total [Boombox Size Portable 
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
 - Links
     - [Official Product Page](https://mymonsteraudio.com/products/monster-rockin-roller-270)
-    - [Direct Speakerranking Link](/portable/speakers/Monster-Rockin'-Roller-270/)
+    - [Direct Speakerranking Link](/portable/speakers/Monster-Rockin-Roller-270/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

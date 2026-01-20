@@ -21,7 +21,7 @@ The Teufel Boomster NG (2017) ranks #36 out of 69 total [Boombox Size Portable B
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
     - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-NG-(2017)/)
+    - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-NG-2017/)
 
 
 As an Amazon Associate I earn from qualifying purchases.
