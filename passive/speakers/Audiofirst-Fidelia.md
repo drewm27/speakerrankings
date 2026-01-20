@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Audiofirst Fidelia ranks #1 out of 21 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Audiofirst Fidelia ranks #1 out of 21 total [Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#1-audiofirst-fidelia-audiofirstdesigns-used-listings-950-for-the-flatpack-kit-assembly-required) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Audiofirst Fidelia ranks [#1 out of 21 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#1-audiofirst-fidelia-audiofirstdesigns-used-listings-950-for-the-flatpack-kit-assembly-required) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 [Audiofirst Fidelia](https://audiofirstdesigns.co.uk/fidelia) [[Audiofirstdesigns](https://audiofirstdesigns.co.uk/fidelia)] [[Used Listings](https://www.hifizero.com/index.php?q=Audiofirst+Fidelia)]: £950 for the flatpack kit (assembly required)
 - Positives: The absolute top speaker in this size class

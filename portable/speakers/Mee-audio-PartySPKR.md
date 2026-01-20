@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Mee audio PartySPKR ranks #26 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Mee audio PartySPKR ranks #26 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/#26-mee-audio-partyspkr-amazon-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Mee audio PartySPKR ranks [#26 out of 72 total Large Size Portable Bluetooth Speakers](/portable/large/#26-mee-audio-partyspkr-amazon-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #26 [Mee audio PartySPKR](https://www.amazon.com/MEE-audio-PartySPKR-Subwoofers-Connecting/dp/B0CS6JF872?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5fe0ecac8f1db81cfd6c5d4deafb0454&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MEE-audio-PartySPKR-Subwoofers-Connecting/dp/B0CS6JF872?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5fe0ecac8f1db81cfd6c5d4deafb0454&language=en_US&ref_=as_li_ss_tl)]: $80
 - Negatives: Not very deep bass. Possibly slightly bright treble. Will need more sound samples to make a better determination. Only 12 hours of battery life which is about the worst in the category.

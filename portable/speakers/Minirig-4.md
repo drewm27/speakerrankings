@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Minirig 4 ranks #6 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig 4 ranks #6 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/#6-minirig-4-amazon-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig 4 ranks [#6 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#6-minirig-4-amazon-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #6 [Minirig 4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl)]: $200
 - Positives: Modular, can easily attach a subwoofer. Finally USB-C charging. Dynamically changes sound based on forward facing or upward facing orientation

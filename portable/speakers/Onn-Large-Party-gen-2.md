@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Onn Large Party gen 2 ranks #13 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Onn Large Party gen 2 ranks #13 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/#13-onn-large-party-gen-2-walmart-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Onn Large Party gen 2 ranks [#13 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#13-onn-large-party-gen-2-walmart-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #13 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $130
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.

@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Partybox 300 ranks #6 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Partybox 300 ranks #6 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/#6-jbl-partybox-300-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Partybox 300 ranks [#6 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#6-jbl-partybox-300-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #6 JBL Partybox 300: $300
 - Negatives: Hard to carry, too tall, drags on the ground. Max spl and bass extension are only as good as the Partybox 100. No real reason to ever get one, get a Partybox 100 instead. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.

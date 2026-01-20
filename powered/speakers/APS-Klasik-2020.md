@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The APS Klasik 2020 ranks #8 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The APS Klasik 2020 ranks #8 out of 21 total [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#8-aps-klasik-2020-aps-company-used-listings-900-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The APS Klasik 2020 ranks [#8 out of 21 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#8-aps-klasik-2020-aps-company-used-listings-900-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 [APS Klasik 2020](https://www.aps-company.com/klasik-2020-en/) [[Aps-company](https://www.aps-company.com/klasik-2020-en/)] [[Used Listings](https://www.hifizero.com/index.php?q=APS+Klasik+2020)]: $900 a pair
 - Positives: Very neutral. Almost indistinguishable from the HS8 but with deeper bass

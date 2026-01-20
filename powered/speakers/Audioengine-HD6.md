@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Audioengine HD6 ranks #19 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Audioengine HD6 ranks #19 out of 24 total [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/#19-audioengine-hd6-amazon-used-listings-700-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Audioengine HD6 ranks [#19 out of 24 total Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/#19-audioengine-hd6-amazon-used-listings-700-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #19 [Audioengine HD6](https://lvnta.com/lv_XV3UeQBotZIJuc8PIw) [[Amazon](https://lvnta.com/lv_XV3UeQBotZIJuc8PIw)] [[Used Listings](https://www.hifizero.com/index.php?q=Audioengine+HD6)]: $700 a pair
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.

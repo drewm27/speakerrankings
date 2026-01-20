@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Sony SRS-XB20 ranks #88 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony SRS-XB20 ranks #88 out of 130 total [Medium Size Portable Bluetooth Speakers](/portable/medium/#88-sony-srs-xb20) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SRS-XB20 ranks [#88 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#88-sony-srs-xb20) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #88 Sony SRS-XB20
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.

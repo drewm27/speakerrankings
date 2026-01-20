@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The LG Xboom XG7 ranks #64 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The LG Xboom XG7 ranks #64 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/#64-lg-xboom-xg7-120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The LG Xboom XG7 ranks [#64 out of 72 total Large Size Portable Bluetooth Speakers](/portable/large/#64-lg-xboom-xg7-120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #64 LG Xboom XG7: $120
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding

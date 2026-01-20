@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Tozo PE1 ranks #17 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tozo PE1 ranks #17 out of 41 total [Small Size Portable Bluetooth Speakers](/portable/small/#17-tozo-pe1-amazon-23) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tozo PE1 ranks [#17 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#17-tozo-pe1-amazon-23) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #17 [Tozo PE1](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl)]: $23
 - Positives: Pretty amazing value for the money. Very long battery life.

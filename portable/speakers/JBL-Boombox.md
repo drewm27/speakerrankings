@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Boombox ranks #44 out of 69 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Boombox ranks #44 out of 69 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/#44-jbl-boombox) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Boombox ranks [#44 out of 69 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#44-jbl-boombox) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #44 JBL Boombox
 - Positives: Connect+ up to 100 speakers.

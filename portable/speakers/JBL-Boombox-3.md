@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Boombox 3 ranks #21 out of 69 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Boombox 3 ranks #21 out of 69 total [Boombox Size Portable Bluetooth Speakers](/portable/boombox/#21-jbl-boombox-3-amazon-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Boombox 3 ranks [#21 out of 69 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#21-jbl-boombox-3-amazon-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #21 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325)]: $500
 - Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.

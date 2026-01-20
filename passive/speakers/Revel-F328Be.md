@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Revel F328Be ranks #5 out of 25 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Revel F328Be ranks #5 out of 25 total [Large Size Floorstanding Speakers](/passive/floorstanding-large/#5-revel-f328be-crutchfield-used-listings-13600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Revel F328Be ranks [#5 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#5-revel-f328be-crutchfield-used-listings-13600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #5 [Revel F328Be](https://sovrn.co/zpcgdsw) [[Crutchfield](https://sovrn.co/zpcgdsw)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F328Be)]: $13600
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis

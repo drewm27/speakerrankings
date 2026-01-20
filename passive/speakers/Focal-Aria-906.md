@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Focal Aria 906 ranks #23 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Focal Aria 906 ranks #23 out of 48 total [Large Size Bookshelf Speakers](/passive/bookshelf-large/#23-focal-aria-906-ebay-used-listings-1100-a-pair-used-discontinued) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Focal Aria 906 ranks [#23 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#23-focal-aria-906-ebay-used-listings-1100-a-pair-used-discontinued) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #23 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Aria+906)]: $1100 a pair used, discontinued
 - Negatives: 3dB dip around 2.8khz. Some resonance around 800hz, small directivity error around 7khz

@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Wharfedale Aura 2 ranks #22 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Wharfedale Aura 2 ranks #22 out of 48 total [Large Size Bookshelf Speakers](/passive/bookshelf-large/#22-wharfedale-aura-2-wharfedaleusa-used-listings-3800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Wharfedale Aura 2 ranks [#22 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#22-wharfedale-aura-2-wharfedaleusa-used-listings-3800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #22 [Wharfedale Aura 2](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair) [[Wharfedaleusa](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Aura+2)]: $3800
 - Negatives: Slight 2dB dip in bass response below 180hz, may need to be closer to wall like 2 feet. 4dB peak around 13k. Vertical directivity isn't very good.

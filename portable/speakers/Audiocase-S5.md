@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Audiocase S5 ranks #19 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Audiocase S5 ranks #19 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/#19-audiocase-s5-645) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#19-audiocase-s5-645) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #19 Audiocase S5: $645
 - Positives: Removable battery

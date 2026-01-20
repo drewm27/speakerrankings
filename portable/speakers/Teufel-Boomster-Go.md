@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Teufel Boomster Go ranks #5 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Teufel Boomster Go ranks #5 out of 41 total [Small Size Portable Bluetooth Speakers](/portable/small/#5-teufel-boomster-go-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Teufel Boomster Go ranks [#5 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#5-teufel-boomster-go-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #5 Teufel Boomster Go: 80€
 - Positives: Pretty deep bass and quite balanced overall for the size.

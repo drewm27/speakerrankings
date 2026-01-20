@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The dB technologies B-Hype M ranks #31 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The dB technologies B-Hype M ranks #31 out of 43 total [Party Size Portable Bluetooth Speakers](/portable/party/#31-db-technologies-b-hype-m-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#31-db-technologies-b-hype-m-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #31 dB technologies B-Hype M: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.

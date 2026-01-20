@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The B&O Beosound 2 ranks #10 out of 12 total Medium Size Powered Desktop Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beosound 2 ranks #10 out of 12 total [Medium Size Powered Desktop Speakers](/powered/desktop-medium/#10-bo-beosound-2-amazon-3200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beosound 2 ranks [#10 out of 12 total Medium Size Powered Desktop Speakers](/powered/desktop-medium/#10-bo-beosound-2-amazon-3200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #10 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
 - Negatives: Overly boosted bass and recessed mids. Overly expensive

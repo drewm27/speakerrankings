@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Soundcore Boom 2 ranks #8 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Boom 2 ranks #8 out of 72 total [Large Size Portable Bluetooth Speakers](/portable/large/#8-soundcore-boom-2-amazon-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Boom 2 ranks [#8 out of 72 total Large Size Portable Bluetooth Speakers](/portable/large/#8-soundcore-boom-2-amazon-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 [Soundcore Boom 2](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325)]: $90
 - Positives: Pretty deep bass for the size. Cool lights in the side passive radiators. For the best sound quality use [Oluv's EQ](http://youtube.com/post/UgkxDbzrpbeFb0yxNRpkoMQKJSzoNRRS9neH) or [Alan Ross's EQ](https://www.instagram.com/p/C5EiGNSsR7C/?hl=en). With the stock tuning, this speaker would rank around #24, due to the boosted bass and rising treble.

@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Totem Kin One ranks #19 out of 21 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Totem Kin One ranks #19 out of 21 total [Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#19-totem-kin-one-skybygramophone-used-listings-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Totem Kin One ranks [#19 out of 21 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#19-totem-kin-one-skybygramophone-used-listings-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #19 [Totem Kin One](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair) [[Skybygramophone](https://skybygramophone.com/products/totem-kin-one-compact-monitor-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Totem+Kin+One)]: $600
 - Positives: A lot of color choices

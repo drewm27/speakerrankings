@@ -5,7 +5,7 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Genelec 8040B ranks #7 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Genelec 8040B ranks #7 out of 21 total [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#7-genelec-8040b-guitar-center-used-listings-2350-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Genelec 8040B ranks [#7 out of 21 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#7-genelec-8040b-guitar-center-used-listings-2350-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #7 [Genelec 8040B](https://guitar-center.pxf.io/y2Dx3V) [[Guitar-center](https://guitar-center.pxf.io/y2Dx3V)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8040B)]: $2350 a pair
 - Positives: Based on their smaller speaker's performance against others, I'm ranking this accordingly.
