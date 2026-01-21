@@ -34,44 +34,8 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Large Size Bluetooth Speaker with Wifi
 
-### The best [large size](/portable/large/) powered speaker with Wifi is the [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325)]: $1200
-- Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
-- IP Rating: IP65
-- Max Volume: 101db
-- Party Mode: Yes (Mozart 2.0)
-- Power Input: USB-C
-- Stereo: No
-- TWS: Yes
-- USB Audio: Yes
-- Weight: 8.5lbs / 3.86kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
-- Links
-    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
-
-
-### For a cheaper [large size](/portable/large/) powered speaker with Wifi check out the [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325)]: $500
-- Positives: Warm sounding with somewhat rolled off treble. Slightly better midrange clarity than the Move 1.
-- Negatives: Not very loud. This may have some of the same issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
-- Aux Input: Yes
-- Battery Life: 24 hours
-- IP Rating: IP56
-- Power Bank: Yes
-- Power Input: USB-C
-- Stereo: Yes
-- Weight: 6.61lbs / 3kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
-- Links
-    - [Official Product Page](https://www.sonos.com/en-us/shop/move-2)
-
-
-## The Best Boombox Size Bluetooth Speaker with Wifi
-
-### The best [boombox size](/portable/boombox/) battery powered speaker with Wifi is the [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
-- Positives: Very deep bass, some of the deepest from this category. Medium bass boost is the most balanced.
+### The best [large size](/portable/large/) powered speaker with Wifi is the [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
+- Positives: Very deep bass, the absolute deepest from this category. Medium bass boost is the most balanced.
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Aux Input: Yes
 - Aux Latency: 300ms
@@ -94,6 +58,33 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links
     - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
+
+
+## The Best Boombox Size Bluetooth Speaker with Wifi
+
+### The best [boombox size](/portable/boombox/) battery powered speaker with Wifi is the [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
+- Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
+- Negatives: Bass boosted. Dip at 160hz
+- Aux Input: No
+- Bass Extension (-10dB): 43hz
+- Battery Life: 24 hours
+- IP Rating: IP67
+- Max Volume: 111db
+- Party Mode: No
+- Power Bank: Yes
+- Power Input: AC Power cable
+- Stereo: Yes
+- TWS: No
+- Weight: 14.6lbs / 6.6kg
+- Wifi: Yes
+- Reviews, Comparisons and Sound Samples
+    - [Dominik Reviews: JBL Partybox Encore 2 vs JBL Boombox 3 WiFi - Sound Test - Wide vs Narrow Soundstage!](https://www.youtube.com/watch?v=J-dsO2KOSzY)
+    - [Mateusz Cholewa: JBL Encore 2 Partybox Deep Bass 🆚 Jbl Boombox 3 WiFi 🎶](https://www.youtube.com/watch?v=srLPSYOcTGw)
+    - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
+    - [Alan Ross Reviews: WiFi Edition: JBL Boombox 3 ultimate review! vs Boombox 3 Bluetooth edition](https://www.youtube.com/watch?v=imAhizbiSWw)
+    - [Mateusz Cholewa: Soundcore Rave 3🧐 🆚 Jbl Boombox 3 WiFi](https://www.youtube.com/watch?v=77pcClYhI6I)
+- Links
+    - [Official Product Page](https://www.jbl.com/wifi-speakers/BOOMBOX-3-WIFI.html)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -2,12 +2,12 @@
 layout: page
 title: Xdobo Bucket /BMTL Bucket / Zicoroop Ts Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks #32 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks #33 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks [#32 out of 72 total Large Size Portable Bluetooth Speakers](/portable/large/#32-xdobo-bucket-bmtl-bucket--zicoroop-ts-amazon-60) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks [#33 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#33-xdobo-bucket-bmtl-bucket--zicoroop-ts-amazon-60) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #32 [Xdobo Bucket /BMTL Bucket / Zicoroop Ts](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl)]: $60
+## #33 [Xdobo Bucket /BMTL Bucket / Zicoroop Ts](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZICOROOP-Bluetooth-Speakers-Waterproof-Long-Lasting/dp/B0C4KYXYBC?&linkCode=ll1&tag=rankingspea01-20&linkId=735463ffa393cab0becd16ff0d0981fb&language=en_US&ref_=as_li_ss_tl)]: $60
 - Positives: Sounds quite good for the price. A little difficult to rank based on the sound samples, this one could move around as we get better samples.
 - Negatives: Dip from 120-180hz, a little bass boosted. Muffled with cover on.
 - App: No

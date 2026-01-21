@@ -37,8 +37,8 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 
 - [Small Size Portable Bluetooth Speakers](/portable/small/): 41 speakers ranked
 - [Medium Size Portable Bluetooth Speakers](/portable/medium/): 130 speakers ranked
-- [Large Size Portable Bluetooth Speakers](/portable/large/): 72 speakers ranked
-- [Boombox Size Portable Bluetooth Speakers](/portable/boombox/): 69 speakers ranked
+- [Large Size Portable Bluetooth Speakers](/portable/large/): 73 speakers ranked
+- [Boombox Size Portable Bluetooth Speakers](/portable/boombox/): 68 speakers ranked
 - [Party Size Portable Bluetooth Speakers](/portable/party/): 43 speakers ranked
 - [Large Party Size Portable Bluetooth Speakers](/portable/largeparty/): 9 speakers ranked
 

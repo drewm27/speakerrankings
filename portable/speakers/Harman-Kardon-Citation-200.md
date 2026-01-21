@@ -2,12 +2,12 @@
 layout: page
 title: Harman Kardon Citation 200 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Harman Kardon Citation 200 ranks #13 out of 69 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Harman Kardon Citation 200 ranks #12 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Harman Kardon Citation 200 ranks [#13 out of 69 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#13-harman-kardon-citation-200-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Harman Kardon Citation 200 ranks [#12 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#12-harman-kardon-citation-200-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #13 Harman Kardon Citation 200: $130
+## #12 Harman Kardon Citation 200: $130
 - Positives: Deeper bass than any Onyx.
 - Negatives: Overly boomy by default, you can short press the Bluetooth and volume down buttons simultaneously to decrease the bass, and the Bluetooth and volume up buttons simultaneously to increase it
 - Aux Input: Yes

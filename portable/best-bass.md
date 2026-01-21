@@ -87,7 +87,35 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Large Size Speaker For Bass
 
-### The best [large size](/portable/large/) battery powered speaker for deep boosted bass is the [Tribit Stormbox Lava](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)]: $100
+
+
+### The best [large size](/portable/large/) battery powered speaker for deep boosted bass is the [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
+- Positives: Very deep bass, the absolute deepest from this category. Medium bass boost is the most balanced.
+- Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
+- Aux Input: Yes
+- Aux Latency: 300ms
+- Bass Extension (-10dB): 31hz
+- Battery Life: 12 hours
+- Bluetooth Codecs: aptX HD, aptX, AAC, SBC
+- IP Rating: IP57
+- Bluetooth Latency: 100ms
+- Max Volume: 106db
+- Party Mode: Yes (Up to 8 speakers on wifi)
+- Power Input: AC Power brick
+- Stereo: Yes
+- TWS: Yes
+- Weight: 7.8lbs / 3.5kg
+- Wifi: Yes
+- Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
+    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
+    - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
+    - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
+- Links
+    - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
+
+
+### For a cheaper [large size](/portable/large/) battery powered speaker for deep boosted bass check out the [Tribit Stormbox Lava](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)]: $100
 - Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Try [this EQ from Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) for the flattest response although adjust the lowest slider to your bass boost preference. Firmware 2.0.0 is a big improvement in neutrality.
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
@@ -123,33 +151,7 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
 
 ## The Best Boombox Size Speaker For Bass
 
-### The best [boombox size](/portable/boombox/) battery powered speaker for deep boosted bass is the [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
-- Positives: Very deep bass, some of the deepest from this category. Medium bass boost is the most balanced.
-- Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
-- Aux Input: Yes
-- Aux Latency: 300ms
-- Bass Extension (-10dB): 31hz
-- Battery Life: 12 hours
-- Bluetooth Codecs: aptX HD, aptX, AAC, SBC
-- IP Rating: IP57
-- Bluetooth Latency: 100ms
-- Max Volume: 106db
-- Party Mode: Yes (Up to 8 speakers on wifi)
-- Power Input: AC Power brick
-- Stereo: Yes
-- TWS: Yes
-- Weight: 7.8lbs / 3.5kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
-    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
-    - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
-    - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
-- Links
-    - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
-
-
-### If you're looking for cheaper get a [Zealot ZE21](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
+### The best [boombox size](/portable/boombox/) battery powered speaker for deep boosted bass is the [Zealot ZE21](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
 - Positives: The absolute best value for the bass performance, play time and max volume in the boombox class.
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No

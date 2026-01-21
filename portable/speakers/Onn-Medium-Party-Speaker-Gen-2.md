@@ -2,12 +2,12 @@
 layout: page
 title: Onn Medium Party Speaker Gen 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Onn Medium Party Speaker Gen 2 ranks #41 out of 69 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Onn Medium Party Speaker Gen 2 ranks #40 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Onn Medium Party Speaker Gen 2 ranks [#41 out of 69 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#41-onn-medium-party-speaker-gen-2-walmart-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Onn Medium Party Speaker Gen 2 ranks [#40 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#40-onn-medium-party-speaker-gen-2-walmart-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #41 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172) [[Walmart](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172)]: $90
+## #40 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172) [[Walmart](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172)]: $90
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
 - Aux Input: Yes
 - Battery Life: 20 hours

@@ -2,12 +2,12 @@
 layout: page
 title: Devialet Mania Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Devialet Mania ranks #37 out of 72 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Devialet Mania ranks #38 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Devialet Mania ranks [#37 out of 72 total Large Size Portable Bluetooth Speakers](/portable/large/#37-devialet-mania-amazon-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Devialet Mania ranks [#38 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#38-devialet-mania-amazon-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #37 [Devialet Mania](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325)]: $800
+## #38 [Devialet Mania](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Devialet-Mania-Deep-Black/dp/B0BHM8FJZT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e055d5c354588511839166e17871acc6&camp=1789&creative=9325)]: $800
 - Positives: Small, nice looking.
 - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
 - Bass Extension (-10dB): 47hz
