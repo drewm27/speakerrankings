@@ -6,7 +6,7 @@ cover-img: "/assets/img/klasik2020.jpg"
 share-description: "Discover the top-recommended powered speakers. Expert-ranked picks with built-in amplifiers for effortless, high-quality sound."
 ---
 
-This page summarizes the best powered bookshelf speakers out of the 68 that have been ranked on this website. Last updated on 01/20/2026. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
+This page summarizes the best powered bookshelf speakers out of the 68 that have been ranked on this website. Last updated on 01/21/2026. The suggestions in this section are targeted towards specific uses. If you have a use outside general use cases, check out all the speakers detailed out in the full ranking pages by size.
 
 For more detailed information and specs about these speakers see the full rankings of all of them at [All Powered Speakers Ranked](/#all-powered-speakers-ranked)
 
