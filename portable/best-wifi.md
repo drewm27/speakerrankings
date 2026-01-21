@@ -51,21 +51,21 @@ See these other links for [The Best Bluetooth Speakers for Sound Quality](/porta
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a5)
 
 
-### For a cheaper [large size](/portable/large/) powered speaker with Wifi check out the [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325)]: $330
-- Positives: Set treble to max and increase bass a little to get it neutral.
-- Negatives: A bit muffled and missing midrange detail.
+### For a cheaper [large size](/portable/large/) powered speaker with Wifi check out the [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325)]: $500
+- Positives: Warm sounding with somewhat rolled off treble. Slightly better midrange clarity than the Move 1.
+- Negatives: Not very loud. This may have some of the same issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
 - Aux Input: Yes
-- Battery Life: 15 hours
-- IP Rating: None
-- Party Mode: Yes (over Wifi)
-- Power Input: AC cable
-- Stereo: Partially (1 woofer)
-- Weight: 4.63lbs / 2.1kg
+- Battery Life: 24 hours
+- IP Rating: IP56
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: Yes
+- Weight: 6.61lbs / 3kg
 - Wifi: Yes
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
+    - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links
-    - [Official Product Page](https://www.audiopro.com/en/product/c3/)
+    - [Official Product Page](https://www.sonos.com/en-us/shop/move-2)
 
 
 ## The Best Boombox Size Bluetooth Speaker with Wifi
