@@ -93,10 +93,11 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
 - Built in Microphone: Yes
 - EQ: Yes (10 band)
 - IP Rating: IP67
-- Bluetooth Latency: 128ms AAC, 144ms SBC
+- Max Volume: 108db
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

@@ -28,6 +28,7 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 - [Best Portable Bluetooth Speakers With Mic Input](/portable/best-microphone-input/)
 - [Best Portable Bluetooth Speakers With Wireless Mic](/portable/best-wireless-microphone/)
 - [Best Portable Bluetooth Speakers With SD Card Slot](/portable/best-sdcard/)
+- [Best Portable Bluetooth Speakers For Outdoor Usage](/portable/best-outdoor/)
 - [Best Portable Bluetooth Speaker Brands](/portable/best-brands/)
 - [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
 - [Best Powered Home Bookshelf Speakers](/powered/best/)
