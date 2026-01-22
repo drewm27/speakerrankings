@@ -2,10 +2,10 @@
 layout: page
 title: Presonus Eris Studio 8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Presonus Eris Studio 8 ranks #12 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
+share-description: "The Presonus Eris Studio 8 ranks #12 out of 22 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Presonus Eris Studio 8 ranks [#12 out of 21 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#12-presonus-eris-studio-8-amazon-used-listings-462-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Presonus Eris Studio 8 ranks [#12 out of 22 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#12-presonus-eris-studio-8-amazon-used-listings-462-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #12 [Presonus Eris Studio 8](https://www.amazon.com/PreSonus-Eris-Studio-Monitors-Waveguide/dp/B0C88Y9TY5?crid=2SBCDA8NTACP1&dib=eyJ2IjoiMSJ9.TSlr90ShLqeB3ktIpiLMCYEMWv0XkcORkmOMX-zRPg_D-3FG77Y0Gw2sUj6KUM3C6zzrrBgCpW7ssXB6zHjMgKlMy2T_pJvFbSmMwfLYWMsza7k-melVKLyOzDNEwU0VqHTX1mEor5L_JEIjIxPqUi1GYhCWOInm329CImYrW1hC3n4armdHnGAR8KqCon1IOVloYXvwYAjA9lNYfOlWww.RTVnvEis2bdSsPI44gWf1YEvyom-7hyMstbAbOwrDqE&dib_tag=se&keywords=presonus+e8+xt&qid=1718681115&sprefix=presonus+e8+xt%2Caps%2C229&sr=8-5&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&linkCode=ll1&tag=rankingspea01-20&linkId=3966be0bc3edc5f999cce60b507106f1&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/PreSonus-Eris-Studio-Monitors-Waveguide/dp/B0C88Y9TY5?crid=2SBCDA8NTACP1&dib=eyJ2IjoiMSJ9.TSlr90ShLqeB3ktIpiLMCYEMWv0XkcORkmOMX-zRPg_D-3FG77Y0Gw2sUj6KUM3C6zzrrBgCpW7ssXB6zHjMgKlMy2T_pJvFbSmMwfLYWMsza7k-melVKLyOzDNEwU0VqHTX1mEor5L_JEIjIxPqUi1GYhCWOInm329CImYrW1hC3n4armdHnGAR8KqCon1IOVloYXvwYAjA9lNYfOlWww.RTVnvEis2bdSsPI44gWf1YEvyom-7hyMstbAbOwrDqE&dib_tag=se&keywords=presonus+e8+xt&qid=1718681115&sprefix=presonus+e8+xt%2Caps%2C229&sr=8-5&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&linkCode=ll1&tag=rankingspea01-20&linkId=3966be0bc3edc5f999cce60b507106f1&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Presonus+Eris+Studio+8)]: $462 a pair
 - Positives: More natural sounding and less fatiguing than the HS8

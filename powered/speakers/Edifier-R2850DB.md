@@ -2,10 +2,10 @@
 layout: page
 title: Edifier R2850DB Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Edifier R2850DB ranks #20 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
+share-description: "The Edifier R2850DB ranks #20 out of 22 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Edifier R2850DB ranks [#20 out of 21 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#20-edifier-r2850db-amazon-used-listings-500-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Edifier R2850DB ranks [#20 out of 22 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#20-edifier-r2850db-amazon-used-listings-500-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #20 [Edifier R2850DB](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Speakers-Bookshelf-Bluetooth-Wireless/dp/B093PMWPWR?crid=2ZJFSX4ZUZ01C&dib=eyJ2IjoiMSJ9.de2yFr6FmRlhYH7NZoySXoTjelUBqwIlx0ESXI7L2OjUn0wPwYTUl7JtL7_QMuMfT_QkYUEB6fYWnxBSNPQGtA.pQ34j8ztxY8lCitmymNg_qPcszKkurReBmUZC34kn20&dib_tag=se&keywords=edifier+r2750db&qid=1714060740&sprefix=edifer+r27%2Caps%2C291&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=0ecc5d318bb65c2641f35970feae81db&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+R2850DB)]: $500 a pair
 - Positives: 3 way speaker. Deeper bass and more of a fun listen compared to the neutral sound of the HS8. Shockingly close to the HS8 at half the price.
