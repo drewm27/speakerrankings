@@ -12,7 +12,7 @@ The Triangle Esprit Antal Ez ranks [#22 out of 25 total Large Size Floorstanding
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
 - Links
-    - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
+    - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-hi-fi-anniversaire-40th-antal)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -1197,7 +1197,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Weight: 2.4lbs / 1.1kg
 - Links
-    - [Official Product Page](https://www.ultimateears.com/it-it/wireless-speakers/megablast.html)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Megablast/)
 
 ## #58 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl)]: $152

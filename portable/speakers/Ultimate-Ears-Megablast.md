@@ -12,8 +12,6 @@ The Ultimate Ears Megablast ranks [#57 out of 73 total Large Size Portable Bluet
 - Bass Extension (-10dB): 64hz
 - Battery Life: 16 hours
 - Weight: 2.4lbs / 1.1kg
-- Links
-    - [Official Product Page](https://www.ultimateears.com/it-it/wireless-speakers/megablast.html)
 
 
 As an Amazon Associate I earn from qualifying purchases.

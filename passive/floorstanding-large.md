@@ -388,7 +388,7 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
 - Links
-    - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-esprit-ez-antal)
+    - [Official Triangle Esprit Antal Ez Website](https://trianglehifi.us/products/enceinte-colonne-hi-fi-anniversaire-40th-antal)
     - [Direct Speakerranking Link](/passive/speakers/Triangle-Esprit-Antal-Ez/)
 
 ## #23 [JBL Studio 590](https://www.hifizero.com/index.php?q=JBL+Studio+590) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
