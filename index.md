@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-Speaker Ranking ranks a total of 526 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 01/21/2026. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
+Speaker Ranking ranks a total of 526 battery powered portable Bluetooth speakers, powered speakers and passive speakers, the most of any review site. Last updated on 01/22/2026. They are listed by size class ranked in order of sound quality with their tonal qualities, positives, negatives, specs, sound samples, comparison videos and quantitative reviews all documented, so you can choose a speaker that makes sense for your specific needs and tastes.
 
 Unlike most other review websites pushing specific sponsored speakers, I don't hide away details. I give you the honest good and bad about every speaker and then leave the choice up to you. Every single speaker is detailed out. Don't be afraid to choose a speaker that isn't #1, there's a lot of great sounding speakers at the top of the rankings. The rankings and content are not influenced by any manufacturer.
 
@@ -28,6 +28,7 @@ The top picks on this website are the same ones that unbiased reviewers who valu
 - [Best Portable Bluetooth Speakers With Mic Input](/portable/best-microphone-input/)
 - [Best Portable Bluetooth Speakers With Wireless Mic](/portable/best-wireless-microphone/)
 - [Best Portable Bluetooth Speakers With SD Card Slot](/portable/best-sdcard/)
+- [Best Portable Bluetooth Speaker Brands](/portable/best-brands/)
 - [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
 - [Best Powered Home Bookshelf Speakers](/powered/best/)
 - [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)

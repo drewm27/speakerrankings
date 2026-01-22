@@ -6,7 +6,7 @@ cover-img: "/assets/img/authentics500.jpg"
 share-description: "Find the best large powered bookshelf speakers of 2026 with expert reviews, performance comparison, and buying tips for powerful, clear high-quality sound."
 ---
 
-This page ranks 1 large size powered desktop speakers. Last updated on 01/21/2026. The Large Desktop class of speakers are stereo inside a single enclosure and generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. This class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 1 large size powered desktop speakers. Last updated on 01/22/2026. The Large Desktop class of speakers are stereo inside a single enclosure and generally have woofers 6.5" or larger. These speakers will need quite a bit of desk space and are very large. This class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For the best picks of this page see [Best Powered Home Bookshelf Speakers](/powered/best/)
 
