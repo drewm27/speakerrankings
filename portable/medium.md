@@ -2301,7 +2301,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox/)
 
-## #124 [Wisetiger F10](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Portable-Bluetooth-Waterproof-Wireless-Colorful/dp/B09LLPSVBY?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a04d864e2aca5dd23f9ac2f273cd48ad&language=en_US&ref_=as_li_ss_tl)]: $27
+## #124 [Wisetiger F10](https://s.click.aliexpress.com/e/_c4rTLD6f) [[Aliexpress](https://s.click.aliexpress.com/e/_c4rTLD6f)]: $27
 - Negatives: Mids and treble on the harsh side, not much bass
 - Battery Life: 24 hours
 - IP Rating: IPX7

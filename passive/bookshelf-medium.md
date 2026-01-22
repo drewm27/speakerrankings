@@ -148,7 +148,7 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
     - [Official JBL Studio 530 Website](https://www.jbl.com/loudspeakers/STUDIO+530.html)
     - [Direct Speakerranking Link](/passive/speakers/JBL-Studio-530/)
 
-## #9 [Wharfedale Diamond 12.1](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z) [[Amazon](https://www.amazon.com/Wharfedale-Diamond-12-1-Bookshelf-Speakers/dp/B08L9Q7Y6Z)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1)]
+## #9 [Wharfedale Diamond 12.1](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1) [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1)]
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-review-speaker.26780/)
 - Links
@@ -228,7 +228,7 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
     - [Official KEF Q150 Website](https://us.kef.com/products/q150-bookshelf-speaker)
     - [Direct Speakerranking Link](/passive/speakers/KEF-Q150/)
 
-## #17 [Emotiva B1+](https://emotiva.com/products/airmotiv-b1-pair) [[Emotiva](https://emotiva.com/products/airmotiv-b1-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Emotiva+B1%2B)]: $250
+## #17 [Emotiva B1+](https://www.hifizero.com/index.php?q=Emotiva+B1%2B) [[Used Listings](https://www.hifizero.com/index.php?q=Emotiva+B1%2B)]: $250
 - Negatives: Resonance and peak from 1-2khz. A little bright up top. Not great vertically off-axis
 - Bass Extension (-10dB): 49hz
 - Bass Extension (-3dB): 70hz
@@ -238,7 +238,6 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
     - [Erin's Audio Corner: What are the other reviewers hearing with the $250 @EmotivaAudioCorp B1+?](https://www.youtube.com/watch?v=YmKpCb3d7Vk)
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
 - Links
-    - [Official Emotiva B1+ Website](https://emotiva.com/products/airmotiv-b1-pair)
     - [Direct Speakerranking Link](/passive/speakers/Emotiva-B1+/)
 
 ## #18 [Sony SS-CS5 M2](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SS-CS5M2-3-Driver-Bookshelf-Speakers/dp/B0F8PNFBTL?mcid=a36a5638ecb83f74846f761765b5964c&hvocijid=12232067454922155049-B0F8PNFBTL-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=12232067454922155049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177578&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d95e7e8748b46e95a58f620874a055d8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Sony+SS-CS5+M2)]: $250

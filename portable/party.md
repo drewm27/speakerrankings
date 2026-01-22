@@ -348,7 +348,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
 - Links
-    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp700)
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxp700)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XP700/)
 
 ## #12 [Sony SRS-XP500](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Karaoke-Party-Speaker-Splash-Resistant-Hour-Battery/dp/B094TJ5FBF/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=13e8e4ea2bce6f1f392dbc2563e272e1&camp=1789&creative=9325)]: $300

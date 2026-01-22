@@ -15,7 +15,7 @@ Due to the deep insertion of IEMs, there will be a resonance that is different f
 
 If you aren't interested in doing Oluv's tuning, I’d recommend something else from Scarbir's rankings below. The stock EQ on the Earfun Free Pro 2 is overly bass heavy which drowns out the midrange frequencies and will need tuning to sound their best.
 
-His tuning is set directly on the earphones using the [Android only app](https://play.google.com/store/apps/details?id=com.airoha.utapp.sdk) and only needs to be done once. After the EQ is set in the headphones you can use them on any device.
+His tuning is set directly on the earphones using the [Android only app](https://airreps156x-airoha-control-app.en.softonic.com/android) and only needs to be done once. After the EQ is set in the headphones you can use them on any device.
 
 You’ll need to sign up for 1 month of his $11.50 a month Patreon to access the tuning EQ values.
 

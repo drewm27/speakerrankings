@@ -27,7 +27,7 @@ The Sony SRS-XP700 ranks [#11 out of 43 total Party Size Portable Bluetooth Spea
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
 - Links
-    - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp700)
+    - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxp700)
 
 
 As an Amazon Associate I earn from qualifying purchases.
