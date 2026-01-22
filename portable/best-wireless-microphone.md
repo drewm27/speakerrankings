@@ -14,7 +14,7 @@ See this for [Speakers with Built In Microphone For Calls](/portable/best-microp
 
 ## The Best Speakers With Wireless Microphones
 
-### The best [boombox size](/portable/boombox/) battery powered Bluetooth speaker with built in wireless microphones is the [JBL Partybox Encore 2](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631) [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]: $330
+### The best [boombox size](/portable/boombox/) battery powered Bluetooth speaker with built in wireless microphones is the [**JBL Partybox Encore 2**](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631) [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]: $330
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 2 wireless microphones. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass.
 - App: Yes
@@ -45,7 +45,7 @@ See this for [Speakers with Built In Microphone For Calls](/portable/best-microp
     - [Official Product Page](https://uk.jbl.com/PARTYBOX-ENCORE-2.html)
 
 
-### For extremely low budgets get the [large size](/portable/large/) [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)]: $40 after clipped coupon
+### For extremely low budgets get the [large size](/portable/large/) [**ZZA K8**](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)]: $40 after clipped coupon
 - Positives: Completely insane value for the money. Comes with 2 metal body wireless microphones that are USB-C chargeable. Comes with Chinese labeled infrared remote control. Has voice delete function that works quite well. Adjustable microphone reverb. Pretty good build quality. The default EQ is the most balanced, the other two sound muffled.
 - Negatives: Very V curve frequency response, can be harsh in the treble range. Treble is boosted a good +10dB. Midbass is recessed. Slight distortion issue at all volume levels due to the bass high pass filter being set too low
 - App: No
