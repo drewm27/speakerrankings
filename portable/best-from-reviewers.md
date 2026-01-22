@@ -8,6 +8,8 @@ share-description: Top recommended Bluetooth speaker reviews from trusted expert
 
 This page summarizes the best portable Bluetooth speakers recommended by other top unbiased reviewers who have reviewed enough speakers to make a reasonable top choice. These speakers also tend to be highly rated in the rankings. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
+See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
+
 ## [Oluv](https://www.patreon.com/oluvsone/posts)'s Speaker Picks
 
 Oluv prefers a very neutral sound signature and has done the DSP design on the Earfun Uboom L and Earfun Uboom X which is why they are at the top of his list. His choices tend to align nearly perfectly with my own. See all his [favorite speakers in one video on his wife Joy's YouTube channel](https://www.youtube.com/watch?v=3Pa6FUt1GU8)

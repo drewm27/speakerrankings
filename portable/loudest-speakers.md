@@ -8,7 +8,6 @@ share-description: "Explore the ultimate portable party speakers. Expertly ranke
 
 These are the loudest possible portable speakers for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
 
-
 Speakers like the JBL Partybox 310 although they will play deeper just won't have the output needed for larger areas especially outdoors, so these are the best suggestions for extremely loud speakers.
 
 ## Best Internal Battery Speaker

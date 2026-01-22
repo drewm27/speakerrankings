@@ -10,7 +10,7 @@ This page summarizes the best portable Bluetooth speakers with built in wireless
 
 Also consider buying [Speakers with Microphone Inputs](/portable/best-microphone-input/) and purchasing a [wireless microphone](https://www.amazon.com/s?k=wireless+microphones&crid=3ASGOLQJ4SF67&sprefix=wireless+microph%2Caps%2C283&linkCode=ll2&tag=rankingspea01-20&linkId=f42b9f973de28beceaf3e1bf4ddbc319&language=en_US&ref_=as_li_ss_tl)
 
-See this for [Speakers with Built In Microphone For Calls](/portable/best-microphone/)
+See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
 ## The Best Speakers With Wireless Microphones
 

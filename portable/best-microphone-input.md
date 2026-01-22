@@ -10,6 +10,8 @@ This page summarizes the best portable Bluetooth speakers with microphone input 
 
 See this for [Speakers with Wireless Microphones](/portable/best-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/portable/best-microphone/)
 
+See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
+
 ## The Best Loud Powered Speakers with Microphone Input
 
 If you don't need a battery and need the speaker to be the loudest possible, PA speakers will be your best bet. The best ones are generally the [QSC K12.2](https://www.amazon.com/QSC-K12-2-Active-Powered-Loudspeaker/dp/B06Y477LND/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf3c0056f3ef63bee7512b791af2e9b6&camp=1789&creative=9325) (132dB peak) or the [EV EKX-12P](https://www.amazon.com/Electro-Voice-EKX12P-Range-Powered-Loudspeaker/dp/B0779P36PH/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=55e34def00766ce51d3d42ed06f4322a&camp=1789&creative=9325) (132dB peak)

@@ -10,6 +10,8 @@ This page summarizes the loudest portable Bluetooth speakers out of the 364 rank
 
 For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
 
+See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
+
 ## The Loudest Small Pocket Size Speaker
 
 ### The loudest [small size](/portable/small/) battery powered speaker is the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
