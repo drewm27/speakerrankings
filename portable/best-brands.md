@@ -395,7 +395,7 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
 
 ## Minirig
 
-Minirig makes the best modular portable Bluetooth speakers. All of them can add on a Minirig subwoofer. Just watch out as their software can be buggy and wireless pairing multiple speakers together can be buggy.
+Minirig makes the best modular portable Bluetooth speakers. All of them can add on a Minirig subwoofer. Just watch out as their software and wireless pairing multiple speakers together can be buggy.
 
 ### This [medium size](/portable/medium/) speaker has great sound quality and is highly modular, the [**Minirig 4**](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl)]: $200
 - Positives: Modular, can easily attach a subwoofer. Finally USB-C charging. Dynamically changes sound based on forward facing or upward facing orientation
