@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medium Size Bookshelf Speakers Ranked 2026
+title: Medium Size Bookshelf Speakers Ranked
 comments: true
 cover-img: "/assets/img/sierra1v2.jpg"
 share-description: "Find the top medium passive bookshelf speakers of 2026 with expert reviews, sound comparisons, and buying tips for balanced performance and quality audio."

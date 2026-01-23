@@ -2,10 +2,10 @@
 layout: page
 title: AsciLab C6B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The AsciLab C6B ranks #4 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
+share-description: "The AsciLab C6B ranks #4 out of 48 total Large Size Bookshelf Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The AsciLab C6B ranks [#4 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#4-ascilab-c6b-ascilab-used-listings-1145) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The AsciLab C6B ranks [#4 out of 48 total Large Size Bookshelf Speakers Ranked](/passive/bookshelf-large/#4-ascilab-c6b-ascilab-used-listings-1145) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)] [[Used Listings](https://www.hifizero.com/index.php?q=AsciLab+C6B)]: $1145
 - Positives: Extremely good directivity and frequency response, and just an insane value for the price.

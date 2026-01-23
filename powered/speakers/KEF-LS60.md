@@ -2,10 +2,10 @@
 layout: page
 title: KEF LS60 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The KEF LS60 ranks #1 out of 2 total Large Size Powered Floorstanding Speakers. Find all the specifications and reviews in one place"
+share-description: "The KEF LS60 ranks #1 out of 2 total Large Size Powered Floorstanding Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The KEF LS60 ranks [#1 out of 2 total Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/#1-kef-ls60-amazon-used-listings-6000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The KEF LS60 ranks [#1 out of 2 total Large Size Powered Floorstanding Speakers Ranked](/powered/floorstanding-large/#1-kef-ls60-amazon-used-listings-6000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 [KEF LS60](https://www.amazon.com/KEF-LS60-Wireless-System-Titanium/dp/B0BTJ6XLSX?crid=370J074PEJ50E&dib=eyJ2IjoiMSJ9.KzQqWS9dSYhA9B2_bLJKFh42lE2bp5y5YIzDnQiOpgKXJxD_plwAhd76KEzjOB49t1AZsDq_vwVAs9jj3qzQ8Wxn-mwadzFULtbOAKLmN8qozdlTzNR21YTsQ63dF0RkEwJfo4_UhS_kM6DPgHGIGfR7V_4_0KR1ASUZTAU1yQhKLRPJX4xEUCstpHAr1Oqi6WxMqdzXFgTHiqJ0ksKSKChROBp0IFnjbAz2gypv34s.FZWRDOg2g7ahJ5UdlS60uwyUY0X9vr6z34pGi8GWrAQ&dib_tag=se&keywords=kef%2Bls60&qid=1751424673&sprefix=kef%2Bls60%2Caps%2C220&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b1f94173538e39fab3377c2b9539c224&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-LS60-Wireless-System-Titanium/dp/B0BTJ6XLSX?crid=370J074PEJ50E&dib=eyJ2IjoiMSJ9.KzQqWS9dSYhA9B2_bLJKFh42lE2bp5y5YIzDnQiOpgKXJxD_plwAhd76KEzjOB49t1AZsDq_vwVAs9jj3qzQ8Wxn-mwadzFULtbOAKLmN8qozdlTzNR21YTsQ63dF0RkEwJfo4_UhS_kM6DPgHGIGfR7V_4_0KR1ASUZTAU1yQhKLRPJX4xEUCstpHAr1Oqi6WxMqdzXFgTHiqJ0ksKSKChROBp0IFnjbAz2gypv34s.FZWRDOg2g7ahJ5UdlS60uwyUY0X9vr6z34pGi8GWrAQ&dib_tag=se&keywords=kef%2Bls60&qid=1751424673&sprefix=kef%2Bls60%2Caps%2C220&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b1f94173538e39fab3377c2b9539c224&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+LS60)]: $6000
 - Positives: Exceptionally flat frequency response, fantastic off axis.

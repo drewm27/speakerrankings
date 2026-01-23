@@ -2,10 +2,10 @@
 layout: page
 title: Tozo PA1 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tozo PA1 ranks #52 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tozo PA1 ranks #52 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Tozo PA1 ranks [#52 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#52-tozo-pa1-amazon-36) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tozo PA1 ranks [#52 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#52-tozo-pa1-amazon-36) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #52 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325)]: $36
 - Positives: Use bass model for flattest response. Pretty deep bass for the money.

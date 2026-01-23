@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Powered Floorstanding Speakers Ranked 2026
+title: Large Size Powered Floorstanding Speakers Ranked
 comments: true
 cover-img: "/assets/img/kefls60.jpg"
 share-description: "Compare the best large powered floorstanding speakers of 2026 with expert reviews, sound performance insights, and buying tips for rich, powerful audio."

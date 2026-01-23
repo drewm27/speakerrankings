@@ -2,10 +2,10 @@
 layout: page
 title: Soundcore Rave Party 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Rave Party 2 ranks #39 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Rave Party 2 ranks #39 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Rave Party 2 ranks [#39 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#39-soundcore-rave-party-2-amazon-bhphotovideo-180) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Rave Party 2 ranks [#39 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked](/portable/boombox/#39-soundcore-rave-party-2-amazon-bhphotovideo-180) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #39 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1795817-REG/soundcore_by_anker_a3399z11_rave_party_2_portable.html?BI=23745&KBID=29189)]: $180
 - Positives: This speaker may move around in the rankings as we get better sound samples.

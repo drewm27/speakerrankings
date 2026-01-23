@@ -2,10 +2,10 @@
 layout: page
 title: Bose Soundlink Flex 2nd gen Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bose Soundlink Flex 2nd gen ranks #33 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Bose Soundlink Flex 2nd gen ranks #33 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Bose Soundlink Flex 2nd gen ranks [#33 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#33-bose-soundlink-flex-2nd-gen-amazon-150) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bose Soundlink Flex 2nd gen ranks [#33 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#33-bose-soundlink-flex-2nd-gen-amazon-150) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #33 [Bose Soundlink Flex 2nd gen](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl)]: $150
 - Positives: Pretty much identical sounding to the 1st gen

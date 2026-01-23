@@ -2,10 +2,10 @@
 layout: page
 title: JBL Partybox Encore Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Partybox Encore ranks #6 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Partybox Encore ranks #6 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The JBL Partybox Encore ranks [#6 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#6-jbl-partybox-encore-walmart-230) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Partybox Encore ranks [#6 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked](/portable/boombox/#6-jbl-partybox-encore-walmart-230) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #6 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467) [[Walmart](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467)]: $230
 - Positives: A great sounding somewhat boosted bass party speaker. 2 included wireless microphones.

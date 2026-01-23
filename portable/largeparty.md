@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Party Size Portable Bluetooth Speakers Ranked 2026
+title: Large Party Size Portable Bluetooth Speakers Ranked
 comments: true
 cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the top large party size Bluetooth speakers. Massive, AC‑powered giants designed for deep bass, huge sound, and epic party performance."

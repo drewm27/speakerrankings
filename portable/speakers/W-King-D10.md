@@ -2,10 +2,10 @@
 layout: page
 title: W-King D10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The W-King D10 ranks #50 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The W-King D10 ranks #50 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The W-King D10 ranks [#50 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#50-w-king-d10-amazon-84) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The W-King D10 ranks [#50 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked](/portable/boombox/#50-w-king-d10-amazon-84) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #50 [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325)]: $84
 - Negatives: Upper bass boost, bass not that deep.

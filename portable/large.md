@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Portable Bluetooth Speakers Ranked 2026
+title: Large Size Portable Bluetooth Speakers Ranked
 comments: true
 cover-img: "/assets/img/helsinki.jpg"
 share-description: "Explore our top-ranked large-size Bluetooth speakers. Expert picks for full, powerful sound and deep bass in a home or party setup."

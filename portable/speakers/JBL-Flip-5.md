@@ -2,10 +2,10 @@
 layout: page
 title: JBL Flip 5 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Flip 5 ranks #61 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Flip 5 ranks #61 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The JBL Flip 5 ranks [#61 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#61-jbl-flip-5-amazon-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Flip 5 ranks [#61 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#61-jbl-flip-5-amazon-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #61 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325)]: $90
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.

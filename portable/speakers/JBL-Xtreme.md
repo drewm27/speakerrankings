@@ -2,10 +2,10 @@
 layout: page
 title: JBL Xtreme Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Xtreme ranks #49 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Xtreme ranks #49 out of 73 total Large Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The JBL Xtreme ranks [#49 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#49-jbl-xtreme-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Xtreme ranks [#49 out of 73 total Large Size Portable Bluetooth Speakers Ranked](/portable/large/#49-jbl-xtreme-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #49 JBL Xtreme: $200
 - Negatives: Issues with bass distortion at high volumes. An older speaker outclassed by newer releases of the Xtreme. External AC power brick for charging.

@@ -2,10 +2,10 @@
 layout: page
 title: Zealot S67 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Zealot S67 ranks #72 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Zealot S67 ranks #72 out of 73 total Large Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Zealot S67 ranks [#72 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#72-zealot-s67-amazon-aliexpress-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Zealot S67 ranks [#72 out of 73 total Large Size Portable Bluetooth Speakers Ranked](/portable/large/#72-zealot-s67-amazon-aliexpress-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #72 [Zealot S67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39WWwR1)]: $80
 - Negatives: A lot of distortion above 50%, no deep bass, rolled off treble. Just not a good sounding speaker.

@@ -2,10 +2,10 @@
 layout: page
 title: Dynaudio Special Forty Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Dynaudio Special Forty ranks #30 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
+share-description: "The Dynaudio Special Forty ranks #30 out of 48 total Large Size Bookshelf Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Dynaudio Special Forty ranks [#30 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#30-dynaudio-special-forty-safeandsoundhq-used-listings-3600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Dynaudio Special Forty ranks [#30 out of 48 total Large Size Bookshelf Speakers Ranked](/passive/bookshelf-large/#30-dynaudio-special-forty-safeandsoundhq-used-listings-3600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #30 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Special+Forty)]: $3600
 - Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz. Not recommended for the price

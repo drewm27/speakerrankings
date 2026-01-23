@@ -2,10 +2,10 @@
 layout: page
 title: Infinity Reference 253 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Infinity Reference 253 ranks #16 out of 25 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
+share-description: "The Infinity Reference 253 ranks #16 out of 25 total Large Size Floorstanding Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Infinity Reference 253 ranks [#16 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#16-infinity-reference-253-ebay-used-listings-400-used) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Infinity Reference 253 ranks [#16 out of 25 total Large Size Floorstanding Speakers Ranked](/passive/floorstanding-large/#16-infinity-reference-253-ebay-used-listings-400-used) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #16 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+Reference+253)]: $400 used
 - Positives: Really amazing value for the performance

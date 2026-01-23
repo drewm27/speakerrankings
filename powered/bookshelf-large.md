@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Powered Bookshelf Speakers Ranked 2026
+title: Large Size Powered Bookshelf Speakers Ranked
 comments: true
 cover-img: "/assets/img/klasik2020.jpg"
 share-description: "Find the best large powered bookshelf speakers of 2026 with expert reviews, performance comparison, and buying tips for powerful, clear high-quality sound."

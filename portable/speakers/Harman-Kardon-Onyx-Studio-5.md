@@ -2,10 +2,10 @@
 layout: page
 title: Harman Kardon Onyx Studio 5 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Harman Kardon Onyx Studio 5 ranks #18 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Harman Kardon Onyx Studio 5 ranks #18 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Harman Kardon Onyx Studio 5 ranks [#18 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#18-harman-kardon-onyx-studio-5) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Harman Kardon Onyx Studio 5 ranks [#18 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked](/portable/boombox/#18-harman-kardon-onyx-studio-5) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #18 Harman Kardon Onyx Studio 5
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.

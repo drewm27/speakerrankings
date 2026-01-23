@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medium Size Powered Bookshelf Speakers Ranked 2026
+title: Medium Size Powered Bookshelf Speakers Ranked
 comments: true
 cover-img: "/assets/img/kh80.jpg"
 share-description: "Explore the best medium powered bookshelf speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."

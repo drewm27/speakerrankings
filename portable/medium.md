@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medium Size Portable Bluetooth Speakers Ranked 2026
+title: Medium Size Portable Bluetooth Speakers Ranked
 comments: true
 cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."

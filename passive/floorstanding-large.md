@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Floorstanding Speakers Ranked 2026
+title: Large Size Floorstanding Speakers Ranked
 comments: true
 cover-img: "/assets/img/revelf208.jpg"
 share-description: "Discover the best large passive floorstanding speakers of 2026 with expert reviews, performance comparisons, and buying tips for powerful, high-fidelity sound."

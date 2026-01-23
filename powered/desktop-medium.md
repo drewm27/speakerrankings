@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medium Size Powered Desktop Speakers Ranked 2026
+title: Medium Size Powered Desktop Speakers Ranked
 comments: true
 cover-img: "/assets/img/audioproc5.jpg"
 share-description: "Explore the best medium powered desktop speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."

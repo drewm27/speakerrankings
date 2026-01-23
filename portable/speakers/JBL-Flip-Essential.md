@@ -2,10 +2,10 @@
 layout: page
 title: JBL Flip Essential Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Flip Essential ranks #65 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Flip Essential ranks #65 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The JBL Flip Essential ranks [#65 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#65-jbl-flip-essential-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Flip Essential ranks [#65 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#65-jbl-flip-essential-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #65 JBL Flip Essential: $130
 - Negatives: Less bass than a Flip 5.

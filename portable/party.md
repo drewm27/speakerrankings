@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Party Size Portable Bluetooth Speakers Ranked 2026
+title: Party Size Portable Bluetooth Speakers Ranked
 comments: true
 cover-img: "/assets/img/partybox320.jpg"
 share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."

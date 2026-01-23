@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large Size Bookshelf Speakers Ranked 2026
+title: Large Size Bookshelf Speakers Ranked
 comments: true
 cover-img: "/assets/img/nxstudio.jpg"
 share-description: "Explore the best large passive bookshelf speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."

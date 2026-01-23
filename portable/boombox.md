@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boombox Size Portable Bluetooth Speakers Ranked 2026
+title: Boombox Size Portable Bluetooth Speakers Ranked
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore our top-rated boombox‑size Bluetooth speakers. Powerful picks with booming bass, long battery life, and bold sound for on-the-go or home use."

@@ -2,10 +2,10 @@
 layout: page
 title: Philharmonic BMR Monitor Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Philharmonic BMR Monitor ranks #12 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
+share-description: "The Philharmonic BMR Monitor ranks #12 out of 48 total Large Size Bookshelf Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Philharmonic BMR Monitor ranks [#12 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#12-philharmonic-bmr-monitor-philharmonicaudio-used-listings-2200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Philharmonic BMR Monitor ranks [#12 out of 48 total Large Size Bookshelf Speakers Ranked](/passive/bookshelf-large/#12-philharmonic-bmr-monitor-philharmonicaudio-used-listings-2200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #12 [Philharmonic BMR Monitor](https://philharmonicaudio.com/products/bmr-monitor) [[Philharmonicaudio](https://philharmonicaudio.com/products/bmr-monitor)] [[Used Listings](https://www.hifizero.com/index.php?q=Philharmonic+BMR+Monitor)]: $2200
 - Positives: Very wide off-axis

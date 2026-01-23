@@ -2,10 +2,10 @@
 layout: page
 title: Treblab HD-360 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Treblab HD-360 ranks #46 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Treblab HD-360 ranks #46 out of 73 total Large Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Treblab HD-360 ranks [#46 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#46-treblab-hd-360-amazon-110) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Treblab HD-360 ranks [#46 out of 73 total Large Size Portable Bluetooth Speakers Ranked](/portable/large/#46-treblab-hd-360-amazon-110) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #46 [Treblab HD-360](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325)]: $110
 - Positives: 4 woofers and 4 tweeters for real 360 deg sound

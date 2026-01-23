@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Small Size Powered Bookshelf Speakers Ranked 2026
+title: Small Size Powered Bookshelf Speakers Ranked
 comments: true
 cover-img: "/assets/img/iloudmicro.jpg"
 share-description: "Discover the top small powered bookshelf speakers of 2026 with expert rankings, key features, and buying tips for high-quality compact sound systems."

@@ -2,10 +2,10 @@
 layout: page
 title: Marshall Woburn II Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Marshall Woburn II ranks #5 out of 12 total Medium Size Powered Desktop Speakers. Find all the specifications and reviews in one place"
+share-description: "The Marshall Woburn II ranks #5 out of 12 total Medium Size Powered Desktop Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Marshall Woburn II ranks [#5 out of 12 total Medium Size Powered Desktop Speakers](/powered/desktop-medium/#5-marshall-woburn-ii-amazon-430) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Marshall Woburn II ranks [#5 out of 12 total Medium Size Powered Desktop Speakers Ranked](/powered/desktop-medium/#5-marshall-woburn-ii-amazon-430) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #5 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325)]: $430
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I

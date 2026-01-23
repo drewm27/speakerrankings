@@ -2,10 +2,10 @@
 layout: page
 title: Revel F226Be Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Revel F226Be ranks #8 out of 25 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
+share-description: "The Revel F226Be ranks #8 out of 25 total Large Size Floorstanding Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Revel F226Be ranks [#8 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#8-revel-f226be-crutchfield-used-listings-7700) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Revel F226Be ranks [#8 out of 25 total Large Size Floorstanding Speakers Ranked](/passive/floorstanding-large/#8-revel-f226be-crutchfield-used-listings-7700) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 [Revel F226Be](https://sovrn.co/1og8hjl) [[Crutchfield](https://sovrn.co/1og8hjl)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F226Be)]: $7700
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis

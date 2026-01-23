@@ -2,10 +2,10 @@
 layout: page
 title: Genelec 8351B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Genelec 8351B ranks #4 out of 22 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
+share-description: "The Genelec 8351B ranks #4 out of 22 total Large Size Powered Bookshelf Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Genelec 8351B ranks [#4 out of 22 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#4-genelec-8351b-bhphotovideo-used-listings-9150-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Genelec 8351B ranks [#4 out of 22 total Large Size Powered Bookshelf Speakers Ranked](/powered/bookshelf-large/#4-genelec-8351b-bhphotovideo-used-listings-9150-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 [Genelec 8351B](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_powered_studio_monitor_dual.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_powered_studio_monitor_dual.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8351B)]: $9150 a pair
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.

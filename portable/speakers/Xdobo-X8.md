@@ -2,10 +2,10 @@
 layout: page
 title: Xdobo X8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Xdobo X8 ranks #113 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Xdobo X8 ranks #113 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
 ---
 
-The Xdobo X8 ranks [#113 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#113-xdobo-x8-35) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Xdobo X8 ranks [#113 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#113-xdobo-x8-35) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #113 Xdobo X8: $35
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
