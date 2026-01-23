@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Portable Bluetooth Speakers For Audiophiles 2026
+title: Best Portable Bluetooth Speakers For Audiophiles 
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers ranked for audiophiles. The best neutral picks for every budget."

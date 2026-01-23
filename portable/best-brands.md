@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Portable Bluetooth Speaker Brands 2026
+title: Best Portable Bluetooth Speaker Brands 
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers brands and the speakers they make ranked for sound quality."

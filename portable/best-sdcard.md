@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Portable Bluetooth Speakers with SD Card slot 2026
+title: Best Portable Bluetooth Speakers with SD Card slot 
 comments: true
 cover-img: "/assets/img/bogasingg4.jpg"
 share-description: "Find the best Bluetooth speakers with SD‑card support. Expertly ranked for sound quality, portability & value, so you can play music straight from memory cards."

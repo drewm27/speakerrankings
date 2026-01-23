@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Portable Bluetooth Speakers With Wireless Mic 2026
+title: Best Portable Bluetooth Speakers With Wireless Mic 
 comments: true
 cover-img: "/assets/img/jblencore.jpg"
 share-description: "Discover the top recommended Bluetooth speakers with wireless microphone support. Expert‑ranked for karaoke performance, battery life & mic quality."

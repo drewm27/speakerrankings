@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Portable Bluetooth Speakers With Party Mode 2026
+title: Best Portable Bluetooth Speakers With Party Mode 
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
 share-description: "Find the top recommended Bluetooth speakers for party mode. Expert-ranked for booming volume, long battery life & rich bass to keep the party going all night."

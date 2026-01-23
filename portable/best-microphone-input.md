@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Portable Bluetooth Speakers with Mic Input 2026
+title: Best Portable Bluetooth Speakers with Mic Input 
 comments: true
 cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best microphone-input speakers — expert-reviewed picks for crystal-clear sound, recording, streaming & more with built-in input options."
