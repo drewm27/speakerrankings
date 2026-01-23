@@ -2,10 +2,10 @@
 layout: page
 title: Vifa Copenhagen 2.0 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Vifa Copenhagen 2.0 ranks #9 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Vifa Copenhagen 2.0 ranks #9 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Vifa Copenhagen 2.0 ranks [#9 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked](/portable/boombox/#9-vifa-copenhagen-20-amazon-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Vifa Copenhagen 2.0 ranks [#9 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#9-vifa-copenhagen-20-amazon-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #9 [Vifa Copenhagen 2.0](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-Copenhagen-2-0-New-Version/dp/B09NM2XVCV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a40ede18f17990e63ad40f505e582f8&camp=1789&creative=9325)]: $800
 - Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price. No water rating.

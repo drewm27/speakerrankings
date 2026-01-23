@@ -2,10 +2,10 @@
 layout: page
 title: W-King H10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The W-King H10 ranks #49 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The W-King H10 ranks #49 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The W-King H10 ranks [#49 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked](/portable/boombox/#49-w-king-h10-amazon-215) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The W-King H10 ranks [#49 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#49-w-king-h10-amazon-215) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #49 [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325)]: $215
 - Positives: Comes with wireless microphone. Loud.

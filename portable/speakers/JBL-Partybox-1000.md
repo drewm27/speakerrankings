@@ -2,10 +2,10 @@
 layout: page
 title: JBL Partybox 1000 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Partybox 1000 ranks #2 out of 9 total Large Party Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The JBL Partybox 1000 ranks #2 out of 9 total Large Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Partybox 1000 ranks [#2 out of 9 total Large Party Size Portable Bluetooth Speakers Ranked](/portable/largeparty/#2-jbl-partybox-1000-amazon-949) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Partybox 1000 ranks [#2 out of 9 total Large Party Size Portable Bluetooth Speakers](/portable/largeparty/#2-jbl-partybox-1000-amazon-949) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 [JBL Partybox 1000](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Premium-Wireless-Bluetooth/dp/B07TJXHG14/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=990faa7b551b1ceecc2ddda2bccc7c2f&camp=1789&creative=9325)]: $949
 - Positives: Handle and wheels are convenient. Right up there with the Partybox Ultimate, this was the previous speaker in that size. A better value than the Partybox Ultimate. Nice waterfall lightshow.

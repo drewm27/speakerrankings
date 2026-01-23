@@ -2,10 +2,10 @@
 layout: page
 title: JBL Partybox 110 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Partybox 110 ranks #5 out of 43 total Party Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The JBL Partybox 110 ranks #5 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Speakers Ranked](/portable/party/#5-jbl-partybox-110-amazon-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#5-jbl-partybox-110-amazon-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #5 [JBL Partybox 110](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-110-Portable-Built/dp/B094DPXR4X/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e34fe3c8e1aa0a0277d2c03bb9b21d4d&camp=1789&creative=9325)]: $300
 - Positives: Very neutral sound, slightly better than the Partybox 100.

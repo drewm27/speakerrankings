@@ -2,10 +2,10 @@
 layout: page
 title: B&O Beosound Explore Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The B&O Beosound Explore ranks #103 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The B&O Beosound Explore ranks #103 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beosound Explore ranks [#103 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#103-bo-beosound-explore-amazon-147) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beosound Explore ranks [#103 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#103-bo-beosound-explore-amazon-147) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #103 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.

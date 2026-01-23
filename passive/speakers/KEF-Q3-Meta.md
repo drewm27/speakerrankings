@@ -2,10 +2,10 @@
 layout: page
 title: KEF Q3 Meta Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The KEF Q3 Meta ranks #35 out of 48 total Large Size Bookshelf Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The KEF Q3 Meta ranks #35 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The KEF Q3 Meta ranks [#35 out of 48 total Large Size Bookshelf Speakers Ranked](/passive/bookshelf-large/#35-kef-q3-meta-amazon-used-listings-900) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The KEF Q3 Meta ranks [#35 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#35-kef-q3-meta-amazon-used-listings-900) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #35 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q3+Meta)]: $900
 - Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price

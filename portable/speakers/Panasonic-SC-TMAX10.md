@@ -2,10 +2,10 @@
 layout: page
 title: Panasonic SC-TMAX10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Panasonic SC-TMAX10 ranks #34 out of 43 total Party Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Panasonic SC-TMAX10 ranks #34 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Panasonic SC-TMAX10 ranks [#34 out of 43 total Party Size Portable Bluetooth Speakers Ranked](/portable/party/#34-panasonic-sc-tmax10) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Panasonic SC-TMAX10 ranks [#34 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#34-panasonic-sc-tmax10) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #34 Panasonic SC-TMAX10
 - Negatives: Not as deep bass as others in the class

@@ -2,10 +2,10 @@
 layout: page
 title: Marshall Woburn I Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Marshall Woburn I ranks #6 out of 12 total Medium Size Powered Desktop Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Marshall Woburn I ranks #6 out of 12 total Medium Size Powered Desktop Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Marshall Woburn I ranks [#6 out of 12 total Medium Size Powered Desktop Speakers Ranked](/powered/desktop-medium/#6-marshall-woburn-i-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Marshall Woburn I ranks [#6 out of 12 total Medium Size Powered Desktop Speakers](/powered/desktop-medium/#6-marshall-woburn-i-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #6 Marshall Woburn I: $500
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class

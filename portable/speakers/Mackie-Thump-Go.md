@@ -2,10 +2,10 @@
 layout: page
 title: Mackie Thump Go Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Mackie Thump Go ranks #18 out of 43 total Party Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Mackie Thump Go ranks #18 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Speakers Ranked](/portable/party/#18-mackie-thump-go-amazon-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#18-mackie-thump-go-amazon-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #18 [Mackie Thump Go](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Mackie-8-Inch-Portable-Battery-Powered-Loudspeaker/dp/B09CZH9B1Z/ref=sr_1_5?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=78832819a458363bfa8c176cecb23ffe&camp=1789&creative=9325)]: $450
 - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass. Battery latch breaks easily. Handle on top also can break off. Not very deep bass

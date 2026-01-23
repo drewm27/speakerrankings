@@ -2,10 +2,10 @@
 layout: page
 title: Kali Audio LP-8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Kali Audio LP-8 ranks #13 out of 22 total Large Size Powered Bookshelf Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Kali Audio LP-8 ranks #13 out of 22 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Kali Audio LP-8 ranks [#13 out of 22 total Large Size Powered Bookshelf Speakers Ranked](/powered/bookshelf-large/#13-kali-audio-lp-8-amazon-used-listings-500-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Kali Audio LP-8 ranks [#13 out of 22 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#13-kali-audio-lp-8-amazon-used-listings-500-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #13 [Kali Audio LP-8](https://www.amazon.com/Kali-Audio-LP-8-Studio-Monitor/dp/B07KMKWMMV?hvadid=693693825491&hvpos=&hvnetw=g&hvrand=7521840350489529522&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-594400076091&psc=1&mcid=23585f96d39935b7888c4441b9147305&gad_source=1&linkCode=ll1&tag=rankingspea01-20&linkId=fd20b9eb0119cd7edc4e3164fcddcae0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Kali-Audio-LP-8-Studio-Monitor/dp/B07KMKWMMV?hvadid=693693825491&hvpos=&hvnetw=g&hvrand=7521840350489529522&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-594400076091&psc=1&mcid=23585f96d39935b7888c4441b9147305&gad_source=1&linkCode=ll1&tag=rankingspea01-20&linkId=fd20b9eb0119cd7edc4e3164fcddcae0&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Kali+Audio+LP-8)]: $500 a pair
 - Positives: Note the newer V2 is out which could be a little better.

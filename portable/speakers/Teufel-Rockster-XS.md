@@ -2,10 +2,10 @@
 layout: page
 title: Teufel Rockster XS Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Teufel Rockster XS ranks #31 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Teufel Rockster XS ranks #31 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Teufel Rockster XS ranks [#31 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#31-teufel-rockster-xs-180) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Teufel Rockster XS ranks [#31 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#31-teufel-rockster-xs-180) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #31 Teufel Rockster XS: €180
 - Positives: A good sounding speaker.

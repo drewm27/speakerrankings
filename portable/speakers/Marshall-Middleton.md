@@ -2,10 +2,10 @@
 layout: page
 title: Marshall Middleton Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Marshall Middleton ranks #29 out of 73 total Large Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Marshall Middleton ranks #29 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Marshall Middleton ranks [#29 out of 73 total Large Size Portable Bluetooth Speakers Ranked](/portable/large/#29-marshall-middleton-amazon-236) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Marshall Middleton ranks [#29 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#29-marshall-middleton-amazon-236) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #29 [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325)]: $236
 - Positives: Very deep bass for the size/weight.

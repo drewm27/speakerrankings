@@ -2,10 +2,10 @@
 layout: page
 title: Marshall Middleton II Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Marshall Middleton II ranks #26 out of 73 total Large Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Marshall Middleton II ranks #26 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetooth Speakers Ranked](/portable/large/#26-marshall-middleton-ii-amazon-330) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#26-marshall-middleton-ii-amazon-330) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #26 [Marshall Middleton II](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=se&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=se&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl)]: $330
 - Positives: Very deep bass for the size/weight.

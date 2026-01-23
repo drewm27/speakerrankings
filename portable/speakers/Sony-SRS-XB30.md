@@ -2,10 +2,10 @@
 layout: page
 title: Sony SRS-XB30 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony SRS-XB30 ranks #98 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Sony SRS-XB30 ranks #98 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony SRS-XB30 ranks [#98 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#98-sony-srs-xb30) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SRS-XB30 ranks [#98 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#98-sony-srs-xb30) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #98 Sony SRS-XB30
 - Negatives: Muffled sound, worse than a XB20

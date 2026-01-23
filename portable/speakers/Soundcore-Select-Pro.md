@@ -2,10 +2,10 @@
 layout: page
 title: Soundcore Select Pro Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Select Pro ranks #13 out of 73 total Large Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Select Pro ranks #13 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Select Pro ranks [#13 out of 73 total Large Size Portable Bluetooth Speakers Ranked](/portable/large/#13-soundcore-select-pro-amazon-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Select Pro ranks [#13 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#13-soundcore-select-pro-amazon-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #13 [Soundcore Select Pro](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Technology-Waterproof/dp/B08YQRZKRK/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4aa9eeffe38d0d68a90a28aea4fde96e&camp=1789&creative=9325)]: $80
 - Positives: Sounds almost exactly like the Motion Boom

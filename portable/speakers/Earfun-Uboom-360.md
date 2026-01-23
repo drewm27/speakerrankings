@@ -2,10 +2,10 @@
 layout: page
 title: Earfun Uboom 360 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Earfun Uboom 360 ranks #30 out of 130 total Medium Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Earfun Uboom 360 ranks #30 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Earfun Uboom 360 ranks [#30 out of 130 total Medium Size Portable Bluetooth Speakers Ranked](/portable/medium/#30-earfun-uboom-360-amazon-42) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Earfun Uboom 360 ranks [#30 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#30-earfun-uboom-360-amazon-42) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #30 [Earfun Uboom 360](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325)]: $42
 - Positives: Similar to the Maxsound Plus in sound, likely uses the same drivers. Likely the best 360 speaker.

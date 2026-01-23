@@ -2,10 +2,10 @@
 layout: page
 title: Adam Audio T5V Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Adam Audio T5V ranks #8 out of 24 total Medium Size Powered Bookshelf Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The Adam Audio T5V ranks #8 out of 24 total Medium Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speakers Ranked](/powered/bookshelf-medium/#8-adam-audio-t5v-amazon-used-listings-352-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/#8-adam-audio-t5v-amazon-used-listings-352-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 [Adam Audio T5V](https://www.amazon.com/ADAM-Audio-T5V-Studio-Monitor/dp/B07BKVY3J1?crid=RNE8UPO1NDTD&dib=eyJ2IjoiMSJ9.s6GO69rhGO3RR8JiF_GYvPaMcwWQMlTgMrUasMmncTaJP-W2UW8eJ1HHpzEfKh382E7qPnlXy7V1LaBKlKomeQwQcHoiVFfkXkyxBpfQf5Znwpr41YY-_q_J3EzsJtykRCPBibZRhX5HQKpabx0zea2RTZ4AJjMc6qyXoahQcgnvRGhqP3flQPm-WGmux5pFxMXxZ2lt3n6PEJ1xP_MtIFlfpfs04Ip9LH3omYOnk3mqR0CHhieIrTQUmihz6drUoUtZpnp9UP7GHBEca5GLIpWfFqvlAMQ13cFSnebbKHs.x82H1XwQU6a-gC6AJVik6oFOyrQ8G5WDL4IuRUGN0Ik&dib_tag=se&keywords=adam%2Bt5v&qid=1718076940&sprefix=adam%2Bt5%2Caps%2C185&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e26f4d29fa8e85cbf2d52ad75e908571&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ADAM-Audio-T5V-Studio-Monitor/dp/B07BKVY3J1?crid=RNE8UPO1NDTD&dib=eyJ2IjoiMSJ9.s6GO69rhGO3RR8JiF_GYvPaMcwWQMlTgMrUasMmncTaJP-W2UW8eJ1HHpzEfKh382E7qPnlXy7V1LaBKlKomeQwQcHoiVFfkXkyxBpfQf5Znwpr41YY-_q_J3EzsJtykRCPBibZRhX5HQKpabx0zea2RTZ4AJjMc6qyXoahQcgnvRGhqP3flQPm-WGmux5pFxMXxZ2lt3n6PEJ1xP_MtIFlfpfs04Ip9LH3omYOnk3mqR0CHhieIrTQUmihz6drUoUtZpnp9UP7GHBEca5GLIpWfFqvlAMQ13cFSnebbKHs.x82H1XwQU6a-gC6AJVik6oFOyrQ8G5WDL4IuRUGN0Ik&dib_tag=se&keywords=adam%2Bt5v&qid=1718076940&sprefix=adam%2Bt5%2Caps%2C185&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e26f4d29fa8e85cbf2d52ad75e908571&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Adam+Audio+T5V)]: $352 a pair
 - Positives: Better than the HS5 in terms of vocals detail and better low end.

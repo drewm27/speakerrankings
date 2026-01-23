@@ -2,10 +2,10 @@
 layout: page
 title: JBL Authentics 300 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Authentics 300 ranks #29 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked. Find all the specifications and reviews in one place"
+share-description: "The JBL Authentics 300 ranks #29 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Authentics 300 ranks [#29 out of 68 total Boombox Size Portable Bluetooth Speakers Ranked](/portable/boombox/#29-jbl-authentics-300-amazon-330) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Authentics 300 ranks [#29 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#29-jbl-authentics-300-amazon-330) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #29 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325)]: $330
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
