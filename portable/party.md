@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."
 ---
 
-This page ranks 43 party size powered Bluetooth speakers. Last updated on 01/22/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
+This page ranks 43 party size powered Bluetooth speakers. Last updated on 01/24/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -461,7 +461,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox Encore Essential (Pee-Wee) - Indoors, Plugged In🔌 Bluetooth Speakers](https://www.youtube.com/watch?v=qgelmChNgAE)
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs ONN Large Party Speaker Gen 2 ⚔️ Budge Bluetooth Speaker Battle🔉 Bass Boost On](https://www.youtube.com/watch?v=CdhU1W-5pr4)
 - Links
-    - [Official Product Page](https://www.klipsch.com/products/gig-xxl-party-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Klipsch-Gig-XXL/)
 
 ## #17 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325)]: $300
@@ -588,7 +587,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
 - Links
-    - [Official Product Page](https://www.dpbolvw.net/click-101389079-15571488)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-3/)
 
 ## #23 [Soundboks 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325)]: $550
@@ -609,7 +607,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
     - <https://www.youtube.com/watch?v=NbnolJzmA5s>
 - Links
-    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-2)
+    - [Official Product Page](https://soundboks.com/products/soundboks-2-refurbished)
     - [Direct Speakerranking Link](/portable/speakers/Soundboks-2/)
 
 ## #24 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325)]: $450
@@ -674,7 +672,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.w-king.com/t9pro.html)
     - [Direct Speakerranking Link](/portable/speakers/W-King-T9-Pro/)
 
-## #28 [JBL Eon One Compact](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-EON-ONE-Rechargeable-Personal/dp/B0BXQKVHH5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e95bcfc5e68b7229f4b801185b55de28&camp=1789&creative=9325)]: $630
+## #28 [JBL Eon One Compact](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=se&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=se&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl)]: $630
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - Aux Input: Yes
 - Battery Life: 12 hours

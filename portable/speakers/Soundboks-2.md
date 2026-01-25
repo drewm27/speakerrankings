@@ -25,7 +25,7 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
     - <https://www.youtube.com/watch?v=ZWoFwIn6EhQ>
     - <https://www.youtube.com/watch?v=NbnolJzmA5s>
 - Links
-    - [Official Product Page](https://soundboks.com/products/speakers/soundboks-gen-2)
+    - [Official Product Page](https://soundboks.com/products/soundboks-2-refurbished)
 
 
 As an Amazon Associate I earn from qualifying purchases.

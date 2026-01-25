@@ -23,7 +23,7 @@ The Presonus Eris E5 XT ranks [#12 out of 24 total Medium Size Powered Bookshelf
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: PreSonus E5 XT  vs  KRK Rokit 5 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vF_z1f5Idbk)
 - Links
-    - [Official Product Page](https://legacy.presonus.com/products/Eris-E5-XT)
+    - [Official Product Page](https://www.presonus.com/products/eris-e5-xt-studio-monitor)
 
 
 As an Amazon Associate I earn from qualifying purchases.

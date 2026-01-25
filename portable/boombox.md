@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore our top-rated boombox‑size Bluetooth speakers. Powerful picks with booming bass, long battery life, and bold sound for on-the-go or home use."
 ---
 
-This page ranks 68 boombox size powered Bluetooth speakers. Last updated on 01/22/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+This page ranks 68 boombox size powered Bluetooth speakers. Last updated on 01/24/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -202,7 +202,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://uk.jbl.com/PARTYBOX-ENCORE-2.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore-2/)
 
-## #5 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0DSJXBMTC?crid=3PM16VRHN9Y0O&dib=eyJ2IjoiMSJ9.GdfDDjTRwQ4bvqHoT5Q7hVCvrK6seEBw3hzmWd0k_U2O6QNhcIkm_xOChfAvasGzkGWD4xh75jsAWATqBnE37ewp-a9ZBrcRoIOT2D08BPtkJplCHG0HRVL1Td8m_fxUAApLFM9dMUvuPPjF00xqGKm67iyJlfR2nb8KcXaiydjsQrx8_z2G4BuJOAdvbVkiu7l_C4HdslbH41TOtdrvhx_2x1L-AszVVVO1XtUcEYc.5v8Z4skYmvI0sX6ICx7YtlRvP3b65gO-Vmvd7MP0FpI&dib_tag=se&keywords=encore+essential+2&qid=1753381181&sprefix=encore+essential%2Caps%2C239&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=c672c81f506d520c88ccd5662376eb77&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875203-REG/jbl_jblpbencoreess2am_partybox_encore_essential_100w.html?BI=23745&KBID=29189)]: $230
+## #5 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875203-REG/jbl_jblpbencoreess2am_partybox_encore_essential_100w.html?BI=23745&KBID=29189)]: $230
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
 - App: Yes
@@ -1230,7 +1230,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Halo-200/)
 
-## #48 [Diamondboxx M3](https://diamondboxx.com/products/m3) [[Diamondboxx](https://diamondboxx.com/products/m3)]: $700
+## #48 Diamondboxx M3: $700
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
 - Aux Input: Yes
 - Battery Life: 40 hours
@@ -1390,7 +1390,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Tufton/)
 
-## #58 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $143
+## #58 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3pLYYDN)]: $143
 - Negatives: Rolled off treble, not much bass.
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
