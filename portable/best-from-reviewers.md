@@ -92,6 +92,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
+- Aux Latency: 20ms
 - Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC

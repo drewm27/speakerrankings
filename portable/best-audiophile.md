@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers ranked for audiophiles. The best neutral picks for every budget."
 ---
 
-This page summarizes the best sounding audiophile portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 01/24/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding audiophile portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 01/27/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
@@ -161,6 +161,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
 - App: Yes
 - Aux Input: Yes
+- Aux Latency: 20ms
 - Bass Extension (-10dB): 44hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
