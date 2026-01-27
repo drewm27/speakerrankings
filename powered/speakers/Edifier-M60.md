@@ -22,6 +22,7 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
 - Woofer: 3"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)
+    - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)
 - Links
     - [Official Product Page](https://www.edifier.com/us/p/computer-speakers/m60)
 

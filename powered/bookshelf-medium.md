@@ -108,6 +108,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Woofer: 4.5"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
+    - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
     - [Erin's Audio Corner: 10 Great (and Terrible) Speakers Under $300!](https://www.youtube.com/watch?v=aU_3cidukOE)
 - Links
