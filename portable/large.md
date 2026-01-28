@@ -6,7 +6,7 @@ cover-img: "/assets/img/helsinki.jpg"
 share-description: "Explore our top-ranked large-size Bluetooth speakers. Expert picks for full, powerful sound and deep bass in a home or party setup."
 ---
 
-This page ranks 73 large size powered Bluetooth speakers. Last updated on 01/27/2026. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 73 large size powered Bluetooth speakers. Last updated on 01/28/2026. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -388,7 +388,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #15 [Bose SoundLink Max](https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX?crid=2URAE7I7QCBN6&dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkywXpUwQYoyTiGnhUsV6JF_U0d4CF4ZVY35f2Z-i_OA8lSDMpoAy2UnRqIo5q78XAAwB_OZn9dYafzM36KhfPNVraobHgc8aiqrcKy9DDehobWLTk8SP3UKGLciNskvB_KN9MM071m2OdyqrJBdlKggErseSH17ps8KS-HPSbZsA-lh8ltNYcDY1eNqb5f2ZSobOl_VbtYFqS3PilnzP2odU.4_dXE4jBI0Kg5ysqYf7B_1-WTfaE-Ec3Om8lX6ubZJA&dib_tag=se&keywords=soundlink+max&qid=1716934348&sprefix=soundli%2Caps%2C222&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=9d5c53cccfd923856531da09ee60af40&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX?crid=2URAE7I7QCBN6&dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkywXpUwQYoyTiGnhUsV6JF_U0d4CF4ZVY35f2Z-i_OA8lSDMpoAy2UnRqIo5q78XAAwB_OZn9dYafzM36KhfPNVraobHgc8aiqrcKy9DDehobWLTk8SP3UKGLciNskvB_KN9MM071m2OdyqrJBdlKggErseSH17ps8KS-HPSbZsA-lh8ltNYcDY1eNqb5f2ZSobOl_VbtYFqS3PilnzP2odU.4_dXE4jBI0Kg5ysqYf7B_1-WTfaE-Ec3Om8lX6ubZJA&dib_tag=se&keywords=soundlink+max&qid=1716934348&sprefix=soundli%2Caps%2C222&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=9d5c53cccfd923856531da09ee60af40&language=en_US&ref_=as_li_ss_tl)]: $330
 - Negatives: Big peak in the upper bass, dipped midrange and lots of peaks and dips above the midrange. Bass not as deep as a Boom 2. Gets distorted above 80%. [Self drains the battery about 20% a week](https://www.reddit.com/r/bose/comments/1eg4hn8/bose_soundlink_max_battery_drain/).
 - App: Yes
-- Aux Input: No
+- Aux Input: Yes
 - Aux Latency: 33ms
 - Bass Extension (-10dB): 48hz
 - Battery Life: 20 hours
