@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
 ---
 
-This page ranks 130 medium size powered Bluetooth speakers. Last updated on 01/28/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 130 medium size powered Bluetooth speakers. Last updated on 01/29/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -872,6 +872,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Oluv: Bose Soundlink Flex 2nd gen - sound demo](https://www.patreon.com/posts/bose-soundlink-114024442)
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen & Soundcore Motion 300 sound test](https://www.youtube.com/watch?v=SyaGa3I53zM)
+    - [Alan Ross: Hall of Fame classic vs latest Bose tech!](https://www.youtube.com/watch?v=_8EQdU771ck)
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
@@ -1291,7 +1292,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Weight: 1.5lbs / 680g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
+    - [Alan Ross: Hall of Fame classic vs latest Bose tech!](https://www.youtube.com/watch?v=_8EQdU771ck)
     - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
     - <https://www.youtube.com/watch?v=mQRhBbxKY4o>

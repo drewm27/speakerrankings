@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers brands and the speakers they make ranked for sound quality."
 ---
 
-This page summarizes the best sounding audiophile portable Bluetooth speaker brands out of the 364 speakers ranked on this website. Last updated on 01/28/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding audiophile portable Bluetooth speaker brands out of the 364 speakers ranked on this website. Last updated on 01/29/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
@@ -503,6 +503,7 @@ Bose speakers are generally tuned to have boosted upper bass which can mask the 
     - [Oluv: Bose Soundlink Flex 2nd gen - sound demo](https://www.patreon.com/posts/bose-soundlink-114024442)
     - [Tô Thái Trí Hùng: Unbox & Sound Test - Bose Soundlink Flex 2](https://www.youtube.com/watch?v=PFTo4M1dI6Q)
     - [Audiophile housewife: Bose Soundlink Flex 2nd gen & Soundcore Motion 300 sound test](https://www.youtube.com/watch?v=SyaGa3I53zM)
+    - [Alan Ross: Hall of Fame classic vs latest Bose tech!](https://www.youtube.com/watch?v=_8EQdU771ck)
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)

@@ -16,7 +16,7 @@ The Bose Soundlink Mini 2 ranks [#55 out of 130 total Medium Size Portable Bluet
 - Stereo: Yes
 - Weight: 1.5lbs / 680g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=kOBTB9cZYRI>
+    - [Alan Ross: Hall of Fame classic vs latest Bose tech!](https://www.youtube.com/watch?v=_8EQdU771ck)
     - [Patricio Benadon: Bose SoundLink Flex vs. Mini 2 SE. Music audio quality sound test. Listen 4 different genres!](https://www.youtube.com/watch?v=VukUsbPfDec)
     - <https://www.youtube.com/watch?v=O9CumhsfOFI>
     - <https://www.youtube.com/watch?v=mQRhBbxKY4o>
