@@ -25,18 +25,29 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: No battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
+- Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7mm)
+- Dolby Atmos: Yes (virtual)
 - EQ: Yes
+- Ethernet: Yes
+- Frequency Response: 40Hz - 20kHz (-6dB)
 - IP Rating: None
 - Midrange: 3x 2.75"
 - Party Mode: Yes
+- Power: 270W (Max @ THD 1%)
+- Power Supply: 100 - 240V AC, ~ 50/60Hz
+- Sound System: 3.1 channel
 - Stereo: Yes
-- Tweeter: 3x 1"
+- Streaming Services: AirPlay 2, Chromecast, Spotify Connect, Tidal Connect, Alexa MRM
+- Tweeter: 3x 1" (25mm aluminum dome)
+- USB: Type-C (USB playback US only)
+- Voice Assistants: Amazon Alexa & Google Assistant (simultaneous)
 - Weight: 17.2lbs / 7.8kg
-- Wifi: Yes
-- Woofer: 6.5"
+- Wifi: Yes (IEEE 802.11 a/b/g/n/ac/ax, 2.4GHz/5GHz)
+- Woofer: 6.5" (down-firing subwoofer)
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
-    - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 😮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)
+    - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 🙮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-500.html)
     - [Direct Speakerranking Link](/powered/speakers/JBL-Authentics-500/)
