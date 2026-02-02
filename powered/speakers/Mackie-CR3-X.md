@@ -16,6 +16,14 @@ The Mackie CR3-X ranks [#8 out of 8 total Small Size Powered Bookshelf Speakers]
 - Watts: 25w RMS Per Speaker
 - Weight: 7.8lbs / 3.5kg
 - Woofer: 3"
+- App: No
+- Bass Extension (-10dB): 70hz
+- Bass Extension (-3dB): 80hz
+- Bluetooth: No
+- EQ: No
+- Max SPL: 92dB @ 1m
+- Power: 50W total (25W per speaker)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
     - [DSAUDIO.review: Mackie CR3-X  vs  Edifier R1280T   Sound, Distortion & Frequency Response Comparison](https://www.youtube.com/watch?v=Q4f___YNb7w)

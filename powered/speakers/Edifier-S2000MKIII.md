@@ -15,6 +15,9 @@ The Edifier S2000MKIII ranks [#14 out of 24 total Medium Size Powered Bookshelf 
 - Outputs: None
 - Watts: 65w RMS Per Speaker
 - Woofer: 5.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: DSAUDIO.review  Edifier S2000MKIII vs Klipsch The Three II  sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)

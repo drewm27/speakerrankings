@@ -13,6 +13,10 @@ The Fosi Audio SP601 ranks [#22 out of 22 total Large Size Powered Bookshelf Spe
 - Tweeter: 1.5" Silk Dome Tweeters
 - Watts: 80w RMS Per Speaker
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: No
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
 - Links

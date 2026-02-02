@@ -15,14 +15,22 @@ For more detailed information and specs about these speakers see the full rankin
 ### The best [small size powered bookshelf speaker](/powered/bookshelf-small/) for the majority of people who are looking for great sound while not being too large or expensive is the [**Edifier MR3**](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+MR3)]: $135
 - Positives: Pretty linear on axis, a very good value especially when you want Bluetooth included. Better than the MR4 all around.
 - Negatives: Small woofer doesn't have very deep bass like others in this size class.
-- App: Yes
-- Dimensions: 8.7"H x 4.9"W x 7.3"D
-- EQ: Yes
-- Frequency Response: 67-20 kHz (-3dB)
-- Inputs: Bluetooth, Aux, RCA Input
+- App: No
+- Dimensions: 5.9"H x 3.7"W x 5.9"D
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 60Hz - 20kHz
+- Inputs: Bluetooth, Aux, RCA
 - Watts: 18w RMS Per Speaker
-- Weight: 8.5lbs / 3.85kg
-- Woofer: 3.5"
+- Weight: 6.6lbs / 3kg
+- Woofer: 3"
+- Bass Extension (-10dB): 52hz
+- Bass Extension (-3dB): 60hz
+- Bluetooth: Yes
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
+- Max SPL: 93dB @ 1m
+- Power: 36W total (18W per speaker)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
@@ -37,6 +45,9 @@ For more detailed information and specs about these speakers see the full rankin
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
 - Tweeter: 1" Textile Dome
 - Woofer: 4.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)
@@ -56,6 +67,10 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: No
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
@@ -76,6 +91,14 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 555w Per Speaker
 - Weight: 77lbs / 35kg each
 - Woofer: 10"
+- App: Yes (MA 1 alignment)
+- Bluetooth: No
+- DSP: No
+- EQ: Yes (Room response controls)
+- Frequency Response: 31Hz - 21kHz (±3dB)
+- Max SPL: 124dB @ 1m
+- Midrange: 4" dome
+- Tweeter: 1" fabric dome
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
 - Links
@@ -92,6 +115,10 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 140w Per Speaker
 - Weight: 23lbs / 10.4kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
     - [Erin's Audio Corner Website Kali Audio IN-8](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)
@@ -108,6 +135,10 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)
@@ -127,6 +158,9 @@ For more detailed information and specs about these speakers see the full rankin
 - Watts: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
     - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)

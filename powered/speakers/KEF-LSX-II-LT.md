@@ -16,6 +16,9 @@ The KEF LSX II LT ranks [#17 out of 24 total Medium Size Powered Bookshelf Speak
 - Watts: 100w RMS Per Speaker
 - Weight: 15.0lbs / 6.8kg
 - Woofer: 115mm (4.5in.) magnesium/aluminium alloy cone
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Transform Your Sound System with the KEF LSX II LT Speaker](https://www.youtube.com/watch?v=Tcz905gti5A)
 - Links

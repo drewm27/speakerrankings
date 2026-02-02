@@ -16,6 +16,10 @@ The Genelec 8050B ranks [#6 out of 22 total Large Size Powered Bookshelf Speaker
 - Watts: 270w Per Speaker
 - Weight: 31.7lbs / 14.4kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
 - Links

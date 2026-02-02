@@ -16,6 +16,16 @@ The Audioengine HD3 ranks [#4 out of 8 total Small Size Powered Bookshelf Speake
 - Watts: 15w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
 - Woofer: 2.75"
+- App: No
+- Bass Extension (-10dB): 58hz
+- Bass Extension (-3dB): 65hz
+- Bluetooth: Yes
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 5.0
+- EQ: No
+- Max SPL: 90dB @ 1m
+- Power: 30W total (15W per speaker)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)

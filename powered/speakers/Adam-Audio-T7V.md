@@ -16,6 +16,10 @@ The Adam Audio T7V ranks [#16 out of 22 total Large Size Powered Bookshelf Speak
 - Watts: 70w Per Speaker
 - Weight: 15.7lbs / 7.1kg
 - Woofer: 7"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A7X vs Adam Audio T7V  sound.DEMO](https://www.youtube.com/watch?v=KRKa30FyOUQ)

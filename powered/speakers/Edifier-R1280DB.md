@@ -16,6 +16,9 @@ The Edifier R1280DB ranks [#23 out of 24 total Medium Size Powered Bookshelf Spe
 - Watts: 42w RMS Per Speaker
 - Weight: 10.8lbs / 4.9kg
 - Woofer: 4"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
     - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)

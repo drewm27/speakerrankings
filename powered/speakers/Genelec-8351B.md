@@ -17,6 +17,14 @@ The Genelec 8351B ranks [#4 out of 22 total Large Size Powered Bookshelf Speaker
 - Watts: 550w Per Speaker
 - Weight: 31lbs / 14.1kg each
 - Woofer: 8.6"
+- App: Yes (GLM)
+- Bluetooth: No
+- DSP: Yes
+- EQ: Yes (via GLM software)
+- Frequency Response: 32Hz - 40kHz (±1.5dB)
+- Max SPL: 113dB @ 1m
+- Midrange: 5" coaxial with tweeter
+- Tweeter: 0.75" (19mm) coaxial
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
 - Links

@@ -16,6 +16,9 @@ The KRK Classic 5 ranks [#18 out of 24 total Medium Size Powered Bookshelf Speak
 - Watts: 50w RMS Per Speaker
 - Weight: 13.0lbs / 5.87kg
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)

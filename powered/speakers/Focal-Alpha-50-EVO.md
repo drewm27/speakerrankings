@@ -15,6 +15,9 @@ The Focal Alpha 50 EVO ranks [#6 out of 24 total Medium Size Powered Bookshelf S
 - Watts: 60w Per Speaker
 - Weight: 13.1lbs / 6.0kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)

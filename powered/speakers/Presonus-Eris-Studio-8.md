@@ -15,6 +15,10 @@ The Presonus Eris Studio 8 ranks [#12 out of 22 total Large Size Powered Bookshe
 - Watts: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)

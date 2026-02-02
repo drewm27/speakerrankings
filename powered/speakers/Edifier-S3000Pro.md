@@ -15,6 +15,10 @@ The Edifier S3000Pro ranks [#21 out of 22 total Large Size Powered Bookshelf Spe
 - Outputs: None
 - Watts: 78w RMS Per Speaker
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
     - [DSAUDIO.review: Edifier S3000 Pro DSP Modes Demo   Sound & Frequency Respnse Comparison](https://www.youtube.com/watch?v=Dsh3A4B6Lbo)

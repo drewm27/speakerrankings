@@ -15,6 +15,10 @@ The Focal Alpha 65 EVO ranks [#10 out of 22 total Large Size Powered Bookshelf S
 - Watts: 85w Per Speaker
 - Weight: 16.8lbs / 7.6kg each
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Focal Alpha 65  sound.DEMO](https://www.youtube.com/watch?v=t6jqpS2jey0)

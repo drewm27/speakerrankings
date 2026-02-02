@@ -16,6 +16,14 @@ The Genelec 8010A ranks [#1 out of 8 total Small Size Powered Bookshelf Speakers
 - Watts: 50w RMS Per Speaker
 - Weight: 3.3lbs / 1.5kg
 - Woofer: 3"
+- App: No
+- Bass Extension (-10dB): 67hz
+- Bass Extension (-3dB): 74hz
+- Bluetooth: No
+- EQ: Yes (Bass tilt, Desk proximity)
+- Max SPL: 96dB @ 1m
+- Power: 50W (25W woofer + 25W tweeter)
+- Tweeter: 0.75" metal dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs iLoud Micro Monitor   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vi5umvPW1yQ)
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs Presonus Eris E4.5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9OjbZQoLviY)

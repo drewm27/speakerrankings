@@ -26,10 +26,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Dimensions: 19"H x 10.5"W x 15"D
 - Inputs: XLR
 - Midrange: 8" Aluminium Cone
-- Tweeter: 1" Aluminium / Magnesium dome
+- Tweeter: 1" Aluminium/Magnesium dome
 - Watts: 1000w Per Speaker
 - Weight: 57lbs / 26kg each
 - Woofer: 2x 8" Aluminium Cone
+- App: Yes (Ascend)
+- Bluetooth: No
+- DSP: Yes
+- EQ: Yes (24-band parametric)
+- Frequency Response: 20Hz - 20kHz
+- Max SPL: 106dB @ 1m continuous
+- Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
+- Streaming: Yes (network streaming)
+- WiFi: Yes (Ethernet)
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dutch & Dutch 8c Bookshelf Speaker Review](https://www.youtube.com/watch?v=j38gkS-Q8f8)
     - [Erin's Audio Corner Website Dutch & Dutch 8C](https://www.erinsaudiocorner.com/loudspeakers/dutch_dutch_8c/)
@@ -47,6 +56,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 555w Per Speaker
 - Weight: 77lbs / 35kg each
 - Woofer: 10"
+- App: Yes (MA 1 alignment)
+- Bluetooth: No
+- DSP: No
+- EQ: Yes (Room response controls)
+- Frequency Response: 31Hz - 21kHz (±3dB)
+- Max SPL: 124dB @ 1m
+- Midrange: 4" dome
+- Tweeter: 1" fabric dome
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
 - Links
@@ -60,11 +77,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-3dB): 34hz
 - Dimensions: 22.5"H x 14"W x 13.6"D
 - Inputs: XLR
-- Midrange: 5 1/8"
-- Tweeter: 25 mm
+- Midrange: 5.1" coaxial with tweeter
+- Tweeter: 1" (25mm) coaxial
 - Watts: 1000w Per Speaker
 - Weight: 70.3lbs / 31.9kg each
 - Woofer: Dual 263 x 137 mm
+- App: Yes (GLM)
+- Bluetooth: No
+- DSP: Yes
+- EQ: Yes (via GLM software)
+- Frequency Response: 30Hz - 43kHz (±2dB)
+- Max SPL: 118dB @ 1m
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Genelec 8361a is FANTASTIC for Your Home Studio or HiFi!](https://www.youtube.com/watch?v=2VjzJRXbafI)
 - Links
@@ -81,6 +104,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 550w Per Speaker
 - Weight: 31lbs / 14.1kg each
 - Woofer: 8.6"
+- App: Yes (GLM)
+- Bluetooth: No
+- DSP: Yes
+- EQ: Yes (via GLM software)
+- Frequency Response: 32Hz - 40kHz (±1.5dB)
+- Max SPL: 113dB @ 1m
+- Midrange: 5" coaxial with tweeter
+- Tweeter: 0.75" (19mm) coaxial
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
 - Links
@@ -88,6 +119,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Direct Speakerranking Link](/powered/speakers/Genelec-8351B/)
 
 ## #5 [HEDD Type 20 MK2](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=HEDD+Type+20+MK2)]: $4800 a pair
+- App: Yes (HEDD CTRL)
+- Bass Extension (-10dB): 26hz
+- Bass Extension (-3dB): 32hz
+- Bluetooth: No
+- Dimensions: 14.1"H x 11"W x 13.3"D
+- DSP: Yes (96kHz/32-bit)
+- EQ: Yes (Desk filter, shelf filters)
+- Frequency Response: 32Hz - 40kHz
+- Inputs: XLR (Analog/AES)
+- Max SPL: 120dB @ 1m (per pair)
+- Midrange: 4" honeycomb composite
+- Outputs: XLR (AES pass-through)
+- Power: 900W (3x300W)
+- Tweeter: HEDD AMT (Air Motion Transformer)
+- Weight: 33.9lbs / 15.4kg each
+- Woofer: 7" honeycomb composite
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
 - Links
@@ -103,6 +150,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 270w Per Speaker
 - Weight: 31.7lbs / 14.4kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
 - Links
@@ -118,6 +169,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 180w Per Speaker
 - Weight: 20.7lbs / 9.4kg each
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
     - [Direct Speakerranking Link](/powered/speakers/Genelec-8040B/)
@@ -131,6 +186,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each
 - Woofer: 7"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)
@@ -150,6 +209,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 140w Per Speaker
 - Weight: 23lbs / 10.4kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
     - [Erin's Audio Corner Website Kali Audio IN-8](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)
@@ -166,6 +229,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 85w Per Speaker
 - Weight: 16.8lbs / 7.6kg each
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Focal Alpha 65  sound.DEMO](https://www.youtube.com/watch?v=t6jqpS2jey0)
@@ -190,6 +257,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 15lbs / 6.8kg each
 - Woofer: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil
 - Woofer Cabinet: Sealed
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt A10 Bookshelf Review: The Real Pros and Cons](https://www.youtube.com/watch?v=VL7WtnxIZc8)
 - Links
@@ -204,6 +275,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)
@@ -223,6 +298,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Weight: 19.8lbs / 9.0kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Tannoy Gold 8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tKT1WFR4ZGw)
     - [DSAUDIO.review: Focal Alpha 80  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vCksLawVPM8)
@@ -242,6 +321,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 120w Per Speaker
 - Weight: 22.5lbs / 10.2kg
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
@@ -269,6 +352,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 90w Per Speaker
 - Weight: 21.6lbs / 9.8kg
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)
@@ -286,6 +373,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 70w Per Speaker
 - Weight: 15.7lbs / 7.1kg
 - Woofer: 7"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A7X vs Adam Audio T7V  sound.DEMO](https://www.youtube.com/watch?v=KRKa30FyOUQ)
@@ -310,6 +401,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w
 - Weight: 22.6lbs / 10.5kg
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: KRK Rokit 8 G4 RP8G4  vs  Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=asE5dXZe-do)
@@ -324,6 +419,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: TRS, XLR
 - Weight: 16.8lbs / 7.6kg
 - Woofer: 7"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Adam Audio T7V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=lH4aACE5tjE)
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=l2UK8sdbVLo)
@@ -349,6 +448,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 14.3lbs / 6.5kg
 - Wifi: Yes
+- Bluetooth: No
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
@@ -365,6 +466,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: No
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
@@ -381,6 +486,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Outputs: None
 - Watts: 78w RMS Per Speaker
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
     - [DSAUDIO.review: Edifier S3000 Pro DSP Modes Demo   Sound & Frequency Respnse Comparison](https://www.youtube.com/watch?v=Dsh3A4B6Lbo)
@@ -394,6 +503,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Tweeter: 1.5" Silk Dome Tweeters
 - Watts: 80w RMS Per Speaker
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: No
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
 - Links

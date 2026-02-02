@@ -16,6 +16,9 @@ The IK Multimedia iLoud MTM ranks [#13 out of 24 total Medium Size Powered Books
 - Watts: 100w Per Speaker
 - Weight: 5.5lbs / 2.5kg
 - Woofer: 2x 3.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
     - [DSAUDIOreview: IK Multimedia  iLoud MTM  vs  iLoud Micro    Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tdZ9gPdXjZI)

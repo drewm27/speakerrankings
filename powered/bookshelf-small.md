@@ -27,6 +27,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 50w RMS Per Speaker
 - Weight: 3.3lbs / 1.5kg
 - Woofer: 3"
+- App: No
+- Bass Extension (-10dB): 67hz
+- Bass Extension (-3dB): 74hz
+- Bluetooth: No
+- EQ: Yes (Bass tilt, Desk proximity)
+- Max SPL: 96dB @ 1m
+- Power: 50W (25W woofer + 25W tweeter)
+- Tweeter: 0.75" metal dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs iLoud Micro Monitor   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vi5umvPW1yQ)
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs Presonus Eris E4.5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9OjbZQoLviY)
@@ -46,6 +54,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 25w RMS Per Speaker
 - Weight: 2.0lbs / 0.9kg
 - Woofer: 3"
+- App: No
+- Bass Extension (-10dB): 45hz
+- Bass Extension (-3dB): 55hz
+- Bluetooth: Yes (A2DP)
+- EQ: Yes (Bass/Treble switches, Desktop/Free field)
+- Frequency Response: 55Hz - 20kHz (-3dB)
+- Max SPL: 96dB @ 1m
+- Power: 50W total (combined)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs iLoud Micro Monitor  sound.DEMO](https://www.youtube.com/watch?v=eNBQXkxIJNc)
@@ -60,6 +77,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Vertical off axis is just okay
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 50hz
+- App: No
+- Bluetooth: No
+- Dimensions: 6.7"H x 4.3"W x 5.9"D
+- EQ: Yes (Room adjustment filters)
+- Frequency Response: 50Hz - 50kHz
+- Inputs: XLR, RCA
+- Max SPL: 102dB @ 1m
+- Power: 50W (30W woofer + 20W tweeter)
+- Tweeter: U-ART accelerated ribbon
+- Weight: 3.7lbs / 1.7kg
+- Woofer: 3.5"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: ADAM Audio D3V: Mighty Small But Mighty Awesome Desktop Speaker](https://www.youtube.com/watch?v=bYipzw4qTGk)
     - [Erin's Audio Review Adam Audio D3v](https://www.erinsaudiocorner.com/loudspeakers/adam_d3v/)
@@ -76,6 +104,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 15w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
 - Woofer: 2.75"
+- App: No
+- Bass Extension (-10dB): 58hz
+- Bass Extension (-3dB): 65hz
+- Bluetooth: Yes
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 5.0
+- EQ: No
+- Max SPL: 90dB @ 1m
+- Power: 30W total (15W per speaker)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
@@ -87,14 +125,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #5 [Edifier MR3](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Certified-Bluetooth-Bookshelf-Loudspeakers/dp/B0DGXTBQTY?mcid=db90998c723a38df9f1e2be563516d9c&hvocijid=14778595718893434018-B0DGXTBQTY-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=14778595718893434018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177898&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3ea10df7d5e41b0e46e6756932a683f&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+MR3)]: $135
 - Positives: Pretty linear on axis, a very good value especially when you want Bluetooth included. Better than the MR4 all around.
 - Negatives: Small woofer doesn't have very deep bass like others in this size class.
-- App: Yes
-- Dimensions: 8.7"H x 4.9"W x 7.3"D
-- EQ: Yes
-- Frequency Response: 67-20 kHz (-3dB)
-- Inputs: Bluetooth, Aux, RCA Input
+- App: No
+- Dimensions: 5.9"H x 3.7"W x 5.9"D
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 60Hz - 20kHz
+- Inputs: Bluetooth, Aux, RCA
 - Watts: 18w RMS Per Speaker
-- Weight: 8.5lbs / 3.85kg
-- Woofer: 3.5"
+- Weight: 6.6lbs / 3kg
+- Woofer: 3"
+- Bass Extension (-10dB): 52hz
+- Bass Extension (-3dB): 60hz
+- Bluetooth: Yes
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
+- Max SPL: 93dB @ 1m
+- Power: 36W total (18W per speaker)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
@@ -114,6 +160,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 33w RMS Per Speaker
 - Weight: 6.8lbs / 3kg
 - Woofer: 3"
+- Bluetooth Version: 5.3
+- Frequency Response: 55Hz - 40kHz
+- Max SPL: 96dB @ 1m
+- Power: 66W total (33W per speaker)
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)
@@ -130,6 +180,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 25w RMS Per Speaker
 - Weight: 8.5lbs / 3.9kg
 - Woofer: 3.5"
+- App: No
+- Bass Extension (-10dB): 70hz
+- Bass Extension (-3dB): 80hz
+- Bluetooth: No
+- EQ: Yes (Acoustic space)
+- Max SPL: 95dB @ 1m
+- Power: 50W total (25W per speaker)
+- Tweeter: 1" silk dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E3.5  sound.DEMO](https://www.youtube.com/watch?v=pZqLVCBXgyw)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Edifier R1280T   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9-6zpNiQv5M)
@@ -151,6 +209,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 25w RMS Per Speaker
 - Weight: 7.8lbs / 3.5kg
 - Woofer: 3"
+- App: No
+- Bass Extension (-10dB): 70hz
+- Bass Extension (-3dB): 80hz
+- Bluetooth: No
+- EQ: No
+- Max SPL: 92dB @ 1m
+- Power: 50W total (25W per speaker)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
     - [DSAUDIO.review: Mackie CR3-X  vs  Edifier R1280T   Sound, Distortion & Frequency Response Comparison](https://www.youtube.com/watch?v=Q4f___YNb7w)

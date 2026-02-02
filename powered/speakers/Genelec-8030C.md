@@ -17,6 +17,13 @@ The Genelec 8030C ranks [#2 out of 24 total Medium Size Powered Bookshelf Speake
 - Watts: 100w Per Speaker
 - Weight: 11lbs / 5kg each
 - Woofer: 5.1"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Bass tilt, treble tilt, room response)
+- Frequency Response: 54Hz - 20kHz (±2.5dB)
+- Max SPL: 110dB @ 1m
+- Power: 100W (50W woofer + 50W tweeter)
+- Tweeter: 0.75" metal dome
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8030c-studio-monitor-review.14795/)
 - Links

@@ -15,6 +15,9 @@ The Edifier R2000DB ranks [#20 out of 24 total Medium Size Powered Bookshelf Spe
 - Watts: 60w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
     - [DSAUDIO.review: Edifier R2730DB vs Edifier R2000DB   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9JwfnkkM3n4)

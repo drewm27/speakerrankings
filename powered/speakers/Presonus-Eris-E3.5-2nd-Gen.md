@@ -16,6 +16,14 @@ The Presonus Eris E3.5 2nd Gen ranks [#7 out of 8 total Small Size Powered Books
 - Watts: 25w RMS Per Speaker
 - Weight: 8.5lbs / 3.9kg
 - Woofer: 3.5"
+- App: No
+- Bass Extension (-10dB): 70hz
+- Bass Extension (-3dB): 80hz
+- Bluetooth: No
+- EQ: Yes (Acoustic space)
+- Max SPL: 95dB @ 1m
+- Power: 50W total (25W per speaker)
+- Tweeter: 1" silk dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E3.5  sound.DEMO](https://www.youtube.com/watch?v=pZqLVCBXgyw)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Edifier R1280T   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9-6zpNiQv5M)

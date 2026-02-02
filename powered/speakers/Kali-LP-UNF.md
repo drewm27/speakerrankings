@@ -15,6 +15,9 @@ The Kali LP-UNF ranks [#5 out of 24 total Medium Size Powered Bookshelf Speakers
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
 - Tweeter: 1" Textile Dome
 - Woofer: 4.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)

@@ -16,6 +16,9 @@ The Audioengine HD6 ranks [#19 out of 24 total Medium Size Powered Bookshelf Spe
 - Watts: 50w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
 - Woofer: 5.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: Audioengine HD6 vs Audioengine A5+   5 Track Comparison](https://www.youtube.com/watch?v=g3Jx7d_iMo4)

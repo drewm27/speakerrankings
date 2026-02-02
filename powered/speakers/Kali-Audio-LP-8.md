@@ -16,6 +16,10 @@ The Kali Audio LP-8 ranks [#13 out of 22 total Large Size Powered Bookshelf Spea
 - Watts: 100w Per Speaker
 - Weight: 19.8lbs / 9.0kg each
 - Woofer: 8"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Tannoy Gold 8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tKT1WFR4ZGw)
     - [DSAUDIO.review: Focal Alpha 80  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vCksLawVPM8)

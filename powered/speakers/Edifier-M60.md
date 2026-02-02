@@ -20,6 +20,10 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
 - Watts: 33w RMS Per Speaker
 - Weight: 6.8lbs / 3kg
 - Woofer: 3"
+- Bluetooth Version: 5.3
+- Frequency Response: 55Hz - 40kHz
+- Max SPL: 96dB @ 1m
+- Power: 66W total (33W per speaker)
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)

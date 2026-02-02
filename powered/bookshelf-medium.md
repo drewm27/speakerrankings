@@ -25,10 +25,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-3dB): 46hz
 - Dimensions: 11.3"H x 7.2"W x 8.9"D
 - Inputs: XLR
-- Tweeter: 1"
+- Tweeter: 1" titanium fabric dome
 - Watts: 200w Per Speaker
 - Weight: 11.9lbs / 6.6kg each
 - Woofer: 5.25"
+- App: Yes (MA 1 alignment)
+- Bluetooth: No
+- DSP: Yes
+- EQ: Yes (via DSP)
+- Frequency Response: 44Hz - 21kHz (±3dB)
+- Max SPL: 116.8dB @ 1m
+- Power: 245W (145W woofer + 100W tweeter)
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh120-ii-monitor-review.46362/)
 - Links
@@ -45,6 +52,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Weight: 11lbs / 5kg each
 - Woofer: 5.1"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Bass tilt, treble tilt, room response)
+- Frequency Response: 54Hz - 20kHz (±2.5dB)
+- Max SPL: 110dB @ 1m
+- Power: 100W (50W woofer + 50W tweeter)
+- Tweeter: 0.75" metal dome
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8030c-studio-monitor-review.14795/)
 - Links
@@ -60,6 +74,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Weight: 7.1lbs / 3.2kg each
 - Woofer: 4.1"
+- App: No
+- Bass Extension (-10dB): 50hz
+- Bass Extension (-3dB): 56hz
+- Bluetooth: No
+- EQ: Yes (Bass tilt, desk proximity)
+- Max SPL: 103dB @ 1m
+- Power: 100W (50W woofer + 50W tweeter)
+- Tweeter: 0.75" metal dome
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)
     - [DSAUDIO.review: Genelec 8020D  vs  Yamaha HS5   Soun & Frequency Response Comparison](https://www.youtube.com/watch?v=Ipohm9fuz5A)
@@ -82,6 +104,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 140w Per Speaker
 - Weight: 9.1lbs / 4.1kg each
 - Woofer: 4.1"
+- App: Yes (MA 1 alignment)
+- Bass Extension (-10dB): 51hz
+- Bass Extension (-3dB): 57hz
+- Bluetooth: No
+- DSP: Yes
+- EQ: Yes (via DSP)
+- Max SPL: 110.7dB @ 1m
+- Power: 140W (90W woofer + 50W tweeter)
+- Tweeter: 1" fabric dome
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
     - [DSAUDIO.review: Neumann KH80 DSP vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=LcldXF0mx0I)
@@ -106,6 +137,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
 - Tweeter: 1" Textile Dome
 - Woofer: 4.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)
@@ -124,6 +158,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 60w Per Speaker
 - Weight: 13.1lbs / 6.0kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Focal Alpha 50 EVO  sound.DEMO](https://www.youtube.com/watch?v=0KvXRMa0YY8)
@@ -148,6 +185,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
     - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)
@@ -174,6 +214,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 70w Per Speaker
 - Weight: 12.6lbs / 5.7kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
     - [DSAUDIO.review: Kali LP-6 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=8eRKA9srFXE)
@@ -198,6 +241,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 45w Per Speaker
 - Weight: 12.1lbs / 5.5kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
@@ -222,6 +268,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
     - [DSAUDIO.review: Yamaha HS5 vs Presonus Eris E5  Sound Demo](https://www.youtube.com/watch?v=SWT-9LfiRGc)
@@ -246,6 +295,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 55w Per Speaker
 - Weight: 10.7lbs / 4.9kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
     - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=q6EETP-YrAY)
@@ -270,6 +322,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
     - [DSAUDIO.review: Bright and brighter. PreSonus E5 XT takes on Adam Audio T5V SOUND & FREQUENCY RESPONSE COMPARISON](https://www.youtube.com/watch?v=E31EQd_EJKc)
@@ -290,6 +345,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w Per Speaker
 - Weight: 5.5lbs / 2.5kg
 - Woofer: 2x 3.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
     - [DSAUDIOreview: IK Multimedia  iLoud MTM  vs  iLoud Micro    Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tdZ9gPdXjZI)
@@ -312,6 +370,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Outputs: None
 - Watts: 65w RMS Per Speaker
 - Woofer: 5.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: DSAUDIO.review  Edifier S2000MKIII vs Klipsch The Three II  sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
@@ -330,6 +391,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 60w RMS Per Speaker
 - Weight: 37.0lbs / 16.8kg
 - Woofer: 5.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)
@@ -345,6 +409,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 60w RMS Per Speaker
 - Weight: 37.0lbs / 16.8kg
 - Woofer: 5.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
@@ -362,6 +429,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 100w RMS Per Speaker
 - Weight: 15.0lbs / 6.8kg
 - Woofer: 115mm (4.5in.) magnesium/aluminium alloy cone
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Transform Your Sound System with the KEF LSX II LT Speaker](https://www.youtube.com/watch?v=Tcz905gti5A)
 - Links
@@ -377,6 +447,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 50w RMS Per Speaker
 - Weight: 13.0lbs / 5.87kg
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
@@ -398,6 +471,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 50w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
 - Woofer: 5.5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: Audioengine HD6 vs Audioengine A5+   5 Track Comparison](https://www.youtube.com/watch?v=g3Jx7d_iMo4)
@@ -413,6 +489,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 60w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
     - [DSAUDIO.review: Edifier R2730DB vs Edifier R2000DB   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9JwfnkkM3n4)
@@ -431,6 +510,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 42w RMS Per Speaker
 - Weight: 9.9lbs / 4.5kg
 - Woofer: 4"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
@@ -454,6 +536,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 66w RMS Per Speaker
 - Weight: 14.5lbs / 6.6kg
 - Woofer: 4"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
@@ -474,6 +559,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 42w RMS Per Speaker
 - Weight: 10.8lbs / 4.9kg
 - Woofer: 4"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
     - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)
@@ -492,6 +580,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 50w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
 - Woofer: 4"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)

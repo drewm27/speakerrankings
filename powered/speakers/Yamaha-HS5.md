@@ -16,6 +16,9 @@ The Yamaha HS5 ranks [#9 out of 24 total Medium Size Powered Bookshelf Speakers]
 - Watts: 45w Per Speaker
 - Weight: 12.1lbs / 5.5kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)

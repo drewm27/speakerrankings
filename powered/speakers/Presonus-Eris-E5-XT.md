@@ -15,6 +15,9 @@ The Presonus Eris E5 XT ranks [#12 out of 24 total Medium Size Powered Bookshelf
 - Watts: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
     - [DSAUDIO.review: Bright and brighter. PreSonus E5 XT takes on Adam Audio T5V SOUND & FREQUENCY RESPONSE COMPARISON](https://www.youtube.com/watch?v=E31EQd_EJKc)

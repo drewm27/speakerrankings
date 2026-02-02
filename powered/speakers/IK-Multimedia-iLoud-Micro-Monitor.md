@@ -15,6 +15,15 @@ The IK Multimedia iLoud Micro Monitor ranks [#2 out of 8 total Small Size Powere
 - Watts: 25w RMS Per Speaker
 - Weight: 2.0lbs / 0.9kg
 - Woofer: 3"
+- App: No
+- Bass Extension (-10dB): 45hz
+- Bass Extension (-3dB): 55hz
+- Bluetooth: Yes (A2DP)
+- EQ: Yes (Bass/Treble switches, Desktop/Free field)
+- Frequency Response: 55Hz - 20kHz (-3dB)
+- Max SPL: 96dB @ 1m
+- Power: 50W total (combined)
+- Tweeter: 0.75" silk dome
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs iLoud Micro Monitor  sound.DEMO](https://www.youtube.com/watch?v=eNBQXkxIJNc)

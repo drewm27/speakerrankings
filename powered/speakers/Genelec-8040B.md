@@ -16,6 +16,10 @@ The Genelec 8040B ranks [#7 out of 22 total Large Size Powered Bookshelf Speaker
 - Watts: 180w Per Speaker
 - Weight: 20.7lbs / 9.4kg each
 - Woofer: 6.5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
 

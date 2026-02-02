@@ -17,6 +17,9 @@ The Edifier MR4 ranks [#21 out of 24 total Medium Size Powered Bookshelf Speaker
 - Watts: 42w RMS Per Speaker
 - Weight: 9.9lbs / 4.5kg
 - Woofer: 4"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)

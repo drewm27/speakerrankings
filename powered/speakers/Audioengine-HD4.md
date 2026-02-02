@@ -16,6 +16,9 @@ The Audioengine HD4 ranks [#24 out of 24 total Medium Size Powered Bookshelf Spe
 - Watts: 50w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
 - Woofer: 4"
+- App: No
+- Bluetooth: No
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)

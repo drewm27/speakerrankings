@@ -15,6 +15,9 @@ The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speak
 - Watts: 70w Per Speaker
 - Weight: 12.6lbs / 5.7kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
     - [DSAUDIO.review: Kali LP-6 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=8eRKA9srFXE)

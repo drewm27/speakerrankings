@@ -19,6 +19,10 @@ The Buchardt A10 ranks [#11 out of 22 total Large Size Powered Bookshelf Speaker
 - Weight: 15lbs / 6.8kg each
 - Woofer: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil
 - Woofer Cabinet: Sealed
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
+- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt A10 Bookshelf Review: The Real Pros and Cons](https://www.youtube.com/watch?v=VL7WtnxIZc8)
 - Links

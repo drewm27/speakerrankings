@@ -16,6 +16,9 @@ The JBL 305P MKII ranks [#7 out of 24 total Medium Size Powered Bookshelf Speake
 - Watts: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each
 - Woofer: 5"
+- App: No
+- Bluetooth: No
+- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
     - [DSAUDIO.review: JBL 305P MKII  vs Yamaha HS5   6-Track Comparison](https://www.youtube.com/watch?v=XHG0wv9pOdU)
