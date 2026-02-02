@@ -6,7 +6,7 @@ cover-img: "/assets/img/stormboxmicro2.jpg"
 share-description: "Explore the top small size Bluetooth speakers. Compact, lightweight, and powerful picks expertly ranked for portability, sound quality & budget."
 ---
 
-This page ranks 41 small size powered Bluetooth speakers. Last updated on 01/29/2026. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the small size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 41 small size powered Bluetooth speakers. Last updated on 02/02/2026. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the small size are mono (single driver) and IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
