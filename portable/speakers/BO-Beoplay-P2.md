@@ -19,6 +19,9 @@ The B&O Beoplay P2 ranks [#14 out of 41 total Small Size Portable Bluetooth Spea
 - Stereo: No
 - TWS: No
 - Weight: 0.61lbs / 275g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links

@@ -27,6 +27,7 @@ The JBL Partybox Encore Essential 2 ranks [#5 out of 68 total Boombox Size Porta
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: No
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links

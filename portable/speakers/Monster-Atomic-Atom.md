@@ -23,6 +23,8 @@ The Monster Atomic Atom ranks [#24 out of 41 total Small Size Portable Bluetooth
 - Power Input: USB-C
 - TWS: No
 - Weight: 0.35lbs / 159g
+- Built in Microphone: Yes
+- Stereo: No
 - Reviews, Comparisons and Sound Samples
     - [wwjoshdew: Monster Atomic Atom Bluetooth 5.4 Speaker](https://www.youtube.com/watch?v=4RJTt8arMM4)
 - Links

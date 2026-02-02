@@ -11,6 +11,17 @@ The Raymate M8 ranks [#42 out of 73 total Large Size Portable Bluetooth Speakers
 - Negatives: Slightly muffled sounding
 - Battery Life: 15 hours
 - Weight: 4.5lbs / 2.1kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 

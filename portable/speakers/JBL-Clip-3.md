@@ -20,6 +20,10 @@ The JBL Clip 3 ranks [#31 out of 41 total Small Size Portable Bluetooth Speakers
 - Stereo: No
 - TWS: No
 - Weight: 0.5lb / 227g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links

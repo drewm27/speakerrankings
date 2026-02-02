@@ -22,6 +22,8 @@ The Marshall Willen ranks [#12 out of 41 total Small Size Portable Bluetooth Spe
 - Stereo: No
 - TWS: No
 - Weight: 0.68lbs / 309g
+- Aux Input: No
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)

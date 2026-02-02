@@ -17,6 +17,12 @@ The Fugoo XL ranks [#37 out of 73 total Large Size Portable Bluetooth Speakers](
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Weight: 3.8lbs / 1.72kg
+- App: No
+- Bluetooth Codecs: SBC
+- EQ: No
+- Party Mode: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bL65lkRunbo>
     - <https://www.youtube.com/watch?v=8HGha3_EEXc>

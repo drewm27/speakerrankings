@@ -20,6 +20,10 @@ The JBL Go 3 ranks [#22 out of 41 total Small Size Portable Bluetooth Speakers](
 - Stereo: No
 - TWS: No
 - Weight: 0.46lbs / 209g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)

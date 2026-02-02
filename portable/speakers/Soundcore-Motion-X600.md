@@ -22,6 +22,11 @@ The Soundcore Motion X600 ranks [#18 out of 73 total Large Size Portable Bluetoo
 - Stereo: Yes
 - TWS: Yes
 - Weight: 5.17lbs / 2.35kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion X600 now tuned by Alan Ross (sort of) Not clickbait!](https://www.youtube.com/watch?v=7eQFNduP7ak)
     - [Alan Ross Reviews: breaking news.....Soundcore Motion X600 with LDAC and spatial audio!](https://www.youtube.com/watch?v=SwJXt6ZNLKM)

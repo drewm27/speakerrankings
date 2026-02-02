@@ -21,6 +21,11 @@ The JBL Xtreme 3 ranks [#16 out of 73 total Large Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.03lbs / 1.83kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>

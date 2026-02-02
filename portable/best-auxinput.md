@@ -32,6 +32,7 @@ For more information, sound samples and specs about all these speakers, see the 
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 0.71lbs / 320g
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
@@ -291,6 +292,8 @@ For more information, sound samples and specs about all these speakers, see the 
 - Stereo: Yes
 - TWS: Yes
 - Weight: 10.4lbs / 4.7kg
+- Bluetooth Codecs: SBC, AAC
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)

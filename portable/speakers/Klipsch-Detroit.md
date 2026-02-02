@@ -21,6 +21,9 @@ The Klipsch Detroit ranks [#51 out of 73 total Large Size Portable Bluetooth Spe
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 5.4lbs / 2.5kg
+- Bluetooth Codecs: SBC
+- EQ: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Walts TV: The Austin NEW Klipsch Bluetooth Speaker Review + Sound Test](https://www.youtube.com/watch?v=lzMYAggcAmI)
     - [Audio Inside Scoop: Klipsch Detroit VS JBL Xtreme 3 Hear With Me!!](https://www.youtube.com/watch?v=0UCLAHrrZHs)

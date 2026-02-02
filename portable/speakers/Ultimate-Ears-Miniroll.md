@@ -17,6 +17,11 @@ The Ultimate Ears Miniroll ranks [#10 out of 41 total Small Size Portable Blueto
 - Power Input: USB-C
 - Stereo: No
 - Weight: 0.62 lbs / 279g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Bank: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
 - Links

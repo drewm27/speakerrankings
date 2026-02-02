@@ -18,6 +18,14 @@ The Sonos Move ranks [#25 out of 73 total Large Size Portable Bluetooth Speakers
 - Power Input: USB-C (requires USB-C PD 12v minimum)
 - Weight: 6.61lbs / 3kg
 - Wifi: Yes
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Ezekielo: JBL Xtreme 2 vs Sonos Move with Sound Comparison](https://www.youtube.com/watch?v=V4Nq-rVAP1k)
     - [NeverEnoughTech: soundcore Motion X600 vs. Sonos Move vs. Bose Soundlink Revolve II](https://www.youtube.com/watch?v=bPfwaZp1x1Q)

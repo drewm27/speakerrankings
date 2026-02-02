@@ -29,6 +29,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
+- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links

@@ -13,6 +13,16 @@ The LG PN7 ranks [#59 out of 73 total Large Size Portable Bluetooth Speakers](/p
 - Battery Life: 24 hours
 - Max Volume: 106db
 - Weight: 4.71lbs / 2.14kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
 - Links

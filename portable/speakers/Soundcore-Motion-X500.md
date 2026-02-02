@@ -20,6 +20,10 @@ The Soundcore Motion X500 ranks [#22 out of 73 total Large Size Portable Bluetoo
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.7lbs / 2.1kg
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Longest I have ever been, and I don't care who sees it! ❤](https://www.youtube.com/watch?v=ugvcTMDt-bM)
 - Links

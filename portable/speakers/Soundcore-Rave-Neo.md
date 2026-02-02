@@ -18,6 +18,12 @@ The Soundcore Rave Neo ranks [#60 out of 73 total Large Size Portable Bluetooth 
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
 - Weight: 7.7lbs / 3.49kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion Boom Plus or Soundcore Rave Neo (Trance Go) - best Soundcore speaker??](https://www.youtube.com/watch?v=VCr3ep2H_Ro)
     - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)

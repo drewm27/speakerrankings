@@ -13,6 +13,16 @@ The Dali Katch G1/G2 ranks [#55 out of 73 total Large Size Portable Bluetooth Sp
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Weight: 2.43lbs / 1.1kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Dali Katch G2 high end audio takes on the entire world of bluetooth speakers! 👌👋](https://www.youtube.com/watch?v=C7-YUgWGt9Q)
     - [Alan Ross Reviews: Dali Katch G2 epic review vs Original Dali Katch audiophile speaker! 🤞](https://www.youtube.com/watch?v=th3EgJOQENw)

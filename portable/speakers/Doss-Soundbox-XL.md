@@ -17,6 +17,14 @@ The Doss Soundbox XL ranks [#50 out of 73 total Large Size Portable Bluetooth Sp
 - MicroSD: Yes
 - Power Input: AC Power brick
 - Weight: 1.23lbs / 557g
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Doss Soundbox xl vs Soundcore Motion boom and Plus - woopeeeee!!!!!!!!](https://www.youtube.com/watch?v=ZNob1QwXiqY)
     - <https://www.youtube.com/watch?v=TiVx4pPl1GE>

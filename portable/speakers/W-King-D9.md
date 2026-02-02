@@ -18,6 +18,13 @@ The W-King D9 ranks [#61 out of 73 total Large Size Portable Bluetooth Speakers]
 - Power Bank: Yes
 - TWS: No
 - Weight: 4.4lbs / 2.0kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
     - [Alan Ross Reviews: W King D8 vs W-King D9 - budget boombox battle!](https://www.youtube.com/watch?v=sDLWQNloXgk)

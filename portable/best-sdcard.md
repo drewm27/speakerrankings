@@ -25,6 +25,11 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Power Bank: No
 - Power Input: Micro USB
 - Weight: 0.44lbs / 200g
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
+- Stereo: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
@@ -67,6 +72,13 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Power Bank: Yes
 - TWS: Yes
 - Weight: 10.1lbs / 4.6kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
     - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)

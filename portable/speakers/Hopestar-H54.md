@@ -18,6 +18,10 @@ The Hopestar H54 ranks [#33 out of 41 total Small Size Portable Bluetooth Speake
 - Power Bank: No
 - Stereo: No
 - TWS: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links

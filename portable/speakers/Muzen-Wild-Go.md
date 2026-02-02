@@ -14,6 +14,14 @@ The Muzen Wild Go ranks [#36 out of 41 total Small Size Portable Bluetooth Speak
 - Power Input: USB-C
 - Stereo: No
 - Weight: 0.41lbs / 187g
+- App: No
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [UtmostCoin Reviews: Bringing Sophistications to The Wild - Muzen Wild Go Speaker Review](https://www.youtube.com/watch?v=3JsU3QYYRrk)
     - [Chrispy Things [EDC]: The NEW ultra portable Muzen Wild Go Sound Test & Review!](https://www.youtube.com/watch?v=g0mixdXjVI8)

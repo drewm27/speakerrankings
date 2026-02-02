@@ -19,6 +19,10 @@ The Soundcore Select 4 Go ranks [#20 out of 41 total Small Size Portable Bluetoo
 - Stereo: No
 - TWS: Yes
 - Weight: 0.58lbs / 265g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)

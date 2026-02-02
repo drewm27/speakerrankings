@@ -24,6 +24,9 @@ The Minirig mk3 with subwoofer ranks [#4 out of 73 total Large Size Portable Blu
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.13lbs / 1.42kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=e8lfiOep2pU>
     - <https://www.youtube.com/watch?v=HuPEBiJqhPk>

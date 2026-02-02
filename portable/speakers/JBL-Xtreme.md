@@ -15,6 +15,14 @@ The JBL Xtreme ranks [#49 out of 73 total Large Size Portable Bluetooth Speakers
 - Party Mode: Yes (Connect)
 - TWS: No
 - Weight: 5.3 lbs / 2.4kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XojJNqtq6xQ>
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>

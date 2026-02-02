@@ -15,6 +15,15 @@ The JBL Xtreme 2 ranks [#41 out of 73 total Large Size Portable Bluetooth Speake
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: No
 - Weight: 5.3lbs / 2.4kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)

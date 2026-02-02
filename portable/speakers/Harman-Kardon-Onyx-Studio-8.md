@@ -22,6 +22,9 @@ The Harman Kardon Onyx Studio 8 ranks [#10 out of 68 total Boombox Size Portable
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 7.76lbs / 3.52kg
+- App: No
+- Bluetooth Codecs: SBC
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
     - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)

@@ -19,6 +19,12 @@ The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks [#33 out of 73 total Large Siz
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 2.69lbs / 1.22kg
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [SpeakerBlowUpMan Lee: Zicoroop Ts (Xdobo bucket) Bluetooth Speaker Review/Teardown](https://www.youtube.com/watch?v=hAfUPwhnD4A)
 

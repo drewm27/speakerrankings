@@ -15,6 +15,15 @@ The Marshall Killburn II ranks [#34 out of 73 total Large Size Portable Bluetoot
 - IP Rating: IPX2
 - Max Volume: 102db
 - Weight: 5.5lbs / 2.49kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)

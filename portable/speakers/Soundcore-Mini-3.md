@@ -24,6 +24,8 @@ The Soundcore Mini 3 ranks [#7 out of 41 total Small Size Portable Bluetooth Spe
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
+- Aux Input: No
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links

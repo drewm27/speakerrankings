@@ -17,6 +17,11 @@ The Teufel Boomster Go ranks [#5 out of 41 total Small Size Portable Bluetooth S
 - Stereo: No
 - TWS: Yes
 - Weight: 0.78lbs / 355g
+- App: No
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
 - Links

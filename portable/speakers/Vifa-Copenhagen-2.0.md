@@ -19,6 +19,8 @@ The Vifa Copenhagen 2.0 ranks [#9 out of 68 total Boombox Size Portable Bluetoot
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 10.25lbs / 4.65kg
+- Bluetooth Codecs: aptX HD
+- EQ: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: VIFA Copenhagen 2.0 - premium wireless speaker](https://www.youtube.com/watch?v=PXtV5pPeEdo)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>

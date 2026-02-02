@@ -14,6 +14,16 @@ The Rocksteady Stadium Speakers and Subwoofer ranks [#47 out of 73 total Large S
 - Battery Life: 16 hours
 - Max Volume: 104db
 - Weight: 9.0 lbs / 4.1kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: I did not expect this!  2.1 shocker!](https://www.youtube.com/watch?v=WPkMk9H-9-4)
 - Links

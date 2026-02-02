@@ -24,6 +24,7 @@ The Tribit Stormbox Micro ranks [#4 out of 41 total Small Size Portable Bluetoot
 - Stereo: No
 - TWS: Yes
 - Weight: 0.65lbs / 295g
+- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)

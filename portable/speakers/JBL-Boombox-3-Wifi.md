@@ -22,6 +22,7 @@ The JBL Boombox 3 Wifi ranks [#19 out of 68 total Boombox Size Portable Bluetoot
 - TWS: No
 - Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: JBL Partybox Encore 2 vs JBL Boombox 3 WiFi - Sound Test - Wide vs Narrow Soundstage!](https://www.youtube.com/watch?v=J-dsO2KOSzY)
     - [Mateusz Cholewa: JBL Encore 2 Partybox Deep Bass 🆚 Jbl Boombox 3 WiFi 🎶](https://www.youtube.com/watch?v=srLPSYOcTGw)

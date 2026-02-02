@@ -277,6 +277,10 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Stereo: No
 - TWS: No
 - Weight: 3.0lbs / 1.4kg
+- App: No
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)
@@ -304,6 +308,8 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Stereo: Yes
 - TWS: Yes
 - Weight: 10.4lbs / 4.7kg
+- Bluetooth Codecs: SBC, AAC
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)

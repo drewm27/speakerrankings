@@ -18,6 +18,12 @@ The Sonos Move 2 ranks [#23 out of 73 total Large Size Portable Bluetooth Speake
 - Stereo: Yes
 - Weight: 6.61lbs / 3kg
 - Wifi: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links

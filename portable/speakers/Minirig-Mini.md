@@ -25,6 +25,7 @@ The Minirig Mini ranks [#3 out of 41 total Small Size Portable Bluetooth Speaker
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 0.69lbs / 314g
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)

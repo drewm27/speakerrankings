@@ -19,6 +19,10 @@ The Vifa Oslo ranks [#6 out of 73 total Large Size Portable Bluetooth Speakers](
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 5.29lbs / 2.4kg
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=ikbgT5lqkRk>

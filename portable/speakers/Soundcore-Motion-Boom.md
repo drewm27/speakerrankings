@@ -24,6 +24,8 @@ The Soundcore Motion Boom ranks [#12 out of 73 total Large Size Portable Bluetoo
 - Stereo: Yes
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This is shocking! They broke the world pound for pound champ! 😢](https://www.youtube.com/watch?v=pZsFBGxUwwo)
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)

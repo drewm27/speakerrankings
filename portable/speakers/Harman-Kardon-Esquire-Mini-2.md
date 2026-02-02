@@ -19,6 +19,10 @@ The Harman Kardon Esquire Mini 2 ranks [#37 out of 41 total Small Size Portable 
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 250g
+- Bluetooth Codecs: SBC
+- IP Rating: None
+- Party Mode: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jaky9114: 2022年12月16日](https://www.youtube.com/watch?v=4xCM1mE-1Ww)
     - [Jaky9114: Harman Kardon Esquire Mini 2](https://www.youtube.com/watch?v=sQT7_LLqJ4M)

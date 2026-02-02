@@ -15,6 +15,14 @@ The Sony SRS-XG300 ranks [#52 out of 73 total Large Size Portable Bluetooth Spea
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Weight: 6.6lbs / 3kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: Who Sounds The Best Of Sony XG300, XB43 & JBL XTREME3 With Sound Sample BLIND CHALLENGE Reveal.](https://www.youtube.com/watch?v=4gxvC_KjNbk)
     - [Techder Audios: SONY XG300 VS SOUNDCORE MOTION BOOM](https://www.youtube.com/watch?v=QIdwUHaJVf4)

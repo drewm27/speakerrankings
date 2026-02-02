@@ -21,6 +21,7 @@ The JBL Boombox 3 ranks [#20 out of 68 total Boombox Size Portable Bluetooth Spe
 - Stereo: Yes
 - TWS: Yes
 - Weight: 14.lbs / 6.7kg
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)

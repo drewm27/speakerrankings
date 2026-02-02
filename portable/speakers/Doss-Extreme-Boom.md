@@ -15,6 +15,15 @@ The Doss Extreme Boom ranks [#71 out of 73 total Large Size Portable Bluetooth S
 - MicroSD: Yes
 - Power Bank: Yes
 - Weight: 5.57lbs / 2.52kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=se-REq7pJ3s>
 - Links

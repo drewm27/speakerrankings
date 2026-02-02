@@ -14,6 +14,14 @@ The Muzen Wild Mini ranks [#35 out of 41 total Small Size Portable Bluetooth Spe
 - Power Input: USB-C
 - Stereo: No
 - Weight: 0.55lbs / 248g
+- App: No
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)
     - [RodrickViews: Muzen Wild Mini Rugged Outdoor Speaker](https://www.youtube.com/watch?v=NI_2TlxDbWQ)

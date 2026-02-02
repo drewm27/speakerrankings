@@ -27,6 +27,8 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: No
 - TWS: Yes
 - Weight: 0.55lbs / 248g
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
     - [Electric Chris Chris Vanderstock: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
@@ -106,6 +108,9 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: Yes
 - TWS: No
 - Weight: 7.36lbs / 3.3kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Zealot S97 - Soundtest "MINI BOOMBOX ALMOST PERFECT?!"](https://www.youtube.com/watch?v=4eyFZeBFwpg)
     - [Jay's Straight Up Reviews & More: Zealot S97 mid-size Boombox 📦 Unboxing, Review & Demo. 😵Will I Finally Like A Zealot Speaker?](https://www.youtube.com/watch?v=jaLS0I0jjVQ)

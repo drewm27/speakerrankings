@@ -19,6 +19,16 @@ The KEF LS60 ranks [#1 out of 2 total Large Size Powered Floorstanding Speakers]
 - Watts: 700w Per Speaker
 - Weight: 69lbs / 31.3kg each
 - Woofer: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver:
+- App: Yes (KEF Connect)
+- Bluetooth: Yes (5.0 with SBC, AAC)
+- DSP: Yes (Music Integrity Engine)
+- EQ: Yes (Normal and Expert modes, room adaptation)
+- Frequency Response: 31Hz - 24kHz (±3dB)
+- Max SPL: 111dB @ 1m (pink noise)
+- Outputs: Subwoofer RCA
+- Power: 700W (500W LF Class D + 100W MF Class D + 100W HF Class AB)
+- Streaming: Yes (AirPlay 2, Chromecast, Roon Ready, Spotify Connect, Tidal Connect, Amazon Music, Qobuz, Deezer)
+- WiFi: Yes (dual-band)
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF LS60 Wireless: The Ultimate Review, Measurements Exposed!](https://www.youtube.com/watch?v=E1DA6ER58Gg)
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)

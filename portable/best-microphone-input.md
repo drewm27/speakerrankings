@@ -153,6 +153,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: No
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links
@@ -173,6 +174,8 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Stereo: Yes
 - TWS: Yes
 - Weight: 19.2 lbs / 8.7kg
+- Bluetooth Codecs: SBC, AAC
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)

@@ -18,6 +18,12 @@ The B&O Beosound A5 ranks [#11 out of 73 total Large Size Portable Bluetooth Spe
 - USB Audio: Yes
 - Weight: 8.5lbs / 3.86kg
 - Wifi: Yes
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
 - Links

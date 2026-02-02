@@ -21,6 +21,9 @@ The Sony SRS-XB13 ranks [#29 out of 41 total Small Size Portable Bluetooth Speak
 - Stereo: No
 - TWS: Yes
 - Weight: 0.56lbs / 255g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)

@@ -22,6 +22,9 @@ The Minirig mk4 with subwoofer ranks [#3 out of 73 total Large Size Portable Blu
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.17lbs / 1.44kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [Alan Ross Reviews:  Game changer! Minirig wireless portable subwoofer mk4 goes boom!  ](https://www.youtube.com/watch?v=nUN93WecLUs)

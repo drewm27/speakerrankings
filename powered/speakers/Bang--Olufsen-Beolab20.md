@@ -11,6 +11,22 @@ The Bang & Olufsen Beolab20 ranks [#2 out of 2 total Large Size Powered Floorsta
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - Bass Extension (-3dB): 20hz
+- App: Yes (B&O app)
+- Bass Extension (-10dB): <20hz
+- Bluetooth: No
+- Dimensions: 15.5"W x 32.3"H x 12"D
+- DSP: Yes (Digital Sound Engine)
+- EQ: Yes (Room adaptation: Free/Wall/Corner)
+- Frequency Response: 19.5Hz - 23.6kHz
+- Inputs: PowerLink (RJ45), RCA, TOSLINK optical, WiSA wireless
+- Max SPL: 108dB @ 1m
+- Midrange: 5" driver
+- Outputs: PowerLink, TOSLINK
+- Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
+- Tweeter: 0.75" Acoustic Lens
+- Weight: 39.7lbs / 18kg each
+- WiFi: Yes (WiSA)
+- Woofer: 10" driver
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links

@@ -16,6 +16,16 @@ The Devialet Mania ranks [#38 out of 73 total Large Size Portable Bluetooth Spea
 - Max Volume: 95db
 - Weight: 5.1lbs / 2.3kg
 - Wifi: Yes
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [That Speaker Guy: Devialet Mania vs Bang & Olufsen Beoplay P6 - Headphones On](https://www.youtube.com/watch?v=iXLBPb3Ckfw)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)

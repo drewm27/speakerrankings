@@ -25,6 +25,7 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 0.71lbs / 320g
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)

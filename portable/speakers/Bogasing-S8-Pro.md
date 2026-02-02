@@ -17,6 +17,13 @@ The Bogasing S8 Pro ranks [#58 out of 73 total Large Size Portable Bluetooth Spe
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 3.41lbs / 1.55kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
     - [Mateusz Cholewa: BOGASING S8 Pro MAX HiFi ?🆚 MARSHALL🎸MIDDELTON](https://www.youtube.com/watch?v=-70aPJuPOqI)

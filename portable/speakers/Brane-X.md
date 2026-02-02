@@ -24,6 +24,10 @@ The Brane X ranks [#2 out of 73 total Large Size Portable Bluetooth Speakers](/p
 - TWS: Yes
 - Weight: 7.8lbs / 3.5kg
 - Wifi: Yes
+- App: No
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)

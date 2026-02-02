@@ -15,6 +15,13 @@ The Xiaomi Mi Portable Outdoor ranks [#32 out of 41 total Small Size Portable Bl
 - Power Bank: No
 - Stereo: No
 - Weight: 0.41lbs / 185g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- IP Rating: None
+- Party Mode: No
+- Power Input: USB-C
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
 

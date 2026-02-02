@@ -17,6 +17,14 @@ The Marshall Middleton ranks [#29 out of 73 total Large Size Portable Bluetooth 
 - Party Mode: Yes (Marshall Stack)
 - Power Bank: Yes
 - Weight: 4.0lbs / 1.8kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WeP1AuDUKFA>
     - [Alan Ross Reviews: 3 minutes ago..... Marshall Middleton Review, true stereophonic, no honestly 😊](https://www.youtube.com/watch?v=Dh00qH6YGTk)

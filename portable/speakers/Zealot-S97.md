@@ -21,6 +21,9 @@ The Zealot S97 ranks [#43 out of 73 total Large Size Portable Bluetooth Speakers
 - Stereo: Yes
 - TWS: No
 - Weight: 7.36lbs / 3.3kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Zealot S97 - Soundtest "MINI BOOMBOX ALMOST PERFECT?!"](https://www.youtube.com/watch?v=4eyFZeBFwpg)
     - [Jay's Straight Up Reviews & More: Zealot S97 mid-size Boombox 📦 Unboxing, Review & Demo. 😵Will I Finally Like A Zealot Speaker?](https://www.youtube.com/watch?v=jaLS0I0jjVQ)

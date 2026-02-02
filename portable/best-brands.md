@@ -381,6 +381,8 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
 - Stereo: Yes
 - TWS: Yes
 - Weight: 10.4lbs / 4.7kg
+- Bluetooth Codecs: SBC, AAC
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
@@ -524,6 +526,12 @@ Sonos speakers tend to be pretty high priced, but are the only option if you wan
 - Stereo: Yes
 - Weight: 6.61lbs / 3kg
 - Wifi: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links

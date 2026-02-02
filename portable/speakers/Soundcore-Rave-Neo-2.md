@@ -23,6 +23,8 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 7.94lbs / 3.6kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Rave To The Max With The Soundcore Rave Neo 2! 👆](https://www.youtube.com/watch?v=vLV0-KGlXEg)
     - [Technoid: Soundcore Rave Neo 2 Review - Get the Grill & Pool Ready!!](https://www.youtube.com/watch?v=nmVpaJCrKCI)

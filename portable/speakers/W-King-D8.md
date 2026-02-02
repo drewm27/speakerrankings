@@ -18,6 +18,14 @@ The W-King D8 ranks [#40 out of 73 total Large Size Portable Bluetooth Speakers]
 - Power Bank: Yes
 - TWS: No
 - Weight: 5.36lbs / 2.43kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)

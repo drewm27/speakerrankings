@@ -12,6 +12,17 @@ The Ultimate Ears Megablast ranks [#57 out of 73 total Large Size Portable Bluet
 - Bass Extension (-10dB): 64hz
 - Battery Life: 16 hours
 - Weight: 2.4lbs / 1.1kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 
 
 As an Amazon Associate I earn from qualifying purchases.

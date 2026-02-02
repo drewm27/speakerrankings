@@ -158,6 +158,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 10.4lbs / 4.7kg
+- Bluetooth Codecs: SBC, AAC
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
@@ -189,6 +191,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: Yes 2 Included
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)
@@ -222,6 +225,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: No
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links
@@ -311,6 +315,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 15.3lbs / 6.9kg
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>
@@ -333,6 +338,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 10.25lbs / 4.65kg
+- Bluetooth Codecs: aptX HD
+- EQ: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: VIFA Copenhagen 2.0 - premium wireless speaker](https://www.youtube.com/watch?v=PXtV5pPeEdo)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
@@ -358,6 +365,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 7.76lbs / 3.52kg
+- App: No
+- Bluetooth Codecs: SBC
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
     - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)
@@ -502,6 +512,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Cord
 - Stereo: Yes
 - Weight: 13.0lbs / 5.98kg
+- Bluetooth Codecs: SBC, LC3, AAC
+- Built in Microphone: No
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - old one sounding better? 🤔](https://www.youtube.com/watch?v=Sbqb85lSqVc)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
@@ -576,6 +589,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: JBL Partybox Encore 2 vs JBL Boombox 3 WiFi - Sound Test - Wide vs Narrow Soundstage!](https://www.youtube.com/watch?v=J-dsO2KOSzY)
     - [Mateusz Cholewa: JBL Encore 2 Partybox Deep Bass 🆚 Jbl Boombox 3 WiFi 🎶](https://www.youtube.com/watch?v=srLPSYOcTGw)
@@ -600,6 +614,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 14.lbs / 6.7kg
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
@@ -638,6 +653,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 19.2 lbs / 8.7kg
+- Bluetooth Codecs: SBC, AAC
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
@@ -739,6 +756,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 8.4lbs / 3.8kg
+- Bluetooth Codecs: SBC, AAC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This sounds totally different now! Soundcore Boom Plus 2 firmware 03.10](https://www.youtube.com/watch?v=ESN6hgtvba4)
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)

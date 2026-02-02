@@ -16,6 +16,13 @@ The Teufel Rockster Cross ranks [#20 out of 73 total Large Size Portable Bluetoo
 - Power Input: AC Power Brick
 - TWS: Yes
 - Weight: 5.3lbs / 2.4kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-LuC0Y1_kXU>
     - <https://www.youtube.com/watch?v=EzG_YuEzEpM>

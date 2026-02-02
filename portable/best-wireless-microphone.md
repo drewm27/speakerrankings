@@ -32,6 +32,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: Yes 2 Included
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)

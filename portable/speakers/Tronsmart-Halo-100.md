@@ -16,6 +16,15 @@ The Tronsmart Halo 100 ranks [#48 out of 73 total Large Size Portable Bluetooth 
 - MicroSD: Yes
 - Power Bank: Yes
 - Weight: 6.0 lbs / 2.72kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 100 bluetooth party speaker - their best yet!](https://www.youtube.com/watch?v=sCaHSGO4_MY)
 - Links

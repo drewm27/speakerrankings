@@ -23,6 +23,7 @@ The Aiwa Exos-9 ranks [#8 out of 68 total Boombox Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: No
 - Weight: 15.3lbs / 6.9kg
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>

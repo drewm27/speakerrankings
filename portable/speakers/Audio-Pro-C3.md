@@ -18,6 +18,12 @@ The Audio Pro C3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
 - Stereo: Partially (1 woofer)
 - Weight: 4.63lbs / 2.1kg
 - Wifi: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 - Links

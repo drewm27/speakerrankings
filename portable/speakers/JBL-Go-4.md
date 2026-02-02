@@ -21,6 +21,9 @@ The JBL Go 4 ranks [#21 out of 41 total Small Size Portable Bluetooth Speakers](
 - Stereo: No
 - TWS: Yes
 - Weight: 0.42lbs / 190g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
     - [StereoSpecs: JBL GO 4 vs JBL GO 3 : Worth the upgrade?](https://www.youtube.com/shorts/cT-oUhYhPWk)

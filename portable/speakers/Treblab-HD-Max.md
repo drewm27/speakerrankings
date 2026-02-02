@@ -15,6 +15,14 @@ The Treblab HD-Max ranks [#64 out of 73 total Large Size Portable Bluetooth Spea
 - Power Bank: Yes
 - Power Input: USB-C
 - Weight: 5.1lbs / 2.3kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [KosherTech: TREBLAB HD-Max In Depth Review - Unboxing & Sound Test](https://www.youtube.com/watch?v=eGbNZFEj8VM)
 - Links

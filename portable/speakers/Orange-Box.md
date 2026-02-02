@@ -13,6 +13,15 @@ The Orange Box ranks [#62 out of 73 total Large Size Portable Bluetooth Speakers
 - Battery Life: 15 hours
 - Power Input: AC Power brick
 - Weight: 6.62lbs / 3 kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Orange Box](https://www.patreon.com/posts/orange-box-98897294)
 - Links

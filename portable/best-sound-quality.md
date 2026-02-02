@@ -373,6 +373,8 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: Yes
 - TWS: Yes
 - Weight: 10.4lbs / 4.7kg
+- Bluetooth Codecs: SBC, AAC
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)

@@ -12,6 +12,16 @@ The Treblab HD-360 ranks [#46 out of 73 total Large Size Portable Bluetooth Spea
 - Negatives: Upper bass boomy which takes away midrange detail and clarity.
 - Aux Input: Yes
 - Weight: 5.65lbs / 2.56kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 Speaker Review 🔉 360° Sound, 90w, TWS, 20Hr 🔋 The Cadillac of Bluetooth Speakers?😲](https://www.youtube.com/watch?v=ORawKC23apY)

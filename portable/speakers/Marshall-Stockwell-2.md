@@ -22,6 +22,10 @@ The Marshall Stockwell 2 ranks [#10 out of 73 total Large Size Portable Bluetoot
 - Stereo: No
 - TWS: No
 - Weight: 3.0lbs / 1.4kg
+- App: No
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)

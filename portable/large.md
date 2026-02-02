@@ -32,6 +32,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (shared woofer)
 - TWS: No
 - Weight: 3.1lbs / 1.4kg
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
@@ -56,6 +59,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - Weight: 7.8lbs / 3.5kg
 - Wifi: Yes
+- App: No
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
@@ -80,6 +87,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.17lbs / 1.44kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [Alan Ross Reviews:  Game changer! Minirig wireless portable subwoofer mk4 goes boom!  ](https://www.youtube.com/watch?v=nUN93WecLUs)
@@ -107,6 +117,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.13lbs / 1.42kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=e8lfiOep2pU>
     - <https://www.youtube.com/watch?v=HuPEBiJqhPk>
@@ -135,6 +148,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 3.0lbs / 1.36kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
 - Links
@@ -153,6 +169,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 5.29lbs / 2.4kg
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
@@ -217,6 +237,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 3.42lbs / 1.55kg
+- App: No
+- Built in Microphone: Yes
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 💣vs Mifa Wildbox 🪇 Basement Battle of the Bluetooth Boombox Welterweights ⚖️](https://www.youtube.com/watch?v=mIeR8bNN29A)
     - [Alan Ross Reviews: Mifa Wildbox vs Soundcore Motion Boom Review! its a close one! 💯](https://www.youtube.com/watch?v=PZwvg4i-qYU)
@@ -279,6 +302,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: No
 - Weight: 3.0lbs / 1.4kg
+- App: No
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)
@@ -300,6 +327,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Audio: Yes
 - Weight: 8.5lbs / 3.86kg
 - Wifi: Yes
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
 - Links
@@ -323,6 +356,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This is shocking! They broke the world pound for pound champ! 😢](https://www.youtube.com/watch?v=pZsFBGxUwwo)
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
@@ -360,6 +395,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 3.3lbs / 1.5kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Snow Queen's Tech: ANKER SOUNDCORE SELECT PRO VS MOTION BOOM - DO THEY SOUND THE SAME? SOUND TEST ( PLEASE WEAR 🎧)](https://www.youtube.com/watch?v=Ko87nHKqfus)
     - [Chowa: Soundcore Select Pro (Review)](https://www.youtube.com/watch?v=Ef2YxcTQYqE)
@@ -378,6 +415,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: Yes
 - Weight: 2.4 lbs / 1.1kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eLILB6g0p-A>
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
@@ -399,6 +441,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Partially (1 tweeter)
 - Weight: 4.9lbs / 2.2kg
+- Bluetooth Codecs: SBC
+- EQ: No
+- Party Mode: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
@@ -425,6 +471,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.03lbs / 1.83kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
@@ -457,6 +508,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - Weight: 4.63lbs / 2.1kg
 - Wifi: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 - Links
@@ -478,6 +535,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 5.17lbs / 2.35kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion X600 now tuned by Alan Ross (sort of) Not clickbait!](https://www.youtube.com/watch?v=7eQFNduP7ak)
     - [Alan Ross Reviews: breaking news.....Soundcore Motion X600 with LDAC and spatial audio!](https://www.youtube.com/watch?v=SwJXt6ZNLKM)
@@ -507,6 +569,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 7.94lbs / 3.6kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Rave To The Max With The Soundcore Rave Neo 2! 👆](https://www.youtube.com/watch?v=vLV0-KGlXEg)
     - [Technoid: Soundcore Rave Neo 2 Review - Get the Grill & Pool Ready!!](https://www.youtube.com/watch?v=nmVpaJCrKCI)
@@ -526,6 +590,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Brick
 - TWS: Yes
 - Weight: 5.3lbs / 2.4kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-LuC0Y1_kXU>
     - <https://www.youtube.com/watch?v=EzG_YuEzEpM>
@@ -549,6 +620,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
+- Bluetooth Codecs: SBC
+- EQ: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Bose Soundlink Plus & Flex compared](https://www.patreon.com/posts/bose-soundlink-135685324)
     - [Oluv: Bose Soundlink Plus vs JBL Charge 6 - fight!](https://www.patreon.com/posts/bose-soundlink-6-136014012)
@@ -569,6 +643,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.7lbs / 2.1kg
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Longest I have ever been, and I don't care who sees it! ❤](https://www.youtube.com/watch?v=ugvcTMDt-bM)
 - Links
@@ -586,6 +664,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - Weight: 6.61lbs / 3kg
 - Wifi: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links
@@ -604,6 +688,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 4.96lbs / 2.3kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tIsmoHIQ5-I>
     - <https://www.youtube.com/watch?v=5tz_AnBghiA>
@@ -627,6 +717,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C (requires USB-C PD 12v minimum)
 - Weight: 6.61lbs / 3kg
 - Wifi: Yes
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Ezekielo: JBL Xtreme 2 vs Sonos Move with Sound Comparison](https://www.youtube.com/watch?v=V4Nq-rVAP1k)
     - [NeverEnoughTech: soundcore Motion X600 vs. Sonos Move vs. Bose Soundlink Revolve II](https://www.youtube.com/watch?v=bPfwaZp1x1Q)
@@ -650,6 +748,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: USB-C
 - Weight: 3.9lbs / 1.8kg
+- Bluetooth Codecs: SBC
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Middleton II - better with EQ?](https://www.patreon.com/posts/marshall-ii-with-136883522)
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
@@ -673,6 +774,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 6.3lbs / 2850g
 - Wifi: No
+- Aux Input: Yes
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Feelin Tech Today: JBL Should be worried? (MEE audio partySPKR) [2024]](https://www.youtube.com/watch?v=Ai1vs2-Mc6c)
 - Links
@@ -693,6 +796,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 2.9lbs / 1.32kg
 - Wifi: No
+- Aux Input: Yes
+- Built in Microphone: Yes
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [tech reviews daily: LG XBOOM Bounce Review – BASS, LIGHTS & VIBES! 🔊🎉](https://www.youtube.com/watch?v=VZpuSjF5Spw)
     - [Mike O'Brien: What Did LG Just Launch? (NEW will.i.am x LG xboom Speakers)](https://www.youtube.com/watch?v=QDBumYKUsms)
@@ -712,6 +818,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Marshall Stack)
 - Power Bank: Yes
 - Weight: 4.0lbs / 1.8kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WeP1AuDUKFA>
     - [Alan Ross Reviews: 3 minutes ago..... Marshall Middleton Review, true stereophonic, no honestly 😊](https://www.youtube.com/watch?v=Dh00qH6YGTk)
@@ -739,6 +853,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: No
 - Weight: 2.1lbs / 949g
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: UE Everboom Review PLUS All-New Wonderboom 4, Boom 4 & Megaboom 4](https://www.youtube.com/watch?v=-iWZlOB5Nco)
 - Links
@@ -749,6 +866,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Deeper bass than the non-plus version.
 - Power Bank: Yes
 - Power Input: USB-C
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=O0YSspRqEoY>
     - <https://www.youtube.com/watch?v=wYjoQjCACcQ>
@@ -761,6 +887,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Slightly boosted bass
 - Battery Life: 10 hours
 - Power Input: USB-C
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gz-JI1aDaE8>
     - <https://www.youtube.com/watch?v=XElKWWmN9R8>
@@ -783,6 +919,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 2.69lbs / 1.22kg
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [SpeakerBlowUpMan Lee: Zicoroop Ts (Xdobo bucket) Bluetooth Speaker Review/Teardown](https://www.youtube.com/watch?v=hAfUPwhnD4A)
 - Links
@@ -796,6 +938,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX2
 - Max Volume: 102db
 - Weight: 5.5lbs / 2.49kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
@@ -817,6 +968,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 4.63lbs / 2.1kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
@@ -844,6 +998,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - TWS: Yes
 - Weight: 10.1lbs / 4.6kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
     - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)
@@ -862,6 +1023,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Weight: 3.8lbs / 1.72kg
+- App: No
+- Bluetooth Codecs: SBC
+- EQ: No
+- Party Mode: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bL65lkRunbo>
     - <https://www.youtube.com/watch?v=8HGha3_EEXc>
@@ -880,6 +1047,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 95db
 - Weight: 5.1lbs / 2.3kg
 - Wifi: Yes
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [That Speaker Guy: Devialet Mania vs Bang & Olufsen Beoplay P6 - Headphones On](https://www.youtube.com/watch?v=iXLBPb3Ckfw)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
@@ -900,6 +1077,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Weight: 6.5 lbs / 2.95kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Xtreme 3 vs Sony XB43 - boombox champ?](https://www.youtube.com/watch?v=011tPYd7Y4E)
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Boom vs Sony XB43 - a step to far? 🤪](https://www.youtube.com/watch?v=OSznIl_lxJI)
@@ -920,6 +1105,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - TWS: No
 - Weight: 5.36lbs / 2.43kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)
@@ -940,6 +1133,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - TWS: No
 - Weight: 5.3lbs / 2.4kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)
@@ -956,6 +1158,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Slightly muffled sounding
 - Battery Life: 15 hours
 - Weight: 4.5lbs / 2.1kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 - Links
@@ -975,6 +1188,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 7.36lbs / 3.3kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Zealot S97 - Soundtest "MINI BOOMBOX ALMOST PERFECT?!"](https://www.youtube.com/watch?v=4eyFZeBFwpg)
     - [Jay's Straight Up Reviews & More: Zealot S97 mid-size Boombox 📦 Unboxing, Review & Demo. 😵Will I Finally Like A Zealot Speaker?](https://www.youtube.com/watch?v=jaLS0I0jjVQ)
@@ -993,6 +1209,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - TWS: Yes
 - Weight: 4.5lbs / 2.06kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Geri's Collection: Harman Kardon Onyx 7 vs Onyx 4](https://www.youtube.com/watch?v=ywy1X1hxU9s)
     - [OCM Reviews: Onyx Studio 4 Vs Onyx Studio 5  - Sound Quality Comparison - Bluetooth Speaker](https://www.youtube.com/watch?v=F5CoJB_xm2E)
@@ -1012,6 +1232,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - TWS: Yes
 - Weight: 3.3lbs / 1.5kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Wild camping Lantern portable bluetooth speaker reviewed by an old geezer!](https://www.youtube.com/watch?v=ZxPfuAxgQfE)
 - Links
@@ -1023,6 +1251,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Negatives: Upper bass boomy which takes away midrange detail and clarity.
 - Aux Input: Yes
 - Weight: 5.65lbs / 2.56kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 Speaker Review 🔉 360° Sound, 90w, TWS, 20Hr 🔋 The Cadillac of Bluetooth Speakers?😲](https://www.youtube.com/watch?v=ORawKC23apY)
@@ -1038,6 +1276,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 16 hours
 - Max Volume: 104db
 - Weight: 9.0 lbs / 4.1kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: I did not expect this!  2.1 shocker!](https://www.youtube.com/watch?v=WPkMk9H-9-4)
 - Links
@@ -1053,6 +1301,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - Weight: 6.0 lbs / 2.72kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 100 bluetooth party speaker - their best yet!](https://www.youtube.com/watch?v=sCaHSGO4_MY)
 - Links
@@ -1067,6 +1324,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Connect)
 - TWS: No
 - Weight: 5.3 lbs / 2.4kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XojJNqtq6xQ>
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
@@ -1087,6 +1352,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Input: AC Power brick
 - Weight: 1.23lbs / 557g
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Doss Soundbox xl vs Soundcore Motion boom and Plus - woopeeeee!!!!!!!!](https://www.youtube.com/watch?v=ZNob1QwXiqY)
     - <https://www.youtube.com/watch?v=TiVx4pPl1GE>
@@ -1108,6 +1381,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 5.4lbs / 2.5kg
+- Bluetooth Codecs: SBC
+- EQ: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Walts TV: The Austin NEW Klipsch Bluetooth Speaker Review + Sound Test](https://www.youtube.com/watch?v=lzMYAggcAmI)
     - [Audio Inside Scoop: Klipsch Detroit VS JBL Xtreme 3 Hear With Me!!](https://www.youtube.com/watch?v=0UCLAHrrZHs)
@@ -1125,6 +1401,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Weight: 6.6lbs / 3kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: Who Sounds The Best Of Sony XG300, XB43 & JBL XTREME3 With Sound Sample BLIND CHALLENGE Reveal.](https://www.youtube.com/watch?v=4gxvC_KjNbk)
     - [Techder Audios: SONY XG300 VS SOUNDCORE MOTION BOOM](https://www.youtube.com/watch?v=QIdwUHaJVf4)
@@ -1143,6 +1427,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - Weight: 6.3lbs / 2.86kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
@@ -1155,6 +1448,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 17 hours
 - Max Volume: 94db
 - Weight: 4.3lbs / 1.97kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
     - [Jay's Straight Up Reviews & More: $350 Ultimate Ears EpicBoom gets Epic Beat-Down 😮by $120 Soundcore Rave Neo 2. Bluetooth Speaker KO🤛](https://www.youtube.com/watch?v=Vyo6VlUOYf8)
@@ -1169,6 +1473,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Weight: 2.43lbs / 1.1kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Dali Katch G2 high end audio takes on the entire world of bluetooth speakers! 👌👋](https://www.youtube.com/watch?v=C7-YUgWGt9Q)
     - [Alan Ross Reviews: Dali Katch G2 epic review vs Original Dali Katch audiophile speaker! 🤞](https://www.youtube.com/watch?v=th3EgJOQENw)
@@ -1186,6 +1500,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 96db
 - Weight: 7.3lbs / 3.3kg
 - Wifi: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/shorts/SepQ-Ri35KM>
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
@@ -1198,6 +1522,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 64hz
 - Battery Life: 16 hours
 - Weight: 2.4lbs / 1.1kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Megablast/)
 
@@ -1211,6 +1546,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 3.41lbs / 1.55kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
     - [Mateusz Cholewa: BOGASING S8 Pro MAX HiFi ?🆚 MARSHALL🎸MIDDELTON](https://www.youtube.com/watch?v=-70aPJuPOqI)
@@ -1225,6 +1567,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Max Volume: 106db
 - Weight: 4.71lbs / 2.14kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
 - Links
@@ -1242,6 +1594,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
 - Weight: 7.7lbs / 3.49kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion Boom Plus or Soundcore Rave Neo (Trance Go) - best Soundcore speaker??](https://www.youtube.com/watch?v=VCr3ep2H_Ro)
     - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
@@ -1261,6 +1619,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - TWS: No
 - Weight: 4.4lbs / 2.0kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
     - [Alan Ross Reviews: W King D8 vs W-King D9 - budget boombox battle!](https://www.youtube.com/watch?v=sDLWQNloXgk)
@@ -1275,6 +1640,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 15 hours
 - Power Input: AC Power brick
 - Weight: 6.62lbs / 3 kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Orange Box](https://www.patreon.com/posts/orange-box-98897294)
 - Links
@@ -1287,6 +1661,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 20 hours
 - IP Rating: None
 - Weight: 6.1lbs / 2.8kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [PORTATIV: Laney F67 vs Marshall Kilburn 2 Ищем лучшую олдскульную колонку Обзор и ТЕСТ ЗВУКА](https://www.youtube.com/watch?v=JYhhBiyZzg4)
     - [wat caf’e วัฒน์คาเฟ่แฟรนไชส์กาแฟ: ลำโพง laney f67  marshall k2 fender indio](https://www.youtube.com/watch?v=w94Uc4SJwiw)
@@ -1302,6 +1686,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: USB-C
 - Weight: 5.1lbs / 2.3kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [KosherTech: TREBLAB HD-Max In Depth Review - Unboxing & Sound Test](https://www.youtube.com/watch?v=eGbNZFEj8VM)
 - Links
@@ -1311,6 +1703,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #65 LG Xboom XG7: $120
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 24 hours
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Lg Xg7 Vs Soundcore Motion+  "CAN LG DEFEAT BEST BUDGET SPEAKER?!"](https://www.youtube.com/watch?v=7KG0dPs-xUQ)
 - Links
@@ -1323,6 +1726,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 24 hours
 - Max Volume: 95db
 - Weight: 3.2lbs / 1.45 kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: LG Xboom Go PL7 vs Anker Soundcore Motion Plus -  bass sound test](https://www.youtube.com/watch?v=ZUJrVyWU8Xs)
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
@@ -1337,6 +1750,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 40 hours
 - Power Bank: Yes
 - Weight: 5.06lbs / 2.3kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 - Links
@@ -1350,6 +1773,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - MicroSD: Yes
 - Power Bank: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
 - Links
@@ -1364,6 +1795,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 97db
 - Power Bank: Yes
 - Weight: 7.72lbs / 3.5kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Rave Neo vs Rave Mega - best party speaker 2021?](https://www.youtube.com/watch?v=ePD09iI6qkI)
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
@@ -1376,6 +1816,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: 18 hours
 - Power Bank: Yes
 - Weight: 4.63lbs / 2.1kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 - Links
@@ -1389,6 +1838,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - MicroSD: Yes
 - Power Bank: Yes
 - Weight: 5.57lbs / 2.52kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=se-REq7pJ3s>
 - Links
@@ -1402,6 +1860,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - IP Rating: IPX6
 - MicroSD: Yes
 - Weight: 5.29lbs / 2.4kg
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ZEALOT S-67 🦨 75w Bluetooth Speaker Review🤦🏼‍♂️  & Comparison With W-King X10.](https://www.youtube.com/watch?v=qFEtEaSZnqc)
     - [Jay's Straight Up Reviews & More: On a Ledge 🪟 Zealot S67 🆚 Soundcore Select Pro - Bluetooth Speaker Comparison](https://www.youtube.com/watch?v=76ysec3eNto)
@@ -1413,6 +1880,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #73 T&G 118: $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
 - Weight: 2.42lbs / 1.1kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Taylor Soloai: TG 118 vs JBL Xtreme Speaker (2023)](https://www.youtube.com/watch?v=rE6oDyPAdwU)
 - Links

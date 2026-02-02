@@ -19,6 +19,9 @@ The Sony SRS-XB100 ranks [#28 out of 41 total Small Size Portable Bluetooth Spea
 - Stereo: No
 - TWS: Yes
 - Weight: 0.60lbs / 274g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
     - [Flossy Carter: Sony SRS-XB100 - Small Speaker, Huge Sound](https://www.youtube.com/watch?v=j_YH3cGsQZk)

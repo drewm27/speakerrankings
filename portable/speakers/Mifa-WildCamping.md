@@ -18,6 +18,14 @@ The Mifa WildCamping ranks [#45 out of 73 total Large Size Portable Bluetooth Sp
 - Power Bank: Yes
 - TWS: Yes
 - Weight: 3.3lbs / 1.5kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Wild camping Lantern portable bluetooth speaker reviewed by an old geezer!](https://www.youtube.com/watch?v=ZxPfuAxgQfE)
 - Links

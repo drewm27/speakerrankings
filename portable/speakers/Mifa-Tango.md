@@ -23,6 +23,9 @@ The Mifa Tango ranks [#15 out of 41 total Small Size Portable Bluetooth Speakers
 - Stereo: No
 - TWS: Yes
 - Weight: 0.86lbs / 390g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Tango Camping Bluetooth Speaker Review](https://www.youtube.com/watch?v=biqsZ3Uhr3U)
 - Links

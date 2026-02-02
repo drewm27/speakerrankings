@@ -21,6 +21,9 @@ The JBL Clip 4 ranks [#19 out of 41 total Small Size Portable Bluetooth Speakers
 - Stereo: No
 - TWS: No
 - Weight: 0.53lbs / 239g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - [Danny Pops: MICRO SPEAKERS - my take on JBL Clip 4 VS Wonderboom 2 VS Bose Micro](https://www.youtube.com/watch?v=Vyc6e3bxoUs)

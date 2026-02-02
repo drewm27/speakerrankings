@@ -19,6 +19,12 @@ The Dockin D Fine+ 2 ranks [#24 out of 73 total Large Size Portable Bluetooth Sp
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 4.96lbs / 2.3kg
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tIsmoHIQ5-I>
     - <https://www.youtube.com/watch?v=5tz_AnBghiA>

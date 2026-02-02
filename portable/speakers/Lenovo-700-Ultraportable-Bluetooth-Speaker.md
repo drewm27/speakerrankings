@@ -16,6 +16,14 @@ The Lenovo 700 Ultraportable Bluetooth Speaker ranks [#39 out of 41 total Small 
 - Stereo: Yes
 - TWS: Yes
 - Weight: 0.32lbs / 145g
+- App: No
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jon Low: The world's thinnest bluetooth speaker- Lenovo 700 Ultra Bluetooth Speaker: #AWGR009](https://www.youtube.com/watch?v=Yam_mssFqeU)
     - [thomas vanderkin (The Vanderkinverse): Lenovo 700 Ultraportable Bluetooth Speaker](https://www.youtube.com/watch?v=6CtZiXCJF18)

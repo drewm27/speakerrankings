@@ -22,6 +22,8 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 - TWS: No
 - Weight: 6.3lbs / 2850g
 - Wifi: No
+- Aux Input: Yes
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Feelin Tech Today: JBL Should be worried? (MEE audio partySPKR) [2024]](https://www.youtube.com/watch?v=Ai1vs2-Mc6c)
 - Links

@@ -20,6 +20,10 @@ The Vifa City ranks [#8 out of 41 total Small Size Portable Bluetooth Speakers](
 - Stereo: No
 - TWS: Yes
 - Weight: 0.66lbs / 300g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links

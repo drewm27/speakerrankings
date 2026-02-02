@@ -21,6 +21,9 @@ The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetoo
 - Power Bank: Yes
 - Power Input: USB-C
 - Weight: 3.9lbs / 1.8kg
+- Bluetooth Codecs: SBC
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Middleton II - better with EQ?](https://www.patreon.com/posts/marshall-ii-with-136883522)
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)

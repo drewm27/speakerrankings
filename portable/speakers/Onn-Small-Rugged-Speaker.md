@@ -23,6 +23,7 @@ The Onn Small Rugged Speaker ranks [#23 out of 41 total Small Size Portable Blue
 - Stereo: No
 - TWS: No
 - Weight: 0.63lbs / 286g
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Tech, Life, And More: My friend's Onn. Rugged Speaker S pocket sized portable Bluetooth speaker sound test, amazing value!](https://www.youtube.com/watch?v=X2i_dJCrwlc)
     - [SpaztasticTV: New Onn Bluetooth Speakers](https://www.youtube.com/watch?v=che2VHKbnhA)

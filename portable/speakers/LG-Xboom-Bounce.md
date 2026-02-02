@@ -21,6 +21,9 @@ The LG Xboom Bounce ranks [#28 out of 73 total Large Size Portable Bluetooth Spe
 - TWS: No
 - Weight: 2.9lbs / 1.32kg
 - Wifi: No
+- Aux Input: Yes
+- Built in Microphone: Yes
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [tech reviews daily: LG XBOOM Bounce Review – BASS, LIGHTS & VIBES! 🔊🎉](https://www.youtube.com/watch?v=VZpuSjF5Spw)
     - [Mike O'Brien: What Did LG Just Launch? (NEW will.i.am x LG xboom Speakers)](https://www.youtube.com/watch?v=QDBumYKUsms)

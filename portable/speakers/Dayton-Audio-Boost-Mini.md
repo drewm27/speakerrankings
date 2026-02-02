@@ -23,6 +23,8 @@ The Dayton Audio Boost Mini ranks [#25 out of 41 total Small Size Portable Bluet
 - Stereo: No
 - TWS: Yes
 - Weight: 0.4lbs / 185g
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - Links
     - [Official Product Page Dayton Audio Boost Mini](https://parts-express.sjv.io/DKX1Ba)
 

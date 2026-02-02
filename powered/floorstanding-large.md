@@ -30,6 +30,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Watts: 700w Per Speaker
 - Weight: 69lbs / 31.3kg each
 - Woofer: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver:
+- App: Yes (KEF Connect)
+- Bluetooth: Yes (5.0 with SBC, AAC)
+- DSP: Yes (Music Integrity Engine)
+- EQ: Yes (Normal and Expert modes, room adaptation)
+- Frequency Response: 31Hz - 24kHz (±3dB)
+- Max SPL: 111dB @ 1m (pink noise)
+- Outputs: Subwoofer RCA
+- Power: 700W (500W LF Class D + 100W MF Class D + 100W HF Class AB)
+- Streaming: Yes (AirPlay 2, Chromecast, Roon Ready, Spotify Connect, Tidal Connect, Amazon Music, Qobuz, Deezer)
+- WiFi: Yes (dual-band)
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF LS60 Wireless: The Ultimate Review, Measurements Exposed!](https://www.youtube.com/watch?v=E1DA6ER58Gg)
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)
@@ -41,6 +51,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - Bass Extension (-3dB): 20hz
+- App: Yes (B&O app)
+- Bass Extension (-10dB): <20hz
+- Bluetooth: No
+- Dimensions: 15.5"W x 32.3"H x 12"D
+- DSP: Yes (Digital Sound Engine)
+- EQ: Yes (Room adaptation: Free/Wall/Corner)
+- Frequency Response: 19.5Hz - 23.6kHz
+- Inputs: PowerLink (RJ45), RCA, TOSLINK optical, WiSA wireless
+- Max SPL: 108dB @ 1m
+- Midrange: 5" driver
+- Outputs: PowerLink, TOSLINK
+- Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
+- Tweeter: 0.75" Acoustic Lens
+- Weight: 39.7lbs / 18kg each
+- WiFi: Yes (WiSA)
+- Woofer: 10" driver
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links

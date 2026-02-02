@@ -18,6 +18,12 @@ The Harman Kardon Neo ranks [#38 out of 41 total Small Size Portable Bluetooth S
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 251g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- IP Rating: None
+- Party Mode: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links

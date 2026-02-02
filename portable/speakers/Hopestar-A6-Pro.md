@@ -15,6 +15,14 @@ The Hopestar A6 Pro ranks [#68 out of 73 total Large Size Portable Bluetooth Spe
 - IP Rating: IPX6
 - MicroSD: Yes
 - Power Bank: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- Party Mode: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
 - Links

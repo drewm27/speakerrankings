@@ -22,6 +22,10 @@ The Sony SRS-XB12 ranks [#34 out of 41 total Small Size Portable Bluetooth Speak
 - Stereo: No
 - TWS: No
 - Weight: 0.54lbs / 243g
+- Aux Input: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)

@@ -24,6 +24,7 @@ The Soundcore Boom 2 Plus ranks [#25 out of 68 total Boombox Size Portable Bluet
 - Stereo: Yes
 - TWS: Yes
 - Weight: 8.4lbs / 3.8kg
+- Bluetooth Codecs: SBC, AAC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This sounds totally different now! Soundcore Boom Plus 2 firmware 03.10](https://www.youtube.com/watch?v=ESN6hgtvba4)
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)

@@ -18,6 +18,10 @@ The Harman Kardon Onyx Studio 4 ranks [#44 out of 73 total Large Size Portable B
 - Power Bank: No
 - TWS: Yes
 - Weight: 4.5lbs / 2.06kg
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- Power Input: USB-C
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Geri's Collection: Harman Kardon Onyx 7 vs Onyx 4](https://www.youtube.com/watch?v=ywy1X1hxU9s)
     - [OCM Reviews: Onyx Studio 4 Vs Onyx Studio 5  - Sound Quality Comparison - Bluetooth Speaker](https://www.youtube.com/watch?v=F5CoJB_xm2E)

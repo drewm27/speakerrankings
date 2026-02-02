@@ -15,6 +15,16 @@ The B&O Beosound Level ranks [#56 out of 73 total Large Size Portable Bluetooth 
 - Max Volume: 96db
 - Weight: 7.3lbs / 3.3kg
 - Wifi: Yes
+- App: No
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/shorts/SepQ-Ri35KM>
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)

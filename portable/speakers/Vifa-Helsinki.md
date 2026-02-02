@@ -21,6 +21,9 @@ The Vifa Helsinki ranks [#1 out of 73 total Large Size Portable Bluetooth Speake
 - Stereo: Partially (shared woofer)
 - TWS: No
 - Weight: 3.1lbs / 1.4kg
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)

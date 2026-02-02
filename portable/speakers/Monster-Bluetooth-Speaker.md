@@ -23,6 +23,8 @@ The Monster Bluetooth Speaker ranks [#26 out of 41 total Small Size Portable Blu
 - Stereo: No
 - TWS: Yes
 - Weight: 0.4lbs / 185g
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 
 
 As an Amazon Associate I earn from qualifying purchases.

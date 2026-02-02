@@ -22,6 +22,9 @@ The JBL Boombox 4 ranks [#16 out of 68 total Boombox Size Portable Bluetooth Spe
 - Power Input: AC Power Cord
 - Stereo: Yes
 - Weight: 13.0lbs / 5.98kg
+- Bluetooth Codecs: SBC, LC3, AAC
+- Built in Microphone: No
+- Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - old one sounding better? 🤔](https://www.youtube.com/watch?v=Sbqb85lSqVc)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)

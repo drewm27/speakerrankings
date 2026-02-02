@@ -51,6 +51,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - TWS: Yes
 - Weight: 7.8lbs / 3.5kg
 - Wifi: Yes
+- App: No
+- Built in Microphone: Yes
+- EQ: No
+- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
@@ -77,6 +81,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - TWS: No
 - Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: JBL Partybox Encore 2 vs JBL Boombox 3 WiFi - Sound Test - Wide vs Narrow Soundstage!](https://www.youtube.com/watch?v=J-dsO2KOSzY)
     - [Mateusz Cholewa: JBL Encore 2 Partybox Deep Bass 🆚 Jbl Boombox 3 WiFi 🎶](https://www.youtube.com/watch?v=srLPSYOcTGw)

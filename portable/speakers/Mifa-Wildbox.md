@@ -24,6 +24,9 @@ The Mifa Wildbox ranks [#8 out of 73 total Large Size Portable Bluetooth Speaker
 - Stereo: Yes
 - TWS: Yes
 - Weight: 3.42lbs / 1.55kg
+- App: No
+- Built in Microphone: Yes
+- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 💣vs Mifa Wildbox 🪇 Basement Battle of the Bluetooth Boombox Welterweights ⚖️](https://www.youtube.com/watch?v=mIeR8bNN29A)
     - [Alan Ross Reviews: Mifa Wildbox vs Soundcore Motion Boom Review! its a close one! 💯](https://www.youtube.com/watch?v=PZwvg4i-qYU)

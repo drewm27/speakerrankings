@@ -12,6 +12,16 @@ The Dockin D Fine ranks [#32 out of 73 total Large Size Portable Bluetooth Speak
 - Negatives: Slightly boosted bass
 - Battery Life: 10 hours
 - Power Input: USB-C
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gz-JI1aDaE8>
     - <https://www.youtube.com/watch?v=XElKWWmN9R8>
