@@ -6,7 +6,7 @@ cover-img: "/assets/img/audioproc5.jpg"
 share-description: "Explore the best medium powered desktop speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."
 ---
 
-This page ranks 12 medium size powered desktop speakers. Last updated on 02/02/2026. The Medium Desktop class of speakers are stereo inside a single enclosure and generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Desktop class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
+This page ranks 13 medium size powered desktop speakers. Last updated on 02/02/2026. The Medium Desktop class of speakers are stereo inside a single enclosure and generally have woofers between 4" to 6". These speakers will generally be the best size/performance trade-off for most people. The Desktop class have no battery and no waterproofing. Bigger woofers will have deeper bass but the speaker will generally be larger and heavier. They all come with a built in amp so you can play directly from your phone or laptop. 
 
 For the best picks of this page see [Best Powered Home Desktop Speakers](/powered/best/)
 
@@ -244,7 +244,39 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Stanmore-II/)
 
-## #8 [Marshall Acton III](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325)]: $280
+## #8 [Marshall Stanmore III](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325)]: $380
+- Negatives: Not enough bass. Distorts at higher volumes.
+- App: Yes
+- Aux Input: Yes
+- Battery Life: No battery
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
+- Dimensions: 13.78" x 7.87" x 7.32" (350 x 203 x 188mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 45Hz - 20kHz
+- IP Rating: None
+- Inputs: Bluetooth, RCA, Aux
+- Midrange: 1x 5"
+- Party Mode: No
+- Power: 80W (Woofer: 50W, Tweeters: 2x15W)
+- Power Bank: No
+- Power Input: AC Power cord
+- Stereo: Partially (1 woofer)
+- Tweeter: 2x 0.75" Dome
+- TWS: No
+- Weight: 9.7lbs / 4.4kg
+- Wifi: No
+- Woofer: 5" (midrange/woofer)
+- Woofer Cabinet: Ported
+- Reviews, Comparisons and Sound Samples
+    - [Storytripper HD: Marshall Stanmore 2 vs Marshall Stanmore 3 ](https://www.youtube.com/watch?v=GzQ3o71xpgs)
+    - [Phinetech: Marshall Stanmore 3 vs Marshall Stanmore 2 - What are the differences ?](https://www.youtube.com/watch?v=liBXqGw7r-U)
+    - [Danny Pops: Marshall Stanmore 3 Review - This is Tough To Review](https://www.youtube.com/watch?v=XlMznGGHNQo)
+- Links
+    - [Official Product Page](https://www.marshall.com/us/en/product/stanmore-iii)
+    - [Direct Speakerranking Link](/powered/speakers/Marshall-Stanmore-III/)
+
+## #9 [Marshall Acton III](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325)]: $280
 - Negatives: Not as deep bass as competitors.
 - Aux Input: Yes
 - Battery Life: No battery
@@ -273,7 +305,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.marshall.com/us/en/product/acton-iii)
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-III/)
 
-## #9 [Marshall Acton II](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl)]: $280
+## #10 [Marshall Acton II](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl)]: $280
 - Negatives: Boosted upper bass, not as deep bass as competitors. Boosted highs. Sounds mushy.
 - Aux Input: Yes
 - Bass Extension (-10dB): 56hz
@@ -307,7 +339,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-II/)
 
-## #10 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
+## #11 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
@@ -337,7 +369,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
     - [Direct Speakerranking Link](/powered/speakers/BO-Beosound-2/)
 
-## #11 [Klipsch The Three II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl)]: $400
+## #12 [Klipsch The Three II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl)]: $400
 - Negatives: Treble boosted. Not as deep of bass as others.
 - Aux Input: Yes
 - Battery Life: No Battery
@@ -365,7 +397,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
     - [Official Product Page](https://www.klipsch.com/products/the-three-ii)
     - [Direct Speakerranking Link](/powered/speakers/Klipsch-The-Three-II/)
 
-## #12 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
+## #13 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
 - Negatives: Treble boosted. Not as deep of bass as others.
 - Aux Input: Yes
 - Battery Life: No Battery
