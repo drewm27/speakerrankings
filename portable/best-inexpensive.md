@@ -226,6 +226,11 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Power Input: AC Power cord
 - Stereo: Partially
 - Weight: 20.9lbs / 9.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: No
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker 2 🎶 (Gen 2.0) First Look and Light Demo](https://www.youtube.com/watch?v=AK_xTAIqejY)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)

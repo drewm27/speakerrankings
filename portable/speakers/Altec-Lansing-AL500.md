@@ -17,6 +17,13 @@ The Altec Lansing AL500 ranks [#42 out of 43 total Party Size Portable Bluetooth
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.4lbs / 6.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- Party Mode: No
+- Power Bank: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing- ☠️ Street Shock (AL500) Bluetooth Speaker Review. A JBL Partybox 200/300 Killer?](https://www.youtube.com/watch?v=_09Fi5-pF7Q)
 

@@ -24,6 +24,7 @@ The Klipsch Gig XXL ranks [#16 out of 43 total Party Size Portable Bluetooth Spe
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 18lbs / 8.2kg
+- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox 110 🎉 Bluetooth Party Speaker Comparison. Is The Party Over For Gig?](https://www.youtube.com/watch?v=bCCgG7s4lDQ)
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox Encore Essential (Pee-Wee) - Indoors, Plugged In🔌 Bluetooth Speakers](https://www.youtube.com/watch?v=qgelmChNgAE)

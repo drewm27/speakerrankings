@@ -16,6 +16,13 @@ The Sony GTK-XB90 ranks [#39 out of 43 total Party Size Portable Bluetooth Speak
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Weight: 30.8lbs / 14kg
+- Bluetooth Codecs: SBC, AAC, LDAC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=R4s5LPfdj7g>
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>

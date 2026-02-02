@@ -15,6 +15,14 @@ The Soundcore Rave ranks [#38 out of 43 total Party Size Portable Bluetooth Spea
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Weight: 21.6lbs / 9.8kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)

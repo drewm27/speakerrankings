@@ -15,6 +15,14 @@ The Panasonic SC-TMAX5 ranks [#35 out of 43 total Party Size Portable Bluetooth 
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Weight: 14.3lbs / 6.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [JARA MIKE: Panasonic  SC- TMAX5 ♫](https://www.youtube.com/watch?v=_jlJnhPyALs)
     - [JARA MIKE: Panasonic 🔴 SC- TMAX5 ♫ .150 W RMS](https://www.youtube.com/watch?v=dXoD0Yv_iLM)

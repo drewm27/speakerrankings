@@ -12,6 +12,14 @@ The W-King T9 Pro ranks [#27 out of 43 total Party Size Portable Bluetooth Speak
 - Aux Input: Yes
 - Battery Life: 12 hours
 - USB Playback: Yes
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
 - Links

@@ -15,6 +15,15 @@ The Rockville Rock Party 6 ranks [#43 out of 43 total Party Size Portable Blueto
 - Battery Life: 6 hours
 - Power Input: AC Power cord
 - Weight: 11.8lbs / 5.4kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Daniel Parker Big D: Sound Quality Bass Test On Rockville Rock Party 6 Bluetooth Speaker](https://www.youtube.com/watch?v=eVlB4zq2Q0I)
     - [PAPAGEORGIO84: Jbl party box 100 vs Rockville 6](https://www.youtube.com/watch?v=28bFX3K9Gzs)

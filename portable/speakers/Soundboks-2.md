@@ -18,6 +18,14 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
 - Removable Battery: Yes
 - TWS: No
 - Weight: 33lbs / 15kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>

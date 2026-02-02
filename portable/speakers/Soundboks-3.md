@@ -24,6 +24,11 @@ The Soundboks 3 ranks [#22 out of 43 total Party Size Portable Bluetooth Speaker
 - SKAA: Yes
 - TWS: Yes
 - Weight: 34lbs / 15.4kg
+- Bluetooth Codecs: SBC
+- EQ: Yes
+- Stereo: Yes
+- Power Bank: No
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-D0YY58zbA4>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>

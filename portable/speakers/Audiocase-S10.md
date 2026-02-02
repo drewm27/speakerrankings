@@ -16,6 +16,15 @@ The Audiocase S10 ranks [#26 out of 43 total Party Size Portable Bluetooth Speak
 - Removable Battery: Yes
 - Weight: 44.7lbs / 19.8kg
 - XLR Input: Yes
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S10 - first impressions](https://www.patreon.com/posts/audiocase-s10-92786890)
 - Links

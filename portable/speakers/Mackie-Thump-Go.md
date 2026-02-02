@@ -19,6 +19,12 @@ The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Spe
 - Stereo: No
 - Weight: 17.6lbs / 8kg
 - XLR Input: Yes
+- Bluetooth Codecs: SBC
+- EQ: Yes
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [W. Weiss: Part 3 Sound Demonstration The New EV Everse 8 compared to The Mackie Thump Go](https://www.youtube.com/watch?v=8HESRrKdGto)
     - [W. Weiss: Part 3 Shootout MACKIE THUMP GO vs BOSE S1 PRO vs JBL EON ONE COMPACT Max Volume Demo A New Winner!](https://www.youtube.com/watch?v=G_0wnrW8UpA)

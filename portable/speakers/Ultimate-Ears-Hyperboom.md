@@ -15,6 +15,14 @@ The Ultimate Ears Hyperboom ranks [#24 out of 43 total Party Size Portable Bluet
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: AC Power brick
 - Weight: 13lbs / 5.9kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Power Bank: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>

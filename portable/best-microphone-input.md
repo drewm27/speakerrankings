@@ -38,6 +38,7 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - TWS: Yes
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)

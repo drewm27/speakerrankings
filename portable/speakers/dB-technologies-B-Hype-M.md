@@ -14,6 +14,15 @@ The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Blue
 - Battery Life: 4 hours
 - Power Input: AC Power cord
 - Weight: 27lbs / 12.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)
     - [DTA AUDIO: dB Technologies B·Hype M, loa đến từ Italia. Mang lại sự an toàn cho những buổi hội thảo quan trọng.](https://www.youtube.com/watch?v=GTqpcjfd3Fo)

@@ -23,6 +23,8 @@ The Sony SRS-XP500 ranks [#12 out of 43 total Party Size Portable Bluetooth Spea
 - Stereo: Partially
 - USB Playback: Yes
 - Weight: 24.7lbs / 11.2kg
+- TWS: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: 🥰🙄SONY SRS XP500 vs JBL Partybox 100 Sound battle with sound sample love and hate this](https://www.youtube.com/watch?v=K9qr4EoEqpQ)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)

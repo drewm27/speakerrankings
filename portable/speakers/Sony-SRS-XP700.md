@@ -23,6 +23,8 @@ The Sony SRS-XP700 ranks [#11 out of 43 total Party Size Portable Bluetooth Spea
 - Stereo: Partially
 - USB Playback: Yes
 - Weight: 37.3 lbs / 16.9kg
+- TWS: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)

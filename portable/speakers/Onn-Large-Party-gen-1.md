@@ -17,6 +17,12 @@ The Onn Large Party gen 1 ranks [#32 out of 43 total Party Size Portable Bluetoo
 - Power Input: AC Power cord
 - TWS: Yes
 - Weight: 23.1lbs / 10.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: JBL Partybox 110 🆚  Onn Large Party Speaker - Both Plugged In🔌   The Legend vs. the Budget Banger 🍿](https://www.youtube.com/watch?v=RXeTaLUzgAo)
     - [Jay's Straight Up Reviews & More: W-King T11 (EQ1, Firmware 2.32) 🆚 Onn Large Party Speaker (Bass Boost Off/On) - Budget Battle!💥](https://www.youtube.com/watch?v=dq1JLYaRwkk)

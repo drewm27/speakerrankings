@@ -12,6 +12,15 @@ The JBL Eon One Compact ranks [#28 out of 43 total Party Size Portable Bluetooth
 - Aux Input: Yes
 - Battery Life: 12 hours
 - Weight: 17.6lbs / 8kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
     - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)

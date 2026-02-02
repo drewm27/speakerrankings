@@ -24,6 +24,8 @@ The Bose S1 Pro ranks [#10 out of 43 total Party Size Portable Bluetooth Speaker
 - TWS: Yes
 - Weight: 14.4lbs / 6.5kg
 - XLR Input: Yes
+- Power Bank: No
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
     - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)

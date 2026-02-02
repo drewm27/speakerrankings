@@ -24,6 +24,11 @@ The Soundboks 4 ranks [#21 out of 43 total Party Size Portable Bluetooth Speaker
 - SKAA: Yes
 - TWS: Yes
 - Weight: 34lbs / 15.4kg
+- Bluetooth Codecs: SBC
+- EQ: Yes
+- Stereo: Yes
+- Power Bank: No
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)

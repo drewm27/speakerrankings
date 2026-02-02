@@ -27,6 +27,7 @@ The Electro-Voice Everse 8 ranks [#9 out of 43 total Party Size Portable Bluetoo
 - TWS: Yes
 - Weight: 17lbs / 8kg
 - XLR Input: Yes
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [briansredd: Electro-Voice Everse 8 VS Bose S1 Pro - Side By Side Shoot-Out (Attempt)](https://www.youtube.com/watch?v=bxW813jlJKc)
     - [briansredd: Q&A - Electro-Voice Everse 8 Vs Bose S1 Pro AND (Warning) My Opinion](https://www.youtube.com/watch?v=yAxDBqN9d2Q)

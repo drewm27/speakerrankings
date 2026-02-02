@@ -16,6 +16,14 @@ The Teufel Rockster Air ranks [#20 out of 43 total Party Size Portable Bluetooth
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Weight: 32.0lbs / 14.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Party Mode: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links

@@ -19,6 +19,14 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - Power Input: AC Power Brick
 - Removable Battery: Yes
 - Weight: 17.4lbs / 7.9kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Stereo: Yes
+- TWS: No
+- Power Bank: No
+- USB Playback: No
+- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
