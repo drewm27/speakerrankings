@@ -16,6 +16,22 @@ The Marshall Acton II ranks [#9 out of 12 total Medium Size Powered Desktop Spea
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - Weight: 4.5 lbs / 2.9kg
+- App: Yes
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 5.0
+- Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 50Hz - 20kHz
+- Inputs: Bluetooth, Aux
+- Midrange: 1x 4"
+- Party Mode: No
+- Power: 50W (Woofer: 25W, Tweeters: 2x12.5W)
+- Tweeter: 2x 0.75" Dome
+- TWS: No
+- Voice Control: Yes
+- Wifi: No
+- Woofer: 4" (midrange/woofer)
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)

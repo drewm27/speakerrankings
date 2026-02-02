@@ -17,6 +17,19 @@ The B&O Beosound 2 ranks [#10 out of 12 total Medium Size Powered Desktop Speake
 - Power Input: AC Power cord
 - TWS: Yes
 - Weight: 9lbs / 4.1kg
+- App: Yes
+- Bluetooth Codecs: SBC, AAC, aptX
+- Bluetooth Version: 4.2
+- Dimensions: 11.8" x 11.8" (300 x 300mm)
+- EQ: Yes (via app)
+- Frequency Response: 37Hz - 22kHz
+- Inputs: Bluetooth, Aux, Optical, Chromecast
+- Power: 200W
+- Stereo: 360-degree
+- Voice Control: Yes (Google Assistant)
+- Wifi: Yes
+- Woofer: 1x 5.5" + passive radiator
+- Woofer Cabinet: Sealed with passive radiator
 - Reviews, Comparisons and Sound Samples
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)

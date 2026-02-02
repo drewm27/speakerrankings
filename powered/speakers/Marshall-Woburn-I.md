@@ -14,6 +14,23 @@ The Marshall Woburn I ranks [#6 out of 12 total Medium Size Powered Desktop Spea
 - Battery Life: No battery
 - Power Input: AC Power cord
 - Weight: 17.4lbs / 7.9kg
+- App: No
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 4.0
+- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 30Hz - 20kHz
+- IP Rating: None
+- Inputs: Bluetooth, RCA, Aux
+- Midrange: Integrated in woofers
+- Party Mode: No
+- Power: 90W
+- Stereo: Yes
+- Tweeter: 2x 1"
+- TWS: No
+- Wifi: No
+- Woofer: 2x 5.25"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)

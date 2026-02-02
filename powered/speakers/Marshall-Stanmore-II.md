@@ -17,6 +17,22 @@ The Marshall Stanmore II ranks [#7 out of 12 total Medium Size Powered Desktop S
 - Power Input: AC Power Brick
 - Stereo: Partially (1 woofer)
 - Weight: 10.3lbs / 4.65kg
+- App: Yes
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 5.0
+- Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 50Hz - 20kHz
+- Inputs: Bluetooth, RCA, Aux, Optical
+- Midrange: 2x 2"
+- Party Mode: No
+- Power: 80W (Woofer: 50W, Tweeters: 2x15W)
+- Tweeter: 2x 0.75" Dome
+- TWS: Yes
+- Voice Control: Yes
+- Wifi: No
+- Woofer: 5.25"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)

@@ -19,6 +19,20 @@ The Marshall Woburn II ranks [#5 out of 12 total Medium Size Powered Desktop Spe
 - Weight: 18.9lbs / 8.57kg
 - Wifi: No
 - Woofer: 2x 5.25"
+- App: Yes
+- Bluetooth Version: 5.0
+- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 30Hz - 20kHz
+- IP Rating: None
+- Max Volume: 110dB
+- Midrange: Integrated in woofers
+- Party Mode: No
+- Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
+- Stereo: Yes
+- TWS: Yes
+- Voice Control: Yes (via app)
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)

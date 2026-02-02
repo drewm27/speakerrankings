@@ -24,6 +24,14 @@ The Audio Pro C5 MkII ranks [#1 out of 12 total Medium Size Powered Desktop Spea
 - Wifi: Yes
 - Woofer: 4"
 - Woofer Cabinet: Ported
+- App: Yes
+- Bluetooth Version: 4.2
+- Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 50Hz - 20kHz
+- Power: 41W (2x8W + 25W)
+- Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast
+- Wifi Version: IEEE 802.11 b/g/n/ac (2.4/5GHz)
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Audio Pro Addon C5 vs C5 MKii](https://www.youtube.com/watch?v=RoJNPpDDzLA)
     - [Smart Home Sounds: Audio Pro Addon Series: A serious multi-room contender?](https://www.youtube.com/watch?v=ig8h32VcU8o)

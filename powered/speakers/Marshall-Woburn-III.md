@@ -19,6 +19,19 @@ The Marshall Woburn III ranks [#4 out of 12 total Medium Size Powered Desktop Sp
 - Weight: 16.4lbs / 7.44kg
 - Wifi: No
 - Woofer: 6"
+- App: Yes
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
+- Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 35Hz - 20kHz
+- IP Rating: None
+- Max Volume: 100.5dB @ 1m
+- Party Mode: No
+- Power: 150W (Woofer: 90W, Midrange: 2x15W, Tweeters: 2x15W)
+- Stereo: Yes
+- TWS: No
+- Woofer Cabinet: Bass-reflex (ported)
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: MY EARS ARE BLEEDING! Marshall Woburn III Unboxing](https://www.youtube.com/watch?v=U6Sec5_16x4)
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)

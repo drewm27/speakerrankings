@@ -20,8 +20,19 @@ The JBL Authentics 200 ranks [#3 out of 12 total Medium Size Powered Desktop Spe
 - TWS: No
 - Weight: 9.1lbs / 4.2kg
 - Wifi: Yes
-- Woofer: 5"
+- Woofer: 5" full-range
 - Woofer Cabinet: Ported
+- Bass Extension (-10dB): ~50hz
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
+- Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4mm)
+- Frequency Response: 50Hz - 20kHz (-6dB)
+- Passive Radiator: 6" down-firing
+- Power: 90W
+- Power Input: AC Power Cable (100-240V)
+- Streaming Services: AirPlay, Chromecast, Spotify Connect, Alexa MRM
+- Voice Assistants: Amazon Alexa & Google Assistant (simultaneous)
+- Wifi Version: IEEE 802.11 a/b/g/n/ac/ax (2.4GHz/5GHz)
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: JBL Authentics 200 Full Review - This might be the best buy](https://www.youtube.com/watch?v=fFP_OPriRlM)
     - [Jay's Straight Up Reviews & More: Klipsch The One Plus vs JBL Authentics 200 - 🛜 Battle of the Home Speakers🔌Guest Lando Calrissian 😆](https://www.youtube.com/watch?v=ezYZWoYEXfw)

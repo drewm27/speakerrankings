@@ -35,6 +35,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Wifi: Yes
 - Woofer: 4"
 - Woofer Cabinet: Ported
+- App: Yes
+- Bluetooth Version: 4.2
+- Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 50Hz - 20kHz
+- Power: 41W (2x8W + 25W)
+- Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast
+- Wifi Version: IEEE 802.11 b/g/n/ac (2.4/5GHz)
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Audio Pro Addon C5 vs C5 MKii](https://www.youtube.com/watch?v=RoJNPpDDzLA)
     - [Smart Home Sounds: Audio Pro Addon Series: A serious multi-room contender?](https://www.youtube.com/watch?v=ig8h32VcU8o)
@@ -58,6 +66,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 10.1lbs / 4.6kg
 - Woofer: 2x 4"
 - Woofer Cabinet: Ported
+- App: No
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
+- Dimensions: 14.1" x 6.3" x 8.0" (359 x 159 x 203.5mm)
+- EQ: Yes (Bass/Treble controls)
+- Frequency Response: 54Hz - 20kHz
+- Party Mode: No
+- Power: 70W (R/L treble: 15W+15W, R/L mid-bass: 20W+20W)
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1700BT sound.DEMO](https://www.youtube.com/watch?v=A7OiJFDdH1Q)
@@ -80,8 +97,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 9.1lbs / 4.2kg
 - Wifi: Yes
-- Woofer: 5"
+- Woofer: 5" full-range
 - Woofer Cabinet: Ported
+- Bass Extension (-10dB): ~50hz
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
+- Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4mm)
+- Frequency Response: 50Hz - 20kHz (-6dB)
+- Passive Radiator: 6" down-firing
+- Power: 90W
+- Power Input: AC Power Cable (100-240V)
+- Streaming Services: AirPlay, Chromecast, Spotify Connect, Alexa MRM
+- Voice Assistants: Amazon Alexa & Google Assistant (simultaneous)
+- Wifi Version: IEEE 802.11 a/b/g/n/ac/ax (2.4GHz/5GHz)
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: JBL Authentics 200 Full Review - This might be the best buy](https://www.youtube.com/watch?v=fFP_OPriRlM)
     - [Jay's Straight Up Reviews & More: Klipsch The One Plus vs JBL Authentics 200 - 🛜 Battle of the Home Speakers🔌Guest Lando Calrissian 😆](https://www.youtube.com/watch?v=ezYZWoYEXfw)
@@ -101,6 +129,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 16.4lbs / 7.44kg
 - Wifi: No
 - Woofer: 6"
+- App: Yes
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
+- Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 35Hz - 20kHz
+- IP Rating: None
+- Max Volume: 100.5dB @ 1m
+- Party Mode: No
+- Power: 150W (Woofer: 90W, Midrange: 2x15W, Tweeters: 2x15W)
+- Stereo: Yes
+- TWS: No
+- Woofer Cabinet: Bass-reflex (ported)
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: MY EARS ARE BLEEDING! Marshall Woburn III Unboxing](https://www.youtube.com/watch?v=U6Sec5_16x4)
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
@@ -120,6 +161,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 18.9lbs / 8.57kg
 - Wifi: No
 - Woofer: 2x 5.25"
+- App: Yes
+- Bluetooth Version: 5.0
+- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 30Hz - 20kHz
+- IP Rating: None
+- Max Volume: 110dB
+- Midrange: Integrated in woofers
+- Party Mode: No
+- Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
+- Stereo: Yes
+- TWS: Yes
+- Voice Control: Yes (via app)
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
@@ -134,6 +189,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No battery
 - Power Input: AC Power cord
 - Weight: 17.4lbs / 7.9kg
+- App: No
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 4.0
+- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 30Hz - 20kHz
+- IP Rating: None
+- Inputs: Bluetooth, RCA, Aux
+- Midrange: Integrated in woofers
+- Party Mode: No
+- Power: 90W
+- Stereo: Yes
+- Tweeter: 2x 1"
+- TWS: No
+- Wifi: No
+- Woofer: 2x 5.25"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
@@ -150,6 +222,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power Brick
 - Stereo: Partially (1 woofer)
 - Weight: 10.3lbs / 4.65kg
+- App: Yes
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 5.0
+- Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 50Hz - 20kHz
+- Inputs: Bluetooth, RCA, Aux, Optical
+- Midrange: 2x 2"
+- Party Mode: No
+- Power: 80W (Woofer: 50W, Tweeters: 2x15W)
+- Tweeter: 2x 0.75" Dome
+- TWS: Yes
+- Voice Control: Yes
+- Wifi: No
+- Woofer: 5.25"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
@@ -164,6 +252,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - Weight: 6.3lbs / 2.85kg
+- App: Yes
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
+- Dimensions: 10.24" x 6.69" x 5.91" (260 x 170 x 150mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 45Hz - 20kHz
+- Inputs: Bluetooth, Aux
+- Midrange: 1x 4"
+- Party Mode: No
+- Power: 60W (Woofer: 30W, Tweeters: 2x15W)
+- Tweeter: 2x 0.75" Dome
+- TWS: No
+- Wifi: No
+- Woofer: 4" (midrange/woofer)
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Winner Winner Chicken Dinner! Marshall Acton 3 Review!](https://www.youtube.com/watch?v=2fYIobmLo-o)
 - Links
@@ -179,6 +282,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - Weight: 4.5 lbs / 2.9kg
+- App: Yes
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 5.0
+- Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 50Hz - 20kHz
+- Inputs: Bluetooth, Aux
+- Midrange: 1x 4"
+- Party Mode: No
+- Power: 50W (Woofer: 25W, Tweeters: 2x12.5W)
+- Tweeter: 2x 0.75" Dome
+- TWS: No
+- Voice Control: Yes
+- Wifi: No
+- Woofer: 4" (midrange/woofer)
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
@@ -198,6 +317,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - TWS: Yes
 - Weight: 9lbs / 4.1kg
+- App: Yes
+- Bluetooth Codecs: SBC, AAC, aptX
+- Bluetooth Version: 4.2
+- Dimensions: 11.8" x 11.8" (300 x 300mm)
+- EQ: Yes (via app)
+- Frequency Response: 37Hz - 22kHz
+- Inputs: Bluetooth, Aux, Optical, Chromecast
+- Power: 200W
+- Stereo: 360-degree
+- Voice Control: Yes (Google Assistant)
+- Wifi: Yes
+- Woofer: 1x 5.5" + passive radiator
+- Woofer Cabinet: Sealed with passive radiator
 - Reviews, Comparisons and Sound Samples
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
@@ -211,6 +343,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No Battery
 - Stereo: Partially (1 woofer)
 - Weight: 10.3lbs / 4.7kg
+- App: No
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 4.2
+- Dimensions: 11" x 7.3" x 7.3" (280 x 186 x 186mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 45Hz - 20kHz
+- Inputs: Bluetooth, Aux, RCA, Optical, USB
+- Midrange: 2x 2.25" full-range
+- Party Mode: No
+- Power: 60W (Woofer: 30W, Full-range: 2x15W)
+- TWS: No
+- Wifi: No
+- Woofer: 4.5"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
     - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
@@ -225,6 +371,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Battery Life: No Battery
 - Stereo: Partially (1 woofer)
 - Weight: 8.5lbs / 3.9kg
+- App: No
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 4.2
+- Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150mm)
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 50Hz - 20kHz
+- Inputs: Bluetooth, Aux, RCA, Optical, USB
+- Midrange: 2x 2.25" full-range
+- Party Mode: No
+- Power: 50W (Woofer: 30W, Full-range: 2x10W)
+- TWS: No
+- Wifi: No
+- Woofer: 4.5"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)
     - [One-month hobbyist: Klipsch The One ii vs Marshall Acton ii Sound Battle](https://www.youtube.com/watch?v=W4sIuhplM9w)
