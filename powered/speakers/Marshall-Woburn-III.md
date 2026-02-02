@@ -12,8 +12,13 @@ The Marshall Woburn III ranks [#4 out of 12 total Medium Size Powered Desktop Sp
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
 - Battery Life: No battery
+- Inputs: Bluetooth, HDMI, RCA, Aux
+- Midrange: 2x 2"
 - Power Input: AC Power cord
+- Tweeter: 2x 0.75" Dome
 - Weight: 16.4lbs / 7.44kg
+- Wifi: No
+- Woofer: 6"
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: MY EARS ARE BLEEDING! Marshall Woburn III Unboxing](https://www.youtube.com/watch?v=U6Sec5_16x4)
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)

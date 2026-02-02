@@ -12,13 +12,18 @@ The Audio Pro C5 MkII ranks [#1 out of 12 total Medium Size Powered Desktop Spea
 - Negatives: No battery
 - Aux Input: Yes
 - Battery Life: No Battery
+- Inputs: Bluetooth, Wifi, RCA
 - IP Rating: None
+- Outputs: Subwoofer line out
 - Party Mode: Yes (over Wifi)
 - Power Input: AC Cord
 - Stereo: Partially
+- Tweeter: 2x 0.75"
 - TWS: No
 - Weight: 5.3lbs / 2.4kg
 - Wifi: Yes
+- Woofer: 4"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Audio Pro Addon C5 vs C5 MKii](https://www.youtube.com/watch?v=RoJNPpDDzLA)
     - [Smart Home Sounds: Audio Pro Addon Series: A serious multi-room contender?](https://www.youtube.com/watch?v=ig8h32VcU8o)

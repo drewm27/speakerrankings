@@ -12,8 +12,13 @@ The Marshall Woburn II ranks [#5 out of 12 total Medium Size Powered Desktop Spe
 - Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
 - Battery Life: No battery
+- Bluetooth Codecs: AptX, SBC
+- Inputs: Bluetooth, HDMI, RCA, Aux
 - Power Input: AC Power cord
+- Tweeter: 2x 1"
 - Weight: 18.9lbs / 8.57kg
+- Wifi: No
+- Woofer: 2x 5.25"
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)

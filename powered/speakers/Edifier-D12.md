@@ -12,16 +12,17 @@ The Edifier D12 ranks [#2 out of 12 total Medium Size Powered Desktop Speakers](
 - Aux Input: Yes
 - Bass Extension (-10dB): 57hz
 - Battery Life: No Battery
-- Inputs: Bluetooth, Aux, RCA
+- Inputs: Bluetooth, Wifi, Aux, RCA
 - IP Rating: None
 - Outputs: Subwoofer line out
 - Power Bank: No
 - Power Input: AC Power Cable
 - Stereo: Yes
-- Tweeters: 2x 19mm silk dome
+- Tweeter: 2x 19mm silk dome
 - TWS: No
 - Weight: 10.1lbs / 4.6kg
-- Woofers: 2x 4"
+- Woofer: 2x 4"
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Edifier R1700BT sound.DEMO](https://www.youtube.com/watch?v=A7OiJFDdH1Q)
