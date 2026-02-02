@@ -67,6 +67,9 @@ The next best battery powered speakers for this use will be the [party size](/po
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 68.3lbs / 31kg
+- Built in Microphone: No
+- Stereo: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)

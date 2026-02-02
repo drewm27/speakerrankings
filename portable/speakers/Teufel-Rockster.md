@@ -20,6 +20,14 @@ The Teufel Rockster ranks [#6 out of 9 total Large Party Size Portable Bluetooth
 - Power Input: AC Power cord
 - Weight: 68lbs / 31kg
 - XLR Input: Yes
+- App: No
+- Built in Microphone: No
+- EQ: Yes
+- Party Mode: Yes
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - <https://www.youtube.com/watch?v=gNqERPC67C8>

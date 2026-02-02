@@ -225,6 +225,9 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - USB Playback: Yes
 - Weight: 87lbs / 39kg
 - Wifi: Yes
+- Built in Microphone: No
+- Party Mode: Yes
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)

@@ -37,6 +37,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 87lbs / 39kg
 - Wifi: Yes
+- Built in Microphone: No
+- Party Mode: Yes
+- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
@@ -62,6 +65,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 76lbs / 34kg
+- Built in Microphone: No
+- EQ: Yes
+- Party Mode: Yes
+- Stereo: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
 - Links
@@ -86,6 +94,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 68.3lbs / 31kg
+- Built in Microphone: No
+- Stereo: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
@@ -114,6 +125,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 61lbs / 28kg
+- Built in Microphone: No
+- Party Mode: Yes
+- Stereo: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: I'M Floored 😲 JBL Partybox 710 vs 310 Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
     - [GYMCADDY: JBL Partybox 710 Review - Its Your Personal Earthquake Machine](https://www.youtube.com/watch?v=srx-SAaqFjw)
@@ -141,6 +156,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 56.2lbs / 25.5kg
+- Built in Microphone: No
+- Stereo: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
@@ -162,6 +180,14 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - Weight: 68lbs / 31kg
 - XLR Input: Yes
+- App: No
+- Built in Microphone: No
+- EQ: Yes
+- Party Mode: Yes
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - <https://www.youtube.com/watch?v=gNqERPC67C8>
@@ -187,6 +213,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 65.2lbs / 29.6kg
+- Built in Microphone: No
+- IP Rating: None
+- Stereo: Yes
+- Wifi: No
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
     - [GYMCADDY: Sony ULT Tower 9 Review - Amazing Instrument Separation](https://www.youtube.com/watch?v=xbVBvaGDDy0)
@@ -211,6 +242,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 64lbs / 29kg
 - Wireless Microphone: Yes Included
+- Built in Microphone: No
+- IP Rating: None
+- Stereo: Yes
+- Wifi: No
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
@@ -233,6 +269,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cord
 - USB Playback: Yes
 - Weight: 58.6lbs / 26.6kg
+- Built in Microphone: No
+- IP Rating: None
+- Stereo: Yes
+- TWS: Yes
+- Wifi: No
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Sony SRS-XV900 vs JBL Partybox 310 - Can the JBL Middleweight 💪🏽 Compete With The Sony Heavyweight?](https://www.youtube.com/watch?v=1yVnCeuW9uA)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)

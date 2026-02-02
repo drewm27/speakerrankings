@@ -24,6 +24,9 @@ The JBL Partybox 520 ranks [#5 out of 9 total Large Party Size Portable Bluetoot
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 56.2lbs / 25.5kg
+- Built in Microphone: No
+- Stereo: Yes
+- Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)

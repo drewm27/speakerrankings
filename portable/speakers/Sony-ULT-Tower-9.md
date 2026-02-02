@@ -22,6 +22,11 @@ The Sony ULT Tower 9 ranks [#7 out of 9 total Large Party Size Portable Bluetoot
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 65.2lbs / 29.6kg
+- Built in Microphone: No
+- IP Rating: None
+- Stereo: Yes
+- Wifi: No
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
     - [GYMCADDY: Sony ULT Tower 9 Review - Amazing Instrument Separation](https://www.youtube.com/watch?v=xbVBvaGDDy0)
