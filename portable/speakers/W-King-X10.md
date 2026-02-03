@@ -17,8 +17,16 @@ The W-King X10 ranks [#59 out of 68 total Boombox Size Portable Bluetooth Speake
 - MicroSD: Yes
 - Power Bank: Yes
 - Stereo: Yes
-- TWS: No
+- TWS: Yes
 - Weight: 7.4lbs / 3.3kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (2 modes - Indoor/Outdoor)
+- Party Mode: No
+- USB Playback: Yes
+- Built in Microphone: Yes
+- Power Input: USB-C
+- FM Tuner: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)

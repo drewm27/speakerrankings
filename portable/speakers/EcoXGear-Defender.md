@@ -11,7 +11,16 @@ The EcoXGear Defender ranks [#54 out of 68 total Boombox Size Portable Bluetooth
 - Negatives: Bass not as deep as competitors.
 - Battery Life: 25 hours
 - Stereo: No
-- TWS: No
+- TWS: Yes
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: No
 - Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)

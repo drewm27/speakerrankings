@@ -18,6 +18,14 @@ The ION Pathfinder 4 ranks [#56 out of 68 total Boombox Size Portable Bluetooth 
 - Stereo: No
 - USB Playback: Yes
 - Weight: 25lbs / 11kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (High/Low frequency)
+- TWS: Yes
+- Party Mode: No
+- Built in Microphone: No
+- Power Input: USB-C
+- Microphone Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [ReggieTECH: ION Pathfinder 4 Speaker - Unboxing, Review & Test](https://www.youtube.com/watch?v=zlAsAJtwNS8)
 

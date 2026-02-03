@@ -17,6 +17,14 @@ The ION Pathfinder 320 ranks [#62 out of 68 total Boombox Size Portable Bluetoot
 - Stereo: No
 - USB Playback: Yes
 - Weight: 22.7lbs / 10.3kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (High/Low frequency)
+- TWS: Yes
+- Party Mode: No
+- Built in Microphone: No
+- Power Input: USB-C
+- Microphone Input: No
 - Reviews, Comparisons and Sound Samples
     - [King Vegeta: Ion Pathfinder 320 quick review](https://www.youtube.com/watch?v=F4d76SDQPtw)
 

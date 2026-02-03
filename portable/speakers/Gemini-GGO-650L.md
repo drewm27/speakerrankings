@@ -16,6 +16,13 @@ The Gemini GGO-650L ranks [#55 out of 68 total Boombox Size Portable Bluetooth S
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Party Mode: No
+- Power Bank: No
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links

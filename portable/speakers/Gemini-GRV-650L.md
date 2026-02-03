@@ -19,6 +19,14 @@ The Gemini GRV-650L ranks [#34 out of 68 total Boombox Size Portable Bluetooth S
 - Stereo: Partially (1 woofer)
 - USB Playback: Yes
 - Weight: 15.8lbs / 7.1kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: Yes
+- Party Mode: No
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GRV-650L!!! 😁](https://www.youtube.com/watch?v=o5TQLBxyskg)
     - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)

@@ -166,7 +166,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
-- EQ: Yes (3 modes)
+- EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Bluetooth Latency: SBC
 - Max Volume: 116db
@@ -176,6 +176,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: Yes
 - TWS: Yes
 - Weight: 20.4lbs / 9.27kg
+- Bluetooth Codecs: SBC
+- Power Bank: Yes
+- USB Playback: Yes
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
     - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)

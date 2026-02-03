@@ -20,8 +20,16 @@ The W-King H10 ranks [#49 out of 68 total Boombox Size Portable Bluetooth Speake
 - MicroSD: Yes
 - Power Bank: Yes
 - Stereo: Yes
-- TWS: No
+- TWS: Yes
 - Wireless Microphones: Yes 2 Included
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (multiple modes)
+- Party Mode: No
+- USB Playback: Yes
+- Built in Microphone: No
+- Power Input: USB-C
+- Microphone Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>

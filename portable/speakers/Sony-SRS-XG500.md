@@ -16,9 +16,14 @@ The Sony SRS-XG500 ranks [#42 out of 68 total Boombox Size Portable Bluetooth Sp
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Stereo: Yes
-- TWS: No
+- TWS: Yes
 - USB Playback: Yes
 - Weight: 12.4lbs / 5.6kg
+- Bluetooth Codecs: SBC, AAC, LDAC
+- App: No
+- EQ: Yes (App + ClearAudio+)
+- Built in Microphone: Yes
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 🆚  Sony SRS-XG500 - Tailgater Special - Battery Powered ☢️ Bass Boost Enabled.](https://www.youtube.com/watch?v=ImnPvu49RSM)
     - [Jagist reviews: Tribit Stormbox Blast vs Sony SRS XG 500](https://www.youtube.com/watch?v=yenr1BPMk6s)

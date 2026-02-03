@@ -21,6 +21,15 @@ The Tronsmart Halo 200 ranks [#47 out of 68 total Boombox Size Portable Bluetoot
 - Stereo: Partially
 - TWS: Yes
 - Weight: 13.4lbs / 6.1kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (multiple modes)
+- Party Mode: No
+- Power Bank: Yes
+- USB Playback: Yes
+- Built in Microphone: No
+- Power Input: USB-C
+- MicroSD: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
     - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)

@@ -10,15 +10,21 @@ The B&O Beolit 20 ranks [#30 out of 68 total Boombox Size Portable Bluetooth Spe
 ## #30 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
 - Positives: Wireless phone charging.
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
-- App: Yes
+- App: Yes (Bang & Olufsen app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 8 hours
-- EQ: Yes
+- EQ: Yes (App EQ)
 - Max Volume: 93db
 - Stereo: No
 - TWS: Yes
 - Weight: 6lbs / 2.7kg
+- Bluetooth Codecs: SBC
+- Party Mode: No
+- Power Bank: Yes
+- USB Playback: No
+- Built in Microphone: Yes
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)

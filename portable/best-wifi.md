@@ -69,7 +69,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 ### The best [boombox size](/portable/boombox/) battery powered speaker with Wifi is the [**JBL Boombox 3 Wifi**](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
 - Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
 - Negatives: Bass boosted. Dip at 160hz
-- Aux Input: No
+- Aux Input: Yes
 - Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
 - IP Rating: IP67
@@ -78,10 +78,14 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Power Bank: Yes
 - Power Input: AC Power cable
 - Stereo: Yes
-- TWS: No
+- TWS: Yes
 - Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
 - Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- USB Playback: No
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: JBL Partybox Encore 2 vs JBL Boombox 3 WiFi - Sound Test - Wide vs Narrow Soundstage!](https://www.youtube.com/watch?v=J-dsO2KOSzY)
     - [Mateusz Cholewa: JBL Encore 2 Partybox Deep Bass 🆚 Jbl Boombox 3 WiFi 🎶](https://www.youtube.com/watch?v=srLPSYOcTGw)

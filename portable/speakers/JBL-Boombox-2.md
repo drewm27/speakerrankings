@@ -21,6 +21,15 @@ The JBL Boombox 2 ranks [#28 out of 68 total Boombox Size Portable Bluetooth Spe
 - Power Input: AC Power brick
 - Stereo: Yes
 - Weight: 13lbs / 5.9kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: Yes
+- USB Playback: No
+- Built in Microphone: No
+- FM Tuner: No
+- Microphone Input: No
+- MicroSD: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)

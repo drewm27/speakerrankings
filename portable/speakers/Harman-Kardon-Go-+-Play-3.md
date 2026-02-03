@@ -11,12 +11,12 @@ The Harman Kardon Go + Play 3 ranks [#3 out of 68 total Boombox Size Portable Bl
 - Positives: Warm sound with boosted bass. Deepest bass out of any speaker in this size. Sound is more natural than the Go + Play2.
 - Negatives: Just a little over half as loud as the higher rated boomboxes. Only 8 hours of battery at medium volume. No water rating.
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
-- App: No
+- App: Yes (Harman Kardon One app)
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Built in Microphone: Yes
-- EQ: Yes (hidden bass and treble adjustment)
+- EQ: Yes (App EQ)
 - IP Rating: None
 - Bluetooth Latency: 120ms
 - Max Volume: 103db
@@ -26,6 +26,8 @@ The Harman Kardon Go + Play 3 ranks [#3 out of 68 total Boombox Size Portable Bl
 - Weight: 10.4lbs / 4.7kg
 - Bluetooth Codecs: SBC, AAC
 - Power Bank: Yes
+- Party Mode: No
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)

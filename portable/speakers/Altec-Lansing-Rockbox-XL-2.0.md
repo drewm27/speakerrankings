@@ -12,6 +12,16 @@ The Altec Lansing Rockbox XL 2.0 ranks [#66 out of 68 total Boombox Size Portabl
 - Battery Life: 20 hours
 - Stereo: Yes
 - Weight: 12.6 lbs / 5.7kg
+- Bluetooth Codecs: SBC
+- App: Yes (House Party app)
+- EQ: Yes (App EQ)
+- TWS: Yes
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links

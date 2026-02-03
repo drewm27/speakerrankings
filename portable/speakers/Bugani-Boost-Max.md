@@ -18,6 +18,12 @@ The Bugani Boost Max ranks [#38 out of 68 total Boombox Size Portable Bluetooth 
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 13.8 lbs / 6.3kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Party Mode: No
+- Power Bank: Yes
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
     - [Jagist reviews: Bugani Boost Max Vs Harmon Kardon Go Plus Play 3!!! 😁😁😁](https://www.youtube.com/watch?v=Kla_z-sz0Ec)

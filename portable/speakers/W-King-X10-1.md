@@ -18,6 +18,14 @@ The W-King X10-1 ranks [#58 out of 68 total Boombox Size Portable Bluetooth Spea
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 7.4lbs / 3.3kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (2 modes - Indoor/Outdoor)
+- TWS: Yes
+- Party Mode: No
+- USB Playback: Yes
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links

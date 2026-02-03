@@ -9,10 +9,10 @@ The W-King X20 ranks [#27 out of 68 total Boombox Size Portable Bluetooth Speake
 
 ## #27 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $240 after coupon
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
-- App: Yes
+- App: Yes (W-King app)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~42hz
-- EQ: Yes
+- EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112db
 - MicroSD: Yes
@@ -21,6 +21,9 @@ The W-King X20 ranks [#27 out of 68 total Boombox Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Bluetooth Codecs: SBC
+- Party Mode: No
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)

@@ -12,15 +12,21 @@ The JBL Authentics 300 ranks [#29 out of 68 total Boombox Size Portable Bluetoot
 - App: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 8 hours
-- EQ: Yes
+- EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 100db
 - Party Mode: Yes (JBL One)
 - Power Input: AC Power cable
 - Stereo: Partially (1 woofer)
-- TWS: No
+- TWS: Yes
 - Weight: 10.8lbs / 4.9kg
 - Wifi: Yes
+- Bluetooth Codecs: SBC
+- Power Bank: No
+- USB Playback: Yes
+- Built in Microphone: Yes
+- MicroSD: No
+- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Authentics 300 - sound quality test](https://www.youtube.com/watch?v=pBgizWYcEx8)
     - [Oluv: JBL Authentics 300 - update](https://www.patreon.com/posts/jbl-authentics-125828125)

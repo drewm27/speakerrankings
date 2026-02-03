@@ -14,6 +14,16 @@ The Diamondboxx M3 ranks [#48 out of 68 total Boombox Size Portable Bluetooth Sp
 - IP Rating: None
 - Stereo: Yes
 - Weight: 11lbs / 5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: Yes
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qIkm529aaaQ>
     - <https://www.youtube.com/watch?v=NIyRizpppgI>

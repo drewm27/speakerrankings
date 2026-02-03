@@ -14,7 +14,7 @@ The Harman Kardon Onyx Studio 7 ranks [#13 out of 68 total Boombox Size Portable
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 37hz
 - Battery Life: 8 hours
-- Built in Microphone: No
+- Built in Microphone: Yes
 - IP Rating: None
 - Bluetooth Latency: 266ms
 - Max Volume: 96db
@@ -23,6 +23,11 @@ The Harman Kardon Onyx Studio 7 ranks [#13 out of 68 total Boombox Size Portable
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 6.5lbs / 2.9kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Power Bank: No
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)

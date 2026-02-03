@@ -15,15 +15,18 @@ The Aiwa Exos-9 ranks [#8 out of 68 total Boombox Size Portable Bluetooth Speake
 - Bass Extension (-10dB): 44hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
-- EQ: Yes
+- Built in Microphone: Yes
+- EQ: Yes (5-band graphic EQ + 4 presets)
 - IP Rating: None
 - Party Mode: No
 - Power Input: AC Power cable
 - Stereo: Yes
-- TWS: No
+- TWS: Yes
 - Weight: 15.3lbs / 6.9kg
 - Power Bank: Yes
+- USB Playback: No
+- FM Tuner: No
+- Microphone Input: Yes (with adapter)
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>

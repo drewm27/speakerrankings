@@ -16,6 +16,13 @@ The LG Xboom Stage 301 ranks [#22 out of 68 total Boombox Size Portable Bluetoot
 - Party Mode: Yes (Auracast)
 - Stereo: Partially (1 woofer)
 - Weight: 13.6lbs / 6.2kg
+- App: Yes (LG Xboom app)
+- EQ: Yes (App EQ)
+- TWS: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: LG xboom Stage 301 Vs Zealot S95!!!](https://www.youtube.com/watch?v=LGpXEteV6-I)
     - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)

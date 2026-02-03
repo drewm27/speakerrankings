@@ -126,7 +126,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
-- EQ: Yes (3 modes)
+- EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Bluetooth Latency: SBC
 - Max Volume: 116db
@@ -136,6 +136,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: Yes
 - TWS: Yes
 - Weight: 20.4lbs / 9.27kg
+- Bluetooth Codecs: SBC
+- Power Bank: Yes
+- USB Playback: Yes
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
     - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
@@ -147,10 +151,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 
 ### If you want something cheaper, take a look at the [**W-King X20**](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $240 after coupon
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
-- App: Yes
+- App: Yes (W-King app)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~42hz
-- EQ: Yes
+- EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112db
 - MicroSD: Yes
@@ -159,6 +163,9 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Bluetooth Codecs: SBC
+- Party Mode: No
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)

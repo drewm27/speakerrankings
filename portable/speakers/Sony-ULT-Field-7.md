@@ -22,6 +22,11 @@ The Sony ULT Field 7 ranks [#37 out of 68 total Boombox Size Portable Bluetooth 
 - Stereo: Yes
 - USB Playback: Yes
 - Weight: 13.8lbs / 6.3kg
+- Bluetooth Codecs: SBC, AAC, LDAC
+- App: No
+- EQ: Yes (App + ULT button)
+- TWS: Yes
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
     - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)

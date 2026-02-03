@@ -19,6 +19,14 @@ The ION Pathfinder 280 ranks [#63 out of 68 total Boombox Size Portable Bluetoot
 - Stereo: No
 - USB Playback: Yes
 - Weight: 23.8lbs / 10.8kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (High/Low frequency)
+- TWS: Yes
+- Party Mode: No
+- Built in Microphone: No
+- Power Input: USB-C
+- Microphone Input: No
 - Reviews, Comparisons and Sound Samples
     - [Alpha Omega Gz: ION Pathfinder 280 degrees - Unboxing and testing](https://www.youtube.com/watch?v=g05lODItS4w)
 

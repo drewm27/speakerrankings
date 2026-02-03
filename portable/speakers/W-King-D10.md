@@ -19,8 +19,17 @@ The W-King D10 ranks [#50 out of 68 total Boombox Size Portable Bluetooth Speake
 - MicroSD: Yes
 - Power Bank: Yes
 - Stereo: Yes
-- TWS: No
+- TWS: Yes
 - Weight: 8lbs / 3.6kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (bass boost + DSP)
+- Party Mode: No
+- USB Playback: Yes
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: No
+- Microphone Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)

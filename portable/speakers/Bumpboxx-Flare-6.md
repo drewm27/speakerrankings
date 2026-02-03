@@ -14,6 +14,16 @@ The Bumpboxx Flare 6 ranks [#53 out of 68 total Boombox Size Portable Bluetooth 
 - Max Volume: 115db
 - Stereo: Yes
 - Weight: 13lbs / 5.9kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: Yes
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: Yes
 - Reviews, Comparisons and Sound Samples
     - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 

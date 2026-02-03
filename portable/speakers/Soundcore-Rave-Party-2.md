@@ -19,6 +19,12 @@ The Soundcore Rave Party 2 ranks [#39 out of 68 total Boombox Size Portable Blue
 - Power Input: AC Power brick
 - Stereo: Yes
 - Weight: 10.1lbs / 4.6kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (App EQ)
+- TWS: Yes
+- USB Playback: No
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 vs. Tribit Stormbox Blast - Bluetooth Speaker Basement ⚒ Battle](https://www.youtube.com/watch?v=f_NtZs4HO8c)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)

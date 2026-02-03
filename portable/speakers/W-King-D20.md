@@ -10,10 +10,10 @@ The W-King D20 ranks [#26 out of 68 total Boombox Size Portable Bluetooth Speake
 ## #26 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L)]: $225
 - Positives: Comes with 2 wireless microphones
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
-- App: Yes
+- App: Yes (W-King app)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~42hz
-- EQ: Yes
+- EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112db
 - MicroSD: Yes
@@ -23,6 +23,9 @@ The W-King D20 ranks [#26 out of 68 total Boombox Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Bluetooth Codecs: SBC
+- Party Mode: No
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)

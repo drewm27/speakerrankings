@@ -15,6 +15,15 @@ The Zealot S78 ranks [#68 out of 68 total Boombox Size Portable Bluetooth Speake
 - MicroSD: Yes
 - Stereo: Yes
 - Weight: 9.7lbs / 4.4kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (multiple modes)
+- TWS: Yes
+- Party Mode: No
+- Power Bank: Yes
+- USB Playback: Yes
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
     - [Jay's Straight Up Reviews & More: DBSOARS F29 Max vs Zealot S78 🛜 (5B) Budget Bluetooth Boombox Basement Battle 🔊 Bass Modes Enabled](https://www.youtube.com/watch?v=ui3IZd1Akoc)

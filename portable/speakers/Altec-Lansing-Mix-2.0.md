@@ -12,6 +12,16 @@ The Altec Lansing Mix 2.0 ranks [#60 out of 68 total Boombox Size Portable Bluet
 - Aux Input: Yes
 - Battery Life: 20 hours
 - Stereo: Yes
+- Bluetooth Codecs: SBC
+- App: Yes (House Party app)
+- EQ: Yes (App EQ)
+- TWS: Yes
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: No
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
     - [Jagist reviews: Jbl Extreme 3 vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=a-VmNf5kgEA)

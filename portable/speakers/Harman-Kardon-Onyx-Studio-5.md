@@ -17,6 +17,12 @@ The Harman Kardon Onyx Studio 5 ranks [#18 out of 68 total Boombox Size Portable
 - Stereo: Partially (1 woofer)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
 - Weight: 6.6lbs / 3kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: Harman / Kardon Onyx Studio 5 vs Onyx Studio 7 - Close battle🔥🔥](https://www.youtube.com/watch?v=L6NwcX8Gy1Q)
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>

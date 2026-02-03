@@ -13,6 +13,15 @@ The Skullcandy Barrel ranks [#36 out of 68 total Boombox Size Portable Bluetooth
 - Max Volume: 104db
 - Stereo: Yes
 - Weight: 12lbs / 5.4kg
+- Bluetooth Codecs: SBC
+- App: Yes (Skullcandy app)
+- EQ: Yes (App EQ)
+- TWS: Yes
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- FM Tuner: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Boombox vs. JBL Partybox Encore Party Speaker.🛜  How Low Can You Go?😲](https://www.youtube.com/watch?v=ilGvwLRn_EQ)

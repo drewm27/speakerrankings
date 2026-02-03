@@ -14,6 +14,18 @@ The JBL Boombox ranks [#43 out of 68 total Boombox Size Portable Bluetooth Speak
 - Battery Life: 24 hours
 - Stereo: Yes
 - Weight: 11.46lbs / 5.2kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: Yes
+- Party Mode: No
+- Power Bank: Yes
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
+- FM Tuner: No
+- Microphone Input: No
+- MicroSD: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>

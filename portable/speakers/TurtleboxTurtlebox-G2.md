@@ -16,6 +16,15 @@ The Turtlebox/Turtlebox G2 ranks [#65 out of 68 total Boombox Size Portable Blue
 - MicroSD: Yes
 - Stereo: No
 - Weight: 10lbs / 4.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: Yes
+- Party Mode: No
+- Power Bank: Yes
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Risk Profile: TurtleBox Demo  Risk Profile Podcast](https://www.youtube.com/watch?v=y9aCDZW6I_8)

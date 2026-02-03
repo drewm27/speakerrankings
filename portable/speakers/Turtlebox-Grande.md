@@ -20,6 +20,11 @@ The Turtlebox Grande ranks [#51 out of 68 total Boombox Size Portable Bluetooth 
 - Stereo: No
 - TWS: Yes
 - Weight: 18.8lbs / 8.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- Power Bank: Yes
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Blue Collar Outdoors USA: Is the TURTLEBOX GRANDE Speaker REALLY Worth the HYPE ?](https://www.youtube.com/watch?v=Kr_7Wi9IfpA)
 - Links

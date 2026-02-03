@@ -16,6 +16,14 @@ The Teufel Boomster NG (2017) ranks [#35 out of 68 total Boombox Size Portable B
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 7.4lbs / 3.4kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: No
+- Party Mode: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>

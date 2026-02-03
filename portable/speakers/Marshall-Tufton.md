@@ -15,6 +15,15 @@ The Marshall Tufton ranks [#57 out of 68 total Boombox Size Portable Bluetooth S
 - IP Rating: IPX2
 - Stereo: No
 - Weight: 10.8lbs / 4.9kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (hidden bass and treble adjustment)
+- TWS: No
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: Yes
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)

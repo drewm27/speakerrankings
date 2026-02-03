@@ -14,7 +14,7 @@ The Zealot ZE21 ranks [#14 out of 68 total Boombox Size Portable Bluetooth Speak
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
-- EQ: Yes (3 modes)
+- EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Bluetooth Latency: SBC
 - Max Volume: 116db
@@ -24,6 +24,10 @@ The Zealot ZE21 ranks [#14 out of 68 total Boombox Size Portable Bluetooth Speak
 - Stereo: Yes
 - TWS: Yes
 - Weight: 20.4lbs / 9.27kg
+- Bluetooth Codecs: SBC
+- Power Bank: Yes
+- USB Playback: Yes
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
     - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)

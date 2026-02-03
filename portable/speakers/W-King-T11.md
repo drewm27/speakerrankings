@@ -22,6 +22,12 @@ The W-King T11 ranks [#33 out of 68 total Boombox Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: Yes
 - Weight: 11.2lbs / 5.1kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: Yes (multiple modes)
+- Party Mode: No
+- USB Playback: Yes
+- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
     - [Jay's Straight Up Reviews & More: Dual W-King T11 (EQ1, EQ2) 🆚 JBL Partybox 110 (Bass One) 📛 Are two T11's TWS Louder than one PB110?](https://www.youtube.com/watch?v=dk3KqC-cdsk)

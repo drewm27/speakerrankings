@@ -19,6 +19,13 @@ The JBL Partybox On the Go ranks [#41 out of 68 total Boombox Size Portable Blue
 - Stereo: Partially
 - USB Playback: Yes
 - Weight: 16.5lbs / 7.5kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: No
+- Party Mode: No
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)

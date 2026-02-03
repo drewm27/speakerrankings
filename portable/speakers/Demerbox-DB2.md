@@ -17,6 +17,12 @@ The Demerbox DB2 ranks [#46 out of 68 total Boombox Size Portable Bluetooth Spea
 - Power Input: AC power brick
 - Stereo: Yes
 - Weight: 7.4lbs / 3.4kg
+- Bluetooth Codecs: SBC
+- TWS: Yes
+- Party Mode: No
+- USB Playback: No
+- Built in Microphone: No
+- FM Tuner: No
 - Reviews, Comparisons and Sound Samples
     - [TailgatingChallenge: Demerbox Review](https://www.youtube.com/watch?v=F4VLp6en8Kc)
     - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)

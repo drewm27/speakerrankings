@@ -19,6 +19,13 @@ The Harman Kardon Go + Play 2 ranks [#17 out of 68 total Boombox Size Portable B
 - Party Mode: Yes (up to 2 speakers)
 - Power Input: AC Power brick
 - Stereo: Yes
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)

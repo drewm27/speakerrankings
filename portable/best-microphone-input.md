@@ -172,7 +172,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Battery Life: 30 hours
 - IP Rating: IP67
 - Max Volume: 110db
-- Microphone Input: Yes
+- Microphone Input: Yes (2x 6.35mm)
 - Power Bank: Yes
 - Power Input: AC Power Cable or 10w USB-C
 - Stereo: Yes
@@ -180,6 +180,12 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Weight: 19.2 lbs / 8.7kg
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
+- App: No
+- EQ: Yes (10 band)
+- Party Mode: No
+- USB Playback: No
+- FM Tuner: No
+- MicroSD: No
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)

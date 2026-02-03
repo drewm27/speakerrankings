@@ -14,7 +14,7 @@ The JBL Boombox 4 ranks [#16 out of 68 total Boombox Size Portable Bluetooth Spe
 - Aux Input: No
 - Bass Extension (-10dB): 41hz
 - Battery Life: 28 hours
-- EQ: Yes (7 band)
+- EQ: No
 - IP Rating: IP68
 - Bluetooth Latency: AAC 144ms, SBC 48ms
 - Max Volume: 115db
@@ -25,6 +25,12 @@ The JBL Boombox 4 ranks [#16 out of 68 total Boombox Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC, LC3, AAC
 - Built in Microphone: No
 - Power Bank: Yes
+- TWS: Yes
+- USB Audio: Yes
+- USB Playback: No
+- FM Tuner: No
+- Microphone Input: No
+- MicroSD: No
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - old one sounding better? 🤔](https://www.youtube.com/watch?v=Sbqb85lSqVc)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)

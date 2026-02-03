@@ -16,6 +16,15 @@ The Monster Rockin' Roller 270 ranks [#64 out of 68 total Boombox Size Portable 
 - Max Volume: 96db
 - Stereo: No
 - Weight: 28.6lbs / 13kg
+- Bluetooth Codecs: SBC
+- App: No
+- EQ: No
+- TWS: Yes
+- Party Mode: No
+- Power Bank: No
+- USB Playback: No
+- Built in Microphone: No
+- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Wanna Buy It: Monster Rockin' Roller 270 - Party On Wheels](https://www.youtube.com/watch?v=uL9NPSEAwjE)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
