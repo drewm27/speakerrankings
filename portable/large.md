@@ -46,7 +46,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Very deep bass, the absolute deepest from this category. Medium bass boost is the most balanced.
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - Aux Input: Yes
-- Aux Latency: 300ms
+- Aux Latency: 295ms default, 33mm with aux pass-through
 - Bass Extension (-10dB): 31hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
