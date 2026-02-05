@@ -14,17 +14,17 @@ The Minirig mk4 with subwoofer ranks [#3 out of 73 total Large Size Portable Blu
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 60ms
+- Built in Microphone: Yes
 - EQ: yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.17lbs / 1.44kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [Alan Ross Reviews:  Game changer! Minirig wireless portable subwoofer mk4 goes boom!  ](https://www.youtube.com/watch?v=nUN93WecLUs)

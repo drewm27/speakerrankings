@@ -10,20 +10,20 @@ The Audio Pro C3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
 ## #17 [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325)]: $330
 - Positives: Set treble to max and increase bass a little to get it neutral.
 - Negatives: A bit muffled and missing midrange detail.
+- App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
-- IP Rating: None
-- Party Mode: Yes (over Wifi)
-- Power Input: AC cable
-- Stereo: Partially (1 woofer)
-- Weight: 4.63lbs / 2.1kg
-- Wifi: Yes
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
+- Party Mode: Yes (over Wifi)
 - Power Bank: No
+- Power Input: AC cable
+- Stereo: Partially (1 woofer)
 - TWS: Yes
+- Weight: 4.63lbs / 2.1kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 - Links

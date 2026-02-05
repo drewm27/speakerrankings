@@ -10,22 +10,22 @@ The JBL Partybox On the Go ranks [#41 out of 68 total Boombox Size Portable Blue
 ## #41 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
 - Positives: Included wireless microphone.
 - Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 6 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - IP Rating: IPX4
 - Max Volume: 94db
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Partially
+- TWS: No
 - USB Playback: Yes
 - Weight: 16.5lbs / 7.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: No
-- Party Mode: No
-- Built in Microphone: No
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)

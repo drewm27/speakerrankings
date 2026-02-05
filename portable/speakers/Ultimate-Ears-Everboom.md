@@ -11,7 +11,10 @@ The Ultimate Ears Everboom ranks [#30 out of 73 total Large Size Portable Blueto
 - Positives: This speaker may move around as we get better sound samples
 - Negatives: Has an upper bass boost and is tuned warm with rolled off treble. Not very deep bass.
 - App: Yes
+- Aux Input: Yes
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
 - Party Mode: Yes
@@ -20,9 +23,6 @@ The Ultimate Ears Everboom ranks [#30 out of 73 total Large Size Portable Blueto
 - Stereo: No
 - TWS: No
 - Weight: 2.1lbs / 949g
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: UE Everboom Review PLUS All-New Wonderboom 4, Boom 4 & Megaboom 4](https://www.youtube.com/watch?v=-iWZlOB5Nco)
 - Links

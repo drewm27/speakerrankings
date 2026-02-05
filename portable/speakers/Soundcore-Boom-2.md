@@ -15,10 +15,10 @@ The Soundcore Boom 2 ranks [#9 out of 73 total Large Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 125ms
 - Built in Microphone: No
 - EQ: yes
 - IP Rating: IPX7
-- Bluetooth Latency: 125ms
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)

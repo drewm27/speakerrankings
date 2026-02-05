@@ -6,7 +6,7 @@ cover-img: "/assets/img/jblencore.jpg"
 share-description: "Discover the top recommended Bluetooth speakers with wireless microphone support. Expert‑ranked for karaoke performance, battery life & mic quality."
 ---
 
-This page summarizes the best portable Bluetooth speakers with built in wireless microphones of the 364 ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards value speakers with built in wireless microphones and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with built in wireless microphones of the 364 ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards value speakers with built in wireless microphones and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 Also consider buying [Speakers with Microphone Inputs](/portable/best-microphone-input/) and purchasing a [wireless microphone](https://www.amazon.com/s?k=wireless+microphones&crid=3ASGOLQJ4SF67&sprefix=wireless+microph%2Caps%2C283&linkCode=ll2&tag=rankingspea01-20&linkId=f42b9f973de28beceaf3e1bf4ddbc319&language=en_US&ref_=as_li_ss_tl)
 
@@ -20,6 +20,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - IP Rating: IPX4
@@ -32,7 +33,6 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: Yes 2 Included
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)
@@ -53,19 +53,19 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Aux Output: Yes
 - Battery Life: ~30 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
+- FM Tuner: No
 - Microphone Input: Yes
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
-- Weight: 7.0lbs / 3.1kg
-- Wireless Microphones: Yes 2 Included
-- Bluetooth Codecs: SBC
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
+- Weight: 7.0lbs / 3.1kg
+- Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)

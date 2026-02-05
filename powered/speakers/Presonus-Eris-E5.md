@@ -9,15 +9,15 @@ The Presonus Eris E5 ranks [#10 out of 24 total Medium Size Powered Bookshelf Sp
 
 ## #10 [Presonus Eris E5](https://www.amazon.com/PreSonus-Eris-E5-Active-Monitor/dp/B00CP4IJH0?crid=3Q9VPXQDJ5CZG&dib=eyJ2IjoiMSJ9.IcA3l7adi6e0olw6_a9K75Rd4CrmyPyP5lpwNOMHroVXhMsZWGxqHvLSk1-yL0QINptjLyPMbxPm3M6iBT1NGWgHrp9tgoLOsjoUYEh7K2IzHHVNmYA4Ns4KTLH9EKuSczujuMjQT-FdGLq-ntEu7FcdP9S0VSsxc4-FIR0Y5mQ1udUx5o_4-nnrw_IUhqCSHg2JbVzBr_BEFFbqC7CuQwFQjbaA9WFXxeKzBEujSqZJmL7a6FZxkE_3ycMZ_qJDyIK9AxQHwbXoGgoryghrKCOuA9oJE2ViqW7BmxjUeUA.EBfUJHsfaOVdGXalUS-RO0nIedUgV4Q9xYxmQeOToaY&dib_tag=se&keywords=presonus+e5&qid=1718679938&sprefix=presonus+e5+%2Caps%2C265&sr=8-2&linkCode=ll1&tag=rankingspea01-20&linkId=59925f990689017d481dbdd97c783487&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/PreSonus-Eris-E5-Active-Monitor/dp/B00CP4IJH0?crid=3Q9VPXQDJ5CZG&dib=eyJ2IjoiMSJ9.IcA3l7adi6e0olw6_a9K75Rd4CrmyPyP5lpwNOMHroVXhMsZWGxqHvLSk1-yL0QINptjLyPMbxPm3M6iBT1NGWgHrp9tgoLOsjoUYEh7K2IzHHVNmYA4Ns4KTLH9EKuSczujuMjQT-FdGLq-ntEu7FcdP9S0VSsxc4-FIR0Y5mQ1udUx5o_4-nnrw_IUhqCSHg2JbVzBr_BEFFbqC7CuQwFQjbaA9WFXxeKzBEujSqZJmL7a6FZxkE_3ycMZ_qJDyIK9AxQHwbXoGgoryghrKCOuA9oJE2ViqW7BmxjUeUA.EBfUJHsfaOVdGXalUS-RO0nIedUgV4Q9xYxmQeOToaY&dib_tag=se&keywords=presonus+e5&qid=1718679938&sprefix=presonus+e5+%2Caps%2C265&sr=8-2&linkCode=ll1&tag=rankingspea01-20&linkId=59925f990689017d481dbdd97c783487&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Presonus+Eris+E5)]: $400 a pair
 - Negatives: More HiFi sounding than the HS5 and not quite as detailed, although with deeper bass and a more fun listen.
+- App: No
+- Bluetooth: No
 - Dimensions: 10.2"H x 7.0"W x 7.7"D
+- EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz
 - Inputs: TRS, XLR, RCA
 - Watts: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Woofer: 5"
-- App: No
-- Bluetooth: No
-- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
     - [DSAUDIO.review: Yamaha HS5 vs Presonus Eris E5  Sound Demo](https://www.youtube.com/watch?v=SWT-9LfiRGc)

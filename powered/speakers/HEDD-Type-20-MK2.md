@@ -12,8 +12,8 @@ The HEDD Type 20 MK2 ranks [#5 out of 22 total Large Size Powered Bookshelf Spea
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 32hz
 - Bluetooth: No
-- Dimensions: 14.1"H x 11"W x 13.3"D
 - DSP: Yes (96kHz/32-bit)
+- Dimensions: 14.1"H x 11"W x 13.3"D
 - EQ: Yes (Desk filter, shelf filters)
 - Frequency Response: 32Hz - 40kHz
 - Inputs: XLR (Analog/AES)

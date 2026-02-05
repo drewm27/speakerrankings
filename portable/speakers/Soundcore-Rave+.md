@@ -9,19 +9,19 @@ The Soundcore Rave+ ranks [#37 out of 43 total Party Size Portable Bluetooth Spe
 
 ## #37 Soundcore Rave+: $240
 - Negatives: Pretty big lack of deep bass
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
-- Weight: 7.7lbs / 3.49kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 7.7lbs / 3.49kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
     - [Techder Audios: Soundcore Rave+ - Soundtest "NOT IMPRESSIVE ENOUGH?!"](https://www.youtube.com/watch?v=ZjQIvZByyns)

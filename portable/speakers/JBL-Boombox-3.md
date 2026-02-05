@@ -9,27 +9,27 @@ The JBL Boombox 3 ranks [#20 out of 68 total Boombox Size Portable Bluetooth Spe
 
 ## #20 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325)]: $500
 - Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 25ms
 - Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
-- IP Rating: IP67
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
+- Built in Microphone: No
+- EQ: No
+- FM Tuner: No
+- IP Rating: IP67
 - Max Volume: 110db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power Bank: Yes
 - Power Input: AC Power cable
 - Stereo: Yes
 - TWS: Yes
-- Weight: 14.lbs / 6.7kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Power Bank: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 14.lbs / 6.7kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)

@@ -10,20 +10,20 @@ The Bumpboxx Flare 8 ranks [#52 out of 68 total Boombox Size Portable Bluetooth 
 ## #52 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8) [[Bumpboxx](https://bumpboxx.com/products/bumpboxx-flare8)]: $400
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
-- Battery Life: 12 hours
-- Max Volume: 118db
-- Stereo: Yes
-- Weight: 19lbs / 8.6kg
-- Bluetooth Codecs: SBC
 - App: No
+- Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: Yes
+- Max Volume: 118db
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: Yes
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 19lbs / 8.6kg
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: Bumpboxx Flare 8 - My New Favorite Boombox](https://www.youtube.com/watch?v=kG9Bikc7L4g)
     - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)

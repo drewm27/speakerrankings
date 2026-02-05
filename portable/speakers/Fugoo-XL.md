@@ -10,19 +10,19 @@ The Fugoo XL ranks [#37 out of 73 total Large Size Portable Bluetooth Speakers](
 ## #37 Fugoo XL
 - Positives: Pretty deep bass for the size
 - Negatives: Some midrange honkyness
+- App: No
 - Aux Input: Yes
 - Battery Life: 35 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP67
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
-- Weight: 3.8lbs / 1.72kg
-- App: No
-- Bluetooth Codecs: SBC
-- EQ: No
-- Party Mode: No
 - Stereo: Yes
 - TWS: Yes
+- Weight: 3.8lbs / 1.72kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bL65lkRunbo>
     - <https://www.youtube.com/watch?v=8HGha3_EEXc>

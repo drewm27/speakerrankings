@@ -10,21 +10,21 @@ The Genelec 8351B ranks [#4 out of 22 total Large Size Powered Bookshelf Speaker
 ## #4 [Genelec 8351B](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_powered_studio_monitor_dual.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1507377-REG/genelec_8351bp_3way_powered_studio_monitor_dual.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8351B)]: $9150 a pair
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.
 - Negatives: Very expensive
+- App: Yes (GLM)
 - Bass Extension (-10dB): 28hz
 - Bass Extension (-3dB): 33hz
-- Dimensions: 17"H x 11.3"W x 10.9"D
-- Inputs: XLR
-- Watts: 550w Per Speaker
-- Weight: 31lbs / 14.1kg each
-- Woofer: 8.6"
-- App: Yes (GLM)
 - Bluetooth: No
 - DSP: Yes
+- Dimensions: 17"H x 11.3"W x 10.9"D
 - EQ: Yes (via GLM software)
 - Frequency Response: 32Hz - 40kHz (±1.5dB)
+- Inputs: XLR
 - Max SPL: 113dB @ 1m
 - Midrange: 5" coaxial with tweeter
 - Tweeter: 0.75" (19mm) coaxial
+- Watts: 550w Per Speaker
+- Weight: 31lbs / 14.1kg each
+- Woofer: 8.6"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
 - Links

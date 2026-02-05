@@ -12,8 +12,8 @@ The Tribit Stormbox Flow ranks [#50 out of 130 total Medium Size Portable Blueto
 - App: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 30 hours
-- EQ: Yes
 - Bluetooth Latency: 400ms aac, 200ms sbc
+- EQ: Yes
 - Stereo: No
 - Weight: 1.45lbs / 657g
 - Reviews, Comparisons and Sound Samples

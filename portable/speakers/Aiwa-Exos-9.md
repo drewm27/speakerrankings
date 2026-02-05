@@ -17,16 +17,16 @@ The Aiwa Exos-9 ranks [#8 out of 68 total Boombox Size Portable Bluetooth Speake
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (5-band graphic EQ + 4 presets)
+- FM Tuner: No
 - IP Rating: None
+- Microphone Input: Yes (with adapter)
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: AC Power cable
 - Stereo: Yes
 - TWS: Yes
-- Weight: 15.3lbs / 6.9kg
-- Power Bank: Yes
 - USB Playback: No
-- FM Tuner: No
-- Microphone Input: Yes (with adapter)
+- Weight: 15.3lbs / 6.9kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>

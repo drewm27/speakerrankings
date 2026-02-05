@@ -9,20 +9,20 @@ The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Blue
 
 ## #31 dB technologies B-Hype M: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 62hz
 - Battery Life: 4 hours
-- Power Input: AC Power cord
-- Weight: 27lbs / 12.5kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 27lbs / 12.5kg
 - Reviews, Comparisons and Sound Samples
     - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)
     - [DTA AUDIO: dB Technologies B·Hype M, loa đến từ Italia. Mang lại sự an toàn cho những buổi hội thảo quan trọng.](https://www.youtube.com/watch?v=GTqpcjfd3Fo)

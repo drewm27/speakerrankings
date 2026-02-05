@@ -10,21 +10,21 @@ The Harman Kardon Citation 200 ranks [#12 out of 68 total Boombox Size Portable 
 ## #12 Harman Kardon Citation 200: $130
 - Positives: Deeper bass than any Onyx.
 - Negatives: Overly boomy by default, you can short press the Bluetooth and volume down buttons simultaneously to decrease the bass, and the Bluetooth and volume up buttons simultaneously to increase it
+- App: Yes (Harman Kardon app)
 - Aux Input: No
 - Battery Life: 8 hours
-- IP Rating: IPX4
-- Stereo: Partially (1 woofer)
-- Weight: 6.3lbs / 2.85kg
-- Wifi: Yes
 - Bluetooth Codecs: SBC
-- App: Yes (Harman Kardon app)
+- Built in Microphone: Yes
 - EQ: No
-- TWS: No
+- IP Rating: IPX4
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: Yes
 - Power Input: USB-C
+- Stereo: Partially (1 woofer)
+- TWS: No
+- USB Playback: No
+- Weight: 6.3lbs / 2.85kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [Ezekielo: Citation 200 vs Beolit 20 with Sound Comparison!](https://www.youtube.com/watch?v=8Ts5BVWHYDE)
     - [KULAS TECH SHOW: Harman Kardon Citation 200 vs JBL Xtreme3 Sound  & Bass test](https://www.youtube.com/watch?v=sLsvo5urFaw)

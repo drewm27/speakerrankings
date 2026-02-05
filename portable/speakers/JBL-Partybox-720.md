@@ -14,6 +14,7 @@ The JBL Partybox 720 ranks [#3 out of 9 total Large Party Size Portable Bluetoot
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -22,11 +23,10 @@ The JBL Partybox 720 ranks [#3 out of 9 total Large Party Size Portable Bluetoot
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 68.3lbs / 31kg
-- Built in Microphone: No
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)

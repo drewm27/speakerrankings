@@ -15,18 +15,18 @@ The Minirig mk3 with subwoofer ranks [#4 out of 73 total Large Size Portable Blu
 - Aux Latency: 1ms
 - Bass Extension (-10dB): 47hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 60ms
+- Built in Microphone: Yes
 - EQ: yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
 - Max Volume: 103db
+- Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.13lbs / 1.42kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=e8lfiOep2pU>
     - <https://www.youtube.com/watch?v=HuPEBiJqhPk>

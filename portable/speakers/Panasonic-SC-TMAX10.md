@@ -9,20 +9,20 @@ The Panasonic SC-TMAX10 ranks [#34 out of 43 total Party Size Portable Bluetooth
 
 ## #34 Panasonic SC-TMAX10
 - Negatives: Not as deep bass as others in the class
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~57hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 22.5lbs / 10.2kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Party Mode: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
 - Links

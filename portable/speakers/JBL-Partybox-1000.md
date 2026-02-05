@@ -14,18 +14,18 @@ The JBL Partybox 1000 ranks [#2 out of 9 total Large Party Size Portable Bluetoo
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 76lbs / 34kg
-- Built in Microphone: No
-- EQ: Yes
-- Party Mode: Yes
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)

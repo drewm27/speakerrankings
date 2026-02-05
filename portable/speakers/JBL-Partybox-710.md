@@ -14,19 +14,19 @@ The JBL Partybox 710 ranks [#4 out of 9 total Large Party Size Portable Bluetoot
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 61lbs / 28kg
-- Built in Microphone: No
-- Party Mode: Yes
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: I'M Floored 😲 JBL Partybox 710 vs 310 Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)

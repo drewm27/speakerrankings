@@ -13,8 +13,8 @@ The Soundcore Flare 2 ranks [#99 out of 130 total Medium Size Portable Bluetooth
 - App: Yes
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
-- EQ: Yes
 - Bluetooth Latency: 80ms
+- EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Weight: 1.3lbs / 600g

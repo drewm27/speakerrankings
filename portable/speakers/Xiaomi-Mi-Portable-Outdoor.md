@@ -10,18 +10,18 @@ The Xiaomi Mi Portable Outdoor ranks [#32 out of 41 total Small Size Portable Bl
 ## #32 Xiaomi Mi Portable Outdoor: 
 - Negatives: Not much bass, treble rolled off
 - App: No
-- Battery Life: 20 hours
-- EQ: No
-- Power Bank: No
-- Stereo: No
-- Weight: 0.41lbs / 185g
 - Aux Input: No
+- Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: None
 - Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
+- Stereo: No
 - TWS: Yes
+- Weight: 0.41lbs / 185g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
 

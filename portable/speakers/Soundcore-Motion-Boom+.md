@@ -15,18 +15,18 @@ The Soundcore Motion Boom+ ranks [#44 out of 68 total Boombox Size Portable Blue
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
-- EQ: Yes (App EQ)
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
+- Built in Microphone: No
+- EQ: Yes (App EQ)
 - Max Volume: 108db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 5.3lbs / 2.4kg
-- Bluetooth Codecs: SBC
 - USB Playback: No
-- Built in Microphone: No
+- Weight: 5.3lbs / 2.4kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)

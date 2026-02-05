@@ -10,22 +10,22 @@ The Marshall Stockwell 2 ranks [#10 out of 73 total Large Size Portable Bluetoot
 ## #10 [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325)]: $200
 - Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
-- IP Rating: IPX4
 - Bluetooth Latency: 50ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX4
 - Max Volume: 96db
 - Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 3.0lbs / 1.4kg
-- App: No
-- Built in Microphone: Yes
-- EQ: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)

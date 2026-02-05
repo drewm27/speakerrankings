@@ -10,21 +10,21 @@ The Soundcore Rave Party 2 ranks [#39 out of 68 total Boombox Size Portable Blue
 ## #39 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1795817-REG/soundcore_by_anker_a3399z11_rave_party_2_portable.html?BI=23745&KBID=29189)]: $180
 - Positives: This speaker may move around in the rankings as we get better sound samples.
 - Negatives: Poor water rating. Bass extension doesn't seem very good.
+- App: No
 - Aux Input: Yes
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (App EQ)
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
-- Weight: 10.1lbs / 4.6kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (App EQ)
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
+- Weight: 10.1lbs / 4.6kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 vs. Tribit Stormbox Blast - Bluetooth Speaker Basement ⚒ Battle](https://www.youtube.com/watch?v=f_NtZs4HO8c)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)

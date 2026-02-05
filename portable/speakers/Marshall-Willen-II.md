@@ -11,8 +11,10 @@ The Marshall Willen II ranks [#9 out of 41 total Small Size Portable Bluetooth S
 - Positives: More balanced than the first Willen, no sharp treble
 - Negatives: Not that deep of bass.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 70hz
 - Battery Life: 17 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
@@ -22,8 +24,6 @@ The Marshall Willen II ranks [#9 out of 41 total Small Size Portable Bluetooth S
 - Stereo: No
 - TWS: No
 - Weight: 0.79lbs / 360g
-- Aux Input: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [HammoTech Reviews: Marshall Willen 2 Review - Hard To Recommend](https://www.youtube.com/watch?v=PL8bC3wIRQQ)

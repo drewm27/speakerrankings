@@ -13,7 +13,9 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - Aux Input: No
 - Bass Extension (-10dB): ~70hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP67
 - Max Volume: 89dB
 - Party Mode: Yes (broadcast mode)
@@ -22,8 +24,6 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - Stereo: No
 - TWS: Yes
 - Weight: 0.88lbs / 397g
-- Bluetooth Codecs: SBC
-- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
     - [Storytripper HD: JBL Clip 4 vs  B&O A1 2nd  vs  Klipsch Austin](https://www.youtube.com/watch?v=iri3WLn6DBs)

@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the top large party size Bluetooth speakers. Massive, AC‑powered giants designed for deep bass, huge sound, and epic party performance."
 ---
 
-This page ranks 9 large party size powered Bluetooth speakers. Last updated on 02/04/2026. The large party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
+This page ranks 9 large party size powered Bluetooth speakers. Last updated on 02/05/2026. The large party size powered Bluetooth speaker size is a dedicated party speaker. If you're looking at one of these, you have a very specific need for extremely deep bass and can accept that the speaker will be over 50lbs / 23kg. Most of these are a huge overkill for most applications. All speakers in this class have no batteries except the Sony and Teufel and need to be plugged into AC. The best here will have bass extension similar to a 12” woofer tower speaker.
 
 See [Party Size Portable Bluetooth Speakers Ranked](/portable/party/) for smaller party speakers. See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -27,19 +27,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 87lbs / 39kg
 - Wifi: Yes
-- Built in Microphone: No
-- Party Mode: Yes
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)
@@ -57,18 +57,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 76lbs / 34kg
-- Built in Microphone: No
-- EQ: Yes
-- Party Mode: Yes
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: JBL PartyBox Ultimate VS JBL PartyBox 1000 - Which Speaker is The BEST?](https://www.youtube.com/watch?v=RwC1QG90RoY)
@@ -83,6 +83,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -91,11 +92,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 68.3lbs / 31kg
-- Built in Microphone: No
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
@@ -115,19 +115,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 61lbs / 28kg
-- Built in Microphone: No
-- Party Mode: Yes
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: I'M Floored 😲 JBL Partybox 710 vs 310 Binaural Sound Samples](https://www.youtube.com/watch?v=cMer55HGz38)
@@ -146,6 +146,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -153,11 +154,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 56.2lbs / 25.5kg
-- Built in Microphone: No
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
@@ -170,24 +170,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #6 [Teufel Rockster](https://lu.teufelaudio.com/rockster-105575000) [[Teufelaudio](https://lu.teufelaudio.com/rockster-105575000)]: €950
 - Positives: Loudest battery powered speaker. Deeper bass than the Soundboks 2/3.
 - Negatives: Extremely heavy, not easy to carry. Not stereo. Only available in Europe
+- App: No
 - Aux Input: Yes
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, SBC
+- Built in Microphone: No
+- EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 68lbs / 31kg
-- XLR Input: Yes
-- App: No
-- Built in Microphone: No
-- EQ: Yes
-- Party Mode: Yes
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 68lbs / 31kg
 - Wifi: No
+- XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=h_LMN0-o9VI>
     - <https://www.youtube.com/watch?v=gNqERPC67C8>
@@ -204,20 +204,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 25 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Built in Microphone: No
 - EQ: Yes (10 band)
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 65.2lbs / 29.6kg
-- Built in Microphone: No
-- IP Rating: None
-- Stereo: Yes
 - Wifi: No
-- Bluetooth Codecs: SBC, AAC, LDAC
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
     - [GYMCADDY: Sony ULT Tower 9 Review - Amazing Instrument Separation](https://www.youtube.com/watch?v=xbVBvaGDDy0)
@@ -232,21 +232,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: No Battery
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Built in Microphone: No
 - EQ: Yes (7 band)
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 64lbs / 29kg
-- Wireless Microphone: Yes Included
-- Built in Microphone: No
-- IP Rating: None
-- Stereo: Yes
 - Wifi: No
-- Bluetooth Codecs: SBC, AAC, LDAC
+- Wireless Microphone: Yes Included
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
@@ -260,21 +260,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 25 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Built in Microphone: No
 - EQ: Yes
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Optical Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- USB Playback: Yes
-- Weight: 58.6lbs / 26.6kg
-- Built in Microphone: No
-- IP Rating: None
 - Stereo: Yes
 - TWS: Yes
+- USB Playback: Yes
+- Weight: 58.6lbs / 26.6kg
 - Wifi: No
-- Bluetooth Codecs: SBC, AAC, LDAC
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Sony SRS-XV900 vs JBL Partybox 310 - Can the JBL Middleweight 💪🏽 Compete With The Sony Heavyweight?](https://www.youtube.com/watch?v=1yVnCeuW9uA)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)

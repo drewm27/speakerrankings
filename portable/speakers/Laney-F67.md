@@ -9,20 +9,20 @@ The Laney F67 ranks [#63 out of 73 total Large Size Portable Bluetooth Speakers]
 
 ## #63 Laney F67: $340
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
-- Bass Extension (-10dB): ~62hz
-- Battery Life: 20 hours
-- IP Rating: None
-- Weight: 6.1lbs / 2.8kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): ~62hz
+- Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.1lbs / 2.8kg
 - Reviews, Comparisons and Sound Samples
     - [PORTATIV: Laney F67 vs Marshall Kilburn 2 Ищем лучшую олдскульную колонку Обзор и ТЕСТ ЗВУКА](https://www.youtube.com/watch?v=JYhhBiyZzg4)
     - [wat caf’e วัฒน์คาเฟ่แฟรนไชส์กาแฟ: ลำโพง laney f67  marshall k2 fender indio](https://www.youtube.com/watch?v=w94Uc4SJwiw)

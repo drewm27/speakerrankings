@@ -14,21 +14,21 @@ The Soundboks 3 ranks [#22 out of 43 total Party Size Portable Bluetooth Speaker
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IP65
 - Max Volume: 126db
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power Bank: No
 - Power Input: AC Power cord
 - Removable Battery: Yes
 - SKAA: Yes
-- TWS: Yes
-- Weight: 34lbs / 15.4kg
-- Bluetooth Codecs: SBC
-- EQ: Yes
 - Stereo: Yes
-- Power Bank: No
+- TWS: Yes
 - USB Playback: No
+- Weight: 34lbs / 15.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-D0YY58zbA4>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>

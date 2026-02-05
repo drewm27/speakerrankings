@@ -14,17 +14,17 @@ The B&O Beolit 20 ranks [#30 out of 68 total Boombox Size Portable Bluetooth Spe
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - Max Volume: 93db
-- Stereo: No
-- TWS: Yes
-- Weight: 6lbs / 2.7kg
-- Bluetooth Codecs: SBC
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: No
-- Built in Microphone: Yes
 - Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- USB Playback: No
+- Weight: 6lbs / 2.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)

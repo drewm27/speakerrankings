@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore the best Bluetooth speakers brands and the speakers they make ranked for sound quality."
 ---
 
-This page summarizes the best sounding audiophile portable Bluetooth speaker brands out of the 364 speakers ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding audiophile portable Bluetooth speaker brands out of the 364 speakers ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards a neutral frequency response. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
@@ -24,19 +24,19 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
+- FM Tuner: No
 - IP Rating: IP67
-- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
-- TWS: Yes
-- Weight: 9.2lbs / 4.18kg
 - Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- FM Tuner: No
+- Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
@@ -91,10 +91,10 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -128,10 +128,10 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 125ms
 - Built in Microphone: No
 - EQ: yes
 - IP Rating: IPX7
-- Bluetooth Latency: 125ms
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
@@ -166,10 +166,10 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes
@@ -201,10 +201,10 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
+- Bluetooth Latency: 130ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
@@ -238,21 +238,21 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 66ms
 - Built in Microphone: No
 - EQ: Yes (10 band)
+- FM Tuner: No
 - IP Rating: IPX7
-- Bluetooth Latency: 66ms
 - Max Volume: 108db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
-- Weight: 11.6lbs / 5.3kg
 - USB Playback: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 11.6lbs / 5.3kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
@@ -339,10 +339,10 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 265ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -381,19 +381,19 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC, AAC
+- Bluetooth Latency: 120ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Bluetooth Latency: 120ms
 - Max Volume: 103db
+- Party Mode: No
+- Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
-- Weight: 10.4lbs / 4.7kg
-- Bluetooth Codecs: SBC, AAC
-- Power Bank: Yes
-- Party Mode: No
 - USB Playback: No
+- Weight: 10.4lbs / 4.7kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
@@ -420,9 +420,9 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
 - Bass Extension (-10dB): 56hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 60ms
 - EQ: Yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
 - Max Volume: 106db
 - Power Bank: Yes
 - Power Input: USB-C
@@ -529,20 +529,20 @@ Sonos speakers tend to be pretty high priced, but are the only option if you wan
 ### This [large size](/portable/large/) battery powered speaker has a warm tuning with wifi, the [**Sonos Move 2**](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325)]: $500
 - Positives: Warm sounding with somewhat rolled off treble. Slightly better midrange clarity than the Move 1.
 - Negatives: Not very loud. This may have some of the same issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- IP Rating: IP56
-- Power Bank: Yes
-- Power Input: USB-C
-- Stereo: Yes
-- Weight: 6.61lbs / 3kg
-- Wifi: Yes
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IP56
 - Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
+- Weight: 6.61lbs / 3kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links

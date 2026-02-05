@@ -13,16 +13,16 @@ The Harman Kardon Esquire Mini 2 ranks [#37 out of 41 total Small Size Portable 
 - Aux Input: Yes
 - Bass Extension (-10dB): ~120hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 250g
-- Bluetooth Codecs: SBC
-- IP Rating: None
-- Party Mode: No
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jaky9114: 2022年12月16日](https://www.youtube.com/watch?v=4xCM1mE-1Ww)
     - [Jaky9114: Harman Kardon Esquire Mini 2](https://www.youtube.com/watch?v=sQT7_LLqJ4M)

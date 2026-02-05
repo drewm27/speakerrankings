@@ -12,8 +12,8 @@ The Soundcore 3/Soundcore Select 2 ranks [#54 out of 130 total Medium Size Porta
 - App: Yes
 - Bass Extension (-10dB): 60hz
 - Battery Life: 24 hours
-- EQ: Yes
 - Bluetooth Latency: 180ms
+- EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Stereo: Yes

@@ -9,22 +9,22 @@ The Sony SRS-XB43 ranks [#39 out of 73 total Large Size Portable Bluetooth Speak
 
 ## #39 Sony SRS-XB43: $150
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
-- Bluetooth Latency: 85ms
-- Max Volume: 99db
-- Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power Bank: Yes
-- Weight: 6.5 lbs / 2.95kg
-- App: No
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 85ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 99db
+- Party Mode: Yes (Partyconnect up to 100 speakers)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.5 lbs / 2.95kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Xtreme 3 vs Sony XB43 - boombox champ?](https://www.youtube.com/watch?v=011tPYd7Y4E)
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Boom vs Sony XB43 - a step to far? 🤪](https://www.youtube.com/watch?v=OSznIl_lxJI)

@@ -14,18 +14,18 @@ The Zealot ZE01 ranks [#24 out of 68 total Boombox Size Portable Bluetooth Speak
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Codecs: SBC
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 13.2lbs / 6.0kg
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 13.2lbs / 6.0kg
 - Reviews, Comparisons and Sound Samples
     - [Bullionix_Gadgets_Reviews: ZEALOT ZE-01 VS ZEALOT S-95! 😱: Sound Comparison!!!](https://www.youtube.com/shorts/u_wbyffwmKM)
     - [Techder Audios: ZEALOT S89 VS ZEALOT ZE01 EXTREME POWERFULL VS COMPACTER BASS PERFORMANCE!](https://www.youtube.com/watch?v=6MkVOVJZL_w)

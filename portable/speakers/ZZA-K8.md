@@ -14,19 +14,19 @@ The ZZA K8 ranks [#45 out of 68 total Boombox Size Portable Bluetooth Speakers](
 - Aux Input: Yes
 - Aux Output: Yes
 - Battery Life: ~30 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
+- FM Tuner: No
 - Microphone Input: Yes
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
-- Weight: 7.0lbs / 3.1kg
-- Wireless Microphones: Yes 2 Included
-- Bluetooth Codecs: SBC
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
+- Weight: 7.0lbs / 3.1kg
+- Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)

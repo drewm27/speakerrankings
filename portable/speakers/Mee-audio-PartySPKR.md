@@ -10,9 +10,11 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 ## #27 [Mee audio PartySPKR](https://www.amazon.com/MEE-audio-PartySPKR-Subwoofers-Connecting/dp/B0CS6JF872?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5fe0ecac8f1db81cfd6c5d4deafb0454&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MEE-audio-PartySPKR-Subwoofers-Connecting/dp/B0CS6JF872?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5fe0ecac8f1db81cfd6c5d4deafb0454&language=en_US&ref_=as_li_ss_tl)]: $80
 - Negatives: Not very deep bass. Possibly slightly bright treble. Will need more sound samples to make a better determination. Only 12 hours of battery life which is about the worst in the category.
 - App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
 - IP Rating: IPX6
 - Party Mode: Yes
@@ -22,8 +24,6 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 - TWS: No
 - Weight: 6.3lbs / 2850g
 - Wifi: No
-- Aux Input: Yes
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Feelin Tech Today: JBL Should be worried? (MEE audio partySPKR) [2024]](https://www.youtube.com/watch?v=Ai1vs2-Mc6c)
 - Links

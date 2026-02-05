@@ -10,23 +10,23 @@ The Gemini GRV-650L ranks [#34 out of 68 total Boombox Size Portable Bluetooth S
 ## #34 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325)]: $180
 - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
 - Negatives: Not quite as deep bass as the top ranked speakers.
+- App: No
 - Aux Input: yes
 - Bass Extension (-10dB): ~47hz
 - Battery Life: 9 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
+- FM Tuner: Yes
 - Max Volume: 104db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Partially (1 woofer)
+- TWS: Yes
 - USB Playback: Yes
 - Weight: 15.8lbs / 7.1kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: Yes
-- Party Mode: No
-- Built in Microphone: No
-- Power Input: USB-C
-- FM Tuner: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GRV-650L!!! 😁](https://www.youtube.com/watch?v=o5TQLBxyskg)
     - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)

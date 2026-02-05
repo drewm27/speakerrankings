@@ -10,15 +10,15 @@ The KRK Rokit 5 G4 ranks [#11 out of 24 total Medium Size Powered Bookshelf Spea
 ## #11 [KRK Rokit 5 G4](https://www.amazon.com/KRK-RP5-Professional-Powered-Monitor/dp/B07YZP99W3?crid=2DXSV85B5TDXD&dib=eyJ2IjoiMSJ9.yi7PgsVL-Kj_ghtXNZImG-4BsCYnLx8lG9XESIKWkWLeGv4AJb2VBBjBvreQ-u1JMZPtVyEX2jIEn6quFCnou_QygO-gnAzgFCi6GU5WoZ-fKPm0CSjY9MBsYnAlhdlg1tfLpPWWg9LwW78cWBZ4QCBkjp-acyoeqxkmDHogK2VhJcP4PE6p11eePT2QhJG1Rl4VTSDVbSgrCBNdscOTxvxd4w6ZiZZ6YkVed9IId9ju1JDB8s-RpS9Mnuj0AkuMSd9wY31fJobuSuVF1S1DjXSN8N9hIxNK3oxe0U0ST7w.6lAMpHrOMBhz61M4LJohDSDhWV27uU5CDNcx8Wndaso&dib_tag=se&keywords=krk%2Brokit%2B5&qid=1718077789&sprefix=krk%2Bro%2Caps%2C187&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=81ef25297663661c905e73aba22b93dc&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KRK-RP5-Professional-Powered-Monitor/dp/B07YZP99W3?crid=2DXSV85B5TDXD&dib=eyJ2IjoiMSJ9.yi7PgsVL-Kj_ghtXNZImG-4BsCYnLx8lG9XESIKWkWLeGv4AJb2VBBjBvreQ-u1JMZPtVyEX2jIEn6quFCnou_QygO-gnAzgFCi6GU5WoZ-fKPm0CSjY9MBsYnAlhdlg1tfLpPWWg9LwW78cWBZ4QCBkjp-acyoeqxkmDHogK2VhJcP4PE6p11eePT2QhJG1Rl4VTSDVbSgrCBNdscOTxvxd4w6ZiZZ6YkVed9IId9ju1JDB8s-RpS9Mnuj0AkuMSd9wY31fJobuSuVF1S1DjXSN8N9hIxNK3oxe0U0ST7w.6lAMpHrOMBhz61M4LJohDSDhWV27uU5CDNcx8Wndaso&dib_tag=se&keywords=krk%2Brokit%2B5&qid=1718077789&sprefix=krk%2Bro%2Caps%2C187&sr=8-5&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=81ef25297663661c905e73aba22b93dc&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KRK+Rokit+5+G4)]: $337
 - Positives: Deeper bass than the HS5
 - Negatives: Not quite as detailed as the HS5, not as good for mixing. A little more hifi sounding
+- App: No
+- Bluetooth: No
 - Dimensions: 11.2"H x 7.5"W x 9.5"D
+- EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)
 - Inputs: TRS/XLR
 - Watts: 55w Per Speaker
 - Weight: 10.7lbs / 4.9kg each
 - Woofer: 5"
-- App: No
-- Bluetooth: No
-- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
     - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=q6EETP-YrAY)

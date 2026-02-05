@@ -9,20 +9,20 @@ The LG Xboom Stage 301 ranks [#22 out of 68 total Boombox Size Portable Bluetoot
 
 ## #22 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
 - Negatives: overpriced for what it is. Not the greatest frequency response.
+- App: Yes (LG Xboom app)
 - Bass Extension (-10dB): 43hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: AAC, SBC
+- Built in Microphone: No
+- EQ: Yes (App EQ)
 - IP Rating: IPX4
 - Party Mode: Yes (Auracast)
-- Stereo: Partially (1 woofer)
-- Weight: 13.6lbs / 6.2kg
-- App: Yes (LG Xboom app)
-- EQ: Yes (App EQ)
-- TWS: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Partially (1 woofer)
+- TWS: No
+- USB Playback: No
+- Weight: 13.6lbs / 6.2kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: LG xboom Stage 301 Vs Zealot S95!!!](https://www.youtube.com/watch?v=LGpXEteV6-I)
     - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)

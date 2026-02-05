@@ -10,21 +10,21 @@ The Neumann KH80 DSP ranks [#4 out of 24 total Medium Size Powered Bookshelf Spe
 ## #4 [Neumann KH80 DSP](https://www.amazon.com/Neumann-DSP-Powered-Studio-Monitor/dp/B06VTFL9Q6?&linkCode=ll1&tag=rankingspea01-20&linkId=f8009cb551c89b8401f8a9ec7b91220c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Neumann-DSP-Powered-Studio-Monitor/dp/B06VTFL9Q6?&linkCode=ll1&tag=rankingspea01-20&linkId=f8009cb551c89b8401f8a9ec7b91220c&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumann+KH80+DSP)]: $1100 a pair
 - Positives: Near identical sound to the 8020D. 8020D is slightly cleaner, KH80 is slightly warmer.
 - Negatives: High price
-- Dimensions: 13.6"H x 10.8"W x 9.6"D
-- Frequency Response: 57 Hz - 25 kHz (+-3 dB)
-- Inputs: XLR
-- Watts: 140w Per Speaker
-- Weight: 9.1lbs / 4.1kg each
-- Woofer: 4.1"
 - App: Yes (MA 1 alignment)
 - Bass Extension (-10dB): 51hz
 - Bass Extension (-3dB): 57hz
 - Bluetooth: No
 - DSP: Yes
+- Dimensions: 13.6"H x 10.8"W x 9.6"D
 - EQ: Yes (via DSP)
+- Frequency Response: 57 Hz - 25 kHz (+-3 dB)
+- Inputs: XLR
 - Max SPL: 110.7dB @ 1m
 - Power: 140W (90W woofer + 50W tweeter)
 - Tweeter: 1" fabric dome
+- Watts: 140w Per Speaker
+- Weight: 9.1lbs / 4.1kg each
+- Woofer: 4.1"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
     - [DSAUDIO.review: Neumann KH80 DSP vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=LcldXF0mx0I)

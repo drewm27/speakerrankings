@@ -12,10 +12,10 @@ The Bose Soundlink Flex ranks [#34 out of 130 total Medium Size Portable Bluetoo
 - App: Yes
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
+- Bluetooth Latency: 33ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Bluetooth Latency: 33ms
 - Max Volume: 96db
 - Party Mode: Yes (Bose Party mode)
 - Power Input: USB-C

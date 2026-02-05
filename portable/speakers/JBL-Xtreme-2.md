@@ -9,21 +9,21 @@ The JBL Xtreme 2 ranks [#41 out of 73 total Large Size Portable Bluetooth Speake
 
 ## #41 JBL Xtreme 2: $200
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
-- Bass Extension (-10dB): 54hz
-- Battery Life: 15 hours
-- Max Volume: 98db
-- Party Mode: Yes (Connect+ up to 100 speakers)
-- TWS: No
-- Weight: 5.3lbs / 2.4kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): 54hz
+- Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 98db
+- Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: No
+- Weight: 5.3lbs / 2.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)

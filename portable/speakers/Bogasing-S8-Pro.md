@@ -10,20 +10,20 @@ The Bogasing S8 Pro ranks [#58 out of 73 total Large Size Portable Bluetooth Spe
 ## #58 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl)]: $152
 - Positives: Use "vocal" mode for the flattest response, still not great.
 - Negatives: Huge treble peaks in most sound modes, sounds sizzling and harsh.
+- App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
-- IP Rating: IPX5
-- MicroSD: Yes
-- Power Input: USB-C
-- TWS: Yes
-- Weight: 3.41lbs / 1.55kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX5
+- MicroSD: Yes
 - Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: Yes
+- TWS: Yes
+- Weight: 3.41lbs / 1.55kg
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
     - [Mateusz Cholewa: BOGASING S8 Pro MAX HiFi ?🆚 MARSHALL🎸MIDDELTON](https://www.youtube.com/watch?v=-70aPJuPOqI)

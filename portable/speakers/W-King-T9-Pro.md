@@ -9,17 +9,17 @@ The W-King T9 Pro ranks [#27 out of 43 total Party Size Portable Bluetooth Speak
 
 ## #27 [W-King T9 Pro](https://s.click.aliexpress.com/e/_c3zh0rJN) [[Aliexpress](https://s.click.aliexpress.com/e/_c3zh0rJN)]: $294
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
+- App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
-- USB Playback: Yes
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- IP Rating: None
+- Stereo: Yes
+- TWS: No
+- USB Playback: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
 - Links

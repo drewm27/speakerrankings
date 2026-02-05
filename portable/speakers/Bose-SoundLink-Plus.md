@@ -12,16 +12,16 @@ The Bose SoundLink Plus ranks [#21 out of 73 total Large Size Portable Bluetooth
 - App: Yes
 - Aux Input: No
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: No
+- EQ: No
 - IP Rating: IP67
 - Party Mode: Yes (up to 2 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
-- Bluetooth Codecs: SBC
-- EQ: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Bose Soundlink Plus & Flex compared](https://www.patreon.com/posts/bose-soundlink-135685324)
     - [Oluv: Bose Soundlink Plus vs JBL Charge 6 - fight!](https://www.patreon.com/posts/bose-soundlink-6-136014012)

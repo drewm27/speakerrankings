@@ -9,9 +9,9 @@ The LG Xboom XG7 ranks [#65 out of 73 total Large Size Portable Bluetooth Speake
 
 ## #65 LG Xboom XG7: $120
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
-- Battery Life: 24 hours
 - App: No
 - Aux Input: Yes
+- Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

@@ -9,10 +9,9 @@ The Raymate M8 ranks [#42 out of 73 total Large Size Portable Bluetooth Speakers
 
 ## #42 [Raymate M8](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325)]: $80
 - Negatives: Slightly muffled sounding
-- Battery Life: 15 hours
-- Weight: 4.5lbs / 2.1kg
 - App: No
 - Aux Input: Yes
+- Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -22,6 +21,7 @@ The Raymate M8 ranks [#42 out of 73 total Large Size Portable Bluetooth Speakers
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 4.5lbs / 2.1kg
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 

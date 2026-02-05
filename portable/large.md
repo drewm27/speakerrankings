@@ -6,7 +6,7 @@ cover-img: "/assets/img/helsinki.jpg"
 share-description: "Explore our top-ranked large-size Bluetooth speakers. Expert picks for full, powerful sound and deep bass in a home or party setup."
 ---
 
-This page ranks 73 large size powered Bluetooth speakers. Last updated on 02/04/2026. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
+This page ranks 73 large size powered Bluetooth speakers. Last updated on 02/05/2026. The large size powered Bluetooth speaker size is a good balance between bigger travel size, small party size and reasonable weight. Pretty easy to fit two of them in a backpack with a little room to spare. Good enough to fill a living room and a good minimum size for listening to music outdoors with a group. The best here will have bass extension similar to a 6.5” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All of these are IPX7 or better unless noted. All use USB-C charging unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -26,15 +26,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 48hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: aptX, SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: None
 - Party Mode: No
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (shared woofer)
 - TWS: No
 - Weight: 3.1lbs / 1.4kg
-- Built in Microphone: Yes
-- EQ: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)
@@ -45,24 +45,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #2 [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
 - Positives: Very deep bass, the absolute deepest from this category. Medium bass boost is the most balanced.
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 295ms default, 33mm with aux pass-through
 - Bass Extension (-10dB): 31hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
-- IP Rating: IP57
 - Bluetooth Latency: 100ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IP57
 - Max Volume: 106db
 - Party Mode: Yes (Up to 8 speakers on wifi)
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - Weight: 7.8lbs / 3.5kg
 - Wifi: Yes
-- App: No
-- Built in Microphone: Yes
-- EQ: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
@@ -79,17 +79,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 60ms
+- Built in Microphone: Yes
 - EQ: yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.17lbs / 1.44kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
     - [Alan Ross Reviews:  Game changer! Minirig wireless portable subwoofer mk4 goes boom!  ](https://www.youtube.com/watch?v=nUN93WecLUs)
@@ -108,18 +108,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 1ms
 - Bass Extension (-10dB): 47hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 60ms
+- Built in Microphone: Yes
 - EQ: yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
 - Max Volume: 103db
+- Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 3.13lbs / 1.42kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=e8lfiOep2pU>
     - <https://www.youtube.com/watch?v=HuPEBiJqhPk>
@@ -141,16 +141,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: Splash resistant
+- Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 3.0lbs / 1.36kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
 - Links
@@ -164,15 +164,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 50hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: aptX, SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: None
+- Party Mode: No
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 5.29lbs / 2.4kg
-- Built in Microphone: Yes
-- EQ: No
-- Party Mode: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
     - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
@@ -225,12 +225,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #8 [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325)]: $100
 - Positives: A really neutral frequency response across the midrange. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifalife.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn't very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
 - Negatives: Doesn't seem to be available anymore. No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn't textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
-- IP Rating: IP67
 - Bluetooth Latency: 185ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IP67
 - Max Volume: 106db
 - MicroSD: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
@@ -239,9 +242,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 3.42lbs / 1.55kg
-- App: No
-- Built in Microphone: Yes
-- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Boom 2 💣vs Mifa Wildbox 🪇 Basement Battle of the Bluetooth Boombox Welterweights ⚖️](https://www.youtube.com/watch?v=mIeR8bNN29A)
     - [Alan Ross Reviews: Mifa Wildbox vs Soundcore Motion Boom Review! its a close one! 💯](https://www.youtube.com/watch?v=PZwvg4i-qYU)
@@ -259,10 +259,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 125ms
 - Built in Microphone: No
 - EQ: yes
 - IP Rating: IPX7
-- Bluetooth Latency: 125ms
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
@@ -292,22 +292,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #10 [Marshall Stockwell 2](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325)]: $200
 - Positives: Possibly the most natural sounding Marshall speaker. Excellent off-axis.
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
-- IP Rating: IPX4
 - Bluetooth Latency: 50ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX4
 - Max Volume: 96db
 - Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 3.0lbs / 1.4kg
-- App: No
-- Built in Microphone: Yes
-- EQ: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=CV7oWDZYWd4>
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Soundcore Motion Boom and Motion Plus! expensive is better?](https://www.youtube.com/watch?v=HBky_51Uq_g)
@@ -320,21 +320,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #11 [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325)]: $1200
 - Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
+- App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP65
 - Max Volume: 101db
 - Party Mode: Yes (Mozart 2.0)
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - USB Audio: Yes
 - Weight: 8.5lbs / 3.86kg
 - Wifi: Yes
-- App: No
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Best Premium Bluetooth Speakers: Sonos Move, JBL Xtreme 3, Marshall Middleton & More...](https://www.youtube.com/watch?v=oB-ZC5qTUHw)
 - Links
@@ -348,9 +348,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 170ms
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 170ms
 - Max Volume: 106db
 - Party Mode: No
 - Power Bank: Yes
@@ -358,8 +360,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This is shocking! They broke the world pound for pound champ! 😢](https://www.youtube.com/watch?v=pZsFBGxUwwo)
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
@@ -388,6 +388,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes (Users say it works)
 - Aux Input: No
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 106db
@@ -397,8 +399,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: No
 - Weight: 3.3lbs / 1.5kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Snow Queen's Tech: ANKER SOUNDCORE SELECT PRO VS MOTION BOOM - DO THEY SOUND THE SAME? SOUND TEST ( PLEASE WEAR 🎧)](https://www.youtube.com/watch?v=Ko87nHKqfus)
     - [Chowa: Soundcore Select Pro (Review)](https://www.youtube.com/watch?v=Ef2YxcTQYqE)
@@ -409,19 +409,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #14 [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325)]: $400
 - Negatives: Not stereo
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 2.4 lbs / 1.1kg
-- App: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eLILB6g0p-A>
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
@@ -436,17 +436,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 33ms
 - Bass Extension (-10dB): 48hz
 - Battery Life: 20 hours
-- Built in Microphone: No
-- IP Rating: IP67
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 116ms
+- Built in Microphone: No
+- EQ: No
+- IP Rating: IP67
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 tweeter)
-- Weight: 4.9lbs / 2.2kg
-- Bluetooth Codecs: SBC
-- EQ: No
-- Party Mode: No
 - TWS: Yes
+- Weight: 4.9lbs / 2.2kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)
@@ -462,10 +462,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #16 [JBL Xtreme 3](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325)]: $230
 - Positives: Better treble and deeper bass than the Xtreme 2. More balanced sounding than the Xtreme 4
 - Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Max Volume: 105db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
@@ -473,11 +478,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.03lbs / 1.83kg
-- App: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- IP Rating: IPX7
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>
@@ -502,20 +502,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #17 [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325)]: $330
 - Positives: Set treble to max and increase bass a little to get it neutral.
 - Negatives: A bit muffled and missing midrange detail.
+- App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
-- IP Rating: None
-- Party Mode: Yes (over Wifi)
-- Power Input: AC cable
-- Stereo: Partially (1 woofer)
-- Weight: 4.63lbs / 2.1kg
-- Wifi: Yes
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
+- Party Mode: Yes (over Wifi)
 - Power Bank: No
+- Power Input: AC cable
+- Stereo: Partially (1 woofer)
 - TWS: Yes
+- Weight: 4.63lbs / 2.1kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 - Links
@@ -525,23 +525,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #18 [Soundcore Motion X600](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1856340-REG/soundcore_by_anker_a3130011_anker_motion_x600_portable.html?BI=23745&KBID=29189)]: $150
 - Positives: Firmware 4.2.9 is a big improvement in sound quality over previous releases. Try this [Oluv EQ for the best sound quality](https://www.patreon.com/oluvsone/shop/soundcore-motion-x600-eq-settings-106961)
 - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn't very deep and the sound is still a little unnatural.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 12 hours
-- IP Rating: IPX7
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 83ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Max Volume: 104db
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Weight: 5.17lbs / 2.35kg
-- App: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion X600 now tuned by Alan Ross (sort of) Not clickbait!](https://www.youtube.com/watch?v=7eQFNduP7ak)
     - [Alan Ross Reviews: breaking news.....Soundcore Motion X600 with LDAC and spatial audio!](https://www.youtube.com/watch?v=SwJXt6ZNLKM)
@@ -562,6 +562,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 107db
@@ -571,8 +573,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 7.94lbs / 3.6kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Rave To The Max With The Soundcore Rave Neo 2! 👆](https://www.youtube.com/watch?v=vLV0-KGlXEg)
     - [Technoid: Soundcore Rave Neo 2 Review - Get the Grill & Pool Ready!!](https://www.youtube.com/watch?v=nmVpaJCrKCI)
@@ -585,20 +585,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #20 [Teufel Rockster Cross](https://www.amazon.com/Teufel-ROCKSTER-Portable-Wireless-Bluetooth/dp/B0D2P8JRFY?crid=34BUMF0HID77P&dib=eyJ2IjoiMSJ9.H0hxgBkiNdb5tzXaHf7AEE4DsqmNraQf3BWew8t1dtBMRS5_nVa1qkGv_SNfUPu54Ls2z1bhONbw4Gn_Ys2Ml5C_Ww2Hjs3wW2eyVO13Fig9ka60gB2vPU-VZZifGoj53cq4A-hAmJr-CXCKkUUnwSMhOMNQl_0OxKptCyTA8QyZNJa7K-3c3aFOiqGVBR9xWvUS9zYuoqgrDAdlddKThqKwK4szLFw3Fpsqgb7ICcCRfKZTJA4sSrsx7P-Wih4TbbEjc81uFsW4cTwp1wXZhgbiE6PfQ6HHD7p8far86Vg.yYrLtxtHuL_HAGRAJb1pwRCgmovLHD-xjrtG8VVlfes&dib_tag=se&keywords=teufel&qid=1739316042&s=electronics&sprefix=teufel%2Celectronics%2C182&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ef97f52cd1221c152738712931f14a0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Teufel-ROCKSTER-Portable-Wireless-Bluetooth/dp/B0D2P8JRFY?crid=34BUMF0HID77P&dib=eyJ2IjoiMSJ9.H0hxgBkiNdb5tzXaHf7AEE4DsqmNraQf3BWew8t1dtBMRS5_nVa1qkGv_SNfUPu54Ls2z1bhONbw4Gn_Ys2Ml5C_Ww2Hjs3wW2eyVO13Fig9ka60gB2vPU-VZZifGoj53cq4A-hAmJr-CXCKkUUnwSMhOMNQl_0OxKptCyTA8QyZNJa7K-3c3aFOiqGVBR9xWvUS9zYuoqgrDAdlddKThqKwK4szLFw3Fpsqgb7ICcCRfKZTJA4sSrsx7P-Wih4TbbEjc81uFsW4cTwp1wXZhgbiE6PfQ6HHD7p8far86Vg.yYrLtxtHuL_HAGRAJb1pwRCgmovLHD-xjrtG8VVlfes&dib_tag=se&keywords=teufel&qid=1739316042&s=electronics&sprefix=teufel%2Celectronics%2C182&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ef97f52cd1221c152738712931f14a0&language=en_US&ref_=as_li_ss_tl)]: $180
 - Positives: Pretty neutral frequency response. Outdoor mode can sound somewhat harsh due to the 4khz peak.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 51hz
 - Battery Life: 16 hours
-- IP Rating: IPX5
-- Power Input: AC Power Brick
-- TWS: Yes
-- Weight: 5.3lbs / 2.4kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power Brick
 - Stereo: Yes
+- TWS: Yes
+- Weight: 5.3lbs / 2.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-LuC0Y1_kXU>
     - <https://www.youtube.com/watch?v=EzG_YuEzEpM>
@@ -615,16 +615,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: No
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: No
+- EQ: No
 - IP Rating: IP67
 - Party Mode: Yes (up to 2 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
-- Bluetooth Codecs: SBC
-- EQ: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Bose Soundlink Plus & Flex compared](https://www.patreon.com/posts/bose-soundlink-135685324)
     - [Oluv: Bose Soundlink Plus vs JBL Charge 6 - fight!](https://www.patreon.com/posts/bose-soundlink-6-136014012)
@@ -635,20 +635,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #22 [Soundcore Motion X500](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=se&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=se&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl)]: $120
 - Negatives: A little bright on top, a custom EQ can flatten things out a bit. Peaks at 250hz and dip at 1khz
 - App: Yes
+- Aux Input: Yes
 - Bass Extension (-10dB): 48hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.7lbs / 2.1kg
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Longest I have ever been, and I don't care who sees it! ❤](https://www.youtube.com/watch?v=ugvcTMDt-bM)
 - Links
@@ -658,20 +658,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #23 [Sonos Move 2](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-Move-Wireless-Portable-Bluetooth/dp/B0CGGYYK2D/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=043359a02c61bc723ed4cb01cacafce9&camp=1789&creative=9325)]: $500
 - Positives: Warm sounding with somewhat rolled off treble. Slightly better midrange clarity than the Move 1.
 - Negatives: Not very loud. This may have some of the same issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- IP Rating: IP56
-- Power Bank: Yes
-- Power Input: USB-C
-- Stereo: Yes
-- Weight: 6.61lbs / 3kg
-- Wifi: Yes
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IP56
 - Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
+- Weight: 6.61lbs / 3kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links
@@ -681,21 +681,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #24 [Dockin D Fine+ 2](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325)]: $150
 - Positives: Quite deep bass for the category.
 - Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
+- App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (Bass boost 3 steps)
 - IP Rating: IPX5
 - Max Volume: 96db
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 4.96lbs / 2.3kg
-- App: No
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tIsmoHIQ5-I>
     - <https://www.youtube.com/watch?v=5tz_AnBghiA>
@@ -711,22 +711,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #25 [Sonos Move](https://www.amazon.com/Sonos-Move-Battery-Powered-Bluetooth-Built/dp/B089DPZR96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bb880c2ab7548fa6a993a8843b001dfa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-Move-Battery-Powered-Bluetooth-Built/dp/B089DPZR96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bb880c2ab7548fa6a993a8843b001dfa&camp=1789&creative=9325)]: $380
 - Positives: Warm sounding with somewhat rolled off treble.
 - Negatives: Not stereo. Not as deep bass as others in the category, less bass extension than an Xtreme 2. Pumping and compression artifacts at higher volume. Not very loud.
-- Bass Extension (-10dB): 49hz
-- Battery Life: 11 hours
-- IP Rating: IP56
-- Max Volume: 92db
-- Power Bank: No
-- Power Input: USB-C (requires USB-C PD 12v minimum)
-- Weight: 6.61lbs / 3kg
-- Wifi: Yes
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): 49hz
+- Battery Life: 11 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IP56
+- Max Volume: 92db
 - Party Mode: No
+- Power Bank: No
+- Power Input: USB-C (requires USB-C PD 12v minimum)
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.61lbs / 3kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [Ezekielo: JBL Xtreme 2 vs Sonos Move with Sound Comparison](https://www.youtube.com/watch?v=V4Nq-rVAP1k)
     - [NeverEnoughTech: soundcore Motion X600 vs. Sonos Move vs. Bose Soundlink Revolve II](https://www.youtube.com/watch?v=bPfwaZp1x1Q)
@@ -743,16 +743,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 38hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (5 band)
 - IP Rating: IP67
 - Party Mode: Yes (Marshall Stack)
 - Power Bank: Yes
 - Power Input: USB-C
-- Weight: 3.9lbs / 1.8kg
-- Bluetooth Codecs: SBC
 - Stereo: Yes
 - TWS: Yes
+- Weight: 3.9lbs / 1.8kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Middleton II - better with EQ?](https://www.patreon.com/posts/marshall-ii-with-136883522)
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
@@ -764,9 +764,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #27 [Mee audio PartySPKR](https://www.amazon.com/MEE-audio-PartySPKR-Subwoofers-Connecting/dp/B0CS6JF872?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5fe0ecac8f1db81cfd6c5d4deafb0454&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MEE-audio-PartySPKR-Subwoofers-Connecting/dp/B0CS6JF872?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5fe0ecac8f1db81cfd6c5d4deafb0454&language=en_US&ref_=as_li_ss_tl)]: $80
 - Negatives: Not very deep bass. Possibly slightly bright treble. Will need more sound samples to make a better determination. Only 12 hours of battery life which is about the worst in the category.
 - App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
 - IP Rating: IPX6
 - Party Mode: Yes
@@ -776,8 +778,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: No
 - Weight: 6.3lbs / 2850g
 - Wifi: No
-- Aux Input: Yes
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Feelin Tech Today: JBL Should be worried? (MEE audio partySPKR) [2024]](https://www.youtube.com/watch?v=Ai1vs2-Mc6c)
 - Links
@@ -787,20 +787,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #28 [LG Xboom Bounce](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0F3QSJCCD?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg%2Bxboom%2Bbounce&qid=1747084587&sprefix=lg%2Bxboom%2Bbounc%2Caps%2C218&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73c7b1609d6599d803cdb7bc124c9f9e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0F3QSJCCD?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg%2Bxboom%2Bbounce&qid=1747084587&sprefix=lg%2Bxboom%2Bbounc%2Caps%2C218&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73c7b1609d6599d803cdb7bc124c9f9e&language=en_US&ref_=as_li_ss_tl)]: $187
 - Negatives: Bass extension not as deep as the top speakers. Overpriced. This may move around in the rankings as we get better sound samples
 - App: Yes
+- Aux Input: Yes
 - Bass Extension (-10dB): 54hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 2.9lbs / 1.32kg
 - Wifi: No
-- Aux Input: Yes
-- Built in Microphone: Yes
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [tech reviews daily: LG XBOOM Bounce Review – BASS, LIGHTS & VIBES! 🔊🎉](https://www.youtube.com/watch?v=VZpuSjF5Spw)
     - [Mike O'Brien: What Did LG Just Launch? (NEW will.i.am x LG xboom Speakers)](https://www.youtube.com/watch?v=QDBumYKUsms)
@@ -813,21 +813,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #29 [Marshall Middleton](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Middleton-Portable-Bluetooth-Speaker/dp/B0BTHL673V/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=819471757092a960f6dc183514d23182&camp=1789&creative=9325)]: $236
 - Positives: Very deep bass for the size/weight.
 - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall's added dsp echo which cannot be turned off, very distracting and annoying. It's like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 39hz
 - Battery Life: 20 hours
-- Max Volume: 99db
-- Party Mode: Yes (Marshall Stack)
-- Power Bank: Yes
-- Weight: 4.0lbs / 1.8kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 99db
+- Party Mode: Yes (Marshall Stack)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 4.0lbs / 1.8kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=WeP1AuDUKFA>
     - [Alan Ross Reviews: 3 minutes ago..... Marshall Middleton Review, true stereophonic, no honestly 😊](https://www.youtube.com/watch?v=Dh00qH6YGTk)
@@ -846,7 +846,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: This speaker may move around as we get better sound samples
 - Negatives: Has an upper bass boost and is tuned warm with rolled off treble. Not very deep bass.
 - App: Yes
+- Aux Input: Yes
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
 - Party Mode: Yes
@@ -855,9 +858,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Stereo: No
 - TWS: No
 - Weight: 2.1lbs / 949g
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Smart Home Sounds: UE Everboom Review PLUS All-New Wonderboom 4, Boom 4 & Megaboom 4](https://www.youtube.com/watch?v=-iWZlOB5Nco)
 - Links
@@ -866,8 +866,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #31 Dockin D Fine+
 - Positives: Deeper bass than the non-plus version.
-- Power Bank: Yes
-- Power Input: USB-C
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
@@ -875,6 +873,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
@@ -887,16 +887,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #32 [Dockin D Fine](https://www.amazon.com/Bluetooth-Performance-PowerBank-Waterproof-Protection/dp/B01M0YCMIO/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c9fac4537d95d3053fe43c331ec0280&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-Performance-PowerBank-Waterproof-Protection/dp/B01M0YCMIO/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c9fac4537d95d3053fe43c331ec0280&camp=1789&creative=9325)]: $110
 - Positives: Power bank.
 - Negatives: Slightly boosted bass
-- Battery Life: 10 hours
-- Power Input: USB-C
 - App: No
 - Aux Input: Yes
+- Battery Life: 10 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
@@ -913,20 +913,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Positives: Sounds quite good for the price. A little difficult to rank based on the sound samples, this one could move around as we get better samples.
 - Negatives: Dip from 120-180hz, a little bass boosted. Muffled with cover on.
 - App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 2.69lbs / 1.22kg
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
-- Power Bank: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [SpeakerBlowUpMan Lee: Zicoroop Ts (Xdobo bucket) Bluetooth Speaker Review/Teardown](https://www.youtube.com/watch?v=hAfUPwhnD4A)
 - Links
@@ -934,21 +934,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #34 [Marshall Killburn II](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl)]: $280
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
 - Battery Life: 20 hours
-- IP Rating: IPX2
-- Max Volume: 102db
-- Weight: 5.5lbs / 2.49kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX2
+- Max Volume: 102db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.5lbs / 2.49kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
@@ -961,18 +961,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: No
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 220ms
+- Built in Microphone: Yes
 - EQ: Yes (5 band)
 - IP Rating: IP67
-- Bluetooth Latency: 220ms
 - Max Volume: 106db
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 4.63lbs / 2.1kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
@@ -991,22 +991,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #36 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3xpFLqb)]: $130
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
-- IP Rating: None
-- Max Volume: 106db
-- MicroSD: Yes
-- Power Bank: Yes
-- TWS: Yes
-- Weight: 10.1lbs / 4.6kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
+- Max Volume: 106db
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: Yes
+- Weight: 10.1lbs / 4.6kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
     - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)
@@ -1018,19 +1018,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #37 Fugoo XL
 - Positives: Pretty deep bass for the size
 - Negatives: Some midrange honkyness
+- App: No
 - Aux Input: Yes
 - Battery Life: 35 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP67
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
-- Weight: 3.8lbs / 1.72kg
-- App: No
-- Bluetooth Codecs: SBC
-- EQ: No
-- Party Mode: No
 - Stereo: Yes
 - TWS: Yes
+- Weight: 3.8lbs / 1.72kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=bL65lkRunbo>
     - <https://www.youtube.com/watch?v=8HGha3_EEXc>
@@ -1043,22 +1043,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #38 [Devialet Mania](https://www.amazon.com/Devialet-Portable-Speaker-High-Fidelity-Connectivity/dp/B0DDWDVT73?dib=eyJ2IjoiMSJ9.LQH5REV2cZ_ksRhX7iIKVKArquDWU7oJ_8XnK3pwrhSImVV_rLBuacEunf6WhghwsYZyufWQm4T4eSPzIq_euWT2QyF15o4JiM3nBXFwMKD_yWkbppCaUAFbgqN3zTgtqRW_LM14n2e82DSVqhy-J6Ay_Yiydsg9a86I1tdmoQrj9zr1rJZRLsbkx4QlEgFQfKf9z4U8Zq_bo85BDNwYz4rUn7M2qmm8rU0ZVtVMEbA.Mnj6ElNRk8SR8AsELQAqTnHGmEy2IVr1UASWl-4k8yg&dib_tag=se&keywords=devialet%2Bmania&qid=1769057099&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3d82fe9e25143ceb56f9ccea248ea677&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Devialet-Portable-Speaker-High-Fidelity-Connectivity/dp/B0DDWDVT73?dib=eyJ2IjoiMSJ9.LQH5REV2cZ_ksRhX7iIKVKArquDWU7oJ_8XnK3pwrhSImVV_rLBuacEunf6WhghwsYZyufWQm4T4eSPzIq_euWT2QyF15o4JiM3nBXFwMKD_yWkbppCaUAFbgqN3zTgtqRW_LM14n2e82DSVqhy-J6Ay_Yiydsg9a86I1tdmoQrj9zr1rJZRLsbkx4QlEgFQfKf9z4U8Zq_bo85BDNwYz4rUn7M2qmm8rU0ZVtVMEbA.Mnj6ElNRk8SR8AsELQAqTnHGmEy2IVr1UASWl-4k8yg&dib_tag=se&keywords=devialet%2Bmania&qid=1769057099&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3d82fe9e25143ceb56f9ccea248ea677&language=en_US&ref_=as_li_ss_tl)]: $800
 - Positives: Small, nice looking.
 - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
-- Bass Extension (-10dB): 47hz
-- Battery Life: 10 hours
-- IP Rating: IPX4
-- Max Volume: 95db
-- Weight: 5.1lbs / 2.3kg
-- Wifi: Yes
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): 47hz
+- Battery Life: 10 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX4
+- Max Volume: 95db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.1lbs / 2.3kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [That Speaker Guy: Devialet Mania vs Bang & Olufsen Beoplay P6 - Headphones On](https://www.youtube.com/watch?v=iXLBPb3Ckfw)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
@@ -1071,22 +1071,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #39 Sony SRS-XB43: $150
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
-- Bluetooth Latency: 85ms
-- Max Volume: 99db
-- Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power Bank: Yes
-- Weight: 6.5 lbs / 2.95kg
-- App: No
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 85ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 99db
+- Party Mode: Yes (Partyconnect up to 100 speakers)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.5 lbs / 2.95kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Xtreme 3 vs Sony XB43 - boombox champ?](https://www.youtube.com/watch?v=011tPYd7Y4E)
     - [Alan Ross Reviews: JBL Charge 5 vs Motion Boom vs Sony XB43 - a step to far? 🤪](https://www.youtube.com/watch?v=OSznIl_lxJI)
@@ -1099,22 +1099,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #40 [W-King D8](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325)]: $79
 - Positives: Decent sounding.
 - Negatives: Slightly recessed mids. Distorted at high volumes.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 24 hours
-- Max Volume: 101db
-- MicroSD: Yes
-- Power Bank: Yes
-- TWS: No
-- Weight: 5.36lbs / 2.43kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 101db
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: No
+- Weight: 5.36lbs / 2.43kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)
@@ -1129,21 +1129,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #41 JBL Xtreme 2: $200
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
-- Bass Extension (-10dB): 54hz
-- Battery Life: 15 hours
-- Max Volume: 98db
-- Party Mode: Yes (Connect+ up to 100 speakers)
-- TWS: No
-- Weight: 5.3lbs / 2.4kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): 54hz
+- Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 98db
+- Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: No
+- Weight: 5.3lbs / 2.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Alan Ross Reviews: W-King D8 speaker review 50 watts power against JBL xtreme 2 and soundcore Motion plus](https://www.youtube.com/watch?v=OXi8Sef-1NA)
@@ -1158,10 +1158,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #42 [Raymate M8](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Portable-Waterproof/dp/B0BZY4W3JT/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9c3b5698fc97fb4f5469f0b4c8ea0bc9&camp=1789&creative=9325)]: $80
 - Negatives: Slightly muffled sounding
-- Battery Life: 15 hours
-- Weight: 4.5lbs / 2.1kg
 - App: No
 - Aux Input: Yes
+- Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -1171,6 +1170,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 4.5lbs / 2.1kg
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 - Links
@@ -1182,17 +1182,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: 3 EQ presets
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: No
 - Weight: 7.36lbs / 3.3kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Zealot S97 - Soundtest "MINI BOOMBOX ALMOST PERFECT?!"](https://www.youtube.com/watch?v=4eyFZeBFwpg)
     - [Jay's Straight Up Reviews & More: Zealot S97 mid-size Boombox 📦 Unboxing, Review & Demo. 😵Will I Finally Like A Zealot Speaker?](https://www.youtube.com/watch?v=jaLS0I0jjVQ)
@@ -1205,16 +1205,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes (HK Connect)
 - Aux Input: Yes
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Power Bank: No
-- TWS: Yes
-- Weight: 4.5lbs / 2.06kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: Yes
+- Weight: 4.5lbs / 2.06kg
 - Reviews, Comparisons and Sound Samples
     - [Geri's Collection: Harman Kardon Onyx 7 vs Onyx 4](https://www.youtube.com/watch?v=ywy1X1hxU9s)
     - [OCM Reviews: Onyx Studio 4 Vs Onyx Studio 5  - Sound Quality Comparison - Bluetooth Speaker](https://www.youtube.com/watch?v=F5CoJB_xm2E)
@@ -1226,22 +1226,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #45 [Mifa WildCamping](https://www.amazon.com/MIFA-WildCamping-Portable-Bluetooth-Speakers/dp/B0BS2M4KFQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34be40864e9e3870c46ed8a1aa5ad84b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-WildCamping-Portable-Bluetooth-Speakers/dp/B0BS2M4KFQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=34be40864e9e3870c46ed8a1aa5ad84b&camp=1789&creative=9325)]: $135
 - Positives: Has a lantern with adjustable brightness and color temperature.
 - Negatives: Sound competes more with the Medium size speakers as the light takes up half the space. Peak at 5khz and dip at 3khz, not quite neutral. Not as deep of bass as others in the category.
-- Bass Extension (-10dB): 66hz
-- Battery Life: 38 hours
-- Max Volume: 97db
-- MicroSD: Yes
-- Party Mode: Yes (PartyAdd up to 100 speakers)
-- Power Bank: Yes
-- TWS: Yes
-- Weight: 3.3lbs / 1.5kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): 66hz
+- Battery Life: 38 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 97db
+- MicroSD: Yes
+- Party Mode: Yes (PartyAdd up to 100 speakers)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: Yes
+- Weight: 3.3lbs / 1.5kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Wild camping Lantern portable bluetooth speaker reviewed by an old geezer!](https://www.youtube.com/watch?v=ZxPfuAxgQfE)
 - Links
@@ -1251,9 +1251,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #46 [Treblab HD-360](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325)]: $110
 - Positives: 4 woofers and 4 tweeters for real 360 deg sound
 - Negatives: Upper bass boomy which takes away midrange detail and clarity.
-- Aux Input: Yes
-- Weight: 5.65lbs / 2.56kg
 - App: No
+- Aux Input: Yes
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -1263,6 +1262,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.65lbs / 2.56kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 Speaker Review 🔉 360° Sound, 90w, TWS, 20Hr 🔋 The Cadillac of Bluetooth Speakers?😲](https://www.youtube.com/watch?v=ORawKC23apY)
@@ -1273,21 +1273,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #47 [Rocksteady Stadium Speakers and Subwoofer](https://www.amazon.com/gp/aw/d/B08BDQ832V?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=3502ebcff2269ad1517217bdde0363af&hsa_cr_id=8993131410501&qid=1711075442&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&pd_rd_w=jgxBy&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=40K515X0BQ8B1DYGBKY3&pd_rd_wg=ZJUj4&pd_rd_r=87708ef6-b38d-4222-8f4d-4ed9e5b0985e&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5f567caa2f2cba8c696f55f5c7f8633d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/gp/aw/d/B08BDQ832V?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=3502ebcff2269ad1517217bdde0363af&hsa_cr_id=8993131410501&qid=1711075442&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&pd_rd_w=jgxBy&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=40K515X0BQ8B1DYGBKY3&pd_rd_wg=ZJUj4&pd_rd_r=87708ef6-b38d-4222-8f4d-4ed9e5b0985e&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5f567caa2f2cba8c696f55f5c7f8633d&language=en_US&ref_=as_li_ss_tl)]: $440
 - Negatives: 7khz upper mids peak. Upper bass boosted
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 16 hours
-- Max Volume: 104db
-- Weight: 9.0 lbs / 4.1kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 9.0 lbs / 4.1kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: I did not expect this!  2.1 shocker!](https://www.youtube.com/watch?v=WPkMk9H-9-4)
 - Links
@@ -1296,22 +1296,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #48 [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325)]: $100
 - Negatives: Not a very smooth frequency response. Treble is peaky. Boosted upper bass.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 18 hours
-- Max Volume: 104db
-- MicroSD: Yes
-- Power Bank: Yes
-- Weight: 6.0 lbs / 2.72kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 104db
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.0 lbs / 2.72kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 100 bluetooth party speaker - their best yet!](https://www.youtube.com/watch?v=sCaHSGO4_MY)
 - Links
@@ -1320,20 +1320,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #49 JBL Xtreme: $200
 - Negatives: Issues with bass distortion at high volumes. An older speaker outclassed by newer releases of the Xtreme. External AC power brick for charging.
+- App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
-- Max Volume: 96db
-- Party Mode: Yes (Connect)
-- TWS: No
-- Weight: 5.3 lbs / 2.4kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 96db
+- Party Mode: Yes (Connect)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: No
+- Weight: 5.3 lbs / 2.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XojJNqtq6xQ>
     - <https://www.youtube.com/watch?v=EKd1JM0DBkc>
@@ -1346,22 +1346,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #50 [Doss Soundbox XL](https://www.amazon.com/DOSS-SoundBox-XL-Technologies-Office-Gold/dp/B0CQ4HRF8R?dib=eyJ2IjoiMSJ9.DebfpktUDrr-3tgga79R-qnueR7MMNTfG-Jy9JVRRxu-SgnW0c0MXDxBlmayALujBOh-ppT-RJOUNcOprpfW2Ad8crSWycLKGGFPp6MUChXcvAWuXAnzAahSTC98rsnKCux_5xUG_dDWgaoN13KjYldEKK8y7qRHDI2yUJ9tTOEbiNGV7XDHyFiedDmki-2suvlyebCXew2isjycAM1aHTall80Y5UbPut_fBGdmkIo.G9_17o2bnMOD_2PHnkWiHDCEIYA77yG9zUqloQSolEs&dib_tag=se&keywords=doss%2Bsoundbox%2Bxl&qid=1769057163&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dc571c7819a4da49a2d1cadbad06e1c0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/DOSS-SoundBox-XL-Technologies-Office-Gold/dp/B0CQ4HRF8R?dib=eyJ2IjoiMSJ9.DebfpktUDrr-3tgga79R-qnueR7MMNTfG-Jy9JVRRxu-SgnW0c0MXDxBlmayALujBOh-ppT-RJOUNcOprpfW2Ad8crSWycLKGGFPp6MUChXcvAWuXAnzAahSTC98rsnKCux_5xUG_dDWgaoN13KjYldEKK8y7qRHDI2yUJ9tTOEbiNGV7XDHyFiedDmki-2suvlyebCXew2isjycAM1aHTall80Y5UbPut_fBGdmkIo.G9_17o2bnMOD_2PHnkWiHDCEIYA77yG9zUqloQSolEs&dib_tag=se&keywords=doss%2Bsoundbox%2Bxl&qid=1769057163&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dc571c7819a4da49a2d1cadbad06e1c0&language=en_US&ref_=as_li_ss_tl)]: $90
 - Negatives: A little hollow sounding.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
 - Battery Life: 10 hours
-- IP Rating: IPX4
-- Max Volume: 100db
-- MicroSD: Yes
-- Power Input: AC Power brick
-- Weight: 1.23lbs / 557g
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX4
+- Max Volume: 100db
+- MicroSD: Yes
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1.23lbs / 557g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Doss Soundbox xl vs Soundcore Motion boom and Plus - woopeeeee!!!!!!!!](https://www.youtube.com/watch?v=ZNob1QwXiqY)
     - <https://www.youtube.com/watch?v=TiVx4pPl1GE>
@@ -1375,17 +1375,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP67
 - Max Volume: 93db
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 5.4lbs / 2.5kg
-- Bluetooth Codecs: SBC
-- EQ: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Walts TV: The Austin NEW Klipsch Bluetooth Speaker Review + Sound Test](https://www.youtube.com/watch?v=lzMYAggcAmI)
     - [Audio Inside Scoop: Klipsch Detroit VS JBL Xtreme 3 Hear With Me!!](https://www.youtube.com/watch?v=0UCLAHrrZHs)
@@ -1397,20 +1397,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #52 [Sony SRS-XG300](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Hour-Battery-Retractable/dp/B0B44FK4XG/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f229998538b6baf793c38e0f8c6b180d&camp=1789&creative=9325)]: $198
 - Negatives: Overly expensive. Bass not as deep as competitors. Upper mids peak. Hollow sounding. Rolled off treble. Not much clarity. Does not float. Speaker will not remain at max volume and will turn itself down automatically.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 54hz
 - Battery Life: 25 hours
-- Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power Bank: Yes
-- Weight: 6.6lbs / 3kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Party Mode: Yes (Partyconnect up to 100 speakers)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.6lbs / 3kg
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: Who Sounds The Best Of Sony XG300, XB43 & JBL XTREME3 With Sound Sample BLIND CHALLENGE Reveal.](https://www.youtube.com/watch?v=4gxvC_KjNbk)
     - [Techder Audios: SONY XG300 VS SOUNDCORE MOTION BOOM](https://www.youtube.com/watch?v=QIdwUHaJVf4)
@@ -1423,21 +1423,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #53 Xdobo X8 Max: $73
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 15 hours
-- MicroSD: Yes
-- Power Bank: Yes
-- Weight: 6.3lbs / 2.86kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.3lbs / 2.86kg
 - Reviews, Comparisons and Sound Samples
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
@@ -1446,21 +1446,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #54 [Ultimate Ears Epicboom](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/EPICBOOM-Portable-Wireless-Bluetooth-Waterproof/dp/B0BPC7K89B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=dd7c6e634cb2595f332ed77269b4f06a&camp=1789&creative=9325)]: $300
 - Negatives: Not very deep bass for the size. Gets distorted at around 70-80% with bass thuds.
-- Bass Extension (-10dB): ~55hz
-- Battery Life: 17 hours
-- Max Volume: 94db
-- Weight: 4.3lbs / 1.97kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): ~55hz
+- Battery Life: 17 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 94db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 4.3lbs / 1.97kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
     - [Jay's Straight Up Reviews & More: $350 Ultimate Ears EpicBoom gets Epic Beat-Down 😮by $120 Soundcore Rave Neo 2. Bluetooth Speaker KO🤛](https://www.youtube.com/watch?v=Vyo6VlUOYf8)
@@ -1472,10 +1472,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #55 [Dali Katch G1/G2](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Katch-Portable-Bluetooth-Speaker-Chilly/dp/B07SPC9KF5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=457f935cf3afae85143a3667371180d2&camp=1789&creative=9325)]: $600
 - Positives: Pretty neutral
 - Negatives: Loses bass quickly after 40% volume. A lot of compression artifacts at high volume. Not really much of any difference between the G1 and G2. External AC power brick for charging. Horribly overpriced
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- Weight: 2.43lbs / 1.1kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -1485,6 +1484,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 2.43lbs / 1.1kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Dali Katch G2 high end audio takes on the entire world of bluetooth speakers! 👌👋](https://www.youtube.com/watch?v=C7-YUgWGt9Q)
     - [Alan Ross Reviews: Dali Katch G2 epic review vs Original Dali Katch audiophile speaker! 🤞](https://www.youtube.com/watch?v=th3EgJOQENw)
@@ -1496,22 +1496,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #56 [B&O Beosound Level](https://www.amazon.com/Bang-Olufsen-Beosound-Portable-Multiroom/dp/B09FY649CQ?hvadid=693602822109&hvpos=&hvnetw=g&hvrand=17694119370364938316&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1681213333156&mcid=2a0d0851780b35d88777a746b09b8668&gad_source=1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3a120cfe2ea46753d4c9298b01fe6fb0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Portable-Multiroom/dp/B09FY649CQ?hvadid=693602822109&hvpos=&hvnetw=g&hvrand=17694119370364938316&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1681213333156&mcid=2a0d0851780b35d88777a746b09b8668&gad_source=1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3a120cfe2ea46753d4c9298b01fe6fb0&language=en_US&ref_=as_li_ss_tl)]: $2000
 - Negatives: Not very deep bass, peaks in midrange. Hugely expensive.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 16 hours
-- Max Volume: 96db
-- Weight: 7.3lbs / 3.3kg
-- Wifi: Yes
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 96db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 7.3lbs / 3.3kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/shorts/SepQ-Ri35KM>
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
@@ -1521,11 +1521,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #57 Ultimate Ears Megablast: $240
 - Negatives: Bass is not very deep compared to the competition
-- Bass Extension (-10dB): 64hz
-- Battery Life: 16 hours
-- Weight: 2.4lbs / 1.1kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): 64hz
+- Battery Life: 16 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -1535,26 +1534,27 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 2.4lbs / 1.1kg
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Megablast/)
 
 ## #58 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl)]: $152
 - Positives: Use "vocal" mode for the flattest response, still not great.
 - Negatives: Huge treble peaks in most sound modes, sounds sizzling and harsh.
+- App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
-- IP Rating: IPX5
-- MicroSD: Yes
-- Power Input: USB-C
-- TWS: Yes
-- Weight: 3.41lbs / 1.55kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX5
+- MicroSD: Yes
 - Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: Yes
+- TWS: Yes
+- Weight: 3.41lbs / 1.55kg
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
     - [Mateusz Cholewa: BOGASING S8 Pro MAX HiFi ?🆚 MARSHALL🎸MIDDELTON](https://www.youtube.com/watch?v=-70aPJuPOqI)
@@ -1565,20 +1565,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #59 LG PN7: $150
 - Negatives: No deep bass
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- Max Volume: 106db
-- Weight: 4.71lbs / 2.14kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 106db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 4.71lbs / 2.14kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
 - Links
@@ -1591,17 +1591,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 60hz
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
+- IP Rating: IPX7
 - Max Volume: 106db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
-- Weight: 7.7lbs / 3.49kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- IP Rating: IPX7
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 7.7lbs / 3.49kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion Boom Plus or Soundcore Rave Neo (Trance Go) - best Soundcore speaker??](https://www.youtube.com/watch?v=VCr3ep2H_Ro)
     - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)
@@ -1612,22 +1612,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #61 [W-King D9](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Waterproof-Playtime-Portable/dp/B08KZJFC2F/ref=sr_1_3_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b9b7a5992a733b9f37c1d5b16703d93c&camp=1789&creative=9325)]: $72
 - Negatives: Very rolled off treble.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 40 hours
-- IP Rating: IPX6
-- Max Volume: 106db
-- MicroSD: Yes
-- Power Bank: Yes
-- TWS: No
-- Weight: 4.4lbs / 2.0kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX6
+- Max Volume: 106db
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: No
+- Weight: 4.4lbs / 2.0kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
     - [Alan Ross Reviews: W King D8 vs W-King D9 - budget boombox battle!](https://www.youtube.com/watch?v=sDLWQNloXgk)
@@ -1638,19 +1638,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #62 Orange Box: £275
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
+- App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
-- Power Input: AC Power brick
-- Weight: 6.62lbs / 3 kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.62lbs / 3 kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Orange Box](https://www.patreon.com/posts/orange-box-98897294)
 - Links
@@ -1659,20 +1659,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #63 Laney F67: $340
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
-- Bass Extension (-10dB): ~62hz
-- Battery Life: 20 hours
-- IP Rating: None
-- Weight: 6.1lbs / 2.8kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): ~62hz
+- Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.1lbs / 2.8kg
 - Reviews, Comparisons and Sound Samples
     - [PORTATIV: Laney F67 vs Marshall Kilburn 2 Ищем лучшую олдскульную колонку Обзор и ТЕСТ ЗВУКА](https://www.youtube.com/watch?v=JYhhBiyZzg4)
     - [wat caf’e วัฒน์คาเฟ่แฟรนไชส์กาแฟ: ลำโพง laney f67  marshall k2 fender indio](https://www.youtube.com/watch?v=w94Uc4SJwiw)
@@ -1682,20 +1682,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #64 [Treblab HD-Max](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD-Max-Bluetooth-Powerbank-Waterproof/dp/B08G55RRQN?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72f106cdffd1c27bedbe16099944e470&language=en_US&ref_=as_li_ss_tl)]: $135
 - Negatives: Boosted upper bass, not much lower bass. Only IPX6 water rating
-- Bass Extension: ~60hz
-- Battery Life: 20 hours
-- IP Rating: IPX6
-- Power Bank: Yes
-- Power Input: USB-C
-- Weight: 5.1lbs / 2.3kg
 - App: No
 - Aux Input: Yes
+- Bass Extension: ~60hz
+- Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX6
 - Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.1lbs / 2.3kg
 - Reviews, Comparisons and Sound Samples
     - [KosherTech: TREBLAB HD-Max In Depth Review - Unboxing & Sound Test](https://www.youtube.com/watch?v=eGbNZFEj8VM)
 - Links
@@ -1704,9 +1704,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #65 LG Xboom XG7: $120
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
-- Battery Life: 24 hours
 - App: No
 - Aux Input: Yes
+- Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -1724,20 +1724,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #66 LG Xboom Go PL7: $70
 - Negatives: 9khz peak. Not good sounding.
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- Max Volume: 95db
-- Weight: 3.2lbs / 1.45 kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 95db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 3.2lbs / 1.45 kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: LG Xboom Go PL7 vs Anker Soundcore Motion Plus -  bass sound test](https://www.youtube.com/watch?v=ZUJrVyWU8Xs)
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
@@ -1749,19 +1749,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #67 Bugani M83: $60
 - Positives: Very inexpensive.
 - Negatives: Not very deep bass, treble a little boosted
-- Battery Life: 40 hours
-- Power Bank: Yes
-- Weight: 5.06lbs / 2.3kg
 - App: No
 - Aux Input: Yes
+- Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.06lbs / 2.3kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 - Links
@@ -1769,17 +1769,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #68 Hopestar A6 Pro: $86
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
 - Battery Life: 4 hours
-- IP Rating: IPX6
-- MicroSD: Yes
-- Power Bank: Yes
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX6
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -1791,21 +1791,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #69 Soundcore Trance/Rave Mega
 - Negatives: Hugely recessed mids and treble
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
 - Battery Life: 18 hours
-- Max Volume: 97db
-- Power Bank: Yes
-- Weight: 7.72lbs / 3.5kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 97db
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 7.72lbs / 3.5kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Rave Neo vs Rave Mega - best party speaker 2021?](https://www.youtube.com/watch?v=ePD09iI6qkI)
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
@@ -1814,19 +1814,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #70 [Ortizan M8](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ortizan-80W-Bluetooth-Speaker-Waterproof/dp/B0CG9811L7?&linkCode=ll1&tag=rankingspea01-20&linkId=0af818a4554f5c0be7bfdf205651d772&language=en_US&ref_=as_li_ss_tl)]: $70
 - Negatives: Not much bass, bass distortion and rattle at high volume.
+- App: No
 - Aux Input: Yes
 - Battery Life: 18 hours
-- Power Bank: Yes
-- Weight: 4.63lbs / 2.1kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 4.63lbs / 2.1kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 - Links
@@ -1834,21 +1834,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #71 Doss Extreme Boom
 - Negatives: Rolled off treble, barely any bass
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 65hz
 - Battery Life: 30 hours
-- MicroSD: Yes
-- Power Bank: Yes
-- Weight: 5.57lbs / 2.52kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.57lbs / 2.52kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=se-REq7pJ3s>
 - Links
@@ -1857,20 +1857,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #72 [Zealot S67](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-ZEALOT-Technology-Waterproof/dp/B094D47D6F?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0457624c148fecb677fa289319ca110f&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39WWwR1)]: $80
 - Negatives: A lot of distortion above 50%, no deep bass, rolled off treble. Just not a good sounding speaker.
+- App: No
 - Aux Input: Yes
 - Battery Life: 20 hours
-- IP Rating: IPX6
-- MicroSD: Yes
-- Weight: 5.29lbs / 2.4kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX6
+- MicroSD: Yes
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.29lbs / 2.4kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ZEALOT S-67 🦨 75w Bluetooth Speaker Review🤦🏼‍♂️  & Comparison With W-King X10.](https://www.youtube.com/watch?v=qFEtEaSZnqc)
     - [Jay's Straight Up Reviews & More: On a Ledge 🪟 Zealot S67 🆚 Soundcore Select Pro - Bluetooth Speaker Comparison](https://www.youtube.com/watch?v=76ysec3eNto)
@@ -1881,7 +1881,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #73 T&G 118: $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
-- Weight: 2.42lbs / 1.1kg
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
@@ -1893,6 +1892,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 2.42lbs / 1.1kg
 - Reviews, Comparisons and Sound Samples
     - [Taylor Soloai: TG 118 vs JBL Xtreme Speaker (2023)](https://www.youtube.com/watch?v=rE6oDyPAdwU)
 - Links

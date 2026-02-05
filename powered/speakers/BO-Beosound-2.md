@@ -9,24 +9,24 @@ The B&O Beosound 2 ranks [#11 out of 13 total Medium Size Powered Desktop Speake
 
 ## #11 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
+- App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
 - Battery Life: No battery
-- Max Volume: 94db
-- Party Mode: Yes
-- Power Input: AC Power cord
-- TWS: Yes
-- Weight: 9lbs / 4.1kg
-- App: Yes
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11.8" x 11.8" (300 x 300mm)
 - EQ: Yes (via app)
 - Frequency Response: 37Hz - 22kHz
 - Inputs: Bluetooth, Aux, Optical, Chromecast
+- Max Volume: 94db
+- Party Mode: Yes
 - Power: 200W
+- Power Input: AC Power cord
 - Stereo: 360-degree
+- TWS: Yes
 - Voice Control: Yes (Google Assistant)
+- Weight: 9lbs / 4.1kg
 - Wifi: Yes
 - Woofer: 1x 5.5" + passive radiator
 - Woofer Cabinet: Sealed with passive radiator

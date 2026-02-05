@@ -16,6 +16,7 @@ The Minirig Mini ranks [#3 out of 41 total Small Size Portable Bluetooth Speaker
 - Bass Extension (-10dB): 58hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: aptX, SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 92db
@@ -25,7 +26,6 @@ The Minirig Mini ranks [#3 out of 41 total Small Size Portable Bluetooth Speaker
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 0.69lbs / 314g
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)

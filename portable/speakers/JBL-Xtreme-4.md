@@ -13,18 +13,18 @@ The JBL Xtreme 4 ranks [#35 out of 73 total Large Size Portable Bluetooth Speake
 - App: Yes
 - Aux Input: No
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 220ms
+- Built in Microphone: Yes
 - EQ: Yes (5 band)
 - IP Rating: IP67
-- Bluetooth Latency: 220ms
 - Max Volume: 106db
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 4.63lbs / 2.1kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)

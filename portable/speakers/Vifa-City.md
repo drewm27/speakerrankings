@@ -11,19 +11,19 @@ The Vifa City ranks [#8 out of 41 total Small Size Portable Bluetooth Speakers](
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 73hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX4
+- Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 0.66lbs / 300g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links

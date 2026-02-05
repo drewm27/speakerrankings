@@ -15,10 +15,10 @@ The Soundcore Boost “upgraded” 2021 ranks [#4 out of 130 total Medium Size P
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 150ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 150ms
 - Max Volume: 99db
 - Party Mode: No
 - Power Bank: Yes

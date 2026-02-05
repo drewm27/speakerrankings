@@ -9,15 +9,15 @@ The Presonus Eris E5 XT ranks [#12 out of 24 total Medium Size Powered Bookshelf
 
 ## #12 [Presonus Eris E5 XT](https://www.amazon.com/PreSonus-Eris-E7-XT-Waveguide/dp/B084Z8X1TK?crid=MR6LQWURU4U4&dib=eyJ2IjoiMSJ9.6Qpx47E1l2NrQlk50TvDcJqQaeg506BtoPH2ilfcOQwV5grdBgJq93Om8t8llWYx-qkp_vb4bMjySqc48Oo6vagdsqtv0VhM7NgkDu_9Y8JaaJb51gYX2VPJTUabz26LCw7Iei0j_M_FRi2vSWbBKJGGm7wRykvsbTJLXKpF9MTkRfunYiGqmWHOjJgjTrmSBSFinhbYg0uTW2O6MYcQhFIDqcAiPGdRff-X9MBIJxtGnmoBGHh6cd1FM09v9AEh.dPRCRzMNmG_JbgWRUvFC5OUAfCEM8H5fKV5mp3o_9do&dib_tag=se&keywords=presonus%2Be5%2Bxt&qid=1718680644&sprefix=presonus%2Be5%2Bx%2Caps%2C179&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8d932d2de79bc2e1acc1695f392761cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/PreSonus-Eris-E7-XT-Waveguide/dp/B084Z8X1TK?crid=MR6LQWURU4U4&dib=eyJ2IjoiMSJ9.6Qpx47E1l2NrQlk50TvDcJqQaeg506BtoPH2ilfcOQwV5grdBgJq93Om8t8llWYx-qkp_vb4bMjySqc48Oo6vagdsqtv0VhM7NgkDu_9Y8JaaJb51gYX2VPJTUabz26LCw7Iei0j_M_FRi2vSWbBKJGGm7wRykvsbTJLXKpF9MTkRfunYiGqmWHOjJgjTrmSBSFinhbYg0uTW2O6MYcQhFIDqcAiPGdRff-X9MBIJxtGnmoBGHh6cd1FM09v9AEh.dPRCRzMNmG_JbgWRUvFC5OUAfCEM8H5fKV5mp3o_9do&dib_tag=se&keywords=presonus%2Be5%2Bxt&qid=1718680644&sprefix=presonus%2Be5%2Bx%2Caps%2C179&sr=8-2&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8d932d2de79bc2e1acc1695f392761cb&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Presonus+Eris+E5+XT)]: $300 a pair
 - Negatives: More HiFi sounding than a studio monitor. Not as good as the E5. Very close to the Rokit 5, but these sound slightly colored.
+- App: No
+- Bluetooth: No
 - Dimensions: 10.2"H x 7.0"W x 7.7"D
+- EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz
 - Inputs: TRS, XLR, RCA
 - Watts: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Woofer: 5"
-- App: No
-- Bluetooth: No
-- EQ: Yes (Room adjustment)
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
     - [DSAUDIO.review: Bright and brighter. PreSonus E5 XT takes on Adam Audio T5V SOUND & FREQUENCY RESPONSE COMPARISON](https://www.youtube.com/watch?v=E31EQd_EJKc)

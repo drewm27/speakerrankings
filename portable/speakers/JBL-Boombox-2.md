@@ -9,27 +9,27 @@ The JBL Boombox 2 ranks [#28 out of 68 total Boombox Size Portable Bluetooth Spe
 
 ## #28 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325)]: $350
 - Negatives: Somewhat bass heavy and boomy.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 33ms
 - Bass Extension (-10dB): 46hz
 - Battery Life: 24 hours
-- IP Rating: IPX7
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 140ms
+- Built in Microphone: No
+- EQ: No
+- FM Tuner: No
+- IP Rating: IPX7
 - Max Volume: 108db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
-- Weight: 13lbs / 5.9kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 13lbs / 5.9kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)

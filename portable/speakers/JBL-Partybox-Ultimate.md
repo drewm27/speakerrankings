@@ -14,19 +14,19 @@ The JBL Partybox Ultimate ranks [#1 out of 9 total Large Party Size Portable Blu
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 87lbs / 39kg
 - Wifi: Yes
-- Built in Microphone: No
-- Party Mode: Yes
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)

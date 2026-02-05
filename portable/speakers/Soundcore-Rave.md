@@ -9,20 +9,20 @@ The Soundcore Rave ranks [#38 out of 43 total Party Size Portable Bluetooth Spea
 
 ## #38 Soundcore Rave: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 21.6lbs / 9.8kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Party Mode: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 21.6lbs / 9.8kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)

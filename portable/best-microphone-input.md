@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the best microphone-input speakers — expert-reviewed picks for crystal-clear sound, recording, streaming & more with built-in input options."
 ---
 
-This page summarizes the best portable Bluetooth speakers with microphone input of the 364 ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with microphone input of the 364 ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See this for [Speakers with Wireless Microphones](/portable/best-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/portable/best-microphone/)
 
@@ -36,9 +36,9 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
+- USB Playback: No
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
-- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
@@ -57,6 +57,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -65,11 +66,10 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 68.3lbs / 31kg
-- Built in Microphone: No
-- Stereo: Yes
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
@@ -143,6 +143,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - Guitar Input: Yes
@@ -157,7 +158,6 @@ The next best battery powered speakers for this use will be the [party size](/po
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links
@@ -167,25 +167,25 @@ The next best battery powered speakers for this use will be the [party size](/po
 ### And with a longer battery, the [**Tribit Stormbox Blast 2**](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC, AAC
+- Built in Microphone: No
+- EQ: Yes (10 band)
+- FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110db
+- MicroSD: No
 - Microphone Input: Yes (2x 6.35mm)
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power Cable or 10w USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 19.2 lbs / 8.7kg
-- Bluetooth Codecs: SBC, AAC
-- Built in Microphone: No
-- App: No
-- EQ: Yes (10 band)
-- Party Mode: No
 - USB Playback: No
-- FM Tuner: No
-- MicroSD: No
+- Weight: 19.2 lbs / 8.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)

@@ -9,29 +9,29 @@ The Marshall Woburn II ranks [#5 out of 13 total Medium Size Powered Desktop Spe
 
 ## #5 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325)]: $430
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
+- App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
 - Battery Life: No battery
 - Bluetooth Codecs: AptX, SBC
-- Inputs: Bluetooth, HDMI, RCA, Aux
-- Power Input: AC Power cord
-- Tweeter: 2x 1"
-- Weight: 18.9lbs / 8.57kg
-- Wifi: No
-- Woofer: 2x 5.25"
-- App: Yes
 - Bluetooth Version: 5.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 30Hz - 20kHz
 - IP Rating: None
+- Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 110dB
 - Midrange: Integrated in woofers
 - Party Mode: No
 - Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
+- Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
+- Tweeter: 2x 1"
 - Voice Control: Yes (via app)
+- Weight: 18.9lbs / 8.57kg
+- Wifi: No
+- Woofer: 2x 5.25"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)

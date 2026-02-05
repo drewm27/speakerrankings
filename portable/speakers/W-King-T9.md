@@ -9,22 +9,22 @@ The W-King T9 ranks [#36 out of 73 total Large Size Portable Bluetooth Speakers]
 
 ## #36 [W-King T9](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3xpFLqb)]: $130
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
-- IP Rating: None
-- Max Volume: 106db
-- MicroSD: Yes
-- Power Bank: Yes
-- TWS: Yes
-- Weight: 10.1lbs / 4.6kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
+- Max Volume: 106db
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: Yes
+- Weight: 10.1lbs / 4.6kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
     - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)

@@ -15,10 +15,10 @@ The Soundcore Motion 300 ranks [#2 out of 130 total Medium Size Portable Bluetoo
 - Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes

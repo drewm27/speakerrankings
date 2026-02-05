@@ -14,6 +14,8 @@ The Monster Bluetooth Speaker ranks [#26 out of 41 total Small Size Portable Blu
 - Aux Input: Yes
 - Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -23,8 +25,6 @@ The Monster Bluetooth Speaker ranks [#26 out of 41 total Small Size Portable Blu
 - Stereo: No
 - TWS: Yes
 - Weight: 0.4lbs / 185g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 
 
 As an Amazon Associate I earn from qualifying purchases.

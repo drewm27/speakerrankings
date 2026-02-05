@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Discover the best inexpensive portable Bluetooth speakers. Expert-ranked value picks with great sound and budget-friendly performance."
 ---
 
-This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 364 ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding inexpensive portable Bluetooth speakers of the 364 ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards value speakers with a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
@@ -19,6 +19,8 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: No
 - Bass Extension (-10dB): 68hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that)
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX8
 - Party Mode: No
@@ -27,8 +29,6 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: No
 - TWS: Yes
 - Weight: 0.55lbs / 248g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
     - [Electric Chris Chris Vanderstock: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
@@ -48,10 +48,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -100,17 +100,17 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: 3 EQ presets
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: No
 - Weight: 7.36lbs / 3.3kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Zealot S97 - Soundtest "MINI BOOMBOX ALMOST PERFECT?!"](https://www.youtube.com/watch?v=4eyFZeBFwpg)
     - [Jay's Straight Up Reviews & More: Zealot S97 mid-size Boombox 📦 Unboxing, Review & Demo. 😵Will I Finally Like A Zealot Speaker?](https://www.youtube.com/watch?v=jaLS0I0jjVQ)
@@ -130,19 +130,19 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
+- FM Tuner: No
 - IP Rating: IP67
-- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
-- TWS: Yes
-- Weight: 9.2lbs / 4.18kg
 - Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- FM Tuner: No
+- Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
@@ -194,18 +194,18 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Codecs: SBC
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 11.27lbs / 5.11kg
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 11.27lbs / 5.11kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S95!!!](https://www.youtube.com/watch?v=T3QHnVPsd90)
     - [Jagist reviews: Zealot S95 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=7QDLOCQhGes)
@@ -221,8 +221,11 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 ### The best inexpensive [party size](/portable/party/) battery powered speaker is the [**Onn Large Party gen 2**](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $130
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
+- App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- EQ: No
 - FM Tuner: Yes
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -231,12 +234,9 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
-- Weight: 20.9lbs / 9.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - TWS: No
 - USB Playback: No
+- Weight: 20.9lbs / 9.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker 2 🎶 (Gen 2.0) First Look and Light Demo](https://www.youtube.com/watch?v=AK_xTAIqejY)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)

@@ -13,17 +13,17 @@ The Teufel Boomster 2021 ranks [#31 out of 68 total Boombox Size Portable Blueto
 - App: No
 - Aux Input: Yes
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
 - FM Tuner: Yes
-- Stereo: Yes
-- TWS: Yes
-- Weight: 8.3lbs / 3.75kg
-- Bluetooth Codecs: SBC
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 8.3lbs / 3.75kg
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
     - [Mateusz Cholewa: Tribit  Stormbox  Blast Audio Test vs Teufel  Boomster 2021](https://www.youtube.com/watch?v=o9iTI-5hOGI)

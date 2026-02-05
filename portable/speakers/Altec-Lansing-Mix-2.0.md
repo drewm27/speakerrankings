@@ -9,19 +9,19 @@ The Altec Lansing Mix 2.0 ranks [#60 out of 68 total Boombox Size Portable Bluet
 
 ## #60 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325)]: $190
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
+- App: Yes (House Party app)
 - Aux Input: Yes
 - Battery Life: 20 hours
-- Stereo: Yes
 - Bluetooth Codecs: SBC
-- App: Yes (House Party app)
+- Built in Microphone: No
 - EQ: Yes (App EQ)
-- TWS: Yes
+- FM Tuner: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
     - [Jagist reviews: Jbl Extreme 3 vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=a-VmNf5kgEA)

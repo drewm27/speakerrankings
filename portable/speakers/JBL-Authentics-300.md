@@ -10,23 +10,23 @@ The JBL Authentics 300 ranks [#29 out of 68 total Boombox Size Portable Bluetoot
 ## #29 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325)]: $330
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 45hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 100db
+- MicroSD: No
 - Party Mode: Yes (JBL One)
+- Power Bank: No
 - Power Input: AC Power cable
 - Stereo: Partially (1 woofer)
 - TWS: Yes
+- USB Playback: Yes
 - Weight: 10.8lbs / 4.9kg
 - Wifi: Yes
-- Bluetooth Codecs: SBC
-- Power Bank: No
-- USB Playback: Yes
-- Built in Microphone: Yes
-- MicroSD: No
-- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Authentics 300 - sound quality test](https://www.youtube.com/watch?v=pBgizWYcEx8)
     - [Oluv: JBL Authentics 300 - update](https://www.patreon.com/posts/jbl-authentics-125828125)

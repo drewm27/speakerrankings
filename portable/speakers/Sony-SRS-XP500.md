@@ -16,15 +16,15 @@ The Sony SRS-XP500 ranks [#12 out of 43 total Party Size Portable Bluetooth Spea
 - Bluetooth Codecs: LDAC, AAC, SBC
 - EQ: Yes
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
+- TWS: No
 - USB Playback: Yes
 - Weight: 24.7lbs / 11.2kg
-- TWS: No
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: 🥰🙄SONY SRS XP500 vs JBL Partybox 100 Sound battle with sound sample love and hate this](https://www.youtube.com/watch?v=K9qr4EoEqpQ)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)

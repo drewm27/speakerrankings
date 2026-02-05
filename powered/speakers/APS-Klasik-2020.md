@@ -10,16 +10,16 @@ The APS Klasik 2020 ranks [#8 out of 22 total Large Size Powered Bookshelf Speak
 ## #8 [APS Klasik 2020](https://www.aps-company.com/klasik-2020-en/) [[Aps-company](https://www.aps-company.com/klasik-2020-en/)] [[Used Listings](https://www.hifizero.com/index.php?q=APS+Klasik+2020)]: $900 a pair
 - Positives: Very neutral. Almost indistinguishable from the HS8 but with deeper bass
 - Negatives: Difficult to find for sale online, no dealers in the United States.
+- App: No
+- Bluetooth: No
+- DSP: No
 - Dimensions: 14.2"H x 8.3"W x 12.6"D
+- EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-3dB)
 - Inputs: XLR, RCA
 - Watts: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each
 - Woofer: 7"
-- App: No
-- Bluetooth: No
-- EQ: Yes (Room adjustment)
-- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)

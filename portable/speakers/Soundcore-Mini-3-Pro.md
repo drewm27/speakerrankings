@@ -11,6 +11,7 @@ The Soundcore Mini 3 Pro ranks [#6 out of 41 total Small Size Portable Bluetooth
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
@@ -24,7 +25,6 @@ The Soundcore Mini 3 Pro ranks [#6 out of 41 total Small Size Portable Bluetooth
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
-- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links

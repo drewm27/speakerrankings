@@ -9,18 +9,18 @@ The Diamondboxx L2 ranks [#30 out of 43 total Party Size Portable Bluetooth Spea
 
 ## #30 Diamondboxx L2: $1000
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
-- Aux Input: Yes
-- IP Rating: None
-- Power Input: AC Power brick
-- Weight: 25lbs / 11kg
-- Bluetooth Codecs: SBC
 - App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power brick
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
+- Weight: 25lbs / 11kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
     - <https://www.youtube.com/watch?v=epgx0THKpL8>

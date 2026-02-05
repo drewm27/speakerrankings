@@ -10,9 +10,8 @@ The Treblab HD-360 ranks [#46 out of 73 total Large Size Portable Bluetooth Spea
 ## #46 [Treblab HD-360](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TREBLAB-HD-360-Portable-Bluetooth-Waterproof/dp/B0C4M8CY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f1ad6b231a2971ebd6487599ac3c2d03&camp=1789&creative=9325)]: $110
 - Positives: 4 woofers and 4 tweeters for real 360 deg sound
 - Negatives: Upper bass boomy which takes away midrange detail and clarity.
-- Aux Input: Yes
-- Weight: 5.65lbs / 2.56kg
 - App: No
+- Aux Input: Yes
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -22,6 +21,7 @@ The Treblab HD-360 ranks [#46 out of 73 total Large Size Portable Bluetooth Spea
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.65lbs / 2.56kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 (360° Sound) vs Soundcore Motion X600 (Spatial Sound)😮‍💨 Cornered in Basement Kitchen](https://www.youtube.com/watch?v=jwyPReDpp88)
     - [Jay's Straight Up Reviews & More: TREBLAB HD-360 Speaker Review 🔉 360° Sound, 90w, TWS, 20Hr 🔋 The Cadillac of Bluetooth Speakers?😲](https://www.youtube.com/watch?v=ORawKC23apY)

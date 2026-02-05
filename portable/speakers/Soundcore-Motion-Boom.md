@@ -14,9 +14,11 @@ The Soundcore Motion Boom ranks [#12 out of 73 total Large Size Portable Bluetoo
 - Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 170ms
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 170ms
 - Max Volume: 106db
 - Party Mode: No
 - Power Bank: Yes
@@ -24,8 +26,6 @@ The Soundcore Motion Boom ranks [#12 out of 73 total Large Size Portable Bluetoo
 - Stereo: Yes
 - TWS: Yes
 - Weight: 3.4lbs / 1.5kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This is shocking! They broke the world pound for pound champ! 😢](https://www.youtube.com/watch?v=pZsFBGxUwwo)
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)

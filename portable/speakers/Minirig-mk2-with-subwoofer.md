@@ -14,16 +14,16 @@ The Minirig mk2 with subwoofer ranks [#5 out of 73 total Large Size Portable Blu
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: Splash resistant
+- Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 3.0lbs / 1.36kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
 - Links

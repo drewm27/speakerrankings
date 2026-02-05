@@ -9,16 +9,16 @@ The Audioengine HD4 ranks [#24 out of 24 total Medium Size Powered Bookshelf Spe
 
 ## #24 [Audioengine HD4](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ) [[Amazon](https://lvnta.com/lv_U5N0758EPIxy5ZiKfJ)] [[Used Listings](https://www.hifizero.com/index.php?q=Audioengine+HD4)]: $400 a pair
 - Negatives: Not a great sounding speaker for the high price.
+- App: No
+- Bluetooth: No
 - Dimensions: 9"H x 5.5"W x 6.5"D
+- EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Inputs: Bluetooth, Aux, RCA Input
 - Outputs: RCA Output
 - Watts: 50w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
 - Woofer: 4"
-- App: No
-- Bluetooth: No
-- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)

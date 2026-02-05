@@ -9,11 +9,10 @@ The Ultimate Ears Megablast ranks [#57 out of 73 total Large Size Portable Bluet
 
 ## #57 Ultimate Ears Megablast: $240
 - Negatives: Bass is not very deep compared to the competition
-- Bass Extension (-10dB): 64hz
-- Battery Life: 16 hours
-- Weight: 2.4lbs / 1.1kg
 - App: No
 - Aux Input: Yes
+- Bass Extension (-10dB): 64hz
+- Battery Life: 16 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -23,6 +22,7 @@ The Ultimate Ears Megablast ranks [#57 out of 73 total Large Size Portable Bluet
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 2.4lbs / 1.1kg
 
 
 As an Amazon Associate I earn from qualifying purchases.

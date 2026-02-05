@@ -13,19 +13,19 @@ The Soundcore Rave 3/3s ranks [#14 out of 43 total Party Size Portable Bluetooth
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
+- TWS: No
+- USB Playback: No
 - Weight: 21.6lbs / 9.8kg
 - Wireless Microphones: Yes 2 included
-- Bluetooth Codecs: SBC
-- TWS: No
-- Power Bank: No
-- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: Soundcore Rave 3 160W 🧐🆚 JBL Encore Partybox](https://www.youtube.com/watch?v=33x_e9OLDMw)
     - [Dominik Reviews: Soundcore Rave 3 vs JBL Partybox Encore - Quick Sound Test! 🤗](https://www.youtube.com/watch?v=zjXx2ob3-fI)

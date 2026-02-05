@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore our top-rated boombox‑size Bluetooth speakers. Powerful picks with booming bass, long battery life, and bold sound for on-the-go or home use."
 ---
 
-This page ranks 68 boombox size powered Bluetooth speakers. Last updated on 02/04/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+This page ranks 68 boombox size powered Bluetooth speakers. Last updated on 02/05/2026. The boombox size powered Bluetooth speaker size is a good size class of reasonably deep bass, compact size and reasonable weight. A truly portable party speaker that doesn't take up a huge amount of room. Most of these will fit in a big backpack. The best ones here are quite loud and have no problem shaking walls and floors at around 50% volume. The best here will have bass extension similar to a 8” woofer tower speaker. The only thing you're getting by stepping up to the Party size is more volume and very deep bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -27,19 +27,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
+- FM Tuner: No
 - IP Rating: IP67
-- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
-- TWS: Yes
-- Weight: 9.2lbs / 4.18kg
 - Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- FM Tuner: No
+- Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
@@ -93,21 +93,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 66ms
 - Built in Microphone: No
 - EQ: Yes (10 band)
+- FM Tuner: No
 - IP Rating: IPX7
-- Bluetooth Latency: 66ms
 - Max Volume: 108db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
-- Weight: 11.6lbs / 5.3kg
 - USB Playback: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 11.6lbs / 5.3kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
@@ -156,19 +156,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC, AAC
+- Bluetooth Latency: 120ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Bluetooth Latency: 120ms
 - Max Volume: 103db
+- Party Mode: No
+- Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
-- Weight: 10.4lbs / 4.7kg
-- Bluetooth Codecs: SBC, AAC
-- Power Bank: Yes
-- Party Mode: No
 - USB Playback: No
+- Weight: 10.4lbs / 4.7kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
@@ -188,6 +188,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - IP Rating: IPX4
@@ -200,7 +201,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: Yes 2 Included
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)
@@ -220,6 +220,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - Guitar Input: Yes
@@ -234,7 +235,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links
@@ -250,10 +250,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 38hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 100ms
 - Built in Microphone: No
 - EQ: Yes (3 band)
 - IP Rating: IPX4
-- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: No
 - Power Bank: Yes
@@ -288,10 +288,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 38hz
 - Battery Life: 6 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 100ms
 - Built in Microphone: No
 - EQ: Yes (3 band)
 - IP Rating: IPX4
-- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: No
 - Power Bank: Yes
@@ -318,16 +318,16 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (5-band graphic EQ + 4 presets)
+- FM Tuner: No
 - IP Rating: None
+- Microphone Input: Yes (with adapter)
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: AC Power cable
 - Stereo: Yes
 - TWS: Yes
-- Weight: 15.3lbs / 6.9kg
-- Power Bank: Yes
 - USB Playback: No
-- FM Tuner: No
-- Microphone Input: Yes (with adapter)
+- Weight: 15.3lbs / 6.9kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - <https://www.youtube.com/watch?v=1gD1spoV-g0>
@@ -344,17 +344,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 46hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: aptX HD
 - Built in Microphone: No
+- EQ: No
 - IP Rating: None
+- Party Mode: No
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: No
-- Weight: 10.25lbs / 4.65kg
-- Bluetooth Codecs: aptX HD
-- EQ: No
-- Party Mode: No
-- Power Bank: No
 - USB Playback: No
+- Weight: 10.25lbs / 4.65kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: VIFA Copenhagen 2.0 - premium wireless speaker](https://www.youtube.com/watch?v=PXtV5pPeEdo)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
@@ -368,24 +368,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #10 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325)]: $155
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others. No water rating.
+- App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 42ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
-- Built in Microphone: Yes
-- IP Rating: None
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 175ms
+- Built in Microphone: Yes
+- EQ: Yes (App EQ)
+- IP Rating: None
 - Max Volume: 96db
+- Party Mode: No
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes
-- Weight: 7.76lbs / 3.52kg
-- App: Yes (Harman Kardon One app)
-- Bluetooth Codecs: SBC
-- Power Bank: No
-- EQ: Yes (App EQ)
-- Party Mode: No
 - USB Playback: No
+- Weight: 7.76lbs / 3.52kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
     - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)
@@ -398,23 +398,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #11 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325)]: $130
 - Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
 - Negatives: 8 hour battery at medium volume. Not at loud as others.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 37hz
 - Battery Life: 8 hours
-- Built in Microphone: Yes
-- IP Rating: IPX7
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Max Volume: 96db
 - Party Mode: (Dual Sound up to 2 speakers)
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
-- Weight: 6.5lbs / 2.9kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Power Bank: No
 - USB Playback: No
+- Weight: 6.5lbs / 2.9kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
@@ -429,21 +429,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #12 Harman Kardon Citation 200: $130
 - Positives: Deeper bass than any Onyx.
 - Negatives: Overly boomy by default, you can short press the Bluetooth and volume down buttons simultaneously to decrease the bass, and the Bluetooth and volume up buttons simultaneously to increase it
+- App: Yes (Harman Kardon app)
 - Aux Input: No
 - Battery Life: 8 hours
-- IP Rating: IPX4
-- Stereo: Partially (1 woofer)
-- Weight: 6.3lbs / 2.85kg
-- Wifi: Yes
 - Bluetooth Codecs: SBC
-- App: Yes (Harman Kardon app)
+- Built in Microphone: Yes
 - EQ: No
-- TWS: No
+- IP Rating: IPX4
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: Yes
 - Power Input: USB-C
+- Stereo: Partially (1 woofer)
+- TWS: No
+- USB Playback: No
+- Weight: 6.3lbs / 2.85kg
+- Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [Ezekielo: Citation 200 vs Beolit 20 with Sound Comparison!](https://www.youtube.com/watch?v=8Ts5BVWHYDE)
     - [KULAS TECH SHOW: Harman Kardon Citation 200 vs JBL Xtreme3 Sound  & Bass test](https://www.youtube.com/watch?v=sLsvo5urFaw)
@@ -456,24 +456,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #13 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl)]: $134
 - Positives: Warm sound with boosted bass.
 - Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others. No water rating.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 37hz
 - Battery Life: 8 hours
-- Built in Microphone: Yes
-- IP Rating: None
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 266ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: None
 - Max Volume: 96db
 - Party Mode: (Dual Sound up to 2 speakers)
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: No
-- Weight: 6.5lbs / 2.9kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Power Bank: No
 - USB Playback: No
+- Weight: 6.5lbs / 2.9kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
@@ -491,20 +491,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Latency: SBC
 - Max Volume: 116db
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 20.4lbs / 9.27kg
-- Bluetooth Codecs: SBC
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 20.4lbs / 9.27kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
     - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
@@ -521,18 +521,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Codecs: SBC
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 16lbs / 7.3kg
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 16lbs / 7.3kg
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: Zealot S89 vs JBL Boombox 4 - JBL Alternative? Sound Test ](https://www.youtube.com/watch?v=ft96mq3SKgY)
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S89!!!](https://www.youtube.com/watch?v=4wfkO78OKvk)
@@ -548,23 +548,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Bass Extension (-10dB): 41hz
 - Battery Life: 28 hours
-- EQ: No
-- IP Rating: IP68
+- Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
+- Built in Microphone: No
+- EQ: No
+- FM Tuner: No
+- IP Rating: IP68
 - Max Volume: 115db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: Yes (Auracast)
+- Power Bank: Yes
 - Power Input: AC Power Cord
 - Stereo: Yes
-- Weight: 13.0lbs / 5.98kg
-- Bluetooth Codecs: SBC, LC3, AAC
-- Built in Microphone: No
-- Power Bank: Yes
 - TWS: Yes
 - USB Audio: Yes
 - USB Playback: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 13.0lbs / 5.98kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Boombox 3 - old one sounding better? 🤔](https://www.youtube.com/watch?v=Sbqb85lSqVc)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
@@ -585,22 +585,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #17 Harman Kardon Go + Play 2: $350
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others. No water rating.
+- App: No
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 40hz
 - Battery Life: 8 hours
-- IP Rating: None
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: None
 - Max Volume: 99db
 - Party Mode: Yes (up to 2 speakers)
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - TWS: No
-- Power Bank: No
 - USB Playback: No
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)
@@ -615,20 +615,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #18 Harman Kardon Onyx Studio 5
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
+- App: No
 - Aux Input: Yes
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: IPX7
 - Party Mode: (Dual Sound up to 2 speakers)
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
-- Weight: 6.6lbs / 3kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Power Bank: No
 - USB Playback: No
-- Built in Microphone: Yes
+- Weight: 6.6lbs / 3kg
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: Harman / Kardon Onyx Studio 5 vs Onyx Studio 7 - Close battle🔥🔥](https://www.youtube.com/watch?v=L6NwcX8Gy1Q)
     - <https://www.youtube.com/watch?v=y6cpTfrxr3sg>
@@ -640,9 +640,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #19 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
 - Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
 - Negatives: Bass boosted. Dip at 160hz
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - IP Rating: IP67
 - Max Volume: 111db
 - Party Mode: No
@@ -650,13 +654,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: AC Power cable
 - Stereo: Yes
 - TWS: Yes
+- USB Playback: No
 - Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- USB Playback: No
-- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: JBL Partybox Encore 2 vs JBL Boombox 3 WiFi - Sound Test - Wide vs Narrow Soundstage!](https://www.youtube.com/watch?v=J-dsO2KOSzY)
     - [Mateusz Cholewa: JBL Encore 2 Partybox Deep Bass 🆚 Jbl Boombox 3 WiFi 🎶](https://www.youtube.com/watch?v=srLPSYOcTGw)
@@ -669,27 +669,27 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #20 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325)]: $500
 - Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 25ms
 - Bass Extension (-10dB): 43hz
 - Battery Life: 24 hours
-- IP Rating: IP67
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
+- Built in Microphone: No
+- EQ: No
+- FM Tuner: No
+- IP Rating: IP67
 - Max Volume: 110db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power Bank: Yes
 - Power Input: AC Power cable
 - Stereo: Yes
 - TWS: Yes
-- Weight: 14.lbs / 6.7kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Power Bank: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 14.lbs / 6.7kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
@@ -717,25 +717,25 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #21 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC, AAC
+- Built in Microphone: No
+- EQ: Yes (10 band)
+- FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110db
+- MicroSD: No
 - Microphone Input: Yes (2x 6.35mm)
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power Cable or 10w USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 19.2 lbs / 8.7kg
-- Bluetooth Codecs: SBC, AAC
-- Built in Microphone: No
-- App: No
-- EQ: Yes (10 band)
-- Party Mode: No
 - USB Playback: No
-- FM Tuner: No
-- MicroSD: No
+- Weight: 19.2 lbs / 8.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
@@ -753,20 +753,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #22 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
 - Negatives: overpriced for what it is. Not the greatest frequency response.
+- App: Yes (LG Xboom app)
 - Bass Extension (-10dB): 43hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: AAC, SBC
+- Built in Microphone: No
+- EQ: Yes (App EQ)
 - IP Rating: IPX4
 - Party Mode: Yes (Auracast)
-- Stereo: Partially (1 woofer)
-- Weight: 13.6lbs / 6.2kg
-- App: Yes (LG Xboom app)
-- EQ: Yes (App EQ)
-- TWS: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Partially (1 woofer)
+- TWS: No
+- USB Playback: No
+- Weight: 13.6lbs / 6.2kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: LG xboom Stage 301 Vs Zealot S95!!!](https://www.youtube.com/watch?v=LGpXEteV6-I)
     - [Jagist reviews: LG xboom Stage 301 Vs W-king X20!!!](https://www.youtube.com/watch?v=PXBP55Iupfg)
@@ -783,18 +783,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Codecs: SBC
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 11.27lbs / 5.11kg
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 11.27lbs / 5.11kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S95!!!](https://www.youtube.com/watch?v=T3QHnVPsd90)
     - [Jagist reviews: Zealot S95 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=7QDLOCQhGes)
@@ -812,18 +812,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Codecs: SBC
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 13.2lbs / 6.0kg
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 13.2lbs / 6.0kg
 - Reviews, Comparisons and Sound Samples
     - [Bullionix_Gadgets_Reviews: ZEALOT ZE-01 VS ZEALOT S-95! 😱: Sound Comparison!!!](https://www.youtube.com/shorts/u_wbyffwmKM)
     - [Techder Audios: ZEALOT S89 VS ZEALOT ZE01 EXTREME POWERFULL VS COMPACTER BASS PERFORMANCE!](https://www.youtube.com/watch?v=6MkVOVJZL_w)
@@ -840,6 +840,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 39hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC, AAC
+- Built in Microphone: Yes
 - EQ: Yes (Pro EQ + presets)
 - IP Rating: IPX7
 - Max Volume: 111db
@@ -849,10 +851,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 8.4lbs / 3.8kg
-- Bluetooth Codecs: SBC, AAC
 - USB Playback: No
-- Built in Microphone: Yes
+- Weight: 8.4lbs / 3.8kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: This sounds totally different now! Soundcore Boom Plus 2 firmware 03.10](https://www.youtube.com/watch?v=ESN6hgtvba4)
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
@@ -873,19 +873,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes (W-King app)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~42hz
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112db
 - MicroSD: Yes
-- Wireless Microphones: Yes
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Bluetooth Codecs: SBC
-- Party Mode: No
-- Built in Microphone: No
+- Wireless Microphones: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
@@ -905,18 +905,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes (W-King app)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~42hz
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Bluetooth Codecs: SBC
-- Party Mode: No
-- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
@@ -938,27 +938,27 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #28 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325)]: $350
 - Negatives: Somewhat bass heavy and boomy.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 33ms
 - Bass Extension (-10dB): 46hz
 - Battery Life: 24 hours
-- IP Rating: IPX7
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 140ms
+- Built in Microphone: No
+- EQ: No
+- FM Tuner: No
+- IP Rating: IPX7
 - Max Volume: 108db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
-- Weight: 13lbs / 5.9kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 13lbs / 5.9kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL Boombox 3 review vs JBL Boombox 2 a subwoofer and a 3 way equals heaven? 💋](https://www.youtube.com/watch?v=CaqnhHYZpQA)
     - [Alan Ross Reviews: JBL Boombox 2 vs Onyx Studio 7 big bass battle 💋](https://www.youtube.com/watch?v=2NJMfNB8MlQ)
@@ -975,23 +975,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #29 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325)]: $330
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 45hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 100db
+- MicroSD: No
 - Party Mode: Yes (JBL One)
+- Power Bank: No
 - Power Input: AC Power cable
 - Stereo: Partially (1 woofer)
 - TWS: Yes
+- USB Playback: Yes
 - Weight: 10.8lbs / 4.9kg
 - Wifi: Yes
-- Bluetooth Codecs: SBC
-- Power Bank: No
-- USB Playback: Yes
-- Built in Microphone: Yes
-- MicroSD: No
-- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Authentics 300 - sound quality test](https://www.youtube.com/watch?v=pBgizWYcEx8)
     - [Oluv: JBL Authentics 300 - update](https://www.patreon.com/posts/jbl-authentics-125828125)
@@ -1008,17 +1008,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - Max Volume: 93db
-- Stereo: No
-- TWS: Yes
-- Weight: 6lbs / 2.7kg
-- Bluetooth Codecs: SBC
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: No
-- Built in Microphone: Yes
 - Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- USB Playback: No
+- Weight: 6lbs / 2.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
     - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)
@@ -1034,17 +1034,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - Aux Input: Yes
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
 - FM Tuner: Yes
-- Stereo: Yes
-- TWS: Yes
-- Weight: 8.3lbs / 3.75kg
-- Bluetooth Codecs: SBC
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 8.3lbs / 3.75kg
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Tribit Stormbox Blast VS Teufel Boomster "BASS VS FUNCTIONS!"](https://www.youtube.com/watch?v=6nzi3ZP2kMA)
     - [Mateusz Cholewa: Tribit  Stormbox  Blast Audio Test vs Teufel  Boomster 2021](https://www.youtube.com/watch?v=o9iTI-5hOGI)
@@ -1060,20 +1060,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 39hz
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 160ms
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Latency: 160ms
 - Max Volume: 111db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
-- Weight: 12.8lbs / 5.8kg
-- Bluetooth Codecs: SBC
 - TWS: Yes
-- Party Mode: No
 - USB Playback: No
-- Built in Microphone: No
+- Weight: 12.8lbs / 5.8kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
     - [Techder Audios: Zealot ZE01 VS Tronsmart Bang Max SOLID VOCALS VS DEEPER BASS](https://www.youtube.com/watch?v=_lZVAEHjLe8)
@@ -1084,25 +1084,25 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #33 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c2wKDoLt)]: $150
 - Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. Wall wart charger.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
 - Battery Life: 10 hours
-- IP Rating: IPX6
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
+- Built in Microphone: No
+- EQ: Yes (multiple modes)
+- IP Rating: IPX6
 - Max Volume: 112db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
-- Weight: 11.2lbs / 5.1kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (multiple modes)
-- Party Mode: No
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 11.2lbs / 5.1kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
     - [Jay's Straight Up Reviews & More: Dual W-King T11 (EQ1, EQ2) 🆚 JBL Partybox 110 (Bass One) 📛 Are two T11's TWS Louder than one PB110?](https://www.youtube.com/watch?v=dk3KqC-cdsk)
@@ -1113,23 +1113,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #34 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325)]: $180
 - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
 - Negatives: Not quite as deep bass as the top ranked speakers.
+- App: No
 - Aux Input: yes
 - Bass Extension (-10dB): ~47hz
 - Battery Life: 9 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
+- FM Tuner: Yes
 - Max Volume: 104db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Partially (1 woofer)
+- TWS: Yes
 - USB Playback: Yes
 - Weight: 15.8lbs / 7.1kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: Yes
-- Party Mode: No
-- Built in Microphone: No
-- Power Input: USB-C
-- FM Tuner: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GRV-650L!!! 😁](https://www.youtube.com/watch?v=o5TQLBxyskg)
     - [Jagist reviews: W-king X20 Vs Gemini GRV-650L!!! 😍😍😍](https://www.youtube.com/watch?v=Q5cn3rG8j6g)
@@ -1141,20 +1141,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #35 Teufel Boomster NG (2017): 99€
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
+- App: No
 - Bass Extension (-10dB): 47hz
 - Battery Life: 18 hours
-- IP Rating: None
-- Power Bank: Yes
-- Stereo: Yes
-- Weight: 7.4lbs / 3.4kg
 - Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: No
-- Party Mode: No
-- USB Playback: No
 - Built in Microphone: No
+- EQ: No
+- IP Rating: None
+- Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: No
+- USB Playback: No
+- Weight: 7.4lbs / 3.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
@@ -1164,19 +1164,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #36 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
-- Bass Extension (-10dB): ~50hz
-- Max Volume: 104db
-- Stereo: Yes
-- Weight: 12lbs / 5.4kg
-- Bluetooth Codecs: SBC
 - App: Yes (Skullcandy app)
+- Bass Extension (-10dB): ~50hz
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (App EQ)
-- TWS: Yes
+- FM Tuner: No
+- Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
+- Weight: 12lbs / 5.4kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Boombox vs. JBL Partybox Encore Party Speaker.🛜  How Low Can You Go?😲](https://www.youtube.com/watch?v=ilGvwLRn_EQ)
@@ -1194,9 +1194,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #37 [Sony ULT Field 7](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl)]: $400
 - Positives: Better sounding than the XG500
 - Negatives: Still not as deep bass as the top ranked speakers. 8khz peak
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Built in Microphone: Yes
+- EQ: Yes (App + ULT button)
 - Guitar Input: Yes
 - IP Rating: IP67
 - Microphone Input: Yes
@@ -1204,13 +1208,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
+- TWS: Yes
 - USB Playback: Yes
 - Weight: 13.8lbs / 6.3kg
-- Bluetooth Codecs: SBC, AAC, LDAC
-- App: No
-- EQ: Yes (App + ULT button)
-- TWS: Yes
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
     - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
@@ -1220,21 +1220,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #38 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl)]: $240
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
+- App: No
 - Aux Input: Yes
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - IP Rating: IPX5
 - Microphone Input: Yes
+- Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 13.8 lbs / 6.3kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Party Mode: No
-- Power Bank: Yes
-- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
     - [Jagist reviews: Bugani Boost Max Vs Harmon Kardon Go Plus Play 3!!! 😁😁😁](https://www.youtube.com/watch?v=Kla_z-sz0Ec)
@@ -1246,21 +1246,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #39 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1795817-REG/soundcore_by_anker_a3399z11_rave_party_2_portable.html?BI=23745&KBID=29189)]: $180
 - Positives: This speaker may move around in the rankings as we get better sound samples.
 - Negatives: Poor water rating. Bass extension doesn't seem very good.
+- App: No
 - Aux Input: Yes
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (App EQ)
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
-- Weight: 10.1lbs / 4.6kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (App EQ)
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
+- Weight: 10.1lbs / 4.6kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 vs. Tribit Stormbox Blast - Bluetooth Speaker Basement ⚒ Battle](https://www.youtube.com/watch?v=f_NtZs4HO8c)
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🎇 & Rave Neo 2 🎉 Head to Head  Off The Floor. A Family Battle❗️](https://www.youtube.com/watch?v=QC1ZTsfBrl8)
@@ -1274,8 +1274,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #40 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172) [[Walmart](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172)]: $90
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
+- App: No
 - Aux Input: Yes
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - FM Tuner: No
 - IP Rating: IPX7
 - Microphone Input: Yes
@@ -1283,12 +1287,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: No
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs Medium Party Speaker Gen 2 🤜🤛A Family Feud🔌Plugged In Bass Boost On](https://www.youtube.com/watch?v=9dIs_4-nSfI)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
@@ -1298,22 +1298,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #41 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
 - Positives: Included wireless microphone.
 - Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 6 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - IP Rating: IPX4
 - Max Volume: 94db
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Partially
+- TWS: No
 - USB Playback: Yes
 - Weight: 16.5lbs / 7.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: No
-- Party Mode: No
-- Built in Microphone: No
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
@@ -1324,21 +1324,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #42 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Built in Microphone: Yes
+- EQ: Yes (App + ClearAudio+)
 - IP Rating: IP66
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 12.4lbs / 5.6kg
-- Bluetooth Codecs: SBC, AAC, LDAC
-- App: No
-- EQ: Yes (App + ClearAudio+)
-- Built in Microphone: Yes
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 🆚  Sony SRS-XG500 - Tailgater Special - Battery Powered ☢️ Bass Boost Enabled.](https://www.youtube.com/watch?v=ImnPvu49RSM)
     - [Jagist reviews: Tribit Stormbox Blast vs Sony SRS XG 500](https://www.youtube.com/watch?v=yenr1BPMk6s)
@@ -1350,22 +1350,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #43 JBL Boombox
 - Positives: Connect+ up to 100 speakers.
 - Negatives: Treble isn't very smooth
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- Stereo: Yes
-- Weight: 11.46lbs / 5.2kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: No
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 11.46lbs / 5.2kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>
@@ -1383,18 +1383,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
-- EQ: Yes (App EQ)
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
+- Built in Microphone: No
+- EQ: Yes (App EQ)
 - Max Volume: 108db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 5.3lbs / 2.4kg
-- Bluetooth Codecs: SBC
 - USB Playback: No
-- Built in Microphone: No
+- Weight: 5.3lbs / 2.4kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
@@ -1411,19 +1411,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Aux Output: Yes
 - Battery Life: ~30 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
+- FM Tuner: No
 - Microphone Input: Yes
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
-- Weight: 7.0lbs / 3.1kg
-- Wireless Microphones: Yes 2 Included
-- Bluetooth Codecs: SBC
 - TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
+- Weight: 7.0lbs / 3.1kg
+- Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)
@@ -1436,17 +1436,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - Aux Input: Yes
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
+- FM Tuner: No
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC power brick
 - Stereo: Yes
-- Weight: 7.4lbs / 3.4kg
-- Bluetooth Codecs: SBC
 - TWS: Yes
-- Party Mode: No
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
+- Weight: 7.4lbs / 3.4kg
 - Reviews, Comparisons and Sound Samples
     - [TailgatingChallenge: Demerbox Review](https://www.youtube.com/watch?v=F4VLp6en8Kc)
     - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)
@@ -1456,27 +1456,27 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #47 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325)]: $140
 - Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 44hz
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 160ms
+- Built in Microphone: No
+- EQ: Yes (multiple modes)
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Bluetooth Latency: 160ms
 - Max Volume: 110db
+- MicroSD: No
 - Microphone Input: Yes
-- Stereo: Partially
-- TWS: Yes
-- Weight: 13.4lbs / 6.1kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (multiple modes)
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: Yes
-- Built in Microphone: No
 - Power Input: USB-C
-- MicroSD: No
+- Stereo: Partially
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 13.4lbs / 6.1kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
     - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)
@@ -1485,21 +1485,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #48 Diamondboxx M3: $700
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
+- App: No
 - Aux Input: Yes
 - Battery Life: 40 hours
-- IP Rating: None
-- Stereo: Yes
-- Weight: 11lbs / 5kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 11lbs / 5kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qIkm529aaaQ>
     - <https://www.youtube.com/watch?v=NIyRizpppgI>
@@ -1510,26 +1510,26 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #49 [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325)]: $215
 - Positives: Comes with wireless microphone. Loud.
 - Negatives: Not very deep bass. Boosted upper bass. Upper midrange dips. Distorts above medium volumes. No water rating.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 54hz
 - Battery Life: 24 hours
-- IP Rating: None
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
+- Built in Microphone: No
+- EQ: Yes (multiple modes)
+- IP Rating: None
 - Max Volume: 115db
 - MicroSD: Yes
+- Microphone Input: Yes
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Wireless Microphones: Yes 2 Included
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (multiple modes)
-- Party Mode: No
 - USB Playback: Yes
-- Built in Microphone: No
-- Power Input: USB-C
-- Microphone Input: Yes
+- Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)
     - <https://www.youtube.com/watch?v=wv9U85eWBSo>
@@ -1540,27 +1540,27 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #50 [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325)]: $84
 - Negatives: Upper bass boost, bass not that deep.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 50ms
 - Bass Extension (-10dB): 60hz
 - Battery Life: 42 hours
-- IP Rating: IPX6
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
+- Built in Microphone: No
+- EQ: Yes (bass boost + DSP)
+- FM Tuner: No
+- IP Rating: IPX6
 - Max Volume: 106db
 - MicroSD: Yes
+- Microphone Input: Yes
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 8lbs / 3.6kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (bass boost + DSP)
-- Party Mode: No
 - USB Playback: Yes
-- Built in Microphone: No
-- Power Input: USB-C
-- FM Tuner: No
-- Microphone Input: Yes
+- Weight: 8lbs / 3.6kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
@@ -1570,22 +1570,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #51 [Turtlebox Grande](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl)]: $730
 - Negatives: They pretty much lie about all their specs and sound just okay in all youtube sound samples. Only 100w will never hit 126db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass for a 10" woofer. Overpriced and not worth it.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
 - Party Mode: Yes
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Weight: 18.8lbs / 8.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Power Bank: Yes
 - USB Playback: No
+- Weight: 18.8lbs / 8.5kg
 - Reviews, Comparisons and Sound Samples
     - [Blue Collar Outdoors USA: Is the TURTLEBOX GRANDE Speaker REALLY Worth the HYPE ?](https://www.youtube.com/watch?v=Kr_7Wi9IfpA)
 - Links
@@ -1595,20 +1595,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #52 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8) [[Bumpboxx](https://bumpboxx.com/products/bumpboxx-flare8)]: $400
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
-- Battery Life: 12 hours
-- Max Volume: 118db
-- Stereo: Yes
-- Weight: 19lbs / 8.6kg
-- Bluetooth Codecs: SBC
 - App: No
+- Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: Yes
+- Max Volume: 118db
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: Yes
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 19lbs / 8.6kg
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: Bumpboxx Flare 8 - My New Favorite Boombox](https://www.youtube.com/watch?v=kG9Bikc7L4g)
     - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)
@@ -1619,20 +1619,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #53 Bumpboxx Flare 6: $300
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
-- Battery Life: 12 hours
-- Max Volume: 115db
-- Stereo: Yes
-- Weight: 13lbs / 5.9kg
-- Bluetooth Codecs: SBC
 - App: No
+- Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: Yes
+- Max Volume: 115db
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: Yes
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 13lbs / 5.9kg
 - Reviews, Comparisons and Sound Samples
     - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 - Links
@@ -1640,18 +1640,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #54 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
 - Negatives: Bass not as deep as competitors.
-- Battery Life: 25 hours
-- Stereo: No
-- TWS: Yes
-- Bluetooth Codecs: SBC
 - App: No
+- Battery Life: 25 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
+- FM Tuner: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
+- Stereo: No
+- TWS: Yes
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
@@ -1662,19 +1662,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #55 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325)]: $84
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
+- App: No
 - Bass Extension (-10dB): ~56hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - MicroSD: Yes
+- Party Mode: No
+- Power Bank: No
+- Power Input: USB-C
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Party Mode: No
-- Power Bank: No
-- Built in Microphone: No
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links
@@ -1683,23 +1683,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #56 ION Pathfinder 4: $300
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~62hz
 - Battery Life: 100 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
+- Microphone Input: Yes
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
+- TWS: Yes
 - USB Playback: Yes
 - Weight: 25lbs / 11kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (High/Low frequency)
-- TWS: Yes
-- Party Mode: No
-- Built in Microphone: No
-- Power Input: USB-C
-- Microphone Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [ReggieTECH: ION Pathfinder 4 Speaker - Unboxing, Review & Test](https://www.youtube.com/watch?v=zlAsAJtwNS8)
 - Links
@@ -1707,21 +1707,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #57 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325)]: $450
 - Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low water rating
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 42hz
 - Battery Life: 20 hours
-- IP Rating: IPX2
-- Stereo: No
-- Weight: 10.8lbs / 4.9kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
-- TWS: No
+- IP Rating: IPX2
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: Yes
 - Power Input: USB-C
+- Stereo: No
+- TWS: No
+- USB Playback: No
+- Weight: 10.8lbs / 4.9kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ox5fY3r_2oI>
     - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
@@ -1730,23 +1730,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #58 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3pLYYDN)]: $143
 - Negatives: Rolled off treble, not much bass.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
 - Battery Life: 42 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
 - Max Volume: 108db
 - MicroSD: Yes
-- Power Bank: Yes
-- Stereo: Yes
-- Weight: 7.4lbs / 3.3kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (2 modes - Indoor/Outdoor)
-- TWS: Yes
 - Party Mode: No
-- USB Playback: Yes
-- Built in Microphone: No
+- Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 7.4lbs / 3.3kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
@@ -1755,24 +1755,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #59 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $80
 - Negatives: Heavily rolled off treble, less bass than the top ranked.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
 - Battery Life: 42 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: Yes (2 modes - Indoor/Outdoor)
+- FM Tuner: No
 - IP Rating: IPX6
 - Max Volume: 106db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 7.4lbs / 3.3kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (2 modes - Indoor/Outdoor)
-- Party Mode: No
 - USB Playback: Yes
-- Built in Microphone: Yes
-- Power Input: USB-C
-- FM Tuner: No
+- Weight: 7.4lbs / 3.3kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
@@ -1785,19 +1785,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #60 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325)]: $190
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
+- App: Yes (House Party app)
 - Aux Input: Yes
 - Battery Life: 20 hours
-- Stereo: Yes
 - Bluetooth Codecs: SBC
-- App: Yes (House Party app)
+- Built in Microphone: No
 - EQ: Yes (App EQ)
-- TWS: Yes
+- FM Tuner: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
     - [Jagist reviews: Jbl Extreme 3 vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=a-VmNf5kgEA)
@@ -1808,19 +1808,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #61 Braven XXL 2: $350
 - Negatives: Not very deep bass. Very heavy
+- App: No
 - Aux Input: Yes
 - Battery Life: 18 hours
-- Stereo: Yes
-- Weight: 17.4lbs / 7.9kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: No
+- USB Playback: No
+- Weight: 17.4lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tritbit Stormbox Blast vs Braven xxl 2](https://www.youtube.com/watch?v=uihgotNRgJ0)
     - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)
@@ -1829,22 +1829,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #62 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325)]: $150
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
+- App: No
 - Aux Input: Yes
 - Battery Life: 100 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
+- Microphone Input: No
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
+- TWS: Yes
 - USB Playback: Yes
 - Weight: 22.7lbs / 10.3kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (High/Low frequency)
-- TWS: Yes
-- Party Mode: No
-- Built in Microphone: No
-- Power Input: USB-C
-- Microphone Input: No
 - Reviews, Comparisons and Sound Samples
     - [King Vegeta: Ion Pathfinder 320 quick review](https://www.youtube.com/watch?v=F4d76SDQPtw)
 - Links
@@ -1852,24 +1852,24 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #63 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325)]: $170
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 58hz
 - Battery Life: 100 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
 - Max Volume: 100db
+- Microphone Input: No
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
+- TWS: Yes
 - USB Playback: Yes
 - Weight: 23.8lbs / 10.8kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (High/Low frequency)
-- TWS: Yes
-- Party Mode: No
-- Built in Microphone: No
-- Power Input: USB-C
-- Microphone Input: No
 - Reviews, Comparisons and Sound Samples
     - [Alpha Omega Gz: ION Pathfinder 280 degrees - Unboxing and testing](https://www.youtube.com/watch?v=g05lODItS4w)
 - Links
@@ -1877,22 +1877,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #64 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 65 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - FM Tuner: Yes
 - Max Volume: 96db
-- Stereo: No
-- Weight: 28.6lbs / 13kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: Yes
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- USB Playback: No
+- Weight: 28.6lbs / 13kg
 - Reviews, Comparisons and Sound Samples
     - [Wanna Buy It: Monster Rockin' Roller 270 - Party On Wheels](https://www.youtube.com/watch?v=uL9NPSEAwjE)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
@@ -1902,22 +1902,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #65 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325)]: $400
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz
 - Battery Life: 25 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
-- Stereo: No
-- Weight: 10lbs / 4.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: Yes
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- USB Playback: No
+- Weight: 10lbs / 4.5kg
 - Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Risk Profile: TurtleBox Demo  Risk Profile Podcast](https://www.youtube.com/watch?v=y9aCDZW6I_8)
@@ -1930,19 +1930,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #66 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
-- Battery Life: 20 hours
-- Stereo: Yes
-- Weight: 12.6 lbs / 5.7kg
-- Bluetooth Codecs: SBC
 - App: Yes (House Party app)
+- Battery Life: 20 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (App EQ)
-- TWS: Yes
+- FM Tuner: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 12.6 lbs / 5.7kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links
@@ -1951,19 +1951,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #67 Artsound PWR05
 - Negatives: Strange frequency peaks, sound is very hollow.
+- App: No
 - Aux Input: Yes
 - Battery Life: 10 hours
-- Stereo: Partially
-- Weight: 9.7lbs / 4.4kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Partially
+- TWS: No
+- USB Playback: No
+- Weight: 9.7lbs / 4.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 - Links
@@ -1971,21 +1971,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #68 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
 - Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
+- App: No
 - Aux Input: Yes
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (multiple modes)
 - IP Rating: IP67
 - MicroSD: Yes
-- Stereo: Yes
-- Weight: 9.7lbs / 4.4kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (multiple modes)
-- TWS: Yes
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: Yes
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 9.7lbs / 4.4kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
     - [Jay's Straight Up Reviews & More: DBSOARS F29 Max vs Zealot S78 🛜 (5B) Budget Bluetooth Boombox Basement Battle 🔊 Bass Modes Enabled](https://www.youtube.com/watch?v=ui3IZd1Akoc)

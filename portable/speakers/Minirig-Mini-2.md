@@ -16,6 +16,7 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
 - Bass Extension (-10dB): 58hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
+- Built in Microphone: Yes
 - EQ: yes
 - IP Rating: Splash resistant
 - Max Volume: 92db
@@ -25,7 +26,6 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 0.71lbs / 320g
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)

@@ -16,10 +16,10 @@ The JBL Partybox Encore Essential ranks [#7 out of 68 total Boombox Size Portabl
 - Bass Extension (-10dB): 38hz
 - Battery Life: 6 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 100ms
 - Built in Microphone: No
 - EQ: Yes (3 band)
 - IP Rating: IPX4
-- Bluetooth Latency: 100ms
 - Max Volume: 110db
 - Party Mode: No
 - Power Bank: Yes

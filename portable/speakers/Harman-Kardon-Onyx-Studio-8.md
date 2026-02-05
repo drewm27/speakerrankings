@@ -10,24 +10,24 @@ The Harman Kardon Onyx Studio 8 ranks [#10 out of 68 total Boombox Size Portable
 ## #10 [Harman Kardon Onyx Studio 8](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Experience/dp/B0CC35GD8L/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7185167e4e5e8480d83adbd1d6c1c12c&camp=1789&creative=9325)]: $155
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others. No water rating.
+- App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 42ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
-- Built in Microphone: Yes
-- IP Rating: None
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 175ms
+- Built in Microphone: Yes
+- EQ: Yes (App EQ)
+- IP Rating: None
 - Max Volume: 96db
+- Party Mode: No
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes
-- Weight: 7.76lbs / 3.52kg
-- App: Yes (Harman Kardon One app)
-- Bluetooth Codecs: SBC
-- Power Bank: No
-- EQ: Yes (App EQ)
-- Party Mode: No
 - USB Playback: No
+- Weight: 7.76lbs / 3.52kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
     - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)

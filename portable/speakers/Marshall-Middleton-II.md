@@ -14,16 +14,16 @@ The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetoo
 - Aux Input: Yes
 - Bass Extension (-10dB): 38hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (5 band)
 - IP Rating: IP67
 - Party Mode: Yes (Marshall Stack)
 - Power Bank: Yes
 - Power Input: USB-C
-- Weight: 3.9lbs / 1.8kg
-- Bluetooth Codecs: SBC
 - Stereo: Yes
 - TWS: Yes
+- Weight: 3.9lbs / 1.8kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Middleton II - better with EQ?](https://www.patreon.com/posts/marshall-ii-with-136883522)
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)

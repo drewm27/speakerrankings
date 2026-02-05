@@ -13,17 +13,17 @@ The Soundcore Rave Neo ranks [#60 out of 73 total Large Size Portable Bluetooth 
 - Aux Input: Yes
 - Bass Extension (-10dB): 60hz
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
+- IP Rating: IPX7
 - Max Volume: 106db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
-- Weight: 7.7lbs / 3.49kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- IP Rating: IPX7
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 7.7lbs / 3.49kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion Boom Plus or Soundcore Rave Neo (Trance Go) - best Soundcore speaker??](https://www.youtube.com/watch?v=VCr3ep2H_Ro)
     - [Alan Ross Reviews: JBL Xtreme 3 vs Soundcore Motion Boom vs Rave Neo - Boombox Battle!](https://www.youtube.com/watch?v=uuSyxzCUja8)

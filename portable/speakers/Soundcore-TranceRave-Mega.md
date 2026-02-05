@@ -9,21 +9,21 @@ The Soundcore Trance/Rave Mega ranks [#69 out of 73 total Large Size Portable Bl
 
 ## #69 Soundcore Trance/Rave Mega
 - Negatives: Hugely recessed mids and treble
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
 - Battery Life: 18 hours
-- Max Volume: 97db
-- Power Bank: Yes
-- Weight: 7.72lbs / 3.5kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 97db
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 7.72lbs / 3.5kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Rave Neo vs Rave Mega - best party speaker 2021?](https://www.youtube.com/watch?v=ePD09iI6qkI)
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)

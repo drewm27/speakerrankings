@@ -13,6 +13,7 @@ The JBL Partybox Encore 2 ranks [#4 out of 68 total Boombox Size Portable Blueto
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - IP Rating: IPX4
@@ -25,7 +26,6 @@ The JBL Partybox Encore 2 ranks [#4 out of 68 total Boombox Size Portable Blueto
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
 - Wireless Microphones: Yes 2 Included
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
     - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)

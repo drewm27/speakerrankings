@@ -14,8 +14,8 @@ The Tribit Xsound Plus 2 ranks [#32 out of 130 total Medium Size Portable Blueto
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Battery Life: 24 hours
-- EQ: Yes
 - Bluetooth Latency: SBC 233ms, AAC 240ms
+- EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes
 - Power Input: USB-C

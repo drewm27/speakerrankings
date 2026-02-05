@@ -6,7 +6,7 @@ cover-img: "/assets/img/stormboxmicro2.jpg"
 share-description: "Explore the top small size Bluetooth speakers. Compact, lightweight, and powerful picks expertly ranked for portability, sound quality & budget."
 ---
 
-This page ranks 41 small size powered Bluetooth speakers. Last updated on 02/04/2026. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the small size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 41 small size powered Bluetooth speakers. Last updated on 02/05/2026. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the small size are mono (single driver) and IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -24,10 +24,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 265ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -63,6 +63,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension (-10dB): 58hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
+- Built in Microphone: Yes
 - EQ: yes
 - IP Rating: Splash resistant
 - Max Volume: 92db
@@ -72,7 +73,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
 - Weight: 0.71lbs / 320g
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
     - [Speakertech: Bose Soundlink Micro Vs Minirig Mini 2](https://www.youtube.com/watch?v=-THqGgH_Tu8)
@@ -90,6 +90,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension (-10dB): 58hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: aptX, SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 92db
@@ -99,7 +100,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes (cable)
 - Weight: 0.69lbs / 314g
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
@@ -111,13 +111,14 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #4 [Tribit Stormbox Micro](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E) [[Amazon](https://www.amazon.com/Tribit-Micro-Bluetooth-Speaker-Waterproof/dp/B07VSPPQXC/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a52362df3f40483b21f1636e4b749039&camp=1789&creative=9325%22%3E)]: $40
 - Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 62hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 180ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Bluetooth Latency: 180ms
 - Max Volume: 93db
 - Party Mode: No
 - Power Bank: No
@@ -125,7 +126,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.65lbs / 295g
-- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
@@ -140,7 +140,12 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 ## #5 Teufel Boomster Go: 80€
 - Positives: Pretty deep bass and quite balanced overall for the size.
+- App: No
+- Aux Input: No
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: IPX7
 - Party Mode: No
 - Power Bank: No
@@ -148,11 +153,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.78lbs / 355g
-- App: No
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
 - Links
@@ -163,6 +163,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
@@ -176,7 +177,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
-- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links
@@ -187,12 +187,14 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 160ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 160ms
 - Max Volume: 87db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: No
@@ -200,8 +202,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
-- Aux Input: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
@@ -212,19 +212,19 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Quite detailed.
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 73hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX4
+- Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 0.66lbs / 300g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links
@@ -235,8 +235,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: More balanced than the first Willen, no sharp treble
 - Negatives: Not that deep of bass.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 70hz
 - Battery Life: 17 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
@@ -246,8 +248,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.79lbs / 360g
-- Aux Input: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [HammoTech Reviews: Marshall Willen 2 Review - Hard To Recommend](https://www.youtube.com/watch?v=PL8bC3wIRQQ)
@@ -258,18 +258,18 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #10 [Ultimate Ears Miniroll](https://www.amazon.com/Ultimate-Ears-Ultra-Portable-Waterproof-Bluetooth/dp/B0DCJ9N5XR?crid=DQZM52IWZGYR&dib=eyJ2IjoiMSJ9._KdxEPub1GVqSmllBIRBmn6TEIVpL_ul7mV2-h3OxdZ7f3xSfnSUPpYLRhCX_83Df9bROdU1DZg3iCBCEvKooR2UrMUtiXYLCuWqoczOa_4xF0BjBxPom2Bllucmy5IGsKCwJM8M_vSmgflrVykPO4O3cbo__Vf6UWmaBpaZh2oYAY4nJfeEpmDF1cUFSUgd._Lzi6usjmoC7imxg_VR9NFMebHhi6RlBslLRpUfXSb4&dib_tag=se&keywords=ultimate%2Bears%2Bmini%2Broll&qid=1727415307&sprefix=ultimate%2Bears%2Bmini%2Caps%2C287&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=adddda2569fe9919d7456003c55b447c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Ultra-Portable-Waterproof-Bluetooth/dp/B0DCJ9N5XR?crid=DQZM52IWZGYR&dib=eyJ2IjoiMSJ9._KdxEPub1GVqSmllBIRBmn6TEIVpL_ul7mV2-h3OxdZ7f3xSfnSUPpYLRhCX_83Df9bROdU1DZg3iCBCEvKooR2UrMUtiXYLCuWqoczOa_4xF0BjBxPom2Bllucmy5IGsKCwJM8M_vSmgflrVykPO4O3cbo__Vf6UWmaBpaZh2oYAY4nJfeEpmDF1cUFSUgd._Lzi6usjmoC7imxg_VR9NFMebHhi6RlBslLRpUfXSb4&dib_tag=se&keywords=ultimate%2Bears%2Bmini%2Broll&qid=1727415307&sprefix=ultimate%2Bears%2Bmini%2Caps%2C287&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=adddda2569fe9919d7456003c55b447c&language=en_US&ref_=as_li_ss_tl)]: $50
 - Negatives: Bass not quite as deep as the best rated speakers
 - App: No
+- Aux Input: No
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
 - Party Mode: Yes (Only with other Miniroll)
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
-- Weight: 0.62 lbs / 279g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Power Bank: No
 - TWS: Yes
+- Weight: 0.62 lbs / 279g
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
 - Links
@@ -282,18 +282,18 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: No
 - Power Input: Micro USB
-- Weight: 0.44lbs / 200g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Stereo: No
 - TWS: Yes
+- Weight: 0.44lbs / 200g
 - Reviews, Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
@@ -303,8 +303,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #12 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325)]: $120
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 75hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
@@ -315,8 +317,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.68lbs / 309g
-- Aux Input: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)
@@ -335,7 +335,9 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: No
 - Bass Extension (-10dB): ~70hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP67
 - Max Volume: 89dB
 - Party Mode: Yes (broadcast mode)
@@ -344,8 +346,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.88lbs / 397g
-- Bluetooth Codecs: SBC
-- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
     - [Storytripper HD: JBL Clip 4 vs  B&O A1 2nd  vs  Klipsch Austin](https://www.youtube.com/watch?v=iri3WLn6DBs)
@@ -357,7 +357,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #14 [B&O Beoplay P2](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Portable-Bluetooth-Microphone/dp/B06XYS74L8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=edced4b24c5a371b46e0146ed31cd7e6&camp=1789&creative=9325)]: $170
 - Negatives: Good for its time, but now beat out by many others
 - App: Yes
+- Aux Input: No
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: None
 - Party Mode: No
@@ -366,9 +369,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.61lbs / 275g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links
@@ -379,8 +379,11 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Loudest small speaker by a little.
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 69hz
 - Battery Life: 25 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 97db
@@ -391,9 +394,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.86lbs / 390g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Tango Camping Bluetooth Speaker Review](https://www.youtube.com/watch?v=biqsZ3Uhr3U)
 - Links
@@ -403,12 +403,14 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #16 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325)]: $99
 - Negatives: Lack of clarity. Overly boosted bass
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 66hz
 - Battery Life: 6 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 50ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Bluetooth Latency: 50ms
 - Max Volume: 90db
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
@@ -416,8 +418,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.64lbs / 289g
-- Aux Input: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
@@ -433,6 +433,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: No
 - Bass Extension (-10dB): 68hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that)
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX8
 - Party Mode: No
@@ -441,8 +443,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.55lbs / 248g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
     - [Electric Chris Chris Vanderstock: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
@@ -455,6 +455,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: Yes
 - Aux Input: No
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
@@ -463,8 +465,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.86lbs / 390g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
@@ -475,8 +475,11 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #19 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325)]: $80
 - Negatives: Quite a lack of bass. Not very loud.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 80hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 79db
@@ -486,9 +489,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.53lbs / 239g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
     - [Danny Pops: MICRO SPEAKERS - my take on JBL Clip 4 VS Wonderboom 2 VS Bose Micro](https://www.youtube.com/watch?v=Vyc6e3bxoUs)
@@ -504,18 +504,18 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Quite inexpensive for what you get
 - Negatives: Not as deep of bass as higher ranked speakers
 - App: Yes
+- Aux Input: No
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
+- Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 0.58lbs / 265g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
@@ -527,8 +527,11 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): ~82hz
 - Battery Life: 7 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
@@ -537,9 +540,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.42lbs / 190g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
     - [StereoSpecs: JBL GO 4 vs JBL GO 3 : Worth the upgrade?](https://www.youtube.com/shorts/cT-oUhYhPWk)
@@ -553,20 +553,20 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #22 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325)]: $50
 - Negatives: Not much bass at all, strange mids peak.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 87hz
 - Battery Life: 5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 88db
 - Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 0.46lbs / 209g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
@@ -587,6 +587,7 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Bass Extension (-10dB): 66hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
@@ -596,7 +597,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: No
 - Weight: 0.63lbs / 286g
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Tech, Life, And More: My friend's Onn. Rugged Speaker S pocket sized portable Bluetooth speaker sound test, amazing value!](https://www.youtube.com/watch?v=X2i_dJCrwlc)
     - [SpaztasticTV: New Onn Bluetooth Speakers](https://www.youtube.com/watch?v=che2VHKbnhA)
@@ -612,16 +612,16 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Bass Extension (-10dB): 90hz
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX5
 - MicroSD: No
 - Party Mode: Yes (Broadcast Mode) up to 100 speakers
 - Power Bank: No
 - Power Input: USB-C
+- Stereo: No
 - TWS: No
 - Weight: 0.35lbs / 159g
-- Built in Microphone: Yes
-- Stereo: No
 - Reviews, Comparisons and Sound Samples
     - [wwjoshdew: Monster Atomic Atom Bluetooth 5.4 Speaker](https://www.youtube.com/watch?v=4RJTt8arMM4)
 - Links
@@ -635,6 +635,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -644,8 +646,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.4lbs / 185g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Links
     - [Official Product Page Dayton Audio Boost Mini](https://parts-express.sjv.io/DKX1Ba)
     - [Direct Speakerranking Link](/portable/speakers/Dayton-Audio-Boost-Mini/)
@@ -657,6 +657,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -666,8 +668,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.4lbs / 185g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Monster-Bluetooth-Speaker/)
 
@@ -678,6 +678,8 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -687,8 +689,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.4lbs / 185g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Links
     - [Official Product Page Boat Stone 190](https://www.boat-lifestyle.com/products/stone-190)
     - [Official Product Page Boat Stone 193](https://www.boat-lifestyle.com/products/stone-193-portable-speaker)
@@ -697,7 +697,10 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #28 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325)]: $60
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.
 - App: No
+- Aux Input: No
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
 - Party Mode: No
@@ -706,9 +709,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.60lbs / 274g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
     - [Flossy Carter: Sony SRS-XB100 - Small Speaker, Huge Sound](https://www.youtube.com/watch?v=j_YH3cGsQZk)
@@ -721,8 +721,11 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #29 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325)]: $60
 - Negatives: Not much bass. Muddy sounding.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 88hz
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 88db
@@ -732,9 +735,6 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Stereo: No
 - TWS: Yes
 - Weight: 0.56lbs / 255g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)
@@ -748,16 +748,16 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes (integrated 3.5mm cable)
 - Bass Extension (-10dB): ~95hz
 - Battery Life: 5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Wall wart
 - Stereo: No
 - TWS: No
 - Weight: 0.35lbs / 158g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links
@@ -768,19 +768,19 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): ~100hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: Micro-USB
 - Stereo: No
 - TWS: No
 - Weight: 0.5lb / 227g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links
@@ -790,18 +790,18 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #32 Xiaomi Mi Portable Outdoor: 
 - Negatives: Not much bass, treble rolled off
 - App: No
-- Battery Life: 20 hours
-- EQ: No
-- Power Bank: No
-- Stereo: No
-- Weight: 0.41lbs / 185g
 - Aux Input: No
+- Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: None
 - Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
+- Stereo: No
 - TWS: Yes
+- Weight: 0.41lbs / 185g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS XIAOMI PORTABLE OUTDOOR SPEAKER "BEST COMPACT SPEAKERS!?"](https://www.youtube.com/watch?v=NwlwyofEYDM)
 - Links
@@ -812,16 +812,16 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - App: No
 - Aux Input: Yes
 - Battery Life: 5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links
@@ -832,21 +832,21 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 97hz
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 240ms
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Bluetooth Latency: 240ms
 - Max Volume: 93db
 - Party Mode: NoA
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 0.54lbs / 243g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
     - [DLX Willington: Jbl Go 3 vs Sony XB12 Sound Battle With Sound Sample](https://www.youtube.com/watch?v=H5oy3xWP3kU)
@@ -857,19 +857,19 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 ## #35 [Muzen Wild Mini](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl)]: $75
 - Negatives: Not much bass at all, quite thuddy. Not very loud. Only IPX5, not submersible. Short battery life.
-- Battery Life: 8 hours
-- IP Rating: IPX5
-- Power Input: USB-C
-- Stereo: No
-- Weight: 0.55lbs / 248g
 - App: No
 - Aux Input: No
+- Battery Life: 8 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
+- Stereo: No
 - TWS: Yes
+- Weight: 0.55lbs / 248g
 - Reviews, Comparisons and Sound Samples
     - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)
     - [RodrickViews: Muzen Wild Mini Rugged Outdoor Speaker](https://www.youtube.com/watch?v=NI_2TlxDbWQ)
@@ -880,19 +880,19 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 
 ## #36 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl)]: $51
 - Negatives: Not much bass at all, quite thuddy. Not very loud. Only IPX5, not submersible. Short battery life.
-- Battery Life: 8 hours
-- IP Rating: IPX5
-- Power Input: USB-C
-- Stereo: No
-- Weight: 0.41lbs / 187g
 - App: No
 - Aux Input: No
+- Battery Life: 8 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
+- Stereo: No
 - TWS: Yes
+- Weight: 0.41lbs / 187g
 - Reviews, Comparisons and Sound Samples
     - [UtmostCoin Reviews: Bringing Sophistications to The Wild - Muzen Wild Go Speaker Review](https://www.youtube.com/watch?v=3JsU3QYYRrk)
     - [Chrispy Things [EDC]: The NEW ultra portable Muzen Wild Go Sound Test & Review!](https://www.youtube.com/watch?v=g0mixdXjVI8)
@@ -906,16 +906,16 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 - Aux Input: Yes
 - Bass Extension (-10dB): ~120hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 250g
-- Bluetooth Codecs: SBC
-- IP Rating: None
-- Party Mode: No
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Jaky9114: 2022年12月16日](https://www.youtube.com/watch?v=4xCM1mE-1Ww)
     - [Jaky9114: Harman Kardon Esquire Mini 2](https://www.youtube.com/watch?v=sQT7_LLqJ4M)
@@ -926,20 +926,20 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #38 Harman Kardon Neo: $90
 - Negatives: Huge lack of bass.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 105hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
 - Max Volume: 87db
+- Party Mode: No
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 251g
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- IP Rating: None
-- Party Mode: No
-- Power Input: USB-C
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links
@@ -949,20 +949,20 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #39 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
-- Bass Extension (-10dB): ~220hz
-- Battery Life: 12 hours
-- IP Rating: IPX2
-- Stereo: Yes
-- TWS: Yes
-- Weight: 0.32lbs / 145g
 - App: No
 - Aux Input: No
+- Bass Extension (-10dB): ~220hz
+- Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: IPX2
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- Weight: 0.32lbs / 145g
 - Reviews, Comparisons and Sound Samples
     - [Jon Low: The world's thinnest bluetooth speaker- Lenovo 700 Ultra Bluetooth Speaker: #AWGR009](https://www.youtube.com/watch?v=Yam_mssFqeU)
     - [thomas vanderkin (The Vanderkinverse): Lenovo 700 Ultraportable Bluetooth Speaker](https://www.youtube.com/watch?v=6CtZiXCJF18)
@@ -973,20 +973,20 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #40 [Noxgear 39g](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl)]: $70
 - Positives: It's only 39g of weight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
+- App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~300hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: 0.086lbs / 39g
-- App: No
-- Bluetooth Codecs: SBC
-- EQ: No
-- Party Mode: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [BigMans World Of Wonders: NOXGEAR 39G WEARABLE BLUETOOTH SPEAKER  WORTH THE HYPE?  AUDIO TESTING & DETAILED REVIEW](https://www.youtube.com/watch?v=P8QaTedwkSw)
     - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)
@@ -997,20 +997,20 @@ For longer runtime, check out a [power bank](/portable-power-stations/).
 ## #41 [Dewalt Wearable Bluetooth Speaker](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl)]: $58
 - Positives: It's lightweight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
+- App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~300hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP56
+- Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Weight: <0.12lbs / <56g
-- App: No
-- Bluetooth Codecs: SBC
-- EQ: No
-- Party Mode: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [BigMans World Of Wonders: NOXGEAR 39G WEARABLE BLUETOOTH SPEAKER  WORTH THE HYPE?  AUDIO TESTING & DETAILED REVIEW](https://www.youtube.com/watch?v=P8QaTedwkSw)
     - [DHRME: Why are People Buying This Audio Product? (Noxgear 39G vs DeWalt Wearable Speaker)](https://www.youtube.com/watch?v=8ZyLw_0Q86Y)

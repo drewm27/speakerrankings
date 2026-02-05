@@ -13,16 +13,16 @@ The JBL Clip ranks [#30 out of 41 total Small Size Portable Bluetooth Speakers](
 - Aux Input: Yes (integrated 3.5mm cable)
 - Bass Extension (-10dB): ~95hz
 - Battery Life: 5 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Wall wart
 - Stereo: No
 - TWS: No
 - Weight: 0.35lbs / 158g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links

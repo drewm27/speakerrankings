@@ -9,21 +9,21 @@ The Altec Lansing AL500 ranks [#42 out of 43 total Party Size Portable Bluetooth
 
 ## #42 Altec Lansing AL500: $200
 - Negatives: Not very deep bass
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
+- Bluetooth Codecs: SBC
+- EQ: No
 - FM Tuner: Yes
+- IP Rating: None
 - Microphone Input: Yes
+- Party Mode: No
+- Power Bank: No
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.4lbs / 6.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Stereo: Yes
-- Party Mode: No
-- Power Bank: No
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing- ☠️ Street Shock (AL500) Bluetooth Speaker Review. A JBL Partybox 200/300 Killer?](https://www.youtube.com/watch?v=_09Fi5-pF7Q)
 

@@ -9,23 +9,23 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
 
 ## #23 [Soundboks 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325)]: $550
 - Positives: Tied for the loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
+- App: No
 - Aux Input: Yes
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- EQ: No
 - Guitar Input: Yes
+- IP Rating: None
 - Max Volume: 124db
 - Microphone Input: Yes
-- Power Input: AC Power cord
-- Removable Battery: Yes
-- TWS: No
-- Weight: 33lbs / 15kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Stereo: Yes
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 33lbs / 15kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>

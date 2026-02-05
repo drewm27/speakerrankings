@@ -14,18 +14,18 @@ The Zealot S95 ranks [#23 out of 68 total Boombox Size Portable Bluetooth Speake
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Codecs: SBC
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 11.27lbs / 5.11kg
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 11.27lbs / 5.11kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S95!!!](https://www.youtube.com/watch?v=T3QHnVPsd90)
     - [Jagist reviews: Zealot S95 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=7QDLOCQhGes)

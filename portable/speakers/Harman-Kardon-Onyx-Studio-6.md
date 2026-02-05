@@ -10,23 +10,23 @@ The Harman Kardon Onyx Studio 6 ranks [#11 out of 68 total Boombox Size Portable
 ## #11 [Harman Kardon Onyx Studio 6](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Onyx-Studio-Built/dp/B089LCPV98/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c61e5cd011e7e029a1cc949dd322b088&camp=1789&creative=9325)]: $130
 - Positives: Warm sound with boosted bass. Oluv liked it slightly better than the newer Onyx 7.
 - Negatives: 8 hour battery at medium volume. Not at loud as others.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 37hz
 - Battery Life: 8 hours
-- Built in Microphone: Yes
-- IP Rating: IPX7
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Max Volume: 96db
 - Party Mode: (Dual Sound up to 2 speakers)
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
-- Weight: 6.5lbs / 2.9kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Power Bank: No
 - USB Playback: No
+- Weight: 6.5lbs / 2.9kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)

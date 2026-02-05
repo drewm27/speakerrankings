@@ -13,21 +13,21 @@ The Sony SRS-XV900 ranks [#9 out of 9 total Large Party Size Portable Bluetooth 
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 25 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Built in Microphone: No
 - EQ: Yes
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Optical Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- USB Playback: Yes
-- Weight: 58.6lbs / 26.6kg
-- Built in Microphone: No
-- IP Rating: None
 - Stereo: Yes
 - TWS: Yes
+- USB Playback: Yes
+- Weight: 58.6lbs / 26.6kg
 - Wifi: No
-- Bluetooth Codecs: SBC, AAC, LDAC
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Sony SRS-XV900 vs JBL Partybox 310 - Can the JBL Middleweight 💪🏽 Compete With The Sony Heavyweight?](https://www.youtube.com/watch?v=1yVnCeuW9uA)
     - [Jay's Straight Up Reviews & More: JBL Partybox 710 ☣️ vs Sony SRS XV900 ☢️- Basement Brawl Speaker Comparison. Can XV900 Top the 710❓](https://www.youtube.com/watch?v=RU02J2XZhYg)

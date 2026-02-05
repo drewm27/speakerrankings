@@ -13,21 +13,21 @@ The Sony ULT Tower 10 ranks [#8 out of 9 total Large Party Size Portable Bluetoo
 - App: Yes
 - Aux Input: Yes
 - Battery Life: No Battery
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Built in Microphone: No
 - EQ: Yes (7 band)
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 64lbs / 29kg
-- Wireless Microphone: Yes Included
-- Built in Microphone: No
-- IP Rating: None
-- Stereo: Yes
 - Wifi: No
-- Bluetooth Codecs: SBC, AAC, LDAC
+- Wireless Microphone: Yes Included
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)

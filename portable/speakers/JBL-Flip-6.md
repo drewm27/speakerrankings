@@ -14,10 +14,10 @@ The JBL Flip 6 ranks [#12 out of 130 total Medium Size Portable Bluetooth Speake
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
+- Bluetooth Latency: 116ms
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 116ms
 - Max Volume: 98db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: No

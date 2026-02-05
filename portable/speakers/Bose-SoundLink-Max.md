@@ -14,17 +14,17 @@ The Bose SoundLink Max ranks [#15 out of 73 total Large Size Portable Bluetooth 
 - Aux Latency: 33ms
 - Bass Extension (-10dB): 48hz
 - Battery Life: 20 hours
-- Built in Microphone: No
-- IP Rating: IP67
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 116ms
+- Built in Microphone: No
+- EQ: No
+- IP Rating: IP67
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 tweeter)
-- Weight: 4.9lbs / 2.2kg
-- Bluetooth Codecs: SBC
-- EQ: No
-- Party Mode: No
 - TWS: Yes
+- Weight: 4.9lbs / 2.2kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - indoor soundtest](https://www.youtube.com/watch?v=bv336KoFB-0)
     - [Audiophile housewife: Bose SoundLink Max & SoundCore Boom 2 - outdoor soundtest](https://www.youtube.com/watch?v=B6BvZ0O9pVY)

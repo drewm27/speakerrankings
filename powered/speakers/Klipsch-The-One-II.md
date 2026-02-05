@@ -9,11 +9,9 @@ The Klipsch The One II ranks [#13 out of 13 total Medium Size Powered Desktop Sp
 
 ## #13 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
 - Negatives: Treble boosted. Not as deep of bass as others.
+- App: No
 - Aux Input: Yes
 - Battery Life: No Battery
-- Stereo: Partially (1 woofer)
-- Weight: 8.5lbs / 3.9kg
-- App: No
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150mm)
@@ -23,7 +21,9 @@ The Klipsch The One II ranks [#13 out of 13 total Medium Size Powered Desktop Sp
 - Midrange: 2x 2.25" full-range
 - Party Mode: No
 - Power: 50W (Woofer: 30W, Full-range: 2x10W)
+- Stereo: Partially (1 woofer)
 - TWS: No
+- Weight: 8.5lbs / 3.9kg
 - Wifi: No
 - Woofer: 4.5"
 - Woofer Cabinet: Ported

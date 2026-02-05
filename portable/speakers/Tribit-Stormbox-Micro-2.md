@@ -15,10 +15,10 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 41 total Small Size Portable Blueto
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 265ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)

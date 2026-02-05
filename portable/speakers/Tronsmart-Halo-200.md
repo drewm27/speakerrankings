@@ -9,27 +9,27 @@ The Tronsmart Halo 200 ranks [#47 out of 68 total Boombox Size Portable Bluetoot
 
 ## #47 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325)]: $140
 - Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 44hz
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 160ms
+- Built in Microphone: No
+- EQ: Yes (multiple modes)
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Bluetooth Latency: 160ms
 - Max Volume: 110db
+- MicroSD: No
 - Microphone Input: Yes
-- Stereo: Partially
-- TWS: Yes
-- Weight: 13.4lbs / 6.1kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (multiple modes)
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: Yes
-- Built in Microphone: No
 - Power Input: USB-C
-- MicroSD: No
+- Stereo: Partially
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 13.4lbs / 6.1kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
     - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)

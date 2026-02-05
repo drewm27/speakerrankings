@@ -14,6 +14,8 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 107db
@@ -23,8 +25,6 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 7.94lbs / 3.6kg
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Rave To The Max With The Soundcore Rave Neo 2! 👆](https://www.youtube.com/watch?v=vLV0-KGlXEg)
     - [Technoid: Soundcore Rave Neo 2 Review - Get the Grill & Pool Ready!!](https://www.youtube.com/watch?v=nmVpaJCrKCI)

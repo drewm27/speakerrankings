@@ -9,7 +9,12 @@ The Teufel Boomster Go ranks [#5 out of 41 total Small Size Portable Bluetooth S
 
 ## #5 Teufel Boomster Go: 80€
 - Positives: Pretty deep bass and quite balanced overall for the size.
+- App: No
+- Aux Input: No
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: IPX7
 - Party Mode: No
 - Power Bank: No
@@ -17,11 +22,6 @@ The Teufel Boomster Go ranks [#5 out of 41 total Small Size Portable Bluetooth S
 - Stereo: No
 - TWS: Yes
 - Weight: 0.78lbs / 355g
-- App: No
-- Aux Input: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
 - Links

@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore top-recommended Bluetooth speakers with built-in microphones. Expert-ranked picks for clear calls, hands-free voice control & excellent sound quality."
 ---
 
-This page summarizes the best portable Bluetooth speakers with built in microphone for phone calls of the 364 ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards value speakers with  a built in microphone and good sound quality. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best portable Bluetooth speakers with built in microphone for phone calls of the 364 ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards value speakers with  a built in microphone and good sound quality. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
@@ -20,10 +20,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 265ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -62,10 +62,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -95,10 +95,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes
@@ -130,10 +130,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
+- Bluetooth Latency: 130ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
@@ -206,19 +206,19 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
+- FM Tuner: No
 - IP Rating: IP67
-- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
-- TWS: Yes
-- Weight: 9.2lbs / 4.18kg
 - Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- FM Tuner: No
+- Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)

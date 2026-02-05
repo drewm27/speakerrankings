@@ -9,19 +9,19 @@ The B&O Beoplay A2 active ranks [#14 out of 73 total Large Size Portable Bluetoo
 
 ## #14 [B&O Beoplay A2 active](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beoplay-Portable-Bluetooth/dp/B01M1CVNJU/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eedabf7609afbba7b77739b8fd6db847&camp=1789&creative=9325)]: $400
 - Negatives: Not stereo
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 2.4 lbs / 1.1kg
-- App: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=eLILB6g0p-A>
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>

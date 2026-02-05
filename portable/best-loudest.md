@@ -6,7 +6,7 @@ cover-img: "/assets/img/k12.2.jpg"
 share-description: "Browse our top-recommended Bluetooth speakers with the loudest output. Expert-ranked for volume, clarity & value to make your music heard."
 ---
 
-This page summarizes the loudest portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the loudest portable Bluetooth speakers out of the 364 ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards loud speakers. Keep in mind that bigger speakers get louder and have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
 
@@ -22,10 +22,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 59hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 265ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 265ms
 - Max Volume: 96db
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -63,9 +63,9 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 56hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 60ms
 - EQ: Yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
 - Max Volume: 106db
 - Power Bank: Yes
 - Power Input: USB-C
@@ -128,20 +128,20 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Latency: SBC
 - Max Volume: 116db
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 20.4lbs / 9.27kg
-- Bluetooth Codecs: SBC
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 20.4lbs / 9.27kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
     - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
@@ -156,18 +156,18 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - App: Yes (W-King app)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~42hz
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Bluetooth Codecs: SBC
-- Party Mode: No
-- Built in Microphone: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
@@ -207,9 +207,9 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
+- USB Playback: No
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
-- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)

@@ -10,20 +10,20 @@ The Teufel Boomster NG (2017) ranks [#35 out of 68 total Boombox Size Portable B
 ## #35 Teufel Boomster NG (2017): 99€
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
+- App: No
 - Bass Extension (-10dB): 47hz
 - Battery Life: 18 hours
-- IP Rating: None
-- Power Bank: Yes
-- Stereo: Yes
-- Weight: 7.4lbs / 3.4kg
 - Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- TWS: No
-- Party Mode: No
-- USB Playback: No
 - Built in Microphone: No
+- EQ: No
+- IP Rating: None
+- Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: No
+- USB Playback: No
+- Weight: 7.4lbs / 3.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>

@@ -9,27 +9,27 @@ The W-King D10 ranks [#50 out of 68 total Boombox Size Portable Bluetooth Speake
 
 ## #50 [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325)]: $84
 - Negatives: Upper bass boost, bass not that deep.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 50ms
 - Bass Extension (-10dB): 60hz
 - Battery Life: 42 hours
-- IP Rating: IPX6
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
+- Built in Microphone: No
+- EQ: Yes (bass boost + DSP)
+- FM Tuner: No
+- IP Rating: IPX6
 - Max Volume: 106db
 - MicroSD: Yes
+- Microphone Input: Yes
+- Party Mode: No
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 8lbs / 3.6kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: Yes (bass boost + DSP)
-- Party Mode: No
 - USB Playback: Yes
-- Built in Microphone: No
-- Power Input: USB-C
-- FM Tuner: No
-- Microphone Input: Yes
+- Weight: 8lbs / 3.6kg
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)

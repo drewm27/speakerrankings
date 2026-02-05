@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Find the top recommended Bluetooth speakers for party mode. Expert-ranked for booming volume, long battery life & rich bass to keep the party going all night."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 364 ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with party mode out of the 364 ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards value speakers which have the ability to pair 10+ speakers. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
@@ -16,6 +16,7 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
@@ -29,7 +30,6 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Stereo: No
 - TWS: No
 - Weight: 0.55lbs / 249g
-- Aux Input: No
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links
@@ -81,10 +81,10 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 125ms
 - Built in Microphone: No
 - EQ: yes
 - IP Rating: IPX7
-- Bluetooth Latency: 125ms
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
@@ -123,19 +123,19 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Bass Extension (-10dB): ~38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
+- FM Tuner: No
 - IP Rating: IP67
-- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Max Volume: 110db
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
-- TWS: Yes
-- Weight: 9.2lbs / 4.18kg
 - Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- FM Tuner: No
+- Weight: 9.2lbs / 4.18kg
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
@@ -218,19 +218,19 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 87lbs / 39kg
 - Wifi: Yes
-- Built in Microphone: No
-- Party Mode: Yes
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)

@@ -9,19 +9,19 @@ The Braven XXL 2 ranks [#61 out of 68 total Boombox Size Portable Bluetooth Spea
 
 ## #61 Braven XXL 2: $350
 - Negatives: Not very deep bass. Very heavy
+- App: No
 - Aux Input: Yes
 - Battery Life: 18 hours
-- Stereo: Yes
-- Weight: 17.4lbs / 7.9kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Yes
+- TWS: No
+- USB Playback: No
+- Weight: 17.4lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tritbit Stormbox Blast vs Braven xxl 2](https://www.youtube.com/watch?v=uihgotNRgJ0)
     - [Vua2hand: Solo Braven XXL/2 vs JBL Partybox 100 Sound test l Braven hay Jbl ?!!](https://www.youtube.com/watch?v=3hADMlWdjrw)

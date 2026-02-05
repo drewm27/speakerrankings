@@ -16,15 +16,15 @@ The Sony SRS-XP700 ranks [#11 out of 43 total Party Size Portable Bluetooth Spea
 - Bluetooth Codecs: LDAC, AAC, SBC
 - EQ: Yes
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
+- TWS: No
 - USB Playback: Yes
 - Weight: 37.3 lbs / 16.9kg
-- TWS: No
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)

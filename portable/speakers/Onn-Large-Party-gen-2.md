@@ -10,8 +10,11 @@ The Onn Large Party gen 2 ranks [#13 out of 43 total Party Size Portable Bluetoo
 ## #13 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $130
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
+- App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- EQ: No
 - FM Tuner: Yes
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -20,12 +23,9 @@ The Onn Large Party gen 2 ranks [#13 out of 43 total Party Size Portable Bluetoo
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
-- Weight: 20.9lbs / 9.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - TWS: No
 - USB Playback: No
+- Weight: 20.9lbs / 9.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker 2 🎶 (Gen 2.0) First Look and Light Demo](https://www.youtube.com/watch?v=AK_xTAIqejY)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)

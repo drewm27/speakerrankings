@@ -10,8 +10,10 @@ The Marshall Willen ranks [#12 out of 41 total Small Size Portable Bluetooth Spe
 ## #12 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325)]: $120
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 75hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
@@ -22,8 +24,6 @@ The Marshall Willen ranks [#12 out of 41 total Small Size Portable Bluetooth Spe
 - Stereo: No
 - TWS: No
 - Weight: 0.68lbs / 309g
-- Aux Input: No
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)

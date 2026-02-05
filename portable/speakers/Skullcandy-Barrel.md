@@ -9,19 +9,19 @@ The Skullcandy Barrel ranks [#36 out of 68 total Boombox Size Portable Bluetooth
 
 ## #36 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
-- Bass Extension (-10dB): ~50hz
-- Max Volume: 104db
-- Stereo: Yes
-- Weight: 12lbs / 5.4kg
-- Bluetooth Codecs: SBC
 - App: Yes (Skullcandy app)
+- Bass Extension (-10dB): ~50hz
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (App EQ)
-- TWS: Yes
+- FM Tuner: No
+- Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
+- Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- Built in Microphone: No
-- FM Tuner: No
+- Weight: 12lbs / 5.4kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match 🔺 SkullCandy Barrel XT, Tribit Blast & Tronsmart Bang Max 📛 Bluetooth Boombox 🔋](https://www.youtube.com/watch?v=TZlSSuIivKo)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT Boombox vs. JBL Partybox Encore Party Speaker.🛜  How Low Can You Go?😲](https://www.youtube.com/watch?v=ilGvwLRn_EQ)

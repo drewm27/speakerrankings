@@ -15,19 +15,19 @@ The Harman Kardon Go + Play 3 ranks [#3 out of 68 total Boombox Size Portable Bl
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC, AAC
+- Bluetooth Latency: 120ms
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Bluetooth Latency: 120ms
 - Max Volume: 103db
+- Party Mode: No
+- Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
-- Weight: 10.4lbs / 4.7kg
-- Bluetooth Codecs: SBC, AAC
-- Power Bank: Yes
-- Party Mode: No
 - USB Playback: No
+- Weight: 10.4lbs / 4.7kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)

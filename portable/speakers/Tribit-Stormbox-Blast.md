@@ -16,21 +16,21 @@ The Tribit Stormbox Blast ranks [#2 out of 68 total Boombox Size Portable Blueto
 - Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 66ms
 - Built in Microphone: No
 - EQ: Yes (10 band)
+- FM Tuner: No
 - IP Rating: IPX7
-- Bluetooth Latency: 66ms
 - Max Volume: 108db
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
-- Weight: 11.6lbs / 5.3kg
 - USB Playback: No
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Weight: 11.6lbs / 5.3kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>

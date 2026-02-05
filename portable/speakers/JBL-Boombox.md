@@ -10,22 +10,22 @@ The JBL Boombox ranks [#43 out of 68 total Boombox Size Portable Bluetooth Speak
 ## #43 JBL Boombox
 - Positives: Connect+ up to 100 speakers.
 - Negatives: Treble isn't very smooth
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- Stereo: Yes
-- Weight: 11.46lbs / 5.2kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: No
+- MicroSD: No
+- Microphone Input: No
 - Party Mode: No
 - Power Bank: Yes
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
-- Microphone Input: No
-- MicroSD: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 11.46lbs / 5.2kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=lnMz-lP_Hj4>
     - <https://www.youtube.com/watch?v=visTNEaBmBw>

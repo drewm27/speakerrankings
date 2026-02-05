@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."
 ---
 
-This page ranks 43 party size powered Bluetooth speakers. Last updated on 02/04/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
+This page ranks 43 party size powered Bluetooth speakers. Last updated on 02/05/2026. The party size powered Bluetooth speaker size is a good party size speaker. If you're looking at one of these, you have a very specific need for very deep bass or extreme loudness and can accept that the speaker may be very large and heavy. Most of these are a huge overkill for most applications and the Boombox size is better for most people. Most of these speakers are at least IPX4 unless noted. All speakers in this class need AC to charge. The best here will have bass extension similar to a 10” woofer tower speaker.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -229,9 +229,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
+- USB Playback: No
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
-- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
@@ -247,6 +247,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Output: Yes
 - Bass Extension (-10dB): 48hz
 - Battery Life: 100 hours
+- Bluetooth Codecs: SBC
 - EQ: Yes
 - IP Rating: IPX6
 - Microphone Input: Yes
@@ -262,7 +263,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 40lbs / 18.1kg
 - XLR Input: Yes
 - XLR Output: Yes
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [MusicTechHelpGuy: The future of mobile PA? // Electrotec STAGE ONE Review & Feature Overview](https://www.youtube.com/watch?v=Xv-B5kkR6ZY)
     - <https://www.youtube.com/shorts/30Gb2MRXUc0>
@@ -287,9 +287,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
+- USB Playback: No
 - Weight: 17lbs / 8kg
 - XLR Input: Yes
-- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [briansredd: Electro-Voice Everse 8 VS Bose S1 Pro - Side By Side Shoot-Out (Attempt)](https://www.youtube.com/watch?v=bxW813jlJKc)
     - [briansredd: Q&A - Electro-Voice Everse 8 Vs Bose S1 Pro AND (Warning) My Opinion](https://www.youtube.com/watch?v=yAxDBqN9d2Q)
@@ -310,13 +310,13 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Max Volume: 109db
 - Microphone Input: Yes
 - Party Mode: Yes (Bose Party mode)
+- Power Bank: No
 - Power Input: AC Power cord
 - Stereo: No
 - TWS: Yes
+- USB Playback: No
 - Weight: 14.4lbs / 6.5kg
 - XLR Input: Yes
-- Power Bank: No
-- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=XS6oh6cfACA>
     - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)
@@ -342,15 +342,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bluetooth Codecs: LDAC, AAC, SBC
 - EQ: Yes
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
+- TWS: No
 - USB Playback: Yes
 - Weight: 37.3 lbs / 16.9kg
-- TWS: No
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
@@ -367,15 +367,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bluetooth Codecs: LDAC, AAC, SBC
 - EQ: Yes
 - Guitar Input: Yes
+- IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
+- TWS: No
 - USB Playback: Yes
 - Weight: 24.7lbs / 11.2kg
-- TWS: No
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: 🥰🙄SONY SRS XP500 vs JBL Partybox 100 Sound battle with sound sample love and hate this](https://www.youtube.com/watch?v=K9qr4EoEqpQ)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
@@ -386,8 +386,11 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #13 [Onn Large Party gen 2](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628) [[Walmart](https://www.walmart.com/ip/onn-Large-Party-Speaker-Gen-2/1212999628)]: $130
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
+- App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- EQ: No
 - FM Tuner: Yes
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -396,12 +399,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
-- Weight: 20.9lbs / 9.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - TWS: No
 - USB Playback: No
+- Weight: 20.9lbs / 9.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker 2 🎶 (Gen 2.0) First Look and Light Demo](https://www.youtube.com/watch?v=AK_xTAIqejY)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)
@@ -416,19 +416,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power Bank: No
 - Power Input: USB-C
 - Stereo: No
+- TWS: No
+- USB Playback: No
 - Weight: 21.6lbs / 9.8kg
 - Wireless Microphones: Yes 2 included
-- Bluetooth Codecs: SBC
-- TWS: No
-- Power Bank: No
-- USB Playback: No
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: Soundcore Rave 3 160W 🧐🆚 JBL Encore Partybox](https://www.youtube.com/watch?v=33x_e9OLDMw)
     - [Dominik Reviews: Soundcore Rave 3 vs JBL Partybox Encore - Quick Sound Test! 🤗](https://www.youtube.com/watch?v=zjXx2ob3-fI)
@@ -445,15 +445,15 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
 - EQ: Yes
 - IP Rating: IPX4
-- Weight: 34.2lbs / 15.5kg
-- Bluetooth Codecs: SBC
-- Stereo: Yes
-- TWS: No
 - Party Mode: No
 - Power Bank: No
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
+- Weight: 34.2lbs / 15.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
     - [Jay's Straight Up Reviews & More: LG XL7 vs JBL Partybox 310 🏠 Indoor Bluetooth Party Speaker Battle. Plugged in🔌](https://www.youtube.com/watch?v=Y_G5In55vY4)
@@ -469,6 +469,7 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: No
 - Aux Input: Yes
 - Battery Life: 8 hours
+- Bluetooth Codecs: SBC
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
@@ -480,7 +481,6 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 18lbs / 8.2kg
-- Bluetooth Codecs: SBC
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox 110 🎉 Bluetooth Party Speaker Comparison. Is The Party Over For Gig?](https://www.youtube.com/watch?v=bCCgG7s4lDQ)
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox Encore Essential (Pee-Wee) - Indoors, Plugged In🔌 Bluetooth Speakers](https://www.youtube.com/watch?v=qgelmChNgAE)
@@ -494,17 +494,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 18 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes
 - IP Rating: IPX5
 - Microphone Input: Yes
 - Party Mode: Yes (Samsung Group Play up to 10 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- USB Playback: Yes
-- Weight: 26.3lbs / 11.9kg
-- Bluetooth Codecs: SBC
-- EQ: Yes
 - Stereo: Yes
 - TWS: No
+- USB Playback: Yes
+- Weight: 26.3lbs / 11.9kg
 - Reviews, Comparisons and Sound Samples
     - [HQ AUDIO Exchange: Samsung MX-ST50B vs. JBL Partybox 110 Bass Test!🔥](https://www.youtube.com/watch?v=_Q1i3cG092I)
 - Links
@@ -517,18 +517,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 50hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes
 - IP Rating: None
 - Max Volume: 115db
 - Microphone Input: Yes
-- Stereo: No
-- Weight: 17.6lbs / 8kg
-- XLR Input: Yes
-- Bluetooth Codecs: SBC
-- EQ: Yes
-- TWS: No
 - Party Mode: No
 - Power Bank: No
+- Stereo: No
+- TWS: No
 - USB Playback: No
+- Weight: 17.6lbs / 8kg
+- XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [W. Weiss: Part 3 Sound Demonstration The New EV Everse 8 compared to The Mackie Thump Go](https://www.youtube.com/watch?v=8HESRrKdGto)
     - [W. Weiss: Part 3 Shootout MACKIE THUMP GO vs BOSE S1 PRO vs JBL EON ONE COMPACT Max Volume Demo A New Winner!](https://www.youtube.com/watch?v=G_0wnrW8UpA)
@@ -543,23 +543,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #19 Audiocase S5: $645
 - Positives: Removable battery
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
+- App: No
 - Aux Input: Yes
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- EQ: No
 - Guitar Input: Yes
+- IP Rating: None
 - Max Volume: 108db
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power Bank: No
 - Power Input: AC Power Brick
 - Removable Battery: Yes
-- Weight: 17.4lbs / 7.9kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Power Bank: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 17.4lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
@@ -568,21 +568,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #20 Teufel Rockster Air: €500
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
 - Max Volume: 115db
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 32.0lbs / 14.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Party Mode: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 32.0lbs / 14.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links
@@ -596,21 +596,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IP65
 - Max Volume: 126db
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power Bank: No
 - Power Input: AC Power cord
 - Removable Battery: Yes
 - SKAA: Yes
-- TWS: Yes
-- Weight: 34lbs / 15.4kg
-- Bluetooth Codecs: SBC
-- EQ: Yes
 - Stereo: Yes
-- Power Bank: No
+- TWS: Yes
 - USB Playback: No
+- Weight: 34lbs / 15.4kg
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)
@@ -627,21 +627,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IP65
 - Max Volume: 126db
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power Bank: No
 - Power Input: AC Power cord
 - Removable Battery: Yes
 - SKAA: Yes
-- TWS: Yes
-- Weight: 34lbs / 15.4kg
-- Bluetooth Codecs: SBC
-- EQ: Yes
 - Stereo: Yes
-- Power Bank: No
+- TWS: Yes
 - USB Playback: No
+- Weight: 34lbs / 15.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=-D0YY58zbA4>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
@@ -652,23 +652,23 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #23 [Soundboks 2](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Loudest-Wireless-Bluetooth-BATTERYBOKS/dp/B077XFYQ6F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9951c0c29e71639623ca37f180000b09&camp=1789&creative=9325)]: $550
 - Positives: Tied for the loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
+- App: No
 - Aux Input: Yes
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- EQ: No
 - Guitar Input: Yes
+- IP Rating: None
 - Max Volume: 124db
 - Microphone Input: Yes
-- Power Input: AC Power cord
-- Removable Battery: Yes
-- TWS: No
-- Weight: 33lbs / 15kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Stereo: Yes
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 33lbs / 15kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
@@ -681,20 +681,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #24 [Ultimate Ears Hyperboom](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-HYPERBOOM-Portable-Bluetooth-Resistant/dp/B093DC9JPD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b0b22764f0bbb9861d423290cec77df&camp=1789&creative=9325)]: $450
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
 - Battery Life: 24 hours
-- Party Mode: Yes (PartyUp up to 50 speakers)
-- Power Input: AC Power brick
-- Weight: 13lbs / 5.9kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
+- IP Rating: None
+- Party Mode: Yes (PartyUp up to 50 speakers)
+- Power Bank: No
+- Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
-- Power Bank: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 13lbs / 5.9kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
@@ -706,22 +706,22 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #25 [Soundboks Go](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SOUNDBOKS-Bluetooth-Performance-Splashproof-Shockproof/dp/B09YRMRGKV/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5c7a785039bc8a803e9e8b271b35273&camp=1789&creative=9325)]: $550
 - Positives: Removable 40 hour battery.
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
 - Battery Life: 40 hours
-- Max Volume: 121db
-- Power Input: AC Power cord
-- Removable Battery: Yes
-- Weight: 20lbs / 9kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
+- Max Volume: 121db
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Removable Battery: Yes
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 20lbs / 9kg
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
@@ -735,21 +735,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #26 Audiocase S10: $892
 - Positives: One of the loudest in category.
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
+- App: No
 - Aux Input: Yes
 - Battery Life: 30 hours
-- Max Volume: 125db
-- Removable Battery: Yes
-- Weight: 44.7lbs / 19.8kg
-- XLR Input: Yes
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
+- Max Volume: 125db
 - Party Mode: No
 - Power Bank: No
+- Removable Battery: Yes
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 44.7lbs / 19.8kg
+- XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S10 - first impressions](https://www.patreon.com/posts/audiocase-s10-92786890)
 - Links
@@ -758,17 +758,17 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #27 [W-King T9 Pro](https://s.click.aliexpress.com/e/_c3zh0rJN) [[Aliexpress](https://s.click.aliexpress.com/e/_c3zh0rJN)]: $294
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
+- App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
-- USB Playback: Yes
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- IP Rating: None
+- Stereo: Yes
+- TWS: No
+- USB Playback: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
 - Links
@@ -777,18 +777,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #28 [JBL Eon One Compact](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=se&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=se&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl)]: $630
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
+- App: No
 - Aux Input: Yes
 - Battery Life: 12 hours
-- Weight: 17.6lbs / 8kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 17.6lbs / 8kg
 - Reviews, Comparisons and Sound Samples
     - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
     - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)
@@ -799,21 +799,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #29 B&O Beosound 1: $2000
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~53hz
 - Battery Life: 16 hours
-- Max Volume: 91db
-- Power Input: AC Power cord
-- Weight: 7.7lbs / 3.5kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
+- Max Volume: 91db
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 7.7lbs / 3.5kg
 - Reviews, Comparisons and Sound Samples
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
@@ -823,18 +823,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #30 Diamondboxx L2: $1000
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
-- Aux Input: Yes
-- IP Rating: None
-- Power Input: AC Power brick
-- Weight: 25lbs / 11kg
-- Bluetooth Codecs: SBC
 - App: No
+- Aux Input: Yes
+- Bluetooth Codecs: SBC
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power brick
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
+- Weight: 25lbs / 11kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
     - <https://www.youtube.com/watch?v=epgx0THKpL8>
@@ -845,20 +845,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #31 dB technologies B-Hype M: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 62hz
 - Battery Life: 4 hours
-- Power Input: AC Power cord
-- Weight: 27lbs / 12.5kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 27lbs / 12.5kg
 - Reviews, Comparisons and Sound Samples
     - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)
     - [DTA AUDIO: dB Technologies B·Hype M, loa đến từ Italia. Mang lại sự an toàn cho những buổi hội thảo quan trọng.](https://www.youtube.com/watch?v=GTqpcjfd3Fo)
@@ -869,20 +869,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #32 Onn Large Party gen 1: $100
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 13 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Party Sync Mode)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- TWS: Yes
-- Weight: 23.1lbs / 10.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
+- TWS: Yes
 - USB Playback: No
-- IP Rating: None
+- Weight: 23.1lbs / 10.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: JBL Partybox 110 🆚  Onn Large Party Speaker - Both Plugged In🔌   The Legend vs. the Budget Banger 🍿](https://www.youtube.com/watch?v=RXeTaLUzgAo)
     - [Jay's Straight Up Reviews & More: W-King T11 (EQ1, Firmware 2.32) 🆚 Onn Large Party Speaker (Bass Boost Off/On) - Budget Battle!💥](https://www.youtube.com/watch?v=dq1JLYaRwkk)
@@ -893,20 +893,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #33 Philips NX200
 - Negatives: No deep bass, mids are a little harsh
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 14 hours
-- Power Input: AC Power cord
-- Weight: 17lbs / 7.7kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 17lbs / 7.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audio Mix7: Philips Tanx 200 Review - sound Test -jbl partybox alternative ? Vs Jbl Boombox (eng sub)](https://www.youtube.com/watch?v=O6SWv8lnpCI)
     - [Jay's Straight Up Reviews & More: PHILIPS NX200 🦨 (TANX200) 🆚 JBL PARTYBOX 110 - Bluetooth Speaker Comparison, Both on Bass mode One.](https://www.youtube.com/watch?v=rMX9Y-OpNoc)
@@ -916,20 +916,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #34 Panasonic SC-TMAX10
 - Negatives: Not as deep bass as others in the class
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~57hz
 - Battery Life: 10 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 22.5lbs / 10.2kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Party Mode: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
 - Links
@@ -939,19 +939,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #35 Panasonic SC-TMAX5
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~57hz
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 14.3lbs / 6.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Party Mode: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 14.3lbs / 6.5kg
 - Reviews, Comparisons and Sound Samples
     - [JARA MIKE: Panasonic  SC- TMAX5 ♫](https://www.youtube.com/watch?v=_jlJnhPyALs)
     - [JARA MIKE: Panasonic 🔴 SC- TMAX5 ♫ .150 W RMS](https://www.youtube.com/watch?v=dXoD0Yv_iLM)
@@ -961,18 +961,18 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #36 Sharp PS-929: $150
 - Negatives: Not very deep bass
-- Bass Extension (-10dB): ~60hz
-- Power Input: AC Power cord
-- Weight: 19lbs / 8.6kg
-- Bluetooth Codecs: SBC
 - App: No
+- Bass Extension (-10dB): ~60hz
+- Bluetooth Codecs: SBC
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 19lbs / 8.6kg
 - Reviews, Comparisons and Sound Samples
     - [Technotin: Power Audio Sharp PS-929   7day experience](https://www.youtube.com/watch?v=uiRxrnvyvCw)
 - Links
@@ -981,19 +981,19 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #37 Soundcore Rave+: $240
 - Negatives: Pretty big lack of deep bass
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
-- Weight: 7.7lbs / 3.49kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 7.7lbs / 3.49kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
     - [Techder Audios: Soundcore Rave+ - Soundtest "NOT IMPRESSIVE ENOUGH?!"](https://www.youtube.com/watch?v=ZjQIvZByyns)
@@ -1003,20 +1003,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #38 Soundcore Rave: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 21.6lbs / 9.8kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Party Mode: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 21.6lbs / 9.8kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=1CQo4WE0wxU>
     - [KosherTech: Soundcore Rave VS Turtlebox- (Sound Test Only)🎧](https://www.youtube.com/watch?v=1_BYNkiIMx4)
@@ -1025,20 +1025,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #39 Sony GTK-XB90
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 30.8lbs / 14kg
-- Bluetooth Codecs: SBC, AAC, LDAC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 30.8lbs / 14kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=R4s5LPfdj7g>
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>
@@ -1048,20 +1048,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #40 Sony GTK-XB72
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~56hz
 - Battery Life: 23 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- USB Playback: Yes
-- Weight: 27lbs / 12.2kg
-- Bluetooth Codecs: SBC, AAC, LDAC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- IP Rating: None
+- USB Playback: Yes
+- Weight: 27lbs / 12.2kg
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: JBL PARTYBOX 310 VS SONY GTK XB72 SOUND TEST COMPARISON](https://www.youtube.com/watch?v=qY0Cdd2QJTU)
 - Links
@@ -1069,20 +1069,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #41 Sony GTK-XB60
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 14 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- USB Playback: Yes
-- Weight: 17.64lbs / 8kg
-- Bluetooth Codecs: SBC, AAC, LDAC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- IP Rating: None
+- USB Playback: Yes
+- Weight: 17.64lbs / 8kg
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: 🤣JBL Partybox 100 vs Sony GTK XB60 Sound Battle You Asked For It](https://www.youtube.com/watch?v=yq29uHBJKjI)
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
@@ -1092,21 +1092,21 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 
 ## #42 Altec Lansing AL500: $200
 - Negatives: Not very deep bass
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
+- Bluetooth Codecs: SBC
+- EQ: No
 - FM Tuner: Yes
+- IP Rating: None
 - Microphone Input: Yes
+- Party Mode: No
+- Power Bank: No
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.4lbs / 6.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
-- Stereo: Yes
-- Party Mode: No
-- Power Bank: No
-- IP Rating: None
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing- ☠️ Street Shock (AL500) Bluetooth Speaker Review. A JBL Partybox 200/300 Killer?](https://www.youtube.com/watch?v=_09Fi5-pF7Q)
 - Links
@@ -1115,20 +1115,20 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 ## #43 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325)]: $100
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 6 hours
-- Power Input: AC Power cord
-- Weight: 11.8lbs / 5.4kg
 - Bluetooth Codecs: SBC
-- App: No
 - EQ: No
-- Stereo: Yes
-- TWS: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
+- Power Input: AC Power cord
+- Stereo: Yes
+- TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 11.8lbs / 5.4kg
 - Reviews, Comparisons and Sound Samples
     - [Daniel Parker Big D: Sound Quality Bass Test On Rockville Rock Party 6 Bluetooth Speaker](https://www.youtube.com/watch?v=eVlB4zq2Q0I)
     - [PAPAGEORGIO84: Jbl party box 100 vs Rockville 6](https://www.youtube.com/watch?v=28bFX3K9Gzs)

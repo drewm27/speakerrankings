@@ -9,21 +9,21 @@ The Xdobo X8 Max ranks [#53 out of 73 total Large Size Portable Bluetooth Speake
 
 ## #53 Xdobo X8 Max: $73
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 15 hours
-- MicroSD: Yes
-- Power Bank: Yes
-- Weight: 6.3lbs / 2.86kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 6.3lbs / 2.86kg
 - Reviews, Comparisons and Sound Samples
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links

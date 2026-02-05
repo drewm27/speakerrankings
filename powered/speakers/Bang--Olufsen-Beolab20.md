@@ -10,12 +10,12 @@ The Bang & Olufsen Beolab20 ranks [#2 out of 2 total Large Size Powered Floorsta
 ## #2 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
-- Bass Extension (-3dB): 20hz
 - App: Yes (B&O app)
 - Bass Extension (-10dB): <20hz
+- Bass Extension (-3dB): 20hz
 - Bluetooth: No
-- Dimensions: 15.5"W x 32.3"H x 12"D
 - DSP: Yes (Digital Sound Engine)
+- Dimensions: 15.5"W x 32.3"H x 12"D
 - EQ: Yes (Room adaptation: Free/Wall/Corner)
 - Frequency Response: 19.5Hz - 23.6kHz
 - Inputs: PowerLink (RJ45), RCA, TOSLINK optical, WiSA wireless

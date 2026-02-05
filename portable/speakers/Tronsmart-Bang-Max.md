@@ -14,20 +14,20 @@ The Tronsmart Bang Max ranks [#32 out of 68 total Boombox Size Portable Bluetoot
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 39hz
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 160ms
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Latency: 160ms
 - Max Volume: 111db
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
-- Weight: 12.8lbs / 5.8kg
-- Bluetooth Codecs: SBC
 - TWS: Yes
-- Party Mode: No
 - USB Playback: No
-- Built in Microphone: No
+- Weight: 12.8lbs / 5.8kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Bang Max Review, JBL Boombox 3 wannabe 130w](https://www.youtube.com/watch?v=1Wcuer7PIIE)
     - [Techder Audios: Zealot ZE01 VS Tronsmart Bang Max SOLID VOCALS VS DEEPER BASS](https://www.youtube.com/watch?v=_lZVAEHjLe8)

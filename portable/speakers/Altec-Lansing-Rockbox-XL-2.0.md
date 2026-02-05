@@ -9,19 +9,19 @@ The Altec Lansing Rockbox XL 2.0 ranks [#66 out of 68 total Boombox Size Portabl
 
 ## #66 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
-- Battery Life: 20 hours
-- Stereo: Yes
-- Weight: 12.6 lbs / 5.7kg
-- Bluetooth Codecs: SBC
 - App: Yes (House Party app)
+- Battery Life: 20 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (App EQ)
-- TWS: Yes
+- FM Tuner: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 12.6 lbs / 5.7kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links

@@ -9,20 +9,20 @@ The LG Xboom Go PL7 ranks [#66 out of 73 total Large Size Portable Bluetooth Spe
 
 ## #66 LG Xboom Go PL7: $70
 - Negatives: 9khz peak. Not good sounding.
+- App: No
 - Aux Input: Yes
 - Battery Life: 24 hours
-- Max Volume: 95db
-- Weight: 3.2lbs / 1.45 kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: 95db
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 3.2lbs / 1.45 kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: LG Xboom Go PL7 vs Anker Soundcore Motion Plus -  bass sound test](https://www.youtube.com/watch?v=ZUJrVyWU8Xs)
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)

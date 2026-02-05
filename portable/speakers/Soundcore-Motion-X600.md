@@ -10,23 +10,23 @@ The Soundcore Motion X600 ranks [#18 out of 73 total Large Size Portable Bluetoo
 ## #18 [Soundcore Motion X600](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Wireless-Waterproof/dp/B0BWXM3RRK/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9b98d3b84a9d649f8e925cb066836c3b&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1856340-REG/soundcore_by_anker_a3130011_anker_motion_x600_portable.html?BI=23745&KBID=29189)]: $150
 - Positives: Firmware 4.2.9 is a big improvement in sound quality over previous releases. Try this [Oluv EQ for the best sound quality](https://www.patreon.com/oluvsone/shop/soundcore-motion-x600-eq-settings-106961)
 - Negatives: Stock frequency response is wavy. Use spatial mode for best sound quality. Need a different EQ for each volume step. Dip in the upper bass around 120hz. Rising frequency response, treble a little hot. Would be ranked around #20 without the Oluv EQ. Even with the Oluv EQ the bass isn't very deep and the sound is still a little unnatural.
+- App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 12 hours
-- IP Rating: IPX7
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 83ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Max Volume: 104db
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Weight: 5.17lbs / 2.35kg
-- App: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- Party Mode: No
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Motion X600 now tuned by Alan Ross (sort of) Not clickbait!](https://www.youtube.com/watch?v=7eQFNduP7ak)
     - [Alan Ross Reviews: breaking news.....Soundcore Motion X600 with LDAC and spatial audio!](https://www.youtube.com/watch?v=SwJXt6ZNLKM)

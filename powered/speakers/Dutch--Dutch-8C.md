@@ -10,24 +10,24 @@ The Dutch & Dutch 8C ranks [#1 out of 22 total Large Size Powered Bookshelf Spea
 ## #1 [Dutch & Dutch 8C](https://tidepoolaudio.com/products/dutch-dutch-8c-studio-active-monitor-speaker-pair) [[Tidepoolaudio](https://tidepoolaudio.com/products/dutch-dutch-8c-studio-active-monitor-speaker-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dutch+%26+Dutch+8C)]: $13000
 - Positives: Some of the deepest bass you will find anywhere from a reasonably sized bookshelf speaker. Performs like a big floorstander. Very smooth frequency response
 - Negatives: Vertical off-axis is just okay due to the distance between the midrange and tweeter
+- App: Yes (Ascend)
 - Bass Extension (-10dB): <20hz
 - Bass Extension (-3dB): 23hz
+- Bluetooth: No
+- DSP: Yes
 - Dimensions: 19"H x 10.5"W x 15"D
+- EQ: Yes (24-band parametric)
+- Frequency Response: 20Hz - 20kHz
 - Inputs: XLR
+- Max SPL: 106dB @ 1m continuous
 - Midrange: 8" Aluminium Cone
+- Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
+- Streaming: Yes (network streaming)
 - Tweeter: 1" Aluminium/Magnesium dome
 - Watts: 1000w Per Speaker
 - Weight: 57lbs / 26kg each
-- Woofer: 2x 8" Aluminium Cone
-- App: Yes (Ascend)
-- Bluetooth: No
-- DSP: Yes
-- EQ: Yes (24-band parametric)
-- Frequency Response: 20Hz - 20kHz
-- Max SPL: 106dB @ 1m continuous
-- Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
-- Streaming: Yes (network streaming)
 - WiFi: Yes (Ethernet)
+- Woofer: 2x 8" Aluminium Cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dutch & Dutch 8c Bookshelf Speaker Review](https://www.youtube.com/watch?v=j38gkS-Q8f8)
     - [Erin's Audio Corner Website Dutch & Dutch 8C](https://www.erinsaudiocorner.com/loudspeakers/dutch_dutch_8c/)

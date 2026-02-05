@@ -9,20 +9,20 @@ The Sony GTK-XB90 ranks [#39 out of 43 total Party Size Portable Bluetooth Speak
 
 ## #39 Sony GTK-XB90
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 30.8lbs / 14kg
-- Bluetooth Codecs: SBC, AAC, LDAC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 30.8lbs / 14kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=R4s5LPfdj7g>
     - <https://www.youtube.com/watch?v=1p2lC1Y-JrU>

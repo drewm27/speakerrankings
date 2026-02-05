@@ -9,20 +9,20 @@ The Sony GTK-XB60 ranks [#41 out of 43 total Party Size Portable Bluetooth Speak
 
 ## #41 Sony GTK-XB60
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 14 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- EQ: No
+- IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- USB Playback: Yes
-- Weight: 17.64lbs / 8kg
-- Bluetooth Codecs: SBC, AAC, LDAC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- IP Rating: None
+- USB Playback: Yes
+- Weight: 17.64lbs / 8kg
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: 🤣JBL Partybox 100 vs Sony GTK XB60 Sound Battle You Asked For It](https://www.youtube.com/watch?v=yq29uHBJKjI)
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>

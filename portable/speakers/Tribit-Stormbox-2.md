@@ -13,10 +13,10 @@ The Tribit Stormbox 2 ranks [#76 out of 130 total Medium Size Portable Bluetooth
 - App: Yes
 - Aux Latency: 200ms
 - Battery Life: 24 hours
+- Bluetooth Latency: 400ms AAC, 400ms SBC
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 400ms AAC, 400ms SBC
 - Max Volume: 99db
 - Party Mode: Yes
 - Stereo: No (front/rear drivers)

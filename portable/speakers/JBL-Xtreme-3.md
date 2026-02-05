@@ -10,10 +10,15 @@ The JBL Xtreme 3 ranks [#16 out of 73 total Large Size Portable Bluetooth Speake
 ## #16 [JBL Xtreme 3](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-speaker/dp/B08NLCW9WY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=bfb188165f73057696384b07ef620006&camp=1789&creative=9325)]: $230
 - Positives: Better treble and deeper bass than the Xtreme 2. More balanced sounding than the Xtreme 4
 - Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IPX7
 - Max Volume: 105db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
@@ -21,11 +26,6 @@ The JBL Xtreme 3 ranks [#16 out of 73 total Large Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.03lbs / 1.83kg
-- App: No
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- IP Rating: IPX7
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
     - <https://www.youtube.com/watch?v=zcKZlYkFQIU>

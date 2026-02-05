@@ -10,19 +10,19 @@ The Bugani M83 ranks [#67 out of 73 total Large Size Portable Bluetooth Speakers
 ## #67 Bugani M83: $60
 - Positives: Very inexpensive.
 - Negatives: Not very deep bass, treble a little boosted
-- Battery Life: 40 hours
-- Power Bank: Yes
-- Weight: 5.06lbs / 2.3kg
 - App: No
 - Aux Input: Yes
+- Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 5.06lbs / 2.3kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
 

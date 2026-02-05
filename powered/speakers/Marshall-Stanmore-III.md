@@ -25,8 +25,8 @@ The Marshall Stanmore III ranks [#8 out of 13 total Medium Size Powered Desktop 
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Partially (1 woofer)
-- Tweeter: 2x 0.75" Dome
 - TWS: No
+- Tweeter: 2x 0.75" Dome
 - Weight: 9.7lbs / 4.4kg
 - Wifi: No
 - Woofer: 5" (midrange/woofer)

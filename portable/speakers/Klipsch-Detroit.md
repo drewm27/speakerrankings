@@ -13,17 +13,17 @@ The Klipsch Detroit ranks [#51 out of 73 total Large Size Portable Bluetooth Spe
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- EQ: No
 - IP Rating: IP67
 - Max Volume: 93db
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 5.4lbs / 2.5kg
-- Bluetooth Codecs: SBC
-- EQ: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [Walts TV: The Austin NEW Klipsch Bluetooth Speaker Review + Sound Test](https://www.youtube.com/watch?v=lzMYAggcAmI)
     - [Audio Inside Scoop: Klipsch Detroit VS JBL Xtreme 3 Hear With Me!!](https://www.youtube.com/watch?v=0UCLAHrrZHs)

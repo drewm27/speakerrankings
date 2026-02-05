@@ -6,7 +6,7 @@ cover-img: "/assets/img/bogasingg4.jpg"
 share-description: "Find the best Bluetooth speakers with SD‑card support. Expertly ranked for sound quality, portability & value, so you can play music straight from memory cards."
 ---
 
-This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 364 ranked on this website. Last updated on 02/04/2026. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+This page summarizes the best sounding portable Bluetooth speakers with SD card slot or USB stick playback out of the 364 ranked on this website. Last updated on 02/05/2026. The suggestions in this section are biased towards the best sounding speakers with SD card slot or USB stick playback. For more information, sound samples and specs about all these speakers, or to find more by searching the following link for "MicroSD: Yes" or "USB Playback: Yes" see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
 
 See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
@@ -18,18 +18,18 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - App: No
 - Aux Input: Yes
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None
 - MicroSD: Yes
+- Party Mode: No
 - Power Bank: No
 - Power Input: Micro USB
-- Weight: 0.44lbs / 200g
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
 - Stereo: No
 - TWS: Yes
+- Weight: 0.44lbs / 200g
 - Reviews, Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
 - Links
@@ -45,9 +45,9 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 56hz
 - Battery Life: 24 hours
+- Bluetooth Latency: 90ms
 - EQ: No
 - IP Rating: IPX7
-- Bluetooth Latency: 90ms
 - Max Volume: 100db
 - MicroSD: Yes
 - Party Mode: No
@@ -63,22 +63,22 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 
 ### The best reasonably priced [large size](/portable/large/) battery powered speaker with a SD card slot is the [**W-King T9**](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-W-KING-Portable-Wireless-Non-Waterproof/dp/B08TTCHNP2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a20e5ad54a2856feb77bbd66b10b5ec&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3xpFLqb)]: $130
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
-- IP Rating: None
-- Max Volume: 106db
-- MicroSD: Yes
-- Power Bank: Yes
-- TWS: Yes
-- Weight: 10.1lbs / 4.6kg
-- App: No
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
+- IP Rating: None
+- Max Volume: 106db
+- MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
+- TWS: Yes
+- Weight: 10.1lbs / 4.6kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
     - [Alan Ross Reviews: W-King T9 or Soundcore Motion Boom - King vs World Champion! 👌](https://www.youtube.com/watch?v=u9_Rn0gvgwE)
@@ -96,20 +96,20 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: SBC
+- Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Bluetooth Latency: SBC
 - Max Volume: 116db
 - MicroSD: Yes
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Weight: 20.4lbs / 9.27kg
-- Bluetooth Codecs: SBC
-- Power Bank: Yes
 - USB Playback: Yes
-- Built in Microphone: No
+- Weight: 20.4lbs / 9.27kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot Ze21!!!](https://www.youtube.com/watch?v=QL2eJOOt1pg)
     - [Jagist reviews: Zealot Ze21 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=cZixAKX49hg)
@@ -157,19 +157,19 @@ See [this link for speakers that are the best for a specific use](/#top-recommen
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 87lbs / 39kg
 - Wifi: Yes
-- Built in Microphone: No
-- Party Mode: Yes
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: JBL Partybox Ultimate Vs SOUNDBOKS 4 & Sony XV900 - Is It Worth It?](https://www.youtube.com/watch?v=AFaO3biTmZc)
     - [GYMCADDY: JBL Partybox Ultimate Vs Partybox 710 - They're Both Crazy, But There Is A Clear Winner](https://www.youtube.com/watch?v=APKDyXgIM6Q)

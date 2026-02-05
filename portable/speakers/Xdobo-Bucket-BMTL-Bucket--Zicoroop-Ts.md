@@ -11,20 +11,20 @@ The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks [#33 out of 73 total Large Siz
 - Positives: Sounds quite good for the price. A little difficult to rank based on the sound samples, this one could move around as we get better samples.
 - Negatives: Dip from 120-180hz, a little bass boosted. Muffled with cover on.
 - App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
 - Battery Life: 15 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Party Mode: No
+- Power Bank: No
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 2.69lbs / 1.22kg
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
-- Power Bank: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - [SpeakerBlowUpMan Lee: Zicoroop Ts (Xdobo bucket) Bluetooth Speaker Review/Teardown](https://www.youtube.com/watch?v=hAfUPwhnD4A)
 

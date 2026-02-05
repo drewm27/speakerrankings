@@ -14,7 +14,9 @@ The B&W Zeppelin ranks [#19 out of 22 total Large Size Powered Bookshelf Speaker
 - Aux Input: No
 - Bass Extension (-10dB): ~32Hz
 - Battery Life: No battery
+- Bluetooth: No
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
+- DSP: No
 - EQ: No
 - IP Rating: None
 - Party Mode: No
@@ -23,8 +25,6 @@ The B&W Zeppelin ranks [#19 out of 22 total Large Size Powered Bookshelf Speaker
 - TWS: No
 - Weight: 14.3lbs / 6.5kg
 - Wifi: Yes
-- Bluetooth: No
-- DSP: No
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>

@@ -9,19 +9,19 @@ The Artsound PWR05 ranks [#67 out of 68 total Boombox Size Portable Bluetooth Sp
 
 ## #67 Artsound PWR05
 - Negatives: Strange frequency peaks, sound is very hollow.
+- App: No
 - Aux Input: Yes
 - Battery Life: 10 hours
-- Stereo: Partially
-- Weight: 9.7lbs / 4.4kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: No
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
+- Stereo: Partially
+- TWS: No
+- USB Playback: No
+- Weight: 9.7lbs / 4.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
 

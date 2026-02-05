@@ -15,15 +15,15 @@ The Vifa Helsinki ranks [#1 out of 73 total Large Size Portable Bluetooth Speake
 - Bass Extension (-10dB): 48hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: aptX, SBC
+- Built in Microphone: Yes
+- EQ: No
 - IP Rating: None
 - Party Mode: No
+- Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (shared woofer)
 - TWS: No
 - Weight: 3.1lbs / 1.4kg
-- Built in Microphone: Yes
-- EQ: No
-- Power Bank: No
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Motion X600 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-95038563)
     - [Oluv: SoundCore Motion 300 vs VIFA Helsinki](https://www.patreon.com/posts/soundcore-motion-94933573)

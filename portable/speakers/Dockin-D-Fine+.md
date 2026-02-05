@@ -9,8 +9,6 @@ The Dockin D Fine+ ranks [#31 out of 73 total Large Size Portable Bluetooth Spea
 
 ## #31 Dockin D Fine+
 - Positives: Deeper bass than the non-plus version.
-- Power Bank: Yes
-- Power Input: USB-C
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
@@ -18,6 +16,8 @@ The Dockin D Fine+ ranks [#31 out of 73 total Large Size Portable Bluetooth Spea
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples

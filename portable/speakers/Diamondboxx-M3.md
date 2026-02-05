@@ -9,21 +9,21 @@ The Diamondboxx M3 ranks [#48 out of 68 total Boombox Size Portable Bluetooth Sp
 
 ## #48 Diamondboxx M3: $700
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
+- App: No
 - Aux Input: Yes
 - Battery Life: 40 hours
-- IP Rating: None
-- Stereo: Yes
-- Weight: 11lbs / 5kg
 - Bluetooth Codecs: SBC
-- App: No
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: No
+- IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 11lbs / 5kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=qIkm529aaaQ>
     - <https://www.youtube.com/watch?v=NIyRizpppgI>

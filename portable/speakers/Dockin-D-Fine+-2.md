@@ -10,21 +10,21 @@ The Dockin D Fine+ 2 ranks [#24 out of 73 total Large Size Portable Bluetooth Sp
 ## #24 [Dockin D Fine+ 2](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOCKIN-FINE-Hi-Fi-Bluetooth-Speaker/dp/B083DY2LT4/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=43f0c8f46b0d11c058b52d00e6644d2f&camp=1789&creative=9325)]: $150
 - Positives: Quite deep bass for the category.
 - Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
+- App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): 45hz
 - Battery Life: 16 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
 - EQ: Yes (Bass boost 3 steps)
 - IP Rating: IPX5
 - Max Volume: 96db
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
+- Stereo: Yes
 - TWS: Yes
 - Weight: 4.96lbs / 2.3kg
-- App: No
-- Aux Input: Yes
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- Party Mode: No
-- Stereo: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=tIsmoHIQ5-I>
     - <https://www.youtube.com/watch?v=5tz_AnBghiA>

@@ -10,20 +10,20 @@ The Bumpboxx Flare 6 ranks [#53 out of 68 total Boombox Size Portable Bluetooth 
 ## #53 Bumpboxx Flare 6: $300
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
-- Battery Life: 12 hours
-- Max Volume: 115db
-- Stereo: Yes
-- Weight: 13lbs / 5.9kg
-- Bluetooth Codecs: SBC
 - App: No
+- Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
 - EQ: No
-- TWS: Yes
+- FM Tuner: Yes
+- Max Volume: 115db
 - Party Mode: No
 - Power Bank: No
-- USB Playback: No
-- Built in Microphone: No
 - Power Input: USB-C
-- FM Tuner: Yes
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: No
+- Weight: 13lbs / 5.9kg
 - Reviews, Comparisons and Sound Samples
     - [Macbrebonicks: Bumpboxx Flare 6 Vs JBL Boombox](https://www.youtube.com/watch?v=o8DaGePVQzQ)
 

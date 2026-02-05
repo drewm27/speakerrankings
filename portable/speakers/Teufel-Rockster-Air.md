@@ -9,21 +9,21 @@ The Teufel Rockster Air ranks [#20 out of 43 total Party Size Portable Bluetooth
 
 ## #20 Teufel Rockster Air: €500
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- EQ: No
+- IP Rating: None
 - Max Volume: 115db
+- Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Weight: 32.0lbs / 14.5kg
-- Bluetooth Codecs: SBC
-- App: No
-- EQ: No
 - Stereo: Yes
 - TWS: No
-- Party Mode: No
 - USB Playback: No
-- IP Rating: None
+- Weight: 32.0lbs / 14.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links

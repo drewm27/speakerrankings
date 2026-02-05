@@ -6,7 +6,7 @@ cover-img: "/assets/img/ubooml.jpg"
 share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
 ---
 
-This page ranks 130 medium size powered Bluetooth speakers. Last updated on 02/04/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 130 medium size powered Bluetooth speakers. Last updated on 02/05/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
@@ -29,10 +29,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Built in Microphone: Yes
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Max Volume: 103db
 - Party Mode: No
 - Power Bank: No
@@ -62,10 +62,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 50hz
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
+- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Max Volume: 101db
 - Power Bank: No
 - Stereo: Yes
@@ -97,10 +97,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
+- Bluetooth Latency: 130ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 130ms
 - Max Volume: 104db
 - Party Mode: No
 - Power Bank: No
@@ -129,10 +129,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: 150ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 150ms
 - Max Volume: 99db
 - Party Mode: No
 - Power Bank: Yes
@@ -158,9 +158,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 57hz
 - Battery Life: 13 hours
+- Bluetooth Latency: 180ms
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 180ms
 - Max Volume: 97db
 - Power Input: Micro USB
 - Stereo: Yes
@@ -185,9 +185,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 56hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 60ms
 - EQ: Yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
 - Max Volume: 106db
 - Power Bank: Yes
 - Power Input: USB-C
@@ -210,10 +210,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Bass Extension (-10dB): 53hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, AAC, SBC
+- Bluetooth Latency: 60ms
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: Splash resistant
-- Bluetooth Latency: 60ms
 - Max Volume: 105db
 - Power Bank: No
 - Power Input: Proprietary USB cable
@@ -294,10 +294,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Bass Extension (-10dB): 58hz
 - Battery Life: 18 hours
+- Bluetooth Latency: 90ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 90ms
 - Max Volume: 93db
 - Power Bank: No
 - Stereo: No
@@ -356,10 +356,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
+- Bluetooth Latency: 116ms
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IP67
-- Bluetooth Latency: 116ms
 - Max Volume: 98db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: No
@@ -553,10 +553,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 20 hours
+- Bluetooth Latency: 200ms
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 200ms
 - Max Volume: 100db
 - Power Bank: No
 - Stereo: No
@@ -580,10 +580,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 58hz
 - Battery Life: 20 hours
+- Bluetooth Latency: 160ms
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IPX7
-- Bluetooth Latency: 160ms
 - Max Volume: 99db
 - Power Bank: No
 - Stereo: Yes
@@ -632,9 +632,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 56hz
 - Battery Life: 24 hours
+- Bluetooth Latency: 90ms
 - EQ: No
 - IP Rating: IPX7
-- Bluetooth Latency: 90ms
 - Max Volume: 100db
 - MicroSD: Yes
 - Party Mode: No
@@ -654,9 +654,9 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Bass Extension (-10dB): 54hz
 - Battery Life: 24 hours
+- Bluetooth Latency: 150ms
 - EQ: No
 - IP Rating: IPX7
-- Bluetooth Latency: 150ms
 - Max Volume: 99db
 - MicroSD: Yes
 - Power Input: USB-C
@@ -696,8 +696,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
-- EQ: Yes (3 band)
 - Bluetooth Latency: 125ms
+- EQ: Yes (3 band)
 - Max Volume: 99db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
@@ -837,8 +837,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Battery Life: 24 hours
-- EQ: Yes
 - Bluetooth Latency: SBC 233ms, AAC 240ms
+- EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes
 - Power Input: USB-C
@@ -883,10 +883,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
+- Bluetooth Latency: 33ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Bluetooth Latency: 33ms
 - Max Volume: 96db
 - Party Mode: Yes (Bose Party mode)
 - Power Input: USB-C
@@ -1179,8 +1179,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Bass Extension (-10dB): 47hz
 - Battery Life: 30 hours
-- EQ: Yes
 - Bluetooth Latency: 400ms aac, 200ms sbc
+- EQ: Yes
 - Stereo: No
 - Weight: 1.45lbs / 657g
 - Reviews, Comparisons and Sound Samples
@@ -1269,8 +1269,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Bass Extension (-10dB): 60hz
 - Battery Life: 24 hours
-- EQ: Yes
 - Bluetooth Latency: 180ms
+- EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Stereo: Yes
@@ -1663,10 +1663,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Aux Latency: 200ms
 - Battery Life: 24 hours
+- Bluetooth Latency: 400ms AAC, 400ms SBC
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Bluetooth Latency: 400ms AAC, 400ms SBC
 - Max Volume: 99db
 - Party Mode: Yes
 - Stereo: No (front/rear drivers)
@@ -1843,10 +1843,10 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Aux Latency: 0
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
+- Bluetooth Latency: 166ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
-- Bluetooth Latency: 166ms
 - Max Volume: 97db
 - Weight: 1.2lbs / 535g
 - Reviews, Comparisons and Sound Samples
@@ -2007,8 +2007,8 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - App: Yes
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
-- EQ: Yes
 - Bluetooth Latency: 80ms
+- EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Weight: 1.3lbs / 600g

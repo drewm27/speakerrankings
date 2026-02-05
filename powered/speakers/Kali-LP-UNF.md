@@ -10,14 +10,14 @@ The Kali LP-UNF ranks [#5 out of 24 total Medium Size Powered Bookshelf Speakers
 ## #5 [Kali LP-UNF](https://www.amazon.com/KALI-AUDIO-LP-UNF-Nearfield-Bluetooth/dp/B0CSDVVYBC?mcid=6d7ff2a558da3c8abdab65971ce3980e&hvocijid=1369021853064517712-B0CSDVVYBC-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=1369021853064517712&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178058&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=eac473512f174456e9d90c3ba837b3e7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KALI-AUDIO-LP-UNF-Nearfield-Bluetooth/dp/B0CSDVVYBC?mcid=6d7ff2a558da3c8abdab65971ce3980e&hvocijid=1369021853064517712-B0CSDVVYBC-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=1369021853064517712&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178058&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=eac473512f174456e9d90c3ba837b3e7&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Kali+LP-UNF)]: $350 a pair
 - Positives: An insane value in this class. Slight 2dB bass boost. Pretty deep bass for this size class. Includes Bluetooth
 - Negatives: 3dB dip around 240hz
+- App: No
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 54hz
+- Bluetooth: No
+- EQ: No
 - Inputs: Bluetooth, USB-C (digital), RCA, TRS
 - Tweeter: 1" Textile Dome
 - Woofer: 4.5"
-- App: No
-- Bluetooth: No
-- EQ: No
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Perfect Desktop Speaker? Kali LP-UNF.](https://www.youtube.com/watch?v=hOkMVbW7Yts)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)

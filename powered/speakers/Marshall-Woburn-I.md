@@ -9,12 +9,10 @@ The Marshall Woburn I ranks [#6 out of 13 total Medium Size Powered Desktop Spea
 
 ## #6 Marshall Woburn I: $500
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
 - Battery Life: No battery
-- Power Input: AC Power cord
-- Weight: 17.4lbs / 7.9kg
-- App: No
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
@@ -25,9 +23,11 @@ The Marshall Woburn I ranks [#6 out of 13 total Medium Size Powered Desktop Spea
 - Midrange: Integrated in woofers
 - Party Mode: No
 - Power: 90W
+- Power Input: AC Power cord
 - Stereo: Yes
-- Tweeter: 2x 1"
 - TWS: No
+- Tweeter: 2x 1"
+- Weight: 17.4lbs / 7.9kg
 - Wifi: No
 - Woofer: 2x 5.25"
 - Woofer Cabinet: Ported
