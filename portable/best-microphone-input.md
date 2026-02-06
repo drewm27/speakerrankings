@@ -6,17 +6,24 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Expert rankings of 364 Bluetooth speakers with microphone input. Detailed specs, sound samples & EQ settings. Budget to premium picks from $230."
 ---
 
-This page summarizes the best portable Bluetooth speakers with microphone input of the 364 ranked on this website. Last updated on 02/06/2026. The suggestions in this section are biased towards value speakers with microphone inputs and a reasonable frequency response. Keep in mind that bigger speakers have deeper bass, so always go as big as you can. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
+**Looking for the best Bluetooth speaker with microphone input?** We've ranked 364 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by expert reviewers like Oluv and Alan Ross. **Last updated: 02/06/2026.**
 
-See this for [Speakers with Wireless Microphones](/portable/best-wireless-microphone/) or [Speakers with Built In Microphone For Calls](/portable/best-microphone/)
+Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
-See [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
+See [this link for all portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked) and [this link for speakers that are the best for a specific use](/#top-recommended-speakers-by-attribute)
 
-## The Best Loud Powered Speakers with Microphone Input
+## Quick Navigation
+
+* [Loudest Speakers](#loudest) - Maximum volume with quality
+* [Loudest Battery Speakers](#medium) - Maximum volume with battery
+* [Party Speakers](#party) - Big events, serious bass
+* [Boombox Speakers](#boombox) - Premium sound meets portability
+
+## Loudest
 
 If you don't need a battery and need the speaker to be the loudest possible, PA speakers will be your best bet. The best ones are generally the [QSC K12.2](https://www.amazon.com/QSC-K12-2-Active-Powered-Loudspeaker/dp/B06Y477LND/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf3c0056f3ef63bee7512b791af2e9b6&camp=1789&creative=9325) (132dB peak) or the [EV EKX-12P](https://www.amazon.com/Electro-Voice-EKX12P-Range-Powered-Loudspeaker/dp/B0779P36PH/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=55e34def00766ce51d3d42ed06f4322a&camp=1789&creative=9325) (132dB peak)
 
-## The Loudest Battery Powered Bluetooth Speakers with Microphone Input
+## Loudest Battery
 
 ### The best sounding [party size](/portable/party/) loudest battery powered speaker for microphone usage is the [**Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
 - Positives: Good midrange and treble. The best sounding extremely loud speaker available.
@@ -46,7 +53,7 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
 
 
-## The Next Loudest And Best Sounding Battery Powered Bluetooth Speakers with Microphone Input
+## Party
 
 The next best battery powered speakers for this use will be the [party size](/portable/party/) and [large party size](/portable/largeparty/) JBL Partybox line which won't get quite as loud as the speaker above but will all have much deeper bass. In order from largest to smallest 
 
@@ -143,7 +150,7 @@ The next best battery powered speakers for this use will be the [party size](/po
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-CLUB-120.html)
 
 
-## Boombox Sized Powered Bluetooth Speakers with Microphone Input
+## Boombox
 
 ### [**JBL Partybox Encore Essential 2**](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875203-REG/jbl_jblpbencoreess2am_partybox_encore_essential_100w.html?BI=23745&KBID=29189)]: $230
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Better battery life than the first Encore.
