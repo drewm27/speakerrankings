@@ -27,6 +27,8 @@ The JBL Partybox Stage 320 ranks [#1 out of 43 total Party Size Portable Bluetoo
 - USB Playback: Yes
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
+    - [Oluv: JBL Partybox 320 vs 520 - outdoor test](https://www.patreon.com/posts/jbl-partybox-320-149600365)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)

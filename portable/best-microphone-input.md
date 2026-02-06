@@ -72,6 +72,12 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Weight: 68.3lbs / 31kg
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: JBL Partybox 720 - indoor EQ](https://www.patreon.com/posts/jbl-partybox-720-148617072)
+    - [Oluv: JBL Partybox 520 & 720 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-520-149440967)
+    - [Oluv: JBL Partybox 520 vs 720 - outdoor test](https://www.patreon.com/posts/jbl-partybox-520-149324090)
+    - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
+    - [Oluv: JBL Partybox 720 vs Teufel Rockster Neo - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-149070999)
+    - [Oluv: JBL Partybox 720 vs Marshall Bromley 750 - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-148190027)
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
@@ -102,6 +108,8 @@ The next best battery powered speakers for this use will be the [party size](/po
 - USB Playback: Yes
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
+    - [Oluv: JBL Partybox 320 vs 520 - outdoor test](https://www.patreon.com/posts/jbl-partybox-320-149600365)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🛜 Defcon 5🚨 Bass Alert! Take Shelter Immediately! 😲 Best Bass Goes To?](https://www.youtube.com/watch?v=qQ34Z6813oM)
     - [Jay's Straight Up Reviews & More: JBL Partybox Stage 320 vs 310 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=1MHvBEahqNs)
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)

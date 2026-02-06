@@ -29,6 +29,12 @@ The JBL Partybox 720 ranks [#3 out of 9 total Large Party Size Portable Bluetoot
 - Weight: 68.3lbs / 31kg
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: JBL Partybox 720 - indoor EQ](https://www.patreon.com/posts/jbl-partybox-720-148617072)
+    - [Oluv: JBL Partybox 520 & 720 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-520-149440967)
+    - [Oluv: JBL Partybox 520 vs 720 - outdoor test](https://www.patreon.com/posts/jbl-partybox-520-149324090)
+    - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
+    - [Oluv: JBL Partybox 720 vs Teufel Rockster Neo - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-149070999)
+    - [Oluv: JBL Partybox 720 vs Marshall Bromley 750 - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-148190027)
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)

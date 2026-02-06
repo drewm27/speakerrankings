@@ -98,6 +98,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 68.3lbs / 31kg
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: JBL Partybox 720 - indoor EQ](https://www.patreon.com/posts/jbl-partybox-720-148617072)
+    - [Oluv: JBL Partybox 520 & 720 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-520-149440967)
+    - [Oluv: JBL Partybox 520 vs 720 - outdoor test](https://www.patreon.com/posts/jbl-partybox-520-149324090)
+    - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
+    - [Oluv: JBL Partybox 720 vs Teufel Rockster Neo - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-149070999)
+    - [Oluv: JBL Partybox 720 vs Marshall Bromley 750 - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-148190027)
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
@@ -160,6 +166,12 @@ For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
 - Weight: 56.2lbs / 25.5kg
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: JBL Partybox 520 & 720 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-520-149440967)
+    - [Oluv: JBL Partybox 520 vs 720 - outdoor test](https://www.patreon.com/posts/jbl-partybox-520-149324090)
+    - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
+    - [Oluv: JBL Partybox 320 vs 520 - outdoor test](https://www.patreon.com/posts/jbl-partybox-320-149600365)
+    - [Oluv: JBL Partybox 520 vs Teufel Rockster Neo](https://www.patreon.com/posts/jbl-partybox-520-149234200)
+    - [Oluv: W-King T12 vs JBL Partybox 520](https://www.patreon.com/posts/w-king-t12-vs-149146838)
     - [AudioTribe: JBL PartyBox 520 Loudness & BASS Test Will Shock You!](https://www.youtube.com/watch?v=zr5feCDVhT4)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [AudioTribe: JBL Partybox 720 vs JBL Partybox 520 Who's Better?](https://www.youtube.com/watch?v=jcW1CkaMfRc)
