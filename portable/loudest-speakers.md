@@ -3,7 +3,7 @@ layout: page
 title: Loudest Portable Bluetooth Party Speakers 
 comments: true
 cover-img: "/assets/img/k12.2.jpg"
-share-description: "Explore the ultimate portable party speakers. Expertly ranked for booming volume, rich bass & battery life so you can pump up any gathering anywhere."
+share-description: "Expert rankings of 364 Bluetooth speakers tested for max volume. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
 These are the loudest possible portable speakers for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.

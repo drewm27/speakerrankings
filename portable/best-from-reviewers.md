@@ -3,7 +3,7 @@ layout: page
 title: Best Bluetooth Speakers From Top Reviewers 
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
-share-description: Top recommended Bluetooth speaker reviews from trusted expert reviewers. Compare top picks, explore ratings, and find your ideal speaker
+share-description: "Expert rankings of 364 Bluetooth speakers tested by top reviewers. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
 This page summarizes the best portable Bluetooth speakers recommended by other top unbiased reviewers who have reviewed enough speakers to make a reasonable top choice. These speakers also tend to be highly rated in the rankings. For more information, sound samples and specs about all these speakers, see the [portable speaker rankings by size](/#all-portable-bluetooth-speakers-ranked)
