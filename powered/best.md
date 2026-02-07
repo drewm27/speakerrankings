@@ -10,7 +10,9 @@ share-description: "Discover the top-recommended powered speakers. Expert-ranked
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
-For more detailed information and specs about these speakers see the full rankings of all of them at [All Powered Speakers Ranked](/#all-powered-speakers-ranked)
+For information and specs about all the speakers, see the full rankings of all of them at [All Powered Speakers Ranked](/#all-powered-speakers-ranked)
+
+## Quick Navigation
 
 * [For Most People](#for-most-people) 
 * [Critical Mixing and Mastering](#critical-mixing-and-mastering) 

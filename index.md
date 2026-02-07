@@ -23,9 +23,9 @@ Unlike sponsored review sites that push specific products, we provide **honest, 
 
 ## Save Months of Research
 
-Our rankings compile months of research into easy-to-navigate lists organized by speaker type, size, and features. We've analyzed reviews from the **best unbiased audio reviewers** including [Oluv and Alan Ross](/top-recommended-reviewers/), combined with objective measurements and sound comparisons, to create the most comprehensive speaker database available.
+Our rankings compile months of research into easy-to-navigate lists organized by speaker type, size, and features. We've analyzed reviews from the **best unbiased audio reviewers** including [Oluv, Alan Ross, Erin's Audio Corner, Audio Science Review, GR-Research and more](/personal-ranking-of-speaker-reviewers/), combined with objective measurements and sound comparisons, to create the most comprehensive speaker database available.
 
-**Find your ideal speaker in minutes instead of months.** All the [videos and reviews used to construct these rankings](/personal-ranking-of-speaker-reviewers/) are linked so you can verify the order yourself.
+**Find your ideal speaker in minutes instead of months.** All the videos and reviews used to construct these rankings are linked so you can verify the order yourself.
 
 ## Top Recommended Speakers By Attribute
 

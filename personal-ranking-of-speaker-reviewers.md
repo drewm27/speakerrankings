@@ -44,7 +44,7 @@ I only use and link videos that either have useful well recorded sound samples o
 - Links
     - [Erin's Audio Corner Website](https://www.erinsaudiocorner.com/)
 
-### #7 [Amir M](https://www.audiosciencereview.com/forum/index.php?pages/Reviews/)
+### #7 [Audio Science Review](https://www.audiosciencereview.com/forum/index.php?pages/Reviews/)
 - A very detailed analysis of many speakers using the Klippel Near-field Scanner including frequency response, off-axis response and harmonic distortion which may get pretty technical for a lot of people. His reviews are only writeups and aren't really broken down for a less technical audience.
 
 ### #8 [Jasper Tech](https://www.youtube.com/@Jasper_Tech)

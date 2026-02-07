@@ -16,9 +16,10 @@ For more detailed information and specs about these speakers see the full rankin
 
 Also consider [Top Recommended Powered Bookshelf Speakers](/powered/best/) if you aren't looking for something specifically passive.
 
+## Quick Navigation
+
 * [Floorstanding](#floorstanding)
 * [Bookshelf](#bookshelf)
-* [More Suggestions](#more-suggestions)
 
 ## Floorstanding 
 
@@ -203,8 +204,6 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Links
     - [Official Polk Monitor XT20 Website](https://www.polkaudio.com/en-us/product/system-products/monitor-xt20/300151.html)
 
-
-## More Suggestions
 
 For a lot more suggestions see [large size passive bookshelf speakers](/passive/bookshelf-large/) and [medium size passive bookshelf speakers](/passive/bookshelf-medium/)
 
