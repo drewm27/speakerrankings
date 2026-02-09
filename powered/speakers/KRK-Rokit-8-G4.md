@@ -15,7 +15,7 @@ The KRK Rokit 8 G4 ranks [#17 out of 22 total Large Size Powered Bookshelf Speak
 - Dimensions: 15.75"H x 10.5"W x 12.2"D
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
-- Watts: 100w
+- Watts: 100w Per Speaker
 - Weight: 22.6lbs / 10.5kg
 - Woofer: 8"
 - Reviews, Comparisons and Sound Samples

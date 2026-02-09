@@ -17,7 +17,7 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 89dB
+- Max Volume: 89db
 - Party Mode: Yes (broadcast mode)
 - Power Bank: No
 - Power Input: USB-C

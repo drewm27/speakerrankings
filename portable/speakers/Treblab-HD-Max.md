@@ -11,7 +11,7 @@ The Treblab HD-Max ranks [#64 out of 73 total Large Size Portable Bluetooth Spea
 - Negatives: Boosted upper bass, not much lower bass. Only IPX6 water rating
 - App: No
 - Aux Input: Yes
-- Bass Extension: ~60hz
+- Bass Extension (-10dB): ~60hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

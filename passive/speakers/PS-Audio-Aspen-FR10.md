@@ -12,7 +12,7 @@ The PS Audio Aspen FR10 ranks [#12 out of 25 total Large Size Floorstanding Spea
 - Negatives: Pretty jagged frequency response, 5dB dip at 6khz, 3dB dip at 760hz. Not recommended
 - Bass Extension (-10dB): 28hz
 - Bass Extension (-3dB): 47hz
-- Impedance: 4 ohm
+- Impedance: 4 ohms
 - Sensitivity: 84.5dB
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Unveiling the PS Audio aspen FR10 Speakers. Detailed Review and Analysis.](https://www.youtube.com/watch?v=BGmIT3jWfFg)

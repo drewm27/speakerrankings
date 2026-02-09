@@ -24,7 +24,7 @@ The JBL Partybox Encore ranks [#6 out of 68 total Boombox Size Portable Bluetoot
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 13lbs / 5.9kg

@@ -34,11 +34,11 @@ Last updated: February 09, 2026
 - Midrange: 100 mm (4in.) aluminium cone
 - Outputs: Subwoofer RCA
 - Power: 700W (500W LF Class D + 100W MF Class D + 100W HF Class AB)
-- Streaming: Yes (AirPlay 2, Chromecast, Roon Ready, Spotify Connect, Tidal Connect, Amazon Music, Qobuz, Deezer)
+- Streaming Services: Yes (AirPlay 2, Chromecast, Roon Ready, Spotify Connect, Tidal Connect, Amazon Music, Qobuz, Deezer)
 - Tweeter: 19 mm (0.75 in.) vented aluminium dome with Metamaterial Absorption Technology
 - Watts: 700w Per Speaker
 - Weight: 69lbs / 31.3kg each
-- WiFi: Yes (dual-band)
+- Wifi: Yes (dual-band)
 - Woofer: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver:
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF LS60 Wireless: The Ultimate Review, Measurements Exposed!](https://www.youtube.com/watch?v=E1DA6ER58Gg)
@@ -47,7 +47,7 @@ Last updated: February 09, 2026
     - [Official Product Page](https://us.kef.com/products/ls60-wireless)
     - [Direct Speakerranking Link](/powered/speakers/KEF-LS60/)
 
-## #2 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
+## #2 [B&O Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - App: Yes (B&O app)
@@ -65,13 +65,13 @@ Last updated: February 09, 2026
 - Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
 - Tweeter: 0.75" Acoustic Lens
 - Weight: 39.7lbs / 18kg each
-- WiFi: Yes (WiSA)
+- Wifi: Yes (WiSA)
 - Woofer: 10" driver
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
-    - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
-    - [Direct Speakerranking Link](/powered/speakers/Bang--Olufsen-Beolab20/)
+    - [Official B&O Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
+    - [Direct Speakerranking Link](/powered/speakers/BO-Beolab20/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

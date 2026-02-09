@@ -17,7 +17,7 @@ The Minirig mk4 with subwoofer ranks [#3 out of 73 total Large Size Portable Blu
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 60ms
 - Built in Microphone: Yes
-- EQ: yes
+- EQ: Yes
 - IP Rating: Splash resistant
 - Party Mode: No
 - Power Bank: Yes

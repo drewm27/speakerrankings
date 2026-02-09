@@ -186,7 +186,7 @@ Last updated: February 09, 2026
     - [Official Revel F206 Website](https://www.revelspeakers.com/products/types/floorstanding/F206-.html)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F206/)
 
-## #10 [Mofi Sourcepoint 888](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+Sourcepoint+888)]: $5500
+## #10 [MoFi SourcePoint 888](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+Sourcepoint+888)]: $5500
 - Positives: Great off axis. Great bass extension
 - Negatives: Some dipped area reaching 3dB from 3khz to 7khz
 - Bass Extension (-10dB): 26hz
@@ -203,8 +203,8 @@ Last updated: February 09, 2026
     - [Erin's Audio Corner: Why the MoFi SourcePoint 888 Could Be Your Last Speaker Purchase](https://www.youtube.com/watch?v=9bv5Mt5X__k)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
-    - [Official Mofi Sourcepoint 888 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-888-floorstanding-speakers-pair)
-    - [Direct Speakerranking Link](/passive/speakers/Mofi-Sourcepoint-888/)
+    - [Official MoFi SourcePoint 888 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-888-floorstanding-speakers-pair)
+    - [Direct Speakerranking Link](/passive/speakers/MoFi-SourcePoint-888/)
 
 ## #11 [JBL 4367](https://www.hifizero.com/index.php?q=JBL+4367) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+4367)]: $16500
 - Positives: Huge dynamics and the sensitivity is very high. By far the best speaker if you need things extremely loud. Quite a smooth frequency response especially considering these are high efficiency drivers.
@@ -231,7 +231,7 @@ Last updated: February 09, 2026
 - Negatives: Pretty jagged frequency response, 5dB dip at 6khz, 3dB dip at 760hz. Not recommended
 - Bass Extension (-10dB): 28hz
 - Bass Extension (-3dB): 47hz
-- Impedance: 4 ohm
+- Impedance: 4 ohms
 - Sensitivity: 84.5dB
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Unveiling the PS Audio aspen FR10 Speakers. Detailed Review and Analysis.](https://www.youtube.com/watch?v=BGmIT3jWfFg)
@@ -240,7 +240,7 @@ Last updated: February 09, 2026
     - [Official PS Audio Aspen FR10 Website](https://www.psaudio.com/products/aspen-fr10-loudspeaker)
     - [Direct Speakerranking Link](/passive/speakers/PS-Audio-Aspen-FR10/)
 
-## #13 [Elac DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DF63)]: $1300
+## #13 [ELAC DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DF63)]: $1300
 - Positives: Pretty good frequency response. Very good value
 - Negatives: 3dB dip at 270hz, 3dd dip from 800-2.5khz. Pretty good directivity. A little warm tuned
 - Bass Extension (-10dB): 29hz
@@ -258,8 +258,8 @@ Last updated: February 09, 2026
     - [Erin's Audio Review Website Elac DF63](https://www.erinsaudiocorner.com/loudspeakers/elac_df63/)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
-    - [Official Elac DF63 Website](https://elac.com/df63)
-    - [Direct Speakerranking Link](/passive/speakers/Elac-DF63/)
+    - [Official ELAC DF63 Website](https://elac.com/df63)
+    - [Direct Speakerranking Link](/passive/speakers/ELAC-DF63/)
 
 ## #14 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
 - Positives: Really amazing value for the performance
@@ -378,7 +378,7 @@ Last updated: February 09, 2026
 - Negatives: 5dB peak at 1khz, 4dB bright top end from 11khz on up. Just okay vertical off axis
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 47hz
-- Impedance: 4 ohm
+- Impedance: 4 ohms
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links

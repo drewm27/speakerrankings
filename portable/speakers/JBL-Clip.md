@@ -19,7 +19,7 @@ The JBL Clip ranks [#30 out of 41 total Small Size Portable Bluetooth Speakers](
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- Power Input: AC Wall wart
+- Power Input: AC Wall Wart
 - Stereo: No
 - TWS: No
 - Weight: 0.35lbs / 158g

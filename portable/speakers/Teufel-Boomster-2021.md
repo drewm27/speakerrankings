@@ -7,7 +7,7 @@ share-description: "The Teufel Boomster 2021 ranks #31 out of 68 total Boombox S
 
 The Teufel Boomster 2021 ranks [#31 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#31-teufel-boomster-2021-teufelaudio-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #31 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: 250€
+## #31 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: €250
 - Positives: Pretty balanced sound, slightly warm
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - App: No

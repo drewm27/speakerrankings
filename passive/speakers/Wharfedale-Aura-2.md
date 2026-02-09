@@ -18,7 +18,7 @@ The Wharfedale Aura 2 ranks [#22 out of 48 total Large Size Bookshelf Speakers](
 - Tweeter: 27x90mm AMT
 - Weight: 45lbs / 20.4kg each
 - Woofer: 6.5" Black Glass Fibre Matrix Cone
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the Wharfedale AURA 2 Will Blow Your Mind](https://www.youtube.com/watch?v=MCNQDNpM4x0)
     - [Erin's Audio Corner Website Wharfedale Aura 2](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_aura2/)

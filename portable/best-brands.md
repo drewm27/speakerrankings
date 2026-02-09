@@ -144,14 +144,14 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
 - Built in Microphone: No
-- EQ: yes
+- EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 3.7lbs / 1.68kg
 - Reviews, Comparisons and Sound Samples

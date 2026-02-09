@@ -195,7 +195,7 @@ Last updated: February 09, 2026
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
@@ -225,11 +225,11 @@ Last updated: February 09, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Max Volume: 110db
-- Microphone Input: yes
+- Microphone Input: Yes
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg
@@ -257,7 +257,7 @@ Last updated: February 09, 2026
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 13lbs / 5.9kg
@@ -558,7 +558,7 @@ Last updated: February 09, 2026
 - Microphone Input: No
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
-- Power Input: AC Power Cord
+- Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
 - USB Audio: Yes
@@ -1027,7 +1027,7 @@ Last updated: February 09, 2026
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beolit-20/)
 
-## #31 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: 250€
+## #31 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: €250
 - Positives: Pretty balanced sound, slightly warm
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - App: No
@@ -1113,7 +1113,7 @@ Last updated: February 09, 2026
 - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
 - Negatives: Not quite as deep bass as the top ranked speakers.
 - App: No
-- Aux Input: yes
+- Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
@@ -1137,7 +1137,7 @@ Last updated: February 09, 2026
     - [Official Product Page](https://geminisound.com/products/grv-650l)
     - [Direct Speakerranking Link](/portable/speakers/Gemini-GRV-650L/)
 
-## #35 Teufel Boomster NG (2017): 99€
+## #35 Teufel Boomster NG (2017): €99
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
 - App: No
@@ -1441,7 +1441,7 @@ Last updated: February 09, 2026
 - FM Tuner: No
 - Party Mode: No
 - Power Bank: Yes
-- Power Input: AC power brick
+- Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No

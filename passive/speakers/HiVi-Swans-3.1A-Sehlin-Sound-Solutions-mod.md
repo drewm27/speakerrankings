@@ -16,7 +16,7 @@ The HiVi Swans 3.1A Sehlin Sound Solutions mod ranks [#13 out of 48 total Large 
 - Sensitivity: 87dB
 - Tweeter: 1" Soft Dome
 - Woofer: 6.5" Kevlar
-- Woofer Enclosure: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links

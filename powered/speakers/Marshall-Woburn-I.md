@@ -12,7 +12,7 @@ The Marshall Woburn I ranks [#6 out of 13 total Medium Size Powered Desktop Spea
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)

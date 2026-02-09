@@ -13,7 +13,7 @@ The March Audio Sointuva AWG ranks [#3 out of 48 total Large Size Bookshelf Spea
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 40hz
 - Dimensions: 17.7"H x 9.4"W x 8.7"D
-- Impedance: 6 ohm
+- Impedance: 6 ohms
 - Sensitivity: 82dB
 - Tweeter: Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
 - Woofer: 6.5" Purifi PTT-OEM Midwoofer

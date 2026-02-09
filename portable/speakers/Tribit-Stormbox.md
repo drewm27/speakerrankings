@@ -11,7 +11,7 @@ The Tribit Stormbox ranks [#87 out of 130 total Medium Size Portable Bluetooth S
 - Negatives: Muffled sounding, treble dips from 5khz-12khz. Listening from the front is the worst frequency response, lay it down facing up with xbass off for the smoothest response. Not technically a 360 speaker, only front and rear.
 - App: No
 - Aux Input: Yes
-- Aux Latency: 0
+- Aux Latency: 0ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
 - Bluetooth Latency: 166ms

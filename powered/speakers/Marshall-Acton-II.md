@@ -12,7 +12,7 @@ The Marshall Acton II ranks [#10 out of 13 total Medium Size Powered Desktop Spe
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 56hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150mm)
@@ -27,7 +27,7 @@ The Marshall Acton II ranks [#10 out of 13 total Medium Size Powered Desktop Spe
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Tweeter: 2x 0.75" Dome
-- Voice Control: Yes
+- Voice Assistants: Yes
 - Weight: 4.5 lbs / 2.9kg
 - Wifi: No
 - Woofer: 4" (midrange/woofer)

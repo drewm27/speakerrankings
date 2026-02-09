@@ -21,7 +21,7 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - Microphone Input: Yes
 - Party Mode: Yes
 - Power Bank: No
-- Power Input: AC Power Brick
+- Power Input: AC Power brick
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No

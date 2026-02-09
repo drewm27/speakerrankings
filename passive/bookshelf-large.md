@@ -42,7 +42,7 @@ Last updated: February 09, 2026
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 52hz
 - Dimensions: 17.3"H x 8.1"W x 16.6"D
-- Impedance: 4 ohm
+- Impedance: 4 ohms
 - Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 83dB
 - Tweeter: 25 mm (1 in.) aluminium dome with MAT
@@ -62,7 +62,7 @@ Last updated: February 09, 2026
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 40hz
 - Dimensions: 17.7"H x 9.4"W x 8.7"D
-- Impedance: 6 ohm
+- Impedance: 6 ohms
 - Sensitivity: 82dB
 - Tweeter: Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
 - Woofer: 6.5" Purifi PTT-OEM Midwoofer
@@ -80,7 +80,7 @@ Last updated: February 09, 2026
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 54hz
 - Dimensions: 15.7"H x 8"W x 10.4"D
-- Impedance: 4 ohm
+- Impedance: 4 ohms
 - Sensitivity: 85dB
 - Tweeter: 1" Aluminium Ceramic Dome
 - Weight: 18.5lbs / 8.4kg each
@@ -98,7 +98,7 @@ Last updated: February 09, 2026
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 77hz
 - Dimensions: 14"H x 7.5"W x 11.5"D
-- Impedance: 6 ohm
+- Impedance: 6 ohms
 - Sensitivity: 85dB
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon deep rear cup
 - Weight: 16lbs / 7.3kg each
@@ -159,7 +159,7 @@ Last updated: February 09, 2026
     - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
     - [Direct Speakerranking Link](/passive/speakers/KEF-Q-Concerto-Meta/)
 
-## #8 [Mofi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
+## #8 [MoFi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Negatives: Will need to be listened to off-axis, bright up top directly on axis
 - Bass Extension (-10dB): 38hz
@@ -170,15 +170,15 @@ Last updated: February 09, 2026
 - Tweeter: 1.25-inch soft-dome
 - Weight: 46.2lbs / 21.0kg each
 - Woofer: 10" Paper-pulp Cone
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: MoFi SourcePoint 10 Review](https://www.youtube.com/watch?v=DcYVu0TQtDs)
-    - [Erin's Audio Corner Website Mofi SourcePoint 10](https://www.erinsaudiocorner.com/loudspeakers/mofi_10/)
+    - [Erin's Audio Corner Website MoFi SourcePoint 10](https://www.erinsaudiocorner.com/loudspeakers/mofi_10/)
 - Links
-    - [Official Mofi SourcePoint 10 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-10-loudspeakers)
-    - [Direct Speakerranking Link](/passive/speakers/Mofi-SourcePoint-10/)
+    - [Official MoFi SourcePoint 10 Website](https://www.mofielectronics.com/products/mofi-electronics-sourcepoint-10-loudspeakers)
+    - [Direct Speakerranking Link](/passive/speakers/MoFi-SourcePoint-10/)
 
-## #9 [Mofi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
+## #9 [MoFi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 52hz
@@ -190,14 +190,14 @@ Last updated: February 09, 2026
 - Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why Do People Love the MoFi SourcePoint 8?](https://www.youtube.com/watch?v=h90tqdGsgP4)
-    - [Erin's Audio Corner Website Mofi SourcePoint 8](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/)
+    - [Erin's Audio Corner Website MoFi SourcePoint 8](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/)
     - [Erin's Audio Corner: Upgrade Your Sound with These 6 Surprisingly Affordable Speakers!](https://www.youtube.com/watch?v=pl89upj4tD8)
     - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
     - [GR-Research: Danny Tackles Andrews Jones: The Source Point 8! Spoiler Alert (It's Really Good)](https://www.youtube.com/watch?v=6fDq9sJaBJc)
 - Links
-    - [Official Mofi SourcePoint 8 Website](https://mofi.com/shop/mofi-electronics/mofi-electronics-sourcepoint-8-bookshelf-speakers-pair/)
-    - [Direct Speakerranking Link](/passive/speakers/Mofi-SourcePoint-8/)
+    - [Official MoFi SourcePoint 8 Website](https://mofi.com/shop/mofi-electronics/mofi-electronics-sourcepoint-8-bookshelf-speakers-pair/)
+    - [Direct Speakerranking Link](/passive/speakers/MoFi-SourcePoint-8/)
 
 ## #10 [Radiant Acoustics Clarity 6.2](https://radiantacoustics.com/products/clarity-6-2) [[Radiantacoustics](https://radiantacoustics.com/products/clarity-6-2)] [[Used Listings](https://www.hifizero.com/index.php?q=Radiant+Acoustics+Clarity+6.2)]: $4500
 - Positives: Very low distortion
@@ -210,7 +210,7 @@ Last updated: February 09, 2026
 - Tweeter: Custom AMT (Air Motion Transformer)
 - Weight: 23.8lbs / 10.8kg each
 - Woofer: 6.5" PURIFI USHINDI
-- Woofer Enclosure: Passive radiator
+- Woofer Cabinet: Passive radiator
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: New Brand Comes Out Swinging: Radiant Acoustics Clarity 6.2 Review](https://www.youtube.com/watch?v=wV52ek8lUWc)
 - Links
@@ -250,7 +250,7 @@ Last updated: February 09, 2026
     - [Erin's Audio Corner: Philharmonic BMR Monitor v2 Review.](https://www.youtube.com/watch?v=7k0PNLo0j9g)
     - [Erin's Audio Corner Website Philharmonic BMR Monitor](https://www.erinsaudiocorner.com/loudspeakers/philharmonic_bmr_v2/)
 - Links
-    - [Official Mofi SourcePoint 8 Website](https://philharmonicaudio.com/products/bmr-monitor)
+    - [Official MoFi SourcePoint 8 Website](https://philharmonicaudio.com/products/bmr-monitor)
     - [Direct Speakerranking Link](/passive/speakers/Philharmonic-BMR-Monitor/)
 
 ## #13 [HiVi Swans 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=HiVi+Swans+3.1A+Sehlin+Sound+Solutions+mod)]: $364 for the kit (assembly required)
@@ -262,7 +262,7 @@ Last updated: February 09, 2026
 - Sensitivity: 87dB
 - Tweeter: 1" Soft Dome
 - Woofer: 6.5" Kevlar
-- Woofer Enclosure: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
 - Links
@@ -312,11 +312,11 @@ Last updated: February 09, 2026
 - Dimensions: 23.8"H x 11.8"W x 13.0"D
 - Impedance: 4 ohms
 - Midrange: 5"(135mm) black woven Kevlar® cone
-- Sensitivity: 88 dB
+- Sensitivity: 88dB
 - Tweeter: 1" (25mm) soft dome
 - Weight: 43.7lbs / 19.8kg each
 - Woofer: 8"(200mm) black woven Kevlar® cone
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: 5 Reasons Wharfedale Super Linton is the Hidden Gem of Audio Equipment](https://www.youtube.com/watch?v=kIf6677oMTA)
     - [Erin's Audio Corner Website Wharfedale Super Linton Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_super_linton/)
@@ -334,11 +334,11 @@ Last updated: February 09, 2026
 - Dimensions: 22.2"H x 11.8"W x 13.0"D
 - Impedance: 6 ohms
 - Midrange: 5"(135mm) black woven Kevlar® cone
-- Sensitivity: 85 dB
+- Sensitivity: 85dB
 - Tweeter: 1" (25mm) soft dome
 - Weight: 40.6lbs / 18.4kg each
 - Woofer: 8"(200mm) black woven Kevlar® cone
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Discover Why I Can't Stop Raving About the Wharfedale Linton 85th Anniversary Speaker](https://www.youtube.com/watch?v=CaxknyOrf3I)
     - [Erin's Audio Corner Website Wharfedale Linton 85 Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/)
@@ -355,18 +355,18 @@ Last updated: February 09, 2026
 - Bass Extension (-3dB): 56hz
 - Dimensions: 17.4"H x 8.5"W x 14.2"D
 - Impedance: 4 ohms
-- Sensitivity: 82.5 dB
+- Sensitivity: 82.5dB
 - Tweeter: 28mm Esotar 2i with Hexis
 - Weight: 30.9lbs / 14kg each
 - Woofer: 18 cm MSP
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dynaudio Contour 20i Bookshelf Speaker Review](https://www.youtube.com/watch?v=HcAwjBpzNbE)
 - Links
     - [Official Dynaudio Contour 20i Website](https://dynaudio.com/home-audio/contour-i/contour-20i)
     - [Direct Speakerranking Link](/passive/speakers/Dynaudio-Contour-20i/)
 
-## #19 [Elac DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR62)]: $800 a pair
+## #19 [ELAC DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR62)]: $800 a pair
 - Positives: Pretty neutral all around, a little bit of a V curve
 - Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
 - Bass Extension (-10dB): 41hz
@@ -377,17 +377,17 @@ Last updated: February 09, 2026
 - Tweeter: 1" soft dome tweeter
 - Weight: 18.1lbs / 8.2kg each
 - Woofer: 6.5" Aramid Fiber
-- Woofer Cabinet: Front Ported
+- Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Top 3 Things You Need to Know About ELAC DBR62 Before You Buy](https://www.youtube.com/watch?v=VCY_CDu5Xas)
     - [Erin's Audio Corner Website Elac DBR62](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
-    - [Official Elac DBR62 Website](https://elac.com/dbr62)
-    - [Direct Speakerranking Link](/passive/speakers/Elac-DBR62/)
+    - [Official ELAC DBR62 Website](https://elac.com/dbr62)
+    - [Direct Speakerranking Link](/passive/speakers/ELAC-DBR62/)
 
-## #20 [Elac DBR63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR63)]: $500
+## #20 [ELAC DBR63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR63)]: $500
 - Positives: A class leader at the $500 price point
 - Negatives: 3dB dip at 500hz, 3dB peak at 700hz. Not great in the vertical off-axis
 - Bass Extension (-10dB): 40hz
@@ -398,13 +398,13 @@ Last updated: February 09, 2026
 - Tweeter: 1" soft dome tweeter
 - Weight: 17.3lbs / 7.8kg each
 - Woofer: 6.5" Aramid Fiber
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
     - [Erin's Audio Corner Website Elac DBR63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
-    - [Official Elac DBR63 Website](https://elac.com/db63)
-    - [Direct Speakerranking Link](/passive/speakers/Elac-DBR63/)
+    - [Official ELAC DBR63 Website](https://elac.com/db63)
+    - [Direct Speakerranking Link](/passive/speakers/ELAC-DBR63/)
 
 ## #21 [JBL HDI-1600](https://sovrn.co/xgfeafc) [[Crutchfield](https://sovrn.co/xgfeafc)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+HDI-1600)]: $1980 a pair
 - Positives: Slight bass boost at 130hz
@@ -428,7 +428,7 @@ Last updated: February 09, 2026
 - Tweeter: 27x90mm AMT
 - Weight: 45lbs / 20.4kg each
 - Woofer: 6.5" Black Glass Fibre Matrix Cone
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the Wharfedale AURA 2 Will Blow Your Mind](https://www.youtube.com/watch?v=MCNQDNpM4x0)
     - [Erin's Audio Corner Website Wharfedale Aura 2](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_aura2/)
@@ -551,7 +551,7 @@ Last updated: February 09, 2026
     - [Official Dynaudio Special Forty Website](https://dynaudio.com/home-audio/special-forty)
     - [Direct Speakerranking Link](/passive/speakers/Dynaudio-Special-Forty/)
 
-## #31 [Elac Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+Debut+DB63)]: $500
+## #31 [ELAC Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+Debut+DB63)]: $500
 - Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 76hz
@@ -566,8 +566,8 @@ Last updated: February 09, 2026
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
     - [Erin's Audio Corner Website Elac Debut DB63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
-    - [Official Elac Debut DB63 Website](https://elac.com/db63)
-    - [Direct Speakerranking Link](/passive/speakers/Elac-Debut-DB63/)
+    - [Official ELAC Debut DB63 Website](https://elac.com/db63)
+    - [Direct Speakerranking Link](/passive/speakers/ELAC-Debut-DB63/)
 
 ## #32 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+R200)]: $750
 - Positives: Really good neutrality and linearity
@@ -801,7 +801,7 @@ Last updated: February 09, 2026
 - Sensitivity: 91dB
 - Tweeter: Eminence ASD-1001
 - Woofer: 8” coax HE (Eminence/Zu)
-- Woofer Cabinet: Front Ported
+- Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Zu Audio Method Bookshelf Speaker Review](https://www.youtube.com/watch?v=INhqKX1QacQ)
 - Links

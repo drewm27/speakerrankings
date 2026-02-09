@@ -164,11 +164,11 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Max Volume: 110db
-- Microphone Input: yes
+- Microphone Input: Yes
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg

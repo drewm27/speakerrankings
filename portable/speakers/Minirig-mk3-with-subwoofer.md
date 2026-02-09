@@ -18,7 +18,7 @@ The Minirig mk3 with subwoofer ranks [#4 out of 73 total Large Size Portable Blu
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 60ms
 - Built in Microphone: Yes
-- EQ: yes
+- EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 103db
 - Party Mode: No

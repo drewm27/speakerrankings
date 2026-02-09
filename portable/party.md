@@ -430,7 +430,7 @@ Last updated: February 09, 2026
 - TWS: No
 - USB Playback: No
 - Weight: 21.6lbs / 9.8kg
-- Wireless Microphones: Yes 2 included
+- Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Mateusz Cholewa: Soundcore Rave 3 160W 🧐🆚 JBL Encore Partybox](https://www.youtube.com/watch?v=33x_e9OLDMw)
     - [Dominik Reviews: Soundcore Rave 3 vs JBL Partybox Encore - Quick Sound Test! 🤗](https://www.youtube.com/watch?v=zjXx2ob3-fI)
@@ -556,7 +556,7 @@ Last updated: February 09, 2026
 - Microphone Input: Yes
 - Party Mode: Yes
 - Power Bank: No
-- Power Input: AC Power Brick
+- Power Input: AC Power brick
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No

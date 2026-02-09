@@ -19,7 +19,7 @@ The Audio Pro C3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
 - IP Rating: None
 - Party Mode: Yes (over Wifi)
 - Power Bank: No
-- Power Input: AC cable
+- Power Input: AC Power cable
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 4.63lbs / 2.1kg

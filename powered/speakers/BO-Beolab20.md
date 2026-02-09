@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Bang & Olufsen Beolab20 Specifications and Review
+title: B&O Beolab20 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bang & Olufsen Beolab20 ranks #2 out of 2 total Large Size Powered Floorstanding Speakers. Find all the specifications and reviews in one place"
+share-description: "The B&O Beolab20 ranks #2 out of 2 total Large Size Powered Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Bang & Olufsen Beolab20 ranks [#2 out of 2 total Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/#2-bang--olufsen-beolab20-bang-olufsen-used-listings-15000-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beolab20 ranks [#2 out of 2 total Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/#2-bo-beolab20-bang-olufsen-used-listings-15000-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #2 [Bang & Olufsen Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
+## #2 [B&O Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - App: Yes (B&O app)
@@ -25,12 +25,12 @@ The Bang & Olufsen Beolab20 ranks [#2 out of 2 total Large Size Powered Floorsta
 - Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
 - Tweeter: 0.75" Acoustic Lens
 - Weight: 39.7lbs / 18kg each
-- WiFi: Yes (WiSA)
+- Wifi: Yes (WiSA)
 - Woofer: 10" driver
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
-    - [Official Bang & Olufsen Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
+    - [Official B&O Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
 
 
 As an Amazon Associate I earn from qualifying purchases.

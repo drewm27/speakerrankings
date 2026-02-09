@@ -18,7 +18,7 @@ The Radiant Acoustics Clarity 6.2 ranks [#10 out of 48 total Large Size Bookshel
 - Tweeter: Custom AMT (Air Motion Transformer)
 - Weight: 23.8lbs / 10.8kg each
 - Woofer: 6.5" PURIFI USHINDI
-- Woofer Enclosure: Passive radiator
+- Woofer Cabinet: Passive radiator
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: New Brand Comes Out Swinging: Radiant Acoustics Clarity 6.2 Review](https://www.youtube.com/watch?v=wV52ek8lUWc)
 - Links

@@ -33,7 +33,7 @@ Last updated: February 09, 2026
 - Outputs: Subwoofer line out
 - Party Mode: Yes (over Wifi)
 - Power: 41W (2x8W + 25W)
-- Power Input: AC Cord
+- Power Input: AC Power cord
 - Stereo: Partially
 - Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast
 - TWS: No
@@ -67,7 +67,7 @@ Last updated: February 09, 2026
 - Party Mode: No
 - Power: 70W (R/L treble: 15W+15W, R/L mid-bass: 20W+20W)
 - Power Bank: No
-- Power Input: AC Power Cable
+- Power Input: AC Power cable
 - Stereo: Yes
 - TWS: No
 - Tweeter: 2x 19mm silk dome
@@ -122,7 +122,7 @@ Last updated: February 09, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203mm)
@@ -154,7 +154,7 @@ Last updated: February 09, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: AptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
@@ -162,7 +162,7 @@ Last updated: February 09, 2026
 - Frequency Response: 30Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
-- Max Volume: 110dB
+- Max Volume: 110db
 - Midrange: Integrated in woofers
 - Party Mode: No
 - Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
@@ -170,7 +170,7 @@ Last updated: February 09, 2026
 - Stereo: Yes
 - TWS: Yes
 - Tweeter: 2x 1"
-- Voice Control: Yes (via app)
+- Voice Assistants: Yes (via app)
 - Weight: 18.9lbs / 8.57kg
 - Wifi: No
 - Woofer: 2x 5.25"
@@ -187,7 +187,7 @@ Last updated: February 09, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
@@ -229,11 +229,11 @@ Last updated: February 09, 2026
 - Party Mode: No
 - Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
-- Power Input: AC Power Brick
+- Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Tweeter: 2x 0.75" Dome
-- Voice Control: Yes
+- Voice Assistants: Yes
 - Weight: 10.3lbs / 4.65kg
 - Wifi: No
 - Woofer: 5.25"
@@ -248,7 +248,7 @@ Last updated: February 09, 2026
 - Negatives: Not as good sounding as the Stanmore II. Not enough bass. Distorts at higher volumes.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 13.78" x 7.87" x 7.32" (350 x 203 x 188mm)
@@ -280,7 +280,7 @@ Last updated: February 09, 2026
 - Negatives: Not as deep bass as competitors.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 10.24" x 6.69" x 5.91" (260 x 170 x 150mm)
@@ -310,7 +310,7 @@ Last updated: February 09, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 56hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150mm)
@@ -325,7 +325,7 @@ Last updated: February 09, 2026
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Tweeter: 2x 0.75" Dome
-- Voice Control: Yes
+- Voice Assistants: Yes
 - Weight: 4.5 lbs / 2.9kg
 - Wifi: No
 - Woofer: 4" (midrange/woofer)
@@ -344,7 +344,7 @@ Last updated: February 09, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11.8" x 11.8" (300 x 300mm)
@@ -357,7 +357,7 @@ Last updated: February 09, 2026
 - Power Input: AC Power cord
 - Stereo: 360-degree
 - TWS: Yes
-- Voice Control: Yes (Google Assistant)
+- Voice Assistants: Yes (Google Assistant)
 - Weight: 9lbs / 4.1kg
 - Wifi: Yes
 - Woofer: 1x 5.5" + passive radiator

@@ -15,7 +15,7 @@ The Zu Audio Method ranks [#48 out of 48 total Large Size Bookshelf Speakers](/p
 - Sensitivity: 91dB
 - Tweeter: Eminence ASD-1001
 - Woofer: 8” coax HE (Eminence/Zu)
-- Woofer Cabinet: Front Ported
+- Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Zu Audio Method Bookshelf Speaker Review](https://www.youtube.com/watch?v=INhqKX1QacQ)
 - Links

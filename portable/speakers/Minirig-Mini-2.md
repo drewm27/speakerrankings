@@ -17,7 +17,7 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: Yes
-- EQ: yes
+- EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 92db
 - Party Mode: No

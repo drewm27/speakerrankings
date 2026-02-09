@@ -13,7 +13,7 @@ The GR-Research NX-Bravo ranks [#5 out of 48 total Large Size Bookshelf Speakers
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 77hz
 - Dimensions: 14"H x 7.5"W x 11.5"D
-- Impedance: 6 ohm
+- Impedance: 6 ohms
 - Sensitivity: 85dB
 - Tweeter: GR-Research Neo3 Planar Magnetic Ribbon deep rear cup
 - Weight: 16lbs / 7.3kg each

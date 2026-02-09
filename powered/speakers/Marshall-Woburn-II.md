@@ -12,7 +12,7 @@ The Marshall Woburn II ranks [#5 out of 13 total Medium Size Powered Desktop Spe
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: AptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
@@ -20,7 +20,7 @@ The Marshall Woburn II ranks [#5 out of 13 total Medium Size Powered Desktop Spe
 - Frequency Response: 30Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
-- Max Volume: 110dB
+- Max Volume: 110db
 - Midrange: Integrated in woofers
 - Party Mode: No
 - Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
@@ -28,7 +28,7 @@ The Marshall Woburn II ranks [#5 out of 13 total Medium Size Powered Desktop Spe
 - Stereo: Yes
 - TWS: Yes
 - Tweeter: 2x 1"
-- Voice Control: Yes (via app)
+- Voice Assistants: Yes (via app)
 - Weight: 18.9lbs / 8.57kg
 - Wifi: No
 - Woofer: 2x 5.25"

@@ -66,7 +66,7 @@ Last updated: February 09, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: Yes
-- EQ: yes
+- EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 92db
 - Party Mode: No
@@ -140,7 +140,7 @@ Last updated: February 09, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Micro/)
 
-## #5 Teufel Boomster Go: 80€
+## #5 Teufel Boomster Go: €80
 - Positives: Pretty deep bass and quite balanced overall for the size.
 - App: No
 - Aux Input: No
@@ -341,7 +341,7 @@ Last updated: February 09, 2026
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 89dB
+- Max Volume: 89db
 - Party Mode: Yes (broadcast mode)
 - Power Bank: No
 - Power Input: USB-C
@@ -416,7 +416,7 @@ Last updated: February 09, 2026
 - Max Volume: 90db
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
-- Power Input: Micro-USB
+- Power Input: Micro USB
 - Stereo: No
 - TWS: Yes
 - Weight: 0.64lbs / 289g
@@ -756,7 +756,7 @@ Last updated: February 09, 2026
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- Power Input: AC Wall wart
+- Power Input: AC Wall Wart
 - Stereo: No
 - TWS: No
 - Weight: 0.35lbs / 158g
@@ -779,10 +779,10 @@ Last updated: February 09, 2026
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- Power Input: Micro-USB
+- Power Input: Micro USB
 - Stereo: No
 - TWS: No
-- Weight: 0.5lb / 227g
+- Weight: 0.5lbs / 227g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links

@@ -20,10 +20,10 @@ The JBL Clip 3 ranks [#31 out of 41 total Small Size Portable Bluetooth Speakers
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
-- Power Input: Micro-USB
+- Power Input: Micro USB
 - Stereo: No
 - TWS: No
-- Weight: 0.5lb / 227g
+- Weight: 0.5lbs / 227g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
 - Links

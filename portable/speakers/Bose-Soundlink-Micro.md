@@ -21,7 +21,7 @@ The Bose Soundlink Micro ranks [#16 out of 41 total Small Size Portable Bluetoot
 - Max Volume: 90db
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
-- Power Input: Micro-USB
+- Power Input: Micro USB
 - Stereo: No
 - TWS: Yes
 - Weight: 0.64lbs / 289g

@@ -18,7 +18,7 @@ The Demerbox DB2 ranks [#46 out of 68 total Boombox Size Portable Bluetooth Spea
 - FM Tuner: No
 - Party Mode: No
 - Power Bank: Yes
-- Power Input: AC power brick
+- Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No

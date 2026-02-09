@@ -1368,7 +1368,7 @@ Last updated: February 09, 2026
 - Negatives: Boosted upper bass, somewhat thuddy. Slightly recessed mids. Rolled off treble. This may move around a little as better sound samples are found.
 - App: Yes
 - Aux Input: No
-- Bass Extension: ~56hz
+- Bass Extension (-10dB): ~56hz
 - Battery Life: 24 hours
 - Built in Microphone: Yes
 - EQ: No
@@ -1455,7 +1455,7 @@ Last updated: February 09, 2026
 - Battery Life: 24 hours
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Max Volume: 89dB
+- Max Volume: 89db
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1839,7 +1839,7 @@ Last updated: February 09, 2026
 - Negatives: Muffled sounding, treble dips from 5khz-12khz. Listening from the front is the worst frequency response, lay it down facing up with xbass off for the smoothest response. Not technically a 360 speaker, only front and rear.
 - App: No
 - Aux Input: Yes
-- Aux Latency: 0
+- Aux Latency: 0ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
 - Bluetooth Latency: 166ms
@@ -2001,7 +2001,7 @@ Last updated: February 09, 2026
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB30/)
 
 ## #99 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325)]: $80
-- Positives: Try Alan Ross's EQ for it here <https://ibb.co/q9mcNk1>
+- Positives: Try [Alan Ross's EQ](https://ibb.co/q9mcNk1) for it
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
 - App: Yes
 - Bass Extension (-10dB): 56hz
@@ -2107,7 +2107,7 @@ Last updated: February 09, 2026
 
 ## #107 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl)]: $23
 - Negatives: Lacking quite a bit of bass. Sounds hollow and thuddy. Just not great overall.
-- Bass Extension: ~85hz
+- Bass Extension (-10dB): ~85hz
 - Battery Life: 12 hours
 - Lights: Yes
 - Weight: 1.56lbs / 708g
@@ -2278,7 +2278,7 @@ Last updated: February 09, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Skullcandy-TerrainTerrain-XTTerrain-XL/)
 
-## #122 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: 40
+## #122 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: $40
 - Negatives: Barely any bass
 - Aux Input: Yes
 - Battery Life: 20 hours

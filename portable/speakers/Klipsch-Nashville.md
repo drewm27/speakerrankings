@@ -15,7 +15,7 @@ The Klipsch Nashville ranks [#64 out of 130 total Medium Size Portable Bluetooth
 - Battery Life: 24 hours
 - Built in Microphone: Yes
 - IP Rating: IP67
-- Max Volume: 89dB
+- Max Volume: 89db
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes
 - Power Input: USB-C

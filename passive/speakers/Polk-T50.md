@@ -12,7 +12,7 @@ The Polk T50 ranks [#21 out of 25 total Large Size Floorstanding Speakers](/pass
 - Negatives: 5dB peak at 1khz, 4dB bright top end from 11khz on up. Just okay vertical off axis
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 47hz
-- Impedance: 4 ohm
+- Impedance: 4 ohms
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links

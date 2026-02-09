@@ -12,7 +12,7 @@ The KEF Reference 1 Meta ranks [#2 out of 48 total Large Size Bookshelf Speakers
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 52hz
 - Dimensions: 17.3"H x 8.1"W x 16.6"D
-- Impedance: 4 ohm
+- Impedance: 4 ohms
 - Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 83dB
 - Tweeter: 25 mm (1 in.) aluminium dome with MAT

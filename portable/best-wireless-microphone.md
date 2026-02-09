@@ -63,7 +63,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Playback: Yes
 - Weight: 14.11lbs / 6.4kg

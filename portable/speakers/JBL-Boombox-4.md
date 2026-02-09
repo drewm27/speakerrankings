@@ -25,7 +25,7 @@ The JBL Boombox 4 ranks [#16 out of 68 total Boombox Size Portable Bluetooth Spe
 - Microphone Input: No
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
-- Power Input: AC Power Cord
+- Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
 - USB Audio: Yes

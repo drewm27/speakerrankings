@@ -12,7 +12,7 @@ The B&O Beosound 2 ranks [#11 out of 13 total Medium Size Powered Desktop Speake
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11.8" x 11.8" (300 x 300mm)
@@ -25,7 +25,7 @@ The B&O Beosound 2 ranks [#11 out of 13 total Medium Size Powered Desktop Speake
 - Power Input: AC Power cord
 - Stereo: 360-degree
 - TWS: Yes
-- Voice Control: Yes (Google Assistant)
+- Voice Assistants: Yes (Google Assistant)
 - Weight: 9lbs / 4.1kg
 - Wifi: Yes
 - Woofer: 1x 5.5" + passive radiator

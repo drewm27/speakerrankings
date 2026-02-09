@@ -22,7 +22,7 @@ The Audio Pro C5 MkII ranks [#1 out of 13 total Medium Size Powered Desktop Spea
 - Outputs: Subwoofer line out
 - Party Mode: Yes (over Wifi)
 - Power: 41W (2x8W + 25W)
-- Power Input: AC Cord
+- Power Input: AC Power cord
 - Stereo: Partially
 - Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast
 - TWS: No

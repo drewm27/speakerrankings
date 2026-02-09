@@ -27,7 +27,7 @@ The Sony ULT Tower 10 ranks [#8 out of 9 total Large Party Size Portable Bluetoo
 - USB Playback: Yes
 - Weight: 64lbs / 29kg
 - Wifi: No
-- Wireless Microphone: Yes Included
+- Wireless Microphones: Yes Included
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)

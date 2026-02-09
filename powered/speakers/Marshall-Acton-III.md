@@ -11,7 +11,7 @@ The Marshall Acton III ranks [#9 out of 13 total Medium Size Powered Desktop Spe
 - Negatives: Not as deep bass as competitors.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 10.24" x 6.69" x 5.91" (260 x 170 x 150mm)

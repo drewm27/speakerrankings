@@ -24,7 +24,7 @@ The Edifier D12 ranks [#2 out of 13 total Medium Size Powered Desktop Speakers](
 - Party Mode: No
 - Power: 70W (R/L treble: 15W+15W, R/L mid-bass: 20W+20W)
 - Power Bank: No
-- Power Input: AC Power Cable
+- Power Input: AC Power cable
 - Stereo: Yes
 - TWS: No
 - Tweeter: 2x 19mm silk dome

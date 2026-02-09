@@ -15,11 +15,11 @@ The Wharfedale Linton 85 ranks [#17 out of 48 total Large Size Bookshelf Speaker
 - Dimensions: 22.2"H x 11.8"W x 13.0"D
 - Impedance: 6 ohms
 - Midrange: 5"(135mm) black woven Kevlar® cone
-- Sensitivity: 85 dB
+- Sensitivity: 85dB
 - Tweeter: 1" (25mm) soft dome
 - Weight: 40.6lbs / 18.4kg each
 - Woofer: 8"(200mm) black woven Kevlar® cone
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Discover Why I Can't Stop Raving About the Wharfedale Linton 85th Anniversary Speaker](https://www.youtube.com/watch?v=CaxknyOrf3I)
     - [Erin's Audio Corner Website Wharfedale Linton 85 Review](https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/)

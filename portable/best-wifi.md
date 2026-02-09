@@ -47,7 +47,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - App: No
 - Aux Input: Yes
-- Aux Latency: 295ms default, 33mm with aux pass-through
+- Aux Latency: 295ms default, 33ms with aux pass-through
 - Bass Extension (-10dB): 31hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC

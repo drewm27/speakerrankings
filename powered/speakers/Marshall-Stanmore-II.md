@@ -24,11 +24,11 @@ The Marshall Stanmore II ranks [#7 out of 13 total Medium Size Powered Desktop S
 - Party Mode: No
 - Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
-- Power Input: AC Power Brick
+- Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Tweeter: 2x 0.75" Dome
-- Voice Control: Yes
+- Voice Assistants: Yes
 - Weight: 10.3lbs / 4.65kg
 - Wifi: No
 - Woofer: 5.25"

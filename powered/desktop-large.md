@@ -23,7 +23,7 @@ Last updated: February 09, 2026
 - Negatives: No battery. Boosted upper bass. Peaky upper mids.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No battery
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7mm)

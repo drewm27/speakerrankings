@@ -47,7 +47,7 @@ Last updated: February 09, 2026
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - App: No
 - Aux Input: Yes
-- Aux Latency: 295ms default, 33mm with aux pass-through
+- Aux Latency: 295ms default, 33ms with aux pass-through
 - Bass Extension (-10dB): 31hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
@@ -82,7 +82,7 @@ Last updated: February 09, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 60ms
 - Built in Microphone: Yes
-- EQ: yes
+- EQ: Yes
 - IP Rating: Splash resistant
 - Party Mode: No
 - Power Bank: Yes
@@ -111,7 +111,7 @@ Last updated: February 09, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 60ms
 - Built in Microphone: Yes
-- EQ: yes
+- EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 103db
 - Party Mode: No
@@ -262,14 +262,14 @@ Last updated: February 09, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
 - Built in Microphone: No
-- EQ: yes
+- EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
-- Stereo: Partially (1 Woofer)
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 3.7lbs / 1.68kg
 - Reviews, Comparisons and Sound Samples
@@ -512,7 +512,7 @@ Last updated: February 09, 2026
 - IP Rating: None
 - Party Mode: Yes (over Wifi)
 - Power Bank: No
-- Power Input: AC cable
+- Power Input: AC Power cable
 - Stereo: Partially (1 woofer)
 - TWS: Yes
 - Weight: 4.63lbs / 2.1kg
@@ -596,7 +596,7 @@ Last updated: February 09, 2026
 - IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No
-- Power Input: AC Power Brick
+- Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - Weight: 5.3lbs / 2.4kg
@@ -933,7 +933,7 @@ Last updated: February 09, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Xdobo-Bucket-BMTL-Bucket--Zicoroop-Ts/)
 
-## #34 [Marshall Killburn II](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl)]: $280
+## #34 [Marshall Kilburn II](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl)]: $280
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
 - App: No
 - Aux Input: Yes
@@ -954,7 +954,7 @@ Last updated: February 09, 2026
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
 - Links
-    - [Direct Speakerranking Link](/portable/speakers/Marshall-Killburn-II/)
+    - [Direct Speakerranking Link](/portable/speakers/Marshall-Kilburn-II/)
 
 ## #35 [JBL Xtreme 4](https://www.amazon.com/JBL-Bluetooth-Waterproof-JBLXTREME4BLKAM-Microfiber/dp/B0DJRWZ8S5?crid=3N8OHR05R5XL4&dib=eyJ2IjoiMSJ9.FbWw_J54v_TkVvrk6JVh2Cr9k3GUze5VZCC9m4u1jTH4LS59P9X1jbkWhBaVWMehX69WH2rSBADnXTgPYBd6sxcfJMPzCeURXIQe5Fr3BxD9t71rXfqR6UvVKdjFXBgT2lEKS15OFQUAG_yezNNGpIdtcC2CLDiDxuY0OWyZpOMilstgG8TqZQ7O89r9z9QRDKeFo46jrEDbsKjJoqm5Hs80CgBTODGJl4gjES-B8Sk.iPT4iHQr0XgAd3-SuTiZenHvHkpS0lmDde6YIp31PTg&dib_tag=se&keywords=xtreme%2B4&qid=1756318907&sprefix=xtreme%2B4%2Caps%2C326&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6c428d3621eba91312b0d8382f7f597f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Waterproof-JBLXTREME4BLKAM-Microfiber/dp/B0DJRWZ8S5?crid=3N8OHR05R5XL4&dib=eyJ2IjoiMSJ9.FbWw_J54v_TkVvrk6JVh2Cr9k3GUze5VZCC9m4u1jTH4LS59P9X1jbkWhBaVWMehX69WH2rSBADnXTgPYBd6sxcfJMPzCeURXIQe5Fr3BxD9t71rXfqR6UvVKdjFXBgT2lEKS15OFQUAG_yezNNGpIdtcC2CLDiDxuY0OWyZpOMilstgG8TqZQ7O89r9z9QRDKeFo46jrEDbsKjJoqm5Hs80CgBTODGJl4gjES-B8Sk.iPT4iHQr0XgAd3-SuTiZenHvHkpS0lmDde6YIp31PTg&dib_tag=se&keywords=xtreme%2B4&qid=1756318907&sprefix=xtreme%2B4%2Caps%2C326&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6c428d3621eba91312b0d8382f7f597f&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808920-REG/jbl_jblxtreme4blkam_xtreme_4_portable_wireless.html?BI=23745&KBID=29189)]: $380
 - Positives: Removable battery. Slightly deeper bass than Xtreme 3. Use [this EQ](https://www.instagram.com/p/C4Sqdy8IkDX/) for the best sound quality.
@@ -1685,7 +1685,7 @@ Last updated: February 09, 2026
 - Negatives: Boosted upper bass, not much lower bass. Only IPX6 water rating
 - App: No
 - Aux Input: Yes
-- Bass Extension: ~60hz
+- Bass Extension (-10dB): ~60hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

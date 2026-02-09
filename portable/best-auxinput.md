@@ -34,7 +34,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: Yes
-- EQ: yes
+- EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 92db
 - Party Mode: No

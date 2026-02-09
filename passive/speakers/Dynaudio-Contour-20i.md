@@ -13,11 +13,11 @@ The Dynaudio Contour 20i ranks [#18 out of 48 total Large Size Bookshelf Speaker
 - Bass Extension (-3dB): 56hz
 - Dimensions: 17.4"H x 8.5"W x 14.2"D
 - Impedance: 4 ohms
-- Sensitivity: 82.5 dB
+- Sensitivity: 82.5dB
 - Tweeter: 28mm Esotar 2i with Hexis
 - Weight: 30.9lbs / 14kg each
 - Woofer: 18 cm MSP
-- Woofer Cabinet: Rear Ported
+- Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dynaudio Contour 20i Bookshelf Speaker Review](https://www.youtube.com/watch?v=HcAwjBpzNbE)
 - Links

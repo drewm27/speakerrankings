@@ -19,7 +19,7 @@ The Teufel Rockster Cross ranks [#20 out of 73 total Large Size Portable Bluetoo
 - IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No
-- Power Input: AC Power Brick
+- Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - Weight: 5.3lbs / 2.4kg
