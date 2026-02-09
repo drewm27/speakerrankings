@@ -2,12 +2,12 @@
 layout: page
 title: Fosi Audio SP601 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Fosi Audio SP601 ranks #22 out of 22 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
+share-description: "The Fosi Audio SP601 ranks #21 out of 21 total Large Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Fosi Audio SP601 ranks [#22 out of 22 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#22-fosi-audio-sp601-fosiaudio-used-listings-400-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Fosi Audio SP601 ranks [#21 out of 21 total Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/#21-fosi-audio-sp601-fosiaudio-used-listings-400-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #22 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400 a pair
+## #21 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400 a pair
 - Negatives: Speaker has many issues, midrange is scooped, upper mids are wavy, treble is overly boosted. Not recommended
 - App: No
 - Bluetooth: No

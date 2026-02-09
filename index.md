@@ -61,10 +61,10 @@ Our rankings compile months of research into easy to navigate lists organized by
 
 - [Small Size Powered Bookshelf Speakers](/powered/bookshelf-small/): 8 speakers ranked
 - [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/): 24 speakers ranked
-- [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/): 22 speakers ranked
+- [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/): 21 speakers ranked
 - [Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/): 2 speakers ranked
 - [Medium Size Powered Desktop Speakers](/powered/desktop-medium/): 13 speakers ranked
-- [Large Size Powered Desktop Speakers](/powered/desktop-large/): 1 speakers ranked
+- [Large Size Powered Desktop Speakers](/powered/desktop-large/): 2 speakers ranked
 
 ## All Home Passive Speakers Ranked
 - [Medium Size Bookshelf Speakers](/passive/bookshelf-medium/): 20 speakers ranked

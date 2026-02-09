@@ -6,7 +6,7 @@ cover-img: "/assets/img/authentics500.jpg"
 share-description: "Find the best large powered desktop speakers of 2026 with expert reviews, performance comparisons, and buying tips for powerful, clear high-quality sound."
 ---
 
-This page ranks 1 large powered desktop speakers. These are stereo inside a single enclosure with woofers 6.5" or larger. They need significant desk space, have no battery, and no waterproofing. Larger woofers provide deeper bass but result in a bigger, heavier speaker. All include a built-in amp so you can play directly from your phone or laptop.
+This page ranks 2 large powered desktop speakers. These are stereo inside a single enclosure with woofers 6.5" or larger. They need significant desk space, have no battery, and no waterproofing. Larger woofers provide deeper bass but result in a bigger, heavier speaker. All include a built-in amp so you can play directly from your phone or laptop.
 
 I generally recommend avoiding this class, they won't have good imaging due to not having widely separated left and right channels like the [Bookshelf](/powered/bookshelf-medium/) class, and they generally aren't tuned as neutral. These are more for someone who wants a speaker that takes up as little space as possible. Also consider portable Bluetooth speakers with a battery and waterproofing.
 
@@ -18,7 +18,32 @@ Last updated: February 09, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
-## #1 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl)]: $600
+## #1 [B&W Zeppelin](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHF64S9D?crid=2W81XEK9D0LM8&dib=eyJ2IjoiMSJ9.S6bk6XSBAf7cIq_vSJJMEBfYoG_dy5nLbtOzJ-do-c7W96yad6ZNZKxGh9n8TGxSSZUagFP-v4IRjw1Or-s4ushnk2ElH8FaKCjfx-1DO56_qsdXz-LGpOknt3Kkr1ouW1-LFIOFCPLTQ_jRUg0Ofk3hvjW5K2l1jvuslkxLtvStn4S02s63zRXyJuCg6l6NRVpjWQ7oGvntqK4jw6_vQBNHyYWaiP2mb40yPtASCsw.vQcaDRXIKxPrKf03cF8NgJSo5nuh-TXsJjt8mToWpIQ&dib_tag=se&keywords=bw%2Bzeppelin&qid=1742483625&sprefix=BW%26%2Bzep%2Caps%2C249&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=997baac3b1c44cb5dd960ca9c826a318&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bowers-Wilkins-Including-Subwoofer-Streaming/dp/B0DHF64S9D?crid=2W81XEK9D0LM8&dib=eyJ2IjoiMSJ9.S6bk6XSBAf7cIq_vSJJMEBfYoG_dy5nLbtOzJ-do-c7W96yad6ZNZKxGh9n8TGxSSZUagFP-v4IRjw1Or-s4ushnk2ElH8FaKCjfx-1DO56_qsdXz-LGpOknt3Kkr1ouW1-LFIOFCPLTQ_jRUg0Ofk3hvjW5K2l1jvuslkxLtvStn4S02s63zRXyJuCg6l6NRVpjWQ7oGvntqK4jw6_vQBNHyYWaiP2mb40yPtASCsw.vQcaDRXIKxPrKf03cF8NgJSo5nuh-TXsJjt8mToWpIQ&dib_tag=se&keywords=bw%2Bzeppelin&qid=1742483625&sprefix=BW%26%2Bzep%2Caps%2C249&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=997baac3b1c44cb5dd960ca9c826a318&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=B%26W+Zeppelin)]: $800
+- Positives: Amazingly neutral, quite a wide soundstage due to the width. Bass extension deeper than all others in category.
+- Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/powered-top-recommended/) instead which will have even better soundstage.
+- App: No
+- Aux Input: No
+- Bass Extension (-10dB): ~32hz
+- Battery Life: No Battery
+- Bluetooth: Yes
+- Bluetooth Codecs: aptX Adaptive, AAC, SBC
+- DSP: No
+- EQ: No
+- IP Rating: None
+- Party Mode: No
+- Power Bank: No
+- Power Input: AC Power cord
+- TWS: No
+- Weight: 14.3lbs / 6.5kg
+- Wifi: Yes
+- Reviews, Comparisons and Sound Samples
+    - [JOY's 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
+    - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
+- Links
+    - [Official Product Page](https://www.bowerswilkins.com/en-us/product/wireless-speakers/zeppelin/150242.html)
+    - [Direct Speakerranking Link](/powered/speakers/BW-Zeppelin/)
+
+## #2 [JBL Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?crid=3QSGZ8R2D8JMF&dib=eyJ2IjoiMSJ9.uoP8P23NG17QsPzxdau5_n69Gogn9-4IzlNHqpg0fvS2OzuwY8Tebr39QBGcq4d-Vufa_i88CoMdLlaRqE20oXJkCxGB98crSxY7-4vpgp6WPGWJP9i3v9HF71yfokoJnBZON4jF2IyMdxS3BH0haKV2eIPsKxV5uDHPAT-6EuHdmnhTHGhio4ohB9yQhwPqOj9nayUK2B54TNg5xtTgvU8F00-icy1ejpDN9OJlJME.Ca1GnnJ1YaBU76YEWI2PxS2U2aDZHYYmnzFMWPd-1ys&dib_tag=se&keywords=jbl%2Bauthentics%2B500&qid=1711073194&sprefix=jbl%2Bauthentics%2B500%2Caps%2C268&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c508cd39578790364433e7fb53f80f46&language=en_US&ref_=as_li_ss_tl)]: $600
 - Positives: Quite powerful sound, and quite deep bass for the size.
 - Negatives: No battery. Boosted upper bass. Peaky upper mids.
 - App: Yes
