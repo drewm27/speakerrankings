@@ -8,7 +8,7 @@ share-description: "Discover the best large passive floorstanding speakers of 20
 
 This page ranks 25 large floorstanding speakers with woofers above 5.75". These speakers deliver the deepest bass response available, ideal for serious music lovers and home theater enthusiasts. 
 
-Rankings are based on flat frequency response, directivity, dynamics, imaging, and detail retrieval. While the top-ranked speakers offer exceptional performance, the law of diminishing returns applies—many moderately-priced options provide outstanding value.
+Rankings are based on flat frequency response, directivity, dynamics, imaging, and detail retrieval. While the top-ranked speakers offer exceptional performance, the law of diminishing returns applies,many moderately-priced options provide outstanding value.
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 

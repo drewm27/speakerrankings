@@ -3,19 +3,18 @@ layout: page
 title: Medium Size Portable Bluetooth Speakers Ranked
 comments: true
 cover-img: "/assets/img/ubooml.jpg"
-share-description: "Explore the top medium skze Bluetooth speakers — expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
+share-description: "Explore the top medium size Bluetooth speakers, expertly ranked for portability, balanced sound, and great value for compact, yet powerful audio."
 ---
 
-This page ranks 130 medium size powered Bluetooth speakers. Last updated on 02/09/2026. The medium size powered Bluetooth speaker size is one of the best general use size classes. 1L water bottle sized and light enough to hand carry, but with enough output to fill a bedroom or background music for a small outdoor gathering. Small enough to usually fit in a water bottle holder and take with you anywhere. The best of these speakers will have no problem filling a reasonable sized room with sound. Outdoors they will sound a bit bass light but are fine for background music. The best here will have bass extension similar to a 5.25” woofer bookshelf speaker. Bigger size class speakers will generally have deeper bass. All speakers are IPX7 or better unless noted.
+This page ranks 130 medium size Bluetooth speakers. This is one of the best general-use size classes, about the size of a 1L water bottle, light enough to hand carry, and small enough to fit in a water bottle holder. They can fill a bedroom or provide background music for a small outdoor gathering. Outdoors they'll sound a bit bass-light but work well for background music. The best here have bass extension similar to a 5.25" woofer bookshelf speaker. Larger size classes will generally go deeper. All are IPX7 or better unless noted.
+
+To the average listener, speakers in the top 50% of this category will likely sound great. For the critical listener, aim for the top 20%. Don't hesitate to pick any of those if you have budget, feature, or aesthetic priorities, there are a lot of good speakers here.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
+For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
-
-For longer runtime, check out a [power bank](/portable-power-stations/).
-
-For running karaoke, check out [Karaoke Setups](/karaoke-setups/)
+Last updated: 02/09/2026
 
 **Use your browser's search feature to search for speakers on this page.**
 

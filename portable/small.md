@@ -6,13 +6,15 @@ cover-img: "/assets/img/stormboxmicro2.jpg"
 share-description: "Explore the top small size Bluetooth speakers. Compact, lightweight, and powerful picks expertly ranked for portability, sound quality & budget."
 ---
 
-This page ranks 41 small size powered Bluetooth speakers. Last updated on 02/09/2026. These speakers should only be selected if you need something ultra small that can fit in a pocket, otherwise the larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price points. Bass will sound a bit slappy because these speakers can't quite reach low enough for full bass notes. All speakers in the small size are mono (single driver) and IPX7 or better unless noted.
+This page ranks 41 small size Bluetooth speakers. Only choose this size if you need something ultra-compact that fits in a pocket. Larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price. Bass can sound a bit slappy since these speakers can't quite reach low enough for full bass notes. All are mono (single driver) and IPX7 or better unless noted.
+
+To the average listener, speakers in the top 50% of this category will likely sound great. For the critical listener, aim for the top 20%. Don't hesitate to pick any of those if you have budget, feature, or aesthetic priorities, there are a lot of good speakers here.
 
 See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/) for the best speakers in all sizes or [Top Recommended Speakers By Preference](/#top-recommended-speakers-by-preference)
 
-To the average non-audiophile, generally speakers in the top 50% of this category will likely sound "good" to you. To the critical listener, generally speakers in the top 20% of this category will likely sound "good" to you. Don’t be afraid to pick one of those if you have budget, feature or aesthetic priorities. There’s a lot of good speakers out there.
-
 For longer runtime, check out a [power bank](/portable-power-stations/).
+
+Last updated: 02/09/2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
