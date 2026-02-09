@@ -402,17 +402,17 @@ Keep in mind that the law of diminishing returns applies and the extremely expen
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
     - [Direct Speakerranking Link](/passive/speakers/JBL-Studio-590/)
 
-## #24 [Klipsch Forge IV](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html) [[Crutchfield](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+Forge+IV)]: $5500
+## #24 [Klipsch Forte IV](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html) [[Crutchfield](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+Forte+IV)]: $5500
 - Negatives: 4dB peak at 6khz, 3dB dip at 7khz, 3dB peak at 8.5khz. Very peaky up top. Bass rolls off quite quick due to the high sensitivity. Not recommended
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 82hz
 - Sensitivity: 94dB
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: $5000 Klipsch Forte IV Review    A Klipsch speaker I could *maybe* live with.](https://www.youtube.com/watch?v=IZPc1tl1aPs)
-    - [Erin's Audio Review Website Klipsch Forge IV](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv/)
+    - [Erin's Audio Review Website Klipsch Forte IV](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv/)
 - Links
-    - [Official Klipsch Forge IV Website](https://www.klipsch.com/uk/products/forte-iv-floorstanding-speaker)
-    - [Direct Speakerranking Link](/passive/speakers/Klipsch-Forge-IV/)
+    - [Official Klipsch Forte IV Website](https://www.klipsch.com/uk/products/forte-iv-floorstanding-speaker)
+    - [Direct Speakerranking Link](/passive/speakers/Klipsch-Forte-IV/)
 
 ## #25 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Used Listings](https://www.hifizero.com/index.php?q=Magnepan+LRS%2B)]: $1300
 - Negatives: An open baffle speaker which creates a huge soundstage. Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
