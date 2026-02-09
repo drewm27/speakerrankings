@@ -7,6 +7,11 @@ share-description: "See what speakers are queued to be added. Suggest new models
 
 This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
+1. JBL Grip
+1. Wking T12
+1. Teufel Rockstar Neo
+1. Teufel Rockstar Air 2
+1. Marshall Bromley 750
 1. Audio Pro Addon T3, C5 
 1. Zealot ZE41
 1. Onn Portable Boombox
