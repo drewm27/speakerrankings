@@ -31,6 +31,7 @@ The Tribit Stormbox Lava ranks [#7 out of 73 total Large Size Portable Bluetooth
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
     - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
+    - [Alan Ross Reviews: Tribit Stormbox Lava Latest Firmware Update Result! v2.0.3](https://www.youtube.com/watch?v=uuvpho1kmJ4)
     - [Alan Ross Reviews: From harsh to smooth with these EQ settings - Tribit StormBox Lava](https://www.youtube.com/watch?v=LQu4qpfcP6U)
     - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
     - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)

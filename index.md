@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-**Find the perfect speaker for your needs.** Speaker Ranking provides comprehensive, unbiased rankings of 528 battery-powered portable Bluetooth speakers, powered bookshelf speakers, and passive home speakers, more than any other review site. Updated 02/06/2026.
+**Find the perfect speaker for your needs.** Speaker Ranking provides comprehensive, unbiased rankings of 528 battery powered portable Bluetooth speakers, powered bookshelf speakers, and passive home speakers, more than any other review site. Updated 02/08/2026.
 
 ## Why Speaker Ranking is Different
 
@@ -19,11 +19,11 @@ Unlike sponsored review sites that push specific products, we provide **honest, 
 - Sound samples and comparison videos
 - Links to quantitative measurements from trusted reviewers
 
-**All rankings are 100% independent**, no manufacturer influence, no hidden agendas. Just data-driven recommendations to help you make an informed decision.
+**All rankings are 100% independent**, no manufacturer influence, no hidden agendas. Just data driven recommendations to help you make an informed decision.
 
 ## Save Months of Research
 
-Our rankings compile months of research into easy-to-navigate lists organized by speaker type, size, and features. We've analyzed reviews from the **best unbiased audio reviewers** including [Oluv, Alan Ross, Erin's Audio Corner, Audio Science Review, GR-Research and more](/personal-ranking-of-speaker-reviewers/), combined with objective measurements and sound comparisons, to create the most comprehensive speaker database available.
+Our rankings compile months of research into easy to navigate lists organized by speaker type, size, and features. We've analyzed reviews from the **best unbiased audio reviewers** including [Oluv, Alan Ross, Erin's Audio Corner, Audio Science Review, GR-Research and more](/personal-ranking-of-speaker-reviewers/), combined with objective measurements and sound comparisons, to create the most comprehensive speaker database available.
 
 **Find your ideal speaker in minutes instead of months.** All the videos and reviews used to construct these rankings are linked so you can verify the order yourself.
 
