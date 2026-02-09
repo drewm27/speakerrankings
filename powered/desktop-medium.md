@@ -8,7 +8,7 @@ share-description: "Explore the best medium powered desktop speakers of 2026 wit
 
 This page ranks 13 medium powered desktop speakers. These are stereo inside a single enclosure with woofers between 4" and 6". They have no battery and no waterproofing. Larger woofers provide deeper bass but result in a bigger, heavier speaker. All include a built-in amp so you can play directly from your phone or laptop.
 
-I generally recommend avoiding this class, they won't have good imaging due to not having widely separated left and right channels like the [Bookshelf](/powered/bookshelf-large/) class, and they generally aren't tuned as neutral. These are more for someone who wants a speaker that takes up as little space as possible. Also consider portable Bluetooth speakers with a battery and waterproofing.
+I generally recommend avoiding this class, they won't have good imaging due to not having widely separated left and right channels like the [Bookshelf](/powered/bookshelf-large/) class, and they generally aren't tuned as neutral. These are more for someone who wants a speaker that is form over function and takes up as little space as possible. Also consider portable Bluetooth speakers with a battery and waterproofing.
 
 For the best picks from this page see [Best Powered Home Desktop Speakers](/powered/best/)
 
