@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Expert rankings of 364 Bluetooth speakers with microphone input. Detailed specs, sound samples & EQ settings. Budget to premium picks from $230."
 ---
 
-**Looking for the best Bluetooth speaker with microphone input?** We've ranked 364 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 09, 2026.**
+**Looking for the best Bluetooth speaker with microphone input?** We've ranked 364 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 13, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -205,6 +205,7 @@ The next best battery powered speakers for this use will be the [party size](/po
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
     - [Audiophile housewife: Tribit Stormbox Blast 2 vs 2 Earfun UBoom X - outdoor test](https://www.youtube.com/watch?v=hX6IH6pI33E)
+    - [Alan Ross Reviews: Tribit Stormbox Blast 2 custom EQ best settings! Alan Ross!](https://www.youtube.com/watch?v=Demef0n4E8A)
     - [Alan Ross Reviews: Tribit Stormbox Blast 2 review - fun fun fun! sometimes 😊](https://www.youtube.com/watch?v=XWp-Ru2YwsE)
     - [Mateusz Cholewa: Soundcore Rave 3 🤗v🆚s Tribit Stormbox Blast 2👌🎶](https://www.youtube.com/watch?v=Z9IXiGVdANA)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)

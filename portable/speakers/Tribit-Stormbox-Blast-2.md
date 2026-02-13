@@ -33,6 +33,7 @@ The Tribit Stormbox Blast 2 ranks [#21 out of 68 total Boombox Size Portable Blu
     - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
     - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
     - [Audiophile housewife: Tribit Stormbox Blast 2 vs 2 Earfun UBoom X - outdoor test](https://www.youtube.com/watch?v=hX6IH6pI33E)
+    - [Alan Ross Reviews: Tribit Stormbox Blast 2 custom EQ best settings! Alan Ross!](https://www.youtube.com/watch?v=Demef0n4E8A)
     - [Alan Ross Reviews: Tribit Stormbox Blast 2 review - fun fun fun! sometimes 😊](https://www.youtube.com/watch?v=XWp-Ru2YwsE)
     - [Mateusz Cholewa: Soundcore Rave 3 🤗v🆚s Tribit Stormbox Blast 2👌🎶](https://www.youtube.com/watch?v=Z9IXiGVdANA)
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 2 😳 First Look, EQ and Light Modes Demo 🚨](https://www.youtube.com/watch?v=5Xv2-HK_4_o)

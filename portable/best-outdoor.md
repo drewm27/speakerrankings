@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Expert rankings of 364 Bluetooth speakers tested for outdoor usage. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for outdoor usage?** We've ranked 364 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 09, 2026.**
+**Looking for the best Bluetooth speaker for outdoor usage?** We've ranked 364 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 13, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -134,9 +134,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 ## Large 
 
 ### The best reasonably priced [large size](/portable/large/) battery powered speaker for deeper bass with great sound quality is the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
-- Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
-- Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
-- Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK)
+- Positives: Fantastic bass extension. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
+- Negatives: Quite heavy for the size. Some bass boost way down low. Treble and upper mids have some peaks.
+- Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) and you can turn down the lowest slider for it to be more neutral
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 20ms

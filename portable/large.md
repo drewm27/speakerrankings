@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 09, 2026
+Last updated: February 13, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -42,152 +42,10 @@ Last updated: February 09, 2026
     - [Official Product Page](https://www.vifa.dk/pages/helsinki)
     - [Direct Speakerranking Link](/portable/speakers/Vifa-Helsinki/)
 
-## #2 [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
-- Positives: Very deep bass, the absolute deepest from this category. Medium bass boost is the most balanced.
-- Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
-- App: No
-- Aux Input: Yes
-- Aux Latency: 295ms default, 33ms with aux pass-through
-- Bass Extension (-10dB): 31hz
-- Battery Life: 12 hours
-- Bluetooth Codecs: aptX HD, aptX, AAC, SBC
-- Bluetooth Latency: 100ms
-- Built in Microphone: Yes
-- EQ: No
-- IP Rating: IP57
-- Max Volume: 106db
-- Party Mode: Yes (Up to 8 speakers on wifi)
-- Power Bank: No
-- Power Input: AC Power brick
-- Stereo: Yes
-- TWS: Yes
-- Weight: 7.8lbs / 3.5kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
-    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
-    - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
-    - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
-- Links
-    - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
-    - [Direct Speakerranking Link](/portable/speakers/Brane-X/)
-
-## #3 [Minirig mk4 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-4) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-4)]: $290
-- Positives: Very balanced sound. Finally USB-C charging
-- Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
-- App: Yes
-- Aux Input: Yes
-- Aux Latency: 0ms
-- Battery Life: 30 hours
-- Bluetooth Codecs: SBC
-- Bluetooth Latency: 60ms
-- Built in Microphone: Yes
-- EQ: Yes
-- IP Rating: Splash resistant
-- Party Mode: No
-- Power Bank: Yes
-- Power Input: USB-C
-- Stereo: No
-- TWS: Yes (Bluetooth or cable)
-- Weight: 3.17lbs / 1.44kg
-- Reviews, Comparisons and Sound Samples
-    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
-    - [Alan Ross Reviews:  Game changer! Minirig wireless portable subwoofer mk4 goes boom!  ](https://www.youtube.com/watch?v=nUN93WecLUs)
-    - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
-    - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
-- Links
-    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
-    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
-    - [Direct Speakerranking Link](/portable/speakers/Minirig-mk4-with-subwoofer/)
-
-## #4 [Minirig mk3 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $260
-- Positives: Very balanced sound
-- Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
-- App: Yes
-- Aux Input: Yes
-- Aux Latency: 1ms
-- Bass Extension (-10dB): 47hz
-- Battery Life: 30 hours
-- Bluetooth Codecs: SBC
-- Bluetooth Latency: 60ms
-- Built in Microphone: Yes
-- EQ: Yes
-- IP Rating: Splash resistant
-- Max Volume: 103db
-- Party Mode: No
-- Power Bank: No
-- Power Input: Proprietary USB cable
-- Stereo: No
-- TWS: Yes (Bluetooth or cable)
-- Weight: 3.13lbs / 1.42kg
-- Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=e8lfiOep2pU>
-    - <https://www.youtube.com/watch?v=HuPEBiJqhPk>
-    - [Alan Ross Reviews: Tribit Stormbox Blast or two Motion Boom Pluses for best cheap boombox?](https://www.youtube.com/watch?v=O0VU-yPXIPs)
-    - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
-    - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
-    - [Alan Ross Reviews: Minirig mk3 2.2 (2x subwoofers) vs 2x Soundcore Motion Booms 🤑](https://www.youtube.com/watch?v=WzYQ8EHXj6U)
-    - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
-    - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
-- Links
-    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
-    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
-    - [Direct Speakerranking Link](/portable/speakers/Minirig-mk3-with-subwoofer/)
-
-## #5 Minirig mk2 with subwoofer: $260
-- Positives: Very balanced sound
-- Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
-- App: Yes
-- Aux Input: Yes
-- Bass Extension (-10dB): 47hz
-- Battery Life: 40 hours
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: Yes
-- IP Rating: Splash resistant
-- Party Mode: No
-- Power Bank: No
-- Power Input: Proprietary USB cable
-- Stereo: No
-- TWS: Yes (cable)
-- Weight: 3.0lbs / 1.36kg
-- Reviews, Comparisons and Sound Samples
-    - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
-- Links
-    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
-    - [Direct Speakerranking Link](/portable/speakers/Minirig-mk2-with-subwoofer/)
-
-## #6 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325)]: $550
-- Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
-- App: No (official app is broken, 3rd party android app only)
-- Aux Input: Yes
-- Bass Extension (-10dB): 50hz
-- Battery Life: 8 hours
-- Bluetooth Codecs: aptX, SBC
-- Built in Microphone: Yes
-- EQ: No
-- IP Rating: None
-- Party Mode: No
-- Power Bank: No
-- Power Input: AC Power brick
-- Stereo: Partially (1 woofer)
-- TWS: No
-- Weight: 5.29lbs / 2.4kg
-- Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
-    - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
-    - <https://www.youtube.com/watch?v=-N-zg4F97Dw>
-    - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
-    - <https://www.youtube.com/watch?v=Cc-9e0SNPFM>
-    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
-- Links
-    - [Official Product Page](https://www.vifa.dk/pages/oslo)
-    - [Direct Speakerranking Link](/portable/speakers/Vifa-Oslo/)
-
-## #7 [Tribit Stormbox Lava](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
-- Positives: Fantastic bass extension. Sounds pretty neutral in the Jazz mode. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
-- Negatives: Quite heavy for the size. Some bass boost way down low. Treble and mids have some peaks.
-- Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK)
+## #2 [Tribit Stormbox Lava](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
+- Positives: Fantastic bass extension. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
+- Negatives: Quite heavy for the size. Some bass boost way down low. Treble and upper mids have some peaks.
+- Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) and you can turn down the lowest slider for it to be more neutral
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 20ms
@@ -222,6 +80,148 @@ Last updated: February 09, 2026
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Lava/)
+
+## #3 [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
+- Positives: Very deep bass, the absolute deepest from this category. Medium bass boost is the most balanced.
+- Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
+- App: No
+- Aux Input: Yes
+- Aux Latency: 295ms default, 33ms with aux pass-through
+- Bass Extension (-10dB): 31hz
+- Battery Life: 12 hours
+- Bluetooth Codecs: aptX HD, aptX, AAC, SBC
+- Bluetooth Latency: 100ms
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: IP57
+- Max Volume: 106db
+- Party Mode: Yes (Up to 8 speakers on wifi)
+- Power Bank: No
+- Power Input: AC Power brick
+- Stereo: Yes
+- TWS: Yes
+- Weight: 7.8lbs / 3.5kg
+- Wifi: Yes
+- Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: This speaker left me shocked! Brane X, they said it defies the laws of physics!](https://www.youtube.com/watch?v=Ks9q-vqDSmI)
+    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
+    - [mark: Brane X Speaker Review 2](https://www.youtube.com/watch?v=aWdDlpqQJbA)
+    - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
+- Links
+    - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
+    - [Direct Speakerranking Link](/portable/speakers/Brane-X/)
+
+## #4 [Minirig mk4 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-4) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-4)]: $290
+- Positives: Very balanced sound. Finally USB-C charging
+- Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
+- App: Yes
+- Aux Input: Yes
+- Aux Latency: 0ms
+- Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 60ms
+- Built in Microphone: Yes
+- EQ: Yes
+- IP Rating: Splash resistant
+- Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: No
+- TWS: Yes (Bluetooth or cable)
+- Weight: 3.17lbs / 1.44kg
+- Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
+    - [Alan Ross Reviews:  Game changer! Minirig wireless portable subwoofer mk4 goes boom!  ](https://www.youtube.com/watch?v=nUN93WecLUs)
+    - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
+    - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
+- Links
+    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
+    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
+    - [Direct Speakerranking Link](/portable/speakers/Minirig-mk4-with-subwoofer/)
+
+## #5 [Minirig mk3 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $260
+- Positives: Very balanced sound
+- Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
+- App: Yes
+- Aux Input: Yes
+- Aux Latency: 1ms
+- Bass Extension (-10dB): 47hz
+- Battery Life: 30 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Latency: 60ms
+- Built in Microphone: Yes
+- EQ: Yes
+- IP Rating: Splash resistant
+- Max Volume: 103db
+- Party Mode: No
+- Power Bank: No
+- Power Input: Proprietary USB cable
+- Stereo: No
+- TWS: Yes (Bluetooth or cable)
+- Weight: 3.13lbs / 1.42kg
+- Reviews, Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=e8lfiOep2pU>
+    - <https://www.youtube.com/watch?v=HuPEBiJqhPk>
+    - [Alan Ross Reviews: Tribit Stormbox Blast or two Motion Boom Pluses for best cheap boombox?](https://www.youtube.com/watch?v=O0VU-yPXIPs)
+    - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
+    - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
+    - [Alan Ross Reviews: Minirig mk3 2.2 (2x subwoofers) vs 2x Soundcore Motion Booms 🤑](https://www.youtube.com/watch?v=WzYQ8EHXj6U)
+    - [Alan Ross Reviews: Minirig 4 vs Minirig 3, stuff they tell you, stuff they don't! 😂](https://www.youtube.com/watch?v=sYgBVdmJ6Bs)
+    - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
+- Links
+    - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
+    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
+    - [Direct Speakerranking Link](/portable/speakers/Minirig-mk3-with-subwoofer/)
+
+## #6 Minirig mk2 with subwoofer: $260
+- Positives: Very balanced sound
+- Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
+- App: Yes
+- Aux Input: Yes
+- Bass Extension (-10dB): 47hz
+- Battery Life: 40 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: Yes
+- IP Rating: Splash resistant
+- Party Mode: No
+- Power Bank: No
+- Power Input: Proprietary USB cable
+- Stereo: No
+- TWS: Yes (cable)
+- Weight: 3.0lbs / 1.36kg
+- Reviews, Comparisons and Sound Samples
+    - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
+- Links
+    - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
+    - [Direct Speakerranking Link](/portable/speakers/Minirig-mk2-with-subwoofer/)
+
+## #7 [Vifa Oslo](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Vifa-Oslo-Bluetooth-Rechargeable-Hi-Resolution/dp/B0BV9FY6QC/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2b4b5d18b36c80e70af0414847f570a6&camp=1789&creative=9325)]: $550
+- Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
+- App: No (official app is broken, 3rd party android app only)
+- Aux Input: Yes
+- Bass Extension (-10dB): 50hz
+- Battery Life: 8 hours
+- Bluetooth Codecs: aptX, SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: None
+- Party Mode: No
+- Power Bank: No
+- Power Input: AC Power brick
+- Stereo: Partially (1 woofer)
+- TWS: No
+- Weight: 5.29lbs / 2.4kg
+- Reviews, Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
+    - <https://www.youtube.com/watch?v=ikbgT5lqkRk>
+    - <https://www.youtube.com/watch?v=-N-zg4F97Dw>
+    - <https://www.youtube.com/watch?v=FLKKBdPkDHM>
+    - <https://www.youtube.com/watch?v=Cc-9e0SNPFM>
+    - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
+- Links
+    - [Official Product Page](https://www.vifa.dk/pages/oslo)
+    - [Direct Speakerranking Link](/portable/speakers/Vifa-Oslo/)
 
 ## #8 [Mifa Wildbox](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-WildBox-Bluetooth-Subwoofers-Waterproof/dp/B09P85X4VB/ref=sr_1_3_pp?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=85d9c4ac5c610819fe00ee1253367a3a&camp=1789&creative=9325)]: $100
 - Positives: A really neutral frequency response across the midrange. 6 different lighting modes, or turn off the lights with a long button press. You will need to upgrade it to the latest 2.11 [firmware](https://www.mifalife.net/en/service/support/product/WildBox) with a Windows PC, as it likely ships with 1.93. Sound quality and bass extension on previous firmwares wasn't very good. To upgrade firmware, install the PC flashing tool and download firmware. With the speaker off, hold V+ Play V- at the same time to enter flashing mode. To check firmware, turn on the speaker, quickly press the M button 3 times, then quickly press the Play button 3 times (it can take a few tries).
