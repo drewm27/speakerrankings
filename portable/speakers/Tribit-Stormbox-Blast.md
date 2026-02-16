@@ -32,9 +32,10 @@ The Tribit Stormbox Blast ranks [#2 out of 68 total Boombox Size Portable Blueto
 - USB Playback: No
 - Weight: 11.6lbs / 5.3kg
 - Reviews, Comparisons and Sound Samples
-    - [Alan Ross Reviews: Tribit Stormbox Blast updates and changes](Tribit Stormbox Blast updates and changes)
+    - [Alan Ross Reviews: Tribit Stormbox Blast Firmware Update 5.2 and other things.......](https://www.youtube.com/watch?v=-zaz_yaVi3c)
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
+    - [Alan Ross Reviews: Tribit Stormbox Blast compared to the 2022 StormBox Blast, i wasn't expecting this!](https://www.youtube.com/watch?v=6puDX2cnkBI)
     - [Alan Ross Reviews: Soundcore Motion x600 (best speaker ever) or two motion booms?](https://www.youtube.com/watch?v=r8iOd03r-hU)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>

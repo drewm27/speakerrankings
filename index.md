@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-**Find the perfect speaker for your needs.** Speaker Ranking provides comprehensive, unbiased rankings of 527 battery powered portable Bluetooth speakers, powered bookshelf speakers, and passive home speakers, more than any other review site. Last updated February 13, 2026.
+**Find the perfect speaker for your needs.** Speaker Ranking provides comprehensive, unbiased rankings of 527 battery powered portable Bluetooth speakers, powered bookshelf speakers, and passive home speakers, more than any other review site. Last updated February 15, 2026.
 
 ## Why Speaker Ranking is Different
 

@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Expert rankings of 364 Bluetooth speakers with microphone input. Detailed specs, sound samples & EQ settings. Budget to premium picks from $230."
 ---
 
-**Looking for the best Bluetooth speaker with microphone input?** We've ranked 364 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 13, 2026.**
+**Looking for the best Bluetooth speaker with microphone input?** We've ranked 364 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 15, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -182,6 +182,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 ### And with a longer battery, the [**Tribit Stormbox Blast 2**](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
+- Setup: Try the EQ from [Alan Ross at this timestamp of his video](https://youtu.be/Demef0n4E8A?si=KOKmfaoG1M1-_Abi&t=670)
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz

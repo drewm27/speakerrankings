@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 13, 2026
+Last updated: February 15, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 ## #1 [Earfun Uboom X](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
@@ -109,9 +109,10 @@ Last updated: February 13, 2026
 - USB Playback: No
 - Weight: 11.6lbs / 5.3kg
 - Reviews, Comparisons and Sound Samples
-    - [Alan Ross Reviews: Tribit Stormbox Blast updates and changes](Tribit Stormbox Blast updates and changes)
+    - [Alan Ross Reviews: Tribit Stormbox Blast Firmware Update 5.2 and other things.......](https://www.youtube.com/watch?v=-zaz_yaVi3c)
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
+    - [Alan Ross Reviews: Tribit Stormbox Blast compared to the 2022 StormBox Blast, i wasn't expecting this!](https://www.youtube.com/watch?v=6puDX2cnkBI)
     - [Alan Ross Reviews: Soundcore Motion x600 (best speaker ever) or two motion booms?](https://www.youtube.com/watch?v=r8iOd03r-hU)
     - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
     - <https://www.youtube.com/watch?v=IVHqBzBN8Dg>
@@ -716,6 +717,7 @@ Last updated: February 13, 2026
 ## #21 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
+- Setup: Try the EQ from [Alan Ross at this timestamp of his video](https://youtu.be/Demef0n4E8A?si=KOKmfaoG1M1-_Abi&t=670)
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz
