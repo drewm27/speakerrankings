@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 15, 2026
+Last updated: February 16, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -971,6 +971,7 @@ Last updated: February 15, 2026
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: USB-C
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.63lbs / 2.1kg

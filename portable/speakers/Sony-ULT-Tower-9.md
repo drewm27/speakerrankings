@@ -22,6 +22,7 @@ The Sony ULT Tower 9 ranks [#7 out of 9 total Large Party Size Portable Bluetoot
 - Party Mode: Yes (Auracast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: No
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes

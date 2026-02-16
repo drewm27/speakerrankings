@@ -23,6 +23,7 @@ The Sony SRS-XV900 ranks [#9 out of 9 total Large Party Size Portable Bluetooth 
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: No
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes

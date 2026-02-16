@@ -22,6 +22,7 @@ The JBL Xtreme 4 ranks [#35 out of 73 total Large Size Portable Bluetooth Speake
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: USB-C
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: Yes
 - Weight: 4.63lbs / 2.1kg

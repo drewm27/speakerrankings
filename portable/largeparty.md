@@ -16,7 +16,7 @@ See [Party Size Bluetooth Speakers](/portable/party/) for smaller party speakers
 
 For longer runtime or off-grid use, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 15, 2026
+Last updated: February 16, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -129,7 +129,7 @@ Last updated: February 15, 2026
 - Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Removable Battery: Yes
+- Removable Battery: No
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
@@ -160,6 +160,7 @@ Last updated: February 15, 2026
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
@@ -225,6 +226,7 @@ Last updated: February 15, 2026
 - Party Mode: Yes (Auracast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: No
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
@@ -253,6 +255,7 @@ Last updated: February 15, 2026
 - Party Mode: Yes (Auracast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: No
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
@@ -282,6 +285,7 @@ Last updated: February 15, 2026
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: No
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes

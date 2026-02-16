@@ -22,6 +22,7 @@ The JBL Partybox 520 ranks [#5 out of 9 total Large Party Size Portable Bluetoot
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes

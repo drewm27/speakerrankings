@@ -22,7 +22,7 @@ The JBL Partybox 710 ranks [#4 out of 9 total Large Party Size Portable Bluetoot
 - Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Removable Battery: Yes
+- Removable Battery: No
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
