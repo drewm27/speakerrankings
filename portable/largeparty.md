@@ -6,7 +6,7 @@ cover-img: "/assets/img/partyboxultimate.jpg"
 share-description: "Discover the top large party size Bluetooth speakers. Massive, AC‑powered giants designed for deep bass, huge sound, and epic party performance."
 ---
 
-This page ranks 9 large party size Bluetooth speakers. These are dedicated party speakers, if you're looking at one, you need extremely deep bass and can accept a speaker over 50 lbs / 23 kg. Most are overkill for typical use. All speakers in this class require AC power except the Sony and Teufel, which have batteries. The best here have bass extension similar to a 12" woofer tower speaker.
+This page ranks 10 large party size Bluetooth speakers. These are dedicated party speakers, if you're looking at one, you need extremely deep bass and can accept a speaker over 50 lbs / 23 kg. Most are overkill for typical use. All speakers in this class require AC power except the Sony and Teufel, which have batteries. The best here have bass extension similar to a 12" woofer tower speaker.
 
 These are designed more for deep bass than extreme loudness. If you're throwing parties for over 50 people, consider real PA speakers instead, see [loudest speakers](/portable/loudest-speakers/).
 
@@ -105,6 +105,8 @@ Last updated: February 16, 2026
     - [Oluv: JBL Partybox 720 vs Teufel Rockster Neo - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-149070999)
     - [Oluv: JBL Partybox 720 vs Marshall Bromley 750 - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-148190027)
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
+    - [Oluv: Sony ULT Tower 9 vs JBL Partybox 720 - indoor listening test](https://www.patreon.com/posts/sony-ult-tower-9-150590248)
+    - [Oluv: Sony ULT Tower 9 vs JBL Partybox 720 - power generator test](https://www.patreon.com/posts/sony-ult-tower-9-150744986)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
@@ -233,6 +235,8 @@ Last updated: February 16, 2026
 - Weight: 65.2lbs / 29.6kg
 - Wifi: No
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: Sony ULT Tower 9 vs JBL Partybox 720 - indoor listening test](https://www.patreon.com/posts/sony-ult-tower-9-150590248)
+    - [Oluv: Sony ULT Tower 9 vs JBL Partybox 720 - power generator test](https://www.patreon.com/posts/sony-ult-tower-9-150744986)
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
     - [GYMCADDY: Sony ULT Tower 9 Review - Amazing Instrument Separation](https://www.youtube.com/watch?v=xbVBvaGDDy0)
     - [GYMCADDY: JBL Partybox 720 Vs Sony ULT Tower 9](https://www.youtube.com/watch?v=ftc_uQxgLnA)
@@ -298,6 +302,33 @@ Last updated: February 16, 2026
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsxv900)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XV900/)
+
+## #10 [W-King T12](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=se&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=se&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl)]: $600
+- Negatives: Boxy sounding and doesn't have the clarity of the higher ranked speakers
+- App: No
+- Aux Input: Yes
+- Battery Life: 25 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (Bass and treble)
+- Guitar Input: Yes
+- IP Rating: None
+- MicroSD: Yes
+- Microphone Input: Yes
+- Party Mode: No
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 33lbs / 15kg
+- Wifi: No
+- Reviews, Comparisons and Sound Samples
+    - [Oluv: W-King T12 vs JBL Partybox 520](https://www.patreon.com/posts/w-king-t12-vs-149146838)
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/t12)
+    - [Direct Speakerranking Link](/portable/speakers/W-King-T12/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

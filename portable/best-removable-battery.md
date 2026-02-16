@@ -3,10 +3,10 @@ layout: page
 title: Best Portable Bluetooth Speakers With Removable Battery
 comments: true
 cover-img: "/assets/img/partybox320.jpg"
-share-description: "Expert rankings of 365 Bluetooth speakers with removable battery. Detailed specs, sound samples & EQ settings."
+share-description: "Expert rankings of 366 Bluetooth speakers with removable battery. Detailed specs, sound samples & EQ settings."
 ---
 
-**Looking for the best Bluetooth speaker with a removable battery?** We've hand selected and ranked 365 portable speakers by audio performance. All recommendations prioritize sound quality with a required removable battery by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 16, 2026.**
+**Looking for the best Bluetooth speaker with a removable battery?** We've hand selected and ranked 366 portable speakers by audio performance. All recommendations prioritize sound quality with a required removable battery by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 16, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -152,6 +152,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Oluv: JBL Partybox 720 vs Teufel Rockster Neo - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-149070999)
     - [Oluv: JBL Partybox 720 vs Marshall Bromley 750 - outdoor test](https://www.patreon.com/posts/jbl-partybox-720-148190027)
     - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
+    - [Oluv: Sony ULT Tower 9 vs JBL Partybox 720 - indoor listening test](https://www.patreon.com/posts/sony-ult-tower-9-150590248)
+    - [Oluv: Sony ULT Tower 9 vs JBL Partybox 720 - power generator test](https://www.patreon.com/posts/sony-ult-tower-9-150744986)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox 520](https://www.youtube.com/watch?v=d9Rf68CKEGM)
     - [GYMCADDY: JBL Partybox 720 Review](https://www.youtube.com/watch?v=e3gv3gsNro0)
     - [GYMCADDY: JBL Partybox 720 Vs JBL Partybox Ultimate](https://www.youtube.com/watch?v=LFu03PW_ZGI)
