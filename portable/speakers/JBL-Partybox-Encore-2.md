@@ -2,10 +2,10 @@
 layout: page
 title: JBL Partybox Encore 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Partybox Encore 2 ranks #4 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Partybox Encore 2 ranks #4 out of 67 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Partybox Encore 2 ranks [#4 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#4-jbl-partybox-encore-2-samsclub-330) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Partybox Encore 2 ranks [#4 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#4-jbl-partybox-encore-2-samsclub-330) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 [JBL Partybox Encore 2](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631) [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]: $330
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 2 wireless microphones. Better battery life than the first Encore.

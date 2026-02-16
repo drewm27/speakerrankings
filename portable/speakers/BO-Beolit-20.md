@@ -2,12 +2,12 @@
 layout: page
 title: B&O Beolit 20 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The B&O Beolit 20 ranks #30 out of 68 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The B&O Beolit 20 ranks #29 out of 67 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beolit 20 ranks [#30 out of 68 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#30-bo-beolit-20-amazon-495) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beolit 20 ranks [#29 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#29-bo-beolit-20-amazon-495) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #30 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
+## #29 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
 - Positives: Wireless phone charging.
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
 - App: Yes (Bang & Olufsen app)

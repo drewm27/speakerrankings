@@ -2,12 +2,12 @@
 layout: page
 title: Bogasing S8 Pro Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bogasing S8 Pro ranks #58 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Bogasing S8 Pro ranks #59 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Bogasing S8 Pro ranks [#58 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#58-bogasing-s8-pro-amazon-152) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bogasing S8 Pro ranks [#59 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#59-bogasing-s8-pro-amazon-152) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #58 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl)]: $152
+## #59 [Bogasing S8 Pro](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-S8-Waterproof-Technology/dp/B0BVMFTK12?&linkCode=ll1&tag=rankingspea01-20&linkId=631577f850ff0725a8cc585be018cb76&language=en_US&ref_=as_li_ss_tl)]: $152
 - Positives: Use "vocal" mode for the flattest response, still not great.
 - Negatives: Huge treble peaks in most sound modes, sounds sizzling and harsh.
 - App: No

@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Explore our top-rated boombox‑size Bluetooth speakers. Powerful picks with booming bass, long battery life, and bold sound for on-the-go or home use."
 ---
 
-This page ranks 68 boombox size Bluetooth speakers. The boombox class offers deep bass, compact size, and reasonable weight, a truly portable party speaker that fits in a big backpack. The best ones can shake walls and floors at medium volume, with bass extension similar to an 8" woofer tower speaker. Stepping up to the Party size only gets you more volume and deeper bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
+This page ranks 67 boombox size Bluetooth speakers. The boombox class offers deep bass, compact size, and reasonable weight, a truly portable party speaker that fits in a big backpack. The best ones can shake walls and floors at medium volume, with bass extension similar to an 8" woofer tower speaker. Stepping up to the Party size only gets you more volume and deeper bass. IPX7 water resistant unless otherwise noted. All speakers in this class need AC to charge unless noted.
 
 To the average listener, speakers in the top 50% of this category will likely sound great. For the critical listener, aim for the top 20%. Don't hesitate to pick any of those if you have budget, feature, or aesthetic priorities, there are a lot of good speakers here.
 
@@ -426,34 +426,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX+STUDIO+6.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-6/)
 
-## #12 Harman Kardon Citation 200: $130
-- Positives: Deeper bass than any Onyx.
-- Negatives: Overly boomy by default, you can short press the Bluetooth and volume down buttons simultaneously to decrease the bass, and the Bluetooth and volume up buttons simultaneously to increase it
-- App: Yes (Harman Kardon app)
-- Aux Input: No
-- Battery Life: 8 hours
-- Bluetooth Codecs: SBC
-- Built in Microphone: Yes
-- EQ: No
-- IP Rating: IPX4
-- Party Mode: No
-- Power Bank: No
-- Power Input: USB-C
-- Stereo: Partially (1 woofer)
-- TWS: No
-- USB Playback: No
-- Weight: 6.3lbs / 2.85kg
-- Wifi: Yes
-- Reviews, Comparisons and Sound Samples
-    - [Ezekielo: Citation 200 vs Beolit 20 with Sound Comparison!](https://www.youtube.com/watch?v=8Ts5BVWHYDE)
-    - [KULAS TECH SHOW: Harman Kardon Citation 200 vs JBL Xtreme3 Sound  & Bass test](https://www.youtube.com/watch?v=sLsvo5urFaw)
-    - [Ezekielo: Citation 200 vs Onyx Studio 6 vs Bose Portable Speaker Sound Comparison](https://www.youtube.com/watch?v=EciHn8jHHdA)
-    - [KULAS TECH SHOW: Harman Kardon Citation 200 vs Onyx Studio 7 Bass comparison](https://www.youtube.com/watch?v=nhXQE196GvQ)
-- Links
-    - [Official Product Page](https://www.harmankardon.com/home-audio/CITATION+200-.html)
-    - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Citation-200/)
-
-## #13 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl)]: $134
+## #12 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl)]: $134
 - Positives: Warm sound with boosted bass.
 - Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others. No water rating.
 - App: No
@@ -484,7 +457,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-7-.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-7/)
 
-## #14 [Zealot ZE21](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
+## #13 [Zealot ZE21](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
 - Positives: The absolute best value for the bass performance, play time and max volume in the boombox class.
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
@@ -514,7 +487,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.zealot.com/products/zealot-ze21-portable-bluetooth-speaker-high-volume-waterproof-wireless-tws-subwoofer-support-u)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-ZE21/)
 
-## #15 [Zealot S89](https://s.click.aliexpress.com/e/_c3VYQaUb) [[Aliexpress](https://s.click.aliexpress.com/e/_c3VYQaUb)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Subwoofer-Waterproof/dp/B0FJ8HBQS8?crid=1CO7NSHNL917Y&dib=eyJ2IjoiMSJ9.Uda4wl_LdSRpp6SN-fRuocJaY0CvYeLynMV1R6rrmkLQkh-Y7uLQruI4J5r9o_FT7m5JmYc4YyPu6_ESpZAd6Bmc0lUthPNnRCT9Z4RE3ZF3V7UjochldDftmSIWkvW5qPGyZOfwISHJ1wDSXgQLwQE7PRBM_nLAOLKHlpO0SdtDXVgv8hE-x7gq-jSHQKaWq_Uzvz5Mqwzg3mrQIKHXPv50lw3JHQ-9X-iysgGe0lk.wxRT_hfU42Ax2V6qMOM7OKiC0lsf_o9zylWTv_fqc_s&dib_tag=se&keywords=zealot%2Bs89&qid=1767856123&sprefix=zealot%2Bs89%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2ad823e37ae7c0efb92519e32ab46d18&language=en_US&ref_=as_li_ss_tl)]: $160
+## #14 [Zealot S89](https://s.click.aliexpress.com/e/_c3VYQaUb) [[Aliexpress](https://s.click.aliexpress.com/e/_c3VYQaUb)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Subwoofer-Waterproof/dp/B0FJ8HBQS8?crid=1CO7NSHNL917Y&dib=eyJ2IjoiMSJ9.Uda4wl_LdSRpp6SN-fRuocJaY0CvYeLynMV1R6rrmkLQkh-Y7uLQruI4J5r9o_FT7m5JmYc4YyPu6_ESpZAd6Bmc0lUthPNnRCT9Z4RE3ZF3V7UjochldDftmSIWkvW5qPGyZOfwISHJ1wDSXgQLwQE7PRBM_nLAOLKHlpO0SdtDXVgv8hE-x7gq-jSHQKaWq_Uzvz5Mqwzg3mrQIKHXPv50lw3JHQ-9X-iysgGe0lk.wxRT_hfU42Ax2V6qMOM7OKiC0lsf_o9zylWTv_fqc_s&dib_tag=se&keywords=zealot%2Bs89&qid=1767856123&sprefix=zealot%2Bs89%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2ad823e37ae7c0efb92519e32ab46d18&language=en_US&ref_=as_li_ss_tl)]: $160
 - Positives: A great value for the bass performance, play time and max volume in the boombox class. Likely the same internals as the Zealot ZE21
 - Negatives: On the heavy side. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
@@ -541,7 +514,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.zealot.com/products/portable-wireless-speaker-with-powerful-bass-and-3d-surround-sound)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S89/)
 
-## #16 [JBL Boombox 4](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1911831-REG/jbl_jblboombox4blkam_boombox_4_portable_waterproof.html?BI=23745&KBID=29189)]: $450
+## #15 [JBL Boombox 4](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1911831-REG/jbl_jblboombox4blkam_boombox_4_portable_waterproof.html?BI=23745&KBID=29189)]: $450
 - Positives: Pretty insane output capability for the size.
 - Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
 - App: Yes
@@ -582,7 +555,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/BOOMBOX-4.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-4/)
 
-## #17 Harman Kardon Go + Play 2: $350
+## #16 Harman Kardon Go + Play 2: $350
 - Positives: Warm sound with boosted bass.
 - Negatives: Not as loud as others. No water rating.
 - App: No
@@ -613,7 +586,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.harmankardon.com/GO+%2B+PLAYII.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Go-+-Play-2/)
 
-## #18 Harman Kardon Onyx Studio 5
+## #17 Harman Kardon Onyx Studio 5
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
 - App: No
 - Aux Input: Yes
@@ -637,7 +610,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+5.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-5/)
 
-## #19 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
+## #18 [JBL Boombox 3 Wifi](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Portable-Wireless-Speaker/dp/B0CHG3N2LL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1e9fe271742fbe457074201ea10e0362&camp=1789&creative=9325)]: $440
 - Positives: Loudest speaker in the category. Slightly better frequency response than the non-wifi version.
 - Negatives: Bass boosted. Dip at 160hz
 - App: No
@@ -667,7 +640,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/wifi-speakers/BOOMBOX-3-WIFI.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3-Wifi/)
 
-## #20 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325)]: $500
+## #19 [JBL Boombox 3](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-PartyBoost-eco-Friendly/dp/B09YDS8BHK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=09580ef084f445ae8813ee838ea484d5&camp=1789&creative=9325)]: $500
 - Negatives: Dips in mid bass range which makes the bass sound undefined, bass boosted, peaky at 700hz, not quite as good mids and treble as the Blast.
 - App: No
 - Aux Input: Yes
@@ -714,7 +687,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3/)
 
-## #21 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
+## #20 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
 - Setup: Try the EQ from [Alan Ross at this timestamp of his video](https://youtu.be/Demef0n4E8A?si=KOKmfaoG1M1-_Abi&t=670)
@@ -753,7 +726,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast-2/)
 
-## #22 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
+## #21 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
 - Negatives: overpriced for what it is. Not the greatest frequency response.
 - App: Yes (LG Xboom app)
 - Bass Extension (-10dB): 43hz
@@ -778,7 +751,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xboom-stage-301-party-speaker)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Stage-301/)
 
-## #23 [Zealot S95](https://s.click.aliexpress.com/e/_c4SCb9RH) [[Aliexpress](https://s.click.aliexpress.com/e/_c4SCb9RH)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=se&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl)]: $110
+## #22 [Zealot S95](https://s.click.aliexpress.com/e/_c4SCb9RH) [[Aliexpress](https://s.click.aliexpress.com/e/_c4SCb9RH)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=se&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl)]: $110
 - Positives: A good value for the boombox class. Appears to be the same internals as the ZE01. Bigger case and goes deeper than the ZE01
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
@@ -807,7 +780,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.zealot.com/products/zealot-120w-bluetooth-speaker--wireless-speakers-ipx6-waterproof-loud-bluetooth-subwoofer-speaker-with-led-light--40h-playtime--custom-eq--portable-wireless-stereo-paired-speakers-for-outdoor--party-b0dnf682pp)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S95/)
 
-## #24 [Zealot ZE01](https://s.click.aliexpress.com/e/_c3jpAleB) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jpAleB)] [[Amazon](https://www.amazon.com/ZEALOT-ZE01-Portable-Bluettoth-Powerful/dp/B0FKTBCXSR?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e5bc4f64444e4296f6325122d0f4bad6&language=en_US&ref_=as_li_ss_tl)]: $130
+## #23 [Zealot ZE01](https://s.click.aliexpress.com/e/_c3jpAleB) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jpAleB)] [[Amazon](https://www.amazon.com/ZEALOT-ZE01-Portable-Bluettoth-Powerful/dp/B0FKTBCXSR?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e5bc4f64444e4296f6325122d0f4bad6&language=en_US&ref_=as_li_ss_tl)]: $130
 - Positives: Appears to be the same internals as the S95
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
@@ -835,7 +808,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.zealot-audio.com/productshow_1356.html)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-ZE01/)
 
-## #25 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837382-REG/soundcore_by_anker_a3134011_boom_2_plus_outdoor.html?BI=23745&KBID=29189)]: $200
+## #24 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837382-REG/soundcore_by_anker_a3134011_boom_2_plus_outdoor.html?BI=23745&KBID=29189)]: $200
 - Positives: Quite a bit lighter than most of the other boombox size speakers. This speaker will likely move up as we get a good EQ tune that makes it a lot more neutral.
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - App: Yes
@@ -869,7 +842,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3134-boom2-plus-outdoor-bass-speaker&cjsku=A3134031)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boom-2-Plus/)
 
-## #26 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L)]: $225
+## #25 [W-King D20](https://s.click.aliexpress.com/e/_c3jE736L) [[Aliexpress](https://s.click.aliexpress.com/e/_c3jE736L)]: $225
 - Positives: Comes with 2 wireless microphones
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes (W-King app)
@@ -902,7 +875,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://w-kingaudio.com/products/x20)
     - [Direct Speakerranking Link](/portable/speakers/W-King-D20/)
 
-## #27 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $240 after coupon
+## #26 [W-King X20](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $240 after coupon
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes (W-King app)
 - Aux Input: Yes
@@ -938,7 +911,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://w-kingaudio.com/products/d20)
     - [Direct Speakerranking Link](/portable/speakers/W-King-X20/)
 
-## #28 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325)]: $350
+## #27 [JBL Boombox 2](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Portable-Bluetooth/dp/B086C14ZPY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=784d7d9346fe9d7d92de0ea222323e4c&camp=1789&creative=9325)]: $350
 - Negatives: Somewhat bass heavy and boomy.
 - App: No
 - Aux Input: Yes
@@ -974,7 +947,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+BOOMBOX+2-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-2/)
 
-## #29 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325)]: $330
+## #28 [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8a5e0420e72db7db4d5ffbb7d5ef7656&camp=1789&creative=9325)]: $330
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
 - Aux Input: No
@@ -1003,7 +976,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Authentics-300/)
 
-## #30 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
+## #29 [B&O Beolit 20](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Powerful-Portable-Bluetooth/dp/B08GKWLLGT/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=de43c733bd18a97b40fe7c7c843e1b60&camp=1789&creative=9325)]: $495
 - Positives: Wireless phone charging.
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
 - App: Yes (Bang & Olufsen app)
@@ -1030,7 +1003,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beolit-20/)
 
-## #31 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: €250
+## #30 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: €250
 - Positives: Pretty balanced sound, slightly warm
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - App: No
@@ -1055,7 +1028,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://lu.teufelaudio.com/boomster-106141000)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-2021/)
 
-## #32 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325)]: $180
+## #31 [Tronsmart Bang Max](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bang-Max-Waterproof-Customized/dp/B0CBP6RZ1Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5727b77c5715e9fb07c28ea6ebb91a62&camp=1789&creative=9325)]: $180
 - Positives: Quite deep bass for the size and money.
 - Negatives: Some peaks in the upper mids and lower treble, not the smoothest frequency response
 - App: Yes
@@ -1084,7 +1057,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.tronsmart.com/products/bang-max-portable-party-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Bang-Max/)
 
-## #33 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c2wKDoLt)]: $150
+## #32 [W-King T11](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Portable/dp/B09ZQTX3WJ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=65bc5c6ece136ed5fc34c3368de156e6&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c2wKDoLt)]: $150
 - Negatives: Almost as deep of bass as the top ranked ones. A little hollow sounding. Wall wart charger.
 - App: No
 - Aux Input: Yes
@@ -1112,7 +1085,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/W-King-T11/)
 
-## #34 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325)]: $180
+## #33 [Gemini GRV-650L](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GRV-650L-UltraRave-Microphone/dp/B0CTKRRMXV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8de8867317e6faa779b046acf5099c8d&camp=1789&creative=9325)]: $180
 - Positives: Pretty amazing value for the money. Decently deep bass, not quite as good as top ranked speakers. Included wireless microphone and remote control
 - Negatives: Not quite as deep bass as the top ranked speakers.
 - App: No
@@ -1140,7 +1113,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://geminisound.com/products/grv-650l)
     - [Direct Speakerranking Link](/portable/speakers/Gemini-GRV-650L/)
 
-## #35 Teufel Boomster NG (2017): €99
+## #34 Teufel Boomster NG (2017): €99
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
 - App: No
@@ -1164,7 +1137,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Boomster-NG-2017/)
 
-## #36 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
+## #35 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
 - App: Yes (Skullcandy app)
 - Bass Extension (-10dB): ~50hz
@@ -1193,7 +1166,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Skullcandy-Barrel/)
 
-## #37 [Sony ULT Field 7](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl)]: $400
+## #36 [Sony ULT Field 7](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl)]: $400
 - Positives: Better sounding than the XG500
 - Negatives: Still not as deep bass as the top ranked speakers. 8khz peak
 - App: No
@@ -1220,7 +1193,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://electronics.sony.com/audio/speakers/party-speakers/p/srsult70)
     - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Field-7/)
 
-## #38 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl)]: $240
+## #37 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl)]: $240
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - App: No
 - Aux Input: Yes
@@ -1245,7 +1218,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.bugani-global.com/products/bugani-boost-max-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Bugani-Boost-Max/)
 
-## #39 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1795817-REG/soundcore_by_anker_a3399z11_rave_party_2_portable.html?BI=23745&KBID=29189)]: $180
+## #38 [Soundcore Rave Party 2](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-PartyCast-Water-Resistant-Tailgating/dp/B0BGXFLLQL/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7c8d73732dcee8604c985fef4d84a8a1&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1795817-REG/soundcore_by_anker_a3399z11_rave_party_2_portable.html?BI=23745&KBID=29189)]: $180
 - Positives: This speaker may move around in the rankings as we get better sound samples.
 - Negatives: Poor water rating. Bass extension doesn't seem very good.
 - App: No
@@ -1274,7 +1247,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Party-2/)
 
-## #40 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172) [[Walmart](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172)]: $90
+## #39 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172) [[Walmart](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172)]: $90
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
 - App: No
 - Aux Input: Yes
@@ -1297,7 +1270,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Onn-Medium-Party-Speaker-Gen-2/)
 
-## #41 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
+## #40 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
 - Positives: Included wireless microphone.
 - Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No
@@ -1324,7 +1297,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ON-THE-GO-.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-On-the-Go/)
 
-## #42 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
+## #41 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
 - App: No
 - Aux Input: Yes
@@ -1349,7 +1322,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxg500)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XG500/)
 
-## #43 JBL Boombox
+## #42 JBL Boombox
 - Positives: Connect+ up to 100 speakers.
 - Negatives: Treble isn't very smooth
 - App: No
@@ -1377,7 +1350,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox/)
 
-## #44 [Soundcore Motion Boom+](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325)]: $140 after $40 coupon
+## #43 [Soundcore Motion Boom+](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325)]: $140 after $40 coupon
 - Positives: The lightest speaker in the group.
 - Negatives: Default presets are all warm sounding with rolled off treble. Will need a custom EQ to get closer to neutral. A shrill sounding 6khz peak comes out when volume is above about 60%. Not much deeper bass than a Motion Boom and a lot less deep bass than other speakers in the class.
 - App: Yes
@@ -1406,7 +1379,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom-plus&cjsku=A3129011)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-Boom+/)
 
-## #45 [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)]: $40 after clipped coupon
+## #44 [ZZA K8](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0D5HD84X8?&linkCode=ll1&tag=rankingspea01-20&linkId=6465c1a5646f1f56d0d3eafff3213753&language=en_US&ref_=as_li_ss_tl)]: $40 after clipped coupon
 - Positives: Completely insane value for the money. Comes with 2 metal body wireless microphones that are USB-C chargeable. Comes with Chinese labeled infrared remote control. Has voice delete function that works quite well. Adjustable microphone reverb. Pretty good build quality. The default EQ is the most balanced, the other two sound muffled.
 - Negatives: Very V curve frequency response, can be harsh in the treble range. Treble is boosted a good +10dB. Midbass is recessed. Slight distortion issue at all volume levels due to the bass high pass filter being set too low
 - App: No
@@ -1433,7 +1406,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/ZZA-K8/)
 
-## #46 [Demerbox DB2](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl)]: $400
+## #45 [Demerbox DB2](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl)]: $400
 - Negatives: Bass is not as deep as better speakers. Very overpriced.
 - App: No
 - Aux Input: Yes
@@ -1456,7 +1429,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://demerbox.com/collections/db2-speakers)
     - [Direct Speakerranking Link](/portable/speakers/Demerbox-DB2/)
 
-## #47 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325)]: $140
+## #46 [Tronsmart Halo 200](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Microphone-Powerful-Lighting/dp/B0C8N15Y3B/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a338cd1579ddfb00f60686fd42426e49&camp=1789&creative=9325)]: $140
 - Negatives: Not as deep bass as some of the top ranked. Use Bass EQ for most neutral sound. Wavy frequency response.
 - App: No
 - Aux Input: Yes
@@ -1485,7 +1458,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Halo-200/)
 
-## #48 Diamondboxx M3: $700
+## #47 Diamondboxx M3: $700
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
 - App: No
 - Aux Input: Yes
@@ -1509,7 +1482,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Diamondboxx-M3/)
 
-## #49 [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325)]: $215
+## #48 [W-King H10](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-RMS-150W-Bluetooth-Microphone-Accompaniment/dp/B0BNVWXLDR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9dd413efdbc8c93b8a875323f7d4afb0&camp=1789&creative=9325)]: $215
 - Positives: Comes with wireless microphone. Loud.
 - Negatives: Not very deep bass. Boosted upper bass. Upper midrange dips. Distorts above medium volumes. No water rating.
 - App: No
@@ -1540,7 +1513,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://w-kingaudio.com/products/h10)
     - [Direct Speakerranking Link](/portable/speakers/W-King-H10/)
 
-## #50 [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325)]: $84
+## #49 [W-King D10](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Waterproof-Portable-Microphone/dp/B09FL5CVK4/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7ffeea3cf5fe1ab6ae1d20175119c155&camp=1789&creative=9325)]: $84
 - Negatives: Upper bass boost, bass not that deep.
 - App: No
 - Aux Input: Yes
@@ -1570,7 +1543,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/W-King-D10/)
 
-## #51 [Turtlebox Grande](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl)]: $730
+## #50 [Turtlebox Grande](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl)]: $730
 - Negatives: They pretty much lie about all their specs and sound just okay in all youtube sound samples. Only 100w will never hit 126db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass for a 10" woofer. Overpriced and not worth it.
 - App: No
 - Aux Input: Yes
@@ -1594,7 +1567,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-grande)
     - [Direct Speakerranking Link](/portable/speakers/Turtlebox-Grande/)
 
-## #52 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8) [[Bumpboxx](https://bumpboxx.com/products/bumpboxx-flare8)]: $400
+## #51 [Bumpboxx Flare 8](https://bumpboxx.com/products/bumpboxx-flare8) [[Bumpboxx](https://bumpboxx.com/products/bumpboxx-flare8)]: $400
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - App: No
@@ -1618,7 +1591,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://bumpboxx.com/products/bumpboxx-flare8)
     - [Direct Speakerranking Link](/portable/speakers/Bumpboxx-Flare-8/)
 
-## #53 Bumpboxx Flare 6: $300
+## #52 Bumpboxx Flare 6: $300
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - App: No
@@ -1640,7 +1613,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Bumpboxx-Flare-6/)
 
-## #54 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
+## #53 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
 - Negatives: Bass not as deep as competitors.
 - App: No
 - Battery Life: 25 hours
@@ -1661,7 +1634,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://ecoxgear.com/products/defender)
     - [Direct Speakerranking Link](/portable/speakers/EcoXGear-Defender/)
 
-## #55 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325)]: $84
+## #54 [Gemini GGO-650L](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Gemini-Sound-GGO-650L-Bluetooth-Microphone/dp/B0CQN34DP4/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=344b5a902a1a05fea669e1e5baa4d46a&camp=1789&creative=9325)]: $84
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
 - App: No
@@ -1683,7 +1656,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://geminisound.com/products/ggo-650l-bluetooth-karaoke-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Gemini-GGO-650L/)
 
-## #56 ION Pathfinder 4: $300
+## #55 ION Pathfinder 4: $300
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - App: No
 - Aux Input: Yes
@@ -1707,7 +1680,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-4/)
 
-## #57 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325)]: $450
+## #56 [Marshall Tufton](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Tufton-Bluetooth-Speaker-Black/dp/B094XJ24M3/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9daaf62d7e12cdedcdfe29a132e0a5c4&camp=1789&creative=9325)]: $450
 - Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low water rating
 - App: No
 - Aux Input: Yes
@@ -1730,7 +1703,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Tufton/)
 
-## #58 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3pLYYDN)]: $143
+## #57 [W-King X10-1](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3pLYYDN)]: $143
 - Negatives: Rolled off treble, not much bass.
 - App: No
 - Aux Input: Yes
@@ -1755,7 +1728,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://w-kingaudio.com/products/x10)
     - [Direct Speakerranking Link](/portable/speakers/W-King-X10-1/)
 
-## #59 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $80
+## #58 [W-King X10](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Microphone-Waterproof-Radiators-Deep/dp/B0C3R1Y7ZS/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aa9c6fb35031a185bb6cfef28e3c49d5&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3fMBJ51)]: $80
 - Negatives: Heavily rolled off treble, less bass than the top ranked.
 - App: No
 - Aux Input: Yes
@@ -1785,7 +1758,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://w-kingaudio.com/products/x10)
     - [Direct Speakerranking Link](/portable/speakers/W-King-X10/)
 
-## #60 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325)]: $190
+## #59 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325)]: $190
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
 - App: Yes (House Party app)
 - Aux Input: Yes
@@ -1808,7 +1781,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.alteclansing.com/products/mix-2-0)
     - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Mix-2.0/)
 
-## #61 Braven XXL 2: $350
+## #60 Braven XXL 2: $350
 - Negatives: Not very deep bass. Very heavy
 - App: No
 - Aux Input: Yes
@@ -1829,7 +1802,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Braven-XXL-2/)
 
-## #62 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325)]: $150
+## #61 [ION Pathfinder 320](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-Weather-Bluetooth-Speaker-Renewed/dp/B0BCF46G1G/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4a726bec1836fbbdb302c4758f55f066&camp=1789&creative=9325)]: $150
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - App: No
 - Aux Input: Yes
@@ -1852,7 +1825,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-320/)
 
-## #63 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325)]: $170
+## #62 [ION Pathfinder 280](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Pathfinder-All-Weather-Speaker-Premium-Wide-Angle/dp/B092KFKQ47/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6fbbb5ce0f17cca2df2ea623a97a7afa&camp=1789&creative=9325)]: $170
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - App: No
 - Aux Input: Yes
@@ -1877,7 +1850,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/ION-Pathfinder-280/)
 
-## #64 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
+## #63 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
 - App: No
 - Aux Input: Yes
@@ -1902,7 +1875,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://mymonsteraudio.com/products/monster-rockin-roller-270)
     - [Direct Speakerranking Link](/portable/speakers/Monster-Rockin-Roller-270/)
 
-## #65 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325)]: $400
+## #64 [Turtlebox/Turtlebox G2](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Turtlebox-Gen-Bluetooth-Waterproof-Thunderhead/dp/B09R4XLCV3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=df6fa37a17b036c5cc6a2c069d6f2dbf&camp=1789&creative=9325)]: $400
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
 - App: No
 - Aux Input: Yes
@@ -1930,7 +1903,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://turtleboxaudio.com/products/turtlebox-speaker-gen-2)
     - [Direct Speakerranking Link](/portable/speakers/TurtleboxTurtlebox-G2/)
 
-## #66 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
+## #65 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
 - App: Yes (House Party app)
 - Battery Life: 20 hours
@@ -1951,7 +1924,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://alteclansing.com/products/rockbox-xl-2)
     - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Rockbox-XL-2.0/)
 
-## #67 Artsound PWR05
+## #66 Artsound PWR05
 - Negatives: Strange frequency peaks, sound is very hollow.
 - App: No
 - Aux Input: Yes
@@ -1971,7 +1944,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Artsound-PWR05/)
 
-## #68 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
+## #67 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
 - Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
 - App: No
 - Aux Input: Yes

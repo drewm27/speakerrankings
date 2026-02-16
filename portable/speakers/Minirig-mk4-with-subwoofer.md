@@ -2,10 +2,10 @@
 layout: page
 title: Minirig mk4 with subwoofer Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Minirig mk4 with subwoofer ranks #4 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Minirig mk4 with subwoofer ranks #4 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig mk4 with subwoofer ranks [#4 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#4-minirig-mk4-with-subwoofer-minirigs-290) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig mk4 with subwoofer ranks [#4 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#4-minirig-mk4-with-subwoofer-minirigs-290) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 [Minirig mk4 with subwoofer](https://minirigs.co.uk/speakers/bluetooth-minirig-4) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-4)]: $290
 - Positives: Very balanced sound. Finally USB-C charging

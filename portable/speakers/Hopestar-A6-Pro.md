@@ -2,12 +2,12 @@
 layout: page
 title: Hopestar A6 Pro Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Hopestar A6 Pro ranks #68 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Hopestar A6 Pro ranks #69 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Hopestar A6 Pro ranks [#68 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#68-hopestar-a6-pro-86) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Hopestar A6 Pro ranks [#69 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#69-hopestar-a6-pro-86) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #68 Hopestar A6 Pro: $86
+## #69 Hopestar A6 Pro: $86
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - App: No
 - Aux Input: Yes
