@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Charge 5 ranks #26 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#26-jbl-charge-5-amazon-180) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#26-jbl-charge-5-amazon-bhphotovideo-180) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)]: $180
+## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1622608-REG/jbl_jblcharge5redam_charge_5_portable_speaker.html?BI=23745&KBID=29189)]: $180
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
 - Bass Extension (-10dB): 53hz

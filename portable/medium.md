@@ -690,7 +690,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/wifi-speakers/CHARGE-5-WIFI.html)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5-Wifi/)
 
-## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)]: $180
+## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1622608-REG/jbl_jblcharge5redam_charge_5_portable_speaker.html?BI=23745&KBID=29189)]: $180
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
 - Bass Extension (-10dB): 53hz
