@@ -6,7 +6,7 @@ cover-img: "/assets/img/audioproc5.jpg"
 share-description: "Explore the best medium powered desktop speakers of 2026 with detailed reviews, performance comparisons, and expert buying advice for premium sound."
 ---
 
-This page ranks 13 medium powered desktop speakers. These are stereo inside a single enclosure with woofers between 4" and 6". They have no battery and no waterproofing. Larger woofers provide deeper bass but result in a bigger, heavier speaker. All include a built-in amp so you can play directly from your phone or laptop.
+This page ranks 14 medium powered desktop speakers. These are stereo inside a single enclosure with woofers between 4" and 6". They have no battery and no waterproofing. Larger woofers provide deeper bass but result in a bigger, heavier speaker. All include a built-in amp so you can play directly from your phone or laptop.
 
 I generally recommend avoiding this class, they won't have good imaging due to not having widely separated left and right channels like the [Bookshelf](/powered/bookshelf-large/) class, and they generally aren't tuned as neutral. These are more for someone who wants a speaker that is form over function and takes up as little space as possible. Also consider portable Bluetooth speakers with a battery and waterproofing.
 
@@ -50,7 +50,30 @@ Last updated: February 16, 2026
     - [Official Product Page](https://audiopro.com/products/c5-mkii)
     - [Direct Speakerranking Link](/powered/speakers/Audio-Pro-C5-MkII/)
 
-## #2 [Edifier D12](https://www.amazon.com/Edifier-D12-Tabletop-Speaker-Integrated/dp/B08QR7CT48?crid=19L3AWOW9IPV1&dib=eyJ2IjoiMSJ9.PP1UwlM68CCSoX_R0TP-F6_JvlU-a-AgEklKON_wjc6o9XAmhC_PAN2DC2IbuNJxSnk8e0KMSixcAvP-bkqfiOLi69gVTwQHluBo-Jl0hjeNeo9dCJcrPC5qMNokC6U0joIOuWhydLBVUPnORIaRonEJR4WXY6bqlbJX4DiHMej8tI5_j6dkT-IdNeAcJhY7efyKFQKnwAMuHJ0EWKTGmS2Az-PPvRjhDaV7E7MRftk.VcDfcqEg4Ck3fuVgo1UF4_MZVrJDoJqPc1_fg4ZYNho&dib_tag=se&keywords=edifier%2Bd12&qid=1724907500&sprefix=edifer%2Bd12%2Caps%2C310&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cd7c254a800239f4888509854d56915d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-D12-Tabletop-Speaker-Integrated/dp/B08QR7CT48?crid=19L3AWOW9IPV1&dib=eyJ2IjoiMSJ9.PP1UwlM68CCSoX_R0TP-F6_JvlU-a-AgEklKON_wjc6o9XAmhC_PAN2DC2IbuNJxSnk8e0KMSixcAvP-bkqfiOLi69gVTwQHluBo-Jl0hjeNeo9dCJcrPC5qMNokC6U0joIOuWhydLBVUPnORIaRonEJR4WXY6bqlbJX4DiHMej8tI5_j6dkT-IdNeAcJhY7efyKFQKnwAMuHJ0EWKTGmS2Az-PPvRjhDaV7E7MRftk.VcDfcqEg4Ck3fuVgo1UF4_MZVrJDoJqPc1_fg4ZYNho&dib_tag=se&keywords=edifier%2Bd12&qid=1724907500&sprefix=edifer%2Bd12%2Caps%2C310&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cd7c254a800239f4888509854d56915d&language=en_US&ref_=as_li_ss_tl)]: $140
+## #2 [Audio Pro C3](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Audio-Pro-Portable-Multiroom-Connected/dp/B07CX7CCW1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=01a235768b1c4c7649ae90f6b778de51&camp=1789&creative=9325)]: $330
+- Positives: Set treble to max and increase bass a little to get it neutral. Has a battery
+- Negatives: A bit muffled and missing midrange detail.
+- App: No
+- Aux Input: Yes
+- Battery Life: 15 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: Yes
+- EQ: No
+- IP Rating: None
+- Party Mode: Yes (over Wifi)
+- Power Bank: No
+- Power Input: AC Power cable
+- Stereo: Partially (1 woofer)
+- TWS: Yes
+- Weight: 4.63lbs / 2.1kg
+- Wifi: Yes
+- Reviews, Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
+- Links
+    - [Official Product Page](https://www.audiopro.com/en/product/c3/)
+    - [Direct Speakerranking Link](/powered/speakers/Audio-Pro-C3/)
+
+## #3 [Edifier D12](https://www.amazon.com/Edifier-D12-Tabletop-Speaker-Integrated/dp/B08QR7CT48?crid=19L3AWOW9IPV1&dib=eyJ2IjoiMSJ9.PP1UwlM68CCSoX_R0TP-F6_JvlU-a-AgEklKON_wjc6o9XAmhC_PAN2DC2IbuNJxSnk8e0KMSixcAvP-bkqfiOLi69gVTwQHluBo-Jl0hjeNeo9dCJcrPC5qMNokC6U0joIOuWhydLBVUPnORIaRonEJR4WXY6bqlbJX4DiHMej8tI5_j6dkT-IdNeAcJhY7efyKFQKnwAMuHJ0EWKTGmS2Az-PPvRjhDaV7E7MRftk.VcDfcqEg4Ck3fuVgo1UF4_MZVrJDoJqPc1_fg4ZYNho&dib_tag=se&keywords=edifier%2Bd12&qid=1724907500&sprefix=edifer%2Bd12%2Caps%2C310&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cd7c254a800239f4888509854d56915d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-D12-Tabletop-Speaker-Integrated/dp/B08QR7CT48?crid=19L3AWOW9IPV1&dib=eyJ2IjoiMSJ9.PP1UwlM68CCSoX_R0TP-F6_JvlU-a-AgEklKON_wjc6o9XAmhC_PAN2DC2IbuNJxSnk8e0KMSixcAvP-bkqfiOLi69gVTwQHluBo-Jl0hjeNeo9dCJcrPC5qMNokC6U0joIOuWhydLBVUPnORIaRonEJR4WXY6bqlbJX4DiHMej8tI5_j6dkT-IdNeAcJhY7efyKFQKnwAMuHJ0EWKTGmS2Az-PPvRjhDaV7E7MRftk.VcDfcqEg4Ck3fuVgo1UF4_MZVrJDoJqPc1_fg4ZYNho&dib_tag=se&keywords=edifier%2Bd12&qid=1724907500&sprefix=edifer%2Bd12%2Caps%2C310&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cd7c254a800239f4888509854d56915d&language=en_US&ref_=as_li_ss_tl)]: $140
 - Positives: A very good value speaker in this desktop category. Subwoofer line out.
 - App: No
 - Aux Input: Yes
@@ -84,7 +107,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.edifier.com/global/p/wireless-speakers/d12)
     - [Direct Speakerranking Link](/powered/speakers/Edifier-D12/)
 
-## #3 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl)]: $380
+## #4 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl)]: $380
 - Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
 - Bass Extension (-10dB): ~50hz
@@ -117,7 +140,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
     - [Direct Speakerranking Link](/powered/speakers/JBL-Authentics-200/)
 
-## #4 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325)]: $580
+## #5 [Marshall Woburn III](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Bluetooth-Wireless-Speaker/dp/B09HTD7R7W/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec7ee836bbdb8301eb7c9bf7bfc81ca7&camp=1789&creative=9325)]: $580
 - Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
 - App: Yes
 - Aux Input: Yes
@@ -149,7 +172,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.marshall.com/us/en/product/woburn-iii)
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Woburn-III/)
 
-## #5 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325)]: $430
+## #6 [Marshall Woburn II](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Woburn-Wireless-Bluetooth-Speaker/dp/B07H7BMTLV/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=eec2913afecd4f6b1fdae013c28a1684&camp=1789&creative=9325)]: $430
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
 - App: Yes
 - Aux Input: Yes
@@ -182,7 +205,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Woburn-II/)
 
-## #6 Marshall Woburn I: $500
+## #7 Marshall Woburn I: $500
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
@@ -212,7 +235,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Woburn-I/)
 
-## #7 [Marshall Stanmore II](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl)]: $300
+## #8 [Marshall Stanmore II](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Wireless-Bluetooth-Speaker/dp/B07HPS9XJR?crid=2TPUSGUHF8YYX&dib=eyJ2IjoiMSJ9.ZUqVDNX-nxYc-02o9oGrFHVG-98yl-DcFndBQIt0T-_qIphQfQjQo8pfiTlHt9d7IAnsT9kgYRcn7jAW9-2SZ3UY4_7b2zxggDxjVKcfgvmx7XW-ezeZcbnKJQWI4mWXycMJTFXg3F_x4JH4yh87pw0U9ePuPW84uTT-Cm5qOiu6kaHgT_p6BMzDlLlWUud5XZqU2r2x04le_J2__vYfidOJRcqoUGv5JBA57eW3Oto.SIy_x9BCXycH_5tAbjcu3LdFZsZhPADfka_K8YPOQJE&dib_tag=se&keywords=stanmore%2Bii&qid=1724906997&sprefix=stanmore%2Bii%2Caps%2C281&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f1242e29144868f863b8f6d143fedc48&language=en_US&ref_=as_li_ss_tl)]: $300
 - Negatives: Not very deep bass. No battery. No water rating.
 - App: Yes
 - Aux Input: Yes
@@ -244,7 +267,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Stanmore-II/)
 
-## #8 [Marshall Stanmore III](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325)]: $380
+## #9 [Marshall Stanmore III](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325)]: $380
 - Negatives: Not as good sounding as the Stanmore II. Not enough bass. Distorts at higher volumes.
 - App: Yes
 - Aux Input: Yes
@@ -276,7 +299,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.marshall.com/us/en/product/stanmore-iii)
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Stanmore-III/)
 
-## #9 [Marshall Acton III](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325)]: $280
+## #10 [Marshall Acton III](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=88e9be11beb169c80fc31f7064dcbb04&camp=1789&creative=9325)]: $280
 - Negatives: Not as deep bass as competitors.
 - App: Yes
 - Aux Input: Yes
@@ -305,7 +328,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.marshall.com/us/en/product/acton-iii)
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-III/)
 
-## #10 [Marshall Acton II](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl)]: $280
+## #11 [Marshall Acton II](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Action-Black-Bluetooth-Speaker/dp/B07JGJ8Z8K?crid=A2RLQ2ERG3H2&dib=eyJ2IjoiMSJ9.PW-SCZlT3RaNSVyGpjzyHi2dMunxW81Yewfo3IvIQGXluN4MZhHWG_jmwnERwPIIPACwtg5cNC3ThGc5RtBcdb4E3H8a1em3qT-3ftd02DpOSI2Pg4c6XH8iPsfM7lxIA9h9IvURVGhaY4jVBcv9R3YVu0EJDlBKxr6QLmO43O2rE7BYQkU-WBib5Qpy8btgAlhV4sroPU-8vIWRpR4N4Ln16W-LUUib_1unianT5QW6BXcKt037hADx_xqQ83XScXFZo1EVE4W_vyaFnQQvyCKR280nn5XsiDyIja8oB8g.8XgsUZzQ0vBFltWsThWPcgnEh6jyldRbVjRqWLXucXA&dib_tag=se&keywords=marshall%2Bacton%2Bii&qid=1712180080&s=electronics&sprefix=marshall%2Bacton%2Bii%2Celectronics%2C155&sr=1-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=42ae097765c1b67ba039bc6b98bb5c45&language=en_US&ref_=as_li_ss_tl)]: $280
 - Negatives: Boosted upper bass, not as deep bass as competitors. Boosted highs. Sounds mushy.
 - App: Yes
 - Aux Input: Yes
@@ -339,7 +362,7 @@ Last updated: February 16, 2026
 - Links
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-II/)
 
-## #11 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
+## #12 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - App: Yes
 - Aux Input: Yes
@@ -369,7 +392,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
     - [Direct Speakerranking Link](/powered/speakers/BO-Beosound-2/)
 
-## #12 [Klipsch The Three II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl)]: $400
+## #13 [Klipsch The Three II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl)]: $400
 - Negatives: Treble boosted. Not as deep of bass as others.
 - App: No
 - Aux Input: Yes
@@ -397,7 +420,7 @@ Last updated: February 16, 2026
     - [Official Product Page](https://www.klipsch.com/products/the-three-ii)
     - [Direct Speakerranking Link](/powered/speakers/Klipsch-The-Three-II/)
 
-## #13 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
+## #14 [Klipsch The One II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QZDH8DF/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ec2b28e25ea49b68d1d86f7ae8413a55&camp=1789&creative=9325)]: $170
 - Negatives: Treble boosted. Not as deep of bass as others.
 - App: No
 - Aux Input: Yes

@@ -2,12 +2,12 @@
 layout: page
 title: Marshall Stanmore III Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Marshall Stanmore III ranks #8 out of 13 total Medium Size Powered Desktop Speakers. Find all the specifications and reviews in one place"
+share-description: "The Marshall Stanmore III ranks #9 out of 14 total Medium Size Powered Desktop Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Marshall Stanmore III ranks [#8 out of 13 total Medium Size Powered Desktop Speakers](/powered/desktop-medium/#8-marshall-stanmore-iii-amazon-380) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Marshall Stanmore III ranks [#9 out of 14 total Medium Size Powered Desktop Speakers](/powered/desktop-medium/#9-marshall-stanmore-iii-amazon-380) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #8 [Marshall Stanmore III](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325)]: $380
+## #9 [Marshall Stanmore III](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stanmore-Bluetooth-Wireless-Speaker/dp/B09HTFCR59/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0f5d3c9eae86df0eb88a53a29da57d22&camp=1789&creative=9325)]: $380
 - Negatives: Not as good sounding as the Stanmore II. Not enough bass. Distorts at higher volumes.
 - App: Yes
 - Aux Input: Yes

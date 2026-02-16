@@ -2,12 +2,12 @@
 layout: page
 title: Tronsmart Halo 100 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tronsmart Halo 100 ranks #49 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tronsmart Halo 100 ranks #48 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tronsmart Halo 100 ranks [#49 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#49-tronsmart-halo-100-amazon-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tronsmart Halo 100 ranks [#48 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#48-tronsmart-halo-100-amazon-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #49 [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325)]: $100
+## #48 [Tronsmart Halo 100](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-Bluetooth-Portable-Subwoofer-Waterproof/dp/B0BMDGMWBJ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a310789f2d48f0e1d1f4c484f677f030&camp=1789&creative=9325)]: $100
 - Negatives: Not a very smooth frequency response. Treble is peaky. Boosted upper bass.
 - App: No
 - Aux Input: Yes

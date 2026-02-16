@@ -2,12 +2,12 @@
 layout: page
 title: W-King D8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The W-King D8 ranks #41 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The W-King D8 ranks #40 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The W-King D8 ranks [#41 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#41-w-king-d8-amazon-79) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The W-King D8 ranks [#40 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#40-w-king-d8-amazon-79) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #41 [W-King D8](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325)]: $79
+## #40 [W-King D8](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/gp/aw/d/B083K35R9D/?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a82b3c7a43b3341577ef3affc2318288&camp=1789&creative=9325)]: $79
 - Positives: Decent sounding.
 - Negatives: Slightly recessed mids. Distorted at high volumes.
 - App: No

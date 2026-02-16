@@ -42,7 +42,7 @@ Last Updated February 16, 2026
 
 - [Small Size Portable Bluetooth Speakers](/portable/small/): 41 speakers ranked
 - [Medium Size Portable Bluetooth Speakers](/portable/medium/): 131 speakers ranked
-- [Large Size Portable Bluetooth Speakers](/portable/large/): 74 speakers ranked
+- [Large Size Portable Bluetooth Speakers](/portable/large/): 73 speakers ranked
 - [Boombox Size Portable Bluetooth Speakers](/portable/boombox/): 67 speakers ranked
 - [Party Size Portable Bluetooth Speakers](/portable/party/): 43 speakers ranked
 - [Large Party Size Portable Bluetooth Speakers](/portable/largeparty/): 10 speakers ranked
@@ -53,7 +53,7 @@ Last Updated February 16, 2026
 - [Medium Size Powered Bookshelf Speakers](/powered/bookshelf-medium/): 24 speakers ranked
 - [Large Size Powered Bookshelf Speakers](/powered/bookshelf-large/): 21 speakers ranked
 - [Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/): 2 speakers ranked
-- [Medium Size Powered Desktop Speakers](/powered/desktop-medium/): 13 speakers ranked
+- [Medium Size Powered Desktop Speakers](/powered/desktop-medium/): 14 speakers ranked
 - [Large Size Powered Desktop Speakers](/powered/desktop-large/): 2 speakers ranked
 
 ## All Home Passive Speakers Ranked
