@@ -19,6 +19,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 * [Large Speakers](#large) - Deep bass in portable form
 * [Boombox Speakers](#boombox) - Premium sound meets portability
 * [Party Speakers](#party) - Big events, serious bass
+* [Large Party Speakers](#largeparty) - Big events, serious bass
 
 ## Small
 
@@ -252,6 +253,37 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox 110 ☀️ Outdoors Pole Mounted 🤯 Bass Boost On](https://www.youtube.com/watch?v=PbA32qofwe8)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs JBL Partybox Encore  🛻 Tailgater Special 🔋 Battery Powered](https://www.youtube.com/watch?v=6YjGuQPD52w)
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen. 2 (Bass Boost On) vs JBL Partybox 110 (Bass Boost 1)🩻Battery Powered🔋](https://www.youtube.com/watch?v=Z727n9aBfgw)
+
+
+## Large Party
+
+### The best inexpensive [large party size](/portable/largeparty/) battery powered speaker is the [**W-King T12**](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=se&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=se&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl)]: $350
+- Positives: Relatively cheap for what you get
+- Negatives: Boxy sounding and doesn't have the clarity of the higher ranked speakers
+- App: No
+- Aux Input: Yes
+- Battery Life: 25 hours
+- Bluetooth Codecs: SBC
+- Built in Microphone: No
+- EQ: Yes (Bass and treble)
+- Guitar Input: Yes
+- IP Rating: None
+- MicroSD: Yes
+- Microphone Input: Yes
+- Party Mode: No
+- Power Bank: Yes
+- Power Input: AC Power cord
+- Removable Battery: No
+- Stereo: Yes
+- TWS: Yes
+- USB Playback: Yes
+- Weight: 33lbs / 15kg
+- Wifi: No
+- Reviews, Comparisons and Sound Samples
+    - [Oluv: W-King T12 vs JBL Partybox 520](https://www.patreon.com/posts/w-king-t12-vs-149146838)
+- Links
+    - [Official Product Page](https://w-kingaudio.com/products/t12)
+
 
 
 As an Amazon Associate I earn from qualifying purchases.
