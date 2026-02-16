@@ -2,10 +2,10 @@
 layout: page
 title: Tronsmart Element Force Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tronsmart Element Force ranks #48 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tronsmart Element Force ranks #48 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tronsmart Element Force ranks [#48 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#48-tronsmart-element-force-66) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tronsmart Element Force ranks [#48 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#48-tronsmart-element-force-66) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing

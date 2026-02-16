@@ -2,10 +2,10 @@
 layout: page
 title: Bose Soundlink Mini 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bose Soundlink Mini 2 ranks #55 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Bose Soundlink Mini 2 ranks #55 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Bose Soundlink Mini 2 ranks [#55 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#55-bose-soundlink-mini-2-amazon-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bose Soundlink Mini 2 ranks [#55 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#55-bose-soundlink-mini-2-amazon-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.

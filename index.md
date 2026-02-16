@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-**Find the perfect speaker for your needs.** Speaker Ranking provides comprehensive, unbiased rankings of 527 battery powered portable Bluetooth speakers, powered bookshelf speakers, and passive home speakers, more than any other review site. Last updated February 16, 2026.
+**Find the perfect speaker for your needs.** Speaker Ranking provides comprehensive, unbiased rankings of 528 battery powered portable Bluetooth speakers, powered bookshelf speakers, and passive home speakers, more than any other review site. Last updated February 16, 2026.
 
 ## Why Speaker Ranking is Different
 
@@ -52,7 +52,7 @@ Our rankings compile months of research into easy to navigate lists organized by
 ## All Portable Bluetooth Speakers Ranked
 
 - [Small Size Portable Bluetooth Speakers](/portable/small/): 41 speakers ranked
-- [Medium Size Portable Bluetooth Speakers](/portable/medium/): 130 speakers ranked
+- [Medium Size Portable Bluetooth Speakers](/portable/medium/): 131 speakers ranked
 - [Large Size Portable Bluetooth Speakers](/portable/large/): 74 speakers ranked
 - [Boombox Size Portable Bluetooth Speakers](/portable/boombox/): 67 speakers ranked
 - [Party Size Portable Bluetooth Speakers](/portable/party/): 43 speakers ranked

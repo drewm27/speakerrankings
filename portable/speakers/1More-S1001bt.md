@@ -2,10 +2,10 @@
 layout: page
 title: 1More S1001bt Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The 1More S1001bt ranks #28 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The 1More S1001bt ranks #28 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The 1More S1001bt ranks [#28 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#28-1more-s1001bt-amazon-74) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The 1More S1001bt ranks [#28 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#28-1more-s1001bt-amazon-74) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #28 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325)]: $74
 - Positives: Pretty decent sounding.

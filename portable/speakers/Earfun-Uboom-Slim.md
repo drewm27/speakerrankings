@@ -2,10 +2,10 @@
 layout: page
 title: Earfun Uboom Slim Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Earfun Uboom Slim ranks #39 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Earfun Uboom Slim ranks #39 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Earfun Uboom Slim ranks [#39 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#39-earfun-uboom-slim) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Earfun Uboom Slim ranks [#39 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#39-earfun-uboom-slim) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #39 Earfun Uboom Slim
 - Negatives: Not as deep bass as others. Warm tuned, peaks in the mids and lower treble, rolled off upper treble

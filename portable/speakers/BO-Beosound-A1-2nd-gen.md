@@ -2,10 +2,10 @@
 layout: page
 title: B&O Beosound A1 2nd gen Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The B&O Beosound A1 2nd gen ranks #10 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The B&O Beosound A1 2nd gen ranks #10 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beosound A1 2nd gen ranks [#10 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#10-bo-beosound-a1-2nd-gen-amazon-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beosound A1 2nd gen ranks [#10 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#10-bo-beosound-a1-2nd-gen-amazon-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #10 [B&O Beosound A1 2nd gen](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325)]: $200
 - Positives: More neutral than the first A1

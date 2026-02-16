@@ -2,10 +2,10 @@
 layout: page
 title: Minirig 3 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Minirig 3 ranks #7 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Minirig 3 ranks #7 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig 3 ranks [#7 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#7-minirig-3-minirigs-140) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig 3 ranks [#7 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#7-minirig-3-minirigs-140) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #7 [Minirig 3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $140
 - Positives: Modular, can easily attach a subwoofer.

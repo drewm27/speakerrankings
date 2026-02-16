@@ -2,10 +2,10 @@
 layout: page
 title: Soundcore Glow Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Glow ranks #44 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Glow ranks #44 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Glow ranks [#44 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#44-soundcore-glow-amazon-bhphotovideo-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Glow ranks [#44 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#44-soundcore-glow-amazon-bhphotovideo-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #44 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837387-REG/soundcore_by_anker_a3166z11_glow_portable_speaker.html?BI=23745&KBID=29189)]: $80
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.

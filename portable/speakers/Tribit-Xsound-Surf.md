@@ -2,12 +2,12 @@
 layout: page
 title: Tribit Xsound Surf Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tribit Xsound Surf ranks #75 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tribit Xsound Surf ranks #76 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tribit Xsound Surf ranks [#75 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#75-tribit-xsound-surf-26) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tribit Xsound Surf ranks [#76 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#76-tribit-xsound-surf-26) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #75 Tribit Xsound Surf: $26
+## #76 Tribit Xsound Surf: $26
 - Negatives: Bass doesn't go as deep as others, strange midrange peaks
 - Aux Input: Yes
 - Battery Life: 10 hours

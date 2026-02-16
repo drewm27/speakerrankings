@@ -2,12 +2,12 @@
 layout: page
 title: Beats Pill+ Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Beats Pill+ ranks #120 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Beats Pill+ ranks #121 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Beats Pill+ ranks [#120 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#120-beats-pill-230) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Beats Pill+ ranks [#121 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#121-beats-pill-230) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #120 Beats Pill+: $230
+## #121 Beats Pill+: $230
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - App: Yes
 - Bass Extension (-10dB): 90hz

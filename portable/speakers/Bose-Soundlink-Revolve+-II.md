@@ -2,10 +2,10 @@
 layout: page
 title: Bose Soundlink Revolve+ II Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bose Soundlink Revolve+ II ranks #46 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Bose Soundlink Revolve+ II ranks #46 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Bose Soundlink Revolve+ II ranks [#46 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#46-bose-soundlink-revolve-ii-amazon-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bose Soundlink Revolve+ II ranks [#46 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#46-bose-soundlink-revolve-ii-amazon-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #46 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325)]: $300
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble. Only IP55.

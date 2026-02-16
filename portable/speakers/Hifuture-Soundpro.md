@@ -2,12 +2,12 @@
 layout: page
 title: Hifuture Soundpro Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Hifuture Soundpro ranks #95 out of 130 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Hifuture Soundpro ranks #96 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Hifuture Soundpro ranks [#95 out of 130 total Medium Size Portable Bluetooth Speakers](/portable/medium/#95-hifuture-soundpro) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Hifuture Soundpro ranks [#96 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#96-hifuture-soundpro) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #95 Hifuture Soundpro
+## #96 Hifuture Soundpro
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Weight: 1.1lbs / 500g
 - Reviews, Comparisons and Sound Samples
