@@ -10,24 +10,27 @@ The JBL Partybox Encore ranks [#6 out of 67 total Boombox Size Portable Bluetoot
 ## #6 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467) [[Walmart](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467)]: $230
 - Positives: A great sounding somewhat boosted bass party speaker. 2 included wireless microphones.
 - Negatives: Only 10 hours of battery at medium volume. Poor water rating.
-- App: Yes
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 38hz
-- Battery Life: 10 hours
+- Battery Life: 6 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
+- Bluetooth Version: 5.1
 - Built in Microphone: No
-- EQ: Yes (3 band)
+- Dimensions: 276 x 327 x 293 mm
+- EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
+- Output Power: 100W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13lbs / 5.9kg
+- Weight: 6.3 kg / 13.89 lbs
 - Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)

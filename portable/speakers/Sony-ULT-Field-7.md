@@ -15,7 +15,9 @@ The Sony ULT Field 7 ranks [#36 out of 67 total Boombox Size Portable Bluetooth 
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 512 x 224 x 222 mm
 - EQ: Yes (App + ULT button)
 - Guitar Input: Yes
 - IP Rating: IP67
@@ -26,7 +28,7 @@ The Sony ULT Field 7 ranks [#36 out of 67 total Boombox Size Portable Bluetooth 
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13.8lbs / 6.3kg
+- Weight: 6.3 kg / 13.89 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
     - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)

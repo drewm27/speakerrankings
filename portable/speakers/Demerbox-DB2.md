@@ -14,15 +14,18 @@ The Demerbox DB2 ranks [#45 out of 67 total Boombox Size Portable Bluetooth Spea
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 270 x 246 x 175 mm
 - EQ: No
 - FM Tuner: No
+- IP Rating: IP67
+- Output Power: 22W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 7.4lbs / 3.4kg
+- Weight: 2.47 kg / 5.44 lbs
 - Reviews, Comparisons and Sound Samples
     - [TailgatingChallenge: Demerbox Review](https://www.youtube.com/watch?v=F4VLp6en8Kc)
     - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)

@@ -11,18 +11,24 @@ The Gemini GGO-650L ranks [#54 out of 67 total Boombox Size Portable Bluetooth S
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
 - App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): ~56hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
+- Bluetooth Version: 5.3
+- Built in Microphone: Yes
+- Dimensions: 300 x 230 x 380 mm
 - EQ: No
+- FM Tuner: Yes
 - MicroSD: Yes
+- Output Power: 100W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
-- Stereo: Partially
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 4.2 kg / 9.26 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links

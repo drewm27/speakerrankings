@@ -14,18 +14,21 @@ The W-King X10-1 ranks [#57 out of 67 total Boombox Size Portable Bluetooth Spea
 - Bass Extension (-10dB): 63hz
 - Battery Life: 42 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Dimensions: 315 x 140 x 135 mm
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
 - Max Volume: 108db
 - MicroSD: Yes
+- Output Power: 70W RMS (120W peak)
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 7.4lbs / 3.3kg
+- Weight: 2.95 kg / 6.5 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links

@@ -17,12 +17,14 @@ The W-King H10 ranks [#48 out of 67 total Boombox Size Portable Bluetooth Speake
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
-- Built in Microphone: No
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
 - EQ: Yes (multiple modes)
-- IP Rating: None
+- IP Rating: IPX6
 - Max Volume: 115db
 - MicroSD: Yes
 - Microphone Input: Yes
+- Output Power: 120W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

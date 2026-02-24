@@ -11,19 +11,22 @@ The Bugani Boost Max ranks [#37 out of 67 total Boombox Size Portable Bluetooth 
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 16 hours
+- Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 430 x 200 x 210 mm
 - EQ: No
-- IP Rating: IPX5
+- IP Rating: IPX6
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13.8 lbs / 6.3kg
+- Weight: 5.8 kg / 12.79 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
     - [Jagist reviews: Bugani Boost Max Vs Harmon Kardon Go Plus Play 3!!! 😁😁😁](https://www.youtube.com/watch?v=Kla_z-sz0Ec)

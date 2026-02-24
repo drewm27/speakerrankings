@@ -12,19 +12,22 @@ The Turtlebox Grande ranks [#50 out of 67 total Boombox Size Portable Bluetooth 
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
-- Battery Life: 40 hours
+- Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 355.6 x 213.4 x 292.1 mm
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
+- Output Power: 86W
 - Party Mode: Yes
 - Power Bank: Yes
 - Power Input: USB-C
-- Stereo: No
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 18.8lbs / 8.5kg
+- Weight: 8.53 kg / 18.8 lbs
 - Reviews, Comparisons and Sound Samples
     - [Blue Collar Outdoors USA: Is the TURTLEBOX GRANDE Speaker REALLY Worth the HYPE ?](https://www.youtube.com/watch?v=Kr_7Wi9IfpA)
 - Links

@@ -10,24 +10,27 @@ The JBL Partybox Encore Essential ranks [#7 out of 67 total Boombox Size Portabl
 ## #7 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)] [[Ebay Refurbished](https://www.ebay.com/itm/204761708018?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fFZ0h46Z2SVOh4TPBrU2A5h%2BV3qp3LWIAvQijmkNNYDE64BEvPiEJwGYk5XQX1uf8FCoz5lAczYNYLlAhK%2B9%2BuBXOgmkGz8hyvRk1ZJ8aDyAem6XRI8JfbaRb8DcdeEV09kiOZa0%2FUctuzrYroVq0GQMJrFkbUVbU3WhO0R1e%2FgIkBIJLyNUx9pLVpo%2FnoVek%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $250
 - Positives: A great sounding somewhat boosted bass party speaker.
 - Negatives: Only 6 hours of battery at medium volume. Poor Water rating.
-- App: Yes
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 38hz
 - Battery Life: 6 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
+- Bluetooth Version: 5.1
 - Built in Microphone: No
-- EQ: Yes (3 band)
+- Dimensions: 276 x 327 x 293 mm
+- EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
+- Output Power: 100W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13lbs / 5.9kg
+- Weight: 5.9 kg / 13.01 lbs
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
     - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)

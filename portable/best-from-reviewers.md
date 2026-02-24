@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Expert rankings of 365 Bluetooth speakers tested by top reviewers. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speakers picked by top reviewers?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 16, 2026.**
+**Looking for the best Bluetooth speakers picked by top reviewers?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -139,18 +139,21 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 400 x 150 x 215 mm
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110db
+- Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 9.2lbs / 4.18kg
+- Weight: 4.1 kg / 9.04 lbs
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
@@ -304,22 +307,26 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Negatives: Just a little over half as loud as the higher rated boomboxes. Only 8 hours of battery at medium volume. No water rating.
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: Yes (Harman Kardon One app)
+- Aux Input: Yes
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 439 x 240 x 192 mm
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103db
+- Output Power: 160W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 10.4lbs / 4.7kg
+- Weight: 4.7 kg / 10.36 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)

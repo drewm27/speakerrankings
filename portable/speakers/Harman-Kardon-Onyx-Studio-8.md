@@ -17,17 +17,20 @@ The Harman Kardon Onyx Studio 8 ranks [#10 out of 67 total Boombox Size Portable
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 175ms
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 268 x 302.5 x 159.5 mm
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 96db
+- Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 7.76lbs / 3.52kg
+- Weight: 3.3 kg / 7.28 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
     - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)

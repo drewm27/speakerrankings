@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 16, 2026
+Last updated: February 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 ## #1 [Earfun Uboom X](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
@@ -28,18 +28,21 @@ Last updated: February 16, 2026
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 400 x 150 x 215 mm
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110db
+- Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 9.2lbs / 4.18kg
+- Weight: 4.1 kg / 9.04 lbs
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
@@ -87,27 +90,30 @@ Last updated: February 16, 2026
 ## #2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
 - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings. The curved underside of the handle makes it a little harder to grip and can be uncomfortable to carry long distances.
-- App: Yes
+- App: Yes (Tribit App)
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 400 x 160 x 230 mm
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
 - Max Volume: 108db
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 90W RMS (140W peak)
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 11.6lbs / 5.3kg
+- Weight: 5.45 kg / 12.01 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tribit Stormbox Blast Firmware Update 5.2 and other things.......](https://www.youtube.com/watch?v=-zaz_yaVi3c)
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
@@ -153,22 +159,26 @@ Last updated: February 16, 2026
 - Negatives: Just a little over half as loud as the higher rated boomboxes. Only 8 hours of battery at medium volume. No water rating.
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: Yes (Harman Kardon One app)
+- Aux Input: Yes
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 439 x 240 x 192 mm
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103db
+- Output Power: 160W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 10.4lbs / 4.7kg
+- Weight: 4.7 kg / 10.36 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
@@ -185,21 +195,24 @@ Last updated: February 16, 2026
 ## #4 [JBL Partybox Encore 2](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631) [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]: $330
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 2 wireless microphones. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass.
-- App: Yes
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
-- EQ: Yes (7 band)
+- Dimensions: 319.5 x 338.6 x 263 mm
+- EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
+- Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 14.11lbs / 6.4kg
+- Weight: 6.4 kg / 14.11 lbs
 - Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
@@ -217,23 +230,26 @@ Last updated: February 16, 2026
 ## #5 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875203-REG/jbl_jblpbencoreess2am_partybox_encore_essential_100w.html?BI=23745&KBID=29189)]: $230
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
-- App: Yes
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
-- EQ: Yes (7 band)
+- Dimensions: 319.5 x 342 x 260.4 mm
+- EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Max Volume: 110db
 - Microphone Input: Yes
+- Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 14.11lbs / 6.4kg
+- Weight: 6.2 kg / 13.67 lbs
 - Wireless Microphones: No
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
@@ -244,24 +260,27 @@ Last updated: February 16, 2026
 ## #6 [JBL Partybox Encore](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467) [[Walmart](https://www.walmart.com/ip/JBL-PartyBox-Encore-Karaoke-Party-Speaker/2332235467)]: $230
 - Positives: A great sounding somewhat boosted bass party speaker. 2 included wireless microphones.
 - Negatives: Only 10 hours of battery at medium volume. Poor water rating.
-- App: Yes
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 38hz
-- Battery Life: 10 hours
+- Battery Life: 6 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
+- Bluetooth Version: 5.1
 - Built in Microphone: No
-- EQ: Yes (3 band)
+- Dimensions: 276 x 327 x 293 mm
+- EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
+- Output Power: 100W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13lbs / 5.9kg
+- Weight: 6.3 kg / 13.89 lbs
 - Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)
@@ -282,24 +301,27 @@ Last updated: February 16, 2026
 ## #7 [JBL Partybox Encore Essential](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Partybox-Encore-Essential-Built/dp/B09VMPBBY5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=27e195a4a4d57d674166514e7650ca7b&camp=1789&creative=9325)] [[Ebay Refurbished](https://www.ebay.com/itm/204761708018?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fFZ0h46Z2SVOh4TPBrU2A5h%2BV3qp3LWIAvQijmkNNYDE64BEvPiEJwGYk5XQX1uf8FCoz5lAczYNYLlAhK%2B9%2BuBXOgmkGz8hyvRk1ZJ8aDyAem6XRI8JfbaRb8DcdeEV09kiOZa0%2FUctuzrYroVq0GQMJrFkbUVbU3WhO0R1e%2FgIkBIJLyNUx9pLVpo%2FnoVek%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $250
 - Positives: A great sounding somewhat boosted bass party speaker.
 - Negatives: Only 6 hours of battery at medium volume. Poor Water rating.
-- App: Yes
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 38hz
 - Battery Life: 6 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
+- Bluetooth Version: 5.1
 - Built in Microphone: No
-- EQ: Yes (3 band)
+- Dimensions: 276 x 327 x 293 mm
+- EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
+- Output Power: 100W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13lbs / 5.9kg
+- Weight: 5.9 kg / 13.01 lbs
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: Called It!🤣 JBL Partybox Encore VS Essential, with binaural sound sample.](https://www.youtube.com/watch?v=BQM9L4Z9UNc)
     - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)
@@ -345,16 +367,18 @@ Last updated: February 16, 2026
 - Bass Extension (-10dB): 46hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: aptX HD
+- Bluetooth Version: 4.1
 - Built in Microphone: No
+- Dimensions: 268 x 90 x 362 mm
 - EQ: No
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: No
-- USB Playback: No
-- Weight: 10.25lbs / 4.65kg
+- USB Playback: Yes
+- Weight: 4.65 kg / 10.25 lbs
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: VIFA Copenhagen 2.0 - premium wireless speaker](https://www.youtube.com/watch?v=PXtV5pPeEdo)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>
@@ -375,17 +399,20 @@ Last updated: February 16, 2026
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 175ms
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 268 x 302.5 x 159.5 mm
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 96db
+- Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 7.76lbs / 3.52kg
+- Weight: 3.3 kg / 7.28 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Onyx Studio 8 review - part 2 of 3](https://www.youtube.com/watch?v=ZB3Q1d1x4H8)
     - [Alan Ross Reviews: Onyx Studio 8 vs HK Onyx 6, Xtreme 3, PartyBox Encore, Go+ Play, Bag of Riddim! part 3 of 3](https://www.youtube.com/watch?v=vuHY5DzSI4U)
@@ -404,17 +431,20 @@ Last updated: February 16, 2026
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 128 x 291 x 284 mm
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 96db
+- Output Power: 50W RMS
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No
-- Power Input: AC Power brick
-- Stereo: Partially (1 woofer)
+- Power Input: 19V/2A
+- Stereo: Yes
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
 - USB Playback: No
-- Weight: 6.5lbs / 2.9kg
+- Weight: 2.94 kg / 6.48 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
@@ -1094,10 +1124,12 @@ Last updated: February 16, 2026
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 277 x 260 x 366 mm
 - EQ: No
 - FM Tuner: Yes
 - Max Volume: 104db
 - MicroSD: Yes
+- Output Power: 320W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1174,7 +1206,9 @@ Last updated: February 16, 2026
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 512 x 224 x 222 mm
 - EQ: Yes (App + ULT button)
 - Guitar Input: Yes
 - IP Rating: IP67
@@ -1185,7 +1219,7 @@ Last updated: February 16, 2026
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13.8lbs / 6.3kg
+- Weight: 6.3 kg / 13.89 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: SONY ULT Field 7 💣vs JBL Boombox 3 🧨 Showdown! 🪇Let's Shake it Up! 🔋Battery Powered Basement Battle](https://www.youtube.com/watch?v=JLk5sdDpO1k)
     - [Dominik Reviews: Sony ULT Field 7 vs Tribit Stormbox Blast Both good? 😂](https://www.youtube.com/watch?v=-yxKYD0JxOE)
@@ -1197,19 +1231,22 @@ Last updated: February 16, 2026
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 16 hours
+- Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 430 x 200 x 210 mm
 - EQ: No
-- IP Rating: IPX5
+- IP Rating: IPX6
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 13.8 lbs / 6.3kg
+- Weight: 5.8 kg / 12.79 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Bugani Boost Max vs Tribit Stormbox Blast - GhettoBlaster Battle 🏠Indoors 🔋Battery Powered](https://www.youtube.com/watch?v=dQblSOGsdvg)
     - [Jagist reviews: Bugani Boost Max Vs Harmon Kardon Go Plus Play 3!!! 😁😁😁](https://www.youtube.com/watch?v=Kla_z-sz0Ec)
@@ -1273,22 +1310,24 @@ Last updated: February 16, 2026
 ## #40 [JBL Partybox On the Go](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-PartyBox-Go-Microphone-splashproof/dp/B08HG2YC65/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9b5e07ac2fc486e311341bc5dc873db&camp=1789&creative=9325)]: $300
 - Positives: Included wireless microphone.
 - Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
-- App: No
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 6 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IPX4
 - Max Volume: 94db
+- Output Power: 100W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially
-- TWS: No
+- TWS: Yes
 - USB Playback: Yes
-- Weight: 16.5lbs / 7.5kg
+- Weight: 7.5 kg / 16.53 lbs
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=ZGfkvIP0ytw>
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
@@ -1299,21 +1338,24 @@ Last updated: February 16, 2026
 
 ## #41 [Sony SRS-XG500](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Portable-Bluetooth-Party-Speaker-Water-Resistant-Hour-Battery/dp/B094T6NYV9/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=406b38d9a86899ef6c9bf34c18a8eb60&camp=1789&creative=9325)]: $500
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
-- App: No
+- App: Yes (Music Center, Fiestable)
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 460 x 256 x 215 mm
 - EQ: Yes (App + ClearAudio+)
 - IP Rating: IP66
-- Party Mode: Yes (Partyconnect up to 100 speakers)
+- Output Power: 2x 25W + 2x 10W
+- Party Mode: Yes
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 12.4lbs / 5.6kg
+- Weight: 5.6 kg / 12.35 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Tribit Stormbox Blast 🆚  Sony SRS-XG500 - Tailgater Special - Battery Powered ☢️ Bass Boost Enabled.](https://www.youtube.com/watch?v=ImnPvu49RSM)
     - [Jagist reviews: Tribit Stormbox Blast vs Sony SRS XG 500](https://www.youtube.com/watch?v=yenr1BPMk6s)
@@ -1353,23 +1395,27 @@ Last updated: February 16, 2026
 ## #43 [Soundcore Motion Boom+](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Playtime-Waterproof-Dustproof-Bluetooth/dp/B09VKZPST7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4583bd76451d8dcdddae502dd15241e7&camp=1789&creative=9325)]: $140 after $40 coupon
 - Positives: The lightest speaker in the group.
 - Negatives: Default presets are all warm sounding with rolled off treble. Will need a custom EQ to get closer to neutral. A shrill sounding 6khz peak comes out when volume is above about 60%. Not much deeper bass than a Motion Boom and a lot less deep bass than other speakers in the class.
-- App: Yes
+- App: Yes (Soundcore app)
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 384 x 130 x 196 mm
 - EQ: Yes (App EQ)
+- IP Rating: IP67
 - Max Volume: 108db
+- Output Power: 80W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 5.3lbs / 2.4kg
+- Weight: 2.4 kg / 5.29 lbs
 - Reviews, Comparisons and Sound Samples
     - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
@@ -1413,15 +1459,18 @@ Last updated: February 16, 2026
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 270 x 246 x 175 mm
 - EQ: No
 - FM Tuner: No
+- IP Rating: IP67
+- Output Power: 22W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 7.4lbs / 3.4kg
+- Weight: 2.47 kg / 5.44 lbs
 - Reviews, Comparisons and Sound Samples
     - [TailgatingChallenge: Demerbox Review](https://www.youtube.com/watch?v=F4VLp6en8Kc)
     - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)
@@ -1492,12 +1541,14 @@ Last updated: February 16, 2026
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
-- Built in Microphone: No
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
 - EQ: Yes (multiple modes)
-- IP Rating: None
+- IP Rating: IPX6
 - Max Volume: 115db
 - MicroSD: Yes
 - Microphone Input: Yes
+- Output Power: 120W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1548,19 +1599,22 @@ Last updated: February 16, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
-- Battery Life: 40 hours
+- Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 355.6 x 213.4 x 292.1 mm
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
+- Output Power: 86W
 - Party Mode: Yes
 - Power Bank: Yes
 - Power Input: USB-C
-- Stereo: No
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 18.8lbs / 8.5kg
+- Weight: 8.53 kg / 18.8 lbs
 - Reviews, Comparisons and Sound Samples
     - [Blue Collar Outdoors USA: Is the TURTLEBOX GRANDE Speaker REALLY Worth the HYPE ?](https://www.youtube.com/watch?v=Kr_7Wi9IfpA)
 - Links
@@ -1571,19 +1625,23 @@ Last updated: February 16, 2026
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - App: No
+- Aux Input: Yes
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- EQ: No
+- Dimensions: 711 x 203 x 406 mm
+- EQ: Yes
 - FM Tuner: Yes
 - Max Volume: 118db
+- MicroSD: Yes
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- USB Playback: No
-- Weight: 19lbs / 8.6kg
+- USB Playback: Yes
+- Weight: 8.62 kg / 19 lbs
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: Bumpboxx Flare 8 - My New Favorite Boombox](https://www.youtube.com/watch?v=kG9Bikc7L4g)
     - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)
@@ -1616,17 +1674,22 @@ Last updated: February 16, 2026
 ## #53 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
 - Negatives: Bass not as deep as competitors.
 - App: No
+- Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
-- EQ: No
+- Bluetooth Version: 5.1
+- Built in Microphone: Yes
+- EQ: Yes
 - FM Tuner: No
+- IP Rating: IP67
+- Output Power: 100W
 - Party Mode: No
-- Power Bank: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
+- Weight: 4.54 kg / 10 lbs
 - Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Everyday Man: Soundboks Go Vs  Turttlebox Vs  EcoXGear Defender](https://www.youtube.com/watch?v=nMPO3NmXU2g)
@@ -1638,18 +1701,24 @@ Last updated: February 16, 2026
 - Positives: It's cheap, included wireless microphone
 - Negatives: Bass not as deep as competitors
 - App: No
+- Aux Input: Yes
 - Bass Extension (-10dB): ~56hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
+- Bluetooth Version: 5.3
+- Built in Microphone: Yes
+- Dimensions: 300 x 230 x 380 mm
 - EQ: No
+- FM Tuner: Yes
 - MicroSD: Yes
+- Output Power: 100W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
-- Stereo: Partially
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 4.2 kg / 9.26 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links
@@ -1710,18 +1779,21 @@ Last updated: February 16, 2026
 - Bass Extension (-10dB): 63hz
 - Battery Life: 42 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Dimensions: 315 x 140 x 135 mm
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
 - Max Volume: 108db
 - MicroSD: Yes
+- Output Power: 70W RMS (120W peak)
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 7.4lbs / 3.3kg
+- Weight: 2.95 kg / 6.5 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
@@ -1735,19 +1807,22 @@ Last updated: February 16, 2026
 - Bass Extension (-10dB): 52hz
 - Battery Life: 42 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 315 x 140 x 135 mm
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - FM Tuner: No
 - IP Rating: IPX6
 - Max Volume: 106db
 - MicroSD: Yes
+- Output Power: 70W RMS (120W peak)
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 7.4lbs / 3.3kg
+- Weight: 2.95 kg / 6.5 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
     - [Alan Ross Reviews: W-King X10 vs JBL Xtreme 3, Xtreme 2 and Xtreme 1! Xtreme Review 🤓](https://www.youtube.com/watch?v=ooIKSU0tKDU)
@@ -1760,15 +1835,17 @@ Last updated: February 16, 2026
 
 ## #59 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325)]: $190
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
-- App: Yes (House Party app)
-- Aux Input: Yes
+- App: Yes
+- Aux Input: No
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
+- Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - FM Tuner: No
-- Party Mode: No
-- Power Bank: No
+- IP Rating: IP67
+- Output Power: 50W
+- Party Mode: Yes (Up to 50 speakers)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -1852,22 +1929,26 @@ Last updated: February 16, 2026
 
 ## #63 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
-- App: No
+- App: Yes (Monster Zone Control app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
-- Battery Life: 65 hours
+- Battery Life: 100 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: No
-- EQ: No
+- Dimensions: 381 x 472 x 276 mm
+- EQ: Yes
 - FM Tuner: Yes
+- IP Rating: IPX4
 - Max Volume: 96db
+- Output Power: 200W
 - Party Mode: No
-- Power Bank: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Weight: 28.6lbs / 13kg
+- Weight: 13 kg / 28.66 lbs
 - Reviews, Comparisons and Sound Samples
     - [Wanna Buy It: Monster Rockin' Roller 270 - Party On Wheels](https://www.youtube.com/watch?v=uL9NPSEAwjE)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)
@@ -1882,17 +1963,20 @@ Last updated: February 16, 2026
 - Bass Extension (-10dB): ~65hz
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: No
+- Dimensions: 305 x 178 x 222 mm
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
+- Output Power: 85W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
-- Stereo: No
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 10lbs / 4.5kg
+- Weight: 4.54 kg / 10 lbs
 - Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Risk Profile: TurtleBox Demo  Risk Profile Podcast](https://www.youtube.com/watch?v=y9aCDZW6I_8)
@@ -1905,19 +1989,22 @@ Last updated: February 16, 2026
 
 ## #65 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
-- App: Yes (House Party app)
+- App: Yes (Altec Lansing Just Listen app)
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 564 x 284 x 295 mm
 - EQ: Yes (App EQ)
 - FM Tuner: No
+- IP Rating: IP67
+- Output Power: 120W
 - Party Mode: No
-- Power Bank: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 12.6 lbs / 5.7kg
+- Weight: 5.71 kg / 12.6 lbs
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Altec Lansing Rockbox XL 2.0 vs  Monster Adventurer Max 🛠 Garage Face-Off. Somebody Shut that Dog Up](https://www.youtube.com/watch?v=jS0Ofn3aRaI)
 - Links

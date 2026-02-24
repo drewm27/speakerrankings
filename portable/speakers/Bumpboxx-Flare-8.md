@@ -11,19 +11,23 @@ The Bumpboxx Flare 8 ranks [#51 out of 67 total Boombox Size Portable Bluetooth 
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - App: No
+- Aux Input: Yes
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- EQ: No
+- Dimensions: 711 x 203 x 406 mm
+- EQ: Yes
 - FM Tuner: Yes
 - Max Volume: 118db
+- MicroSD: Yes
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- USB Playback: No
-- Weight: 19lbs / 8.6kg
+- USB Playback: Yes
+- Weight: 8.62 kg / 19 lbs
 - Reviews, Comparisons and Sound Samples
     - [Flossy Carter: Bumpboxx Flare 8 - My New Favorite Boombox](https://www.youtube.com/watch?v=kG9Bikc7L4g)
     - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)

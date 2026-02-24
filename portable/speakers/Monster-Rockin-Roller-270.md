@@ -9,22 +9,26 @@ The Monster Rockin' Roller 270 ranks [#63 out of 67 total Boombox Size Portable 
 
 ## #63 [Monster Rockin' Roller 270](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Monster-Portable-Wireless-Playtime-Resistant/dp/B087VTFXH1/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=24406cddf245ca77786eaa0a9173c409&camp=1789&creative=9325)]: $250
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
-- App: No
+- App: Yes (Monster Zone Control app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
-- Battery Life: 65 hours
+- Battery Life: 100 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: No
-- EQ: No
+- Dimensions: 381 x 472 x 276 mm
+- EQ: Yes
 - FM Tuner: Yes
+- IP Rating: IPX4
 - Max Volume: 96db
+- Output Power: 200W
 - Party Mode: No
-- Power Bank: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Weight: 28.6lbs / 13kg
+- Weight: 13 kg / 28.66 lbs
 - Reviews, Comparisons and Sound Samples
     - [Wanna Buy It: Monster Rockin' Roller 270 - Party On Wheels](https://www.youtube.com/watch?v=uL9NPSEAwjE)
     - [Charles BridgTec: Monster Rockin' Roller 270° Portable Speaker Review! (Nice Sound!)](https://www.youtube.com/watch?v=JWQcHpHZBGg)

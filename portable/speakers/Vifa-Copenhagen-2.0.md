@@ -14,16 +14,18 @@ The Vifa Copenhagen 2.0 ranks [#9 out of 67 total Boombox Size Portable Bluetoot
 - Bass Extension (-10dB): 46hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: aptX HD
+- Bluetooth Version: 4.1
 - Built in Microphone: No
+- Dimensions: 268 x 90 x 362 mm
 - EQ: No
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: No
-- USB Playback: No
-- Weight: 10.25lbs / 4.65kg
+- USB Playback: Yes
+- Weight: 4.65 kg / 10.25 lbs
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: VIFA Copenhagen 2.0 - premium wireless speaker](https://www.youtube.com/watch?v=PXtV5pPeEdo)
     - <https://www.youtube.com/watch?v=qRlk2_uT0rM>

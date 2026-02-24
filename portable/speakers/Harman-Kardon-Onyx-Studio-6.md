@@ -16,17 +16,20 @@ The Harman Kardon Onyx Studio 6 ranks [#11 out of 67 total Boombox Size Portable
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 128 x 291 x 284 mm
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 96db
+- Output Power: 50W RMS
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No
-- Power Input: AC Power brick
-- Stereo: Partially (1 woofer)
+- Power Input: 19V/2A
+- Stereo: Yes
 - TWS: Yes ([this link](https://www.reddit.com/r/Bluetooth_Speakers/comments/w339x5/how_to_harman_kardon_onyx_studio_5_6_dual_sound/))
 - USB Playback: No
-- Weight: 6.5lbs / 2.9kg
+- Weight: 2.94 kg / 6.48 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Onyx Studio 7 vs Onyx Studio 6 - massive deep bass battle 😁](https://www.youtube.com/watch?v=0qj07kfHTFc)
     - [That Speaker Guy: Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)

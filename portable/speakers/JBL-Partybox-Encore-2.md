@@ -10,21 +10,24 @@ The JBL Partybox Encore 2 ranks [#4 out of 67 total Boombox Size Portable Blueto
 ## #4 [JBL Partybox Encore 2](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631) [[Samsclub](https://www.samsclub.com/ip/jbl-partybox-encore-2-portable-party-speaker-with-2-mics-ai-sound-boost-dynamic/16721400631)]: $330
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Includes 2 wireless microphones. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass.
-- App: Yes
+- App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
-- EQ: Yes (7 band)
+- Dimensions: 319.5 x 338.6 x 263 mm
+- EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
+- Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
-- Stereo: Partially (1 woofer)
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
-- Weight: 14.11lbs / 6.4kg
+- Weight: 6.4 kg / 14.11 lbs
 - Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL giving it to us large! The good, The bad, The diabolical!](https://www.youtube.com/watch?v=6zjzRSKpCn0)

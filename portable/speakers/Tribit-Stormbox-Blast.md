@@ -10,27 +10,30 @@ The Tribit Stormbox Blast ranks [#2 out of 67 total Boombox Size Portable Blueto
 ## #2 [Tribit Stormbox Blast](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
 - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings. The curved underside of the handle makes it a little harder to grip and can be uncomfortable to carry long distances.
-- App: Yes
+- App: Yes (Tribit App)
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 400 x 160 x 230 mm
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
 - Max Volume: 108db
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 90W RMS (140W peak)
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 11.6lbs / 5.3kg
+- Weight: 5.45 kg / 12.01 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tribit Stormbox Blast Firmware Update 5.2 and other things.......](https://www.youtube.com/watch?v=-zaz_yaVi3c)
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)

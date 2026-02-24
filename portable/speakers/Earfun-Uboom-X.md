@@ -18,18 +18,21 @@ The Earfun Uboom X ranks [#1 out of 67 total Boombox Size Portable Bluetooth Spe
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 400 x 150 x 215 mm
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110db
+- Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 9.2lbs / 4.18kg
+- Weight: 4.1 kg / 9.04 lbs
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)

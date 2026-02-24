@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
-Last updated: February 16, 2026
+Last updated: February 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 

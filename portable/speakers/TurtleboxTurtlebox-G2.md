@@ -14,17 +14,20 @@ The Turtlebox/Turtlebox G2 ranks [#64 out of 67 total Boombox Size Portable Blue
 - Bass Extension (-10dB): ~65hz
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: No
+- Dimensions: 305 x 178 x 222 mm
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
+- Output Power: 85W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
-- Stereo: No
+- Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 10lbs / 4.5kg
+- Weight: 4.54 kg / 10 lbs
 - Reviews, Comparisons and Sound Samples
     - [Outeraudio: Turtlebox vs EcoXgear Defender Sound Comparison](https://www.youtube.com/watch?v=5n-Z3842rOA)
     - [Risk Profile: TurtleBox Demo  Risk Profile Podcast](https://www.youtube.com/watch?v=y9aCDZW6I_8)

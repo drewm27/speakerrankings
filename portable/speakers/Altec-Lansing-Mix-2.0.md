@@ -9,15 +9,17 @@ The Altec Lansing Mix 2.0 ranks [#59 out of 67 total Boombox Size Portable Bluet
 
 ## #59 [Altec Lansing Mix 2.0](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Mix-2-0-Waterproof/dp/B08D4V2MRP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=40fac1f69fed1b6df3898bd17163c133&camp=1789&creative=9325)]: $190
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
-- App: Yes (House Party app)
-- Aux Input: Yes
+- App: Yes
+- Aux Input: No
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
-- Built in Microphone: No
+- Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - FM Tuner: No
-- Party Mode: No
-- Power Bank: No
+- IP Rating: IP67
+- Output Power: 50W
+- Party Mode: Yes (Up to 50 speakers)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes

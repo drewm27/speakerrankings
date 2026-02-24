@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Expert rankings of 365 Bluetooth speakers for audiophiles. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for audiophiles?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 16, 2026.**
+**Looking for the best Bluetooth speaker for audiophiles?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -218,18 +218,21 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 400 x 150 x 215 mm
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110db
+- Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 9.2lbs / 4.18kg
+- Weight: 4.1 kg / 9.04 lbs
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
     - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
@@ -277,27 +280,30 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 ### If the Uboom X is out of stock, I'd recommend the [**Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
 - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings. The curved underside of the handle makes it a little harder to grip and can be uncomfortable to carry long distances.
-- App: Yes
+- App: Yes (Tribit App)
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 400 x 160 x 230 mm
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
 - Max Volume: 108db
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 90W RMS (140W peak)
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 11.6lbs / 5.3kg
+- Weight: 5.45 kg / 12.01 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tribit Stormbox Blast Firmware Update 5.2 and other things.......](https://www.youtube.com/watch?v=-zaz_yaVi3c)
     - [Alan Ross Reviews: Tribit Stormbox Blast vs JBL Boombox 2 big bass boombox speakers 💕](https://www.youtube.com/watch?v=FX2dAK-fpMU)
@@ -343,22 +349,26 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Just a little over half as loud as the higher rated boomboxes. Only 8 hours of battery at medium volume. No water rating.
 - Setup: Use the hidden EQ modes to adjust the bass up when outside and down when inside. To adjust bass, quickly press the bluetooth and volume down buttons together, the number of light flashes tell you what mode you're in.  To adjust treble, quickly press the volume up and phone buttons at the same time, the number of yellow flashes on the light tell you what mode you are in.
 - App: Yes (Harman Kardon One app)
+- Aux Input: Yes
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 439 x 240 x 192 mm
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103db
+- Output Power: 160W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Weight: 10.4lbs / 4.7kg
+- Weight: 4.7 kg / 10.36 lbs
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: Harman Kardon Go + Play 3 hidden eq modes - world has gone crazy! 🤣](https://www.youtube.com/watch?v=ktjCIpky_Lg)
