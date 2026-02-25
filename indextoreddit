@@ -2,4 +2,5 @@
 
 set -e
 
-cat index.md|tail -n +9|head -n -2|sed 's/(\//(https:\/\/www.speakerranking.com\//'
+echo -e "I've spent the last few years aggregating scores from the top speaker reviewers ([Oluv, Alan Ross, Erin’s Audio Corner, Audio Science Review, GR-Research](https://www.speakerranking.com/personal-ranking-of-speaker-reviewers/)) to build a data-driven ranking system. The goal is to cut through marketing and give you an objective ranking based on real reviews. Here's the full index of what's covered.\n"
+cat index.md|sed -n '/^Last/,$p'|sed 's/(\//(https:\/\/www.speakerranking.com\//'
