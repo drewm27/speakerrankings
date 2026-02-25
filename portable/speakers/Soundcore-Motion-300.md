@@ -17,7 +17,7 @@ The Soundcore Motion 300 ranks [#2 out of 131 total Medium Size Portable Bluetoo
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Built in Microphone: Yes
-- EQ: Yes
+- EQ: Yes (9 band with adjustable frequency)
 - IP Rating: IPX7
 - Max Volume: 101db
 - Power Bank: No

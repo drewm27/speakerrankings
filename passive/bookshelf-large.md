@@ -16,7 +16,7 @@ The law of diminishing returns applies, many moderately-priced options here prov
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 
-Last updated: February 24, 2026
+Last updated: February 25, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 

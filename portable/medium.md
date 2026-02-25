@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 24, 2026
+Last updated: February 25, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -63,7 +63,7 @@ Last updated: February 24, 2026
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Built in Microphone: Yes
-- EQ: Yes
+- EQ: Yes (9 band with adjustable frequency)
 - IP Rating: IPX7
 - Max Volume: 101db
 - Power Bank: No
@@ -98,7 +98,7 @@ Last updated: February 24, 2026
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
 - Built in Microphone: Yes
-- EQ: Yes
+- EQ: Yes (9 band)
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
@@ -130,7 +130,7 @@ Last updated: February 24, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
 - Built in Microphone: Yes
-- EQ: Yes
+- EQ: Yes (9 band)
 - IP Rating: IPX7
 - Max Volume: 99db
 - Party Mode: No
@@ -357,7 +357,7 @@ Last updated: February 24, 2026
 - Battery Life: 12 hours
 - Bluetooth Latency: 116ms
 - Built in Microphone: No
-- EQ: Yes
+- EQ: Yes (3 band)
 - IP Rating: IP67
 - Max Volume: 98db
 - Party Mode: Yes (PartyBoost up to 100 speakers)

@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Expert rankings of 365 Bluetooth speakers tested for outdoor usage. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for outdoor usage?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 24, 2026.**
+**Looking for the best Bluetooth speaker for outdoor usage?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 25, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -107,7 +107,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Built in Microphone: Yes
-- EQ: Yes
+- EQ: Yes (9 band with adjustable frequency)
 - IP Rating: IPX7
 - Max Volume: 101db
 - Power Bank: No
