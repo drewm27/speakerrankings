@@ -177,7 +177,6 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
-- Bluetooth Latency: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6

@@ -15,7 +15,6 @@ The Zealot ZE21 ranks [#13 out of 67 total Boombox Size Portable Bluetooth Speak
 - Bass Extension (-10dB): 36hz
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
-- Bluetooth Latency: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
