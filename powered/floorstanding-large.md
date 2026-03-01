@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Small](/powered/bookshelf-small/) and [Medium](/powered/bookshelf-medium/) powered bookshelf speakers, or [Passive Large Bookshelf](/passive/bookshelf-large/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 25, 2026
+Last updated: February 28, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 

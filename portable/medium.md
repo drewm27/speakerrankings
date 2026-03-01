@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: February 25, 2026
+Last updated: February 28, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -2102,7 +2102,30 @@ Last updated: February 25, 2026
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xe200/specifications)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XE200/)
 
-## #106 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100
+## #106 [Wisetiger F10](https://s.click.aliexpress.com/e/_c4rTLD6f) [[Aliexpress](https://s.click.aliexpress.com/e/_c4rTLD6f)]: $27
+- Negatives: Mids and treble on the harsh side, not much bass
+- Battery Life: 24 hours
+- IP Rating: IPX7
+- Weight: 1.23lbs / 550g
+- Reviews, Comparisons and Sound Samples
+    - [Techder Audios: Wisetiger F10 Beat Boom "CHEAP & GOOD?!"](https://www.youtube.com/watch?v=PSqpd9W7oPI)
+    - [andresound1747: WISE TIGER F10 BEAT BOOM](https://www.youtube.com/shorts/ybkVZ6V-_60)
+    - [ReoAudio: WiseTiger F10 Sound Test](https://www.youtube.com/watch?v=s1q7oTh7IjY)
+- Links
+    - [Direct Speakerranking Link](/portable/speakers/Wisetiger-F10/)
+
+## #107 Doss E-Go II
+- Negatives: Horribly bad unless turned up, still not great
+- Aux Input: Yes
+- Bass Extension (-10dB): 120hz
+- Battery Life: 12 hours
+- MicroSD: Yes
+- Reviews, Comparisons and Sound Samples
+    - <https://www.youtube.com/watch?v=08fxMlvMkVw>
+- Links
+    - [Direct Speakerranking Link](/portable/speakers/Doss-E-Go-II/)
+
+## #108 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100
 - Negatives: Barely any bass. 14khz peak, bright on top. Soundboost mode makes the top end even harsher.
 - Aux Input: Yes
 - Bass Extension (-10dB): 71hz
@@ -2115,7 +2138,7 @@ Last updated: February 25, 2026
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl5-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Go-PL5/)
 
-## #107 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325)]: $90
+## #109 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325)]: $90
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Battery Life: 18 hours
 - Reviews, Comparisons and Sound Samples
@@ -2124,7 +2147,7 @@ Last updated: February 25, 2026
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-XG5/)
 
-## #108 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl)]: $23
+## #110 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl)]: $23
 - Negatives: Lacking quite a bit of bass. Sounds hollow and thuddy. Just not great overall.
 - Bass Extension (-10dB): ~85hz
 - Battery Life: 12 hours
@@ -2138,7 +2161,7 @@ Last updated: February 25, 2026
     - [Official Product Page](https://tribit.com/products/stormbox-mini-portable-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Mini/)
 
-## #109 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325)]: $32
+## #111 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325)]: $32
 - Negatives: Hugely lacking bass compared to similar size speakers. Sounds hollow and thuddy with frequency dips in the midrange.
 - Battery Life: 12 hours
 - MicroSD: Yes
@@ -2149,7 +2172,7 @@ Last updated: February 25, 2026
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-T7-Lite/)
 
-## #110 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
+## #112 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358
 - Aux Input: Yes
 - Bass Extension (-10dB): 87hz
@@ -2164,7 +2187,7 @@ Last updated: February 25, 2026
     - [Official Product Page Dayton Audio Boost](https://parts-express.sjv.io/q4bNkj)
     - [Direct Speakerranking Link](/portable/speakers/Dayton-Audio-Boost/)
 
-## #111 [Boat Stone 350/352/358](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB) [[Amazon](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB)]: ₹1,399
+## #113 [Boat Stone 350/352/358](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB) [[Amazon](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB)]: ₹1,399
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Dayton Audio Boost
 - Aux Input: Yes
 - Bass Extension (-10dB): 87hz
@@ -2181,7 +2204,7 @@ Last updated: February 25, 2026
     - [Official Product Page Boat Stone 358](https://www.boat-lifestyle.com/products/stone-358-bluetooth-speaker)
     - [Direct Speakerranking Link](/portable/speakers/Boat-Stone-350352358/)
 
-## #112 Harman Kardon Esquire 2: $200
+## #114 Harman Kardon Esquire 2: $200
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Battery Life: 8 hours
 - Reviews, Comparisons and Sound Samples
@@ -2190,7 +2213,7 @@ Last updated: February 25, 2026
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Esquire-2/)
 
-## #113 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325)]: $36
+## #115 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325)]: $36
 - Negatives: Very rolled off treble and sounds muffled
 - Battery Life: 15 hours
 - Reviews, Comparisons and Sound Samples
@@ -2198,7 +2221,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Raymate-S7/)
 
-## #114 Xdobo X8: $35
+## #116 Xdobo X8: $35
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz
@@ -2212,7 +2235,7 @@ Last updated: February 25, 2026
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
     - [Direct Speakerranking Link](/portable/speakers/Xdobo-X8/)
 
-## #115 Xiaomi Mi Outdoor
+## #117 Xiaomi Mi Outdoor
 - Negatives: Not much bass, IP55 not very waterproof
 - Battery Life: 20 hours
 - IP Rating: IP55
@@ -2223,7 +2246,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Outdoor/)
 
-## #116 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
+## #118 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Bass Extension (-10dB): ~64hz
 - Battery Life: 30 hours
@@ -2233,7 +2256,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Ortizan-X10/)
 
-## #117 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
+## #119 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
 - Negatives: Very little bass with horrible upper bass thud at higher levels
 - Bass Extension (-10dB): ~90hz
 - Battery Life: 20 hours
@@ -2244,7 +2267,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Oontz-Angle-3-Ultra/)
 
-## #118 Ultimate Ears Roll 2: $100
+## #120 Ultimate Ears Roll 2: $100
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
 - Battery Life: 9 hours
 - Weight: 0.73lbs / 330g
@@ -2253,7 +2276,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Roll-2/)
 
-## #119 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
+## #121 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~90hz
@@ -2267,7 +2290,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Walla-Sound/)
 
-## #120 EFM Toledo
+## #122 EFM Toledo
 - Negatives: Rolled off treble, very weak bass
 - Battery Life: 15 hours
 - Reviews, Comparisons and Sound Samples
@@ -2275,7 +2298,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/EFM-Toledo/)
 
-## #121 Beats Pill+: $230
+## #123 Beats Pill+: $230
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - App: Yes
 - Bass Extension (-10dB): 90hz
@@ -2286,7 +2309,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Beats-Pill+/)
 
-## #122 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
+## #124 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
 - Negatives: No bass, very rolled off treble. Distortion in the treble. Just doesn't sound good
 - Battery Life: 14 hours
 - Reviews, Comparisons and Sound Samples
@@ -2297,7 +2320,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Skullcandy-TerrainTerrain-XTTerrain-XL/)
 
-## #123 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: $40
+## #125 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: $40
 - Negatives: Barely any bass
 - Aux Input: Yes
 - Battery Life: 20 hours
@@ -2308,7 +2331,7 @@ Last updated: February 25, 2026
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox-Pro/)
 
-## #124 Doss Soundbox
+## #126 Doss Soundbox
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Aux Input: Yes
 - Bass Extension (-10dB): 140hz
@@ -2319,27 +2342,6 @@ Last updated: February 25, 2026
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
 - Links
     - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox/)
-
-## #125 [Wisetiger F10](https://s.click.aliexpress.com/e/_c4rTLD6f) [[Aliexpress](https://s.click.aliexpress.com/e/_c4rTLD6f)]: $27
-- Negatives: Mids and treble on the harsh side, not much bass
-- Battery Life: 24 hours
-- IP Rating: IPX7
-- Weight: 1.23lbs / 550g
-- Reviews, Comparisons and Sound Samples
-    - [Techder Audios: Wisetiger F10 Beat Boom "CHEAP & GOOD?!"](https://www.youtube.com/watch?v=PSqpd9W7oPI)
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Wisetiger-F10/)
-
-## #126 Doss E-Go II
-- Negatives: Horribly bad unless turned up, still not great
-- Aux Input: Yes
-- Bass Extension (-10dB): 120hz
-- Battery Life: 12 hours
-- MicroSD: Yes
-- Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=08fxMlvMkVw>
-- Links
-    - [Direct Speakerranking Link](/portable/speakers/Doss-E-Go-II/)
 
 ## #127 [Ultimate Ears Megaboom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl)]: $200
 - Negatives: A lot of distortion at higher volumes. Rolled off treble. Not very loud. They really screwed this up
