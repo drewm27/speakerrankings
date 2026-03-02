@@ -16,6 +16,7 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 41 total Small Size Portable Blueto
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
@@ -25,6 +26,7 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 41 total Small Size Portable Blueto
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>

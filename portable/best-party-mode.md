@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Expert rankings of 365 Bluetooth speakers with >2 speaker party mode. Detailed specs, sound samples & EQ settings. Budget to premium picks from $30."
 ---
 
-**Looking for the best Bluetooth speaker with party mode?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 28, 2026.**
+**Looking for the best Bluetooth speaker with party mode?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 02, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -31,6 +31,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
@@ -40,6 +41,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
+- Wattage: 6W
 - Weight: 0.55lbs / 249g
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)

@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Expert rankings of 365 Bluetooth speakers tested by top reviewers. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speakers picked by top reviewers?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 28, 2026.**
+**Looking for the best Bluetooth speakers picked by top reviewers?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 02, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -25,6 +25,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
@@ -34,6 +35,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -211,6 +213,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
@@ -220,6 +223,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>

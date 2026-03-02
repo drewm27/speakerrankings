@@ -14,8 +14,12 @@ The Ultimate Ears Miniroll ranks [#10 out of 41 total Small Size Portable Blueto
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Charging Time: 2.3 hours
+- Dimensions: 122.67 x 105 x 48.15mm
+- Driver: 45.6mm active with passive radiator
 - EQ: No
 - IP Rating: IP67
+- Max Volume: 83dB
 - Party Mode: Yes (Only with other Miniroll)
 - Power Bank: No
 - Power Input: USB-C

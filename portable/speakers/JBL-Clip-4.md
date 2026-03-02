@@ -14,8 +14,11 @@ The JBL Clip 4 ranks [#19 out of 41 total Small Size Portable Bluetooth Speakers
 - Bass Extension (-10dB): 80hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 86 x 135 x 46mm
 - EQ: No
+- Frequency Response: 100Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 79db
 - Party Mode: No
@@ -23,6 +26,7 @@ The JBL Clip 4 ranks [#19 out of 41 total Small Size Portable Bluetooth Speakers
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
+- Wattage: 5W
 - Weight: 0.53lbs / 239g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>

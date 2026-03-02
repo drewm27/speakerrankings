@@ -15,7 +15,9 @@ The Dayton Audio Boost Mini ranks [#25 out of 41 total Small Size Portable Bluet
 - Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Driver: 1.75"
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes

@@ -15,14 +15,18 @@ The Lenovo 700 Ultraportable Bluetooth Speaker ranks [#39 out of 41 total Small 
 - Bass Extension (-10dB): ~220hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: No
+- Frequency Response: 220Hz - 20kHz
 - IP Rating: IPX2
+- NFC: Yes
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Wattage: 4W
 - Weight: 0.32lbs / 145g
 - Reviews, Comparisons and Sound Samples
     - [Jon Low: The world's thinnest bluetooth speaker- Lenovo 700 Ultra Bluetooth Speaker: #AWGR009](https://www.youtube.com/watch?v=Yam_mssFqeU)

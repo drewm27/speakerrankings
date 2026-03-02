@@ -15,9 +15,14 @@ The Vifa City ranks [#8 out of 41 total Small Size Portable Bluetooth Speakers](
 - Bass Extension (-10dB): 73hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 105mm diameter x 39mm height
+- Driver: 15mm tweeter, 65mm woofer
 - EQ: No
+- Frequency Response: 78Hz - 20kHz
 - IP Rating: IPX4
+- NFC: Yes
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

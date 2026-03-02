@@ -15,7 +15,11 @@ The Bose Soundlink Micro ranks [#16 out of 41 total Small Size Portable Bluetoot
 - Battery Life: 6 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Charging Time: 3 hours
+- Dimensions: 98 x 98 x 35mm
+- Driver: 40mm with dual passive radiators
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 90db
@@ -24,6 +28,7 @@ The Bose Soundlink Micro ranks [#16 out of 41 total Small Size Portable Bluetoot
 - Power Input: Micro USB
 - Stereo: No
 - TWS: Yes
+- Wattage: 5W
 - Weight: 0.64lbs / 289g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)

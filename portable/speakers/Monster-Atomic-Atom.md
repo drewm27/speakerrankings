@@ -15,7 +15,10 @@ The Monster Atomic Atom ranks [#24 out of 41 total Small Size Portable Bluetooth
 - Bass Extension (-10dB): 90hz
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Charging Time: 2 hours
+- Driver: 33mm
 - EQ: No
 - IP Rating: IPX5
 - MicroSD: No
@@ -24,6 +27,7 @@ The Monster Atomic Atom ranks [#24 out of 41 total Small Size Portable Bluetooth
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
+- Wattage: 3W
 - Weight: 0.35lbs / 159g
 - Reviews, Comparisons and Sound Samples
     - [wwjoshdew: Monster Atomic Atom Bluetooth 5.4 Speaker](https://www.youtube.com/watch?v=4RJTt8arMM4)

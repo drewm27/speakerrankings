@@ -13,15 +13,19 @@ The JBL Clip 5 ranks [#18 out of 41 total Small Size Portable Bluetooth Speakers
 - Aux Input: No
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 86 x 134.5 x 46mm
 - EQ: Yes
+- Frequency Response: 95Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Weight: 0.86lbs / 390g
+- Wattage: 7W
+- Weight: 0.628lbs / 285g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)

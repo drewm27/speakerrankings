@@ -14,14 +14,20 @@ The Soundcore Select 4 Go ranks [#20 out of 41 total Small Size Portable Bluetoo
 - Aux Input: No
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Charging Time: 4 hours
+- Dimensions: 121 x 83 x 48.5mm
+- Driver: 1.75" full range
 - EQ: Yes
+- Frequency Response: 90Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 5W
 - Weight: 0.58lbs / 265g
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)

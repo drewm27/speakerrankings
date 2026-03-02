@@ -15,14 +15,20 @@ The JBL Go 4 ranks [#21 out of 41 total Small Size Portable Bluetooth Speakers](
 - Bass Extension (-10dB): ~82hz
 - Battery Life: 7 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Charging Time: 3 hours
+- Dimensions: 94.3 x 75.7 x 42.2mm
+- Driver: 45mm
 - EQ: Yes
+- Frequency Response: 90Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 4.2W
 - Weight: 0.42lbs / 190g
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)

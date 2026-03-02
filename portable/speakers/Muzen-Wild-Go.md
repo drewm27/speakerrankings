@@ -13,14 +13,19 @@ The Muzen Wild Go ranks [#36 out of 41 total Small Size Portable Bluetooth Speak
 - Aux Input: No
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Charging Time: 2 hours
+- Dimensions: 75.5 x 35.5 x 59mm
 - EQ: No
+- Frequency Response: 80Hz - 18kHz
 - IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 5W
 - Weight: 0.41lbs / 187g
 - Reviews, Comparisons and Sound Samples
     - [UtmostCoin Reviews: Bringing Sophistications to The Wild - Muzen Wild Go Speaker Review](https://www.youtube.com/watch?v=3JsU3QYYRrk)

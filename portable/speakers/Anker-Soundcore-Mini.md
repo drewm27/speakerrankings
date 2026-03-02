@@ -14,7 +14,9 @@ The Anker Soundcore Mini ranks [#11 out of 41 total Small Size Portable Bluetoot
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.0
 - Built in Microphone: Yes
+- Charging Time: 2.5 hours
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None
@@ -24,6 +26,7 @@ The Anker Soundcore Mini ranks [#11 out of 41 total Small Size Portable Bluetoot
 - Power Input: Micro USB
 - Stereo: No
 - TWS: Yes
+- Wattage: 5W
 - Weight: 0.44lbs / 200g
 - Reviews, Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)

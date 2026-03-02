@@ -15,14 +15,20 @@ The Marshall Willen II ranks [#9 out of 41 total Small Size Portable Bluetooth S
 - Bass Extension (-10dB): 70hz
 - Battery Life: 17 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Charging Time: 2.5 hours
+- Dimensions: 99 x 43 x 99mm
+- Driver: 2" full-range with dual passive radiators
 - EQ: Yes
+- Frequency Response: 75Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
+- Wattage: 10W
 - Weight: 0.79lbs / 360g
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)

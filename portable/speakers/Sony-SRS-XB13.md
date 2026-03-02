@@ -13,9 +13,13 @@ The Sony SRS-XB13 ranks [#29 out of 41 total Small Size Portable Bluetooth Speak
 - Aux Input: No
 - Bass Extension (-10dB): 88hz
 - Battery Life: 16 hours
-- Bluetooth Codecs: SBC
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Charging Time: 4.5 hours
+- Driver: 46mm
 - EQ: No
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 88db
 - Party Mode: No
@@ -23,6 +27,7 @@ The Sony SRS-XB13 ranks [#29 out of 41 total Small Size Portable Bluetooth Speak
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 5W
 - Weight: 0.56lbs / 255g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)

@@ -13,14 +13,18 @@ The Muzen Wild Mini ranks [#35 out of 41 total Small Size Portable Bluetooth Spe
 - Aux Input: No
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 60.8 x 37.5 x 77.9mm
 - EQ: No
+- Frequency Response: 80Hz - 18kHz
 - IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 5W
 - Weight: 0.55lbs / 248g
 - Reviews, Comparisons and Sound Samples
     - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)

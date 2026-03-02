@@ -15,8 +15,12 @@ The Boat Stone 190/193 ranks [#27 out of 41 total Small Size Portable Bluetooth 
 - Bass Extension (-10dB): 95hz
 - Battery Life: 6.5 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Charging Time: 1.5 hours
+- Driver: 52mm
 - EQ: No
+- Frequency Response: 70Hz - 70kHz
 - IP Rating: IPX7
 - MicroSD: Yes
 - Party Mode: No
@@ -24,6 +28,7 @@ The Boat Stone 190/193 ranks [#27 out of 41 total Small Size Portable Bluetooth 
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 5W
 - Weight: 0.4lbs / 185g
 - Links
     - [Official Product Page Boat Stone 190](https://www.boat-lifestyle.com/products/stone-190)

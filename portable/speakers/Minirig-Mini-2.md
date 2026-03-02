@@ -17,7 +17,11 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: Yes
+- Charging Time: 2.5-3.5 hours
+- Dimensions: 84 x 53mm
+- Driver: 52mm custom neodymium
 - EQ: Yes
+- Frequency Response: 65Hz - 16kHz
 - IP Rating: Splash resistant
 - Max Volume: 92db
 - Party Mode: No
@@ -25,6 +29,7 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
 - Power Input: Proprietary USB cable
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
+- Wattage: 15W
 - Weight: 0.71lbs / 320g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>

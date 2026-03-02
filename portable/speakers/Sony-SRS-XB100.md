@@ -12,15 +12,21 @@ The Sony SRS-XB100 ranks [#28 out of 41 total Small Size Portable Bluetooth Spea
 - App: No
 - Aux Input: No
 - Battery Life: 16 hours
-- Bluetooth Codecs: SBC
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Charging Time: 4.5 hours
+- Dimensions: 76mm diameter x 95mm height
+- Driver: 46mm
 - EQ: No
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 2.5W
 - Weight: 0.60lbs / 274g
 - Reviews, Comparisons and Sound Samples
     - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)

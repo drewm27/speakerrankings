@@ -14,12 +14,16 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - Bass Extension (-10dB): ~70hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Charging Time: 2 hours
+- Dimensions: 109 x 109 x 43mm
+- Driver: 1.5" full-range with dual passive radiators
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 89db
 - Party Mode: Yes (broadcast mode)
-- Power Bank: No
+- Power Bank: Yes (10W reverse USB-C charging)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes

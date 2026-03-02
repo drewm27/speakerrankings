@@ -15,6 +15,7 @@ The Soundcore Mini 3 Pro ranks [#6 out of 41 total Small Size Portable Bluetooth
 - Bass Extension (-10dB): 58hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
@@ -24,6 +25,7 @@ The Soundcore Mini 3 Pro ranks [#6 out of 41 total Small Size Portable Bluetooth
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
+- Wattage: 6W
 - Weight: 0.55lbs / 249g
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)

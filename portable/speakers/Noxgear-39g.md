@@ -16,6 +16,7 @@ The Noxgear 39g ranks [#40 out of 41 total Small Size Portable Bluetooth Speaker
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Charging Time: 3 hours
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No

@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Expert rankings of 365 Bluetooth speakers by price. Detailed specs, sound samples & EQ settings. Budget to premium picks from $23."
 ---
 
-**Looking for the best budget Bluetooth speaker for sound quality?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: February 28, 2026.**
+**Looking for the best budget Bluetooth speaker for sound quality?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 02, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -31,14 +31,19 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bass Extension (-10dB): 68hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that)
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 129 x 90 x 44mm
+- Driver: 43.5mm
 - EQ: Yes
+- Frequency Response: 80Hz - 20kHz
 - IP Rating: IPX8
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Wattage: 10W
 - Weight: 0.55lbs / 248g
 - Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
