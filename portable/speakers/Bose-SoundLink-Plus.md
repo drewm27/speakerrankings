@@ -13,7 +13,9 @@ The Bose SoundLink Plus ranks [#21 out of 73 total Large Size Portable Bluetooth
 - Aux Input: No
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 9.1" x 3.9" x 3.4" (231 x 99 x 86mm)
 - EQ: No
 - IP Rating: IP67
 - Party Mode: Yes (up to 2 speakers)

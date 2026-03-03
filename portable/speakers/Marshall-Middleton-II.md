@@ -15,10 +15,15 @@ The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetoo
 - Bass Extension (-10dB): 38hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 9.1" x 3.9" x 4.3" (230 x 98 x 110mm)
+- Driver: 2x 75mm woofers, 2x 0.625" tweeters + 2x passive radiators
 - EQ: Yes (5 band)
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: Yes (Marshall Stack)
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

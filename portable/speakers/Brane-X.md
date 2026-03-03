@@ -18,10 +18,14 @@ The Brane X ranks [#3 out of 73 total Large Size Portable Bluetooth Speakers](/p
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: Yes
+- Dimensions: 9.3" x 7.0" x 6.1" (236 x 178 x 155mm)
+- Driver: 2x 2.5" midrange, 2x 0.75" tweeters + 6.5"x9" subwoofer
 - EQ: No
+- Frequency Response: 30Hz - 20kHz
 - IP Rating: IP57
 - Max Volume: 106db
 - Party Mode: Yes (Up to 8 speakers on wifi)
+- Power: 200W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes

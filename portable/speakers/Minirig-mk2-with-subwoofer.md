@@ -16,9 +16,13 @@ The Minirig mk2 with subwoofer ranks [#6 out of 73 total Large Size Portable Blu
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 4.0" diameter x 8.6" H (101.6 x 219mm)
+- Driver: 74mm custom driver
 - EQ: Yes
+- Frequency Response: 48Hz - 120Hz
 - IP Rating: Splash resistant
 - Party Mode: No
+- Power: 40W
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No

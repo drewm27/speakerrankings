@@ -14,11 +14,15 @@ The Soundcore Select Pro ranks [#14 out of 73 total Large Size Portable Bluetoot
 - Aux Input: No
 - Battery Life: 16 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 13.6" x 5.8" x 7.9" (346 x 148 x 200mm)
+- Driver: 2x 2.75" fullrange + 2x 2.5" passive radiators
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 106db
 - Party Mode: Yes (Partycast up to 100 speakers)
+- Power: 30W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

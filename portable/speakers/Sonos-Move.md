@@ -15,7 +15,10 @@ The Sonos Move ranks [#25 out of 73 total Large Size Portable Bluetooth Speakers
 - Bass Extension (-10dB): 49hz
 - Battery Life: 11 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 9.4" x 6.3" x 5.0" (240 x 160 x 126mm)
+- Driver: mid-woofer, downward-firing tweeter
 - EQ: No
 - IP Rating: IP56
 - Max Volume: 92db

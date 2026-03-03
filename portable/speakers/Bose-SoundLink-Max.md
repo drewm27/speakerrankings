@@ -16,7 +16,10 @@ The Bose SoundLink Max ranks [#16 out of 73 total Large Size Portable Bluetooth 
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 116ms
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 10.4" x 4.7" x 4.1" (264.7 x 120.1 x 104.9mm)
+- Driver: 3-transducer Bose Articulated Array
 - EQ: No
 - IP Rating: IP67
 - Party Mode: No

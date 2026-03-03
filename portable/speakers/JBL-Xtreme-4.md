@@ -15,11 +15,16 @@ The JBL Xtreme 4 ranks [#35 out of 73 total Large Size Portable Bluetooth Speake
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 220ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 11.7" x 5.9" x 5.6" (297 x 149 x 141mm)
+- Driver: 2x 70mm woofers, 2x 19mm tweeters + 2x passive radiators
 - EQ: Yes (5 band)
+- Frequency Response: 44Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 106db
 - Party Mode: Yes (Auracast)
+- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Removable Battery: Yes

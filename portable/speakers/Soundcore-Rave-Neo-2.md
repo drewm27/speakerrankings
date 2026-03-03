@@ -15,11 +15,15 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - Bass Extension (-10dB): 44hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 7.8" x 6.1" x 11.8" (198 x 154 x 299mm)
+- Driver: 4" woofer, 2x 2" tweeters
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 107db
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)

@@ -16,12 +16,17 @@ The Mifa Wildbox ranks [#8 out of 73 total Large Size Portable Bluetooth Speaker
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 185ms
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 11.5" x 6.5" x 4.8" (293 x 165.8 x 121.8mm)
+- Driver: 2x 70mm woofers, 2x 20mm tweeters
 - EQ: No
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 106db
 - MicroSD: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
+- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

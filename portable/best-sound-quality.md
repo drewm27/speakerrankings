@@ -195,11 +195,16 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
+- Frequency Response: 43Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 108db
 - Party Mode: No
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -232,12 +237,17 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102mm)
+- Driver: 120mm x 90mm woofer, 2x 20mm tweeters
 - EQ: Yes
+- Frequency Response: 45Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 105db
 - MicroSD: No
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)

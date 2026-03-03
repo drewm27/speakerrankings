@@ -14,8 +14,12 @@ The Vifa Oslo ranks [#7 out of 73 total Large Size Portable Bluetooth Speakers](
 - Bass Extension (-10dB): 50hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: aptX, SBC
+- Bluetooth Version: 4.1
 - Built in Microphone: Yes
+- Dimensions: 10.6" x 7.1" x 3.5" (268 x 181 x 90mm)
+- Driver: 2x 50mm fullrange, 2x 80mm woofers + passive radiators
 - EQ: No
+- Frequency Response: 55Hz - 20kHz
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No

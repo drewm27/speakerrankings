@@ -18,11 +18,16 @@ The Tribit Stormbox Lava ranks [#2 out of 73 total Large Size Portable Bluetooth
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
+- Frequency Response: 43Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 108db
 - Party Mode: No
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

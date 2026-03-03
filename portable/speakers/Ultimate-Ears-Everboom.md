@@ -14,10 +14,14 @@ The Ultimate Ears Everboom ranks [#30 out of 73 total Large Size Portable Blueto
 - Aux Input: Yes
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 8.1" x 3.3" x 4.3" (205 x 85 x 110mm)
+- Driver: 2x 56.6mm x 56.2mm fullrange transducers + 2x passive radiators
 - EQ: Yes
 - IP Rating: IP67
 - Party Mode: Yes
+- Power: 14W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

@@ -106,11 +106,16 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Battery Life: 24 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
+- Frequency Response: 43Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 108db
 - Party Mode: No
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -295,11 +300,16 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 7.1" x 6.3" x 2.8" (180 x 161 x 70mm)
+- Driver: 3" woofer, 2x 2" fullrange tweeters
 - EQ: No
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IPX4
 - Max Volume: 96db
 - Party Mode: No
+- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

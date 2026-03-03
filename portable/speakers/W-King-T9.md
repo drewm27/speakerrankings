@@ -14,12 +14,14 @@ The W-King T9 ranks [#36 out of 73 total Large Size Portable Bluetooth Speakers]
 - Bass Extension (-10dB): 47hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: None
 - Max Volume: 106db
 - MicroSD: Yes
 - Party Mode: No
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

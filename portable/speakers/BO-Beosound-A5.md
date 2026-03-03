@@ -12,11 +12,16 @@ The B&O Beosound A5 ranks [#11 out of 73 total Large Size Portable Bluetooth Spe
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 11.2" x 7.4" x 5.1" (285 x 187 x 130mm)
+- Driver: 5.25" woofer, 2x 2" fullrange, 0.8" tweeter
 - EQ: No
+- Frequency Response: 32Hz - 23kHz
 - IP Rating: IP65
 - Max Volume: 101db
 - Party Mode: Yes (Mozart 2.0)
+- Power: 280W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

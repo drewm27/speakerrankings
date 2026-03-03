@@ -16,11 +16,16 @@ The JBL Xtreme 3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
+- Bluetooth Version: 4.1
 - Built in Microphone: Yes
+- Dimensions: 11.7" x 5.4" x 5.3" (298 x 136 x 134mm)
+- Driver: 2x 70mm woofers, 2x 20mm tweeters
 - EQ: No
+- Frequency Response: 53.5Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 105db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

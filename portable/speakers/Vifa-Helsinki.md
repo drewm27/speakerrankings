@@ -15,8 +15,12 @@ The Vifa Helsinki ranks [#1 out of 73 total Large Size Portable Bluetooth Speake
 - Bass Extension (-10dB): 48hz
 - Battery Life: 8 hours
 - Bluetooth Codecs: aptX, SBC
+- Bluetooth Version: 4.1
 - Built in Microphone: Yes
+- Dimensions: 6.1" x 8.3" x 2.8" (156 x 210 x 70mm)
+- Driver: 2x 50mm fullrange, 2x 66mm woofers + 2x passive radiators
 - EQ: No
+- Frequency Response: 58Hz - 18kHz
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No

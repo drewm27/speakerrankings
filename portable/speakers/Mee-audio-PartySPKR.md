@@ -14,10 +14,14 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 - Bass Extension (-10dB): ~50hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.5" x 6.0" x 14.5" (191 x 152 x 368mm)
+- Driver: 2x woofers, 2x tweeters + 2x passive radiators
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
 - IP Rating: IPX6
 - Party Mode: Yes
+- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
