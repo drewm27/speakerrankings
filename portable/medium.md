@@ -1071,9 +1071,14 @@ Last updated: March 03, 2026
 ## #37 [Fugoo Sport](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325)]: $33
 - Positives: Pretty neutral sound, slight upper mids peaks
 - Battery Life: 10 hours
+- Bluetooth Version: 5.0
+- Dimensions: 7.5" x 3.0" x 2.5" (190 x 76 x 64mm)
+- Driver: 2x 28mm tweeters, 2x 39mm midwoofers + 2x passive radiators
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67
 - Stereo: Yes
 - TWS: Yes
+- Weight: 0.85lbs / 386g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 - Links
@@ -1085,8 +1090,13 @@ Last updated: March 03, 2026
 - App: Yes
 - Aux Input: No
 - Battery Life: 12 hours
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 8.1" x 3.0" x 3.0" (206 x 77 x 76mm)
+- Driver: 83mm x 42mm woofer, 16mm tweeter + passive radiator
 - EQ: Yes
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: No
@@ -1120,12 +1130,19 @@ Last updated: March 03, 2026
 - Aux Input: No
 - Bass Extension (-10dB): 65hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: AAC, LDAC, SBC
+- Bluetooth Version: 5.3
+- Dimensions: 7.5" x 3.1" x 2.4" (190 x 80 x 60mm)
+- Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes
+- Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
+- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1.3lbs / 575g
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Motion 100 - first impressions](https://www.patreon.com/posts/soundcore-motion-94092689)
 - Links
@@ -1134,11 +1151,18 @@ Last updated: March 03, 2026
 
 ## #41 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325)]: $90
 - Negatives: Bottom woofer was fixed in a later firmware, upgrade for best sound. Peaky mids, highs rolled off. Not technically a 360 speaker, only front and rear.
+- Aux Input: Yes
 - Bass Extension (-10dB): 58hz
 - Battery Life: 24 hours
+- Bluetooth Codecs: aptX
+- Bluetooth Version: 5.3
+- Dimensions: 3.8" x 3.8" x 7.1" (96 x 96 x 180mm)
+- Driver: 76mm subwoofer, 2x 40mm full-range drivers + 2x passive radiators
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 99db
 - Party Mode: No
+- Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -1158,10 +1182,15 @@ Last updated: March 03, 2026
 - Negatives: Boosted bass. Somewhat uncontrolled in the bass at high levels
 - App: No
 - Battery Life: 12 hours
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 7.7" x 2.7" x 2.6" (196.6 x 68 x 66mm)
+- Driver: 20W woofer, 10W tweeter + 2x passive radiators
 - EQ: No
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: Yes up to 100 speakers
+- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -1179,9 +1208,16 @@ Last updated: March 03, 2026
 - App: Yes
 - Bass Extension (-10dB): ~58hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
+- Dimensions: 4.2" x 8.4" x 5.2" (107 x 214 x 131mm)
+- Driver: 64mm woofer, 16mm tweeter
 - EQ: Yes
+- Frequency Response: 58Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power: 40W
+- Power Input: USB-C
 - Stereo: No
 - Weight: 3.2lbs / 1500g
 - Reviews, Comparisons and Sound Samples
@@ -1193,9 +1229,24 @@ Last updated: March 03, 2026
 
 ## #44 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837387-REG/soundcore_by_anker_a3166z11_glow_portable_speaker.html?BI=23745&KBID=29189)]: $80
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
+- App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 54hz
+- Battery Life: 18 hours
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.3
+- Dimensions: 11.4" x 4.7" x 4.3" (290 x 120 x 110mm)
+- Driver: 63.5mm full-range driver + 2x passive radiators
+- EQ: Yes
+- Frequency Response: 20Hz - 20kHz
+- IP Rating: IP67
 - Max Volume: 100db
+- Party Mode: Yes (PartyBoost)
+- Power: 30W
+- Power Input: USB-C
 - Stereo: No
+- TWS: Yes
+- Weight: 1.8lbs / 800g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
 - Links
@@ -1207,10 +1258,16 @@ Last updated: March 03, 2026
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 24 hours
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 3.3" diameter x 8.4" H (83 x 214mm)
+- Driver: 52mm x 91mm woofer, 2x 25mm tweeters + 2x passive radiators
 - EQ: Yes
+- Frequency Response: 100Hz - 18kHz
 - IP Rating: IP67
 - MicroSD: Yes
+- Power: 40W
+- Power Input: USB-C
 - Stereo: No
 - TWS: No
 - Reviews, Comparisons and Sound Samples

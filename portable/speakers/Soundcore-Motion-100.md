@@ -14,12 +14,19 @@ The Soundcore Motion 100 ranks [#40 out of 131 total Medium Size Portable Blueto
 - Aux Input: No
 - Bass Extension (-10dB): 65hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: AAC, LDAC, SBC
+- Bluetooth Version: 5.3
+- Dimensions: 7.5" x 3.1" x 2.4" (190 x 80 x 60mm)
+- Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes
+- Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
+- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1.3lbs / 575g
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Motion 100 - first impressions](https://www.patreon.com/posts/soundcore-motion-94092689)
 - Links
