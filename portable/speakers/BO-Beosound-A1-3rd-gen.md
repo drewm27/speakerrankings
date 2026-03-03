@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The B&O Beosound A1 3rd gen ranks #18 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beosound A1 3rd gen ranks [#18 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#18-bo-beosound-a1-3rd-gen-amazon) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beosound A1 3rd gen ranks [#18 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#18-bo-beosound-a1-3rd-gen-amazon-bhphotovideo) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #18 [B&O Beosound A1 3rd gen](https://www.amazon.com/Bang-Olufsen-Waterproof-Bluetooth-Microphones/dp/B0F8QR1Z4G?th=1&linkCode=ll2&tag=rankingspea01-20&linkId=dad3318993c97f4aacafc60be9b965de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bang-Olufsen-Waterproof-Bluetooth-Microphones/dp/B0F8QR1Z4G?th=1&linkCode=ll2&tag=rankingspea01-20&linkId=dad3318993c97f4aacafc60be9b965de&language=en_US&ref_=as_li_ss_tl)]
+## #18 [B&O Beosound A1 3rd gen](https://www.amazon.com/Bang-Olufsen-Waterproof-Bluetooth-Microphones/dp/B0F8QR1Z4G?th=1&linkCode=ll2&tag=rankingspea01-20&linkId=dad3318993c97f4aacafc60be9b965de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bang-Olufsen-Waterproof-Bluetooth-Microphones/dp/B0F8QR1Z4G?th=1&linkCode=ll2&tag=rankingspea01-20&linkId=dad3318993c97f4aacafc60be9b965de&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1896041-REG/bang_olufsen_1736002_a1_portable_bluetooth_speaker.html?BI=23745&KBID=29189)]
 - Negatives: Distorts easier than the 2nd gen with deeper bass. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
 - App: Yes
 - Aux Input: No
