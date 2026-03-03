@@ -16,6 +16,7 @@ The Electro-Voice Everse 12 ranks [#7 out of 43 total Party Size Portable Blueto
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 345 x 597 x 347 mm
+- Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
 - Max Volume: 126db
@@ -26,11 +27,9 @@ The Electro-Voice Everse 12 ranks [#7 out of 43 total Party Size Portable Blueto
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
-- Tweeter: 1" compression driver
 - USB Playback: No
 - Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
-- Woofer: 12"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)

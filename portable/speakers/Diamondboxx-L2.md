@@ -15,6 +15,7 @@ The Diamondboxx L2 ranks [#30 out of 43 total Party Size Portable Bluetooth Spea
 - Bluetooth Version: 4.2
 - Charging Time: 9 hours
 - Dimensions: 23" x 14.5" x 9.5"
+- Driver: 5.5" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 40Hz - 22kHz
 - IP Rating: None
@@ -23,11 +24,9 @@ The Diamondboxx L2 ranks [#30 out of 43 total Party Size Portable Bluetooth Spea
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1"
 - USB Playback: No
 - Wattage: 260W RMS
 - Weight: 25lbs / 11kg
-- Woofer: 5.5"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
     - <https://www.youtube.com/watch?v=epgx0THKpL8>

@@ -14,6 +14,7 @@ The JBL Eon One Compact ranks [#28 out of 43 total Party Size Portable Bluetooth
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Dimensions: 11.46" x 10.04" x 15.71"
+- Driver: 8" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 37.5Hz - 20kHz
 - IP Rating: None
@@ -21,10 +22,8 @@ The JBL Eon One Compact ranks [#28 out of 43 total Party Size Portable Bluetooth
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1"
 - USB Playback: No
 - Weight: 17.6lbs / 8kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
     - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)

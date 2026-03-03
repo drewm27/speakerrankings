@@ -17,6 +17,7 @@ The Soundboks Go ranks [#25 out of 43 total Party Size Portable Bluetooth Speake
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 18" x 12" x 10"
+- Driver: 10" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 40Hz - 20kHz
 - IP Rating: None
@@ -27,11 +28,9 @@ The Soundboks Go ranks [#25 out of 43 total Party Size Portable Bluetooth Speake
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1"
 - USB Playback: No
 - Wattage: 2 x 72W
 - Weight: 20lbs / 9kg
-- Woofer: 10"
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)

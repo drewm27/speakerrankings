@@ -28,6 +28,7 @@ Last updated: March 02, 2026
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
+- Driver: 2x 6.5" woofers, 2x 25mm tweeters
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -38,11 +39,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: Partially
 - TWS: Yes
-- Tweeter: 2x 25mm
 - USB Playback: Yes
 - Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
-- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
     - [Oluv: JBL Partybox 320 vs 520 - outdoor test](https://www.patreon.com/posts/jbl-partybox-320-149600365)
@@ -99,6 +98,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Charging Time: 3.5 hours
+- Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (5 band)
 - Frequency Response: 40Hz - 20kHz
 - Guitar Input: Yes
@@ -110,11 +110,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: Partially
 - TWS: Yes
-- Tweeter: 2x 2.25"
 - USB Playback: Yes
 - Wattage: 160W
 - Weight: 24lbs / 10.8kg
-- Woofer: 2x 5.25"
 - Reviews, Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
     - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)
@@ -178,6 +176,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Charging Time: 3.5 hours
+- Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -187,11 +186,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Partially
 - TWS: Yes
-- Tweeter: 2x 2.25"
 - USB Playback: Yes
 - Wattage: 160W
 - Weight: 24lbs / 10.8kg
-- Woofer: 2x 5.25"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
@@ -248,6 +245,7 @@ Last updated: March 02, 2026
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 345 x 597 x 347 mm
+- Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
 - Max Volume: 126db
@@ -258,11 +256,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
-- Tweeter: 1" compression driver
 - USB Playback: No
 - Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
-- Woofer: 12"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
@@ -310,6 +306,7 @@ Last updated: March 02, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 400 x 275 x 272 mm
+- Driver: 8" woofer, 1" tweeter
 - EQ: Yes
 - IP Rating: IP43
 - Max Volume: 121db
@@ -320,11 +317,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
-- Tweeter: 1"
 - USB Playback: No
 - Wattage: 400W
 - Weight: 17lbs / 8kg
-- Woofer: 8"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [briansredd: Electro-Voice Everse 8 VS Bose S1 Pro - Side By Side Shoot-Out (Attempt)](https://www.youtube.com/watch?v=bxW813jlJKc)
@@ -496,17 +491,16 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.1
 - Dimensions: 27.6" x 12.2" x 12.4"
+- Driver: 8" woofer, 2x 2.5" tweeters
 - EQ: Yes
 - IP Rating: IPX4
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 2.5"
 - USB Playback: No
 - Wattage: 250W
 - Weight: 34.2lbs / 15.5kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
     - [Jay's Straight Up Reviews & More: LG XL7 vs JBL Partybox 310 🏠 Indoor Bluetooth Party Speaker Battle. Plugged in🔌](https://www.youtube.com/watch?v=Y_G5In55vY4)
@@ -550,6 +544,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 329 x 665 x 301 mm
+- Driver: 2x 6.5" woofers, 2x 2.5" tweeters
 - EQ: Yes
 - IP Rating: IPX5
 - Microphone Input: Yes
@@ -558,11 +553,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 2.5"
 - USB Playback: Yes
 - Wattage: 240W (AC) / 90W (battery)
 - Weight: 26.3lbs / 11.9kg
-- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [HQ AUDIO Exchange: Samsung MX-ST50B vs. JBL Partybox 110 Bass Test!🔥](https://www.youtube.com/watch?v=_Q1i3cG092I)
 - Links
@@ -577,6 +570,7 @@ Last updated: March 02, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Dimensions: 457 x 230 x 285 mm
+- Driver: 8" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: None
 - Max Volume: 115db
@@ -585,11 +579,9 @@ Last updated: March 02, 2026
 - Power Bank: No
 - Stereo: No
 - TWS: No
-- Tweeter: 1" compression driver
 - USB Playback: No
 - Wattage: 200W
 - Weight: 17.6lbs / 8kg
-- Woofer: 8"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [W. Weiss: Part 3 Sound Demonstration The New EV Everse 8 compared to The Mackie Thump Go](https://www.youtube.com/watch?v=8HESRrKdGto)
@@ -611,6 +603,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 41 x 25 x 19 cm
+- Driver: 2x 5" woofers, 1" tweeter
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
@@ -622,11 +615,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1"
 - USB Playback: No
 - Wattage: 2 x 73W
 - Weight: 17.4lbs / 7.9kg
-- Woofer: 2x 5"
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
@@ -669,6 +660,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 25.6" x 17" x 13"
+- Driver: 2x 10" woofers, 1" compression driver
 - EQ: Yes
 - Frequency Response: 40Hz - 20kHz
 - Guitar Input: Yes
@@ -682,11 +674,9 @@ Last updated: March 02, 2026
 - SKAA: Yes
 - Stereo: Yes
 - TWS: Yes
-- Tweeter: 1" compression driver
 - USB Playback: No
 - Wattage: 3 x 72W
 - Weight: 34lbs / 15.4kg
-- Woofer: 2x 10"
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)
@@ -734,6 +724,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Charging Time: 3.5 hours
+- Driver: 2x 10" woofers, 1" silk dome tweeter
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
@@ -745,11 +736,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1" silk dome
 - USB Playback: No
 - Wattage: 3 x 72W
 - Weight: 33lbs / 15kg
-- Woofer: 2x 10"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>
@@ -770,18 +759,16 @@ Last updated: March 02, 2026
 - Bluetooth Version: 5.0
 - Charging Time: 2.6 hours
 - Dimensions: 190 x 190 x 364 mm
+- Driver: 2x 5.66" woofers, 2x 0.98" tweeters, passive radiators
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (PartyUp up to 50 speakers)
-- Passive Radiators: Yes
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 0.98"
 - USB Playback: No
 - Weight: 13lbs / 5.9kg
-- Woofer: 2x 5.66"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
@@ -800,6 +787,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 18" x 12" x 10"
+- Driver: 10" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 40Hz - 20kHz
 - IP Rating: None
@@ -810,11 +798,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1"
 - USB Playback: No
 - Wattage: 2 x 72W
 - Weight: 20lbs / 9kg
-- Woofer: 10"
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=8K3aTVKL3LE)
@@ -834,6 +820,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 65 x 40 x 30 cm
+- Driver: 2x 10" woofers, 1" compression tweeter
 - EQ: No
 - IP Rating: None
 - Max Volume: 125db
@@ -842,11 +829,9 @@ Last updated: March 02, 2026
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1" compression
 - USB Playback: No
 - Wattage: 3 x 73W
 - Weight: 44.7lbs / 19.8kg
-- Woofer: 2x 10"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S10 - first impressions](https://www.patreon.com/posts/audiocase-s10-92786890)
@@ -863,6 +848,7 @@ Last updated: March 02, 2026
 - Bluetooth Version: 5.3
 - Charging Time: 4 hours
 - Dimensions: 274 x 255.7 x 535.5 mm
+- Driver: 2x 6.5" woofers, 2x 2.5" tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: None
@@ -870,11 +856,9 @@ Last updated: March 02, 2026
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 2.5"
 - USB Playback: Yes
 - Wattage: 250W (peak)
 - Weight: 19.9lbs / 9.05kg
-- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
 - Links
@@ -888,6 +872,7 @@ Last updated: March 02, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Dimensions: 11.46" x 10.04" x 15.71"
+- Driver: 8" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 37.5Hz - 20kHz
 - IP Rating: None
@@ -895,10 +880,8 @@ Last updated: March 02, 2026
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1"
 - USB Playback: No
 - Weight: 17.6lbs / 8kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
     - [Precision Drive Audio: Music test for BOSE S1 PRO& PD K8 & JBL EON ONE COMPACT](https://www.youtube.com/watch?v=DVJv6aMCY2U)
@@ -916,6 +899,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Dimensions: 16.2 x 32.7 cm
+- Driver: 4" woofer, 1.5" full-range driver
 - EQ: No
 - Frequency Response: 35Hz - 24.3kHz
 - IP Rating: None
@@ -925,10 +909,8 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1.5"
 - USB Playback: No
 - Weight: 7.7lbs / 3.5kg
-- Woofer: 4"
 - Reviews, Comparisons and Sound Samples
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
@@ -944,6 +926,7 @@ Last updated: March 02, 2026
 - Bluetooth Version: 4.2
 - Charging Time: 9 hours
 - Dimensions: 23" x 14.5" x 9.5"
+- Driver: 5.5" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 40Hz - 22kHz
 - IP Rating: None
@@ -952,11 +935,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1"
 - USB Playback: No
 - Wattage: 260W RMS
 - Weight: 25lbs / 11kg
-- Woofer: 5.5"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
     - <https://www.youtube.com/watch?v=epgx0THKpL8>
@@ -973,6 +954,7 @@ Last updated: March 02, 2026
 - Battery Life: 4 hours
 - Bluetooth Codecs: SBC
 - Dimensions: 300 x 568 x 301 mm
+- Driver: 10" woofer, 1" compression driver
 - EQ: No
 - Frequency Response: 62Hz - 20kHz
 - IP Rating: None
@@ -981,11 +963,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1" compression driver
 - USB Playback: No
 - Wattage: 190W (peak)
 - Weight: 27lbs / 12.5kg
-- Woofer: 10"
 - Reviews, Comparisons and Sound Samples
     - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)
     - [DTA AUDIO: dB Technologies B·Hype M, loa đến từ Italia. Mang lại sự an toàn cho những buổi hội thảo quan trọng.](https://www.youtube.com/watch?v=GTqpcjfd3Fo)
@@ -1026,6 +1006,7 @@ Last updated: March 02, 2026
 - Battery Life: 14 hours
 - Bluetooth Codecs: SBC
 - Dimensions: 268 x 556 x 285 mm
+- Driver: 2x 5.25" woofers, 2x 2" tweeters
 - EQ: No
 - IP Rating: None
 - Party Mode: No
@@ -1033,11 +1014,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 2"
 - USB Playback: No
 - Wattage: 80W RMS
 - Weight: 17lbs / 7.7kg
-- Woofer: 2x 5.25"
 - Reviews, Comparisons and Sound Samples
     - [Audio Mix7: Philips Tanx 200 Review - sound Test -jbl partybox alternative ? Vs Jbl Boombox (eng sub)](https://www.youtube.com/watch?v=O6SWv8lnpCI)
     - [Jay's Straight Up Reviews & More: PHILIPS NX200 🦨 (TANX200) 🆚 JBL PARTYBOX 110 - Bluetooth Speaker Comparison, Both on Bass mode One.](https://www.youtube.com/watch?v=rMX9Y-OpNoc)
@@ -1054,6 +1033,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 285 x 585 x 303 mm
+- Driver: 20cm woofer, 2x 6cm tweeters
 - EQ: No
 - Frequency Response: 100Hz - 20kHz
 - IP Rating: None
@@ -1062,11 +1042,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 6cm
 - USB Playback: No
 - Wattage: 150W RMS
 - Weight: 22.5lbs / 10.2kg
-- Woofer: 20cm
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
 - Links
@@ -1081,6 +1059,7 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): ~57hz
 - Bluetooth Codecs: SBC
 - Dimensions: 475 x 250 x 265 mm
+- Driver: 160mm woofer, 50mm tweeter
 - EQ: No
 - IP Rating: None
 - Party Mode: No
@@ -1088,11 +1067,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 50mm
 - USB Playback: No
 - Wattage: 150W RMS
 - Weight: 14.3lbs / 6.5kg
-- Woofer: 160mm
 - Reviews, Comparisons and Sound Samples
     - [JARA MIKE: Panasonic  SC- TMAX5 ♫](https://www.youtube.com/watch?v=_jlJnhPyALs)
     - [JARA MIKE: Panasonic 🔴 SC- TMAX5 ♫ .150 W RMS](https://www.youtube.com/watch?v=dXoD0Yv_iLM)
@@ -1108,6 +1085,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 260 x 280 x 560 mm
+- Driver: 2x 6.5" woofers, 2x 2" tweeters
 - EQ: No
 - IP Rating: None
 - Party Mode: No
@@ -1115,11 +1093,9 @@ Last updated: March 02, 2026
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 2"
 - USB Playback: No
 - Wattage: 50W RMS
 - Weight: 19lbs / 8.6kg
-- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Technotin: Power Audio Sharp PS-929   7day experience](https://www.youtube.com/watch?v=uiRxrnvyvCw)
 - Links

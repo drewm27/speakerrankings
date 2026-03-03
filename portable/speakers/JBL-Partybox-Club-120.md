@@ -16,6 +16,7 @@ The JBL Partybox Club 120 ranks [#3 out of 43 total Party Size Portable Bluetoot
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Charging Time: 3.5 hours
+- Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (5 band)
 - Frequency Response: 40Hz - 20kHz
 - Guitar Input: Yes
@@ -27,11 +28,9 @@ The JBL Partybox Club 120 ranks [#3 out of 43 total Party Size Portable Bluetoot
 - Removable Battery: Yes
 - Stereo: Partially
 - TWS: Yes
-- Tweeter: 2x 2.25"
 - USB Playback: Yes
 - Wattage: 160W
 - Weight: 24lbs / 10.8kg
-- Woofer: 2x 5.25"
 - Reviews, Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
     - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)

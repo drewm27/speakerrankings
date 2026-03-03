@@ -16,6 +16,7 @@ The Electro-Voice Everse 8 ranks [#9 out of 43 total Party Size Portable Bluetoo
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 400 x 275 x 272 mm
+- Driver: 8" woofer, 1" tweeter
 - EQ: Yes
 - IP Rating: IP43
 - Max Volume: 121db
@@ -26,11 +27,9 @@ The Electro-Voice Everse 8 ranks [#9 out of 43 total Party Size Portable Bluetoo
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
-- Tweeter: 1"
 - USB Playback: No
 - Wattage: 400W
 - Weight: 17lbs / 8kg
-- Woofer: 8"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [briansredd: Electro-Voice Everse 8 VS Bose S1 Pro - Side By Side Shoot-Out (Attempt)](https://www.youtube.com/watch?v=bxW813jlJKc)

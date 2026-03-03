@@ -18,6 +18,7 @@ The Vifa City ranks [#8 out of 41 total Small Size Portable Bluetooth Speakers](
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 105mm diameter x 39mm height
+- Driver: 15mm tweeter, 65mm woofer
 - EQ: No
 - Frequency Response: 78Hz - 20kHz
 - IP Rating: IPX4
@@ -27,9 +28,7 @@ The Vifa City ranks [#8 out of 41 total Small Size Portable Bluetooth Speakers](
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Tweeter: 15mm
 - Weight: 0.66lbs / 300g
-- Woofer: 65mm
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links

@@ -15,6 +15,7 @@ The Sharp PS-929 ranks [#36 out of 43 total Party Size Portable Bluetooth Speake
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 260 x 280 x 560 mm
+- Driver: 2x 6.5" woofers, 2x 2" tweeters
 - EQ: No
 - IP Rating: None
 - Party Mode: No
@@ -22,11 +23,9 @@ The Sharp PS-929 ranks [#36 out of 43 total Party Size Portable Bluetooth Speake
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 2"
 - USB Playback: No
 - Wattage: 50W RMS
 - Weight: 19lbs / 8.6kg
-- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Technotin: Power Audio Sharp PS-929   7day experience](https://www.youtube.com/watch?v=uiRxrnvyvCw)
 - Links

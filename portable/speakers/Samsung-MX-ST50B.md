@@ -16,6 +16,7 @@ The Samsung MX-ST50B ranks [#17 out of 43 total Party Size Portable Bluetooth Sp
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 329 x 665 x 301 mm
+- Driver: 2x 6.5" woofers, 2x 2.5" tweeters
 - EQ: Yes
 - IP Rating: IPX5
 - Microphone Input: Yes
@@ -24,11 +25,9 @@ The Samsung MX-ST50B ranks [#17 out of 43 total Party Size Portable Bluetooth Sp
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 2.5"
 - USB Playback: Yes
 - Wattage: 240W (AC) / 90W (battery)
 - Weight: 26.3lbs / 11.9kg
-- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [HQ AUDIO Exchange: Samsung MX-ST50B vs. JBL Partybox 110 Bass Test!🔥](https://www.youtube.com/watch?v=_Q1i3cG092I)
 - Links

@@ -16,6 +16,7 @@ The B&O Beosound 1 ranks [#29 out of 43 total Party Size Portable Bluetooth Spea
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Dimensions: 16.2 x 32.7 cm
+- Driver: 4" woofer, 1.5" full-range driver
 - EQ: No
 - Frequency Response: 35Hz - 24.3kHz
 - IP Rating: None
@@ -25,10 +26,8 @@ The B&O Beosound 1 ranks [#29 out of 43 total Party Size Portable Bluetooth Spea
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1.5"
 - USB Playback: No
 - Weight: 7.7lbs / 3.5kg
-- Woofer: 4"
 - Reviews, Comparisons and Sound Samples
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)

@@ -17,6 +17,7 @@ The B&O Beoplay P2 ranks [#14 out of 41 total Small Size Portable Bluetooth Spea
 - Built in Microphone: Yes
 - Charging Time: 2 hours
 - Dimensions: 140 x 80 x 28mm
+- Driver: 51mm full-range and 19mm tweeter
 - EQ: Yes
 - IP Rating: None
 - Party Mode: No
@@ -24,9 +25,7 @@ The B&O Beoplay P2 ranks [#14 out of 41 total Small Size Portable Bluetooth Spea
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Tweeter: 19mm
 - Weight: 0.61lbs / 275g
-- Woofer: 51mm
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links

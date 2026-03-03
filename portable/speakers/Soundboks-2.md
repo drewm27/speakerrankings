@@ -15,6 +15,7 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Charging Time: 3.5 hours
+- Driver: 2x 10" woofers, 1" silk dome tweeter
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
@@ -26,11 +27,9 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
-- Tweeter: 1" silk dome
 - USB Playback: No
 - Wattage: 3 x 72W
 - Weight: 33lbs / 15kg
-- Woofer: 2x 10"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
     - <https://www.youtube.com/watch?v=XUtF2BVCSZA>

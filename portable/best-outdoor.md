@@ -215,6 +215,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
+- Driver: 2x 6.5" woofers, 2x 25mm tweeters
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -225,11 +226,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Removable Battery: Yes
 - Stereo: Partially
 - TWS: Yes
-- Tweeter: 2x 25mm
 - USB Playback: Yes
 - Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
-- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
     - [Oluv: JBL Partybox 320 vs 520 - outdoor test](https://www.patreon.com/posts/jbl-partybox-320-149600365)
@@ -323,6 +322,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 345 x 597 x 347 mm
+- Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
 - Max Volume: 126db
@@ -333,11 +333,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
-- Tweeter: 1" compression driver
 - USB Playback: No
 - Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
-- Woofer: 12"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)

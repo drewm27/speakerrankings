@@ -17,6 +17,7 @@ The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Charging Time: 3.5 hours
+- Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -26,11 +27,9 @@ The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Spe
 - Power Input: AC Power cord
 - Stereo: Partially
 - TWS: Yes
-- Tweeter: 2x 2.25"
 - USB Playback: Yes
 - Wattage: 160W
 - Weight: 24lbs / 10.8kg
-- Woofer: 2x 5.25"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
