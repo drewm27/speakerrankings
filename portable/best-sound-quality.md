@@ -312,6 +312,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Oluv: Earfun UBoom X - teaser 1](https://www.patreon.com/posts/earfun-uboom-x-1-104380759)
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
+    - [Oluv: Zealot S89 vs Yeahbox Boom Max3 - indoor listening test](https://www.patreon.com/posts/zealot-s89-vs-152136699)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)

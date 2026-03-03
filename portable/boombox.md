@@ -80,6 +80,7 @@ Last updated: March 03, 2026
     - [Oluv: Earfun UBoom X - teaser 1](https://www.patreon.com/posts/earfun-uboom-x-1-104380759)
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
+    - [Oluv: Zealot S89 vs Yeahbox Boom Max3 - indoor listening test](https://www.patreon.com/posts/zealot-s89-vs-152136699)
     - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
@@ -536,6 +537,7 @@ Last updated: March 03, 2026
 - USB Playback: Yes
 - Weight: 16lbs / 7.3kg
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: Zealot S89 vs Yeahbox Boom Max3 - indoor listening test](https://www.patreon.com/posts/zealot-s89-vs-152136699)
     - [Dominik Reviews: Zealot S89 vs JBL Boombox 4 - JBL Alternative? Sound Test ](https://www.youtube.com/watch?v=ft96mq3SKgY)
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S89!!!](https://www.youtube.com/watch?v=4wfkO78OKvk)
     - [Techder Audios: ZEALOT S89 VS ZEALOT ZE01 EXTREME POWERFULL VS COMPACTER BASS PERFORMANCE!](https://www.youtube.com/watch?v=6MkVOVJZL_w)
