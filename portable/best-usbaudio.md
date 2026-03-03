@@ -2,7 +2,7 @@
 layout: page
 title: Best Portable Bluetooth Speakers With USB Audio Input
 comments: true
-cover-img: "/assets/img/uboomx.jpg"
+cover-img: "/assets/img/boombox4.jpg"
 share-description: "Expert rankings of 365 Bluetooth speakers with Digital USB Audio input. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
