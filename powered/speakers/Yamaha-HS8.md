@@ -14,12 +14,12 @@ The Yamaha HS8 ranks [#14 out of 21 total Large Size Powered Bookshelf Speakers]
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.4"H x 9.8"W x 13.1"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 47Hz – 24kHz (-3dB)
 - Inputs: XLR
 - Watts: 120w Per Speaker
 - Weight: 22.5lbs / 10.2kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)

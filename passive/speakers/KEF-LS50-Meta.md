@@ -13,11 +13,10 @@ The KEF LS50 Meta ranks [#3 out of 20 total Medium Size Bookshelf Speakers](/pas
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 68hz
 - Dimensions: 11.9"H x 7.9"W x 11.0"D
+- Driver: 130 mm (5.25 in.) aluminium cone woofer, 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB
-- Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
 - Weight: 17.2lbs / 7.8kg each
-- Woofer: 130 mm (5.25 in.) aluminium cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Unveiling the KEF LS50 Meta: The Truth Behind the Hype](https://www.youtube.com/watch?v=RAKKVe6stCs)
     - [Erin's Audio Corner Website KEF LS50 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/)

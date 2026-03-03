@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), and [Large](/powered/bookshelf-large/) bookshelf speakers, or [Medium Desktop](/powered/desktop-medium/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -27,18 +27,25 @@ Last updated: March 02, 2026
 - Battery Life: No Battery
 - Bluetooth: Yes
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
+- Bluetooth Version: 5.0
 - DSP: No
+- Dimensions: 25.6" x 8.3" x 7.6" (650 x 210 x 194mm)
+- Driver: 150mm woofer, 2x 90mm FST midrange drivers, 2x 25mm Decoupled Double-Dome aluminium tweeters
 - EQ: No
+- Frequency Response: 35Hz - 24kHz
 - IP Rating: None
 - Party Mode: No
+- Power: 240W (80W woofer, 2x 40W midrange, 2x 40W tweeter)
 - Power Bank: No
 - Power Input: AC Power cord
+- Streaming Services: AirPlay 2, Spotify Connect
 - TWS: No
-- Weight: 14.3lbs / 6.5kg
+- Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY's 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
-    - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
+    - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
+    - [Oluv: B&W Zeppelin - listening session](https://www.patreon.com/posts/b-w-zeppelin-124926888)
 - Links
     - [Official Product Page](https://www.bowerswilkins.com/en-us/product/wireless-speakers/zeppelin/150242.html)
     - [Direct Speakerranking Link](/powered/speakers/BW-Zeppelin/)
@@ -53,23 +60,21 @@ Last updated: March 02, 2026
 - Bluetooth Version: 5.3
 - Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7mm)
 - Dolby Atmos: Yes (virtual)
+- Driver: 6.5" (down-firing subwoofer), 3x 2.75" midranges, 3x 1" (25mm aluminum dome) tweeters
 - EQ: Yes
 - Ethernet: Yes
 - Frequency Response: 40Hz - 20kHz (-6dB)
 - IP Rating: None
-- Midrange: 3x 2.75"
 - Party Mode: Yes
 - Power: 270W (Max @ THD 1%)
 - Power Supply: 100 - 240V AC, ~ 50/60Hz
 - Sound System: 3.1 channel
 - Stereo: Yes
 - Streaming Services: AirPlay 2, Chromecast, Spotify Connect, Tidal Connect, Alexa MRM
-- Tweeter: 3x 1" (25mm aluminum dome)
 - USB: Type-C (USB playback US only)
 - Voice Assistants: Amazon Alexa & Google Assistant (simultaneous)
 - Weight: 17.2lbs / 7.8kg
 - Wifi: Yes (IEEE 802.11 a/b/g/n/ac/ax, 2.4GHz/5GHz)
-- Woofer: 6.5" (down-firing subwoofer)
 - Reviews, Comparisons and Sound Samples
     - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
     - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 🙮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)

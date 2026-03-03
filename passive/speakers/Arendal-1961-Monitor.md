@@ -13,11 +13,10 @@ The Arendal 1961 Monitor ranks [#5 out of 20 total Medium Size Bookshelf Speaker
 - Bass Extension (-10dB): 64hz
 - Bass Extension (-3dB): 89hz
 - Dimensions: 16.6"H x 6.4"W x 5.9"D
+- Driver: 2 x 5,5” woofers, 28mm tweeter
 - Impedance: 4 ohms
 - Sensitivity: 86dB
-- Tweeter: 28mm
 - Weight: 16lbs / 7.3kg each
-- Woofer: 2 x 5,5”
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner Website Arendal 1961 Monitor](https://www.erinsaudiocorner.com/loudspeakers/arenda_1961_monitor/)

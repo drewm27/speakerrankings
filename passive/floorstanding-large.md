@@ -12,7 +12,7 @@ Rankings are based on flat frequency response, directivity, dynamics, imaging, a
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -21,12 +21,10 @@ Last updated: March 02, 2026
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
 - Bass Extension (-3dB): <20hz (With GR-Research open baffle subwoofers)
 - Dimensions: 85"H x 17"W x 20"D (plus a subwoofer on each side)
+- Driver: Eight 6.5" M165 open baffle woofer, Two 6.5" M165NQ open baffle midrange, GR Neo 3 Magnetic planar open baffle tweeter
 - Impedance: 8 ohms
-- Midrange: Two 6.5" M165NQ open baffle
 - Sensitivity: 94.5dB
 - Subwoofer: Three 12" Rythmik Audio servo controlled
-- Tweeter: GR Neo 3 Magnetic planar open baffle
-- Woofer: Eight 6.5" M165 open baffle
 - Woofer Cabinet: Open baffle
 - Links
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
@@ -39,12 +37,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 31hz
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Driver: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.)  aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 87dB
-- Tweeter: 25 mm (1 in.)  aluminium dome with MAT
 - Weight: 80lbs / 36kg each
-- Woofer: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Mind-Blowing Sound Quality: KEF Blade 2 Meta Review](https://www.youtube.com/watch?v=lh8D7LhlVoQ)
@@ -59,12 +55,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 38hz
 - Dimensions: 48.8"H x 15.5"W x 19.9"D
+- Driver: 10" woofer, 10" paper‑cone concentric midrange, 1.25" soft‑dome concentric tweeter
 - Impedance: 6 ohms
-- Midrange: 10" paper‑cone concentric
 - Sensitivity: 89dB
-- Tweeter: 1.25" soft‑dome concentric
 - Weight: 160lbs / 73kg
-- Woofer: 10"
 - Woofer Cabinet: Dual 10" passive rear passive radiators
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is This the Best Speaker of 2025?  MoFi SourcePoint V10 Review.](https://www.youtube.com/watch?v=0-2OWJ0RmX8)
@@ -77,12 +71,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 24hz
 - Bass Extension (-3dB): 47hz
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Driver: Dual 8” (20 cm) Aluminum Cone, Cast-frame Woofers, 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 8 ohms
-- Midrange: 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange
 - Sensitivity: 88.5dB
-- Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Weight: 80lbs / 36kg each
-- Woofer: Dual 8” (20 cm) Aluminum Cone, Cast-frame Woofers
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F208](https://www.audiosciencereview.com/forum/index.php?threads/revel-f208-tower-speaker-review.13192/)
@@ -95,12 +87,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 74hz
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
+- Driver: Three 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames woofer, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
-- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Sensitivity: 91dB
-- Tweeter: 1" (25mm) Beryllium dome, with acoustic lens waveguide
 - Weight: 112.6lbs / 51kg each
-- Woofer: Three 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Dual rear-mounted ports
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F328Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f328be-speaker-review.17443/)
@@ -114,12 +104,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 61hz
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
+- Driver: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames woofers, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
-- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Sensitivity: 89.5dB
-- Tweeter: 1" (25mm) Beryllium dome, with acoustic lens waveguide
 - Weight: 112.6lbs / 51kg each
-- Woofer: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F228Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f228be-review-speaker.23659/)
@@ -133,12 +121,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 31hz
 - Bass Extension (-3dB): 64hz
 - Dimensions: 51"H x 12.2"W x 15.1"D
+- Driver: 4 x 165 mm (6.5 in.) hybrid aluminium cone woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 89.5dB
-- Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
 - Weight: 80.5lbs / 36.5kg each
-- Woofer: 4 x 165 mm (6.5 in.) hybrid aluminium cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review KEF R11 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-r11-meta-tower-speaker-review.53282/)
@@ -152,12 +138,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 36hz
 - Bass Extension (-3dB): 56hz
 - Dimensions: 41.3"H x 9.8"W x 13.7"D
+- Driver: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames woofer, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
-- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Sensitivity: 90dB
-- Tweeter: 1" (25mm) Beryllium dome, with acoustic lens waveguide
 - Weight: 58lbs / 26.4kg each
-- Woofer: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Should You Buy the Revel F226Be or the MoFi 888?](https://www.youtube.com/watch?v=xJoc_KdoLpQ)
@@ -173,12 +157,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 60hz
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Driver: Dual 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofers, 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 4 ohms
-- Midrange: 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange
 - Sensitivity: 87dB
-- Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Weight: 58lbs / 26kg each
-- Woofer: Dual 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofers
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F206](https://www.audiosciencereview.com/forum/index.php?threads/revel-f206-tower-speaker-review.53691/)
@@ -192,12 +174,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 34hz
 - Dimensions: 41.2"H x 12.6"W x 16.1"D
+- Driver: Dual 8" paper cone woofers, 8” Paper Cone midrange, 1.25" wide roll soft dome tweeter
 - Impedance: 6 ohms
-- Midrange: 8” Paper Cone
 - Sensitivity: 85.5dB
-- Tweeter: 1.25" wide roll soft dome tweeter
 - Weight: 96.2lbs / 43kg each
-- Woofer: Dual 8" paper cone woofers
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the MoFi SourcePoint 888 Could Be Your Last Speaker Purchase](https://www.youtube.com/watch?v=9bv5Mt5X__k)
@@ -212,11 +192,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 31hz
 - Bass Extension (-3dB): 43hz
 - Dimensions: 37.2"H x 22.2"W x 16.8"D
+- Driver: 15” (380mm) 2216Nd-1 Dual Differential Drive® woofer, 3” (75mm) D2430K dual compression tweeter
 - Impedance: 4 ohms
 - Sensitivity: 92.5dB
-- Tweeter: 3” (75mm) D2430K dual compression
 - Weight: 119lbs / 54kg each
-- Woofer: 15” (380mm) 2216Nd-1 Dual Differential Drive® woofer
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The JBL 4367 rocks!](https://www.youtube.com/watch?v=eJnOrG3BHaw)
@@ -246,12 +225,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 29hz
 - Bass Extension (-3dB): 71hz
 - Dimensions: 43.1"H x 7.7"W x 10.6"D
+- Driver: Two 6.5" Aramid Fiber woofer, 6.5" Aramid Fiber midrange, 1" Aluminum Dome tweeter
 - Impedance: 6 ohms
-- Midrange: 6.5" Aramid Fiber
 - Sensitivity: 86.5dB
-- Tweeter: 1" Aluminum Dome
 - Weight: 38.8lbs / 26.4kg each
-- Woofer: Two 6.5" Aramid Fiber
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: ELAC’s New DF63 is SHOCKINGLY Good!](https://www.youtube.com/watch?v=NI8En4OhvMM)
@@ -267,11 +244,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 70hz
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Driver: 3x 5.25" deep anodized aluminum cone woofers, 1" Aluminum Tweeter
 - Impedance: 6 ohms
 - Sensitivity: 90dB
-- Tweeter: 1" Aluminum Tweeter
 - Weight: 41lbs / 18.6kg each
-- Woofer: 3x 5.25" deep anodized aluminum cone woofers
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)
@@ -301,12 +277,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 78hz
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Driver: Dual 5.25" (130mm) CMMD™ woofers, 5.25" (130mm) flat-piston CMMD™ midrange, 1" (25mm) CMMD™ tweeter
 - Impedance: 6 ohms
-- Midrange: 5.25" (130mm) flat-piston CMMD™
 - Sensitivity: 87dB
-- Tweeter: 1" (25mm) CMMD™
 - Weight: 39.2lbs / 17.8kg each
-- Woofer: Dual 5.25" (130mm) CMMD™
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity Reference 253](https://www.audiosciencereview.com/forum/index.php?threads/infinity-reference-253-review-speaker.17923/)
@@ -320,11 +294,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 33hz
 - Bass Extension (-3dB): 51hz
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Driver: Two 5.25" Turbine Cone woofer, 1" Pinnacle Ring Radiator tweeter
 - Impedance: 4 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" Pinnacle Ring Radiator
 - Weight: 39.2lbs / 17.8kg each
-- Woofer: Two 5.25" Turbine Cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Polk R500 Tower Speaker Review.](https://www.youtube.com/watch?v=yYewhU3ydwE)
@@ -339,12 +312,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 60hz
 - Dimensions: 40.7"H x 11.8"W x 15.3"D
+- Driver: 6.5” (16.5cm) Slatefiber woofer, 6.5" (16.5cm) Slatefiber midrange, 1" (25mm) TNF Al/Mg inverted dome tweeter
 - Impedance: 8 ohms
-- Midrange: 6.5" (16.5cm) Slatefiber
 - Sensitivity: 91dB
-- Tweeter: 1" (25mm) TNF Al/Mg inverted dome tweeter
 - Weight: 40.8lbs / 18.5kg each
-- Woofer: 6.5” (16.5cm) Slatefiber
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Focal Chora 816](https://www.audiosciencereview.com/forum/index.php?threads/focal-chora-816-speaker-review.42988/)
 - Links

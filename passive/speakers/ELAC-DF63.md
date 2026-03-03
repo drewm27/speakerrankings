@@ -13,12 +13,10 @@ The ELAC DF63 ranks [#13 out of 25 total Large Size Floorstanding Speakers](/pas
 - Bass Extension (-10dB): 29hz
 - Bass Extension (-3dB): 71hz
 - Dimensions: 43.1"H x 7.7"W x 10.6"D
+- Driver: Two 6.5" Aramid Fiber woofer, 6.5" Aramid Fiber midrange, 1" Aluminum Dome tweeter
 - Impedance: 6 ohms
-- Midrange: 6.5" Aramid Fiber
 - Sensitivity: 86.5dB
-- Tweeter: 1" Aluminum Dome
 - Weight: 38.8lbs / 26.4kg each
-- Woofer: Two 6.5" Aramid Fiber
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: ELAC’s New DF63 is SHOCKINGLY Good!](https://www.youtube.com/watch?v=NI8En4OhvMM)

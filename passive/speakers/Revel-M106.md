@@ -12,10 +12,9 @@ The Revel M106 ranks [#14 out of 48 total Large Size Bookshelf Speakers](/passiv
 - Negatives: Some directivity error in crossover region
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 60hz
+- Driver: 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofer, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 4 ohms
 - Sensitivity: 85dB
-- Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
-- Woofer: 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofer
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links

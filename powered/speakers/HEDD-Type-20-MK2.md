@@ -14,16 +14,14 @@ The HEDD Type 20 MK2 ranks [#5 out of 21 total Large Size Powered Bookshelf Spea
 - Bluetooth: No
 - DSP: Yes (96kHz/32-bit)
 - Dimensions: 14.1"H x 11"W x 13.3"D
+- Driver: 7" honeycomb composite woofer, 4" honeycomb composite midrange, HEDD AMT (Air Motion Transformer) tweeter
 - EQ: Yes (Desk filter, shelf filters)
 - Frequency Response: 32Hz - 40kHz
 - Inputs: XLR (Analog/AES)
 - Max SPL: 120dB @ 1m (per pair)
-- Midrange: 4" honeycomb composite
 - Outputs: XLR (AES pass-through)
 - Power: 900W (3x300W)
-- Tweeter: HEDD AMT (Air Motion Transformer)
 - Weight: 33.9lbs / 15.4kg each
-- Woofer: 7" honeycomb composite
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
 - Links

@@ -13,12 +13,10 @@ The KEF R3 Meta ranks [#6 out of 48 total Large Size Bookshelf Speakers](/passiv
 - Bass Extension (-10dB): 37hz
 - Bass Extension (-3dB): 76hz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D
+- Driver: 6.5" Hybrid aluminum ported woofer, 5" aluminum cone midrange, 1" vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 5" aluminum cone
 - Sensitivity: 87dB
-- Tweeter: 1" vented aluminium dome with MAT
 - Weight: 27.3lbs / 12.4kg each
-- Woofer: 6.5" Hybrid aluminum ported
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)

@@ -16,11 +16,11 @@ The Kali Audio IN-8 ranks [#9 out of 21 total Large Size Powered Bookshelf Speak
 - Bluetooth: No
 - DSP: No
 - Dimensions: 17.8"H x 10"W x 11.3"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: XLR, RCA
 - Watts: 140w Per Speaker
 - Weight: 23lbs / 10.4kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
     - [Erin's Audio Corner Website Kali Audio IN-8](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)

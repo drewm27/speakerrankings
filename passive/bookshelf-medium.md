@@ -14,7 +14,7 @@ The law of diminishing returns applies, many moderately-priced options here prov
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -24,11 +24,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 53hz
 - Dimensions: 11.8"H x 7.1"W x 11.7"D
+- Driver: 5" ceramic-aluminum cone woofer, 1" ceramic-aluminum tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
-- Tweeter: 1" ceramic-aluminum tweeter
 - Weight: 15lbs / 6.8kg each
-- Woofer: 5" ceramic-aluminum cone woofer
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The #1 Reason audiophiles Are Raving About Fidelia's Sound Quality](https://www.youtube.com/watch?v=HKrm19_asro)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
@@ -43,11 +42,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 55hz
 - Dimensions: 14.25"H x 7.5"W x 10.5"D
+- Driver: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings woofer, 1" aluminum/magnesium alloy dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 82dB
-- Tweeter: 1" aluminum/magnesium alloy dome
 - Weight: 12lbs / 5.4kg each
-- Woofer: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)
@@ -66,11 +64,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 68hz
 - Dimensions: 11.9"H x 7.9"W x 11.0"D
+- Driver: 130 mm (5.25 in.) aluminium cone woofer, 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB
-- Tweeter: 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption
 - Weight: 17.2lbs / 7.8kg each
-- Woofer: 130 mm (5.25 in.) aluminium cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Unveiling the KEF LS50 Meta: The Truth Behind the Hype](https://www.youtube.com/watch?v=RAKKVe6stCs)
     - [Erin's Audio Corner Website KEF LS50 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/)
@@ -97,11 +94,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 64hz
 - Bass Extension (-3dB): 89hz
 - Dimensions: 16.6"H x 6.4"W x 5.9"D
+- Driver: 2 x 5,5” woofers, 28mm tweeter
 - Impedance: 4 ohms
 - Sensitivity: 86dB
-- Tweeter: 28mm
 - Weight: 16lbs / 7.3kg each
-- Woofer: 2 x 5,5”
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner Website Arendal 1961 Monitor](https://www.erinsaudiocorner.com/loudspeakers/arenda_1961_monitor/)
@@ -130,11 +126,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 53hz
 - Bass Extension (-3dB): 67hz
 - Dimensions: 13.5"H x 6.8"W x 10.6"D
+- Driver: 5.25" Cerametallic™ cone woofer, 1" LTS (Linear Travel Suspension) titanium diaphragm tweeter with Tractrix® horn
 - Impedance: 8 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" LTS (Linear Travel Suspension) titanium diaphragm tweeter with Tractrix® horn
 - Weight: 13.1lbs / 5.9kg each
-- Woofer: 5.25" Cerametallic™ cone woofer
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why I think the Klipsch RP-500M II is BETTER than RP-600M II.](https://www.youtube.com/watch?v=2Bkgd2_WuH8)
@@ -192,11 +187,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 55hz
 - Bass Extension (-3dB): 83hz
 - Dimensions: 8.9"H x 5.5"W x 8.2"D
+- Driver: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole woofer, 1” silk dome, dispersion-optimized waveguide, neodymium magnet tweeter
 - Impedance: 6 ohms
 - Sensitivity: 82.5dB
-- Tweeter: 1” silk dome, dispersion-optimized waveguide, neodymium magnet
 - Weight: 6.1lbs / 2.8kg each
-- Woofer: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Neumi Silk 4 Review. The Supreme Budget Bookshelf Speaker?](https://www.youtube.com/watch?v=VIhu26oRbHI)
     - [Erin's Audio Corner Website Neumi Silk 4](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/)
@@ -210,11 +204,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 51hz
 - Dimensions: 11.9"H x 7.1"W x 10.9"D
+- Driver: 5.1" aluminium Uni-Q woofer, 1" vented aluminium dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" vented aluminium dome
 - Weight: 12.3lbs / 5.6kg each
-- Woofer: 5.1" aluminium Uni-Q
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kef's Cheapest Bookshelf.  Is the Q150 worth your money?](https://www.youtube.com/watch?v=SiGslBHnK9c)
     - [Erin's Audio Corner Website KEF Q150](https://www.erinsaudiocorner.com/loudspeakers/kef_q150/)
@@ -229,8 +222,7 @@ Last updated: March 02, 2026
 - Negatives: Resonance and peak from 1-2khz. A little bright up top. Not great vertically off-axis
 - Bass Extension (-10dB): 49hz
 - Bass Extension (-3dB): 70hz
-- Tweeter: 25×32 mm Airmotiv folded ribbon tweeter
-- Woofer: 5-1/4” woven fiber cone with SBR surround
+- Driver: 5-1/4” woven fiber cone with SBR surround woofer, 25×32 mm Airmotiv folded ribbon tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What are the other reviewers hearing with the $250 @EmotivaAudioCorp B1+?](https://www.youtube.com/watch?v=YmKpCb3d7Vk)
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
@@ -242,12 +234,11 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 54hz
 - Bass Extension (-3dB): 80hz
 - Dimensions: 13.9"H x 7"W x 8.7"D
+- Driver: 5.12" woofer, 0.98 in tweeter
 - Impedance: 6 ohms
 - Sensitivity: 82.5dB
 - Supertweeter: 0.75 in
-- Tweeter: 0.98 in
 - Weight: 9.9lbs / 4.5kg each
-- Woofer: 5.12"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is Sony's NEW SS-CS5 Version 2 WORTH the Upgrade?](https://www.youtube.com/watch?v=iI2a-KVuUhw)
 - Links

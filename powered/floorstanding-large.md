@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Small](/powered/bookshelf-small/) and [Medium](/powered/bookshelf-medium/) powered bookshelf speakers, or [Passive Large Bookshelf](/passive/bookshelf-large/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -27,19 +27,17 @@ Last updated: March 02, 2026
 - Bluetooth: Yes (5.0 with SBC, AAC)
 - DSP: Yes (Music Integrity Engine)
 - Dimensions: 42.9"H x 8.3"W x 15.5"D
+- Driver: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver: woofers, 100 mm (4in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with Metamaterial Absorption Technology tweeter
 - EQ: Yes (Normal and Expert modes, room adaptation)
 - Frequency Response: 31Hz - 24kHz (±3dB)
 - Inputs: Wifi, Optical, Digital coaxial, RCA, HDMI, Ethernet
 - Max SPL: 111dB @ 1m (pink noise)
-- Midrange: 100 mm (4in.) aluminium cone
 - Outputs: Subwoofer RCA
 - Power: 700W (500W LF Class D + 100W MF Class D + 100W HF Class AB)
 - Streaming Services: Yes (AirPlay 2, Chromecast, Roon Ready, Spotify Connect, Tidal Connect, Amazon Music, Qobuz, Deezer)
-- Tweeter: 19 mm (0.75 in.) vented aluminium dome with Metamaterial Absorption Technology
 - Watts: 700w Per Speaker
 - Weight: 69lbs / 31.3kg each
 - Wifi: Yes (dual-band)
-- Woofer: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver:
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF LS60 Wireless: The Ultimate Review, Measurements Exposed!](https://www.youtube.com/watch?v=E1DA6ER58Gg)
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)
@@ -56,17 +54,15 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: Yes (Digital Sound Engine)
 - Dimensions: 15.5"W x 32.3"H x 12"D
+- Driver: 10" driver woofer, 5" driver midrange, 0.75" Acoustic Lens tweeter
 - EQ: Yes (Room adaptation: Free/Wall/Corner)
 - Frequency Response: 19.5Hz - 23.6kHz
 - Inputs: PowerLink (RJ45), RCA, TOSLINK optical, WiSA wireless
 - Max SPL: 108dB @ 1m
-- Midrange: 5" driver
 - Outputs: PowerLink, TOSLINK
 - Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
-- Tweeter: 0.75" Acoustic Lens
 - Weight: 39.7lbs / 18kg each
 - Wifi: Yes (WiSA)
-- Woofer: 10" driver
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links

@@ -12,12 +12,10 @@ The Revel F208 ranks [#4 out of 25 total Large Size Floorstanding Speakers](/pas
 - Bass Extension (-10dB): 24hz
 - Bass Extension (-3dB): 47hz
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Driver: Dual 8” (20 cm) Aluminum Cone, Cast-frame Woofers, 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 8 ohms
-- Midrange: 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange
 - Sensitivity: 88.5dB
-- Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Weight: 80lbs / 36kg each
-- Woofer: Dual 8” (20 cm) Aluminum Cone, Cast-frame Woofers
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F208](https://www.audiosciencereview.com/forum/index.php?threads/revel-f208-tower-speaker-review.13192/)

@@ -14,12 +14,12 @@ The Adam Audio T7V ranks [#16 out of 21 total Large Size Powered Bookshelf Speak
 - Bluetooth: No
 - DSP: No
 - Dimensions: 13.7"H x 8.3"W x 11.5"D
+- Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-6dB)
 - Inputs: XLR, RCA
 - Watts: 70w Per Speaker
 - Weight: 15.7lbs / 7.1kg
-- Woofer: 7"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A7X vs Adam Audio T7V  sound.DEMO](https://www.youtube.com/watch?v=KRKa30FyOUQ)

@@ -14,12 +14,12 @@ The APS Klasik 2020 ranks [#8 out of 21 total Large Size Powered Bookshelf Speak
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.2"H x 8.3"W x 12.6"D
+- Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-3dB)
 - Inputs: XLR, RCA
 - Watts: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each
-- Woofer: 7"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)

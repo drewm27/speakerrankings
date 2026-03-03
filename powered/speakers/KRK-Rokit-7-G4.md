@@ -13,10 +13,10 @@ The KRK Rokit 7 G4 ranks [#18 out of 21 total Large Size Powered Bookshelf Speak
 - Bluetooth: No
 - DSP: No
 - Dimensions: 13.4"H x 8.9"W x 11.2"D
+- Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
 - Weight: 16.8lbs / 7.6kg
-- Woofer: 7"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Adam Audio T7V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=lH4aACE5tjE)
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=l2UK8sdbVLo)

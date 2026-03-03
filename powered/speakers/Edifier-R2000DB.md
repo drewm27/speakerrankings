@@ -12,12 +12,12 @@ The Edifier R2000DB ranks [#20 out of 24 total Medium Size Powered Bookshelf Spe
 - App: No
 - Bluetooth: No
 - Dimensions: 11.25"H x 7.5"W x 9.5"D
+- Driver: 5" woofer
 - EQ: No
 - Frequency Response: 55Hz-40KHz (-3dB)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical
 - Watts: 60w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
-- Woofer: 5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
     - [DSAUDIO.review: Edifier R2730DB vs Edifier R2000DB   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9JwfnkkM3n4)

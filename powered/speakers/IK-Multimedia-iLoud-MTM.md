@@ -13,12 +13,12 @@ The IK Multimedia iLoud MTM ranks [#13 out of 24 total Medium Size Powered Books
 - App: No
 - Bluetooth: No
 - Dimensions: 10.4"H x 5.1"W x 6.3"D
+- Driver: 2x 3.5" woofers
 - EQ: Yes (Room adjustment)
 - Frequency Response: 50 Hz - 24 kHz (-3dB)
 - Inputs: XLR
 - Watts: 100w Per Speaker
 - Weight: 5.5lbs / 2.5kg
-- Woofer: 2x 3.5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
     - [DSAUDIOreview: IK Multimedia  iLoud MTM  vs  iLoud Micro    Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tdZ9gPdXjZI)

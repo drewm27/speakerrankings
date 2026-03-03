@@ -13,12 +13,12 @@ The KRK Classic 5 ranks [#18 out of 24 total Medium Size Powered Bookshelf Speak
 - App: No
 - Bluetooth: No
 - Dimensions: 9.7"H x 7.4"W x 11.2"D
+- Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 56Hz-30KHz (+-3dB)
 - Inputs: RCA, TRS, XLR
 - Watts: 50w RMS Per Speaker
 - Weight: 13.0lbs / 5.87kg
-- Woofer: 5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)

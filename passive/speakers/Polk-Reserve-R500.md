@@ -13,11 +13,10 @@ The Polk Reserve R500 ranks [#17 out of 25 total Large Size Floorstanding Speake
 - Bass Extension (-10dB): 33hz
 - Bass Extension (-3dB): 51hz
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Driver: Two 5.25" Turbine Cone woofer, 1" Pinnacle Ring Radiator tweeter
 - Impedance: 4 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" Pinnacle Ring Radiator
 - Weight: 39.2lbs / 17.8kg each
-- Woofer: Two 5.25" Turbine Cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Polk R500 Tower Speaker Review.](https://www.youtube.com/watch?v=yYewhU3ydwE)

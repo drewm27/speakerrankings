@@ -12,9 +12,9 @@ The Infinity IL10 ranks [#29 out of 48 total Large Size Bookshelf Speakers](/pas
 - Negatives: Resonances at 600 and 5khz
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 59hz
+- Driver: 6.5" woofer
 - Impedance: 6 ohms
 - Sensitivity: 85dB
-- Woofer: 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
 

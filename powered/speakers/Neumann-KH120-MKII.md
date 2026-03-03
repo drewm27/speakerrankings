@@ -16,15 +16,14 @@ The Neumann KH120 MKII ranks [#1 out of 24 total Medium Size Powered Bookshelf S
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 11.3"H x 7.2"W x 8.9"D
+- Driver: 5.25" woofer, 1" titanium fabric dome tweeter
 - EQ: Yes (via DSP)
 - Frequency Response: 44Hz - 21kHz (±3dB)
 - Inputs: XLR
 - Max SPL: 116.8dB @ 1m
 - Power: 245W (145W woofer + 100W tweeter)
-- Tweeter: 1" titanium fabric dome
 - Watts: 200w Per Speaker
 - Weight: 11.9lbs / 6.6kg each
-- Woofer: 5.25"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh120-ii-monitor-review.46362/)
 - Links

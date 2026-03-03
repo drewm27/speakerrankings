@@ -12,11 +12,10 @@ The Revel M126Be ranks [#11 out of 48 total Large Size Bookshelf Speakers](/pass
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 103hz
 - Dimensions: 15.2"H x 8.3"W x 10.3"D
+- Driver: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame woofer, 1" Beryllium dome with acoustic lens waveguide tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" Beryllium dome with acoustic lens waveguide
 - Weight: 22lbs / 10.0kg each
-- Woofer: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Revel M126Be is Almost Perfect.](https://www.youtube.com/watch?v=KecbtoerdE0)
     - [Erin's Audio Corner Website Revel M126Be](https://www.erinsaudiocorner.com/loudspeakers/revel_m126be/)

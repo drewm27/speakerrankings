@@ -14,12 +14,12 @@ The Adam Audio T8V ranks [#15 out of 21 total Large Size Powered Bookshelf Speak
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.8"H x 9.8"W x 13.2"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 33Hz – 25kHz (-6dB)
 - Inputs: XLR, RCA
 - Watts: 90w Per Speaker
 - Weight: 21.6lbs / 9.8kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)

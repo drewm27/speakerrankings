@@ -15,17 +15,16 @@ The Klipsch The Three II ranks [#13 out of 14 total Medium Size Powered Desktop 
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11" x 7.3" x 7.3" (280 x 186 x 186mm)
+- Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
-- Midrange: 2x 2.25" full-range
 - Party Mode: No
 - Power: 60W (Woofer: 30W, Full-range: 2x15W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 10.3lbs / 4.7kg
 - Wifi: No
-- Woofer: 4.5"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)

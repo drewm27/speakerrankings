@@ -12,13 +12,13 @@ The Audioengine HD6 ranks [#19 out of 24 total Medium Size Powered Bookshelf Spe
 - App: No
 - Bluetooth: No
 - Dimensions: 11.75"H x 7.25"W x 10"D
+- Driver: 5.5" woofer
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Inputs: Bluetooth, Aux, RCA Input, Digital Optical
 - Outputs: RCA Output
 - Watts: 50w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
-- Woofer: 5.5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: Audioengine HD6 vs Audioengine A5+   5 Track Comparison](https://www.youtube.com/watch?v=g3Jx7d_iMo4)

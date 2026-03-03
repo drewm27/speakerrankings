@@ -16,15 +16,13 @@ The Neumann KH420 ranks [#2 out of 21 total Large Size Powered Bookshelf Speaker
 - Bluetooth: No
 - DSP: No
 - Dimensions: 25.4"H x 13"W x 17.5"D
+- Driver: 10" woofer, 4" dome midrange, 1" fabric dome tweeter
 - EQ: Yes (Room response controls)
 - Frequency Response: 31Hz - 21kHz (±3dB)
 - Inputs: XLR
 - Max SPL: 124dB @ 1m
-- Midrange: 4" dome
-- Tweeter: 1" fabric dome
 - Watts: 555w Per Speaker
 - Weight: 77lbs / 35kg each
-- Woofer: 10"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
 - Links

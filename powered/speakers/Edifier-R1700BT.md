@@ -12,13 +12,13 @@ The Edifier R1700BT ranks [#22 out of 24 total Medium Size Powered Bookshelf Spe
 - App: No
 - Bluetooth: No
 - Dimensions: 10"H x 6.1"W x 8.4"D
+- Driver: 4" woofer
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
 - Watts: 66w RMS Per Speaker
 - Weight: 14.5lbs / 6.6kg
-- Woofer: 4"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)

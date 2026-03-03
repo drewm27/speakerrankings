@@ -12,12 +12,10 @@ The GR-Research NX-Treme ranks [#1 out of 25 total Large Size Floorstanding Spea
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
 - Bass Extension (-3dB): <20hz (With GR-Research open baffle subwoofers)
 - Dimensions: 85"H x 17"W x 20"D (plus a subwoofer on each side)
+- Driver: Eight 6.5" M165 open baffle woofer, Two 6.5" M165NQ open baffle midrange, GR Neo 3 Magnetic planar open baffle tweeter
 - Impedance: 8 ohms
-- Midrange: Two 6.5" M165NQ open baffle
 - Sensitivity: 94.5dB
 - Subwoofer: Three 12" Rythmik Audio servo controlled
-- Tweeter: GR Neo 3 Magnetic planar open baffle
-- Woofer: Eight 6.5" M165 open baffle
 - Woofer Cabinet: Open baffle
 - Links
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)

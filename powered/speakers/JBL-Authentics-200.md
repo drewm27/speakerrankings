@@ -15,6 +15,7 @@ The JBL Authentics 200 ranks [#4 out of 14 total Medium Size Powered Desktop Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4mm)
+- Driver: 5" full-range woofer, 2x 25mm tweeters
 - EQ: Yes
 - Frequency Response: 50Hz - 20kHz (-6dB)
 - IP Rating: None
@@ -26,12 +27,10 @@ The JBL Authentics 200 ranks [#4 out of 14 total Medium Size Powered Desktop Spe
 - Stereo: Partially (1 woofer)
 - Streaming Services: AirPlay, Chromecast, Spotify Connect, Alexa MRM
 - TWS: No
-- Tweeter: 2x 25mm
 - Voice Assistants: Amazon Alexa & Google Assistant (simultaneous)
 - Weight: 9.1lbs / 4.2kg
 - Wifi: Yes
 - Wifi Version: IEEE 802.11 a/b/g/n/ac/ax (2.4GHz/5GHz)
-- Woofer: 5" full-range
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: JBL Authentics 200 Full Review - This might be the best buy](https://www.youtube.com/watch?v=fFP_OPriRlM)

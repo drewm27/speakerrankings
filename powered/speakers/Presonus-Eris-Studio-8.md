@@ -13,12 +13,12 @@ The Presonus Eris Studio 8 ranks [#12 out of 21 total Large Size Powered Bookshe
 - Bluetooth: No
 - DSP: No
 - Dimensions: 16.5"H x 9.8"W x 11.7"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 35Hz – 20kHz
 - Inputs: TRS, XLR, RCA
 - Watts: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)

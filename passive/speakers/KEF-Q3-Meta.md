@@ -11,10 +11,9 @@ The KEF Q3 Meta ranks [#35 out of 48 total Large Size Bookshelf Speakers](/passi
 - Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
 - Bass Extension (-10dB): 37hz
 - Bass Extension (-3dB): 52hz
+- Driver: 165 mm (6.5 in.) aluminium cone woofer, 25 mm (1 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
-- Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
-- Woofer: 165 mm (6.5 in.) aluminium cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)

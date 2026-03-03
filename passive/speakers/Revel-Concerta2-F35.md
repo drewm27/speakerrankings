@@ -13,11 +13,10 @@ The Revel Concerta2 F35 ranks [#14 out of 25 total Large Size Floorstanding Spea
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 70hz
 - Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Driver: 3x 5.25" deep anodized aluminum cone woofers, 1" Aluminum Tweeter
 - Impedance: 6 ohms
 - Sensitivity: 90dB
-- Tweeter: 1" Aluminum Tweeter
 - Weight: 41lbs / 18.6kg each
-- Woofer: 3x 5.25" deep anodized aluminum cone woofers
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel Concerta2 F35](https://www.audiosciencereview.com/forum/index.php?threads/revel-f35-speaker-review.12053/)

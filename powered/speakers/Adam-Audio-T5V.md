@@ -12,12 +12,12 @@ The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speak
 - App: No
 - Bluetooth: No
 - Dimensions: 11.7"H x 7.0"W x 11.7"D
+- Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)
 - Inputs: XLR, RCA
 - Watts: 70w Per Speaker
 - Weight: 12.6lbs / 5.7kg each
-- Woofer: 5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
     - [DSAUDIO.review: Kali LP-6 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=8eRKA9srFXE)

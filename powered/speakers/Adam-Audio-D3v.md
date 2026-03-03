@@ -15,14 +15,13 @@ The Adam Audio D3v ranks [#3 out of 8 total Small Size Powered Bookshelf Speaker
 - Bass Extension (-3dB): 50hz
 - Bluetooth: No
 - Dimensions: 6.7"H x 4.3"W x 5.9"D
+- Driver: 3.5" woofer, U-ART accelerated ribbon tweeter
 - EQ: Yes (Room adjustment filters)
 - Frequency Response: 50Hz - 50kHz
 - Inputs: XLR, RCA
 - Max SPL: 102dB @ 1m
 - Power: 50W (30W woofer + 20W tweeter)
-- Tweeter: U-ART accelerated ribbon
 - Weight: 3.7lbs / 1.7kg
-- Woofer: 3.5"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: ADAM Audio D3V: Mighty Small But Mighty Awesome Desktop Speaker](https://www.youtube.com/watch?v=bYipzw4qTGk)
     - [Erin's Audio Review Adam Audio D3v](https://www.erinsaudiocorner.com/loudspeakers/adam_d3v/)

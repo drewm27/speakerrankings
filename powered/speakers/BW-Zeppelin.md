@@ -16,18 +16,25 @@ The B&W Zeppelin ranks [#1 out of 2 total Large Size Powered Desktop Speakers](/
 - Battery Life: No Battery
 - Bluetooth: Yes
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
+- Bluetooth Version: 5.0
 - DSP: No
+- Dimensions: 25.6" x 8.3" x 7.6" (650 x 210 x 194mm)
+- Driver: 150mm woofer, 2x 90mm FST midrange drivers, 2x 25mm Decoupled Double-Dome aluminium tweeters
 - EQ: No
+- Frequency Response: 35Hz - 24kHz
 - IP Rating: None
 - Party Mode: No
+- Power: 240W (80W woofer, 2x 40W midrange, 2x 40W tweeter)
 - Power Bank: No
 - Power Input: AC Power cord
+- Streaming Services: AirPlay 2, Spotify Connect
 - TWS: No
-- Weight: 14.3lbs / 6.5kg
+- Weight: 14.6lbs / 6.6kg
 - Wifi: Yes
 - Reviews, Comparisons and Sound Samples
     - [JOY's 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
-    - <https://www.patreon.com/posts/b-w-zeppelin-vs-124704723>
+    - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
+    - [Oluv: B&W Zeppelin - listening session](https://www.patreon.com/posts/b-w-zeppelin-124926888)
 - Links
     - [Official Product Page](https://www.bowerswilkins.com/en-us/product/wireless-speakers/zeppelin/150242.html)
 

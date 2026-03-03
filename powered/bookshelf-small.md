@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Medium](/powered/bookshelf-medium/), [Large](/powered/bookshelf-large/), [Passive Medium](/passive/bookshelf-medium/), and [Passive Large](/passive/bookshelf-large/) bookshelf speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -26,15 +26,14 @@ Last updated: March 02, 2026
 - Bass Extension (-3dB): 74hz
 - Bluetooth: No
 - Dimensions: 7.7"H x 4.8"W x 4.5"D
+- Driver: 3" woofer, 0.75" metal dome tweeter
 - EQ: Yes (Bass tilt, Desk proximity)
 - Frequency Response: 67 Hz-25 kHz (-6dB)
 - Inputs: XLR
 - Max SPL: 96dB @ 1m
 - Power: 50W (25W woofer + 25W tweeter)
-- Tweeter: 0.75" metal dome
 - Watts: 50w RMS Per Speaker
 - Weight: 3.3lbs / 1.5kg
-- Woofer: 3"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs iLoud Micro Monitor   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vi5umvPW1yQ)
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs Presonus Eris E4.5   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9OjbZQoLviY)
@@ -54,15 +53,14 @@ Last updated: March 02, 2026
 - Bass Extension (-3dB): 55hz
 - Bluetooth: Yes (A2DP)
 - Dimensions: 7.1"H x 3.5"W x 5.3"D
+- Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: Yes (Bass/Treble switches, Desktop/Free field)
 - Frequency Response: 55Hz - 20kHz (-3dB)
 - Inputs: RCA, Aux
 - Max SPL: 96dB @ 1m
 - Power: 50W total (combined)
-- Tweeter: 0.75" silk dome
 - Watts: 25w RMS Per Speaker
 - Weight: 2.0lbs / 0.9kg
-- Woofer: 3"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs iLoud Micro Monitor  sound.DEMO](https://www.youtube.com/watch?v=eNBQXkxIJNc)
@@ -80,14 +78,13 @@ Last updated: March 02, 2026
 - Bass Extension (-3dB): 50hz
 - Bluetooth: No
 - Dimensions: 6.7"H x 4.3"W x 5.9"D
+- Driver: 3.5" woofer, U-ART accelerated ribbon tweeter
 - EQ: Yes (Room adjustment filters)
 - Frequency Response: 50Hz - 50kHz
 - Inputs: XLR, RCA
 - Max SPL: 102dB @ 1m
 - Power: 50W (30W woofer + 20W tweeter)
-- Tweeter: U-ART accelerated ribbon
 - Weight: 3.7lbs / 1.7kg
-- Woofer: 3.5"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: ADAM Audio D3V: Mighty Small But Mighty Awesome Desktop Speaker](https://www.youtube.com/watch?v=bYipzw4qTGk)
     - [Erin's Audio Review Adam Audio D3v](https://www.erinsaudiocorner.com/loudspeakers/adam_d3v/)
@@ -104,16 +101,15 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 9"H x 5.5"W x 6.5"D
+- Driver: 2.75" woofer, 0.75" silk dome tweeter
 - EQ: No
 - Frequency Response: 65 Hz-20 kHz (-3dB)
 - Inputs: Bluetooth, Aux, RCA Input
 - Max SPL: 90dB @ 1m
 - Outputs: RCA Output
 - Power: 30W total (15W per speaker)
-- Tweeter: 0.75" silk dome
 - Watts: 15w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
-- Woofer: 2.75"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
@@ -132,15 +128,14 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 5.9"H x 3.7"W x 5.9"D
+- Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 60Hz - 20kHz
 - Inputs: Bluetooth, Aux, RCA
 - Max SPL: 93dB @ 1m
 - Power: 36W total (18W per speaker)
-- Tweeter: 0.75" silk dome
 - Watts: 18w RMS Per Speaker
 - Weight: 6.6lbs / 3kg
-- Woofer: 3"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
@@ -155,15 +150,14 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, LDAC
 - Bluetooth Version: 5.3
 - Dimensions: 6.6"H x 3.9"W x 5.8"D
+- Driver: 3" woofer, 1" silk dome tweeter
 - EQ: Yes
 - Frequency Response: 55Hz - 40kHz
 - Inputs: Bluetooth, Aux, USB-C
 - Max SPL: 96dB @ 1m
 - Power: 66W total (33W per speaker)
-- Tweeter: 1" silk dome
 - Watts: 33w RMS Per Speaker
 - Weight: 6.8lbs / 3kg
-- Woofer: 3"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)
@@ -178,16 +172,15 @@ Last updated: March 02, 2026
 - Bass Extension (-3dB): 80hz
 - Bluetooth: No
 - Dimensions: 8.3"H x 6.0"W x 5.5"D
+- Driver: 3.5" woofer, 1" silk dome tweeter
 - EQ: Yes (Acoustic space)
 - Frequency Response: 80 Hz-20 kHz (-3dB)
 - Inputs: RCA, 1/4" Balanced
 - Max SPL: 95dB @ 1m
 - Outputs: 1/8" headphone jack
 - Power: 50W total (25W per speaker)
-- Tweeter: 1" silk dome
 - Watts: 25w RMS Per Speaker
 - Weight: 8.5lbs / 3.9kg
-- Woofer: 3.5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Presonus Eris E3.5  sound.DEMO](https://www.youtube.com/watch?v=pZqLVCBXgyw)
     - [DSAUDIO.review: Presonus Eris E3.5 vs Edifier R1280T   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=9-6zpNiQv5M)
@@ -207,16 +200,15 @@ Last updated: March 02, 2026
 - Bass Extension (-3dB): 80hz
 - Bluetooth: No
 - Dimensions: 8.1"H x 5.5"W x 7.1"D
+- Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: No
 - Frequency Response: 80 Hz-20 kHz (-3dB)
 - Inputs: RCA, Aux
 - Max SPL: 92dB @ 1m
 - Outputs: 1/8" headphone jack
 - Power: 50W total (25W per speaker)
-- Tweeter: 0.75" silk dome
 - Watts: 25w RMS Per Speaker
 - Weight: 7.8lbs / 3.5kg
-- Woofer: 3"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Presonus Eris E3.5 vs Mackie CR3   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=MoCG-6y1YOQ)
     - [DSAUDIO.review: Mackie CR3-X  vs  Edifier R1280T   Sound, Distortion & Frequency Response Comparison](https://www.youtube.com/watch?v=Q4f___YNb7w)

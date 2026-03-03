@@ -14,12 +14,12 @@ The Genelec 8050B ranks [#6 out of 21 total Large Size Powered Bookshelf Speaker
 - Bluetooth: No
 - DSP: No
 - Dimensions: 17.8"H x 11.3"W x 10.9"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 32Hz – 25kHz (-6dB)
 - Inputs: XLR
 - Watts: 270w Per Speaker
 - Weight: 31.7lbs / 14.4kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
 - Links

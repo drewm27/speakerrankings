@@ -12,12 +12,10 @@ The Wharfedale Aura 2 ranks [#22 out of 48 total Large Size Bookshelf Speakers](
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 56hz
 - Dimensions: 22.1"H x 11.3"W x 15.3"D
+- Driver: 6.5" Black Glass Fibre Matrix Cone woofer, 4" Black Glass Fibre Matrix Cone midrange, 27x90mm AMT tweeter
 - Impedance: 6 ohms
-- Midrange: 4" Black Glass Fibre Matrix Cone
 - Sensitivity: 87dB
-- Tweeter: 27x90mm AMT
 - Weight: 45lbs / 20.4kg each
-- Woofer: 6.5" Black Glass Fibre Matrix Cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the Wharfedale AURA 2 Will Blow Your Mind](https://www.youtube.com/watch?v=MCNQDNpM4x0)

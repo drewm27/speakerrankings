@@ -12,11 +12,10 @@ The Buchardt S400 MKII ranks [#27 out of 48 total Large Size Bookshelf Speakers]
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 59hz
 - Dimensions: 14.4"H x 7"W x 11"D
+- Driver: 6.5" aluminum cone woofer, 1" soft dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 16.5lbs / 7.5kg each
-- Woofer: 6.5" aluminum cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=yXhsJejwGuw)

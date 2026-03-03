@@ -13,12 +13,12 @@ The KRK Rokit 5 G4 ranks [#11 out of 24 total Medium Size Powered Bookshelf Spea
 - App: No
 - Bluetooth: No
 - Dimensions: 11.2"H x 7.5"W x 9.5"D
+- Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)
 - Inputs: TRS/XLR
 - Watts: 55w Per Speaker
 - Weight: 10.7lbs / 4.9kg each
-- Woofer: 5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
     - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Adam Audio T5V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=q6EETP-YrAY)

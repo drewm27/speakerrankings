@@ -9,8 +9,7 @@ The Fosi Audio SP601 ranks [#46 out of 48 total Large Size Bookshelf Speakers](/
 
 ## #46 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
-- Tweeter: 1.5" silk dome tweeter
-- Woofer: 7" rubber surround PP cone
+- Driver: 7" rubber surround PP cone woofer, 1.5" silk dome tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
     - [Audio Science Review Fosi Audio SP60](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-sp601-2-way-in-room-bookshelf-speakers-for-home-theater-tv-desktop.63508/)

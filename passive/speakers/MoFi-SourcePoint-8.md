@@ -12,11 +12,10 @@ The MoFi SourcePoint 8 ranks [#9 out of 48 total Large Size Bookshelf Speakers](
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 52hz
 - Dimensions: 18"H x 11.4"W x 13.2"D
+- Driver: 8" woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 86dB
-- Tweeter: 1.25-inch soft-dome
 - Weight: 27.9lbs / 12.7kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why Do People Love the MoFi SourcePoint 8?](https://www.youtube.com/watch?v=h90tqdGsgP4)
     - [Erin's Audio Corner Website MoFi SourcePoint 8](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/)

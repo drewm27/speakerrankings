@@ -16,16 +16,15 @@ The Audioengine HD3 ranks [#4 out of 8 total Small Size Powered Bookshelf Speake
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 9"H x 5.5"W x 6.5"D
+- Driver: 2.75" woofer, 0.75" silk dome tweeter
 - EQ: No
 - Frequency Response: 65 Hz-20 kHz (-3dB)
 - Inputs: Bluetooth, Aux, RCA Input
 - Max SPL: 90dB @ 1m
 - Outputs: RCA Output
 - Power: 30W total (15W per speaker)
-- Tweeter: 0.75" silk dome
 - Watts: 15w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
-- Woofer: 2.75"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)

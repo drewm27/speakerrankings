@@ -12,8 +12,7 @@ The Dynaudio Emit 20 ranks [#34 out of 48 total Large Size Bookshelf Speakers](/
 - Negatives: A noticeable resonance in the driver around 750hz
 - Bass Extension (-10dB): 33hz
 - Bass Extension (-3dB): 54hz
-- Tweeter: 1.1" Cerotar soft dome with Hexis
-- Woofer: 7.1" Magnesium Silicate Polymer
+- Driver: 7.1" Magnesium Silicate Polymer woofer, 1.1" Cerotar soft dome with Hexis tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Hands On With the Dynaudio Emit 20](https://www.youtube.com/watch?v=Z7R9YApGY6w)
     - [Erin's Audio Corner Website Dynaudio Emit 20](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/)

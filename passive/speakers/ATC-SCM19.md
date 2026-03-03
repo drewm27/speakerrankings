@@ -12,11 +12,10 @@ The ATC SCM19 ranks [#37 out of 48 total Large Size Bookshelf Speakers](/passive
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 60hz
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
+- Driver: 5.9" Super Linear Magnet cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 39.2lbs / 17.8kg each
-- Woofer: 5.9" Super Linear Magnet cone
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)

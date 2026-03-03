@@ -13,12 +13,10 @@ The Arendal 1528 Monitor 8 ranks [#15 out of 48 total Large Size Bookshelf Speak
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 41hz
 - Dimensions: 31.8"H x 11.4"W x 17.6"D
+- Driver: Dual 8" woofers, 5" midrange, 28mm tweeter
 - Impedance: 4 ohms
-- Midrange: 5"
 - Sensitivity: 84dB
-- Tweeter: 28mm
 - Weight: 104lbs / 47kg each
-- Woofer: Dual 8"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: When Hype Meets Reality: Arendal 1528 Monitor 8 Review](https://www.youtube.com/watch?v=BvKE3jpnsI8)

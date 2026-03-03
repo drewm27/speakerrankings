@@ -13,11 +13,11 @@ The KRK Rokit 8 G4 ranks [#17 out of 21 total Large Size Powered Bookshelf Speak
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.75"H x 10.5"W x 12.2"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
 - Watts: 100w Per Speaker
 - Weight: 22.6lbs / 10.5kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: KRK Rokit 8 G4 RP8G4  vs  Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=asE5dXZe-do)

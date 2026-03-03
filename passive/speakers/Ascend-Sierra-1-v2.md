@@ -13,11 +13,10 @@ The Ascend Sierra 1 v2 ranks [#2 out of 20 total Medium Size Bookshelf Speakers]
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 55hz
 - Dimensions: 14.25"H x 7.5"W x 10.5"D
+- Driver: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings woofer, 1" aluminum/magnesium alloy dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 82dB
-- Tweeter: 1" aluminum/magnesium alloy dome
 - Weight: 12lbs / 5.4kg each
-- Woofer: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)

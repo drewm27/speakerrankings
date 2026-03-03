@@ -13,12 +13,10 @@ The Infinity Reference 253 ranks [#16 out of 25 total Large Size Floorstanding S
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 78hz
 - Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Driver: Dual 5.25" (130mm) CMMD™ woofers, 5.25" (130mm) flat-piston CMMD™ midrange, 1" (25mm) CMMD™ tweeter
 - Impedance: 6 ohms
-- Midrange: 5.25" (130mm) flat-piston CMMD™
 - Sensitivity: 87dB
-- Tweeter: 1" (25mm) CMMD™
 - Weight: 39.2lbs / 17.8kg each
-- Woofer: Dual 5.25" (130mm) CMMD™
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity Reference 253](https://www.audiosciencereview.com/forum/index.php?threads/infinity-reference-253-review-speaker.17923/)

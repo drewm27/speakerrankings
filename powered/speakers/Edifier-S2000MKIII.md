@@ -12,12 +12,12 @@ The Edifier S2000MKIII ranks [#14 out of 24 total Medium Size Powered Bookshelf 
 - App: No
 - Bluetooth: No
 - Dimensions: 13.5"H x 7.8"W x 10.8"D
+- Driver: 5.5" woofer
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Watts: 65w RMS Per Speaker
-- Woofer: 5.5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: DSAUDIO.review  Edifier S2000MKIII vs Klipsch The Three II  sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)

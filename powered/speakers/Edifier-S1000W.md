@@ -12,13 +12,13 @@ The Edifier S1000W ranks [#15 out of 24 total Medium Size Powered Bookshelf Spea
 - App: No
 - Bluetooth: No
 - Dimensions: 13.6"H x 7.6"W x 11.6"D
+- Driver: 5.5" woofer
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB)
 - Inputs: Bluetooth, Wifi, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Watts: 60w RMS Per Speaker
 - Weight: 37.0lbs / 16.8kg
-- Woofer: 5.5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S1000MKII  sound.DEMO](https://www.youtube.com/watch?v=LP6-6vJLEiw)

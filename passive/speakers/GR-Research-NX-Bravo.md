@@ -13,11 +13,10 @@ The GR-Research NX-Bravo ranks [#5 out of 48 total Large Size Bookshelf Speakers
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 77hz
 - Dimensions: 14"H x 7.5"W x 11.5"D
+- Driver: GR-Research M165 6.5" paper cone, non-resonant polymer frame woofer, GR-Research Neo3 Planar Magnetic Ribbon deep rear cup tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB
-- Tweeter: GR-Research Neo3 Planar Magnetic Ribbon deep rear cup
 - Weight: 16lbs / 7.3kg each
-- Woofer: GR-Research M165 6.5" paper cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: You've Been Waiting for This... GR Research NX-Bravo Review!](https://www.youtube.com/watch?v=g9MsYUONNhg)

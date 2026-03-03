@@ -13,12 +13,10 @@ The KEF Blade Two Meta ranks [#2 out of 25 total Large Size Floorstanding Speake
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 31hz
 - Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Driver: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.)  aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 87dB
-- Tweeter: 25 mm (1 in.)  aluminium dome with MAT
 - Weight: 80lbs / 36kg each
-- Woofer: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Mind-Blowing Sound Quality: KEF Blade 2 Meta Review](https://www.youtube.com/watch?v=lh8D7LhlVoQ)

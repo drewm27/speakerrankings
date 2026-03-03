@@ -12,12 +12,10 @@ The KEF Reference 1 Meta ranks [#2 out of 48 total Large Size Bookshelf Speakers
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 52hz
 - Dimensions: 17.3"H x 8.1"W x 16.6"D
+- Driver: 165 mm (6.5 in.) aluminium cone woofer, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 83dB
-- Tweeter: 25 mm (1 in.) aluminium dome with MAT
 - Weight: 40.1lbs / 18.2kg each
-- Woofer: 165 mm (6.5 in.) aluminium cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: First Look!! Kef Reference 1 META Bookshelf Speaker Review.](https://www.youtube.com/watch?v=4hyKx9GiB8o)
     - [Erin's Audio Corner Website KEF Reference 1 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/)

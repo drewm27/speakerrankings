@@ -16,17 +16,15 @@ The B&O Beolab20 ranks [#2 out of 2 total Large Size Powered Floorstanding Speak
 - Bluetooth: No
 - DSP: Yes (Digital Sound Engine)
 - Dimensions: 15.5"W x 32.3"H x 12"D
+- Driver: 10" driver woofer, 5" driver midrange, 0.75" Acoustic Lens tweeter
 - EQ: Yes (Room adaptation: Free/Wall/Corner)
 - Frequency Response: 19.5Hz - 23.6kHz
 - Inputs: PowerLink (RJ45), RCA, TOSLINK optical, WiSA wireless
 - Max SPL: 108dB @ 1m
-- Midrange: 5" driver
 - Outputs: PowerLink, TOSLINK
 - Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
-- Tweeter: 0.75" Acoustic Lens
 - Weight: 39.7lbs / 18kg each
 - Wifi: Yes (WiSA)
-- Woofer: 10" driver
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links

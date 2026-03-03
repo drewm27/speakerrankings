@@ -12,13 +12,12 @@ The KEF LSX II LT ranks [#17 out of 24 total Medium Size Powered Bookshelf Speak
 - App: No
 - Bluetooth: No
 - Dimensions: 9.5"H x 6.1"W x 7.1"D
+- Driver: 115mm (4.5in.) magnesium/aluminium alloy cone woofer, 19mm (0.75in.) aluminium dome tweeter
 - EQ: No
 - Inputs: Wifi, USB-C, HDMI, Optical, Bluetooth
 - Outputs: RCA Subwoofer
-- Tweeter: 19mm (0.75in.) aluminium dome
 - Watts: 100w RMS Per Speaker
 - Weight: 15.0lbs / 6.8kg
-- Woofer: 115mm (4.5in.) magnesium/aluminium alloy cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Transform Your Sound System with the KEF LSX II LT Speaker](https://www.youtube.com/watch?v=Tcz905gti5A)
 - Links

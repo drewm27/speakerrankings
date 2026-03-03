@@ -16,12 +16,11 @@ The Buchardt A10 ranks [#11 out of 21 total Large Size Powered Bookshelf Speaker
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.6"H x 7"W x 9.6"D
+- Driver: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil woofer, 19 mm / 0.74" Resonance Free Aluminum dome with CDC aluminum waveguide tweeter
 - EQ: Yes (Room adjustment)
 - Inputs: XLR
-- Tweeter: 19 mm / 0.74" Resonance Free Aluminum dome with CDC aluminum waveguide
 - Watts: 200w Per Speaker
 - Weight: 15lbs / 6.8kg each
-- Woofer: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt A10 Bookshelf Review: The Real Pros and Cons](https://www.youtube.com/watch?v=VL7WtnxIZc8)

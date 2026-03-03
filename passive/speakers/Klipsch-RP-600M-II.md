@@ -13,11 +13,10 @@ The Klipsch RP-600M II ranks [#41 out of 48 total Large Size Bookshelf Speakers]
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 70hz
 - Dimensions: 15.7"H x 8"W x 12.5"D
+- Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Weight: 13lbs / 5.9kg each
-- Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)

@@ -13,12 +13,10 @@ The Revel F226Be ranks [#8 out of 25 total Large Size Floorstanding Speakers](/p
 - Bass Extension (-10dB): 36hz
 - Bass Extension (-3dB): 56hz
 - Dimensions: 41.3"H x 9.8"W x 13.7"D
+- Driver: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames woofer, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
-- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Sensitivity: 90dB
-- Tweeter: 1" (25mm) Beryllium dome, with acoustic lens waveguide
 - Weight: 58lbs / 26.4kg each
-- Woofer: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Should You Buy the Revel F226Be or the MoFi 888?](https://www.youtube.com/watch?v=xJoc_KdoLpQ)

@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), [Passive Medium](/passive/bookshelf-medium/), and [Passive Large](/passive/bookshelf-large/) bookshelf speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -27,18 +27,16 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 19"H x 10.5"W x 15"D
+- Driver: 2x 8" Aluminium Cone woofers, 8" Aluminium Cone midrange, 1" Aluminium/Magnesium dome tweeter
 - EQ: Yes (24-band parametric)
 - Frequency Response: 20Hz - 20kHz
 - Inputs: XLR
 - Max SPL: 106dB @ 1m continuous
-- Midrange: 8" Aluminium Cone
 - Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
 - Streaming Services: Yes (network streaming)
-- Tweeter: 1" Aluminium/Magnesium dome
 - Watts: 1000w Per Speaker
 - Weight: 57lbs / 26kg each
 - Wifi: Yes (Ethernet)
-- Woofer: 2x 8" Aluminium Cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dutch & Dutch 8c Bookshelf Speaker Review](https://www.youtube.com/watch?v=j38gkS-Q8f8)
     - [Erin's Audio Corner Website Dutch & Dutch 8C](https://www.erinsaudiocorner.com/loudspeakers/dutch_dutch_8c/)
@@ -55,15 +53,13 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 25.4"H x 13"W x 17.5"D
+- Driver: 10" woofer, 4" dome midrange, 1" fabric dome tweeter
 - EQ: Yes (Room response controls)
 - Frequency Response: 31Hz - 21kHz (±3dB)
 - Inputs: XLR
 - Max SPL: 124dB @ 1m
-- Midrange: 4" dome
-- Tweeter: 1" fabric dome
 - Watts: 555w Per Speaker
 - Weight: 77lbs / 35kg each
-- Woofer: 10"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
 - Links
@@ -79,15 +75,13 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 22.5"H x 14"W x 13.6"D
+- Driver: Dual 263 x 137 mm woofers, 5.1" coaxial with tweeter midrange, 1" (25mm) coaxial tweeter
 - EQ: Yes (via GLM software)
 - Frequency Response: 30Hz - 43kHz (±2dB)
 - Inputs: XLR
 - Max SPL: 118dB @ 1m
-- Midrange: 5.1" coaxial with tweeter
-- Tweeter: 1" (25mm) coaxial
 - Watts: 1000w Per Speaker
 - Weight: 70.3lbs / 31.9kg each
-- Woofer: Dual 263 x 137 mm
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Genelec 8361a is FANTASTIC for Your Home Studio or HiFi!](https://www.youtube.com/watch?v=2VjzJRXbafI)
 - Links
@@ -103,15 +97,13 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 17"H x 11.3"W x 10.9"D
+- Driver: 8.6" woofer, 5" coaxial with tweeter midrange, 0.75" (19mm) coaxial tweeter
 - EQ: Yes (via GLM software)
 - Frequency Response: 32Hz - 40kHz (±1.5dB)
 - Inputs: XLR
 - Max SPL: 113dB @ 1m
-- Midrange: 5" coaxial with tweeter
-- Tweeter: 0.75" (19mm) coaxial
 - Watts: 550w Per Speaker
 - Weight: 31lbs / 14.1kg each
-- Woofer: 8.6"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
 - Links
@@ -125,16 +117,14 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: Yes (96kHz/32-bit)
 - Dimensions: 14.1"H x 11"W x 13.3"D
+- Driver: 7" honeycomb composite woofer, 4" honeycomb composite midrange, HEDD AMT (Air Motion Transformer) tweeter
 - EQ: Yes (Desk filter, shelf filters)
 - Frequency Response: 32Hz - 40kHz
 - Inputs: XLR (Analog/AES)
 - Max SPL: 120dB @ 1m (per pair)
-- Midrange: 4" honeycomb composite
 - Outputs: XLR (AES pass-through)
 - Power: 900W (3x300W)
-- Tweeter: HEDD AMT (Air Motion Transformer)
 - Weight: 33.9lbs / 15.4kg each
-- Woofer: 7" honeycomb composite
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
 - Links
@@ -148,12 +138,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 17.8"H x 11.3"W x 10.9"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 32Hz – 25kHz (-6dB)
 - Inputs: XLR
 - Watts: 270w Per Speaker
 - Weight: 31.7lbs / 14.4kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
 - Links
@@ -167,12 +157,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.4"H x 9.3"W x 8.8"D
+- Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 41Hz – 25kHz (-6dB)
 - Inputs: XLR
 - Watts: 180w Per Speaker
 - Weight: 20.7lbs / 9.4kg each
-- Woofer: 6.5"
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
     - [Direct Speakerranking Link](/powered/speakers/Genelec-8040B/)
@@ -184,12 +174,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.2"H x 8.3"W x 12.6"D
+- Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-3dB)
 - Inputs: XLR, RCA
 - Watts: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each
-- Woofer: 7"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Kali Audio IN-5  sound.DEMO](https://www.youtube.com/watch?v=dRoeGfDaIuM)
@@ -208,11 +198,11 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 17.8"H x 10"W x 11.3"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: XLR, RCA
 - Watts: 140w Per Speaker
 - Weight: 23lbs / 10.4kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
     - [Erin's Audio Corner Website Kali Audio IN-8](https://www.erinsaudiocorner.com/loudspeakers/kali_in-8v2/)
@@ -227,12 +217,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 13.4"H x 10.3"W x 11.4"D
+- Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 40Hz – 22kHz (+-3dB)
 - Inputs: TRS, XLR, RCA
 - Watts: 85w Per Speaker
 - Weight: 16.8lbs / 7.6kg each
-- Woofer: 6.5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Focal Alpha 65  sound.DEMO](https://www.youtube.com/watch?v=t6jqpS2jey0)
@@ -254,12 +244,11 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.6"H x 7"W x 9.6"D
+- Driver: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil woofer, 19 mm / 0.74" Resonance Free Aluminum dome with CDC aluminum waveguide tweeter
 - EQ: Yes (Room adjustment)
 - Inputs: XLR
-- Tweeter: 19 mm / 0.74" Resonance Free Aluminum dome with CDC aluminum waveguide
 - Watts: 200w Per Speaker
 - Weight: 15lbs / 6.8kg each
-- Woofer: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt A10 Bookshelf Review: The Real Pros and Cons](https://www.youtube.com/watch?v=VL7WtnxIZc8)
@@ -273,12 +262,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 16.5"H x 9.8"W x 11.7"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 35Hz – 20kHz
 - Inputs: TRS, XLR, RCA
 - Watts: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
     - [DSAUDIO.review: Yamaha HS8  vs  PreSonus Eris E8 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Q3D_vcVWytE)
@@ -296,12 +285,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 16.5"H x 10.0"W x 11.3"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45Hz – 21kHz (+-3dB)
 - Inputs: TRS, XLR, RCA
 - Watts: 100w Per Speaker
 - Weight: 19.8lbs / 9.0kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Tannoy Gold 8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tKT1WFR4ZGw)
     - [DSAUDIO.review: Focal Alpha 80  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=vCksLawVPM8)
@@ -319,12 +308,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.4"H x 9.8"W x 13.1"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 47Hz – 24kHz (-3dB)
 - Inputs: XLR
 - Watts: 120w Per Speaker
 - Weight: 22.5lbs / 10.2kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
@@ -350,12 +339,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.8"H x 9.8"W x 13.2"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 33Hz – 25kHz (-6dB)
 - Inputs: XLR, RCA
 - Watts: 90w Per Speaker
 - Weight: 21.6lbs / 9.8kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)
@@ -371,12 +360,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 13.7"H x 8.3"W x 11.5"D
+- Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-6dB)
 - Inputs: XLR, RCA
 - Watts: 70w Per Speaker
 - Weight: 15.7lbs / 7.1kg
-- Woofer: 7"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
     - [DSAUDIO.review: DSAUDIO.review  Adam Audio A7X vs Adam Audio T7V  sound.DEMO](https://www.youtube.com/watch?v=KRKa30FyOUQ)
@@ -400,11 +389,11 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.75"H x 10.5"W x 12.2"D
+- Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
 - Watts: 100w Per Speaker
 - Weight: 22.6lbs / 10.5kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
     - [DSAUDIO.review: KRK Rokit 8 G4 RP8G4  vs  Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=asE5dXZe-do)
@@ -419,10 +408,10 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 13.4"H x 8.9"W x 11.2"D
+- Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
 - Weight: 16.8lbs / 7.6kg
-- Woofer: 7"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Adam Audio T7V   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=lH4aACE5tjE)
     - [DSAUDIO.review: KRK Rokit 7 G4 RP7G4 vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=l2UK8sdbVLo)
@@ -439,12 +428,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 18.1"H x 10.1"W x 12.4"D
+- Driver: 8" woofer
 - EQ: No
 - Frequency Response: 42Hz-20KHz (-3dB)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Watts: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=MWeoTZmU6l0)
@@ -459,12 +448,12 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.5"H x 9.1"W x 14.0"D
+- Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 38Hz-20KHz (-3dB)
 - Inputs: Bluetooth, XLR, RCA Input, Digital Optical, Digital Coax, USB
 - Outputs: None
 - Watts: 78w RMS Per Speaker
-- Woofer: 6.5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
     - [DSAUDIO.review: Edifier S3000 Pro DSP Modes Demo   Sound & Frequency Respnse Comparison](https://www.youtube.com/watch?v=Dsh3A4B6Lbo)
@@ -478,10 +467,9 @@ Last updated: March 02, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.5"H x 9.1"W x 14.0"D
+- Driver: 6.5" woofer, 1.5" Silk Dome Tweeters
 - EQ: No
-- Tweeter: 1.5" Silk Dome Tweeters
 - Watts: 80w RMS Per Speaker
-- Woofer: 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
 - Links

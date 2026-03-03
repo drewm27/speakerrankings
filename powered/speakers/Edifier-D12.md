@@ -16,6 +16,7 @@ The Edifier D12 ranks [#3 out of 14 total Medium Size Powered Desktop Speakers](
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 14.1" x 6.3" x 8.0" (359 x 159 x 203.5mm)
+- Driver: 2x 4" woofers, 2x 19mm silk dome tweeters
 - EQ: Yes (Bass/Treble controls)
 - Frequency Response: 54Hz - 20kHz
 - IP Rating: None
@@ -27,10 +28,8 @@ The Edifier D12 ranks [#3 out of 14 total Medium Size Powered Desktop Speakers](
 - Power Input: AC Power cable
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 19mm silk dome
 - Weight: 10.1lbs / 4.6kg
 - Wifi: No
-- Woofer: 2x 4"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)

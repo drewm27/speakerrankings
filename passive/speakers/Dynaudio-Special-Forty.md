@@ -12,11 +12,10 @@ The Dynaudio Special Forty ranks [#30 out of 48 total Large Size Bookshelf Speak
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 54hz
 - Dimensions: 14.1"H x 7.7"W x 12.1"D
+- Driver: 5.9" MSP (Magnesium Silicate Polymer) cone woofer, 1" Esotar soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" Esotar soft dome tweeter
 - Weight: 17.9lbs / 8.1kg each
-- Woofer: 5.9" MSP (Magnesium Silicate Polymer) cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dynaudio Special Forty Looks and Sounds Pretty Awesome!](https://www.youtube.com/watch?v=jDTOAw4gLNM)

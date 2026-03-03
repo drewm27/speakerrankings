@@ -12,11 +12,10 @@ The AsciLab C6B ranks [#4 out of 48 total Large Size Bookshelf Speakers](/passiv
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 54hz
 - Dimensions: 15.7"H x 8"W x 10.4"D
+- Driver: 6" Aluminium Ceramic Cone with cast Aluminium Chassis woofer, 1" Aluminium Ceramic Dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" Aluminium Ceramic Dome
 - Weight: 18.5lbs / 8.4kg each
-- Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)

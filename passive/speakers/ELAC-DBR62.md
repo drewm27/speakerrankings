@@ -13,11 +13,10 @@ The ELAC DBR62 ranks [#19 out of 48 total Large Size Bookshelf Speakers](/passiv
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 53hz
 - Dimensions: 14.1"H x 8.2"W x 10.8"D
+- Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 18.1lbs / 8.2kg each
-- Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Top 3 Things You Need to Know About ELAC DBR62 Before You Buy](https://www.youtube.com/watch?v=VCY_CDu5Xas)

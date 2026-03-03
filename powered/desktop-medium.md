@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Desktop Speakers](/powe
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), and [Large](/powered/bookshelf-large/) bookshelf speakers, or [Large Desktop](/powered/desktop-large/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -26,6 +26,7 @@ Last updated: March 02, 2026
 - Battery Life: No Battery
 - Bluetooth Version: 4.2
 - Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150mm)
+- Driver: 4" woofer, 2x 0.75" tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: None
@@ -37,11 +38,9 @@ Last updated: March 02, 2026
 - Stereo: Partially
 - Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast
 - TWS: No
-- Tweeter: 2x 0.75"
 - Weight: 5.3lbs / 2.4kg
 - Wifi: Yes
 - Wifi Version: IEEE 802.11 b/g/n/ac (2.4/5GHz)
-- Woofer: 4"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Audio Pro Addon C5 vs C5 MKii](https://www.youtube.com/watch?v=RoJNPpDDzLA)
@@ -82,6 +81,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 14.1" x 6.3" x 8.0" (359 x 159 x 203.5mm)
+- Driver: 2x 4" woofers, 2x 19mm silk dome tweeters
 - EQ: Yes (Bass/Treble controls)
 - Frequency Response: 54Hz - 20kHz
 - IP Rating: None
@@ -93,10 +93,8 @@ Last updated: March 02, 2026
 - Power Input: AC Power cable
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 19mm silk dome
 - Weight: 10.1lbs / 4.6kg
 - Wifi: No
-- Woofer: 2x 4"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
@@ -115,6 +113,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4mm)
+- Driver: 5" full-range woofer, 2x 25mm tweeters
 - EQ: Yes
 - Frequency Response: 50Hz - 20kHz (-6dB)
 - IP Rating: None
@@ -126,12 +125,10 @@ Last updated: March 02, 2026
 - Stereo: Partially (1 woofer)
 - Streaming Services: AirPlay, Chromecast, Spotify Connect, Alexa MRM
 - TWS: No
-- Tweeter: 2x 25mm
 - Voice Assistants: Amazon Alexa & Google Assistant (simultaneous)
 - Weight: 9.1lbs / 4.2kg
 - Wifi: Yes
 - Wifi Version: IEEE 802.11 a/b/g/n/ac/ax (2.4GHz/5GHz)
-- Woofer: 5" full-range
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: JBL Authentics 200 Full Review - This might be the best buy](https://www.youtube.com/watch?v=fFP_OPriRlM)
@@ -149,21 +146,19 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203mm)
+- Driver: 6" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 35Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 100.5dB @ 1m
-- Midrange: 2x 2"
 - Party Mode: No
 - Power: 150W (Woofer: 90W, Midrange: 2x15W, Tweeters: 2x15W)
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 0.75" Dome
 - Weight: 16.4lbs / 7.44kg
 - Wifi: No
-- Woofer: 6"
 - Woofer Cabinet: Bass-reflex (ported)
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: MY EARS ARE BLEEDING! Marshall Woburn III Unboxing](https://www.youtube.com/watch?v=U6Sec5_16x4)
@@ -181,22 +176,20 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: AptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- Driver: 2x 5.25" woofers, Integrated in woofers midrange, 2x 1" tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 30Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 110db
-- Midrange: Integrated in woofers
 - Party Mode: No
 - Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
-- Tweeter: 2x 1"
 - Voice Assistants: Yes (via app)
 - Weight: 18.9lbs / 8.57kg
 - Wifi: No
-- Woofer: 2x 5.25"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
@@ -214,20 +207,18 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- Driver: 2x 5.25" woofers, Integrated in woofers midrange, 2x 1" tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 30Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
-- Midrange: Integrated in woofers
 - Party Mode: No
 - Power: 90W
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
-- Tweeter: 2x 1"
 - Weight: 17.4lbs / 7.9kg
 - Wifi: No
-- Woofer: 2x 5.25"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
@@ -244,22 +235,20 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185mm)
+- Driver: 5.25" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux, Optical
-- Midrange: 2x 2"
 - Party Mode: No
 - Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
 - TWS: Yes
-- Tweeter: 2x 0.75" Dome
 - Voice Assistants: Yes
 - Weight: 10.3lbs / 4.65kg
 - Wifi: No
-- Woofer: 5.25"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
@@ -275,21 +264,19 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 13.78" x 7.87" x 7.32" (350 x 203 x 188mm)
+- Driver: 5" (midrange/woofer), 1x 5" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
-- Midrange: 1x 5"
 - Party Mode: No
 - Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Partially (1 woofer)
 - TWS: No
-- Tweeter: 2x 0.75" Dome
 - Weight: 9.7lbs / 4.4kg
 - Wifi: No
-- Woofer: 5" (midrange/woofer)
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Marshall Stanmore 2 vs Marshall Stanmore 3 ](https://www.youtube.com/watch?v=GzQ3o71xpgs)
@@ -307,20 +294,18 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 10.24" x 6.69" x 5.91" (260 x 170 x 150mm)
+- Driver: 4" (midrange/woofer), 1x 4" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, Aux
-- Midrange: 1x 4"
 - Party Mode: No
 - Power: 60W (Woofer: 30W, Tweeters: 2x15W)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - TWS: No
-- Tweeter: 2x 0.75" Dome
 - Weight: 6.3lbs / 2.85kg
 - Wifi: No
-- Woofer: 4" (midrange/woofer)
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Winner Winner Chicken Dinner! Marshall Acton 3 Review!](https://www.youtube.com/watch?v=2fYIobmLo-o)
@@ -337,21 +322,19 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150mm)
+- Driver: 4" (midrange/woofer), 1x 4" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: None
 - Inputs: Bluetooth, Aux
-- Midrange: 1x 4"
 - Party Mode: No
 - Power: 50W (Woofer: 25W, Tweeters: 2x12.5W)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - TWS: No
-- Tweeter: 2x 0.75" Dome
 - Voice Assistants: Yes
 - Weight: 4.5 lbs / 2.9kg
 - Wifi: No
-- Woofer: 4" (midrange/woofer)
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=yx947VUX1ec)
@@ -371,6 +354,7 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11.8" x 11.8" (300 x 300mm)
+- Driver: 1x 5.5" + passive radiator woofer
 - EQ: Yes (via app)
 - Frequency Response: 37Hz - 22kHz
 - Inputs: Bluetooth, Aux, Optical, Chromecast
@@ -383,7 +367,6 @@ Last updated: March 02, 2026
 - Voice Assistants: Yes (Google Assistant)
 - Weight: 9lbs / 4.1kg
 - Wifi: Yes
-- Woofer: 1x 5.5" + passive radiator
 - Woofer Cabinet: Sealed with passive radiator
 - Reviews, Comparisons and Sound Samples
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
@@ -400,17 +383,16 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11" x 7.3" x 7.3" (280 x 186 x 186mm)
+- Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
-- Midrange: 2x 2.25" full-range
 - Party Mode: No
 - Power: 60W (Woofer: 30W, Full-range: 2x15W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 10.3lbs / 4.7kg
 - Wifi: No
-- Woofer: 4.5"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
@@ -428,17 +410,16 @@ Last updated: March 02, 2026
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150mm)
+- Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
-- Midrange: 2x 2.25" full-range
 - Party Mode: No
 - Power: 50W (Woofer: 30W, Full-range: 2x10W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 8.5lbs / 3.9kg
 - Wifi: No
-- Woofer: 4.5"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)

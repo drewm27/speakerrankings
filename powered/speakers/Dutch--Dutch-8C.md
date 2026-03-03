@@ -16,18 +16,16 @@ The Dutch & Dutch 8C ranks [#1 out of 21 total Large Size Powered Bookshelf Spea
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 19"H x 10.5"W x 15"D
+- Driver: 2x 8" Aluminium Cone woofers, 8" Aluminium Cone midrange, 1" Aluminium/Magnesium dome tweeter
 - EQ: Yes (24-band parametric)
 - Frequency Response: 20Hz - 20kHz
 - Inputs: XLR
 - Max SPL: 106dB @ 1m continuous
-- Midrange: 8" Aluminium Cone
 - Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
 - Streaming Services: Yes (network streaming)
-- Tweeter: 1" Aluminium/Magnesium dome
 - Watts: 1000w Per Speaker
 - Weight: 57lbs / 26kg each
 - Wifi: Yes (Ethernet)
-- Woofer: 2x 8" Aluminium Cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dutch & Dutch 8c Bookshelf Speaker Review](https://www.youtube.com/watch?v=j38gkS-Q8f8)
     - [Erin's Audio Corner Website Dutch & Dutch 8C](https://www.erinsaudiocorner.com/loudspeakers/dutch_dutch_8c/)

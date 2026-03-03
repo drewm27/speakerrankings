@@ -13,11 +13,10 @@ The Klipsch RP-500M II ranks [#7 out of 20 total Medium Size Bookshelf Speakers]
 - Bass Extension (-10dB): 53hz
 - Bass Extension (-3dB): 67hz
 - Dimensions: 13.5"H x 6.8"W x 10.6"D
+- Driver: 5.25" Cerametallic™ cone woofer, 1" LTS (Linear Travel Suspension) titanium diaphragm tweeter with Tractrix® horn
 - Impedance: 8 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" LTS (Linear Travel Suspension) titanium diaphragm tweeter with Tractrix® horn
 - Weight: 13.1lbs / 5.9kg each
-- Woofer: 5.25" Cerametallic™ cone woofer
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why I think the Klipsch RP-500M II is BETTER than RP-600M II.](https://www.youtube.com/watch?v=2Bkgd2_WuH8)

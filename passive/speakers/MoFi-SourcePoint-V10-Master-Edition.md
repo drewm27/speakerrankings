@@ -12,12 +12,10 @@ The MoFi SourcePoint V10 Master Edition ranks [#3 out of 25 total Large Size Flo
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 38hz
 - Dimensions: 48.8"H x 15.5"W x 19.9"D
+- Driver: 10" woofer, 10" paper‑cone concentric midrange, 1.25" soft‑dome concentric tweeter
 - Impedance: 6 ohms
-- Midrange: 10" paper‑cone concentric
 - Sensitivity: 89dB
-- Tweeter: 1.25" soft‑dome concentric
 - Weight: 160lbs / 73kg
-- Woofer: 10"
 - Woofer Cabinet: Dual 10" passive rear passive radiators
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is This the Best Speaker of 2025?  MoFi SourcePoint V10 Review.](https://www.youtube.com/watch?v=0-2OWJ0RmX8)

@@ -12,12 +12,12 @@ The Presonus Eris E5 ranks [#10 out of 24 total Medium Size Powered Bookshelf Sp
 - App: No
 - Bluetooth: No
 - Dimensions: 10.2"H x 7.0"W x 7.7"D
+- Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz
 - Inputs: TRS, XLR, RCA
 - Watts: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
-- Woofer: 5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
     - [DSAUDIO.review: Yamaha HS5 vs Presonus Eris E5  Sound Demo](https://www.youtube.com/watch?v=SWT-9LfiRGc)

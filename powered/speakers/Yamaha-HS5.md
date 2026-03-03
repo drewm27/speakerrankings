@@ -13,12 +13,12 @@ The Yamaha HS5 ranks [#9 out of 24 total Medium Size Powered Bookshelf Speakers]
 - App: No
 - Bluetooth: No
 - Dimensions: 11.2"H x 6.7"W x 8.7"D
+- Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)
 - Inputs: XLR
 - Watts: 45w Per Speaker
 - Weight: 12.1lbs / 5.5kg each
-- Woofer: 5"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)

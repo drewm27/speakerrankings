@@ -13,12 +13,10 @@ The KEF R11 Meta ranks [#7 out of 25 total Large Size Floorstanding Speakers](/p
 - Bass Extension (-10dB): 31hz
 - Bass Extension (-3dB): 64hz
 - Dimensions: 51"H x 12.2"W x 15.1"D
+- Driver: 4 x 165 mm (6.5 in.) hybrid aluminium cone woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 89.5dB
-- Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
 - Weight: 80.5lbs / 36.5kg each
-- Woofer: 4 x 165 mm (6.5 in.) hybrid aluminium cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review KEF R11 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-r11-meta-tower-speaker-review.53282/)

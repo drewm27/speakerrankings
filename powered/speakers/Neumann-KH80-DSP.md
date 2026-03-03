@@ -16,15 +16,14 @@ The Neumann KH80 DSP ranks [#4 out of 24 total Medium Size Powered Bookshelf Spe
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 13.6"H x 10.8"W x 9.6"D
+- Driver: 4.1" woofer, 1" fabric dome tweeter
 - EQ: Yes (via DSP)
 - Frequency Response: 57 Hz - 25 kHz (+-3 dB)
 - Inputs: XLR
 - Max SPL: 110.7dB @ 1m
 - Power: 140W (90W woofer + 50W tweeter)
-- Tweeter: 1" fabric dome
 - Watts: 140w Per Speaker
 - Weight: 9.1lbs / 4.1kg each
-- Woofer: 4.1"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
     - [DSAUDIO.review: Neumann KH80 DSP vs Yamaha HS8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=LcldXF0mx0I)

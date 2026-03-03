@@ -13,12 +13,10 @@ The MoFi SourcePoint 888 ranks [#10 out of 25 total Large Size Floorstanding Spe
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 34hz
 - Dimensions: 41.2"H x 12.6"W x 16.1"D
+- Driver: Dual 8" paper cone woofers, 8” Paper Cone midrange, 1.25" wide roll soft dome tweeter
 - Impedance: 6 ohms
-- Midrange: 8” Paper Cone
 - Sensitivity: 85.5dB
-- Tweeter: 1.25" wide roll soft dome tweeter
 - Weight: 96.2lbs / 43kg each
-- Woofer: Dual 8" paper cone woofers
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the MoFi SourcePoint 888 Could Be Your Last Speaker Purchase](https://www.youtube.com/watch?v=9bv5Mt5X__k)

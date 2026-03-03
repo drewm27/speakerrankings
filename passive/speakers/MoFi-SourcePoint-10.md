@@ -13,11 +13,10 @@ The MoFi SourcePoint 10 ranks [#8 out of 48 total Large Size Bookshelf Speakers]
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 56hz
 - Dimensions: 22.5"H x 14.5"W x 16.6"D
+- Driver: 10" Paper-pulp Cone woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 88dB
-- Tweeter: 1.25-inch soft-dome
 - Weight: 46.2lbs / 21.0kg each
-- Woofer: 10" Paper-pulp Cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: MoFi SourcePoint 10 Review](https://www.youtube.com/watch?v=DcYVu0TQtDs)

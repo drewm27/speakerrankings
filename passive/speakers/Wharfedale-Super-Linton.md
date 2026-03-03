@@ -12,12 +12,10 @@ The Wharfedale Super Linton ranks [#16 out of 48 total Large Size Bookshelf Spea
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 77hz
 - Dimensions: 23.8"H x 11.8"W x 13.0"D
+- Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 4 ohms
-- Midrange: 5"(135mm) black woven Kevlar® cone
 - Sensitivity: 88dB
-- Tweeter: 1" (25mm) soft dome
 - Weight: 43.7lbs / 19.8kg each
-- Woofer: 8"(200mm) black woven Kevlar® cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: 5 Reasons Wharfedale Super Linton is the Hidden Gem of Audio Equipment](https://www.youtube.com/watch?v=kIf6677oMTA)

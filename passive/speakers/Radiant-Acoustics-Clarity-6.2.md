@@ -13,11 +13,10 @@ The Radiant Acoustics Clarity 6.2 ranks [#10 out of 48 total Large Size Bookshel
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 55hz
 - Dimensions: 14.3"H x 8.7"W x 10.5"D
+- Driver: 6.5" PURIFI USHINDI woofer, Custom AMT (Air Motion Transformer) tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
-- Tweeter: Custom AMT (Air Motion Transformer)
 - Weight: 23.8lbs / 10.8kg each
-- Woofer: 6.5" PURIFI USHINDI
 - Woofer Cabinet: Passive radiator
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: New Brand Comes Out Swinging: Radiant Acoustics Clarity 6.2 Review](https://www.youtube.com/watch?v=wV52ek8lUWc)

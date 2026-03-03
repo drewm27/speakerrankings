@@ -13,11 +13,10 @@ The KEF Q150 ranks [#15 out of 20 total Medium Size Bookshelf Speakers](/passive
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 51hz
 - Dimensions: 11.9"H x 7.1"W x 10.9"D
+- Driver: 5.1" aluminium Uni-Q woofer, 1" vented aluminium dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" vented aluminium dome
 - Weight: 12.3lbs / 5.6kg each
-- Woofer: 5.1" aluminium Uni-Q
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kef's Cheapest Bookshelf.  Is the Q150 worth your money?](https://www.youtube.com/watch?v=SiGslBHnK9c)
     - [Erin's Audio Corner Website KEF Q150](https://www.erinsaudiocorner.com/loudspeakers/kef_q150/)

@@ -15,6 +15,7 @@ The Audio Pro C5 MkII ranks [#1 out of 14 total Medium Size Powered Desktop Spea
 - Battery Life: No Battery
 - Bluetooth Version: 4.2
 - Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150mm)
+- Driver: 4" woofer, 2x 0.75" tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: None
@@ -26,11 +27,9 @@ The Audio Pro C5 MkII ranks [#1 out of 14 total Medium Size Powered Desktop Spea
 - Stereo: Partially
 - Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast
 - TWS: No
-- Tweeter: 2x 0.75"
 - Weight: 5.3lbs / 2.4kg
 - Wifi: Yes
 - Wifi Version: IEEE 802.11 b/g/n/ac (2.4/5GHz)
-- Woofer: 4"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Storytripper HD: Audio Pro Addon C5 vs C5 MKii](https://www.youtube.com/watch?v=RoJNPpDDzLA)

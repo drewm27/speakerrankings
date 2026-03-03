@@ -13,12 +13,10 @@ The Revel F228Be ranks [#6 out of 25 total Large Size Floorstanding Speakers](/p
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 61hz
 - Dimensions: 50.9"H x 13.5"W x 17.6"D
+- Driver: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames woofers, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
-- Midrange: 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame
 - Sensitivity: 89.5dB
-- Tweeter: 1" (25mm) Beryllium dome, with acoustic lens waveguide
 - Weight: 112.6lbs / 51kg each
-- Woofer: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel F228Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f228be-review-speaker.23659/)

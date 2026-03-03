@@ -12,13 +12,13 @@ The Edifier R1280DB ranks [#23 out of 24 total Medium Size Powered Bookshelf Spe
 - App: No
 - Bluetooth: No
 - Dimensions: 9.2"H x 5.7"W x 7.7"D
+- Driver: 4" woofer
 - EQ: No
 - Frequency Response: 55 Hz-20 kHz (-3dB)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Watts: 42w RMS Per Speaker
 - Weight: 10.8lbs / 4.9kg
-- Woofer: 4"
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
     - [DSAUDIO.review: Edifier R1280DBs  vs  Edifier R1700BTs   Sound Comparison](https://www.youtube.com/watch?v=Xg2jvzQDPds)

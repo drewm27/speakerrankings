@@ -13,11 +13,10 @@ The Polk Monitor XT20 ranks [#36 out of 48 total Large Size Bookshelf Speakers](
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 75hz
 - Dimensions: 13"H x 7.5"W x 11"D
+- Driver: 6.5" bilaminate paper cone woofer, 1" Terylene dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" Terylene dome tweeter
 - Weight: 12lbs / 5.4kg each
-- Woofer: 6.5" bilaminate paper cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)

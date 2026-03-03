@@ -15,15 +15,14 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
 - Bluetooth Codecs: SBC, LDAC
 - Bluetooth Version: 5.3
 - Dimensions: 6.6"H x 3.9"W x 5.8"D
+- Driver: 3" woofer, 1" silk dome tweeter
 - EQ: Yes
 - Frequency Response: 55Hz - 40kHz
 - Inputs: Bluetooth, Aux, USB-C
 - Max SPL: 96dB @ 1m
 - Power: 66W total (33W per speaker)
-- Tweeter: 1" silk dome
 - Watts: 33w RMS Per Speaker
 - Weight: 6.8lbs / 3kg
-- Woofer: 3"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)

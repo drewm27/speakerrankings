@@ -15,17 +15,16 @@ The Klipsch The One II ranks [#14 out of 14 total Medium Size Powered Desktop Sp
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150mm)
+- Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
-- Midrange: 2x 2.25" full-range
 - Party Mode: No
 - Power: 50W (Woofer: 30W, Full-range: 2x10W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 8.5lbs / 3.9kg
 - Wifi: No
-- Woofer: 4.5"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Marshall Acton 2 vs Klipsch The One 2 - which sounds better?](https://www.youtube.com/watch?v=mtr2od2_Om0)

@@ -16,7 +16,7 @@ The law of diminishing returns applies, many moderately-priced options here prov
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 
-Last updated: March 02, 2026
+Last updated: March 03, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -24,11 +24,10 @@ Last updated: March 02, 2026
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
 - Dimensions: 24"H x 10"W x 14"D
+- Driver: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure woofer, GR-Research Neo3 Planar Magnetic Ribbon open baffle tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
-- Tweeter: GR-Research Neo3 Planar Magnetic Ribbon open baffle
 - Weight: 20.6lbs / 9.3kg each
-- Woofer: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [GR-Research: NX-Treme Strengths in a Bookshelf Speaker? Yup.](https://www.youtube.com/watch?v=JX4b44M7R_o)
@@ -42,12 +41,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 52hz
 - Dimensions: 17.3"H x 8.1"W x 16.6"D
+- Driver: 165 mm (6.5 in.) aluminium cone woofer, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 125 mm (5 in.) aluminium cone
 - Sensitivity: 83dB
-- Tweeter: 25 mm (1 in.) aluminium dome with MAT
 - Weight: 40.1lbs / 18.2kg each
-- Woofer: 165 mm (6.5 in.) aluminium cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: First Look!! Kef Reference 1 META Bookshelf Speaker Review.](https://www.youtube.com/watch?v=4hyKx9GiB8o)
     - [Erin's Audio Corner Website KEF Reference 1 Meta Review](https://www.erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/)
@@ -62,10 +59,9 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 40hz
 - Dimensions: 17.7"H x 9.4"W x 8.7"D
+- Driver: 6.5" Purifi PTT-OEM Midwoofer, Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
 - Impedance: 6 ohms
 - Sensitivity: 82dB
-- Tweeter: Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
-- Woofer: 6.5" Purifi PTT-OEM Midwoofer
 - Woofer Cabinet: Passive Radiators
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Class Leading. March Audio Sointuva AWG Review.](https://www.youtube.com/watch?v=CBIjLicpAck)
@@ -80,11 +76,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 54hz
 - Dimensions: 15.7"H x 8"W x 10.4"D
+- Driver: 6" Aluminium Ceramic Cone with cast Aluminium Chassis woofer, 1" Aluminium Ceramic Dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" Aluminium Ceramic Dome
 - Weight: 18.5lbs / 8.4kg each
-- Woofer: 6" Aluminium Ceramic Cone with cast Aluminium Chassis
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
@@ -98,11 +93,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 77hz
 - Dimensions: 14"H x 7.5"W x 11.5"D
+- Driver: GR-Research M165 6.5" paper cone, non-resonant polymer frame woofer, GR-Research Neo3 Planar Magnetic Ribbon deep rear cup tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB
-- Tweeter: GR-Research Neo3 Planar Magnetic Ribbon deep rear cup
 - Weight: 16lbs / 7.3kg each
-- Woofer: GR-Research M165 6.5" paper cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: You've Been Waiting for This... GR Research NX-Bravo Review!](https://www.youtube.com/watch?v=g9MsYUONNhg)
@@ -118,12 +112,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 37hz
 - Bass Extension (-3dB): 76hz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D
+- Driver: 6.5" Hybrid aluminum ported woofer, 5" aluminum cone midrange, 1" vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 5" aluminum cone
 - Sensitivity: 87dB
-- Tweeter: 1" vented aluminium dome with MAT
 - Weight: 27.3lbs / 12.4kg each
-- Woofer: 6.5" Hybrid aluminum ported
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF R3 Meta: The Speaker to Beat.](https://www.youtube.com/watch?v=nbZGj69rI0c)
@@ -143,12 +135,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 53hz
 - Dimensions: 16.3"H x 8.3"W x 12.4"D
+- Driver: 165 mm (6.5 in.) hybrid aluminium cone woofer, 100 mm (4 in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
-- Midrange: 100 mm (4 in.) aluminium cone
 - Sensitivity: 85dB
-- Tweeter: 19 mm (0.75 in.) vented aluminium dome with MAT
 - Weight: 20.9lbs / 9.5kg each
-- Woofer: 165 mm (6.5 in.) hybrid aluminium cone
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: HiFi Perfection? KEF CONCERTO META Delivers!](https://www.youtube.com/watch?v=O-7b6sqDOus)
     - [Erin's Audio Corner Website KEF Q Concerto Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_concerto_q_meta/)
@@ -165,11 +155,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 56hz
 - Dimensions: 22.5"H x 14.5"W x 16.6"D
+- Driver: 10" Paper-pulp Cone woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 88dB
-- Tweeter: 1.25-inch soft-dome
 - Weight: 46.2lbs / 21.0kg each
-- Woofer: 10" Paper-pulp Cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: MoFi SourcePoint 10 Review](https://www.youtube.com/watch?v=DcYVu0TQtDs)
@@ -183,11 +172,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 52hz
 - Dimensions: 18"H x 11.4"W x 13.2"D
+- Driver: 8" woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 86dB
-- Tweeter: 1.25-inch soft-dome
 - Weight: 27.9lbs / 12.7kg each
-- Woofer: 8"
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why Do People Love the MoFi SourcePoint 8?](https://www.youtube.com/watch?v=h90tqdGsgP4)
     - [Erin's Audio Corner Website MoFi SourcePoint 8](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/)
@@ -205,11 +193,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 55hz
 - Dimensions: 14.3"H x 8.7"W x 10.5"D
+- Driver: 6.5" PURIFI USHINDI woofer, Custom AMT (Air Motion Transformer) tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
-- Tweeter: Custom AMT (Air Motion Transformer)
 - Weight: 23.8lbs / 10.8kg each
-- Woofer: 6.5" PURIFI USHINDI
 - Woofer Cabinet: Passive radiator
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: New Brand Comes Out Swinging: Radiant Acoustics Clarity 6.2 Review](https://www.youtube.com/watch?v=wV52ek8lUWc)
@@ -222,11 +209,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 103hz
 - Dimensions: 15.2"H x 8.3"W x 10.3"D
+- Driver: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame woofer, 1" Beryllium dome with acoustic lens waveguide tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" Beryllium dome with acoustic lens waveguide
 - Weight: 22lbs / 10.0kg each
-- Woofer: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Revel M126Be is Almost Perfect.](https://www.youtube.com/watch?v=KecbtoerdE0)
     - [Erin's Audio Corner Website Revel M126Be](https://www.erinsaudiocorner.com/loudspeakers/revel_m126be/)
@@ -240,12 +226,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 47hz
 - Dimensions: 20"H x 8"W x 12.5"D
+- Driver: 6" Ceramic woofer, Balanced Mode Radiator 2.5" midrange, RAAL 64-10X OEM tweeter
 - Impedance: 4 ohms
-- Midrange: Balanced Mode Radiator 2.5"
 - Sensitivity: 84dB
-- Tweeter: RAAL 64-10X OEM
 - Weight: 32lbs / 14.5kg each
-- Woofer: 6" Ceramic
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Philharmonic BMR Monitor v2 Review.](https://www.youtube.com/watch?v=7k0PNLo0j9g)
     - [Erin's Audio Corner Website Philharmonic BMR Monitor](https://www.erinsaudiocorner.com/loudspeakers/philharmonic_bmr_v2/)
@@ -257,11 +241,9 @@ Last updated: March 02, 2026
 - Negatives: 3dB dip at 300hz. Vertical directivity is just okay
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 60hz
+- Driver: 6.5" Kevlar woofer, 2" Dome midrange, 1" Soft Dome tweeter
 - Impedance: 4 ohms
-- Midrange: 2" Dome
 - Sensitivity: 87dB
-- Tweeter: 1" Soft Dome
-- Woofer: 6.5" Kevlar
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Swans (HiVi) 3.1A Sehlin Sound Solutions mod](https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/)
@@ -275,10 +257,9 @@ Last updated: March 02, 2026
 - Negatives: Some directivity error in crossover region
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 60hz
+- Driver: 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofer, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 4 ohms
 - Sensitivity: 85dB
-- Tweeter: 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
-- Woofer: 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofer
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel M106](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/)
 - Links
@@ -291,12 +272,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 41hz
 - Dimensions: 31.8"H x 11.4"W x 17.6"D
+- Driver: Dual 8" woofers, 5" midrange, 28mm tweeter
 - Impedance: 4 ohms
-- Midrange: 5"
 - Sensitivity: 84dB
-- Tweeter: 28mm
 - Weight: 104lbs / 47kg each
-- Woofer: Dual 8"
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: When Hype Meets Reality: Arendal 1528 Monitor 8 Review](https://www.youtube.com/watch?v=BvKE3jpnsI8)
@@ -310,12 +289,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 77hz
 - Dimensions: 23.8"H x 11.8"W x 13.0"D
+- Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 4 ohms
-- Midrange: 5"(135mm) black woven Kevlar® cone
 - Sensitivity: 88dB
-- Tweeter: 1" (25mm) soft dome
 - Weight: 43.7lbs / 19.8kg each
-- Woofer: 8"(200mm) black woven Kevlar® cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: 5 Reasons Wharfedale Super Linton is the Hidden Gem of Audio Equipment](https://www.youtube.com/watch?v=kIf6677oMTA)
@@ -332,12 +309,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 52hz
 - Dimensions: 22.2"H x 11.8"W x 13.0"D
+- Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 6 ohms
-- Midrange: 5"(135mm) black woven Kevlar® cone
 - Sensitivity: 85dB
-- Tweeter: 1" (25mm) soft dome
 - Weight: 40.6lbs / 18.4kg each
-- Woofer: 8"(200mm) black woven Kevlar® cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Discover Why I Can't Stop Raving About the Wharfedale Linton 85th Anniversary Speaker](https://www.youtube.com/watch?v=CaxknyOrf3I)
@@ -354,11 +329,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 56hz
 - Dimensions: 17.4"H x 8.5"W x 14.2"D
+- Driver: 18 cm MSP woofer, 28mm Esotar 2i with Hexis tweeter
 - Impedance: 4 ohms
 - Sensitivity: 82.5dB
-- Tweeter: 28mm Esotar 2i with Hexis
 - Weight: 30.9lbs / 14kg each
-- Woofer: 18 cm MSP
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dynaudio Contour 20i Bookshelf Speaker Review](https://www.youtube.com/watch?v=HcAwjBpzNbE)
@@ -372,11 +346,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 53hz
 - Dimensions: 14.1"H x 8.2"W x 10.8"D
+- Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 18.1lbs / 8.2kg each
-- Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Top 3 Things You Need to Know About ELAC DBR62 Before You Buy](https://www.youtube.com/watch?v=VCY_CDu5Xas)
@@ -393,11 +366,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 76hz
 - Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 17.3lbs / 7.8kg each
-- Woofer: 6.5" Aramid Fiber
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
@@ -422,12 +394,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 56hz
 - Dimensions: 22.1"H x 11.3"W x 15.3"D
+- Driver: 6.5" Black Glass Fibre Matrix Cone woofer, 4" Black Glass Fibre Matrix Cone midrange, 27x90mm AMT tweeter
 - Impedance: 6 ohms
-- Midrange: 4" Black Glass Fibre Matrix Cone
 - Sensitivity: 87dB
-- Tweeter: 27x90mm AMT
 - Weight: 45lbs / 20.4kg each
-- Woofer: 6.5" Black Glass Fibre Matrix Cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Why the Wharfedale AURA 2 Will Blow Your Mind](https://www.youtube.com/watch?v=MCNQDNpM4x0)
@@ -488,11 +458,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 59hz
 - Dimensions: 14.4"H x 7"W x 11"D
+- Driver: 6.5" aluminum cone woofer, 1" soft dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 16.5lbs / 7.5kg each
-- Woofer: 6.5" aluminum cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Buchardt S400 MKII Review](https://www.youtube.com/watch?v=yXhsJejwGuw)
@@ -506,11 +475,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 64hz
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
+- Driver: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame woofer, 1" Peerless India T26SG tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" Peerless India T26SG
 - Weight: 17lbs / 7.7kg each
-- Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
@@ -524,9 +492,9 @@ Last updated: March 02, 2026
 - Negatives: Resonances at 600 and 5khz
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 59hz
+- Driver: 6.5" woofer
 - Impedance: 6 ohms
 - Sensitivity: 85dB
-- Woofer: 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
 - Links
@@ -537,11 +505,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 54hz
 - Dimensions: 14.1"H x 7.7"W x 12.1"D
+- Driver: 5.9" MSP (Magnesium Silicate Polymer) cone woofer, 1" Esotar soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" Esotar soft dome tweeter
 - Weight: 17.9lbs / 8.1kg each
-- Woofer: 5.9" MSP (Magnesium Silicate Polymer) cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Dynaudio Special Forty Looks and Sounds Pretty Awesome!](https://www.youtube.com/watch?v=jDTOAw4gLNM)
@@ -556,11 +523,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 76hz
 - Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Driver: 6.5" aramid fiber cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 17.3lbs / 7.8kg each
-- Woofer: 6.5" aramid fiber cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Want Hi-Fi Sound on a Budget? Watch This ELAC DEBUT DB63 Review Now](https://www.youtube.com/watch?v=8kmjrC84vRg)
@@ -602,8 +568,7 @@ Last updated: March 02, 2026
 - Negatives: A noticeable resonance in the driver around 750hz
 - Bass Extension (-10dB): 33hz
 - Bass Extension (-3dB): 54hz
-- Tweeter: 1.1" Cerotar soft dome with Hexis
-- Woofer: 7.1" Magnesium Silicate Polymer
+- Driver: 7.1" Magnesium Silicate Polymer woofer, 1.1" Cerotar soft dome with Hexis tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Hands On With the Dynaudio Emit 20](https://www.youtube.com/watch?v=Z7R9YApGY6w)
     - [Erin's Audio Corner Website Dynaudio Emit 20](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/)
@@ -615,10 +580,9 @@ Last updated: March 02, 2026
 - Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
 - Bass Extension (-10dB): 37hz
 - Bass Extension (-3dB): 52hz
+- Driver: 165 mm (6.5 in.) aluminium cone woofer, 25 mm (1 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
-- Tweeter: 25 mm (1 in.) vented aluminium dome with MAT
-- Woofer: 165 mm (6.5 in.) aluminium cone
 - Woofer Cabinet: Rear ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)
@@ -632,11 +596,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 75hz
 - Dimensions: 13"H x 7.5"W x 11"D
+- Driver: 6.5" bilaminate paper cone woofer, 1" Terylene dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" Terylene dome tweeter
 - Weight: 12lbs / 5.4kg each
-- Woofer: 6.5" bilaminate paper cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Polk’s new budget XT Speakers. Reviewed!](https://www.youtube.com/watch?v=88bWsJ97tI0)
@@ -652,11 +615,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 60hz
 - Dimensions: 17.2"H x 10.4"W x 11.8"D
+- Driver: 5.9" Super Linear Magnet cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 39.2lbs / 17.8kg each
-- Woofer: 5.9" Super Linear Magnet cone
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review ATC SCM19](https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/)
@@ -704,11 +666,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 70hz
 - Dimensions: 15.7"H x 8"W x 12.5"D
+- Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Weight: 13lbs / 5.9kg each
-- Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
@@ -724,11 +685,10 @@ Last updated: March 02, 2026
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 73hz
 - Dimensions: 15.7"H x 8"W x 11.9"D
+- Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
 - Sensitivity: 86dB
-- Tweeter: 1" titanium LTS vented tweeter with Tractrix horn
 - Weight: 16lbs / 7.3kg each
-- Woofer: 6.5" Cerametallic cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The Truth about Klipsch’s “NEW” Sound. RP-600M Update.](https://www.youtube.com/watch?v=SrAmNbOJsa0)
@@ -749,11 +709,10 @@ Last updated: March 02, 2026
 ## #44 [Wharfedale Diamond 9.1](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Wharfedale+Diamond+9.1&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Wharfedale91&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+9.1)]: Discontinued
 - Positives: The first design was a pretty good sounding speaker, the speaker was then [outsourced to China and lost 1.5kg and was made with cheap parts and sounds much worse](https://www.reddit.com/r/BudgetAudiophile/comments/1e9k4jf/dont_buy_wharfedale_diamond_91_they_have_reduced/). Slightly rolled off in the treble by about 3dB
 - Negatives: All current new ones sold today are the crap version.
+- Driver: 6.5" Kevlar cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" soft dome tweeter
 - Weight: 12lbs / 5.5kg (good version), 10lbs / 4.5kg (bad version) each
-- Woofer: 6.5" Kevlar cone
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [GR-Research: $4000 Revel VS $350 Wharfedale  The Results Might Surprise You!](https://www.youtube.com/watch?v=1S-jTJK43t0)
@@ -772,8 +731,7 @@ Last updated: March 02, 2026
 
 ## #46 [Fosi Audio SP601](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers) [[Fosiaudio](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Fosi+Audio+SP601)]: $400
 - Negatives: Very flawed speakers with a big midrange dip and a 4db bump in the 5khz range and some resonances around 5khz
-- Tweeter: 1.5" silk dome tweeter
-- Woofer: 7" rubber surround PP cone
+- Driver: 7" rubber surround PP cone woofer, 1.5" silk dome tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
     - [Audio Science Review Fosi Audio SP60](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-sp601-2-way-in-room-bookshelf-speakers-for-home-theater-tv-desktop.63508/)
@@ -785,8 +743,7 @@ Last updated: March 02, 2026
 - Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
 - Bass Extension (-10dB): 75hz
 - Bass Extension (-3dB): 126hz
-- Tweeter: 1.4" soft dome
-- Woofer: 7.1"
+- Driver: 7.1" woofer, 1.4" soft dome tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Yamaha NS-10M: The Iconic Studio Monitor That Shaped Modern Music](https://www.youtube.com/watch?v=0pYKuBdhmdc)
     - [Erin's Audio Corner Website Yamaha NS-10](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns10m_studio/)
@@ -797,10 +754,9 @@ Last updated: March 02, 2026
 - Negatives: Horrible frequency response. 4dB peak at 1.3khz, 4dB dip at 1.7Khz, 4dB peaks at 3.5Khz and 4.3Khz. Huge 19dB dip at 6.8Khz. Significant ringing in the midrange and lower treble region. Very edgy sounding in the upper mids and lower treble. This is representative of a lot of Zu Audio speakers which I've also seen measured. A lot of frequency response issues. Erin stated it's one of the worst speakers he has ever tested.
 - Bass Extension (-10dB): 56hz
 - Bass Extension (-3dB): 92hz
+- Driver: 8” coax HE (Eminence/Zu) woofer, Eminence ASD-1001 tweeter
 - Impedance: 8 ohms
 - Sensitivity: 91dB
-- Tweeter: Eminence ASD-1001
-- Woofer: 8” coax HE (Eminence/Zu)
 - Woofer Cabinet: Front ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Zu Audio Method Bookshelf Speaker Review](https://www.youtube.com/watch?v=INhqKX1QacQ)

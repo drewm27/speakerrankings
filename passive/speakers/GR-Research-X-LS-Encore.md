@@ -12,11 +12,10 @@ The GR-Research X-LS Encore ranks [#28 out of 48 total Large Size Bookshelf Spea
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 64hz
 - Dimensions: 13.5"H x 8.5"W x 12.125"D
+- Driver: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame woofer, 1" Peerless India T26SG tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
-- Tweeter: 1" Peerless India T26SG
 - Weight: 17lbs / 7.7kg each
-- Woofer: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review GR Research X-LS Encore](https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/)
