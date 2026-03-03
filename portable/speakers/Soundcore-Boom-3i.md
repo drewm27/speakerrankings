@@ -14,12 +14,17 @@ The Soundcore Boom 3i ranks [#27 out of 131 total Medium Size Portable Bluetooth
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
+- Bluetooth Version: 5.3
+- Dimensions: 8.3" x 3.3" x 3.1" (210 x 85 x 78.5mm)
+- Driver: 94mm woofer + tweeter
 - EQ: Yes
 - IP Rating: IP68
 - Party Mode: No
+- Power: 50W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Weight: 1.7lbs / 783g
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Picky Audio: Compact Speaker BEAST! 🔥 soundcore Boom 3i](https://www.youtube.com/watch?v=EqSWcfgbX-8)

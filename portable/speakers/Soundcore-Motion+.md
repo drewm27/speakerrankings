@@ -17,11 +17,15 @@ The Soundcore Motion+ ranks [#3 out of 131 total Medium Size Portable Bluetooth 
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
 - EQ: Yes (9 band)
+- Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

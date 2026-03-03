@@ -110,11 +110,15 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72mm)
+- Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
 - Max Volume: 103db
 - Party Mode: No
+- Power: 28W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -185,11 +189,17 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50mm)
+- Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
+- Frequency Response: 65Hz - 40kHz
 - IP Rating: IPX7
 - Max Volume: 101db
+- Power: 30W
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.70lbs / 772g
@@ -220,11 +230,15 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
 - EQ: Yes (9 band)
+- Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -449,9 +463,14 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
+- Bluetooth Version: 5.0
+- Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
+- Driver: 70mm custom driver
 - EQ: Yes
+- Frequency Response: 60Hz - 18kHz
 - IP Rating: Splash resistant
 - Max Volume: 106db
+- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -541,7 +560,9 @@ Bose speakers are generally tuned to have boosted upper bass which can mask the 
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail. Self drains the battery about 10% a week.
 - App: Yes
 - Battery Life: 12 hours
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.9" x 3.6" x 2.1" (201 x 90 x 52mm)
 - EQ: Yes (3 band)
 - IP Rating: IP67
 - Party Mode: Yes (Bose Party mode)

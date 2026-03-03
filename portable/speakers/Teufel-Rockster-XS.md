@@ -12,6 +12,10 @@ The Teufel Rockster XS ranks [#31 out of 131 total Medium Size Portable Bluetoot
 - Negatives: Not quite as deep of bass as others. Only available in Europe.
 - Aux Input: Yes
 - Battery Life: 14 hours
+- Bluetooth Codecs: aptX
+- Bluetooth Version: 4.0
+- Dimensions: 2.7" x 3.4" x 7.0" (69 x 86 x 178mm)
+- Power: 32W
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 1.59lbs / 720g

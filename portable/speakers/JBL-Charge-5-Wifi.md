@@ -11,13 +11,23 @@ The JBL Charge 5 Wifi ranks [#25 out of 131 total Medium Size Portable Bluetooth
 - Positives: Has Wifi. Sounds exactly the same as the non-Wifi version
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.3
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
+- Frequency Response: 60Hz - 20kHz
+- IP Rating: IP67
 - Max Volume: 99db
 - Party Mode: No
+- Power: 40W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
+- Streaming Services: AirPlay, Chromecast, Spotify Connect, Alexa Multi-Room Music
 - TWS: Yes
 - Weight: 2.2lbs / 1000g
 - Wifi: Yes

@@ -12,7 +12,9 @@ The Bose Soundlink Flex 2nd gen ranks [#33 out of 131 total Medium Size Portable
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail. Self drains the battery about 10% a week.
 - App: Yes
 - Battery Life: 12 hours
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.9" x 3.6" x 2.1" (201 x 90 x 52mm)
 - EQ: Yes (3 band)
 - IP Rating: IP67
 - Party Mode: Yes (Bose Party mode)

@@ -12,9 +12,16 @@ The JBL Charge Essential 2 ranks [#35 out of 131 total Medium Size Portable Blue
 - App: No
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 20 hours
+- Bluetooth Version: 5.1
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: No
+- Frequency Response: 60Hz - 20kHz
+- IP Rating: IPX7
 - Party Mode: No
+- Power: 40W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - Weight: 2.05lbs / 930g
 - Reviews, Comparisons and Sound Samples

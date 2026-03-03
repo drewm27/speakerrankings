@@ -29,11 +29,15 @@ Last updated: March 03, 2026
 - Battery Life: 16 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72mm)
+- Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
 - Max Volume: 103db
 - Party Mode: No
+- Power: 28W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -62,11 +66,17 @@ Last updated: March 03, 2026
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50mm)
+- Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
+- Frequency Response: 65Hz - 40kHz
 - IP Rating: IPX7
 - Max Volume: 101db
+- Power: 30W
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.70lbs / 772g
@@ -97,11 +107,15 @@ Last updated: March 03, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
 - EQ: Yes (9 band)
+- Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -157,10 +171,14 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Bass Extension (-10dB): 57hz
 - Battery Life: 13 hours
+- Bluetooth Codecs: aptX, AAC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes
+- Charging Time: 3.5 hours
+- Driver: 2x 40mm full-range drivers + passive radiator
 - IP Rating: IP67
 - Max Volume: 97db
+- Power: 27W
 - Power Input: Micro USB
 - Stereo: Yes
 - Weight: 1.6lbs / 750g
@@ -185,9 +203,14 @@ Last updated: March 03, 2026
 - Battery Life: 30 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
+- Bluetooth Version: 5.0
+- Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
+- Driver: 70mm custom driver
 - EQ: Yes
+- Frequency Response: 60Hz - 18kHz
 - IP Rating: Splash resistant
 - Max Volume: 106db
+- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -210,10 +233,15 @@ Last updated: March 03, 2026
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Latency: 60ms
+- Bluetooth Version: 5.0
 - Built in Microphone: No
+- Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
+- Driver: 70mm custom driver
 - EQ: Yes
+- Frequency Response: 60Hz - 18kHz
 - IP Rating: Splash resistant
 - Max Volume: 105db
+- Power: 40W
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
@@ -322,12 +350,18 @@ Last updated: March 03, 2026
 - Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
+- Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
+- Dimensions: 9.0" x 3.9" x 3.7" (228.8 x 98.5 x 94.0mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (7 band)
+- Frequency Response: 56Hz - 20kHz (-6dB)
 - IP Rating: IP68
 - Max Volume: 102db
 - Party Mode: Yes (Auracast)
+- Power: 45W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 2.18lbs / 990g
@@ -355,13 +389,19 @@ Last updated: March 03, 2026
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 116ms
+- Bluetooth Version: 5.1
 - Built in Microphone: No
+- Dimensions: 6.9" x 2.7" x 2.8" (176 x 68 x 72mm)
+- Driver: 44mm x 80mm woofer, 16mm tweeter
 - EQ: Yes (3 band)
 - IP Rating: IP67
 - Max Volume: 98db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power: 30W
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 1.21lbs / 544g
@@ -481,13 +521,19 @@ Last updated: March 03, 2026
 - Positives: Flash latest firmware for the best sound, much improved bass and treble.
 - Negatives: Not stereo, slight peak around 250hz, slightly rolled off treble.
 - App: No
+- Aux Input: No
 - Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
+- Bluetooth Version: 5.3
+- Dimensions: 7.5" x 3.0" x 3.0" (190 x 75 x 75mm)
+- Driver: 45mm x 80mm woofer, 20mm tweeter
 - EQ: No
+- Frequency Response: 65Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 100db
 - MicroSD: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -507,8 +553,14 @@ Last updated: March 03, 2026
 - App: Yes
 - Aux Input: No
 - Battery Life: 24 hours
+- Bluetooth Codecs: AAC, aptX Adaptive
+- Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 5.2" x 1.8" x 5.2" (133 x 46 x 133mm)
+- Driver: 82.5mm woofer, 15mm tweeter
 - EQ: Yes
+- IP Rating: IP67
+- Power: 60W
 - Power Bank: No
 - Stereo: No
 - TWS: Yes
@@ -530,14 +582,21 @@ Last updated: March 03, 2026
 - App: Yes
 - Aux Input: No
 - Battery Life: 26 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: Yes
+- Dimensions: 10.0" x 3.6" x 3.6" (255 x 92 x 92mm)
+- Driver: 35W woofer, 15W tweeter
 - EQ: Yes
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67
 - Party Mode: Yes (Up to 100 speakers)
+- Power: 50W
 - Power Bank: Yes
 - Stereo: No
 - TWS: Yes
 - USB Audio: No
+- Weight: 2.6lbs / 1200g
 - Reviews, Comparisons and Sound Samples
     - [Grimluck: XIAOMI Sound Party Review and Comparison (Jbl charge and Xiaomi outdoor)](https://www.youtube.com/watch?v=PrlSH9kcjWs)
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
@@ -580,10 +639,13 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 58hz
 - Battery Life: 20 hours
 - Bluetooth Latency: 160ms
+- Bluetooth Version: 4.2
 - Built in Microphone: No
+- Driver: 2x 44mm full-range drivers + 2x passive radiators
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 99db
+- Power: 24W
 - Power Bank: No
 - Stereo: Yes
 - TWS: Yes
@@ -608,9 +670,14 @@ Last updated: March 03, 2026
 - Aux Input: No
 - Bass Extension (-10dB): 57hz
 - Battery Life: 12 hours
+- Bluetooth Version: 5.3
+- Dimensions: 8.3" x 3.1" x 3.1" (210 x 78 x 80mm)
+- Driver: 48mm x 90mm woofer, 20mm tweeter
 - EQ: No
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67
 - MicroSD: No
+- Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -674,13 +741,23 @@ Last updated: March 03, 2026
 - Positives: Has Wifi. Sounds exactly the same as the non-Wifi version
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.3
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
+- Frequency Response: 60Hz - 20kHz
+- IP Rating: IP67
 - Max Volume: 99db
 - Party Mode: No
+- Power: 40W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
+- Streaming Services: AirPlay, Chromecast, Spotify Connect, Alexa Multi-Room Music
 - TWS: Yes
 - Weight: 2.2lbs / 1000g
 - Wifi: Yes
@@ -693,13 +770,22 @@ Last updated: March 03, 2026
 ## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1622608-REG/jbl_jblcharge5redam_charge_5_portable_speaker.html?BI=23745&KBID=29189)]: $180
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 125ms
+- Bluetooth Version: 5.1
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
+- Frequency Response: 60Hz - 20kHz
+- IP Rating: IP67
 - Max Volume: 99db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power: 40W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 2.1lbs / 960g
@@ -739,12 +825,17 @@ Last updated: March 03, 2026
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
+- Bluetooth Version: 5.3
+- Dimensions: 8.3" x 3.3" x 3.1" (210 x 85 x 78.5mm)
+- Driver: 94mm woofer + tweeter
 - EQ: Yes
 - IP Rating: IP68
 - Party Mode: No
+- Power: 50W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Weight: 1.7lbs / 783g
 - Reviews, Comparisons and Sound Samples
     - [Oluv: SoundCore Boom 3i - first impressions & EQs](https://www.patreon.com/posts/soundcore-boom-137341326)
     - [Picky Audio: Compact Speaker BEAST! 🔥 soundcore Boom 3i](https://www.youtube.com/watch?v=EqSWcfgbX-8)
@@ -758,12 +849,18 @@ Last updated: March 03, 2026
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
+- Driver: 84mm woofer, 19mm tweeter
 - EQ: Yes
+- Frequency Response: 70Hz - 20kHz
 - IP Rating: IPX4
 - Party Mode: No
+- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Weight: 1.1lbs / 500g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
     - [NJ Studio Channel: Tribit stormbox micro vs 1More s1001bt Bass Test!!🔥](https://www.youtube.com/watch?v=7ZnTEkAwy98)
@@ -778,8 +875,13 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Bass Extension (-10dB): ~62hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 8.5" x 3.0" x 3.5" (217 x 76 x 89mm)
+- Driver: 2x 48mm neodymium dome drivers + 2x passive radiators
 - EQ: No
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
 - Power Input: USB-C
 - Stereo: Yes
@@ -820,6 +922,10 @@ Last updated: March 03, 2026
 - Negatives: Not quite as deep of bass as others. Only available in Europe.
 - Aux Input: Yes
 - Battery Life: 14 hours
+- Bluetooth Codecs: aptX
+- Bluetooth Version: 4.0
+- Dimensions: 2.7" x 3.4" x 7.0" (69 x 86 x 178mm)
+- Power: 32W
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 1.59lbs / 720g
@@ -837,9 +943,13 @@ Last updated: March 03, 2026
 - Aux Latency: 16ms
 - Battery Life: 24 hours
 - Bluetooth Latency: SBC 233ms, AAC 240ms
+- Bluetooth Version: 5.3
+- Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66mm)
 - EQ: Yes
+- IP Rating: IPX7
 - Max Volume: 99db
 - Party Mode: Yes
+- Power: 30W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -858,7 +968,9 @@ Last updated: March 03, 2026
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail. Self drains the battery about 10% a week.
 - App: Yes
 - Battery Life: 12 hours
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.9" x 3.6" x 2.1" (201 x 90 x 52mm)
 - EQ: Yes (3 band)
 - IP Rating: IP67
 - Party Mode: Yes (Bose Party mode)
@@ -883,7 +995,9 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
 - Bluetooth Latency: 33ms
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 7.9" x 3.5" x 2.1" (201 x 90 x 52mm)
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 96db
@@ -920,9 +1034,16 @@ Last updated: March 03, 2026
 - App: No
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 20 hours
+- Bluetooth Version: 5.1
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: No
+- Frequency Response: 60Hz - 20kHz
+- IP Rating: IPX7
 - Party Mode: No
+- Power: 40W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - Weight: 2.05lbs / 930g
 - Reviews, Comparisons and Sound Samples

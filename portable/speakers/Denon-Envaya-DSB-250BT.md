@@ -13,10 +13,14 @@ The Denon Envaya DSB-250BT ranks [#5 out of 131 total Medium Size Portable Bluet
 - Aux Input: Yes
 - Bass Extension (-10dB): 57hz
 - Battery Life: 13 hours
+- Bluetooth Codecs: aptX, AAC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes
+- Charging Time: 3.5 hours
+- Driver: 2x 40mm full-range drivers + passive radiator
 - IP Rating: IP67
 - Max Volume: 97db
+- Power: 27W
 - Power Input: Micro USB
 - Stereo: Yes
 - Weight: 1.6lbs / 750g

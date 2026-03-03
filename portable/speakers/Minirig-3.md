@@ -17,10 +17,15 @@ The Minirig 3 ranks [#7 out of 131 total Medium Size Portable Bluetooth Speakers
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Latency: 60ms
+- Bluetooth Version: 5.0
 - Built in Microphone: No
+- Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
+- Driver: 70mm custom driver
 - EQ: Yes
+- Frequency Response: 60Hz - 18kHz
 - IP Rating: Splash resistant
 - Max Volume: 105db
+- Power: 40W
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No

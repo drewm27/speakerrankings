@@ -10,13 +10,22 @@ The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Spea
 ## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1622608-REG/jbl_jblcharge5redam_charge_5_portable_speaker.html?BI=23745&KBID=29189)]: $180
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
+- Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 125ms
+- Bluetooth Version: 5.1
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
+- Frequency Response: 60Hz - 20kHz
+- IP Rating: IP67
 - Max Volume: 99db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power: 40W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 2.1lbs / 960g

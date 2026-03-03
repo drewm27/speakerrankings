@@ -13,12 +13,18 @@ The 1More S1001bt ranks [#28 out of 131 total Medium Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
+- Driver: 84mm woofer, 19mm tweeter
 - EQ: Yes
+- Frequency Response: 70Hz - 20kHz
 - IP Rating: IPX4
 - Party Mode: No
+- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Weight: 1.1lbs / 500g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=BL9ks2HLYBE>
     - [NJ Studio Channel: Tribit stormbox micro vs 1More s1001bt Bass Test!!🔥](https://www.youtube.com/watch?v=7ZnTEkAwy98)

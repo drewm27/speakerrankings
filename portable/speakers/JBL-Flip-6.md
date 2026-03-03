@@ -14,13 +14,19 @@ The JBL Flip 6 ranks [#12 out of 131 total Medium Size Portable Bluetooth Speake
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 116ms
+- Bluetooth Version: 5.1
 - Built in Microphone: No
+- Dimensions: 6.9" x 2.7" x 2.8" (176 x 68 x 72mm)
+- Driver: 44mm x 80mm woofer, 16mm tweeter
 - EQ: Yes (3 band)
 - IP Rating: IP67
 - Max Volume: 98db
 - Party Mode: Yes (PartyBoost up to 100 speakers)
+- Power: 30W
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 1.21lbs / 544g

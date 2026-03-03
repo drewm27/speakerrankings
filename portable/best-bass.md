@@ -72,12 +72,18 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: No
 - Bass Extension (-10dB): 53hz
 - Battery Life: 24 hours
+- Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
+- Dimensions: 9.0" x 3.9" x 3.7" (228.8 x 98.5 x 94.0mm)
+- Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (7 band)
+- Frequency Response: 56Hz - 20kHz (-6dB)
 - IP Rating: IP68
 - Max Volume: 102db
 - Party Mode: Yes (Auracast)
+- Power: 45W
 - Power Bank: Yes
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 2.18lbs / 990g

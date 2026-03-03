@@ -16,11 +16,17 @@ The Soundcore Motion 300 ranks [#2 out of 131 total Medium Size Portable Bluetoo
 - Battery Life: 13 hours
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50mm)
+- Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
+- Frequency Response: 65Hz - 40kHz
 - IP Rating: IPX7
 - Max Volume: 101db
+- Power: 30W
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - Weight: 1.70lbs / 772g
