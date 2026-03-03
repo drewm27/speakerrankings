@@ -14,7 +14,11 @@ The Sony SRS-XP700 ranks [#11 out of 43 total Party Size Portable Bluetooth Spea
 - Bass Extension (-10dB): 50hz
 - Battery Life: 25 hours
 - Bluetooth Codecs: LDAC, AAC, SBC
+- Bluetooth Version: 5.0
+- Charging Time: 3 hours
+- Dimensions: 313 x 693 x 367 mm
 - EQ: Yes
+- Frequency Response: 20Hz - 20kHz
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
@@ -24,6 +28,7 @@ The Sony SRS-XP700 ranks [#11 out of 43 total Party Size Portable Bluetooth Spea
 - Stereo: Partially
 - TWS: No
 - USB Playback: Yes
+- Wattage: 78W RMS
 - Weight: 37.3 lbs / 16.9kg
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)

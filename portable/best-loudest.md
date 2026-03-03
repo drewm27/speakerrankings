@@ -210,6 +210,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
+- Dimensions: 345 x 597 x 347 mm
 - EQ: Yes
 - IP Rating: IP43
 - Max Volume: 126db
@@ -220,8 +221,11 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
+- Tweeter: 1" compression driver
 - USB Playback: No
+- Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
+- Woofer: 12"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)

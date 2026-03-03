@@ -15,7 +15,11 @@ The JBL Partybox 100 ranks [#4 out of 43 total Party Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 41hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
+- Charging Time: 6.5 hours
+- Dimensions: 28.8 x 55.1 x 29 cm
 - EQ: No
+- Frequency Response: 45Hz - 18kHz
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
@@ -25,6 +29,7 @@ The JBL Partybox 100 ranks [#4 out of 43 total Party Size Portable Bluetooth Spe
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
+- Wattage: 160W
 - Weight: 21lbs / 9.7kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>

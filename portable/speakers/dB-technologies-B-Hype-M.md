@@ -14,15 +14,20 @@ The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Blue
 - Bass Extension (-10dB): 62hz
 - Battery Life: 4 hours
 - Bluetooth Codecs: SBC
+- Dimensions: 300 x 568 x 301 mm
 - EQ: No
+- Frequency Response: 62Hz - 20kHz
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
+- Tweeter: 1" compression driver
 - USB Playback: No
+- Wattage: 190W (peak)
 - Weight: 27lbs / 12.5kg
+- Woofer: 10"
 - Reviews, Comparisons and Sound Samples
     - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)
     - [DTA AUDIO: dB Technologies B·Hype M, loa đến từ Italia. Mang lại sự an toàn cho những buổi hội thảo quan trọng.](https://www.youtube.com/watch?v=GTqpcjfd3Fo)

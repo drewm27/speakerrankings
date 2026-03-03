@@ -15,6 +15,7 @@ The JBL Partybox 310 ranks [#2 out of 43 total Party Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 32hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Charging Time: 3.5 hours
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -25,6 +26,7 @@ The JBL Partybox 310 ranks [#2 out of 43 total Party Size Portable Bluetooth Spe
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
+- Wattage: 240W
 - Weight: 38lbs / 17kg
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)

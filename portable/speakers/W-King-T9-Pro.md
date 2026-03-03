@@ -13,13 +13,21 @@ The W-King T9 Pro ranks [#27 out of 43 total Party Size Portable Bluetooth Speak
 - Aux Input: Yes
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
+- Charging Time: 4 hours
+- Dimensions: 274 x 255.7 x 535.5 mm
 - EQ: No
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
+- Tweeter: 2x 2.5"
 - USB Playback: Yes
+- Wattage: 250W (peak)
+- Weight: 19.9lbs / 9.05kg
+- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
 - Links

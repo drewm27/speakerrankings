@@ -14,15 +14,21 @@ The Panasonic SC-TMAX10 ranks [#34 out of 43 total Party Size Portable Bluetooth
 - Bass Extension (-10dB): ~57hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
+- Dimensions: 285 x 585 x 303 mm
 - EQ: No
+- Frequency Response: 100Hz - 20kHz
 - IP Rating: None
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
+- Tweeter: 2x 6cm
 - USB Playback: No
+- Wattage: 150W RMS
 - Weight: 22.5lbs / 10.2kg
+- Woofer: 20cm
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
 - Links

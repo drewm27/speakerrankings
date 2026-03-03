@@ -14,6 +14,7 @@ The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 50hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Dimensions: 457 x 230 x 285 mm
 - EQ: Yes
 - IP Rating: None
 - Max Volume: 115db
@@ -22,8 +23,11 @@ The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Spe
 - Power Bank: No
 - Stereo: No
 - TWS: No
+- Tweeter: 1" compression driver
 - USB Playback: No
+- Wattage: 200W
 - Weight: 17.6lbs / 8kg
+- Woofer: 8"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [W. Weiss: Part 3 Sound Demonstration The New EV Everse 8 compared to The Mackie Thump Go](https://www.youtube.com/watch?v=8HESRrKdGto)

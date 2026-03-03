@@ -14,6 +14,7 @@ The JBL Partybox Stage 320 ranks [#1 out of 43 total Party Size Portable Bluetoo
 - Aux Input: Yes
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -24,8 +25,11 @@ The JBL Partybox Stage 320 ranks [#1 out of 43 total Party Size Portable Bluetoo
 - Removable Battery: Yes
 - Stereo: Partially
 - TWS: Yes
+- Tweeter: 2x 25mm
 - USB Playback: Yes
+- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
+- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
     - [Oluv: JBL Partybox 320 vs 520 - outdoor test](https://www.patreon.com/posts/jbl-partybox-320-149600365)

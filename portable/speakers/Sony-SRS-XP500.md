@@ -14,7 +14,11 @@ The Sony SRS-XP500 ranks [#12 out of 43 total Party Size Portable Bluetooth Spea
 - Bass Extension (-10dB): 42hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: LDAC, AAC, SBC
+- Bluetooth Version: 5.0
+- Charging Time: 3 hours
+- Dimensions: 275 x 572 x 295 mm
 - EQ: Yes
+- Frequency Response: 20Hz - 20kHz
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes

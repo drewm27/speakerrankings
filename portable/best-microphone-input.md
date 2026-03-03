@@ -33,6 +33,7 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
+- Dimensions: 345 x 597 x 347 mm
 - EQ: Yes
 - IP Rating: IP43
 - Max Volume: 126db
@@ -43,8 +44,11 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - Removable Battery: Yes
 - Stereo: No
 - TWS: Yes
+- Tweeter: 1" compression driver
 - USB Playback: No
+- Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
+- Woofer: 12"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [DJBrianRodrigues: The Perfect Battery Speaker Exists? Electro-Voice Everse 12 Review](https://www.youtube.com/watch?v=sKZcCSsg1h0)
@@ -104,6 +108,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Aux Input: Yes
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -114,8 +119,11 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Removable Battery: Yes
 - Stereo: Partially
 - TWS: Yes
+- Tweeter: 2x 25mm
 - USB Playback: Yes
+- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
+- Woofer: 2x 6.5"
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
     - [Oluv: JBL Partybox 320 vs 520 - outdoor test](https://www.patreon.com/posts/jbl-partybox-320-149600365)
@@ -133,7 +141,10 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Aux Input: Yes
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
+- Charging Time: 3.5 hours
 - EQ: Yes (5 band)
+- Frequency Response: 40Hz - 20kHz
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
@@ -143,8 +154,11 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Removable Battery: Yes
 - Stereo: Partially
 - TWS: Yes
+- Tweeter: 2x 2.25"
 - USB Playback: Yes
+- Wattage: 160W
 - Weight: 24lbs / 10.8kg
+- Woofer: 2x 5.25"
 - Reviews, Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
     - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)

@@ -13,7 +13,9 @@ The Teufel Rockster Air ranks [#20 out of 43 total Party Size Portable Bluetooth
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 30 hours
-- Bluetooth Codecs: SBC
+- Bluetooth Codecs: aptX, SBC
+- Bluetooth Version: 4.0
+- Dimensions: 30 x 54 x 28 cm
 - EQ: No
 - IP Rating: None
 - Max Volume: 115db
@@ -23,6 +25,7 @@ The Teufel Rockster Air ranks [#20 out of 43 total Party Size Portable Bluetooth
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
+- Wattage: 250W
 - Weight: 32.0lbs / 14.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)

@@ -14,6 +14,8 @@ The Soundcore Rave+ ranks [#37 out of 43 total Party Size Portable Bluetooth Spe
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
+- Dimensions: 55 x 32 x 31 cm
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Partycast up to 100 speakers)
@@ -21,6 +23,7 @@ The Soundcore Rave+ ranks [#37 out of 43 total Party Size Portable Bluetooth Spe
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
+- Wattage: 160W
 - Weight: 7.7lbs / 3.49kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)

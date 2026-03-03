@@ -14,6 +14,9 @@ The Bose S1 Pro ranks [#10 out of 43 total Party Size Portable Bluetooth Speaker
 - Bass Extension (-10dB): 55hz
 - Battery Life: 11 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.0
+- Charging Time: 5 hours
+- Dimensions: 13.1" x 9.4" x 11"
 - EQ: Yes
 - IP Rating: None
 - Max Volume: 109db

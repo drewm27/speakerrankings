@@ -238,7 +238,6 @@ Last updated: March 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 105mm diameter x 39mm height
-- Driver: 15mm tweeter, 65mm woofer
 - EQ: No
 - Frequency Response: 78Hz - 20kHz
 - IP Rating: IPX4
@@ -248,7 +247,9 @@ Last updated: March 02, 2026
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Tweeter: 15mm
 - Weight: 0.66lbs / 300g
+- Woofer: 65mm
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DEfdIQiXfxw>
 - Links
@@ -409,7 +410,6 @@ Last updated: March 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 2 hours
 - Dimensions: 140 x 80 x 28mm
-- Driver: 51mm full-range and 19mm tweeter
 - EQ: Yes
 - IP Rating: None
 - Party Mode: No
@@ -417,7 +417,9 @@ Last updated: March 02, 2026
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
+- Tweeter: 19mm
 - Weight: 0.61lbs / 275g
+- Woofer: 51mm
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sB6G2-BL0Z4>
 - Links

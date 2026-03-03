@@ -15,7 +15,10 @@ The Soundboks 4 ranks [#21 out of 43 total Party Size Portable Bluetooth Speaker
 - Bass Extension (-10dB): 52hz
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
+- Dimensions: 25.6" x 17" x 13"
 - EQ: Yes
+- Frequency Response: 40Hz - 20kHz
 - Guitar Input: Yes
 - IP Rating: IP65
 - Max Volume: 126db
@@ -27,8 +30,11 @@ The Soundboks 4 ranks [#21 out of 43 total Party Size Portable Bluetooth Speaker
 - SKAA: Yes
 - Stereo: Yes
 - TWS: Yes
+- Tweeter: 1" compression driver
 - USB Playback: No
+- Wattage: 3 x 72W
 - Weight: 34lbs / 15.4kg
+- Woofer: 2x 10"
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
     - [Flossy Carter: SOUNDBOKS 4 - The World’s LOUDEST Bluetooth Speaker!](https://www.youtube.com/watch?v=hjpEDDN_hnY)

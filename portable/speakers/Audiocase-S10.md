@@ -13,7 +13,9 @@ The Audiocase S10 ranks [#26 out of 43 total Party Size Portable Bluetooth Speak
 - App: No
 - Aux Input: Yes
 - Battery Life: 30 hours
-- Bluetooth Codecs: SBC
+- Bluetooth Codecs: aptX, SBC
+- Bluetooth Version: 5.0
+- Dimensions: 65 x 40 x 30 cm
 - EQ: No
 - IP Rating: None
 - Max Volume: 125db
@@ -22,8 +24,11 @@ The Audiocase S10 ranks [#26 out of 43 total Party Size Portable Bluetooth Speak
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
+- Tweeter: 1" compression
 - USB Playback: No
+- Wattage: 3 x 73W
 - Weight: 44.7lbs / 19.8kg
+- Woofer: 2x 10"
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S10 - first impressions](https://www.patreon.com/posts/audiocase-s10-92786890)

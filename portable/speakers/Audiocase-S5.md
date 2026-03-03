@@ -13,7 +13,9 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - App: No
 - Aux Input: Yes
 - Battery Life: 30 hours
-- Bluetooth Codecs: SBC
+- Bluetooth Codecs: aptX, SBC
+- Bluetooth Version: 5.0
+- Dimensions: 41 x 25 x 19 cm
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
@@ -25,8 +27,11 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
+- Tweeter: 1"
 - USB Playback: No
+- Wattage: 2 x 73W
 - Weight: 17.4lbs / 7.9kg
+- Woofer: 2x 5"
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links

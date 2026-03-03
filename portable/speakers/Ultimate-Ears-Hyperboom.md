@@ -14,15 +14,21 @@ The Ultimate Ears Hyperboom ranks [#24 out of 43 total Party Size Portable Bluet
 - Bass Extension (-10dB): 55hz
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
+- Charging Time: 2.6 hours
+- Dimensions: 190 x 190 x 364 mm
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (PartyUp up to 50 speakers)
+- Passive Radiators: Yes
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
+- Tweeter: 2x 0.98"
 - USB Playback: No
 - Weight: 13lbs / 5.9kg
+- Woofer: 2x 5.66"
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=HzlGsQ-m184>
     - <https://www.youtube.com/watch?v=veHpUwgUGoM>
