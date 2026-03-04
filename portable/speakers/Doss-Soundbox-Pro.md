@@ -11,7 +11,13 @@ The Doss Soundbox Pro ranks [#125 out of 131 total Medium Size Portable Bluetoot
 - Negatives: Barely any bass
 - Aux Input: Yes
 - Battery Life: 20 hours
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- IP Rating: IPX6
 - MicroSD: Yes
+- Power: 20W
+- Power Input: Micro USB
+- TWS: Yes
 - Weight: 1.23lbs / 558g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>

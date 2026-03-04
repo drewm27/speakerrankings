@@ -11,9 +11,17 @@ The Ultimate Ears Megaboom 4 ranks [#127 out of 131 total Medium Size Portable B
 - Negatives: A lot of distortion at higher volumes. Rolled off treble. Not very loud. They really screwed this up
 - App: Yes
 - Battery Life: 20 hours
+- Bluetooth Version: 5.1
+- Built in Microphone: No
+- Dimensions: 3.43 x 3.43 x 8.86 in (87 x 87 x 225 mm)
+- Driver: 2x 50x50mm full-range + 2x 55x86mm passive radiators
+- EQ: Yes (via app)
 - IP Rating: IP67
+- Max Volume: 91 dB
 - Party Mode: Yes
+- Power Input: USB-C
 - Stereo: No
+- TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs Sony ULT Field 1 😧 $200 vs $128 Cylinder Bluetooth Speaker Matchup](https://www.youtube.com/watch?v=lrVa4Cnrets)
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)

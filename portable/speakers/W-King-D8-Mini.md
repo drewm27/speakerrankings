@@ -12,8 +12,16 @@ The W-King D8 Mini ranks [#101 out of 131 total Medium Size Portable Bluetooth S
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
 - Battery Life: 24 hours
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Dimensions: 9.90 x 3.72 x 3.72 in (251 x 94 x 94 mm)
+- Driver: 2x 70mm woofers, 2x 30mm tweeters
+- IP Rating: IPX6
 - Max Volume: 100db
 - MicroSD: Yes
+- Power: 30W
+- Power Input: USB-C
+- Stereo: Yes
 - TWS: No
 - Weight: 2.77lbs / 1260g
 - Reviews, Comparisons and Sound Samples

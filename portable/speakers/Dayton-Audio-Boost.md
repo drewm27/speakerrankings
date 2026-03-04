@@ -12,6 +12,10 @@ The Dayton Audio Boost ranks [#112 out of 131 total Medium Size Portable Bluetoo
 - Aux Input: Yes
 - Bass Extension (-10dB): 87hz
 - Battery Life: 6 hours
+- Bluetooth Version: 5.0
+- Built in Microphone: No
+- Dimensions: 3.5 x 3.5 x 4.3 in
+- Driver: 2x 1.5" full-range drivers + 2x passive radiators
 - IP Rating: IPX7
 - MicroSD: Yes
 - Power Input: USB-C

@@ -9,6 +9,14 @@ The Hifuture Soundpro ranks [#96 out of 131 total Medium Size Portable Bluetooth
 
 ## #96 Hifuture Soundpro
 - Negatives: Not as deep bass as competitors. Muffled sounding
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Dimensions: 7.09 x 2.56 x 2.56 in (180 x 65 x 65 mm)
+- Driver: 2x 45mm full-range
+- IP Rating: IPX7
+- Power: 16W
+- Power Input: USB-C
+- TWS: Yes
 - Weight: 1.1lbs / 500g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: HIFUTURE SOUNDPRO UNBOXING & COMPARISON ,X10,FLIP 6,WILDROD !!](https://www.youtube.com/watch?v=tmDMlOdPc8w)

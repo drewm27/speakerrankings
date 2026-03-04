@@ -10,8 +10,14 @@ The Beats Pill+ ranks [#123 out of 131 total Medium Size Portable Bluetooth Spea
 ## #123 Beats Pill+: $230
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - App: Yes
+- Aux Input: Yes
 - Bass Extension (-10dB): 90hz
+- Built in Microphone: Yes
+- Dimensions: 2.5 x 8.27 x 2.72 in (63.6 x 210 x 69.2 mm)
 - EQ: No
+- Power Bank: Yes
+- Power Input: Lightning
+- TWS: Yes
 - Weight: 1.5lbs / 0.7kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>

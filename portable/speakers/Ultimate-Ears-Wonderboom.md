@@ -9,9 +9,16 @@ The Ultimate Ears Wonderboom ranks [#83 out of 131 total Medium Size Portable Bl
 
 ## #83 Ultimate Ears Wonderboom
 - Negatives: Not stereo, barely any bass, recessed treble. Dip at 9khz. Low mid bass distortion. Not technically a 360 speaker, only front and rear.
+- App: No
 - Battery Life: 10 hours
+- Built in Microphone: No
+- Driver: 2x 1.6" active drivers + 2x 1.8" x 2.6" passive radiators
+- EQ: No
+- IP Rating: IPX7
+- Party Mode: No
 - Power Input: Micro USB
 - Stereo: No
+- TWS: Yes
 - Weight: 0.94lbs / 425g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=u-Mvo52ozoU>

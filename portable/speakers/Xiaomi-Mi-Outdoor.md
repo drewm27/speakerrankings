@@ -9,8 +9,17 @@ The Xiaomi Mi Outdoor ranks [#117 out of 131 total Medium Size Portable Bluetoot
 
 ## #117 Xiaomi Mi Outdoor
 - Negatives: Not much bass, IP55 not very waterproof
+- Aux Input: No
 - Battery Life: 20 hours
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Dimensions: 3.58 x 3.58 x 1.65 in (91 x 91 x 42 mm)
+- Driver: 1x 52mm full-range
 - IP Rating: IP55
+- Power: 5W
+- Power Input: Micro USB
+- Stereo: No
+- TWS: No
 - Weight: 0.82lbs / 373g
 - Reviews, Comparisons and Sound Samples
     - [xiaomify (xiaomify): Xiaomi - Outdoor Speaker;  Is it any good??  Full Review [Xiaomify]](https://www.youtube.com/watch?v=2xDcb8j9x5M)

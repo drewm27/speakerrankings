@@ -9,7 +9,16 @@ The Ultimate Ears Roll 2 ranks [#120 out of 131 total Medium Size Portable Bluet
 
 ## #120 Ultimate Ears Roll 2: $100
 - Negatives: Not stereo. Barely any bass, rolled off treble off axis
+- App: Yes (UE Roll app)
+- Aux Input: Yes
 - Battery Life: 9 hours
+- Bluetooth Version: 4.0
+- Built in Microphone: No
+- Dimensions: 5.89 x 5.31 x 1.57 in (149.5 x 135 x 40 mm)
+- Driver: 1x 2" full-range + 2x 0.75" tweeters
+- IP Rating: IPX7
+- Power Input: Micro USB
+- TWS: No
 - Weight: 0.73lbs / 330g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SSla-paxi14>

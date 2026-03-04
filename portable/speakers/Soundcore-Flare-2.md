@@ -13,10 +13,19 @@ The Soundcore Flare 2 ranks [#100 out of 131 total Medium Size Portable Bluetoot
 - App: Yes
 - Bass Extension (-10dB): 56hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 80ms
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes
+- IP Rating: IPX7
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
+- Power: 20W
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Weight: 1.3lbs / 600g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Beoplay A1 Denon 250bt JBL Flip 5 Anker Flare 2](https://www.youtube.com/watch?v=8ygpqINtZWM)

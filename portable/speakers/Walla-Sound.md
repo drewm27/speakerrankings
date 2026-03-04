@@ -12,9 +12,14 @@ The Walla Sound ranks [#121 out of 131 total Medium Size Portable Bluetooth Spea
 - Aux Input: Yes
 - Bass Extension (-10dB): ~90hz
 - Battery Life: 8 hours
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Dimensions: 2.68 x 2.68 x 6.3 in (68 x 68 x 160 mm)
+- Driver: 1x 30mm metal diaphragm driver
 - IP Rating: IPX5
 - MicroSD: Yes
 - Power Input: Micro USB
+- TWS: Yes
 - Weight: 0.66lbs / 300g
 - Reviews, Comparisons and Sound Samples
     - [Jack Of All Trades, Master of None: Walla Sound Wireless Bluetooth Speaker](https://www.youtube.com/watch?v=tbd1-9CAnYw)

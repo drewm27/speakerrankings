@@ -9,12 +9,23 @@ The Ultimate Ears Wonderboom 3 ranks [#81 out of 131 total Medium Size Portable 
 
 ## #81 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325)]: $72
 - Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
+- App: No
+- Aux Input: No
 - Bass Extension (-10dB): 76hz
 - Battery Life: 14 hours
 - Bluetooth Latency: 166ms
+- Bluetooth Version: 5.2
+- Built in Microphone: No
+- Dimensions: 4.09 x 3.75 in (104 x 95.3 mm)
+- Driver: 2x 40mm active drivers + 2x passive radiators (46.1 x 65.2mm)
+- EQ: No
+- IP Rating: IP67
 - Max Volume: 87db
+- Party Mode: No
+- Power Bank: No
 - Power Input: Micro USB
 - Stereo: No
+- TWS: Yes
 - Weight: 0.93lbs / 420g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)

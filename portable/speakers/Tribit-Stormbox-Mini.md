@@ -11,7 +11,17 @@ The Tribit Stormbox Mini ranks [#110 out of 131 total Medium Size Portable Bluet
 - Negatives: Lacking quite a bit of bass. Sounds hollow and thuddy. Just not great overall.
 - Bass Extension (-10dB): ~85hz
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC, AAC
+- Bluetooth Version: 5.4
+- Built in Microphone: Yes
+- Dimensions: 3.58 x 3.58 x 4.68 in (91 x 91 x 119 mm)
+- Driver: 2x 48mm 6W full-range drivers + 1x passive radiator
+- IP Rating: IPX7
 - Lights: Yes
+- Power: 12W
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - Weight: 1.56lbs / 708g
 - Reviews, Comparisons and Sound Samples
     - [Dominik Reviews: Tribit Stormbox Mini - 30$ hit or miss? vs Tribit Micro 2](https://www.youtube.com/watch?v=CVeKxTJumuc)

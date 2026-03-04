@@ -12,6 +12,14 @@ The TDK A33 ranks [#103 out of 131 total Medium Size Portable Bluetooth Speakers
 - Aux Input: Yes
 - Bass Extension (-10dB): ~72hz
 - Battery Life: 6 hours
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 2.1
+- Built in Microphone: Yes
+- Dimensions: 9.5 x 3.75 x 2.0 in (241 x 95 x 51 mm)
+- Driver: 2x 1.5-inch full-range + 1x 2.5-inch subwoofer + 2x 3-inch passive radiators
+- IP Rating: IP64
+- Power: 15W
+- Power Input: Micro USB
 - Weight: 2.8lbs / 1270g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=VaR5Mi24b8Y>

@@ -11,8 +11,18 @@ The B&O Beosound Explore ranks [#104 out of 131 total Medium Size Portable Bluet
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.
 - Bass Extension (-10dB): ~70hz
 - Battery Life: 27 hours
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
+- Built in Microphone: No
+- Dimensions: 3.19 x 4.88 x 3.19 in (81 x 124 x 81 mm)
+- Driver: 2x 1.8-inch full-range drivers
 - IP Rating: IP67
 - Max Volume: 91db
+- Power: 60W
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
 - USB Audio: Yes
 - Weight: 1.23lbs / 631g
 - Reviews, Comparisons and Sound Samples

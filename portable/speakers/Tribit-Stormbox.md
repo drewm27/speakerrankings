@@ -14,11 +14,19 @@ The Tribit Stormbox ranks [#88 out of 131 total Medium Size Portable Bluetooth S
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 52hz
 - Battery Life: 20 hours
+- Bluetooth Codecs: SBC
 - Bluetooth Latency: 166ms
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 7.09 x 2.68 x 2.68 in (180 x 68 x 68 mm)
+- Driver: 2x drivers + passive radiators
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 97db
+- Party Mode: No
+- Power: 20W
+- Power Input: USB-C
+- TWS: Yes
 - Weight: 1.2lbs / 535g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: All Tribit Speakers Compared - Maxsound Plus, Stormbox, Xsound Go, Maxboom](https://www.youtube.com/watch?v=a0nM_Lx89Y4)

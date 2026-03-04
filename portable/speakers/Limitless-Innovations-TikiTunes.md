@@ -11,6 +11,11 @@ The Limitless Innovations TikiTunes ranks [#131 out of 131 total Medium Size Por
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad
 - Bass Extension (-10dB): 185hz
 - Battery Life: 9 hours
+- Bluetooth Version: 5.0
+- IP Rating: IP65
+- Power: 5W
+- Power Input: Micro USB
+- TWS: Yes
 - Weight: 0.7lbs / 0.3kg
 - Reviews, Comparisons and Sound Samples
     - [Tom DeCicco: Award Winning CES Bluetooth Speaker is FIRE! TikiTunes](https://www.youtube.com/watch?v=1A5cNDoQCM8)

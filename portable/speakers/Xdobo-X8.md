@@ -12,7 +12,15 @@ The Xdobo X8 ranks [#116 out of 131 total Medium Size Portable Bluetooth Speaker
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz
 - Battery Life: 15 hours
+- Bluetooth Version: 5.0
+- Built in Microphone: Yes
+- Dimensions: 8.66 x 3.74 x 2.83 in (220 x 95 x 72 mm)
+- Driver: 1x 66mm full-range driver
+- IP Rating: IPX5
 - MicroSD: Yes
+- Power: 60W
+- Power Input: USB-C
+- TWS: Yes
 - Weight: 1.9lbs / 860g
 - Reviews, Comparisons and Sound Samples
     - [Naresh Lal: JBL Charge 4 Vs Xdobo X8 Tell me Which one is the BEST?](https://www.youtube.com/watch?v=DTgp-xGDzvw)

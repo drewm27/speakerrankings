@@ -9,9 +9,21 @@ The Sony SRS-XB20 ranks [#89 out of 131 total Medium Size Portable Bluetooth Spe
 
 ## #89 Sony SRS-XB20
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.
+- App: Yes (SongPal)
 - Aux Input: Yes
 - Battery Life: 12 hours
+- Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 4.2
+- Built in Microphone: Yes
+- Dimensions: 7.8 x 2.68 x 2.72 in (198 x 68 x 69 mm)
+- EQ: No
+- IP Rating: IPX5
 - Party Mode: Yes (Partychain up to 100 speakers)
+- Power: 20W
+- Power Bank: No
+- Power Input: Micro USB
+- Stereo: Yes
+- TWS: Yes
 - Weight: 1.3lbs / 590g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
