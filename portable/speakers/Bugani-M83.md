@@ -14,10 +14,13 @@ The Bugani M83 ranks [#67 out of 73 total Large Size Portable Bluetooth Speakers
 - Aux Input: Yes
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

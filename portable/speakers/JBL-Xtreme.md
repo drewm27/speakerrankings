@@ -13,11 +13,16 @@ The JBL Xtreme ranks [#49 out of 73 total Large Size Portable Bluetooth Speakers
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.1
 - Built in Microphone: Yes
+- Dimensions: 11.14" x 4.96" x 4.8" (283 x 126 x 122mm)
+- Driver: 2x 63mm woofers, 2x 35mm tweeters
 - EQ: No
+- Frequency Response: 70Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 96db
 - Party Mode: Yes (Connect)
+- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

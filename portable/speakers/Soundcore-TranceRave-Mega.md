@@ -14,11 +14,15 @@ The Soundcore Trance/Rave Mega ranks [#69 out of 73 total Large Size Portable Bl
 - Bass Extension (-10dB): 63hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 7.05" x 6.97" x 13.35" (179 x 177 x 339mm)
+- Driver: 1x 133mm woofer, 1x 51mm tweeter
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 97db
 - Party Mode: No
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

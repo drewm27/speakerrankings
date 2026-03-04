@@ -1287,11 +1287,16 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 54hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 11.3" x 5.4" x 4.2" (287 x 137 x 107mm)
+- Driver: 2x 70mm woofers, 2x 20mm tweeters
 - EQ: No
+- Frequency Response: 55Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 98db
 - Party Mode: Yes (Connect+ up to 100 speakers)
+- Power: 40W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1336,11 +1341,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151mm)
 - EQ: 3 EQ presets
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No
+- Power: 80W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1359,10 +1368,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 8 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 11.4" x 11.4" x 5.1" (290 x 290 x 130mm)
+- Driver: 2x 75mm woofers, 2x 20mm tweeters
 - EQ: No
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: None
 - Party Mode: Yes (Connect+ up to 100 speakers)
+- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1384,12 +1398,17 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 66hz
 - Battery Life: 38 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 4.3" x 10.0" x 4.3" (110 x 254 x 110mm)
+- Driver: 2x 45mm fullrange
 - EQ: No
+- Frequency Response: 70Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 97db
 - MicroSD: Yes
 - Party Mode: Yes (PartyAdd up to 100 speakers)
+- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1407,10 +1426,14 @@ Last updated: March 03, 2026
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 5.79" x 5.79" x 7.68" (147 x 147 x 195mm)
 - EQ: No
+- Frequency Response: 20Hz - 18kHz
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 80W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1431,11 +1454,13 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 49hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
+- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1454,12 +1479,17 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 49hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 11.25" x 7.04" x 5.9" (286 x 179 x 150mm)
+- Driver: 1x 115mm woofer, 2x 53mm mid-tweeters, 1x 31mm tweeter
 - EQ: No
+- Frequency Response: 40Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 104db
 - MicroSD: Yes
 - Party Mode: No
+- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1477,11 +1507,16 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.1
 - Built in Microphone: Yes
+- Dimensions: 11.14" x 4.96" x 4.8" (283 x 126 x 122mm)
+- Driver: 2x 63mm woofers, 2x 35mm tweeters
 - EQ: No
+- Frequency Response: 70Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 96db
 - Party Mode: Yes (Connect)
+- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1504,12 +1539,17 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 55hz
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.0
 - Built in Microphone: Yes
+- Dimensions: 11.8" x 2.6" x 5.2" (300 x 66 x 132mm)
+- Driver: 1x 76mm subwoofer, 2x 50mm fullrange
 - EQ: No
+- Frequency Response: 40Hz - 20kHz
 - IP Rating: IPX4
 - Max Volume: 100db
 - MicroSD: Yes
 - Party Mode: No
+- Power: 32W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -1529,11 +1569,16 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 13.1" x 4.2" x 4.68" (334 x 107 x 119mm)
+- Driver: 2x 76mm fullrange, 2x 25mm tweeters
 - EQ: No
+- Frequency Response: 55Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 93db
 - Party Mode: Yes (broadcast mode)
+- Power: 30W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1555,10 +1600,15 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 54hz
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 12.52" x 5.43" x 5.35" (318 x 138 x 136mm)
+- Driver: 2x X-Balanced woofers, 2x 20mm tweeters
 - EQ: No
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX7
 - Party Mode: Yes (Partyconnect up to 100 speakers)
+- Power: 16W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1581,11 +1631,16 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): ~52hz
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 11.8" x 4.3" x 5.3" (300 x 110 x 134mm)
+- Driver: 2x 80mm woofers, 2x 52mm tweeters
 - EQ: No
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX7
 - MicroSD: Yes
 - Party Mode: No
+- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1604,8 +1659,12 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 17 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 4.69" x 9.49" x 6.38" (119 x 241 x 162mm)
+- Driver: 1x 120mm woofer, 2x 45mm tweeters
 - EQ: No
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 94db
 - Party Mode: No
@@ -1629,10 +1688,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 10.6" x 5.4" x 1.9" (269 x 138 x 47mm)
+- Driver: 2x 89mm woofers, 2x 21mm tweeters
 - EQ: No
+- Frequency Response: 49Hz - 23kHz
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 50W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1654,11 +1718,16 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 13.7" x 9.1" x 2.2" (348 x 230 x 56mm)
+- Driver: 2x 102mm woofers, 1x 51mm fullrange, 2x 20mm tweeters
 - EQ: No
+- Frequency Response: 39Hz - 23kHz
 - IP Rating: IPX7
 - Max Volume: 96db
 - Party Mode: No
+- Power: 105W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1679,8 +1748,11 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 64hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Driver: 2x 55mm fullrange, 2x 25mm tweeters
 - EQ: No
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IPX7
 - Party Mode: No
 - Power Bank: No
@@ -1698,11 +1770,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 10.67" x 2.09" x 2.87" (271 x 53 x 73mm)
 - EQ: No
+- Frequency Response: 48Hz - 20kHz
 - IP Rating: IPX5
 - MicroSD: Yes
 - Party Mode: No
+- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1722,11 +1798,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 13.1" x 5.0" x 6.4" (333 x 127 x 163mm)
+- Driver: 2x 63mm woofers
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 106db
 - Party Mode: No
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1745,11 +1825,14 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 60hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Driver: 1x 102mm woofer, 1x 51mm fullrange
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 106db
 - Party Mode: Yes (Partycast up to 100 speakers)
+- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1770,12 +1853,16 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 47hz
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 4.72" x 12.4" x 4.72" (120 x 315 x 120mm)
 - EQ: No
+- Frequency Response: 80Hz - 16kHz
 - IP Rating: IPX6
 - Max Volume: 106db
 - MicroSD: Yes
 - Party Mode: No
+- Power: 60W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1795,10 +1882,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 11.0" x 6.9" x 6.7" (280 x 175 x 170mm)
+- Driver: 1x 102mm woofer, 2x 51mm tweeters
 - EQ: No
+- Frequency Response: 35Hz - 20kHz
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 50W RMS
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -1817,10 +1909,15 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): ~62hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.1
 - Built in Microphone: Yes
+- Dimensions: 10.4" x 6.3" x 6.1" (265 x 160 x 155mm)
+- Driver: 1x 102mm woofer, 2x 20mm tweeters
 - EQ: No
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: None
 - Party Mode: No
+- Power: 40W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1840,10 +1937,15 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 12.2" x 5.3" x 5.6" (310 x 135 x 143mm)
+- Driver: 2x 75mm woofers, 2x 30mm tweeters
 - EQ: No
+- Frequency Response: 30Hz - 16kHz
 - IP Rating: IPX6
 - Party Mode: No
+- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1861,10 +1963,14 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 10.3" x 3.7" x 3.9" (261 x 95 x 98mm)
+- Driver: 1x racetrack woofer, 1x dome tweeter
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1881,11 +1987,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 9.6" x 3.9" x 3.9" (245 x 98 x 98mm)
+- Driver: 2x 58mm fullrange
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 95db
 - Party Mode: No
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1906,10 +2016,13 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1927,11 +2040,15 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 63hz
 - Battery Life: 4 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Driver: 1x 115mm woofer
 - EQ: No
+- Frequency Response: 100Hz - 10kHz
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No
+- Power: 55W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1949,11 +2066,15 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 63hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 7.05" x 6.97" x 13.35" (179 x 177 x 339mm)
+- Driver: 1x 133mm woofer, 1x 51mm tweeter
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 97db
 - Party Mode: No
+- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1971,10 +2092,13 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 80W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1992,11 +2116,14 @@ Last updated: March 03, 2026
 - Bass Extension (-10dB): 65hz
 - Battery Life: 30 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 12.7" x 4.8" x 7.3" (323 x 120 x 184mm)
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
 - Party Mode: No
+- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -2014,11 +2141,15 @@ Last updated: March 03, 2026
 - Aux Input: Yes
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 11.6" x 4.8" x 5.2" (294 x 122 x 132mm)
 - EQ: No
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No
+- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2037,10 +2168,15 @@ Last updated: March 03, 2026
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 4.6" x 4.75" x 11.1" (117 x 121 x 283mm)
+- Driver: 2x 76mm fullrange
 - EQ: No
+- Frequency Response: 70Hz - 20kHz
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

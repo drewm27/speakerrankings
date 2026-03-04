@@ -13,10 +13,14 @@ The LG Xboom XG7 ranks [#65 out of 73 total Large Size Portable Bluetooth Speake
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 10.3" x 3.7" x 3.9" (261 x 95 x 98mm)
+- Driver: 1x racetrack woofer, 1x dome tweeter
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

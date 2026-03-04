@@ -13,10 +13,14 @@ The Treblab HD-360 ranks [#46 out of 73 total Large Size Portable Bluetooth Spea
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 5.79" x 5.79" x 7.68" (147 x 147 x 195mm)
 - EQ: No
+- Frequency Response: 20Hz - 18kHz
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 80W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

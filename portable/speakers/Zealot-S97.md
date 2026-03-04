@@ -14,11 +14,15 @@ The Zealot S97 ranks [#43 out of 73 total Large Size Portable Bluetooth Speakers
 - Aux Input: Yes
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151mm)
 - EQ: 3 EQ presets
+- Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No
+- Power: 80W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

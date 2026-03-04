@@ -14,11 +14,14 @@ The Soundcore Rave Neo ranks [#60 out of 73 total Large Size Portable Bluetooth 
 - Bass Extension (-10dB): 60hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Driver: 1x 102mm woofer, 1x 51mm fullrange
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 106db
 - Party Mode: Yes (Partycast up to 100 speakers)
+- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

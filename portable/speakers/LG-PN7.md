@@ -13,11 +13,15 @@ The LG PN7 ranks [#59 out of 73 total Large Size Portable Bluetooth Speakers](/p
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 13.1" x 5.0" x 6.4" (333 x 127 x 163mm)
+- Driver: 2x 63mm woofers
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 106db
 - Party Mode: No
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

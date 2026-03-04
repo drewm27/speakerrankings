@@ -14,11 +14,13 @@ The Rocksteady Stadium Speakers and Subwoofer ranks [#47 out of 73 total Large S
 - Bass Extension (-10dB): 49hz
 - Battery Life: 16 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
+- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

@@ -14,12 +14,17 @@ The Tronsmart Halo 100 ranks [#48 out of 73 total Large Size Portable Bluetooth 
 - Bass Extension (-10dB): 49hz
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 11.25" x 7.04" x 5.9" (286 x 179 x 150mm)
+- Driver: 1x 115mm woofer, 2x 53mm mid-tweeters, 1x 31mm tweeter
 - EQ: No
+- Frequency Response: 40Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 104db
 - MicroSD: Yes
 - Party Mode: No
+- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

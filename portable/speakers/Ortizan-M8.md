@@ -13,10 +13,13 @@ The Ortizan M8 ranks [#70 out of 73 total Large Size Portable Bluetooth Speakers
 - Aux Input: Yes
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
+- Power: 80W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

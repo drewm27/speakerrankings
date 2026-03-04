@@ -14,10 +14,15 @@ The Treblab HD-Max ranks [#64 out of 73 total Large Size Portable Bluetooth Spea
 - Bass Extension (-10dB): ~60hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 12.2" x 5.3" x 5.6" (310 x 135 x 143mm)
+- Driver: 2x 75mm woofers, 2x 30mm tweeters
 - EQ: No
+- Frequency Response: 30Hz - 16kHz
 - IP Rating: IPX6
 - Party Mode: No
+- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

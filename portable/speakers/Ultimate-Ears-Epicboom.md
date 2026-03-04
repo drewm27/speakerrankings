@@ -14,8 +14,12 @@ The Ultimate Ears Epicboom ranks [#54 out of 73 total Large Size Portable Blueto
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 17 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
 - Built in Microphone: Yes
+- Dimensions: 4.69" x 9.49" x 6.38" (119 x 241 x 162mm)
+- Driver: 1x 120mm woofer, 2x 45mm tweeters
 - EQ: No
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 94db
 - Party Mode: No

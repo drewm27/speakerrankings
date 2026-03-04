@@ -13,11 +13,15 @@ The LG Xboom Go PL7 ranks [#66 out of 73 total Large Size Portable Bluetooth Spe
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 9.6" x 3.9" x 3.9" (245 x 98 x 98mm)
+- Driver: 2x 58mm fullrange
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 95db
 - Party Mode: No
+- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

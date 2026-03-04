@@ -18,26 +18,16 @@ Last Updated March 03, 2026
 
 ## Top Recommended Speakers By Attribute
 
-- [Best Portable Bluetooth Speakers For Sound Quality](/portable/best-sound-quality/)
-- [Best Portable Bluetooth Speakers For Audiophiles](/portable/best-audiophile/)
-- [Best Inexpensive Portable Bluetooth Speakers](/portable/best-inexpensive/)
-- [Best Portable Bluetooth Speakers For Bass](/portable/best-bass/)
-- [Loudest Portable Bluetooth Speakers](/portable/best-loudest/)
-- [Best Portable Bluetooth Speakers With Aux Input](/portable/best-auxinput/)
-- [Best Portable Bluetooth Speakers With USB Audio Input](/portable/best-usbaudio/)
-- [Best Portable Bluetooth Speakers With Wifi](/portable/best-wifi/)
-- [Best Portable Bluetooth Speakers With Party Mode](/portable/best-party-mode/)
-- [Best Portable Bluetooth Speakers With Built-in Mic](/portable/best-microphone/)
-- [Best Portable Bluetooth Speakers With Mic Input](/portable/best-microphone-input/)
-- [Best Portable Bluetooth Speakers With Wireless Mic](/portable/best-wireless-microphone/)
-- [Best Portable Bluetooth Speakers With SD Card Slot](/portable/best-sdcard/)
-- [Best Portable Bluetooth Speakers With Removable Battery](/portable/best-removable-battery/)
-- [Best Portable Bluetooth Speakers For Outdoor Usage](/portable/best-outdoor/)
-- [Best Portable Bluetooth Speaker Brands](/portable/best-brands/)
-- [Loudest Portable Bluetooth Party Speakers](/portable/loudest-speakers/)
-- [Best Powered Home Bookshelf Speakers](/powered/best/)
-- [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
-- [Best Bluetooth Speakers From Other Top Reviewers](/portable/best-from-reviewers/)
+### Portable
+
+- [Sound Quality](/portable/best-sound-quality/) / [Audiophiles](/portable/best-audiophile/) / [Inexpensive](/portable/best-inexpensive/) / [Bass](/portable/best-bass/) / [Loudest](/portable/best-loudest/)
+- [Aux Input](/portable/best-auxinput/) / [USB Audio Input](/portable/best-usbaudio/) / [Mic Input](/portable/best-microphone-input/) / [SD Card Slot](/portable/best-sdcard/) / [Wifi](/portable/best-wifi/)
+- [Wireless Mic](/portable/best-wireless-microphone/) / [Built-in Mic](/portable/best-microphone/) / [Removable Battery](/portable/best-removable-battery/) / [Party Mode](/portable/best-party-mode/)
+- [Outdoor Usage](/portable/best-outdoor/) / [Best Brands](/portable/best-brands/) / [Loudest Party Speakers](/portable/loudest-speakers/) / [Top Reviewers Choice](/portable/best-from-reviewers/)
+
+### Home Speakers
+ 
+- [Powered Bookshelf](/powered/best/) / [Passive Floorstanding and Bookshelf Speakers](/passive/best/)
 
 ## All Portable Bluetooth Speakers Ranked
 
