@@ -15,9 +15,14 @@ The JBL Grip ranks [#73 out of 131 total Medium Size Portable Bluetooth Speakers
 - Bass Extension (-10dB): ~68hz
 - Battery Life: 14 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
+- Dimensions: 2.52" x 6.0" x 2.57" (64 x 152 x 65mm)
+- Driver: 1x 43x80mm fullrange
 - EQ: Yes (7 band)
+- Frequency Response: 70Hz - 20kHz
 - IP Rating: IP68
 - Party Mode: Yes (Auracast)
+- Power: 16W
 - TWS: Yes
 - Weight: 0.85lbs / 385g
 - Reviews, Comparisons and Sound Samples

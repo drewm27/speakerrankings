@@ -12,8 +12,13 @@ The JBL Charge 3 ranks [#66 out of 131 total Medium Size Portable Bluetooth Spea
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
 - Battery Life: 20 hours
+- Bluetooth Version: 4.1
+- Dimensions: 8.39" x 3.46" x 3.46" (213 x 88 x 88mm)
+- Driver: 2x 50mm fullrange
+- Frequency Response: 65Hz - 20kHz
 - Max Volume: 100db
 - Party Mode: Yes (Connect+ up to 100 speakers)
+- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: Micro USB
 - Weight: 1.8 lbs / 800g

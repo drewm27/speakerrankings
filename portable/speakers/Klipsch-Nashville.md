@@ -13,10 +13,15 @@ The Klipsch Nashville ranks [#64 out of 131 total Medium Size Portable Bluetooth
 - Aux Input: No
 - Bass Extension (-10dB): ~64hz
 - Battery Life: 24 hours
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 7.01" x 3.07" x 3.19" (178 x 78 x 81mm)
+- Driver: 2x 57mm fullrange
+- Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 89db
 - Party Mode: Yes (broadcast mode)
+- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - TWS: Yes

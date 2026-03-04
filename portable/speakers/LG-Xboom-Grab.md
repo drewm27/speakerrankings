@@ -13,9 +13,12 @@ The LG Xboom Grab ranks [#79 out of 131 total Medium Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 75hz
 - Battery Life: 20 hours
 - Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.3
+- Driver: 1x 80x45mm racetrack woofer, 1x 16mm tweeter
 - EQ: Yes
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
+- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: No

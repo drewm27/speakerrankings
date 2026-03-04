@@ -11,8 +11,13 @@ The Treblab HD77 ranks [#74 out of 131 total Medium Size Portable Bluetooth Spea
 - Negatives: Lacking quite a bit of bass compared to higher ranked speakers. Unable to disable the music flashing lights
 - Bass Extension (-10dB): ~66hz
 - Battery Life: 20 hours
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 7.36" x 3.0" x 3.0" (187 x 76 x 76mm)
+- Driver: 2x 48mm fullrange
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
+- Power: 25W RMS
 - Stereo: No (front/rear drivers)
 - TWS: Yes
 - Weight: 1.4lbs / 637g

@@ -12,6 +12,9 @@ The Bose Soundlink Mini 2 ranks [#55 out of 131 total Medium Size Portable Bluet
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
 - Battery Life: 10 hours
+- Bluetooth Version: 4.2
+- Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58mm)
+- Driver: 2x 33mm fullrange
 - IP Rating: None
 - Stereo: Yes
 - Weight: 1.5lbs / 680g

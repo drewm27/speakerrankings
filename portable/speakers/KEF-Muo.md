@@ -12,9 +12,14 @@ The KEF Muo ranks [#71 out of 131 total Medium Size Portable Bluetooth Speakers]
 - App: Yes
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC, aptX Adaptive up to 48 KHz 24 bit
+- Bluetooth Version: 5.4
+- Dimensions: 8.5" x 3.2" x 2.3" (216 x 82 x 59mm)
+- Driver: 1x 58x117mm racetrack woofer, 1x 20mm tweeter
+- Frequency Response: 43Hz - 20kHz
 - IP Rating: IP67
 - Max Volume: 90db
 - Party Mode: Auracast
+- Power: 40W
 - Stereo: Yes
 - TWS: Yes
 - USB Audio: Yes

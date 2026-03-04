@@ -12,6 +12,7 @@ The Bose Soundlink Mini ranks [#56 out of 131 total Medium Size Portable Bluetoo
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
 - Battery Life: 10 hours
+- Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58mm)
 - IP Rating: None
 - Stereo: Yes
 - Weight: 1.5lbs / 680g

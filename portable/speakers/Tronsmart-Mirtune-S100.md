@@ -12,8 +12,12 @@ The Tronsmart Mirtune S100 ranks [#72 out of 131 total Medium Size Portable Blue
 - Negatives: Lacking deeper bass compared to higher ranked speakers
 - Bass Extension (-10dB): ~64hz
 - Battery Life: 20 hours
+- Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 9.09" x 3.46" x 3.94" (231 x 88 x 100mm)
+- Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
+- Power: 50W
 - Stereo: Partially
 - Weight: 3.0lbs / 1.36kg
 - Wifi: No

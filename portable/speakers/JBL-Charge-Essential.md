@@ -11,8 +11,13 @@ The JBL Charge Essential ranks [#67 out of 131 total Medium Size Portable Blueto
 - Negatives: Less clarity than the Flip 4, highs rolled off. An overpriced rebranded Charge 3 for people who want stereo sound.
 - App: No
 - Battery Life: 20 hours
+- Bluetooth Version: 4.1
+- Dimensions: 8.39" x 3.50" x 3.43" (213 x 89 x 87mm)
+- Driver: 2x 50mm fullrange
 - EQ: No
+- Frequency Response: 65Hz - 20kHz
 - Party Mode: No
+- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: Micro USB
 - Weight: 1.7lbs / 770g

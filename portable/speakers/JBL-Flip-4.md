@@ -14,8 +14,13 @@ The JBL Flip 4 ranks [#62 out of 131 total Medium Size Portable Bluetooth Speake
 - Bass Extension (-10dB): 66hz
 - Battery Life: 12 hours
 - Bluetooth Latency: 300ms
+- Bluetooth Version: 4.2
+- Dimensions: 6.89" x 2.76" x 2.56" (175 x 70 x 65mm)
+- Driver: 2x 40mm fullrange
+- Frequency Response: 70Hz - 20kHz
 - Max Volume: 92db
 - Party Mode: Yes (Connect+ up to 100 speakers)
+- Power: 16W RMS
 - Power Input: Micro USB
 - TWS: No
 - Weight: 1.1lbs / 510g

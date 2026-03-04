@@ -11,6 +11,10 @@ The Ultimate Ears Megaboom 3 ranks [#80 out of 131 total Medium Size Portable Bl
 - Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 70hz
 - Battery Life: 20 hours
+- Bluetooth Version: 4.2
+- Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87mm)
+- Driver: 2x 50mm fullrange
+- Frequency Response: 60Hz - 20kHz
 - Max Volume: 98db
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB

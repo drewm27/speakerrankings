@@ -13,8 +13,13 @@ The JBL Charge 4 ranks [#51 out of 131 total Medium Size Portable Bluetooth Spea
 - Bass Extension (-10dB): 54hz
 - Battery Life: 20 hours
 - Bluetooth Latency: 330ms
+- Bluetooth Version: 4.2
+- Dimensions: 8.66" x 3.74" x 3.66" (220 x 95 x 93mm)
+- Driver: 1x 51x89mm fullrange
+- Frequency Response: 60Hz - 20kHz
 - Max Volume: 99db
 - Party Mode: Yes (Connect+ up to 100 speakers)
+- Power: 30W RMS
 - Power Bank: Yes
 - Stereo: No
 - TWS: No
