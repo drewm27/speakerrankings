@@ -9,6 +9,7 @@ This page summarizes all of the speakers I plan to add to the rankings as soon a
 
 1. ULT Field 5
 1. Soundcore Boom Go 3i
+1. Kef Muo 2025
 1. Teufel Rockstar Neo
 1. Teufel Rockstar Air 2
 1. Marshall Bromley 750
