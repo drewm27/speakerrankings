@@ -18,7 +18,7 @@ The Genelec 8351B ranks [#4 out of 21 total Large Size Powered Bookshelf Speaker
 - Dimensions: 17"H x 11.3"W x 10.9"D (431.8 x 287 x 276.9 mm)
 - Driver: 8.6" woofer, 5" coaxial with tweeter midrange, 0.75" (19mm) coaxial tweeter
 - EQ: Yes (via GLM software)
-- Frequency Response: 32Hz - 40kHz (±1.5dB)
+- Frequency Response: 32Hz - 40kHz (±1.5dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 113dB @ 1m
 - Watts: 550w Per Speaker

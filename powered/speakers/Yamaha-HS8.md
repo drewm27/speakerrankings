@@ -16,7 +16,7 @@ The Yamaha HS8 ranks [#14 out of 21 total Large Size Powered Bookshelf Speakers]
 - Dimensions: 15.4"H x 9.8"W x 13.1"D (391.2 x 248.9 x 332.7 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 47Hz – 24kHz (-3dB)
+- Frequency Response: 47Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
 - Watts: 120w Per Speaker
 - Weight: 22.5lbs / 10.2kg

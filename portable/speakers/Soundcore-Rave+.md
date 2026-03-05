@@ -12,7 +12,7 @@ The Soundcore Rave+ ranks [#37 out of 43 total Party Size Portable Bluetooth Spe
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 21.65" x 12.6" x 12.2" (550 x 320 x 310 mm)

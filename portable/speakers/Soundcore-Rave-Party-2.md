@@ -12,7 +12,7 @@ The Soundcore Rave Party 2 ranks [#38 out of 67 total Boombox Size Portable Blue
 - Negatives: Poor water rating. Bass extension doesn't seem very good.
 - App: No
 - Aux Input: Yes
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (App EQ)

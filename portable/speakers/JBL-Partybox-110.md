@@ -13,7 +13,7 @@ The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 41hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Charging Time: 3.5 hours

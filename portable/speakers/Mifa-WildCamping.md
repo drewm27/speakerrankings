@@ -13,14 +13,14 @@ The Mifa WildCamping ranks [#45 out of 73 total Large Size Portable Bluetooth Sp
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 66hz
-- Battery Life: 38 hours
+- Battery Life: 38 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 4.3" x 10.0" x 4.3" (110 x 254 x 110 mm)
 - Driver: 2x 45mm fullrange
 - EQ: No
-- Frequency Response: 70Hz - 20kHz
+- Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 97db
 - MicroSD: Yes

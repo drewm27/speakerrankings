@@ -12,7 +12,7 @@ The Denon Envaya DSB-250BT ranks [#5 out of 131 total Medium Size Portable Bluet
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Aux Input: Yes
 - Bass Extension (-10dB): 57hz
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, AAC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes

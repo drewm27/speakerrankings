@@ -10,7 +10,7 @@ The Harman Kardon Esquire 2 ranks [#114 out of 131 total Medium Size Portable Bl
 ## #114 Harman Kardon Esquire 2: $200
 - Negatives: Bass is weak, vocal and instrument separation is underwhelming and sounds tinny at high volume
 - Aux Input: Yes
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
 - Dimensions: 7.5" x 5.1" x 1.3" (190 x 130 x 34 mm)

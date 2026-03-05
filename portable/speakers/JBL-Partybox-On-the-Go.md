@@ -13,7 +13,7 @@ The JBL Partybox On the Go ranks [#40 out of 67 total Boombox Size Portable Blue
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No

@@ -11,7 +11,7 @@ The Yamaha True X Speaker 1A ranks [#90 out of 131 total Medium Size Portable Bl
 - Negatives: Not very deep bass, upper mids peak that makes voices sibilant
 - App: No
 - Aux Input: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: No
 - Dimensions: 4.13" x 3.54" x 3.54" (105 x 90 x 90 mm)

@@ -13,7 +13,7 @@ The Tronsmart Halo 200 ranks [#46 out of 67 total Boombox Size Portable Bluetoot
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 44hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No

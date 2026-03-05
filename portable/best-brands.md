@@ -36,7 +36,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): ~38hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
@@ -107,7 +107,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Aux Input: Yes
 - Aux Latency: 216ms
 - Bass Extension (-10dB): 56hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
@@ -148,7 +148,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 47hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.3
@@ -156,7 +156,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102 mm)
 - Driver: 120mm x 90mm woofer, 2x 20mm tweeters
 - EQ: Yes
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 105db
 - MicroSD: No
@@ -191,7 +191,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 50hz
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Bluetooth Version: 5.3
@@ -199,7 +199,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50 mm)
 - Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
-- Frequency Response: 65Hz - 40kHz
+- Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 101db
 - Power: 30W
@@ -232,14 +232,14 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 54hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
-- Frequency Response: 50Hz - 40kHz
+- Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
@@ -273,7 +273,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Bluetooth Version: 5.3
@@ -341,7 +341,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Aux Input: Yes
 - Aux Latency: 20ms
 - Bass Extension (-10dB): 44hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
@@ -349,7 +349,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
-- Frequency Response: 43Hz - 20kHz
+- Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 108db
 - Party Mode: No
@@ -383,7 +383,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
@@ -429,7 +429,7 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
 - Aux Input: Yes
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2
@@ -470,14 +470,14 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 56hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
 - Bluetooth Version: 5.0
 - Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
 - Driver: 70mm custom driver
 - EQ: Yes
-- Frequency Response: 60Hz - 18kHz
+- Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
 - Max Volume: 106db
 - Power: 50W
@@ -502,7 +502,7 @@ JBL makes by far the best party size speakers, although their smaller ones are o
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Driver: 2x 6.5" woofers, 2x 25mm tweeters
@@ -534,13 +534,13 @@ JBL makes by far the best party size speakers, although their smaller ones are o
 - Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Charging Time: 3.5 hours
 - Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (5 band)
-- Frequency Response: 40Hz - 20kHz
+- Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
@@ -569,7 +569,7 @@ Bose speakers are generally tuned to have boosted upper bass which can mask the 
 - Positives: Pretty much identical sounding to the 1st gen
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail. Self drains the battery about 10% a week.
 - App: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 7.9" x 3.6" x 2.1" (201 x 90 x 52 mm)
@@ -600,7 +600,7 @@ Sonos speakers tend to be pretty high priced, but are the only option if you wan
 - Negatives: Not very loud. This may have some of the same issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

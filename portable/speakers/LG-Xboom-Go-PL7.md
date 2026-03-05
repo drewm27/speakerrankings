@@ -11,7 +11,7 @@ The LG Xboom Go PL7 ranks [#66 out of 73 total Large Size Portable Bluetooth Spe
 - Negatives: 9khz peak. Not good sounding.
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

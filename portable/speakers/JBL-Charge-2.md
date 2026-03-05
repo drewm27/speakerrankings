@@ -9,11 +9,11 @@ The JBL Charge 2 ranks [#68 out of 131 total Medium Size Portable Bluetooth Spea
 
 ## #68 JBL Charge 2
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 3.0
 - Dimensions: 8.5" x 3.4" x 3.0" (216 x 86 x 76 mm)
 - Driver: 2x 45mm fullrange
-- Frequency Response: 75Hz - 20kHz
+- Frequency Response: 75Hz - 20kHz (Manufacturer specified)
 - Power: 15W RMS
 - Power Bank: Yes
 - Reviews, Comparisons and Sound Samples

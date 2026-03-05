@@ -12,7 +12,7 @@ The Sonos Move 2 ranks [#23 out of 73 total Large Size Portable Bluetooth Speake
 - Negatives: Not very loud. This may have some of the same issues at full volume that the Move 1 had too, but I'll need more sound samples at full volume to verify.
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

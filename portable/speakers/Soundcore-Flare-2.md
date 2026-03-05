@@ -12,7 +12,7 @@ The Soundcore Flare 2 ranks [#100 out of 131 total Medium Size Portable Bluetoot
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
 - App: Yes
 - Bass Extension (-10dB): 56hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 80ms
 - Bluetooth Version: 5.0

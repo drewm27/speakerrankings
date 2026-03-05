@@ -14,7 +14,7 @@ The Presonus Eris E5 XT ranks [#12 out of 24 total Medium Size Powered Bookshelf
 - Dimensions: 10.2"H x 7.0"W x 7.7"D (259.1 x 177.8 x 195.6 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 53Hz – 22kHz
+- Frequency Response: 53Hz – 22kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
 - Watts: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each

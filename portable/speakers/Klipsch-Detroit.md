@@ -12,14 +12,14 @@ The Klipsch Detroit ranks [#51 out of 73 total Large Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 13.1" x 4.2" x 4.68" (334 x 107 x 119 mm)
 - Driver: 2x 76mm fullrange, 2x 25mm tweeters
 - EQ: No
-- Frequency Response: 55Hz - 20kHz
+- Frequency Response: 55Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 93db
 - Party Mode: Yes (broadcast mode)

@@ -11,7 +11,7 @@ The Bose Soundlink Mini 2 ranks [#55 out of 131 total Medium Size Portable Bluet
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58 mm)
 - Driver: 2x 33mm fullrange

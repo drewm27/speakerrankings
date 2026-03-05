@@ -13,7 +13,7 @@ The Monster Atomic Atom ranks [#24 out of 41 total Small Size Portable Bluetooth
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): 90hz
-- Battery Life: 9 hours
+- Battery Life: 9 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes

@@ -12,13 +12,13 @@ The Marshall Woburn III ranks [#5 out of 14 total Medium Size Powered Desktop Sp
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203 mm)
 - Driver: 6" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 35Hz - 20kHz
+- Frequency Response: 35Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 100.5dB @ 1m

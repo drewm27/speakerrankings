@@ -31,7 +31,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
@@ -74,14 +74,14 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 56hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
 - Bluetooth Version: 5.0
 - Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
 - Driver: 70mm custom driver
 - EQ: Yes
-- Frequency Response: 60Hz - 18kHz
+- Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
 - Max Volume: 106db
 - Power: 50W
@@ -107,7 +107,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Aux Input: Yes
 - Aux Latency: 20ms
 - Bass Extension (-10dB): 44hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
@@ -115,7 +115,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
-- Frequency Response: 43Hz - 20kHz
+- Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 108db
 - Party Mode: No
@@ -151,7 +151,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
@@ -218,7 +218,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 12+ hours
+- Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver

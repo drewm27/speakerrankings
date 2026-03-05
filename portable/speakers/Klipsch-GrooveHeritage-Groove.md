@@ -12,7 +12,7 @@ The Klipsch Groove/Heritage Groove ranks [#86 out of 131 total Medium Size Porta
 - Negatives: Not stereo. Bass doesn't go as deep as others its size. Gets distorted at higher levels. Wouldn't generally recommend these old speakers as they can't compete with modern speakers for bass performance and features.
 - App: No
 - Aux Input: Yes
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes

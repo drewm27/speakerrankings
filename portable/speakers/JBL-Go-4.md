@@ -13,7 +13,7 @@ The JBL Go 4 ranks [#21 out of 41 total Small Size Portable Bluetooth Speakers](
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): ~82hz
-- Battery Life: 7 hours
+- Battery Life: 7 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -21,7 +21,7 @@ The JBL Go 4 ranks [#21 out of 41 total Small Size Portable Bluetooth Speakers](
 - Dimensions: 3.71" x 2.98" x 1.66" (94.3 x 75.7 x 42.2 mm)
 - Driver: 45mm
 - EQ: Yes
-- Frequency Response: 90Hz - 20kHz
+- Frequency Response: 90Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
 - Power Bank: No

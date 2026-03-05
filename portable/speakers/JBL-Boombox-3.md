@@ -13,7 +13,7 @@ The JBL Boombox 3 ranks [#19 out of 67 total Boombox Size Portable Bluetooth Spe
 - Aux Input: Yes
 - Aux Latency: 25ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: No

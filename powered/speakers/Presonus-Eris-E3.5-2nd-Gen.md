@@ -16,7 +16,7 @@ The Presonus Eris E3.5 2nd Gen ranks [#7 out of 8 total Small Size Powered Books
 - Dimensions: 8.3"H x 6.0"W x 5.5"D (210.8 x 152.4 x 139.7 mm)
 - Driver: 3.5" woofer, 1" silk dome tweeter
 - EQ: Yes (Acoustic space)
-- Frequency Response: 80 Hz-20 kHz (-3dB)
+- Frequency Response: 80 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: RCA, 1/4" Balanced
 - Max SPL: 95dB @ 1m
 - Outputs: 1/8" headphone jack

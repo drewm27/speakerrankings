@@ -12,7 +12,7 @@ The Marshall Emberton III ranks [#94 out of 131 total Medium Size Portable Bluet
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 62hz
-- Battery Life: 32 hours
+- Battery Life: 32 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 6.3" x 2.7" x 3.0" (160 x 68 x 76 mm)

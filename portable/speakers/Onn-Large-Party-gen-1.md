@@ -12,7 +12,7 @@ The Onn Large Party gen 1 ranks [#32 out of 43 total Party Size Portable Bluetoo
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - IP Rating: None

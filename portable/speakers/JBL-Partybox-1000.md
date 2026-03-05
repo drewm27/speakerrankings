@@ -12,7 +12,7 @@ The JBL Partybox 1000 ranks [#2 out of 10 total Large Party Size Portable Blueto
 - Negatives: Very large and heavy. No battery. No app. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No

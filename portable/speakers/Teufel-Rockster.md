@@ -12,7 +12,7 @@ The Teufel Rockster ranks [#6 out of 10 total Large Party Size Portable Bluetoot
 - Negatives: Extremely heavy, not easy to carry. Not stereo. Only available in Europe
 - App: No
 - Aux Input: Yes
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: No

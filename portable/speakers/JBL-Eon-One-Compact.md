@@ -11,12 +11,12 @@ The JBL Eon One Compact ranks [#28 out of 43 total Party Size Portable Bluetooth
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 11.46" x 10.04" x 15.71" (291.1 x 255 x 399 mm)
 - Driver: 8" woofer, 1" tweeter
 - EQ: No
-- Frequency Response: 37.5Hz - 20kHz
+- Frequency Response: 37.5Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No

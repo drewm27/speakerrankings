@@ -12,7 +12,7 @@ The Soundcore Trance/Rave Mega ranks [#69 out of 73 total Large Size Portable Bl
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

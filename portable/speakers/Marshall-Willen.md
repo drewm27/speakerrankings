@@ -12,7 +12,7 @@ The Marshall Willen ranks [#12 out of 41 total Small Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 75hz
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes

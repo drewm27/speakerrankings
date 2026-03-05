@@ -12,7 +12,7 @@ The Audiocase S10 ranks [#26 out of 43 total Party Size Portable Bluetooth Speak
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
 - App: No
 - Aux Input: Yes
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 25.59" x 15.75" x 11.81" (650 x 400 x 300 mm)

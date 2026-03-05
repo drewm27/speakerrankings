@@ -12,7 +12,7 @@ The Monster Rockin' Roller 270 ranks [#63 out of 67 total Boombox Size Portable 
 - App: Yes (Monster Zone Control app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: No

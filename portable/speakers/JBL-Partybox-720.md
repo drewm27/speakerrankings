@@ -12,7 +12,7 @@ The JBL Partybox 720 ranks [#3 out of 10 total Large Party Size Portable Bluetoo
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal. Somewhat dark sounding by default, needs some treble boost to sound neutral
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

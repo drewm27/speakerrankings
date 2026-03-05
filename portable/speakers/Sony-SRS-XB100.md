@@ -11,7 +11,7 @@ The Sony SRS-XB100 ranks [#28 out of 41 total Small Size Portable Bluetooth Spea
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.
 - App: No
 - Aux Input: No
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -19,7 +19,7 @@ The Sony SRS-XB100 ranks [#28 out of 41 total Small Size Portable Bluetooth Spea
 - Dimensions: 2.99" diameter x 3.74" H (76 x 95 mm)
 - Driver: 46mm
 - EQ: No
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: No
 - Power Bank: No

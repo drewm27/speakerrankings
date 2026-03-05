@@ -12,13 +12,13 @@ The Sony SRS-XP700 ranks [#11 out of 43 total Party Size Portable Bluetooth Spea
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 50hz
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, AAC, SBC
 - Bluetooth Version: 5.0
 - Charging Time: 3 hours
 - Dimensions: 12.32" x 27.28" x 14.45" (313 x 693 x 367 mm)
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes

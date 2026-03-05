@@ -11,12 +11,12 @@ The Tribit Stormbox Pro ranks [#41 out of 131 total Medium Size Portable Bluetoo
 - Negatives: Bottom woofer was fixed in a later firmware, upgrade for best sound. Peaky mids, highs rolled off. Not technically a 360 speaker, only front and rear.
 - Aux Input: Yes
 - Bass Extension (-10dB): 58hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 5.3
 - Dimensions: 3.8" x 3.8" x 7.1" (96 x 96 x 180 mm)
 - Driver: 76mm subwoofer, 2x 40mm full-range drivers + 2x passive radiators
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 99db
 - Party Mode: No

@@ -13,7 +13,7 @@ The W-King T11 ranks [#32 out of 67 total Boombox Size Portable Bluetooth Speake
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Built in Microphone: No

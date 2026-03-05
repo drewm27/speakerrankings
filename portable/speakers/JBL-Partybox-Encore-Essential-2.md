@@ -12,7 +12,7 @@ The JBL Partybox Encore Essential 2 ranks [#5 out of 67 total Boombox Size Porta
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

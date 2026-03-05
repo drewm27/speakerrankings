@@ -11,7 +11,7 @@ The Onn Medium Party Speaker Gen 2 ranks [#39 out of 67 total Boombox Size Porta
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
 - App: No
 - Aux Input: Yes
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

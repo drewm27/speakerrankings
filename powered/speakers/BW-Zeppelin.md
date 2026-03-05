@@ -13,7 +13,7 @@ The B&W Zeppelin ranks [#1 out of 2 total Large Size Powered Desktop Speakers](/
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~32hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth: Yes
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
 - Bluetooth Version: 5.0
@@ -21,7 +21,7 @@ The B&W Zeppelin ranks [#1 out of 2 total Large Size Powered Desktop Speakers](/
 - Dimensions: 25.6" x 8.3" x 7.6" (650 x 210 x 194 mm)
 - Driver: 150mm woofer, 2x 90mm FST midrange drivers, 2x 25mm Decoupled Double-Dome aluminium tweeters
 - EQ: No
-- Frequency Response: 35Hz - 24kHz
+- Frequency Response: 35Hz - 24kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power: 240W (80W woofer, 2x 40W midrange, 2x 40W tweeter)

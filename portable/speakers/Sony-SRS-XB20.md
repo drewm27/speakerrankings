@@ -11,7 +11,7 @@ The Sony SRS-XB20 ranks [#89 out of 131 total Medium Size Portable Bluetooth Spe
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.
 - App: Yes (SongPal)
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes

@@ -13,7 +13,7 @@ The Marshall Willen II ranks [#9 out of 41 total Small Size Portable Bluetooth S
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 70hz
-- Battery Life: 17 hours
+- Battery Life: 17 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -21,7 +21,7 @@ The Marshall Willen II ranks [#9 out of 41 total Small Size Portable Bluetooth S
 - Dimensions: 3.9" x 1.69" x 3.9" (99 x 43 x 99 mm)
 - Driver: 2" full-range with dual passive radiators
 - EQ: Yes
-- Frequency Response: 75Hz - 20kHz
+- Frequency Response: 75Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: No
 - Power Bank: No

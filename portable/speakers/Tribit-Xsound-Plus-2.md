@@ -13,7 +13,7 @@ The Tribit Xsound Plus 2 ranks [#32 out of 131 total Medium Size Portable Blueto
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: SBC 233ms, AAC 240ms
 - Bluetooth Version: 5.3
 - Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66 mm)

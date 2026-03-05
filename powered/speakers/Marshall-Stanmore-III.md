@@ -11,13 +11,13 @@ The Marshall Stanmore III ranks [#9 out of 14 total Medium Size Powered Desktop 
 - Negatives: Not as good sounding as the Stanmore II. Not enough bass. Distorts at higher volumes.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 13.78" x 7.87" x 7.32" (350 x 203 x 188 mm)
 - Driver: 5" (midrange/woofer), 1x 5" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
 - Party Mode: No

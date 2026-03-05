@@ -11,7 +11,7 @@ The Bugani Boost Max ranks [#37 out of 67 total Boombox Size Portable Bluetooth 
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: No

@@ -13,7 +13,7 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

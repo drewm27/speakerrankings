@@ -12,14 +12,14 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
 - Negatives: Bass can sound slightly thuddy at high volume
 - App: Yes
 - Aux Input: No
-- Battery Life: 26 hours
+- Battery Life: 26 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Dimensions: 10.0" x 3.6" x 3.6" (255 x 92 x 92 mm)
 - Driver: 35W woofer, 15W tweeter
 - EQ: Yes
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: Yes (Up to 100 speakers)
 - Power: 50W

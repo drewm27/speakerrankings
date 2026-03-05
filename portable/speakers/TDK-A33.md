@@ -11,7 +11,7 @@ The TDK A33 ranks [#103 out of 131 total Medium Size Portable Bluetooth Speakers
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~72hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 2.1
 - Built in Microphone: Yes

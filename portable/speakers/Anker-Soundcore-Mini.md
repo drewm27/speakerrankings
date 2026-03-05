@@ -12,7 +12,7 @@ The Anker Soundcore Mini ranks [#11 out of 41 total Small Size Portable Bluetoot
 - Negatives: Not quite as deep of bass as higher ranked speakers. No waterproofing
 - App: No
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes

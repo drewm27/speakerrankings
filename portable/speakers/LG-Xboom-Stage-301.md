@@ -11,7 +11,7 @@ The LG Xboom Stage 301 ranks [#21 out of 67 total Boombox Size Portable Bluetoot
 - Negatives: overpriced for what it is. Not the greatest frequency response.
 - App: Yes (LG Xboom app)
 - Bass Extension (-10dB): 43hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: No
 - EQ: Yes (App EQ)

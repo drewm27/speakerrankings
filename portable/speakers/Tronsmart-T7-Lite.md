@@ -11,7 +11,7 @@ The Tronsmart T7 Lite ranks [#111 out of 131 total Medium Size Portable Bluetoot
 - Negatives: Hugely lacking bass compared to similar size speakers. Sounds hollow and thuddy with frequency dips in the midrange.
 - App: Yes (Tronsmart App)
 - Aux Input: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

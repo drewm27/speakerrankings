@@ -14,7 +14,7 @@ The Soundcore Motion Boom+ ranks [#43 out of 67 total Boombox Size Portable Blue
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 52hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 5.3

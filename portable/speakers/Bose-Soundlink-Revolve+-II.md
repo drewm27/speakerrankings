@@ -10,7 +10,7 @@ The Bose Soundlink Revolve+ II ranks [#46 out of 131 total Medium Size Portable 
 ## #46 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325)]: $300
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble. Only IP55.
 - Aux Input: Yes
-- Battery Life: 17 hours
+- Battery Life: 17 hours (Manufacturer specified)
 - Bluetooth Version: 4.1
 - Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82 mm)
 - IP Rating: IP55

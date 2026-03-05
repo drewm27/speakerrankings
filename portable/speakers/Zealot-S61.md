@@ -10,7 +10,7 @@ The Zealot S61 ranks [#129 out of 131 total Medium Size Portable Bluetooth Speak
 ## #129 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c42agFcJ)]: $20
 - Negatives: Sounds like a soup can, no bass at all. Weird frequency response all over.
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 4.06" x 4.06" x 6.7" (103 x 103 x 170 mm)

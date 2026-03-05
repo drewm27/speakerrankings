@@ -13,13 +13,13 @@ The JBL Grip ranks [#73 out of 131 total Medium Size Portable Bluetooth Speakers
 - Setup: EQ from [Oluv in his post](https://www.patreon.com/posts/jbl-grip-test-150255893) can help it a bit but still isn't very netural
 - App: Yes
 - Bass Extension (-10dB): ~68hz
-- Battery Life: 14 hours
+- Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Dimensions: 2.52" x 6.0" x 2.57" (64 x 152 x 65 mm)
 - Driver: 1x 43x80mm fullrange
 - EQ: Yes (7 band)
-- Frequency Response: 70Hz - 20kHz
+- Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP68
 - Party Mode: Yes (Auracast)
 - Power: 16W

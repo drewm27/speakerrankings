@@ -13,7 +13,7 @@ The Soundcore Mini 3 ranks [#7 out of 41 total Small Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 58hz
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Bluetooth Version: 5.0

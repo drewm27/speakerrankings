@@ -14,7 +14,7 @@ The Edifier R2000DB ranks [#20 out of 24 total Medium Size Powered Bookshelf Spe
 - Dimensions: 11.25"H x 7.5"W x 9.5"D (285.8 x 190.5 x 241.3 mm)
 - Driver: 5" woofer
 - EQ: No
-- Frequency Response: 55Hz-40KHz (-3dB)
+- Frequency Response: 55Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical
 - Watts: 60w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg

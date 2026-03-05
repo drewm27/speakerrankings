@@ -29,7 +29,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 58hz
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -57,13 +57,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 53hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
 - Dimensions: 9.0" x 3.9" x 3.7" (228.8 x 98.5 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (7 band)
-- Frequency Response: 56Hz - 20kHz (-6dB)
+- Frequency Response: 56Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: IP68
 - Max Volume: 102db
 - Party Mode: Yes (Auracast)
@@ -98,7 +98,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 47hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.3
@@ -106,7 +106,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102 mm)
 - Driver: 120mm x 90mm woofer, 2x 20mm tweeters
 - EQ: Yes
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 105db
 - MicroSD: No
@@ -145,7 +145,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): ~38hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
@@ -215,7 +215,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Driver: 2x 6.5" woofers, 2x 25mm tweeters
@@ -249,7 +249,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: No

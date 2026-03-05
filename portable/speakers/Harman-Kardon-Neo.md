@@ -12,14 +12,14 @@ The Harman Kardon Neo ranks [#38 out of 41 total Small Size Portable Bluetooth S
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): 105hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 4.33" x 4.33" x 1.34" (110 x 110 x 34.1 mm)
 - EQ: No
-- Frequency Response: 130Hz - 20kHz
+- Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Max Volume: 87db
 - Party Mode: No

@@ -13,7 +13,7 @@ The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks [#33 out of 73 total Large Siz
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

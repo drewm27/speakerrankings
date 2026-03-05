@@ -12,13 +12,13 @@ The Soundcore Glow ranks [#44 out of 131 total Medium Size Portable Bluetooth Sp
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 54hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
 - Dimensions: 11.4" x 4.7" x 4.3" (290 x 120 x 110 mm)
 - Driver: 63.5mm full-range driver + 2x passive radiators
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 100db
 - Party Mode: Yes (PartyBoost)

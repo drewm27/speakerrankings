@@ -12,13 +12,13 @@ The W-King D9 ranks [#61 out of 73 total Large Size Portable Bluetooth Speakers]
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 4.72" x 12.4" x 4.72" (120 x 315 x 120 mm)
 - EQ: No
-- Frequency Response: 80Hz - 16kHz
+- Frequency Response: 80Hz - 16kHz (Manufacturer specified)
 - IP Rating: IPX6
 - Max Volume: 106db
 - MicroSD: Yes

@@ -13,7 +13,7 @@ The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks [#21 out of 131 total Mediu
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 58hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 160ms
 - Bluetooth Version: 4.2
 - Built in Microphone: No

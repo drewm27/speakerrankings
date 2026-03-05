@@ -12,12 +12,12 @@ The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Blue
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 62hz
-- Battery Life: 4 hours
+- Battery Life: 4 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 11.81" x 22.36" x 11.85" (300 x 568 x 301 mm)
 - Driver: 10" woofer, 1" compression driver
 - EQ: No
-- Frequency Response: 62Hz - 20kHz
+- Frequency Response: 62Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No

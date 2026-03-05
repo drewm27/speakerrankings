@@ -12,7 +12,7 @@ The Audio Pro C3 ranks [#2 out of 14 total Medium Size Powered Desktop Speakers]
 - Negatives: A bit muffled and missing midrange detail.
 - App: No
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

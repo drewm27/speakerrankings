@@ -13,7 +13,7 @@ The JBL Boombox 4 ranks [#15 out of 67 total Boombox Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 41hz
-- Battery Life: 28 hours
+- Battery Life: 28 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
 - Built in Microphone: No

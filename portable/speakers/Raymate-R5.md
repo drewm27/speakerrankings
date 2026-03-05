@@ -11,7 +11,7 @@ The Raymate R5 ranks [#92 out of 131 total Medium Size Portable Bluetooth Speake
 - Negatives: Not much bass, peaky upper mids
 - App: No
 - Aux Input: Yes
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: No

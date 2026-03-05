@@ -12,7 +12,7 @@ The Tribit Stormbox Micro ranks [#4 out of 41 total Small Size Portable Bluetoot
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): 62hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes

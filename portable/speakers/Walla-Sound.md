@@ -11,7 +11,7 @@ The Walla Sound ranks [#121 out of 131 total Medium Size Portable Bluetooth Spea
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~90hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 2.68" x 2.68" x 6.3" (68 x 68 x 160 mm)

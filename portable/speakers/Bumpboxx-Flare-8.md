@@ -12,7 +12,7 @@ The Bumpboxx Flare 8 ranks [#51 out of 67 total Boombox Size Portable Bluetooth 
 - Negatives: Bass is not deep, thuddy bass
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 27.99" x 7.99" x 15.98" (711 x 203 x 406 mm)

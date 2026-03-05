@@ -13,7 +13,7 @@ The Soundcore Boost “upgraded” 2021 ranks [#4 out of 131 total Medium Size P
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
 - Built in Microphone: Yes

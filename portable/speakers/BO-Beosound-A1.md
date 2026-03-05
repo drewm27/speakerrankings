@@ -13,7 +13,7 @@ The B&O Beosound A1 ranks [#9 out of 131 total Medium Size Portable Bluetooth Sp
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 50hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67

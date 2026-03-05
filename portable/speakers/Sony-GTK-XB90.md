@@ -12,7 +12,7 @@ The Sony GTK-XB90 ranks [#39 out of 43 total Party Size Portable Bluetooth Speak
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
 - IP Rating: None

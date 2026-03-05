@@ -13,7 +13,7 @@ The JBL Flip 7 ranks [#14 out of 131 total Medium Size Portable Bluetooth Speake
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59hz
-- Battery Life: 14 hours
+- Battery Life: 14 hours (Manufacturer specified)
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - IP Rating: IP68

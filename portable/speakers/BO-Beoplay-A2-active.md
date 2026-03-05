@@ -11,14 +11,14 @@ The B&O Beoplay A2 active ranks [#15 out of 73 total Large Size Portable Bluetoo
 - Negatives: Not stereo
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 10.1" x 5.6" x 1.7" (256 x 142 x 44 mm)
 - Driver: 2x 3" fullrange woofers, 2x 0.75" tweeters + 2x 3" passive radiators
 - EQ: No
-- Frequency Response: 55Hz - 22kHz
+- Frequency Response: 55Hz - 22kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power: 60W

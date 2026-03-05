@@ -18,7 +18,7 @@ The Neumann KH80 DSP ranks [#4 out of 24 total Medium Size Powered Bookshelf Spe
 - Dimensions: 13.6"H x 10.8"W x 9.6"D (345.4 x 274.3 x 243.8 mm)
 - Driver: 4.1" woofer, 1" fabric dome tweeter
 - EQ: Yes (via DSP)
-- Frequency Response: 57 Hz - 25 kHz (+-3 dB)
+- Frequency Response: 57 Hz - 25 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 110.7dB @ 1m
 - Power: 140W (90W woofer + 50W tweeter)

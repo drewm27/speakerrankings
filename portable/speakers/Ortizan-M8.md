@@ -11,7 +11,7 @@ The Ortizan M8 ranks [#70 out of 73 total Large Size Portable Bluetooth Speakers
 - Negatives: Not much bass, bass distortion and rattle at high volume.
 - App: No
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

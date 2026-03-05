@@ -13,12 +13,12 @@ The Lenovo 700 Ultraportable Bluetooth Speaker ranks [#39 out of 41 total Small 
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~220hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: No
-- Frequency Response: 220Hz - 20kHz
+- Frequency Response: 220Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX2
 - NFC: Yes
 - Party Mode: No

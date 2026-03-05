@@ -11,7 +11,7 @@ The Ultimate Ears Wonderboom 2 ranks [#82 out of 131 total Medium Size Portable 
 - Negatives: Not stereo, barely any bass, recessed treble. Slightly boosted 93hz upper bass Dip at 9khz. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2019. Not technically a 360 speaker, only front and rear.
 - App: No
 - Bass Extension (-10dB): 82hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.1
 - Built in Microphone: No
 - Dimensions: 4.09" x 3.75" (104 x 95.3 mm)

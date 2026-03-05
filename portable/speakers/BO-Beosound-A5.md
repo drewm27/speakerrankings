@@ -17,7 +17,7 @@ The B&O Beosound A5 ranks [#11 out of 73 total Large Size Portable Bluetooth Spe
 - Dimensions: 11.2" x 7.4" x 5.1" (285 x 187 x 130 mm)
 - Driver: 5.25" woofer, 2x 2" fullrange, 0.8" tweeter
 - EQ: No
-- Frequency Response: 32Hz - 23kHz
+- Frequency Response: 32Hz - 23kHz (Manufacturer specified)
 - IP Rating: IP65
 - Max Volume: 101db
 - Party Mode: Yes (Mozart 2.0)

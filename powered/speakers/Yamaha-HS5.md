@@ -15,7 +15,7 @@ The Yamaha HS5 ranks [#9 out of 24 total Medium Size Powered Bookshelf Speakers]
 - Dimensions: 11.2"H x 6.7"W x 8.7"D (284.5 x 170.2 x 221 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 58Hz – 24kHz (-3dB)
+- Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
 - Watts: 45w Per Speaker
 - Weight: 12.1lbs / 5.5kg each

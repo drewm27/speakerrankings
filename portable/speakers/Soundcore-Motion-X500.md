@@ -12,14 +12,14 @@ The Soundcore Motion X500 ranks [#22 out of 73 total Large Size Portable Bluetoo
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 48hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 8.7" x 8.0" x 3.2" (220 x 202 x 81 mm)
 - Driver: 2x forward-facing drivers, 1x upward-firing driver
 - EQ: Yes
-- Frequency Response: 50Hz - 40kHz
+- Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No

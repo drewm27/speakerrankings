@@ -25,7 +25,7 @@ Last updated: March 04, 2026
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Driver: 2x 6.5" woofers, 2x 25mm tweeters
@@ -58,7 +58,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 32hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Charging Time: 3.5 hours
 - EQ: Yes (3 band)
@@ -94,13 +94,13 @@ Last updated: March 04, 2026
 - Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Charging Time: 3.5 hours
 - Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (5 band)
-- Frequency Response: 40Hz - 20kHz
+- Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
@@ -126,13 +126,13 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 41hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Charging Time: 6.5 hours
 - Dimensions: 11.34" x 21.69" x 11.42" (288 x 551 x 290 mm)
 - EQ: No
-- Frequency Response: 45Hz - 18kHz
+- Frequency Response: 45Hz - 18kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
@@ -172,7 +172,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 41hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Charging Time: 3.5 hours
@@ -213,12 +213,12 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Dimensions: 27" x 13" x 12.7" (685.8 x 330.2 x 322.6 mm)
 - EQ: No
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
@@ -242,7 +242,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 12+ hours
+- Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
@@ -274,7 +274,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Output: Yes
 - Bass Extension (-10dB): 48hz
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes
 - IP Rating: IPX6
@@ -303,7 +303,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 50hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 15.75" x 10.83" x 10.71" (400 x 275 x 272 mm)
 - Driver: 8" woofer, 1" tweeter
@@ -334,7 +334,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
-- Battery Life: 11 hours
+- Battery Life: 11 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0
 - Charging Time: 5 hours
@@ -372,13 +372,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 50hz
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, AAC, SBC
 - Bluetooth Version: 5.0
 - Charging Time: 3 hours
 - Dimensions: 12.32" x 27.28" x 14.45" (313 x 693 x 367 mm)
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
@@ -402,13 +402,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 42hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, AAC, SBC
 - Bluetooth Version: 5.0
 - Charging Time: 3 hours
 - Dimensions: 10.83" x 22.52" x 11.61" (275 x 572 x 295 mm)
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
@@ -431,7 +431,7 @@ Last updated: March 04, 2026
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - FM Tuner: Yes
@@ -458,7 +458,7 @@ Last updated: March 04, 2026
 - Negatives: Some upper bass and upper mids boost. Not as deep of bass as a Partybox 110/120
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes
 - Guitar Input: Yes
@@ -487,7 +487,7 @@ Last updated: March 04, 2026
 - Negatives: Treble is recessed, bass isn't as deep as a Partybox 310. Upper bass boosted.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.1
 - Dimensions: 27.6" x 12.2" x 12.4" (701 x 309.9 x 315 mm)
@@ -515,7 +515,7 @@ Last updated: March 04, 2026
 - Negatives: Not quite as clean sounding as the top ranked speakers. Not quite as deep of bass Partybox 110. Bass gets muddy at high volume. Low battery life. No water rating
 - App: No
 - Aux Input: Yes
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - Guitar Input: Yes
@@ -540,7 +540,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep bass as the Partybox 110 or other higher ranked speakers. Needs to be plugged in to reach higher volume.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 12.95" x 26.18" x 11.85" (329 x 665 x 301 mm)
@@ -567,7 +567,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 50hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 17.99" x 9.06" x 11.22" (457 x 230 x 285 mm)
 - Driver: 8" woofer, 1" compression driver
@@ -599,7 +599,7 @@ Last updated: March 04, 2026
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
 - App: No
 - Aux Input: Yes
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 16.14" x 9.84" x 7.48" (410 x 250 x 190 mm)
@@ -629,7 +629,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Dimensions: 11.81" x 21.26" x 11.02" (300 x 540 x 280 mm)
@@ -656,13 +656,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 25.6" x 17" x 13" (650.2 x 431.8 x 330.2 mm)
 - Driver: 2x 10" woofers, 1" compression driver
 - EQ: Yes
-- Frequency Response: 40Hz - 20kHz
+- Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: IP65
 - Max Volume: 126db
@@ -692,7 +692,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes
 - Guitar Input: Yes
@@ -720,7 +720,7 @@ Last updated: March 04, 2026
 - Positives: Tied for the loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Charging Time: 3.5 hours
@@ -754,7 +754,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Charging Time: 2.6 hours
@@ -783,13 +783,13 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 18" x 12" x 10" (457.2 x 304.8 x 254 mm)
 - Driver: 10" woofer, 1" tweeter
 - EQ: No
-- Frequency Response: 40Hz - 20kHz
+- Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Max Volume: 121db
 - Party Mode: No
@@ -816,7 +816,7 @@ Last updated: March 04, 2026
 - Negatives: Not great sounding at low volumes. Better sounding at louder volumes. Weird peaks in the midrange. Competes against the Soundboks but doesn't sound as good.
 - App: No
 - Aux Input: Yes
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 25.59" x 15.75" x 11.81" (650 x 400 x 300 mm)
@@ -843,14 +843,14 @@ Last updated: March 04, 2026
 - Negatives: Sounds warm, somewhat gritty, not as detailed as higher ranked speakers
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Charging Time: 4 hours
 - Dimensions: 10.79" x 10.07" x 21.08" (274 x 255.7 x 535.5 mm)
 - Driver: 2x 6.5" woofers, 2x 2.5" tweeters
 - EQ: No
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
@@ -869,12 +869,12 @@ Last updated: March 04, 2026
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 11.46" x 10.04" x 15.71" (291.1 x 255 x 399 mm)
 - Driver: 8" woofer, 1" tweeter
 - EQ: No
-- Frequency Response: 37.5Hz - 20kHz
+- Frequency Response: 37.5Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
@@ -895,13 +895,13 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~53hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Dimensions: 6.38" x 12.87" (162 x 327 mm)
 - Driver: 4" woofer, 1.5" full-range driver
 - EQ: No
-- Frequency Response: 35Hz - 24.3kHz
+- Frequency Response: 35Hz - 24.3kHz (Manufacturer specified)
 - IP Rating: None
 - Max Volume: 91db
 - Party Mode: No
@@ -928,7 +928,7 @@ Last updated: March 04, 2026
 - Dimensions: 23" x 14.5" x 9.5" (584.2 x 368.3 x 241.3 mm)
 - Driver: 5.5" woofer, 1" tweeter
 - EQ: No
-- Frequency Response: 40Hz - 22kHz
+- Frequency Response: 40Hz - 22kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
@@ -951,12 +951,12 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 62hz
-- Battery Life: 4 hours
+- Battery Life: 4 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 11.81" x 22.36" x 11.85" (300 x 568 x 301 mm)
 - Driver: 10" woofer, 1" compression driver
 - EQ: No
-- Frequency Response: 62Hz - 20kHz
+- Frequency Response: 62Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No
@@ -979,7 +979,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - IP Rating: None
@@ -1003,7 +1003,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
-- Battery Life: 14 hours
+- Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 10.55" x 21.89" x 11.22" (268 x 556 x 285 mm)
 - Driver: 2x 5.25" woofers, 2x 2" tweeters
@@ -1029,13 +1029,13 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~57hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 11.22" x 23.03" x 11.93" (285 x 585 x 303 mm)
 - Driver: 20cm woofer, 2x 6cm tweeters
 - EQ: No
-- Frequency Response: 100Hz - 20kHz
+- Frequency Response: 100Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: Yes
@@ -1081,7 +1081,7 @@ Last updated: March 04, 2026
 - Negatives: Not very deep bass
 - App: No
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 10.24" x 11.02" x 22.05" (260 x 280 x 560 mm)
@@ -1107,7 +1107,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 21.65" x 12.6" x 12.2" (550 x 320 x 310 mm)
@@ -1132,7 +1132,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - IP Rating: None
@@ -1154,7 +1154,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
 - IP Rating: None
@@ -1177,7 +1177,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~56hz
-- Battery Life: 23 hours
+- Battery Life: 23 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
 - IP Rating: None
@@ -1198,7 +1198,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 14 hours
+- Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
 - IP Rating: None
@@ -1244,7 +1244,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - IP Rating: None

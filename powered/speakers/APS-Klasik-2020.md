@@ -16,7 +16,7 @@ The APS Klasik 2020 ranks [#8 out of 21 total Large Size Powered Bookshelf Speak
 - Dimensions: 14.2"H x 8.3"W x 12.6"D (360.7 x 210.8 x 320 mm)
 - Driver: 7" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 39Hz – 25kHz (-3dB)
+- Frequency Response: 39Hz – 25kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR, RCA
 - Watts: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each

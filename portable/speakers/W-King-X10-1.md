@@ -12,7 +12,7 @@ The W-King X10-1 ranks [#57 out of 67 total Boombox Size Portable Bluetooth Spea
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
-- Battery Life: 42 hours
+- Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

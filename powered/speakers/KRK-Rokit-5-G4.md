@@ -15,7 +15,7 @@ The KRK Rokit 5 G4 ranks [#11 out of 24 total Medium Size Powered Bookshelf Spea
 - Dimensions: 11.2"H x 7.5"W x 9.5"D (284.5 x 190.5 x 241.3 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 58Hz – 24kHz (-3dB)
+- Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: TRS/XLR
 - Watts: 55w Per Speaker
 - Weight: 10.7lbs / 4.9kg each

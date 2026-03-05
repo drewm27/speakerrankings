@@ -13,7 +13,7 @@ The B&O Beosound A1 2nd gen ranks [#10 out of 131 total Medium Size Portable Blu
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 58hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Latency: 90ms
 - Built in Microphone: Yes
 - EQ: Yes

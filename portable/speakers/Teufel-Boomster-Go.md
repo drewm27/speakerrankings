@@ -11,14 +11,14 @@ The Teufel Boomster Go ranks [#5 out of 41 total Small Size Portable Bluetooth S
 - Positives: Pretty deep bass and quite balanced overall for the size.
 - App: No
 - Aux Input: No
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
 - Dimensions: 4.21" x 4.02" x 1.81" (107 x 102 x 46 mm)
 - EQ: No
-- Frequency Response: 65Hz - 20kHz
+- Frequency Response: 65Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Party Mode: No
 - Power Bank: No

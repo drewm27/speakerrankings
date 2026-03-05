@@ -11,13 +11,13 @@ The Zealot S67 ranks [#72 out of 73 total Large Size Portable Bluetooth Speakers
 - Negatives: A lot of distortion above 50%, no deep bass, rolled off treble. Just not a good sounding speaker.
 - App: No
 - Aux Input: Yes
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 11.6" x 4.8" x 5.2" (294 x 122 x 132 mm)
 - EQ: No
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No

@@ -12,7 +12,7 @@ The Doss Extreme Boom ranks [#71 out of 73 total Large Size Portable Bluetooth S
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 65hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

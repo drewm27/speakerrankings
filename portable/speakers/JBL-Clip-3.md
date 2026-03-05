@@ -13,14 +13,14 @@ The JBL Clip 3 ranks [#31 out of 41 total Small Size Portable Bluetooth Speakers
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~100hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 3.82" x 5.39" x 1.81" (97 x 137 x 46 mm)
 - EQ: No
-- Frequency Response: 120Hz - 20kHz
+- Frequency Response: 120Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No

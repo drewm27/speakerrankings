@@ -13,7 +13,7 @@ The Dockin D Fine+ 2 ranks [#24 out of 73 total Large Size Portable Bluetooth Sp
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

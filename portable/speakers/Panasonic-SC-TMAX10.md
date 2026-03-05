@@ -12,13 +12,13 @@ The Panasonic SC-TMAX10 ranks [#34 out of 43 total Party Size Portable Bluetooth
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~57hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 11.22" x 23.03" x 11.93" (285 x 585 x 303 mm)
 - Driver: 20cm woofer, 2x 6cm tweeters
 - EQ: No
-- Frequency Response: 100Hz - 20kHz
+- Frequency Response: 100Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: Yes

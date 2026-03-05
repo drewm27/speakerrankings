@@ -12,7 +12,7 @@ The Soundcore Rave 3/3s ranks [#14 out of 43 total Party Size Portable Bluetooth
 - Negatives: Some upper bass and upper mids boost. Not as deep of bass as a Partybox 110/120
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes
 - Guitar Input: Yes

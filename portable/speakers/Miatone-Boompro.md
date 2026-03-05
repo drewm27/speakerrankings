@@ -12,7 +12,7 @@ The Miatone Boompro ranks [#15 out of 131 total Medium Size Portable Bluetooth S
 - Negatives: Slightly less bass extension than higher ranked speakers.
 - App: No
 - Aux Input: No
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - EQ: No
 - IP Rating: IPX7
 - Power Bank: No

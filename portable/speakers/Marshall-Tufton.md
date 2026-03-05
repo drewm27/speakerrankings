@@ -12,7 +12,7 @@ The Marshall Tufton ranks [#56 out of 67 total Boombox Size Portable Bluetooth S
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 42hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)

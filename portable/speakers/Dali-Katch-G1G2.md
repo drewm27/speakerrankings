@@ -12,14 +12,14 @@ The Dali Katch G1/G2 ranks [#55 out of 73 total Large Size Portable Bluetooth Sp
 - Negatives: Loses bass quickly after 40% volume. A lot of compression artifacts at high volume. Not really much of any difference between the G1 and G2. External AC power brick for charging. Horribly overpriced
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.6" x 5.4" x 1.9" (269 x 138 x 47 mm)
 - Driver: 2x 89mm woofers, 2x 21mm tweeters
 - EQ: No
-- Frequency Response: 49Hz - 23kHz
+- Frequency Response: 49Hz - 23kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Party Mode: No
 - Power: 50W RMS

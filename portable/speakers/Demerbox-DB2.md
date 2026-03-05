@@ -11,7 +11,7 @@ The Demerbox DB2 ranks [#45 out of 67 total Boombox Size Portable Bluetooth Spea
 - Negatives: Bass is not as deep as better speakers. Very overpriced.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.63" x 9.69" x 6.89" (270 x 246 x 175 mm)

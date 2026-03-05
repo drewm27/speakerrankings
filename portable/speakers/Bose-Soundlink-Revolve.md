@@ -11,7 +11,7 @@ The Bose Soundlink Revolve ranks [#49 out of 131 total Medium Size Portable Blue
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
 - Aux Input: Yes
 - Bass Extension (-10dB): 60hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82 mm)
 - Party Mode: Yes (Bose Party mode)

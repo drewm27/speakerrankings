@@ -11,13 +11,13 @@ The Muzen Wild Mini ranks [#35 out of 41 total Small Size Portable Bluetooth Spe
 - Negatives: Not much bass at all, quite thuddy. Not very loud. Only IPX5, not submersible. Short battery life.
 - App: No
 - Aux Input: No
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 2.39" x 1.48" x 3.07" (60.8 x 37.5 x 77.9 mm)
 - EQ: No
-- Frequency Response: 80Hz - 18kHz
+- Frequency Response: 80Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX5
 - Party Mode: No
 - Power Bank: No

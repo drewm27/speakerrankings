@@ -29,7 +29,7 @@ Last updated: March 04, 2026
 - Dimensions: 19"H x 10.5"W x 15"D (482.6 x 266.7 x 381 mm)
 - Driver: 2x 8" Aluminium Cone woofers, 8" Aluminium Cone midrange, 1" Aluminium/Magnesium dome tweeter
 - EQ: Yes (24-band parametric)
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 106dB @ 1m continuous
 - Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
@@ -55,7 +55,7 @@ Last updated: March 04, 2026
 - Dimensions: 25.4"H x 13"W x 17.5"D (645.2 x 330.2 x 444.5 mm)
 - Driver: 10" woofer, 4" dome midrange, 1" fabric dome tweeter
 - EQ: Yes (Room response controls)
-- Frequency Response: 31Hz - 21kHz (±3dB)
+- Frequency Response: 31Hz - 21kHz (±3dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 124dB @ 1m
 - Watts: 555w Per Speaker
@@ -77,7 +77,7 @@ Last updated: March 04, 2026
 - Dimensions: 22.5"H x 14"W x 13.6"D (571.5 x 355.6 x 345.4 mm)
 - Driver: Dual 263 x 137 mm woofers, 5.1" coaxial with tweeter midrange, 1" (25mm) coaxial tweeter
 - EQ: Yes (via GLM software)
-- Frequency Response: 30Hz - 43kHz (±2dB)
+- Frequency Response: 30Hz - 43kHz (±2dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 118dB @ 1m
 - Watts: 1000w Per Speaker
@@ -99,7 +99,7 @@ Last updated: March 04, 2026
 - Dimensions: 17"H x 11.3"W x 10.9"D (431.8 x 287 x 276.9 mm)
 - Driver: 8.6" woofer, 5" coaxial with tweeter midrange, 0.75" (19mm) coaxial tweeter
 - EQ: Yes (via GLM software)
-- Frequency Response: 32Hz - 40kHz (±1.5dB)
+- Frequency Response: 32Hz - 40kHz (±1.5dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 113dB @ 1m
 - Watts: 550w Per Speaker
@@ -119,7 +119,7 @@ Last updated: March 04, 2026
 - Dimensions: 14.1"H x 11"W x 13.3"D (358.1 x 279.4 x 337.8 mm)
 - Driver: 7" honeycomb composite woofer, 4" honeycomb composite midrange, HEDD AMT (Air Motion Transformer) tweeter
 - EQ: Yes (Desk filter, shelf filters)
-- Frequency Response: 32Hz - 40kHz
+- Frequency Response: 32Hz - 40kHz (Manufacturer specified)
 - Inputs: XLR (Analog/AES)
 - Max SPL: 120dB @ 1m (per pair)
 - Outputs: XLR (AES pass-through)
@@ -140,7 +140,7 @@ Last updated: March 04, 2026
 - Dimensions: 17.8"H x 11.3"W x 10.9"D (452.1 x 287 x 276.9 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 32Hz – 25kHz (-6dB)
+- Frequency Response: 32Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
 - Watts: 270w Per Speaker
 - Weight: 31.7lbs / 14.4kg each
@@ -159,7 +159,7 @@ Last updated: March 04, 2026
 - Dimensions: 14.4"H x 9.3"W x 8.8"D (365.8 x 236.2 x 223.5 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 41Hz – 25kHz (-6dB)
+- Frequency Response: 41Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
 - Watts: 180w Per Speaker
 - Weight: 20.7lbs / 9.4kg each
@@ -176,7 +176,7 @@ Last updated: March 04, 2026
 - Dimensions: 14.2"H x 8.3"W x 12.6"D (360.7 x 210.8 x 320 mm)
 - Driver: 7" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 39Hz – 25kHz (-3dB)
+- Frequency Response: 39Hz – 25kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR, RCA
 - Watts: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each
@@ -219,7 +219,7 @@ Last updated: March 04, 2026
 - Dimensions: 13.4"H x 10.3"W x 11.4"D (340.4 x 261.6 x 289.6 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 40Hz – 22kHz (+-3dB)
+- Frequency Response: 40Hz – 22kHz (+-3dB) (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
 - Watts: 85w Per Speaker
 - Weight: 16.8lbs / 7.6kg each
@@ -264,7 +264,7 @@ Last updated: March 04, 2026
 - Dimensions: 16.5"H x 9.8"W x 11.7"D (419.1 x 248.9 x 297.2 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 35Hz – 20kHz
+- Frequency Response: 35Hz – 20kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
 - Watts: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
@@ -287,7 +287,7 @@ Last updated: March 04, 2026
 - Dimensions: 16.5"H x 10.0"W x 11.3"D (419.1 x 254 x 287 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 45Hz – 21kHz (+-3dB)
+- Frequency Response: 45Hz – 21kHz (+-3dB) (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
 - Watts: 100w Per Speaker
 - Weight: 19.8lbs / 9.0kg each
@@ -310,7 +310,7 @@ Last updated: March 04, 2026
 - Dimensions: 15.4"H x 9.8"W x 13.1"D (391.2 x 248.9 x 332.7 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 47Hz – 24kHz (-3dB)
+- Frequency Response: 47Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
 - Watts: 120w Per Speaker
 - Weight: 22.5lbs / 10.2kg
@@ -341,7 +341,7 @@ Last updated: March 04, 2026
 - Dimensions: 15.8"H x 9.8"W x 13.2"D (401.3 x 248.9 x 335.3 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 33Hz – 25kHz (-6dB)
+- Frequency Response: 33Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR, RCA
 - Watts: 90w Per Speaker
 - Weight: 21.6lbs / 9.8kg
@@ -362,7 +362,7 @@ Last updated: March 04, 2026
 - Dimensions: 13.7"H x 8.3"W x 11.5"D (348 x 210.8 x 292.1 mm)
 - Driver: 7" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 39Hz – 25kHz (-6dB)
+- Frequency Response: 39Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR, RCA
 - Watts: 70w Per Speaker
 - Weight: 15.7lbs / 7.1kg
@@ -430,7 +430,7 @@ Last updated: March 04, 2026
 - Dimensions: 18.1"H x 10.1"W x 12.4"D (459.7 x 256.5 x 315 mm)
 - Driver: 8" woofer
 - EQ: No
-- Frequency Response: 42Hz-20KHz (-3dB)
+- Frequency Response: 42Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Watts: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
@@ -450,7 +450,7 @@ Last updated: March 04, 2026
 - Dimensions: 14.5"H x 9.1"W x 14.0"D (368.3 x 231.1 x 355.6 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 38Hz-20KHz (-3dB)
+- Frequency Response: 38Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, XLR, RCA Input, Digital Optical, Digital Coax, USB
 - Outputs: None
 - Watts: 78w RMS Per Speaker

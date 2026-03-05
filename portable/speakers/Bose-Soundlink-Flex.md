@@ -11,7 +11,7 @@ The Bose Soundlink Flex ranks [#34 out of 131 total Medium Size Portable Bluetoo
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail
 - App: Yes
 - Bass Extension (-10dB): 56hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes

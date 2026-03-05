@@ -13,7 +13,7 @@ The Dayton Audio Boost Mini ranks [#25 out of 41 total Small Size Portable Bluet
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 95hz
-- Battery Life: 6.5 hours
+- Battery Life: 6.5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

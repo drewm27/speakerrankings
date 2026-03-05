@@ -13,7 +13,7 @@ The Harman Kardon Onyx Studio 6 ranks [#11 out of 67 total Boombox Size Portable
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 37hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 4.2

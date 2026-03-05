@@ -12,7 +12,7 @@ The Sony SRS-XV900 ranks [#9 out of 10 total Large Party Size Portable Bluetooth
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: No

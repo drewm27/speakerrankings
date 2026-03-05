@@ -12,7 +12,7 @@ The LG Xboom Bounce ranks [#28 out of 73 total Large Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 54hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
 - EQ: Yes

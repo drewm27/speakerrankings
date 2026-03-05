@@ -11,7 +11,7 @@ The LG Xboom XG7 ranks [#65 out of 73 total Large Size Portable Bluetooth Speake
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes

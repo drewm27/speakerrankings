@@ -11,7 +11,7 @@ The Bose SoundLink Color II ranks [#93 out of 131 total Medium Size Portable Blu
 - Negatives: Boosted bass on Color II. Not as deep of bass as other models. Lacking midrange detail. Rolled off treble
 - App: Yes (Bose Connect)
 - Aux Input: No
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 5.2" x 5.0" x 2.2" (132 x 127 x 56 mm)

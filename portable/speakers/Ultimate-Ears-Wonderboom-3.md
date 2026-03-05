@@ -12,7 +12,7 @@ The Ultimate Ears Wonderboom 3 ranks [#81 out of 131 total Medium Size Portable 
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): 76hz
-- Battery Life: 14 hours
+- Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Latency: 166ms
 - Bluetooth Version: 5.2
 - Built in Microphone: No

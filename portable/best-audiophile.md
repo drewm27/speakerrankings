@@ -28,7 +28,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
@@ -72,7 +72,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 216ms
 - Bass Extension (-10dB): 56hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
@@ -109,7 +109,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 50hz
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Bluetooth Version: 5.3
@@ -117,7 +117,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50 mm)
 - Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
-- Frequency Response: 65Hz - 40kHz
+- Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 101db
 - Power: 30W
@@ -150,14 +150,14 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 54hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
-- Frequency Response: 50Hz - 40kHz
+- Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
@@ -190,7 +190,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 20ms
 - Bass Extension (-10dB): 44hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
@@ -198,7 +198,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
-- Frequency Response: 43Hz - 20kHz
+- Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 108db
 - Party Mode: No
@@ -236,7 +236,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): ~38hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
@@ -306,7 +306,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Bluetooth Version: 5.3
@@ -374,7 +374,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2
@@ -412,7 +412,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 12+ hours
+- Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver

@@ -12,13 +12,13 @@ The B&O Beosound 1 ranks [#29 out of 43 total Party Size Portable Bluetooth Spea
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~53hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Dimensions: 6.38" x 12.87" (162 x 327 mm)
 - Driver: 4" woofer, 1.5" full-range driver
 - EQ: No
-- Frequency Response: 35Hz - 24.3kHz
+- Frequency Response: 35Hz - 24.3kHz (Manufacturer specified)
 - IP Rating: None
 - Max Volume: 91db
 - Party Mode: No

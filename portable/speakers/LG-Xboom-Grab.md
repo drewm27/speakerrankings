@@ -11,7 +11,7 @@ The LG Xboom Grab ranks [#79 out of 131 total Medium Size Portable Bluetooth Spe
 - Negatives: Bass extension not as deep as the top speakers. Overpriced. This may move around in the rankings as we get better sound samples
 - App: Yes
 - Bass Extension (-10dB): 75hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
 - Driver: 1x 80x45mm racetrack woofer, 1x 16mm tweeter

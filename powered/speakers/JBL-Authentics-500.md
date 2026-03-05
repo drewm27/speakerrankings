@@ -12,7 +12,7 @@ The JBL Authentics 500 ranks [#2 out of 2 total Large Size Powered Desktop Speak
 - Negatives: No battery. Boosted upper bass. Peaky upper mids.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7 mm)
@@ -20,7 +20,7 @@ The JBL Authentics 500 ranks [#2 out of 2 total Large Size Powered Desktop Speak
 - Driver: 6.5" (down-firing subwoofer), 3x 2.75" midranges, 3x 1" (25mm aluminum dome) tweeters
 - EQ: Yes
 - Ethernet: Yes
-- Frequency Response: 40Hz - 20kHz (-6dB)
+- Frequency Response: 40Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: None
 - Party Mode: Yes
 - Power: 270W (Max @ THD 1%)

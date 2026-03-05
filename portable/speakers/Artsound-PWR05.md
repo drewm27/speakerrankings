@@ -11,7 +11,7 @@ The Artsound PWR05 ranks [#66 out of 67 total Boombox Size Portable Bluetooth Sp
 - Negatives: Strange frequency peaks, sound is very hollow.
 - App: No
 - Aux Input: Yes
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

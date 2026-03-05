@@ -12,7 +12,7 @@ The Sony ULT Tower 9 ranks [#7 out of 10 total Large Party Size Portable Bluetoo
 - Negatives: Not as deep of bass and loses more bass at high volume even compared to the lower end Partybox speakers. Bass drops off a lot at higher volumes. Not quite as loud as the ULT Tower 10
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.3
 - Built in Microphone: No

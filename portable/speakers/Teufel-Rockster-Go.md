@@ -10,7 +10,7 @@ The Teufel Rockster Go ranks [#98 out of 131 total Medium Size Portable Bluetoot
 ## #98 Teufel Rockster Go: €83.00
 - Negatives: Rolled off treble, muffled sound, mids sound strange. Bass not very deep. Only available in Europe.
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes

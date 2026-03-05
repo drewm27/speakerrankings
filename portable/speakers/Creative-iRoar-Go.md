@@ -11,7 +11,7 @@ The Creative iRoar Go ranks [#59 out of 131 total Medium Size Portable Bluetooth
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
 - Bass Extension (-10dB): 64hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 7.6" x 3.8" x 2.1" (192 x 97 x 54 mm)
 - Driver: 1x 63mm subwoofer, 2x 38mm tweeters

@@ -10,7 +10,7 @@ The LG Xboom XG5 ranks [#109 out of 131 total Medium Size Portable Bluetooth Spe
 ## #109 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325)]: $90
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes

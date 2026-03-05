@@ -14,14 +14,14 @@ The Brane X ranks [#3 out of 73 total Large Size Portable Bluetooth Speakers](/p
 - Aux Input: Yes
 - Aux Latency: 295ms default, 33ms with aux pass-through
 - Bass Extension (-10dB): 31hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: Yes
 - Dimensions: 9.3" x 7.0" x 6.1" (236 x 178 x 155 mm)
 - Driver: 2x 2.5" midrange, 2x 0.75" tweeters + 6.5"x9" subwoofer
 - EQ: No
-- Frequency Response: 30Hz - 20kHz
+- Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP57
 - Max Volume: 106db
 - Party Mode: Yes (Up to 8 speakers on wifi)

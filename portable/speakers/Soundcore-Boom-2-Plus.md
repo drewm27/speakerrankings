@@ -13,7 +13,7 @@ The Soundcore Boom 2 Plus ranks [#24 out of 67 total Boombox Size Portable Bluet
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 39hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
 - EQ: Yes (Pro EQ + presets)

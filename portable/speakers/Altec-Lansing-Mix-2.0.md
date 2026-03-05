@@ -11,7 +11,7 @@ The Altec Lansing Mix 2.0 ranks [#59 out of 67 total Boombox Size Portable Bluet
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
 - App: Yes
 - Aux Input: No
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)

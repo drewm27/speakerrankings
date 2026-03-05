@@ -11,7 +11,7 @@ The B&O Beosound A1 3rd gen ranks [#18 out of 131 total Medium Size Portable Blu
 - Negatives: Distorts easier than the 2nd gen with deeper bass. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
 - App: Yes
 - Aux Input: No
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, aptX Adaptive
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes

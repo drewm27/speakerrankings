@@ -15,7 +15,7 @@ The JBL 305P MKII ranks [#7 out of 24 total Medium Size Powered Bookshelf Speake
 - Dimensions: 11.7"H x 7.3"W x 9.1"D (297.2 x 185.4 x 231.1 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 49 Hz - 20 kHz (+-3 dB)
+- Frequency Response: 49 Hz - 20 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS
 - Watts: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each

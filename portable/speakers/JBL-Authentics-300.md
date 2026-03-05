@@ -12,7 +12,7 @@ The JBL Authentics 300 ranks [#28 out of 67 total Boombox Size Portable Bluetoot
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 45hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)

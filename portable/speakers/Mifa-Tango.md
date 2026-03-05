@@ -13,7 +13,7 @@ The Mifa Tango ranks [#15 out of 41 total Small Size Portable Bluetooth Speakers
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): 69hz
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

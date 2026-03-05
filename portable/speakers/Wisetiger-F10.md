@@ -10,7 +10,7 @@ The Wisetiger F10 ranks [#106 out of 131 total Medium Size Portable Bluetooth Sp
 ## #106 [Wisetiger F10](https://s.click.aliexpress.com/e/_c4rTLD6f) [[Aliexpress](https://s.click.aliexpress.com/e/_c4rTLD6f)]: $27
 - Negatives: Mids and treble on the harsh side, not much bass
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 9.25" x 3.11" x 3.07" (235 x 79 x 78 mm)

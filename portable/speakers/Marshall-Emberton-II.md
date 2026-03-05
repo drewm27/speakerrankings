@@ -12,7 +12,7 @@ The Marshall Emberton II ranks [#95 out of 131 total Medium Size Portable Blueto
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 62hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 80ms
 - Bluetooth Version: 5.1

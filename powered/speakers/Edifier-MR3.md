@@ -19,7 +19,7 @@ The Edifier MR3 ranks [#5 out of 8 total Small Size Powered Bookshelf Speakers](
 - Dimensions: 5.9"H x 3.7"W x 5.9"D (149.9 x 94 x 149.9 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA
 - Max SPL: 93dB @ 1m
 - Power: 36W total (18W per speaker)

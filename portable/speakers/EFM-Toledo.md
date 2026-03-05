@@ -9,7 +9,7 @@ The EFM Toledo ranks [#122 out of 131 total Medium Size Portable Bluetooth Speak
 
 ## #122 EFM Toledo
 - Negatives: Rolled off treble, very weak bass
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - IP Rating: IPX6
 - Power: 10W

@@ -12,7 +12,7 @@ The Klipsch Gig XXL ranks [#16 out of 43 total Party Size Portable Bluetooth Spe
 - Negatives: Not quite as clean sounding as the top ranked speakers. Not quite as deep of bass Partybox 110. Bass gets muddy at high volume. Low battery life. No water rating
 - App: No
 - Aux Input: Yes
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - Guitar Input: Yes

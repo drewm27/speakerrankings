@@ -12,7 +12,7 @@ The Teufel Boomster 2021 ranks [#30 out of 67 total Boombox Size Portable Blueto
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - App: No
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

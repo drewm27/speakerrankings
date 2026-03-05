@@ -13,7 +13,7 @@ The Onn Small Rugged Speaker ranks [#23 out of 41 total Small Size Portable Blue
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 66hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

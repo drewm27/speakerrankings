@@ -13,7 +13,7 @@ The Harman Kardon Go + Play 2 ranks [#16 out of 67 total Boombox Size Portable B
 - App: No
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 40hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
 - Built in Microphone: Yes

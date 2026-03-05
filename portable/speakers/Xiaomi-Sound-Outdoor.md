@@ -11,13 +11,13 @@ The Xiaomi Sound Outdoor ranks [#42 out of 131 total Medium Size Portable Blueto
 - Positives: A pretty decent sounding speaker.
 - Negatives: Boosted bass. Somewhat uncontrolled in the bass at high levels
 - App: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Dimensions: 7.7" x 2.7" x 2.6" (196.6 x 68 x 66 mm)
 - Driver: 20W woofer, 10W tweeter + 2x passive radiators
 - EQ: No
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: Yes up to 100 speakers
 - Power: 30W

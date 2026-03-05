@@ -29,7 +29,7 @@ Last updated: March 04, 2026
 - Dimensions: 42.9"H x 8.3"W x 15.5"D (1089.7 x 210.8 x 393.7 mm)
 - Driver: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver: woofers, 100 mm (4in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with Metamaterial Absorption Technology tweeter
 - EQ: Yes (Normal and Expert modes, room adaptation)
-- Frequency Response: 31Hz - 24kHz (±3dB)
+- Frequency Response: 31Hz - 24kHz (±3dB) (Manufacturer specified)
 - Inputs: Wifi, Optical, Digital coaxial, RCA, HDMI, Ethernet
 - Max SPL: 111dB @ 1m (pink noise)
 - Outputs: Subwoofer RCA
@@ -56,7 +56,7 @@ Last updated: March 04, 2026
 - Dimensions: 15.5"W x 32.3"H x 12"D (393.7 x 820.4 x 304.8 mm)
 - Driver: 10" driver woofer, 5" driver midrange, 0.75" Acoustic Lens tweeter
 - EQ: Yes (Room adaptation: Free/Wall/Corner)
-- Frequency Response: 19.5Hz - 23.6kHz
+- Frequency Response: 19.5Hz - 23.6kHz (Manufacturer specified)
 - Inputs: PowerLink (RJ45), RCA, TOSLINK optical, WiSA wireless
 - Max SPL: 108dB @ 1m
 - Outputs: PowerLink, TOSLINK

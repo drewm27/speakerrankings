@@ -25,7 +25,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): ~38hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
@@ -95,7 +95,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Bluetooth Version: 5.3
@@ -163,7 +163,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2
@@ -198,7 +198,7 @@ Last updated: March 04, 2026
 - Negatives: Missing a little bit of upper bass.
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
@@ -233,7 +233,7 @@ Last updated: March 04, 2026
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
@@ -265,7 +265,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 38hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
 - Bluetooth Version: 5.1
@@ -306,7 +306,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 38hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
 - Bluetooth Version: 5.1
@@ -337,7 +337,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (5-band graphic EQ + 4 presets)
@@ -366,7 +366,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 46hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD
 - Bluetooth Version: 4.1
 - Built in Microphone: No
@@ -397,7 +397,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 42ms
 - Bass Extension (-10dB): 35hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 175ms
 - Bluetooth Version: 5.2
@@ -429,7 +429,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 37hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 4.2
@@ -464,7 +464,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 37hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 266ms
 - Built in Microphone: Yes
@@ -494,7 +494,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
@@ -523,7 +523,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
@@ -552,7 +552,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 41hz
-- Battery Life: 28 hours
+- Battery Life: 28 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
 - Built in Microphone: No
@@ -593,7 +593,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 40hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
 - Built in Microphone: Yes
@@ -622,7 +622,7 @@ Last updated: March 04, 2026
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
 - App: No
 - Aux Input: Yes
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -648,7 +648,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 43hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -678,7 +678,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 25ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: No
@@ -726,7 +726,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
 - EQ: Yes (10 band)
@@ -762,7 +762,7 @@ Last updated: March 04, 2026
 - Negatives: overpriced for what it is. Not the greatest frequency response.
 - App: Yes (LG Xboom app)
 - Bass Extension (-10dB): 43hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: No
 - EQ: Yes (App EQ)
@@ -789,7 +789,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
@@ -818,7 +818,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
@@ -846,7 +846,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 39hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
 - EQ: Yes (Pro EQ + presets)
@@ -949,7 +949,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 33ms
 - Bass Extension (-10dB): 46hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 140ms
 - Built in Microphone: No
@@ -984,7 +984,7 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 45hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
@@ -1014,7 +1014,7 @@ Last updated: March 04, 2026
 - App: Yes (Bang & Olufsen app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
@@ -1040,7 +1040,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - App: No
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1095,7 +1095,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Built in Microphone: No
@@ -1123,7 +1123,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
-- Battery Life: 9 hours
+- Battery Life: 9 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.91" x 10.24" x 14.41" (277 x 260 x 366 mm)
@@ -1152,7 +1152,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
 - App: No
 - Bass Extension (-10dB): 47hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1206,7 +1206,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
@@ -1233,7 +1233,7 @@ Last updated: March 04, 2026
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: No
@@ -1262,7 +1262,7 @@ Last updated: March 04, 2026
 - Negatives: Poor water rating. Bass extension doesn't seem very good.
 - App: No
 - Aux Input: Yes
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (App EQ)
@@ -1290,7 +1290,7 @@ Last updated: March 04, 2026
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
 - App: No
 - Aux Input: Yes
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1315,7 +1315,7 @@ Last updated: March 04, 2026
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No
@@ -1343,7 +1343,7 @@ Last updated: March 04, 2026
 - App: Yes (Music Center, Fiestable)
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -1371,7 +1371,7 @@ Last updated: March 04, 2026
 - Negatives: Treble isn't very smooth
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1401,7 +1401,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 52hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 5.3
@@ -1433,7 +1433,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Aux Output: Yes
-- Battery Life: ~30 hours
+- Battery Life: ~30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1458,7 +1458,7 @@ Last updated: March 04, 2026
 - Negatives: Bass is not as deep as better speakers. Very overpriced.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.63" x 9.69" x 6.89" (270 x 246 x 175 mm)
@@ -1486,7 +1486,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 44hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No
@@ -1513,7 +1513,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1540,7 +1540,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 54hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
 - Bluetooth Version: 5.0
@@ -1572,7 +1572,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Aux Latency: 50ms
 - Bass Extension (-10dB): 60hz
-- Battery Life: 42 hours
+- Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
 - Built in Microphone: No
@@ -1601,7 +1601,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
@@ -1628,7 +1628,7 @@ Last updated: March 04, 2026
 - Negatives: Bass is not deep, thuddy bass
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 27.99" x 7.99" x 15.98" (711 x 203 x 406 mm)
@@ -1655,7 +1655,7 @@ Last updated: March 04, 2026
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - App: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1677,7 +1677,7 @@ Last updated: March 04, 2026
 - Negatives: Bass not as deep as competitors.
 - App: No
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
@@ -1705,7 +1705,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~56hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -1732,7 +1732,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~62hz
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (High/Low frequency)
@@ -1756,7 +1756,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 42hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (hidden bass and treble adjustment)
@@ -1779,7 +1779,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 63hz
-- Battery Life: 42 hours
+- Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -1807,7 +1807,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
-- Battery Life: 42 hours
+- Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -1839,7 +1839,7 @@ Last updated: March 04, 2026
 - Negatives: Doesn't compete well with speakers of the same size class. Not much deep bass, boosted upper bass. Bass has a thud. Treble rolled off, mids receded.
 - App: Yes
 - Aux Input: No
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
@@ -1864,7 +1864,7 @@ Last updated: March 04, 2026
 - Negatives: Not very deep bass. Very heavy
 - App: No
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -1885,7 +1885,7 @@ Last updated: March 04, 2026
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (High/Low frequency)
@@ -1909,7 +1909,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 58hz
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (High/Low frequency)
@@ -1934,7 +1934,7 @@ Last updated: March 04, 2026
 - App: Yes (Monster Zone Control app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 53hz
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: No
@@ -1963,7 +1963,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: No
@@ -1992,7 +1992,7 @@ Last updated: March 04, 2026
 ## #65 [Altec Lansing Rockbox XL 2.0](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Altec-Lansing-Bluetooth-Waterproof-Illuminating/dp/B08NLJ46FT/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1445e94277179df8eb1c655e26fdd011&camp=1789&creative=9325)]: $160
 - Negatives: Rolled off treble, muddy midrange, not very deep bass
 - App: Yes (Altec Lansing Just Listen app)
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 22.2" x 11.18" x 11.61" (564 x 284 x 295 mm)
@@ -2017,7 +2017,7 @@ Last updated: March 04, 2026
 - Negatives: Strange frequency peaks, sound is very hollow.
 - App: No
 - Aux Input: Yes
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -2037,7 +2037,7 @@ Last updated: March 04, 2026
 - Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)

@@ -14,7 +14,7 @@ The Minirig Mini ranks [#3 out of 41 total Small Size Portable Bluetooth Speaker
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 58hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
 - EQ: Yes

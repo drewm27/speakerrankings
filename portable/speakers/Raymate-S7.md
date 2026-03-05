@@ -9,7 +9,7 @@ The Raymate S7 ranks [#115 out of 131 total Medium Size Portable Bluetooth Speak
 
 ## #115 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325)]: $36
 - Negatives: Very rolled off treble and sounds muffled
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 8.34" x 3.46" x 3.22" (211.8 x 87.9 x 81.8 mm)

@@ -11,13 +11,13 @@ The W-King D320 ranks [#45 out of 131 total Medium Size Portable Bluetooth Speak
 - Negatives: Not stereo. Warm tuning. Lacking some detail. Rolled off treble
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 3.3" diameter x 8.4" H (83 x 214mm)
 - Driver: 52mm x 91mm woofer, 2x 25mm tweeters + 2x passive radiators
 - EQ: Yes
-- Frequency Response: 100Hz - 18kHz
+- Frequency Response: 100Hz - 18kHz (Manufacturer specified)
 - IP Rating: IP67
 - MicroSD: Yes
 - Power: 40W

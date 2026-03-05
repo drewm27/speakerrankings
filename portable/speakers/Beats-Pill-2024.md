@@ -12,7 +12,7 @@ The Beats Pill 2024 ranks [#60 out of 131 total Medium Size Portable Bluetooth S
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): ~56hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 8.6" x 2.8" x 2.75" (219 x 71 x 70 mm)

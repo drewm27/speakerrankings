@@ -12,7 +12,7 @@ The Philips NX200 ranks [#33 out of 43 total Party Size Portable Bluetooth Speak
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
-- Battery Life: 14 hours
+- Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 10.55" x 21.89" x 11.22" (268 x 556 x 285 mm)
 - Driver: 2x 5.25" woofers, 2x 2" tweeters

@@ -12,14 +12,14 @@ The B&O Beosound Level ranks [#56 out of 73 total Large Size Portable Bluetooth 
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 13.7" x 9.1" x 2.2" (348 x 230 x 56 mm)
 - Driver: 2x 102mm woofers, 1x 51mm fullrange, 2x 20mm tweeters
 - EQ: No
-- Frequency Response: 39Hz - 23kHz
+- Frequency Response: 39Hz - 23kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 96db
 - Party Mode: No

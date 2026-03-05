@@ -11,7 +11,7 @@ The Xdobo X8 ranks [#116 out of 131 total Medium Size Portable Bluetooth Speaker
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 8.66" x 3.74" x 2.83" (220 x 95 x 72 mm)

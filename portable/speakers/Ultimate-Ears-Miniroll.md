@@ -11,7 +11,7 @@ The Ultimate Ears Miniroll ranks [#10 out of 41 total Small Size Portable Blueto
 - Negatives: Bass not quite as deep as the best rated speakers
 - App: No
 - Aux Input: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - Charging Time: 2.3 hours

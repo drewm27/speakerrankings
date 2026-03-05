@@ -12,7 +12,7 @@ The JBL Partybox Stage 320 ranks [#1 out of 43 total Party Size Portable Bluetoo
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Driver: 2x 6.5" woofers, 2x 25mm tweeters

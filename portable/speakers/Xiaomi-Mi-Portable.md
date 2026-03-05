@@ -9,10 +9,10 @@ The Xiaomi Mi Portable ranks [#57 out of 131 total Medium Size Portable Bluetoot
 
 ## #57 [Xiaomi Mi Portable](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325)]: $55
 - Negatives: A bit of a sharp treble
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 8.4" x 2.9" x 2.9" (213 x 74 x 74 mm)
-- Frequency Response: 80Hz - 20kHz
+- Frequency Response: 80Hz - 20kHz (Manufacturer specified)
 - Power: 16W
 - Weight: 0.82lbs / 373g
 - Reviews, Comparisons and Sound Samples

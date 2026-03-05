@@ -26,7 +26,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Distorts easier than the 2nd gen with deeper bass. Dipped area in the upper mids. Not as deep of bass as the 2nd gen
 - App: Yes
 - Aux Input: No
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, aptX Adaptive
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
@@ -62,7 +62,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Dimensions: 11.2" x 7.4" x 5.1" (285 x 187 x 130 mm)
 - Driver: 5.25" woofer, 2x 2" fullrange, 0.8" tweeter
 - EQ: No
-- Frequency Response: 32Hz - 23kHz
+- Frequency Response: 32Hz - 23kHz (Manufacturer specified)
 - IP Rating: IP65
 - Max Volume: 101db
 - Party Mode: Yes (Mozart 2.0)
@@ -88,7 +88,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 41hz
-- Battery Life: 28 hours
+- Battery Life: 28 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
 - Built in Microphone: No

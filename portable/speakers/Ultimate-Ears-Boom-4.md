@@ -11,7 +11,7 @@ The Ultimate Ears Boom 4 ranks [#84 out of 131 total Medium Size Portable Blueto
 - Negatives: Not much improvement over the old ones. Weak bass extension and thuddy bass. Gets distorted above 90%
 - App: Yes
 - Aux Input: No
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.1
 - Built in Microphone: No
 - Dimensions: 7.24" x 2.9" x 2.9" (184 x 73 x 73 mm)

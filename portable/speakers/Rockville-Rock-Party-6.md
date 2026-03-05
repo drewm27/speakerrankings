@@ -13,7 +13,7 @@ The Rockville Rock Party 6 ranks [#43 out of 43 total Party Size Portable Blueto
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - IP Rating: None

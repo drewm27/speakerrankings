@@ -13,7 +13,7 @@ The Sony ULT Field 7 ranks [#36 out of 67 total Boombox Size Portable Bluetooth 
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes

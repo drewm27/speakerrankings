@@ -12,7 +12,7 @@ The Soundcore Select Pro ranks [#14 out of 73 total Large Size Portable Bluetoot
 - Negatives: Boosted bass, rolled off treble. Not as neutral or detailed as other top ranked speakers.
 - App: Yes (Users say it works)
 - Aux Input: No
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

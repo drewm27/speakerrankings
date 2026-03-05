@@ -12,7 +12,7 @@ The Bose Soundlink Micro ranks [#16 out of 41 total Small Size Portable Bluetoot
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 66hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
 - Bluetooth Version: 4.2

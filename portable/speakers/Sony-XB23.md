@@ -11,10 +11,10 @@ The Sony XB23 ranks [#63 out of 131 total Medium Size Portable Bluetooth Speaker
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
 - Bass Extension (-10dB): 67hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 3.0" x 8.58" x 3.0" (76 x 218 x 76 mm)
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Max Volume: 95db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power: 8W RMS

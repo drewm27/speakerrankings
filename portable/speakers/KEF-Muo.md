@@ -10,12 +10,12 @@ The KEF Muo ranks [#71 out of 131 total Medium Size Portable Bluetooth Speakers]
 ## #71 [KEF Muo](https://www.amazon.com/KEF-High-Fidelity-Portable-Speaker-Midnight/dp/B0FQCQCVKW?crid=3EJBT2BDVRIQR&dib=eyJ2IjoiMSJ9.Zy0V2UkIK0NQvSB5nqJ1PC6oYcBlfaN58r723-wEsrmXD4zROei84QG9WTIV9-cKTb7hKIQ6MIvMc9F6vX2u6fNaGow1Q09RuB4igroE3v4PQ8QDyhi3Ozi1FJVZ8lvuWOwx4yr5WIi3E9Uskfv_0Mkrd49HGVskNO-fmP0xvDvPDG7xhMSjGewNDmNK-HXlDceT0zG00vfojpry2sxFYjV7Oe-WK0kdk5K0FgV0wWE.MK_Jpf8X6FgtjEAhMGb1n_4_mzRfQUIIXVc1x0CWCJY&dib_tag=se&keywords=kef%2Bmuo&qid=1767633354&sprefix=kef%2Bmu%2Caps%2C234&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=9a97a6dd0d3a4b7b4418b11751eeae01&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-High-Fidelity-Portable-Speaker-Midnight/dp/B0FQCQCVKW?crid=3EJBT2BDVRIQR&dib=eyJ2IjoiMSJ9.Zy0V2UkIK0NQvSB5nqJ1PC6oYcBlfaN58r723-wEsrmXD4zROei84QG9WTIV9-cKTb7hKIQ6MIvMc9F6vX2u6fNaGow1Q09RuB4igroE3v4PQ8QDyhi3Ozi1FJVZ8lvuWOwx4yr5WIi3E9Uskfv_0Mkrd49HGVskNO-fmP0xvDvPDG7xhMSjGewNDmNK-HXlDceT0zG00vfojpry2sxFYjV7Oe-WK0kdk5K0FgV0wWE.MK_Jpf8X6FgtjEAhMGb1n_4_mzRfQUIIXVc1x0CWCJY&dib_tag=se&keywords=kef%2Bmuo&qid=1767633354&sprefix=kef%2Bmu%2Caps%2C234&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=9a97a6dd0d3a4b7b4418b11751eeae01&language=en_US&ref_=as_li_ss_tl)]: $250
 - Negatives: Lacking deeper bass. Very thuddy bass. Quite a rolled off treble, sounds pretty muffled.
 - App: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, aptX Adaptive up to 48 KHz 24 bit
 - Bluetooth Version: 5.4
 - Dimensions: 8.5" x 3.2" x 2.3" (216 x 82 x 59 mm)
 - Driver: 1x 58x117mm racetrack woofer, 1x 20mm tweeter
-- Frequency Response: 43Hz - 20kHz
+- Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 90db
 - Party Mode: Auracast

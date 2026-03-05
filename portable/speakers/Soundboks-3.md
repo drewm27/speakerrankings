@@ -13,7 +13,7 @@ The Soundboks 3 ranks [#22 out of 43 total Party Size Portable Bluetooth Speaker
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 52hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes
 - Guitar Input: Yes

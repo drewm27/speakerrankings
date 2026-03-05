@@ -17,7 +17,7 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
 - Dimensions: 6.6"H x 3.9"W x 5.8"D (167.6 x 99.1 x 147.3 mm)
 - Driver: 3" woofer, 1" silk dome tweeter
 - EQ: Yes
-- Frequency Response: 55Hz - 40kHz
+- Frequency Response: 55Hz - 40kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, USB-C
 - Max SPL: 96dB @ 1m
 - Power: 66W total (33W per speaker)

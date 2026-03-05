@@ -11,7 +11,7 @@ The LG PN7 ranks [#59 out of 73 total Large Size Portable Bluetooth Speakers](/p
 - Negatives: No deep bass
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes

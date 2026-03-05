@@ -16,7 +16,7 @@ The Genelec 8040B ranks [#7 out of 21 total Large Size Powered Bookshelf Speaker
 - Dimensions: 14.4"H x 9.3"W x 8.8"D (365.8 x 236.2 x 223.5 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 41Hz – 25kHz (-6dB)
+- Frequency Response: 41Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
 - Watts: 180w Per Speaker
 - Weight: 20.7lbs / 9.4kg each

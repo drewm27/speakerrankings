@@ -11,7 +11,7 @@ The Zealot S78 ranks [#67 out of 67 total Boombox Size Portable Bluetooth Speake
 - Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)

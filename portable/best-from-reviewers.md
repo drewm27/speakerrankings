@@ -22,7 +22,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
@@ -64,7 +64,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Aux Input: Yes
 - Aux Latency: 216ms
 - Bass Extension (-10dB): 56hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
@@ -103,7 +103,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Aux Input: Yes
 - Aux Latency: 20ms
 - Bass Extension (-10dB): 44hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
@@ -111,7 +111,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
-- Frequency Response: 43Hz - 20kHz
+- Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 108db
 - Party Mode: No
@@ -147,7 +147,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): ~38hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
@@ -220,7 +220,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
@@ -261,14 +261,14 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 54hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
-- Frequency Response: 50Hz - 40kHz
+- Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No
@@ -297,7 +297,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
 - Bluetooth Version: 5.0
@@ -305,7 +305,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Dimensions: 7.1" x 6.3" x 2.8" (180 x 161 x 70 mm)
 - Driver: 3" woofer, 2x 2" fullrange tweeters
 - EQ: No
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
 - Max Volume: 96db
 - Party Mode: No
@@ -333,7 +333,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Aux Input: Yes
 - Aux Latency: 112ms
 - Bass Extension (-10dB): 35hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2

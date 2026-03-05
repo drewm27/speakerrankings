@@ -32,7 +32,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - Dimensions: 5.9"H x 3.7"W x 5.9"D (149.9 x 94 x 149.9 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA
 - Max SPL: 93dB @ 1m
 - Power: 36W total (18W per speaker)
@@ -73,7 +73,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - Dimensions: 18.1"H x 10.1"W x 12.4"D (459.7 x 256.5 x 315 mm)
 - Driver: 8" woofer
 - EQ: No
-- Frequency Response: 42Hz-20KHz (-3dB)
+- Frequency Response: 42Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Watts: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
@@ -98,7 +98,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - Dimensions: 25.4"H x 13"W x 17.5"D (645.2 x 330.2 x 444.5 mm)
 - Driver: 10" woofer, 4" dome midrange, 1" fabric dome tweeter
 - EQ: Yes (Room response controls)
-- Frequency Response: 31Hz - 21kHz (±3dB)
+- Frequency Response: 31Hz - 21kHz (±3dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 124dB @ 1m
 - Watts: 555w Per Speaker
@@ -139,7 +139,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - Dimensions: 16.5"H x 9.8"W x 11.7"D (419.1 x 248.9 x 297.2 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 35Hz – 20kHz
+- Frequency Response: 35Hz – 20kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
 - Watts: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
@@ -161,7 +161,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - Dimensions: 11.7"H x 7.3"W x 9.1"D (297.2 x 185.4 x 231.1 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 49 Hz - 20 kHz (+-3 dB)
+- Frequency Response: 49 Hz - 20 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS
 - Watts: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each

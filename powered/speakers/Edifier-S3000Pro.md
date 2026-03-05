@@ -15,7 +15,7 @@ The Edifier S3000Pro ranks [#20 out of 21 total Large Size Powered Bookshelf Spe
 - Dimensions: 14.5"H x 9.1"W x 14.0"D (368.3 x 231.1 x 355.6 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 38Hz-20KHz (-3dB)
+- Frequency Response: 38Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, XLR, RCA Input, Digital Optical, Digital Coax, USB
 - Outputs: None
 - Watts: 78w RMS Per Speaker

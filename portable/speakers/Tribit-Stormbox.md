@@ -13,7 +13,7 @@ The Tribit Stormbox ranks [#88 out of 131 total Medium Size Portable Bluetooth S
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 52hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 166ms
 - Bluetooth Version: 5.0

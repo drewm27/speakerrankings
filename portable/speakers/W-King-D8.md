@@ -13,7 +13,7 @@ The W-King D8 ranks [#40 out of 73 total Large Size Portable Bluetooth Speakers]
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

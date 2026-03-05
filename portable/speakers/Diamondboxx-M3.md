@@ -11,7 +11,7 @@ The Diamondboxx M3 ranks [#47 out of 67 total Boombox Size Portable Bluetooth Sp
 - Negatives: Not as deep bass as even the hyperboom. Bass distorted at high levels. Too much treble. Too expensive. No water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

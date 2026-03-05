@@ -11,7 +11,7 @@ The Bose SoundLink Plus ranks [#21 out of 73 total Large Size Portable Bluetooth
 - Negatives: Boosted thuddy bass, but not as deep as the SoundLink Flex and you should probably just buy one of those instead if you want a Bose.
 - App: Yes
 - Aux Input: No
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

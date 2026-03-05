@@ -13,7 +13,7 @@ The Marshall Stockwell 2 ranks [#10 out of 73 total Large Size Portable Bluetoot
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 44hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
 - Bluetooth Version: 5.0
@@ -21,7 +21,7 @@ The Marshall Stockwell 2 ranks [#10 out of 73 total Large Size Portable Bluetoot
 - Dimensions: 7.1" x 6.3" x 2.8" (180 x 161 x 70 mm)
 - Driver: 3" woofer, 2x 2" fullrange tweeters
 - EQ: No
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
 - Max Volume: 96db
 - Party Mode: No

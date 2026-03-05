@@ -13,7 +13,7 @@ The Electro-Voice Everse 8 ranks [#9 out of 43 total Party Size Portable Bluetoo
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 50hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 15.75" x 10.83" x 10.71" (400 x 275 x 272 mm)
 - Driver: 8" woofer, 1" tweeter

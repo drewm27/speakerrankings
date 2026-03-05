@@ -16,7 +16,7 @@ The Adam Audio T8V ranks [#15 out of 21 total Large Size Powered Bookshelf Speak
 - Dimensions: 15.8"H x 9.8"W x 13.2"D (401.3 x 248.9 x 335.3 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 33Hz – 25kHz (-6dB)
+- Frequency Response: 33Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR, RCA
 - Watts: 90w Per Speaker
 - Weight: 21.6lbs / 9.8kg

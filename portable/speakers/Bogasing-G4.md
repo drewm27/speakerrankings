@@ -13,7 +13,7 @@ The Bogasing G4 ranks [#23 out of 131 total Medium Size Portable Bluetooth Speak
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 56hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 90ms
 - EQ: No
 - IP Rating: IPX7

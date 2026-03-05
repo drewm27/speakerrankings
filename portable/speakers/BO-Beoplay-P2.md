@@ -11,7 +11,7 @@ The B&O Beoplay P2 ranks [#14 out of 41 total Small Size Portable Bluetooth Spea
 - Negatives: Good for its time, but now beat out by many others
 - App: Yes
 - Aux Input: No
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes

@@ -11,7 +11,7 @@ The Dayton Audio Boost ranks [#112 out of 131 total Medium Size Portable Bluetoo
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358
 - Aux Input: Yes
 - Bass Extension (-10dB): 87hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: No
 - Dimensions: 3.5" x 3.5" x 4.3" (88.9 x 88.9 x 109.2 mm)

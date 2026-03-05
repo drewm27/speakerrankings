@@ -13,7 +13,7 @@ The JBL Boombox 3 Wifi ranks [#18 out of 67 total Boombox Size Portable Bluetoot
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 43hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

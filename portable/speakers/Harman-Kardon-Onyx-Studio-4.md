@@ -11,14 +11,14 @@ The Harman Kardon Onyx Studio 4 ranks [#44 out of 73 total Large Size Portable B
 - Negatives: 8 hour battery at medium volume. Not at loud as others. Not as deep of bass as the newer Onyx. External AC power brick for charging.
 - App: Yes (HK Connect)
 - Aux Input: Yes
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 11.4" x 11.4" x 5.1" (290 x 290 x 130 mm)
 - Driver: 2x 75mm woofers, 2x 20mm tweeters
 - EQ: No
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: Yes (Connect+ up to 100 speakers)
 - Power: 60W

@@ -13,7 +13,7 @@ The Sony SRS-XB12 ranks [#34 out of 41 total Small Size Portable Bluetooth Speak
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): 97hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 240ms
 - Bluetooth Version: 4.2
@@ -21,7 +21,7 @@ The Sony SRS-XB12 ranks [#34 out of 41 total Small Size Portable Bluetooth Speak
 - Charging Time: 4.5 hours
 - Driver: 46mm
 - EQ: No
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 93db
 - Party Mode: No

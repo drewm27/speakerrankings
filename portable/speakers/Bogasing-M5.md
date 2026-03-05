@@ -11,10 +11,10 @@ The Bogasing M5 ranks [#53 out of 131 total Medium Size Portable Bluetooth Speak
 - Negatives: Front/rear driver configuration. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Aux Input: Yes
 - Bass Extension (-10dB): 61hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 6.30" x 2.99" x 2.79" (160 x 76 x 71 mm)
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 96db
 - MicroSD: Yes

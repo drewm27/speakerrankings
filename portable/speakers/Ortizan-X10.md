@@ -11,7 +11,7 @@ The Ortizan X10 ranks [#118 out of 131 total Medium Size Portable Bluetooth Spea
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~64hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 3" x 3" x 6.69" (76 x 76 x 170 mm)

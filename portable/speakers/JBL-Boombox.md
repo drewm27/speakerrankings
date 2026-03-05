@@ -12,7 +12,7 @@ The JBL Boombox ranks [#42 out of 67 total Boombox Size Portable Bluetooth Speak
 - Negatives: Treble isn't very smooth
 - App: No
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

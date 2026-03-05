@@ -14,7 +14,7 @@ The W-King H10 ranks [#48 out of 67 total Boombox Size Portable Bluetooth Speake
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 54hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
 - Bluetooth Version: 5.0

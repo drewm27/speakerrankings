@@ -12,7 +12,7 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

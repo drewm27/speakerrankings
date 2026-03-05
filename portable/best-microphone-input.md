@@ -31,7 +31,7 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 12+ hours
+- Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
@@ -65,7 +65,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal. Somewhat dark sounding by default, needs some treble boost to sound neutral
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
@@ -109,7 +109,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Driver: 2x 6.5" woofers, 2x 25mm tweeters
@@ -141,13 +141,13 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Charging Time: 3.5 hours
 - Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (5 band)
-- Frequency Response: 40Hz - 20kHz
+- Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
@@ -174,7 +174,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
@@ -206,7 +206,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
 - EQ: Yes (10 band)

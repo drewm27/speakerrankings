@@ -11,7 +11,7 @@ The Sharp PS-929 ranks [#36 out of 43 total Party Size Portable Bluetooth Speake
 - Negatives: Not very deep bass
 - App: No
 - Bass Extension (-10dB): ~60hz
-- Battery Life: 13 hours
+- Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 10.24" x 11.02" x 22.05" (260 x 280 x 560 mm)

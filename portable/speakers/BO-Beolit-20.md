@@ -13,7 +13,7 @@ The B&O Beolit 20 ranks [#29 out of 67 total Boombox Size Portable Bluetooth Spe
 - App: Yes (Bang & Olufsen app)
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)

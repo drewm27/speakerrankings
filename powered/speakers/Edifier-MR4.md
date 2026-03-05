@@ -15,7 +15,7 @@ The Edifier MR4 ranks [#21 out of 24 total Medium Size Powered Bookshelf Speaker
 - Dimensions: 9.0"H x 5.5"W x 7.6"D (228.6 x 139.7 x 193 mm)
 - Driver: 4" woofer
 - EQ: No
-- Frequency Response: 60 Hz-20 kHz (-3dB)
+- Frequency Response: 60 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: TRS Balanced, RCA, Aux
 - Outputs: Headphone
 - Watts: 42w RMS Per Speaker

@@ -12,7 +12,7 @@ The JBL Xtreme 4 ranks [#35 out of 73 total Large Size Portable Bluetooth Speake
 - Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange which cannot be EQd out. Some upper mids and treble boost at high levels.
 - App: Yes
 - Aux Input: No
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 220ms
 - Bluetooth Version: 5.3
@@ -20,7 +20,7 @@ The JBL Xtreme 4 ranks [#35 out of 73 total Large Size Portable Bluetooth Speake
 - Dimensions: 11.7" x 5.9" x 5.6" (297 x 149 x 141 mm)
 - Driver: 2x 70mm woofers, 2x 19mm tweeters + 2x passive radiators
 - EQ: Yes (5 band)
-- Frequency Response: 44Hz - 20kHz
+- Frequency Response: 44Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 106db
 - Party Mode: Yes (Auracast)

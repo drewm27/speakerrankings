@@ -12,14 +12,14 @@ The Harman Kardon Esquire Mini 2 ranks [#37 out of 41 total Small Size Portable 
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~120hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 5.51" x 2.96" x 1.03" (140 x 75.2 x 26.1 mm)
 - EQ: No
-- Frequency Response: 130Hz - 20kHz
+- Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: Yes

@@ -10,7 +10,7 @@ The Earfun Uboom Slim ranks [#39 out of 131 total Medium Size Portable Bluetooth
 ## #39 Earfun Uboom Slim
 - Negatives: Not as deep bass as others. Warm tuned, peaks in the mids and lower treble, rolled off upper treble
 - Bass Extension (-10dB): ~63hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.23lbs / 560g

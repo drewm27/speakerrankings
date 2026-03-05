@@ -12,7 +12,7 @@ The Sony ULT Tower 10 ranks [#8 out of 10 total Large Party Size Portable Blueto
 - Negatives: Not as deep of bass and loses more bass at high volume even compared to the lower end Partybox speakers. Bass drops off a lot at higher volumes.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: No

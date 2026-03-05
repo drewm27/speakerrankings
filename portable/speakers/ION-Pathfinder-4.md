@@ -12,7 +12,7 @@ The ION Pathfinder 4 ranks [#55 out of 67 total Boombox Size Portable Bluetooth 
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~62hz
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (High/Low frequency)

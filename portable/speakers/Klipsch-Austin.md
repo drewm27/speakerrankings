@@ -12,7 +12,7 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): ~70hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

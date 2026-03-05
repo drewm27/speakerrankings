@@ -12,14 +12,14 @@ The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Spea
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 53hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.1
 - Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 99db
 - Party Mode: Yes (PartyBoost up to 100 speakers)

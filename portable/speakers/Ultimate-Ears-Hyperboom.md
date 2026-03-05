@@ -12,7 +12,7 @@ The Ultimate Ears Hyperboom ranks [#24 out of 43 total Party Size Portable Bluet
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Charging Time: 2.6 hours

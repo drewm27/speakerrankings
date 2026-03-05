@@ -26,7 +26,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange which cannot be EQd out. Some upper mids and treble boost at high levels.
 - App: Yes
 - Aux Input: No
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 220ms
 - Bluetooth Version: 5.3
@@ -34,7 +34,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Dimensions: 11.7" x 5.9" x 5.6" (297 x 149 x 141 mm)
 - Driver: 2x 70mm woofers, 2x 19mm tweeters + 2x passive radiators
 - EQ: Yes (5 band)
-- Frequency Response: 44Hz - 20kHz
+- Frequency Response: 44Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 106db
 - Party Mode: Yes (Auracast)
@@ -68,7 +68,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Missing a little bit of upper bass.
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
@@ -105,7 +105,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Driver: 2x 6.5" woofers, 2x 25mm tweeters
@@ -139,7 +139,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal. Somewhat dark sounding by default, needs some treble boost to sound neutral
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

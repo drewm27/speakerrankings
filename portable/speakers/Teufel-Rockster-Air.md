@@ -12,7 +12,7 @@ The Teufel Rockster Air ranks [#20 out of 43 total Party Size Portable Bluetooth
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~52hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Dimensions: 11.81" x 21.26" x 11.02" (300 x 540 x 280 mm)

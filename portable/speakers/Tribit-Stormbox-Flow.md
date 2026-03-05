@@ -11,12 +11,12 @@ The Tribit Stormbox Flow ranks [#50 out of 131 total Medium Size Portable Blueto
 - Negatives: Not stereo. Midrange and bass are weirdly recessed about 4db below 700hz. You need xbass mode for it to not sound like a clock radio with missing bass. You also can't turn up the bass enough in the custom EQ modes to get it neutral, so it will sound bass light. Firmware 1.2.3 fixes the distortion issues with xbass mode on, but bass still sounds wobbly and uncontrolled.
 - App: Yes
 - Bass Extension (-10dB): 47hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Latency: 400ms aac, 200ms sbc
 - Bluetooth Version: 5.3
 - Dimensions: 7.9" x 3.6" x 2.1" (200 x 91 x 53 mm)
 - EQ: Yes
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - Power: 25W
 - Stereo: No
 - Weight: 1.45lbs / 657g

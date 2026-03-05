@@ -13,7 +13,7 @@ The Tribit Xsound Mega ranks [#20 out of 131 total Medium Size Portable Bluetoot
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 200ms
 - Built in Microphone: No
 - EQ: Yes

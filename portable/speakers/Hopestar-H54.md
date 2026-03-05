@@ -11,13 +11,13 @@ The Hopestar H54 ranks [#33 out of 41 total Small Size Portable Bluetooth Speake
 - Negatives: Bright treble, not much bass, harsh mids
 - App: No
 - Aux Input: Yes
-- Battery Life: 5 hours
+- Battery Life: 5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Driver: 52mm
 - EQ: No
-- Frequency Response: 80Hz - 15kHz
+- Frequency Response: 80Hz - 15kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
 - Party Mode: No

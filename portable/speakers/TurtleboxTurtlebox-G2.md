@@ -12,7 +12,7 @@ The Turtlebox/Turtlebox G2 ranks [#64 out of 67 total Boombox Size Portable Blue
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~65hz
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: No

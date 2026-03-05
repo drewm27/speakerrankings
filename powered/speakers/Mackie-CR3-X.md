@@ -16,7 +16,7 @@ The Mackie CR3-X ranks [#8 out of 8 total Small Size Powered Bookshelf Speakers]
 - Dimensions: 8.1"H x 5.5"W x 7.1"D (205.7 x 139.7 x 180.3 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: No
-- Frequency Response: 80 Hz-20 kHz (-3dB)
+- Frequency Response: 80 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: RCA, Aux
 - Max SPL: 92dB @ 1m
 - Outputs: 1/8" headphone jack

@@ -11,13 +11,13 @@ The JBL Clip 5 ranks [#18 out of 41 total Small Size Portable Bluetooth Speakers
 - Negatives: Generally more of the same from the Clip series in terms of sound but with more features. Basically about the same as the Clip 4
 - App: Yes
 - Aux Input: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 3.39" x 5.3" x 1.81" (86 x 134.5 x 46 mm)
 - EQ: Yes
-- Frequency Response: 95Hz - 20kHz
+- Frequency Response: 95Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: Yes (Auracast)
 - Power Bank: No

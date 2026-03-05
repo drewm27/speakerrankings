@@ -12,7 +12,7 @@ The Vifa Copenhagen 2.0 ranks [#9 out of 67 total Boombox Size Portable Bluetoot
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 46hz
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD
 - Bluetooth Version: 4.1
 - Built in Microphone: No

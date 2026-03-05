@@ -18,7 +18,7 @@ The KEF LS60 ranks [#1 out of 2 total Large Size Powered Floorstanding Speakers]
 - Dimensions: 42.9"H x 8.3"W x 15.5"D (1089.7 x 210.8 x 393.7 mm)
 - Driver: 4 x 135 mm (5.25 in.) Uni-Core Force Cancelling Driver: woofers, 100 mm (4in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with Metamaterial Absorption Technology tweeter
 - EQ: Yes (Normal and Expert modes, room adaptation)
-- Frequency Response: 31Hz - 24kHz (±3dB)
+- Frequency Response: 31Hz - 24kHz (±3dB) (Manufacturer specified)
 - Inputs: Wifi, Optical, Digital coaxial, RCA, HDMI, Ethernet
 - Max SPL: 111dB @ 1m (pink noise)
 - Outputs: Subwoofer RCA

@@ -17,7 +17,7 @@ The Genelec 8030C ranks [#2 out of 24 total Medium Size Powered Bookshelf Speake
 - Dimensions: 11.7"H x 7.4"W x 7"D (297.2 x 188 x 177.8 mm)
 - Driver: 5.1" woofer, 0.75" metal dome tweeter
 - EQ: Yes (Bass tilt, treble tilt, room response)
-- Frequency Response: 54Hz - 20kHz (±2.5dB)
+- Frequency Response: 54Hz - 20kHz (±2.5dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 110dB @ 1m
 - Power: 100W (50W woofer + 50W tweeter)

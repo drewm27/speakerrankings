@@ -10,11 +10,11 @@ The Soundcore 2 ranks [#78 out of 131 total Medium Size Portable Bluetooth Speak
 ## #78 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl)]: $35
 - Negatives: Bass doesn't go as deep as others
 - Aux Input: Yes
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 6.6" x 1.9" x 2.2" (168 x 47 x 56 mm)
 - Driver: 2x 38mm fullrange
-- Frequency Response: 70Hz - 20kHz
+- Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - Power: 12W
 - Stereo: Yes
 - Weight: 0.70lbs / 318g

@@ -18,7 +18,7 @@ The Dutch & Dutch 8C ranks [#1 out of 21 total Large Size Powered Bookshelf Spea
 - Dimensions: 19"H x 10.5"W x 15"D (482.6 x 266.7 x 381 mm)
 - Driver: 2x 8" Aluminium Cone woofers, 8" Aluminium Cone midrange, 1" Aluminium/Magnesium dome tweeter
 - EQ: Yes (24-band parametric)
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 106dB @ 1m continuous
 - Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)

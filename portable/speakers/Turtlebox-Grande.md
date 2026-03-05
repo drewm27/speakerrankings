@@ -12,7 +12,7 @@ The Turtlebox Grande ranks [#50 out of 67 total Boombox Size Portable Bluetooth 
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~55hz
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes

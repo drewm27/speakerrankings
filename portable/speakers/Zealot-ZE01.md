@@ -13,7 +13,7 @@ The Zealot ZE01 ranks [#23 out of 67 total Boombox Size Portable Bluetooth Speak
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)

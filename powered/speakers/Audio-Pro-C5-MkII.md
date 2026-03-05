@@ -12,12 +12,12 @@ The Audio Pro C5 MkII ranks [#1 out of 14 total Medium Size Powered Desktop Spea
 - Negatives: No battery
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150 mm)
 - Driver: 4" woofer, 2x 0.75" tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, RCA
 - Outputs: Subwoofer line out

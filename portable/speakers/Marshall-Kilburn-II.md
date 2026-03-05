@@ -12,7 +12,7 @@ The Marshall Kilburn II ranks [#34 out of 73 total Large Size Portable Bluetooth
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

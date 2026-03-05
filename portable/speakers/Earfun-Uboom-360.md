@@ -13,7 +13,7 @@ The Earfun Uboom 360 ranks [#30 out of 131 total Medium Size Portable Bluetooth 
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): 61hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7

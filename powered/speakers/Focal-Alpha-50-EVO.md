@@ -14,7 +14,7 @@ The Focal Alpha 50 EVO ranks [#6 out of 24 total Medium Size Powered Bookshelf S
 - Dimensions: 12.2"H x 9.0"W x 9.4"D (309.9 x 228.6 x 238.8 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 45 Hz - 22 kHz (+-3 dB)
+- Frequency Response: 45 Hz - 22 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS, RCA
 - Watts: 60w Per Speaker
 - Weight: 13.1lbs / 6.0kg each

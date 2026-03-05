@@ -12,7 +12,7 @@ The Onn Large Party gen 2 ranks [#13 out of 43 total Party Size Portable Bluetoo
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - FM Tuner: Yes

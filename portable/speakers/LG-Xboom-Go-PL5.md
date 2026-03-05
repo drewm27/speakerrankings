@@ -12,7 +12,7 @@ The LG Xboom Go PL5 ranks [#108 out of 131 total Medium Size Portable Bluetooth 
 - App: Yes (LG XBOOM App)
 - Aux Input: Yes
 - Bass Extension (-10dB): 71hz
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
 - Dimensions: 7.9" x 3.1" x 3.1" (201 x 79 x 79 mm)

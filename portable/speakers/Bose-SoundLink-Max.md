@@ -13,7 +13,7 @@ The Bose SoundLink Max ranks [#16 out of 73 total Large Size Portable Bluetooth 
 - Aux Input: Yes
 - Aux Latency: 33ms
 - Bass Extension (-10dB): 48hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 116ms
 - Bluetooth Version: 5.3

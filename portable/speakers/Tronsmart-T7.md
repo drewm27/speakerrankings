@@ -11,7 +11,7 @@ The Tronsmart T7 ranks [#91 out of 131 total Medium Size Portable Bluetooth Spea
 - Negatives: Peaky in the upper mids and in the mid treble. Worse bass extension than similar size speakers
 - App: Yes (Tronsmart App)
 - Aux Input: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

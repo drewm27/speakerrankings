@@ -10,11 +10,11 @@ The Ultimate Ears Megaboom 3 ranks [#80 out of 131 total Medium Size Portable Bl
 ## #80 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325)]: $163
 - Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
 - Bass Extension (-10dB): 70hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87 mm)
 - Driver: 2x 50mm fullrange
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - Max Volume: 98db
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB

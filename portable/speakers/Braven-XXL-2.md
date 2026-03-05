@@ -11,7 +11,7 @@ The Braven XXL 2 ranks [#60 out of 67 total Boombox Size Portable Bluetooth Spea
 - Negatives: Not very deep bass. Very heavy
 - App: No
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

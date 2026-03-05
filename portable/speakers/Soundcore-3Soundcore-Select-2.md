@@ -11,7 +11,7 @@ The Soundcore 3/Soundcore Select 2 ranks [#54 out of 131 total Medium Size Porta
 - Negatives: A little less bass than similar size speakers.
 - App: Yes
 - Bass Extension (-10dB): 60hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 5.0
 - Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59 mm)

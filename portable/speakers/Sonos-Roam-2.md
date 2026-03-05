@@ -11,7 +11,7 @@ The Sonos Roam 2 ranks [#69 out of 131 total Medium Size Portable Bluetooth Spea
 - Positives: Very neutral. Additional button for pairing instead of being shared with power button
 - Negatives: Exact same sound quality as the original Roam. Bass extension isn't very good. Not stereo. Gets distorted as you turn up the bass.
 - Bass Extension (-10dB): 63hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Version: 5.2
 - Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60 mm)
 - Max Volume: 95db

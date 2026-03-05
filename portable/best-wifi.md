@@ -26,13 +26,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 53hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
 - Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 99db
 - Party Mode: No
@@ -59,14 +59,14 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 295ms default, 33ms with aux pass-through
 - Bass Extension (-10dB): 31hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: Yes
 - Dimensions: 9.3" x 7.0" x 6.1" (236 x 178 x 155 mm)
 - Driver: 2x 2.5" midrange, 2x 0.75" tweeters + 6.5"x9" subwoofer
 - EQ: No
-- Frequency Response: 30Hz - 20kHz
+- Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP57
 - Max Volume: 106db
 - Party Mode: Yes (Up to 8 speakers on wifi)
@@ -94,7 +94,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 43hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

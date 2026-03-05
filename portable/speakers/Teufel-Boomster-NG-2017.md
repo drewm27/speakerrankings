@@ -12,7 +12,7 @@ The Teufel Boomster NG (2017) ranks [#34 out of 67 total Boombox Size Portable B
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
 - App: No
 - Bass Extension (-10dB): 47hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

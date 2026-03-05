@@ -13,7 +13,7 @@ The JBL Partybox 310 ranks [#2 out of 43 total Party Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 32hz
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Charging Time: 3.5 hours
 - EQ: Yes (3 band)

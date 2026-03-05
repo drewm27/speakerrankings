@@ -11,14 +11,14 @@ The Orange Box ranks [#62 out of 73 total Large Size Portable Bluetooth Speakers
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
 - App: No
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 11.0" x 6.9" x 6.7" (280 x 175 x 170 mm)
 - Driver: 1x 102mm woofer, 2x 51mm tweeters
 - EQ: No
-- Frequency Response: 35Hz - 20kHz
+- Frequency Response: 35Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Party Mode: No
 - Power: 50W RMS

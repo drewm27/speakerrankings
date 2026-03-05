@@ -11,7 +11,7 @@ The Huawei Sound Joy ranks [#36 out of 131 total Medium Size Portable Bluetooth 
 - Positives: Use Devialet and +6db EQ for best sound quality
 - Negatives: Boosted treble, not quite as deep of bass as a Charge 5. Very expensive
 - Bass Extension (-10dB): 56hz
-- Battery Life: 26 hours
+- Battery Life: 26 hours (Manufacturer specified)
 - Max Volume: 100db
 - Stereo: No
 - Weight: 1.50lbs / 680g

@@ -13,7 +13,7 @@ The Dewalt Wearable Bluetooth Speaker ranks [#41 out of 41 total Small Size Port
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~300hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - Dimensions: 1.29" x 1.98" x 2.69" (32.8 x 50.3 x 68.3 mm)

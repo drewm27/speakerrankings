@@ -11,7 +11,7 @@ The Oontz Angle 3 Ultra ranks [#119 out of 131 total Medium Size Portable Blueto
 - Negatives: Very little bass with horrible upper bass thud at higher levels
 - App: Yes (OontZ app)
 - Bass Extension (-10dB): ~90hz
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Dimensions: 6.5" x 2.8" x 2.75" (165 x 71 x 70 mm)

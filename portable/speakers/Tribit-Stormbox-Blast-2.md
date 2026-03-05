@@ -14,7 +14,7 @@ The Tribit Stormbox Blast 2 ranks [#20 out of 67 total Boombox Size Portable Blu
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 40hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
 - EQ: Yes (10 band)

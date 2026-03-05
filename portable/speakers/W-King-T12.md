@@ -12,7 +12,7 @@ The W-King T12 ranks [#10 out of 10 total Large Party Size Portable Bluetooth Sp
 - Negatives: Boxy sounding and doesn't have the clarity of the higher ranked speakers
 - App: No
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

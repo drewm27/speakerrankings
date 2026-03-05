@@ -11,7 +11,7 @@ The Harman Kardon Onyx Studio 5 ranks [#17 out of 67 total Boombox Size Portable
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
 - App: No
 - Aux Input: Yes
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

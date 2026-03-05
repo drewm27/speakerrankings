@@ -12,13 +12,13 @@ The JBL Partybox Club 120 ranks [#3 out of 43 total Party Size Portable Bluetoot
 - Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Charging Time: 3.5 hours
 - Driver: 2x 5.25" woofers, 2x 2.25" tweeters
 - EQ: Yes (5 band)
-- Frequency Response: 40Hz - 20kHz
+- Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes

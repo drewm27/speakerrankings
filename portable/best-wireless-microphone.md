@@ -27,7 +27,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: No
 - Aux Input: Yes
 - Aux Output: Yes
-- Battery Life: ~30 hours
+- Battery Life: ~30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
@@ -54,7 +54,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Missing a little bit of upper bass.
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

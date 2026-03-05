@@ -23,12 +23,12 @@ Last updated: March 04, 2026
 - Negatives: No battery
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150 mm)
 - Driver: 4" woofer, 2x 0.75" tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, RCA
 - Outputs: Subwoofer line out
@@ -54,7 +54,7 @@ Last updated: March 04, 2026
 - Negatives: A bit muffled and missing midrange detail.
 - App: No
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
@@ -77,13 +77,13 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 57hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 14.1" x 6.3" x 8.0" (359 x 159 x 203.5 mm)
 - Driver: 2x 4" woofers, 2x 19mm silk dome tweeters
 - EQ: Yes (Bass/Treble controls)
-- Frequency Response: 54Hz - 20kHz
+- Frequency Response: 54Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, Aux, RCA
 - Outputs: Subwoofer line out
@@ -109,13 +109,13 @@ Last updated: March 04, 2026
 - Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
 - Bass Extension (-10dB): ~50hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4 mm)
 - Driver: 5" full-range woofer, 2x 25mm tweeters
 - EQ: Yes
-- Frequency Response: 50Hz - 20kHz (-6dB)
+- Frequency Response: 50Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, Aux, USB (US only)
 - Party Mode: Yes
@@ -142,13 +142,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203 mm)
 - Driver: 6" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 35Hz - 20kHz
+- Frequency Response: 35Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 100.5dB @ 1m
@@ -172,13 +172,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~47hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: AptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200 mm)
 - Driver: 2x 5.25" woofers, Integrated in woofers midrange, 2x 1" tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 30Hz - 20kHz
+- Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 110db
@@ -203,13 +203,13 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
 - Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200 mm)
 - Driver: 2x 5.25" woofers, Integrated in woofers midrange, 2x 1" tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 30Hz - 20kHz
+- Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
 - Party Mode: No
@@ -231,13 +231,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185 mm)
 - Driver: 5.25" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux, Optical
 - Party Mode: No
@@ -260,13 +260,13 @@ Last updated: March 04, 2026
 - Negatives: Not as good sounding as the Stanmore II. Not enough bass. Distorts at higher volumes.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 13.78" x 7.87" x 7.32" (350 x 203 x 188 mm)
 - Driver: 5" (midrange/woofer), 1x 5" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
 - Party Mode: No
@@ -290,13 +290,13 @@ Last updated: March 04, 2026
 - Negatives: Not as deep bass as competitors.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Dimensions: 10.24" x 6.69" x 5.91" (260 x 170 x 150 mm)
 - Driver: 4" (midrange/woofer), 1x 4" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Aux
 - Party Mode: No
@@ -318,13 +318,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): 56hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
 - Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150 mm)
 - Driver: 4" (midrange/woofer), 1x 4" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Aux
 - Party Mode: No
@@ -350,13 +350,13 @@ Last updated: March 04, 2026
 - App: Yes
 - Aux Input: Yes
 - Bass Extension (-10dB): ~45hz
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11.8" x 11.8" (300 x 300 mm)
 - Driver: 1x 5.5" + passive radiator woofer
 - EQ: Yes (via app)
-- Frequency Response: 37Hz - 22kHz
+- Frequency Response: 37Hz - 22kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, Optical, Chromecast
 - Max Volume: 94db
 - Party Mode: Yes
@@ -379,13 +379,13 @@ Last updated: March 04, 2026
 - Negatives: Treble boosted. Not as deep of bass as others.
 - App: No
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11" x 7.3" x 7.3" (280 x 186 x 186 mm)
 - Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
 - Party Mode: No
 - Power: 60W (Woofer: 30W, Full-range: 2x15W)
@@ -406,13 +406,13 @@ Last updated: March 04, 2026
 - Negatives: Treble boosted. Not as deep of bass as others.
 - App: No
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150 mm)
 - Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
-- Frequency Response: 50Hz - 20kHz
+- Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
 - Party Mode: No
 - Power: 50W (Woofer: 30W, Full-range: 2x10W)

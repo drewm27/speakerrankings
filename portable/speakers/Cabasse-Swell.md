@@ -10,7 +10,7 @@ The Cabasse Swell ranks [#97 out of 131 total Medium Size Portable Bluetooth Spe
 ## #97 Cabasse Swell: $300
 - Negatives: Bass boosted. Bass gets distorted and thuddy. Mids recessed
 - Aux Input: Yes
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 4.0
 - Dimensions: 7.28" x 2.95" x 2.95" (185 x 75 x 75 mm)

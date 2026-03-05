@@ -13,14 +13,14 @@ The Boat Stone 190/193 ranks [#27 out of 41 total Small Size Portable Bluetooth 
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 95hz
-- Battery Life: 6.5 hours
+- Battery Life: 6.5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Charging Time: 1.5 hours
 - Driver: 52mm
 - EQ: No
-- Frequency Response: 70Hz - 70kHz
+- Frequency Response: 70Hz - 70kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
 - Party Mode: No

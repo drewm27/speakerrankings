@@ -11,7 +11,7 @@ The Raymate M8 ranks [#42 out of 73 total Large Size Portable Bluetooth Speakers
 - Negatives: Slightly muffled sounding
 - App: No
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

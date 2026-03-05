@@ -11,7 +11,7 @@ The Bumpboxx Flare 6 ranks [#52 out of 67 total Boombox Size Portable Bluetooth 
 - Positives: It can get pretty loud
 - Negatives: Bass is not deep, thuddy bass
 - App: No
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No

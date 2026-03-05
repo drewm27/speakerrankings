@@ -12,7 +12,7 @@ The Soundcore Select 4 Go ranks [#20 out of 41 total Small Size Portable Bluetoo
 - Negatives: Not as deep of bass as higher ranked speakers
 - App: Yes
 - Aux Input: No
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
@@ -20,7 +20,7 @@ The Soundcore Select 4 Go ranks [#20 out of 41 total Small Size Portable Bluetoo
 - Dimensions: 4.76" x 3.27" x 1.91" (121 x 83 x 48.5 mm)
 - Driver: 1.75" full range
 - EQ: Yes
-- Frequency Response: 90Hz - 20kHz
+- Frequency Response: 90Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: No
 - Power Bank: No

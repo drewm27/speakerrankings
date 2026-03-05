@@ -13,7 +13,7 @@ The Soundcore Boom 3i ranks [#27 out of 131 total Medium Size Portable Bluetooth
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 56hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 8.3" x 3.3" x 3.1" (210 x 85 x 78.5 mm)
 - Driver: 94mm woofer + tweeter

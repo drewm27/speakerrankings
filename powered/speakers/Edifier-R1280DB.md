@@ -14,7 +14,7 @@ The Edifier R1280DB ranks [#23 out of 24 total Medium Size Powered Bookshelf Spe
 - Dimensions: 9.2"H x 5.7"W x 7.7"D (233.7 x 144.8 x 195.6 mm)
 - Driver: 4" woofer
 - EQ: No
-- Frequency Response: 55 Hz-20 kHz (-3dB)
+- Frequency Response: 55 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Watts: 42w RMS Per Speaker

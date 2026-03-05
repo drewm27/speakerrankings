@@ -11,7 +11,7 @@ The Doss E-Go II ranks [#107 out of 131 total Medium Size Portable Bluetooth Spe
 - Negatives: Horribly bad unless turned up, still not great
 - Aux Input: Yes
 - Bass Extension (-10dB): 120hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
 - Dimensions: 7.8" x 2.5" x 2.0" (198 x 63 x 51 mm)

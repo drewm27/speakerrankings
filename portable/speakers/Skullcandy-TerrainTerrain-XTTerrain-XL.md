@@ -10,7 +10,7 @@ The Skullcandy Terrain/Terrain XT/Terrain XL ranks [#124 out of 131 total Medium
 ## #124 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
 - Negatives: No bass, very rolled off treble. Distortion in the treble. Just doesn't sound good
 - App: Yes
-- Battery Life: 14 hours
+- Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes (Terrain XL only)

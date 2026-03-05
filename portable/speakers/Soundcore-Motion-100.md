@@ -13,13 +13,13 @@ The Soundcore Motion 100 ranks [#40 out of 131 total Medium Size Portable Blueto
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 65hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, LDAC, SBC
 - Bluetooth Version: 5.3
 - Dimensions: 7.5" x 3.1" x 2.4" (190 x 80 x 60 mm)
 - Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes
-- Frequency Response: 50Hz - 40kHz
+- Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Power: 20W
 - Power Bank: No

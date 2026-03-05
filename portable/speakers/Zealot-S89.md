@@ -13,7 +13,7 @@ The Zealot S89 ranks [#14 out of 67 total Boombox Size Portable Bluetooth Speake
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 36hz
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)

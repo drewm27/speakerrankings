@@ -12,7 +12,7 @@ The ION Pathfinder 280 ranks [#62 out of 67 total Boombox Size Portable Bluetoot
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 58hz
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (High/Low frequency)

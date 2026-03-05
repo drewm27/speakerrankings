@@ -14,7 +14,7 @@ The Edifier S1000W ranks [#15 out of 24 total Medium Size Powered Bookshelf Spea
 - Dimensions: 13.6"H x 7.6"W x 11.6"D (345.4 x 193 x 294.6 mm)
 - Driver: 5.5" woofer
 - EQ: No
-- Frequency Response: 45Hz-40KHz (-3dB)
+- Frequency Response: 45Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, Wifi, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Watts: 60w RMS Per Speaker

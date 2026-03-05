@@ -12,7 +12,7 @@ The LG XL7 ranks [#15 out of 43 total Party Size Portable Bluetooth Speakers](/p
 - Negatives: Treble is recessed, bass isn't as deep as a Partybox 310. Upper bass boosted.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.1
 - Dimensions: 27.6" x 12.2" x 12.4" (701 x 309.9 x 315 mm)

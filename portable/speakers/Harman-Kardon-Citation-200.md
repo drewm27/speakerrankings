@@ -12,14 +12,14 @@ The Harman Kardon Citation 200 ranks [#12 out of 73 total Large Size Portable Bl
 - Negatives: Overly boomy by default, you can short press the Bluetooth and volume down buttons simultaneously to decrease the bass, and the Bluetooth and volume up buttons simultaneously to increase it
 - App: Yes (Harman Kardon app)
 - Aux Input: No
-- Battery Life: 8 hours
+- Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 7.0" x 8.6" x 6.8" (178 x 219 x 172 mm)
 - Driver: 5" woofer, 1" tweeter
 - EQ: No
-- Frequency Response: 40Hz - 20kHz
+- Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
 - Party Mode: No
 - Power: 50W

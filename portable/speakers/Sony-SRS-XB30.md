@@ -12,7 +12,7 @@ The Sony SRS-XB30 ranks [#99 out of 131 total Medium Size Portable Bluetooth Spe
 - App: Yes (Sony Music Center)
 - Aux Input: Yes
 - Bass Extension (-10dB): 55hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes

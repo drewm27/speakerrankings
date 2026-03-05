@@ -13,7 +13,7 @@ The Soundcore Boom 2 ranks [#9 out of 73 total Large Size Portable Bluetooth Spe
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 47hz
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.3
@@ -21,7 +21,7 @@ The Soundcore Boom 2 ranks [#9 out of 73 total Large Size Portable Bluetooth Spe
 - Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102 mm)
 - Driver: 120mm x 90mm woofer, 2x 20mm tweeters
 - EQ: Yes
-- Frequency Response: 45Hz - 20kHz
+- Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 105db
 - MicroSD: No

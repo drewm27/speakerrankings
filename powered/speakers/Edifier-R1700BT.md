@@ -14,7 +14,7 @@ The Edifier R1700BT ranks [#22 out of 24 total Medium Size Powered Bookshelf Spe
 - Dimensions: 10"H x 6.1"W x 8.4"D (254 x 154.9 x 213.4 mm)
 - Driver: 4" woofer
 - EQ: No
-- Frequency Response: 60 Hz-20 kHz (-3dB)
+- Frequency Response: 60 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, RCA Input
 - Outputs: None
 - Watts: 66w RMS Per Speaker

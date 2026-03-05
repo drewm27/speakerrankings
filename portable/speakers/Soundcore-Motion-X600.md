@@ -14,7 +14,7 @@ The Soundcore Motion X600 ranks [#18 out of 73 total Large Size Portable Bluetoo
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 52hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 83ms
 - Bluetooth Version: 5.3
@@ -22,7 +22,7 @@ The Soundcore Motion X600 ranks [#18 out of 73 total Large Size Portable Bluetoo
 - Dimensions: 11.8" x 4.8" x 3.2" (300 x 121 x 81 mm)
 - Driver: 2x 60mm woofers, 2x 27mm tweeters, 1x 50mm upward-firing driver
 - EQ: No
-- Frequency Response: 50Hz - 40kHz
+- Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 104db
 - Party Mode: No

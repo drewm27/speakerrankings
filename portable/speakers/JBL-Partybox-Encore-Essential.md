@@ -14,7 +14,7 @@ The JBL Partybox Encore Essential ranks [#7 out of 67 total Boombox Size Portabl
 - Aux Input: Yes
 - Aux Latency: 17ms
 - Bass Extension (-10dB): 38hz
-- Battery Life: 6 hours
+- Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
 - Bluetooth Version: 5.1

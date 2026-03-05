@@ -14,7 +14,7 @@ The Edifier S2000MKIII ranks [#14 out of 24 total Medium Size Powered Bookshelf 
 - Dimensions: 13.5"H x 7.8"W x 10.8"D (342.9 x 198.1 x 274.3 mm)
 - Driver: 5.5" woofer
 - EQ: No
-- Frequency Response: 45Hz-40KHz (-3dB)
+- Frequency Response: 45Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Outputs: None
 - Watts: 65w RMS Per Speaker

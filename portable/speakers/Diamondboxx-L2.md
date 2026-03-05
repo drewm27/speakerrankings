@@ -17,7 +17,7 @@ The Diamondboxx L2 ranks [#30 out of 43 total Party Size Portable Bluetooth Spea
 - Dimensions: 23" x 14.5" x 9.5" (584.2 x 368.3 x 241.3 mm)
 - Driver: 5.5" woofer, 1" tweeter
 - EQ: No
-- Frequency Response: 40Hz - 22kHz
+- Frequency Response: 40Hz - 22kHz (Manufacturer specified)
 - IP Rating: None
 - Party Mode: No
 - Power Bank: No

@@ -12,7 +12,7 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - Negatives: Not stereo. Boosted upper bass, not as much clarity as higher ranked speakers. Generally worse overall than the much cheaper Stormbox Blast.
 - App: No
 - Aux Input: Yes
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 16.14" x 9.84" x 7.48" (410 x 250 x 190 mm)

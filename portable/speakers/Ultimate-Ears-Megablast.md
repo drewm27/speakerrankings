@@ -12,13 +12,13 @@ The Ultimate Ears Megablast ranks [#57 out of 73 total Large Size Portable Bluet
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 64hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Driver: 2x 55mm fullrange, 2x 25mm tweeters
 - EQ: No
-- Frequency Response: 60Hz - 20kHz
+- Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Party Mode: No
 - Power Bank: No

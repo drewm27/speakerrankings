@@ -25,7 +25,7 @@ Last updated: March 04, 2026
 - Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: No
@@ -59,7 +59,7 @@ Last updated: March 04, 2026
 - Negatives: Very large and heavy. No battery. No app. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No
@@ -89,7 +89,7 @@ Last updated: March 04, 2026
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal. Somewhat dark sounding by default, needs some treble boost to sound neutral
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
@@ -133,7 +133,7 @@ Last updated: March 04, 2026
 - Negatives: Very large and heavy. No battery. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: No
@@ -168,7 +168,7 @@ Last updated: March 04, 2026
 - Negatives: Very large and heavy. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 15 hours
+- Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
@@ -207,7 +207,7 @@ Last updated: March 04, 2026
 - Negatives: Extremely heavy, not easy to carry. Not stereo. Only available in Europe
 - App: No
 - Aux Input: Yes
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: No
@@ -243,7 +243,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep of bass and loses more bass at high volume even compared to the lower end Partybox speakers. Bass drops off a lot at higher volumes. Not quite as loud as the ULT Tower 10
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.3
 - Built in Microphone: No
@@ -278,7 +278,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep of bass and loses more bass at high volume even compared to the lower end Partybox speakers. Bass drops off a lot at higher volumes.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery
+- Battery Life: No Battery (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: No
@@ -311,7 +311,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep of bass and loses more bass at high volume compared to the Partybox 310 and every other speaker on this page
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: No
@@ -345,7 +345,7 @@ Last updated: March 04, 2026
 - Negatives: Boxy sounding and doesn't have the clarity of the higher ranked speakers
 - App: No
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

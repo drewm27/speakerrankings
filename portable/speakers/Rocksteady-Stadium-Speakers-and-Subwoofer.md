@@ -12,7 +12,7 @@ The Rocksteady Stadium Speakers and Subwoofer ranks [#47 out of 73 total Large S
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 49hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

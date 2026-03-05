@@ -14,7 +14,7 @@ The Tribit Stormbox Blast ranks [#2 out of 67 total Boombox Size Portable Blueto
 - Aux Input: Yes
 - Aux Latency: 0ms
 - Bass Extension (-10dB): 43hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Bluetooth Version: 5.3

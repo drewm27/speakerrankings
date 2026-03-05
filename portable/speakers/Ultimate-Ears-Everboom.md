@@ -12,7 +12,7 @@ The Ultimate Ears Everboom ranks [#30 out of 73 total Large Size Portable Blueto
 - Negatives: Has an upper bass boost and is tuned warm with rolled off treble. Not very deep bass.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes

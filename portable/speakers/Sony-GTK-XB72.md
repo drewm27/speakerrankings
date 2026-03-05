@@ -12,7 +12,7 @@ The Sony GTK-XB72 ranks [#40 out of 43 total Party Size Portable Bluetooth Speak
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~56hz
-- Battery Life: 23 hours
+- Battery Life: 23 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
 - IP Rating: None

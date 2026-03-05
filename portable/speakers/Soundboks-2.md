@@ -11,7 +11,7 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
 - Positives: Tied for the loudest battery powered speaker. Removable 40 hour battery. Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: No
 - Aux Input: Yes
-- Battery Life: 40 hours
+- Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Charging Time: 3.5 hours

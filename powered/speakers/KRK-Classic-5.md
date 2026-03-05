@@ -15,7 +15,7 @@ The KRK Classic 5 ranks [#18 out of 24 total Medium Size Powered Bookshelf Speak
 - Dimensions: 9.7"H x 7.4"W x 11.2"D (246.4 x 188 x 284.5 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 56Hz-30KHz (+-3dB)
+- Frequency Response: 56Hz-30KHz (+-3dB) (Manufacturer specified)
 - Inputs: RCA, TRS, XLR
 - Watts: 50w RMS Per Speaker
 - Weight: 13.0lbs / 5.87kg

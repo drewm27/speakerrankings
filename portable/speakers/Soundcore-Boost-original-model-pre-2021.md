@@ -12,7 +12,7 @@ The Soundcore Boost “original model” pre-2021 ranks [#13 out of 131 total Me
 - Negatives: This old version has micro-usb charging. Only IPX5.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX5

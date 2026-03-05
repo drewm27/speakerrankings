@@ -17,7 +17,7 @@ The Genelec 8010A ranks [#1 out of 8 total Small Size Powered Bookshelf Speakers
 - Dimensions: 7.7"H x 4.8"W x 4.5"D (195.6 x 121.9 x 114.3 mm)
 - Driver: 3" woofer, 0.75" metal dome tweeter
 - EQ: Yes (Bass tilt, Desk proximity)
-- Frequency Response: 67 Hz-25 kHz (-6dB)
+- Frequency Response: 67 Hz-25 kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 96dB @ 1m
 - Power: 50W (25W woofer + 25W tweeter)

@@ -10,12 +10,12 @@ The JBL Flip Essential ranks [#65 out of 131 total Medium Size Portable Bluetoot
 ## #65 JBL Flip Essential: $130
 - Negatives: Less bass than a Flip 5.
 - App: No
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Version: 4.1
 - Dimensions: 6.65" x 2.52" x 2.52" (169 x 64 x 64 mm)
 - Driver: 2x 40mm fullrange
 - EQ: No
-- Frequency Response: 80Hz - 20kHz
+- Frequency Response: 80Hz - 20kHz (Manufacturer specified)
 - Party Mode: No
 - Power: 16W RMS
 - Weight: ‎1.04lbs / 471g

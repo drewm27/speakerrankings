@@ -14,7 +14,7 @@ The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speak
 - Dimensions: 11.7"H x 7.0"W x 11.7"D (297.2 x 177.8 x 297.2 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
-- Frequency Response: 58Hz – 24kHz (-3dB)
+- Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR, RCA
 - Watts: 70w Per Speaker
 - Weight: 12.6lbs / 5.7kg each

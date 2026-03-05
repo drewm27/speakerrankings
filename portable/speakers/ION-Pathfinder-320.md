@@ -11,7 +11,7 @@ The ION Pathfinder 320 ranks [#61 out of 67 total Boombox Size Portable Bluetoot
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Battery Life: 100 hours
+- Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (High/Low frequency)

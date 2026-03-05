@@ -12,7 +12,7 @@ The Samsung MX-ST50B ranks [#17 out of 43 total Party Size Portable Bluetooth Sp
 - Negatives: Not as deep bass as the Partybox 110 or other higher ranked speakers. Needs to be plugged in to reach higher volume.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: 18 hours
+- Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Version: 5.0
 - Dimensions: 12.95" x 26.18" x 11.85" (329 x 665 x 301 mm)

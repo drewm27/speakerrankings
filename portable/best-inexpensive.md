@@ -29,14 +29,14 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 68hz
-- Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that)
+- Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that) (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Dimensions: 5.08" x 3.54" x 1.73" (129 x 90 x 44 mm)
 - Driver: 43.5mm
 - EQ: Yes
-- Frequency Response: 80Hz - 20kHz
+- Frequency Response: 80Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX8
 - Party Mode: No
 - Power Bank: No
@@ -62,7 +62,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 216ms
 - Bass Extension (-10dB): 56hz
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
@@ -98,7 +98,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Slightly less bass extension than higher ranked speakers.
 - App: No
 - Aux Input: No
-- Battery Life: 16 hours
+- Battery Life: 16 hours (Manufacturer specified)
 - EQ: No
 - IP Rating: IPX7
 - Power Bank: No
@@ -119,13 +119,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Doesn't get very loud compared to other speakers in this class. Short battery life. Pretty heavy. Many say the S67 has deeper bass, but also gets more distorted
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
 - EQ: 3 EQ presets
-- Frequency Response: 20Hz - 20kHz
+- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
 - Party Mode: No
@@ -152,7 +152,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): ~38hz
-- Battery Life: 30 hours
+- Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
@@ -221,7 +221,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 45hz
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
@@ -251,7 +251,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
 - App: No
 - Aux Input: Yes
-- Battery Life: 12 hours
+- Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
 - FM Tuner: Yes
@@ -279,7 +279,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Boxy sounding and doesn't have the clarity of the higher ranked speakers
 - App: No
 - Aux Input: Yes
-- Battery Life: 25 hours
+- Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No

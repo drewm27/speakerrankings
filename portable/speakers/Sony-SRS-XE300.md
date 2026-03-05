@@ -11,7 +11,7 @@ The Sony SRS-XE300 ranks [#87 out of 131 total Medium Size Portable Bluetooth Sp
 - Negatives: Muffled sounding, not very deep bass. Hollow sounding. Worse than a XB43
 - App: Yes (Sony Music Center)
 - Aux Input: No
-- Battery Life: 24 hours
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes

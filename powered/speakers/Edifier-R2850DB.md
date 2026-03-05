@@ -16,7 +16,7 @@ The Edifier R2850DB ranks [#19 out of 21 total Large Size Powered Bookshelf Spea
 - Dimensions: 18.1"H x 10.1"W x 12.4"D (459.7 x 256.5 x 315 mm)
 - Driver: 8" woofer
 - EQ: No
-- Frequency Response: 42Hz-20KHz (-3dB)
+- Frequency Response: 42Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
 - Watts: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg

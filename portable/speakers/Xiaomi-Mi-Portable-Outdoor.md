@@ -11,7 +11,7 @@ The Xiaomi Mi Portable Outdoor ranks [#32 out of 41 total Small Size Portable Bl
 - Negatives: Not much bass, treble rolled off
 - App: No
 - Aux Input: No
-- Battery Life: 20 hours
+- Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No

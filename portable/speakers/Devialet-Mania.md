@@ -13,14 +13,14 @@ The Devialet Mania ranks [#38 out of 73 total Large Size Portable Bluetooth Spea
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 47hz
-- Battery Life: 10 hours
+- Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 6.9" x 7.6" x 5.5" (176 x 193 x 139 mm)
 - Driver: 4x aluminum fullrange drivers, 2x woofers
 - EQ: No
-- Frequency Response: 30Hz - 20kHz
+- Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
 - Max Volume: 95db
 - Party Mode: No
