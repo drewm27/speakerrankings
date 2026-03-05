@@ -12,7 +12,7 @@ The Edifier D12 ranks [#3 out of 14 total Medium Size Powered Desktop Speakers](
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 57hz
-- Battery Life: No Battery (Manufacturer specified)
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 14.1" x 6.3" x 8.0" (359 x 159 x 203.5 mm)

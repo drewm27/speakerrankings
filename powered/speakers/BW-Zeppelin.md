@@ -13,7 +13,7 @@ The B&W Zeppelin ranks [#1 out of 2 total Large Size Powered Desktop Speakers](/
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~32hz
-- Battery Life: No Battery (Manufacturer specified)
+- Battery Life: No Battery
 - Bluetooth: Yes
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
 - Bluetooth Version: 5.0

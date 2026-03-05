@@ -24,7 +24,7 @@ Last updated: March 04, 2026
 - App: No
 - Aux Input: No
 - Bass Extension (-10dB): ~32hz
-- Battery Life: No Battery (Manufacturer specified)
+- Battery Life: No Battery
 - Bluetooth: Yes
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
 - Bluetooth Version: 5.0
@@ -55,7 +55,7 @@ Last updated: March 04, 2026
 - Negatives: No battery. Boosted upper bass. Peaky upper mids.
 - App: Yes
 - Aux Input: Yes
-- Battery Life: No Battery (Manufacturer specified)
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7 mm)

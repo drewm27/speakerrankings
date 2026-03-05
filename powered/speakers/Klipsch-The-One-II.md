@@ -11,7 +11,7 @@ The Klipsch The One II ranks [#14 out of 14 total Medium Size Powered Desktop Sp
 - Negatives: Treble boosted. Not as deep of bass as others.
 - App: No
 - Aux Input: Yes
-- Battery Life: No Battery (Manufacturer specified)
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150 mm)

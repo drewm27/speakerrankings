@@ -11,7 +11,7 @@ The Klipsch The Three II ranks [#13 out of 14 total Medium Size Powered Desktop 
 - Negatives: Treble boosted. Not as deep of bass as others.
 - App: No
 - Aux Input: Yes
-- Battery Life: No Battery (Manufacturer specified)
+- Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
 - Dimensions: 11" x 7.3" x 7.3" (280 x 186 x 186 mm)
