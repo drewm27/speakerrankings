@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), [Passive Medium](/passive/bookshelf-medium/), and [Passive Large](/passive/bookshelf-large/) bookshelf speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 04, 2026
+Last updated: March 05, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -285,7 +285,7 @@ Last updated: March 04, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 16.5"H x 10.0"W x 11.3"D (419.1 x 254 x 287 mm)
-- Driver: 8" woofer
+- Driver: 8" woofer, 1" soft dome tweeter
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45Hz – 21kHz (+-3dB) (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
@@ -308,7 +308,7 @@ Last updated: March 04, 2026
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.4"H x 9.8"W x 13.1"D (391.2 x 248.9 x 332.7 mm)
-- Driver: 8" woofer
+- Driver: 8" woofer, 1" dome tweeter
 - EQ: Yes (Room adjustment)
 - Frequency Response: 47Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR

@@ -14,7 +14,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 - **Months of Research, Minutes to Find** - We've analyzed reviews from top unbiased audio reviewers ([Oluv, Alan Ross, Erin's Audio Corner, Audio Science Review, GR-Research](/personal-ranking-of-speaker-reviewers/)) and compiled everything into easy-to-navigate lists.
 - **Complete Transparency** - Every ranking links to the videos, measurements, and reviews we used. Verify our conclusions yourself.
 
-Last Updated March 04, 2026
+Last Updated March 05, 2026
 
 ## Top Recommended Speakers By Attribute
 
@@ -65,7 +65,5 @@ Last Updated March 04, 2026
 - [Personal Ranking of Speaker Reviewers](/personal-ranking-of-speaker-reviewers/): 49 reviewers ranked
 - [Comments and Suggestions](/comments-suggestions/)
 - [Speakers to be Added](/speakers-to-be-added/)
-- [Issues I'm Working On](/issues-im-working-on/)
-- [Work Currently In Progress](/work-currently-in-progress/)
 
-+**Questions or suggestions?** Join the discussion on [r/WirelessSpeakers](https://www.reddit.com/r/WirelessSpeakers/).
+**Questions or suggestions?** Join the discussion on [r/WirelessSpeakers](https://www.reddit.com/r/WirelessSpeakers/).

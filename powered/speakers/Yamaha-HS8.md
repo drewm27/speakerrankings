@@ -14,7 +14,7 @@ The Yamaha HS8 ranks [#14 out of 21 total Large Size Powered Bookshelf Speakers]
 - Bluetooth: No
 - DSP: No
 - Dimensions: 15.4"H x 9.8"W x 13.1"D (391.2 x 248.9 x 332.7 mm)
-- Driver: 8" woofer
+- Driver: 8" woofer, 1" dome tweeter
 - EQ: Yes (Room adjustment)
 - Frequency Response: 47Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR

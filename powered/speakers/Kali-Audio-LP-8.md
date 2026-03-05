@@ -14,7 +14,7 @@ The Kali Audio LP-8 ranks [#13 out of 21 total Large Size Powered Bookshelf Spea
 - Bluetooth: No
 - DSP: No
 - Dimensions: 16.5"H x 10.0"W x 11.3"D (419.1 x 254 x 287 mm)
-- Driver: 8" woofer
+- Driver: 8" woofer, 1" soft dome tweeter
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45Hz – 21kHz (+-3dB) (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
