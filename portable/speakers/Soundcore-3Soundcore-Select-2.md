@@ -14,7 +14,7 @@ The Soundcore 3/Soundcore Select 2 ranks [#54 out of 131 total Medium Size Porta
 - Battery Life: 24 hours
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 5.0
-- Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59mm)
+- Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59 mm)
 - EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)

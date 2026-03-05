@@ -69,7 +69,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: Yes
 - Charging Time: 2.5-3.5 hours
-- Dimensions: 84 x 53mm
+- Dimensions: 3.31" x 2.09" (84 x 53 mm)
 - Driver: 52mm custom neodymium
 - EQ: Yes
 - Frequency Response: 65Hz - 16kHz
@@ -156,7 +156,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
-- Dimensions: 107 x 102 x 46mm
+- Dimensions: 4.21" x 4.02" x 1.81" (107 x 102 x 46 mm)
 - EQ: No
 - Frequency Response: 65Hz - 20kHz
 - IP Rating: IPX7
@@ -237,7 +237,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 105mm diameter x 39mm height
+- Dimensions: 4.13" diameter x 1.54" H (105 x 39 mm)
 - Driver: 15mm tweeter, 65mm woofer
 - EQ: No
 - Frequency Response: 78Hz - 20kHz
@@ -266,7 +266,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
-- Dimensions: 99 x 43 x 99mm
+- Dimensions: 3.9" x 1.69" x 3.9" (99 x 43 x 99 mm)
 - Driver: 2" full-range with dual passive radiators
 - EQ: Yes
 - Frequency Response: 75Hz - 20kHz
@@ -293,7 +293,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - Charging Time: 2.3 hours
-- Dimensions: 122.67 x 105 x 48.15mm
+- Dimensions: 4.83" x 4.13" x 1.9" (122.7 x 105 x 48.1 mm)
 - Driver: 45.6mm active with passive radiator
 - EQ: No
 - IP Rating: IP67
@@ -346,7 +346,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 101 x 39 x 101mm
+- Dimensions: 3.98" x 1.54" x 3.98" (101 x 39 x 101 mm)
 - Driver: 2" full-range with dual passive radiators
 - EQ: Yes
 - IP Rating: IP67
@@ -380,7 +380,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 2 hours
-- Dimensions: 109 x 109 x 43mm
+- Dimensions: 4.29" x 4.29" x 1.69" (109 x 109 x 43 mm)
 - Driver: 1.5" full-range with dual passive radiators
 - EQ: No
 - IP Rating: IP67
@@ -408,7 +408,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 2 hours
-- Dimensions: 140 x 80 x 28mm
+- Dimensions: 5.51" x 3.15" x 1.1" (140 x 80 x 28 mm)
 - Driver: 51mm full-range and 19mm tweeter
 - EQ: Yes
 - IP Rating: None
@@ -435,7 +435,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: Φ118 x 135 x 43.5mm
+- Dimensions: 4.65" x 5.31" x 1.71" (118 x 135 x 43.5 mm)
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 97db
@@ -464,7 +464,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 98 x 98 x 35mm
+- Dimensions: 3.86" x 3.86" x 1.38" (98 x 98 x 35 mm)
 - Driver: 40mm with dual passive radiators
 - EQ: No
 - IP Rating: IP67
@@ -494,7 +494,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 129 x 90 x 44mm
+- Dimensions: 5.08" x 3.54" x 1.73" (129 x 90 x 44 mm)
 - Driver: 43.5mm
 - EQ: Yes
 - Frequency Response: 80Hz - 20kHz
@@ -521,7 +521,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 86 x 134.5 x 46mm
+- Dimensions: 3.39" x 5.3" x 1.81" (86 x 134.5 x 46 mm)
 - EQ: Yes
 - Frequency Response: 95Hz - 20kHz
 - IP Rating: IP67
@@ -548,7 +548,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 86 x 135 x 46mm
+- Dimensions: 3.39" x 5.31" x 1.81" (86 x 135 x 46 mm)
 - EQ: No
 - Frequency Response: 100Hz - 20kHz
 - IP Rating: IP67
@@ -581,7 +581,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Charging Time: 4 hours
-- Dimensions: 121 x 83 x 48.5mm
+- Dimensions: 4.76" x 3.27" x 1.91" (121 x 83 x 48.5 mm)
 - Driver: 1.75" full range
 - EQ: Yes
 - Frequency Response: 90Hz - 20kHz
@@ -611,7 +611,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 94.3 x 75.7 x 42.2mm
+- Dimensions: 3.71" x 2.98" x 1.66" (94.3 x 75.7 x 42.2 mm)
 - Driver: 45mm
 - EQ: Yes
 - Frequency Response: 90Hz - 20kHz
@@ -643,7 +643,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
-- Dimensions: 86 x 69 x 40mm
+- Dimensions: 3.39" x 2.72" x 1.57" (86 x 69 x 40 mm)
 - EQ: No
 - Frequency Response: 110Hz - 20kHz
 - IP Rating: IP67
@@ -802,7 +802,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 4.5 hours
-- Dimensions: 76mm diameter x 95mm height
+- Dimensions: 2.99" diameter x 3.74" H (76 x 95 mm)
 - Driver: 46mm
 - EQ: No
 - Frequency Response: 20Hz - 20kHz
@@ -885,7 +885,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 97 x 137 x 46mm
+- Dimensions: 3.82" x 5.39" x 1.81" (97 x 137 x 46 mm)
 - EQ: No
 - Frequency Response: 120Hz - 20kHz
 - IP Rating: None
@@ -987,7 +987,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 60.8 x 37.5 x 77.9mm
+- Dimensions: 2.39" x 1.48" x 3.07" (60.8 x 37.5 x 77.9 mm)
 - EQ: No
 - Frequency Response: 80Hz - 18kHz
 - IP Rating: IPX5
@@ -1015,7 +1015,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Charging Time: 2 hours
-- Dimensions: 75.5 x 35.5 x 59mm
+- Dimensions: 2.97" x 1.4" x 2.32" (75.5 x 35.5 x 59 mm)
 - EQ: No
 - Frequency Response: 80Hz - 18kHz
 - IP Rating: IPX5
@@ -1043,7 +1043,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 140 x 75.2 x 26.1mm
+- Dimensions: 5.51" x 2.96" x 1.03" (140 x 75.2 x 26.1 mm)
 - EQ: No
 - Frequency Response: 130Hz - 20kHz
 - IP Rating: None
@@ -1071,7 +1071,7 @@ Last updated: March 04, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 110 x 110 x 34.1mm
+- Dimensions: 4.33" x 4.33" x 1.34" (110 x 110 x 34.1 mm)
 - EQ: No
 - Frequency Response: 130Hz - 20kHz
 - IP Rating: None
@@ -1151,7 +1151,7 @@ Last updated: March 04, 2026
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
-- Dimensions: 32.8 x 50.3 x 68.3mm
+- Dimensions: 1.29" x 1.98" x 2.69" (32.8 x 50.3 x 68.3 mm)
 - EQ: No
 - IP Rating: IP56
 - Party Mode: No

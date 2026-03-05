@@ -14,7 +14,7 @@ The Xiaomi Sound Outdoor ranks [#42 out of 131 total Medium Size Portable Blueto
 - Battery Life: 12 hours
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 7.7" x 2.7" x 2.6" (196.6 x 68 x 66mm)
+- Dimensions: 7.7" x 2.7" x 2.6" (196.6 x 68 x 66 mm)
 - Driver: 20W woofer, 10W tweeter + 2x passive radiators
 - EQ: No
 - Frequency Response: 60Hz - 20kHz

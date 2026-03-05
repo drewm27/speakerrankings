@@ -12,7 +12,7 @@ The Klipsch RP-600M II ranks [#41 out of 48 total Large Size Bookshelf Speakers]
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 70hz
-- Dimensions: 15.7"H x 8"W x 12.5"D
+- Dimensions: 15.7"H x 8"W x 12.5"D (398.8 x 203.2 x 317.5 mm)
 - Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
 - Sensitivity: 86dB

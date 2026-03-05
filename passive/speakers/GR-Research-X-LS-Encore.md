@@ -11,7 +11,7 @@ The GR-Research X-LS Encore ranks [#28 out of 48 total Large Size Bookshelf Spea
 - Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 64hz
-- Dimensions: 13.5"H x 8.5"W x 12.125"D
+- Dimensions: 13.5"H x 8.5"W x 12.125"D (342.9 x 215.9 x 308 mm)
 - Driver: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame woofer, 1" Peerless India T26SG tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB

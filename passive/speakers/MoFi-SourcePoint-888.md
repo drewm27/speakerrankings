@@ -12,7 +12,7 @@ The MoFi SourcePoint 888 ranks [#10 out of 25 total Large Size Floorstanding Spe
 - Negatives: Some dipped area reaching 3dB from 3khz to 7khz
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 34hz
-- Dimensions: 41.2"H x 12.6"W x 16.1"D
+- Dimensions: 41.2"H x 12.6"W x 16.1"D (1046.5 x 320 x 408.9 mm)
 - Driver: Dual 8" paper cone woofers, 8” Paper Cone midrange, 1.25" wide roll soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85.5dB

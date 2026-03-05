@@ -16,7 +16,7 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 10.0" x 3.6" x 3.6" (255 x 92 x 92mm)
+- Dimensions: 10.0" x 3.6" x 3.6" (255 x 92 x 92 mm)
 - Driver: 35W woofer, 15W tweeter
 - EQ: Yes
 - Frequency Response: 60Hz - 20kHz

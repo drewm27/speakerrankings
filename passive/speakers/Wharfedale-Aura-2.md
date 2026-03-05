@@ -11,7 +11,7 @@ The Wharfedale Aura 2 ranks [#22 out of 48 total Large Size Bookshelf Speakers](
 - Negatives: Slight 2dB dip in bass response below 180hz, may need to be closer to wall like 2 feet. 4dB peak around 13k. Vertical directivity isn't very good.
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 56hz
-- Dimensions: 22.1"H x 11.3"W x 15.3"D
+- Dimensions: 22.1"H x 11.3"W x 15.3"D (561.3 x 287 x 388.6 mm)
 - Driver: 6.5" Black Glass Fibre Matrix Cone woofer, 4" Black Glass Fibre Matrix Cone midrange, 27x90mm AMT tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB

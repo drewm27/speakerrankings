@@ -11,7 +11,7 @@ The Revel M126Be ranks [#11 out of 48 total Large Size Bookshelf Speakers](/pass
 - Negatives: Some diffraction issues at 3khz and 7khz where there's some dipped areas. Vertical off-axis is just okay
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 103hz
-- Dimensions: 15.2"H x 8.3"W x 10.3"D
+- Dimensions: 15.2"H x 8.3"W x 10.3"D (386.1 x 210.8 x 261.6 mm)
 - Driver: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame woofer, 1" Beryllium dome with acoustic lens waveguide tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB

@@ -20,7 +20,7 @@ The Earfun Uboom X ranks [#1 out of 67 total Boombox Size Portable Bluetooth Spe
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 400 x 150 x 215 mm
+- Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67

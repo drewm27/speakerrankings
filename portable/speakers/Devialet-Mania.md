@@ -17,7 +17,7 @@ The Devialet Mania ranks [#38 out of 73 total Large Size Portable Bluetooth Spea
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 6.9" x 7.6" x 5.5" (176 x 193 x 139mm)
+- Dimensions: 6.9" x 7.6" x 5.5" (176 x 193 x 139 mm)
 - Driver: 4x aluminum fullrange drivers, 2x woofers
 - EQ: No
 - Frequency Response: 30Hz - 20kHz

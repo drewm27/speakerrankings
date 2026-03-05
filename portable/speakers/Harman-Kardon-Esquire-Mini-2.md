@@ -17,7 +17,7 @@ The Harman Kardon Esquire Mini 2 ranks [#37 out of 41 total Small Size Portable 
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 140 x 75.2 x 26.1mm
+- Dimensions: 5.51" x 2.96" x 1.03" (140 x 75.2 x 26.1 mm)
 - EQ: No
 - Frequency Response: 130Hz - 20kHz
 - IP Rating: None

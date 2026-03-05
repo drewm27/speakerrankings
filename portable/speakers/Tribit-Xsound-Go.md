@@ -14,7 +14,7 @@ The Tribit Xsound Go ranks [#75 out of 131 total Medium Size Portable Bluetooth 
 - Bass Extension (-10dB): 83hz
 - Battery Life: 24 hours
 - Bluetooth Version: 5.3
-- Dimensions: 6.89" x 2.32" x 2.20" (175 x 59 x 56mm)
+- Dimensions: 6.89" x 2.32" x 2.20" (175 x 59 x 56 mm)
 - Max Volume: 98db
 - Power: 16W
 - Stereo: Yes

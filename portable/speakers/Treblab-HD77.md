@@ -13,7 +13,7 @@ The Treblab HD77 ranks [#74 out of 131 total Medium Size Portable Bluetooth Spea
 - Battery Life: 20 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.36" x 3.0" x 3.0" (187 x 76 x 76mm)
+- Dimensions: 7.36" x 3.0" x 3.0" (187 x 76 x 76 mm)
 - Driver: 2x 48mm fullrange
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7

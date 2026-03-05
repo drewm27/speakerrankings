@@ -14,12 +14,16 @@ The JBL Partybox 720 ranks [#3 out of 10 total Large Party Size Portable Bluetoo
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 16.38" x 37.1" x 16.0" (416 x 942 x 406 mm)
+- Driver: 2x 9" woofer, 2x 1.25" dome tweeter
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes

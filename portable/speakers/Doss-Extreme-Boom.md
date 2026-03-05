@@ -16,7 +16,7 @@ The Doss Extreme Boom ranks [#71 out of 73 total Large Size Portable Bluetooth S
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 12.7" x 4.8" x 7.3" (323 x 120 x 184mm)
+- Dimensions: 12.7" x 4.8" x 7.3" (323 x 120 x 184 mm)
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes

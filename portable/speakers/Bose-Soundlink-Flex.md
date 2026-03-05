@@ -15,7 +15,7 @@ The Bose Soundlink Flex ranks [#34 out of 131 total Medium Size Portable Bluetoo
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 7.9" x 3.5" x 2.1" (201 x 90 x 52mm)
+- Dimensions: 7.9" x 3.5" x 2.1" (201 x 90 x 52 mm)
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 96db

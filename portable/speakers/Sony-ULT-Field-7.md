@@ -17,7 +17,7 @@ The Sony ULT Field 7 ranks [#36 out of 67 total Boombox Size Portable Bluetooth 
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 512 x 224 x 222 mm
+- Dimensions: 20.16" x 8.82" x 8.74" (512 x 224 x 222 mm)
 - EQ: Yes (App + ULT button)
 - Guitar Input: Yes
 - IP Rating: IP67

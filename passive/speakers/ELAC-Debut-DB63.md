@@ -11,7 +11,7 @@ The ELAC Debut DB63 ranks [#31 out of 48 total Large Size Bookshelf Speakers](/p
 - Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 76hz
-- Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Dimensions: 13.3"H x 7.7"W x 11.7"D (337.8 x 195.6 x 297.2 mm)
 - Driver: 6.5" aramid fiber cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB

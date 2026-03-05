@@ -14,7 +14,7 @@ The JBL Authentics 200 ranks [#4 out of 14 total Medium Size Powered Desktop Spe
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
-- Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4mm)
+- Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4 mm)
 - Driver: 5" full-range woofer, 2x 25mm tweeters
 - EQ: Yes
 - Frequency Response: 50Hz - 20kHz (-6dB)

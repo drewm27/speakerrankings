@@ -11,7 +11,7 @@ The Edifier R1700BT ranks [#22 out of 24 total Medium Size Powered Bookshelf Spe
 - Negatives: more V shaped, not quite as neutral sounding as the Edifier MR4
 - App: No
 - Bluetooth: No
-- Dimensions: 10"H x 6.1"W x 8.4"D
+- Dimensions: 10"H x 6.1"W x 8.4"D (254 x 154.9 x 213.4 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)

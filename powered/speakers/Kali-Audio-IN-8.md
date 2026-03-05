@@ -15,7 +15,7 @@ The Kali Audio IN-8 ranks [#9 out of 21 total Large Size Powered Bookshelf Speak
 - Bass Extension (-3dB): 44hz
 - Bluetooth: No
 - DSP: No
-- Dimensions: 17.8"H x 10"W x 11.3"D
+- Dimensions: 17.8"H x 10"W x 11.3"D (452.1 x 254 x 287 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: XLR, RCA

@@ -15,7 +15,7 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
-- Dimensions: 41 x 25 x 19 cm
+- Dimensions: 16.14" x 9.84" x 7.48" (410 x 250 x 190 mm)
 - Driver: 2x 5" woofers, 1" tweeter
 - EQ: No
 - Guitar Input: Yes

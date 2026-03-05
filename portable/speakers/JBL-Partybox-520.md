@@ -14,12 +14,16 @@ The JBL Partybox 520 ranks [#5 out of 10 total Large Party Size Portable Bluetoo
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 16.34" x 30.28" x 14.53" (415 x 769 x 369 mm)
+- Driver: 2x 7.5" woofer, 2x 1" dome tweeter
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power: 400W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes

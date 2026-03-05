@@ -16,7 +16,7 @@ The Laney F67 ranks [#63 out of 73 total Large Size Portable Bluetooth Speakers]
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 10.4" x 6.3" x 6.1" (265 x 160 x 155mm)
+- Dimensions: 10.4" x 6.3" x 6.1" (265 x 160 x 155 mm)
 - Driver: 1x 102mm woofer, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz

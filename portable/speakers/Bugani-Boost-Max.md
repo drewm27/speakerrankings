@@ -15,7 +15,7 @@ The Bugani Boost Max ranks [#37 out of 67 total Boombox Size Portable Bluetooth 
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 430 x 200 x 210 mm
+- Dimensions: 16.93" x 7.87" x 8.27" (430 x 200 x 210 mm)
 - EQ: No
 - IP Rating: IPX6
 - Microphone Input: Yes

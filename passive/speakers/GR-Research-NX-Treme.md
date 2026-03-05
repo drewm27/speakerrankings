@@ -11,7 +11,7 @@ The GR-Research NX-Treme ranks [#1 out of 25 total Large Size Floorstanding Spea
 - Positives: Amazing in terms of soundstage and imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. One of the highest sensitivity speakers around. Open baffle mids, highs and bass (using GR-Research Open baffle subs). If you have not heard open baffle bass, you must hear it in person, there's no going back. Amazing in terms of imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. Can easily be driven by tube amps due to the mild impedance.
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
 - Bass Extension (-3dB): <20hz (With GR-Research open baffle subwoofers)
-- Dimensions: 85"H x 17"W x 20"D (plus a subwoofer on each side)
+- Dimensions: 85"H x 17"W x 20"D (2159 x 431.8 x 508 mm) (plus a subwoofer on each side)
 - Driver: Eight 6.5" M165 open baffle woofer, Two 6.5" M165NQ open baffle midrange, GR Neo 3 Magnetic planar open baffle tweeter
 - Impedance: 8 ohms
 - Sensitivity: 94.5dB

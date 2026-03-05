@@ -16,7 +16,7 @@ The JBL Charge 5 Wifi ranks [#25 out of 131 total Medium Size Portable Bluetooth
 - Battery Life: 20 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
-- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94mm)
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz

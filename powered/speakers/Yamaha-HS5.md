@@ -12,7 +12,7 @@ The Yamaha HS5 ranks [#9 out of 24 total Medium Size Powered Bookshelf Speakers]
 - Negatives: Not quite as deep of bass as some of the others in this size class. Slight midrange boost.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.2"H x 6.7"W x 8.7"D
+- Dimensions: 11.2"H x 6.7"W x 8.7"D (284.5 x 170.2 x 221 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)

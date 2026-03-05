@@ -28,6 +28,7 @@ The Zealot S89 ranks [#14 out of 67 total Boombox Size Portable Bluetooth Speake
 - Weight: 16lbs / 7.3kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Zealot S89 vs Yeahbox Boom Max3 - indoor listening test](https://www.patreon.com/posts/zealot-s89-vs-152136699)
+    - [Oluv: Zealot S89 vs Yeahbox Sonic Boom Max3 - outdoor test](https://www.patreon.com/posts/zealot-s89-vs-152225331)
     - [Dominik Reviews: Zealot S89 vs JBL Boombox 4 - JBL Alternative? Sound Test ](https://www.youtube.com/watch?v=ft96mq3SKgY)
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S89!!!](https://www.youtube.com/watch?v=4wfkO78OKvk)
     - [Techder Audios: ZEALOT S89 VS ZEALOT ZE01 EXTREME POWERFULL VS COMPACTER BASS PERFORMANCE!](https://www.youtube.com/watch?v=6MkVOVJZL_w)

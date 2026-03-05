@@ -16,7 +16,7 @@ The Bugani M83 ranks [#67 out of 73 total Large Size Portable Bluetooth Speakers
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170mm)
+- Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170 mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No

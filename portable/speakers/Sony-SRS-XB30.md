@@ -16,7 +16,7 @@ The Sony SRS-XB30 ranks [#99 out of 131 total Medium Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 8.98 x 3.23 x 3.39 in (228 x 82 x 86 mm)
+- Dimensions: 8.98" x 3.23" x 3.39" (228 x 82 x 86 mm)
 - IP Rating: IPX5
 - Max Volume: 95db
 - Party Mode: Yes (Partychain up to 100 speakers)

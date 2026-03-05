@@ -14,12 +14,16 @@ The JBL Partybox 1000 ranks [#2 out of 10 total Large Party Size Portable Blueto
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: No
+- Dimensions: 15.6" x 43.3" x 15.3" (397 x 1050 x 390 mm)
+- Driver: 1x 12" down-firing woofer, 2x 7" midrange, 1x compression horn tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes

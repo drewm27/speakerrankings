@@ -18,7 +18,7 @@ The Soundcore Boom 2 ranks [#9 out of 73 total Large Size Portable Bluetooth Spe
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102mm)
+- Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102 mm)
 - Driver: 120mm x 90mm woofer, 2x 20mm tweeters
 - EQ: Yes
 - Frequency Response: 45Hz - 20kHz

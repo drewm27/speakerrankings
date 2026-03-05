@@ -12,7 +12,7 @@ The Bose Soundlink Revolve+ II ranks [#46 out of 131 total Medium Size Portable 
 - Aux Input: Yes
 - Battery Life: 17 hours
 - Bluetooth Version: 4.1
-- Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82mm)
+- Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82 mm)
 - IP Rating: IP55
 - Power Input: Micro USB
 - Stereo: No

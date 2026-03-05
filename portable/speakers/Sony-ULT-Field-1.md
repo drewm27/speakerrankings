@@ -15,7 +15,7 @@ The Sony ULT Field 1 ranks [#38 out of 131 total Medium Size Portable Bluetooth 
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 8.1" x 3.0" x 3.0" (206 x 77 x 76mm)
+- Dimensions: 8.1" x 3.0" x 3.0" (206 x 77 x 76 mm)
 - Driver: 83mm x 42mm woofer, 16mm tweeter + passive radiator
 - EQ: Yes
 - Frequency Response: 20Hz - 20kHz

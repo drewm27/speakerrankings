@@ -18,7 +18,7 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: Yes
 - Charging Time: 2.5-3.5 hours
-- Dimensions: 84 x 53mm
+- Dimensions: 3.31" x 2.09" (84 x 53 mm)
 - Driver: 52mm custom neodymium
 - EQ: Yes
 - Frequency Response: 65Hz - 16kHz

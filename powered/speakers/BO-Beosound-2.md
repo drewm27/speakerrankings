@@ -15,7 +15,7 @@ The B&O Beosound 2 ranks [#12 out of 14 total Medium Size Powered Desktop Speake
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
-- Dimensions: 11.8" x 11.8" (300 x 300mm)
+- Dimensions: 11.8" x 11.8" (300 x 300 mm)
 - Driver: 1x 5.5" + passive radiator woofer
 - EQ: Yes (via app)
 - Frequency Response: 37Hz - 22kHz

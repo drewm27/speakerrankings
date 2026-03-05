@@ -11,7 +11,7 @@ The Fugoo Sport ranks [#37 out of 131 total Medium Size Portable Bluetooth Speak
 - Positives: Pretty neutral sound, slight upper mids peaks
 - Battery Life: 10 hours
 - Bluetooth Version: 5.0
-- Dimensions: 7.5" x 3.0" x 2.5" (190 x 76 x 64mm)
+- Dimensions: 7.5" x 3.0" x 2.5" (190 x 76 x 64 mm)
 - Driver: 2x 28mm tweeters, 2x 39mm midwoofers + 2x passive radiators
 - Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67

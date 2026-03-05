@@ -26,7 +26,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 46hz
 - Bluetooth: No
 - DSP: Yes
-- Dimensions: 11.3"H x 7.2"W x 8.9"D
+- Dimensions: 11.3"H x 7.2"W x 8.9"D (287 x 182.9 x 226.1 mm)
 - Driver: 5.25" woofer, 1" titanium fabric dome tweeter
 - EQ: Yes (via DSP)
 - Frequency Response: 44Hz - 21kHz (±3dB)
@@ -48,7 +48,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 47hz
 - Bass Extension (-3dB): 59hz
 - Bluetooth: No
-- Dimensions: 11.7"H x 7.4"W x 7"D
+- Dimensions: 11.7"H x 7.4"W x 7"D (297.2 x 188 x 177.8 mm)
 - Driver: 5.1" woofer, 0.75" metal dome tweeter
 - EQ: Yes (Bass tilt, treble tilt, room response)
 - Frequency Response: 54Hz - 20kHz (±2.5dB)
@@ -70,7 +70,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 56hz
 - Bluetooth: No
-- Dimensions: 9.5"H x 5.8"W x 5.6"D
+- Dimensions: 9.5"H x 5.8"W x 5.6"D (241.3 x 147.3 x 142.2 mm)
 - Driver: 4.1" woofer, 0.75" metal dome tweeter
 - EQ: Yes (Bass tilt, desk proximity)
 - Frequency Response: 56 Hz - 25 kHz (-6 dB)
@@ -100,7 +100,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 57hz
 - Bluetooth: No
 - DSP: Yes
-- Dimensions: 13.6"H x 10.8"W x 9.6"D
+- Dimensions: 13.6"H x 10.8"W x 9.6"D (345.4 x 274.3 x 243.8 mm)
 - Driver: 4.1" woofer, 1" fabric dome tweeter
 - EQ: Yes (via DSP)
 - Frequency Response: 57 Hz - 25 kHz (+-3 dB)
@@ -149,7 +149,7 @@ Last updated: March 04, 2026
 - Positives: More neutral than the great HS5
 - App: No
 - Bluetooth: No
-- Dimensions: 12.2"H x 9.0"W x 9.4"D
+- Dimensions: 12.2"H x 9.0"W x 9.4"D (309.9 x 228.6 x 238.8 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45 Hz - 22 kHz (+-3 dB)
@@ -176,7 +176,7 @@ Last updated: March 04, 2026
 - Negatives: Possible slight hissing from the amps at low levels. Rear ported, can be an issue close to walls.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.7"H x 7.3"W x 9.1"D
+- Dimensions: 11.7"H x 7.3"W x 9.1"D (297.2 x 185.4 x 231.1 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 49 Hz - 20 kHz (+-3 dB)
@@ -205,7 +205,7 @@ Last updated: March 04, 2026
 - Positives: Better than the HS5 in terms of vocals detail and better low end.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.7"H x 7.0"W x 11.7"D
+- Dimensions: 11.7"H x 7.0"W x 11.7"D (297.2 x 177.8 x 297.2 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)
@@ -232,7 +232,7 @@ Last updated: March 04, 2026
 - Negatives: Not quite as deep of bass as some of the others in this size class. Slight midrange boost.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.2"H x 6.7"W x 8.7"D
+- Dimensions: 11.2"H x 6.7"W x 8.7"D (284.5 x 170.2 x 221 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)
@@ -259,7 +259,7 @@ Last updated: March 04, 2026
 - Negatives: More HiFi sounding than the HS5 and not quite as detailed, although with deeper bass and a more fun listen.
 - App: No
 - Bluetooth: No
-- Dimensions: 10.2"H x 7.0"W x 7.7"D
+- Dimensions: 10.2"H x 7.0"W x 7.7"D (259.1 x 177.8 x 195.6 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz
@@ -286,7 +286,7 @@ Last updated: March 04, 2026
 - Negatives: Not quite as detailed as the HS5, not as good for mixing. A little more hifi sounding
 - App: No
 - Bluetooth: No
-- Dimensions: 11.2"H x 7.5"W x 9.5"D
+- Dimensions: 11.2"H x 7.5"W x 9.5"D (284.5 x 190.5 x 241.3 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)
@@ -313,7 +313,7 @@ Last updated: March 04, 2026
 - Negatives: More HiFi sounding than a studio monitor. Not as good as the E5. Very close to the Rokit 5, but these sound slightly colored.
 - App: No
 - Bluetooth: No
-- Dimensions: 10.2"H x 7.0"W x 7.7"D
+- Dimensions: 10.2"H x 7.0"W x 7.7"D (259.1 x 177.8 x 195.6 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz
@@ -336,7 +336,7 @@ Last updated: March 04, 2026
 - Negatives: Boosted bass, more hifi sounding than neutral
 - App: No
 - Bluetooth: No
-- Dimensions: 10.4"H x 5.1"W x 6.3"D
+- Dimensions: 10.4"H x 5.1"W x 6.3"D (264.2 x 129.5 x 160 mm)
 - Driver: 2x 3.5" woofers
 - EQ: Yes (Room adjustment)
 - Frequency Response: 50 Hz - 24 kHz (-3dB)
@@ -361,7 +361,7 @@ Last updated: March 04, 2026
 - Positives: High resolution digital input up to 192khz/24bit
 - App: No
 - Bluetooth: No
-- Dimensions: 13.5"H x 7.8"W x 10.8"D
+- Dimensions: 13.5"H x 7.8"W x 10.8"D (342.9 x 198.1 x 274.3 mm)
 - Driver: 5.5" woofer
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB)
@@ -381,7 +381,7 @@ Last updated: March 04, 2026
 - Positives: High resolution digital input up to 192khz/24bit. Wifi
 - App: No
 - Bluetooth: No
-- Dimensions: 13.6"H x 7.6"W x 11.6"D
+- Dimensions: 13.6"H x 7.6"W x 11.6"D (345.4 x 193 x 294.6 mm)
 - Driver: 5.5" woofer
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB)
@@ -400,7 +400,7 @@ Last updated: March 04, 2026
 - Positives: High resolution digital input up to 192khz/24bit. Very close to the S2000MKIII, almost no reason to pay more
 - App: No
 - Bluetooth: No
-- Dimensions: 13.6"H x 7.6"W x 11.6"D
+- Dimensions: 13.6"H x 7.6"W x 11.6"D (345.4 x 193 x 294.6 mm)
 - Driver: 5.5" woofer
 - EQ: No
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
@@ -419,7 +419,7 @@ Last updated: March 04, 2026
 - Negatives: 3db dip at 500hz and a little jagged up top. Quite good off-axis
 - App: No
 - Bluetooth: No
-- Dimensions: 9.5"H x 6.1"W x 7.1"D
+- Dimensions: 9.5"H x 6.1"W x 7.1"D (241.3 x 154.9 x 180.3 mm)
 - Driver: 115mm (4.5in.) magnesium/aluminium alloy cone woofer, 19mm (0.75in.) aluminium dome tweeter
 - EQ: No
 - Inputs: Wifi, USB-C, HDMI, Optical, Bluetooth
@@ -437,7 +437,7 @@ Last updated: March 04, 2026
 - Negatives: More hifi than studio monitors
 - App: No
 - Bluetooth: No
-- Dimensions: 9.7"H x 7.4"W x 11.2"D
+- Dimensions: 9.7"H x 7.4"W x 11.2"D (246.4 x 188 x 284.5 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 56Hz-30KHz (+-3dB)
@@ -460,7 +460,7 @@ Last updated: March 04, 2026
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.75"H x 7.25"W x 10"D
+- Dimensions: 11.75"H x 7.25"W x 10"D (298.4 x 184.1 x 254 mm)
 - Driver: 5.5" woofer
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB)
@@ -479,7 +479,7 @@ Last updated: March 04, 2026
 - Negatives: Slight lacking of bass and treble, slight inverted V EQ profile
 - App: No
 - Bluetooth: No
-- Dimensions: 11.25"H x 7.5"W x 9.5"D
+- Dimensions: 11.25"H x 7.5"W x 9.5"D (285.8 x 190.5 x 241.3 mm)
 - Driver: 5" woofer
 - EQ: No
 - Frequency Response: 55Hz-40KHz (-3dB)
@@ -499,7 +499,7 @@ Last updated: March 04, 2026
 - Negatives: No Bluetooth unlike other Edifier models
 - App: No
 - Bluetooth: No
-- Dimensions: 9.0"H x 5.5"W x 7.6"D
+- Dimensions: 9.0"H x 5.5"W x 7.6"D (228.6 x 139.7 x 193 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)
@@ -525,7 +525,7 @@ Last updated: March 04, 2026
 - Negatives: more V shaped, not quite as neutral sounding as the Edifier MR4
 - App: No
 - Bluetooth: No
-- Dimensions: 10"H x 6.1"W x 8.4"D
+- Dimensions: 10"H x 6.1"W x 8.4"D (254 x 154.9 x 213.4 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)
@@ -548,7 +548,7 @@ Last updated: March 04, 2026
 - Negatives: Not quite as neutral sounding as the Edifier MR4
 - App: No
 - Bluetooth: No
-- Dimensions: 9.2"H x 5.7"W x 7.7"D
+- Dimensions: 9.2"H x 5.7"W x 7.7"D (233.7 x 144.8 x 195.6 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 55 Hz-20 kHz (-3dB)
@@ -569,7 +569,7 @@ Last updated: March 04, 2026
 - Negatives: Not a great sounding speaker for the high price.
 - App: No
 - Bluetooth: No
-- Dimensions: 9"H x 5.5"W x 6.5"D
+- Dimensions: 9"H x 5.5"W x 6.5"D (228.6 x 139.7 x 165.1 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)

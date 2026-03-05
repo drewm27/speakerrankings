@@ -12,7 +12,7 @@ The JBL 305P MKII ranks [#7 out of 24 total Medium Size Powered Bookshelf Speake
 - Negatives: Possible slight hissing from the amps at low levels. Rear ported, can be an issue close to walls.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.7"H x 7.3"W x 9.1"D
+- Dimensions: 11.7"H x 7.3"W x 9.1"D (297.2 x 185.4 x 231.1 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 49 Hz - 20 kHz (+-3 dB)

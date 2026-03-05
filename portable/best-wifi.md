@@ -29,7 +29,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 20 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
-- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94mm)
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz
@@ -63,7 +63,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: Yes
-- Dimensions: 9.3" x 7.0" x 6.1" (236 x 178 x 155mm)
+- Dimensions: 9.3" x 7.0" x 6.1" (236 x 178 x 155 mm)
 - Driver: 2x 2.5" midrange, 2x 0.75" tweeters + 6.5"x9" subwoofer
 - EQ: No
 - Frequency Response: 30Hz - 20kHz

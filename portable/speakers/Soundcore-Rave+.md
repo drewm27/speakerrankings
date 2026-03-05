@@ -15,7 +15,7 @@ The Soundcore Rave+ ranks [#37 out of 43 total Party Size Portable Bluetooth Spe
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
-- Dimensions: 55 x 32 x 31 cm
+- Dimensions: 21.65" x 12.6" x 12.2" (550 x 320 x 310 mm)
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Partycast up to 100 speakers)

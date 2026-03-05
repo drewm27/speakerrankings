@@ -14,7 +14,7 @@ The Demerbox DB2 ranks [#45 out of 67 total Boombox Size Portable Bluetooth Spea
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 270 x 246 x 175 mm
+- Dimensions: 10.63" x 9.69" x 6.89" (270 x 246 x 175 mm)
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP67

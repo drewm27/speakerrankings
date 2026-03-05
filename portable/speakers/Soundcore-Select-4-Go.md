@@ -17,7 +17,7 @@ The Soundcore Select 4 Go ranks [#20 out of 41 total Small Size Portable Bluetoo
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Charging Time: 4 hours
-- Dimensions: 121 x 83 x 48.5mm
+- Dimensions: 4.76" x 3.27" x 1.91" (121 x 83 x 48.5 mm)
 - Driver: 1.75" full range
 - EQ: Yes
 - Frequency Response: 90Hz - 20kHz

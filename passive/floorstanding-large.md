@@ -20,7 +20,7 @@ Last updated: March 04, 2026
 - Positives: Amazing in terms of soundstage and imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. One of the highest sensitivity speakers around. Open baffle mids, highs and bass (using GR-Research Open baffle subs). If you have not heard open baffle bass, you must hear it in person, there's no going back. Amazing in terms of imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. Can easily be driven by tube amps due to the mild impedance.
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
 - Bass Extension (-3dB): <20hz (With GR-Research open baffle subwoofers)
-- Dimensions: 85"H x 17"W x 20"D (plus a subwoofer on each side)
+- Dimensions: 85"H x 17"W x 20"D (2159 x 431.8 x 508 mm) (plus a subwoofer on each side)
 - Driver: Eight 6.5" M165 open baffle woofer, Two 6.5" M165NQ open baffle midrange, GR Neo 3 Magnetic planar open baffle tweeter
 - Impedance: 8 ohms
 - Sensitivity: 94.5dB
@@ -36,7 +36,7 @@ Last updated: March 04, 2026
 - Negatives: 2dB dip at 200hz, slight resonance.
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 31hz
-- Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Dimensions: 46.6"H x 13.5"W x 14.8"D (1183.6 x 342.9 x 375.9 mm)
 - Driver: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.)  aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
@@ -54,7 +54,7 @@ Last updated: March 04, 2026
 - Positives: One of the best value floorstanders
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 38hz
-- Dimensions: 48.8"H x 15.5"W x 19.9"D
+- Dimensions: 48.8"H x 15.5"W x 19.9"D (1239.5 x 393.7 x 505.5 mm)
 - Driver: 10" woofer, 10" paper‑cone concentric midrange, 1.25" soft‑dome concentric tweeter
 - Impedance: 6 ohms
 - Sensitivity: 89dB
@@ -70,7 +70,7 @@ Last updated: March 04, 2026
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Bass Extension (-10dB): 24hz
 - Bass Extension (-3dB): 47hz
-- Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Dimensions: 46.6"H x 13.5"W x 14.8"D (1183.6 x 342.9 x 375.9 mm)
 - Driver: Dual 8” (20 cm) Aluminum Cone, Cast-frame Woofers, 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 8 ohms
 - Sensitivity: 88.5dB
@@ -86,7 +86,7 @@ Last updated: March 04, 2026
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 74hz
-- Dimensions: 50.9"H x 13.5"W x 17.6"D
+- Dimensions: 50.9"H x 13.5"W x 17.6"D (1292.9 x 342.9 x 447 mm)
 - Driver: Three 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames woofer, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
 - Sensitivity: 91dB
@@ -103,7 +103,7 @@ Last updated: March 04, 2026
 - Negatives: Vertical off axis isn't quite as good as others
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 61hz
-- Dimensions: 50.9"H x 13.5"W x 17.6"D
+- Dimensions: 50.9"H x 13.5"W x 17.6"D (1292.9 x 342.9 x 447 mm)
 - Driver: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames woofers, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
 - Sensitivity: 89.5dB
@@ -120,7 +120,7 @@ Last updated: March 04, 2026
 - Negatives: Minor 2dB dip between 1-1.5khz
 - Bass Extension (-10dB): 31hz
 - Bass Extension (-3dB): 64hz
-- Dimensions: 51"H x 12.2"W x 15.1"D
+- Dimensions: 51"H x 12.2"W x 15.1"D (1295.4 x 309.9 x 383.5 mm)
 - Driver: 4 x 165 mm (6.5 in.) hybrid aluminium cone woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 89.5dB
@@ -137,7 +137,7 @@ Last updated: March 04, 2026
 - Negatives: Vertical off aix isn't quite as good as others
 - Bass Extension (-10dB): 36hz
 - Bass Extension (-3dB): 56hz
-- Dimensions: 41.3"H x 9.8"W x 13.7"D
+- Dimensions: 41.3"H x 9.8"W x 13.7"D (1049 x 248.9 x 348 mm)
 - Driver: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames woofer, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
 - Sensitivity: 90dB
@@ -156,7 +156,7 @@ Last updated: March 04, 2026
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 60hz
-- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Dimensions: 40.3"H x 8.4"W x 12.2"D (1023.6 x 213.4 x 309.9 mm)
 - Driver: Dual 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofers, 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 4 ohms
 - Sensitivity: 87dB
@@ -173,7 +173,7 @@ Last updated: March 04, 2026
 - Negatives: Some dipped area reaching 3dB from 3khz to 7khz
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 34hz
-- Dimensions: 41.2"H x 12.6"W x 16.1"D
+- Dimensions: 41.2"H x 12.6"W x 16.1"D (1046.5 x 320 x 408.9 mm)
 - Driver: Dual 8" paper cone woofers, 8” Paper Cone midrange, 1.25" wide roll soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85.5dB
@@ -191,7 +191,7 @@ Last updated: March 04, 2026
 - Negatives: Vertical directivity isn't too great at the crossover point
 - Bass Extension (-10dB): 31hz
 - Bass Extension (-3dB): 43hz
-- Dimensions: 37.2"H x 22.2"W x 16.8"D
+- Dimensions: 37.2"H x 22.2"W x 16.8"D (944.9 x 563.9 x 426.7 mm)
 - Driver: 15” (380mm) 2216Nd-1 Dual Differential Drive® woofer, 3” (75mm) D2430K dual compression tweeter
 - Impedance: 4 ohms
 - Sensitivity: 92.5dB
@@ -224,7 +224,7 @@ Last updated: March 04, 2026
 - Negatives: 3dB dip at 270hz, 3dd dip from 800-2.5khz. Pretty good directivity. A little warm tuned
 - Bass Extension (-10dB): 29hz
 - Bass Extension (-3dB): 71hz
-- Dimensions: 43.1"H x 7.7"W x 10.6"D
+- Dimensions: 43.1"H x 7.7"W x 10.6"D (1094.7 x 195.6 x 269.2 mm)
 - Driver: Two 6.5" Aramid Fiber woofer, 6.5" Aramid Fiber midrange, 1" Aluminum Dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86.5dB
@@ -243,7 +243,7 @@ Last updated: March 04, 2026
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 70hz
-- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Dimensions: 40.3"H x 8.4"W x 12.2"D (1023.6 x 213.4 x 309.9 mm)
 - Driver: 3x 5.25" deep anodized aluminum cone woofers, 1" Aluminum Tweeter
 - Impedance: 6 ohms
 - Sensitivity: 90dB
@@ -276,7 +276,7 @@ Last updated: March 04, 2026
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 78hz
-- Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Dimensions: 40.3"H x 6.8"W x 12.4"D (1023.6 x 172.7 x 315 mm)
 - Driver: Dual 5.25" (130mm) CMMD™ woofers, 5.25" (130mm) flat-piston CMMD™ midrange, 1" (25mm) CMMD™ tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB
@@ -293,7 +293,7 @@ Last updated: March 04, 2026
 - Negatives: Can sound a little shouty with an 2dB in room peak around 4khz. Vertical off-axis isn't too great.
 - Bass Extension (-10dB): 33hz
 - Bass Extension (-3dB): 51hz
-- Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Dimensions: 40.3"H x 6.8"W x 12.4"D (1023.6 x 172.7 x 315 mm)
 - Driver: Two 5.25" Turbine Cone woofer, 1" Pinnacle Ring Radiator tweeter
 - Impedance: 4 ohms
 - Sensitivity: 86dB
@@ -311,7 +311,7 @@ Last updated: March 04, 2026
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 60hz
-- Dimensions: 40.7"H x 11.8"W x 15.3"D
+- Dimensions: 40.7"H x 11.8"W x 15.3"D (1033.8 x 299.7 x 388.6 mm)
 - Driver: 6.5” (16.5cm) Slatefiber woofer, 6.5" (16.5cm) Slatefiber midrange, 1" (25mm) TNF Al/Mg inverted dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 91dB

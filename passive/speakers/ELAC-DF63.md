@@ -12,7 +12,7 @@ The ELAC DF63 ranks [#13 out of 25 total Large Size Floorstanding Speakers](/pas
 - Negatives: 3dB dip at 270hz, 3dd dip from 800-2.5khz. Pretty good directivity. A little warm tuned
 - Bass Extension (-10dB): 29hz
 - Bass Extension (-3dB): 71hz
-- Dimensions: 43.1"H x 7.7"W x 10.6"D
+- Dimensions: 43.1"H x 7.7"W x 10.6"D (1094.7 x 195.6 x 269.2 mm)
 - Driver: Two 6.5" Aramid Fiber woofer, 6.5" Aramid Fiber midrange, 1" Aluminum Dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86.5dB

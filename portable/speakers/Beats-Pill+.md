@@ -13,7 +13,7 @@ The Beats Pill+ ranks [#123 out of 131 total Medium Size Portable Bluetooth Spea
 - Aux Input: Yes
 - Bass Extension (-10dB): 90hz
 - Built in Microphone: Yes
-- Dimensions: 2.5 x 8.27 x 2.72 in (63.6 x 210 x 69.2 mm)
+- Dimensions: 2.5" x 8.27" x 2.72" (63.6 x 210 x 69.2 mm)
 - EQ: No
 - Power Bank: Yes
 - Power Input: Lightning

@@ -12,7 +12,7 @@ The KEF R3 Meta ranks [#6 out of 48 total Large Size Bookshelf Speakers](/passiv
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
 - Bass Extension (-10dB): 37hz
 - Bass Extension (-3dB): 76hz
-- Dimensions: 16.6"H x 7.9"W x 13.2"D
+- Dimensions: 16.6"H x 7.9"W x 13.2"D (421.6 x 200.7 x 335.3 mm)
 - Driver: 6.5" Hybrid aluminum ported woofer, 5" aluminum cone midrange, 1" vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB

@@ -11,7 +11,7 @@ The Edifier R1280DB ranks [#23 out of 24 total Medium Size Powered Bookshelf Spe
 - Negatives: Not quite as neutral sounding as the Edifier MR4
 - App: No
 - Bluetooth: No
-- Dimensions: 9.2"H x 5.7"W x 7.7"D
+- Dimensions: 9.2"H x 5.7"W x 7.7"D (233.7 x 144.8 x 195.6 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 55 Hz-20 kHz (-3dB)

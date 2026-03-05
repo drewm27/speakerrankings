@@ -15,7 +15,7 @@ The JBL Authentics 500 ranks [#2 out of 2 total Large Size Powered Desktop Speak
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
-- Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7mm)
+- Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7 mm)
 - Dolby Atmos: Yes (virtual)
 - Driver: 6.5" (down-firing subwoofer), 3x 2.75" midranges, 3x 1" (25mm aluminum dome) tweeters
 - EQ: Yes

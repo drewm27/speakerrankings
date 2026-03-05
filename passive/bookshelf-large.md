@@ -23,7 +23,7 @@ Last updated: March 04, 2026
 ## #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
-- Dimensions: 24"H x 10"W x 14"D
+- Dimensions: 24"H x 10"W x 14"D (609.6 x 254 x 355.6 mm)
 - Driver: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure woofer, GR-Research Neo3 Planar Magnetic Ribbon open baffle tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
@@ -40,7 +40,7 @@ Last updated: March 04, 2026
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Configurable to short or long port depending on the bass roll-off you're looking for. Very deep bass for the size
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 52hz
-- Dimensions: 17.3"H x 8.1"W x 16.6"D
+- Dimensions: 17.3"H x 8.1"W x 16.6"D (439.4 x 205.7 x 421.6 mm)
 - Driver: 165 mm (6.5 in.) aluminium cone woofer, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 83dB
@@ -58,7 +58,7 @@ Last updated: March 04, 2026
 - Negatives: Sensitivity is pretty low.
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 40hz
-- Dimensions: 17.7"H x 9.4"W x 8.7"D
+- Dimensions: 17.7"H x 9.4"W x 8.7"D (449.6 x 238.8 x 221 mm)
 - Driver: 6.5" Purifi PTT-OEM Midwoofer, Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
 - Impedance: 6 ohms
 - Sensitivity: 82dB
@@ -75,7 +75,7 @@ Last updated: March 04, 2026
 - Positives: Extremely good directivity and frequency response, and just an insane value for the price.
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 54hz
-- Dimensions: 15.7"H x 8"W x 10.4"D
+- Dimensions: 15.7"H x 8"W x 10.4"D (398.8 x 203.2 x 264.2 mm)
 - Driver: 6" Aluminium Ceramic Cone with cast Aluminium Chassis woofer, 1" Aluminium Ceramic Dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 85dB
@@ -92,7 +92,7 @@ Last updated: March 04, 2026
 - Negatives: 2db dip at 3.7khz, 2dB dip at 8khz, 2dB treble peak up around 14khz
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 77hz
-- Dimensions: 14"H x 7.5"W x 11.5"D
+- Dimensions: 14"H x 7.5"W x 11.5"D (355.6 x 190.5 x 292.1 mm)
 - Driver: GR-Research M165 6.5" paper cone, non-resonant polymer frame woofer, GR-Research Neo3 Planar Magnetic Ribbon deep rear cup tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB
@@ -111,7 +111,7 @@ Last updated: March 04, 2026
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
 - Bass Extension (-10dB): 37hz
 - Bass Extension (-3dB): 76hz
-- Dimensions: 16.6"H x 7.9"W x 13.2"D
+- Dimensions: 16.6"H x 7.9"W x 13.2"D (421.6 x 200.7 x 335.3 mm)
 - Driver: 6.5" Hybrid aluminum ported woofer, 5" aluminum cone midrange, 1" vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
@@ -134,7 +134,7 @@ Last updated: March 04, 2026
 - Negatives: A little dipped in the treble.
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 53hz
-- Dimensions: 16.3"H x 8.3"W x 12.4"D
+- Dimensions: 16.3"H x 8.3"W x 12.4"D (414 x 210.8 x 315 mm)
 - Driver: 165 mm (6.5 in.) hybrid aluminium cone woofer, 100 mm (4 in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 85dB
@@ -154,7 +154,7 @@ Last updated: March 04, 2026
 - Negatives: Will need to be listened to off-axis, bright up top directly on axis
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 56hz
-- Dimensions: 22.5"H x 14.5"W x 16.6"D
+- Dimensions: 22.5"H x 14.5"W x 16.6"D (571.5 x 368.3 x 421.6 mm)
 - Driver: 10" Paper-pulp Cone woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 88dB
@@ -171,7 +171,7 @@ Last updated: March 04, 2026
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Bass Extension (-10dB): 43hz
 - Bass Extension (-3dB): 52hz
-- Dimensions: 18"H x 11.4"W x 13.2"D
+- Dimensions: 18"H x 11.4"W x 13.2"D (457.2 x 289.6 x 335.3 mm)
 - Driver: 8" woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 86dB
@@ -192,7 +192,7 @@ Last updated: March 04, 2026
 - Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees. Impedance drops pretty low. Vertical and horizontal off axis are just okay
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 55hz
-- Dimensions: 14.3"H x 8.7"W x 10.5"D
+- Dimensions: 14.3"H x 8.7"W x 10.5"D (363.2 x 221 x 266.7 mm)
 - Driver: 6.5" PURIFI USHINDI woofer, Custom AMT (Air Motion Transformer) tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
@@ -208,7 +208,7 @@ Last updated: March 04, 2026
 - Negatives: Some diffraction issues at 3khz and 7khz where there's some dipped areas. Vertical off-axis is just okay
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 103hz
-- Dimensions: 15.2"H x 8.3"W x 10.3"D
+- Dimensions: 15.2"H x 8.3"W x 10.3"D (386.1 x 210.8 x 261.6 mm)
 - Driver: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame woofer, 1" Beryllium dome with acoustic lens waveguide tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
@@ -225,7 +225,7 @@ Last updated: March 04, 2026
 - Negatives: Directivity issues at 500hz and 3khz
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 47hz
-- Dimensions: 20"H x 8"W x 12.5"D
+- Dimensions: 20"H x 8"W x 12.5"D (508 x 203.2 x 317.5 mm)
 - Driver: 6" Ceramic woofer, Balanced Mode Radiator 2.5" midrange, RAAL 64-10X OEM tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
@@ -271,7 +271,7 @@ Last updated: March 04, 2026
 - Negatives: Very large and heavy. A 3dB midbass dip from 100-170hz, 3dB dip at 800hz
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 41hz
-- Dimensions: 31.8"H x 11.4"W x 17.6"D
+- Dimensions: 31.8"H x 11.4"W x 17.6"D (807.7 x 289.6 x 447 mm)
 - Driver: Dual 8" woofers, 5" midrange, 28mm tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
@@ -288,7 +288,7 @@ Last updated: March 04, 2026
 - Positives: Designed for closer wall placement with the leg on the bass frequency response. Better dynamic range in the bass than the old Linton
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 77hz
-- Dimensions: 23.8"H x 11.8"W x 13.0"D
+- Dimensions: 23.8"H x 11.8"W x 13.0"D (604.5 x 299.7 x 330.2 mm)
 - Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 88dB
@@ -308,7 +308,7 @@ Last updated: March 04, 2026
 - Negatives: The spacing of the drivers makes the vertical off axis not very good
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 52hz
-- Dimensions: 22.2"H x 11.8"W x 13.0"D
+- Dimensions: 22.2"H x 11.8"W x 13.0"D (563.9 x 299.7 x 330.2 mm)
 - Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB
@@ -328,7 +328,7 @@ Last updated: March 04, 2026
 - Negatives: A bit of a hot lower treble which can be pronounced in reflective rooms. Lower treble lift from 3khz to 8khz. 3.5db peak at 7.2khz. Directivity issue around the crossover point. Toe them out about 10 degrees to tone hot lower treble. Resonance around 800hz
 - Bass Extension (-10dB): 32hz
 - Bass Extension (-3dB): 56hz
-- Dimensions: 17.4"H x 8.5"W x 14.2"D
+- Dimensions: 17.4"H x 8.5"W x 14.2"D (442 x 215.9 x 360.7 mm)
 - Driver: 18 cm MSP woofer, 28mm Esotar 2i with Hexis tweeter
 - Impedance: 4 ohms
 - Sensitivity: 82.5dB
@@ -345,7 +345,7 @@ Last updated: March 04, 2026
 - Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 53hz
-- Dimensions: 14.1"H x 8.2"W x 10.8"D
+- Dimensions: 14.1"H x 8.2"W x 10.8"D (358.1 x 208.3 x 274.3 mm)
 - Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
@@ -365,7 +365,7 @@ Last updated: March 04, 2026
 - Negatives: 3dB dip at 500hz, 3dB peak at 700hz. Not great in the vertical off-axis
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 76hz
-- Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Dimensions: 13.3"H x 7.7"W x 11.7"D (337.8 x 195.6 x 297.2 mm)
 - Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
@@ -393,7 +393,7 @@ Last updated: March 04, 2026
 - Negatives: Slight 2dB dip in bass response below 180hz, may need to be closer to wall like 2 feet. 4dB peak around 13k. Vertical directivity isn't very good.
 - Bass Extension (-10dB): 30hz
 - Bass Extension (-3dB): 56hz
-- Dimensions: 22.1"H x 11.3"W x 15.3"D
+- Dimensions: 22.1"H x 11.3"W x 15.3"D (561.3 x 287 x 388.6 mm)
 - Driver: 6.5" Black Glass Fibre Matrix Cone woofer, 4" Black Glass Fibre Matrix Cone midrange, 27x90mm AMT tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB
@@ -457,7 +457,7 @@ Last updated: March 04, 2026
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 59hz
-- Dimensions: 14.4"H x 7"W x 11"D
+- Dimensions: 14.4"H x 7"W x 11"D (365.8 x 177.8 x 279.4 mm)
 - Driver: 6.5" aluminum cone woofer, 1" soft dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
@@ -474,7 +474,7 @@ Last updated: March 04, 2026
 - Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 64hz
-- Dimensions: 13.5"H x 8.5"W x 12.125"D
+- Dimensions: 13.5"H x 8.5"W x 12.125"D (342.9 x 215.9 x 308 mm)
 - Driver: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame woofer, 1" Peerless India T26SG tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
@@ -504,7 +504,7 @@ Last updated: March 04, 2026
 - Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz. Not recommended for the price
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 54hz
-- Dimensions: 14.1"H x 7.7"W x 12.1"D
+- Dimensions: 14.1"H x 7.7"W x 12.1"D (358.1 x 195.6 x 307.3 mm)
 - Driver: 5.9" MSP (Magnesium Silicate Polymer) cone woofer, 1" Esotar soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
@@ -522,7 +522,7 @@ Last updated: March 04, 2026
 - Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 76hz
-- Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Dimensions: 13.3"H x 7.7"W x 11.7"D (337.8 x 195.6 x 297.2 mm)
 - Driver: 6.5" aramid fiber cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB
@@ -595,7 +595,7 @@ Last updated: March 04, 2026
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 75hz
-- Dimensions: 13"H x 7.5"W x 11"D
+- Dimensions: 13"H x 7.5"W x 11"D (330.2 x 190.5 x 279.4 mm)
 - Driver: 6.5" bilaminate paper cone woofer, 1" Terylene dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
@@ -614,7 +614,7 @@ Last updated: March 04, 2026
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 60hz
-- Dimensions: 17.2"H x 10.4"W x 11.8"D
+- Dimensions: 17.2"H x 10.4"W x 11.8"D (436.9 x 264.2 x 299.7 mm)
 - Driver: 5.9" Super Linear Magnet cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB
@@ -665,7 +665,7 @@ Last updated: March 04, 2026
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 70hz
-- Dimensions: 15.7"H x 8"W x 12.5"D
+- Dimensions: 15.7"H x 8"W x 12.5"D (398.8 x 203.2 x 317.5 mm)
 - Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
 - Sensitivity: 86dB
@@ -684,7 +684,7 @@ Last updated: March 04, 2026
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 73hz
-- Dimensions: 15.7"H x 8"W x 11.9"D
+- Dimensions: 15.7"H x 8"W x 11.9"D (398.8 x 203.2 x 302.3 mm)
 - Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
 - Sensitivity: 86dB

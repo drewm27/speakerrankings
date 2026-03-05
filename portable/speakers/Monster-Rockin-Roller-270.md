@@ -16,7 +16,7 @@ The Monster Rockin' Roller 270 ranks [#63 out of 67 total Boombox Size Portable 
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: No
-- Dimensions: 381 x 472 x 276 mm
+- Dimensions: 15" x 18.58" x 10.87" (381 x 472 x 276 mm)
 - EQ: Yes
 - FM Tuner: Yes
 - IP Rating: IPX4

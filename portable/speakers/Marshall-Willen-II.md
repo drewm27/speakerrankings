@@ -18,7 +18,7 @@ The Marshall Willen II ranks [#9 out of 41 total Small Size Portable Bluetooth S
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
-- Dimensions: 99 x 43 x 99mm
+- Dimensions: 3.9" x 1.69" x 3.9" (99 x 43 x 99 mm)
 - Driver: 2" full-range with dual passive radiators
 - EQ: Yes
 - Frequency Response: 75Hz - 20kHz

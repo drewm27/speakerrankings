@@ -15,7 +15,7 @@ The Ultimate Ears Miniroll ranks [#10 out of 41 total Small Size Portable Blueto
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - Charging Time: 2.3 hours
-- Dimensions: 122.67 x 105 x 48.15mm
+- Dimensions: 4.83" x 4.13" x 1.9" (122.7 x 105 x 48.1 mm)
 - Driver: 45.6mm active with passive radiator
 - EQ: No
 - IP Rating: IP67

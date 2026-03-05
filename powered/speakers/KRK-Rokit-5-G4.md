@@ -12,7 +12,7 @@ The KRK Rokit 5 G4 ranks [#11 out of 24 total Medium Size Powered Bookshelf Spea
 - Negatives: Not quite as detailed as the HS5, not as good for mixing. A little more hifi sounding
 - App: No
 - Bluetooth: No
-- Dimensions: 11.2"H x 7.5"W x 9.5"D
+- Dimensions: 11.2"H x 7.5"W x 9.5"D (284.5 x 190.5 x 241.3 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)

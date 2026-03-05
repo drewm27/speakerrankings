@@ -14,7 +14,7 @@ The Klipsch The One II ranks [#14 out of 14 total Medium Size Powered Desktop Sp
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
-- Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150mm)
+- Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150 mm)
 - Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz

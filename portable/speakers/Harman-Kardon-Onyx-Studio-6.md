@@ -18,7 +18,7 @@ The Harman Kardon Onyx Studio 6 ranks [#11 out of 67 total Boombox Size Portable
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 128 x 291 x 284 mm
+- Dimensions: 5.04" x 11.46" x 11.18" (128 x 291 x 284 mm)
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 96db

@@ -15,7 +15,7 @@ The Sony SRS-XB20 ranks [#89 out of 131 total Medium Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 7.8 x 2.68 x 2.72 in (198 x 68 x 69 mm)
+- Dimensions: 7.8" x 2.68" x 2.72" (198 x 68 x 69 mm)
 - EQ: No
 - IP Rating: IPX5
 - Party Mode: Yes (Partychain up to 100 speakers)

@@ -15,7 +15,7 @@ The B&O Beolab20 ranks [#2 out of 2 total Large Size Powered Floorstanding Speak
 - Bass Extension (-3dB): 20hz
 - Bluetooth: No
 - DSP: Yes (Digital Sound Engine)
-- Dimensions: 15.5"W x 32.3"H x 12"D
+- Dimensions: 15.5"W x 32.3"H x 12"D (393.7 x 820.4 x 304.8 mm)
 - Driver: 10" driver woofer, 5" driver midrange, 0.75" Acoustic Lens tweeter
 - EQ: Yes (Room adaptation: Free/Wall/Corner)
 - Frequency Response: 19.5Hz - 23.6kHz

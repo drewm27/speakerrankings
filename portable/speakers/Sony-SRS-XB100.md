@@ -16,7 +16,7 @@ The Sony SRS-XB100 ranks [#28 out of 41 total Small Size Portable Bluetooth Spea
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 4.5 hours
-- Dimensions: 76mm diameter x 95mm height
+- Dimensions: 2.99" diameter x 3.74" H (76 x 95 mm)
 - Driver: 46mm
 - EQ: No
 - Frequency Response: 20Hz - 20kHz

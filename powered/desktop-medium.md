@@ -25,7 +25,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Version: 4.2
-- Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150mm)
+- Dimensions: 9.9" x 5.1" x 5.9" (250 x 130 x 150 mm)
 - Driver: 4" woofer, 2x 0.75" tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
@@ -80,7 +80,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
-- Dimensions: 14.1" x 6.3" x 8.0" (359 x 159 x 203.5mm)
+- Dimensions: 14.1" x 6.3" x 8.0" (359 x 159 x 203.5 mm)
 - Driver: 2x 4" woofers, 2x 19mm silk dome tweeters
 - EQ: Yes (Bass/Treble controls)
 - Frequency Response: 54Hz - 20kHz
@@ -112,7 +112,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
-- Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4mm)
+- Dimensions: 10.5" x 6.8" x 6.6" (266.3 x 171.7 x 167.4 mm)
 - Driver: 5" full-range woofer, 2x 25mm tweeters
 - EQ: Yes
 - Frequency Response: 50Hz - 20kHz (-6dB)
@@ -145,7 +145,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
-- Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203mm)
+- Dimensions: 15.75" x 12.48" x 7.99" (400 x 317 x 203 mm)
 - Driver: 6" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 35Hz - 20kHz
@@ -175,7 +175,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: AptX, SBC
 - Bluetooth Version: 5.0
-- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200 mm)
 - Driver: 2x 5.25" woofers, Integrated in woofers midrange, 2x 1" tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 30Hz - 20kHz
@@ -206,7 +206,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
-- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200mm)
+- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200 mm)
 - Driver: 2x 5.25" woofers, Integrated in woofers midrange, 2x 1" tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 30Hz - 20kHz
@@ -234,7 +234,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
-- Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185mm)
+- Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185 mm)
 - Driver: 5.25" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
@@ -263,7 +263,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
-- Dimensions: 13.78" x 7.87" x 7.32" (350 x 203 x 188mm)
+- Dimensions: 13.78" x 7.87" x 7.32" (350 x 203 x 188 mm)
 - Driver: 5" (midrange/woofer), 1x 5" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz
@@ -293,7 +293,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
-- Dimensions: 10.24" x 6.69" x 5.91" (260 x 170 x 150mm)
+- Dimensions: 10.24" x 6.69" x 5.91" (260 x 170 x 150 mm)
 - Driver: 4" (midrange/woofer), 1x 4" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz
@@ -321,7 +321,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
-- Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150mm)
+- Dimensions: 10.24" x 6.02" x 5.91" (260 x 153 x 150 mm)
 - Driver: 4" (midrange/woofer), 1x 4" midrange, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz
@@ -353,7 +353,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
-- Dimensions: 11.8" x 11.8" (300 x 300mm)
+- Dimensions: 11.8" x 11.8" (300 x 300 mm)
 - Driver: 1x 5.5" + passive radiator woofer
 - EQ: Yes (via app)
 - Frequency Response: 37Hz - 22kHz
@@ -382,7 +382,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
-- Dimensions: 11" x 7.3" x 7.3" (280 x 186 x 186mm)
+- Dimensions: 11" x 7.3" x 7.3" (280 x 186 x 186 mm)
 - Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz
@@ -409,7 +409,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.2
-- Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150mm)
+- Dimensions: 9.1" x 5.9" x 5.9" (231 x 150 x 150 mm)
 - Driver: 4.5" woofer, 2x 2.25" full-range midranges
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz

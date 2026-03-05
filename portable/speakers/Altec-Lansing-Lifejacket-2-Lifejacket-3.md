@@ -12,7 +12,7 @@ The Altec Lansing Lifejacket 2/ Lifejacket 3 ranks [#130 out of 131 total Medium
 - Aux Input: Yes
 - Battery Life: 30 hours
 - Built in Microphone: Yes
-- Dimensions: 8 x 3.8 x 4.2 in (203.2 x 96.5 x 106.7 mm)
+- Dimensions: 8" x 3.8" x 4.2" (203.2 x 96.5 x 106.7 mm)
 - Driver: 1x 4.5" woofer
 - IP Rating: IP67
 - Power: 80W

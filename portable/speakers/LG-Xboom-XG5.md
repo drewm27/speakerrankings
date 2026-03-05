@@ -14,7 +14,7 @@ The LG Xboom XG5 ranks [#109 out of 131 total Medium Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 8.7 x 3.3 x 3.2 in (222 x 83 x 80 mm)
+- Dimensions: 8.7" x 3.3" x 3.2" (222 x 83 x 80 mm)
 - Driver: 1x 42x80mm track-type woofer + 1x passive radiator
 - IP Rating: IP67
 - Party Mode: Yes (Wireless Party Link, up to 10 speakers)

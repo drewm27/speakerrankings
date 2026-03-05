@@ -14,7 +14,7 @@ The Xdobo X8 ranks [#116 out of 131 total Medium Size Portable Bluetooth Speaker
 - Battery Life: 15 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 8.66 x 3.74 x 2.83 in (220 x 95 x 72 mm)
+- Dimensions: 8.66" x 3.74" x 2.83" (220 x 95 x 72 mm)
 - Driver: 1x 66mm full-range driver
 - IP Rating: IPX5
 - MicroSD: Yes

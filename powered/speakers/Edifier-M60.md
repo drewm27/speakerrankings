@@ -14,7 +14,7 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
 - Bass Extension (-3dB): 67hz
 - Bluetooth Codecs: SBC, LDAC
 - Bluetooth Version: 5.3
-- Dimensions: 6.6"H x 3.9"W x 5.8"D
+- Dimensions: 6.6"H x 3.9"W x 5.8"D (167.6 x 99.1 x 147.3 mm)
 - Driver: 3" woofer, 1" silk dome tweeter
 - EQ: Yes
 - Frequency Response: 55Hz - 40kHz

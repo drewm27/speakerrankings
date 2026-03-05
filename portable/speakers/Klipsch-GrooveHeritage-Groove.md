@@ -16,7 +16,7 @@ The Klipsch Groove/Heritage Groove ranks [#86 out of 131 total Medium Size Porta
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 5 x 6 x 2.6 in (127 x 152 x 67 mm)
+- Dimensions: 5" x 6" x 2.6" (127 x 152 x 67 mm)
 - Driver: 1x 3" full-range driver + 2x side-firing passive radiators
 - EQ: No
 - IP Rating: IPX4 (Groove), none (Heritage Groove)

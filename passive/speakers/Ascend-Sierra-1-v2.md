@@ -12,7 +12,7 @@ The Ascend Sierra 1 v2 ranks [#2 out of 20 total Medium Size Bookshelf Speakers]
 - Negatives: Sensitivity is quite low, not great for loud listening and needs lots of amp power
 - Bass Extension (-10dB): 39hz
 - Bass Extension (-3dB): 55hz
-- Dimensions: 14.25"H x 7.5"W x 10.5"D
+- Dimensions: 14.25"H x 7.5"W x 10.5"D (361.9 x 190.5 x 266.7 mm)
 - Driver: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings woofer, 1" aluminum/magnesium alloy dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 82dB

@@ -15,7 +15,7 @@ The Neumann KH120 MKII ranks [#1 out of 24 total Medium Size Powered Bookshelf S
 - Bass Extension (-3dB): 46hz
 - Bluetooth: No
 - DSP: Yes
-- Dimensions: 11.3"H x 7.2"W x 8.9"D
+- Dimensions: 11.3"H x 7.2"W x 8.9"D (287 x 182.9 x 226.1 mm)
 - Driver: 5.25" woofer, 1" titanium fabric dome tweeter
 - EQ: Yes (via DSP)
 - Frequency Response: 44Hz - 21kHz (±3dB)

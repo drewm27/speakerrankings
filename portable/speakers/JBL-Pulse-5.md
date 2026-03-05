@@ -15,7 +15,7 @@ The JBL Pulse 5 ranks [#43 out of 131 total Medium Size Portable Bluetooth Speak
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
-- Dimensions: 4.2" x 8.4" x 5.2" (107 x 214 x 131mm)
+- Dimensions: 4.2" x 8.4" x 5.2" (107 x 214 x 131 mm)
 - Driver: 64mm woofer, 16mm tweeter
 - EQ: Yes
 - Frequency Response: 58Hz - 20kHz

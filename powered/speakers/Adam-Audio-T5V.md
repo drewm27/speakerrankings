@@ -11,7 +11,7 @@ The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speak
 - Positives: Better than the HS5 in terms of vocals detail and better low end.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.7"H x 7.0"W x 11.7"D
+- Dimensions: 11.7"H x 7.0"W x 11.7"D (297.2 x 177.8 x 297.2 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB)

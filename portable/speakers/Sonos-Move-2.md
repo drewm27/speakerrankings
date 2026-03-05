@@ -16,7 +16,7 @@ The Sonos Move 2 ranks [#23 out of 73 total Large Size Portable Bluetooth Speake
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 9.5" x 6.3" x 5.0" (242 x 160 x 126mm)
+- Dimensions: 9.5" x 6.3" x 5.0" (242 x 160 x 126 mm)
 - Driver: mid-woofer, 2x angled tweeters
 - EQ: No
 - IP Rating: IP56

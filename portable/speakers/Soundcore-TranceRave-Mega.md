@@ -16,7 +16,7 @@ The Soundcore Trance/Rave Mega ranks [#69 out of 73 total Large Size Portable Bl
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.05" x 6.97" x 13.35" (179 x 177 x 339mm)
+- Dimensions: 7.05" x 6.97" x 13.35" (179 x 177 x 339 mm)
 - Driver: 1x 133mm woofer, 1x 51mm tweeter
 - EQ: No
 - IP Rating: IPX7

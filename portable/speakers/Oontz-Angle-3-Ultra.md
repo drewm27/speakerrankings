@@ -14,7 +14,7 @@ The Oontz Angle 3 Ultra ranks [#119 out of 131 total Medium Size Portable Blueto
 - Battery Life: 20 hours
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 6.5 x 2.8 x 2.75 in (165 x 71 x 70 mm)
+- Dimensions: 6.5" x 2.8" x 2.75" (165 x 71 x 70 mm)
 - Driver: 2x precision drivers + 1x passive bass radiator
 - IP Rating: IPX7
 - Max Volume: 86db

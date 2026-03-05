@@ -13,7 +13,7 @@ The Adam Audio T7V ranks [#16 out of 21 total Large Size Powered Bookshelf Speak
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 13.7"H x 8.3"W x 11.5"D
+- Dimensions: 13.7"H x 8.3"W x 11.5"D (348 x 210.8 x 292.1 mm)
 - Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-6dB)

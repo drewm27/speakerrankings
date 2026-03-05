@@ -16,7 +16,7 @@ The Dewalt Wearable Bluetooth Speaker ranks [#41 out of 41 total Small Size Port
 - Battery Life: 10 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
-- Dimensions: 32.8 x 50.3 x 68.3mm
+- Dimensions: 1.29" x 1.98" x 2.69" (32.8 x 50.3 x 68.3 mm)
 - EQ: No
 - IP Rating: IP56
 - Party Mode: No

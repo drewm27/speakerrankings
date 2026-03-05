@@ -15,7 +15,7 @@ The Harman Kardon Onyx Studio 4 ranks [#44 out of 73 total Large Size Portable B
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 11.4" x 11.4" x 5.1" (290 x 290 x 130mm)
+- Dimensions: 11.4" x 11.4" x 5.1" (290 x 290 x 130 mm)
 - Driver: 2x 75mm woofers, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz

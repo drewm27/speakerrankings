@@ -15,7 +15,7 @@ The JBL Partybox 300 ranks [#6 out of 43 total Party Size Portable Bluetooth Spe
 - Battery Life: 18 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
-- Dimensions: 27" x 13" x 12.7"
+- Dimensions: 27" x 13" x 12.7" (685.8 x 330.2 x 322.6 mm)
 - EQ: No
 - Frequency Response: 45Hz - 20kHz
 - Guitar Input: Yes

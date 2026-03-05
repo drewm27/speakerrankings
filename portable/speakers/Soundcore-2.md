@@ -12,7 +12,7 @@ The Soundcore 2 ranks [#78 out of 131 total Medium Size Portable Bluetooth Speak
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Version: 5.0
-- Dimensions: 6.6" x 1.9" x 2.2" (168 x 47 x 56mm)
+- Dimensions: 6.6" x 1.9" x 2.2" (168 x 47 x 56 mm)
 - Driver: 2x 38mm fullrange
 - Frequency Response: 70Hz - 20kHz
 - Power: 12W

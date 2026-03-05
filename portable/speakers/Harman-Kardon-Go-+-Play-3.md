@@ -20,7 +20,7 @@ The Harman Kardon Go + Play 3 ranks [#3 out of 67 total Boombox Size Portable Bl
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 439 x 240 x 192 mm
+- Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103db

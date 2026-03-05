@@ -14,7 +14,7 @@ The B&O Beosound Explore ranks [#104 out of 131 total Medium Size Portable Bluet
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: No
-- Dimensions: 3.19 x 4.88 x 3.19 in (81 x 124 x 81 mm)
+- Dimensions: 3.19" x 4.88" x 3.19" (81 x 124 x 81 mm)
 - Driver: 2x 1.8-inch full-range drivers
 - IP Rating: IP67
 - Max Volume: 91db

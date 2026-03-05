@@ -11,7 +11,7 @@ The Audioengine HD6 ranks [#19 out of 24 total Medium Size Powered Bookshelf Spe
 - Negatives: A bit of an accentuated treble and bass. Slight dip in the midrange.
 - App: No
 - Bluetooth: No
-- Dimensions: 11.75"H x 7.25"W x 10"D
+- Dimensions: 11.75"H x 7.25"W x 10"D (298.4 x 184.1 x 254 mm)
 - Driver: 5.5" woofer
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB)

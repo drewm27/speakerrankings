@@ -33,7 +33,7 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
-- Dimensions: 345 x 597 x 347 mm
+- Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
@@ -67,12 +67,16 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 16.38" x 37.1" x 16.0" (416 x 942 x 406 mm)
+- Driver: 2x 9" woofer, 2x 1.25" dome tweeter
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -174,7 +178,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
-- Dimensions: 319.5 x 342 x 260.4 mm
+- Dimensions: 12.58" x 13.46" x 10.25" (319.5 x 342 x 260.4 mm)
 - EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4

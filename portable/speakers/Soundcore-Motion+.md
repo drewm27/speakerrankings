@@ -19,7 +19,7 @@ The Soundcore Motion+ ranks [#3 out of 131 total Medium Size Portable Bluetooth 
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7

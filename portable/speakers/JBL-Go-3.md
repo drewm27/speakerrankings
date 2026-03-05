@@ -17,7 +17,7 @@ The JBL Go 3 ranks [#22 out of 41 total Small Size Portable Bluetooth Speakers](
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
-- Dimensions: 86 x 69 x 40mm
+- Dimensions: 3.39" x 2.72" x 1.57" (86 x 69 x 40 mm)
 - EQ: No
 - Frequency Response: 110Hz - 20kHz
 - IP Rating: IP67

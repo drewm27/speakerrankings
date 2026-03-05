@@ -27,12 +27,16 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 17.9" x 41.3" x 17.3" (455 x 1049 x 440 mm)
+- Driver: 2x 9" subwoofer, 2x 4.5" midrange, 2x 2.75" tweeter
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -57,12 +61,16 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: No
+- Dimensions: 15.6" x 43.3" x 15.3" (397 x 1050 x 390 mm)
+- Driver: 1x 12" down-firing woofer, 2x 7" midrange, 1x compression horn tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -83,12 +91,16 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 16.38" x 37.1" x 16.0" (416 x 942 x 406 mm)
+- Driver: 2x 9" woofer, 2x 1.25" dome tweeter
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -123,12 +135,16 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: No
+- Dimensions: 15.7" x 35.6" x 17.2" (399 x 905 x 436 mm)
+- Driver: 2x 8" woofer, 2x 2.75" tweeter
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -154,12 +170,16 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 16.34" x 30.28" x 14.53" (415 x 769 x 369 mm)
+- Driver: 2x 7.5" woofer, 2x 1" dome tweeter
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power: 400W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -189,12 +209,17 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, SBC
+- Bluetooth Version: 4.0
 - Built in Microphone: No
+- Dimensions: 23.1" x 30.2" x 17.8" (588 x 768 x 451 mm)
+- Driver: 2-way: 1x 15" (380mm) woofer, 1x 1" horn-loaded tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
+- Max Volume: 115 dB
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 450W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -220,12 +245,16 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 16.1" x 35.8" x 18.0" (410 x 910 x 456 mm)
+- Driver: 7 drivers: 1x 12.6"x12.6" woofer, 2x 4.7" midrange, 2x 2" tweeter, 2x 1.6" rear tweeter
 - EQ: Yes (10 band)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast up to 100 speakers)
+- Power: 148W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -251,12 +280,16 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.2
 - Built in Microphone: No
+- Dimensions: 16.5" x 43.5" x 16.9" (418 x 1106 x 428 mm)
+- Driver: 7 drivers: 1x 12.6"x12.6" woofer, 2x 3.1" midrange, 2x 1.6" tweeter, 2x 1.6" rear tweeter
 - EQ: Yes (7 band)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast up to 100 speakers)
+- Power: 139W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -280,13 +313,17 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.2
 - Built in Microphone: No
+- Dimensions: 16.1" x 34.6" x 17.3" (410 x 880 x 439 mm)
+- Driver: 9 drivers: 1x 12.6"x12.6" woofer, 2x 4.7" midrange, 2x 2" front tweeter, 2x 1.6" side tweeter, 2x 1.6" rear tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Optical Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
+- Power: 100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -310,13 +347,18 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 13.7" x 29.6" x 13.6" (347 x 751 x 346 mm)
+- Driver: 2x 8" subwoofer, 2x 1.5" dome tweeter
 - EQ: Yes (Bass and treble)
 - Guitar Input: Yes
 - IP Rating: None
+- Max Volume: 135 dB
 - MicroSD: Yes
 - Microphone Input: Yes
 - Party Mode: No
+- Power: 370W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

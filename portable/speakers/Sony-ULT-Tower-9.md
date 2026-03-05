@@ -14,12 +14,16 @@ The Sony ULT Tower 9 ranks [#7 out of 10 total Large Party Size Portable Bluetoo
 - Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 16.1" x 35.8" x 18.0" (410 x 910 x 456 mm)
+- Driver: 7 drivers: 1x 12.6"x12.6" woofer, 2x 4.7" midrange, 2x 2" tweeter, 2x 1.6" rear tweeter
 - EQ: Yes (10 band)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast up to 100 speakers)
+- Power: 148W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

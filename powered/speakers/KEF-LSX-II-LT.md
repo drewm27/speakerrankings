@@ -11,7 +11,7 @@ The KEF LSX II LT ranks [#17 out of 24 total Medium Size Powered Bookshelf Speak
 - Negatives: 3db dip at 500hz and a little jagged up top. Quite good off-axis
 - App: No
 - Bluetooth: No
-- Dimensions: 9.5"H x 6.1"W x 7.1"D
+- Dimensions: 9.5"H x 6.1"W x 7.1"D (241.3 x 154.9 x 180.3 mm)
 - Driver: 115mm (4.5in.) magnesium/aluminium alloy cone woofer, 19mm (0.75in.) aluminium dome tweeter
 - EQ: No
 - Inputs: Wifi, USB-C, HDMI, Optical, Bluetooth

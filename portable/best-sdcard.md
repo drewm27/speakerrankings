@@ -177,12 +177,16 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 17.9" x 41.3" x 17.3" (455 x 1049 x 440 mm)
+- Driver: 2x 9" subwoofer, 2x 4.5" midrange, 2x 2.75" tweeter
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes

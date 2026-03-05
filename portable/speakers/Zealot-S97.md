@@ -16,7 +16,7 @@ The Zealot S97 ranks [#43 out of 73 total Large Size Portable Bluetooth Speakers
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151mm)
+- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
 - EQ: 3 EQ presets
 - Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX6

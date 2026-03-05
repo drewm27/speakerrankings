@@ -13,7 +13,7 @@ The Ultimate Ears Megaboom 4 ranks [#127 out of 131 total Medium Size Portable B
 - Battery Life: 20 hours
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 3.43 x 3.43 x 8.86 in (87 x 87 x 225 mm)
+- Dimensions: 3.43" x 3.43" x 8.86" (87 x 87 x 225 mm)
 - Driver: 2x 50x50mm full-range + 2x 55x86mm passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67

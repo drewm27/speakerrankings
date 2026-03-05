@@ -11,7 +11,7 @@ The Presonus Eris E5 ranks [#10 out of 24 total Medium Size Powered Bookshelf Sp
 - Negatives: More HiFi sounding than the HS5 and not quite as detailed, although with deeper bass and a more fun listen.
 - App: No
 - Bluetooth: No
-- Dimensions: 10.2"H x 7.0"W x 7.7"D
+- Dimensions: 10.2"H x 7.0"W x 7.7"D (259.1 x 177.8 x 195.6 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz

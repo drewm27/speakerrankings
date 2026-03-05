@@ -16,7 +16,7 @@ The Ultimate Ears Hyperboom ranks [#24 out of 43 total Party Size Portable Bluet
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Charging Time: 2.6 hours
-- Dimensions: 190 x 190 x 364 mm
+- Dimensions: 7.48" x 7.48" x 14.33" (190 x 190 x 364 mm)
 - Driver: 2x 5.66" woofers, 2x 0.98" tweeters, passive radiators
 - EQ: No
 - IP Rating: None

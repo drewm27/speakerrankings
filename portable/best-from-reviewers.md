@@ -69,7 +69,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72mm)
+- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72 mm)
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
@@ -108,7 +108,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz
@@ -152,7 +152,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 400 x 150 x 215 mm
+- Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -266,7 +266,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
@@ -302,7 +302,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Bluetooth Latency: 50ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.1" x 6.3" x 2.8" (180 x 161 x 70mm)
+- Dimensions: 7.1" x 6.3" x 2.8" (180 x 161 x 70 mm)
 - Driver: 3" woofer, 2x 2" fullrange tweeters
 - EQ: No
 - Frequency Response: 60Hz - 20kHz
@@ -338,7 +338,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 439 x 240 x 192 mm
+- Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103db

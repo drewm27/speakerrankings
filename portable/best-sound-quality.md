@@ -79,7 +79,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72mm)
+- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72 mm)
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
@@ -116,7 +116,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50mm)
+- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50 mm)
 - Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz
@@ -157,7 +157,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
@@ -197,7 +197,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz
@@ -239,7 +239,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102mm)
+- Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102 mm)
 - Driver: 120mm x 90mm woofer, 2x 20mm tweeters
 - EQ: Yes
 - Frequency Response: 45Hz - 20kHz
@@ -286,7 +286,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 400 x 150 x 215 mm
+- Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -356,7 +356,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 66ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 400 x 160 x 230 mm
+- Dimensions: 15.75" x 6.3" x 9.06" (400 x 160 x 230 mm)
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
@@ -424,7 +424,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 439 x 240 x 192 mm
+- Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103db
@@ -492,12 +492,16 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.3
 - Built in Microphone: No
+- Dimensions: 17.9" x 41.3" x 17.3" (455 x 1049 x 440 mm)
+- Driver: 2x 9" subwoofer, 2x 4.5" midrange, 2x 2.75" tweeter
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -522,12 +526,16 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 16.38" x 37.1" x 16.0" (416 x 942 x 406 mm)
+- Driver: 2x 9" woofer, 2x 1.25" dome tweeter
 - EQ: Yes (5 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast)
+- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -565,7 +573,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
-- Dimensions: 345 x 597 x 347 mm
+- Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43

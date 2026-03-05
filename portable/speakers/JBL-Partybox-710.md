@@ -14,12 +14,16 @@ The JBL Partybox 710 ranks [#4 out of 10 total Large Party Size Portable Bluetoo
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.1
 - Built in Microphone: No
+- Dimensions: 15.7" x 35.6" x 17.2" (399 x 905 x 436 mm)
+- Driver: 2x 8" woofer, 2x 2.75" tweeter
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

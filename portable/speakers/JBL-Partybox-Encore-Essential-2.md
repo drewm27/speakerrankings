@@ -16,7 +16,7 @@ The JBL Partybox Encore Essential 2 ranks [#5 out of 67 total Boombox Size Porta
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
-- Dimensions: 319.5 x 342 x 260.4 mm
+- Dimensions: 12.58" x 13.46" x 10.25" (319.5 x 342 x 260.4 mm)
 - EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4

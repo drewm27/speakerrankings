@@ -15,7 +15,7 @@ The Bumpboxx Flare 8 ranks [#51 out of 67 total Boombox Size Portable Bluetooth 
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 711 x 203 x 406 mm
+- Dimensions: 27.99" x 7.99" x 15.98" (711 x 203 x 406 mm)
 - EQ: Yes
 - FM Tuner: Yes
 - Max Volume: 118db

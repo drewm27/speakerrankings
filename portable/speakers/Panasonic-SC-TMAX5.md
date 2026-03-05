@@ -14,7 +14,7 @@ The Panasonic SC-TMAX5 ranks [#35 out of 43 total Party Size Portable Bluetooth 
 - Aux Input: Yes
 - Bass Extension (-10dB): ~57hz
 - Bluetooth Codecs: SBC
-- Dimensions: 475 x 250 x 265 mm
+- Dimensions: 18.7" x 9.84" x 10.43" (475 x 250 x 265 mm)
 - Driver: 160mm woofer, 50mm tweeter
 - EQ: No
 - IP Rating: None

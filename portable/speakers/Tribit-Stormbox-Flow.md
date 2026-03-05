@@ -14,7 +14,7 @@ The Tribit Stormbox Flow ranks [#50 out of 131 total Medium Size Portable Blueto
 - Battery Life: 30 hours
 - Bluetooth Latency: 400ms aac, 200ms sbc
 - Bluetooth Version: 5.3
-- Dimensions: 7.9" x 3.6" x 2.1" (200 x 91 x 53mm)
+- Dimensions: 7.9" x 3.6" x 2.1" (200 x 91 x 53 mm)
 - EQ: Yes
 - Frequency Response: 50Hz - 20kHz
 - Power: 25W

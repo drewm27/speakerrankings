@@ -12,7 +12,7 @@ The Focal Alpha 65 EVO ranks [#10 out of 21 total Large Size Powered Bookshelf S
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 13.4"H x 10.3"W x 11.4"D
+- Dimensions: 13.4"H x 10.3"W x 11.4"D (340.4 x 261.6 x 289.6 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 40Hz – 22kHz (+-3dB)

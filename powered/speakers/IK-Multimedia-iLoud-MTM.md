@@ -12,7 +12,7 @@ The IK Multimedia iLoud MTM ranks [#13 out of 24 total Medium Size Powered Books
 - Negatives: Boosted bass, more hifi sounding than neutral
 - App: No
 - Bluetooth: No
-- Dimensions: 10.4"H x 5.1"W x 6.3"D
+- Dimensions: 10.4"H x 5.1"W x 6.3"D (264.2 x 129.5 x 160 mm)
 - Driver: 2x 3.5" woofers
 - EQ: Yes (Room adjustment)
 - Frequency Response: 50 Hz - 24 kHz (-3dB)

@@ -19,7 +19,7 @@ The Soundcore Motion Boom+ ranks [#43 out of 67 total Boombox Size Portable Blue
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 384 x 130 x 196 mm
+- Dimensions: 15.12" x 5.12" x 7.72" (384 x 130 x 196 mm)
 - EQ: Yes (App EQ)
 - IP Rating: IP67
 - Max Volume: 108db

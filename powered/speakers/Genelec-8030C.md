@@ -14,7 +14,7 @@ The Genelec 8030C ranks [#2 out of 24 total Medium Size Powered Bookshelf Speake
 - Bass Extension (-10dB): 47hz
 - Bass Extension (-3dB): 59hz
 - Bluetooth: No
-- Dimensions: 11.7"H x 7.4"W x 7"D
+- Dimensions: 11.7"H x 7.4"W x 7"D (297.2 x 188 x 177.8 mm)
 - Driver: 5.1" woofer, 0.75" metal dome tweeter
 - EQ: Yes (Bass tilt, treble tilt, room response)
 - Frequency Response: 54Hz - 20kHz (±2.5dB)

@@ -30,7 +30,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Codecs: AAC, aptX Adaptive
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 5.2" x 1.8" x 5.2" (133 x 46 x 133mm)
+- Dimensions: 5.2" x 1.8" x 5.2" (133 x 46 x 133 mm)
 - Driver: 82.5mm woofer, 15mm tweeter
 - EQ: Yes
 - IP Rating: IP67
@@ -59,7 +59,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 11.2" x 7.4" x 5.1" (285 x 187 x 130mm)
+- Dimensions: 11.2" x 7.4" x 5.1" (285 x 187 x 130 mm)
 - Driver: 5.25" woofer, 2x 2" fullrange, 0.8" tweeter
 - EQ: No
 - Frequency Response: 32Hz - 23kHz

@@ -16,7 +16,7 @@ The Teufel Rockster Cross ranks [#20 out of 73 total Large Size Portable Bluetoo
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 15.0" x 6.3" x 5.1" (380 x 160 x 130mm)
+- Dimensions: 15.0" x 6.3" x 5.1" (380 x 160 x 130 mm)
 - Driver: 5" woofer, 2x textile dome tweeters + 2x passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz

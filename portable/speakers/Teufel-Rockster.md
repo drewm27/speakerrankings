@@ -14,12 +14,17 @@ The Teufel Rockster ranks [#6 out of 10 total Large Party Size Portable Bluetoot
 - Aux Input: Yes
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, SBC
+- Bluetooth Version: 4.0
 - Built in Microphone: No
+- Dimensions: 23.1" x 30.2" x 17.8" (588 x 768 x 451 mm)
+- Driver: 2-way: 1x 15" (380mm) woofer, 1x 1" horn-loaded tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
+- Max Volume: 115 dB
 - Microphone Input: Yes
 - Party Mode: Yes
+- Power: 450W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes

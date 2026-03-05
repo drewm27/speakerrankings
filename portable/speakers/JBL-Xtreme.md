@@ -15,7 +15,7 @@ The JBL Xtreme ranks [#49 out of 73 total Large Size Portable Bluetooth Speakers
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 11.14" x 4.96" x 4.8" (283 x 126 x 122mm)
+- Dimensions: 11.14" x 4.96" x 4.8" (283 x 126 x 122 mm)
 - Driver: 2x 63mm woofers, 2x 35mm tweeters
 - EQ: No
 - Frequency Response: 70Hz - 20kHz

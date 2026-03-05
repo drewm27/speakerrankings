@@ -14,7 +14,7 @@ The IK Multimedia iLoud Micro Monitor ranks [#2 out of 8 total Small Size Powere
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 55hz
 - Bluetooth: Yes (A2DP)
-- Dimensions: 7.1"H x 3.5"W x 5.3"D
+- Dimensions: 7.1"H x 3.5"W x 5.3"D (180.3 x 88.9 x 134.6 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: Yes (Bass/Treble switches, Desktop/Free field)
 - Frequency Response: 55Hz - 20kHz (-3dB)

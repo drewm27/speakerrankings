@@ -11,7 +11,7 @@ The ATC SCM19 ranks [#37 out of 48 total Large Size Bookshelf Speakers](/passive
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 60hz
-- Dimensions: 17.2"H x 10.4"W x 11.8"D
+- Dimensions: 17.2"H x 10.4"W x 11.8"D (436.9 x 264.2 x 299.7 mm)
 - Driver: 5.9" Super Linear Magnet cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB

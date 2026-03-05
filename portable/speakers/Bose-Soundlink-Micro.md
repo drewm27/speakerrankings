@@ -18,7 +18,7 @@ The Bose Soundlink Micro ranks [#16 out of 41 total Small Size Portable Bluetoot
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 98 x 98 x 35mm
+- Dimensions: 3.86" x 3.86" x 1.38" (98 x 98 x 35 mm)
 - Driver: 40mm with dual passive radiators
 - EQ: No
 - IP Rating: IP67

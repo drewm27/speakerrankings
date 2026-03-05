@@ -18,7 +18,7 @@ The JBL Clip 3 ranks [#31 out of 41 total Small Size Portable Bluetooth Speakers
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 97 x 137 x 46mm
+- Dimensions: 3.82" x 5.39" x 1.81" (97 x 137 x 46 mm)
 - EQ: No
 - Frequency Response: 120Hz - 20kHz
 - IP Rating: None

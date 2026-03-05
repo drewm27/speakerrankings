@@ -20,7 +20,7 @@ If you absolutely can't live without an internal battery and need the best sound
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
-- Dimensions: 345 x 597 x 347 mm
+- Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43

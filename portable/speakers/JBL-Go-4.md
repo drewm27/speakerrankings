@@ -18,7 +18,7 @@ The JBL Go 4 ranks [#21 out of 41 total Small Size Portable Bluetooth Speakers](
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 94.3 x 75.7 x 42.2mm
+- Dimensions: 3.71" x 2.98" x 1.66" (94.3 x 75.7 x 42.2 mm)
 - Driver: 45mm
 - EQ: Yes
 - Frequency Response: 90Hz - 20kHz

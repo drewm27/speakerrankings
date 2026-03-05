@@ -11,7 +11,7 @@ The Audioengine HD4 ranks [#24 out of 24 total Medium Size Powered Bookshelf Spe
 - Negatives: Not a great sounding speaker for the high price.
 - App: No
 - Bluetooth: No
-- Dimensions: 9"H x 5.5"W x 6.5"D
+- Dimensions: 9"H x 5.5"W x 6.5"D (228.6 x 139.7 x 165.1 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)

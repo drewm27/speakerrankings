@@ -11,7 +11,7 @@ The Xiaomi Mi Portable ranks [#57 out of 131 total Medium Size Portable Bluetoot
 - Negatives: A bit of a sharp treble
 - Battery Life: 13 hours
 - Bluetooth Version: 5.0
-- Dimensions: 8.4" x 2.9" x 2.9" (213 x 74 x 74mm)
+- Dimensions: 8.4" x 2.9" x 2.9" (213 x 74 x 74 mm)
 - Frequency Response: 80Hz - 20kHz
 - Power: 16W
 - Weight: 0.82lbs / 373g

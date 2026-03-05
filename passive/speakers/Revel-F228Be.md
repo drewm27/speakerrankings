@@ -12,7 +12,7 @@ The Revel F228Be ranks [#6 out of 25 total Large Size Floorstanding Speakers](/p
 - Negatives: Vertical off axis isn't quite as good as others
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 61hz
-- Dimensions: 50.9"H x 13.5"W x 17.6"D
+- Dimensions: 50.9"H x 13.5"W x 17.6"D (1292.9 x 342.9 x 447 mm)
 - Driver: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames woofers, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms
 - Sensitivity: 89.5dB

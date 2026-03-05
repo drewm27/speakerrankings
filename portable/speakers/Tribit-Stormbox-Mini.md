@@ -14,7 +14,7 @@ The Tribit Stormbox Mini ranks [#110 out of 131 total Medium Size Portable Bluet
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 3.58 x 3.58 x 4.68 in (91 x 91 x 119 mm)
+- Dimensions: 3.58" x 3.58" x 4.68" (91 x 91 x 119 mm)
 - Driver: 2x 48mm 6W full-range drivers + 1x passive radiator
 - IP Rating: IPX7
 - Lights: Yes

@@ -17,7 +17,7 @@ The Harman Kardon Neo ranks [#38 out of 41 total Small Size Portable Bluetooth S
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 3 hours
-- Dimensions: 110 x 110 x 34.1mm
+- Dimensions: 4.33" x 4.33" x 1.34" (110 x 110 x 34.1 mm)
 - EQ: No
 - Frequency Response: 130Hz - 20kHz
 - IP Rating: None

@@ -16,7 +16,7 @@ The Bogasing S8 Pro ranks [#58 out of 73 total Large Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.67" x 2.09" x 2.87" (271 x 53 x 73mm)
+- Dimensions: 10.67" x 2.09" x 2.87" (271 x 53 x 73 mm)
 - EQ: No
 - Frequency Response: 48Hz - 20kHz
 - IP Rating: IPX5

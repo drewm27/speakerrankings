@@ -13,7 +13,7 @@ The Zealot S61 ranks [#129 out of 131 total Medium Size Portable Bluetooth Speak
 - Battery Life: 40 hours
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 4.06 x 4.06 x 6.7 in (103 x 103 x 170 mm)
+- Dimensions: 4.06" x 4.06" x 6.7" (103 x 103 x 170 mm)
 - Driver: 1x 66mm full-range
 - IP Rating: IPX7
 - Power: 20W

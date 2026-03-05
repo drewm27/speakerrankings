@@ -17,7 +17,7 @@ The Cleer Audio Scene ranks [#29 out of 131 total Medium Size Portable Bluetooth
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 8.5" x 3.0" x 3.5" (217 x 76 x 89mm)
+- Dimensions: 8.5" x 3.0" x 3.5" (217 x 76 x 89 mm)
 - Driver: 2x 48mm neodymium dome drivers + 2x passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz

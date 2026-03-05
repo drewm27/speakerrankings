@@ -15,7 +15,7 @@ The B&O Beosound A1 3rd gen ranks [#18 out of 131 total Medium Size Portable Blu
 - Bluetooth Codecs: AAC, aptX Adaptive
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 5.2" x 1.8" x 5.2" (133 x 46 x 133mm)
+- Dimensions: 5.2" x 1.8" x 5.2" (133 x 46 x 133 mm)
 - Driver: 82.5mm woofer, 15mm tweeter
 - EQ: Yes
 - IP Rating: IP67

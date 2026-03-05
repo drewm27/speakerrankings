@@ -15,7 +15,7 @@ The Audioengine HD3 ranks [#4 out of 8 total Small Size Powered Bookshelf Speake
 - Bluetooth: Yes
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
-- Dimensions: 9"H x 5.5"W x 6.5"D
+- Dimensions: 9"H x 5.5"W x 6.5"D (228.6 x 139.7 x 165.1 mm)
 - Driver: 2.75" woofer, 0.75" silk dome tweeter
 - EQ: No
 - Frequency Response: 65 Hz-20 kHz (-3dB)

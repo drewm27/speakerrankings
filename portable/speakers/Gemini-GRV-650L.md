@@ -16,7 +16,7 @@ The Gemini GRV-650L ranks [#33 out of 67 total Boombox Size Portable Bluetooth S
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 277 x 260 x 366 mm
+- Dimensions: 10.91" x 10.24" x 14.41" (277 x 260 x 366 mm)
 - EQ: No
 - FM Tuner: Yes
 - Max Volume: 104db

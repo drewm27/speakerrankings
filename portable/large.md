@@ -28,7 +28,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 6.1" x 8.3" x 2.8" (156 x 210 x 70mm)
+- Dimensions: 6.1" x 8.3" x 2.8" (156 x 210 x 70 mm)
 - Driver: 2x 50mm fullrange, 2x 66mm woofers + 2x passive radiators
 - EQ: No
 - Frequency Response: 58Hz - 18kHz
@@ -59,7 +59,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz
@@ -101,7 +101,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: Yes
-- Dimensions: 9.3" x 7.0" x 6.1" (236 x 178 x 155mm)
+- Dimensions: 9.3" x 7.0" x 6.1" (236 x 178 x 155 mm)
 - Driver: 2x 2.5" midrange, 2x 0.75" tweeters + 6.5"x9" subwoofer
 - EQ: No
 - Frequency Response: 30Hz - 20kHz
@@ -232,7 +232,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 10.6" x 7.1" x 3.5" (268 x 181 x 90mm)
+- Dimensions: 10.6" x 7.1" x 3.5" (268 x 181 x 90 mm)
 - Driver: 2x 50mm fullrange, 2x 80mm woofers + passive radiators
 - EQ: No
 - Frequency Response: 55Hz - 20kHz
@@ -265,7 +265,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 185ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 11.5" x 6.5" x 4.8" (293 x 165.8 x 121.8mm)
+- Dimensions: 11.5" x 6.5" x 4.8" (293 x 165.8 x 121.8 mm)
 - Driver: 2x 70mm woofers, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -299,7 +299,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102mm)
+- Dimensions: 11.7" x 7.3" x 4.0" (297 x 185 x 102 mm)
 - Driver: 120mm x 90mm woofer, 2x 20mm tweeters
 - EQ: Yes
 - Frequency Response: 45Hz - 20kHz
@@ -342,7 +342,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 50ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.1" x 6.3" x 2.8" (180 x 161 x 70mm)
+- Dimensions: 7.1" x 6.3" x 2.8" (180 x 161 x 70 mm)
 - Driver: 3" woofer, 2x 2" fullrange tweeters
 - EQ: No
 - Frequency Response: 60Hz - 20kHz
@@ -372,7 +372,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 11.2" x 7.4" x 5.1" (285 x 187 x 130mm)
+- Dimensions: 11.2" x 7.4" x 5.1" (285 x 187 x 130 mm)
 - Driver: 5.25" woofer, 2x 2" fullrange, 0.8" tweeter
 - EQ: No
 - Frequency Response: 32Hz - 23kHz
@@ -402,7 +402,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 7.0" x 8.6" x 6.8" (178 x 219 x 172mm)
+- Dimensions: 7.0" x 8.6" x 6.8" (178 x 219 x 172 mm)
 - Driver: 5" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 40Hz - 20kHz
@@ -436,7 +436,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 170ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 13.6" x 7.9" x 5.8" (346 x 200 x 148mm)
+- Dimensions: 13.6" x 7.9" x 5.8" (346 x 200 x 148 mm)
 - Driver: 2x 63.5mm titanium fullrange drivers + 2x passive radiators
 - EQ: Yes
 - Frequency Response: 20Hz - 40kHz
@@ -480,7 +480,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 13.6" x 5.8" x 7.9" (346 x 148 x 200mm)
+- Dimensions: 13.6" x 5.8" x 7.9" (346 x 148 x 200 mm)
 - Driver: 2x 2.75" fullrange + 2x 2.5" passive radiators
 - EQ: Yes
 - IP Rating: IPX7
@@ -508,7 +508,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 10.1" x 5.6" x 1.7" (256 x 142 x 44mm)
+- Dimensions: 10.1" x 5.6" x 1.7" (256 x 142 x 44 mm)
 - Driver: 2x 3" fullrange woofers, 2x 0.75" tweeters + 2x 3" passive radiators
 - EQ: No
 - Frequency Response: 55Hz - 22kHz
@@ -538,7 +538,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 116ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 10.4" x 4.7" x 4.1" (264.7 x 120.1 x 104.9mm)
+- Dimensions: 10.4" x 4.7" x 4.1" (264.7 x 120.1 x 104.9 mm)
 - Driver: 3-transducer Bose Articulated Array
 - EQ: No
 - IP Rating: IP67
@@ -571,7 +571,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 133ms
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 11.7" x 5.4" x 5.3" (298 x 136 x 134mm)
+- Dimensions: 11.7" x 5.4" x 5.3" (298 x 136 x 134 mm)
 - Driver: 2x 70mm woofers, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 53.5Hz - 20kHz
@@ -617,7 +617,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 83ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 11.8" x 4.8" x 3.2" (300 x 121 x 81mm)
+- Dimensions: 11.8" x 4.8" x 3.2" (300 x 121 x 81 mm)
 - Driver: 2x 60mm woofers, 2x 27mm tweeters, 1x 50mm upward-firing driver
 - EQ: No
 - Frequency Response: 50Hz - 40kHz
@@ -653,7 +653,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.8" x 6.1" x 11.8" (198 x 154 x 299mm)
+- Dimensions: 7.8" x 6.1" x 11.8" (198 x 154 x 299 mm)
 - Driver: 4" woofer, 2x 2" tweeters
 - EQ: Yes
 - IP Rating: IPX7
@@ -684,7 +684,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 15.0" x 6.3" x 5.1" (380 x 160 x 130mm)
+- Dimensions: 15.0" x 6.3" x 5.1" (380 x 160 x 130 mm)
 - Driver: 5" woofer, 2x textile dome tweeters + 2x passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -715,7 +715,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
-- Dimensions: 9.1" x 3.9" x 3.4" (231 x 99 x 86mm)
+- Dimensions: 9.1" x 3.9" x 3.4" (231 x 99 x 86 mm)
 - EQ: No
 - IP Rating: IP67
 - Party Mode: Yes (up to 2 speakers)
@@ -740,7 +740,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 8.7" x 8.0" x 3.2" (220 x 202 x 81mm)
+- Dimensions: 8.7" x 8.0" x 3.2" (220 x 202 x 81 mm)
 - Driver: 2x forward-facing drivers, 1x upward-firing driver
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz
@@ -768,7 +768,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 9.5" x 6.3" x 5.0" (242 x 160 x 126mm)
+- Dimensions: 9.5" x 6.3" x 5.0" (242 x 160 x 126 mm)
 - Driver: mid-woofer, 2x angled tweeters
 - EQ: No
 - IP Rating: IP56
@@ -795,7 +795,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 4.1" x 4.1" (310 x 103 x 103mm)
+- Dimensions: 12.2" x 4.1" x 4.1" (310 x 103 x 103 mm)
 - Driver: 2x tweeters, 2x midrange/bass drivers + 2x passive radiators
 - EQ: Yes (Bass boost 3 steps)
 - IP Rating: IPX5
@@ -829,7 +829,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 9.4" x 6.3" x 5.0" (240 x 160 x 126mm)
+- Dimensions: 9.4" x 6.3" x 5.0" (240 x 160 x 126 mm)
 - Driver: mid-woofer, downward-firing tweeter
 - EQ: No
 - IP Rating: IP56
@@ -860,7 +860,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 9.1" x 3.9" x 4.3" (230 x 98 x 110mm)
+- Dimensions: 9.1" x 3.9" x 4.3" (230 x 98 x 110 mm)
 - Driver: 2x 75mm woofers, 2x 0.625" tweeters + 2x passive radiators
 - EQ: Yes (5 band)
 - Frequency Response: 50Hz - 20kHz
@@ -889,7 +889,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.5" x 6.0" x 14.5" (191 x 152 x 368mm)
+- Dimensions: 7.5" x 6.0" x 14.5" (191 x 152 x 368 mm)
 - Driver: 2x woofers, 2x tweeters + 2x passive radiators
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
 - IP Rating: IPX6
@@ -943,7 +943,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 9.1" x 3.7" x 4.3" (230 x 95 x 109mm)
+- Dimensions: 9.1" x 3.7" x 4.3" (230 x 95 x 109 mm)
 - Driver: 2x 75mm woofers, 2x 0.625" tweeters + 2x passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -979,7 +979,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 8.1" x 3.3" x 4.3" (205 x 85 x 110mm)
+- Dimensions: 8.1" x 3.3" x 4.3" (205 x 85 x 110 mm)
 - Driver: 2x 56.6mm x 56.2mm fullrange transducers + 2x passive radiators
 - EQ: Yes
 - IP Rating: IP67
@@ -1097,7 +1097,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 220ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 11.7" x 5.9" x 5.6" (297 x 149 x 141mm)
+- Dimensions: 11.7" x 5.9" x 5.6" (297 x 149 x 141 mm)
 - Driver: 2x 70mm woofers, 2x 19mm tweeters + 2x passive radiators
 - EQ: Yes (5 band)
 - Frequency Response: 44Hz - 20kHz
@@ -1164,7 +1164,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 11.3" x 4.5" x 3.8" (288 x 115 x 97mm)
+- Dimensions: 11.3" x 4.5" x 3.8" (288 x 115 x 97 mm)
 - Driver: 4x tweeters, 2x midwoofers + 2x passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -1195,7 +1195,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 6.9" x 7.6" x 5.5" (176 x 193 x 139mm)
+- Dimensions: 6.9" x 7.6" x 5.5" (176 x 193 x 139 mm)
 - Driver: 4x aluminum fullrange drivers, 2x woofers
 - EQ: No
 - Frequency Response: 30Hz - 20kHz
@@ -1229,7 +1229,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 85ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 12.8" x 4.8" x 4.6" (325 x 123 x 117mm)
+- Dimensions: 12.8" x 4.8" x 4.6" (325 x 123 x 117 mm)
 - EQ: No
 - Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX7
@@ -1289,7 +1289,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 11.3" x 5.4" x 4.2" (287 x 137 x 107mm)
+- Dimensions: 11.3" x 5.4" x 4.2" (287 x 137 x 107 mm)
 - Driver: 2x 70mm woofers, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 55Hz - 20kHz
@@ -1343,7 +1343,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151mm)
+- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
 - EQ: 3 EQ presets
 - Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX6
@@ -1370,7 +1370,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 11.4" x 11.4" x 5.1" (290 x 290 x 130mm)
+- Dimensions: 11.4" x 11.4" x 5.1" (290 x 290 x 130 mm)
 - Driver: 2x 75mm woofers, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -1400,7 +1400,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 4.3" x 10.0" x 4.3" (110 x 254 x 110mm)
+- Dimensions: 4.3" x 10.0" x 4.3" (110 x 254 x 110 mm)
 - Driver: 2x 45mm fullrange
 - EQ: No
 - Frequency Response: 70Hz - 20kHz
@@ -1428,7 +1428,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 5.79" x 5.79" x 7.68" (147 x 147 x 195mm)
+- Dimensions: 5.79" x 5.79" x 7.68" (147 x 147 x 195 mm)
 - EQ: No
 - Frequency Response: 20Hz - 18kHz
 - IP Rating: IPX7
@@ -1481,7 +1481,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 11.25" x 7.04" x 5.9" (286 x 179 x 150mm)
+- Dimensions: 11.25" x 7.04" x 5.9" (286 x 179 x 150 mm)
 - Driver: 1x 115mm woofer, 2x 53mm mid-tweeters, 1x 31mm tweeter
 - EQ: No
 - Frequency Response: 40Hz - 20kHz
@@ -1509,7 +1509,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 11.14" x 4.96" x 4.8" (283 x 126 x 122mm)
+- Dimensions: 11.14" x 4.96" x 4.8" (283 x 126 x 122 mm)
 - Driver: 2x 63mm woofers, 2x 35mm tweeters
 - EQ: No
 - Frequency Response: 70Hz - 20kHz
@@ -1541,7 +1541,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 11.8" x 2.6" x 5.2" (300 x 66 x 132mm)
+- Dimensions: 11.8" x 2.6" x 5.2" (300 x 66 x 132 mm)
 - Driver: 1x 76mm subwoofer, 2x 50mm fullrange
 - EQ: No
 - Frequency Response: 40Hz - 20kHz
@@ -1571,7 +1571,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 13.1" x 4.2" x 4.68" (334 x 107 x 119mm)
+- Dimensions: 13.1" x 4.2" x 4.68" (334 x 107 x 119 mm)
 - Driver: 2x 76mm fullrange, 2x 25mm tweeters
 - EQ: No
 - Frequency Response: 55Hz - 20kHz
@@ -1602,7 +1602,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 12.52" x 5.43" x 5.35" (318 x 138 x 136mm)
+- Dimensions: 12.52" x 5.43" x 5.35" (318 x 138 x 136 mm)
 - Driver: 2x X-Balanced woofers, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 20Hz - 20kHz
@@ -1633,7 +1633,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 11.8" x 4.3" x 5.3" (300 x 110 x 134mm)
+- Dimensions: 11.8" x 4.3" x 5.3" (300 x 110 x 134 mm)
 - Driver: 2x 80mm woofers, 2x 52mm tweeters
 - EQ: No
 - Frequency Response: 20Hz - 20kHz
@@ -1661,7 +1661,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 4.69" x 9.49" x 6.38" (119 x 241 x 162mm)
+- Dimensions: 4.69" x 9.49" x 6.38" (119 x 241 x 162 mm)
 - Driver: 1x 120mm woofer, 2x 45mm tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -1690,7 +1690,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.6" x 5.4" x 1.9" (269 x 138 x 47mm)
+- Dimensions: 10.6" x 5.4" x 1.9" (269 x 138 x 47 mm)
 - Driver: 2x 89mm woofers, 2x 21mm tweeters
 - EQ: No
 - Frequency Response: 49Hz - 23kHz
@@ -1720,7 +1720,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 13.7" x 9.1" x 2.2" (348 x 230 x 56mm)
+- Dimensions: 13.7" x 9.1" x 2.2" (348 x 230 x 56 mm)
 - Driver: 2x 102mm woofers, 1x 51mm fullrange, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 39Hz - 23kHz
@@ -1772,7 +1772,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.67" x 2.09" x 2.87" (271 x 53 x 73mm)
+- Dimensions: 10.67" x 2.09" x 2.87" (271 x 53 x 73 mm)
 - EQ: No
 - Frequency Response: 48Hz - 20kHz
 - IP Rating: IPX5
@@ -1800,7 +1800,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 13.1" x 5.0" x 6.4" (333 x 127 x 163mm)
+- Dimensions: 13.1" x 5.0" x 6.4" (333 x 127 x 163 mm)
 - Driver: 2x 63mm woofers
 - EQ: No
 - IP Rating: IPX7
@@ -1855,7 +1855,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 4.72" x 12.4" x 4.72" (120 x 315 x 120mm)
+- Dimensions: 4.72" x 12.4" x 4.72" (120 x 315 x 120 mm)
 - EQ: No
 - Frequency Response: 80Hz - 16kHz
 - IP Rating: IPX6
@@ -1884,7 +1884,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 11.0" x 6.9" x 6.7" (280 x 175 x 170mm)
+- Dimensions: 11.0" x 6.9" x 6.7" (280 x 175 x 170 mm)
 - Driver: 1x 102mm woofer, 2x 51mm tweeters
 - EQ: No
 - Frequency Response: 35Hz - 20kHz
@@ -1911,7 +1911,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 10.4" x 6.3" x 6.1" (265 x 160 x 155mm)
+- Dimensions: 10.4" x 6.3" x 6.1" (265 x 160 x 155 mm)
 - Driver: 1x 102mm woofer, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -1939,7 +1939,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 5.3" x 5.6" (310 x 135 x 143mm)
+- Dimensions: 12.2" x 5.3" x 5.6" (310 x 135 x 143 mm)
 - Driver: 2x 75mm woofers, 2x 30mm tweeters
 - EQ: No
 - Frequency Response: 30Hz - 16kHz
@@ -1965,7 +1965,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 10.3" x 3.7" x 3.9" (261 x 95 x 98mm)
+- Dimensions: 10.3" x 3.7" x 3.9" (261 x 95 x 98 mm)
 - Driver: 1x racetrack woofer, 1x dome tweeter
 - EQ: No
 - IP Rating: IPX7
@@ -1989,7 +1989,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 9.6" x 3.9" x 3.9" (245 x 98 x 98mm)
+- Dimensions: 9.6" x 3.9" x 3.9" (245 x 98 x 98 mm)
 - Driver: 2x 58mm fullrange
 - EQ: No
 - IP Rating: IPX7
@@ -2018,7 +2018,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170mm)
+- Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170 mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
@@ -2068,7 +2068,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.05" x 6.97" x 13.35" (179 x 177 x 339mm)
+- Dimensions: 7.05" x 6.97" x 13.35" (179 x 177 x 339 mm)
 - Driver: 1x 133mm woofer, 1x 51mm tweeter
 - EQ: No
 - IP Rating: IPX7
@@ -2094,7 +2094,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150mm)
+- Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150 mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No
@@ -2118,7 +2118,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 12.7" x 4.8" x 7.3" (323 x 120 x 184mm)
+- Dimensions: 12.7" x 4.8" x 7.3" (323 x 120 x 184 mm)
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -2143,7 +2143,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 11.6" x 4.8" x 5.2" (294 x 122 x 132mm)
+- Dimensions: 11.6" x 4.8" x 5.2" (294 x 122 x 132 mm)
 - EQ: No
 - Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX6
@@ -2170,7 +2170,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 4.6" x 4.75" x 11.1" (117 x 121 x 283mm)
+- Dimensions: 4.6" x 4.75" x 11.1" (117 x 121 x 283 mm)
 - Driver: 2x 76mm fullrange
 - EQ: No
 - Frequency Response: 70Hz - 20kHz

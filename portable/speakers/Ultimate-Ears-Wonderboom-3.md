@@ -16,7 +16,7 @@ The Ultimate Ears Wonderboom 3 ranks [#81 out of 131 total Medium Size Portable 
 - Bluetooth Latency: 166ms
 - Bluetooth Version: 5.2
 - Built in Microphone: No
-- Dimensions: 4.09 x 3.75 in (104 x 95.3 mm)
+- Dimensions: 4.09" x 3.75" (104 x 95.3 mm)
 - Driver: 2x 40mm active drivers + 2x passive radiators (46.1 x 65.2mm)
 - EQ: No
 - IP Rating: IP67

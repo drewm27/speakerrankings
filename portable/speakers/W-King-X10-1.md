@@ -16,7 +16,7 @@ The W-King X10-1 ranks [#57 out of 67 total Boombox Size Portable Bluetooth Spea
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 315 x 140 x 135 mm
+- Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
 - Max Volume: 108db

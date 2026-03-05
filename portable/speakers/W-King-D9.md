@@ -16,7 +16,7 @@ The W-King D9 ranks [#61 out of 73 total Large Size Portable Bluetooth Speakers]
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 4.72" x 12.4" x 4.72" (120 x 315 x 120mm)
+- Dimensions: 4.72" x 12.4" x 4.72" (120 x 315 x 120 mm)
 - EQ: No
 - Frequency Response: 80Hz - 16kHz
 - IP Rating: IPX6

@@ -28,7 +28,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered/best/) if yo
 - Negatives: 2dB dip at 200hz, slight resonance.
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 31hz
-- Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Dimensions: 46.6"H x 13.5"W x 14.8"D (1183.6 x 342.9 x 375.9 mm)
 - Driver: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.)  aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
@@ -46,7 +46,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered/best/) if yo
 - Positives: One of the best value floorstanders
 - Bass Extension (-10dB): 25hz
 - Bass Extension (-3dB): 38hz
-- Dimensions: 48.8"H x 15.5"W x 19.9"D
+- Dimensions: 48.8"H x 15.5"W x 19.9"D (1239.5 x 393.7 x 505.5 mm)
 - Driver: 10" woofer, 10" paper‑cone concentric midrange, 1.25" soft‑dome concentric tweeter
 - Impedance: 6 ohms
 - Sensitivity: 89dB
@@ -63,7 +63,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered/best/) if yo
 - Negatives: Some dipped area reaching 3dB from 3khz to 7khz
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 34hz
-- Dimensions: 41.2"H x 12.6"W x 16.1"D
+- Dimensions: 41.2"H x 12.6"W x 16.1"D (1046.5 x 320 x 408.9 mm)
 - Driver: Dual 8" paper cone woofers, 8” Paper Cone midrange, 1.25" wide roll soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85.5dB
@@ -81,7 +81,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered/best/) if yo
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 70hz
-- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Dimensions: 40.3"H x 8.4"W x 12.2"D (1023.6 x 213.4 x 309.9 mm)
 - Driver: 3x 5.25" deep anodized aluminum cone woofers, 1" Aluminum Tweeter
 - Impedance: 6 ohms
 - Sensitivity: 90dB
@@ -114,7 +114,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 ### The best [large size passive bookshelf](/passive/bookshelf-large/) speakers with the best sound quality are the [**GR-Research NX-Studio**](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
-- Dimensions: 24"H x 10"W x 14"D
+- Dimensions: 24"H x 10"W x 14"D (609.6 x 254 x 355.6 mm)
 - Driver: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure woofer, GR-Research Neo3 Planar Magnetic Ribbon open baffle tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
@@ -131,7 +131,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Positives: Extremely good directivity and frequency response, and just an insane value for the price.
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 54hz
-- Dimensions: 15.7"H x 8"W x 10.4"D
+- Dimensions: 15.7"H x 8"W x 10.4"D (398.8 x 203.2 x 264.2 mm)
 - Driver: 6" Aluminium Ceramic Cone with cast Aluminium Chassis woofer, 1" Aluminium Ceramic Dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 85dB
@@ -148,7 +148,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Negatives: 3dB dip at 500hz, 3dB peak at 700hz. Not great in the vertical off-axis
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 76hz
-- Dimensions: 13.3"H x 7.7"W x 11.7"D
+- Dimensions: 13.3"H x 7.7"W x 11.7"D (337.8 x 195.6 x 297.2 mm)
 - Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB
@@ -179,7 +179,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 75hz
-- Dimensions: 13"H x 7.5"W x 11"D
+- Dimensions: 13"H x 7.5"W x 11"D (330.2 x 190.5 x 279.4 mm)
 - Driver: 6.5" bilaminate paper cone woofer, 1" Terylene dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB

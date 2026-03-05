@@ -18,7 +18,7 @@ The JBL Flip 6 ranks [#12 out of 131 total Medium Size Portable Bluetooth Speake
 - Bluetooth Latency: 116ms
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 6.9" x 2.7" x 2.8" (176 x 68 x 72mm)
+- Dimensions: 6.9" x 2.7" x 2.8" (176 x 68 x 72 mm)
 - Driver: 44mm x 80mm woofer, 16mm tweeter
 - EQ: Yes (3 band)
 - IP Rating: IP67

@@ -14,12 +14,16 @@ The Sony ULT Tower 10 ranks [#8 out of 10 total Large Party Size Portable Blueto
 - Aux Input: Yes
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.2
 - Built in Microphone: No
+- Dimensions: 16.5" x 43.5" x 16.9" (418 x 1106 x 428 mm)
+- Driver: 7 drivers: 1x 12.6"x12.6" woofer, 2x 3.1" midrange, 2x 1.6" tweeter, 2x 1.6" rear tweeter
 - EQ: Yes (7 band)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Party Mode: Yes (Auracast up to 100 speakers)
+- Power: 139W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

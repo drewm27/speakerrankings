@@ -11,7 +11,7 @@ The Klipsch RP-600M ranks [#42 out of 48 total Large Size Bookshelf Speakers](/p
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
 - Bass Extension (-10dB): 40hz
 - Bass Extension (-3dB): 73hz
-- Dimensions: 15.7"H x 8"W x 11.9"D
+- Dimensions: 15.7"H x 8"W x 11.9"D (398.8 x 203.2 x 302.3 mm)
 - Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
 - Sensitivity: 86dB

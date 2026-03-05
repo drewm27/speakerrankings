@@ -12,7 +12,7 @@ The Infinity Reference 253 ranks [#16 out of 25 total Large Size Floorstanding S
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
 - Bass Extension (-10dB): 38hz
 - Bass Extension (-3dB): 78hz
-- Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Dimensions: 40.3"H x 6.8"W x 12.4"D (1023.6 x 172.7 x 315 mm)
 - Driver: Dual 5.25" (130mm) CMMD™ woofers, 5.25" (130mm) flat-piston CMMD™ midrange, 1" (25mm) CMMD™ tweeter
 - Impedance: 6 ohms
 - Sensitivity: 87dB

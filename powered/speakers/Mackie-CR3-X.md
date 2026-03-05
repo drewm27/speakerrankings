@@ -13,7 +13,7 @@ The Mackie CR3-X ranks [#8 out of 8 total Small Size Powered Bookshelf Speakers]
 - Bass Extension (-10dB): 70hz
 - Bass Extension (-3dB): 80hz
 - Bluetooth: No
-- Dimensions: 8.1"H x 5.5"W x 7.1"D
+- Dimensions: 8.1"H x 5.5"W x 7.1"D (205.7 x 139.7 x 180.3 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: No
 - Frequency Response: 80 Hz-20 kHz (-3dB)

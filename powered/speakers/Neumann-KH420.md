@@ -15,7 +15,7 @@ The Neumann KH420 ranks [#2 out of 21 total Large Size Powered Bookshelf Speaker
 - Bass Extension (-3dB): 32hz
 - Bluetooth: No
 - DSP: No
-- Dimensions: 25.4"H x 13"W x 17.5"D
+- Dimensions: 25.4"H x 13"W x 17.5"D (645.2 x 330.2 x 444.5 mm)
 - Driver: 10" woofer, 4" dome midrange, 1" fabric dome tweeter
 - EQ: Yes (Room response controls)
 - Frequency Response: 31Hz - 21kHz (±3dB)

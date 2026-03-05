@@ -12,7 +12,7 @@ The KEF Q Concerto Meta ranks [#7 out of 48 total Large Size Bookshelf Speakers]
 - Negatives: A little dipped in the treble.
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 53hz
-- Dimensions: 16.3"H x 8.3"W x 12.4"D
+- Dimensions: 16.3"H x 8.3"W x 12.4"D (414 x 210.8 x 315 mm)
 - Driver: 165 mm (6.5 in.) hybrid aluminium cone woofer, 100 mm (4 in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 85dB

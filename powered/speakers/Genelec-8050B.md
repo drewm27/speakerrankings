@@ -13,7 +13,7 @@ The Genelec 8050B ranks [#6 out of 21 total Large Size Powered Bookshelf Speaker
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 17.8"H x 11.3"W x 10.9"D
+- Dimensions: 17.8"H x 11.3"W x 10.9"D (452.1 x 287 x 276.9 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 32Hz – 25kHz (-6dB)

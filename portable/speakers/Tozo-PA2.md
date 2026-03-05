@@ -14,7 +14,7 @@ The Tozo PA2 ranks [#102 out of 131 total Medium Size Portable Bluetooth Speaker
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.09 x 2.76 x 2.99 in (180 x 70 x 76 mm)
+- Dimensions: 7.09" x 2.76" x 2.99" (180 x 70 x 76 mm)
 - Driver: 2x 1.7-inch full-range drivers + 2x passive radiators (44x49mm each)
 - EQ: Yes (16 EQ modes via app)
 - IP Rating: IPX8

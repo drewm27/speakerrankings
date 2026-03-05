@@ -14,7 +14,7 @@ The Walla Sound ranks [#121 out of 131 total Medium Size Portable Bluetooth Spea
 - Battery Life: 8 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 2.68 x 2.68 x 6.3 in (68 x 68 x 160 mm)
+- Dimensions: 2.68" x 2.68" x 6.3" (68 x 68 x 160 mm)
 - Driver: 1x 30mm metal diaphragm driver
 - IP Rating: IPX5
 - MicroSD: Yes

@@ -16,7 +16,7 @@ The Tribit Xsound Plus 2 ranks [#32 out of 131 total Medium Size Portable Blueto
 - Battery Life: 24 hours
 - Bluetooth Latency: SBC 233ms, AAC 240ms
 - Bluetooth Version: 5.3
-- Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66mm)
+- Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66 mm)
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 99db

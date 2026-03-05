@@ -16,7 +16,7 @@ The Tribit Stormbox 2 ranks [#77 out of 131 total Medium Size Portable Bluetooth
 - Bluetooth Latency: 400ms AAC, 400ms SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.09" x 2.72" x 2.72" (180 x 69 x 69mm)
+- Dimensions: 7.09" x 2.72" x 2.72" (180 x 69 x 69 mm)
 - Driver: 2x 48mm fullrange
 - EQ: Yes
 - Frequency Response: 70Hz - 20kHz

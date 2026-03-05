@@ -15,7 +15,7 @@ The Muzen Wild Mini ranks [#35 out of 41 total Small Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 60.8 x 37.5 x 77.9mm
+- Dimensions: 2.39" x 1.48" x 3.07" (60.8 x 37.5 x 77.9 mm)
 - EQ: No
 - Frequency Response: 80Hz - 18kHz
 - IP Rating: IPX5

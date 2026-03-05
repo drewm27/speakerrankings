@@ -15,7 +15,7 @@ The Samsung MX-ST50B ranks [#17 out of 43 total Party Size Portable Bluetooth Sp
 - Battery Life: 18 hours
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Version: 5.0
-- Dimensions: 329 x 665 x 301 mm
+- Dimensions: 12.95" x 26.18" x 11.85" (329 x 665 x 301 mm)
 - Driver: 2x 6.5" woofers, 2x 2.5" tweeters
 - EQ: Yes
 - IP Rating: IPX5

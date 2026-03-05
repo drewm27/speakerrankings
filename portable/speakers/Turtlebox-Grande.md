@@ -16,7 +16,7 @@ The Turtlebox Grande ranks [#50 out of 67 total Boombox Size Portable Bluetooth 
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 355.6 x 213.4 x 292.1 mm
+- Dimensions: 14" x 8.4" x 11.5" (355.6 x 213.4 x 292.1 mm)
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes

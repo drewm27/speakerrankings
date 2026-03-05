@@ -16,7 +16,7 @@ The Doss Soundbox XL ranks [#50 out of 73 total Large Size Portable Bluetooth Sp
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 11.8" x 2.6" x 5.2" (300 x 66 x 132mm)
+- Dimensions: 11.8" x 2.6" x 5.2" (300 x 66 x 132 mm)
 - Driver: 1x 76mm subwoofer, 2x 50mm fullrange
 - EQ: No
 - Frequency Response: 40Hz - 20kHz

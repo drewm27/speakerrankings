@@ -11,7 +11,7 @@ The Neumi Silk 4 ranks [#14 out of 20 total Medium Size Bookshelf Speakers](/pas
 - Negatives: A small resonance around 650hz, not very loud or dynamic due to the low sensitivity. 3dB bump around 1khz
 - Bass Extension (-10dB): 55hz
 - Bass Extension (-3dB): 83hz
-- Dimensions: 8.9"H x 5.5"W x 8.2"D
+- Dimensions: 8.9"H x 5.5"W x 8.2"D (226.1 x 139.7 x 208.3 mm)
 - Driver: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole woofer, 1” silk dome, dispersion-optimized waveguide, neodymium magnet tweeter
 - Impedance: 6 ohms
 - Sensitivity: 82.5dB

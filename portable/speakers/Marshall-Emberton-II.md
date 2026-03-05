@@ -17,7 +17,7 @@ The Marshall Emberton II ranks [#95 out of 131 total Medium Size Portable Blueto
 - Bluetooth Latency: 80ms
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 6.3 x 2.7 x 3.0 in (160 x 68 x 76 mm)
+- Dimensions: 6.3" x 2.7" x 3.0" (160 x 68 x 76 mm)
 - Driver: 2x 2" full-range drivers + 2x passive radiators
 - EQ: Yes (3 presets via app)
 - IP Rating: IP67

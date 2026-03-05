@@ -18,7 +18,7 @@ The JBL Xtreme 3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
 - Bluetooth Latency: 133ms
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 11.7" x 5.4" x 5.3" (298 x 136 x 134mm)
+- Dimensions: 11.7" x 5.4" x 5.3" (298 x 136 x 134 mm)
 - Driver: 2x 70mm woofers, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 53.5Hz - 20kHz

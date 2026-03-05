@@ -17,7 +17,7 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.8" x 6.1" x 11.8" (198 x 154 x 299mm)
+- Dimensions: 7.8" x 6.1" x 11.8" (198 x 154 x 299 mm)
 - Driver: 4" woofer, 2x 2" tweeters
 - EQ: Yes
 - IP Rating: IPX7

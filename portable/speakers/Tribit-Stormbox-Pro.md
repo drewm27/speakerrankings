@@ -14,7 +14,7 @@ The Tribit Stormbox Pro ranks [#41 out of 131 total Medium Size Portable Bluetoo
 - Battery Life: 24 hours
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 5.3
-- Dimensions: 3.8" x 3.8" x 7.1" (96 x 96 x 180mm)
+- Dimensions: 3.8" x 3.8" x 7.1" (96 x 96 x 180 mm)
 - Driver: 76mm subwoofer, 2x 40mm full-range drivers + 2x passive radiators
 - Frequency Response: 60Hz - 20kHz
 - IP Rating: IPX7

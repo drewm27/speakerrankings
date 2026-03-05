@@ -14,7 +14,7 @@ The Ultimate Ears Boom 4 ranks [#84 out of 131 total Medium Size Portable Blueto
 - Battery Life: 15 hours
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 7.24 x 2.9 x 2.9 in (184 x 73 x 73 mm)
+- Dimensions: 7.24" x 2.9" x 2.9" (184 x 73 x 73 mm)
 - Driver: 2x 1.57" (40mm) active drivers + 2x 1.81" x 2.57" (46.1 x 65.2mm) passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67

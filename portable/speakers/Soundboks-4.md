@@ -16,7 +16,7 @@ The Soundboks 4 ranks [#21 out of 43 total Party Size Portable Bluetooth Speaker
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
-- Dimensions: 25.6" x 17" x 13"
+- Dimensions: 25.6" x 17" x 13" (650.2 x 431.8 x 330.2 mm)
 - Driver: 2x 10" woofers, 1" compression driver
 - EQ: Yes
 - Frequency Response: 40Hz - 20kHz

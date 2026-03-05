@@ -12,7 +12,7 @@ The KEF R11 Meta ranks [#7 out of 25 total Large Size Floorstanding Speakers](/p
 - Negatives: Minor 2dB dip between 1-1.5khz
 - Bass Extension (-10dB): 31hz
 - Bass Extension (-3dB): 64hz
-- Dimensions: 51"H x 12.2"W x 15.1"D
+- Dimensions: 51"H x 12.2"W x 15.1"D (1295.4 x 309.9 x 383.5 mm)
 - Driver: 4 x 165 mm (6.5 in.) hybrid aluminium cone woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 89.5dB

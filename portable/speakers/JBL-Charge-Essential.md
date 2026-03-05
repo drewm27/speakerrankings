@@ -12,7 +12,7 @@ The JBL Charge Essential ranks [#67 out of 131 total Medium Size Portable Blueto
 - App: No
 - Battery Life: 20 hours
 - Bluetooth Version: 4.1
-- Dimensions: 8.39" x 3.50" x 3.43" (213 x 89 x 87mm)
+- Dimensions: 8.39" x 3.50" x 3.43" (213 x 89 x 87 mm)
 - Driver: 2x 50mm fullrange
 - EQ: No
 - Frequency Response: 65Hz - 20kHz

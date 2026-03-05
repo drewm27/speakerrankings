@@ -13,7 +13,7 @@ The Bogasing M5 ranks [#53 out of 131 total Medium Size Portable Bluetooth Speak
 - Bass Extension (-10dB): 61hz
 - Battery Life: 30 hours
 - Bluetooth Version: 5.3
-- Dimensions: 6.30" x 2.99" x 2.79" (160 x 76 x 71mm)
+- Dimensions: 6.30" x 2.99" x 2.79" (160 x 76 x 71 mm)
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 96db

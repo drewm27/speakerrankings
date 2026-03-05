@@ -15,7 +15,7 @@ The Tronsmart T7 ranks [#91 out of 131 total Medium Size Portable Bluetooth Spea
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 8.5 x 3.07 in (216 x 78 mm)
+- Dimensions: 8.5" x 3.07" (216 x 78 mm)
 - EQ: Yes (6 modes via app)
 - IP Rating: IPX7
 - MicroSD: Yes

@@ -11,7 +11,7 @@ The Focal Chora 816 ranks [#18 out of 25 total Large Size Floorstanding Speakers
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 60hz
-- Dimensions: 40.7"H x 11.8"W x 15.3"D
+- Dimensions: 40.7"H x 11.8"W x 15.3"D (1033.8 x 299.7 x 388.6 mm)
 - Driver: 6.5” (16.5cm) Slatefiber woofer, 6.5" (16.5cm) Slatefiber midrange, 1" (25mm) TNF Al/Mg inverted dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 91dB

@@ -13,7 +13,7 @@ The Sonos Roam 2 ranks [#69 out of 131 total Medium Size Portable Bluetooth Spea
 - Bass Extension (-10dB): 63hz
 - Battery Life: 10 hours
 - Bluetooth Version: 5.2
-- Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60mm)
+- Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60 mm)
 - Max Volume: 95db
 - Stereo: No
 - Weight: 0.95lbs / 429g

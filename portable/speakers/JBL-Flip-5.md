@@ -13,7 +13,7 @@ The JBL Flip 5 ranks [#61 out of 131 total Medium Size Portable Bluetooth Speake
 - Battery Life: 12 hours
 - Bluetooth Latency: 200ms
 - Bluetooth Version: 4.2
-- Dimensions: 7.13" x 2.72" x 2.91" (181 x 69 x 74mm)
+- Dimensions: 7.13" x 2.72" x 2.91" (181 x 69 x 74 mm)
 - Driver: 1x 44x80mm fullrange
 - Frequency Response: 65Hz - 20kHz
 - Max Volume: 92db

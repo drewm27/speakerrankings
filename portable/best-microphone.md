@@ -76,7 +76,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72mm)
+- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72 mm)
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
@@ -113,7 +113,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50mm)
+- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50 mm)
 - Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz
@@ -154,7 +154,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
@@ -194,7 +194,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz
@@ -240,7 +240,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 400 x 150 x 215 mm
+- Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67

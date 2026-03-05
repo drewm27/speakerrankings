@@ -12,7 +12,7 @@ The KEF Blade Two Meta ranks [#2 out of 25 total Large Size Floorstanding Speake
 - Negatives: 2dB dip at 200hz, slight resonance.
 - Bass Extension (-10dB): 26hz
 - Bass Extension (-3dB): 31hz
-- Dimensions: 46.6"H x 13.5"W x 14.8"D
+- Dimensions: 46.6"H x 13.5"W x 14.8"D (1183.6 x 342.9 x 375.9 mm)
 - Driver: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.)  aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB

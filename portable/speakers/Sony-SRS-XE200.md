@@ -13,7 +13,7 @@ The Sony SRS-XE200 ranks [#105 out of 131 total Medium Size Portable Bluetooth S
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 3.54 x 8.19 x 3.70 in (90 x 208 x 94 mm)
+- Dimensions: 3.54" x 8.19" x 3.70" (90 x 208 x 94 mm)
 - Driver: 1x 42x51mm full-range + 2x passive radiators
 - IP Rating: IP67
 - Party Mode: Yes (Partyconnect up to 100 speakers)

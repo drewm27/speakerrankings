@@ -12,7 +12,7 @@ The Tribit Xsound Surf ranks [#76 out of 131 total Medium Size Portable Bluetoot
 - Aux Input: Yes
 - Battery Life: 10 hours
 - Bluetooth Version: 5.0
-- Dimensions: 7.01" x 2.24" x 2.13" (178 x 57 x 54mm)
+- Dimensions: 7.01" x 2.24" x 2.13" (178 x 57 x 54 mm)
 - Frequency Response: 70Hz - 20kHz
 - Power: 12W RMS
 - Stereo: Yes

@@ -12,7 +12,7 @@ The KRK Classic 5 ranks [#18 out of 24 total Medium Size Powered Bookshelf Speak
 - Negatives: More hifi than studio monitors
 - App: No
 - Bluetooth: No
-- Dimensions: 9.7"H x 7.4"W x 11.2"D
+- Dimensions: 9.7"H x 7.4"W x 11.2"D (246.4 x 188 x 284.5 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 56Hz-30KHz (+-3dB)

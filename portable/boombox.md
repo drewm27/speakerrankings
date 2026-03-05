@@ -30,7 +30,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 400 x 150 x 215 mm
+- Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -100,7 +100,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 66ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 400 x 160 x 230 mm
+- Dimensions: 15.75" x 6.3" x 9.06" (400 x 160 x 230 mm)
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
@@ -168,7 +168,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 120ms
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 439 x 240 x 192 mm
+- Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103db
@@ -202,7 +202,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
-- Dimensions: 319.5 x 338.6 x 263 mm
+- Dimensions: 12.58" x 13.33" x 10.35" (319.5 x 338.6 x 263 mm)
 - EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
@@ -237,7 +237,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: No
-- Dimensions: 319.5 x 342 x 260.4 mm
+- Dimensions: 12.58" x 13.46" x 10.25" (319.5 x 342 x 260.4 mm)
 - EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -270,7 +270,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 100ms
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 276 x 327 x 293 mm
+- Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
@@ -311,7 +311,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 100ms
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 276 x 327 x 293 mm
+- Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110db
@@ -370,7 +370,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: aptX HD
 - Bluetooth Version: 4.1
 - Built in Microphone: No
-- Dimensions: 268 x 90 x 362 mm
+- Dimensions: 10.55" x 3.54" x 14.25" (268 x 90 x 362 mm)
 - EQ: No
 - IP Rating: None
 - Party Mode: No
@@ -402,7 +402,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 175ms
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 268 x 302.5 x 159.5 mm
+- Dimensions: 10.55" x 11.91" x 6.28" (268 x 302.5 x 159.5 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 96db
@@ -434,7 +434,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 128 x 291 x 284 mm
+- Dimensions: 5.04" x 11.46" x 11.18" (128 x 291 x 284 mm)
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 96db
@@ -538,6 +538,7 @@ Last updated: March 04, 2026
 - Weight: 16lbs / 7.3kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Zealot S89 vs Yeahbox Boom Max3 - indoor listening test](https://www.patreon.com/posts/zealot-s89-vs-152136699)
+    - [Oluv: Zealot S89 vs Yeahbox Sonic Boom Max3 - outdoor test](https://www.patreon.com/posts/zealot-s89-vs-152225331)
     - [Dominik Reviews: Zealot S89 vs JBL Boombox 4 - JBL Alternative? Sound Test ](https://www.youtube.com/watch?v=ft96mq3SKgY)
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S89!!!](https://www.youtube.com/watch?v=4wfkO78OKvk)
     - [Techder Audios: ZEALOT S89 VS ZEALOT ZE01 EXTREME POWERFULL VS COMPACTER BASS PERFORMANCE!](https://www.youtube.com/watch?v=6MkVOVJZL_w)
@@ -1125,7 +1126,7 @@ Last updated: March 04, 2026
 - Battery Life: 9 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 277 x 260 x 366 mm
+- Dimensions: 10.91" x 10.24" x 14.41" (277 x 260 x 366 mm)
 - EQ: No
 - FM Tuner: Yes
 - Max Volume: 104db
@@ -1209,7 +1210,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 512 x 224 x 222 mm
+- Dimensions: 20.16" x 8.82" x 8.74" (512 x 224 x 222 mm)
 - EQ: Yes (App + ULT button)
 - Guitar Input: Yes
 - IP Rating: IP67
@@ -1236,7 +1237,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 430 x 200 x 210 mm
+- Dimensions: 16.93" x 7.87" x 8.27" (430 x 200 x 210 mm)
 - EQ: No
 - IP Rating: IPX6
 - Microphone Input: Yes
@@ -1346,7 +1347,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 460 x 256 x 215 mm
+- Dimensions: 18.11" x 10.08" x 8.46" (460 x 256 x 215 mm)
 - EQ: Yes (App + ClearAudio+)
 - IP Rating: IP66
 - Output Power: 2x 25W + 2x 10W
@@ -1405,7 +1406,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 5.3
 - Built in Microphone: No
-- Dimensions: 384 x 130 x 196 mm
+- Dimensions: 15.12" x 5.12" x 7.72" (384 x 130 x 196 mm)
 - EQ: Yes (App EQ)
 - IP Rating: IP67
 - Max Volume: 108db
@@ -1460,7 +1461,7 @@ Last updated: March 04, 2026
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 270 x 246 x 175 mm
+- Dimensions: 10.63" x 9.69" x 6.89" (270 x 246 x 175 mm)
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP67
@@ -1604,7 +1605,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 355.6 x 213.4 x 292.1 mm
+- Dimensions: 14" x 8.4" x 11.5" (355.6 x 213.4 x 292.1 mm)
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
@@ -1630,7 +1631,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 711 x 203 x 406 mm
+- Dimensions: 27.99" x 7.99" x 15.98" (711 x 203 x 406 mm)
 - EQ: Yes
 - FM Tuner: Yes
 - Max Volume: 118db
@@ -1708,7 +1709,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 300 x 230 x 380 mm
+- Dimensions: 11.81" x 9.06" x 14.96" (300 x 230 x 380 mm)
 - EQ: No
 - FM Tuner: Yes
 - MicroSD: Yes
@@ -1782,7 +1783,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 315 x 140 x 135 mm
+- Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
 - Max Volume: 108db
@@ -1810,7 +1811,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 315 x 140 x 135 mm
+- Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - FM Tuner: No
 - IP Rating: IPX6
@@ -1937,7 +1938,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: No
-- Dimensions: 381 x 472 x 276 mm
+- Dimensions: 15" x 18.58" x 10.87" (381 x 472 x 276 mm)
 - EQ: Yes
 - FM Tuner: Yes
 - IP Rating: IPX4
@@ -1966,7 +1967,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: No
-- Dimensions: 305 x 178 x 222 mm
+- Dimensions: 12.01" x 7.01" x 8.74" (305 x 178 x 222 mm)
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
@@ -1994,7 +1995,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 564 x 284 x 295 mm
+- Dimensions: 22.2" x 11.18" x 11.61" (564 x 284 x 295 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67

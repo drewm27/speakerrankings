@@ -14,7 +14,7 @@ The Ortizan X10 ranks [#118 out of 131 total Medium Size Portable Bluetooth Spea
 - Battery Life: 30 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 3 x 3 x 6.69 in (76 x 76 x 170 mm)
+- Dimensions: 3" x 3" x 6.69" (76 x 76 x 170 mm)
 - Driver: 2x drivers + 2x passive radiators
 - IP Rating: IPX7
 - Power: 24W

@@ -12,7 +12,7 @@ The Presonus Eris Studio 8 ranks [#12 out of 21 total Large Size Powered Bookshe
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 16.5"H x 9.8"W x 11.7"D
+- Dimensions: 16.5"H x 9.8"W x 11.7"D (419.1 x 248.9 x 297.2 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 35Hz – 20kHz

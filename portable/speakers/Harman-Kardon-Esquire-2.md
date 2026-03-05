@@ -13,7 +13,7 @@ The Harman Kardon Esquire 2 ranks [#114 out of 131 total Medium Size Portable Bl
 - Battery Life: 8 hours
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 7.5 x 5.1 x 1.3 in (190 x 130 x 34 mm)
+- Dimensions: 7.5" x 5.1" x 1.3" (190 x 130 x 34 mm)
 - Driver: 4x 1.25" full-range drivers
 - Power: 16W
 - Power Bank: Yes

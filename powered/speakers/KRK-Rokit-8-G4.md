@@ -12,7 +12,7 @@ The KRK Rokit 8 G4 ranks [#17 out of 21 total Large Size Powered Bookshelf Speak
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 15.75"H x 10.5"W x 12.2"D
+- Dimensions: 15.75"H x 10.5"W x 12.2"D (400 x 266.7 x 309.9 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR

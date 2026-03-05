@@ -17,7 +17,7 @@ The Tozo PE1 ranks [#17 out of 41 total Small Size Portable Bluetooth Speakers](
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 129 x 90 x 44mm
+- Dimensions: 5.08" x 3.54" x 1.73" (129 x 90 x 44 mm)
 - Driver: 43.5mm
 - EQ: Yes
 - Frequency Response: 80Hz - 20kHz

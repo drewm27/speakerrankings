@@ -13,7 +13,7 @@ The Bose Soundlink Revolve+ ranks [#47 out of 131 total Medium Size Portable Blu
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Version: 4.2
-- Dimensions: 4.1" x 7.25" x 4.1" (105 x 184 x 105mm)
+- Dimensions: 4.1" x 7.25" x 4.1" (105 x 184 x 105 mm)
 - Driver: 1x 91mm fullrange
 - IP Rating: IP55
 - Party Mode: Yes (Bose Party mode)

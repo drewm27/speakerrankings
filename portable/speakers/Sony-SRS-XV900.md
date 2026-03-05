@@ -14,13 +14,17 @@ The Sony SRS-XV900 ranks [#9 out of 10 total Large Party Size Portable Bluetooth
 - Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Bluetooth Version: 5.2
 - Built in Microphone: No
+- Dimensions: 16.1" x 34.6" x 17.3" (410 x 880 x 439 mm)
+- Driver: 9 drivers: 1x 12.6"x12.6" woofer, 2x 4.7" midrange, 2x 2" front tweeter, 2x 1.6" side tweeter, 2x 1.6" rear tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
 - Optical Input: Yes
 - Party Mode: Yes (Partyconnect up to 100 speakers)
+- Power: 100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

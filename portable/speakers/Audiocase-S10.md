@@ -15,7 +15,7 @@ The Audiocase S10 ranks [#26 out of 43 total Party Size Portable Bluetooth Speak
 - Battery Life: 30 hours
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 5.0
-- Dimensions: 65 x 40 x 30 cm
+- Dimensions: 25.59" x 15.75" x 11.81" (650 x 400 x 300 mm)
 - Driver: 2x 10" woofers, 1" compression tweeter
 - EQ: No
 - IP Rating: None

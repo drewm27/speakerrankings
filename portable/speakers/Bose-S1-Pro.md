@@ -16,7 +16,7 @@ The Bose S1 Pro ranks [#10 out of 43 total Party Size Portable Bluetooth Speaker
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0
 - Charging Time: 5 hours
-- Dimensions: 13.1" x 9.4" x 11"
+- Dimensions: 13.1" x 9.4" x 11" (332.7 x 238.8 x 279.4 mm)
 - EQ: Yes
 - IP Rating: None
 - Max Volume: 109db

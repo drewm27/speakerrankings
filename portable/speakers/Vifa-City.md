@@ -17,7 +17,7 @@ The Vifa City ranks [#8 out of 41 total Small Size Portable Bluetooth Speakers](
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 105mm diameter x 39mm height
+- Dimensions: 4.13" diameter x 1.54" H (105 x 39 mm)
 - Driver: 15mm tweeter, 65mm woofer
 - EQ: No
 - Frequency Response: 78Hz - 20kHz

@@ -15,7 +15,7 @@ The Ortizan M8 ranks [#70 out of 73 total Large Size Portable Bluetooth Speakers
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150mm)
+- Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150 mm)
 - EQ: No
 - IP Rating: IPX7
 - Party Mode: No

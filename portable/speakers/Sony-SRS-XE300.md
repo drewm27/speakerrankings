@@ -15,7 +15,7 @@ The Sony SRS-XE300 ranks [#87 out of 131 total Medium Size Portable Bluetooth Sp
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 9.37 x 4.13 x 4.69 in (238 x 105 x 119 mm)
+- Dimensions: 9.37" x 4.13" x 4.69" (238 x 105 x 119 mm)
 - Driver: 2x X-Balanced speaker units + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67

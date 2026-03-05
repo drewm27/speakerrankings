@@ -12,7 +12,7 @@ The Revel F206 ranks [#9 out of 25 total Large Size Floorstanding Speakers](/pas
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
 - Bass Extension (-10dB): 34hz
 - Bass Extension (-3dB): 60hz
-- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Dimensions: 40.3"H x 8.4"W x 12.2"D (1023.6 x 213.4 x 309.9 mm)
 - Driver: Dual 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofers, 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 4 ohms
 - Sensitivity: 87dB

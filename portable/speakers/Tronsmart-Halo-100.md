@@ -16,7 +16,7 @@ The Tronsmart Halo 100 ranks [#48 out of 73 total Large Size Portable Bluetooth 
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 11.25" x 7.04" x 5.9" (286 x 179 x 150mm)
+- Dimensions: 11.25" x 7.04" x 5.9" (286 x 179 x 150 mm)
 - Driver: 1x 115mm woofer, 2x 53mm mid-tweeters, 1x 31mm tweeter
 - EQ: No
 - Frequency Response: 40Hz - 20kHz

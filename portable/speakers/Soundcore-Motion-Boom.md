@@ -18,7 +18,7 @@ The Soundcore Motion Boom ranks [#13 out of 73 total Large Size Portable Bluetoo
 - Bluetooth Latency: 170ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 13.6" x 7.9" x 5.8" (346 x 200 x 148mm)
+- Dimensions: 13.6" x 7.9" x 5.8" (346 x 200 x 148 mm)
 - Driver: 2x 63.5mm titanium fullrange drivers + 2x passive radiators
 - EQ: Yes
 - Frequency Response: 20Hz - 40kHz

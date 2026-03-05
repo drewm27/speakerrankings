@@ -12,7 +12,7 @@ The Revel Concerta2 F35 ranks [#14 out of 25 total Large Size Floorstanding Spea
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Bass Extension (-10dB): 50hz
 - Bass Extension (-3dB): 70hz
-- Dimensions: 40.3"H x 8.4"W x 12.2"D
+- Dimensions: 40.3"H x 8.4"W x 12.2"D (1023.6 x 213.4 x 309.9 mm)
 - Driver: 3x 5.25" deep anodized aluminum cone woofers, 1" Aluminum Tweeter
 - Impedance: 6 ohms
 - Sensitivity: 90dB

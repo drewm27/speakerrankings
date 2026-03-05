@@ -13,7 +13,7 @@ The Xiaomi Mi Outdoor ranks [#117 out of 131 total Medium Size Portable Bluetoot
 - Battery Life: 20 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.58 x 3.58 x 1.65 in (91 x 91 x 42 mm)
+- Dimensions: 3.58" x 3.58" x 1.65" (91 x 91 x 42 mm)
 - Driver: 1x 52mm full-range
 - IP Rating: IP55
 - Power: 5W

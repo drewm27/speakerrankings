@@ -14,7 +14,7 @@ The Oontz Angle 3 ranks [#128 out of 131 total Medium Size Portable Bluetooth Sp
 - Battery Life: 14 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 5.25 x 2.6 x 2.8 in (133.4 x 66 x 71.1 mm)
+- Dimensions: 5.25" x 2.6" x 2.8" (133.4 x 66 x 71.1 mm)
 - Driver: 2x precision acoustic drivers + 1x passive bass radiator
 - IP Rating: IPX5
 - Max Volume: 89db

@@ -13,7 +13,7 @@ The Altec Lansing Rockbox XL 2.0 ranks [#65 out of 67 total Boombox Size Portabl
 - Battery Life: 20 hours
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
-- Dimensions: 564 x 284 x 295 mm
+- Dimensions: 22.2" x 11.18" x 11.61" (564 x 284 x 295 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67

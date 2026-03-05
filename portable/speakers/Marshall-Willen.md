@@ -16,7 +16,7 @@ The Marshall Willen ranks [#12 out of 41 total Small Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 101 x 39 x 101mm
+- Dimensions: 3.98" x 1.54" x 3.98" (101 x 39 x 101 mm)
 - Driver: 2" full-range with dual passive radiators
 - EQ: Yes
 - IP Rating: IP67

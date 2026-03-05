@@ -16,7 +16,7 @@ The Muzen Wild Go ranks [#36 out of 41 total Small Size Portable Bluetooth Speak
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Charging Time: 2 hours
-- Dimensions: 75.5 x 35.5 x 59mm
+- Dimensions: 2.97" x 1.4" x 2.32" (75.5 x 35.5 x 59 mm)
 - EQ: No
 - Frequency Response: 80Hz - 18kHz
 - IP Rating: IPX5

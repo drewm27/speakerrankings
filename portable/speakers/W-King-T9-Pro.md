@@ -15,7 +15,7 @@ The W-King T9 Pro ranks [#27 out of 43 total Party Size Portable Bluetooth Speak
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Charging Time: 4 hours
-- Dimensions: 274 x 255.7 x 535.5 mm
+- Dimensions: 10.79" x 10.07" x 21.08" (274 x 255.7 x 535.5 mm)
 - Driver: 2x 6.5" woofers, 2x 2.5" tweeters
 - EQ: No
 - Frequency Response: 50Hz - 20kHz

@@ -14,7 +14,7 @@ The Ultimate Ears Roll 2 ranks [#120 out of 131 total Medium Size Portable Bluet
 - Battery Life: 9 hours
 - Bluetooth Version: 4.0
 - Built in Microphone: No
-- Dimensions: 5.89 x 5.31 x 1.57 in (149.5 x 135 x 40 mm)
+- Dimensions: 5.89" x 5.31" x 1.57" (149.5 x 135 x 40 mm)
 - Driver: 1x 2" full-range + 2x 0.75" tweeters
 - IP Rating: IPX7
 - Power Input: Micro USB

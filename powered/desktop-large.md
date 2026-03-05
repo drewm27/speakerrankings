@@ -29,7 +29,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
 - Bluetooth Version: 5.0
 - DSP: No
-- Dimensions: 25.6" x 8.3" x 7.6" (650 x 210 x 194mm)
+- Dimensions: 25.6" x 8.3" x 7.6" (650 x 210 x 194 mm)
 - Driver: 150mm woofer, 2x 90mm FST midrange drivers, 2x 25mm Decoupled Double-Dome aluminium tweeters
 - EQ: No
 - Frequency Response: 35Hz - 24kHz
@@ -58,7 +58,7 @@ Last updated: March 04, 2026
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
-- Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7mm)
+- Dimensions: 17.60" x 9.45" x 10.07" (447 x 240 x 255.7 mm)
 - Dolby Atmos: Yes (virtual)
 - Driver: 6.5" (down-firing subwoofer), 3x 2.75" midranges, 3x 1" (25mm aluminum dome) tweeters
 - EQ: Yes

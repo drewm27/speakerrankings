@@ -12,7 +12,7 @@ The Wharfedale Linton 85 ranks [#17 out of 48 total Large Size Bookshelf Speaker
 - Negatives: The spacing of the drivers makes the vertical off axis not very good
 - Bass Extension (-10dB): 35hz
 - Bass Extension (-3dB): 52hz
-- Dimensions: 22.2"H x 11.8"W x 13.0"D
+- Dimensions: 22.2"H x 11.8"W x 13.0"D (563.9 x 299.7 x 330.2 mm)
 - Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 85dB

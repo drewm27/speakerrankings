@@ -15,7 +15,7 @@ The Marshall Stanmore II ranks [#8 out of 14 total Medium Size Powered Desktop S
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
-- Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185mm)
+- Dimensions: 13.78" x 7.87" x 7.32" (350 x 200 x 185 mm)
 - Driver: 5.25" woofer, 2x 2" midranges, 2x 0.75" Dome tweeters
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz

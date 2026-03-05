@@ -14,7 +14,7 @@ The Tozo PA1 ranks [#52 out of 131 total Medium Size Portable Bluetooth Speakers
 - Battery Life: 25 hours
 - Bluetooth Latency: 220ms
 - Bluetooth Version: 5.0
-- Dimensions: 8.27" x 3.58" x 2.40" (210 x 91 x 61mm)
+- Dimensions: 8.27" x 3.58" x 2.40" (210 x 91 x 61 mm)
 - Driver: 1x 67mm fullrange
 - Frequency Response: 55Hz - 18kHz
 - Max Volume: 98db

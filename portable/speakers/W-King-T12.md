@@ -14,13 +14,18 @@ The W-King T12 ranks [#10 out of 10 total Large Party Size Portable Bluetooth Sp
 - Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 13.7" x 29.6" x 13.6" (347 x 751 x 346 mm)
+- Driver: 2x 8" subwoofer, 2x 1.5" dome tweeter
 - EQ: Yes (Bass and treble)
 - Guitar Input: Yes
 - IP Rating: None
+- Max Volume: 135 dB
 - MicroSD: Yes
 - Microphone Input: Yes
 - Party Mode: No
+- Power: 370W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

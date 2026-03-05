@@ -16,7 +16,7 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.5" x 6.0" x 14.5" (191 x 152 x 368mm)
+- Dimensions: 7.5" x 6.0" x 14.5" (191 x 152 x 368 mm)
 - Driver: 2x woofers, 2x tweeters + 2x passive radiators
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
 - IP Rating: IPX6

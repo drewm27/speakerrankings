@@ -12,7 +12,7 @@ The Klipsch RP-500M II ranks [#7 out of 20 total Medium Size Bookshelf Speakers]
 - Negatives: 2-3dB dip from 300-600hz, 3dB peak around 1.7khz, 3-4dB peaks at 11-15khz. A bit narrow in horizontal dispersion. Some pretty big dipped areas in the vertical dispersion.
 - Bass Extension (-10dB): 53hz
 - Bass Extension (-3dB): 67hz
-- Dimensions: 13.5"H x 6.8"W x 10.6"D
+- Dimensions: 13.5"H x 6.8"W x 10.6"D (342.9 x 172.7 x 269.2 mm)
 - Driver: 5.25" Cerametallic™ cone woofer, 1" LTS (Linear Travel Suspension) titanium diaphragm tweeter with Tractrix® horn
 - Impedance: 8 ohms
 - Sensitivity: 85dB

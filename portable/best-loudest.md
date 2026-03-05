@@ -112,7 +112,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Bluetooth Latency: 128ms AAC, 144ms SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152mm)
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz
@@ -220,7 +220,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Bass Extension (-10dB): 45hz
 - Battery Life: 12+ hours
 - Bluetooth Codecs: aptX, SBC
-- Dimensions: 345 x 597 x 347 mm
+- Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43

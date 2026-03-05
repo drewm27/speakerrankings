@@ -12,7 +12,7 @@ The ELAC DBR62 ranks [#19 out of 48 total Large Size Bookshelf Speakers](/passiv
 - Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
 - Bass Extension (-10dB): 41hz
 - Bass Extension (-3dB): 53hz
-- Dimensions: 14.1"H x 8.2"W x 10.8"D
+- Dimensions: 14.1"H x 8.2"W x 10.8"D (358.1 x 208.3 x 274.3 mm)
 - Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
 - Sensitivity: 86dB

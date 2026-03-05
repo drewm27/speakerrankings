@@ -13,7 +13,7 @@ The HEDD Type 20 MK2 ranks [#5 out of 21 total Large Size Powered Bookshelf Spea
 - Bass Extension (-3dB): 32hz
 - Bluetooth: No
 - DSP: Yes (96kHz/32-bit)
-- Dimensions: 14.1"H x 11"W x 13.3"D
+- Dimensions: 14.1"H x 11"W x 13.3"D (358.1 x 279.4 x 337.8 mm)
 - Driver: 7" honeycomb composite woofer, 4" honeycomb composite midrange, HEDD AMT (Air Motion Transformer) tweeter
 - EQ: Yes (Desk filter, shelf filters)
 - Frequency Response: 32Hz - 40kHz

@@ -16,7 +16,7 @@ The Fugoo XL ranks [#37 out of 73 total Large Size Portable Bluetooth Speakers](
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 11.3" x 4.5" x 3.8" (288 x 115 x 97mm)
+- Dimensions: 11.3" x 4.5" x 3.8" (288 x 115 x 97 mm)
 - Driver: 4x tweeters, 2x midwoofers + 2x passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz

@@ -33,7 +33,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 129 x 90 x 44mm
+- Dimensions: 5.08" x 3.54" x 1.73" (129 x 90 x 44 mm)
 - Driver: 43.5mm
 - EQ: Yes
 - Frequency Response: 80Hz - 20kHz
@@ -67,7 +67,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72mm)
+- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72 mm)
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
@@ -123,7 +123,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151mm)
+- Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
 - EQ: 3 EQ presets
 - Frequency Response: 20Hz - 20kHz
 - IP Rating: IPX6
@@ -157,7 +157,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 400 x 150 x 215 mm
+- Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -281,13 +281,18 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Battery Life: 25 hours
 - Bluetooth Codecs: SBC
+- Bluetooth Version: 5.4
 - Built in Microphone: No
+- Dimensions: 13.7" x 29.6" x 13.6" (347 x 751 x 346 mm)
+- Driver: 2x 8" subwoofer, 2x 1.5" dome tweeter
 - EQ: Yes (Bass and treble)
 - Guitar Input: Yes
 - IP Rating: None
+- Max Volume: 135 dB
 - MicroSD: Yes
 - Microphone Input: Yes
 - Party Mode: No
+- Power: 370W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

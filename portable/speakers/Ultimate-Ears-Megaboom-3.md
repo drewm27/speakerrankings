@@ -12,7 +12,7 @@ The Ultimate Ears Megaboom 3 ranks [#80 out of 131 total Medium Size Portable Bl
 - Bass Extension (-10dB): 70hz
 - Battery Life: 20 hours
 - Bluetooth Version: 4.2
-- Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87mm)
+- Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87 mm)
 - Driver: 2x 50mm fullrange
 - Frequency Response: 60Hz - 20kHz
 - Max Volume: 98db

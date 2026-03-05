@@ -16,7 +16,7 @@ The Soundboks Go ranks [#25 out of 43 total Party Size Portable Bluetooth Speake
 - Battery Life: 40 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
-- Dimensions: 18" x 12" x 10"
+- Dimensions: 18" x 12" x 10" (457.2 x 304.8 x 254 mm)
 - Driver: 10" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 40Hz - 20kHz

@@ -26,7 +26,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 23hz
 - Bluetooth: No
 - DSP: Yes
-- Dimensions: 19"H x 10.5"W x 15"D
+- Dimensions: 19"H x 10.5"W x 15"D (482.6 x 266.7 x 381 mm)
 - Driver: 2x 8" Aluminium Cone woofers, 8" Aluminium Cone midrange, 1" Aluminium/Magnesium dome tweeter
 - EQ: Yes (24-band parametric)
 - Frequency Response: 20Hz - 20kHz
@@ -52,7 +52,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 32hz
 - Bluetooth: No
 - DSP: No
-- Dimensions: 25.4"H x 13"W x 17.5"D
+- Dimensions: 25.4"H x 13"W x 17.5"D (645.2 x 330.2 x 444.5 mm)
 - Driver: 10" woofer, 4" dome midrange, 1" fabric dome tweeter
 - EQ: Yes (Room response controls)
 - Frequency Response: 31Hz - 21kHz (±3dB)
@@ -74,7 +74,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 34hz
 - Bluetooth: No
 - DSP: Yes
-- Dimensions: 22.5"H x 14"W x 13.6"D
+- Dimensions: 22.5"H x 14"W x 13.6"D (571.5 x 355.6 x 345.4 mm)
 - Driver: Dual 263 x 137 mm woofers, 5.1" coaxial with tweeter midrange, 1" (25mm) coaxial tweeter
 - EQ: Yes (via GLM software)
 - Frequency Response: 30Hz - 43kHz (±2dB)
@@ -96,7 +96,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 33hz
 - Bluetooth: No
 - DSP: Yes
-- Dimensions: 17"H x 11.3"W x 10.9"D
+- Dimensions: 17"H x 11.3"W x 10.9"D (431.8 x 287 x 276.9 mm)
 - Driver: 8.6" woofer, 5" coaxial with tweeter midrange, 0.75" (19mm) coaxial tweeter
 - EQ: Yes (via GLM software)
 - Frequency Response: 32Hz - 40kHz (±1.5dB)
@@ -116,7 +116,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 32hz
 - Bluetooth: No
 - DSP: Yes (96kHz/32-bit)
-- Dimensions: 14.1"H x 11"W x 13.3"D
+- Dimensions: 14.1"H x 11"W x 13.3"D (358.1 x 279.4 x 337.8 mm)
 - Driver: 7" honeycomb composite woofer, 4" honeycomb composite midrange, HEDD AMT (Air Motion Transformer) tweeter
 - EQ: Yes (Desk filter, shelf filters)
 - Frequency Response: 32Hz - 40kHz
@@ -137,7 +137,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 17.8"H x 11.3"W x 10.9"D
+- Dimensions: 17.8"H x 11.3"W x 10.9"D (452.1 x 287 x 276.9 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 32Hz – 25kHz (-6dB)
@@ -156,7 +156,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 14.4"H x 9.3"W x 8.8"D
+- Dimensions: 14.4"H x 9.3"W x 8.8"D (365.8 x 236.2 x 223.5 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 41Hz – 25kHz (-6dB)
@@ -173,7 +173,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 14.2"H x 8.3"W x 12.6"D
+- Dimensions: 14.2"H x 8.3"W x 12.6"D (360.7 x 210.8 x 320 mm)
 - Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-3dB)
@@ -197,7 +197,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 44hz
 - Bluetooth: No
 - DSP: No
-- Dimensions: 17.8"H x 10"W x 11.3"D
+- Dimensions: 17.8"H x 10"W x 11.3"D (452.1 x 254 x 287 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: XLR, RCA
@@ -216,7 +216,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 13.4"H x 10.3"W x 11.4"D
+- Dimensions: 13.4"H x 10.3"W x 11.4"D (340.4 x 261.6 x 289.6 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 40Hz – 22kHz (+-3dB)
@@ -243,7 +243,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 30hz
 - Bluetooth: No
 - DSP: No
-- Dimensions: 14.6"H x 7"W x 9.6"D
+- Dimensions: 14.6"H x 7"W x 9.6"D (370.8 x 177.8 x 243.8 mm)
 - Driver: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil woofer, 19 mm / 0.74" Resonance Free Aluminum dome with CDC aluminum waveguide tweeter
 - EQ: Yes (Room adjustment)
 - Inputs: XLR
@@ -261,7 +261,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 16.5"H x 9.8"W x 11.7"D
+- Dimensions: 16.5"H x 9.8"W x 11.7"D (419.1 x 248.9 x 297.2 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 35Hz – 20kHz
@@ -284,7 +284,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 16.5"H x 10.0"W x 11.3"D
+- Dimensions: 16.5"H x 10.0"W x 11.3"D (419.1 x 254 x 287 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45Hz – 21kHz (+-3dB)
@@ -307,7 +307,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 15.4"H x 9.8"W x 13.1"D
+- Dimensions: 15.4"H x 9.8"W x 13.1"D (391.2 x 248.9 x 332.7 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 47Hz – 24kHz (-3dB)
@@ -338,7 +338,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 15.8"H x 9.8"W x 13.2"D
+- Dimensions: 15.8"H x 9.8"W x 13.2"D (401.3 x 248.9 x 335.3 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 33Hz – 25kHz (-6dB)
@@ -359,7 +359,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 13.7"H x 8.3"W x 11.5"D
+- Dimensions: 13.7"H x 8.3"W x 11.5"D (348 x 210.8 x 292.1 mm)
 - Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-6dB)
@@ -388,7 +388,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 15.75"H x 10.5"W x 12.2"D
+- Dimensions: 15.75"H x 10.5"W x 12.2"D (400 x 266.7 x 309.9 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
@@ -407,7 +407,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 13.4"H x 8.9"W x 11.2"D
+- Dimensions: 13.4"H x 8.9"W x 11.2"D (340.4 x 226.1 x 284.5 mm)
 - Driver: 7" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
@@ -427,7 +427,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 18.1"H x 10.1"W x 12.4"D
+- Dimensions: 18.1"H x 10.1"W x 12.4"D (459.7 x 256.5 x 315 mm)
 - Driver: 8" woofer
 - EQ: No
 - Frequency Response: 42Hz-20KHz (-3dB)
@@ -447,7 +447,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 14.5"H x 9.1"W x 14.0"D
+- Dimensions: 14.5"H x 9.1"W x 14.0"D (368.3 x 231.1 x 355.6 mm)
 - Driver: 6.5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 38Hz-20KHz (-3dB)
@@ -466,7 +466,7 @@ Last updated: March 04, 2026
 - App: No
 - Bluetooth: No
 - DSP: No
-- Dimensions: 14.5"H x 9.1"W x 14.0"D
+- Dimensions: 14.5"H x 9.1"W x 14.0"D (368.3 x 231.1 x 355.6 mm)
 - Driver: 6.5" woofer, 1.5" Silk Dome Tweeters
 - EQ: No
 - Watts: 80w RMS Per Speaker

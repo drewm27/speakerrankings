@@ -11,7 +11,7 @@ The Focal Alpha 50 EVO ranks [#6 out of 24 total Medium Size Powered Bookshelf S
 - Positives: More neutral than the great HS5
 - App: No
 - Bluetooth: No
-- Dimensions: 12.2"H x 9.0"W x 9.4"D
+- Dimensions: 12.2"H x 9.0"W x 9.4"D (309.9 x 228.6 x 238.8 mm)
 - Driver: 5" woofer
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45 Hz - 22 kHz (+-3 dB)

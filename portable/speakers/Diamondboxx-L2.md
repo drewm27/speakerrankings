@@ -14,7 +14,7 @@ The Diamondboxx L2 ranks [#30 out of 43 total Party Size Portable Bluetooth Spea
 - Bluetooth Codecs: aptX HD, SBC
 - Bluetooth Version: 4.2
 - Charging Time: 9 hours
-- Dimensions: 23" x 14.5" x 9.5"
+- Dimensions: 23" x 14.5" x 9.5" (584.2 x 368.3 x 241.3 mm)
 - Driver: 5.5" woofer, 1" tweeter
 - EQ: No
 - Frequency Response: 40Hz - 22kHz

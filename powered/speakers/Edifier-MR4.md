@@ -12,7 +12,7 @@ The Edifier MR4 ranks [#21 out of 24 total Medium Size Powered Bookshelf Speaker
 - Negatives: No Bluetooth unlike other Edifier models
 - App: No
 - Bluetooth: No
-- Dimensions: 9.0"H x 5.5"W x 7.6"D
+- Dimensions: 9.0"H x 5.5"W x 7.6"D (228.6 x 139.7 x 193 mm)
 - Driver: 4" woofer
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB)

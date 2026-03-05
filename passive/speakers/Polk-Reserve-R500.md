@@ -12,7 +12,7 @@ The Polk Reserve R500 ranks [#17 out of 25 total Large Size Floorstanding Speake
 - Negatives: Can sound a little shouty with an 2dB in room peak around 4khz. Vertical off-axis isn't too great.
 - Bass Extension (-10dB): 33hz
 - Bass Extension (-3dB): 51hz
-- Dimensions: 40.3"H x 6.8"W x 12.4"D
+- Dimensions: 40.3"H x 6.8"W x 12.4"D (1023.6 x 172.7 x 315 mm)
 - Driver: Two 5.25" Turbine Cone woofer, 1" Pinnacle Ring Radiator tweeter
 - Impedance: 4 ohms
 - Sensitivity: 86dB

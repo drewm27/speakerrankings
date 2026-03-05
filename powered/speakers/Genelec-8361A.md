@@ -15,7 +15,7 @@ The Genelec 8361A ranks [#3 out of 21 total Large Size Powered Bookshelf Speaker
 - Bass Extension (-3dB): 34hz
 - Bluetooth: No
 - DSP: Yes
-- Dimensions: 22.5"H x 14"W x 13.6"D
+- Dimensions: 22.5"H x 14"W x 13.6"D (571.5 x 355.6 x 345.4 mm)
 - Driver: Dual 263 x 137 mm woofers, 5.1" coaxial with tweeter midrange, 1" (25mm) coaxial tweeter
 - EQ: Yes (via GLM software)
 - Frequency Response: 30Hz - 43kHz (±2dB)

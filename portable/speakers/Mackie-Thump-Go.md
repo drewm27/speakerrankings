@@ -14,7 +14,7 @@ The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Spe
 - Bass Extension (-10dB): 50hz
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
-- Dimensions: 457 x 230 x 285 mm
+- Dimensions: 17.99" x 9.06" x 11.22" (457 x 230 x 285 mm)
 - Driver: 8" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: None

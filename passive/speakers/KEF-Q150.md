@@ -12,7 +12,7 @@ The KEF Q150 ranks [#15 out of 20 total Medium Size Bookshelf Speakers](/passive
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Bass Extension (-10dB): 44hz
 - Bass Extension (-3dB): 51hz
-- Dimensions: 11.9"H x 7.1"W x 10.9"D
+- Dimensions: 11.9"H x 7.1"W x 10.9"D (302.3 x 180.3 x 276.9 mm)
 - Driver: 5.1" aluminium Uni-Q woofer, 1" vented aluminium dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB

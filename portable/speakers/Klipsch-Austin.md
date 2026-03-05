@@ -17,7 +17,7 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Charging Time: 2 hours
-- Dimensions: 109 x 109 x 43mm
+- Dimensions: 4.29" x 4.29" x 1.69" (109 x 109 x 43 mm)
 - Driver: 1.5" full-range with dual passive radiators
 - EQ: No
 - IP Rating: IP67

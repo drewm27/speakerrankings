@@ -17,7 +17,7 @@ The Dockin D Fine+ 2 ranks [#24 out of 73 total Large Size Portable Bluetooth Sp
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 12.2" x 4.1" x 4.1" (310 x 103 x 103mm)
+- Dimensions: 12.2" x 4.1" x 4.1" (310 x 103 x 103 mm)
 - Driver: 2x tweeters, 2x midrange/bass drivers + 2x passive radiators
 - EQ: Yes (Bass boost 3 steps)
 - IP Rating: IPX5

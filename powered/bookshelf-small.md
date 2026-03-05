@@ -25,7 +25,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 67hz
 - Bass Extension (-3dB): 74hz
 - Bluetooth: No
-- Dimensions: 7.7"H x 4.8"W x 4.5"D
+- Dimensions: 7.7"H x 4.8"W x 4.5"D (195.6 x 121.9 x 114.3 mm)
 - Driver: 3" woofer, 0.75" metal dome tweeter
 - EQ: Yes (Bass tilt, Desk proximity)
 - Frequency Response: 67 Hz-25 kHz (-6dB)
@@ -52,7 +52,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 55hz
 - Bluetooth: Yes (A2DP)
-- Dimensions: 7.1"H x 3.5"W x 5.3"D
+- Dimensions: 7.1"H x 3.5"W x 5.3"D (180.3 x 88.9 x 134.6 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: Yes (Bass/Treble switches, Desktop/Free field)
 - Frequency Response: 55Hz - 20kHz (-3dB)
@@ -77,7 +77,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 45hz
 - Bass Extension (-3dB): 50hz
 - Bluetooth: No
-- Dimensions: 6.7"H x 4.3"W x 5.9"D
+- Dimensions: 6.7"H x 4.3"W x 5.9"D (170.2 x 109.2 x 149.9 mm)
 - Driver: 3.5" woofer, U-ART accelerated ribbon tweeter
 - EQ: Yes (Room adjustment filters)
 - Frequency Response: 50Hz - 50kHz
@@ -100,7 +100,7 @@ Last updated: March 04, 2026
 - Bluetooth: Yes
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
-- Dimensions: 9"H x 5.5"W x 6.5"D
+- Dimensions: 9"H x 5.5"W x 6.5"D (228.6 x 139.7 x 165.1 mm)
 - Driver: 2.75" woofer, 0.75" silk dome tweeter
 - EQ: No
 - Frequency Response: 65 Hz-20 kHz (-3dB)
@@ -127,7 +127,7 @@ Last updated: March 04, 2026
 - Bluetooth: Yes
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
-- Dimensions: 5.9"H x 3.7"W x 5.9"D
+- Dimensions: 5.9"H x 3.7"W x 5.9"D (149.9 x 94 x 149.9 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 60Hz - 20kHz
@@ -149,7 +149,7 @@ Last updated: March 04, 2026
 - Bass Extension (-3dB): 67hz
 - Bluetooth Codecs: SBC, LDAC
 - Bluetooth Version: 5.3
-- Dimensions: 6.6"H x 3.9"W x 5.8"D
+- Dimensions: 6.6"H x 3.9"W x 5.8"D (167.6 x 99.1 x 147.3 mm)
 - Driver: 3" woofer, 1" silk dome tweeter
 - EQ: Yes
 - Frequency Response: 55Hz - 40kHz
@@ -171,7 +171,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 70hz
 - Bass Extension (-3dB): 80hz
 - Bluetooth: No
-- Dimensions: 8.3"H x 6.0"W x 5.5"D
+- Dimensions: 8.3"H x 6.0"W x 5.5"D (210.8 x 152.4 x 139.7 mm)
 - Driver: 3.5" woofer, 1" silk dome tweeter
 - EQ: Yes (Acoustic space)
 - Frequency Response: 80 Hz-20 kHz (-3dB)
@@ -199,7 +199,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 70hz
 - Bass Extension (-3dB): 80hz
 - Bluetooth: No
-- Dimensions: 8.1"H x 5.5"W x 7.1"D
+- Dimensions: 8.1"H x 5.5"W x 7.1"D (205.7 x 139.7 x 180.3 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
 - EQ: No
 - Frequency Response: 80 Hz-20 kHz (-3dB)

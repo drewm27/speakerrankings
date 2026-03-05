@@ -31,7 +31,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72mm)
+- Dimensions: 3.1" x 8.3" x 2.8" (78 x 210 x 72 mm)
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
@@ -68,7 +68,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50mm)
+- Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50 mm)
 - Driver: 2x full-range drivers + passive radiators
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz
@@ -109,7 +109,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 130ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81mm)
+- Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz
 - IP Rating: IPX7
@@ -352,7 +352,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
-- Dimensions: 9.0" x 3.9" x 3.7" (228.8 x 98.5 x 94.0mm)
+- Dimensions: 9.0" x 3.9" x 3.7" (228.8 x 98.5 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (7 band)
 - Frequency Response: 56Hz - 20kHz (-6dB)
@@ -393,7 +393,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 116ms
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 6.9" x 2.7" x 2.8" (176 x 68 x 72mm)
+- Dimensions: 6.9" x 2.7" x 2.8" (176 x 68 x 72 mm)
 - Driver: 44mm x 80mm woofer, 16mm tweeter
 - EQ: Yes (3 band)
 - IP Rating: IP67
@@ -525,7 +525,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 54hz
 - Battery Life: 12 hours
 - Bluetooth Version: 5.3
-- Dimensions: 7.5" x 3.0" x 3.0" (190 x 75 x 75mm)
+- Dimensions: 7.5" x 3.0" x 3.0" (190 x 75 x 75 mm)
 - Driver: 45mm x 80mm woofer, 20mm tweeter
 - EQ: No
 - Frequency Response: 65Hz - 20kHz
@@ -556,7 +556,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: AAC, aptX Adaptive
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 5.2" x 1.8" x 5.2" (133 x 46 x 133mm)
+- Dimensions: 5.2" x 1.8" x 5.2" (133 x 46 x 133 mm)
 - Driver: 82.5mm woofer, 15mm tweeter
 - EQ: Yes
 - IP Rating: IP67
@@ -585,7 +585,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 10.0" x 3.6" x 3.6" (255 x 92 x 92mm)
+- Dimensions: 10.0" x 3.6" x 3.6" (255 x 92 x 92 mm)
 - Driver: 35W woofer, 15W tweeter
 - EQ: Yes
 - Frequency Response: 60Hz - 20kHz
@@ -671,7 +671,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 57hz
 - Battery Life: 12 hours
 - Bluetooth Version: 5.3
-- Dimensions: 8.3" x 3.1" x 3.1" (210 x 78 x 80mm)
+- Dimensions: 8.3" x 3.1" x 3.1" (210 x 78 x 80 mm)
 - Driver: 48mm x 90mm woofer, 20mm tweeter
 - EQ: No
 - Frequency Response: 60Hz - 20kHz
@@ -746,7 +746,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
-- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94mm)
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 97 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz
@@ -776,7 +776,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.1
-- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94mm)
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz
@@ -826,7 +826,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Version: 5.3
-- Dimensions: 8.3" x 3.3" x 3.1" (210 x 85 x 78.5mm)
+- Dimensions: 8.3" x 3.3" x 3.1" (210 x 85 x 78.5 mm)
 - Driver: 94mm woofer + tweeter
 - EQ: Yes
 - IP Rating: IP68
@@ -878,7 +878,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 8.5" x 3.0" x 3.5" (217 x 76 x 89mm)
+- Dimensions: 8.5" x 3.0" x 3.5" (217 x 76 x 89 mm)
 - Driver: 2x 48mm neodymium dome drivers + 2x passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz
@@ -924,7 +924,7 @@ Last updated: March 04, 2026
 - Battery Life: 14 hours
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 4.0
-- Dimensions: 2.7" x 3.4" x 7.0" (69 x 86 x 178mm)
+- Dimensions: 2.7" x 3.4" x 7.0" (69 x 86 x 178 mm)
 - Power: 32W
 - Power Bank: Yes
 - Stereo: Yes
@@ -944,7 +944,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Latency: SBC 233ms, AAC 240ms
 - Bluetooth Version: 5.3
-- Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66mm)
+- Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66 mm)
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 99db
@@ -970,7 +970,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.9" x 3.6" x 2.1" (201 x 90 x 52mm)
+- Dimensions: 7.9" x 3.6" x 2.1" (201 x 90 x 52 mm)
 - EQ: Yes (3 band)
 - IP Rating: IP67
 - Party Mode: Yes (Bose Party mode)
@@ -997,7 +997,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 7.9" x 3.5" x 2.1" (201 x 90 x 52mm)
+- Dimensions: 7.9" x 3.5" x 2.1" (201 x 90 x 52 mm)
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 96db
@@ -1035,7 +1035,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): ~55hz
 - Battery Life: 20 hours
 - Bluetooth Version: 5.1
-- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94mm)
+- Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: No
 - Frequency Response: 60Hz - 20kHz
@@ -1072,7 +1072,7 @@ Last updated: March 04, 2026
 - Positives: Pretty neutral sound, slight upper mids peaks
 - Battery Life: 10 hours
 - Bluetooth Version: 5.0
-- Dimensions: 7.5" x 3.0" x 2.5" (190 x 76 x 64mm)
+- Dimensions: 7.5" x 3.0" x 2.5" (190 x 76 x 64 mm)
 - Driver: 2x 28mm tweeters, 2x 39mm midwoofers + 2x passive radiators
 - Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67
@@ -1093,7 +1093,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 8.1" x 3.0" x 3.0" (206 x 77 x 76mm)
+- Dimensions: 8.1" x 3.0" x 3.0" (206 x 77 x 76 mm)
 - Driver: 83mm x 42mm woofer, 16mm tweeter + passive radiator
 - EQ: Yes
 - Frequency Response: 20Hz - 20kHz
@@ -1132,7 +1132,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: AAC, LDAC, SBC
 - Bluetooth Version: 5.3
-- Dimensions: 7.5" x 3.1" x 2.4" (190 x 80 x 60mm)
+- Dimensions: 7.5" x 3.1" x 2.4" (190 x 80 x 60 mm)
 - Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz
@@ -1156,7 +1156,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 5.3
-- Dimensions: 3.8" x 3.8" x 7.1" (96 x 96 x 180mm)
+- Dimensions: 3.8" x 3.8" x 7.1" (96 x 96 x 180 mm)
 - Driver: 76mm subwoofer, 2x 40mm full-range drivers + 2x passive radiators
 - Frequency Response: 60Hz - 20kHz
 - IP Rating: IPX7
@@ -1184,7 +1184,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 7.7" x 2.7" x 2.6" (196.6 x 68 x 66mm)
+- Dimensions: 7.7" x 2.7" x 2.6" (196.6 x 68 x 66 mm)
 - Driver: 20W woofer, 10W tweeter + 2x passive radiators
 - EQ: No
 - Frequency Response: 60Hz - 20kHz
@@ -1210,7 +1210,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
-- Dimensions: 4.2" x 8.4" x 5.2" (107 x 214 x 131mm)
+- Dimensions: 4.2" x 8.4" x 5.2" (107 x 214 x 131 mm)
 - Driver: 64mm woofer, 16mm tweeter
 - EQ: Yes
 - Frequency Response: 58Hz - 20kHz
@@ -1235,7 +1235,7 @@ Last updated: March 04, 2026
 - Battery Life: 18 hours
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
-- Dimensions: 11.4" x 4.7" x 4.3" (290 x 120 x 110mm)
+- Dimensions: 11.4" x 4.7" x 4.3" (290 x 120 x 110 mm)
 - Driver: 63.5mm full-range driver + 2x passive radiators
 - EQ: Yes
 - Frequency Response: 20Hz - 20kHz
@@ -1283,7 +1283,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 17 hours
 - Bluetooth Version: 4.1
-- Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82mm)
+- Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82 mm)
 - IP Rating: IP55
 - Power Input: Micro USB
 - Stereo: No
@@ -1302,7 +1302,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 56hz
 - Battery Life: 16 hours
 - Bluetooth Version: 4.2
-- Dimensions: 4.1" x 7.25" x 4.1" (105 x 184 x 105mm)
+- Dimensions: 4.1" x 7.25" x 4.1" (105 x 184 x 105 mm)
 - Driver: 1x 91mm fullrange
 - IP Rating: IP55
 - Party Mode: Yes (Bose Party mode)
@@ -1324,7 +1324,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 63hz
 - Battery Life: 15 hours
 - Bluetooth Version: 5.0
-- Dimensions: 8.07" x 2.51" x 3.21" (205 x 64 x 82mm)
+- Dimensions: 8.07" x 2.51" x 3.21" (205 x 64 x 82 mm)
 - Frequency Response: 20Hz - 20kHz
 - Max Volume: 98db
 - MicroSD: Yes
@@ -1343,7 +1343,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 60hz
 - Battery Life: 12 hours
 - Bluetooth Version: 4.2
-- Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82mm)
+- Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82 mm)
 - Party Mode: Yes (Bose Party mode)
 - Power Input: Micro USB
 - Stereo: No
@@ -1369,7 +1369,7 @@ Last updated: March 04, 2026
 - Battery Life: 30 hours
 - Bluetooth Latency: 400ms aac, 200ms sbc
 - Bluetooth Version: 5.3
-- Dimensions: 7.9" x 3.6" x 2.1" (200 x 91 x 53mm)
+- Dimensions: 7.9" x 3.6" x 2.1" (200 x 91 x 53 mm)
 - EQ: Yes
 - Frequency Response: 50Hz - 20kHz
 - Power: 25W
@@ -1395,7 +1395,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Latency: 330ms
 - Bluetooth Version: 4.2
-- Dimensions: 8.66" x 3.74" x 3.66" (220 x 95 x 93mm)
+- Dimensions: 8.66" x 3.74" x 3.66" (220 x 95 x 93 mm)
 - Driver: 1x 51x89mm fullrange
 - Frequency Response: 60Hz - 20kHz
 - Max Volume: 99db
@@ -1430,7 +1430,7 @@ Last updated: March 04, 2026
 - Battery Life: 25 hours
 - Bluetooth Latency: 220ms
 - Bluetooth Version: 5.0
-- Dimensions: 8.27" x 3.58" x 2.40" (210 x 91 x 61mm)
+- Dimensions: 8.27" x 3.58" x 2.40" (210 x 91 x 61 mm)
 - Driver: 1x 67mm fullrange
 - Frequency Response: 55Hz - 18kHz
 - Max Volume: 98db
@@ -1452,7 +1452,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 61hz
 - Battery Life: 30 hours
 - Bluetooth Version: 5.3
-- Dimensions: 6.30" x 2.99" x 2.79" (160 x 76 x 71mm)
+- Dimensions: 6.30" x 2.99" x 2.79" (160 x 76 x 71 mm)
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
 - Max Volume: 96db
@@ -1477,7 +1477,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 5.0
-- Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59mm)
+- Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59 mm)
 - EQ: Yes
 - Max Volume: 99db
 - Party Mode: Yes (Partycast up to 100 speakers)
@@ -1498,7 +1498,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): ~58hz
 - Battery Life: 10 hours
 - Bluetooth Version: 4.2
-- Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58mm)
+- Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58 mm)
 - Driver: 2x 33mm fullrange
 - IP Rating: None
 - Stereo: Yes
@@ -1518,7 +1518,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58hz
 - Battery Life: 10 hours
-- Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58mm)
+- Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58 mm)
 - IP Rating: None
 - Stereo: Yes
 - Weight: 1.5lbs / 680g
@@ -1536,7 +1536,7 @@ Last updated: March 04, 2026
 - Negatives: A bit of a sharp treble
 - Battery Life: 13 hours
 - Bluetooth Version: 5.0
-- Dimensions: 8.4" x 2.9" x 2.9" (213 x 74 x 74mm)
+- Dimensions: 8.4" x 2.9" x 2.9" (213 x 74 x 74 mm)
 - Frequency Response: 80Hz - 20kHz
 - Power: 16W
 - Weight: 0.82lbs / 373g
@@ -1553,7 +1553,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Latency: 110ms
 - Bluetooth Version: 5.0
-- Dimensions: 9.69" x 3.82" x 4.17" (246 x 97 x 106mm)
+- Dimensions: 9.69" x 3.82" x 4.17" (246 x 97 x 106 mm)
 - Frequency Response: 20Hz - 20kHz
 - Max Volume: 97db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1578,7 +1578,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 64hz
 - Battery Life: 12 hours
 - Bluetooth Version: 4.2
-- Dimensions: 7.6" x 3.8" x 2.1" (192 x 97 x 54mm)
+- Dimensions: 7.6" x 3.8" x 2.1" (192 x 97 x 54 mm)
 - Driver: 1x 63mm subwoofer, 2x 38mm tweeters
 - Weight: 1.8lbs / 816g
 - Reviews, Comparisons and Sound Samples
@@ -1597,7 +1597,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 8.6" x 2.8" x 2.75" (219 x 71 x 70mm)
+- Dimensions: 8.6" x 2.8" x 2.75" (219 x 71 x 70 mm)
 - EQ: No
 - IP Rating: IP67
 - Power Bank: Yes
@@ -1621,7 +1621,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Latency: 200ms
 - Bluetooth Version: 4.2
-- Dimensions: 7.13" x 2.72" x 2.91" (181 x 69 x 74mm)
+- Dimensions: 7.13" x 2.72" x 2.91" (181 x 69 x 74 mm)
 - Driver: 1x 44x80mm fullrange
 - Frequency Response: 65Hz - 20kHz
 - Max Volume: 92db
@@ -1647,7 +1647,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Latency: 300ms
 - Bluetooth Version: 4.2
-- Dimensions: 6.89" x 2.76" x 2.56" (175 x 70 x 65mm)
+- Dimensions: 6.89" x 2.76" x 2.56" (175 x 70 x 65 mm)
 - Driver: 2x 40mm fullrange
 - Frequency Response: 70Hz - 20kHz
 - Max Volume: 92db
@@ -1673,7 +1673,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 67hz
 - Battery Life: 12 hours
 - Bluetooth Version: 5.0
-- Dimensions: 3.0" x 8.58" x 3.0" (76 x 218 x 76mm)
+- Dimensions: 3.0" x 8.58" x 3.0" (76 x 218 x 76 mm)
 - Frequency Response: 20Hz - 20kHz
 - Max Volume: 95db
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1696,7 +1696,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.01" x 3.07" x 3.19" (178 x 78 x 81mm)
+- Dimensions: 7.01" x 3.07" x 3.19" (178 x 78 x 81 mm)
 - Driver: 2x 57mm fullrange
 - Frequency Response: 60Hz - 20kHz
 - IP Rating: IP67
@@ -1720,7 +1720,7 @@ Last updated: March 04, 2026
 - App: No
 - Battery Life: 10 hours
 - Bluetooth Version: 4.1
-- Dimensions: 6.65" x 2.52" x 2.52" (169 x 64 x 64mm)
+- Dimensions: 6.65" x 2.52" x 2.52" (169 x 64 x 64 mm)
 - Driver: 2x 40mm fullrange
 - EQ: No
 - Frequency Response: 80Hz - 20kHz
@@ -1739,7 +1739,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 63hz
 - Battery Life: 20 hours
 - Bluetooth Version: 4.1
-- Dimensions: 8.39" x 3.46" x 3.46" (213 x 88 x 88mm)
+- Dimensions: 8.39" x 3.46" x 3.46" (213 x 88 x 88 mm)
 - Driver: 2x 50mm fullrange
 - Frequency Response: 65Hz - 20kHz
 - Max Volume: 100db
@@ -1769,7 +1769,7 @@ Last updated: March 04, 2026
 - App: No
 - Battery Life: 20 hours
 - Bluetooth Version: 4.1
-- Dimensions: 8.39" x 3.50" x 3.43" (213 x 89 x 87mm)
+- Dimensions: 8.39" x 3.50" x 3.43" (213 x 89 x 87 mm)
 - Driver: 2x 50mm fullrange
 - EQ: No
 - Frequency Response: 65Hz - 20kHz
@@ -1790,7 +1790,7 @@ Last updated: March 04, 2026
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
 - Battery Life: 12 hours
 - Bluetooth Version: 3.0
-- Dimensions: 8.5" x 3.4" x 3.0" (216 x 86 x 76mm)
+- Dimensions: 8.5" x 3.4" x 3.0" (216 x 86 x 76 mm)
 - Driver: 2x 45mm fullrange
 - Frequency Response: 75Hz - 20kHz
 - Power: 15W RMS
@@ -1813,7 +1813,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 63hz
 - Battery Life: 10 hours
 - Bluetooth Version: 5.2
-- Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60mm)
+- Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60 mm)
 - Max Volume: 95db
 - Stereo: No
 - Weight: 0.95lbs / 429g
@@ -1830,7 +1830,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 63hz
 - Battery Life: 10 hours
 - Bluetooth Version: 5.0
-- Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60mm)
+- Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60 mm)
 - Max Volume: 95db
 - Stereo: No
 - Weight: 0.95lbs / 429g
@@ -1849,7 +1849,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Codecs: SBC, aptX Adaptive up to 48 KHz 24 bit
 - Bluetooth Version: 5.4
-- Dimensions: 8.5" x 3.2" x 2.3" (216 x 82 x 59mm)
+- Dimensions: 8.5" x 3.2" x 2.3" (216 x 82 x 59 mm)
 - Driver: 1x 58x117mm racetrack woofer, 1x 20mm tweeter
 - Frequency Response: 43Hz - 20kHz
 - IP Rating: IP67
@@ -1875,7 +1875,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 9.09" x 3.46" x 3.94" (231 x 88 x 100mm)
+- Dimensions: 9.09" x 3.46" x 3.94" (231 x 88 x 100 mm)
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
 - Power: 50W
@@ -1897,7 +1897,7 @@ Last updated: March 04, 2026
 - Battery Life: 14 hours
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
-- Dimensions: 2.52" x 6.0" x 2.57" (64 x 152 x 65mm)
+- Dimensions: 2.52" x 6.0" x 2.57" (64 x 152 x 65 mm)
 - Driver: 1x 43x80mm fullrange
 - EQ: Yes (7 band)
 - Frequency Response: 70Hz - 20kHz
@@ -1918,7 +1918,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.36" x 3.0" x 3.0" (187 x 76 x 76mm)
+- Dimensions: 7.36" x 3.0" x 3.0" (187 x 76 x 76 mm)
 - Driver: 2x 48mm fullrange
 - Frequency Response: 50Hz - 20kHz
 - IP Rating: IPX7
@@ -1941,7 +1941,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 83hz
 - Battery Life: 24 hours
 - Bluetooth Version: 5.3
-- Dimensions: 6.89" x 2.32" x 2.20" (175 x 59 x 56mm)
+- Dimensions: 6.89" x 2.32" x 2.20" (175 x 59 x 56 mm)
 - Max Volume: 98db
 - Power: 16W
 - Stereo: Yes
@@ -1959,7 +1959,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 10 hours
 - Bluetooth Version: 5.0
-- Dimensions: 7.01" x 2.24" x 2.13" (178 x 57 x 54mm)
+- Dimensions: 7.01" x 2.24" x 2.13" (178 x 57 x 54 mm)
 - Frequency Response: 70Hz - 20kHz
 - Power: 12W RMS
 - Stereo: Yes
@@ -1980,7 +1980,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 400ms AAC, 400ms SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.09" x 2.72" x 2.72" (180 x 69 x 69mm)
+- Dimensions: 7.09" x 2.72" x 2.72" (180 x 69 x 69 mm)
 - Driver: 2x 48mm fullrange
 - EQ: Yes
 - Frequency Response: 70Hz - 20kHz
@@ -2004,7 +2004,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 24 hours
 - Bluetooth Version: 5.0
-- Dimensions: 6.6" x 1.9" x 2.2" (168 x 47 x 56mm)
+- Dimensions: 6.6" x 1.9" x 2.2" (168 x 47 x 56 mm)
 - Driver: 2x 38mm fullrange
 - Frequency Response: 70Hz - 20kHz
 - Power: 12W
@@ -2047,7 +2047,7 @@ Last updated: March 04, 2026
 - Bass Extension (-10dB): 70hz
 - Battery Life: 20 hours
 - Bluetooth Version: 4.2
-- Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87mm)
+- Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87 mm)
 - Driver: 2x 50mm fullrange
 - Frequency Response: 60Hz - 20kHz
 - Max Volume: 98db
@@ -2071,7 +2071,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 166ms
 - Bluetooth Version: 5.2
 - Built in Microphone: No
-- Dimensions: 4.09 x 3.75 in (104 x 95.3 mm)
+- Dimensions: 4.09" x 3.75" (104 x 95.3 mm)
 - Driver: 2x 40mm active drivers + 2x passive radiators (46.1 x 65.2mm)
 - EQ: No
 - IP Rating: IP67
@@ -2098,7 +2098,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 4.09 x 3.75 in (104 x 95.3 mm)
+- Dimensions: 4.09" x 3.75" (104 x 95.3 mm)
 - Driver: 2x 40mm active drivers + 2x passive radiators
 - EQ: No
 - IP Rating: IP67
@@ -2142,7 +2142,7 @@ Last updated: March 04, 2026
 - Battery Life: 15 hours
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 7.24 x 2.9 x 2.9 in (184 x 73 x 73 mm)
+- Dimensions: 7.24" x 2.9" x 2.9" (184 x 73 x 73 mm)
 - Driver: 2x 1.57" (40mm) active drivers + 2x 1.81" x 2.57" (46.1 x 65.2mm) passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
@@ -2164,7 +2164,7 @@ Last updated: March 04, 2026
 - Battery Life: 15 hours
 - Bluetooth Version: 4.2
 - Built in Microphone: No
-- Dimensions: 7.24 x 2.87 in (184 x 73 mm)
+- Dimensions: 7.24" x 2.87" (184 x 73 mm)
 - Driver: 2x 2" active drivers + 2x 2" x 4" passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
@@ -2189,7 +2189,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 5 x 6 x 2.6 in (127 x 152 x 67 mm)
+- Dimensions: 5" x 6" x 2.6" (127 x 152 x 67 mm)
 - Driver: 1x 3" full-range driver + 2x side-firing passive radiators
 - EQ: No
 - IP Rating: IPX4 (Groove), none (Heritage Groove)
@@ -2214,7 +2214,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 9.37 x 4.13 x 4.69 in (238 x 105 x 119 mm)
+- Dimensions: 9.37" x 4.13" x 4.69" (238 x 105 x 119 mm)
 - Driver: 2x X-Balanced speaker units + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
@@ -2245,7 +2245,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 166ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.09 x 2.68 x 2.68 in (180 x 68 x 68 mm)
+- Dimensions: 7.09" x 2.68" x 2.68" (180 x 68 x 68 mm)
 - Driver: 2x drivers + passive radiators
 - EQ: No
 - IP Rating: IPX7
@@ -2271,7 +2271,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 7.8 x 2.68 x 2.72 in (198 x 68 x 69 mm)
+- Dimensions: 7.8" x 2.68" x 2.72" (198 x 68 x 69 mm)
 - EQ: No
 - IP Rating: IPX5
 - Party Mode: Yes (Partychain up to 100 speakers)
@@ -2295,7 +2295,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: No
-- Dimensions: 4.13 x 3.54 x 3.54 in (105 x 90 x 90 mm)
+- Dimensions: 4.13" x 3.54" x 3.54" (105 x 90 x 90 mm)
 - Driver: 1x 55mm (2.2") full-range driver + 2x passive radiators
 - EQ: No
 - IP Rating: IP67
@@ -2319,7 +2319,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 8.5 x 3.07 in (216 x 78 mm)
+- Dimensions: 8.5" x 3.07" (216 x 78 mm)
 - EQ: Yes (6 modes via app)
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -2363,7 +2363,7 @@ Last updated: March 04, 2026
 - Battery Life: 8 hours
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 5.2 x 5.0 x 2.2 in (132 x 127 x 56 mm)
+- Dimensions: 5.2" x 5.0" x 2.2" (132 x 127 x 56 mm)
 - Driver: 2x 40mm full-range drivers
 - EQ: No
 - IP Rating: IPX4
@@ -2392,7 +2392,7 @@ Last updated: March 04, 2026
 - Battery Life: 32 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 6.3 x 2.7 x 3.0 in (160 x 68 x 76 mm)
+- Dimensions: 6.3" x 2.7" x 3.0" (160 x 68 x 76 mm)
 - Driver: 2x 2" full-range cone drivers + 2x 2" passive radiators
 - EQ: Yes (3 presets via app)
 - IP Rating: IP67
@@ -2421,7 +2421,7 @@ Last updated: March 04, 2026
 - Bluetooth Latency: 80ms
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 6.3 x 2.7 x 3.0 in (160 x 68 x 76 mm)
+- Dimensions: 6.3" x 2.7" x 3.0" (160 x 68 x 76 mm)
 - Driver: 2x 2" full-range drivers + 2x passive radiators
 - EQ: Yes (3 presets via app)
 - IP Rating: IP67
@@ -2448,7 +2448,7 @@ Last updated: March 04, 2026
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 7.09 x 2.56 x 2.56 in (180 x 65 x 65 mm)
+- Dimensions: 7.09" x 2.56" x 2.56" (180 x 65 x 65 mm)
 - Driver: 2x 45mm full-range
 - IP Rating: IPX7
 - Power: 16W
@@ -2468,7 +2468,7 @@ Last updated: March 04, 2026
 - Battery Life: 10 hours
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 4.0
-- Dimensions: 7.28 x 2.95 x 2.95 in (185 x 75 x 75 mm)
+- Dimensions: 7.28" x 2.95" x 2.95" (185 x 75 x 75 mm)
 - Driver: 2x 85mm woofers, 2x 40mm mid-tweeters
 - Power: 60W
 - Power Input: USB
@@ -2487,7 +2487,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 8.27 x 3.94 x 3.94 in (210 x 100 x 100 mm)
+- Dimensions: 8.27" x 3.94" x 3.94" (210 x 100 x 100 mm)
 - Driver: 2x full-range + 1x passive radiator
 - IP Rating: IPX7
 - Party Mode: Yes (2 devices)
@@ -2509,7 +2509,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
-- Dimensions: 8.98 x 3.23 x 3.39 in (228 x 82 x 86 mm)
+- Dimensions: 8.98" x 3.23" x 3.39" (228 x 82 x 86 mm)
 - IP Rating: IPX5
 - Max Volume: 95db
 - Party Mode: Yes (Partychain up to 100 speakers)
@@ -2559,7 +2559,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 9.90 x 3.72 x 3.72 in (251 x 94 x 94 mm)
+- Dimensions: 9.90" x 3.72" x 3.72" (251 x 94 x 94 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - IP Rating: IPX6
 - Max Volume: 100db
@@ -2582,7 +2582,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.09 x 2.76 x 2.99 in (180 x 70 x 76 mm)
+- Dimensions: 7.09" x 2.76" x 2.99" (180 x 70 x 76 mm)
 - Driver: 2x 1.7-inch full-range drivers + 2x passive radiators (44x49mm each)
 - EQ: Yes (16 EQ modes via app)
 - IP Rating: IPX8
@@ -2605,7 +2605,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 2.1
 - Built in Microphone: Yes
-- Dimensions: 9.5 x 3.75 x 2.0 in (241 x 95 x 51 mm)
+- Dimensions: 9.5" x 3.75" x 2.0" (241 x 95 x 51 mm)
 - Driver: 2x 1.5-inch full-range + 1x 2.5-inch subwoofer + 2x 3-inch passive radiators
 - IP Rating: IP64
 - Power: 15W
@@ -2626,7 +2626,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
 - Built in Microphone: No
-- Dimensions: 3.19 x 4.88 x 3.19 in (81 x 124 x 81 mm)
+- Dimensions: 3.19" x 4.88" x 3.19" (81 x 124 x 81 mm)
 - Driver: 2x 1.8-inch full-range drivers
 - IP Rating: IP67
 - Max Volume: 91db
@@ -2649,7 +2649,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 3.54 x 8.19 x 3.70 in (90 x 208 x 94 mm)
+- Dimensions: 3.54" x 8.19" x 3.70" (90 x 208 x 94 mm)
 - Driver: 1x 42x51mm full-range + 2x passive radiators
 - IP Rating: IP67
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -2671,7 +2671,7 @@ Last updated: March 04, 2026
 - Battery Life: 24 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 9.25 x 3.11 x 3.07 in (235 x 79 x 78 mm)
+- Dimensions: 9.25" x 3.11" x 3.07" (235 x 79 x 78 mm)
 - IP Rating: IPX7
 - Power: 25W
 - TWS: Yes
@@ -2690,7 +2690,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 7.8 x 2.5 x 2.0 in (198 x 63 x 51 mm)
+- Dimensions: 7.8" x 2.5" x 2.0" (198 x 63 x 51 mm)
 - Driver: 2x 6W full-range drivers + 1x passive radiator
 - IP Rating: IPX6
 - MicroSD: Yes
@@ -2711,7 +2711,7 @@ Last updated: March 04, 2026
 - Battery Life: 15 hours
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
-- Dimensions: 7.9 x 3.1 x 3.1 in (201 x 79 x 79 mm)
+- Dimensions: 7.9" x 3.1" x 3.1" (201 x 79 x 79 mm)
 - Driver: 2x 1.75-inch woofers + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IPX5
@@ -2734,7 +2734,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
-- Dimensions: 8.7 x 3.3 x 3.2 in (222 x 83 x 80 mm)
+- Dimensions: 8.7" x 3.3" x 3.2" (222 x 83 x 80 mm)
 - Driver: 1x 42x80mm track-type woofer + 1x passive radiator
 - IP Rating: IP67
 - Party Mode: Yes (Wireless Party Link, up to 10 speakers)
@@ -2755,7 +2755,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 3.58 x 3.58 x 4.68 in (91 x 91 x 119 mm)
+- Dimensions: 3.58" x 3.58" x 4.68" (91 x 91 x 119 mm)
 - Driver: 2x 48mm 6W full-range drivers + 1x passive radiator
 - IP Rating: IPX7
 - Lights: Yes
@@ -2780,7 +2780,7 @@ Last updated: March 04, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 7.68 x 2.83 in (195 x 72 mm)
+- Dimensions: 7.68" x 2.83" (195 x 72 mm)
 - Driver: 2x full-range drivers + 3x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IPX7
@@ -2802,7 +2802,7 @@ Last updated: March 04, 2026
 - Battery Life: 6 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: No
-- Dimensions: 3.5 x 3.5 x 4.3 in
+- Dimensions: 3.5" x 3.5" x 4.3" (88.9 x 88.9 x 109.2 mm)
 - Driver: 2x 1.5" full-range drivers + 2x passive radiators
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -2821,7 +2821,7 @@ Last updated: March 04, 2026
 - Battery Life: 6 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.5 x 7.1 in (90 x 180 mm)
+- Dimensions: 3.5" x 7.1" (90 x 180 mm)
 - IP Rating: IPX7
 - MicroSD: Yes
 - Power: 10W
@@ -2841,7 +2841,7 @@ Last updated: March 04, 2026
 - Battery Life: 8 hours
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
-- Dimensions: 7.5 x 5.1 x 1.3 in (190 x 130 x 34 mm)
+- Dimensions: 7.5" x 5.1" x 1.3" (190 x 130 x 34 mm)
 - Driver: 4x 1.25" full-range drivers
 - Power: 16W
 - Power Bank: Yes
@@ -2859,7 +2859,7 @@ Last updated: March 04, 2026
 - Battery Life: 15 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 8.34 x 3.46 x 3.22 in
+- Dimensions: 8.34" x 3.46" x 3.22" (211.8 x 87.9 x 81.8 mm)
 - IP Rating: IPX7
 - Power: 30W
 - Power Input: USB-C
@@ -2877,7 +2877,7 @@ Last updated: March 04, 2026
 - Battery Life: 15 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 8.66 x 3.74 x 2.83 in (220 x 95 x 72 mm)
+- Dimensions: 8.66" x 3.74" x 2.83" (220 x 95 x 72 mm)
 - Driver: 1x 66mm full-range driver
 - IP Rating: IPX5
 - MicroSD: Yes
@@ -2898,7 +2898,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 3.58 x 3.58 x 1.65 in (91 x 91 x 42 mm)
+- Dimensions: 3.58" x 3.58" x 1.65" (91 x 91 x 42 mm)
 - Driver: 1x 52mm full-range
 - IP Rating: IP55
 - Power: 5W
@@ -2919,7 +2919,7 @@ Last updated: March 04, 2026
 - Battery Life: 30 hours
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- Dimensions: 3 x 3 x 6.69 in (76 x 76 x 170 mm)
+- Dimensions: 3" x 3" x 6.69" (76 x 76 x 170 mm)
 - Driver: 2x drivers + 2x passive radiators
 - IP Rating: IPX7
 - Power: 24W
@@ -2939,7 +2939,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
-- Dimensions: 6.5 x 2.8 x 2.75 in (165 x 71 x 70 mm)
+- Dimensions: 6.5" x 2.8" x 2.75" (165 x 71 x 70 mm)
 - Driver: 2x precision drivers + 1x passive bass radiator
 - IP Rating: IPX7
 - Max Volume: 86db
@@ -2960,7 +2960,7 @@ Last updated: March 04, 2026
 - Battery Life: 9 hours
 - Bluetooth Version: 4.0
 - Built in Microphone: No
-- Dimensions: 5.89 x 5.31 x 1.57 in (149.5 x 135 x 40 mm)
+- Dimensions: 5.89" x 5.31" x 1.57" (149.5 x 135 x 40 mm)
 - Driver: 1x 2" full-range + 2x 0.75" tweeters
 - IP Rating: IPX7
 - Power Input: Micro USB
@@ -2978,7 +2978,7 @@ Last updated: March 04, 2026
 - Battery Life: 8 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 2.68 x 2.68 x 6.3 in (68 x 68 x 160 mm)
+- Dimensions: 2.68" x 2.68" x 6.3" (68 x 68 x 160 mm)
 - Driver: 1x 30mm metal diaphragm driver
 - IP Rating: IPX5
 - MicroSD: Yes
@@ -3008,7 +3008,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Bass Extension (-10dB): 90hz
 - Built in Microphone: Yes
-- Dimensions: 2.5 x 8.27 x 2.72 in (63.6 x 210 x 69.2 mm)
+- Dimensions: 2.5" x 8.27" x 2.72" (63.6 x 210 x 69.2 mm)
 - EQ: No
 - Power Bank: Yes
 - Power Input: Lightning
@@ -3061,7 +3061,7 @@ Last updated: March 04, 2026
 - Battery Life: 12 hours
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
-- Dimensions: 6.6 x 2.9 x 2.7 in (167.6 x 73.7 x 68.6 mm)
+- Dimensions: 6.6" x 2.9" x 2.7" (167.6 x 73.7 x 68.6 mm)
 - Driver: 2x 1.5" full range + 1x 2.6" passive radiator
 - IP Rating: IPX4
 - MicroSD: Yes
@@ -3080,7 +3080,7 @@ Last updated: March 04, 2026
 - Battery Life: 20 hours
 - Bluetooth Version: 5.1
 - Built in Microphone: No
-- Dimensions: 3.43 x 3.43 x 8.86 in (87 x 87 x 225 mm)
+- Dimensions: 3.43" x 3.43" x 8.86" (87 x 87 x 225 mm)
 - Driver: 2x 50x50mm full-range + 2x 55x86mm passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
@@ -3103,7 +3103,7 @@ Last updated: March 04, 2026
 - Battery Life: 14 hours
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
-- Dimensions: 5.25 x 2.6 x 2.8 in (133.4 x 66 x 71.1 mm)
+- Dimensions: 5.25" x 2.6" x 2.8" (133.4 x 66 x 71.1 mm)
 - Driver: 2x precision acoustic drivers + 1x passive bass radiator
 - IP Rating: IPX5
 - Max Volume: 89db
@@ -3121,7 +3121,7 @@ Last updated: March 04, 2026
 - Battery Life: 40 hours
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
-- Dimensions: 4.06 x 4.06 x 6.7 in (103 x 103 x 170 mm)
+- Dimensions: 4.06" x 4.06" x 6.7" (103 x 103 x 170 mm)
 - Driver: 1x 66mm full-range
 - IP Rating: IPX7
 - Power: 20W
@@ -3138,7 +3138,7 @@ Last updated: March 04, 2026
 - Aux Input: Yes
 - Battery Life: 30 hours
 - Built in Microphone: Yes
-- Dimensions: 8 x 3.8 x 4.2 in (203.2 x 96.5 x 106.7 mm)
+- Dimensions: 8" x 3.8" x 4.2" (203.2 x 96.5 x 106.7 mm)
 - Driver: 1x 4.5" woofer
 - IP Rating: IP67
 - Power: 80W
