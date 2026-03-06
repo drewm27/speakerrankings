@@ -11,7 +11,7 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - Negatives: Not as deep bass as higher ranked speakers
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): ~70hz
+- Bass Extension (-10dB): ~70Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -21,7 +21,7 @@ The Klipsch Austin ranks [#13 out of 41 total Small Size Portable Bluetooth Spea
 - Driver: 1.5" full-range with dual passive radiators
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 89db
+- Max Volume: 89dB
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes (10W reverse USB-C charging)
 - Power Input: USB-C

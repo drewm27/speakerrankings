@@ -12,7 +12,7 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - Negatives: Slight treble rolloff
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -21,9 +21,9 @@ The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetoot
 - Driver: 4" woofer, 2x 2" tweeters
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 107db
+- Max Volume: 107dB
+- Output Power: 80W
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)

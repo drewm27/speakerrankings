@@ -21,8 +21,8 @@ The Harman Kardon Citation 200 ranks [#12 out of 73 total Large Size Portable Bl
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)

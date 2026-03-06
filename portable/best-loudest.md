@@ -30,7 +30,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
@@ -38,13 +38,13 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -73,7 +73,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
@@ -83,8 +83,8 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
-- Max Volume: 106db
-- Power: 50W
+- Max Volume: 106dB
+- Output Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -106,7 +106,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 20ms
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
@@ -117,9 +117,9 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 108db
+- Max Volume: 108dB
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -150,13 +150,13 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 36hz
+- Bass Extension (-10dB): 36Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 116db
+- Max Volume: 116dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -178,12 +178,12 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes (W-King app)
 - Aux Input: Yes
-- Bass Extension (-10dB): ~42hz
+- Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
-- Max Volume: 112db
+- Max Volume: 112dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -217,15 +217,16 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (up to 6 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -233,7 +234,6 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples

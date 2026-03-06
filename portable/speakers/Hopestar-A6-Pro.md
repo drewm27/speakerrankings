@@ -11,7 +11,7 @@ The Hopestar A6 Pro ranks [#68 out of 73 total Large Size Portable Bluetooth Spe
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 4 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -21,8 +21,8 @@ The Hopestar A6 Pro ranks [#68 out of 73 total Large Size Portable Bluetooth Spe
 - Frequency Response: 100Hz - 10kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 55W
 - Party Mode: No
-- Power: 55W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

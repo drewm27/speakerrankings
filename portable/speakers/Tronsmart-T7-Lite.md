@@ -20,7 +20,7 @@ The Tronsmart T7 Lite ranks [#111 out of 131 total Medium Size Portable Bluetoot
 - EQ: Yes (via app)
 - IP Rating: IPX7
 - MicroSD: Yes
-- Power: 24W
+- Output Power: 24W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.38lbs / 630g

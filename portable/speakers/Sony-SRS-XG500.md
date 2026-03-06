@@ -11,7 +11,7 @@ The Sony SRS-XG500 ranks [#41 out of 67 total Boombox Size Portable Bluetooth Sp
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
 - App: Yes (Music Center, Fiestable)
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.0

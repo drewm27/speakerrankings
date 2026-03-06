@@ -10,11 +10,11 @@ The Sonos Roam ranks [#70 out of 131 total Medium Size Portable Bluetooth Speake
 ## #70 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325)]: $160
 - Positives: Very neutral.
 - Negatives: Bass extension isn't very good. Not stereo. Gets distorted if you turn up the bass.
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60 mm)
-- Max Volume: 95db
+- Max Volume: 95dB
 - Stereo: No
 - Weight: 0.95lbs / 429g
 - Wifi: Yes

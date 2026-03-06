@@ -12,7 +12,7 @@ The Aiwa Exos-9 ranks [#8 out of 67 total Boombox Size Portable Bluetooth Speake
 - Negatives: Features are lacking, generally not recommended anymore, not sold new anymore. No water rating.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

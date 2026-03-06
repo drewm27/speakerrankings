@@ -11,7 +11,7 @@ The LG Xboom Go PL5 ranks [#108 out of 131 total Medium Size Portable Bluetooth 
 - Negatives: Barely any bass. 14khz peak, bright on top. Soundboost mode makes the top end even harsher.
 - App: Yes (LG XBOOM App)
 - Aux Input: Yes
-- Bass Extension (-10dB): 71hz
+- Bass Extension (-10dB): 71Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
@@ -19,9 +19,9 @@ The LG Xboom Go PL5 ranks [#108 out of 131 total Medium Size Portable Bluetooth 
 - Driver: 2x 1.75-inch woofers + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IPX5
-- Max Volume: 100db
+- Max Volume: 100dB
+- Output Power: 20W
 - Party Mode: Yes (Wireless Party Link, up to 100 speakers)
-- Power: 20W
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.4lbs / 640g

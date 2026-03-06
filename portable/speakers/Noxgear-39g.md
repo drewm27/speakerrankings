@@ -12,7 +12,7 @@ The Noxgear 39g ranks [#40 out of 41 total Small Size Portable Bluetooth Speaker
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): ~300hz
+- Bass Extension (-10dB): ~300Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

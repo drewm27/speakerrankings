@@ -20,12 +20,12 @@ The Teufel Boomster Go ranks [#5 out of 41 total Small Size Portable Bluetooth S
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.78lbs / 355g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>

@@ -11,7 +11,7 @@ The Marshall Woburn II ranks [#6 out of 14 total Medium Size Powered Desktop Spe
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~47hz
+- Bass Extension (-10dB): ~47Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: AptX, SBC
 - Bluetooth Version: 5.0
@@ -21,9 +21,9 @@ The Marshall Woburn II ranks [#6 out of 14 total Medium Size Powered Desktop Spe
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
-- Max Volume: 110db
+- Max Volume: 110dB
+- Output Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes

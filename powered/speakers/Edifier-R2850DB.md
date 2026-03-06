@@ -18,7 +18,7 @@ The Edifier R2850DB ranks [#19 out of 21 total Large Size Powered Bookshelf Spea
 - EQ: No
 - Frequency Response: 42Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
-- Watts: 75w RMS Per Speaker
+- Output Power: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)

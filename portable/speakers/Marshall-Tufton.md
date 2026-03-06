@@ -11,7 +11,7 @@ The Marshall Tufton ranks [#56 out of 67 total Boombox Size Portable Bluetooth S
 - Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low water rating
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 42hz
+- Bass Extension (-10dB): 42Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

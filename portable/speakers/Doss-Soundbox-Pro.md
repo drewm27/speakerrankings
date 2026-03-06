@@ -15,7 +15,7 @@ The Doss Soundbox Pro ranks [#125 out of 131 total Medium Size Portable Bluetoot
 - Built in Microphone: Yes
 - IP Rating: IPX6
 - MicroSD: Yes
-- Power: 20W
+- Output Power: 20W
 - Power Input: Micro USB
 - TWS: Yes
 - Weight: 1.23lbs / 558g

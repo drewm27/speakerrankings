@@ -12,7 +12,7 @@ The Marshall Stockwell 2 ranks [#10 out of 73 total Large Size Portable Bluetoot
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
@@ -23,9 +23,9 @@ The Marshall Stockwell 2 ranks [#10 out of 73 total Large Size Portable Bluetoot
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

@@ -22,8 +22,8 @@ Last updated: March 05, 2026
 - Positives: The top rated speaker in this category. Amazingly flat frequency response, fantastic off axis. Bass extension is quite good for this size.
 - Negatives: High price
 - App: Yes (MA 1 alignment)
-- Bass Extension (-10dB): 36hz
-- Bass Extension (-3dB): 46hz
+- Bass Extension (-10dB): 36Hz
+- Bass Extension (-3dB): 46Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 11.3"H x 7.2"W x 8.9"D (287 x 182.9 x 226.1 mm)
@@ -32,8 +32,7 @@ Last updated: March 05, 2026
 - Frequency Response: 44Hz - 21kHz (±3dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 116.8dB @ 1m
-- Power: 245W (145W woofer + 100W tweeter)
-- Watts: 200w Per Speaker
+- Output Power: 245W (145W woofer + 100W tweeter)
 - Weight: 11.9lbs / 6.6kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh120-ii-monitor-review.46362/)
@@ -45,8 +44,8 @@ Last updated: March 05, 2026
 - Positives: One of the best speakers in this size class
 - Negatives: High price
 - App: No
-- Bass Extension (-10dB): 47hz
-- Bass Extension (-3dB): 59hz
+- Bass Extension (-10dB): 47Hz
+- Bass Extension (-3dB): 59Hz
 - Bluetooth: No
 - Dimensions: 11.7"H x 7.4"W x 7"D (297.2 x 188 x 177.8 mm)
 - Driver: 5.1" woofer, 0.75" metal dome tweeter
@@ -54,8 +53,7 @@ Last updated: March 05, 2026
 - Frequency Response: 54Hz - 20kHz (±2.5dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 110dB @ 1m
-- Power: 100W (50W woofer + 50W tweeter)
-- Watts: 100w Per Speaker
+- Output Power: 100W (50W woofer + 50W tweeter)
 - Weight: 11lbs / 5kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8030c-studio-monitor-review.14795/)
@@ -67,8 +65,8 @@ Last updated: March 05, 2026
 - Positives: Slightly better than the HS5 for neutrality with deeper bass.
 - Negatives: High price
 - App: No
-- Bass Extension (-10dB): 50hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 50Hz
+- Bass Extension (-3dB): 56Hz
 - Bluetooth: No
 - Dimensions: 9.5"H x 5.8"W x 5.6"D (241.3 x 147.3 x 142.2 mm)
 - Driver: 4.1" woofer, 0.75" metal dome tweeter
@@ -76,8 +74,7 @@ Last updated: March 05, 2026
 - Frequency Response: 56 Hz - 25 kHz (-6 dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 103dB @ 1m
-- Power: 100W (50W woofer + 50W tweeter)
-- Watts: 100w Per Speaker
+- Output Power: 100W (50W woofer + 50W tweeter)
 - Weight: 7.1lbs / 3.2kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)
@@ -96,8 +93,8 @@ Last updated: March 05, 2026
 - Positives: Near identical sound to the 8020D. 8020D is slightly cleaner, KH80 is slightly warmer.
 - Negatives: High price
 - App: Yes (MA 1 alignment)
-- Bass Extension (-10dB): 51hz
-- Bass Extension (-3dB): 57hz
+- Bass Extension (-10dB): 51Hz
+- Bass Extension (-3dB): 57Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 13.6"H x 10.8"W x 9.6"D (345.4 x 274.3 x 243.8 mm)
@@ -106,8 +103,7 @@ Last updated: March 05, 2026
 - Frequency Response: 57 Hz - 25 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 110.7dB @ 1m
-- Power: 140W (90W woofer + 50W tweeter)
-- Watts: 140w Per Speaker
+- Output Power: 140W (90W woofer + 50W tweeter)
 - Weight: 9.1lbs / 4.1kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)
@@ -129,8 +125,8 @@ Last updated: March 05, 2026
 - Positives: An insane value in this class. Slight 2dB bass boost. Pretty deep bass for this size class. Includes Bluetooth
 - Negatives: 3dB dip around 240hz
 - App: No
-- Bass Extension (-10dB): 39hz
-- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 39Hz
+- Bass Extension (-3dB): 54Hz
 - Bluetooth: No
 - Driver: 4.5" woofer, 1" Textile Dome tweeter
 - EQ: No
@@ -154,7 +150,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45 Hz - 22 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS, RCA
-- Watts: 60w Per Speaker
+- Output Power: 60w Per Speaker
 - Weight: 13.1lbs / 6.0kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)
@@ -181,7 +177,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 49 Hz - 20 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS
-- Watts: 81w Per Speaker
+- Output Power: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)
@@ -210,7 +206,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 70w Per Speaker
+- Output Power: 70w Per Speaker
 - Weight: 12.6lbs / 5.7kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)
@@ -237,7 +233,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 45w Per Speaker
+- Output Power: 45w Per Speaker
 - Weight: 12.1lbs / 5.5kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)
@@ -264,7 +260,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 80w Per Speaker
+- Output Power: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T5V vs Presonus Eris E5   5 Track Comparison](https://www.youtube.com/watch?v=qThZxLqb5EI)
@@ -291,7 +287,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: TRS/XLR
-- Watts: 55w Per Speaker
+- Output Power: 55w Per Speaker
 - Weight: 10.7lbs / 4.9kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)
@@ -318,7 +314,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 80w Per Speaker
+- Output Power: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)
@@ -341,7 +337,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 50 Hz - 24 kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 100w Per Speaker
+- Output Power: 100w Per Speaker
 - Weight: 5.5lbs / 2.5kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)
@@ -366,8 +362,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
+- Output Power: 65w RMS Per Speaker
 - Outputs: None
-- Watts: 65w RMS Per Speaker
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
     - [DSAUDIO.review: DSAUDIO.review  Edifier S2000MKIII vs Klipsch The Three II  sound.DEMO](https://www.youtube.com/watch?v=2zAFza0qxrw)
@@ -386,8 +382,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, Wifi, 2x RCA Input, Digital Optical, Digital Coax
+- Output Power: 60w RMS Per Speaker
 - Outputs: None
-- Watts: 60w RMS Per Speaker
 - Weight: 37.0lbs / 16.8kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
@@ -404,8 +400,8 @@ Last updated: March 05, 2026
 - Driver: 5.5" woofer
 - EQ: No
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
+- Output Power: 60w RMS Per Speaker
 - Outputs: None
-- Watts: 60w RMS Per Speaker
 - Weight: 37.0lbs / 16.8kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
@@ -423,8 +419,8 @@ Last updated: March 05, 2026
 - Driver: 115mm (4.5in.) magnesium/aluminium alloy cone woofer, 19mm (0.75in.) aluminium dome tweeter
 - EQ: No
 - Inputs: Wifi, USB-C, HDMI, Optical, Bluetooth
+- Output Power: 100w RMS Per Speaker
 - Outputs: RCA Subwoofer
-- Watts: 100w RMS Per Speaker
 - Weight: 15.0lbs / 6.8kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Transform Your Sound System with the KEF LSX II LT Speaker](https://www.youtube.com/watch?v=Tcz905gti5A)
@@ -442,7 +438,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 56Hz-30KHz (+-3dB) (Manufacturer specified)
 - Inputs: RCA, TRS, XLR
-- Watts: 50w RMS Per Speaker
+- Output Power: 50w RMS Per Speaker
 - Weight: 13.0lbs / 5.87kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)
@@ -465,8 +461,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA Input, Digital Optical
+- Output Power: 50w RMS Per Speaker
 - Outputs: RCA Output
-- Watts: 50w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)
@@ -484,7 +480,7 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 55Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical
-- Watts: 60w RMS Per Speaker
+- Output Power: 60w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1700BT vs Edifier R2000DB   Sound Demo](https://www.youtube.com/watch?v=tccM1DTZ6ss)
@@ -504,8 +500,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: TRS Balanced, RCA, Aux
+- Output Power: 42w RMS Per Speaker
 - Outputs: Headphone
-- Watts: 42w RMS Per Speaker
 - Weight: 9.9lbs / 4.5kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)
@@ -530,8 +526,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, RCA Input
+- Output Power: 66w RMS Per Speaker
 - Outputs: None
-- Watts: 66w RMS Per Speaker
 - Weight: 14.5lbs / 6.6kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=5NuLO145dsI)
@@ -553,8 +549,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 55 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
+- Output Power: 42w RMS Per Speaker
 - Outputs: None
-- Watts: 42w RMS Per Speaker
 - Weight: 10.8lbs / 4.9kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier R1280DB vs Edifier R1700BT   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=ApdsaDkvoj8)
@@ -574,8 +570,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA Input
+- Output Power: 50w RMS Per Speaker
 - Outputs: RCA Output
-- Watts: 50w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)

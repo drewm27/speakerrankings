@@ -21,8 +21,8 @@ The Fugoo XL ranks [#37 out of 73 total Large Size Portable Bluetooth Speakers](
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 38W
 - Party Mode: No
-- Power: 38W
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes

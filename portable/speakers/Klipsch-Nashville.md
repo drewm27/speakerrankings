@@ -11,7 +11,7 @@ The Klipsch Nashville ranks [#64 out of 131 total Medium Size Portable Bluetooth
 - Negatives: Upper bass boost. Bass not as deep as the top ranked speakers. Boosted lower treble, sounds a little harsh like most Klipsch speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): ~64hz
+- Bass Extension (-10dB): ~64Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -19,9 +19,9 @@ The Klipsch Nashville ranks [#64 out of 131 total Medium Size Portable Bluetooth
 - Driver: 2x 57mm fullrange
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 89db
+- Max Volume: 89dB
+- Output Power: 20W RMS
 - Party Mode: Yes (broadcast mode)
-- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - TWS: Yes

@@ -22,9 +22,9 @@ The JBL Xtreme 4 ranks [#35 out of 73 total Large Size Portable Bluetooth Speake
 - EQ: Yes (5 band)
 - Frequency Response: 44Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 100W
 - Party Mode: Yes (Auracast)
-- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Removable Battery: Yes

@@ -22,6 +22,7 @@ The JBL Partybox Club 120 ranks [#3 out of 43 total Party Size Portable Bluetoot
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 160W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -29,7 +30,6 @@ The JBL Partybox Club 120 ranks [#3 out of 43 total Party Size Portable Bluetoot
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 160W
 - Weight: 24lbs / 10.8kg
 - Reviews, Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)

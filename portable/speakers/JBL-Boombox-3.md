@@ -12,7 +12,7 @@ The JBL Boombox 3 ranks [#19 out of 67 total Boombox Size Portable Bluetooth Spe
 - App: No
 - Aux Input: Yes
 - Aux Latency: 25ms
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
@@ -20,7 +20,7 @@ The JBL Boombox 3 ranks [#19 out of 67 total Boombox Size Portable Bluetooth Spe
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)

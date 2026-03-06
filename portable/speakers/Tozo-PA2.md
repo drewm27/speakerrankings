@@ -18,7 +18,7 @@ The Tozo PA2 ranks [#102 out of 131 total Medium Size Portable Bluetooth Speaker
 - Driver: 2x 1.7-inch full-range drivers + 2x passive radiators (44x49mm each)
 - EQ: Yes (16 EQ modes via app)
 - IP Rating: IPX8
-- Power: 16W
+- Output Power: 16W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes

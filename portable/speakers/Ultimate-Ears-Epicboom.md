@@ -11,7 +11,7 @@ The Ultimate Ears Epicboom ranks [#54 out of 73 total Large Size Portable Blueto
 - Negatives: Not very deep bass for the size. Gets distorted at around 70-80% with bass thuds.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 17 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -21,7 +21,7 @@ The Ultimate Ears Epicboom ranks [#54 out of 73 total Large Size Portable Blueto
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 94db
+- Max Volume: 94dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

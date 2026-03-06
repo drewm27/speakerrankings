@@ -11,7 +11,7 @@ The B&O Beosound 1 ranks [#29 out of 43 total Party Size Portable Bluetooth Spea
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~53hz
+- Bass Extension (-10dB): ~53Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -20,7 +20,7 @@ The B&O Beosound 1 ranks [#29 out of 43 total Party Size Portable Bluetooth Spea
 - EQ: No
 - Frequency Response: 35Hz - 24.3kHz (Manufacturer specified)
 - IP Rating: None
-- Max Volume: 91db
+- Max Volume: 91dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord

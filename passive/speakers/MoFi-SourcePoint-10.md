@@ -10,8 +10,8 @@ The MoFi SourcePoint 10 ranks [#8 out of 48 total Large Size Bookshelf Speakers]
 ## #8 [MoFi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Negatives: Will need to be listened to off-axis, bright up top directly on axis
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 56Hz
 - Dimensions: 22.5"H x 14.5"W x 16.6"D (571.5 x 368.3 x 421.6 mm)
 - Driver: 10" Paper-pulp Cone woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms

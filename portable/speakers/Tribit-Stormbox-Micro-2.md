@@ -12,7 +12,7 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 41 total Small Size Portable Blueto
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
@@ -20,13 +20,13 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 41 total Small Size Portable Blueto
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>

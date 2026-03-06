@@ -12,7 +12,7 @@ The JBL Charge 6 ranks [#11 out of 131 total Medium Size Portable Bluetooth Spea
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
@@ -21,9 +21,9 @@ The JBL Charge 6 ranks [#11 out of 131 total Medium Size Portable Bluetooth Spea
 - EQ: Yes (7 band)
 - Frequency Response: 56Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: IP68
-- Max Volume: 102db
+- Max Volume: 102dB
+- Output Power: 45W
 - Party Mode: Yes (Auracast)
-- Power: 45W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No

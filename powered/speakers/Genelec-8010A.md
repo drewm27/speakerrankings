@@ -11,8 +11,8 @@ The Genelec 8010A ranks [#1 out of 8 total Small Size Powered Bookshelf Speakers
 - Positives: An extremely neutral speaker for mastering and mixing recordings. Although for mastering, it's highly recommended to use a larger speaker with deeper bass extension or add a subwoofer
 - Negatives: Not as deep of bass as the iLoud. Probably not the best choice for general music listening due to the price and limited bass extension.
 - App: No
-- Bass Extension (-10dB): 67hz
-- Bass Extension (-3dB): 74hz
+- Bass Extension (-10dB): 67Hz
+- Bass Extension (-3dB): 74Hz
 - Bluetooth: No
 - Dimensions: 7.7"H x 4.8"W x 4.5"D (195.6 x 121.9 x 114.3 mm)
 - Driver: 3" woofer, 0.75" metal dome tweeter
@@ -20,8 +20,7 @@ The Genelec 8010A ranks [#1 out of 8 total Small Size Powered Bookshelf Speakers
 - Frequency Response: 67 Hz-25 kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 96dB @ 1m
-- Power: 50W (25W woofer + 25W tweeter)
-- Watts: 50w RMS Per Speaker
+- Output Power: 50W (25W woofer + 25W tweeter)
 - Weight: 3.3lbs / 1.5kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Genelec 8010A (Genelec G One) vs iLoud Micro Monitor   Sound Demo w/ Bass Test](https://www.youtube.com/watch?v=Vi5umvPW1yQ)

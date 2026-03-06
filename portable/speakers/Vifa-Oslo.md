@@ -11,7 +11,7 @@ The Vifa Oslo ranks [#7 out of 73 total Large Size Portable Bluetooth Speakers](
 - Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
 - App: No (official app is broken, 3rd party android app only)
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.1

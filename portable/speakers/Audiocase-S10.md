@@ -19,14 +19,14 @@ The Audiocase S10 ranks [#26 out of 43 total Party Size Portable Bluetooth Speak
 - Driver: 2x 10" woofers, 1" compression tweeter
 - EQ: No
 - IP Rating: None
-- Max Volume: 125db
+- Max Volume: 125dB
+- Output Power: 3 x 73W
 - Party Mode: No
 - Power Bank: No
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 3 x 73W
 - Weight: 44.7lbs / 19.8kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples

@@ -10,8 +10,8 @@ The GR-Research NX-Bravo ranks [#5 out of 48 total Large Size Bookshelf Speakers
 ## #5 [GR-Research NX-Bravo](https://gr-research.com/product/nx-bravo-kit/) [[Gr-research](https://gr-research.com/product/nx-bravo-kit/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Bravo)]: $1540 kit with finished cabinets (assembly required)
 - Positives: Ultra clean burst decay/waterfall plot
 - Negatives: 2db dip at 3.7khz, 2dB dip at 8khz, 2dB treble peak up around 14khz
-- Bass Extension (-10dB): 45hz
-- Bass Extension (-3dB): 77hz
+- Bass Extension (-10dB): 45Hz
+- Bass Extension (-3dB): 77Hz
 - Dimensions: 14"H x 7.5"W x 11.5"D (355.6 x 190.5 x 292.1 mm)
 - Driver: GR-Research M165 6.5" paper cone, non-resonant polymer frame woofer, GR-Research Neo3 Planar Magnetic Ribbon deep rear cup tweeter
 - Impedance: 6 ohms

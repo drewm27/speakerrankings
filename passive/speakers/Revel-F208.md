@@ -9,8 +9,8 @@ The Revel F208 ranks [#4 out of 25 total Large Size Floorstanding Speakers](/pas
 
 ## #4 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F208)]: Discontinued, $2400 used
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
-- Bass Extension (-10dB): 24hz
-- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 24Hz
+- Bass Extension (-3dB): 47Hz
 - Dimensions: 46.6"H x 13.5"W x 14.8"D (1183.6 x 342.9 x 375.9 mm)
 - Driver: Dual 8” (20 cm) Aluminum Cone, Cast-frame Woofers, 5.25” (13.3 cm) Aluminum Cone, Cast-frame Midrange, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 8 ohms

@@ -12,7 +12,7 @@ The Harman Kardon Luna ranks [#22 out of 131 total Medium Size Portable Bluetoot
 - Negatives: Not stereo. Boosted bass, not as detailed as higher ranked speakers
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 57hz
+- Bass Extension (-10dB): 57Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 8.3" x 3.1" x 3.1" (210 x 78 x 80 mm)
@@ -21,7 +21,7 @@ The Harman Kardon Luna ranks [#22 out of 131 total Medium Size Portable Bluetoot
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - MicroSD: No
-- Power: 40W
+- Output Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes

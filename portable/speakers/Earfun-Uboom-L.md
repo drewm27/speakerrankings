@@ -14,7 +14,7 @@ The Earfun Uboom L ranks [#1 out of 131 total Medium Size Portable Bluetooth Spe
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
@@ -24,9 +24,9 @@ The Earfun Uboom L ranks [#1 out of 131 total Medium Size Portable Bluetooth Spe
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Max Volume: 103db
+- Max Volume: 103dB
+- Output Power: 28W
 - Party Mode: No
-- Power: 28W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

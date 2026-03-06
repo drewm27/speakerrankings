@@ -11,7 +11,7 @@ The Ultimate Ears Hyperboom ranks [#24 out of 43 total Party Size Portable Bluet
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0

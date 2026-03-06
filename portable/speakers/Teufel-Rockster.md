@@ -21,10 +21,10 @@ The Teufel Rockster ranks [#6 out of 10 total Large Party Size Portable Bluetoot
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 115 dB
+- Max Volume: 115dB
 - Microphone Input: Yes
+- Output Power: 450W
 - Party Mode: Yes
-- Power: 450W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes

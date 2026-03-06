@@ -21,11 +21,11 @@ The W-King T12 ranks [#10 out of 10 total Large Party Size Portable Bluetooth Sp
 - EQ: Yes (Bass and treble)
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 135 dB
+- Max Volume: 135dB
 - MicroSD: Yes
 - Microphone Input: Yes
+- Output Power: 370W
 - Party Mode: No
-- Power: 370W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

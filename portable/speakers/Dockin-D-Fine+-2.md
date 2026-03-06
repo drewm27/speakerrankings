@@ -12,7 +12,7 @@ The Dockin D Fine+ 2 ranks [#24 out of 73 total Large Size Portable Bluetooth Sp
 - Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -21,9 +21,9 @@ The Dockin D Fine+ 2 ranks [#24 out of 73 total Large Size Portable Bluetooth Sp
 - Driver: 2x tweeters, 2x midrange/bass drivers + 2x passive radiators
 - EQ: Yes (Bass boost 3 steps)
 - IP Rating: IPX5
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

@@ -9,8 +9,8 @@ The MoFi SourcePoint V10 Master Edition ranks [#3 out of 25 total Large Size Flo
 
 ## #3 [MoFi SourcePoint V10 Master Edition](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=MoFi+SourcePoint+V10+Master+Edition)]: $8000 a pair
 - Positives: One of the best value floorstanders
-- Bass Extension (-10dB): 25hz
-- Bass Extension (-3dB): 38hz
+- Bass Extension (-10dB): 25Hz
+- Bass Extension (-3dB): 38Hz
 - Dimensions: 48.8"H x 15.5"W x 19.9"D (1239.5 x 393.7 x 505.5 mm)
 - Driver: 10" woofer, 10" paper‑cone concentric midrange, 1.25" soft‑dome concentric tweeter
 - Impedance: 6 ohms

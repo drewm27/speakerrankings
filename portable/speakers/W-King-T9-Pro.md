@@ -20,12 +20,12 @@ The W-King T9 Pro ranks [#27 out of 43 total Party Size Portable Bluetooth Speak
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 250W (peak)
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: Yes
-- Wattage: 250W (peak)
 - Weight: 19.9lbs / 9.05kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)

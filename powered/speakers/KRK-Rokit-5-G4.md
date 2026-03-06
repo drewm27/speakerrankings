@@ -17,7 +17,7 @@ The KRK Rokit 5 G4 ranks [#11 out of 24 total Medium Size Powered Bookshelf Spea
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: TRS/XLR
-- Watts: 55w Per Speaker
+- Output Power: 55w Per Speaker
 - Weight: 10.7lbs / 4.9kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Focal Alpha 50 EVO vs KRK Rokit 5 G4 RP5G4 sound.DEMO](https://www.youtube.com/watch?v=XeRI_hA1DWg)

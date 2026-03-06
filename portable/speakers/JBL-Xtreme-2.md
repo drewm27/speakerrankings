@@ -11,7 +11,7 @@ The JBL Xtreme 2 ranks [#41 out of 73 total Large Size Portable Bluetooth Speake
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -21,9 +21,9 @@ The JBL Xtreme 2 ranks [#41 out of 73 total Large Size Portable Bluetooth Speake
 - EQ: No
 - Frequency Response: 55Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 98db
+- Max Volume: 98dB
+- Output Power: 40W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 40W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

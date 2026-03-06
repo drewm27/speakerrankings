@@ -13,7 +13,7 @@ The Xiaomi Mi Portable ranks [#57 out of 131 total Medium Size Portable Bluetoot
 - Bluetooth Version: 5.0
 - Dimensions: 8.4" x 2.9" x 2.9" (213 x 74 x 74 mm)
 - Frequency Response: 80Hz - 20kHz (Manufacturer specified)
-- Power: 16W
+- Output Power: 16W
 - Weight: 0.82lbs / 373g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Anker Soundcore 3 Vs Soundynamic Twinkle Vs Xiaomi Mi 16w](https://www.youtube.com/watch?v=TF748bXDjIs)

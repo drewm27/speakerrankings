@@ -14,7 +14,7 @@ The JBL Charge 2 ranks [#68 out of 131 total Medium Size Portable Bluetooth Spea
 - Dimensions: 8.5" x 3.4" x 3.0" (216 x 86 x 76 mm)
 - Driver: 2x 45mm fullrange
 - Frequency Response: 75Hz - 20kHz (Manufacturer specified)
-- Power: 15W RMS
+- Output Power: 15W RMS
 - Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>

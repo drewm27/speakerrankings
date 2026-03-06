@@ -18,7 +18,7 @@ The Yamaha HS8 ranks [#14 out of 21 total Large Size Powered Bookshelf Speakers]
 - EQ: Yes (Room adjustment)
 - Frequency Response: 47Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 120w Per Speaker
+- Output Power: 120w Per Speaker
 - Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)

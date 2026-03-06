@@ -11,8 +11,8 @@ The Dutch & Dutch 8C ranks [#1 out of 21 total Large Size Powered Bookshelf Spea
 - Positives: Some of the deepest bass you will find anywhere from a reasonably sized bookshelf speaker. Performs like a big floorstander. Very smooth frequency response
 - Negatives: Vertical off-axis is just okay due to the distance between the midrange and tweeter
 - App: Yes (Ascend)
-- Bass Extension (-10dB): <20hz
-- Bass Extension (-3dB): 23hz
+- Bass Extension (-10dB): <20Hz
+- Bass Extension (-3dB): 23Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 19"H x 10.5"W x 15"D (482.6 x 266.7 x 381 mm)
@@ -21,9 +21,8 @@ The Dutch & Dutch 8C ranks [#1 out of 21 total Large Size Powered Bookshelf Spea
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 106dB @ 1m continuous
-- Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
+- Output Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
 - Streaming Services: Yes (network streaming)
-- Watts: 1000w Per Speaker
 - Weight: 57lbs / 26kg each
 - Wifi: Yes (Ethernet)
 - Reviews, Comparisons and Sound Samples

@@ -19,8 +19,8 @@ The 1More S1001bt ranks [#28 out of 131 total Medium Size Portable Bluetooth Spe
 - EQ: Yes
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes

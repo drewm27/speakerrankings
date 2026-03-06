@@ -13,14 +13,14 @@ The Harman Kardon Onyx Studio 7 ranks [#12 out of 67 total Boombox Size Portable
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 37hz
+- Bass Extension (-10dB): 37Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 266ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: None
-- Max Volume: 96db
+- Max Volume: 96dB
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No
 - Power Input: AC Power brick

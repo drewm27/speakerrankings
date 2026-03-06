@@ -11,7 +11,7 @@ The Doss Soundbox XL ranks [#50 out of 73 total Large Size Portable Bluetooth Sp
 - Negatives: A little hollow sounding.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
@@ -21,10 +21,10 @@ The Doss Soundbox XL ranks [#50 out of 73 total Large Size Portable Bluetooth Sp
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: Yes
+- Output Power: 32W
 - Party Mode: No
-- Power: 32W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes

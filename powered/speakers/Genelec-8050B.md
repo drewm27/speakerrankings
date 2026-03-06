@@ -18,7 +18,7 @@ The Genelec 8050B ranks [#6 out of 21 total Large Size Powered Bookshelf Speaker
 - EQ: Yes (Room adjustment)
 - Frequency Response: 32Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 270w Per Speaker
+- Output Power: 270w Per Speaker
 - Weight: 31.7lbs / 14.4kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)

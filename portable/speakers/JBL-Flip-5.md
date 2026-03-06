@@ -9,16 +9,16 @@ The JBL Flip 5 ranks [#61 out of 131 total Medium Size Portable Bluetooth Speake
 
 ## #61 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325)]: $90
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Latency: 200ms
 - Bluetooth Version: 4.2
 - Dimensions: 7.13" x 2.72" x 2.91" (181 x 69 x 74 mm)
 - Driver: 1x 44x80mm fullrange
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
-- Max Volume: 92db
+- Max Volume: 92dB
+- Output Power: 20W RMS
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 20W RMS
 - Weight: 1.19lbs / 540g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>

@@ -10,7 +10,7 @@ The Sharp PS-929 ranks [#36 out of 43 total Party Size Portable Bluetooth Speake
 ## #36 Sharp PS-929: $150
 - Negatives: Not very deep bass
 - App: No
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -18,13 +18,13 @@ The Sharp PS-929 ranks [#36 out of 43 total Party Size Portable Bluetooth Speake
 - Driver: 2x 6.5" woofers, 2x 2" tweeters
 - EQ: No
 - IP Rating: None
+- Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 50W RMS
 - Weight: 19lbs / 8.6kg
 - Reviews, Comparisons and Sound Samples
     - [Technotin: Power Audio Sharp PS-929   7day experience](https://www.youtube.com/watch?v=uiRxrnvyvCw)

@@ -16,7 +16,7 @@ The KRK Rokit 8 G4 ranks [#17 out of 21 total Large Size Powered Bookshelf Speak
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
-- Watts: 100w Per Speaker
+- Output Power: 100w Per Speaker
 - Weight: 22.6lbs / 10.5kg
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)

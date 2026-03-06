@@ -11,7 +11,7 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 - Negatives: Not very deep bass. Possibly slightly bright treble. Will need more sound samples to make a better determination. Only 12 hours of battery life which is about the worst in the category.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~50hz
+- Bass Extension (-10dB): ~50Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -20,8 +20,8 @@ The Mee audio PartySPKR ranks [#27 out of 73 total Large Size Portable Bluetooth
 - Driver: 2x woofers, 2x tweeters + 2x passive radiators
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
 - IP Rating: IPX6
+- Output Power: 60W
 - Party Mode: Yes
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

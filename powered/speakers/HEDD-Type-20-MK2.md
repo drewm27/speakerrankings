@@ -9,8 +9,8 @@ The HEDD Type 20 MK2 ranks [#5 out of 21 total Large Size Powered Bookshelf Spea
 
 ## #5 [HEDD Type 20 MK2](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=HEDD+Type+20+MK2)]: $4800 a pair
 - App: Yes (HEDD CTRL)
-- Bass Extension (-10dB): 26hz
-- Bass Extension (-3dB): 32hz
+- Bass Extension (-10dB): 26Hz
+- Bass Extension (-3dB): 32Hz
 - Bluetooth: No
 - DSP: Yes (96kHz/32-bit)
 - Dimensions: 14.1"H x 11"W x 13.3"D (358.1 x 279.4 x 337.8 mm)
@@ -19,8 +19,8 @@ The HEDD Type 20 MK2 ranks [#5 out of 21 total Large Size Powered Bookshelf Spea
 - Frequency Response: 32Hz - 40kHz (Manufacturer specified)
 - Inputs: XLR (Analog/AES)
 - Max SPL: 120dB @ 1m (per pair)
+- Output Power: 900W (3x300W)
 - Outputs: XLR (AES pass-through)
-- Power: 900W (3x300W)
 - Weight: 33.9lbs / 15.4kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)

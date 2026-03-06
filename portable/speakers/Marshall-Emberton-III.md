@@ -11,7 +11,7 @@ The Marshall Emberton III ranks [#94 out of 131 total Medium Size Portable Bluet
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud. Not really any different from the Emberton II except having the treble turned down a little bit.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 32 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -19,8 +19,8 @@ The Marshall Emberton III ranks [#94 out of 131 total Medium Size Portable Bluet
 - Driver: 2x 2" full-range cone drivers + 2x 2" passive radiators
 - EQ: Yes (3 presets via app)
 - IP Rating: IP67
+- Output Power: 20W
 - Party Mode: Yes (Marshall Stack)
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

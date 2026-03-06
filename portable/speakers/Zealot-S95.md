@@ -12,7 +12,7 @@ The Zealot S95 ranks [#22 out of 67 total Boombox Size Portable Bluetooth Speake
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No

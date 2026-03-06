@@ -9,8 +9,8 @@ The Buchardt S400 MKII ranks [#27 out of 48 total Large Size Bookshelf Speakers]
 
 ## #27 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii) [[Buchardtaudio](https://buchardtaudio.com/products/s400-mkii)] [[Used Listings](https://www.hifizero.com/index.php?q=Buchardt+S400+MKII)]: $2400
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz
-- Bass Extension (-10dB): 40hz
-- Bass Extension (-3dB): 59hz
+- Bass Extension (-10dB): 40Hz
+- Bass Extension (-3dB): 59Hz
 - Dimensions: 14.4"H x 7"W x 11"D (365.8 x 177.8 x 279.4 mm)
 - Driver: 6.5" aluminum cone woofer, 1" soft dome tweeter
 - Impedance: 4 ohms

@@ -11,7 +11,7 @@ The B&O Beosound Level ranks [#56 out of 73 total Large Size Portable Bluetooth 
 - Negatives: Not very deep bass, peaks in midrange. Hugely expensive.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -21,9 +21,9 @@ The B&O Beosound Level ranks [#56 out of 73 total Large Size Portable Bluetooth 
 - EQ: No
 - Frequency Response: 39Hz - 23kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 105W
 - Party Mode: No
-- Power: 105W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

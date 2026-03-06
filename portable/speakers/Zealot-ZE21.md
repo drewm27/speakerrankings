@@ -12,13 +12,13 @@ The Zealot ZE21 ranks [#13 out of 67 total Boombox Size Portable Bluetooth Speak
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 36hz
+- Bass Extension (-10dB): 36Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 116db
+- Max Volume: 116dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes

@@ -16,7 +16,7 @@ The Presonus Eris E5 XT ranks [#12 out of 24 total Medium Size Powered Bookshelf
 - EQ: Yes (Room adjustment)
 - Frequency Response: 53Hz – 22kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 80w Per Speaker
+- Output Power: 80w Per Speaker
 - Weight: 10.2lbs / 4.6kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: New PreSonus E5 XT and Yamaha HS5 could not sound any more different! SOUND AND RESPONSE COMPARISON](https://www.youtube.com/watch?v=NgYei-8ej-s)

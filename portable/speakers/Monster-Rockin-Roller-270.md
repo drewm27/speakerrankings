@@ -11,7 +11,7 @@ The Monster Rockin' Roller 270 ranks [#63 out of 67 total Boombox Size Portable 
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
 - App: Yes (Monster Zone Control app)
 - Aux Input: Yes
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -20,7 +20,7 @@ The Monster Rockin' Roller 270 ranks [#63 out of 67 total Boombox Size Portable 
 - EQ: Yes
 - FM Tuner: Yes
 - IP Rating: IPX4
-- Max Volume: 96db
+- Max Volume: 96dB
 - Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes

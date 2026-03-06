@@ -18,7 +18,7 @@ The Bumpboxx Flare 8 ranks [#51 out of 67 total Boombox Size Portable Bluetooth 
 - Dimensions: 27.99" x 7.99" x 15.98" (711 x 203 x 406 mm)
 - EQ: Yes
 - FM Tuner: Yes
-- Max Volume: 118db
+- Max Volume: 118dB
 - MicroSD: Yes
 - Output Power: 200W
 - Party Mode: No

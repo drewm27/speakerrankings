@@ -10,8 +10,8 @@ The Polk T50 ranks [#21 out of 25 total Large Size Floorstanding Speakers](/pass
 ## #21 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+T50)]: $500
 - Positives: Pretty deep bass for the price
 - Negatives: 5dB peak at 1khz, 4dB bright top end from 11khz on up. Just okay vertical off axis
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 47Hz
 - Impedance: 4 ohms
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)

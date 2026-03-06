@@ -11,16 +11,16 @@ The Sony SRS-XB30 ranks [#99 out of 131 total Medium Size Portable Bluetooth Spe
 - Negatives: Muffled sound, worse than a XB20
 - App: Yes (Sony Music Center)
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 8.98" x 3.23" x 3.39" (228 x 82 x 86 mm)
 - IP Rating: IPX5
-- Max Volume: 95db
+- Max Volume: 95dB
+- Output Power: 20W
 - Party Mode: Yes (Partychain up to 100 speakers)
-- Power: 20W
 - Power Input: Micro USB
 - Stereo: Yes
 - TWS: Yes

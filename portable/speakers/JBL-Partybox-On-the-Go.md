@@ -12,14 +12,14 @@ The JBL Partybox On the Go ranks [#40 out of 67 total Boombox Size Portable Blue
 - Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IPX4
-- Max Volume: 94db
+- Max Volume: 94dB
 - Output Power: 100W
 - Party Mode: No
 - Power Bank: Yes

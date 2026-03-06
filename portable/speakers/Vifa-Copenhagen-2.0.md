@@ -11,7 +11,7 @@ The Vifa Copenhagen 2.0 ranks [#9 out of 67 total Boombox Size Portable Bluetoot
 - Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price. No water rating.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 46hz
+- Bass Extension (-10dB): 46Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD
 - Bluetooth Version: 4.1

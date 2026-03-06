@@ -22,12 +22,12 @@ The Soundcore Select 4 Go ranks [#20 out of 41 total Small Size Portable Bluetoo
 - EQ: Yes
 - Frequency Response: 90Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.58lbs / 265g
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)

@@ -12,7 +12,7 @@ The JBL Grip ranks [#73 out of 131 total Medium Size Portable Bluetooth Speakers
 - Negatives: Lacking deeper bass, definitely the worst of the JBL line until you get to the smaller clip. Not as much clarity as higher ranked speakers, rolled off highs and wavy midrange
 - Setup: EQ from [Oluv in his post](https://www.patreon.com/posts/jbl-grip-test-150255893) can help it a bit but still isn't very netural
 - App: Yes
-- Bass Extension (-10dB): ~68hz
+- Bass Extension (-10dB): ~68Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -21,8 +21,8 @@ The JBL Grip ranks [#73 out of 131 total Medium Size Portable Bluetooth Speakers
 - EQ: Yes (7 band)
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP68
+- Output Power: 16W
 - Party Mode: Yes (Auracast)
-- Power: 16W
 - TWS: Yes
 - Weight: 0.85lbs / 385g
 - Reviews, Comparisons and Sound Samples

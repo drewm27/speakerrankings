@@ -11,8 +11,8 @@ The Neumann KH420 ranks [#2 out of 21 total Large Size Powered Bookshelf Speaker
 - Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass. Likely one of the best studio monitors for mastering recordings in existence.
 - Negatives: Very expensive
 - App: Yes (MA 1 alignment)
-- Bass Extension (-10dB): 24hz
-- Bass Extension (-3dB): 32hz
+- Bass Extension (-10dB): 24Hz
+- Bass Extension (-3dB): 32Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 25.4"H x 13"W x 17.5"D (645.2 x 330.2 x 444.5 mm)
@@ -21,7 +21,7 @@ The Neumann KH420 ranks [#2 out of 21 total Large Size Powered Bookshelf Speaker
 - Frequency Response: 31Hz - 21kHz (±3dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 124dB @ 1m
-- Watts: 555w Per Speaker
+- Output Power: 555w Per Speaker
 - Weight: 77lbs / 35kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)

@@ -12,7 +12,7 @@ The Soundcore Mini 3 ranks [#7 out of 41 total Small Size Portable Bluetooth Spe
 - Negatives: Rolled off highs
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
@@ -21,13 +21,13 @@ The Soundcore Mini 3 ranks [#7 out of 41 total Small Size Portable Bluetooth Spe
 - Charging Time: 3-4 hours
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 87db
+- Max Volume: 87dB
+- Output Power: 6W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 6W
 - Weight: 0.55lbs / 249g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)

@@ -20,8 +20,8 @@ The Marshall Stanmore III ranks [#9 out of 14 total Medium Size Powered Desktop 
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
+- Output Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Partially (1 woofer)

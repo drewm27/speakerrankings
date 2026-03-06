@@ -12,19 +12,19 @@ The Panasonic SC-TMAX5 ranks [#35 out of 43 total Party Size Portable Bluetooth 
 - Negatives: Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~57hz
+- Bass Extension (-10dB): ~57Hz
 - Bluetooth Codecs: SBC
 - Dimensions: 18.7" x 9.84" x 10.43" (475 x 250 x 265 mm)
 - Driver: 160mm woofer, 50mm tweeter
 - EQ: No
 - IP Rating: None
+- Output Power: 150W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 150W RMS
 - Weight: 14.3lbs / 6.5kg
 - Reviews, Comparisons and Sound Samples
     - [JARA MIKE: Panasonic  SC- TMAX5 ♫](https://www.youtube.com/watch?v=_jlJnhPyALs)

@@ -21,8 +21,8 @@ The Bogasing S8 Pro ranks [#58 out of 73 total Large Size Portable Bluetooth Spe
 - Frequency Response: 48Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX5
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

@@ -10,8 +10,8 @@ The Infinity Reference 253 ranks [#16 out of 25 total Large Size Floorstanding S
 ## #16 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+Reference+253)]: $400 used
 - Positives: Really amazing value for the performance
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 78hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 78Hz
 - Dimensions: 40.3"H x 6.8"W x 12.4"D (1023.6 x 172.7 x 315 mm)
 - Driver: Dual 5.25" (130mm) CMMD™ woofers, 5.25" (130mm) flat-piston CMMD™ midrange, 1" (25mm) CMMD™ tweeter
 - Impedance: 6 ohms

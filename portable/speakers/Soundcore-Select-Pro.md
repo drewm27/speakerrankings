@@ -20,9 +20,9 @@ The Soundcore Select Pro ranks [#14 out of 73 total Large Size Portable Bluetoot
 - Driver: 2x 2.75" fullrange + 2x 2.5" passive radiators
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 30W
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Power: 30W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

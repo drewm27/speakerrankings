@@ -13,7 +13,7 @@ The Soundcore Motion Boom+ ranks [#43 out of 67 total Boombox Size Portable Blue
 - App: Yes (Soundcore app)
 - Aux Input: Yes
 - Aux Latency: 17ms
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
@@ -22,7 +22,7 @@ The Soundcore Motion Boom+ ranks [#43 out of 67 total Boombox Size Portable Blue
 - Dimensions: 15.12" x 5.12" x 7.72" (384 x 130 x 196 mm)
 - EQ: Yes (App EQ)
 - IP Rating: IP67
-- Max Volume: 108db
+- Max Volume: 108dB
 - Output Power: 80W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes

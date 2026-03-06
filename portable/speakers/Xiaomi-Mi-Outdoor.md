@@ -16,7 +16,7 @@ The Xiaomi Mi Outdoor ranks [#117 out of 131 total Medium Size Portable Bluetoot
 - Dimensions: 3.58" x 3.58" x 1.65" (91 x 91 x 42 mm)
 - Driver: 1x 52mm full-range
 - IP Rating: IP55
-- Power: 5W
+- Output Power: 5W
 - Power Input: Micro USB
 - Stereo: No
 - TWS: No

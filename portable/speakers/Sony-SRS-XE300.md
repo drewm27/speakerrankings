@@ -19,8 +19,8 @@ The Sony SRS-XE300 ranks [#87 out of 131 total Medium Size Portable Bluetooth Sp
 - Driver: 2x X-Balanced speaker units + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
+- Output Power: 16W
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 16W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

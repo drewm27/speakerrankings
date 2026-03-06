@@ -20,7 +20,7 @@ The W-King D320 ranks [#45 out of 131 total Medium Size Portable Bluetooth Speak
 - Frequency Response: 100Hz - 18kHz (Manufacturer specified)
 - IP Rating: IP67
 - MicroSD: Yes
-- Power: 40W
+- Output Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: No

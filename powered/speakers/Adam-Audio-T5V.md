@@ -16,7 +16,7 @@ The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speak
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 70w Per Speaker
+- Output Power: 70w Per Speaker
 - Weight: 12.6lbs / 5.7kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: JBL 305P MKII vs Adam Audio T5V   6-Track Comparison](https://www.youtube.com/watch?v=e6EWbE8VmT4)

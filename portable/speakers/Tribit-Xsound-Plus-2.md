@@ -19,9 +19,9 @@ The Tribit Xsound Plus 2 ranks [#32 out of 131 total Medium Size Portable Blueto
 - Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66 mm)
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 30W
 - Party Mode: Yes
-- Power: 30W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes

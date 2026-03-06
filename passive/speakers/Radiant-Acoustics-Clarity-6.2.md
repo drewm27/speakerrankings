@@ -10,8 +10,8 @@ The Radiant Acoustics Clarity 6.2 ranks [#10 out of 48 total Large Size Bookshel
 ## #10 [Radiant Acoustics Clarity 6.2](https://radiantacoustics.com/products/clarity-6-2) [[Radiantacoustics](https://radiantacoustics.com/products/clarity-6-2)] [[Used Listings](https://www.hifizero.com/index.php?q=Radiant+Acoustics+Clarity+6.2)]: $4500
 - Positives: Very low distortion
 - Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees. Impedance drops pretty low. Vertical and horizontal off axis are just okay
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 55hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 55Hz
 - Dimensions: 14.3"H x 8.7"W x 10.5"D (363.2 x 221 x 266.7 mm)
 - Driver: 6.5" PURIFI USHINDI woofer, Custom AMT (Air Motion Transformer) tweeter
 - Impedance: 4 ohms

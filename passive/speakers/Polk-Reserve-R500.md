@@ -10,8 +10,8 @@ The Polk Reserve R500 ranks [#17 out of 25 total Large Size Floorstanding Speake
 ## #17 [Polk Reserve R500](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Reserve+R500)]: $1300 a pair
 - Positives: Pretty smooth frequency response.
 - Negatives: Can sound a little shouty with an 2dB in room peak around 4khz. Vertical off-axis isn't too great.
-- Bass Extension (-10dB): 33hz
-- Bass Extension (-3dB): 51hz
+- Bass Extension (-10dB): 33Hz
+- Bass Extension (-3dB): 51Hz
 - Dimensions: 40.3"H x 6.8"W x 12.4"D (1023.6 x 172.7 x 315 mm)
 - Driver: Two 5.25" Turbine Cone woofer, 1" Pinnacle Ring Radiator tweeter
 - Impedance: 4 ohms

@@ -12,7 +12,7 @@ The Tribit Stormbox ranks [#88 out of 131 total Medium Size Portable Bluetooth S
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 166ms
@@ -22,9 +22,9 @@ The Tribit Stormbox ranks [#88 out of 131 total Medium Size Portable Bluetooth S
 - Driver: 2x drivers + passive radiators
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 97db
+- Max Volume: 97dB
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.2lbs / 535g

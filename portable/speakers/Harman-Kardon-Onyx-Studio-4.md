@@ -20,8 +20,8 @@ The Harman Kardon Onyx Studio 4 ranks [#44 out of 73 total Large Size Portable B
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 60W
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

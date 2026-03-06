@@ -19,8 +19,8 @@ The Tronsmart T7 ranks [#91 out of 131 total Medium Size Portable Bluetooth Spea
 - EQ: Yes (6 modes via app)
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

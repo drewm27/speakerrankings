@@ -10,7 +10,7 @@ The Creative iRoar Go ranks [#59 out of 131 total Medium Size Portable Bluetooth
 ## #59 Creative iRoar Go: $83
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
-- Bass Extension (-10dB): 64hz
+- Bass Extension (-10dB): 64Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 7.6" x 3.8" x 2.1" (192 x 97 x 54 mm)

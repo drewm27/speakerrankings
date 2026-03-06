@@ -11,7 +11,7 @@ The Harman Kardon Neo ranks [#38 out of 41 total Small Size Portable Bluetooth S
 - Negatives: Huge lack of bass.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 105hz
+- Bass Extension (-10dB): 105Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -21,13 +21,13 @@ The Harman Kardon Neo ranks [#38 out of 41 total Small Size Portable Bluetooth S
 - EQ: No
 - Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
-- Max Volume: 87db
+- Max Volume: 87dB
+- Output Power: 3W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 3W
 - Weight: 0.55lbs / 251g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)

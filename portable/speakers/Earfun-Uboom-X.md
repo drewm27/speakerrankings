@@ -14,7 +14,7 @@ The Earfun Uboom X ranks [#1 out of 67 total Boombox Size Portable Bluetooth Spe
 - App: Yes (Earfun Audio app)
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): ~38hz
+- Bass Extension (-10dB): ~38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
@@ -24,7 +24,7 @@ The Earfun Uboom X ranks [#1 out of 67 total Boombox Size Portable Bluetooth Spe
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes

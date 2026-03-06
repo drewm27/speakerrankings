@@ -20,6 +20,7 @@ The JBL Partybox Stage 320 ranks [#1 out of 43 total Party Size Portable Bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -27,7 +28,6 @@ The JBL Partybox Stage 320 ranks [#1 out of 43 total Party Size Portable Bluetoo
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)

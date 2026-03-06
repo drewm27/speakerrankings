@@ -10,8 +10,8 @@ The Arendal 1961 Monitor ranks [#5 out of 20 total Medium Size Bookshelf Speaker
 ## #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1961+Monitor)]: $1150 a pair
 - Positives: A high pass is built in to keep distortions down at higher volume. Directivity is pretty good.
 - Negatives: A 3dB peak and lift from 3k to 10k, lightly sounding bright. Minor resonances around 3k and 5k. Won't play very low due to the high pass at the bottom and the sealed enclosure
-- Bass Extension (-10dB): 64hz
-- Bass Extension (-3dB): 89hz
+- Bass Extension (-10dB): 64Hz
+- Bass Extension (-3dB): 89Hz
 - Dimensions: 16.6"H x 6.4"W x 5.9"D (421.6 x 162.6 x 149.9 mm)
 - Driver: 2 x 5,5” woofers, 28mm tweeter
 - Impedance: 4 ohms

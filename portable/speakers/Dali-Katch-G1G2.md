@@ -21,8 +21,8 @@ The Dali Katch G1/G2 ranks [#55 out of 73 total Large Size Portable Bluetooth Sp
 - EQ: No
 - Frequency Response: 49Hz - 23kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 50W RMS
 - Party Mode: No
-- Power: 50W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

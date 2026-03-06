@@ -13,14 +13,14 @@ The Tribit Stormbox Blast 2 ranks [#20 out of 67 total Boombox Size Portable Blu
 - Setup: Try the EQ from [Alan Ross at this timestamp of his video](https://youtu.be/Demef0n4E8A?si=KOKmfaoG1M1-_Abi&t=670)
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 40hz
+- Bass Extension (-10dB): 40Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: Yes (2x 6.35mm)
 - Party Mode: No

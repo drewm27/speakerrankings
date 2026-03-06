@@ -19,13 +19,13 @@ The Diamondboxx L2 ranks [#30 out of 43 total Party Size Portable Bluetooth Spea
 - EQ: No
 - Frequency Response: 40Hz - 22kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 260W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 260W RMS
 - Weight: 25lbs / 11kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>

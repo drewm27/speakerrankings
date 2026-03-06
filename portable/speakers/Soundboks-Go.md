@@ -12,7 +12,7 @@ The Soundboks Go ranks [#25 out of 43 total Party Size Portable Bluetooth Speake
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -21,7 +21,8 @@ The Soundboks Go ranks [#25 out of 43 total Party Size Portable Bluetooth Speake
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
-- Max Volume: 121db
+- Max Volume: 121dB
+- Output Power: 2 x 72W
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
@@ -29,7 +30,6 @@ The Soundboks Go ranks [#25 out of 43 total Party Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 2 x 72W
 - Weight: 20lbs / 9kg
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)

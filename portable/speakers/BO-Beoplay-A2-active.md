@@ -20,8 +20,8 @@ The B&O Beoplay A2 active ranks [#15 out of 73 total Large Size Portable Bluetoo
 - EQ: No
 - Frequency Response: 55Hz - 22kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No

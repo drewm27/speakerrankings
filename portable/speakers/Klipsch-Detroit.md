@@ -11,7 +11,7 @@ The Klipsch Detroit ranks [#51 out of 73 total Large Size Portable Bluetooth Spe
 - Negatives: Weird boosted upper bass, bass not very deep. Boosted lower treble, somewhat harsh sounding like most other Klipsch speakers. Not very loud.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -21,9 +21,9 @@ The Klipsch Detroit ranks [#51 out of 73 total Large Size Portable Bluetooth Spe
 - EQ: No
 - Frequency Response: 55Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 93db
+- Max Volume: 93dB
+- Output Power: 30W RMS
 - Party Mode: Yes (broadcast mode)
-- Power: 30W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

@@ -31,9 +31,9 @@ Last updated: March 05, 2026
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, RCA
+- Output Power: 41W (2x8W + 25W)
 - Outputs: Subwoofer line out
 - Party Mode: Yes (over Wifi)
-- Power: 41W (2x8W + 25W)
 - Power Input: AC Power cord
 - Stereo: Partially
 - Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast
@@ -76,7 +76,7 @@ Last updated: March 05, 2026
 - Positives: A very good value speaker in this desktop category. Subwoofer line out.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 57hz
+- Bass Extension (-10dB): 57Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -86,9 +86,9 @@ Last updated: March 05, 2026
 - Frequency Response: 54Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, Aux, RCA
+- Output Power: 70W (R/L treble: 15W+15W, R/L mid-bass: 20W+20W)
 - Outputs: Subwoofer line out
 - Party Mode: No
-- Power: 70W (R/L treble: 15W+15W, R/L mid-bass: 20W+20W)
 - Power Bank: No
 - Power Input: AC Power cable
 - Stereo: Yes
@@ -108,7 +108,7 @@ Last updated: March 05, 2026
 ## #4 [JBL Authentics 200](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Authentics-200-Bluetooth-Assistants/dp/B0CCK25S7Z?crid=2M2AYL762VJE0&dib=eyJ2IjoiMSJ9.KQx5EdXveROitbSwSKX022tJcGNfdNUN3Wq0WCP5hY8-Bj2KVTvykrI_RVGPsDYsuBbiP-nagzcTXR5dLyOmF4YL5qDa_zQ9hyqxiQWGHPCXeKxblN6Tu878X3q_uj73RmwMFR3aWlZhC_sDycqUPfFL4sGUnjyf7dYgD6PIAU3dBtz2CrozSqEC59S_FRku9jqvweDJcFSikW94A4SraBgV65Ef7F3WwUv0T-zXD-4.kRp-xeHX_JTyF6r787YZajU4EqzLpQ7O2HiGjF6FpuQ&dib_tag=se&keywords=jbl%2Bauthentics%2B200&qid=1711074101&sprefix=jbl%2Bauthentics%2B500%2Caps%2C345&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d9abfcf51403b8905895cf1c5a30246f&language=en_US&ref_=as_li_ss_tl)]: $380
 - Negatives: Bass not as deep as others. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
-- Bass Extension (-10dB): ~50hz
+- Bass Extension (-10dB): ~50Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -118,9 +118,9 @@ Last updated: March 05, 2026
 - Frequency Response: 50Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, Aux, USB (US only)
+- Output Power: 90W
 - Party Mode: Yes
 - Passive Radiator: 6" down-firing
-- Power: 90W
 - Power Input: AC Power Cable (100-240V)
 - Stereo: Partially (1 woofer)
 - Streaming Services: AirPlay, Chromecast, Spotify Connect, Alexa MRM
@@ -141,7 +141,7 @@ Last updated: March 05, 2026
 - Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~45hz
+- Bass Extension (-10dB): ~45Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -152,8 +152,8 @@ Last updated: March 05, 2026
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 100.5dB @ 1m
+- Output Power: 150W (Woofer: 90W, Midrange: 2x15W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 150W (Woofer: 90W, Midrange: 2x15W, Tweeters: 2x15W)
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
@@ -171,7 +171,7 @@ Last updated: March 05, 2026
 - Negatives: Huge treble rolloff. Quite muddy. Not as deep bass as others in the class. Not as loud as the Woburn I
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~47hz
+- Bass Extension (-10dB): ~47Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: AptX, SBC
 - Bluetooth Version: 5.0
@@ -181,9 +181,9 @@ Last updated: March 05, 2026
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
-- Max Volume: 110db
+- Max Volume: 110dB
+- Output Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 110W (Woofers: 2x50W, Tweeters: 2x15W)
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: Yes
@@ -202,7 +202,7 @@ Last updated: March 05, 2026
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~50hz
+- Bass Extension (-10dB): ~50Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
@@ -212,8 +212,8 @@ Last updated: March 05, 2026
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
+- Output Power: 90W
 - Party Mode: No
-- Power: 90W
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
@@ -230,7 +230,7 @@ Last updated: March 05, 2026
 - Negatives: Not very deep bass. No battery. No water rating.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
@@ -240,8 +240,8 @@ Last updated: March 05, 2026
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux, Optical
+- Output Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)
@@ -269,8 +269,8 @@ Last updated: March 05, 2026
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
+- Output Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Partially (1 woofer)
@@ -299,8 +299,8 @@ Last updated: March 05, 2026
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Aux
+- Output Power: 60W (Woofer: 30W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 60W (Woofer: 30W, Tweeters: 2x15W)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - TWS: No
@@ -317,7 +317,7 @@ Last updated: March 05, 2026
 - Negatives: Boosted upper bass, not as deep bass as competitors. Boosted highs. Sounds mushy.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
@@ -327,8 +327,8 @@ Last updated: March 05, 2026
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Aux
+- Output Power: 50W (Woofer: 25W, Tweeters: 2x12.5W)
 - Party Mode: No
-- Power: 50W (Woofer: 25W, Tweeters: 2x12.5W)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - TWS: No
@@ -349,7 +349,7 @@ Last updated: March 05, 2026
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~45hz
+- Bass Extension (-10dB): ~45Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
@@ -358,9 +358,9 @@ Last updated: March 05, 2026
 - EQ: Yes (via app)
 - Frequency Response: 37Hz - 22kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, Optical, Chromecast
-- Max Volume: 94db
+- Max Volume: 94dB
+- Output Power: 200W
 - Party Mode: Yes
-- Power: 200W
 - Power Input: AC Power cord
 - Stereo: 360-degree
 - TWS: Yes
@@ -387,8 +387,8 @@ Last updated: March 05, 2026
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
+- Output Power: 60W (Woofer: 30W, Full-range: 2x15W)
 - Party Mode: No
-- Power: 60W (Woofer: 30W, Full-range: 2x15W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 10.3lbs / 4.7kg
@@ -414,8 +414,8 @@ Last updated: March 05, 2026
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
+- Output Power: 50W (Woofer: 30W, Full-range: 2x10W)
 - Party Mode: No
-- Power: 50W (Woofer: 30W, Full-range: 2x10W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 8.5lbs / 3.9kg

@@ -12,7 +12,7 @@ The Marshall Middleton ranks [#29 out of 73 total Large Size Portable Bluetooth 
 - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall's added dsp echo which cannot be turned off, very distracting and annoying. It's like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 39hz
+- Bass Extension (-10dB): 39Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -22,9 +22,9 @@ The Marshall Middleton ranks [#29 out of 73 total Large Size Portable Bluetooth 
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 50W
 - Party Mode: Yes (Marshall Stack)
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

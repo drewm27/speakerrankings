@@ -23,8 +23,8 @@ The Minirig mk4 with subwoofer ranks [#4 out of 73 total Large Size Portable Blu
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No

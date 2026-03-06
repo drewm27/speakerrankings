@@ -12,7 +12,7 @@ The Mifa Tango ranks [#15 out of 41 total Small Size Portable Bluetooth Speakers
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 69hz
+- Bass Extension (-10dB): 69Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -21,14 +21,14 @@ The Mifa Tango ranks [#15 out of 41 total Small Size Portable Bluetooth Speakers
 - Dimensions: 4.65" x 5.31" x 1.71" (118 x 135 x 43.5 mm)
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 97db
+- Max Volume: 97dB
 - MicroSD: Yes
+- Output Power: 10W
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.86lbs / 390g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Tango Camping Bluetooth Speaker Review](https://www.youtube.com/watch?v=biqsZ3Uhr3U)

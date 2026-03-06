@@ -34,7 +34,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Driver: 82.5mm woofer, 15mm tweeter
 - EQ: Yes
 - IP Rating: IP67
-- Power: 60W
+- Output Power: 60W
 - Power Bank: No
 - Stereo: No
 - TWS: Yes
@@ -64,9 +64,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: No
 - Frequency Response: 32Hz - 23kHz (Manufacturer specified)
 - IP Rating: IP65
-- Max Volume: 101db
+- Max Volume: 101dB
+- Output Power: 280W
 - Party Mode: Yes (Mozart 2.0)
-- Power: 280W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -87,7 +87,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 41hz
+- Bass Extension (-10dB): 41Hz
 - Battery Life: 28 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
@@ -95,7 +95,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP68
-- Max Volume: 115db
+- Max Volume: 115dB
 - MicroSD: No
 - Microphone Input: No
 - Party Mode: Yes (Auracast)

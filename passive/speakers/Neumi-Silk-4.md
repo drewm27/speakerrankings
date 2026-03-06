@@ -9,8 +9,8 @@ The Neumi Silk 4 ranks [#14 out of 20 total Medium Size Bookshelf Speakers](/pas
 
 ## #14 [Neumi Silk 4](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Compact-Bookshelf-Speakers-Surround-Waveguide/dp/B0B2Z6SJQG?crid=34A24MUF1BFQT&dib=eyJ2IjoiMSJ9.YpPeR2vpLrflbMU5rYaPtm-dh01qyxM0NXZrLzbYZYA1PEpCZsZ6GA7PqynlmLEFz2GqVzKT6BDPqP-Xl29LzH1q01tW4PwiJokYuNayiHZQUEK-hJn6SChZa51s1pCGR9Ae6MOdQsW6Bn7kysasAQ.aRr9UaIiDSn83XadOA6zJdfQtoaaLBtMPAaqjOeOD6w&dib_tag=se&keywords=neumi+silk+4&qid=1752188276&sprefix=neumi+silk%2Caps%2C220&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=eabe6577a9a6226144d06518c24998c8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Neumi+Silk+4)]: $200
 - Negatives: A small resonance around 650hz, not very loud or dynamic due to the low sensitivity. 3dB bump around 1khz
-- Bass Extension (-10dB): 55hz
-- Bass Extension (-3dB): 83hz
+- Bass Extension (-10dB): 55Hz
+- Bass Extension (-3dB): 83Hz
 - Dimensions: 8.9"H x 5.5"W x 8.2"D (226.1 x 139.7 x 208.3 mm)
 - Driver: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole woofer, 1” silk dome, dispersion-optimized waveguide, neodymium magnet tweeter
 - Impedance: 6 ohms

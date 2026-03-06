@@ -12,7 +12,7 @@ The JBL Flip 6 ranks [#12 out of 131 total Medium Size Portable Bluetooth Speake
 - Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 116ms
@@ -22,9 +22,9 @@ The JBL Flip 6 ranks [#12 out of 131 total Medium Size Portable Bluetooth Speake
 - Driver: 44mm x 80mm woofer, 16mm tweeter
 - EQ: Yes (3 band)
 - IP Rating: IP67
-- Max Volume: 98db
+- Max Volume: 98dB
+- Output Power: 30W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

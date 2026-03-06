@@ -18,7 +18,7 @@ The APS Klasik 2020 ranks [#8 out of 21 total Large Size Powered Bookshelf Speak
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 100w Per Speaker
+- Output Power: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)

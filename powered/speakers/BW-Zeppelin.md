@@ -12,7 +12,7 @@ The B&W Zeppelin ranks [#1 out of 2 total Large Size Powered Desktop Speakers](/
 - Negatives: Nothing besides the lack of battery, lack of waterproofing, high cost and the Earfun Uboom X that's so close to it in terms of sound quality for 7x less money. Basically an indoor only speaker. Although at this price point I'd generally recommend some [Top Recommended Bookshelf Speakers](/powered-top-recommended/) instead which will have even better soundstage.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): ~32hz
+- Bass Extension (-10dB): ~32Hz
 - Battery Life: No Battery
 - Bluetooth: Yes
 - Bluetooth Codecs: aptX Adaptive, AAC, SBC
@@ -23,8 +23,8 @@ The B&W Zeppelin ranks [#1 out of 2 total Large Size Powered Desktop Speakers](/
 - EQ: No
 - Frequency Response: 35Hz - 24kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 240W (80W woofer, 2x 40W midrange, 2x 40W tweeter)
 - Party Mode: No
-- Power: 240W (80W woofer, 2x 40W midrange, 2x 40W tweeter)
 - Power Bank: No
 - Power Input: AC Power cord
 - Streaming Services: AirPlay 2, Spotify Connect

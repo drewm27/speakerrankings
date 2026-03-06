@@ -11,7 +11,7 @@ The W-King X10-1 ranks [#57 out of 67 total Boombox Size Portable Bluetooth Spea
 - Negatives: Rolled off treble, not much bass.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -19,7 +19,7 @@ The W-King X10-1 ranks [#57 out of 67 total Boombox Size Portable Bluetooth Spea
 - Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
-- Max Volume: 108db
+- Max Volume: 108dB
 - MicroSD: Yes
 - Output Power: 70W RMS (120W peak)
 - Party Mode: No

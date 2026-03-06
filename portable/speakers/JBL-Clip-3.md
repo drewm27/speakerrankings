@@ -12,7 +12,7 @@ The JBL Clip 3 ranks [#31 out of 41 total Small Size Portable Bluetooth Speakers
 - Negatives: Less bass than the Clip. Quite a lack of bass.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): ~100hz
+- Bass Extension (-10dB): ~100Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
@@ -22,12 +22,12 @@ The JBL Clip 3 ranks [#31 out of 41 total Small Size Portable Bluetooth Speakers
 - EQ: No
 - Frequency Response: 120Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 3.3W
 - Party Mode: No
 - Power Bank: No
 - Power Input: Micro USB
 - Stereo: No
 - TWS: No
-- Wattage: 3.3W
 - Weight: 0.5lbs / 227g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>

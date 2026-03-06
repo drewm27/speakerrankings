@@ -20,12 +20,12 @@ The Muzen Wild Go ranks [#36 out of 41 total Small Size Portable Bluetooth Speak
 - EQ: No
 - Frequency Response: 80Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX5
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.41lbs / 187g
 - Reviews, Comparisons and Sound Samples
     - [UtmostCoin Reviews: Bringing Sophistications to The Wild - Muzen Wild Go Speaker Review](https://www.youtube.com/watch?v=3JsU3QYYRrk)

@@ -12,12 +12,12 @@ The B&O Beolit 20 ranks [#29 out of 67 total Boombox Size Portable Bluetooth Spe
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
 - App: Yes (Bang & Olufsen app)
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
-- Max Volume: 93db
+- Max Volume: 93dB
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

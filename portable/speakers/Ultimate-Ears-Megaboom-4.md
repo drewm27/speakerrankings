@@ -17,7 +17,7 @@ The Ultimate Ears Megaboom 4 ranks [#127 out of 131 total Medium Size Portable B
 - Driver: 2x 50x50mm full-range + 2x 55x86mm passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
-- Max Volume: 91 dB
+- Max Volume: 91dB
 - Party Mode: Yes
 - Power Input: USB-C
 - Stereo: No

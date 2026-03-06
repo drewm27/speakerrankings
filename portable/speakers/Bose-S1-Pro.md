@@ -11,7 +11,7 @@ The Bose S1 Pro ranks [#10 out of 43 total Party Size Portable Bluetooth Speaker
 - Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo. Designed for more loudness than deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 11 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0
@@ -19,7 +19,7 @@ The Bose S1 Pro ranks [#10 out of 43 total Party Size Portable Bluetooth Speaker
 - Dimensions: 13.1" x 9.4" x 11" (332.7 x 238.8 x 279.4 mm)
 - EQ: Yes
 - IP Rating: None
-- Max Volume: 109db
+- Max Volume: 109dB
 - Microphone Input: Yes
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No

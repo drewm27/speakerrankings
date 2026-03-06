@@ -19,9 +19,9 @@ The B&O Beosound A5 ranks [#11 out of 73 total Large Size Portable Bluetooth Spe
 - EQ: No
 - Frequency Response: 32Hz - 23kHz (Manufacturer specified)
 - IP Rating: IP65
-- Max Volume: 101db
+- Max Volume: 101dB
+- Output Power: 280W
 - Party Mode: Yes (Mozart 2.0)
-- Power: 280W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

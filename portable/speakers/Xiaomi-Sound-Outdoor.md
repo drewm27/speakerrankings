@@ -19,8 +19,8 @@ The Xiaomi Sound Outdoor ranks [#42 out of 131 total Medium Size Portable Blueto
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 30W
 - Party Mode: Yes up to 100 speakers
-- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes

@@ -10,16 +10,16 @@ The JBL Charge 4 ranks [#51 out of 131 total Medium Size Portable Bluetooth Spea
 ## #51 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325)]: $85
 - Negatives: Not stereo. 1 Oval driver. Boosted bass, top a little rolled off, warm sound. Not as loud as a Charge 3.
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 330ms
 - Bluetooth Version: 4.2
 - Dimensions: 8.66" x 3.74" x 3.66" (220 x 95 x 93 mm)
 - Driver: 1x 51x89mm fullrange
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 30W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 30W RMS
 - Power Bank: Yes
 - Stereo: No
 - TWS: No

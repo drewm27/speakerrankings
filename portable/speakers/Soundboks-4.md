@@ -12,7 +12,7 @@ The Soundboks 4 ranks [#21 out of 43 total Party Size Portable Bluetooth Speaker
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -22,8 +22,9 @@ The Soundboks 4 ranks [#21 out of 43 total Party Size Portable Bluetooth Speaker
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: IP65
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
+- Output Power: 3 x 72W
 - Party Mode: Yes
 - Power Bank: No
 - Power Input: AC Power cord
@@ -32,7 +33,6 @@ The Soundboks 4 ranks [#21 out of 43 total Party Size Portable Bluetooth Speaker
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Wattage: 3 x 72W
 - Weight: 34lbs / 15.4kg
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)

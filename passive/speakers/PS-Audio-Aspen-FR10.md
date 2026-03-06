@@ -10,8 +10,8 @@ The PS Audio Aspen FR10 ranks [#12 out of 25 total Large Size Floorstanding Spea
 ## #12 [PS Audio Aspen FR10](https://www.psaudio.com/products/aspen-fr10-loudspeaker) [[Psaudio](https://www.psaudio.com/products/aspen-fr10-loudspeaker)] [[Used Listings](https://www.hifizero.com/index.php?q=PS+Audio+Aspen+FR10)]: $12000
 - Positives: Wide soundstage
 - Negatives: Pretty jagged frequency response, 5dB dip at 6khz, 3dB dip at 760hz. Not recommended
-- Bass Extension (-10dB): 28hz
-- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 28Hz
+- Bass Extension (-3dB): 47Hz
 - Impedance: 4 ohms
 - Sensitivity: 84.5dB
 - Reviews, Comparisons and Sound Samples

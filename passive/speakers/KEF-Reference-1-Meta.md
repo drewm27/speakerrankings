@@ -9,8 +9,8 @@ The KEF Reference 1 Meta ranks [#2 out of 48 total Large Size Bookshelf Speakers
 
 ## #2 [KEF Reference 1 Meta](https://us.kef.com/products/reference-1-bookshelf-speaker) [[Kef](https://us.kef.com/products/reference-1-bookshelf-speaker)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Reference+1+Meta)]: $10000
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Configurable to short or long port depending on the bass roll-off you're looking for. Very deep bass for the size
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 52hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 52Hz
 - Dimensions: 17.3"H x 8.1"W x 16.6"D (439.4 x 205.7 x 421.6 mm)
 - Driver: 165 mm (6.5 in.) aluminium cone woofer, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) aluminium dome with MAT tweeter
 - Impedance: 4 ohms

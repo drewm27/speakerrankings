@@ -11,8 +11,8 @@ The Genelec 8020D ranks [#3 out of 24 total Medium Size Powered Bookshelf Speake
 - Positives: Slightly better than the HS5 for neutrality with deeper bass.
 - Negatives: High price
 - App: No
-- Bass Extension (-10dB): 50hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 50Hz
+- Bass Extension (-3dB): 56Hz
 - Bluetooth: No
 - Dimensions: 9.5"H x 5.8"W x 5.6"D (241.3 x 147.3 x 142.2 mm)
 - Driver: 4.1" woofer, 0.75" metal dome tweeter
@@ -20,8 +20,7 @@ The Genelec 8020D ranks [#3 out of 24 total Medium Size Powered Bookshelf Speake
 - Frequency Response: 56 Hz - 25 kHz (-6 dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 103dB @ 1m
-- Power: 100W (50W woofer + 50W tweeter)
-- Watts: 100w Per Speaker
+- Output Power: 100W (50W woofer + 50W tweeter)
 - Weight: 7.1lbs / 3.2kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-g2-8020-measurements.18076/)

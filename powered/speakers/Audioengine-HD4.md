@@ -16,8 +16,8 @@ The Audioengine HD4 ranks [#24 out of 24 total Medium Size Powered Bookshelf Spe
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA Input
+- Output Power: 50w RMS Per Speaker
 - Outputs: RCA Output
-- Watts: 50w RMS Per Speaker
 - Weight: 7.2lbs / 3.3kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R1855DB vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=xEDg7hl7a3A)

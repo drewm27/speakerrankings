@@ -13,7 +13,7 @@ The Harman Kardon Onyx Studio 8 ranks [#10 out of 67 total Boombox Size Portable
 - App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 42ms
-- Bass Extension (-10dB): 35hz
+- Bass Extension (-10dB): 35Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 175ms
@@ -22,7 +22,7 @@ The Harman Kardon Onyx Studio 8 ranks [#10 out of 67 total Boombox Size Portable
 - Dimensions: 10.55" x 11.91" x 6.28" (268 x 302.5 x 159.5 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 96db
+- Max Volume: 96dB
 - Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No

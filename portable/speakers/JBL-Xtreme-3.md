@@ -12,7 +12,7 @@ The JBL Xtreme 3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
 - Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
@@ -23,9 +23,9 @@ The JBL Xtreme 3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
 - EQ: No
 - Frequency Response: 53.5Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 105db
+- Max Volume: 105dB
+- Output Power: 100W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

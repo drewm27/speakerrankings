@@ -11,7 +11,7 @@ The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Blue
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 4 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 11.81" x 22.36" x 11.85" (300 x 568 x 301 mm)
@@ -19,13 +19,13 @@ The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Blue
 - EQ: No
 - Frequency Response: 62Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 190W (peak)
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 190W (peak)
 - Weight: 27lbs / 12.5kg
 - Reviews, Comparisons and Sound Samples
     - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)

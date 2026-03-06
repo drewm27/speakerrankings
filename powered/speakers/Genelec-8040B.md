@@ -18,7 +18,7 @@ The Genelec 8040B ranks [#7 out of 21 total Large Size Powered Bookshelf Speaker
 - EQ: Yes (Room adjustment)
 - Frequency Response: 41Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 180w Per Speaker
+- Output Power: 180w Per Speaker
 - Weight: 20.7lbs / 9.4kg each
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)

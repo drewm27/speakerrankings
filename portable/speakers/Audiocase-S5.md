@@ -20,8 +20,9 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 108db
+- Max Volume: 108dB
 - Microphone Input: Yes
+- Output Power: 2 x 73W
 - Party Mode: Yes
 - Power Bank: No
 - Power Input: AC Power brick
@@ -29,7 +30,6 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 2 x 73W
 - Weight: 17.4lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)

@@ -11,7 +11,7 @@ The W-King X10 ranks [#58 out of 67 total Boombox Size Portable Bluetooth Speake
 - Negatives: Heavily rolled off treble, less bass than the top ranked.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -20,7 +20,7 @@ The W-King X10 ranks [#58 out of 67 total Boombox Size Portable Bluetooth Speake
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - FM Tuner: No
 - IP Rating: IPX6
-- Max Volume: 106db
+- Max Volume: 106dB
 - MicroSD: Yes
 - Output Power: 70W RMS (120W peak)
 - Party Mode: No

@@ -17,7 +17,7 @@ The JBL 305P MKII ranks [#7 out of 24 total Medium Size Powered Bookshelf Speake
 - EQ: Yes (Room adjustment)
 - Frequency Response: 49 Hz - 20 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS
-- Watts: 81w Per Speaker
+- Output Power: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)

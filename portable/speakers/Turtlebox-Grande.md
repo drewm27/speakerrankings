@@ -11,7 +11,7 @@ The Turtlebox Grande ranks [#50 out of 67 total Boombox Size Portable Bluetooth 
 - Negatives: They pretty much lie about all their specs and sound just okay in all youtube sound samples. Only 100w will never hit 126db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass for a 10" woofer. Overpriced and not worth it.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4

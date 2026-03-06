@@ -12,13 +12,13 @@ The Soundcore Boom 2 Plus ranks [#24 out of 67 total Boombox Size Portable Bluet
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 39hz
+- Bass Extension (-10dB): 39Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
 - EQ: Yes (Pro EQ + presets)
 - IP Rating: IPX7
-- Max Volume: 111db
+- Max Volume: 111dB
 - MicroSD: No
 - Party Mode: Yes (Partycast 2.0)
 - Power Bank: Yes

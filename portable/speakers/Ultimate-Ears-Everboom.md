@@ -20,8 +20,8 @@ The Ultimate Ears Everboom ranks [#30 out of 73 total Large Size Portable Blueto
 - Driver: 2x 56.6mm x 56.2mm fullrange transducers + 2x passive radiators
 - EQ: Yes
 - IP Rating: IP67
+- Output Power: 14W
 - Party Mode: Yes
-- Power: 14W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

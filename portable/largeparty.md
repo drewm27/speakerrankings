@@ -35,8 +35,8 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 1100W
 - Party Mode: Yes
-- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -69,8 +69,8 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 1100W
 - Party Mode: Yes
-- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -99,8 +99,8 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 800W
 - Party Mode: Yes (Auracast)
-- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -143,8 +143,8 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 800W
 - Party Mode: Yes
-- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -178,8 +178,8 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (Auracast)
-- Power: 400W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -216,10 +216,10 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 115 dB
+- Max Volume: 115dB
 - Microphone Input: Yes
+- Output Power: 450W
 - Party Mode: Yes
-- Power: 450W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -253,8 +253,8 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 148W
 - Party Mode: Yes (Auracast up to 100 speakers)
-- Power: 148W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -288,8 +288,8 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 139W
 - Party Mode: Yes (Auracast up to 100 speakers)
-- Power: 139W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -322,8 +322,8 @@ Last updated: March 05, 2026
 - IP Rating: None
 - Microphone Input: Yes
 - Optical Input: Yes
+- Output Power: 100W
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No
@@ -354,11 +354,11 @@ Last updated: March 05, 2026
 - EQ: Yes (Bass and treble)
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 135 dB
+- Max Volume: 135dB
 - MicroSD: Yes
 - Microphone Input: Yes
+- Output Power: 370W
 - Party Mode: No
-- Power: 370W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

@@ -11,12 +11,12 @@ The Tribit Xsound Go ranks [#75 out of 131 total Medium Size Portable Bluetooth 
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
 - Aux Input: Yes
-- Bass Extension (-10dB): 83hz
+- Bass Extension (-10dB): 83Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 6.89" x 2.32" x 2.20" (175 x 59 x 56 mm)
-- Max Volume: 98db
-- Power: 16W
+- Max Volume: 98dB
+- Output Power: 16W
 - Stereo: Yes
 - Weight: 0.84lbs / 380g
 - Reviews, Comparisons and Sound Samples

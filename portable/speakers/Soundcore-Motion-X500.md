@@ -11,7 +11,7 @@ The Soundcore Motion X500 ranks [#22 out of 73 total Large Size Portable Bluetoo
 - Negatives: A little bright on top, a custom EQ can flatten things out a bit. Peaks at 250hz and dip at 1khz
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 48hz
+- Bass Extension (-10dB): 48Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -21,9 +21,9 @@ The Soundcore Motion X500 ranks [#22 out of 73 total Large Size Portable Bluetoo
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

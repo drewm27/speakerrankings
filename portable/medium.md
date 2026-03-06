@@ -25,7 +25,7 @@ Last updated: March 05, 2026
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
@@ -35,9 +35,9 @@ Last updated: March 05, 2026
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Max Volume: 103db
+- Max Volume: 103dB
+- Output Power: 28W
 - Party Mode: No
-- Power: 28W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -62,7 +62,7 @@ Last updated: March 05, 2026
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
@@ -73,8 +73,8 @@ Last updated: March 05, 2026
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 101db
-- Power: 30W
+- Max Volume: 101dB
+- Output Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -103,7 +103,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
@@ -113,9 +113,9 @@ Last updated: March 05, 2026
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -139,14 +139,14 @@ Last updated: March 05, 2026
 - Negatives: Slight DSP tuning issue which makes bass get lighter at times at very low volumes, examples in oluv's video.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
 - Built in Microphone: Yes
 - EQ: Yes (9 band)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -169,7 +169,7 @@ Last updated: March 05, 2026
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
 - Aux Input: Yes
-- Bass Extension (-10dB): 57hz
+- Bass Extension (-10dB): 57Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, AAC
 - Bluetooth Latency: 180ms
@@ -177,8 +177,8 @@ Last updated: March 05, 2026
 - Charging Time: 3.5 hours
 - Driver: 2x 40mm full-range drivers + passive radiator
 - IP Rating: IP67
-- Max Volume: 97db
-- Power: 27W
+- Max Volume: 97dB
+- Output Power: 27W
 - Power Input: Micro USB
 - Stereo: Yes
 - Weight: 1.6lbs / 750g
@@ -199,7 +199,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
@@ -209,8 +209,8 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
-- Max Volume: 106db
-- Power: 50W
+- Max Volume: 106dB
+- Output Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -229,7 +229,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, AAC, SBC
 - Bluetooth Latency: 60ms
@@ -240,8 +240,8 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
-- Max Volume: 105db
-- Power: 40W
+- Max Volume: 105dB
+- Output Power: 40W
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
@@ -266,12 +266,12 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: Splash resistant
-- Max Volume: 95db
+- Max Volume: 95dB
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
@@ -289,12 +289,12 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Not quite as neutral as the A1 2nd gen. Pumping sound artifacts above 60% volume, only good for lower listening levels.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 99db
+- Max Volume: 99dB
 - Power Bank: No
 - Stereo: No
 - USB Audio: Yes
@@ -319,13 +319,13 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Not as deep bass as the A1. Pumping sound artifacts above 60% volume, only good for lower listening levels.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Latency: 90ms
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 93db
+- Max Volume: 93dB
 - Power Bank: No
 - Stereo: No
 - TWS: Yes
@@ -348,7 +348,7 @@ Last updated: March 05, 2026
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
@@ -357,9 +357,9 @@ Last updated: March 05, 2026
 - EQ: Yes (7 band)
 - Frequency Response: 56Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: IP68
-- Max Volume: 102db
+- Max Volume: 102dB
+- Output Power: 45W
 - Party Mode: Yes (Auracast)
-- Power: 45W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -387,7 +387,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Some slight upper mids emphasis. The TL version (made in Vietnam) tweeter can sound somewhat scratchy and doesn't sound as good as the GG version (made in China)
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 116ms
@@ -397,9 +397,9 @@ Last updated: March 05, 2026
 - Driver: 44mm x 80mm woofer, 16mm tweeter
 - EQ: Yes (3 band)
 - IP Rating: IP67
-- Max Volume: 98db
+- Max Volume: 98dB
+- Output Power: 30W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -457,12 +457,12 @@ Last updated: March 05, 2026
 - Negatives: A little bit of a bump at 4khz, not quite as neutral as the FLip 6. I believe this one is slightly worse than the Flip 6.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - IP Rating: IP68
-- Max Volume: 100db
+- Max Volume: 100dB
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Stereo: No
@@ -522,7 +522,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo, slight peak around 250hz, slightly rolled off treble.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 7.5" x 3.0" x 3.0" (190 x 75 x 75 mm)
@@ -530,10 +530,10 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: Yes
+- Output Power: 30W
 - Party Mode: Yes (PartyAdd up to 100 speakers)
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -560,7 +560,7 @@ Last updated: March 05, 2026
 - Driver: 82.5mm woofer, 15mm tweeter
 - EQ: Yes
 - IP Rating: IP67
-- Power: 60W
+- Output Power: 60W
 - Power Bank: No
 - Stereo: No
 - TWS: Yes
@@ -590,8 +590,8 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 50W
 - Party Mode: Yes (Up to 100 speakers)
-- Power: 50W
 - Power Bank: Yes
 - Stereo: No
 - TWS: Yes
@@ -609,13 +609,13 @@ Last updated: March 05, 2026
 - Negatives: Single driver, not stereo. Lack of detail. Lack of upper treble, peaky lower treble. Not great off axis. Keep in mind this speaker gives up some sound quality for deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 200ms
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 100db
+- Max Volume: 100dB
 - Power Bank: No
 - Stereo: No
 - TWS: Yes
@@ -636,7 +636,7 @@ Last updated: March 05, 2026
 - Negatives: Slightly less deep bass than the best in category.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 160ms
 - Bluetooth Version: 4.2
@@ -644,8 +644,8 @@ Last updated: March 05, 2026
 - Driver: 2x 44mm full-range drivers + 2x passive radiators
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 99db
-- Power: 24W
+- Max Volume: 99dB
+- Output Power: 24W
 - Power Bank: No
 - Stereo: Yes
 - TWS: Yes
@@ -668,7 +668,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Boosted bass, not as detailed as higher ranked speakers
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 57hz
+- Bass Extension (-10dB): 57Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 8.3" x 3.1" x 3.1" (210 x 78 x 80 mm)
@@ -677,7 +677,7 @@ Last updated: March 05, 2026
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - MicroSD: No
-- Power: 40W
+- Output Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -696,12 +696,12 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 90ms
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Input: USB-C
@@ -718,12 +718,12 @@ Last updated: March 05, 2026
 - Negatives: A bit harsh and thin sounding. Default mode has a boosted treble.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 150ms
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
 - MicroSD: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -742,7 +742,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
@@ -751,9 +751,9 @@ Last updated: March 05, 2026
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -771,7 +771,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 125ms
@@ -781,9 +781,9 @@ Last updated: March 05, 2026
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 40W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 40W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -823,15 +823,15 @@ Last updated: March 05, 2026
 - Negatives: Not quite as good as a Charge 5, doesn't go quite as loud or sound quite as balanced, but very very close. An earlier firmware version had some bass distortion, update your firmware in the Soundcore App
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 8.3" x 3.3" x 3.1" (210 x 85 x 78.5 mm)
 - Driver: 94mm woofer + tweeter
 - EQ: Yes
 - IP Rating: IP68
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -855,8 +855,8 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -873,7 +873,7 @@ Last updated: March 05, 2026
 - Negatives: Less bass extension than a Flip 6
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~62hz
+- Bass Extension (-10dB): ~62Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0
@@ -900,12 +900,12 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Slightly rolled off treble, not as deep of bass as the best in category. Outdoor mode is more flat, indoor mode boosts bass. Not technically a 360 speaker, only front and rear.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 61hz
+- Bass Extension (-10dB): 61Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 100db
+- Max Volume: 100dB
 - Stereo: No
 - TWS: Yes
 - Weight: 1.29lbs / 585g
@@ -925,7 +925,7 @@ Last updated: March 05, 2026
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 4.0
 - Dimensions: 2.7" x 3.4" x 7.0" (69 x 86 x 178 mm)
-- Power: 32W
+- Output Power: 32W
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 1.59lbs / 720g
@@ -947,9 +947,9 @@ Last updated: March 05, 2026
 - Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66 mm)
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 30W
 - Party Mode: Yes
-- Power: 30W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -992,7 +992,7 @@ Last updated: March 05, 2026
 ## #34 [Bose Soundlink Flex](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325)]: $150
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail
 - App: Yes
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Latency: 33ms
 - Bluetooth Version: 4.2
@@ -1000,7 +1000,7 @@ Last updated: March 05, 2026
 - Dimensions: 7.9" x 3.5" x 2.1" (201 x 90 x 52 mm)
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
 - Party Mode: Yes (Bose Party mode)
 - Power Input: USB-C
 - Stereo: No
@@ -1032,7 +1032,7 @@ Last updated: March 05, 2026
 ## #35 JBL Charge Essential 2: $130
 - Negatives: Not stereo. Slightly less bass than a Charge 5.
 - App: No
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 5.1
 - Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94 mm)
@@ -1040,8 +1040,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -1056,9 +1056,9 @@ Last updated: March 05, 2026
 ## #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
 - Positives: Use Devialet and +6db EQ for best sound quality
 - Negatives: Boosted treble, not quite as deep of bass as a Charge 5. Very expensive
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 26 hours (Manufacturer specified)
-- Max Volume: 100db
+- Max Volume: 100dB
 - Stereo: No
 - Weight: 1.50lbs / 680g
 - Reviews, Comparisons and Sound Samples
@@ -1113,7 +1113,7 @@ Last updated: March 05, 2026
 
 ## #39 Earfun Uboom Slim
 - Negatives: Not as deep bass as others. Warm tuned, peaks in the mids and lower treble, rolled off upper treble
-- Bass Extension (-10dB): ~63hz
+- Bass Extension (-10dB): ~63Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Power Input: USB-C
 - Stereo: Yes
@@ -1128,7 +1128,7 @@ Last updated: March 05, 2026
 - Negatives: Not very deep bass, slight distortion
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 65hz
+- Bass Extension (-10dB): 65Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, LDAC, SBC
 - Bluetooth Version: 5.3
@@ -1137,7 +1137,7 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Power: 20W
+- Output Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1152,7 +1152,7 @@ Last updated: March 05, 2026
 ## #41 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325)]: $90
 - Negatives: Bottom woofer was fixed in a later firmware, upgrade for best sound. Peaky mids, highs rolled off. Not technically a 360 speaker, only front and rear.
 - Aux Input: Yes
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 5.3
@@ -1160,9 +1160,9 @@ Last updated: March 05, 2026
 - Driver: 76mm subwoofer, 2x 40mm full-range drivers + 2x passive radiators
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -1189,8 +1189,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 30W
 - Party Mode: Yes up to 100 speakers
-- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -1206,7 +1206,7 @@ Last updated: March 05, 2026
 - Positives: Cool light show, although not synced to the music like the Pulse 2.
 - Negatives: Not quite as deep bass as others. Plastic scratches easily.
 - App: Yes
-- Bass Extension (-10dB): ~58hz
+- Bass Extension (-10dB): ~58Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -1215,8 +1215,8 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 58Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 40W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - Weight: 3.2lbs / 1500g
@@ -1231,7 +1231,7 @@ Last updated: March 05, 2026
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
@@ -1240,9 +1240,9 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 100db
+- Max Volume: 100dB
+- Output Power: 30W
 - Party Mode: Yes (PartyBoost)
-- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
@@ -1266,7 +1266,7 @@ Last updated: March 05, 2026
 - Frequency Response: 100Hz - 18kHz (Manufacturer specified)
 - IP Rating: IP67
 - MicroSD: Yes
-- Power: 40W
+- Output Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
@@ -1299,7 +1299,7 @@ Last updated: March 05, 2026
 ## #47 Bose Soundlink Revolve+: $230
 - Negatives: Overly boosted bass, warm sounding. Boosted mids. Rolled off treble.
 - Aux Input: Yes
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 4.1" x 7.25" x 4.1" (105 x 184 x 105 mm)
@@ -1321,14 +1321,14 @@ Last updated: March 05, 2026
 ## #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 8.07" x 2.51" x 3.21" (205 x 64 x 82 mm)
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
-- Max Volume: 98db
+- Max Volume: 98dB
 - MicroSD: Yes
-- Power: 40W
+- Output Power: 40W
 - Stereo: Yes
 - Weight: 1.7lbs / 0.771kg
 - Reviews, Comparisons and Sound Samples
@@ -1340,7 +1340,7 @@ Last updated: March 05, 2026
 ## #49 Bose Soundlink Revolve: $180
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
 - Aux Input: Yes
-- Bass Extension (-10dB): 60hz
+- Bass Extension (-10dB): 60Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82 mm)
@@ -1365,14 +1365,14 @@ Last updated: March 05, 2026
 ## #50 [Tribit Stormbox Flow](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325)]: $60
 - Negatives: Not stereo. Midrange and bass are weirdly recessed about 4db below 700hz. You need xbass mode for it to not sound like a clock radio with missing bass. You also can't turn up the bass enough in the custom EQ modes to get it neutral, so it will sound bass light. Firmware 1.2.3 fixes the distortion issues with xbass mode on, but bass still sounds wobbly and uncontrolled.
 - App: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Latency: 400ms aac, 200ms sbc
 - Bluetooth Version: 5.3
 - Dimensions: 7.9" x 3.6" x 2.1" (200 x 91 x 53 mm)
 - EQ: Yes
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
-- Power: 25W
+- Output Power: 25W
 - Stereo: No
 - Weight: 1.45lbs / 657g
 - Reviews, Comparisons and Sound Samples
@@ -1391,16 +1391,16 @@ Last updated: March 05, 2026
 ## #51 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325)]: $85
 - Negatives: Not stereo. 1 Oval driver. Boosted bass, top a little rolled off, warm sound. Not as loud as a Charge 3.
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 330ms
 - Bluetooth Version: 4.2
 - Dimensions: 8.66" x 3.74" x 3.66" (220 x 95 x 93 mm)
 - Driver: 1x 51x89mm fullrange
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 30W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 30W RMS
 - Power Bank: Yes
 - Stereo: No
 - TWS: No
@@ -1426,15 +1426,15 @@ Last updated: March 05, 2026
 ## #52 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325)]: $36
 - Positives: Use bass model for flattest response. Pretty deep bass for the money.
 - Negatives: Peaks in the upper mids, low treble and a big peak in upper treble.
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Latency: 220ms
 - Bluetooth Version: 5.0
 - Dimensions: 8.27" x 3.58" x 2.40" (210 x 91 x 61 mm)
 - Driver: 1x 67mm fullrange
 - Frequency Response: 55Hz - 18kHz (Manufacturer specified)
-- Max Volume: 98db
-- Power: 20W
+- Max Volume: 98dB
+- Output Power: 20W
 - Stereo: No
 - Weight: 1.28lbs / 581g
 - Reviews, Comparisons and Sound Samples
@@ -1449,15 +1449,15 @@ Last updated: March 05, 2026
 ## #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
 - Negatives: Front/rear driver configuration. Use bass mode for the flattest response. Sounds thin in the midrange. Hot treble and rolled off bass in default mode. Treble a bit rolled off in bass mode.
 - Aux Input: Yes
-- Bass Extension (-10dB): 61hz
+- Bass Extension (-10dB): 61Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 6.30" x 2.99" x 2.79" (160 x 76 x 71 mm)
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 96db
+- Max Volume: 96dB
 - MicroSD: Yes
-- Power: 40W
+- Output Power: 40W
 - Power Bank: Yes
 - Stereo: No (front/rear drivers)
 - TWS: Yes
@@ -1473,15 +1473,15 @@ Last updated: March 05, 2026
 ## #54 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325)]: $50
 - Negatives: A little less bass than similar size speakers.
 - App: Yes
-- Bass Extension (-10dB): 60hz
+- Bass Extension (-10dB): 60Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 5.0
 - Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59 mm)
 - EQ: Yes
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 16W
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Power: 16W
 - Stereo: Yes
 - Weight: 0.82lbs / 372g
 - Reviews, Comparisons and Sound Samples
@@ -1495,7 +1495,7 @@ Last updated: March 05, 2026
 ## #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
-- Bass Extension (-10dB): ~58hz
+- Bass Extension (-10dB): ~58Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58 mm)
@@ -1516,7 +1516,7 @@ Last updated: March 05, 2026
 ## #56 Bose Soundlink Mini: $150
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass doesn't go as deep as others. Failures of the mainboard are common.
 - Aux Input: Yes
-- Bass Extension (-10dB): ~58hz
+- Bass Extension (-10dB): ~58Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58 mm)
 - IP Rating: None
@@ -1538,7 +1538,7 @@ Last updated: March 05, 2026
 - Bluetooth Version: 5.0
 - Dimensions: 8.4" x 2.9" x 2.9" (213 x 74 x 74 mm)
 - Frequency Response: 80Hz - 20kHz (Manufacturer specified)
-- Power: 16W
+- Output Power: 16W
 - Weight: 0.82lbs / 373g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Anker Soundcore 3 Vs Soundynamic Twinkle Vs Xiaomi Mi 16w](https://www.youtube.com/watch?v=TF748bXDjIs)
@@ -1549,15 +1549,15 @@ Last updated: March 05, 2026
 ## #58 Sony XB33: $110
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
 - Aux Input: No
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 110ms
 - Bluetooth Version: 5.0
 - Dimensions: 9.69" x 3.82" x 4.17" (246 x 97 x 106 mm)
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
-- Max Volume: 97db
+- Max Volume: 97dB
+- Output Power: 16W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 16W RMS
 - Power Bank: Yes
 - Stereo: Yes
 - Weight: 2.43lbs / 1.1kg
@@ -1575,7 +1575,7 @@ Last updated: March 05, 2026
 ## #59 Creative iRoar Go: $83
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
-- Bass Extension (-10dB): 64hz
+- Bass Extension (-10dB): 64Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 7.6" x 3.8" x 2.1" (192 x 97 x 54 mm)
@@ -1593,7 +1593,7 @@ Last updated: March 05, 2026
 - Negatives: Boosted upper bass, somewhat thuddy. Slightly recessed mids. Rolled off treble. This may move around a little as better sound samples are found.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): ~56hz
+- Bass Extension (-10dB): ~56Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -1617,16 +1617,16 @@ Last updated: March 05, 2026
 
 ## #61 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325)]: $90
 - Negatives: Not stereo. Boosted upper bass. Piercing sound when turned up. Peaky lower treble at higher volumes.
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Latency: 200ms
 - Bluetooth Version: 4.2
 - Dimensions: 7.13" x 2.72" x 2.91" (181 x 69 x 74 mm)
 - Driver: 1x 44x80mm fullrange
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
-- Max Volume: 92db
+- Max Volume: 92dB
+- Output Power: 20W RMS
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 20W RMS
 - Weight: 1.19lbs / 540g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=RBpVI4hLP1Y>
@@ -1643,16 +1643,16 @@ Last updated: March 05, 2026
 - Positives: Less bass than a Flip 5. Peaky lower treble.
 - Negatives: Battery failures are common.
 - Aux Input: Yes
-- Bass Extension (-10dB): 66hz
+- Bass Extension (-10dB): 66Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Latency: 300ms
 - Bluetooth Version: 4.2
 - Dimensions: 6.89" x 2.76" x 2.56" (175 x 70 x 65 mm)
 - Driver: 2x 40mm fullrange
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
-- Max Volume: 92db
+- Max Volume: 92dB
+- Output Power: 16W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 16W RMS
 - Power Input: Micro USB
 - TWS: No
 - Weight: 1.1lbs / 510g
@@ -1670,14 +1670,14 @@ Last updated: March 05, 2026
 ## #63 Sony XB23: $100
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
-- Bass Extension (-10dB): 67hz
+- Bass Extension (-10dB): 67Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 3.0" x 8.58" x 3.0" (76 x 218 x 76 mm)
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
-- Max Volume: 95db
+- Max Volume: 95dB
+- Output Power: 8W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 8W RMS
 - Weight: 1.28lbs / 580g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB23 vs JBL Flip 5 v Tribit Maxsound Plus](https://www.youtube.com/watch?v=_uqf_NKwcP4)
@@ -1692,7 +1692,7 @@ Last updated: March 05, 2026
 - Negatives: Upper bass boost. Bass not as deep as the top ranked speakers. Boosted lower treble, sounds a little harsh like most Klipsch speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): ~64hz
+- Bass Extension (-10dB): ~64Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -1700,9 +1700,9 @@ Last updated: March 05, 2026
 - Driver: 2x 57mm fullrange
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 89db
+- Max Volume: 89dB
+- Output Power: 20W RMS
 - Party Mode: Yes (broadcast mode)
-- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - TWS: Yes
@@ -1724,8 +1724,8 @@ Last updated: March 05, 2026
 - Driver: 2x 40mm fullrange
 - EQ: No
 - Frequency Response: 80Hz - 20kHz (Manufacturer specified)
+- Output Power: 16W RMS
 - Party Mode: No
-- Power: 16W RMS
 - Weight: ‎1.04lbs / 471g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)
@@ -1736,15 +1736,15 @@ Last updated: March 05, 2026
 ## #66 JBL Charge 3: $80
 - Negatives: Less clarity than the Flip 4. Battery failures are common.
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 4.1
 - Dimensions: 8.39" x 3.46" x 3.46" (213 x 88 x 88 mm)
 - Driver: 2x 50mm fullrange
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
-- Max Volume: 100db
+- Max Volume: 100dB
+- Output Power: 20W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: Micro USB
 - Weight: 1.8 lbs / 800g
@@ -1773,8 +1773,8 @@ Last updated: March 05, 2026
 - Driver: 2x 50mm fullrange
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
+- Output Power: 20W RMS
 - Party Mode: No
-- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: Micro USB
 - Weight: 1.7lbs / 770g
@@ -1793,7 +1793,7 @@ Last updated: March 05, 2026
 - Dimensions: 8.5" x 3.4" x 3.0" (216 x 86 x 76 mm)
 - Driver: 2x 45mm fullrange
 - Frequency Response: 75Hz - 20kHz (Manufacturer specified)
-- Power: 15W RMS
+- Output Power: 15W RMS
 - Power Bank: Yes
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
@@ -1810,11 +1810,11 @@ Last updated: March 05, 2026
 ## #69 [Sonos Roam 2](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl)]: $180
 - Positives: Very neutral. Additional button for pairing instead of being shared with power button
 - Negatives: Exact same sound quality as the original Roam. Bass extension isn't very good. Not stereo. Gets distorted as you turn up the bass.
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Version: 5.2
 - Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60 mm)
-- Max Volume: 95db
+- Max Volume: 95dB
 - Stereo: No
 - Weight: 0.95lbs / 429g
 - Wifi: Yes
@@ -1827,11 +1827,11 @@ Last updated: March 05, 2026
 ## #70 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325)]: $160
 - Positives: Very neutral.
 - Negatives: Bass extension isn't very good. Not stereo. Gets distorted if you turn up the bass.
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 2.44" x 6.61" x 2.36" (62 x 168 x 60 mm)
-- Max Volume: 95db
+- Max Volume: 95dB
 - Stereo: No
 - Weight: 0.95lbs / 429g
 - Wifi: Yes
@@ -1853,9 +1853,9 @@ Last updated: March 05, 2026
 - Driver: 1x 58x117mm racetrack woofer, 1x 20mm tweeter
 - Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 90db
+- Max Volume: 90dB
+- Output Power: 40W
 - Party Mode: Auracast
-- Power: 40W
 - Stereo: Yes
 - TWS: Yes
 - USB Audio: Yes
@@ -1871,14 +1871,14 @@ Last updated: March 05, 2026
 ## #72 [Tronsmart Mirtune S100](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl)]: $64
 - Positives: Reasonably balanced
 - Negatives: Lacking deeper bass compared to higher ranked speakers
-- Bass Extension (-10dB): ~64hz
+- Bass Extension (-10dB): ~64Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 9.09" x 3.46" x 3.94" (231 x 88 x 100 mm)
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Power: 50W
+- Output Power: 50W
 - Stereo: Partially
 - Weight: 3.0lbs / 1.36kg
 - Wifi: No
@@ -1893,7 +1893,7 @@ Last updated: March 05, 2026
 - Negatives: Lacking deeper bass, definitely the worst of the JBL line until you get to the smaller clip. Not as much clarity as higher ranked speakers, rolled off highs and wavy midrange
 - Setup: EQ from [Oluv in his post](https://www.patreon.com/posts/jbl-grip-test-150255893) can help it a bit but still isn't very netural
 - App: Yes
-- Bass Extension (-10dB): ~68hz
+- Bass Extension (-10dB): ~68Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -1902,8 +1902,8 @@ Last updated: March 05, 2026
 - EQ: Yes (7 band)
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP68
+- Output Power: 16W
 - Party Mode: Yes (Auracast)
-- Power: 16W
 - TWS: Yes
 - Weight: 0.85lbs / 385g
 - Reviews, Comparisons and Sound Samples
@@ -1914,7 +1914,7 @@ Last updated: March 05, 2026
 
 ## #74 [Treblab HD77](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl)]: $60
 - Negatives: Lacking quite a bit of bass compared to higher ranked speakers. Unable to disable the music flashing lights
-- Bass Extension (-10dB): ~66hz
+- Bass Extension (-10dB): ~66Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -1922,7 +1922,7 @@ Last updated: March 05, 2026
 - Driver: 2x 48mm fullrange
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Power: 25W RMS
+- Output Power: 25W RMS
 - Stereo: No (front/rear drivers)
 - TWS: Yes
 - Weight: 1.4lbs / 637g
@@ -1938,12 +1938,12 @@ Last updated: March 05, 2026
 - Positives: Well balanced sound.
 - Negatives: Lacking quite a bit of bass compared to bigger speakers
 - Aux Input: Yes
-- Bass Extension (-10dB): 83hz
+- Bass Extension (-10dB): 83Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 6.89" x 2.32" x 2.20" (175 x 59 x 56 mm)
-- Max Volume: 98db
-- Power: 16W
+- Max Volume: 98dB
+- Output Power: 16W
 - Stereo: Yes
 - Weight: 0.84lbs / 380g
 - Reviews, Comparisons and Sound Samples
@@ -1961,7 +1961,7 @@ Last updated: March 05, 2026
 - Bluetooth Version: 5.0
 - Dimensions: 7.01" x 2.24" x 2.13" (178 x 57 x 54 mm)
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
-- Power: 12W RMS
+- Output Power: 12W RMS
 - Stereo: Yes
 - Weight: 0.97lbs / 440g
 - Reviews, Comparisons and Sound Samples
@@ -1985,9 +1985,9 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 34W RMS
 - Party Mode: Yes
-- Power: 34W RMS
 - Stereo: No (front/rear drivers)
 - TWS: Yes
 - Weight: 1.3lbs / 593g
@@ -2007,7 +2007,7 @@ Last updated: March 05, 2026
 - Dimensions: 6.6" x 1.9" x 2.2" (168 x 47 x 56 mm)
 - Driver: 2x 38mm fullrange
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
-- Power: 12W
+- Output Power: 12W
 - Stereo: Yes
 - Weight: 0.70lbs / 318g
 - Reviews, Comparisons and Sound Samples
@@ -2020,15 +2020,15 @@ Last updated: March 05, 2026
 ## #79 [LG Xboom Grab](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl)]: $127
 - Negatives: Bass extension not as deep as the top speakers. Overpriced. This may move around in the rankings as we get better sound samples
 - App: Yes
-- Bass Extension (-10dB): 75hz
+- Bass Extension (-10dB): 75Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
 - Driver: 1x 80x45mm racetrack woofer, 1x 16mm tweeter
 - EQ: Yes
 - IP Rating: IP67
+- Output Power: 30W
 - Party Mode: Yes (Auracast)
-- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
@@ -2044,13 +2044,13 @@ Last updated: March 05, 2026
 
 ## #80 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325)]: $163
 - Negatives: Not stereo, barely any bass. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2018. Not technically a 360 speaker, only front and rear.
-- Bass Extension (-10dB): 70hz
+- Bass Extension (-10dB): 70Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87 mm)
 - Driver: 2x 50mm fullrange
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
-- Max Volume: 98db
+- Max Volume: 98dB
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB
 - Stereo: No
@@ -2066,7 +2066,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo, barely any bass. Boosted 93hz upper bass. Cuts bass heavily at high volume. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2022. Not technically a 360 speaker, only front and rear.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 76hz
+- Bass Extension (-10dB): 76Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Latency: 166ms
 - Bluetooth Version: 5.2
@@ -2075,7 +2075,7 @@ Last updated: March 05, 2026
 - Driver: 2x 40mm active drivers + 2x passive radiators (46.1 x 65.2mm)
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 87db
+- Max Volume: 87dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: Micro USB
@@ -2094,7 +2094,7 @@ Last updated: March 05, 2026
 ## #82 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325)]: $80
 - Negatives: Not stereo, barely any bass, recessed treble. Slightly boosted 93hz upper bass Dip at 9khz. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2019. Not technically a 360 speaker, only front and rear.
 - App: No
-- Bass Extension (-10dB): 82hz
+- Bass Extension (-10dB): 82Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.1
 - Built in Microphone: No
@@ -2102,7 +2102,7 @@ Last updated: March 05, 2026
 - Driver: 2x 40mm active drivers + 2x passive radiators
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
 - Party Mode: No
 - Power Input: Micro USB
 - Stereo: No
@@ -2146,7 +2146,7 @@ Last updated: March 05, 2026
 - Driver: 2x 1.57" (40mm) active drivers + 2x 1.81" x 2.57" (46.1 x 65.2mm) passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
-- Max Volume: 85 dBC
+- Max Volume: 85dBC
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2160,7 +2160,7 @@ Last updated: March 05, 2026
 
 ## #85 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325)]: $113
 - Negatives: Not stereo, barely any bass, recessed treble. You can tell from the micro USB that they are just feeding you the same crap hardware over and over, this is inexcusable for a product released in 2021. Lots of mentions of failing batteries on amazon. Not technically a 360 speaker, only front and rear.
-- Bass Extension (-10dB): 91hz
+- Bass Extension (-10dB): 91Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 4.2
 - Built in Microphone: No
@@ -2168,7 +2168,7 @@ Last updated: March 05, 2026
 - Driver: 2x 2" active drivers + 2x 2" x 4" passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
-- Max Volume: 87db
+- Max Volume: 87dB
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB
 - Stereo: Yes
@@ -2193,8 +2193,8 @@ Last updated: March 05, 2026
 - Driver: 1x 3" full-range driver + 2x side-firing passive radiators
 - EQ: No
 - IP Rating: IPX4 (Groove), none (Heritage Groove)
+- Output Power: 10W RMS
 - Party Mode: No
-- Power: 10W RMS
 - Power Bank: No
 - Power Input: Micro USB
 - TWS: No
@@ -2218,8 +2218,8 @@ Last updated: March 05, 2026
 - Driver: 2x X-Balanced speaker units + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
+- Output Power: 16W
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 16W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2239,7 +2239,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 166ms
@@ -2249,9 +2249,9 @@ Last updated: March 05, 2026
 - Driver: 2x drivers + passive radiators
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 97db
+- Max Volume: 97dB
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.2lbs / 535g
@@ -2274,8 +2274,8 @@ Last updated: March 05, 2026
 - Dimensions: 7.8" x 2.68" x 2.72" (198 x 68 x 69 mm)
 - EQ: No
 - IP Rating: IPX5
+- Output Power: 20W
 - Party Mode: Yes (Partychain up to 100 speakers)
-- Power: 20W
 - Power Bank: No
 - Power Input: Micro USB
 - Stereo: Yes
@@ -2299,7 +2299,7 @@ Last updated: March 05, 2026
 - Driver: 1x 55mm (2.2") full-range driver + 2x passive radiators
 - EQ: No
 - IP Rating: IP67
-- Power: 10W
+- Output Power: 10W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2323,8 +2323,8 @@ Last updated: March 05, 2026
 - EQ: Yes (6 modes via app)
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2345,8 +2345,8 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2388,7 +2388,7 @@ Last updated: March 05, 2026
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud. Not really any different from the Emberton II except having the treble turned down a little bit.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 32 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
@@ -2396,8 +2396,8 @@ Last updated: March 05, 2026
 - Driver: 2x 2" full-range cone drivers + 2x 2" passive radiators
 - EQ: Yes (3 presets via app)
 - IP Rating: IP67
+- Output Power: 20W
 - Party Mode: Yes (Marshall Stack)
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2415,7 +2415,7 @@ Last updated: March 05, 2026
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 80ms
@@ -2425,9 +2425,9 @@ Last updated: March 05, 2026
 - Driver: 2x 2" full-range drivers + 2x passive radiators
 - EQ: Yes (3 presets via app)
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
+- Output Power: 20W
 - Party Mode: Yes (Marshall Stack)
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2451,7 +2451,7 @@ Last updated: March 05, 2026
 - Dimensions: 7.09" x 2.56" x 2.56" (180 x 65 x 65 mm)
 - Driver: 2x 45mm full-range
 - IP Rating: IPX7
-- Power: 16W
+- Output Power: 16W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.1lbs / 500g
@@ -2470,7 +2470,7 @@ Last updated: March 05, 2026
 - Bluetooth Version: 4.0
 - Dimensions: 7.28" x 2.95" x 2.95" (185 x 75 x 75 mm)
 - Driver: 2x 85mm woofers, 2x 40mm mid-tweeters
-- Power: 60W
+- Output Power: 60W
 - Power Input: USB
 - Stereo: Yes
 - TWS: Yes
@@ -2504,16 +2504,16 @@ Last updated: March 05, 2026
 - Negatives: Muffled sound, worse than a XB20
 - App: Yes (Sony Music Center)
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 8.98" x 3.23" x 3.39" (228 x 82 x 86 mm)
 - IP Rating: IPX5
-- Max Volume: 95db
+- Max Volume: 95dB
+- Output Power: 20W
 - Party Mode: Yes (Partychain up to 100 speakers)
-- Power: 20W
 - Power Input: Micro USB
 - Stereo: Yes
 - TWS: Yes
@@ -2528,7 +2528,7 @@ Last updated: March 05, 2026
 - Positives: Try [Alan Ross's EQ](https://ibb.co/q9mcNk1) for it
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
 - App: Yes
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 80ms
@@ -2537,9 +2537,9 @@ Last updated: March 05, 2026
 - Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 20W
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Power: 20W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -2555,16 +2555,16 @@ Last updated: March 05, 2026
 ## #101 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
 - Negatives: Recessed midrange, harsh treble. Bass doesn't go as deep as others.
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 9.90" x 3.72" x 3.72" (251 x 94 x 94 mm)
 - Driver: 2x 70mm woofers, 2x 30mm tweeters
 - IP Rating: IPX6
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: Yes
-- Power: 30W
+- Output Power: 30W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: No
@@ -2586,7 +2586,7 @@ Last updated: March 05, 2026
 - Driver: 2x 1.7-inch full-range drivers + 2x passive radiators (44x49mm each)
 - EQ: Yes (16 EQ modes via app)
 - IP Rating: IPX8
-- Power: 16W
+- Output Power: 16W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -2600,7 +2600,7 @@ Last updated: March 05, 2026
 ## #103 TDK A33
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Aux Input: Yes
-- Bass Extension (-10dB): ~72hz
+- Bass Extension (-10dB): ~72Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 2.1
@@ -2608,7 +2608,7 @@ Last updated: March 05, 2026
 - Dimensions: 9.5" x 3.75" x 2.0" (241 x 95 x 51 mm)
 - Driver: 2x 1.5-inch full-range + 1x 2.5-inch subwoofer + 2x 3-inch passive radiators
 - IP Rating: IP64
-- Power: 15W
+- Output Power: 15W
 - Power Input: Micro USB
 - Weight: 2.8lbs / 1270g
 - Reviews, Comparisons and Sound Samples
@@ -2621,7 +2621,7 @@ Last updated: March 05, 2026
 
 ## #104 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.
-- Bass Extension (-10dB): ~70hz
+- Bass Extension (-10dB): ~70Hz
 - Battery Life: 27 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -2629,8 +2629,8 @@ Last updated: March 05, 2026
 - Dimensions: 3.19" x 4.88" x 3.19" (81 x 124 x 81 mm)
 - Driver: 2x 1.8-inch full-range drivers
 - IP Rating: IP67
-- Max Volume: 91db
-- Power: 60W
+- Max Volume: 91dB
+- Output Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2673,7 +2673,7 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - Dimensions: 9.25" x 3.11" x 3.07" (235 x 79 x 78 mm)
 - IP Rating: IPX7
-- Power: 25W
+- Output Power: 25W
 - TWS: Yes
 - Weight: 1.23lbs / 550g
 - Reviews, Comparisons and Sound Samples
@@ -2686,7 +2686,7 @@ Last updated: March 05, 2026
 ## #107 Doss E-Go II
 - Negatives: Horribly bad unless turned up, still not great
 - Aux Input: Yes
-- Bass Extension (-10dB): 120hz
+- Bass Extension (-10dB): 120Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
@@ -2694,7 +2694,7 @@ Last updated: March 05, 2026
 - Driver: 2x 6W full-range drivers + 1x passive radiator
 - IP Rating: IPX6
 - MicroSD: Yes
-- Power: 12W
+- Output Power: 12W
 - Power Input: Micro USB
 - Stereo: Yes
 - Weight: 0.88lbs / 399g
@@ -2707,7 +2707,7 @@ Last updated: March 05, 2026
 - Negatives: Barely any bass. 14khz peak, bright on top. Soundboost mode makes the top end even harsher.
 - App: Yes (LG XBOOM App)
 - Aux Input: Yes
-- Bass Extension (-10dB): 71hz
+- Bass Extension (-10dB): 71Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
@@ -2715,9 +2715,9 @@ Last updated: March 05, 2026
 - Driver: 2x 1.75-inch woofers + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IPX5
-- Max Volume: 100db
+- Max Volume: 100dB
+- Output Power: 20W
 - Party Mode: Yes (Wireless Party Link, up to 100 speakers)
-- Power: 20W
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.4lbs / 640g
@@ -2737,8 +2737,8 @@ Last updated: March 05, 2026
 - Dimensions: 8.7" x 3.3" x 3.2" (222 x 83 x 80 mm)
 - Driver: 1x 42x80mm track-type woofer + 1x passive radiator
 - IP Rating: IP67
+- Output Power: 20W
 - Party Mode: Yes (Wireless Party Link, up to 10 speakers)
-- Power: 20W
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.5lbs / 680g
@@ -2750,7 +2750,7 @@ Last updated: March 05, 2026
 
 ## #110 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl)]: $23
 - Negatives: Lacking quite a bit of bass. Sounds hollow and thuddy. Just not great overall.
-- Bass Extension (-10dB): ~85hz
+- Bass Extension (-10dB): ~85Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Version: 5.4
@@ -2759,7 +2759,7 @@ Last updated: March 05, 2026
 - Driver: 2x 48mm 6W full-range drivers + 1x passive radiator
 - IP Rating: IPX7
 - Lights: Yes
-- Power: 12W
+- Output Power: 12W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -2785,7 +2785,7 @@ Last updated: March 05, 2026
 - EQ: Yes (via app)
 - IP Rating: IPX7
 - MicroSD: Yes
-- Power: 24W
+- Output Power: 24W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.38lbs / 630g
@@ -2798,7 +2798,7 @@ Last updated: March 05, 2026
 ## #112 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358
 - Aux Input: Yes
-- Bass Extension (-10dB): 87hz
+- Bass Extension (-10dB): 87Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: No
@@ -2817,14 +2817,14 @@ Last updated: March 05, 2026
 ## #113 [Boat Stone 350/352/358](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB) [[Amazon](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB)]: ₹1,399
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Dayton Audio Boost
 - Aux Input: Yes
-- Bass Extension (-10dB): 87hz
+- Bass Extension (-10dB): 87Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 3.5" x 7.1" (90 x 180 mm)
 - IP Rating: IPX7
 - MicroSD: Yes
-- Power: 10W
+- Output Power: 10W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -2843,7 +2843,7 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - Dimensions: 7.5" x 5.1" x 1.3" (190 x 130 x 34 mm)
 - Driver: 4x 1.25" full-range drivers
-- Power: 16W
+- Output Power: 16W
 - Power Bank: Yes
 - Power Input: Micro USB
 - Stereo: No
@@ -2861,7 +2861,7 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - Dimensions: 8.34" x 3.46" x 3.22" (211.8 x 87.9 x 81.8 mm)
 - IP Rating: IPX7
-- Power: 30W
+- Output Power: 30W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -2873,7 +2873,7 @@ Last updated: March 05, 2026
 ## #116 Xdobo X8: $35
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Aux Input: Yes
-- Bass Extension (-10dB): ~65hz
+- Bass Extension (-10dB): ~65Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -2881,7 +2881,7 @@ Last updated: March 05, 2026
 - Driver: 1x 66mm full-range driver
 - IP Rating: IPX5
 - MicroSD: Yes
-- Power: 60W
+- Output Power: 60W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.9lbs / 860g
@@ -2901,7 +2901,7 @@ Last updated: March 05, 2026
 - Dimensions: 3.58" x 3.58" x 1.65" (91 x 91 x 42 mm)
 - Driver: 1x 52mm full-range
 - IP Rating: IP55
-- Power: 5W
+- Output Power: 5W
 - Power Input: Micro USB
 - Stereo: No
 - TWS: No
@@ -2915,14 +2915,14 @@ Last updated: March 05, 2026
 ## #118 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Aux Input: Yes
-- Bass Extension (-10dB): ~64hz
+- Bass Extension (-10dB): ~64Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 3" x 3" x 6.69" (76 x 76 x 170 mm)
 - Driver: 2x drivers + 2x passive radiators
 - IP Rating: IPX7
-- Power: 24W
+- Output Power: 24W
 - Power Input: Micro USB
 - Stereo: Yes
 - TWS: Yes
@@ -2935,15 +2935,15 @@ Last updated: March 05, 2026
 ## #119 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
 - Negatives: Very little bass with horrible upper bass thud at higher levels
 - App: Yes (OontZ app)
-- Bass Extension (-10dB): ~90hz
+- Bass Extension (-10dB): ~90Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Dimensions: 6.5" x 2.8" x 2.75" (165 x 71 x 70 mm)
 - Driver: 2x precision drivers + 1x passive bass radiator
 - IP Rating: IPX7
-- Max Volume: 86db
-- Power: 14W
+- Max Volume: 86dB
+- Output Power: 14W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
@@ -2974,7 +2974,7 @@ Last updated: March 05, 2026
 ## #121 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Aux Input: Yes
-- Bass Extension (-10dB): ~90hz
+- Bass Extension (-10dB): ~90Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -2995,7 +2995,7 @@ Last updated: March 05, 2026
 - Battery Life: 15 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - IP Rating: IPX6
-- Power: 10W
+- Output Power: 10W
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [DankPods: The bluetooth speaker shootout.](https://www.youtube.com/watch?v=SmF_9L5FM7w)
@@ -3006,7 +3006,7 @@ Last updated: March 05, 2026
 - Negatives: Peaky midrange and lower treble, very little bass. Not a good sound.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 90hz
+- Bass Extension (-10dB): 90Hz
 - Built in Microphone: Yes
 - Dimensions: 2.5" x 8.27" x 2.72" (63.6 x 210 x 69.2 mm)
 - EQ: No
@@ -3045,7 +3045,7 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - IP Rating: IPX6
 - MicroSD: Yes
-- Power: 20W
+- Output Power: 20W
 - Power Input: Micro USB
 - TWS: Yes
 - Weight: 1.23lbs / 558g
@@ -3057,7 +3057,7 @@ Last updated: March 05, 2026
 ## #126 Doss Soundbox
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Aux Input: Yes
-- Bass Extension (-10dB): 140hz
+- Bass Extension (-10dB): 140Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
@@ -3065,7 +3065,7 @@ Last updated: March 05, 2026
 - Driver: 2x 1.5" full range + 1x 2.6" passive radiator
 - IP Rating: IPX4
 - MicroSD: Yes
-- Power: 12W
+- Output Power: 12W
 - Power Input: Micro USB
 - TWS: No
 - Weight: 1.23lbs / 558g
@@ -3084,7 +3084,7 @@ Last updated: March 05, 2026
 - Driver: 2x 50x50mm full-range + 2x 55x86mm passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
-- Max Volume: 91 dB
+- Max Volume: 91dB
 - Party Mode: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -3099,15 +3099,15 @@ Last updated: March 05, 2026
 ## #128 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl)]: $28
 - Negatives: Very harsh treble, no bass.
 - Aux Input: Yes
-- Bass Extension (-10dB): 138hz
+- Bass Extension (-10dB): 138Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 5.25" x 2.6" x 2.8" (133.4 x 66 x 71.1 mm)
 - Driver: 2x precision acoustic drivers + 1x passive bass radiator
 - IP Rating: IPX5
-- Max Volume: 89db
-- Power: 12W
+- Max Volume: 89dB
+- Output Power: 12W
 - TWS: No
 - Weight: 1.28lbs / 580g
 - Reviews, Comparisons and Sound Samples
@@ -3124,7 +3124,7 @@ Last updated: March 05, 2026
 - Dimensions: 4.06" x 4.06" x 6.7" (103 x 103 x 170 mm)
 - Driver: 1x 66mm full-range
 - IP Rating: IPX7
-- Power: 20W
+- Output Power: 20W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.47lbs / 665g
@@ -3141,7 +3141,7 @@ Last updated: March 05, 2026
 - Dimensions: 8" x 3.8" x 4.2" (203.2 x 96.5 x 106.7 mm)
 - Driver: 1x 4.5" woofer
 - IP Rating: IP67
-- Power: 80W
+- Output Power: 80W
 - Power Bank: Yes
 - Power Input: Micro USB
 - TWS: Yes
@@ -3157,11 +3157,11 @@ Last updated: March 05, 2026
 
 ## #131 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Pretty much no bass at all, weird tuning. Sounds very very bad
-- Bass Extension (-10dB): 185hz
+- Bass Extension (-10dB): 185Hz
 - Battery Life: 9 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - IP Rating: IP65
-- Power: 5W
+- Output Power: 5W
 - Power Input: Micro USB
 - TWS: Yes
 - Weight: 0.7lbs / 0.3kg

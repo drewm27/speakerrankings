@@ -10,8 +10,8 @@ The JBL Studio 590 ranks [#23 out of 25 total Large Size Floorstanding Speakers]
 ## #23 [JBL Studio 590](https://www.hifizero.com/index.php?q=JBL+Studio+590) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
 - Positives: Pretty deep bass
 - Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Really bad resonance at 8.5khz.
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 48hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 48Hz
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links

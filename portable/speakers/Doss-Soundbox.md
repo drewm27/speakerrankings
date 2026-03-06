@@ -10,7 +10,7 @@ The Doss Soundbox ranks [#126 out of 131 total Medium Size Portable Bluetooth Sp
 ## #126 Doss Soundbox
 - Negatives: Barely any bass. Sounds like a clock radio. Distorted at higher levels
 - Aux Input: Yes
-- Bass Extension (-10dB): 140hz
+- Bass Extension (-10dB): 140Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
@@ -18,7 +18,7 @@ The Doss Soundbox ranks [#126 out of 131 total Medium Size Portable Bluetooth Sp
 - Driver: 2x 1.5" full range + 1x 2.6" passive radiator
 - IP Rating: IPX4
 - MicroSD: Yes
-- Power: 12W
+- Output Power: 12W
 - Power Input: Micro USB
 - TWS: No
 - Weight: 1.23lbs / 558g

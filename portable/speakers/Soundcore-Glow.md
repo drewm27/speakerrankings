@@ -11,7 +11,7 @@ The Soundcore Glow ranks [#44 out of 131 total Medium Size Portable Bluetooth Sp
 - Positives: Nice light show. Treble boosted 7db. Not technically a 360 speaker, only front and rear.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
@@ -20,9 +20,9 @@ The Soundcore Glow ranks [#44 out of 131 total Medium Size Portable Bluetooth Sp
 - EQ: Yes
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 100db
+- Max Volume: 100dB
+- Output Power: 30W
 - Party Mode: Yes (PartyBoost)
-- Power: 30W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes

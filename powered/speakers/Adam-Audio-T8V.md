@@ -18,7 +18,7 @@ The Adam Audio T8V ranks [#15 out of 21 total Large Size Powered Bookshelf Speak
 - EQ: Yes (Room adjustment)
 - Frequency Response: 33Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 90w Per Speaker
+- Output Power: 90w Per Speaker
 - Weight: 21.6lbs / 9.8kg
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)

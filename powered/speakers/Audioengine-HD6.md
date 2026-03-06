@@ -16,8 +16,8 @@ The Audioengine HD6 ranks [#19 out of 24 total Medium Size Powered Bookshelf Spe
 - EQ: No
 - Frequency Response: 45Hz-40KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA Input, Digital Optical
+- Output Power: 50w RMS Per Speaker
 - Outputs: RCA Output
-- Watts: 50w RMS Per Speaker
 - Weight: 17.5lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Audioengine HD6 vs Edifier S1000DB   5 Track Comparison](https://www.youtube.com/watch?v=SAdySyVWzq8)

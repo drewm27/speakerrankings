@@ -19,8 +19,9 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 124db
+- Max Volume: 124dB
 - Microphone Input: Yes
+- Output Power: 3 x 72W
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
@@ -28,7 +29,6 @@ The Soundboks 2 ranks [#23 out of 43 total Party Size Portable Bluetooth Speaker
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 3 x 72W
 - Weight: 33lbs / 15kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>

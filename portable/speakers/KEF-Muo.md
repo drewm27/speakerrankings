@@ -17,9 +17,9 @@ The KEF Muo ranks [#71 out of 131 total Medium Size Portable Bluetooth Speakers]
 - Driver: 1x 58x117mm racetrack woofer, 1x 20mm tweeter
 - Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 90db
+- Max Volume: 90dB
+- Output Power: 40W
 - Party Mode: Auracast
-- Power: 40W
 - Stereo: Yes
 - TWS: Yes
 - USB Audio: Yes

@@ -12,7 +12,7 @@ The JBL Boombox 4 ranks [#15 out of 67 total Boombox Size Portable Bluetooth Spe
 - Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 41hz
+- Bass Extension (-10dB): 41Hz
 - Battery Life: 28 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
@@ -20,7 +20,7 @@ The JBL Boombox 4 ranks [#15 out of 67 total Boombox Size Portable Bluetooth Spe
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP68
-- Max Volume: 115db
+- Max Volume: 115dB
 - MicroSD: No
 - Microphone Input: No
 - Party Mode: Yes (Auracast)

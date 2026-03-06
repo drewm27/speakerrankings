@@ -11,7 +11,7 @@ The Marshall Stanmore II ranks [#8 out of 14 total Medium Size Powered Desktop S
 - Negatives: Not very deep bass. No battery. No water rating.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
@@ -21,8 +21,8 @@ The Marshall Stanmore II ranks [#8 out of 14 total Medium Size Powered Desktop S
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux, Optical
+- Output Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 80W (Woofer: 50W, Tweeters: 2x15W)
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Partially (1 woofer)

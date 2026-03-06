@@ -11,7 +11,7 @@ The Marshall Willen ranks [#12 out of 41 total Small Size Portable Bluetooth Spe
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 75hz
+- Bass Extension (-10dB): 75Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -20,13 +20,13 @@ The Marshall Willen ranks [#12 out of 41 total Small Size Portable Bluetooth Spe
 - Driver: 2" full-range with dual passive radiators
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
+- Output Power: 10W
 - Party Mode: Yes (Marshall Stack)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 10W
 - Weight: 0.68lbs / 309g
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)

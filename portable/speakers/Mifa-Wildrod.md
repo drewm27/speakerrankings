@@ -12,7 +12,7 @@ The Mifa Wildrod ranks [#17 out of 131 total Medium Size Portable Bluetooth Spea
 - Negatives: Not stereo, slight peak around 250hz, slightly rolled off treble.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Dimensions: 7.5" x 3.0" x 3.0" (190 x 75 x 75 mm)
@@ -20,10 +20,10 @@ The Mifa Wildrod ranks [#17 out of 131 total Medium Size Portable Bluetooth Spea
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: Yes
+- Output Power: 30W
 - Party Mode: Yes (PartyAdd up to 100 speakers)
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No

@@ -36,9 +36,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (5 band)
 - Frequency Response: 44Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 100W
 - Party Mode: Yes (Auracast)
-- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Removable Battery: Yes
@@ -75,7 +75,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Dimensions: 12.58" x 13.33" x 10.35" (319.5 x 338.6 x 263 mm)
 - EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
@@ -113,6 +113,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -120,7 +121,6 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
@@ -149,8 +149,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 800W
 - Party Mode: Yes (Auracast)
-- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes

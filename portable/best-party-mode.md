@@ -28,20 +28,20 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Rolled off highs
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 87db
+- Max Volume: 87dB
+- Output Power: 6W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 6W
 - Weight: 0.55lbs / 249g
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
@@ -56,7 +56,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
@@ -65,9 +65,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (7 band)
 - Frequency Response: 56Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: IP68
-- Max Volume: 102db
+- Max Volume: 102dB
+- Output Power: 45W
 - Party Mode: Yes (Auracast)
-- Power: 45W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -97,7 +97,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
@@ -108,10 +108,10 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 105db
+- Max Volume: 105dB
 - MicroSD: No
+- Output Power: 80W
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)
@@ -144,7 +144,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes (Earfun Audio app)
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): ~38hz
+- Bass Extension (-10dB): ~38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
@@ -154,7 +154,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -223,6 +223,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -230,7 +231,6 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
@@ -259,8 +259,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 1100W
 - Party Mode: Yes
-- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes

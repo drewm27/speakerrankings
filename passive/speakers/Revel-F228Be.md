@@ -10,8 +10,8 @@ The Revel F228Be ranks [#6 out of 25 total Large Size Floorstanding Speakers](/p
 ## #6 [Revel F228Be](https://sovrn.co/l2szjt3) [[Crutchfield](https://sovrn.co/l2szjt3)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F228Be)]: $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off axis isn't quite as good as others
-- Bass Extension (-10dB): 25hz
-- Bass Extension (-3dB): 61hz
+- Bass Extension (-10dB): 25Hz
+- Bass Extension (-3dB): 61Hz
 - Dimensions: 50.9"H x 13.5"W x 17.6"D (1292.9 x 342.9 x 447 mm)
 - Driver: Dual 8" (200mm) Deep Ceramic Composite aluminum cones, with cast frames woofers, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms

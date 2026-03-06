@@ -17,7 +17,7 @@ The Yamaha HS5 ranks [#9 out of 24 total Medium Size Powered Bookshelf Speakers]
 - EQ: Yes (Room adjustment)
 - Frequency Response: 58Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 45w Per Speaker
+- Output Power: 45w Per Speaker
 - Weight: 12.1lbs / 5.5kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  KRK Classic 5 CL5G3 vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=xALoyiRwVZM)

@@ -10,7 +10,7 @@ The Doss E-Go II ranks [#107 out of 131 total Medium Size Portable Bluetooth Spe
 ## #107 Doss E-Go II
 - Negatives: Horribly bad unless turned up, still not great
 - Aux Input: Yes
-- Bass Extension (-10dB): 120hz
+- Bass Extension (-10dB): 120Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 4.1
 - Built in Microphone: Yes
@@ -18,7 +18,7 @@ The Doss E-Go II ranks [#107 out of 131 total Medium Size Portable Bluetooth Spe
 - Driver: 2x 6W full-range drivers + 1x passive radiator
 - IP Rating: IPX6
 - MicroSD: Yes
-- Power: 12W
+- Output Power: 12W
 - Power Input: Micro USB
 - Stereo: Yes
 - Weight: 0.88lbs / 399g

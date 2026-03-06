@@ -11,7 +11,7 @@ The Marshall Woburn I ranks [#7 out of 14 total Medium Size Powered Desktop Spea
 - Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~50hz
+- Bass Extension (-10dB): ~50Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 4.0
@@ -21,8 +21,8 @@ The Marshall Woburn I ranks [#7 out of 14 total Medium Size Powered Desktop Spea
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, RCA, Aux
+- Output Power: 90W
 - Party Mode: No
-- Power: 90W
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No

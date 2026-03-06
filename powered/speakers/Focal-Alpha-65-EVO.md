@@ -17,7 +17,7 @@ The Focal Alpha 65 EVO ranks [#10 out of 21 total Large Size Powered Bookshelf S
 - EQ: Yes (Room adjustment)
 - Frequency Response: 40Hz – 22kHz (+-3dB) (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 85w Per Speaker
+- Output Power: 85w Per Speaker
 - Weight: 16.8lbs / 7.6kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)

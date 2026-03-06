@@ -21,8 +21,8 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
 - EQ: Yes
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 50W
 - Party Mode: Yes (Up to 100 speakers)
-- Power: 50W
 - Power Bank: Yes
 - Stereo: No
 - TWS: Yes

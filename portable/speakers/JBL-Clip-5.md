@@ -19,12 +19,12 @@ The JBL Clip 5 ranks [#18 out of 41 total Small Size Portable Bluetooth Speakers
 - EQ: Yes
 - Frequency Response: 95Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 7W
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 7W
 - Weight: 0.628lbs / 285g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>

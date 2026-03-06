@@ -12,7 +12,7 @@ The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks [#21 out of 131 total Mediu
 - Negatives: Slightly less deep bass than the best in category.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 160ms
 - Bluetooth Version: 4.2
@@ -20,8 +20,8 @@ The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks [#21 out of 131 total Mediu
 - Driver: 2x 44mm full-range drivers + 2x passive radiators
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 99db
-- Power: 24W
+- Max Volume: 99dB
+- Output Power: 24W
 - Power Bank: No
 - Stereo: Yes
 - TWS: Yes

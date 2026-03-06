@@ -11,7 +11,7 @@ The Bose Soundlink Micro ranks [#16 out of 41 total Small Size Portable Bluetoot
 - Negatives: Lack of clarity. Overly boosted bass
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 66hz
+- Bass Extension (-10dB): 66Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
@@ -22,13 +22,13 @@ The Bose Soundlink Micro ranks [#16 out of 41 total Small Size Portable Bluetoot
 - Driver: 40mm with dual passive radiators
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 90db
+- Max Volume: 90dB
+- Output Power: 5W
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
 - Power Input: Micro USB
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.64lbs / 289g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)

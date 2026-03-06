@@ -20,9 +20,9 @@ The Audio Pro C5 MkII ranks [#1 out of 14 total Medium Size Powered Desktop Spea
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, RCA
+- Output Power: 41W (2x8W + 25W)
 - Outputs: Subwoofer line out
 - Party Mode: Yes (over Wifi)
-- Power: 41W (2x8W + 25W)
 - Power Input: AC Power cord
 - Stereo: Partially
 - Streaming Services: Spotify Connect, Tidal Connect, AirPlay 2, Google Cast

@@ -9,8 +9,8 @@ The Yamaha NS-10 ranks [#47 out of 48 total Large Size Bookshelf Speakers](/pass
 
 ## #47 [Yamaha NS-10](https://www.hifizero.com/index.php?q=Yamaha+NS-10) [[Used Listings](https://www.hifizero.com/index.php?q=Yamaha+NS-10)]
 - Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
-- Bass Extension (-10dB): 75hz
-- Bass Extension (-3dB): 126hz
+- Bass Extension (-10dB): 75Hz
+- Bass Extension (-3dB): 126Hz
 - Driver: 7.1" woofer, 1.4" soft dome tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Yamaha NS-10M: The Iconic Studio Monitor That Shaped Modern Music](https://www.youtube.com/watch?v=0pYKuBdhmdc)

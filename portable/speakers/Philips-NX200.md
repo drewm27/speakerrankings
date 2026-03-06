@@ -11,20 +11,20 @@ The Philips NX200 ranks [#33 out of 43 total Party Size Portable Bluetooth Speak
 - Negatives: No deep bass, mids are a little harsh
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 10.55" x 21.89" x 11.22" (268 x 556 x 285 mm)
 - Driver: 2x 5.25" woofers, 2x 2" tweeters
 - EQ: No
 - IP Rating: None
+- Output Power: 80W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 80W RMS
 - Weight: 17lbs / 7.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audio Mix7: Philips Tanx 200 Review - sound Test -jbl partybox alternative ? Vs Jbl Boombox (eng sub)](https://www.youtube.com/watch?v=O6SWv8lnpCI)

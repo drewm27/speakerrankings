@@ -20,7 +20,7 @@ The JBL Partybox Encore Essential 2 ranks [#5 out of 67 total Boombox Size Porta
 - EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Microphone Input: Yes
 - Output Power: 100W RMS
 - Party Mode: Yes (Auracast)

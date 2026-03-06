@@ -15,7 +15,7 @@ The Soundcore 2 ranks [#78 out of 131 total Medium Size Portable Bluetooth Speak
 - Dimensions: 6.6" x 1.9" x 2.2" (168 x 47 x 56 mm)
 - Driver: 2x 38mm fullrange
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
-- Power: 12W
+- Output Power: 12W
 - Stereo: Yes
 - Weight: 0.70lbs / 318g
 - Reviews, Comparisons and Sound Samples

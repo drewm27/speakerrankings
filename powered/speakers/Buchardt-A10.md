@@ -11,15 +11,15 @@ The Buchardt A10 ranks [#11 out of 21 total Large Size Powered Bookshelf Speaker
 - Positives: Comes with 18 master EQs for all types of placement. Insane bass extension, but not at high volumes where it limits the extension. Very small for the bass extension
 - Negatives: Bass limiting and compression. Slightly bright above 2khz
 - App: No
-- Bass Extension (-10dB): 21hz
-- Bass Extension (-3dB): 30hz
+- Bass Extension (-10dB): 21Hz
+- Bass Extension (-3dB): 30Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.6"H x 7"W x 9.6"D (370.8 x 177.8 x 243.8 mm)
 - Driver: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil woofer, 19 mm / 0.74" Resonance Free Aluminum dome with CDC aluminum waveguide tweeter
 - EQ: Yes (Room adjustment)
 - Inputs: XLR
-- Watts: 200w Per Speaker
+- Output Power: 200w Per Speaker
 - Weight: 15lbs / 6.8kg each
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples

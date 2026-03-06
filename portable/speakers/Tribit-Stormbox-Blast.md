@@ -13,7 +13,7 @@ The Tribit Stormbox Blast ranks [#2 out of 67 total Boombox Size Portable Blueto
 - App: Yes (Tribit App)
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
@@ -23,7 +23,7 @@ The Tribit Stormbox Blast ranks [#2 out of 67 total Boombox Size Portable Blueto
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
-- Max Volume: 108db
+- Max Volume: 108dB
 - MicroSD: No
 - Microphone Input: No
 - Output Power: 90W RMS (140W peak)

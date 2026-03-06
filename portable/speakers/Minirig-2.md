@@ -13,12 +13,12 @@ The Minirig 2 ranks [#8 out of 131 total Medium Size Portable Bluetooth Speakers
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: Splash resistant
-- Max Volume: 95db
+- Max Volume: 95dB
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No

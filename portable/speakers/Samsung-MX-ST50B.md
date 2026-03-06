@@ -20,13 +20,13 @@ The Samsung MX-ST50B ranks [#17 out of 43 total Party Size Portable Bluetooth Sp
 - EQ: Yes
 - IP Rating: IPX5
 - Microphone Input: Yes
+- Output Power: 240W (AC) / 90W (battery)
 - Party Mode: Yes (Samsung Group Play up to 10 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: Yes
-- Wattage: 240W (AC) / 90W (battery)
 - Weight: 26.3lbs / 11.9kg
 - Reviews, Comparisons and Sound Samples
     - [HQ AUDIO Exchange: Samsung MX-ST50B vs. JBL Partybox 110 Bass Test!🔥](https://www.youtube.com/watch?v=_Q1i3cG092I)

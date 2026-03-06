@@ -13,7 +13,7 @@ The Soundcore Motion+ ranks [#3 out of 131 total Medium Size Portable Bluetooth 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
@@ -23,9 +23,9 @@ The Soundcore Motion+ ranks [#3 out of 131 total Medium Size Portable Bluetooth 
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

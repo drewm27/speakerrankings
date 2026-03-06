@@ -28,7 +28,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 68hz
+- Bass Extension (-10dB): 68Hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that) (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -38,12 +38,12 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes
 - Frequency Response: 80Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX8
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.55lbs / 248g
 - Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
@@ -61,7 +61,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
@@ -71,9 +71,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Max Volume: 103db
+- Max Volume: 103dB
+- Output Power: 28W
 - Party Mode: No
-- Power: 28W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -128,8 +128,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -151,7 +151,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes (Earfun Audio app)
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): ~38hz
+- Bass Extension (-10dB): ~38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
@@ -161,7 +161,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -220,7 +220,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -288,11 +288,11 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (Bass and treble)
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 135 dB
+- Max Volume: 135dB
 - MicroSD: Yes
 - Microphone Input: Yes
+- Output Power: 370W
 - Party Mode: No
-- Power: 370W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

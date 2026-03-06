@@ -12,7 +12,7 @@ The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetoo
 - Negatives: Bass boosted which drowns out the midrange. Dip around 200hz, peak at 1khz, dipped at 1.6khz. Strange frequency response through the mids.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 38hz
+- Bass Extension (-10dB): 38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -22,8 +22,8 @@ The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetoo
 - EQ: Yes (5 band)
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 80W
 - Party Mode: Yes (Marshall Stack)
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

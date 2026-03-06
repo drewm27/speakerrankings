@@ -12,12 +12,12 @@ The B&O Beosound A1 ranks [#9 out of 131 total Medium Size Portable Bluetooth Sp
 - Negatives: Not stereo. Not quite as neutral as the A1 2nd gen. Pumping sound artifacts above 60% volume, only good for lower listening levels.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 99db
+- Max Volume: 99dB
 - Power Bank: No
 - Stereo: No
 - USB Audio: Yes

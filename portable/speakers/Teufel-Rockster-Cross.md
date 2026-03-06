@@ -11,7 +11,7 @@ The Teufel Rockster Cross ranks [#20 out of 73 total Large Size Portable Bluetoo
 - Positives: Pretty neutral frequency response. Outdoor mode can sound somewhat harsh due to the 4khz peak.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 51hz
+- Bass Extension (-10dB): 51Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -21,8 +21,8 @@ The Teufel Rockster Cross ranks [#20 out of 73 total Large Size Portable Bluetoo
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX5
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes

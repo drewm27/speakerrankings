@@ -11,7 +11,7 @@ The Sony SRS-XG300 ranks [#52 out of 73 total Large Size Portable Bluetooth Spea
 - Negatives: Overly expensive. Bass not as deep as competitors. Upper mids peak. Hollow sounding. Rolled off treble. Not much clarity. Does not float. Speaker will not remain at max volume and will turn itself down automatically.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -21,8 +21,8 @@ The Sony SRS-XG300 ranks [#52 out of 73 total Large Size Portable Bluetooth Spea
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 16W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 16W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

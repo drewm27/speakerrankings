@@ -12,12 +12,12 @@ The JBL Flip 7 ranks [#14 out of 131 total Medium Size Portable Bluetooth Speake
 - Negatives: A little bit of a bump at 4khz, not quite as neutral as the FLip 6. I believe this one is slightly worse than the Flip 6.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Built in Microphone: No
 - EQ: Yes (7 band)
 - IP Rating: IP68
-- Max Volume: 100db
+- Max Volume: 100dB
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Stereo: No

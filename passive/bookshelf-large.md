@@ -38,8 +38,8 @@ Last updated: March 05, 2026
 
 ## #2 [KEF Reference 1 Meta](https://us.kef.com/products/reference-1-bookshelf-speaker) [[Kef](https://us.kef.com/products/reference-1-bookshelf-speaker)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Reference+1+Meta)]: $10000
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Configurable to short or long port depending on the bass roll-off you're looking for. Very deep bass for the size
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 52hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 52Hz
 - Dimensions: 17.3"H x 8.1"W x 16.6"D (439.4 x 205.7 x 421.6 mm)
 - Driver: 165 mm (6.5 in.) aluminium cone woofer, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.) aluminium dome with MAT tweeter
 - Impedance: 4 ohms
@@ -56,8 +56,8 @@ Last updated: March 05, 2026
 ## #3 [March Audio Sointuva AWG](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/) [[Marchaudio](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)] [[Used Listings](https://www.hifizero.com/index.php?q=March+Audio+Sointuva+AWG)]: $4150
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Very deep bass for the size
 - Negatives: Sensitivity is pretty low.
-- Bass Extension (-10dB): 30hz
-- Bass Extension (-3dB): 40hz
+- Bass Extension (-10dB): 30Hz
+- Bass Extension (-3dB): 40Hz
 - Dimensions: 17.7"H x 9.4"W x 8.7"D (449.6 x 238.8 x 221 mm)
 - Driver: 6.5" Purifi PTT-OEM Midwoofer, Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
 - Impedance: 6 ohms
@@ -73,8 +73,8 @@ Last updated: March 05, 2026
 
 ## #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)] [[Used Listings](https://www.hifizero.com/index.php?q=AsciLab+C6B)]: $1145
 - Positives: Extremely good directivity and frequency response, and just an insane value for the price.
-- Bass Extension (-10dB): 35hz
-- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 35Hz
+- Bass Extension (-3dB): 54Hz
 - Dimensions: 15.7"H x 8"W x 10.4"D (398.8 x 203.2 x 264.2 mm)
 - Driver: 6" Aluminium Ceramic Cone with cast Aluminium Chassis woofer, 1" Aluminium Ceramic Dome tweeter
 - Impedance: 4 ohms
@@ -90,8 +90,8 @@ Last updated: March 05, 2026
 ## #5 [GR-Research NX-Bravo](https://gr-research.com/product/nx-bravo-kit/) [[Gr-research](https://gr-research.com/product/nx-bravo-kit/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Bravo)]: $1540 kit with finished cabinets (assembly required)
 - Positives: Ultra clean burst decay/waterfall plot
 - Negatives: 2db dip at 3.7khz, 2dB dip at 8khz, 2dB treble peak up around 14khz
-- Bass Extension (-10dB): 45hz
-- Bass Extension (-3dB): 77hz
+- Bass Extension (-10dB): 45Hz
+- Bass Extension (-3dB): 77Hz
 - Dimensions: 14"H x 7.5"W x 11.5"D (355.6 x 190.5 x 292.1 mm)
 - Driver: GR-Research M165 6.5" paper cone, non-resonant polymer frame woofer, GR-Research Neo3 Planar Magnetic Ribbon deep rear cup tweeter
 - Impedance: 6 ohms
@@ -109,8 +109,8 @@ Last updated: March 05, 2026
 ## #6 [KEF R3 Meta](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+R3+Meta)]: $2500
 - Positives: Pretty smooth frequency response and the coaxial midrange/tweeter creates a near perfect off-axis response. One of the best coaxial speakers I've ever seen measured.
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
-- Bass Extension (-10dB): 37hz
-- Bass Extension (-3dB): 76hz
+- Bass Extension (-10dB): 37Hz
+- Bass Extension (-3dB): 76Hz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D (421.6 x 200.7 x 335.3 mm)
 - Driver: 6.5" Hybrid aluminum ported woofer, 5" aluminum cone midrange, 1" vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
@@ -132,8 +132,8 @@ Last updated: March 05, 2026
 ## #7 [KEF Q Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Concerto+Meta)]: $1400
 - Positives: Class leading directivity. Quite deep bass for the size
 - Negatives: A little dipped in the treble.
-- Bass Extension (-10dB): 35hz
-- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 35Hz
+- Bass Extension (-3dB): 53Hz
 - Dimensions: 16.3"H x 8.3"W x 12.4"D (414 x 210.8 x 315 mm)
 - Driver: 165 mm (6.5 in.) hybrid aluminium cone woofer, 100 mm (4 in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
@@ -152,8 +152,8 @@ Last updated: March 05, 2026
 ## #8 [MoFi SourcePoint 10](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-10-master-edition-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+10)]: $3500
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Negatives: Will need to be listened to off-axis, bright up top directly on axis
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 56Hz
 - Dimensions: 22.5"H x 14.5"W x 16.6"D (571.5 x 368.3 x 421.6 mm)
 - Driver: 10" Paper-pulp Cone woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
@@ -169,8 +169,8 @@ Last updated: March 05, 2026
 
 ## #9 [MoFi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
-- Bass Extension (-10dB): 43hz
-- Bass Extension (-3dB): 52hz
+- Bass Extension (-10dB): 43Hz
+- Bass Extension (-3dB): 52Hz
 - Dimensions: 18"H x 11.4"W x 13.2"D (457.2 x 289.6 x 335.3 mm)
 - Driver: 8" woofer, 1.25-inch soft-dome tweeter
 - Impedance: 8 ohms
@@ -190,8 +190,8 @@ Last updated: March 05, 2026
 ## #10 [Radiant Acoustics Clarity 6.2](https://radiantacoustics.com/products/clarity-6-2) [[Radiantacoustics](https://radiantacoustics.com/products/clarity-6-2)] [[Used Listings](https://www.hifizero.com/index.php?q=Radiant+Acoustics+Clarity+6.2)]: $4500
 - Positives: Very low distortion
 - Negatives: A little hot up top in the treble and should be listened to off axis by about 15 degrees. Impedance drops pretty low. Vertical and horizontal off axis are just okay
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 55hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 55Hz
 - Dimensions: 14.3"H x 8.7"W x 10.5"D (363.2 x 221 x 266.7 mm)
 - Driver: 6.5" PURIFI USHINDI woofer, Custom AMT (Air Motion Transformer) tweeter
 - Impedance: 4 ohms
@@ -206,8 +206,8 @@ Last updated: March 05, 2026
 
 ## #11 [Revel M126Be](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black) [[Audioadvice](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M126Be)]: $4400
 - Negatives: Some diffraction issues at 3khz and 7khz where there's some dipped areas. Vertical off-axis is just okay
-- Bass Extension (-10dB): 44hz
-- Bass Extension (-3dB): 103hz
+- Bass Extension (-10dB): 44Hz
+- Bass Extension (-3dB): 103Hz
 - Dimensions: 15.2"H x 8.3"W x 10.3"D (386.1 x 210.8 x 261.6 mm)
 - Driver: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame woofer, 1" Beryllium dome with acoustic lens waveguide tweeter
 - Impedance: 6 ohms
@@ -223,8 +223,8 @@ Last updated: March 05, 2026
 ## #12 [Philharmonic BMR Monitor](https://philharmonicaudio.com/products/bmr-monitor) [[Philharmonicaudio](https://philharmonicaudio.com/products/bmr-monitor)] [[Used Listings](https://www.hifizero.com/index.php?q=Philharmonic+BMR+Monitor)]: $2200
 - Positives: Very wide off-axis
 - Negatives: Directivity issues at 500hz and 3khz
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 47Hz
 - Dimensions: 20"H x 8"W x 12.5"D (508 x 203.2 x 317.5 mm)
 - Driver: 6" Ceramic woofer, Balanced Mode Radiator 2.5" midrange, RAAL 64-10X OEM tweeter
 - Impedance: 4 ohms
@@ -239,8 +239,8 @@ Last updated: March 05, 2026
 
 ## #13 [HiVi Swans 3.1A Sehlin Sound Solutions mod](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/HiVi-Swans-Passive-Bookshelf-Speakers-Pair/dp/B09XGYJFRQ?mcid=7b32c199504a3b30a58bd12859acd5f6&hvocijid=15568797855886434514-B09XGYJFRQ-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=15568797855886434514&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c78c268bf72e16b5700ff4e7068ea38&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=HiVi+Swans+3.1A+Sehlin+Sound+Solutions+mod)]: $364 for the kit (assembly required)
 - Negatives: 3dB dip at 300hz. Vertical directivity is just okay
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 60Hz
 - Driver: 6.5" Kevlar woofer, 2" Dome midrange, 1" Soft Dome tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
@@ -255,8 +255,8 @@ Last updated: March 05, 2026
 ## #14 [Revel M106](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m106&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Revelm106&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M106)]: Discontinued
 - Positives: Fairly even frequency response. No resonances
 - Negatives: Some directivity error in crossover region
-- Bass Extension (-10dB): 43hz
-- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 43Hz
+- Bass Extension (-3dB): 60Hz
 - Driver: 6.5” (16.5 cm) Aluminum Cone, Cast-frame Woofer, 1” (2.5 cm) Aluminum Tweeter with Acoustic Lens Waveguide
 - Impedance: 4 ohms
 - Sensitivity: 85dB
@@ -269,8 +269,8 @@ Last updated: March 05, 2026
 ## #15 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/) [[Arendalsound](https://arendalsound.com/product/1528-monitor-8/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1528+Monitor+8)]: $6000 a pair
 - Positives: Fantastic bass extension for a bookshelf
 - Negatives: Very large and heavy. A 3dB midbass dip from 100-170hz, 3dB dip at 800hz
-- Bass Extension (-10dB): 26hz
-- Bass Extension (-3dB): 41hz
+- Bass Extension (-10dB): 26Hz
+- Bass Extension (-3dB): 41Hz
 - Dimensions: 31.8"H x 11.4"W x 17.6"D (807.7 x 289.6 x 447 mm)
 - Driver: Dual 8" woofers, 5" midrange, 28mm tweeter
 - Impedance: 4 ohms
@@ -286,8 +286,8 @@ Last updated: March 05, 2026
 
 ## #16 [Wharfedale Super Linton](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-super-linton-bookshelf-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Super+Linton)]: $3000 a pair
 - Positives: Designed for closer wall placement with the leg on the bass frequency response. Better dynamic range in the bass than the old Linton
-- Bass Extension (-10dB): 34hz
-- Bass Extension (-3dB): 77hz
+- Bass Extension (-10dB): 34Hz
+- Bass Extension (-3dB): 77Hz
 - Dimensions: 23.8"H x 11.8"W x 13.0"D (604.5 x 299.7 x 330.2 mm)
 - Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 4 ohms
@@ -306,8 +306,8 @@ Last updated: March 05, 2026
 ## #17 [Wharfedale Linton 85](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers) [[Audioadvice](https://www.audioadvice.com/products/wharfedale-linton-standmount-speakers)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Linton+85)]: $1700 a pair
 - Positives: Very neutral frequency response and good bass extension.
 - Negatives: The spacing of the drivers makes the vertical off axis not very good
-- Bass Extension (-10dB): 35hz
-- Bass Extension (-3dB): 52hz
+- Bass Extension (-10dB): 35Hz
+- Bass Extension (-3dB): 52Hz
 - Dimensions: 22.2"H x 11.8"W x 13.0"D (563.9 x 299.7 x 330.2 mm)
 - Driver: 8"(200mm) black woven Kevlar® cone woofer, 5"(135mm) black woven Kevlar® cone midrange, 1" (25mm) soft dome tweeter
 - Impedance: 6 ohms
@@ -326,8 +326,8 @@ Last updated: March 05, 2026
 
 ## #18 [Dynaudio Contour 20i](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Contour+20i)]: $5750 a pair
 - Negatives: A bit of a hot lower treble which can be pronounced in reflective rooms. Lower treble lift from 3khz to 8khz. 3.5db peak at 7.2khz. Directivity issue around the crossover point. Toe them out about 10 degrees to tone hot lower treble. Resonance around 800hz
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 56Hz
 - Dimensions: 17.4"H x 8.5"W x 14.2"D (442 x 215.9 x 360.7 mm)
 - Driver: 18 cm MSP woofer, 28mm Esotar 2i with Hexis tweeter
 - Impedance: 4 ohms
@@ -343,8 +343,8 @@ Last updated: March 05, 2026
 ## #19 [ELAC DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR62)]: $800 a pair
 - Positives: Pretty neutral all around, a little bit of a V curve
 - Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
-- Bass Extension (-10dB): 41hz
-- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 41Hz
+- Bass Extension (-3dB): 53Hz
 - Dimensions: 14.1"H x 8.2"W x 10.8"D (358.1 x 208.3 x 274.3 mm)
 - Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
@@ -363,8 +363,8 @@ Last updated: March 05, 2026
 ## #20 [ELAC DBR63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR63)]: $500
 - Positives: A class leader at the $500 price point
 - Negatives: 3dB dip at 500hz, 3dB peak at 700hz. Not great in the vertical off-axis
-- Bass Extension (-10dB): 40hz
-- Bass Extension (-3dB): 76hz
+- Bass Extension (-10dB): 40Hz
+- Bass Extension (-3dB): 76Hz
 - Dimensions: 13.3"H x 7.7"W x 11.7"D (337.8 x 195.6 x 297.2 mm)
 - Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
@@ -391,8 +391,8 @@ Last updated: March 05, 2026
 
 ## #22 [Wharfedale Aura 2](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair) [[Wharfedaleusa](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Aura+2)]: $3800
 - Negatives: Slight 2dB dip in bass response below 180hz, may need to be closer to wall like 2 feet. 4dB peak around 13k. Vertical directivity isn't very good.
-- Bass Extension (-10dB): 30hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 30Hz
+- Bass Extension (-3dB): 56Hz
 - Dimensions: 22.1"H x 11.3"W x 15.3"D (561.3 x 287 x 388.6 mm)
 - Driver: 6.5" Black Glass Fibre Matrix Cone woofer, 4" Black Glass Fibre Matrix Cone midrange, 27x90mm AMT tweeter
 - Impedance: 6 ohms
@@ -410,8 +410,8 @@ Last updated: March 05, 2026
 
 ## #23 [Focal Aria 906](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=focal+aria+906&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=focal+aria++906&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Aria906&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Aria+906)]: $1100 a pair used, discontinued
 - Negatives: 3dB dip around 2.8khz. Some resonance around 800hz, small directivity error around 7khz
-- Bass Extension (-10dB): 47hz
-- Bass Extension (-3dB): 63hz
+- Bass Extension (-10dB): 47Hz
+- Bass Extension (-3dB): 63Hz
 - Impedance: 4 ohms
 - Sensitivity: 87dB
 - Reviews, Comparisons and Sound Samples
@@ -423,8 +423,8 @@ Last updated: March 05, 2026
 ## #24 [KEF Q350](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Bookshelf-Speaker-Walnut-Q350WN/dp/B078BBFK23?mcid=eca62d64530b31a78a90558232c0be6d&hvocijid=10932459690852687696-B078BBFK23-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10932459690852687696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=651ec0ede2234e6aff019b220a6d37a1&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q350)]: $500 a pair
 - Positives: Excellent directivity
 - Negatives: Resonance at 700hz and 1.2khz
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 70hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 70Hz
 - Impedance: 4 ohms
 - Sensitivity: 86dB
 - Reviews, Comparisons and Sound Samples
@@ -443,8 +443,8 @@ Last updated: March 05, 2026
 ## #26 [Revel Performa M22](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+m22&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=revel+m22+speaker&_osacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=RevelM22&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Performa+M22)]: About $600 used
 - Positives: Very flat frequency response from 200hz to 10khz
 - Negatives: 3dB bass boost around 100hz
-- Bass Extension (-10dB): 40hz
-- Bass Extension (-3dB): 58hz
+- Bass Extension (-10dB): 40Hz
+- Bass Extension (-3dB): 58Hz
 - Impedance: 4 ohms
 - Sensitivity: 85dB
 - Reviews, Comparisons and Sound Samples
@@ -455,8 +455,8 @@ Last updated: March 05, 2026
 
 ## #27 [Buchardt S400 MKII](https://buchardtaudio.com/products/s400-mkii) [[Buchardtaudio](https://buchardtaudio.com/products/s400-mkii)] [[Used Listings](https://www.hifizero.com/index.php?q=Buchardt+S400+MKII)]: $2400
 - Negatives: Not a lot of dynamic range. A 2dB peak at 9Khz
-- Bass Extension (-10dB): 40hz
-- Bass Extension (-3dB): 59hz
+- Bass Extension (-10dB): 40Hz
+- Bass Extension (-3dB): 59Hz
 - Dimensions: 14.4"H x 7"W x 11"D (365.8 x 177.8 x 279.4 mm)
 - Driver: 6.5" aluminum cone woofer, 1" soft dome tweeter
 - Impedance: 4 ohms
@@ -472,8 +472,8 @@ Last updated: March 05, 2026
 
 ## #28 [GR-Research X-LS Encore](https://gr-research.com/product/xls-encore/) [[Gr-research](https://gr-research.com/product/xls-encore/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+X-LS+Encore)]: $1300
 - Positives: An amazing value, especially if you managed to snag one of these built by AV123 in the early 2000s for $200-300.
-- Bass Extension (-10dB): 44hz
-- Bass Extension (-3dB): 64hz
+- Bass Extension (-10dB): 44Hz
+- Bass Extension (-3dB): 64Hz
 - Dimensions: 13.5"H x 8.5"W x 12.125"D (342.9 x 215.9 x 308 mm)
 - Driver: 6.5" Peerless M-165 paper composite cone, non-resonant polymer frame woofer, 1" Peerless India T26SG tweeter
 - Impedance: 8 ohms
@@ -490,8 +490,8 @@ Last updated: March 05, 2026
 ## #29 [Infinity IL10](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+IL10&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=IL10&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+IL10)]: $160 a pair used, discontinued
 - Positives: Impressively flat for a budget bookshelf
 - Negatives: Resonances at 600 and 5khz
-- Bass Extension (-10dB): 44hz
-- Bass Extension (-3dB): 59hz
+- Bass Extension (-10dB): 44Hz
+- Bass Extension (-3dB): 59Hz
 - Driver: 6.5" woofer
 - Impedance: 6 ohms
 - Sensitivity: 85dB
@@ -502,8 +502,8 @@ Last updated: March 05, 2026
 
 ## #30 [Dynaudio Special Forty](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-special-forty-anniversary-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Special+Forty)]: $3600
 - Negatives: 5dB dip at 1.3Khz, 3dB peak at 3Khz. Not recommended for the price
-- Bass Extension (-10dB): 39hz
-- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 39Hz
+- Bass Extension (-3dB): 54Hz
 - Dimensions: 14.1"H x 7.7"W x 12.1"D (358.1 x 195.6 x 307.3 mm)
 - Driver: 5.9" MSP (Magnesium Silicate Polymer) cone woofer, 1" Esotar soft dome tweeter
 - Impedance: 6 ohms
@@ -520,8 +520,8 @@ Last updated: March 05, 2026
 
 ## #31 [ELAC Debut DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?crid=2MLF3ALQ0LCAU&dib=eyJ2IjoiMSJ9.h5T7eOBcWiL8y_I5B6KRCCuWNT6A_pqJ6-A-BpJ0Dbjpbi7LV_er0AekRNMaVGuznFfZXHQS889Nt_hVShtr-K_92w5vFAHLYUiYEnU-sdR7-2sYPXLRyYk8kvxZSPmFEwI1OKVAOSz2x1h2IrEk-LE8KFki3oEbQ67npcyMw4Of9cVMPjYSMY-1hhJG291_Bw1-4wIaX4mnDgMN_cShTB37fdcqd39EzHsAlVgEU_Q.px4dnxyJH1d4s_A_DveDeLENuhvSmv-S39v_DQfUmdA&dib_tag=se&keywords=elac%2Bdebut%2B3.0%2Bdb63&qid=1749060920&sprefix=elac%2Bdebut%2Caps%2C225&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34b001f13118b2a69305ebdec8380ae5&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+Debut+DB63)]: $500
 - Positives: A fantastic value in a more budget speaker. Generally the one to beat at this price point.
-- Bass Extension (-10dB): 40hz
-- Bass Extension (-3dB): 76hz
+- Bass Extension (-10dB): 40Hz
+- Bass Extension (-3dB): 76Hz
 - Dimensions: 13.3"H x 7.7"W x 11.7"D (337.8 x 195.6 x 297.2 mm)
 - Driver: 6.5" aramid fiber cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
@@ -538,8 +538,8 @@ Last updated: March 05, 2026
 ## #32 [Polk R200](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Reserve-R200-Bookshelf-Audio/dp/B0934Q6PYS?crid=J0XQOU02WK2D&dib=eyJ2IjoiMSJ9.F_1WPA3QABAO_abXjxL8YOEF7KDddzUT1kAj-gYsl_Uvhyl5dK5GtbxH0Uqxd-e7lCfDQOz3N01MLDbjpvkiLq8qYyxBSirbSgiwl1oRraOlQRqB4-MSgivESfImLYB9RgA3P4tFzQpfE93V_-tqffCDhgt6QWGSNCc7VOUr_ScqQXhGsQVni6iNTevd1CWQybHTf4fKzTS3IY0FV1p2-iBJHKe3wAcCm2Qn3mRCAeo.cqRma1IFRpqxdEYFgFwhm5_ufZ-B2fCYV6Jrb-jhqQU&dib_tag=se&keywords=polk%2Br200&qid=1749141516&sprefix=polk%2Br20%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=758301f06a95a89872c9e3cb94609158&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+R200)]: $750
 - Positives: Really good neutrality and linearity
 - Negatives: Narrow off axis above 5khz
-- Bass Extension (-10dB): 50hz
-- Bass Extension (-3dB): 74hz
+- Bass Extension (-10dB): 50Hz
+- Bass Extension (-3dB): 74Hz
 - Impedance: 4 ohms
 - Sensitivity: 85dB
 - Reviews, Comparisons and Sound Samples
@@ -553,8 +553,8 @@ Last updated: March 05, 2026
 ## #33 [ELAC Debut 2.0 B6.2](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-Bookshelf-Speakers-Black/dp/B07B4Q5587?crid=3UZH43XT1OT85&dib=eyJ2IjoiMSJ9.A4RWJ0xSjscQEScTTd1B6lyGXU4Q8w49Dn9xErFlOTflRxBELtrNAFX2dv6vWIDoooS44wj-ghyxZHTS6__FBXuzGuH_NOTz2Rxet6t6ptwrzquKhxt9nzYAj7mBfIuFTpFVR-dlWrrPz01c6Cgg86bZGOWYiUlR7ysTTmGsjb6KHkXTT_D1EyNKVQBvi8a3bw7KHPb9UA_7TeWdDtt6ZwMuFmgjd4fYGCYUYaP-A4U.qINKzzAKDUVZVedkjfTE57ZBM2JSBXHCnzvOwHRRh4I&dib_tag=se&keywords=elac%2BDB62&qid=1749576253&sprefix=db62%2Caps%2C294&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=45076286e72ea975d8702810fcf71c6d&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+Debut+2.0+B6.2)]: $330
 - Positives: Reasonably flat response
 - Negatives: A good size resonant peak around 700hz, directivity error around 3.3khz
-- Bass Extension (-10dB): 40hz
-- Bass Extension (-3dB): 64hz
+- Bass Extension (-10dB): 40Hz
+- Bass Extension (-3dB): 64Hz
 - Impedance: 6 ohms
 - Sensitivity: 86.5dB
 - Reviews, Comparisons and Sound Samples
@@ -566,8 +566,8 @@ Last updated: March 05, 2026
 ## #34 [Dynaudio Emit 20](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dynaudio-Emit-Compact-Bookshelf-Speaker/dp/B097ST8JT7?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2763VQ7SN6URD&linkCode=ll1&tag=rankingspea01-20&linkId=1f0d4ef8d37d960ebadda6c62e57cca3&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Emit+20)]: $1050
 - Positives: Really deep bass extension for the size class
 - Negatives: A noticeable resonance in the driver around 750hz
-- Bass Extension (-10dB): 33hz
-- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 33Hz
+- Bass Extension (-3dB): 54Hz
 - Driver: 7.1" Magnesium Silicate Polymer woofer, 1.1" Cerotar soft dome with Hexis tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Hands On With the Dynaudio Emit 20](https://www.youtube.com/watch?v=Z7R9YApGY6w)
@@ -578,8 +578,8 @@ Last updated: March 05, 2026
 
 ## #35 [KEF Q3 Meta](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Meta-Bookshelf-Speaker-Walnut/dp/B0DH8FZ7SP?source=ps-sl-shoppingads-lpcontext&smid=A17IVE6SUAZA2P&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b71feda104e5f9cd2a39ef306769b749&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q3+Meta)]: $900
 - Negatives: 3dB bass boost around 120hz. 3dB peaks at 560hz and 700hz. 5dB dip at 970hz. A jagged frequency response through the midrange. Okay vertical directivity. Not really recommended for the price
-- Bass Extension (-10dB): 37hz
-- Bass Extension (-3dB): 52hz
+- Bass Extension (-10dB): 37Hz
+- Bass Extension (-3dB): 52Hz
 - Driver: 165 mm (6.5 in.) aluminium cone woofer, 25 mm (1 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87dB
@@ -593,8 +593,8 @@ Last updated: March 05, 2026
 ## #36 [Polk Monitor XT20](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Monitor-Bookshelf-Surround-Speakers/dp/B09BMVVDX5?crid=1IU3R666XYGNS&dib=eyJ2IjoiMSJ9.NOuI92hm6NNlMOwC2eXVhWRiZ8eJPvmHZpVUvqnWsIMRKGx_14gVg8IeemmiOTVsJVKj-Y0Wg2Mpgq6Tq20xFWKtkVFb4BCtrj0xPHWRGm-vJVCtqyo8PyrDHykQUE0_eOZCFGwCNRbnHVUxMx3y3ChSpNElyDI_VnD1LOpKCJ_Nb6YZsH4rXZ18U6xapWIIoXj-DhJ7kxPPBHT94ua9yq3SUXOfy6L8cS58nznIJWQ.yh0EtcIfi6iH5AEGA_5-jVyzsN1xpWvM5LW2NDSMkBg&dib_tag=se&keywords=polk%2Bxt20&qid=1749100169&sprefix=polk%2B%2Caps%2C205&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5bbf4dcfa01d0d01004180fe9734764d&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Monitor+XT20)]: $250
 - Positives: A great value for the price, nothing else under $300 will compete
 - Negatives: 2dB peak at 750hz, 4dB peak from 14-16khz
-- Bass Extension (-10dB): 50hz
-- Bass Extension (-3dB): 75hz
+- Bass Extension (-10dB): 50Hz
+- Bass Extension (-3dB): 75Hz
 - Dimensions: 13"H x 7.5"W x 11"D (330.2 x 190.5 x 279.4 mm)
 - Driver: 6.5" bilaminate paper cone woofer, 1" Terylene dome tweeter
 - Impedance: 8 ohms
@@ -612,8 +612,8 @@ Last updated: March 05, 2026
 
 ## #37 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/) [[Tmraudio](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=ATC+SCM19)]: $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
-- Bass Extension (-10dB): 34hz
-- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 34Hz
+- Bass Extension (-3dB): 60Hz
 - Dimensions: 17.2"H x 10.4"W x 11.8"D (436.9 x 264.2 x 299.7 mm)
 - Driver: 5.9" Super Linear Magnet cone woofer, 1" soft dome tweeter
 - Impedance: 6 ohms
@@ -636,8 +636,8 @@ Last updated: March 05, 2026
 
 ## #39 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria) [[Pahmeraudio](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)] [[Used Listings](https://www.hifizero.com/index.php?q=Audio+Craftsmen+Victoria)]: $4000
 - Negatives: 4dB dip from 200hz to 400hz, recessed midrange. Not recommended for the price
-- Bass Extension (-10dB): 45hz
-- Bass Extension (-3dB): 65hz
+- Bass Extension (-10dB): 45Hz
+- Bass Extension (-3dB): 65Hz
 - Impedance: 8 ohms
 - Sensitivity: 84dB
 - Reviews, Comparisons and Sound Samples
@@ -649,8 +649,8 @@ Last updated: March 05, 2026
 
 ## #40 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5) [[Crutchfield](https://sovrn.co/kesxoj5)] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
 - Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz. Not recommended for the price
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 62hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 62Hz
 - Impedance: 4 ohms
 - Sensitivity: 87dB
 - Reviews, Comparisons and Sound Samples
@@ -663,8 +663,8 @@ Last updated: March 05, 2026
 ## #41 [Klipsch RP-600M II](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Reference-RP-600M-II-Cerametallic/dp/B09V5NRNDJ?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch%2Brp-600m%2Bii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b54d2095dd264829a1e11642bcdb6574&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+RP-600M+II)]: $550
 - Positives: Fixed the crossover issue that the first version had
 - Negatives: Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers. Noticeable dip in the vertical off axis
-- Bass Extension (-10dB): 41hz
-- Bass Extension (-3dB): 70hz
+- Bass Extension (-10dB): 41Hz
+- Bass Extension (-3dB): 70Hz
 - Dimensions: 15.7"H x 8"W x 12.5"D (398.8 x 203.2 x 317.5 mm)
 - Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
@@ -682,8 +682,8 @@ Last updated: March 05, 2026
 
 ## #42 [Klipsch RP-600M](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Reference-Premiere-Bookshelf-Speakers/dp/B07G3DC87L?crid=3QJRP2CCORSND&dib=eyJ2IjoiMSJ9.TnBPST-hvqTEhTiqb_Zh8ijQqrQB2AK7QuSp_ohIHOjYv3bThziKgGtkL1vIa1Xnu8gBCW2lWa4gRaa3GwWElpqd7JMEOoer2cPplapgdRDoP1ckfK1DqnOxBCBIYlQ2-a-2i3kkEF_Mzea8H96dBO5UFFixj7VXhajCL2tuXuycRWSDo6Wj6o9C5-8AXdLnelGicEcz-s8dQ-KdeBMobOmDvJxsiI2vXGX-oppWO2k.7jQQdSBhPd7C1g2fuG0LPIYvXdoXPRR02MZYTN1LTTc&dib_tag=se&keywords=klipsch+rp-600m+ii&qid=1749016300&sprefix=rp-600m%2Caps%2C302&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a086051f7ff4c1ff82bd54d4a44b1135&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+RP-600M)]: $330
 - Negatives: Crossover issue, 5dB dip in frequency response at 1.6Khz. Tweeter level is 2dB bumped. Only for those who like a hot treble like most Klipsch speakers
-- Bass Extension (-10dB): 40hz
-- Bass Extension (-3dB): 73hz
+- Bass Extension (-10dB): 40Hz
+- Bass Extension (-3dB): 73Hz
 - Dimensions: 15.7"H x 8"W x 11.9"D (398.8 x 203.2 x 302.3 mm)
 - Driver: 6.5" Cerametallic cone woofer, 1" titanium LTS vented tweeter with Tractrix horn
 - Impedance: 8 ohms
@@ -741,8 +741,8 @@ Last updated: March 05, 2026
 
 ## #47 [Yamaha NS-10](https://www.hifizero.com/index.php?q=Yamaha+NS-10) [[Used Listings](https://www.hifizero.com/index.php?q=Yamaha+NS-10)]
 - Negatives: Horrible frequency response, horrible bass response. Basically designed to sound like a crap boombox for listening to mixes. Do not recommend this speaker for anything.
-- Bass Extension (-10dB): 75hz
-- Bass Extension (-3dB): 126hz
+- Bass Extension (-10dB): 75Hz
+- Bass Extension (-3dB): 126Hz
 - Driver: 7.1" woofer, 1.4" soft dome tweeter
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Yamaha NS-10M: The Iconic Studio Monitor That Shaped Modern Music](https://www.youtube.com/watch?v=0pYKuBdhmdc)
@@ -752,8 +752,8 @@ Last updated: March 05, 2026
 
 ## #48 [Zu Audio Method](https://www.zuaudio.com/loudspeakers/p/mb1) [[Zuaudio](https://www.zuaudio.com/loudspeakers/p/mb1)] [[Used Listings](https://www.hifizero.com/index.php?q=Zu+Audio+Method)]: $700
 - Negatives: Horrible frequency response. 4dB peak at 1.3khz, 4dB dip at 1.7Khz, 4dB peaks at 3.5Khz and 4.3Khz. Huge 19dB dip at 6.8Khz. Significant ringing in the midrange and lower treble region. Very edgy sounding in the upper mids and lower treble. This is representative of a lot of Zu Audio speakers which I've also seen measured. A lot of frequency response issues. Erin stated it's one of the worst speakers he has ever tested.
-- Bass Extension (-10dB): 56hz
-- Bass Extension (-3dB): 92hz
+- Bass Extension (-10dB): 56Hz
+- Bass Extension (-3dB): 92Hz
 - Driver: 8” coax HE (Eminence/Zu) woofer, Eminence ASD-1001 tweeter
 - Impedance: 8 ohms
 - Sensitivity: 91dB

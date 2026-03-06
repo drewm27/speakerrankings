@@ -21,7 +21,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
@@ -29,13 +29,13 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -63,7 +63,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
@@ -73,9 +73,9 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Max Volume: 103db
+- Max Volume: 103dB
+- Output Power: 28W
 - Party Mode: No
-- Power: 28W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -102,7 +102,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 20ms
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
@@ -113,9 +113,9 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 108db
+- Max Volume: 108dB
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -146,7 +146,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - App: Yes (Earfun Audio app)
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): ~38hz
+- Bass Extension (-10dB): ~38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
@@ -156,7 +156,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -219,7 +219,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
@@ -227,13 +227,13 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -260,7 +260,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
@@ -270,9 +270,9 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -296,7 +296,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
@@ -307,9 +307,9 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -332,7 +332,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 112ms
-- Bass Extension (-10dB): 35hz
+- Bass Extension (-10dB): 35Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
@@ -341,7 +341,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 103db
+- Max Volume: 103dB
 - Output Power: 160W RMS
 - Party Mode: No
 - Power Bank: Yes

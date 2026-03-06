@@ -15,7 +15,7 @@ The Wisetiger F10 ranks [#106 out of 131 total Medium Size Portable Bluetooth Sp
 - Built in Microphone: Yes
 - Dimensions: 9.25" x 3.11" x 3.07" (235 x 79 x 78 mm)
 - IP Rating: IPX7
-- Power: 25W
+- Output Power: 25W
 - TWS: Yes
 - Weight: 1.23lbs / 550g
 - Reviews, Comparisons and Sound Samples

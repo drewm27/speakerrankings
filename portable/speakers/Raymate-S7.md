@@ -14,7 +14,7 @@ The Raymate S7 ranks [#115 out of 131 total Medium Size Portable Bluetooth Speak
 - Built in Microphone: Yes
 - Dimensions: 8.34" x 3.46" x 3.22" (211.8 x 87.9 x 81.8 mm)
 - IP Rating: IPX7
-- Power: 30W
+- Output Power: 30W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes

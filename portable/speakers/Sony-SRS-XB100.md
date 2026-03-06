@@ -21,12 +21,12 @@ The Sony SRS-XB100 ranks [#28 out of 41 total Small Size Portable Bluetooth Spea
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 2.5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 2.5W
 - Weight: 0.60lbs / 274g
 - Reviews, Comparisons and Sound Samples
     - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)

@@ -12,7 +12,7 @@ The Cleer Audio Scene ranks [#29 out of 131 total Medium Size Portable Bluetooth
 - Negatives: Less bass extension than a Flip 6
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~62hz
+- Bass Extension (-10dB): ~62Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0

@@ -11,7 +11,7 @@ The Sony SRS-XB43 ranks [#39 out of 73 total Large Size Portable Bluetooth Speak
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 85ms
@@ -21,7 +21,7 @@ The Sony SRS-XB43 ranks [#39 out of 73 total Large Size Portable Bluetooth Speak
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C

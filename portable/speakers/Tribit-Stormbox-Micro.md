@@ -11,14 +11,14 @@ The Tribit Stormbox Micro ranks [#4 out of 41 total Small Size Portable Bluetoot
 - Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 93db
+- Max Volume: 93dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

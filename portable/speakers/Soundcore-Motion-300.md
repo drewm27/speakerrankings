@@ -12,7 +12,7 @@ The Soundcore Motion 300 ranks [#2 out of 131 total Medium Size Portable Bluetoo
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
@@ -23,8 +23,8 @@ The Soundcore Motion 300 ranks [#2 out of 131 total Medium Size Portable Bluetoo
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 101db
-- Power: 30W
+- Max Volume: 101dB
+- Output Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

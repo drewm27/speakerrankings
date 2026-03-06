@@ -20,8 +20,8 @@ The Klipsch Groove/Heritage Groove ranks [#86 out of 131 total Medium Size Porta
 - Driver: 1x 3" full-range driver + 2x side-firing passive radiators
 - EQ: No
 - IP Rating: IPX4 (Groove), none (Heritage Groove)
+- Output Power: 10W RMS
 - Party Mode: No
-- Power: 10W RMS
 - Power Bank: No
 - Power Input: Micro USB
 - TWS: No

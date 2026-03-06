@@ -10,7 +10,7 @@ The Xdobo X8 ranks [#116 out of 131 total Medium Size Portable Bluetooth Speaker
 ## #116 Xdobo X8: $35
 - Negatives: Harsh midrange, rolled off highs. Distorted sound
 - Aux Input: Yes
-- Bass Extension (-10dB): ~65hz
+- Bass Extension (-10dB): ~65Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
@@ -18,7 +18,7 @@ The Xdobo X8 ranks [#116 out of 131 total Medium Size Portable Bluetooth Speaker
 - Driver: 1x 66mm full-range driver
 - IP Rating: IPX5
 - MicroSD: Yes
-- Power: 60W
+- Output Power: 60W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.9lbs / 860g

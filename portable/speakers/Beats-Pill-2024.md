@@ -11,7 +11,7 @@ The Beats Pill 2024 ranks [#60 out of 131 total Medium Size Portable Bluetooth S
 - Negatives: Boosted upper bass, somewhat thuddy. Slightly recessed mids. Rolled off treble. This may move around a little as better sound samples are found.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): ~56hz
+- Bass Extension (-10dB): ~56Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes

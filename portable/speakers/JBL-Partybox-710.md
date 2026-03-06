@@ -22,8 +22,8 @@ The JBL Partybox 710 ranks [#4 out of 10 total Large Party Size Portable Bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 800W
 - Party Mode: Yes
-- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

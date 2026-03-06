@@ -12,7 +12,7 @@ The Mifa Wildbox ranks [#8 out of 73 total Large Size Portable Bluetooth Speaker
 - Negatives: Doesn't seem to be available anymore. No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn't textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 185ms
@@ -23,10 +23,10 @@ The Mifa Wildbox ranks [#8 out of 73 total Large Size Portable Bluetooth Speaker
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 106db
+- Max Volume: 106dB
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: Yes (PartyAdd up to 100 speakers)
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

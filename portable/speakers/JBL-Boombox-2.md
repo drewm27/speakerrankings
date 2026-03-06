@@ -12,7 +12,7 @@ The JBL Boombox 2 ranks [#27 out of 67 total Boombox Size Portable Bluetooth Spe
 - App: No
 - Aux Input: Yes
 - Aux Latency: 33ms
-- Bass Extension (-10dB): 46hz
+- Bass Extension (-10dB): 46Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 140ms
@@ -20,7 +20,7 @@ The JBL Boombox 2 ranks [#27 out of 67 total Boombox Size Portable Bluetooth Spe
 - EQ: No
 - FM Tuner: No
 - IP Rating: IPX7
-- Max Volume: 108db
+- Max Volume: 108dB
 - MicroSD: No
 - Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)

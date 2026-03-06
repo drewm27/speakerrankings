@@ -10,14 +10,14 @@ The Tronsmart Element Force ranks [#48 out of 131 total Medium Size Portable Blu
 ## #48 Tronsmart Element Force: $66
 - Negatives: Not as deep of bass as others. Weird 3d processing
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 8.07" x 2.51" x 3.21" (205 x 64 x 82 mm)
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
-- Max Volume: 98db
+- Max Volume: 98dB
 - MicroSD: Yes
-- Power: 40W
+- Output Power: 40W
 - Stereo: Yes
 - Weight: 1.7lbs / 0.771kg
 - Reviews, Comparisons and Sound Samples

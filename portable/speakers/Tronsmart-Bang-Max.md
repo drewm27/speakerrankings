@@ -13,13 +13,13 @@ The Tronsmart Bang Max ranks [#31 out of 67 total Boombox Size Portable Bluetoot
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): 39hz
+- Bass Extension (-10dB): 39Hz
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 111db
+- Max Volume: 111dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes

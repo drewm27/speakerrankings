@@ -19,12 +19,12 @@ The LG XL7 ranks [#15 out of 43 total Party Size Portable Bluetooth Speakers](/p
 - Driver: 8" woofer, 2x 2.5" tweeters
 - EQ: Yes
 - IP Rating: IPX4
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 250W
 - Weight: 34.2lbs / 15.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)

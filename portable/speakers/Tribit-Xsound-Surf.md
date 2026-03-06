@@ -14,7 +14,7 @@ The Tribit Xsound Surf ranks [#76 out of 131 total Medium Size Portable Bluetoot
 - Bluetooth Version: 5.0
 - Dimensions: 7.01" x 2.24" x 2.13" (178 x 57 x 54 mm)
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
-- Power: 12W RMS
+- Output Power: 12W RMS
 - Stereo: Yes
 - Weight: 0.97lbs / 440g
 - Reviews, Comparisons and Sound Samples

@@ -20,8 +20,8 @@ The Marshall Acton III ranks [#10 out of 14 total Medium Size Powered Desktop Sp
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Aux
+- Output Power: 60W (Woofer: 30W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 60W (Woofer: 30W, Tweeters: 2x15W)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - TWS: No

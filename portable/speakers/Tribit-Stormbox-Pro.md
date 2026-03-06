@@ -10,7 +10,7 @@ The Tribit Stormbox Pro ranks [#41 out of 131 total Medium Size Portable Bluetoo
 ## #41 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325)]: $90
 - Negatives: Bottom woofer was fixed in a later firmware, upgrade for best sound. Peaky mids, highs rolled off. Not technically a 360 speaker, only front and rear.
 - Aux Input: Yes
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 5.3
@@ -18,9 +18,9 @@ The Tribit Stormbox Pro ranks [#41 out of 131 total Medium Size Portable Bluetoo
 - Driver: 76mm subwoofer, 2x 40mm full-range drivers + 2x passive radiators
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes

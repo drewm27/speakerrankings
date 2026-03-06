@@ -19,7 +19,7 @@ The B&O Beosound A1 3rd gen ranks [#18 out of 131 total Medium Size Portable Blu
 - Driver: 82.5mm woofer, 15mm tweeter
 - EQ: Yes
 - IP Rating: IP67
-- Power: 60W
+- Output Power: 60W
 - Power Bank: No
 - Stereo: No
 - TWS: Yes

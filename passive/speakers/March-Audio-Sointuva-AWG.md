@@ -10,8 +10,8 @@ The March Audio Sointuva AWG ranks [#3 out of 48 total Large Size Bookshelf Spea
 ## #3 [March Audio Sointuva AWG](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/) [[Marchaudio](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/)] [[Used Listings](https://www.hifizero.com/index.php?q=March+Audio+Sointuva+AWG)]: $4150
 - Positives: One of the most neutral bookshelf speakers around. Very good horizontal and vertical response. Very deep bass for the size
 - Negatives: Sensitivity is pretty low.
-- Bass Extension (-10dB): 30hz
-- Bass Extension (-3dB): 40hz
+- Bass Extension (-10dB): 30Hz
+- Bass Extension (-3dB): 40Hz
 - Dimensions: 17.7"H x 9.4"W x 8.7"D (449.6 x 238.8 x 221 mm)
 - Driver: 6.5" Purifi PTT-OEM Midwoofer, Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
 - Impedance: 6 ohms

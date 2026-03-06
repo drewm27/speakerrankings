@@ -11,7 +11,7 @@ The Ultimate Ears Megablast ranks [#57 out of 73 total Large Size Portable Bluet
 - Negatives: Bass is not very deep compared to the competition
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 64hz
+- Bass Extension (-10dB): 64Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2

@@ -10,8 +10,8 @@ The ELAC DBR62 ranks [#19 out of 48 total Large Size Bookshelf Speakers](/passiv
 ## #19 [ELAC DBR62](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Elac-Debut-Reference-DBR62-Walnut/dp/B081K9NSB3?crid=35ST4E9M14MCN&dib=eyJ2IjoiMSJ9.BOghYLjU_EA2_0uvUVBzpmpriuFX0gLKNXSqaA-iZhhJtV-XIDsF31x8zUZkCYDpVCkurCGrmZcAW2eN_TJd4n2cJqKI1FChwDMg1LSPtjMusfHVSCYQpri2S2i9IQHdcdvi30zADjpFatEjZxy52N5qgkU1yd-9uF8wIQoLIYn6CMBQ4ImoWto-EDTnzYk2FmSSHzJGnYtzm1z4AL4JCcUQYhAbTURRk7Cu9GabJEs.P9hYGjfl8kqlaULOqwB14dRktkTkrCKOCxa_NtH2lNU&dib_tag=se&keywords=elac+dbr62&qid=1749136981&sprefix=elac+dbr%2Caps%2C206&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3f26d847615266880f376e6c540cbc87&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DBR62)]: $800 a pair
 - Positives: Pretty neutral all around, a little bit of a V curve
 - Negatives: 3db peak around 100hz, 2db dip at 3.4khz, 3db peak at 11-14khz, a little bit of a V curve
-- Bass Extension (-10dB): 41hz
-- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 41Hz
+- Bass Extension (-3dB): 53Hz
 - Dimensions: 14.1"H x 8.2"W x 10.8"D (358.1 x 208.3 x 274.3 mm)
 - Driver: 6.5" Aramid Fiber woofer, 1" soft dome tweeter
 - Impedance: 6 ohms

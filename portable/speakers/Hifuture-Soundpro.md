@@ -14,7 +14,7 @@ The Hifuture Soundpro ranks [#96 out of 131 total Medium Size Portable Bluetooth
 - Dimensions: 7.09" x 2.56" x 2.56" (180 x 65 x 65 mm)
 - Driver: 2x 45mm full-range
 - IP Rating: IPX7
-- Power: 16W
+- Output Power: 16W
 - Power Input: USB-C
 - TWS: Yes
 - Weight: 1.1lbs / 500g

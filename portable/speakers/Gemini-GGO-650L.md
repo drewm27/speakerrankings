@@ -12,7 +12,7 @@ The Gemini GGO-650L ranks [#54 out of 67 total Boombox Size Portable Bluetooth S
 - Negatives: Bass not as deep as competitors
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~56hz
+- Bass Extension (-10dB): ~56Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3

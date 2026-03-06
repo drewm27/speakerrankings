@@ -22,8 +22,8 @@ The JBL Partybox 520 ranks [#5 out of 10 total Large Party Size Portable Bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (Auracast)
-- Power: 400W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes

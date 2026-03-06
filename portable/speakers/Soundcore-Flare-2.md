@@ -11,7 +11,7 @@ The Soundcore Flare 2 ranks [#100 out of 131 total Medium Size Portable Bluetoot
 - Positives: Try [Alan Ross's EQ](https://ibb.co/q9mcNk1) for it
 - Negatives: Rolled off treble. Thuddy bass. Not technically a 360 speaker, only front and rear.
 - App: Yes
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 80ms
@@ -20,9 +20,9 @@ The Soundcore Flare 2 ranks [#100 out of 131 total Medium Size Portable Bluetoot
 - Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 20W
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Power: 20W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes

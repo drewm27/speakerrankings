@@ -11,7 +11,7 @@ The Tronsmart Halo 100 ranks [#48 out of 73 total Large Size Portable Bluetooth 
 - Negatives: Not a very smooth frequency response. Treble is peaky. Boosted upper bass.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -21,10 +21,10 @@ The Tronsmart Halo 100 ranks [#48 out of 73 total Large Size Portable Bluetooth 
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

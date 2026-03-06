@@ -11,7 +11,7 @@ The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Spea
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 125ms
@@ -21,9 +21,9 @@ The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Spea
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 40W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 40W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No

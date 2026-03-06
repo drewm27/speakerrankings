@@ -10,8 +10,8 @@ The KEF Blade Two Meta ranks [#2 out of 25 total Large Size Floorstanding Speake
 ## #2 [KEF Blade Two Meta](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta) [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta)]: $28000 only sold in stores
 - Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
 - Negatives: 2dB dip at 200hz, slight resonance.
-- Bass Extension (-10dB): 26hz
-- Bass Extension (-3dB): 31hz
+- Bass Extension (-10dB): 26Hz
+- Bass Extension (-3dB): 31Hz
 - Dimensions: 46.6"H x 13.5"W x 14.8"D (1183.6 x 342.9 x 375.9 mm)
 - Driver: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling woofers, 125 mm (5 in.) aluminium cone midrange, 25 mm (1 in.)  aluminium dome with MAT tweeter
 - Impedance: 4 ohms

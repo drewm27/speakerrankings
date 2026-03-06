@@ -12,15 +12,16 @@ The Electro-Voice Everse 12 ranks [#7 out of 43 total Party Size Portable Blueto
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (up to 6 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -28,7 +29,6 @@ The Electro-Voice Everse 12 ranks [#7 out of 43 total Party Size Portable Blueto
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples

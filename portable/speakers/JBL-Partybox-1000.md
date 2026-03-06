@@ -22,8 +22,8 @@ The JBL Partybox 1000 ranks [#2 out of 10 total Large Party Size Portable Blueto
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 1100W
 - Party Mode: Yes
-- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes

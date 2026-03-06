@@ -15,7 +15,7 @@ The Cabasse Swell ranks [#97 out of 131 total Medium Size Portable Bluetooth Spe
 - Bluetooth Version: 4.0
 - Dimensions: 7.28" x 2.95" x 2.95" (185 x 75 x 75 mm)
 - Driver: 2x 85mm woofers, 2x 40mm mid-tweeters
-- Power: 60W
+- Output Power: 60W
 - Power Input: USB
 - Stereo: Yes
 - TWS: Yes

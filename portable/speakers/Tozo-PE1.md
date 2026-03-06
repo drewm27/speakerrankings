@@ -12,7 +12,7 @@ The Tozo PE1 ranks [#17 out of 41 total Small Size Portable Bluetooth Speakers](
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 68hz
+- Bass Extension (-10dB): 68Hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that) (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -22,12 +22,12 @@ The Tozo PE1 ranks [#17 out of 41 total Small Size Portable Bluetooth Speakers](
 - EQ: Yes
 - Frequency Response: 80Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX8
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.55lbs / 248g
 - Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)

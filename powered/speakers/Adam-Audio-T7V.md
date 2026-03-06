@@ -18,7 +18,7 @@ The Adam Audio T7V ranks [#16 out of 21 total Large Size Powered Bookshelf Speak
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 70w Per Speaker
+- Output Power: 70w Per Speaker
 - Weight: 15.7lbs / 7.1kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)

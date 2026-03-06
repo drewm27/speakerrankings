@@ -10,8 +10,8 @@ The Philharmonic BMR Monitor ranks [#12 out of 48 total Large Size Bookshelf Spe
 ## #12 [Philharmonic BMR Monitor](https://philharmonicaudio.com/products/bmr-monitor) [[Philharmonicaudio](https://philharmonicaudio.com/products/bmr-monitor)] [[Used Listings](https://www.hifizero.com/index.php?q=Philharmonic+BMR+Monitor)]: $2200
 - Positives: Very wide off-axis
 - Negatives: Directivity issues at 500hz and 3khz
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 47hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 47Hz
 - Dimensions: 20"H x 8"W x 12.5"D (508 x 203.2 x 317.5 mm)
 - Driver: 6" Ceramic woofer, Balanced Mode Radiator 2.5" midrange, RAAL 64-10X OEM tweeter
 - Impedance: 4 ohms

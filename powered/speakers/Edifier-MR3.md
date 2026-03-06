@@ -11,8 +11,8 @@ The Edifier MR3 ranks [#5 out of 8 total Small Size Powered Bookshelf Speakers](
 - Positives: Pretty linear on axis, a very good value especially when you want Bluetooth included. Better than the MR4 all around.
 - Negatives: Small woofer doesn't have very deep bass like others in this size class.
 - App: No
-- Bass Extension (-10dB): 52hz
-- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 52Hz
+- Bass Extension (-3dB): 60Hz
 - Bluetooth: Yes
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -22,8 +22,7 @@ The Edifier MR3 ranks [#5 out of 8 total Small Size Powered Bookshelf Speakers](
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA
 - Max SPL: 93dB @ 1m
-- Power: 36W total (18W per speaker)
-- Watts: 18w RMS Per Speaker
+- Output Power: 36W total (18W per speaker)
 - Weight: 6.6lbs / 3kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)

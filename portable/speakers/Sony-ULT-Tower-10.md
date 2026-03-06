@@ -22,8 +22,8 @@ The Sony ULT Tower 10 ranks [#8 out of 10 total Large Party Size Portable Blueto
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 139W
 - Party Mode: Yes (Auracast up to 100 speakers)
-- Power: 139W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

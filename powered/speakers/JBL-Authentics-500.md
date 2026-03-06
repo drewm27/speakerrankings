@@ -22,8 +22,8 @@ The JBL Authentics 500 ranks [#2 out of 2 total Large Size Powered Desktop Speak
 - Ethernet: Yes
 - Frequency Response: 40Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: None
+- Output Power: 270W (Max @ THD 1%)
 - Party Mode: Yes
-- Power: 270W (Max @ THD 1%)
 - Power Supply: 100 - 240V AC, ~ 50/60Hz
 - Sound System: 3.1 channel
 - Stereo: Yes

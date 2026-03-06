@@ -12,7 +12,7 @@ The Devialet Mania ranks [#38 out of 73 total Large Size Portable Bluetooth Spea
 - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -22,9 +22,9 @@ The Devialet Mania ranks [#38 out of 73 total Large Size Portable Bluetooth Spea
 - EQ: No
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
-- Max Volume: 95db
+- Max Volume: 95dB
+- Output Power: 176W
 - Party Mode: No
-- Power: 176W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

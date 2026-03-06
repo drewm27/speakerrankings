@@ -11,8 +11,8 @@ The Kali LP-UNF ranks [#5 out of 24 total Medium Size Powered Bookshelf Speakers
 - Positives: An insane value in this class. Slight 2dB bass boost. Pretty deep bass for this size class. Includes Bluetooth
 - Negatives: 3dB dip around 240hz
 - App: No
-- Bass Extension (-10dB): 39hz
-- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 39Hz
+- Bass Extension (-3dB): 54Hz
 - Bluetooth: No
 - Driver: 4.5" woofer, 1" Textile Dome tweeter
 - EQ: No

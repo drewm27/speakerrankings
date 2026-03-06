@@ -14,7 +14,7 @@ The Harman Kardon Go + Play 3 ranks [#3 out of 67 total Boombox Size Portable Bl
 - App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 112ms
-- Bass Extension (-10dB): 35hz
+- Bass Extension (-10dB): 35Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
@@ -23,7 +23,7 @@ The Harman Kardon Go + Play 3 ranks [#3 out of 67 total Boombox Size Portable Bl
 - Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 103db
+- Max Volume: 103dB
 - Output Power: 160W RMS
 - Party Mode: No
 - Power Bank: Yes

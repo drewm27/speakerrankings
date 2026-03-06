@@ -11,7 +11,7 @@ The Onn Large Party gen 1 ranks [#32 out of 43 total Party Size Portable Bluetoo
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No

@@ -33,6 +33,7 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -40,7 +41,6 @@ Last updated: March 05, 2026
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
@@ -57,7 +57,7 @@ Last updated: March 05, 2026
 - Negatives: Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 32hz
+- Bass Extension (-10dB): 32Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Charging Time: 3.5 hours
@@ -65,13 +65,13 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 38lbs / 17kg
 - Reviews, Comparisons and Sound Samples
     - [KULAS TECH SHOW: JBL Partybox 310, 100, on the Go Sound comparison](https://www.youtube.com/watch?v=-OAUrom9DZM)
@@ -104,6 +104,7 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 160W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -111,7 +112,6 @@ Last updated: March 05, 2026
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 160W
 - Weight: 24lbs / 10.8kg
 - Reviews, Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
@@ -125,7 +125,7 @@ Last updated: March 05, 2026
 - Negatives: A slight peak in the upper mids. Slight TWS issue where the 2nd is slightly delayed. Just as loud and slightly deeper bass than a Stormbox Blast which is way smaller with better sound quality. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 41hz
+- Bass Extension (-10dB): 41Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -136,13 +136,13 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 160W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 160W
 - Weight: 21lbs / 9.7kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=yO11s6E9RPs>
@@ -171,7 +171,7 @@ Last updated: March 05, 2026
 - Negatives: Bass isn't as deep as the Partybox 100. Just as loud and slightly deeper than a Stormbox Blast which is way smaller with better sound. Increase treble one step in the app to make it more neutral. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 41hz
+- Bass Extension (-10dB): 41Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -181,13 +181,13 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 160W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 160W
 - Weight: 24lbs / 10.8kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>
@@ -212,7 +212,7 @@ Last updated: March 05, 2026
 - Negatives: Hard to carry, too tall, drags on the ground. Max spl and bass extension are only as good as the Partybox 100. No real reason to ever get one, get a Partybox 100 instead. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 40hz
+- Bass Extension (-10dB): 40Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -222,13 +222,13 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes (lying down)
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 120W
 - Weight: 35lbs / 16kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sxj71FCSg5Y>
@@ -241,15 +241,16 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (up to 6 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -257,7 +258,6 @@ Last updated: March 05, 2026
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
@@ -273,7 +273,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Output: Yes
-- Bass Extension (-10dB): 48hz
+- Bass Extension (-10dB): 48Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes
@@ -302,15 +302,16 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Designed for more loudness than deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 15.75" x 10.83" x 10.71" (400 x 275 x 272 mm)
 - Driver: 8" woofer, 1" tweeter
 - EQ: Yes
 - IP Rating: IP43
-- Max Volume: 121db
+- Max Volume: 121dB
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (up to 6 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -318,7 +319,6 @@ Last updated: March 05, 2026
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Wattage: 400W
 - Weight: 17lbs / 8kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
@@ -333,7 +333,7 @@ Last updated: March 05, 2026
 - Negatives: With full range music, it becomes distorted above ⅔ volume. Better suited for voice amplification. Not as much deep bass as the Everse 8, midrange sounds reasonably balanced. Treble is pretty boosted. Not stereo. Designed for more loudness than deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 11 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.0
@@ -341,7 +341,7 @@ Last updated: March 05, 2026
 - Dimensions: 13.1" x 9.4" x 11" (332.7 x 238.8 x 279.4 mm)
 - EQ: Yes
 - IP Rating: None
-- Max Volume: 109db
+- Max Volume: 109dB
 - Microphone Input: Yes
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
@@ -371,7 +371,7 @@ Last updated: March 05, 2026
 - Negatives: Weird midrange peak. Slightly less loud than a Partybox 310. Bass not as deep as a Partybox 310/300/110/100.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, AAC, SBC
 - Bluetooth Version: 5.0
@@ -382,13 +382,13 @@ Last updated: March 05, 2026
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 78W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
 - TWS: No
 - USB Playback: Yes
-- Wattage: 78W RMS
 - Weight: 37.3 lbs / 16.9kg
 - Reviews, Comparisons and Sound Samples
     - [DLX Willington: SONY SRS XP700 vs JBL PARTYBOX 310 First Impressions Binaural Sound Sample Sound Comparison](https://www.youtube.com/watch?v=TOACab8wPxw)
@@ -401,7 +401,7 @@ Last updated: March 05, 2026
 - Negatives: Not as loud and bass not as deep as a Partybox 100 or 110
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 42hz
+- Bass Extension (-10dB): 42Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, AAC, SBC
 - Bluetooth Version: 5.0
@@ -494,12 +494,12 @@ Last updated: March 05, 2026
 - Driver: 8" woofer, 2x 2.5" tweeters
 - EQ: Yes
 - IP Rating: IPX4
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 250W
 - Weight: 34.2lbs / 15.5kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Basement Bass Battle 💣 Sony XV800 ☢️ LG XL7 🔆 JBL Partybox 310 ☣️ All Plugged in, Sound Comparison](https://www.youtube.com/watch?v=BVfi7YvlMRg)
@@ -548,13 +548,13 @@ Last updated: March 05, 2026
 - EQ: Yes
 - IP Rating: IPX5
 - Microphone Input: Yes
+- Output Power: 240W (AC) / 90W (battery)
 - Party Mode: Yes (Samsung Group Play up to 10 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: Yes
-- Wattage: 240W (AC) / 90W (battery)
 - Weight: 26.3lbs / 11.9kg
 - Reviews, Comparisons and Sound Samples
     - [HQ AUDIO Exchange: Samsung MX-ST50B vs. JBL Partybox 110 Bass Test!🔥](https://www.youtube.com/watch?v=_Q1i3cG092I)
@@ -566,21 +566,21 @@ Last updated: March 05, 2026
 - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass. Battery latch breaks easily. Handle on top also can break off. Not very deep bass
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 17.99" x 9.06" x 11.22" (457 x 230 x 285 mm)
 - Driver: 8" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: None
-- Max Volume: 115db
+- Max Volume: 115dB
 - Microphone Input: Yes
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: No
 - Stereo: No
 - TWS: No
 - USB Playback: No
-- Wattage: 200W
 - Weight: 17.6lbs / 8kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
@@ -607,8 +607,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 108db
+- Max Volume: 108dB
 - Microphone Input: Yes
+- Output Power: 2 x 73W
 - Party Mode: Yes
 - Power Bank: No
 - Power Input: AC Power brick
@@ -616,7 +617,6 @@ Last updated: March 05, 2026
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 2 x 73W
 - Weight: 17.4lbs / 7.9kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
@@ -628,21 +628,21 @@ Last updated: March 05, 2026
 - Negatives: Peaky midrange, not very natural sounding. Starts to get distorted above half volume. Only available in Europe.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~52hz
+- Bass Extension (-10dB): ~52Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Dimensions: 11.81" x 21.26" x 11.02" (300 x 540 x 280 mm)
 - EQ: No
 - IP Rating: None
-- Max Volume: 115db
+- Max Volume: 115dB
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 250W
 - Weight: 32.0lbs / 14.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
@@ -655,7 +655,7 @@ Last updated: March 05, 2026
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -665,8 +665,9 @@ Last updated: March 05, 2026
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: IP65
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
+- Output Power: 3 x 72W
 - Party Mode: Yes
 - Power Bank: No
 - Power Input: AC Power cord
@@ -675,7 +676,6 @@ Last updated: March 05, 2026
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
-- Wattage: 3 x 72W
 - Weight: 34lbs / 15.4kg
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: SOUNDBOKS Gen 4 Review - Better Sound And More Power Efficient](https://www.youtube.com/watch?v=bNNYuUKvaVQ)
@@ -691,13 +691,13 @@ Last updated: March 05, 2026
 - Negatives: Very large. Not as neutral or as deep of bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IP65
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
 - Party Mode: Yes
 - Power Bank: No
@@ -728,8 +728,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
-- Max Volume: 124db
+- Max Volume: 124dB
 - Microphone Input: Yes
+- Output Power: 3 x 72W
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
@@ -737,7 +738,6 @@ Last updated: March 05, 2026
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 3 x 72W
 - Weight: 33lbs / 15kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=b9iaXnqM67U>
@@ -753,7 +753,7 @@ Last updated: March 05, 2026
 - Negatives: Very expensive for what it does, a bit dull and muddy sound. Not as loud as others in the class. Bass not as deep as a Partybox 100. External power brick for charging.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -782,7 +782,7 @@ Last updated: March 05, 2026
 - Negatives: Not as loud as the other Soundboks. Not as neutral or as much bass as the above Partyboxes. Not stereo. External power brick for charging.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -791,7 +791,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
-- Max Volume: 121db
+- Max Volume: 121dB
+- Output Power: 2 x 72W
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
@@ -799,7 +800,6 @@ Last updated: March 05, 2026
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 2 x 72W
 - Weight: 20lbs / 9kg
 - Reviews, Comparisons and Sound Samples
     - [GYMCADDY: Soundboks Go Vs Soundboks 3 - Which One Is Right For You?](https://www.youtube.com/watch?v=LeFRtL44rt8)
@@ -823,14 +823,14 @@ Last updated: March 05, 2026
 - Driver: 2x 10" woofers, 1" compression tweeter
 - EQ: No
 - IP Rating: None
-- Max Volume: 125db
+- Max Volume: 125dB
+- Output Power: 3 x 73W
 - Party Mode: No
 - Power Bank: No
 - Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 3 x 73W
 - Weight: 44.7lbs / 19.8kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
@@ -852,12 +852,12 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 250W (peak)
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
 - TWS: No
 - USB Playback: Yes
-- Wattage: 250W (peak)
 - Weight: 19.9lbs / 9.05kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
@@ -894,7 +894,7 @@ Last updated: March 05, 2026
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~53hz
+- Bass Extension (-10dB): ~53Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -903,7 +903,7 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 35Hz - 24.3kHz (Manufacturer specified)
 - IP Rating: None
-- Max Volume: 91db
+- Max Volume: 91dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
@@ -930,13 +930,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 40Hz - 22kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 260W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 260W RMS
 - Weight: 25lbs / 11kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=j0RiYpPEyKI>
@@ -950,7 +950,7 @@ Last updated: March 05, 2026
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 4 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 11.81" x 22.36" x 11.85" (300 x 568 x 301 mm)
@@ -958,13 +958,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 62Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 190W (peak)
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 190W (peak)
 - Weight: 27lbs / 12.5kg
 - Reviews, Comparisons and Sound Samples
     - [Lez Gõr: dB technologies B-Hype Mobile sound test (read description)](https://www.youtube.com/watch?v=wqROpxcZmrk)
@@ -978,7 +978,7 @@ Last updated: March 05, 2026
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
@@ -1002,20 +1002,20 @@ Last updated: March 05, 2026
 - Negatives: No deep bass, mids are a little harsh
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 10.55" x 21.89" x 11.22" (268 x 556 x 285 mm)
 - Driver: 2x 5.25" woofers, 2x 2" tweeters
 - EQ: No
 - IP Rating: None
+- Output Power: 80W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 80W RMS
 - Weight: 17lbs / 7.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audio Mix7: Philips Tanx 200 Review - sound Test -jbl partybox alternative ? Vs Jbl Boombox (eng sub)](https://www.youtube.com/watch?v=O6SWv8lnpCI)
@@ -1028,7 +1028,7 @@ Last updated: March 05, 2026
 - Negatives: Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~57hz
+- Bass Extension (-10dB): ~57Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1037,13 +1037,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 100Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 150W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 150W RMS
 - Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: 🔥JBL PARTYBOX 100 vs PANASONIC SC TMAX10🔥BIG BASS Sound🔊Best 2021 Deep Sound Speakers👑USA](https://www.youtube.com/watch?v=UrgQkhzAe0U)
@@ -1056,19 +1056,19 @@ Last updated: March 05, 2026
 - Negatives: Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~57hz
+- Bass Extension (-10dB): ~57Hz
 - Bluetooth Codecs: SBC
 - Dimensions: 18.7" x 9.84" x 10.43" (475 x 250 x 265 mm)
 - Driver: 160mm woofer, 50mm tweeter
 - EQ: No
 - IP Rating: None
+- Output Power: 150W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 150W RMS
 - Weight: 14.3lbs / 6.5kg
 - Reviews, Comparisons and Sound Samples
     - [JARA MIKE: Panasonic  SC- TMAX5 ♫](https://www.youtube.com/watch?v=_jlJnhPyALs)
@@ -1080,7 +1080,7 @@ Last updated: March 05, 2026
 ## #36 Sharp PS-929: $150
 - Negatives: Not very deep bass
 - App: No
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1088,13 +1088,13 @@ Last updated: March 05, 2026
 - Driver: 2x 6.5" woofers, 2x 2" tweeters
 - EQ: No
 - IP Rating: None
+- Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 50W RMS
 - Weight: 19lbs / 8.6kg
 - Reviews, Comparisons and Sound Samples
     - [Technotin: Power Audio Sharp PS-929   7day experience](https://www.youtube.com/watch?v=uiRxrnvyvCw)
@@ -1106,19 +1106,19 @@ Last updated: March 05, 2026
 - Negatives: Pretty big lack of deep bass
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 21.65" x 12.6" x 12.2" (550 x 320 x 310 mm)
 - EQ: No
 - IP Rating: None
+- Output Power: 160W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
-- Wattage: 160W
 - Weight: 7.7lbs / 3.49kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
@@ -1131,7 +1131,7 @@ Last updated: March 05, 2026
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No
@@ -1153,7 +1153,7 @@ Last updated: March 05, 2026
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~50hz
+- Bass Extension (-10dB): ~50Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
@@ -1176,7 +1176,7 @@ Last updated: March 05, 2026
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~56hz
+- Bass Extension (-10dB): ~56Hz
 - Battery Life: 23 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
@@ -1197,7 +1197,7 @@ Last updated: March 05, 2026
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - EQ: No
@@ -1220,7 +1220,7 @@ Last updated: March 05, 2026
 - Negatives: Not very deep bass
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Bluetooth Codecs: SBC
 - EQ: No
 - FM Tuner: Yes
@@ -1243,7 +1243,7 @@ Last updated: March 05, 2026
 - Negatives: No deep bass, slightly harsh upper mids
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No

@@ -10,7 +10,7 @@ The Dayton Audio Boost ranks [#112 out of 131 total Medium Size Portable Bluetoo
 ## #112 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
 - Negatives: Some midrange peaks, treble slightly rolled off. Not much bass. Same hardware as the Boat Stone 350/352/358
 - Aux Input: Yes
-- Bass Extension (-10dB): 87hz
+- Bass Extension (-10dB): 87Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: No

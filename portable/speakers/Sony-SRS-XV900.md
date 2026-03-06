@@ -23,8 +23,8 @@ The Sony SRS-XV900 ranks [#9 out of 10 total Large Party Size Portable Bluetooth
 - IP Rating: None
 - Microphone Input: Yes
 - Optical Input: Yes
+- Output Power: 100W
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

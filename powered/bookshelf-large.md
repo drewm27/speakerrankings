@@ -22,8 +22,8 @@ Last updated: March 05, 2026
 - Positives: Some of the deepest bass you will find anywhere from a reasonably sized bookshelf speaker. Performs like a big floorstander. Very smooth frequency response
 - Negatives: Vertical off-axis is just okay due to the distance between the midrange and tweeter
 - App: Yes (Ascend)
-- Bass Extension (-10dB): <20hz
-- Bass Extension (-3dB): 23hz
+- Bass Extension (-10dB): <20Hz
+- Bass Extension (-3dB): 23Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 19"H x 10.5"W x 15"D (482.6 x 266.7 x 381 mm)
@@ -32,9 +32,8 @@ Last updated: March 05, 2026
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 106dB @ 1m continuous
-- Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
+- Output Power: 1000W (250W tweeter + 250W mid + 500W dual woofers)
 - Streaming Services: Yes (network streaming)
-- Watts: 1000w Per Speaker
 - Weight: 57lbs / 26kg each
 - Wifi: Yes (Ethernet)
 - Reviews, Comparisons and Sound Samples
@@ -48,8 +47,8 @@ Last updated: March 05, 2026
 - Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass. Likely one of the best studio monitors for mastering recordings in existence.
 - Negatives: Very expensive
 - App: Yes (MA 1 alignment)
-- Bass Extension (-10dB): 24hz
-- Bass Extension (-3dB): 32hz
+- Bass Extension (-10dB): 24Hz
+- Bass Extension (-3dB): 32Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 25.4"H x 13"W x 17.5"D (645.2 x 330.2 x 444.5 mm)
@@ -58,7 +57,7 @@ Last updated: March 05, 2026
 - Frequency Response: 31Hz - 21kHz (±3dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 124dB @ 1m
-- Watts: 555w Per Speaker
+- Output Power: 555w Per Speaker
 - Weight: 77lbs / 35kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
@@ -70,8 +69,8 @@ Last updated: March 05, 2026
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.
 - Negatives: Very expensive
 - App: Yes (GLM)
-- Bass Extension (-10dB): 29hz
-- Bass Extension (-3dB): 34hz
+- Bass Extension (-10dB): 29Hz
+- Bass Extension (-3dB): 34Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 22.5"H x 14"W x 13.6"D (571.5 x 355.6 x 345.4 mm)
@@ -80,7 +79,7 @@ Last updated: March 05, 2026
 - Frequency Response: 30Hz - 43kHz (±2dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 118dB @ 1m
-- Watts: 1000w Per Speaker
+- Output Power: 1000w Per Speaker
 - Weight: 70.3lbs / 31.9kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Genelec 8361a is FANTASTIC for Your Home Studio or HiFi!](https://www.youtube.com/watch?v=2VjzJRXbafI)
@@ -92,8 +91,8 @@ Last updated: March 05, 2026
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.
 - Negatives: Very expensive
 - App: Yes (GLM)
-- Bass Extension (-10dB): 28hz
-- Bass Extension (-3dB): 33hz
+- Bass Extension (-10dB): 28Hz
+- Bass Extension (-3dB): 33Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 17"H x 11.3"W x 10.9"D (431.8 x 287 x 276.9 mm)
@@ -102,7 +101,7 @@ Last updated: March 05, 2026
 - Frequency Response: 32Hz - 40kHz (±1.5dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 113dB @ 1m
-- Watts: 550w Per Speaker
+- Output Power: 550w Per Speaker
 - Weight: 31lbs / 14.1kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
@@ -112,8 +111,8 @@ Last updated: March 05, 2026
 
 ## #5 [HEDD Type 20 MK2](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1610684-REG/hedd_type_20_mk2_l_b_studio_monitor_7.html?BI=23745&KBID=29189)] [[Used Listings](https://www.hifizero.com/index.php?q=HEDD+Type+20+MK2)]: $4800 a pair
 - App: Yes (HEDD CTRL)
-- Bass Extension (-10dB): 26hz
-- Bass Extension (-3dB): 32hz
+- Bass Extension (-10dB): 26Hz
+- Bass Extension (-3dB): 32Hz
 - Bluetooth: No
 - DSP: Yes (96kHz/32-bit)
 - Dimensions: 14.1"H x 11"W x 13.3"D (358.1 x 279.4 x 337.8 mm)
@@ -122,8 +121,8 @@ Last updated: March 05, 2026
 - Frequency Response: 32Hz - 40kHz (Manufacturer specified)
 - Inputs: XLR (Analog/AES)
 - Max SPL: 120dB @ 1m (per pair)
+- Output Power: 900W (3x300W)
 - Outputs: XLR (AES pass-through)
-- Power: 900W (3x300W)
 - Weight: 33.9lbs / 15.4kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/hedd-type-20-mk2-monitor-review.41455/)
@@ -142,7 +141,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 32Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 270w Per Speaker
+- Output Power: 270w Per Speaker
 - Weight: 31.7lbs / 14.4kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
@@ -161,7 +160,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 41Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 180w Per Speaker
+- Output Power: 180w Per Speaker
 - Weight: 20.7lbs / 9.4kg each
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
@@ -178,7 +177,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 100w Per Speaker
+- Output Power: 100w Per Speaker
 - Weight: 22.1lbs / 10.0kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  APS Klasik 2020 vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=Ag8qN6Xwm2c)
@@ -193,15 +192,15 @@ Last updated: March 05, 2026
 - Positives: Pretty smooth frequency response below 10khz. Pretty good off-axis response due to the coaxial driver.
 - Negatives: A 3dB dip around 10.3khz
 - App: No
-- Bass Extension (-10dB): 36hz
-- Bass Extension (-3dB): 44hz
+- Bass Extension (-10dB): 36Hz
+- Bass Extension (-3dB): 44Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 17.8"H x 10"W x 11.3"D (452.1 x 254 x 287 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: XLR, RCA
-- Watts: 140w Per Speaker
+- Output Power: 140w Per Speaker
 - Weight: 23lbs / 10.4kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
@@ -221,7 +220,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 40Hz – 22kHz (+-3dB) (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 85w Per Speaker
+- Output Power: 85w Per Speaker
 - Weight: 16.8lbs / 7.6kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 65 EVO vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=nkN8nbNUt9c)
@@ -239,15 +238,15 @@ Last updated: March 05, 2026
 - Positives: Comes with 18 master EQs for all types of placement. Insane bass extension, but not at high volumes where it limits the extension. Very small for the bass extension
 - Negatives: Bass limiting and compression. Slightly bright above 2khz
 - App: No
-- Bass Extension (-10dB): 21hz
-- Bass Extension (-3dB): 30hz
+- Bass Extension (-10dB): 21Hz
+- Bass Extension (-3dB): 30Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 14.6"H x 7"W x 9.6"D (370.8 x 177.8 x 243.8 mm)
 - Driver: 6.5" PURIFI Extended Stroke Driver with Ultra Low Distortion, Custom made with triple Voice Coil woofer, 19 mm / 0.74" Resonance Free Aluminum dome with CDC aluminum waveguide tweeter
 - EQ: Yes (Room adjustment)
 - Inputs: XLR
-- Watts: 200w Per Speaker
+- Output Power: 200w Per Speaker
 - Weight: 15lbs / 6.8kg each
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
@@ -266,7 +265,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 35Hz – 20kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 140w Per Speaker
+- Output Power: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
@@ -289,7 +288,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45Hz – 21kHz (+-3dB) (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 100w Per Speaker
+- Output Power: 100w Per Speaker
 - Weight: 19.8lbs / 9.0kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Tannoy Gold 8  vs  Kali Audio LP-8   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=tKT1WFR4ZGw)
@@ -312,7 +311,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 47Hz – 24kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 120w Per Speaker
+- Output Power: 120w Per Speaker
 - Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
@@ -343,7 +342,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 33Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 90w Per Speaker
+- Output Power: 90w Per Speaker
 - Weight: 21.6lbs / 9.8kg
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
@@ -364,7 +363,7 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 39Hz – 25kHz (-6dB) (Manufacturer specified)
 - Inputs: XLR, RCA
-- Watts: 70w Per Speaker
+- Output Power: 70w Per Speaker
 - Weight: 15.7lbs / 7.1kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Adam Audio T7V vs Yamaha HS7   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=64wfMYpACEQ)
@@ -392,7 +391,7 @@ Last updated: March 05, 2026
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: TRS, XLR
-- Watts: 100w Per Speaker
+- Output Power: 100w Per Speaker
 - Weight: 22.6lbs / 10.5kg
 - Reviews, Comparisons and Sound Samples
     - [Sercan Solmaz: Adam Audio T8V vs Yamaha HS8 vs KRK Rokit 8 (STUDIO SPEAKER SOUND TEST)](https://www.youtube.com/watch?v=kafDlEzEG-U)
@@ -432,7 +431,7 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 42Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
-- Watts: 75w RMS Per Speaker
+- Output Power: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
@@ -452,8 +451,8 @@ Last updated: March 05, 2026
 - EQ: Yes (Room adjustment)
 - Frequency Response: 38Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, XLR, RCA Input, Digital Optical, Digital Coax, USB
+- Output Power: 78w RMS Per Speaker
 - Outputs: None
-- Watts: 78w RMS Per Speaker
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
     - [DSAUDIO.review: Edifier S3000 Pro DSP Modes Demo   Sound & Frequency Respnse Comparison](https://www.youtube.com/watch?v=Dsh3A4B6Lbo)
@@ -469,7 +468,7 @@ Last updated: March 05, 2026
 - Dimensions: 14.5"H x 9.1"W x 14.0"D (368.3 x 231.1 x 355.6 mm)
 - Driver: 6.5" woofer, 1.5" Silk Dome Tweeters
 - EQ: No
-- Watts: 80w RMS Per Speaker
+- Output Power: 80w RMS Per Speaker
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
 - Links

@@ -19,8 +19,8 @@ The Klipsch The Three II ranks [#13 out of 14 total Medium Size Powered Desktop 
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
+- Output Power: 60W (Woofer: 30W, Full-range: 2x15W)
 - Party Mode: No
-- Power: 60W (Woofer: 30W, Full-range: 2x15W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 10.3lbs / 4.7kg

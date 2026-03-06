@@ -17,7 +17,7 @@ The KRK Classic 5 ranks [#18 out of 24 total Medium Size Powered Bookshelf Speak
 - EQ: Yes (Room adjustment)
 - Frequency Response: 56Hz-30KHz (+-3dB) (Manufacturer specified)
 - Inputs: RCA, TRS, XLR
-- Watts: 50w RMS Per Speaker
+- Output Power: 50w RMS Per Speaker
 - Weight: 13.0lbs / 5.87kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)

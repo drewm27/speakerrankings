@@ -11,7 +11,7 @@ The Marshall Acton II ranks [#11 out of 14 total Medium Size Powered Desktop Spe
 - Negatives: Boosted upper bass, not as deep bass as competitors. Boosted highs. Sounds mushy.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, aptX
 - Bluetooth Version: 5.0
@@ -21,8 +21,8 @@ The Marshall Acton II ranks [#11 out of 14 total Medium Size Powered Desktop Spe
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Aux
+- Output Power: 50W (Woofer: 25W, Tweeters: 2x12.5W)
 - Party Mode: No
-- Power: 50W (Woofer: 25W, Tweeters: 2x12.5W)
 - Power Bank: No
 - Stereo: Partially (1 woofer)
 - TWS: No

@@ -10,15 +10,15 @@ The Soundcore 3/Soundcore Select 2 ranks [#54 out of 131 total Medium Size Porta
 ## #54 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325)]: $50
 - Negatives: A little less bass than similar size speakers.
 - App: Yes
-- Bass Extension (-10dB): 60hz
+- Bass Extension (-10dB): 60Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 5.0
 - Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59 mm)
 - EQ: Yes
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 16W
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Power: 16W
 - Stereo: Yes
 - Weight: 0.82lbs / 372g
 - Reviews, Comparisons and Sound Samples

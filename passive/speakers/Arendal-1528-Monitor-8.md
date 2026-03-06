@@ -10,8 +10,8 @@ The Arendal 1528 Monitor 8 ranks [#15 out of 48 total Large Size Bookshelf Speak
 ## #15 [Arendal 1528 Monitor 8](https://arendalsound.com/product/1528-monitor-8/) [[Arendalsound](https://arendalsound.com/product/1528-monitor-8/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1528+Monitor+8)]: $6000 a pair
 - Positives: Fantastic bass extension for a bookshelf
 - Negatives: Very large and heavy. A 3dB midbass dip from 100-170hz, 3dB dip at 800hz
-- Bass Extension (-10dB): 26hz
-- Bass Extension (-3dB): 41hz
+- Bass Extension (-10dB): 26Hz
+- Bass Extension (-3dB): 41Hz
 - Dimensions: 31.8"H x 11.4"W x 17.6"D (807.7 x 289.6 x 447 mm)
 - Driver: Dual 8" woofers, 5" midrange, 28mm tweeter
 - Impedance: 4 ohms

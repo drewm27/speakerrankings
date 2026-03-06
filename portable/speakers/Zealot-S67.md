@@ -20,8 +20,8 @@ The Zealot S67 ranks [#72 out of 73 total Large Size Portable Bluetooth Speakers
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

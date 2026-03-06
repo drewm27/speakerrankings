@@ -19,8 +19,8 @@ The LG Xboom XG7 ranks [#65 out of 73 total Large Size Portable Bluetooth Speake
 - Driver: 1x racetrack woofer, 1x dome tweeter
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

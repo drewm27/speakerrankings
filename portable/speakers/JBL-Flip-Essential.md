@@ -16,8 +16,8 @@ The JBL Flip Essential ranks [#65 out of 131 total Medium Size Portable Bluetoot
 - Driver: 2x 40mm fullrange
 - EQ: No
 - Frequency Response: 80Hz - 20kHz (Manufacturer specified)
+- Output Power: 16W RMS
 - Party Mode: No
-- Power: 16W RMS
 - Weight: ‎1.04lbs / 471g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)

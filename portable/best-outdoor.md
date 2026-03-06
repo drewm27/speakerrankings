@@ -29,7 +29,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
@@ -37,13 +37,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -71,7 +71,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Still some boosted bass by default. Mids are recessed. Bright above 2khz. Quite a V shaped frequency response.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Version: 5.4
 - Digital Aux Input: Yes (USB-C)
@@ -80,9 +80,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (7 band)
 - Frequency Response: 56Hz - 20kHz (-6dB) (Manufacturer specified)
 - IP Rating: IP68
-- Max Volume: 102db
+- Max Volume: 102dB
+- Output Power: 45W
 - Party Mode: Yes (Auracast)
-- Power: 45W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -110,7 +110,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
@@ -121,8 +121,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 101db
-- Power: 30W
+- Max Volume: 101dB
+- Output Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -154,7 +154,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 20ms
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
@@ -165,9 +165,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 108db
+- Max Volume: 108dB
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -198,13 +198,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 36hz
+- Bass Extension (-10dB): 36Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 116db
+- Max Volume: 116dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -237,6 +237,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -244,7 +245,6 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
@@ -273,8 +273,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 1100W
 - Party Mode: Yes
-- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes
@@ -307,8 +307,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 800W
 - Party Mode: Yes (Auracast)
-- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -343,15 +343,16 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (up to 6 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -359,7 +360,6 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples

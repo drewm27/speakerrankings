@@ -11,7 +11,7 @@ The B&O Beosound 2 ranks [#12 out of 14 total Medium Size Powered Desktop Speake
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~45hz
+- Bass Extension (-10dB): ~45Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC, AAC, aptX
 - Bluetooth Version: 4.2
@@ -20,9 +20,9 @@ The B&O Beosound 2 ranks [#12 out of 14 total Medium Size Powered Desktop Speake
 - EQ: Yes (via app)
 - Frequency Response: 37Hz - 22kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, Optical, Chromecast
-- Max Volume: 94db
+- Max Volume: 94dB
+- Output Power: 200W
 - Party Mode: Yes
-- Power: 200W
 - Power Input: AC Power cord
 - Stereo: 360-degree
 - TWS: Yes

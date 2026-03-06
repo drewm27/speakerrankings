@@ -11,15 +11,15 @@ The Kali Audio IN-8 ranks [#9 out of 21 total Large Size Powered Bookshelf Speak
 - Positives: Pretty smooth frequency response below 10khz. Pretty good off-axis response due to the coaxial driver.
 - Negatives: A 3dB dip around 10.3khz
 - App: No
-- Bass Extension (-10dB): 36hz
-- Bass Extension (-3dB): 44hz
+- Bass Extension (-10dB): 36Hz
+- Bass Extension (-3dB): 44Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 17.8"H x 10"W x 11.3"D (452.1 x 254 x 287 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: XLR, RCA
-- Watts: 140w Per Speaker
+- Output Power: 140w Per Speaker
 - Weight: 23lbs / 10.4kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)

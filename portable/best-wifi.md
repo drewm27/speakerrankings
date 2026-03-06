@@ -25,7 +25,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Not stereo. Warm sound. Shouty upper mids. Boosted bass. Slightly rolled off treble. Overly expensive. No party mode on the wifi version
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 5.3
@@ -34,9 +34,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: Yes (3 band)
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -58,7 +58,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: No
 - Aux Input: Yes
 - Aux Latency: 295ms default, 33ms with aux pass-through
-- Bass Extension (-10dB): 31hz
+- Bass Extension (-10dB): 31Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Bluetooth Latency: 100ms
@@ -68,9 +68,9 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - EQ: No
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP57
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 200W
 - Party Mode: Yes (Up to 8 speakers on wifi)
-- Power: 200W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -93,13 +93,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Negatives: Bass boosted. Dip at 160hz
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 111db
+- Max Volume: 111dB
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cable

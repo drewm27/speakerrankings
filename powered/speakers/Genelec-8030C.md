@@ -11,8 +11,8 @@ The Genelec 8030C ranks [#2 out of 24 total Medium Size Powered Bookshelf Speake
 - Positives: One of the best speakers in this size class
 - Negatives: High price
 - App: No
-- Bass Extension (-10dB): 47hz
-- Bass Extension (-3dB): 59hz
+- Bass Extension (-10dB): 47Hz
+- Bass Extension (-3dB): 59Hz
 - Bluetooth: No
 - Dimensions: 11.7"H x 7.4"W x 7"D (297.2 x 188 x 177.8 mm)
 - Driver: 5.1" woofer, 0.75" metal dome tweeter
@@ -20,8 +20,7 @@ The Genelec 8030C ranks [#2 out of 24 total Medium Size Powered Bookshelf Speake
 - Frequency Response: 54Hz - 20kHz (±2.5dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 110dB @ 1m
-- Power: 100W (50W woofer + 50W tweeter)
-- Watts: 100w Per Speaker
+- Output Power: 100W (50W woofer + 50W tweeter)
 - Weight: 11lbs / 5kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8030c-studio-monitor-review.14795/)

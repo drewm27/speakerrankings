@@ -11,7 +11,7 @@ The JBL Go 3 ranks [#22 out of 41 total Small Size Portable Bluetooth Speakers](
 - Negatives: Not much bass at all, strange mids peak.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 87hz
+- Bass Extension (-10dB): 87Hz
 - Battery Life: 5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -21,13 +21,13 @@ The JBL Go 3 ranks [#22 out of 41 total Small Size Portable Bluetooth Speakers](
 - EQ: No
 - Frequency Response: 110Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
+- Output Power: 4.2W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 4.2W
 - Weight: 0.46lbs / 209g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)

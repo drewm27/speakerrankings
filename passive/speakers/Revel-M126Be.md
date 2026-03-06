@@ -9,8 +9,8 @@ The Revel M126Be ranks [#11 out of 48 total Large Size Bookshelf Speakers](/pass
 
 ## #11 [Revel M126Be](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black) [[Audioadvice](https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+M126Be)]: $4400
 - Negatives: Some diffraction issues at 3khz and 7khz where there's some dipped areas. Vertical off-axis is just okay
-- Bass Extension (-10dB): 44hz
-- Bass Extension (-3dB): 103hz
+- Bass Extension (-10dB): 44Hz
+- Bass Extension (-3dB): 103Hz
 - Dimensions: 15.2"H x 8.3"W x 10.3"D (386.1 x 210.8 x 261.6 mm)
 - Driver: 6.5" Deep Ceramic Composite (DCC) Aluminum Cone with cast frame woofer, 1" Beryllium dome with acoustic lens waveguide tweeter
 - Impedance: 6 ohms

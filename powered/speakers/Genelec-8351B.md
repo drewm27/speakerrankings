@@ -11,8 +11,8 @@ The Genelec 8351B ranks [#4 out of 21 total Large Size Powered Bookshelf Speaker
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.
 - Negatives: Very expensive
 - App: Yes (GLM)
-- Bass Extension (-10dB): 28hz
-- Bass Extension (-3dB): 33hz
+- Bass Extension (-10dB): 28Hz
+- Bass Extension (-3dB): 33Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 17"H x 11.3"W x 10.9"D (431.8 x 287 x 276.9 mm)
@@ -21,7 +21,7 @@ The Genelec 8351B ranks [#4 out of 21 total Large Size Powered Bookshelf Speaker
 - Frequency Response: 32Hz - 40kHz (±1.5dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 113dB @ 1m
-- Watts: 550w Per Speaker
+- Output Power: 550w Per Speaker
 - Weight: 31lbs / 14.1kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)

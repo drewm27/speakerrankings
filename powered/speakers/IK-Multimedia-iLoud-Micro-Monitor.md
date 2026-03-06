@@ -11,8 +11,8 @@ The IK Multimedia iLoud Micro Monitor ranks [#2 out of 8 total Small Size Powere
 - Positives: Much deeper bass than any other speaker this size.
 - Negatives: Slightly boosted bass. Some treble rolloff up high. More hifi sounding than neutral
 - App: No
-- Bass Extension (-10dB): 45hz
-- Bass Extension (-3dB): 55hz
+- Bass Extension (-10dB): 45Hz
+- Bass Extension (-3dB): 55Hz
 - Bluetooth: Yes (A2DP)
 - Dimensions: 7.1"H x 3.5"W x 5.3"D (180.3 x 88.9 x 134.6 mm)
 - Driver: 3" woofer, 0.75" silk dome tweeter
@@ -20,8 +20,7 @@ The IK Multimedia iLoud Micro Monitor ranks [#2 out of 8 total Small Size Powere
 - Frequency Response: 55Hz - 20kHz (-3dB) (Manufacturer specified)
 - Inputs: RCA, Aux
 - Max SPL: 96dB @ 1m
-- Power: 50W total (combined)
-- Watts: 25w RMS Per Speaker
+- Output Power: 50W total (combined)
 - Weight: 2.0lbs / 0.9kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vewagQNrZmU>

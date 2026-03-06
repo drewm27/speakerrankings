@@ -11,7 +11,7 @@ The Soundcore Trance/Rave Mega ranks [#69 out of 73 total Large Size Portable Bl
 - Negatives: Hugely recessed mids and treble
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -20,9 +20,9 @@ The Soundcore Trance/Rave Mega ranks [#69 out of 73 total Large Size Portable Bl
 - Driver: 1x 133mm woofer, 1x 51mm tweeter
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 97db
+- Max Volume: 97dB
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

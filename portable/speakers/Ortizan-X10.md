@@ -10,14 +10,14 @@ The Ortizan X10 ranks [#118 out of 131 total Medium Size Portable Bluetooth Spea
 ## #118 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
 - Negatives: Not much bass, very rolled off treble. Weird harsh midrange peak.
 - Aux Input: Yes
-- Bass Extension (-10dB): ~64hz
+- Bass Extension (-10dB): ~64Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 3" x 3" x 6.69" (76 x 76 x 170 mm)
 - Driver: 2x drivers + 2x passive radiators
 - IP Rating: IPX7
-- Power: 24W
+- Output Power: 24W
 - Power Input: Micro USB
 - Stereo: Yes
 - TWS: Yes

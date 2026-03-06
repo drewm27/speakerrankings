@@ -12,14 +12,14 @@ The Soundcore Boost “upgraded” 2021 ranks [#4 out of 131 total Medium Size P
 - Negatives: Slight DSP tuning issue which makes bass get lighter at times at very low volumes, examples in oluv's video.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
 - Built in Microphone: Yes
 - EQ: Yes (9 band)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

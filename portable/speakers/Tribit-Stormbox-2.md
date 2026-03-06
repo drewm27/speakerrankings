@@ -21,9 +21,9 @@ The Tribit Stormbox 2 ranks [#77 out of 131 total Medium Size Portable Bluetooth
 - EQ: Yes
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 34W RMS
 - Party Mode: Yes
-- Power: 34W RMS
 - Stereo: No (front/rear drivers)
 - TWS: Yes
 - Weight: 1.3lbs / 593g

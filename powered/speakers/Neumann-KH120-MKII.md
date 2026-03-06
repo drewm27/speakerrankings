@@ -11,8 +11,8 @@ The Neumann KH120 MKII ranks [#1 out of 24 total Medium Size Powered Bookshelf S
 - Positives: The top rated speaker in this category. Amazingly flat frequency response, fantastic off axis. Bass extension is quite good for this size.
 - Negatives: High price
 - App: Yes (MA 1 alignment)
-- Bass Extension (-10dB): 36hz
-- Bass Extension (-3dB): 46hz
+- Bass Extension (-10dB): 36Hz
+- Bass Extension (-3dB): 46Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 11.3"H x 7.2"W x 8.9"D (287 x 182.9 x 226.1 mm)
@@ -21,8 +21,7 @@ The Neumann KH120 MKII ranks [#1 out of 24 total Medium Size Powered Bookshelf S
 - Frequency Response: 44Hz - 21kHz (±3dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 116.8dB @ 1m
-- Power: 245W (145W woofer + 100W tweeter)
-- Watts: 200w Per Speaker
+- Output Power: 245W (145W woofer + 100W tweeter)
 - Weight: 11.9lbs / 6.6kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh120-ii-monitor-review.46362/)

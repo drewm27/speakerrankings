@@ -17,7 +17,7 @@ The IK Multimedia iLoud MTM ranks [#13 out of 24 total Medium Size Powered Books
 - EQ: Yes (Room adjustment)
 - Frequency Response: 50 Hz - 24 kHz (-3dB) (Manufacturer specified)
 - Inputs: XLR
-- Watts: 100w Per Speaker
+- Output Power: 100w Per Speaker
 - Weight: 5.5lbs / 2.5kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: IK Multimedia iLoud MTM  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=Fxj1hDRUkQY)

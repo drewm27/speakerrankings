@@ -19,9 +19,9 @@ The LG Xboom Go PL7 ranks [#66 out of 73 total Large Size Portable Bluetooth Spe
 - Driver: 2x 58mm fullrange
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 95db
+- Max Volume: 95dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

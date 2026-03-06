@@ -11,13 +11,13 @@ The Marshall Kilburn II ranks [#34 out of 73 total Large Size Portable Bluetooth
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~58hz
+- Bass Extension (-10dB): ~58Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX2
-- Max Volume: 102db
+- Max Volume: 102dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

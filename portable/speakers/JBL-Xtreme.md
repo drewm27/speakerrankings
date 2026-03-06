@@ -20,9 +20,9 @@ The JBL Xtreme ranks [#49 out of 73 total Large Size Portable Bluetooth Speakers
 - EQ: No
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 40W
 - Party Mode: Yes (Connect)
-- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

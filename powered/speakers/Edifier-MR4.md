@@ -17,8 +17,8 @@ The Edifier MR4 ranks [#21 out of 24 total Medium Size Powered Bookshelf Speaker
 - EQ: No
 - Frequency Response: 60 Hz-20 kHz (-3dB) (Manufacturer specified)
 - Inputs: TRS Balanced, RCA, Aux
+- Output Power: 42w RMS Per Speaker
 - Outputs: Headphone
-- Watts: 42w RMS Per Speaker
 - Weight: 9.9lbs / 4.5kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier MR4 vs Edifier R1280DBs  sound.DEMO](https://www.youtube.com/watch?v=C04EP1z7PPw)

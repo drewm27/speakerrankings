@@ -10,8 +10,8 @@ The KEF R3 Meta ranks [#6 out of 48 total Large Size Bookshelf Speakers](/passiv
 ## #6 [KEF R3 Meta](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-R3-Meta-Walnut-Pair/dp/B0BV787HXY?mcid=6c9e467014c83b6fb999c3db97fb2494&hvocijid=6720613418737289195-B0BV75YT8L-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=6720613418737289195&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435177658&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=14edfc7eacd8537e279781d1a89309c8&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+R3+Meta)]: $2500
 - Positives: Pretty smooth frequency response and the coaxial midrange/tweeter creates a near perfect off-axis response. One of the best coaxial speakers I've ever seen measured.
 - Negatives: Slight 2dB frequency bump from 500-900hz, 2dB dip at 1khz, 2dB bump around 1.5-2khz not bad overall. Some stored energy resonance in the waterfall plot around 900hz, 1.5khz and 2khz
-- Bass Extension (-10dB): 37hz
-- Bass Extension (-3dB): 76hz
+- Bass Extension (-10dB): 37Hz
+- Bass Extension (-3dB): 76Hz
 - Dimensions: 16.6"H x 7.9"W x 13.2"D (421.6 x 200.7 x 335.3 mm)
 - Driver: 6.5" Hybrid aluminum ported woofer, 5" aluminum cone midrange, 1" vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms

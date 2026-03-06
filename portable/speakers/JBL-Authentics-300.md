@@ -11,13 +11,13 @@ The JBL Authentics 300 ranks [#28 out of 67 total Boombox Size Portable Bluetoot
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: No
 - Party Mode: Yes (JBL One)
 - Power Bank: No

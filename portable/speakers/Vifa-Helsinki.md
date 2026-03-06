@@ -12,7 +12,7 @@ The Vifa Helsinki ranks [#1 out of 73 total Large Size Portable Bluetooth Speake
 - Negatives: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. There are mentions that the 2022 "new" version of this speaker doesn't sound as good as Vifa was purchased by a Chinese company and laid off all the great sound engineers in the Austria office.
 - App: No (official app is broken, 3rd party android app only)
 - Aux Input: Yes
-- Bass Extension (-10dB): 48hz
+- Bass Extension (-10dB): 48Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.1

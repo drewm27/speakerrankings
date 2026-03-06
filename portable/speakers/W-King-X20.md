@@ -11,12 +11,12 @@ The W-King X20 ranks [#26 out of 67 total Boombox Size Portable Bluetooth Speake
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes (W-King app)
 - Aux Input: Yes
-- Bass Extension (-10dB): ~42hz
+- Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
-- Max Volume: 112db
+- Max Volume: 112dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes

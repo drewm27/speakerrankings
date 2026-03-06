@@ -24,8 +24,8 @@ For information and specs about all the speakers, see the full rankings of all o
 - Positives: Pretty linear on axis, a very good value especially when you want Bluetooth included. Better than the MR4 all around.
 - Negatives: Small woofer doesn't have very deep bass like others in this size class.
 - App: No
-- Bass Extension (-10dB): 52hz
-- Bass Extension (-3dB): 60hz
+- Bass Extension (-10dB): 52Hz
+- Bass Extension (-3dB): 60Hz
 - Bluetooth: Yes
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -35,8 +35,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA
 - Max SPL: 93dB @ 1m
-- Power: 36W total (18W per speaker)
-- Watts: 18w RMS Per Speaker
+- Output Power: 36W total (18W per speaker)
 - Weight: 6.6lbs / 3kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
@@ -48,8 +47,8 @@ For information and specs about all the speakers, see the full rankings of all o
 - Positives: An insane value in this class. Slight 2dB bass boost. Pretty deep bass for this size class. Includes Bluetooth
 - Negatives: 3dB dip around 240hz
 - App: No
-- Bass Extension (-10dB): 39hz
-- Bass Extension (-3dB): 54hz
+- Bass Extension (-10dB): 39Hz
+- Bass Extension (-3dB): 54Hz
 - Bluetooth: No
 - Driver: 4.5" woofer, 1" Textile Dome tweeter
 - EQ: No
@@ -75,7 +74,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - EQ: No
 - Frequency Response: 42Hz-20KHz (-3dB) (Manufacturer specified)
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
-- Watts: 75w RMS Per Speaker
+- Output Power: 75w RMS Per Speaker
 - Weight: 50.7lbs / 23kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier R2850DB vs Yamaha HS8  sound.DEMO](https://www.youtube.com/watch?v=DQGGADSHXSM)
@@ -91,8 +90,8 @@ For information and specs about all the speakers, see the full rankings of all o
 - Positives: Exceptionally flat frequency response, fantastic off axis. Extremely deep bass. Likely one of the best studio monitors for mastering recordings in existence.
 - Negatives: Very expensive
 - App: Yes (MA 1 alignment)
-- Bass Extension (-10dB): 24hz
-- Bass Extension (-3dB): 32hz
+- Bass Extension (-10dB): 24Hz
+- Bass Extension (-3dB): 32Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 25.4"H x 13"W x 17.5"D (645.2 x 330.2 x 444.5 mm)
@@ -101,7 +100,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - Frequency Response: 31Hz - 21kHz (±3dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 124dB @ 1m
-- Watts: 555w Per Speaker
+- Output Power: 555w Per Speaker
 - Weight: 77lbs / 35kg each
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
@@ -113,15 +112,15 @@ For information and specs about all the speakers, see the full rankings of all o
 - Positives: Pretty smooth frequency response below 10khz. Pretty good off-axis response due to the coaxial driver.
 - Negatives: A 3dB dip around 10.3khz
 - App: No
-- Bass Extension (-10dB): 36hz
-- Bass Extension (-3dB): 44hz
+- Bass Extension (-10dB): 36Hz
+- Bass Extension (-3dB): 44Hz
 - Bluetooth: No
 - DSP: No
 - Dimensions: 17.8"H x 10"W x 11.3"D (452.1 x 254 x 287 mm)
 - Driver: 8" woofer
 - EQ: Yes (Room adjustment)
 - Inputs: XLR, RCA
-- Watts: 140w Per Speaker
+- Output Power: 140w Per Speaker
 - Weight: 23lbs / 10.4kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Kali IN-8 Second Wave  Masterful Music on a Budget](https://www.youtube.com/watch?v=DNpkizYXbVM)
@@ -141,7 +140,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - EQ: Yes (Room adjustment)
 - Frequency Response: 35Hz – 20kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 140w Per Speaker
+- Output Power: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)
@@ -163,7 +162,7 @@ For information and specs about all the speakers, see the full rankings of all o
 - EQ: Yes (Room adjustment)
 - Frequency Response: 49 Hz - 20 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS
-- Watts: 81w Per Speaker
+- Output Power: 81w Per Speaker
 - Weight: 10.4lbs / 4.7kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs JBL 305P MKII  sound.DEMO](https://www.youtube.com/watch?v=pJouTjwd9gk)

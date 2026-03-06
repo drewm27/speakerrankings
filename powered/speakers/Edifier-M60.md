@@ -10,8 +10,8 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
 ## #6 [Edifier M60](https://www.amazon.com/Edifier-Multimedia-Speaker-Bluetooth-Wireless/dp/B0D95R2PXM?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=81601858ae85d7feeb293cefde3c818c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Edifier-Multimedia-Speaker-Bluetooth-Wireless/dp/B0D95R2PXM?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=81601858ae85d7feeb293cefde3c818c&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Edifier+M60)]: $170
 - Negatives: Not quite as good as the MR3 above. 3dB dip at 1.1khz and 3khz. 3db hot treble from 3.5khz on up.
 - App: Yes
-- Bass Extension (-10dB): 57hz
-- Bass Extension (-3dB): 67hz
+- Bass Extension (-10dB): 57Hz
+- Bass Extension (-3dB): 67Hz
 - Bluetooth Codecs: SBC, LDAC
 - Bluetooth Version: 5.3
 - Dimensions: 6.6"H x 3.9"W x 5.8"D (167.6 x 99.1 x 147.3 mm)
@@ -20,8 +20,7 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
 - Frequency Response: 55Hz - 40kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, USB-C
 - Max SPL: 96dB @ 1m
-- Power: 66W total (33W per speaker)
-- Watts: 33w RMS Per Speaker
+- Output Power: 66W total (33W per speaker)
 - Weight: 6.8lbs / 3kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Edifier M60 Desktop Speaker Delivers Big Fun!](https://www.youtube.com/watch?v=27vZ-7l8ng8)

@@ -10,7 +10,7 @@ The JBL Charge Essential 2 ranks [#35 out of 131 total Medium Size Portable Blue
 ## #35 JBL Charge Essential 2: $130
 - Negatives: Not stereo. Slightly less bass than a Charge 5.
 - App: No
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 5.1
 - Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94 mm)
@@ -18,8 +18,8 @@ The JBL Charge Essential 2 ranks [#35 out of 131 total Medium Size Portable Blue
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No

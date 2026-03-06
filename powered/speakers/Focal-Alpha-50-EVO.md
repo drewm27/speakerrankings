@@ -16,7 +16,7 @@ The Focal Alpha 50 EVO ranks [#6 out of 24 total Medium Size Powered Bookshelf S
 - EQ: Yes (Room adjustment)
 - Frequency Response: 45 Hz - 22 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR, TRS, RCA
-- Watts: 60w Per Speaker
+- Output Power: 60w Per Speaker
 - Weight: 13.1lbs / 6.0kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Adam Audio T5V  sound.DEMO](https://www.youtube.com/watch?v=oKMhczUc0I8)

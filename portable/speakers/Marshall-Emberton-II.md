@@ -11,7 +11,7 @@ The Marshall Emberton II ranks [#95 out of 131 total Medium Size Portable Blueto
 - Negatives: Strange unnatural echo-like sound coloration, bass not as deep as competitors. Not technically a 360 speaker, only front and rear. Not very loud.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 80ms
@@ -21,9 +21,9 @@ The Marshall Emberton II ranks [#95 out of 131 total Medium Size Portable Blueto
 - Driver: 2x 2" full-range drivers + 2x passive radiators
 - EQ: Yes (3 presets via app)
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
+- Output Power: 20W
 - Party Mode: Yes (Marshall Stack)
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

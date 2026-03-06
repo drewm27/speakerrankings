@@ -11,8 +11,8 @@ The Neumann KH80 DSP ranks [#4 out of 24 total Medium Size Powered Bookshelf Spe
 - Positives: Near identical sound to the 8020D. 8020D is slightly cleaner, KH80 is slightly warmer.
 - Negatives: High price
 - App: Yes (MA 1 alignment)
-- Bass Extension (-10dB): 51hz
-- Bass Extension (-3dB): 57hz
+- Bass Extension (-10dB): 51Hz
+- Bass Extension (-3dB): 57Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 13.6"H x 10.8"W x 9.6"D (345.4 x 274.3 x 243.8 mm)
@@ -21,8 +21,7 @@ The Neumann KH80 DSP ranks [#4 out of 24 total Medium Size Powered Bookshelf Spe
 - Frequency Response: 57 Hz - 25 kHz (+-3 dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 110.7dB @ 1m
-- Power: 140W (90W woofer + 50W tweeter)
-- Watts: 140w Per Speaker
+- Output Power: 140W (90W woofer + 50W tweeter)
 - Weight: 9.1lbs / 4.1kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: Neumann KH80 DSP  vs  Genelec 8020D   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=m4YU1iw1pys)

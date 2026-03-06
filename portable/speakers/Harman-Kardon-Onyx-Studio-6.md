@@ -12,7 +12,7 @@ The Harman Kardon Onyx Studio 6 ranks [#11 out of 67 total Boombox Size Portable
 - Negatives: 8 hour battery at medium volume. Not at loud as others.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 37hz
+- Bass Extension (-10dB): 37Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
@@ -21,7 +21,7 @@ The Harman Kardon Onyx Studio 6 ranks [#11 out of 67 total Boombox Size Portable
 - Dimensions: 5.04" x 11.46" x 11.18" (128 x 291 x 284 mm)
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 96db
+- Max Volume: 96dB
 - Output Power: 50W RMS
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No

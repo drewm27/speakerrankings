@@ -12,7 +12,7 @@ The Soundcore Motion Boom ranks [#13 out of 73 total Large Size Portable Bluetoo
 - Negatives: Not as neutral or detailed as other top ranked speakers
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 170ms
@@ -23,9 +23,9 @@ The Soundcore Motion Boom ranks [#13 out of 73 total Large Size Portable Bluetoo
 - EQ: Yes
 - Frequency Response: 20Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

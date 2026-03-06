@@ -10,8 +10,8 @@ The Audiofirst Fidelia ranks [#1 out of 20 total Medium Size Bookshelf Speakers]
 ## #1 [Audiofirst Fidelia](https://audiofirstdesigns.co.uk/fidelia) [[Audiofirstdesigns](https://audiofirstdesigns.co.uk/fidelia)] [[Used Listings](https://www.hifizero.com/index.php?q=Audiofirst+Fidelia)]: £950 for the flatpack kit (assembly required)
 - Positives: The absolute top speaker in this size class
 - Negatives: Slight 2dB bump around 5-6khz. Only available in kit form.
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 53Hz
 - Dimensions: 11.8"H x 7.1"W x 11.7"D (299.7 x 180.3 x 297.2 mm)
 - Driver: 5" ceramic-aluminum cone woofer, 1" ceramic-aluminum tweeter
 - Impedance: 4 ohms

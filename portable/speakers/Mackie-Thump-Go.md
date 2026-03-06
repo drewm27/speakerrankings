@@ -11,21 +11,21 @@ The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Spe
 - Negatives: Not quite as good sounding as a Everse 8 or S1 Pro. Bluetooth pairing doesn't auto connect every time. Designed for more loudness than deeper bass. Battery latch breaks easily. Handle on top also can break off. Not very deep bass
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Dimensions: 17.99" x 9.06" x 11.22" (457 x 230 x 285 mm)
 - Driver: 8" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: None
-- Max Volume: 115db
+- Max Volume: 115dB
 - Microphone Input: Yes
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: No
 - Stereo: No
 - TWS: No
 - USB Playback: No
-- Wattage: 200W
 - Weight: 17.6lbs / 8kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples

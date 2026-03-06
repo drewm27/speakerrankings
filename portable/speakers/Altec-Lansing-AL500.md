@@ -11,7 +11,7 @@ The Altec Lansing AL500 ranks [#42 out of 43 total Party Size Portable Bluetooth
 - Negatives: Not very deep bass
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Bluetooth Codecs: SBC
 - EQ: No
 - FM Tuner: Yes

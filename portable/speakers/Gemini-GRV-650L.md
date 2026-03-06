@@ -12,14 +12,14 @@ The Gemini GRV-650L ranks [#33 out of 67 total Boombox Size Portable Bluetooth S
 - Negatives: Not quite as deep bass as the top ranked speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~47hz
+- Bass Extension (-10dB): ~47Hz
 - Battery Life: 9 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.91" x 10.24" x 14.41" (277 x 260 x 366 mm)
 - EQ: No
 - FM Tuner: Yes
-- Max Volume: 104db
+- Max Volume: 104dB
 - MicroSD: Yes
 - Output Power: 320W
 - Party Mode: No

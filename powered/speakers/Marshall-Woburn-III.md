@@ -11,7 +11,7 @@ The Marshall Woburn III ranks [#5 out of 14 total Medium Size Powered Desktop Sp
 - Negatives: Hollow sounding, peaky upper mids. Not as deep bass as others in the class.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~45hz
+- Bass Extension (-10dB): ~45Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -22,8 +22,8 @@ The Marshall Woburn III ranks [#5 out of 14 total Medium Size Powered Desktop Sp
 - IP Rating: None
 - Inputs: Bluetooth, HDMI, RCA, Aux
 - Max Volume: 100.5dB @ 1m
+- Output Power: 150W (Woofer: 90W, Midrange: 2x15W, Tweeters: 2x15W)
 - Party Mode: No
-- Power: 150W (Woofer: 90W, Midrange: 2x15W, Tweeters: 2x15W)
 - Power Input: AC Power cord
 - Stereo: Yes
 - TWS: No

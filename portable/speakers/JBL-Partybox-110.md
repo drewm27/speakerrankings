@@ -12,7 +12,7 @@ The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Spe
 - Negatives: Bass isn't as deep as the Partybox 100. Just as loud and slightly deeper than a Stormbox Blast which is way smaller with better sound. Increase treble one step in the app to make it more neutral. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 41hz
+- Bass Extension (-10dB): 41Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -22,13 +22,13 @@ The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Spe
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 160W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 160W
 - Weight: 24lbs / 10.8kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=nG9qhFh7Psw>

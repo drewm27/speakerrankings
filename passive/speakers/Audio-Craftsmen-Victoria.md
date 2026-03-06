@@ -9,8 +9,8 @@ The Audio Craftsmen Victoria ranks [#39 out of 48 total Large Size Bookshelf Spe
 
 ## #39 [Audio Craftsmen Victoria](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria) [[Pahmeraudio](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria)] [[Used Listings](https://www.hifizero.com/index.php?q=Audio+Craftsmen+Victoria)]: $4000
 - Negatives: 4dB dip from 200hz to 400hz, recessed midrange. Not recommended for the price
-- Bass Extension (-10dB): 45hz
-- Bass Extension (-3dB): 65hz
+- Bass Extension (-10dB): 45Hz
+- Bass Extension (-3dB): 65Hz
 - Impedance: 8 ohms
 - Sensitivity: 84dB
 - Reviews, Comparisons and Sound Samples

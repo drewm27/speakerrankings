@@ -15,8 +15,8 @@ The Edifier S1000MKII ranks [#16 out of 24 total Medium Size Powered Bookshelf S
 - Driver: 5.5" woofer
 - EQ: No
 - Inputs: Bluetooth, 2x RCA Input, Digital Optical, Digital Coax
+- Output Power: 60w RMS Per Speaker
 - Outputs: None
-- Watts: 60w RMS Per Speaker
 - Weight: 37.0lbs / 16.8kg
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review  Edifier S1000MKII vs Edifier S2000MKIII  sound.DEMO](https://www.youtube.com/watch?v=tji_9d3gkZ4)

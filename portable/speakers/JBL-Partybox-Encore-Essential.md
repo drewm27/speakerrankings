@@ -13,7 +13,7 @@ The JBL Partybox Encore Essential ranks [#7 out of 67 total Boombox Size Portabl
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Aux Latency: 17ms
-- Bass Extension (-10dB): 38hz
+- Bass Extension (-10dB): 38Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
@@ -22,7 +22,7 @@ The JBL Partybox Encore Essential ranks [#7 out of 67 total Boombox Size Portabl
 - Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 100W RMS
 - Party Mode: No
 - Power Bank: Yes

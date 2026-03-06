@@ -9,8 +9,8 @@ The Dynaudio Contour 20i ranks [#18 out of 48 total Large Size Bookshelf Speaker
 
 ## #18 [Dynaudio Contour 20i](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Contour+20i)]: $5750 a pair
 - Negatives: A bit of a hot lower treble which can be pronounced in reflective rooms. Lower treble lift from 3khz to 8khz. 3.5db peak at 7.2khz. Directivity issue around the crossover point. Toe them out about 10 degrees to tone hot lower treble. Resonance around 800hz
-- Bass Extension (-10dB): 32hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 32Hz
+- Bass Extension (-3dB): 56Hz
 - Dimensions: 17.4"H x 8.5"W x 14.2"D (442 x 215.9 x 360.7 mm)
 - Driver: 18 cm MSP woofer, 28mm Esotar 2i with Hexis tweeter
 - Impedance: 4 ohms

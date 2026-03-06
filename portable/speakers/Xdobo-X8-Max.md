@@ -11,7 +11,7 @@ The Xdobo X8 Max ranks [#53 out of 73 total Large Size Portable Bluetooth Speake
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~52hz
+- Bass Extension (-10dB): ~52Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -22,8 +22,8 @@ The Xdobo X8 Max ranks [#53 out of 73 total Large Size Portable Bluetooth Speake
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 100W
 - Party Mode: No
-- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

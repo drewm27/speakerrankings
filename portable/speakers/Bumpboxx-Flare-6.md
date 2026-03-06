@@ -16,7 +16,7 @@ The Bumpboxx Flare 6 ranks [#52 out of 67 total Boombox Size Portable Bluetooth 
 - Built in Microphone: No
 - EQ: No
 - FM Tuner: Yes
-- Max Volume: 115db
+- Max Volume: 115dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

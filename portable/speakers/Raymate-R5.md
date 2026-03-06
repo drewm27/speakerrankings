@@ -16,8 +16,8 @@ The Raymate R5 ranks [#92 out of 131 total Medium Size Portable Bluetooth Speake
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

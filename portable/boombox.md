@@ -24,7 +24,7 @@ Last updated: March 05, 2026
 - App: Yes (Earfun Audio app)
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): ~38hz
+- Bass Extension (-10dB): ~38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
@@ -34,7 +34,7 @@ Last updated: March 05, 2026
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -94,7 +94,7 @@ Last updated: March 05, 2026
 - App: Yes (Tribit App)
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
@@ -104,7 +104,7 @@ Last updated: March 05, 2026
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
-- Max Volume: 108db
+- Max Volume: 108dB
 - MicroSD: No
 - Microphone Input: No
 - Output Power: 90W RMS (140W peak)
@@ -162,7 +162,7 @@ Last updated: March 05, 2026
 - App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 112ms
-- Bass Extension (-10dB): 35hz
+- Bass Extension (-10dB): 35Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
@@ -171,7 +171,7 @@ Last updated: March 05, 2026
 - Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 103db
+- Max Volume: 103dB
 - Output Power: 160W RMS
 - Party Mode: No
 - Power Bank: Yes
@@ -205,7 +205,7 @@ Last updated: March 05, 2026
 - Dimensions: 12.58" x 13.33" x 10.35" (319.5 x 338.6 x 263 mm)
 - EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
@@ -241,7 +241,7 @@ Last updated: March 05, 2026
 - EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Microphone Input: Yes
 - Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
@@ -264,7 +264,7 @@ Last updated: March 05, 2026
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Aux Latency: 17ms
-- Bass Extension (-10dB): 38hz
+- Bass Extension (-10dB): 38Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
@@ -273,7 +273,7 @@ Last updated: March 05, 2026
 - Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 100W RMS
 - Party Mode: No
 - Power Bank: Yes
@@ -305,7 +305,7 @@ Last updated: March 05, 2026
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
 - Aux Latency: 17ms
-- Bass Extension (-10dB): 38hz
+- Bass Extension (-10dB): 38Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
@@ -314,7 +314,7 @@ Last updated: March 05, 2026
 - Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 100W RMS
 - Party Mode: No
 - Power Bank: Yes
@@ -336,7 +336,7 @@ Last updated: March 05, 2026
 - Negatives: Features are lacking, generally not recommended anymore, not sold new anymore. No water rating.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -365,7 +365,7 @@ Last updated: March 05, 2026
 - Negatives: 350hz and 2-3khz peak. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price. No water rating.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 46hz
+- Bass Extension (-10dB): 46Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD
 - Bluetooth Version: 4.1
@@ -396,7 +396,7 @@ Last updated: March 05, 2026
 - App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 42ms
-- Bass Extension (-10dB): 35hz
+- Bass Extension (-10dB): 35Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 175ms
@@ -405,7 +405,7 @@ Last updated: March 05, 2026
 - Dimensions: 10.55" x 11.91" x 6.28" (268 x 302.5 x 159.5 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 96db
+- Max Volume: 96dB
 - Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No
@@ -428,7 +428,7 @@ Last updated: March 05, 2026
 - Negatives: 8 hour battery at medium volume. Not at loud as others.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 37hz
+- Bass Extension (-10dB): 37Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
@@ -437,7 +437,7 @@ Last updated: March 05, 2026
 - Dimensions: 5.04" x 11.46" x 11.18" (128 x 291 x 284 mm)
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 96db
+- Max Volume: 96dB
 - Output Power: 50W RMS
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No
@@ -463,14 +463,14 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 37hz
+- Bass Extension (-10dB): 37Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 266ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: None
-- Max Volume: 96db
+- Max Volume: 96dB
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No
 - Power Input: AC Power brick
@@ -493,13 +493,13 @@ Last updated: March 05, 2026
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 36hz
+- Bass Extension (-10dB): 36Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 116db
+- Max Volume: 116dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -522,7 +522,7 @@ Last updated: March 05, 2026
 - Negatives: On the heavy side. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 36hz
+- Bass Extension (-10dB): 36Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -551,7 +551,7 @@ Last updated: March 05, 2026
 - Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 41hz
+- Bass Extension (-10dB): 41Hz
 - Battery Life: 28 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
@@ -559,7 +559,7 @@ Last updated: March 05, 2026
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP68
-- Max Volume: 115db
+- Max Volume: 115dB
 - MicroSD: No
 - Microphone Input: No
 - Party Mode: Yes (Auracast)
@@ -592,14 +592,14 @@ Last updated: March 05, 2026
 - Negatives: Not as loud as others. No water rating.
 - App: No
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 40hz
+- Bass Extension (-10dB): 40Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: None
-- Max Volume: 99db
+- Max Volume: 99dB
 - Party Mode: Yes (up to 2 speakers)
 - Power Bank: No
 - Power Input: AC Power brick
@@ -647,13 +647,13 @@ Last updated: March 05, 2026
 - Negatives: Bass boosted. Dip at 160hz
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 111db
+- Max Volume: 111dB
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cable
@@ -677,7 +677,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 25ms
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
@@ -685,7 +685,7 @@ Last updated: March 05, 2026
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)
@@ -725,14 +725,14 @@ Last updated: March 05, 2026
 - Setup: Try the EQ from [Alan Ross at this timestamp of his video](https://youtu.be/Demef0n4E8A?si=KOKmfaoG1M1-_Abi&t=670)
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 40hz
+- Bass Extension (-10dB): 40Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: Yes (2x 6.35mm)
 - Party Mode: No
@@ -761,7 +761,7 @@ Last updated: March 05, 2026
 ## #21 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
 - Negatives: overpriced for what it is. Not the greatest frequency response.
 - App: Yes (LG Xboom app)
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: No
@@ -788,7 +788,7 @@ Last updated: March 05, 2026
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -817,7 +817,7 @@ Last updated: March 05, 2026
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -845,13 +845,13 @@ Last updated: March 05, 2026
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 39hz
+- Bass Extension (-10dB): 39Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
 - EQ: Yes (Pro EQ + presets)
 - IP Rating: IPX7
-- Max Volume: 111db
+- Max Volume: 111dB
 - MicroSD: No
 - Party Mode: Yes (Partycast 2.0)
 - Power Bank: Yes
@@ -879,12 +879,12 @@ Last updated: March 05, 2026
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes (W-King app)
 - Aux Input: Yes
-- Bass Extension (-10dB): ~42hz
+- Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
-- Max Volume: 112db
+- Max Volume: 112dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -911,12 +911,12 @@ Last updated: March 05, 2026
 - Negatives: Rising frequency response but upper treble rolled off, 700hz and 1.2khz peaks
 - App: Yes (W-King app)
 - Aux Input: Yes
-- Bass Extension (-10dB): ~42hz
+- Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
-- Max Volume: 112db
+- Max Volume: 112dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -948,7 +948,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 33ms
-- Bass Extension (-10dB): 46hz
+- Bass Extension (-10dB): 46Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 140ms
@@ -956,7 +956,7 @@ Last updated: March 05, 2026
 - EQ: No
 - FM Tuner: No
 - IP Rating: IPX7
-- Max Volume: 108db
+- Max Volume: 108dB
 - MicroSD: No
 - Microphone Input: No
 - Party Mode: Yes (PartyBoost up to 100 speakers)
@@ -983,13 +983,13 @@ Last updated: March 05, 2026
 - Negatives: Narrow sounding, bass not as deep as others. Peaky upper mids. No TWS. No IP rating. Not as loud as others. Not much battery life.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: No
 - Party Mode: Yes (JBL One)
 - Power Bank: No
@@ -1013,12 +1013,12 @@ Last updated: March 05, 2026
 - Negatives: Warm sound. Rolled off treble. Bass not as deep as the Onyx Studio 7
 - App: Yes (Bang & Olufsen app)
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: Yes (App EQ)
-- Max Volume: 93db
+- Max Volume: 93dB
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1066,13 +1066,13 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): 39hz
+- Bass Extension (-10dB): 39Hz
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 111db
+- Max Volume: 111dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -1094,14 +1094,14 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Built in Microphone: No
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 112db
+- Max Volume: 112dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -1122,14 +1122,14 @@ Last updated: March 05, 2026
 - Negatives: Not quite as deep bass as the top ranked speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~47hz
+- Bass Extension (-10dB): ~47Hz
 - Battery Life: 9 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.91" x 10.24" x 14.41" (277 x 260 x 366 mm)
 - EQ: No
 - FM Tuner: Yes
-- Max Volume: 104db
+- Max Volume: 104dB
 - MicroSD: Yes
 - Output Power: 320W
 - Party Mode: No
@@ -1151,7 +1151,7 @@ Last updated: March 05, 2026
 - Positives: Pretty neutral sound. Removable battery
 - Negatives: Not as deep bass as others in the category. Bass port can make noise. No water rating.
 - App: No
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -1174,12 +1174,12 @@ Last updated: March 05, 2026
 ## #35 [Skullcandy Barrel](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Skullcandy-Barrel-Bluetooth-Boombox-Speaker/dp/B0CCQP5C3V/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fa6899eceadc238f2c70abc87eb8f06c&camp=1789&creative=9325)]: $150
 - Negatives: Not as deep bass as the top ranked speakers. Not as loud as the top ranked speakers. Rolled off treble.
 - App: Yes (Skullcandy app)
-- Bass Extension (-10dB): ~50hz
+- Bass Extension (-10dB): ~50Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (App EQ)
 - FM Tuner: No
-- Max Volume: 104db
+- Max Volume: 104dB
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
@@ -1205,7 +1205,7 @@ Last updated: March 05, 2026
 - Negatives: Still not as deep bass as the top ranked speakers. 8khz peak
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~52hz
+- Bass Extension (-10dB): ~52Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.2
@@ -1314,14 +1314,14 @@ Last updated: March 05, 2026
 - Negatives: Poor water rating. Horrible battery life. Probably the worst sounding of the Partybox line. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes (JBL PartyBox app)
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No
 - EQ: No
 - IP Rating: IPX4
-- Max Volume: 94db
+- Max Volume: 94dB
 - Output Power: 100W
 - Party Mode: No
 - Power Bank: Yes
@@ -1342,7 +1342,7 @@ Last updated: March 05, 2026
 - Negatives: Thuddy upper bass, not as deep bass as others. Speaker will not remain at max volume and will turn itself down automatically.
 - App: Yes (Music Center, Fiestable)
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.0
@@ -1400,7 +1400,7 @@ Last updated: March 05, 2026
 - App: Yes (Soundcore app)
 - Aux Input: Yes
 - Aux Latency: 17ms
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
@@ -1409,7 +1409,7 @@ Last updated: March 05, 2026
 - Dimensions: 15.12" x 5.12" x 7.72" (384 x 130 x 196 mm)
 - EQ: Yes (App EQ)
 - IP Rating: IP67
-- Max Volume: 108db
+- Max Volume: 108dB
 - Output Power: 80W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: Yes
@@ -1485,7 +1485,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
@@ -1493,7 +1493,7 @@ Last updated: March 05, 2026
 - EQ: Yes (multiple modes)
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: Yes
 - Party Mode: No
@@ -1539,7 +1539,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
@@ -1547,7 +1547,7 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
-- Max Volume: 115db
+- Max Volume: 115dB
 - MicroSD: Yes
 - Microphone Input: Yes
 - Output Power: 120W RMS
@@ -1571,7 +1571,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 50ms
-- Bass Extension (-10dB): 60hz
+- Bass Extension (-10dB): 60Hz
 - Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
@@ -1579,7 +1579,7 @@ Last updated: March 05, 2026
 - EQ: Yes (bass boost + DSP)
 - FM Tuner: No
 - IP Rating: IPX6
-- Max Volume: 106db
+- Max Volume: 106dB
 - MicroSD: Yes
 - Microphone Input: Yes
 - Party Mode: No
@@ -1600,7 +1600,7 @@ Last updated: March 05, 2026
 - Negatives: They pretty much lie about all their specs and sound just okay in all youtube sound samples. Only 100w will never hit 126db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass for a 10" woofer. Overpriced and not worth it.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -1634,7 +1634,7 @@ Last updated: March 05, 2026
 - Dimensions: 27.99" x 7.99" x 15.98" (711 x 203 x 406 mm)
 - EQ: Yes
 - FM Tuner: Yes
-- Max Volume: 118db
+- Max Volume: 118dB
 - MicroSD: Yes
 - Output Power: 200W
 - Party Mode: No
@@ -1660,7 +1660,7 @@ Last updated: March 05, 2026
 - Built in Microphone: No
 - EQ: No
 - FM Tuner: Yes
-- Max Volume: 115db
+- Max Volume: 115dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1704,7 +1704,7 @@ Last updated: March 05, 2026
 - Negatives: Bass not as deep as competitors
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~56hz
+- Bass Extension (-10dB): ~56Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -1731,7 +1731,7 @@ Last updated: March 05, 2026
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~62hz
+- Bass Extension (-10dB): ~62Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
@@ -1755,7 +1755,7 @@ Last updated: March 05, 2026
 - Negatives: Not much lower bass, upper bass boomy, boosted treble, not very balanced overall. Not as loud as others in the class. Very low water rating
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 42hz
+- Bass Extension (-10dB): 42Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -1778,7 +1778,7 @@ Last updated: March 05, 2026
 - Negatives: Rolled off treble, not much bass.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1786,7 +1786,7 @@ Last updated: March 05, 2026
 - Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
-- Max Volume: 108db
+- Max Volume: 108dB
 - MicroSD: Yes
 - Output Power: 70W RMS (120W peak)
 - Party Mode: No
@@ -1806,7 +1806,7 @@ Last updated: March 05, 2026
 - Negatives: Heavily rolled off treble, less bass than the top ranked.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 42 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1815,7 +1815,7 @@ Last updated: March 05, 2026
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - FM Tuner: No
 - IP Rating: IPX6
-- Max Volume: 106db
+- Max Volume: 106dB
 - MicroSD: Yes
 - Output Power: 70W RMS (120W peak)
 - Party Mode: No
@@ -1908,14 +1908,14 @@ Last updated: March 05, 2026
 - Negatives: Bass is not as deep as competitors. Very heavy. Poor water rating.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
-- Max Volume: 100db
+- Max Volume: 100dB
 - Microphone Input: No
 - Party Mode: No
 - Power Bank: Yes
@@ -1933,7 +1933,7 @@ Last updated: March 05, 2026
 - Negatives: Bass not as deep as competitors, less neutral than ION speakers. Very heavy
 - App: Yes (Monster Zone Control app)
 - Aux Input: Yes
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1942,7 +1942,7 @@ Last updated: March 05, 2026
 - EQ: Yes
 - FM Tuner: Yes
 - IP Rating: IPX4
-- Max Volume: 96db
+- Max Volume: 96dB
 - Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes
@@ -1962,7 +1962,7 @@ Last updated: March 05, 2026
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~65hz
+- Bass Extension (-10dB): ~65Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0

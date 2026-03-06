@@ -9,7 +9,7 @@ The B&O Beosound Explore ranks [#104 out of 131 total Medium Size Portable Bluet
 
 ## #104 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
 - Negatives: Huge lack of bass extension compared to competitors, overly hot ringing treble. Colored midrange. Just not great sounding overall.
-- Bass Extension (-10dB): ~70hz
+- Bass Extension (-10dB): ~70Hz
 - Battery Life: 27 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -17,8 +17,8 @@ The B&O Beosound Explore ranks [#104 out of 131 total Medium Size Portable Bluet
 - Dimensions: 3.19" x 4.88" x 3.19" (81 x 124 x 81 mm)
 - Driver: 2x 1.8-inch full-range drivers
 - IP Rating: IP67
-- Max Volume: 91db
-- Power: 60W
+- Max Volume: 91dB
+- Output Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

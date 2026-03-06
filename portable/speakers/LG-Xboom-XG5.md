@@ -17,8 +17,8 @@ The LG Xboom XG5 ranks [#109 out of 131 total Medium Size Portable Bluetooth Spe
 - Dimensions: 8.7" x 3.3" x 3.2" (222 x 83 x 80 mm)
 - Driver: 1x 42x80mm track-type woofer + 1x passive radiator
 - IP Rating: IP67
+- Output Power: 20W
 - Party Mode: Yes (Wireless Party Link, up to 10 speakers)
-- Power: 20W
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.5lbs / 680g

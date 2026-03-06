@@ -61,7 +61,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Dimensions: 12.58" x 13.33" x 10.35" (319.5 x 338.6 x 263 mm)
 - EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes

@@ -12,7 +12,7 @@ The Sonos Move ranks [#25 out of 73 total Large Size Portable Bluetooth Speakers
 - Negatives: Not stereo. Not as deep bass as others in the category, less bass extension than an Xtreme 2. Pumping and compression artifacts at higher volume. Not very loud.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 11 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -21,7 +21,7 @@ The Sonos Move ranks [#25 out of 73 total Large Size Portable Bluetooth Speakers
 - Driver: mid-woofer, downward-firing tweeter
 - EQ: No
 - IP Rating: IP56
-- Max Volume: 92db
+- Max Volume: 92dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C (requires USB-C PD 12v minimum)

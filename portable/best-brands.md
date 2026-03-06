@@ -35,7 +35,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - App: Yes (Earfun Audio app)
 - Aux Input: Yes
 - Aux Latency: 16ms
-- Bass Extension (-10dB): ~38hz
+- Bass Extension (-10dB): ~38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
@@ -45,7 +45,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - Output Power: 80W
 - Party Mode: Yes (Up to 50 speakers)
 - Power Bank: Yes
@@ -106,7 +106,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - App: Yes (firmware >= 1.2.6)
 - Aux Input: Yes
 - Aux Latency: 216ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 400ms normal / 66ms low latency mode
@@ -116,9 +116,9 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Driver: 2x 55mm drivers + 2x passive radiators
 - EQ: Yes (10 band, firmware >= 1.2.6)
 - IP Rating: IP67
-- Max Volume: 103db
+- Max Volume: 103dB
+- Output Power: 28W
 - Party Mode: No
-- Power: 28W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -147,7 +147,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
@@ -158,10 +158,10 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - EQ: Yes
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 105db
+- Max Volume: 105dB
 - MicroSD: No
+- Output Power: 80W
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)
@@ -190,7 +190,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: LDAC, SBC
 - Bluetooth Latency: 216ms ldac, 200ms aac, 116ms sbc
@@ -201,8 +201,8 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 101db
-- Power: 30W
+- Max Volume: 101dB
+- Output Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -231,7 +231,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Latency: 130ms
@@ -241,9 +241,9 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -272,7 +272,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - App: Yes (Tribit App)
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 43hz
+- Bass Extension (-10dB): 43Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
@@ -282,7 +282,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
-- Max Volume: 108db
+- Max Volume: 108dB
 - MicroSD: No
 - Microphone Input: No
 - Output Power: 90W RMS (140W peak)
@@ -340,7 +340,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 20ms
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
@@ -351,9 +351,9 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 108db
+- Max Volume: 108dB
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -382,7 +382,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
@@ -390,13 +390,13 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -428,7 +428,7 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
 - App: Yes (Harman Kardon One app)
 - Aux Input: Yes
 - Aux Latency: 112ms
-- Bass Extension (-10dB): 35hz
+- Bass Extension (-10dB): 35Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Bluetooth Latency: 120ms
@@ -437,7 +437,7 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
 - Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
 - EQ: Yes (App EQ)
 - IP Rating: None
-- Max Volume: 103db
+- Max Volume: 103dB
 - Output Power: 160W RMS
 - Party Mode: No
 - Power Bank: Yes
@@ -469,7 +469,7 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 56hz
+- Bass Extension (-10dB): 56Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
@@ -479,8 +479,8 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
-- Max Volume: 106db
-- Power: 50W
+- Max Volume: 106dB
+- Output Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -510,6 +510,7 @@ JBL makes by far the best party size speakers, although their smaller ones are o
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -517,7 +518,6 @@ JBL makes by far the best party size speakers, although their smaller ones are o
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
@@ -544,6 +544,7 @@ JBL makes by far the best party size speakers, although their smaller ones are o
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 160W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -551,7 +552,6 @@ JBL makes by far the best party size speakers, although their smaller ones are o
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 160W
 - Weight: 24lbs / 10.8kg
 - Reviews, Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)

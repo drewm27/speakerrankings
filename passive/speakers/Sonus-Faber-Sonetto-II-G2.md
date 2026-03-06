@@ -9,8 +9,8 @@ The Sonus Faber Sonetto II G2 ranks [#40 out of 48 total Large Size Bookshelf Sp
 
 ## #40 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5) [[Crutchfield](https://sovrn.co/kesxoj5)] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
 - Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz. Not recommended for the price
-- Bass Extension (-10dB): 38hz
-- Bass Extension (-3dB): 62hz
+- Bass Extension (-10dB): 38Hz
+- Bass Extension (-3dB): 62Hz
 - Impedance: 4 ohms
 - Sensitivity: 87dB
 - Reviews, Comparisons and Sound Samples

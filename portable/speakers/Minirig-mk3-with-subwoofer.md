@@ -13,7 +13,7 @@ The Minirig mk3 with subwoofer ranks [#5 out of 73 total Large Size Portable Blu
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 1ms
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 60ms
@@ -24,9 +24,9 @@ The Minirig mk3 with subwoofer ranks [#5 out of 73 total Large Size Portable Blu
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
-- Max Volume: 103db
+- Max Volume: 103dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No

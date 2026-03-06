@@ -11,7 +11,7 @@ The Turtlebox/Turtlebox G2 ranks [#64 out of 67 total Boombox Size Portable Blue
 - Negatives: They pretty much lie about all their specs and sound horrible in all youtube sound samples. Only 50w (from their indigogo page), will never hit 120db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass. Rattles at high volume. Uses external AC power brick to charge. Looking at it, it appears to be a generic car 2-way 6x9 speaker in a plastic box.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~65hz
+- Bass Extension (-10dB): ~65Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0

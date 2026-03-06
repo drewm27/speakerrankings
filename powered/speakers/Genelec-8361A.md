@@ -11,8 +11,8 @@ The Genelec 8361A ranks [#3 out of 21 total Large Size Powered Bookshelf Speaker
 - Positives: Exceptionally flat frequency response, fantastic off axis due to the coaxial drivers. Extremely deep bass.
 - Negatives: Very expensive
 - App: Yes (GLM)
-- Bass Extension (-10dB): 29hz
-- Bass Extension (-3dB): 34hz
+- Bass Extension (-10dB): 29Hz
+- Bass Extension (-3dB): 34Hz
 - Bluetooth: No
 - DSP: Yes
 - Dimensions: 22.5"H x 14"W x 13.6"D (571.5 x 355.6 x 345.4 mm)
@@ -21,7 +21,7 @@ The Genelec 8361A ranks [#3 out of 21 total Large Size Powered Bookshelf Speaker
 - Frequency Response: 30Hz - 43kHz (±2dB) (Manufacturer specified)
 - Inputs: XLR
 - Max SPL: 118dB @ 1m
-- Watts: 1000w Per Speaker
+- Output Power: 1000w Per Speaker
 - Weight: 70.3lbs / 31.9kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Genelec 8361a is FANTASTIC for Your Home Studio or HiFi!](https://www.youtube.com/watch?v=2VjzJRXbafI)

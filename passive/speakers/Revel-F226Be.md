@@ -10,8 +10,8 @@ The Revel F226Be ranks [#8 out of 25 total Large Size Floorstanding Speakers](/p
 ## #8 [Revel F226Be](https://sovrn.co/1og8hjl) [[Crutchfield](https://sovrn.co/1og8hjl)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F226Be)]: $7700
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
-- Bass Extension (-10dB): 36hz
-- Bass Extension (-3dB): 56hz
+- Bass Extension (-10dB): 36Hz
+- Bass Extension (-3dB): 56Hz
 - Dimensions: 41.3"H x 9.8"W x 13.7"D (1049 x 248.9 x 348 mm)
 - Driver: Two 6.5" (165mm) Deep Ceramic Composite aluminum cones, with cast frames woofer, 5-1/4" (130mm) Deep Ceramic Composite aluminum cone, with cast frame midrange, 1" (25mm) Beryllium dome, with acoustic lens waveguide tweeter
 - Impedance: 8 ohms

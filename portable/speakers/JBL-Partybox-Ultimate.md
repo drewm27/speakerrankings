@@ -22,8 +22,8 @@ The JBL Partybox Ultimate ranks [#1 out of 10 total Large Party Size Portable Bl
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 1100W
 - Party Mode: Yes
-- Power: 1100W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: Yes

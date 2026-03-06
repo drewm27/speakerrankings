@@ -22,8 +22,8 @@ Last updated: March 05, 2026
 - Positives: Exceptionally flat frequency response, fantastic off axis.
 - Negatives: About 3dB boosted in the bass from 80-180hz, 3dB dip at 9khz
 - App: Yes (KEF Connect)
-- Bass Extension (-10dB): <20hz
-- Bass Extension (-3dB): 23hz
+- Bass Extension (-10dB): <20Hz
+- Bass Extension (-3dB): 23Hz
 - Bluetooth: Yes (5.0 with SBC, AAC)
 - DSP: Yes (Music Integrity Engine)
 - Dimensions: 42.9"H x 8.3"W x 15.5"D (1089.7 x 210.8 x 393.7 mm)
@@ -32,10 +32,9 @@ Last updated: March 05, 2026
 - Frequency Response: 31Hz - 24kHz (±3dB) (Manufacturer specified)
 - Inputs: Wifi, Optical, Digital coaxial, RCA, HDMI, Ethernet
 - Max SPL: 111dB @ 1m (pink noise)
+- Output Power: 700W (500W LF Class D + 100W MF Class D + 100W HF Class AB)
 - Outputs: Subwoofer RCA
-- Power: 700W (500W LF Class D + 100W MF Class D + 100W HF Class AB)
 - Streaming Services: Yes (AirPlay 2, Chromecast, Roon Ready, Spotify Connect, Tidal Connect, Amazon Music, Qobuz, Deezer)
-- Watts: 700w Per Speaker
 - Weight: 69lbs / 31.3kg each
 - Wifi: Yes (dual-band)
 - Reviews, Comparisons and Sound Samples
@@ -49,8 +48,8 @@ Last updated: March 05, 2026
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - App: Yes (B&O app)
-- Bass Extension (-10dB): <20hz
-- Bass Extension (-3dB): 20hz
+- Bass Extension (-10dB): <20Hz
+- Bass Extension (-3dB): 20Hz
 - Bluetooth: No
 - DSP: Yes (Digital Sound Engine)
 - Dimensions: 15.5"W x 32.3"H x 12"D (393.7 x 820.4 x 304.8 mm)
@@ -59,8 +58,8 @@ Last updated: March 05, 2026
 - Frequency Response: 19.5Hz - 23.6kHz (Manufacturer specified)
 - Inputs: PowerLink (RJ45), RCA, TOSLINK optical, WiSA wireless
 - Max SPL: 108dB @ 1m
+- Output Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
 - Outputs: PowerLink, TOSLINK
-- Power: 640W (160W tweeter + 160W midrange + 320W dual woofer)
 - Weight: 39.7lbs / 18kg each
 - Wifi: Yes (WiSA)
 - Reviews, Comparisons and Sound Samples

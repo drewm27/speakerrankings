@@ -19,8 +19,8 @@ The Klipsch The One II ranks [#14 out of 14 total Medium Size Powered Desktop Sp
 - EQ: Yes (Bass/Treble)
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - Inputs: Bluetooth, Aux, RCA, Optical, USB
+- Output Power: 50W (Woofer: 30W, Full-range: 2x10W)
 - Party Mode: No
-- Power: 50W (Woofer: 30W, Full-range: 2x10W)
 - Stereo: Partially (1 woofer)
 - TWS: No
 - Weight: 8.5lbs / 3.9kg

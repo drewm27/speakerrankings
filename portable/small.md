@@ -23,7 +23,7 @@ Last updated: March 05, 2026
 - Negatives: Finicky phone charging, which doesn't usually work.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59hz
+- Bass Extension (-10dB): 59Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
@@ -31,13 +31,13 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
@@ -64,7 +64,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, AAC, SBC
 - Built in Microphone: Yes
@@ -74,13 +74,13 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 65Hz - 16kHz (Manufacturer specified)
 - IP Rating: Splash resistant
-- Max Volume: 92db
+- Max Volume: 92dB
+- Output Power: 15W
 - Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
 - TWS: Yes (Bluetooth or cable)
-- Wattage: 15W
 - Weight: 0.71lbs / 320g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=t-NrXGtuEQc>
@@ -96,13 +96,13 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: Splash resistant
-- Max Volume: 92db
+- Max Volume: 92dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable
@@ -121,14 +121,14 @@ Last updated: March 05, 2026
 - Positives: Quite neutral. Slight hollowness in the mids. Built in strap is super useful for attaching it to things. Highly recommend spending the extra $10 for the Micro 2 which goes louder and deeper. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 62hz
+- Bass Extension (-10dB): 62Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 93db
+- Max Volume: 93dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -160,12 +160,12 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.78lbs / 355g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=5kaUPyZFV5E>
@@ -178,20 +178,20 @@ Last updated: March 05, 2026
 - Negatives: Rolled off highs
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 87db
+- Max Volume: 87dB
+- Output Power: 6W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 6W
 - Weight: 0.55lbs / 249g
 - Reviews, Comparisons and Sound Samples
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
@@ -204,7 +204,7 @@ Last updated: March 05, 2026
 - Negatives: Rolled off highs
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 58hz
+- Bass Extension (-10dB): 58Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
@@ -213,13 +213,13 @@ Last updated: March 05, 2026
 - Charging Time: 3-4 hours
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 87db
+- Max Volume: 87dB
+- Output Power: 6W
 - Party Mode: Yes (Partycast up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 6W
 - Weight: 0.55lbs / 249g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
@@ -232,7 +232,7 @@ Last updated: March 05, 2026
 - Negatives: Dip at 1200hz. Doesn't boost bass at low levels. Not that deep of bass. Only IPX4.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 73hz
+- Bass Extension (-10dB): 73Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -260,7 +260,7 @@ Last updated: March 05, 2026
 - Negatives: Not that deep of bass.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 70hz
+- Bass Extension (-10dB): 70Hz
 - Battery Life: 17 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -271,12 +271,12 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 75Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 10W
 - Weight: 0.79lbs / 360g
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
@@ -324,12 +324,12 @@ Last updated: March 05, 2026
 - FM Tuner: Yes
 - IP Rating: None
 - MicroSD: Yes
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: Micro USB
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.44lbs / 200g
 - Reviews, Comparisons and Sound Samples
     - [Knowledge Sharing Tech: Anker SoundCore Mini BT speaker long-term review, Sound test & Mic test](https://www.youtube.com/watch?v=KCIjx_WJVYE)
@@ -341,7 +341,7 @@ Last updated: March 05, 2026
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 75hz
+- Bass Extension (-10dB): 75Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -350,13 +350,13 @@ Last updated: March 05, 2026
 - Driver: 2" full-range with dual passive radiators
 - EQ: Yes
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
+- Output Power: 10W
 - Party Mode: Yes (Marshall Stack)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 10W
 - Weight: 0.68lbs / 309g
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
@@ -374,7 +374,7 @@ Last updated: March 05, 2026
 - Negatives: Not as deep bass as higher ranked speakers
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): ~70hz
+- Bass Extension (-10dB): ~70Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -384,7 +384,7 @@ Last updated: March 05, 2026
 - Driver: 1.5" full-range with dual passive radiators
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 89db
+- Max Volume: 89dB
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes (10W reverse USB-C charging)
 - Power Input: USB-C
@@ -429,7 +429,7 @@ Last updated: March 05, 2026
 - Negatives: Rising frequency response, not very flat, better to listen off axis. Peak at 4khz. Not much bass.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 69hz
+- Bass Extension (-10dB): 69Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -438,14 +438,14 @@ Last updated: March 05, 2026
 - Dimensions: 4.65" x 5.31" x 1.71" (118 x 135 x 43.5 mm)
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 97db
+- Max Volume: 97dB
 - MicroSD: Yes
+- Output Power: 10W
 - Party Mode: Yes (PartyAdd up to 100 speakers)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.86lbs / 390g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Mifa Tango Camping Bluetooth Speaker Review](https://www.youtube.com/watch?v=biqsZ3Uhr3U)
@@ -457,7 +457,7 @@ Last updated: March 05, 2026
 - Negatives: Lack of clarity. Overly boosted bass
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 66hz
+- Bass Extension (-10dB): 66Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
@@ -468,13 +468,13 @@ Last updated: March 05, 2026
 - Driver: 40mm with dual passive radiators
 - EQ: No
 - IP Rating: IP67
-- Max Volume: 90db
+- Max Volume: 90dB
+- Output Power: 5W
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
 - Power Input: Micro USB
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.64lbs / 289g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Minirig Mini v Tribit Stormbox Micro or Bose Soundlink Micro](https://www.youtube.com/watch?v=jAdCutwAmd4)
@@ -489,7 +489,7 @@ Last updated: March 05, 2026
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 68hz
+- Bass Extension (-10dB): 68Hz
 - Battery Life: 12 hours (Specification says 32 hours, it is nowhere near that) (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -499,12 +499,12 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 80Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX8
+- Output Power: 10W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 10W
 - Weight: 0.55lbs / 248g
 - Reviews, Comparisons and Sound Samples
     - [breakaway2x: Best Bluetooth Speakers? Tozo PE1 Unboxing and Review](https://www.youtube.com/watch?v=8c0prvnjj8Y)
@@ -525,12 +525,12 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 95Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 7W
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 7W
 - Weight: 0.628lbs / 285g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=dt6jJVAW_pY>
@@ -543,7 +543,7 @@ Last updated: March 05, 2026
 - Negatives: Quite a lack of bass. Not very loud.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 80hz
+- Bass Extension (-10dB): 80Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -552,13 +552,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 100Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 79db
+- Max Volume: 79dB
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 5W
 - Weight: 0.53lbs / 239g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=sc_YdfX2PBI>
@@ -586,12 +586,12 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 90Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.58lbs / 265g
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ultimate Ears MiniRoll vs Soundcore Select 4 Go 😯 Is Price Difference Worth It? Links in Description](https://www.youtube.com/watch?v=LQWcNRLtHQI)
@@ -605,7 +605,7 @@ Last updated: March 05, 2026
 - Negatives: Not much bass at all
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): ~82hz
+- Bass Extension (-10dB): ~82Hz
 - Battery Life: 7 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -616,12 +616,12 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 90Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 4.2W
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 4.2W
 - Weight: 0.42lbs / 190g
 - Reviews, Comparisons and Sound Samples
     - [Stereo Specs: JBL GO 4 vs JBL GO 3 : Is there more bass or not?Unboxing,Features,Specs,Sound Test & Comparison !](https://www.youtube.com/watch?v=Eg3I8aDdI5s)
@@ -637,7 +637,7 @@ Last updated: March 05, 2026
 - Negatives: Not much bass at all, strange mids peak.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 87hz
+- Bass Extension (-10dB): 87Hz
 - Battery Life: 5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -647,13 +647,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 110Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
+- Output Power: 4.2W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 4.2W
 - Weight: 0.46lbs / 209g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: JBL GO 3 Review - vs Tribit Stormbox Micro - best small cheap speaker?](https://www.youtube.com/watch?v=9tigrVLPi5A)
@@ -673,7 +673,7 @@ Last updated: March 05, 2026
 - Negatives: Bass isn't quite as deep as the top ranked models. Lacking clarity compared to other models
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 66hz
+- Bass Extension (-10dB): 66Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -697,7 +697,7 @@ Last updated: March 05, 2026
 - Negatives: For the small class, lacking quite a bit of bass compared to the top ranked speakers
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 90hz
+- Bass Extension (-10dB): 90Hz
 - Battery Life: 9 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -707,12 +707,12 @@ Last updated: March 05, 2026
 - EQ: No
 - IP Rating: IPX5
 - MicroSD: No
+- Output Power: 3W
 - Party Mode: Yes (Broadcast Mode) up to 100 speakers
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 3W
 - Weight: 0.35lbs / 159g
 - Reviews, Comparisons and Sound Samples
     - [wwjoshdew: Monster Atomic Atom Bluetooth 5.4 Speaker](https://www.youtube.com/watch?v=4RJTt8arMM4)
@@ -725,7 +725,7 @@ Last updated: March 05, 2026
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Monster Bluetooth Speaker
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 95hz
+- Bass Extension (-10dB): 95Hz
 - Battery Life: 6.5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -749,7 +749,7 @@ Last updated: March 05, 2026
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Dayton Audio Boost Mini
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 95hz
+- Bass Extension (-10dB): 95Hz
 - Battery Life: 6.5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -770,7 +770,7 @@ Last updated: March 05, 2026
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 95hz
+- Bass Extension (-10dB): 95Hz
 - Battery Life: 6.5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -781,12 +781,12 @@ Last updated: March 05, 2026
 - Frequency Response: 70Hz - 70kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.4lbs / 185g
 - Links
     - [Official Product Page Boat Stone 190](https://www.boat-lifestyle.com/products/stone-190)
@@ -807,12 +807,12 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 2.5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 2.5W
 - Weight: 0.60lbs / 274g
 - Reviews, Comparisons and Sound Samples
     - [CEONTHEMAKING: BATTLE Of The Compact Speakers Sony SRS-XB100 VS JBL Clip 4!](https://www.youtube.com/watch?v=uWv_SRZh3TE)
@@ -827,7 +827,7 @@ Last updated: March 05, 2026
 - Negatives: Not much bass. Muddy sounding.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 88hz
+- Bass Extension (-10dB): 88Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 4.2
@@ -837,13 +837,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 88db
+- Max Volume: 88dB
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.56lbs / 255g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
@@ -856,7 +856,7 @@ Last updated: March 05, 2026
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - App: No
 - Aux Input: Yes (integrated 3.5mm cable)
-- Bass Extension (-10dB): ~95hz
+- Bass Extension (-10dB): ~95Hz
 - Battery Life: 5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -879,7 +879,7 @@ Last updated: March 05, 2026
 - Negatives: Less bass than the Clip. Quite a lack of bass.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): ~100hz
+- Bass Extension (-10dB): ~100Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
@@ -889,12 +889,12 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 120Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 3.3W
 - Party Mode: No
 - Power Bank: No
 - Power Input: Micro USB
 - Stereo: No
 - TWS: No
-- Wattage: 3.3W
 - Weight: 0.5lbs / 227g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=M6khpcPwr8c>
@@ -935,12 +935,12 @@ Last updated: March 05, 2026
 - Frequency Response: 80Hz - 15kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links
@@ -952,7 +952,7 @@ Last updated: March 05, 2026
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 97hz
+- Bass Extension (-10dB): 97Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 240ms
@@ -963,13 +963,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 93db
+- Max Volume: 93dB
+- Output Power: 7W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 7W
 - Weight: 0.54lbs / 243g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Sony XB13 vs XB12 - review and full sound test - best small speaker? 🙄](https://www.youtube.com/watch?v=Cy3mfrIrVmI)
@@ -991,12 +991,12 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 80Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX5
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.55lbs / 248g
 - Reviews, Comparisons and Sound Samples
     - [Sis & Bro: Muzen Mini Wild Portable vs JBL Clip 4 - Bluetooth Speaker Review](https://www.youtube.com/watch?v=DctejPk66bs)
@@ -1019,12 +1019,12 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 80Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX5
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Wattage: 5W
 - Weight: 0.41lbs / 187g
 - Reviews, Comparisons and Sound Samples
     - [UtmostCoin Reviews: Bringing Sophistications to The Wild - Muzen Wild Go Speaker Review](https://www.youtube.com/watch?v=3JsU3QYYRrk)
@@ -1037,7 +1037,7 @@ Last updated: March 05, 2026
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~120hz
+- Bass Extension (-10dB): ~120Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -1047,12 +1047,12 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 8W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 8W
 - Weight: 0.55lbs / 250g
 - Reviews, Comparisons and Sound Samples
     - [Jaky9114: 2022年12月16日](https://www.youtube.com/watch?v=4xCM1mE-1Ww)
@@ -1065,7 +1065,7 @@ Last updated: March 05, 2026
 - Negatives: Huge lack of bass.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): 105hz
+- Bass Extension (-10dB): 105Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -1075,13 +1075,13 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
-- Max Volume: 87db
+- Max Volume: 87dB
+- Output Power: 3W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
-- Wattage: 3W
 - Weight: 0.55lbs / 251g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
@@ -1094,7 +1094,7 @@ Last updated: March 05, 2026
 - Negatives: Huge lack of bass, probably better off with your phone audio
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): ~220hz
+- Bass Extension (-10dB): ~220Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1103,12 +1103,12 @@ Last updated: March 05, 2026
 - Frequency Response: 220Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX2
 - NFC: Yes
+- Output Power: 4W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
-- Wattage: 4W
 - Weight: 0.32lbs / 145g
 - Reviews, Comparisons and Sound Samples
     - [Jon Low: The world's thinnest bluetooth speaker- Lenovo 700 Ultra Bluetooth Speaker: #AWGR009](https://www.youtube.com/watch?v=Yam_mssFqeU)
@@ -1122,7 +1122,7 @@ Last updated: March 05, 2026
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): ~300hz
+- Bass Extension (-10dB): ~300Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -1147,7 +1147,7 @@ Last updated: March 05, 2026
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - App: No
 - Aux Input: No
-- Bass Extension (-10dB): ~300hz
+- Bass Extension (-10dB): ~300Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

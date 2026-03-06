@@ -12,7 +12,7 @@ The Mifa WildCamping ranks [#45 out of 73 total Large Size Portable Bluetooth Sp
 - Negatives: Sound competes more with the Medium size speakers as the light takes up half the space. Peak at 5khz and dip at 3khz, not quite neutral. Not as deep of bass as others in the category.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 66hz
+- Bass Extension (-10dB): 66Hz
 - Battery Life: 38 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -22,10 +22,10 @@ The Mifa WildCamping ranks [#45 out of 73 total Large Size Portable Bluetooth Sp
 - EQ: No
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 97db
+- Max Volume: 97dB
 - MicroSD: Yes
+- Output Power: 20W RMS
 - Party Mode: Yes (PartyAdd up to 100 speakers)
-- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes

@@ -12,13 +12,13 @@ The Tribit Xsound Mega ranks [#20 out of 131 total Medium Size Portable Bluetoot
 - Negatives: Single driver, not stereo. Lack of detail. Lack of upper treble, peaky lower treble. Not great off axis. Keep in mind this speaker gives up some sound quality for deeper bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 200ms
 - Built in Microphone: No
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 100db
+- Max Volume: 100dB
 - Power Bank: No
 - Stereo: No
 - TWS: Yes

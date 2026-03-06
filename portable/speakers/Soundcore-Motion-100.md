@@ -12,7 +12,7 @@ The Soundcore Motion 100 ranks [#40 out of 131 total Medium Size Portable Blueto
 - Negatives: Not very deep bass, slight distortion
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 65hz
+- Bass Extension (-10dB): 65Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, LDAC, SBC
 - Bluetooth Version: 5.3
@@ -21,7 +21,7 @@ The Soundcore Motion 100 ranks [#40 out of 131 total Medium Size Portable Blueto
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Power: 20W
+- Output Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

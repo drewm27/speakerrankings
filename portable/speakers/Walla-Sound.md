@@ -10,7 +10,7 @@ The Walla Sound ranks [#121 out of 131 total Medium Size Portable Bluetooth Spea
 ## #121 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
 - Negatives: No bass, gets distorted when turned up. Harsh upper mids.
 - Aux Input: Yes
-- Bass Extension (-10dB): ~90hz
+- Bass Extension (-10dB): ~90Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

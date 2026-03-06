@@ -30,15 +30,16 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 12+ hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Dimensions: 13.58" x 23.5" x 13.66" (345 x 597 x 347 mm)
 - Driver: 12" woofer, 1" compression driver
 - EQ: Yes
 - IP Rating: IP43
-- Max Volume: 126db
+- Max Volume: 126dB
 - Microphone Input: Yes
+- Output Power: 400W
 - Party Mode: Yes (up to 6 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -46,7 +47,6 @@ If you don't need a battery and need the speaker to be the loudest possible, PA 
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
-- Wattage: 400W
 - Weight: 31.2lbs / 14.2kg
 - XLR Input: Yes
 - Reviews, Comparisons and Sound Samples
@@ -75,8 +75,8 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 800W
 - Party Mode: Yes (Auracast)
-- Power: 800W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: Yes
@@ -117,6 +117,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 240W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -124,7 +125,6 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 240W
 - Weight: 36.4lbs / 16.5kg
 - Reviews, Comparisons and Sound Samples
     - [Oluv: JBL Partybox 320 vs 520 - indoor listening session](https://www.patreon.com/posts/jbl-partybox-320-149526127)
@@ -151,6 +151,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 160W
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -158,7 +159,6 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Stereo: Partially
 - TWS: Yes
 - USB Playback: Yes
-- Wattage: 160W
 - Weight: 24lbs / 10.8kg
 - Reviews, Comparisons and Sound Samples
     - [HammoTech Reviews: JBL Partybox Club 120 Vs Partybox 110 - Worth the upgrade?](https://www.youtube.com/watch?v=QTQqAp-JtU0)
@@ -182,7 +182,7 @@ The next best battery powered speakers for this use will be the [party size](/po
 - EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4
-- Max Volume: 110db
+- Max Volume: 110dB
 - Microphone Input: Yes
 - Output Power: 100W RMS
 - Party Mode: Yes (Auracast)
@@ -205,14 +205,14 @@ The next best battery powered speakers for this use will be the [party size](/po
 - Setup: Try the EQ from [Alan Ross at this timestamp of his video](https://youtu.be/Demef0n4E8A?si=KOKmfaoG1M1-_Abi&t=670)
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 40hz
+- Bass Extension (-10dB): 40Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IP67
-- Max Volume: 110db
+- Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: Yes (2x 6.35mm)
 - Party Mode: No

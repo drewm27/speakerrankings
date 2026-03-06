@@ -12,7 +12,7 @@ The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks [#33 out of 73 total Large Siz
 - Negatives: Dip from 120-180hz, a little bass boosted. Muffled with cover on.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~47hz
+- Bass Extension (-10dB): ~47Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes

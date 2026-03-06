@@ -22,8 +22,8 @@ The Sony ULT Tower 9 ranks [#7 out of 10 total Large Party Size Portable Bluetoo
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
+- Output Power: 148W
 - Party Mode: Yes (Auracast up to 100 speakers)
-- Power: 148W
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Removable Battery: No

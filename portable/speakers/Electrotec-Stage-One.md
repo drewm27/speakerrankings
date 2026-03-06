@@ -13,7 +13,7 @@ The Electrotec Stage One ranks [#8 out of 43 total Party Size Portable Bluetooth
 - App: Yes
 - Aux Input: Yes
 - Aux Output: Yes
-- Bass Extension (-10dB): 48hz
+- Bass Extension (-10dB): 48Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: Yes

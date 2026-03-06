@@ -17,7 +17,7 @@ The Presonus Eris Studio 8 ranks [#12 out of 21 total Large Size Powered Bookshe
 - EQ: Yes (Room adjustment)
 - Frequency Response: 35Hz – 20kHz (Manufacturer specified)
 - Inputs: TRS, XLR, RCA
-- Watts: 140w Per Speaker
+- Output Power: 140w Per Speaker
 - Weight: 22.2lbs / 10.1kg each
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: PreSonus Eris E8 XT  vs  PreSonus Eris E5 XT   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=XSI_mErI-10)

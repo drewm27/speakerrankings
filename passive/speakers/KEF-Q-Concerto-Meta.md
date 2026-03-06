@@ -10,8 +10,8 @@ The KEF Q Concerto Meta ranks [#7 out of 48 total Large Size Bookshelf Speakers]
 ## #7 [KEF Q Concerto Meta](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Concerto-Three-Way-Bookshelf-Speaker/dp/B0DH8FTSK4?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7670924be1deace48ad1e10bddfb066f&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Concerto+Meta)]: $1400
 - Positives: Class leading directivity. Quite deep bass for the size
 - Negatives: A little dipped in the treble.
-- Bass Extension (-10dB): 35hz
-- Bass Extension (-3dB): 53hz
+- Bass Extension (-10dB): 35Hz
+- Bass Extension (-3dB): 53Hz
 - Dimensions: 16.3"H x 8.3"W x 12.4"D (414 x 210.8 x 315 mm)
 - Driver: 165 mm (6.5 in.) hybrid aluminium cone woofer, 100 mm (4 in.) aluminium cone midrange, 19 mm (0.75 in.) vented aluminium dome with MAT tweeter
 - Impedance: 4 ohms

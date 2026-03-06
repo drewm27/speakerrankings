@@ -11,7 +11,7 @@ The Laney F67 ranks [#63 out of 73 total Large Size Portable Bluetooth Speakers]
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~62hz
+- Bass Extension (-10dB): ~62Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
@@ -21,8 +21,8 @@ The Laney F67 ranks [#63 out of 73 total Large Size Portable Bluetooth Speakers]
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 40W RMS
 - Party Mode: No
-- Power: 40W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

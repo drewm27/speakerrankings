@@ -18,7 +18,7 @@ The Yamaha True X Speaker 1A ranks [#90 out of 131 total Medium Size Portable Bl
 - Driver: 1x 55mm (2.2") full-range driver + 2x passive radiators
 - EQ: No
 - IP Rating: IP67
-- Power: 10W
+- Output Power: 10W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

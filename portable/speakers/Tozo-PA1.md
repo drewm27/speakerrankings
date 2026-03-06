@@ -10,15 +10,15 @@ The Tozo PA1 ranks [#52 out of 131 total Medium Size Portable Bluetooth Speakers
 ## #52 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325)]: $36
 - Positives: Use bass model for flattest response. Pretty deep bass for the money.
 - Negatives: Peaks in the upper mids, low treble and a big peak in upper treble.
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Latency: 220ms
 - Bluetooth Version: 5.0
 - Dimensions: 8.27" x 3.58" x 2.40" (210 x 91 x 61 mm)
 - Driver: 1x 67mm fullrange
 - Frequency Response: 55Hz - 18kHz (Manufacturer specified)
-- Max Volume: 98db
-- Power: 20W
+- Max Volume: 98dB
+- Output Power: 20W
 - Stereo: No
 - Weight: 1.28lbs / 581g
 - Reviews, Comparisons and Sound Samples

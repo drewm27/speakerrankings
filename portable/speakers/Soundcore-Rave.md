@@ -11,7 +11,7 @@ The Soundcore Rave ranks [#38 out of 43 total Party Size Portable Bluetooth Spea
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - EQ: No

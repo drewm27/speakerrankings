@@ -11,7 +11,7 @@ The Edifier D12 ranks [#3 out of 14 total Medium Size Powered Desktop Speakers](
 - Positives: A very good value speaker in this desktop category. Subwoofer line out.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 57hz
+- Bass Extension (-10dB): 57Hz
 - Battery Life: No Battery
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -21,9 +21,9 @@ The Edifier D12 ranks [#3 out of 14 total Medium Size Powered Desktop Speakers](
 - Frequency Response: 54Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
 - Inputs: Bluetooth, Wifi, Aux, RCA
+- Output Power: 70W (R/L treble: 15W+15W, R/L mid-bass: 20W+20W)
 - Outputs: Subwoofer line out
 - Party Mode: No
-- Power: 70W (R/L treble: 15W+15W, R/L mid-bass: 20W+20W)
 - Power Bank: No
 - Power Input: AC Power cable
 - Stereo: Yes

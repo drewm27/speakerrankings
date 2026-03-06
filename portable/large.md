@@ -23,7 +23,7 @@ Last updated: March 05, 2026
 - Negatives: No TWS pairing, looks like a purse, requires a hacked Vifa app ([Android only](http://www.hifi-forum.de/viewthread-125-11396.html) post #48) to enable night mode to sound good. Not sure I can recommend this one generally these days, the Uboom L has 98% of the sound quality with more features and a way cheaper price. There are mentions that the 2022 "new" version of this speaker doesn't sound as good as Vifa was purchased by a Chinese company and laid off all the great sound engineers in the Austria office.
 - App: No (official app is broken, 3rd party android app only)
 - Aux Input: Yes
-- Bass Extension (-10dB): 48hz
+- Bass Extension (-10dB): 48Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.1
@@ -53,7 +53,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 20ms
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 128ms AAC, 144ms SBC
@@ -64,9 +64,9 @@ Last updated: March 05, 2026
 - EQ: Yes (10 band)
 - Frequency Response: 43Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 108db
+- Max Volume: 108dB
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -96,7 +96,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 295ms default, 33ms with aux pass-through
-- Bass Extension (-10dB): 31hz
+- Bass Extension (-10dB): 31Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX HD, aptX, AAC, SBC
 - Bluetooth Latency: 100ms
@@ -106,9 +106,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP57
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 200W
 - Party Mode: Yes (Up to 8 speakers on wifi)
-- Power: 200W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -140,8 +140,8 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -163,7 +163,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 1ms
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 60ms
@@ -174,9 +174,9 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 60Hz - 18kHz (Manufacturer specified)
 - IP Rating: Splash resistant
-- Max Volume: 103db
+- Max Volume: 103dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
@@ -201,7 +201,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -210,8 +210,8 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 48Hz - 120Hz (Manufacturer specified)
 - IP Rating: Splash resistant
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: No
 - Power Input: Proprietary USB cable
 - Stereo: No
@@ -227,7 +227,7 @@ Last updated: March 05, 2026
 - Negatives: Dip at 270hz. The Vifa Helsinki is cheaper and generally has a more neutral frequency response, I'd highly recommend getting one of those instead if you specifically want a Vifa. Not sure I can recommend this one generally these days, the Uboom L has 95% of the sound quality with more features and a way cheaper price.
 - App: No (official app is broken, 3rd party android app only)
 - Aux Input: Yes
-- Bass Extension (-10dB): 50hz
+- Bass Extension (-10dB): 50Hz
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.1
@@ -259,7 +259,7 @@ Last updated: March 05, 2026
 - Negatives: Doesn't seem to be available anymore. No app. The slightly boosted upper treble can be slightly fatiguing on-axis with certain songs. Some of the buttons can be confusing, “M” is the Bluetooth button and skip song is long press play, while repeat is double press play. The plastic case isn't textured or rubberized like other speakers and some may find it feels cheap. If [dropped it may break internally and sound strange](https://www.reddit.com/r/Bluetooth_Speakers/s/wD4DFAe3RX). I'd recommend only buying it from a place with free returns just in case it was damaged in shipping.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 185ms
@@ -270,10 +270,10 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 106db
+- Max Volume: 106dB
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: Yes (PartyAdd up to 100 speakers)
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -293,7 +293,7 @@ Last updated: March 05, 2026
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 125ms
@@ -304,10 +304,10 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 105db
+- Max Volume: 105dB
 - MicroSD: No
+- Output Power: 80W
 - Party Mode: Yes (PartyCast 2.0 up to 100 speakers)
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)
@@ -336,7 +336,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Not very loud. Uses added DSP reverb which audio purists may find annoying.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 50ms
@@ -347,9 +347,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -377,9 +377,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 32Hz - 23kHz (Manufacturer specified)
 - IP Rating: IP65
-- Max Volume: 101db
+- Max Volume: 101dB
+- Output Power: 280W
 - Party Mode: Yes (Mozart 2.0)
-- Power: 280W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -407,8 +407,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)
@@ -430,7 +430,7 @@ Last updated: March 05, 2026
 - Negatives: Not as neutral or detailed as other top ranked speakers
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 170ms
@@ -441,9 +441,9 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 20Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -484,9 +484,9 @@ Last updated: March 05, 2026
 - Driver: 2x 2.75" fullrange + 2x 2.5" passive radiators
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 30W
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Power: 30W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -513,8 +513,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 55Hz - 22kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
@@ -532,7 +532,7 @@ Last updated: March 05, 2026
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 33ms
-- Bass Extension (-10dB): 48hz
+- Bass Extension (-10dB): 48Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 116ms
@@ -565,7 +565,7 @@ Last updated: March 05, 2026
 - Negatives: Boosted bass. Not as deep bass as better speakers. Not as balanced as better speakers.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
@@ -576,9 +576,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 53.5Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 105db
+- Max Volume: 105dB
+- Output Power: 100W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
-- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -611,7 +611,7 @@ Last updated: March 05, 2026
 - App: No
 - Aux Input: Yes
 - Aux Latency: 0ms
-- Bass Extension (-10dB): 52hz
+- Bass Extension (-10dB): 52Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 83ms
@@ -622,9 +622,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -648,7 +648,7 @@ Last updated: March 05, 2026
 - Negatives: Slight treble rolloff
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 44hz
+- Bass Extension (-10dB): 44Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -657,9 +657,9 @@ Last updated: March 05, 2026
 - Driver: 4" woofer, 2x 2" tweeters
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 107db
+- Max Volume: 107dB
+- Output Power: 80W
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Partially (1 woofer)
@@ -679,7 +679,7 @@ Last updated: March 05, 2026
 - Positives: Pretty neutral frequency response. Outdoor mode can sound somewhat harsh due to the 4khz peak.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 51hz
+- Bass Extension (-10dB): 51Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -689,8 +689,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX5
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -735,7 +735,7 @@ Last updated: March 05, 2026
 - Negatives: A little bright on top, a custom EQ can flatten things out a bit. Peaks at 250hz and dip at 1khz
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 48hz
+- Bass Extension (-10dB): 48Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -745,9 +745,9 @@ Last updated: March 05, 2026
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -790,7 +790,7 @@ Last updated: March 05, 2026
 - Negatives: Not as much midrange clarity as other top ranked speakers. Dip at 1.8khz.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 45hz
+- Bass Extension (-10dB): 45Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -799,9 +799,9 @@ Last updated: March 05, 2026
 - Driver: 2x tweeters, 2x midrange/bass drivers + 2x passive radiators
 - EQ: Yes (Bass boost 3 steps)
 - IP Rating: IPX5
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -824,7 +824,7 @@ Last updated: March 05, 2026
 - Negatives: Not stereo. Not as deep bass as others in the category, less bass extension than an Xtreme 2. Pumping and compression artifacts at higher volume. Not very loud.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 11 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -833,7 +833,7 @@ Last updated: March 05, 2026
 - Driver: mid-woofer, downward-firing tweeter
 - EQ: No
 - IP Rating: IP56
-- Max Volume: 92db
+- Max Volume: 92dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C (requires USB-C PD 12v minimum)
@@ -855,7 +855,7 @@ Last updated: March 05, 2026
 - Negatives: Bass boosted which drowns out the midrange. Dip around 200hz, peak at 1khz, dipped at 1.6khz. Strange frequency response through the mids.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 38hz
+- Bass Extension (-10dB): 38Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -865,8 +865,8 @@ Last updated: March 05, 2026
 - EQ: Yes (5 band)
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 80W
 - Party Mode: Yes (Marshall Stack)
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -884,7 +884,7 @@ Last updated: March 05, 2026
 - Negatives: Not very deep bass. Possibly slightly bright treble. Will need more sound samples to make a better determination. Only 12 hours of battery life which is about the worst in the category.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~50hz
+- Bass Extension (-10dB): ~50Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -893,8 +893,8 @@ Last updated: March 05, 2026
 - Driver: 2x woofers, 2x tweeters + 2x passive radiators
 - EQ: Yes (Bass Boost, Vocal Boost, Dynamic)
 - IP Rating: IPX6
+- Output Power: 60W
 - Party Mode: Yes
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -911,7 +911,7 @@ Last updated: March 05, 2026
 - Negatives: Bass extension not as deep as the top speakers. Overpriced. This may move around in the rankings as we get better sound samples
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
@@ -938,7 +938,7 @@ Last updated: March 05, 2026
 - Negatives: 5db dip at 1.7khz and 6.3khz. 9khz treble peak. Not a very smooth frequency response. A lot of Marshall's added dsp echo which cannot be turned off, very distracting and annoying. It's like forcing you to listen to your music in an echo chamber. Bass is reasonably deep but artificial sounding and flabby, with no attack and no dynamics. Treble is rolled off.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 39hz
+- Bass Extension (-10dB): 39Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
@@ -948,9 +948,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
+- Output Power: 50W
 - Party Mode: Yes (Marshall Stack)
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -983,8 +983,8 @@ Last updated: March 05, 2026
 - Driver: 2x 56.6mm x 56.2mm fullrange transducers + 2x passive radiators
 - EQ: Yes
 - IP Rating: IP67
+- Output Power: 14W
 - Party Mode: Yes
-- Power: 14W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: No
@@ -1046,7 +1046,7 @@ Last updated: March 05, 2026
 - Negatives: Dip from 120-180hz, a little bass boosted. Muffled with cover on.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~47hz
+- Bass Extension (-10dB): ~47Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
@@ -1068,13 +1068,13 @@ Last updated: March 05, 2026
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~58hz
+- Bass Extension (-10dB): ~58Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX2
-- Max Volume: 102db
+- Max Volume: 102dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1102,9 +1102,9 @@ Last updated: March 05, 2026
 - EQ: Yes (5 band)
 - Frequency Response: 44Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 100W
 - Party Mode: Yes (Auracast)
-- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Removable Battery: Yes
@@ -1131,17 +1131,17 @@ Last updated: March 05, 2026
 - Negatives: Peaks in the upper mids which makes it sound a bit harsh.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: None
-- Max Volume: 106db
+- Max Volume: 106dB
 - MicroSD: Yes
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1169,8 +1169,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Output Power: 38W
 - Party Mode: No
-- Power: 38W
 - Power Bank: Yes
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -1190,7 +1190,7 @@ Last updated: March 05, 2026
 - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1200,9 +1200,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 30Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
-- Max Volume: 95db
+- Max Volume: 95dB
+- Output Power: 176W
 - Party Mode: No
-- Power: 176W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1223,7 +1223,7 @@ Last updated: March 05, 2026
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 53hz
+- Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 85ms
@@ -1233,7 +1233,7 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 99db
+- Max Volume: 99dB
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1254,13 +1254,13 @@ Last updated: March 05, 2026
 - Negatives: Slightly recessed mids. Distorted at high volumes.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 101db
+- Max Volume: 101dB
 - MicroSD: Yes
 - Party Mode: No
 - Power Bank: Yes
@@ -1284,7 +1284,7 @@ Last updated: March 05, 2026
 - Negatives: External AC power brick for charging. Boosted bass. Treble harsh at high volumes.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -1294,9 +1294,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 55Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 98db
+- Max Volume: 98dB
+- Output Power: 40W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 40W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1348,8 +1348,8 @@ Last updated: March 05, 2026
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1375,8 +1375,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 60W
 - Party Mode: Yes (Connect+ up to 100 speakers)
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1395,7 +1395,7 @@ Last updated: March 05, 2026
 - Negatives: Sound competes more with the Medium size speakers as the light takes up half the space. Peak at 5khz and dip at 3khz, not quite neutral. Not as deep of bass as others in the category.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 66hz
+- Bass Extension (-10dB): 66Hz
 - Battery Life: 38 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -1405,10 +1405,10 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 97db
+- Max Volume: 97dB
 - MicroSD: Yes
+- Output Power: 20W RMS
 - Party Mode: Yes (PartyAdd up to 100 speakers)
-- Power: 20W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1432,8 +1432,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 20Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 80W RMS
 - Party Mode: No
-- Power: 80W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1451,16 +1451,16 @@ Last updated: March 05, 2026
 - Negatives: 7khz upper mids peak. Upper bass boosted
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1476,7 +1476,7 @@ Last updated: March 05, 2026
 - Negatives: Not a very smooth frequency response. Treble is peaky. Boosted upper bass.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 49hz
+- Bass Extension (-10dB): 49Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -1486,10 +1486,10 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 104db
+- Max Volume: 104dB
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1514,9 +1514,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 40W
 - Party Mode: Yes (Connect)
-- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1536,7 +1536,7 @@ Last updated: March 05, 2026
 - Negatives: A little hollow sounding.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 55hz
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.0
@@ -1546,10 +1546,10 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 40Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
-- Max Volume: 100db
+- Max Volume: 100dB
 - MicroSD: Yes
+- Output Power: 32W
 - Party Mode: No
-- Power: 32W
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -1566,7 +1566,7 @@ Last updated: March 05, 2026
 - Negatives: Weird boosted upper bass, bass not very deep. Boosted lower treble, somewhat harsh sounding like most other Klipsch speakers. Not very loud.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -1576,9 +1576,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 55Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
-- Max Volume: 93db
+- Max Volume: 93dB
+- Output Power: 30W RMS
 - Party Mode: Yes (broadcast mode)
-- Power: 30W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1597,7 +1597,7 @@ Last updated: March 05, 2026
 - Negatives: Overly expensive. Bass not as deep as competitors. Upper mids peak. Hollow sounding. Rolled off treble. Not much clarity. Does not float. Speaker will not remain at max volume and will turn itself down automatically.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 54hz
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 25 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -1607,8 +1607,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 16W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
-- Power: 16W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1628,7 +1628,7 @@ Last updated: March 05, 2026
 - Negatives: Overly boosted bass, thin treble, highs are boosted and harsh. Distorted sound.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~52hz
+- Bass Extension (-10dB): ~52Hz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1639,8 +1639,8 @@ Last updated: March 05, 2026
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 100W
 - Party Mode: No
-- Power: 100W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1656,7 +1656,7 @@ Last updated: March 05, 2026
 - Negatives: Not very deep bass for the size. Gets distorted at around 70-80% with bass thuds.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~55hz
+- Bass Extension (-10dB): ~55Hz
 - Battery Life: 17 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.2
@@ -1666,7 +1666,7 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 94db
+- Max Volume: 94dB
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1695,8 +1695,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 49Hz - 23kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 50W RMS
 - Party Mode: No
-- Power: 50W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1715,7 +1715,7 @@ Last updated: March 05, 2026
 - Negatives: Not very deep bass, peaks in midrange. Hugely expensive.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1725,9 +1725,9 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 39Hz - 23kHz (Manufacturer specified)
 - IP Rating: IPX7
-- Max Volume: 96db
+- Max Volume: 96dB
+- Output Power: 105W
 - Party Mode: No
-- Power: 105W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1745,7 +1745,7 @@ Last updated: March 05, 2026
 - Negatives: Bass is not very deep compared to the competition
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 64hz
+- Bass Extension (-10dB): 64Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
@@ -1777,8 +1777,8 @@ Last updated: March 05, 2026
 - Frequency Response: 48Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX5
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1804,9 +1804,9 @@ Last updated: March 05, 2026
 - Driver: 2x 63mm woofers
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1822,7 +1822,7 @@ Last updated: March 05, 2026
 - Negatives: Muddy with treble rolloff.
 - App: Yes
 - Aux Input: Yes
-- Bass Extension (-10dB): 60hz
+- Bass Extension (-10dB): 60Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -1830,9 +1830,9 @@ Last updated: March 05, 2026
 - Driver: 1x 102mm woofer, 1x 51mm fullrange
 - EQ: Yes
 - IP Rating: IPX7
-- Max Volume: 106db
+- Max Volume: 106dB
+- Output Power: 50W
 - Party Mode: Yes (Partycast up to 100 speakers)
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1850,7 +1850,7 @@ Last updated: March 05, 2026
 - Negatives: Very rolled off treble.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 47hz
+- Bass Extension (-10dB): 47Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -1859,10 +1859,10 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 80Hz - 16kHz (Manufacturer specified)
 - IP Rating: IPX6
-- Max Volume: 106db
+- Max Volume: 106dB
 - MicroSD: Yes
+- Output Power: 60W RMS
 - Party Mode: No
-- Power: 60W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1889,8 +1889,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 35Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 50W RMS
 - Party Mode: No
-- Power: 50W RMS
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
@@ -1906,7 +1906,7 @@ Last updated: March 05, 2026
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~62hz
+- Bass Extension (-10dB): ~62Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.1
@@ -1916,8 +1916,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: 40W RMS
 - Party Mode: No
-- Power: 40W RMS
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1934,7 +1934,7 @@ Last updated: March 05, 2026
 - Negatives: Boosted upper bass, not much lower bass. Only IPX6 water rating
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~60hz
+- Bass Extension (-10dB): ~60Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -1944,8 +1944,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 30Hz - 16kHz (Manufacturer specified)
 - IP Rating: IPX6
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -1969,8 +1969,8 @@ Last updated: March 05, 2026
 - Driver: 1x racetrack woofer, 1x dome tweeter
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 40W
 - Party Mode: No
-- Power: 40W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -1993,9 +1993,9 @@ Last updated: March 05, 2026
 - Driver: 2x 58mm fullrange
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 95db
+- Max Volume: 95dB
+- Output Power: 30W
 - Party Mode: No
-- Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2021,8 +2021,8 @@ Last updated: March 05, 2026
 - Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170 mm)
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 50W
 - Party Mode: No
-- Power: 50W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -2037,7 +2037,7 @@ Last updated: March 05, 2026
 - Negatives: No dynamics, sounds very hollow, no deep bass. Very jagged frequency response. Horrible battery life
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 4 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -2047,8 +2047,8 @@ Last updated: March 05, 2026
 - Frequency Response: 100Hz - 10kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 55W
 - Party Mode: No
-- Power: 55W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -2063,7 +2063,7 @@ Last updated: March 05, 2026
 - Negatives: Hugely recessed mids and treble
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 63hz
+- Bass Extension (-10dB): 63Hz
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
@@ -2072,9 +2072,9 @@ Last updated: March 05, 2026
 - Driver: 1x 133mm woofer, 1x 51mm tweeter
 - EQ: No
 - IP Rating: IPX7
-- Max Volume: 97db
+- Max Volume: 97dB
+- Output Power: 80W
 - Party Mode: No
-- Power: 80W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -2097,8 +2097,8 @@ Last updated: March 05, 2026
 - Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150 mm)
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 80W RMS
 - Party Mode: No
-- Power: 80W RMS
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -2113,7 +2113,7 @@ Last updated: March 05, 2026
 - Negatives: Rolled off treble, barely any bass
 - App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): 65hz
+- Bass Extension (-10dB): 65Hz
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
@@ -2122,8 +2122,8 @@ Last updated: March 05, 2026
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
@@ -2148,8 +2148,8 @@ Last updated: March 05, 2026
 - Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 60W
 - Party Mode: No
-- Power: 60W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -2175,8 +2175,8 @@ Last updated: March 05, 2026
 - EQ: No
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: 20W
 - Party Mode: No
-- Power: 20W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
