@@ -19,7 +19,6 @@ The Sony SRS-XG300 ranks [#52 out of 73 total Large Size Portable Bluetooth Spea
 - Dimensions: 12.52" x 5.43" x 5.35" (318 x 138 x 136 mm)
 - Driver: 2x X-Balanced woofers, 2x 20mm tweeters
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Output Power: 16W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)

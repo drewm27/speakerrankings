@@ -19,7 +19,6 @@ The Sony SRS-XB43 ranks [#39 out of 73 total Large Size Portable Bluetooth Speak
 - Built in Microphone: Yes
 - Dimensions: 12.8" x 4.8" x 4.6" (325 x 123 x 117 mm)
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 99dB
 - Party Mode: Yes (Partyconnect up to 100 speakers)

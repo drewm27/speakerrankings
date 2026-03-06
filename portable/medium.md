@@ -1096,7 +1096,6 @@ Last updated: March 05, 2026
 - Dimensions: 8.1" x 3.0" x 3.0" (206 x 77 x 76 mm)
 - Driver: 83mm x 42mm woofer, 16mm tweeter + passive radiator
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: No
@@ -1238,7 +1237,6 @@ Last updated: March 05, 2026
 - Dimensions: 11.4" x 4.7" x 4.3" (290 x 120 x 110 mm)
 - Driver: 63.5mm full-range driver + 2x passive radiators
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 100dB
 - Output Power: 30W
@@ -1325,7 +1323,6 @@ Last updated: March 05, 2026
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 8.07" x 2.51" x 3.21" (205 x 64 x 82 mm)
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Max Volume: 98dB
 - MicroSD: Yes
 - Output Power: 40W
@@ -1554,7 +1551,6 @@ Last updated: March 05, 2026
 - Bluetooth Latency: 110ms
 - Bluetooth Version: 5.0
 - Dimensions: 9.69" x 3.82" x 4.17" (246 x 97 x 106 mm)
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Max Volume: 97dB
 - Output Power: 16W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1674,7 +1670,6 @@ Last updated: March 05, 2026
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 3.0" x 8.58" x 3.0" (76 x 218 x 76 mm)
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Max Volume: 95dB
 - Output Power: 8W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)

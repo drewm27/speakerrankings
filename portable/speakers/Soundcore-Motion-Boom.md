@@ -21,7 +21,6 @@ The Soundcore Motion Boom ranks [#13 out of 73 total Large Size Portable Bluetoo
 - Dimensions: 13.6" x 7.9" x 5.8" (346 x 200 x 148 mm)
 - Driver: 2x 63.5mm titanium fullrange drivers + 2x passive radiators
 - EQ: Yes
-- Frequency Response: 20Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 106dB
 - Output Power: 30W

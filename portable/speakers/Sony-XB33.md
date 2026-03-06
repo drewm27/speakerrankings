@@ -15,7 +15,6 @@ The Sony XB33 ranks [#58 out of 131 total Medium Size Portable Bluetooth Speaker
 - Bluetooth Latency: 110ms
 - Bluetooth Version: 5.0
 - Dimensions: 9.69" x 3.82" x 4.17" (246 x 97 x 106 mm)
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Max Volume: 97dB
 - Output Power: 16W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)

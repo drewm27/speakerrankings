@@ -18,7 +18,6 @@ The Soundcore Glow ranks [#44 out of 131 total Medium Size Portable Bluetooth Sp
 - Dimensions: 11.4" x 4.7" x 4.3" (290 x 120 x 110 mm)
 - Driver: 63.5mm full-range driver + 2x passive radiators
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 100dB
 - Output Power: 30W

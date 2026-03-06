@@ -19,7 +19,6 @@ The Sony SRS-XB100 ranks [#28 out of 41 total Small Size Portable Bluetooth Spea
 - Dimensions: 2.99" diameter x 3.74" H (76 x 95 mm)
 - Driver: 46mm
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Output Power: 2.5W
 - Party Mode: No

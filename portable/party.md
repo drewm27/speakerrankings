@@ -378,7 +378,6 @@ Last updated: March 05, 2026
 - Charging Time: 3 hours
 - Dimensions: 12.32" x 27.28" x 14.45" (313 x 693 x 367 mm)
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes
@@ -408,7 +407,6 @@ Last updated: March 05, 2026
 - Charging Time: 3 hours
 - Dimensions: 10.83" x 22.52" x 11.61" (275 x 572 x 295 mm)
 - EQ: Yes
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
 - IP Rating: None
 - Microphone Input: Yes

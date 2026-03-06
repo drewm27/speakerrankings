@@ -125,7 +125,6 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Built in Microphone: Yes
 - Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
 - EQ: 3 EQ presets
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
 - Output Power: 80W

@@ -19,7 +19,6 @@ The Xdobo X8 Max ranks [#53 out of 73 total Large Size Portable Bluetooth Speake
 - Dimensions: 11.8" x 4.3" x 5.3" (300 x 110 x 134 mm)
 - Driver: 2x 80mm woofers, 2x 52mm tweeters
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
 - Output Power: 100W

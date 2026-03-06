@@ -14,7 +14,6 @@ The Tronsmart Element Force ranks [#48 out of 131 total Medium Size Portable Blu
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Dimensions: 8.07" x 2.51" x 3.21" (205 x 64 x 82 mm)
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - Max Volume: 98dB
 - MicroSD: Yes
 - Output Power: 40W

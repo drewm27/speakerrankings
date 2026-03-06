@@ -19,7 +19,6 @@ The Minirig mk2 with subwoofer ranks [#6 out of 73 total Large Size Portable Blu
 - Dimensions: 4.0" diameter x 8.6" H (101.6 x 219mm)
 - Driver: 74mm custom driver
 - EQ: Yes
-- Frequency Response: 48Hz - 120Hz (Manufacturer specified)
 - IP Rating: Splash resistant
 - Output Power: 40W
 - Party Mode: No

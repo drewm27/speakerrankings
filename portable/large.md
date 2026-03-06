@@ -208,7 +208,6 @@ Last updated: March 05, 2026
 - Dimensions: 4.0" diameter x 8.6" H (101.6 x 219mm)
 - Driver: 74mm custom driver
 - EQ: Yes
-- Frequency Response: 48Hz - 120Hz (Manufacturer specified)
 - IP Rating: Splash resistant
 - Output Power: 40W
 - Party Mode: No
@@ -439,7 +438,6 @@ Last updated: March 05, 2026
 - Dimensions: 13.6" x 7.9" x 5.8" (346 x 200 x 148 mm)
 - Driver: 2x 63.5mm titanium fullrange drivers + 2x passive radiators
 - EQ: Yes
-- Frequency Response: 20Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 106dB
 - Output Power: 30W
@@ -1231,7 +1229,6 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - Dimensions: 12.8" x 4.8" x 4.6" (325 x 123 x 117 mm)
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 99dB
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1345,7 +1342,6 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
 - EQ: 3 EQ presets
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
 - Output Power: 80W
@@ -1430,7 +1426,6 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - Dimensions: 5.79" x 5.79" x 7.68" (147 x 147 x 195 mm)
 - EQ: No
-- Frequency Response: 20Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Output Power: 80W RMS
 - Party Mode: No
@@ -1605,7 +1600,6 @@ Last updated: March 05, 2026
 - Dimensions: 12.52" x 5.43" x 5.35" (318 x 138 x 136 mm)
 - Driver: 2x X-Balanced woofers, 2x 20mm tweeters
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Output Power: 16W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
@@ -1636,7 +1630,6 @@ Last updated: March 05, 2026
 - Dimensions: 11.8" x 4.3" x 5.3" (300 x 110 x 134 mm)
 - Driver: 2x 80mm woofers, 2x 52mm tweeters
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - MicroSD: Yes
 - Output Power: 100W
@@ -2145,7 +2138,6 @@ Last updated: March 05, 2026
 - Built in Microphone: Yes
 - Dimensions: 11.6" x 4.8" x 5.2" (294 x 122 x 132 mm)
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX6
 - MicroSD: Yes
 - Output Power: 60W

@@ -21,7 +21,6 @@ The Sony SRS-XB12 ranks [#34 out of 41 total Small Size Portable Bluetooth Speak
 - Charging Time: 4.5 hours
 - Driver: 46mm
 - EQ: No
-- Frequency Response: 20Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
 - Max Volume: 93dB
 - Output Power: 7W
