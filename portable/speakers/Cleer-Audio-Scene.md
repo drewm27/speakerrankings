@@ -32,6 +32,7 @@ The Cleer Audio Scene ranks [#29 out of 131 total Medium Size Portable Bluetooth
     - [DHRME: Cleerly More Than Just A Speaker! Cleer Scene Review](https://www.youtube.com/watch?v=YNifFrDKbV0)
 - Links
     - [Official Product Page](https://cleeraudio.com/smart-speakers/scene-water-resistant-bluetooth-speaker/)
+    - [Reddit Search for Cleer Audio Scene](https://www.reddit.com/search/?q=Cleer+Audio+Scene)
 
 
 As an Amazon Associate I earn from qualifying purchases.

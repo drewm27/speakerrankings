@@ -42,6 +42,7 @@ The Marshall Middleton ranks [#29 out of 73 total Large Size Portable Bluetooth 
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/middleton)
+    - [Reddit Search for Marshall Middleton](https://www.reddit.com/search/?q=Marshall+Middleton)
 
 
 As an Amazon Associate I earn from qualifying purchases.

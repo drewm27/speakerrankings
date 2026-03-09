@@ -2,12 +2,12 @@
 layout: page
 title: Minirig Mini 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Minirig Mini 2 ranks #2 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Minirig Mini 2 ranks #3 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#2-minirig-mini-2-minirigs-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig Mini 2 ranks [#3 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#3-minirig-mini-2-minirigs-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #2 [Minirig Mini 2](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)]: $100
+## #3 [Minirig Mini 2](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)]: $100
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
 - Negatives: Calls itself splash resistant and has no official water rating. App is buggy. Wireless TWS pairing is buggy.
 - App: Yes
@@ -37,6 +37,7 @@ The Minirig Mini 2 ranks [#2 out of 41 total Small Size Portable Bluetooth Speak
     - [Alan Ross Reviews: Minirig Mini mk2 - best small speaker?](https://www.youtube.com/watch?v=7kydvk2xdtA)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)
+    - [Reddit Search for Minirig Mini 2](https://www.reddit.com/search/?q=Minirig+Mini+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

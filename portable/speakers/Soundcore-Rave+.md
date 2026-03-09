@@ -30,6 +30,7 @@ The Soundcore Rave+ ranks [#37 out of 43 total Party Size Portable Bluetooth Spe
     - [Techder Audios: Soundcore Rave+ - Soundtest "NOT IMPRESSIVE ENOUGH?!"](https://www.youtube.com/watch?v=ZjQIvZByyns)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/rave)
+    - [Reddit Search for Soundcore Rave+](https://www.reddit.com/search/?q=Soundcore+Rave%2B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

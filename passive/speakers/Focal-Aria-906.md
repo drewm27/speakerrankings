@@ -17,6 +17,7 @@ The Focal Aria 906 ranks [#23 out of 48 total Large Size Bookshelf Speakers](/pa
     - [Audio Science Review Focal Aria 906](https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/)
 - Links
     - [Official Focal Aria 906 Website](https://www.focal.com/products/aria-906)
+    - [Reddit Search for Focal Aria 906](https://www.reddit.com/search/?q=Focal+Aria+906)
 
 
 As an Amazon Associate I earn from qualifying purchases.

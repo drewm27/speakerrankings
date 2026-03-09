@@ -34,6 +34,7 @@ The JBL Authentics 300 ranks [#28 out of 67 total Boombox Size Portable Bluetoot
     - [Alan Ross Reviews: Not quite! JBL Authentics 300 review and sound test vs Boombox 3, Encore and Stormbox Blast](https://www.youtube.com/watch?v=dXsMWb4yVBw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-300.html)
+    - [Reddit Search for JBL Authentics 300](https://www.reddit.com/search/?q=JBL+Authentics+300)
 
 
 As an Amazon Associate I earn from qualifying purchases.

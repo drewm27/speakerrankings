@@ -23,6 +23,7 @@ The Tronsmart Element Force ranks [#48 out of 131 total Medium Size Portable Blu
     - [Alan Ross Reviews: Tronsmart Element Force review vs Bogasing M4 - cheap speaker 🤑](https://www.youtube.com/watch?v=1btEBiXCEF0)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/element-force-waterproof-portable-bluetooth-speaker)
+    - [Reddit Search for Tronsmart Element Force](https://www.reddit.com/search/?q=Tronsmart+Element+Force)
 
 
 As an Amazon Associate I earn from qualifying purchases.

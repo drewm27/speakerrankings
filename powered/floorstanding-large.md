@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Small](/powered/bookshelf-small/) and [Medium](/powered/bookshelf-medium/) powered bookshelf speakers, or [Passive Large Bookshelf](/passive/bookshelf-large/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 05, 2026
+Last updated: March 09, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -42,6 +42,7 @@ Last updated: March 05, 2026
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)
 - Links
     - [Official Product Page](https://us.kef.com/products/ls60-wireless)
+    - [Reddit Search for KEF LS60](https://www.reddit.com/search/?q=KEF+LS60)
     - [Direct Speakerranking Link](/powered/speakers/KEF-LS60/)
 
 ## #2 [B&O Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
@@ -66,6 +67,7 @@ Last updated: March 05, 2026
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official B&O Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
+    - [Reddit Search for B&O Beolab20](https://www.reddit.com/search/?q=B%26O+Beolab20)
     - [Direct Speakerranking Link](/powered/speakers/BO-Beolab20/)
 
 

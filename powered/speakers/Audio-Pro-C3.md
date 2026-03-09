@@ -28,6 +28,7 @@ The Audio Pro C3 ranks [#2 out of 14 total Medium Size Powered Desktop Speakers]
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
 - Links
     - [Official Product Page](https://www.audiopro.com/en/product/c3/)
+    - [Reddit Search for Audio Pro C3](https://www.reddit.com/search/?q=Audio+Pro+C3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

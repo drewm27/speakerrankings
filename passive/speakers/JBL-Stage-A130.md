@@ -15,6 +15,7 @@ The JBL Stage A130 ranks [#20 out of 20 total Medium Size Bookshelf Speakers](/p
     - [Erin's Audio Corner Website JBL Stage A130](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a130/)
 - Links
     - [Official JBL Stage A130 Website](https://www.jbl.com/loudspeakers/STAGE+A130.html)
+    - [Reddit Search for JBL Stage A130](https://www.reddit.com/search/?q=JBL+Stage+A130)
 
 
 As an Amazon Associate I earn from qualifying purchases.

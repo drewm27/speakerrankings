@@ -21,6 +21,7 @@ The Neumi Silk 4 ranks [#14 out of 20 total Medium Size Bookshelf Speakers](/pas
     - [Erin's Audio Corner Website Neumi Silk 4](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/)
 - Links
     - [Official Neumi Silk 4 Website](https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/)
+    - [Reddit Search for Neumi Silk 4](https://www.reddit.com/search/?q=Neumi+Silk+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

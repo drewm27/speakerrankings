@@ -20,6 +20,7 @@ The Fosi Audio SP601 ranks [#21 out of 21 total Large Size Powered Bookshelf Spe
     - [Erin's Audio Corner: Are Fosi Audio SP-601 Speakers WORTH Your Money?](https://www.youtube.com/watch?v=1tqAofKbr9w)
 - Links
     - [Official Product Page](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)
+    - [Reddit Search for Fosi Audio SP601](https://www.reddit.com/search/?q=Fosi+Audio+SP601)
 
 
 As an Amazon Associate I earn from qualifying purchases.

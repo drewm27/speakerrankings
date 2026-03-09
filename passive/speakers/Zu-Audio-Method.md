@@ -19,6 +19,7 @@ The Zu Audio Method ranks [#48 out of 48 total Large Size Bookshelf Speakers](/p
     - [Erin's Audio Corner: Zu Audio Method Bookshelf Speaker Review](https://www.youtube.com/watch?v=INhqKX1QacQ)
 - Links
     - [Official Zu Audio Method Website](https://www.zuaudio.com/loudspeakers/p/mb1)
+    - [Reddit Search for Zu Audio Method](https://www.reddit.com/search/?q=Zu+Audio+Method)
 
 
 As an Amazon Associate I earn from qualifying purchases.

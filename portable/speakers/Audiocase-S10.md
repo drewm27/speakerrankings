@@ -33,6 +33,7 @@ The Audiocase S10 ranks [#26 out of 43 total Party Size Portable Bluetooth Speak
     - [Oluv: Audiocase S10 - first impressions](https://www.patreon.com/posts/audiocase-s10-92786890)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s10)
+    - [Reddit Search for Audiocase S10](https://www.reddit.com/search/?q=Audiocase+S10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -28,6 +28,7 @@ The Teufel Boomster NG (2017) ranks [#34 out of 67 total Boombox Size Portable B
     - <https://www.youtube.com/watch?v=Y-MO5bu9FlU>
     - <https://www.youtube.com/watch?v=JbvQiKbb0GE>
     - <https://www.youtube.com/watch?v=o9J8vxAEzVg>
+    - [Reddit Search for Teufel Boomster NG (2017)](https://www.reddit.com/search/?q=Teufel+Boomster+NG+%282017%29)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -10,6 +10,7 @@ The ELAC BS U5 ranks [#13 out of 20 total Medium Size Bookshelf Speakers](/passi
 ## #13 [ELAC BS U5](https://www.hifizero.com/index.php?q=ELAC+BS+U5) [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+BS+U5)]: $856
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review ELAC BS U5](https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/)
+    - [Reddit Search for ELAC BS U5](https://www.reddit.com/search/?q=ELAC+BS+U5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

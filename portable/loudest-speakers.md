@@ -3,7 +3,7 @@ layout: page
 title: Loudest Portable Bluetooth Party Speakers 
 comments: true
 cover-img: "/assets/img/k12.2.jpg"
-share-description: "Expert rankings of 365 Bluetooth speakers tested for max volume. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
+share-description: "Expert rankings of 366 Bluetooth speakers tested for max volume. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
 These are the loudest possible portable speakers for use in large outdoor areas. They are selected based on maximum SPL with sound quality as a secondary important trait.
@@ -41,6 +41,7 @@ If you absolutely can't live without an internal battery and need the best sound
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
+    - [Reddit Search for Electro-Voice Everse 12](https://www.reddit.com/search/?q=Electro-Voice+Everse+12)
 
 
 Also remember that you can get a power station for any speaker mentioned here. See [this page for more information about Power Stations](/portable-power-stations/)

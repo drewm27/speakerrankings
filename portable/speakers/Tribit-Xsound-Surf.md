@@ -21,6 +21,7 @@ The Tribit Xsound Surf ranks [#76 out of 131 total Medium Size Portable Bluetoot
     - [Jay's Straight Up Reviews & More: Tribit XSound Surf vs. XSound Go (Upgraded Model) Bluetooth Speaker Sound Comparison.](https://www.youtube.com/watch?v=7vXafwDd3Z0)
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
     - [Jay's Straight Up Reviews & More: Zealot S61 🦨 Bluetooth Speaker Review & Sound Comparison to Tribit XSound Surf. Another Zealot dud❓](https://www.youtube.com/watch?v=ADGFOxmXROs)
+    - [Reddit Search for Tribit Xsound Surf](https://www.reddit.com/search/?q=Tribit+Xsound+Surf)
 
 
 As an Amazon Associate I earn from qualifying purchases.

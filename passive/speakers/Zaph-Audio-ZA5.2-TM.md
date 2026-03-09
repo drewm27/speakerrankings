@@ -18,6 +18,7 @@ The Zaph Audio ZA5.2 TM ranks [#6 out of 20 total Medium Size Bookshelf Speakers
     - [Audio Science Review Zaph Audio ZA5.2 TM](https://www.audiosciencereview.com/forum/index.php?threads/zaph-audio-za5-2-diy-kit-speaker-review.12086/)
 - Links
     - [Official Zaph Audio ZA5.2 TM Website](https://www.madisoundspeakerstore.com/2-way-speaker-kits/zaph%7Caudio-za5.2-tm-2-way-pair)
+    - [Reddit Search for Zaph Audio ZA5.2 TM](https://www.reddit.com/search/?q=Zaph+Audio+ZA5.2+TM)
 
 
 As an Amazon Associate I earn from qualifying purchases.

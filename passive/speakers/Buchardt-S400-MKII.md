@@ -22,6 +22,7 @@ The Buchardt S400 MKII ranks [#27 out of 48 total Large Size Bookshelf Speakers]
     - [Erin's Audio Corner Website Buchardt S400 MKII](https://www.erinsaudiocorner.com/loudspeakers/buchardt_s400_mkii/)
 - Links
     - [Official Buchardt S400 MKII Website](https://buchardtaudio.com/products/s400-mkii)
+    - [Reddit Search for Buchardt S400 MKII](https://www.reddit.com/search/?q=Buchardt+S400+MKII)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -24,6 +24,7 @@ The KRK Rokit 8 G4 ranks [#17 out of 21 total Large Size Powered Bookshelf Speak
     - [DSAUDIO.review: Adam Audio T8V  vs  KRK Rokit 8 G4   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=-jMpTspSl0U)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-8-generation-4-powered-studio-monitor-black)
+    - [Reddit Search for KRK Rokit 8 G4](https://www.reddit.com/search/?q=KRK+Rokit+8+G4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

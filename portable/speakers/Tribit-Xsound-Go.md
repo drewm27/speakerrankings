@@ -25,6 +25,7 @@ The Tribit Xsound Go ranks [#75 out of 131 total Medium Size Portable Bluetooth 
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-go-bluetooth-speakers)
+    - [Reddit Search for Tribit Xsound Go](https://www.reddit.com/search/?q=Tribit+Xsound+Go)
 
 
 As an Amazon Associate I earn from qualifying purchases.

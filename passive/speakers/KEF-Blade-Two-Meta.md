@@ -24,6 +24,7 @@ The KEF Blade Two Meta ranks [#2 out of 25 total Large Size Floorstanding Speake
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official KEF Blade Two Meta Website](https://us.kef.com/products/blade-two)
+    - [Reddit Search for KEF Blade Two Meta](https://www.reddit.com/search/?q=KEF+Blade+Two+Meta)
 
 
 As an Amazon Associate I earn from qualifying purchases.

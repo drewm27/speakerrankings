@@ -31,6 +31,7 @@ The Teufel Rockster Air ranks [#20 out of 43 total Party Size Portable Bluetooth
     - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links
     - [Official Product Page](https://fi.teufelaudio.com/rockster-air-105401000)
+    - [Reddit Search for Teufel Rockster Air](https://www.reddit.com/search/?q=Teufel+Rockster+Air)
 
 
 As an Amazon Associate I earn from qualifying purchases.

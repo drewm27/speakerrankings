@@ -42,6 +42,7 @@ The Soundcore Motion+ ranks [#3 out of 131 total Medium Size Portable Bluetooth 
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
+    - [Reddit Search for Soundcore Motion+](https://www.reddit.com/search/?q=Soundcore+Motion%2B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

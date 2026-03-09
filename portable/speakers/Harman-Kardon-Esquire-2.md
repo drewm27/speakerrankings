@@ -24,6 +24,7 @@ The Harman Kardon Esquire 2 ranks [#114 out of 131 total Medium Size Portable Bl
     - [Dynamic District: Harman Kardon Esquire 2 review](https://www.youtube.com/watch?v=HXhIh7a-vE0)
 - Links
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
+    - [Reddit Search for Harman Kardon Esquire 2](https://www.reddit.com/search/?q=Harman+Kardon+Esquire+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

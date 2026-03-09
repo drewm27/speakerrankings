@@ -35,6 +35,7 @@ The Doss Soundbox XL ranks [#50 out of 73 total Large Size Portable Bluetooth Sp
     - <https://www.youtube.com/watch?v=TiVx4pPl1GE>
 - Links
     - [Official Product Page](https://www.dossaudio.com/products/soundbox-xl)
+    - [Reddit Search for Doss Soundbox XL](https://www.reddit.com/search/?q=Doss+Soundbox+XL)
 
 
 As an Amazon Associate I earn from qualifying purchases.

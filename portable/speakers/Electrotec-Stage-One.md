@@ -34,6 +34,7 @@ The Electrotec Stage One ranks [#8 out of 43 total Party Size Portable Bluetooth
 - Reviews, Comparisons and Sound Samples
     - [MusicTechHelpGuy: The future of mobile PA? // Electrotec STAGE ONE Review & Feature Overview](https://www.youtube.com/watch?v=Xv-B5kkR6ZY)
     - <https://www.youtube.com/shorts/30Gb2MRXUc0>
+    - [Reddit Search for Electrotec Stage One](https://www.reddit.com/search/?q=Electrotec+Stage+One)
 
 
 As an Amazon Associate I earn from qualifying purchases.

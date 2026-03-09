@@ -2,12 +2,12 @@
 layout: page
 title: JBL Go 4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Go 4 ranks #21 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Go 4 ranks #22 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Go 4 ranks [#21 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#21-jbl-go-4-amazon-bhphotovideo-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Go 4 ranks [#22 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#22-jbl-go-4-amazon-bhphotovideo-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #21 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
+## #22 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
 - App: Yes
@@ -38,6 +38,7 @@ The JBL Go 4 ranks [#21 out of 41 total Small Size Portable Bluetooth Speakers](
     - [GYMCADDY: Soundcore Select 4 Go Vs JBL Clip 5 And JBL Go 4](https://www.youtube.com/watch?v=yD3PKKjnIz0)
 - Links
     - [Official Product Page](https://hu.harmanaudio.com/GO-4.html)
+    - [Reddit Search for JBL Go 4](https://www.reddit.com/search/?q=JBL+Go+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

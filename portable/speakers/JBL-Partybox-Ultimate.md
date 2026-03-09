@@ -39,6 +39,7 @@ The JBL Partybox Ultimate ranks [#1 out of 10 total Large Party Size Portable Bl
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
+    - [Reddit Search for JBL Partybox Ultimate](https://www.reddit.com/search/?q=JBL+Partybox+Ultimate)
 
 
 As an Amazon Associate I earn from qualifying purchases.

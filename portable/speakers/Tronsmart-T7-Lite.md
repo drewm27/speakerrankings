@@ -28,6 +28,7 @@ The Tronsmart T7 Lite ranks [#111 out of 131 total Medium Size Portable Bluetoot
     - [Audio 503: Tronsmart T7 Lite (24w) vs JBL Flip 6 (30w)](https://www.youtube.com/watch?v=S03_X1Vrm9U)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
+    - [Reddit Search for Tronsmart T7 Lite](https://www.reddit.com/search/?q=Tronsmart+T7+Lite)
 
 
 As an Amazon Associate I earn from qualifying purchases.

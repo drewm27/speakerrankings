@@ -18,6 +18,7 @@ The ELAC Debut 2.0 B6.2 ranks [#33 out of 48 total Large Size Bookshelf Speakers
     - [Audio Science Review ELAC Debut 2.0 B6.2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/)
 - Links
     - [Official ELAC Debut 2.0 B6.2 Website](https://elac.com/db62)
+    - [Reddit Search for ELAC Debut 2.0 B6.2](https://www.reddit.com/search/?q=ELAC+Debut+2.0+B6.2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -22,6 +22,7 @@ The GR-Research X-LS Encore ranks [#28 out of 48 total Large Size Bookshelf Spea
 - Links
     - [Official GR-Research X-LS Encore Website](https://gr-research.com/product/xls-encore/)
     - [Official GR-Research X-LS Encore Kit Website](https://gr-research.com/product/x-ls-encore/)
+    - [Reddit Search for GR-Research X-LS Encore](https://www.reddit.com/search/?q=GR-Research+X-LS+Encore)
 
 
 As an Amazon Associate I earn from qualifying purchases.

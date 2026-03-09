@@ -16,6 +16,7 @@ The JBL HDI-1600 ranks [#21 out of 48 total Large Size Bookshelf Speakers](/pass
     - [Audio Science Review JBL HDI-1600](https://www.audiosciencereview.com/forum/index.php?threads/jbl-hdi-1600-speaker-review.12477/)
 - Links
     - [Official JBL HDI-1600 Website](https://www.jbl.com/bookshelf/HDI-1600.html)
+    - [Reddit Search for JBL HDI-1600](https://www.reddit.com/search/?q=JBL+HDI-1600)
 
 
 As an Amazon Associate I earn from qualifying purchases.

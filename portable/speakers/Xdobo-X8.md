@@ -27,6 +27,7 @@ The Xdobo X8 ranks [#116 out of 131 total Medium Size Portable Bluetooth Speaker
     - [Naresh Lal: Anker Soundcore motion+ Vs Xdobo X8](https://www.youtube.com/watch?v=0_ZOX8rFK6c)
 - Links
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
+    - [Reddit Search for Xdobo X8](https://www.reddit.com/search/?q=Xdobo+X8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

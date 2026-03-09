@@ -24,6 +24,7 @@ The Genelec 8050B ranks [#6 out of 21 total Large Size Powered Bookshelf Speaker
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8050b-review-studio-monitor.20542/)
 - Links
     - [Official Product Page](https://www.genelec.com/8050b)
+    - [Reddit Search for Genelec 8050B](https://www.reddit.com/search/?q=Genelec+8050B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

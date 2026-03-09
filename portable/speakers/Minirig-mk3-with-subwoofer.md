@@ -44,6 +44,7 @@ The Minirig mk3 with subwoofer ranks [#5 out of 73 total Large Size Portable Blu
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
     - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
+    - [Reddit Search for Minirig mk3 with subwoofer](https://www.reddit.com/search/?q=Minirig+mk3+with+subwoofer)
 
 
 As an Amazon Associate I earn from qualifying purchases.

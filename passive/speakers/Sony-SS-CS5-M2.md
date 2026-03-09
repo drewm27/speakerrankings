@@ -21,6 +21,7 @@ The Sony SS-CS5 M2 ranks [#17 out of 20 total Medium Size Bookshelf Speakers](/p
     - [Erin's Audio Corner: Is Sony's NEW SS-CS5 Version 2 WORTH the Upgrade?](https://www.youtube.com/watch?v=iI2a-KVuUhw)
 - Links
     - [Official ony SS-CS5 M2 Website](https://electronics.sony.com/audio/speakers/home-theater-speakers/p/sscs5)
+    - [Reddit Search for Sony SS-CS5 M2](https://www.reddit.com/search/?q=Sony+SS-CS5+M2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

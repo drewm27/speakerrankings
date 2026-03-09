@@ -17,6 +17,7 @@ The Klipsch Forte IV ranks [#24 out of 25 total Large Size Floorstanding Speaker
     - [Erin's Audio Review Website Klipsch Forte IV](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv/)
 - Links
     - [Official Klipsch Forte IV Website](https://www.klipsch.com/uk/products/forte-iv-floorstanding-speaker)
+    - [Reddit Search for Klipsch Forte IV](https://www.reddit.com/search/?q=Klipsch+Forte+IV)
 
 
 As an Amazon Associate I earn from qualifying purchases.

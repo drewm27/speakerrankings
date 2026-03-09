@@ -33,6 +33,7 @@ The Bose SoundLink Color II ranks [#93 out of 131 total Medium Size Portable Blu
     - [Danny Pops: BEST Bose Speaker?? Bose Soundlink Flex vs micro, Color II, and revolve +](https://www.youtube.com/watch?v=de0ZwpbXYAc)
 - Links
     - [Official Product Page](https://support.bose.com/s/product/soundlink-color-bluetooth-speaker-ii/01t8c00000OydNUAAZ)
+    - [Reddit Search for Bose SoundLink Color II](https://www.reddit.com/search/?q=Bose+SoundLink+Color+II)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -25,6 +25,7 @@ The Edifier S2000MKIII ranks [#14 out of 24 total Medium Size Powered Bookshelf 
     - [DSAUDIO.review: Edifier S2000MKIII  vs  Edifier S3000PRO   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=DvEBODvCynY)
 - Links
     - [Official Product Page](https://edifier-online.com/products/ed-s2000mkiii-brown)
+    - [Reddit Search for Edifier S2000MKIII](https://www.reddit.com/search/?q=Edifier+S2000MKIII)
 
 
 As an Amazon Associate I earn from qualifying purchases.

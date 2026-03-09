@@ -33,6 +33,7 @@ The LG XL7 ranks [#15 out of 43 total Party Size Portable Bluetooth Speakers](/p
     - [GYMCADDY: LG XBOOM XL7 Vs JBL Partybox 310 Vs Sony XP700](https://www.youtube.com/watch?v=Q5k35cigejM)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xl7s-portable-speaker)
+    - [Reddit Search for LG XL7](https://www.reddit.com/search/?q=LG+XL7)
 
 
 As an Amazon Associate I earn from qualifying purchases.

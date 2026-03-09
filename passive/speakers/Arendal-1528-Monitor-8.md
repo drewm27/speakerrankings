@@ -23,6 +23,7 @@ The Arendal 1528 Monitor 8 ranks [#15 out of 48 total Large Size Bookshelf Speak
     - [Erin's Audio Corner Website Arendal 1528 Monitor Review](https://www.erinsaudiocorner.com/loudspeakers/arendal_1528_monitor_8/)
 - Links
     - [Official Arendal 1528 Monitor 8 Website](https://arendalsound.com/product/1528-monitor-8/)
+    - [Reddit Search for Arendal 1528 Monitor 8](https://www.reddit.com/search/?q=Arendal+1528+Monitor+8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

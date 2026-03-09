@@ -20,6 +20,7 @@ The Raymate S7 ranks [#115 out of 131 total Medium Size Portable Bluetooth Speak
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
+    - [Reddit Search for Raymate S7](https://www.reddit.com/search/?q=Raymate+S7)
 
 
 As an Amazon Associate I earn from qualifying purchases.

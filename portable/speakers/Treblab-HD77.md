@@ -27,6 +27,7 @@ The Treblab HD77 ranks [#74 out of 131 total Medium Size Portable Bluetooth Spea
     - [Brian Unboxed: Treblab HD77 Bluetooth Speakers - Review & Audio Samples](https://www.youtube.com/watch?v=q91zXgCpPQQ)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd77)
+    - [Reddit Search for Treblab HD77](https://www.reddit.com/search/?q=Treblab+HD77)
 
 
 As an Amazon Associate I earn from qualifying purchases.

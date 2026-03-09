@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 05, 2026
+Last updated: March 09, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -55,6 +55,7 @@ Last updated: March 05, 2026
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
+    - [Reddit Search for Earfun Uboom L](https://www.reddit.com/search/?q=Earfun+Uboom+L)
     - [Direct Speakerranking Link](/portable/speakers/Earfun-Uboom-L/)
 
 ## #2 [Soundcore Motion 300](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
@@ -95,6 +96,7 @@ Last updated: March 05, 2026
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
+    - [Reddit Search for Soundcore Motion 300](https://www.reddit.com/search/?q=Soundcore+Motion+300)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-300/)
 
 ## #3 [Soundcore Motion+](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl)]: $80 used
@@ -132,6 +134,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
+    - [Reddit Search for Soundcore Motion+](https://www.reddit.com/search/?q=Soundcore+Motion%2B)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion+/)
 
 ## #4 [Soundcore Boost “upgraded” 2021](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Anker-Soundcore-Well-Balanced-Waterproof-Customizable/dp/B01N4V4X5M/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0134ddff40c01ca7040cef17bb8ce273&camp=1789&creative=9325)]: $60
@@ -163,6 +166,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Bose Soundlink Flex vs Soundcore Boost vs Bogasing M4 - cheap or Bose?](https://www.youtube.com/watch?v=jtVSdcyBwt8)
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
+    - [Reddit Search for Soundcore Boost “upgraded” 2021](https://www.reddit.com/search/?q=Soundcore+Boost+%E2%80%9Cupgraded%E2%80%9D+2021)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boost-upgraded-2021/)
 
 ## #5 Denon Envaya DSB-250BT: $250
@@ -191,6 +195,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Denon 250bt - little and large? 🙈](https://www.youtube.com/watch?v=sGyp6jGK0D8)
 - Links
     - [Official Product Page](https://www.denon.com/en-us/product/archive-bluetooth-speakers/dsb250bt/137209.html)
+    - [Reddit Search for Denon Envaya DSB-250BT](https://www.reddit.com/search/?q=Denon+Envaya+DSB-250BT)
     - [Direct Speakerranking Link](/portable/speakers/Denon-Envaya-DSB-250BT/)
 
 ## #6 [Minirig 4](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/gp/product/B0D1CDH2Y8?&linkCode=ll1&tag=rankingspea01-20&linkId=1aae4908068b8b58d5660ae52bfb4952&language=en_US&ref_=as_li_ss_tl)]: $200
@@ -221,6 +226,7 @@ Last updated: March 05, 2026
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
+    - [Reddit Search for Minirig 4](https://www.reddit.com/search/?q=Minirig+4)
     - [Direct Speakerranking Link](/portable/speakers/Minirig-4/)
 
 ## #7 [Minirig 3](https://minirigs.co.uk/speakers/bluetooth-minirig-3) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-3)]: $140
@@ -258,6 +264,7 @@ Last updated: March 05, 2026
     - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
+    - [Reddit Search for Minirig 3](https://www.reddit.com/search/?q=Minirig+3)
     - [Direct Speakerranking Link](/portable/speakers/Minirig-3/)
 
 ## #8 Minirig 2: $140
@@ -282,6 +289,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: minirig 3 vs minirig 2 - minirig 3 overview part 1](https://www.youtube.com/watch?v=9cbx_NfUaiY)
     - [Alan Ross Reviews: Minirig 2.1 or the Brane X or the Harman Kardon Go Play 3?](https://www.youtube.com/watch?v=BxS_DHZKmSA)
 - Links
+    - [Reddit Search for Minirig 2](https://www.reddit.com/search/?q=Minirig+2)
     - [Direct Speakerranking Link](/portable/speakers/Minirig-2/)
 
 ## #9 B&O Beosound A1: $200
@@ -312,6 +320,7 @@ Last updated: March 05, 2026
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
+    - [Reddit Search for B&O Beosound A1](https://www.reddit.com/search/?q=B%26O+Beosound+A1)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1/)
 
 ## #10 [B&O Beosound A1 2nd gen](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Integration-Microphones-Waterproof/dp/B085R7TSN6/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ca3173f00570b748bdd036fc250bfca1&camp=1789&creative=9325)]: $200
@@ -341,6 +350,7 @@ Last updated: March 05, 2026
     - [Oluv: B&O Beosound A1 2nd gen vs Beoplay A1 outdoors with a bit of Anker Soundcore Motion+ too](https://www.patreon.com/posts/b-o-beosound-a1-39584977)
     - [Oluv: (Anker) Soundcore Motion 300 - first impressions](https://www.patreon.com/posts/anker-soundcore-92655183)
 - Links
+    - [Reddit Search for B&O Beosound A1 2nd gen](https://www.reddit.com/search/?q=B%26O+Beosound+A1+2nd+gen)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-2nd-gen/)
 
 ## #11 [JBL Charge 6](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Waterproof-Drop-Proof-Built/dp/B0DN35M7S9?crid=3NK1ENMNWNJ90&dib=eyJ2IjoiMSJ9.S_WbOlefzCJ_hIKWapTlCA98ux6Gl18wl_XGQN2aVhF-dRVc-yyPd6ga9FlVhrfr-MFHY97C3zFdadMQoP8K8dR3_qVUyeplRpTdlkaWJDA1yiU3gNKemeFAuPVkGwfLH84UEBP_SC3GgYYNwTyYiQRybXbeYAQI5_WDgrQeCbqwiC5vu7MItuZOr-qfOhelJIeXFGB5Vbrl4EHzAFUOis_WuZylR62msyJatEdCrV0.XOKBVTjPlGLrxv9c8Ggybf-kVSMHECxNQKUo5QINII0&dib_tag=se&keywords=jbl%2Bcharge%2B6&qid=1743788038&sprefix=jbl%2Bcharge%2B6%2Caps%2C254&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bdfec279836aad51f4dc8baf17ce5b17&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875189-REG/jbl_jblcharge6blkam_charge_6_portable_bluetooth.html?BI=23745&KBID=29189)]: $200
@@ -380,6 +390,7 @@ Last updated: March 05, 2026
     - [Oluv: JBL Charge 6 - good or bad?](https://www.patreon.com/posts/jbl-charge-6-or-126781662)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
+    - [Reddit Search for JBL Charge 6](https://www.reddit.com/search/?q=JBL+Charge+6)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-6/)
 
 ## #12 [JBL Flip 6](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Bluetooth-Protective-Hardshell/dp/B09LWVXPYB/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=fbc79b18aac324583110f24d7da49abc&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875195-REG/jbl_jblflip7blkam_flip_7_portable_waterproof.html?BI=23745&KBID=29189)]: $90
@@ -429,6 +440,7 @@ Last updated: March 05, 2026
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
+    - [Reddit Search for JBL Flip 6](https://www.reddit.com/search/?q=JBL+Flip+6)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-6/)
 
 ## #13 Soundcore Boost “original model” pre-2021: $60
@@ -450,6 +462,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=sGYxOHqOYWQ>
 - Links
     - [Differences between the original and upgraded Soundcore Boost](https://support.soundcore.com/s/article/The-Main-Differences-Between-The-Original-and-Upgraded-Version-of-Soundcore-Boost-Speaker)
+    - [Reddit Search for Soundcore Boost “original model” pre-2021](https://www.reddit.com/search/?q=Soundcore+Boost+%E2%80%9Coriginal+model%E2%80%9D+pre-2021)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boost-original-model-pre-2021/)
 
 ## #14 [JBL Flip 7](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Flip-Waterproof-Interchangeable-Accessories/dp/B0DVX7RWPQ?crid=177XQEJU4CTOK&dib=eyJ2IjoiMSJ9.CwvdozXMdTDV7R0qNwo4BqTUP9va6JsVlPiSJlF2nHC8W_ghRxtJN5Yg8GH75Q0Jw-x6GBsogbbc2W_pqxxQ5ivt4BJ7tVTOBNVa-HNV3aUbT_ki8WT_hrYLx5KU3xJyfIm2rPV2_StAizc11yM0PXG4_Z-yh8ir0tusPngkOfTMM6IHLiT4Ee6IsS0uIQGp2Gwg27LA7qeYr_hHOI3xwU_uRWXwRdVg_pdfnpzqT_o.D6EXxvgDZX2D1Mvpt4Yr3fxkAaLYjNP-9GQMOL3yX_I&dib_tag=se&keywords=jbl%2Bflip%2B7&qid=1750221047&sprefix=jbl%2Bflip%2B%2Caps%2C260&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e3288f0025abca542e8cb4f2684b456e&language=en_US&ref_=as_li_ss_tl)]: $150
@@ -477,6 +490,7 @@ Last updated: March 05, 2026
     - [Musou1: JBL flip 7 vs KEF muo vs Bose flex 2](https://www.youtube.com/watch?v=wZmMRVBii3A)
     - [FishBee Product Reviews: LG XBOOM Grab (2025) by Will.i.am - BETTER Than JBL Flip 7??](https://www.youtube.com/watch?v=pvjIlFA7TWU)
 - Links
+    - [Reddit Search for JBL Flip 7](https://www.reddit.com/search/?q=JBL+Flip+7)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-7/)
 
 ## #15 [Miatone Boompro](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/MIATONE-Bluetooth-Speakers-Portable-Waterproof/dp/B0BRQ3FZ2L?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f2a829ecc87630520fa22070725afb24&language=en_US&ref_=as_li_ss_tl)]: $36
@@ -496,6 +510,7 @@ Last updated: March 05, 2026
     - [SpeakerBlowUpMan Lee: Broke Man's JBL Flip 6! Miatone Boompro Bluetooth Speaker Review](https://www.youtube.com/watch?v=Psmgg5ZJCvs)
 - Links
     - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
+    - [Reddit Search for Miatone Boompro](https://www.reddit.com/search/?q=Miatone+Boompro)
     - [Direct Speakerranking Link](/portable/speakers/Miatone-Boompro/)
 
 ## #16 [Wisetiger P3](https://s.click.aliexpress.com/e/_c3Auku4T) [[Aliexpress](https://s.click.aliexpress.com/e/_c3Auku4T)]: $38
@@ -515,6 +530,7 @@ Last updated: March 05, 2026
     - [Techder Audios: JBL Flip 6 Martin Garrix Edition VS Wisetiger P3 "PRICEY VS REAL CHEAP?!"](https://www.youtube.com/watch?v=LnNR_uVowaw)
     - [Techder Audios: Wisetiger P3 VS Mifa Wildrod "BEST CHEAP SPEAKERS?!"](https://www.youtube.com/watch?v=ikGFsH2aeZ8)
 - Links
+    - [Reddit Search for Wisetiger P3](https://www.reddit.com/search/?q=Wisetiger+P3)
     - [Direct Speakerranking Link](/portable/speakers/Wisetiger-P3/)
 
 ## #17 [Mifa Wildrod](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/MIFA-Portable-Bluetooth-Waterproof-Multi-Speaker/dp/B09V4PLWYP/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=3ed2c2dced175cecbcff9d74cb2d32ed&camp=1789&creative=9325)]: $47
@@ -546,6 +562,7 @@ Last updated: March 05, 2026
     - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
+    - [Reddit Search for Mifa Wildrod](https://www.reddit.com/search/?q=Mifa+Wildrod)
     - [Direct Speakerranking Link](/portable/speakers/Mifa-Wildrod/)
 
 ## #18 [B&O Beosound A1 3rd gen](https://www.amazon.com/Bang-Olufsen-Waterproof-Bluetooth-Microphones/dp/B0F8QR1Z4G?th=1&linkCode=ll2&tag=rankingspea01-20&linkId=dad3318993c97f4aacafc60be9b965de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bang-Olufsen-Waterproof-Bluetooth-Microphones/dp/B0F8QR1Z4G?th=1&linkCode=ll2&tag=rankingspea01-20&linkId=dad3318993c97f4aacafc60be9b965de&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1896041-REG/bang_olufsen_1736002_a1_portable_bluetooth_speaker.html?BI=23745&KBID=29189)]
@@ -574,6 +591,7 @@ Last updated: March 05, 2026
     - [Oluv: B&O Beosound A1 3rd gen - outdoor test](https://www.patreon.com/posts/b-o-beosound-a1-128729314)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-a1)
+    - [Reddit Search for B&O Beosound A1 3rd gen](https://www.reddit.com/search/?q=B%26O+Beosound+A1+3rd+gen)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-3rd-gen/)
 
 ## #19 Xiaomi Sound Party
@@ -602,6 +620,7 @@ Last updated: March 05, 2026
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-party/)
+    - [Reddit Search for Xiaomi Sound Party](https://www.reddit.com/search/?q=Xiaomi+Sound+Party)
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Sound-Party/)
 
 ## #20 [Tribit Xsound Mega](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-XSound-Mega-Bluetooth-Waterproof/dp/B09PVCZRWS/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=59b6245e5e84e0dfb628462ee5b708d6&camp=1789&creative=9325)]: $100
@@ -629,6 +648,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Tribit Xsound Mega vs the world! (JBL Charge 5, Bose Flex, Sony XB33, LG PL7) 👍](https://www.youtube.com/watch?v=xukSQ4JrBpk)
     - [Jay's Straight Up Reviews & More: Earfun UBoom L 💣(EQ2) 🆚 Tribit XSound Mega 🔥(XBass EQ)- Bluetooth Speaker Bedroom Bash. Who U Got?🔝](https://www.youtube.com/watch?v=LbT052dM6vI)
 - Links
+    - [Reddit Search for Tribit Xsound Mega](https://www.reddit.com/search/?q=Tribit+Xsound+Mega)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Mega/)
 
 ## #21 [Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-MaxSound-Bluetooth-Exceptional-Waterproof/dp/B07MQWG3PR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5e58be25a0cba92765548d7a003add94&camp=1789&creative=9325)]: $50
@@ -661,6 +681,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Tribit Maxsound Plus v1 vs V2 - upgraded Maxsound Plus tested! 🏅](https://www.youtube.com/watch?v=8dxlVDGHAo4)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-maxsound-plus-bluetooth-speakers)
+    - [Reddit Search for Tribit Maxsound Plus V1/V2/Thunderbox Plus](https://www.reddit.com/search/?q=Tribit+Maxsound+Plus+V1%2FV2%2FThunderbox+Plus)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Maxsound-Plus-V1V2Thunderbox-Plus/)
 
 ## #22 [Harman Kardon Luna](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Luna-Speaker-Waterproof/dp/B0CF7YGTRV/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=67a4554f00a32139eb0bf9349ad59385&camp=1789&creative=9325)]: $150
@@ -689,6 +710,7 @@ Last updated: March 05, 2026
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
+    - [Reddit Search for Harman Kardon Luna](https://www.reddit.com/search/?q=Harman+Kardon+Luna)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Luna/)
 
 ## #23 [Bogasing G4](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)]: $49
@@ -711,6 +733,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Bogasing G4 spot cheap speaker - I was NOT expecting this!](https://www.youtube.com/watch?v=VC7Jq6k26Dk)
 - Links
+    - [Reddit Search for Bogasing G4](https://www.reddit.com/search/?q=Bogasing+G4)
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-G4/)
 
 ## #24 [Bogasing M4](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-BOGASING-M4-Surround-Waterproof/dp/B0925X3ZDG/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0cbe2396d59675eace8b996f607e8fc2&camp=1789&creative=9325)]: $52
@@ -735,6 +758,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Bogasing M4 or Soundcore Boost or Maxsound Plus for $50 champion?? 🤷‍♀️](https://www.youtube.com/watch?v=7XZgoEVW7Ng)
     - [Alan Ross Reviews: Tronsmart Element Force review vs Bogasing M4 - cheap speaker 🤑](https://www.youtube.com/watch?v=1btEBiXCEF0)
 - Links
+    - [Reddit Search for Bogasing M4](https://www.reddit.com/search/?q=Bogasing+M4)
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-M4/)
 
 ## #25 [JBL Charge 5 Wifi](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Charge-Portable-Wireless-Speaker/dp/B0CH9K2ZLF?crid=3NORJOIFXJPAZ&dib=eyJ2IjoiMSJ9.EV-Y6ZudoXr_qsKLcIZjwUZCstcttYSQuzwsqUOxTsHgEyu7vO8J0pbhsQ344w-bseL2UPjAPaTiQdnjKG478REiaIfbo8bFwjQp0mPpcbz_FgnhVKMMFn3gpRMb83Uksk-HX7dxqzGf2PkdfgHq0mpi3Sdgh8W_Q9HhTYWaHDofSpJKYg_pcTIZhFmLTWuEHueMfqX2MM7WGADT4tJ8By_Ro86SyI58v9C7UQcy3xk.A1a2LvgP9I-bmL3RYztibPGsGBO_ZPuCCrfNSbrEIBk&dib_tag=se&keywords=charge%2B5%2Bwifi&qid=1742760679&sprefix=charge%2B5%2Bwifi%2Caps%2C223&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=889366fb99e32465ccc92683613785f7&language=en_US&ref_=as_li_ss_tl)]: $250
@@ -765,6 +789,7 @@ Last updated: March 05, 2026
     - [GYMCADDY: JBL Charge 5 Wifi Review - Is Wifi Worth The Upgrade?](https://www.youtube.com/watch?v=cAhKNL1rpLU)
 - Links
     - [Official Product Page](https://www.jbl.com/wifi-speakers/CHARGE-5-WIFI.html)
+    - [Reddit Search for JBL Charge 5 Wifi](https://www.reddit.com/search/?q=JBL+Charge+5+Wifi)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5-Wifi/)
 
 ## #26 [JBL Charge 5](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-CHARGE-Portable-Bluetooth-Waterproof/dp/B08X4VXF1M/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e9aee441918f1c7dd7773f12bfbec5b7&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1622608-REG/jbl_jblcharge5redam_charge_5_portable_speaker.html?BI=23745&KBID=29189)]: $180
@@ -816,6 +841,7 @@ Last updated: March 05, 2026
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
+    - [Reddit Search for JBL Charge 5](https://www.reddit.com/search/?q=JBL+Charge+5)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-5/)
 
 ## #27 [Soundcore Boom 3i](https://www.amazon.com/Soundcore-Speakers-Waterproof-Saltwater-Resistant-Bluetooth/dp/B0F6315R3J?crid=1I3RZARPHMIYJ&dib=eyJ2IjoiMSJ9.F8ZRNeIM-cmxNNjZ32cCpS1eoMv976h2MaOc0fIyeagUot1EKLRfoK8JiFv9moGk4H9-_F1FPjwtr6Aah1-pPNTiS8Z968lnN3Fq44NYNyqb3K1kDSq5OR98sCBgS4qS9h2arynWlgFGrW68pZQSy3ECVrV3ODy5pIFlHN5EPlO7Y6XX5dj-lO0ay7DM4BaLOv4JyHhiQdxvzPrIBkULKVG397c3hhy44RXou4q4URA.XlqU3xXJ5cj901gTYhtTYdjNoBvGe_BylOv3dFoZ-MM&dib_tag=se&keywords=soundcore%2Bboom%2B3i&qid=1752512605&sprefix=soundcore%2Bboom%2B3i%2Caps%2C220&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=259183c00073e5792773d4a2b889a3cc&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Speakers-Waterproof-Saltwater-Resistant-Bluetooth/dp/B0F6315R3J?crid=1I3RZARPHMIYJ&dib=eyJ2IjoiMSJ9.F8ZRNeIM-cmxNNjZ32cCpS1eoMv976h2MaOc0fIyeagUot1EKLRfoK8JiFv9moGk4H9-_F1FPjwtr6Aah1-pPNTiS8Z968lnN3Fq44NYNyqb3K1kDSq5OR98sCBgS4qS9h2arynWlgFGrW68pZQSy3ECVrV3ODy5pIFlHN5EPlO7Y6XX5dj-lO0ay7DM4BaLOv4JyHhiQdxvzPrIBkULKVG397c3hhy44RXou4q4URA.XlqU3xXJ5cj901gTYhtTYdjNoBvGe_BylOv3dFoZ-MM&dib_tag=se&keywords=soundcore%2Bboom%2B3i&qid=1752512605&sprefix=soundcore%2Bboom%2B3i%2Caps%2C220&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=259183c00073e5792773d4a2b889a3cc&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1933062-REG/soundcore_by_anker_d5100010_boom_3i_portable_outdoor.html?BI=23745&KBID=29189)]: $110
@@ -841,6 +867,7 @@ Last updated: March 05, 2026
     - [Picky Audio: Compact Speaker BEAST! 🔥 soundcore Boom 3i](https://www.youtube.com/watch?v=EqSWcfgbX-8)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fd5100-boom-3i-waterproof-bluetooth-speaker&cjsku=D5100060)
+    - [Reddit Search for Soundcore Boom 3i](https://www.reddit.com/search/?q=Soundcore+Boom+3i)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boom-3i/)
 
 ## #28 [1More S1001bt](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/1MORE-Portable-Bluetooth-Waterproof-S1001BT/dp/B07ZYYRSBZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=275963e3dbbdfdd820da9a1b1f63d49a&camp=1789&creative=9325)]: $74
@@ -866,6 +893,7 @@ Last updated: March 05, 2026
     - [NJ Studio Channel: Tribit stormbox micro vs 1More s1001bt Bass Test!!🔥](https://www.youtube.com/watch?v=7ZnTEkAwy98)
 - Links
     - [Official Product Page](https://global.1more.com/products/1more-portable-bt-speaker)
+    - [Reddit Search for 1More S1001bt](https://www.reddit.com/search/?q=1More+S1001bt)
     - [Direct Speakerranking Link](/portable/speakers/1More-S1001bt/)
 
 ## #29 [Cleer Audio Scene](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Cleer-Audio-Bluetooth-Speaker-Built/dp/B0BS78BC7V?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5abcf82caa69414b09e0399cd876e62f&language=en_US&ref_=as_li_ss_tl)]: $100
@@ -893,6 +921,7 @@ Last updated: March 05, 2026
     - [DHRME: Cleerly More Than Just A Speaker! Cleer Scene Review](https://www.youtube.com/watch?v=YNifFrDKbV0)
 - Links
     - [Official Product Page](https://cleeraudio.com/smart-speakers/scene-water-resistant-bluetooth-speaker/)
+    - [Reddit Search for Cleer Audio Scene](https://www.reddit.com/search/?q=Cleer+Audio+Scene)
     - [Direct Speakerranking Link](/portable/speakers/Cleer-Audio-Scene/)
 
 ## #30 [Earfun Uboom 360](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Wireless-Waterproof/dp/B07SGXBR2H/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6787bb72d7e84abdabda1bce315bb90d&camp=1789&creative=9325)]: $42
@@ -915,6 +944,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Earfun Uboom Review - full test - vs tribit maxsound and motion plus!](https://www.youtube.com/watch?v=4xVEvEitaPU)
     - [Alan Ross Reviews: Earfun Uboom vs Tribit Stormbox - 360 degree bluetooth speaker comparison](https://www.youtube.com/watch?v=AeaMQ3DR_hE)
 - Links
+    - [Reddit Search for Earfun Uboom 360](https://www.reddit.com/search/?q=Earfun+Uboom+360)
     - [Direct Speakerranking Link](/portable/speakers/Earfun-Uboom-360/)
 
 ## #31 Teufel Rockster XS: €180
@@ -933,6 +963,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
 - Links
     - [Official Product Page](https://ie.teufelaudio.com/rockster-xs-105565000)
+    - [Reddit Search for Teufel Rockster XS](https://www.reddit.com/search/?q=Teufel+Rockster+XS)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster-XS/)
 
 ## #32 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl)]: $60
@@ -961,6 +992,7 @@ Last updated: March 05, 2026
     - [Oluv: Tribit XSound Plus 2 - first impressions](https://www.patreon.com/posts/tribit-xsound-2-99145415)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-plus-2-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Xsound Plus 2](https://www.reddit.com/search/?q=Tribit+Xsound+Plus+2)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Plus-2/)
 
 ## #33 [Bose Soundlink Flex 2nd gen](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl)]: $150
@@ -987,6 +1019,7 @@ Last updated: March 05, 2026
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Flex 2nd gen](https://www.reddit.com/search/?q=Bose+Soundlink+Flex+2nd+gen)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Flex-2nd-gen/)
 
 ## #34 [Bose Soundlink Flex](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Portable-Waterproof/dp/B099TJGJ91/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=35cbc843dbc523469991d0a3056c082a&camp=1789&creative=9325)]: $150
@@ -1027,6 +1060,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Bose Soundlink Flex vs Minirig MK3 and Marshall Emberton - best bluetooth speaker?](https://www.youtube.com/watch?v=nseOM9Ah-jE)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-bluetooth-speaker/SLFLX-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Flex](https://www.reddit.com/search/?q=Bose+Soundlink+Flex)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Flex/)
 
 ## #35 JBL Charge Essential 2: $130
@@ -1051,6 +1085,7 @@ Last updated: March 05, 2026
     - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
     - [Official Product Page](https://www.jbl.com/CHARGE-ESSENTIAL-2-.html)
+    - [Reddit Search for JBL Charge Essential 2](https://www.reddit.com/search/?q=JBL+Charge+Essential+2)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-Essential-2/)
 
 ## #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
@@ -1066,6 +1101,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Huawei sound joy vs JBL Charge 5 and Flip 6 - top mono speaker! 🤓](https://www.youtube.com/watch?v=xLJs_zM0UMg)
     - [Alan Ross Reviews: Huawei Sound Joy vs Sony xb23 - worse or worser? 🤭](https://www.youtube.com/watch?v=MeQ5llKSqvc)
 - Links
+    - [Reddit Search for Huawei Sound Joy](https://www.reddit.com/search/?q=Huawei+Sound+Joy)
     - [Direct Speakerranking Link](/portable/speakers/Huawei-Sound-Joy/)
 
 ## #37 [Fugoo Sport](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/FUGOO-Sport-Portable-Bluetooth-Waterproof/dp/B00IBJ3MT8/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2a5683fa033039984765fdfa45b10bed&camp=1789&creative=9325)]: $33
@@ -1083,6 +1119,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=EtyIRk22UN0>
 - Links
     - [Official Product Page](https://fugoo.com/products/fugoo)
+    - [Reddit Search for Fugoo Sport](https://www.reddit.com/search/?q=Fugoo+Sport)
     - [Direct Speakerranking Link](/portable/speakers/Fugoo-Sport/)
 
 ## #38 [Sony ULT Field 1](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Shockproof-Detachable/dp/B0CXKSCY1G?crid=372IEDT5LF8S6&dib=eyJ2IjoiMSJ9.6Lot_Ab9pslsUKgNe6tPaVTnAXulWmE-iZv3nklLWwRc1YmjRM-tfkaHPEfLUP7wpciQX95zVvpt77pIkumyrXu78ZL78DwzAvRVTrn4jD4imC6eTPY5WLMh5tLhvaxF.X-UkNsAA0oN7kU4GkvQoyhkDO1AtZ6WegsxYzghjOG8&dib_tag=se&keywords=sony%2Bult%2Bfield%2B1&qid=1713373193&sprefix=sony%2Bult%2Bfield%2B%2Caps%2C433&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6b5e6e700acfe465c646042856acbb1c&language=en_US&ref_=as_li_ss_tl)]: $128
@@ -1108,6 +1145,7 @@ Last updated: March 05, 2026
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs Sony ULT Field 1 😧 $200 vs $128 Cylinder Bluetooth Speaker Matchup](https://www.youtube.com/watch?v=lrVa4Cnrets)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b)
+    - [Reddit Search for Sony ULT Field 1](https://www.reddit.com/search/?q=Sony+ULT+Field+1)
     - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Field-1/)
 
 ## #39 Earfun Uboom Slim
@@ -1120,6 +1158,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [スピーカー音質比較: EarFun　UBOOM Slim　音質比較　Norah Jones 「Don't Know Why」](https://www.youtube.com/watch?v=mqqE0rqYLNQ)
 - Links
+    - [Reddit Search for Earfun Uboom Slim](https://www.reddit.com/search/?q=Earfun+Uboom+Slim)
     - [Direct Speakerranking Link](/portable/speakers/Earfun-Uboom-Slim/)
 
 ## #40 [Soundcore Motion 100](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Ultra-Portable-Customizable/dp/B0CJJ8DJT6/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f5e64c4dd6064337a429d2b3c4409012&camp=1789&creative=9325)]: $47
@@ -1146,6 +1185,7 @@ Last updated: March 05, 2026
     - [Oluv: SoundCore Motion 100 - first impressions](https://www.patreon.com/posts/soundcore-motion-94092689)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-100-a3133011)
+    - [Reddit Search for Soundcore Motion 100](https://www.reddit.com/search/?q=Soundcore+Motion+100)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Motion-100/)
 
 ## #41 [Tribit Stormbox Pro](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Radiators-Exceptional-Waterproof/dp/B08MZZTH1N/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=753d01fda97dfd85c30bde06c1dff93c&camp=1789&creative=9325)]: $90
@@ -1174,6 +1214,7 @@ Last updated: March 05, 2026
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-pro-portable-speaker)
+    - [Reddit Search for Tribit Stormbox Pro](https://www.reddit.com/search/?q=Tribit+Stormbox+Pro)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Pro/)
 
 ## #42 [Xiaomi Sound Outdoor](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B0D9ZHZDV3?crid=3RA4TEAI06H5I&dib=eyJ2IjoiMSJ9.q99J2aDzdHfFkAp1RNroBh81NzfQa1-e1h74nWrFNw46wu0iF8Txs8y-tJcuth-eN2EmHNyW6cMggBKjyUJxE0PeT2nilstKGezarquzJjbjSDqKC5JdukHD4W6nKe_qdp1yD5OeRKDAP11cqGtmgqISK5_g_bYhU_TzD_BQ9B8_ye9dJYrcHV7I8DbNhpg9s2qnddmGOcEFtyfGGn51Lqb8BhYuNGWbBHHx1K5el5Q.nctcp_LM8Qx9CB4-cOvd6zfP5KCJPhh5--kuurILEUg&dib_tag=se&keywords=xiaomi%2Bsound%2Boutdoor&qid=1742234895&sprefix=xiaomi%2Bsound%2Boutdoo%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=44280b93bfe81370fbc637e1e1b0054a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B0D9ZHZDV3?crid=3RA4TEAI06H5I&dib=eyJ2IjoiMSJ9.q99J2aDzdHfFkAp1RNroBh81NzfQa1-e1h74nWrFNw46wu0iF8Txs8y-tJcuth-eN2EmHNyW6cMggBKjyUJxE0PeT2nilstKGezarquzJjbjSDqKC5JdukHD4W6nKe_qdp1yD5OeRKDAP11cqGtmgqISK5_g_bYhU_TzD_BQ9B8_ye9dJYrcHV7I8DbNhpg9s2qnddmGOcEFtyfGGn51Lqb8BhYuNGWbBHHx1K5el5Q.nctcp_LM8Qx9CB4-cOvd6zfP5KCJPhh5--kuurILEUg&dib_tag=se&keywords=xiaomi%2Bsound%2Boutdoor&qid=1742234895&sprefix=xiaomi%2Bsound%2Boutdoo%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=44280b93bfe81370fbc637e1e1b0054a&language=en_US&ref_=as_li_ss_tl)]: $33
@@ -1199,6 +1240,7 @@ Last updated: March 05, 2026
     - [FishBee Product Reviews: Xiaomi Mi Sound Outdoor 30W Speaker vs JBL Flip 6 - CRAZY GOOD!](https://www.youtube.com/watch?v=HWN-qW5vvyY)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/xiaomi-sound-outdoor/)
+    - [Reddit Search for Xiaomi Sound Outdoor](https://www.reddit.com/search/?q=Xiaomi+Sound+Outdoor)
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Sound-Outdoor/)
 
 ## #43 [JBL Pulse 5](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Pulse-Portable-Bluetooth-Dazzling/dp/B0BQPVNJFN/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8b48ca45dcef93c47ad955834b1af3a6&camp=1789&creative=9325)]: $250
@@ -1224,6 +1266,7 @@ Last updated: March 05, 2026
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
+    - [Reddit Search for JBL Pulse 5](https://www.reddit.com/search/?q=JBL+Pulse+5)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Pulse-5/)
 
 ## #44 [Soundcore Glow](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Portable-Synchronized-Customizable-Waterproof/dp/B0CJ4Z89GK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ab6da4919a305b561727860c8c4226ce&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837387-REG/soundcore_by_anker_a3166z11_glow_portable_speaker.html?BI=23745&KBID=29189)]: $80
@@ -1249,6 +1292,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Soundcore Glow: best budget 360 degree speaker or get the Bose Revolve+? 1 hour of fun!](https://www.youtube.com/watch?v=bcoORyAD22o)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fa3166011)
+    - [Reddit Search for Soundcore Glow](https://www.reddit.com/search/?q=Soundcore+Glow)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Glow/)
 
 ## #45 [W-King D320](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Bluetooth-Speakers-Waterproof-Customized/dp/B0C9PRT6ZQ/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=49b8d382e755a05e3cae1d2bdecf375f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c39V6kzd)]: $64
@@ -1274,6 +1318,7 @@ Last updated: March 05, 2026
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/w-king-d320-40w-portable-speaker)
+    - [Reddit Search for W-King D320](https://www.reddit.com/search/?q=W-King+D320)
     - [Direct Speakerranking Link](/portable/speakers/W-King-D320/)
 
 ## #46 [Bose Soundlink Revolve+ II](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Revolve-Portable-Bluetooth/dp/B08VL5S148/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=60929f55122cbef30dc8d9e754d8eb4e&camp=1789&creative=9325)]: $300
@@ -1292,6 +1337,7 @@ Last updated: March 05, 2026
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-revolve-ii-bluetooth-speaker/SLRVPII-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Revolve+ II](https://www.reddit.com/search/?q=Bose+Soundlink+Revolve%2B+II)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Revolve+-II/)
 
 ## #47 Bose Soundlink Revolve+: $230
@@ -1314,6 +1360,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=dP36vzF-ykY>
     - <https://www.youtube.com/watch?v=Fi1x6UuIkI4>
 - Links
+    - [Reddit Search for Bose Soundlink Revolve+](https://www.reddit.com/search/?q=Bose+Soundlink+Revolve%2B)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Revolve+/)
 
 ## #48 Tronsmart Element Force: $66
@@ -1332,6 +1379,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Tronsmart Element Force review vs Bogasing M4 - cheap speaker 🤑](https://www.youtube.com/watch?v=1btEBiXCEF0)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/element-force-waterproof-portable-bluetooth-speaker)
+    - [Reddit Search for Tronsmart Element Force](https://www.reddit.com/search/?q=Tronsmart+Element+Force)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Element-Force/)
 
 ## #49 Bose Soundlink Revolve: $180
@@ -1357,6 +1405,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
 - Links
+    - [Reddit Search for Bose Soundlink Revolve](https://www.reddit.com/search/?q=Bose+Soundlink+Revolve)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Revolve/)
 
 ## #50 [Tribit Stormbox Flow](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Flow-Bluetooth-Waterproof/dp/B0CCJ3XHK5/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2537bf7b2786a011ba53f16553775867&camp=1789&creative=9325)]: $60
@@ -1383,6 +1432,7 @@ Last updated: March 05, 2026
     - [Oluv: Tribit Stormbox Flow - sound demo](https://www.patreon.com/posts/tribit-stormbox-90484533)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-flow-portable-speaker)
+    - [Reddit Search for Tribit Stormbox Flow](https://www.reddit.com/search/?q=Tribit+Stormbox+Flow)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Flow/)
 
 ## #51 [JBL Charge 4](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Portable-Waterproof-Wireless-Bluetooth/dp/B07HKQ6YGX/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b3b9a09c0824d4dcc48af56d073e56a7&camp=1789&creative=9325)]: $85
@@ -1418,6 +1468,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
+    - [Reddit Search for JBL Charge 4](https://www.reddit.com/search/?q=JBL+Charge+4)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-4/)
 
 ## #52 [Tozo PA1](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA1-Bluetooth-Speakers-Waterproof/dp/B0BGXSZQ1F/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=94dc12cf6862e57996667276bee179b9&camp=1789&creative=9325)]: $36
@@ -1441,6 +1492,7 @@ Last updated: March 05, 2026
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
+    - [Reddit Search for Tozo PA1](https://www.reddit.com/search/?q=Tozo+PA1)
     - [Direct Speakerranking Link](/portable/speakers/Tozo-PA1/)
 
 ## #53 [Bogasing M5](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/BOGASING-Bluetooth-Speakers-M5-Waterproof/dp/B0BRCDTN9Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a1a4dac72e078ca96458860443d6712b&camp=1789&creative=9325)]: $38
@@ -1465,6 +1517,7 @@ Last updated: March 05, 2026
     - [Oluv: Bogasing M5](https://www.patreon.com/posts/bogasing-m5-126932777)
     - [Jay's Straight Up Reviews & More: Klipsch Nashville vs Bogasing M5 Bi-Directional Speaker Battle](https://www.youtube.com/watch?v=q_W1Wa63xXc)
 - Links
+    - [Reddit Search for Bogasing M5](https://www.reddit.com/search/?q=Bogasing+M5)
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-M5/)
 
 ## #54 [Soundcore 3/Soundcore Select 2](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Diaphragm-Technology-Waterproof/dp/B08BCHKY52/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5a412ff26ca3238d2218d9f8b863a7b8&camp=1789&creative=9325)]: $50
@@ -1487,6 +1540,7 @@ Last updated: March 05, 2026
     - [HQ AUDIO Exchange: Anker SoundCore 3  Vs. SoundCore Select 2 Bass Sound Test](https://www.youtube.com/watch?v=XpkitJveFlc)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3117011&cjsku=A3117011)
+    - [Reddit Search for Soundcore 3/Soundcore Select 2](https://www.reddit.com/search/?q=Soundcore+3%2FSoundcore+Select+2)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-3Soundcore-Select-2/)
 
 ## #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
@@ -1508,6 +1562,7 @@ Last updated: March 05, 2026
     - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-mini-ii-special-edition/SLMINIISE-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Mini 2](https://www.reddit.com/search/?q=Bose+Soundlink+Mini+2)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Mini-2/)
 
 ## #56 Bose Soundlink Mini: $150
@@ -1527,6 +1582,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=wpgnV1L6R_0>
 - Links
     - [Official Product Page](https://support.bose.com/s/product/soundlink-mini-bluetooth-speaker/01t8c00000OydNqAAJ)
+    - [Reddit Search for Bose Soundlink Mini](https://www.reddit.com/search/?q=Bose+Soundlink+Mini)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Mini/)
 
 ## #57 [Xiaomi Mi Portable](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Xiaomi-Portable-Bluetooth-Wireless-Waterproof/dp/B09FGSFRP5/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0de5a26594389ce0fd11379e1e3ac6bf&camp=1789&creative=9325)]: $55
@@ -1541,6 +1597,7 @@ Last updated: March 05, 2026
     - [Techder Audios: Anker Soundcore 3 Vs Soundynamic Twinkle Vs Xiaomi Mi 16w](https://www.youtube.com/watch?v=TF748bXDjIs)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/mi-portable-bluetooth-speaker/)
+    - [Reddit Search for Xiaomi Mi Portable](https://www.reddit.com/search/?q=Xiaomi+Mi+Portable)
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Portable/)
 
 ## #58 Sony XB33: $110
@@ -1566,6 +1623,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb33/specifications)
+    - [Reddit Search for Sony XB33](https://www.reddit.com/search/?q=Sony+XB33)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB33/)
 
 ## #59 Creative iRoar Go: $83
@@ -1583,6 +1641,7 @@ Last updated: March 05, 2026
     - [techkiste.net: Bose Soundlink Mini 2 vs the world ;) (Denon Envaya DSB250, Vifa Reykjavik, iRoar Go)](https://www.youtube.com/watch?v=AEVRp_Un5gk)
 - Links
     - [Official Product Page](https://us.creative.com/p/speakers/creative-iroar-go)
+    - [Reddit Search for Creative iRoar Go](https://www.reddit.com/search/?q=Creative+iRoar+Go)
     - [Direct Speakerranking Link](/portable/speakers/Creative-iRoar-Go/)
 
 ## #60 [Beats Pill 2024](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl)]: $150
@@ -1609,6 +1668,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
     - [Official Product Page](https://www.beatsbydre.com/speakers/beats-pill)
+    - [Reddit Search for Beats Pill 2024](https://www.reddit.com/search/?q=Beats+Pill+2024)
     - [Direct Speakerranking Link](/portable/speakers/Beats-Pill-2024/)
 
 ## #61 [JBL Flip 5](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK18BNY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=47154d4b70c2d797faf97703477cde39&camp=1789&creative=9325)]: $90
@@ -1633,6 +1693,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Marshall Emberton vs JBL Flip 5 & Soundcore Boost - true  stereophonic 🤓](https://www.youtube.com/watch?v=nNVh5K8fFw8)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+FLIP+5-.html)
+    - [Reddit Search for JBL Flip 5](https://www.reddit.com/search/?q=JBL+Flip+5)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-5/)
 
 ## #62 [JBL Flip 4](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Flip4-Bluetooth-Speaker-Camouflage/dp/B06VYGG6H5/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=011ca846ee1f4ce9fc5a6219ecdefa66&camp=1789&creative=9325)]: $70
@@ -1661,6 +1722,7 @@ Last updated: March 05, 2026
     - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
     - [Official Product Page](https://www.jbl.com/gift-yourself/JBL+Flip+4.html)
+    - [Reddit Search for JBL Flip 4](https://www.reddit.com/search/?q=JBL+Flip+4)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-4/)
 
 ## #63 Sony XB23: $100
@@ -1681,6 +1743,7 @@ Last updated: March 05, 2026
     - [GYMCADDY: Sony XE200 Review And Compared to Sony XB23 - It Got The XE300 Treatment](https://www.youtube.com/watch?v=Hy4zdIT9J60)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/wireless-speakers/srs-xb23/specifications)
+    - [Reddit Search for Sony XB23](https://www.reddit.com/search/?q=Sony+XB23)
     - [Direct Speakerranking Link](/portable/speakers/Sony-XB23/)
 
 ## #64 [Klipsch Nashville](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Nashville-Portable-Bluetooth-Speaker/dp/B0CC2NJ8ML?crid=Y9NV357ML95U&dib=eyJ2IjoiMSJ9.Roei5XsweSpWcJYiC3-4tHDzaEGxge7zkFSpbV-zJQKRitde9EFQbZLEgKsha-iUCkFjHf41odWxxQ1oJd7710ZDH9Y_GAR_PhXYBoVkn-Fdfg2AcvRtMI4M2k48R6P1CHY0YSNe5KvOAFcHHaMRXApMYV-eAhAywJMG99okQQF9p7AIPr-t3I6emJ7kVXKgJs6Y2l_v0g9rwAsFiVpYWIGWFRD3grsHWSMDeTzEXSc.gXnT0lS1cHrZz3nu-QL9HKGS8ehDVDRx6jENAlbEC9M&dib_tag=se&keywords=klipsch%2Bnashville&qid=1718938949&sprefix=klipsch%2Bnashvill%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ed698704cafd4e44e296f6d23a6d050b&language=en_US&ref_=as_li_ss_tl)]: $150
@@ -1708,6 +1771,7 @@ Last updated: March 05, 2026
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/nashville)
+    - [Reddit Search for Klipsch Nashville](https://www.reddit.com/search/?q=Klipsch+Nashville)
     - [Direct Speakerranking Link](/portable/speakers/Klipsch-Nashville/)
 
 ## #65 JBL Flip Essential: $130
@@ -1726,6 +1790,7 @@ Last updated: March 05, 2026
     - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
+    - [Reddit Search for JBL Flip Essential](https://www.reddit.com/search/?q=JBL+Flip+Essential)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Flip-Essential/)
 
 ## #66 JBL Charge 3: $80
@@ -1757,6 +1822,7 @@ Last updated: March 05, 2026
     - [EnforcerMan: JBL CHARGE 3 VS TREBLAB HD77 - FULL REVIEW](https://www.youtube.com/watch?v=6N6q3qppV58)
 - Links
     - [Official Product Page](https://www.harmanaudio.com/portable-speakers/JBL+CHARGE+III.html)
+    - [Reddit Search for JBL Charge 3](https://www.reddit.com/search/?q=JBL+Charge+3)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-3/)
 
 ## #67 JBL Charge Essential: $180
@@ -1779,6 +1845,7 @@ Last updated: March 05, 2026
     - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
+    - [Reddit Search for JBL Charge Essential](https://www.reddit.com/search/?q=JBL+Charge+Essential)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-Essential/)
 
 ## #68 JBL Charge 2
@@ -1800,6 +1867,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=tSOxKbWf8OY>
 - Links
     - [Official Product Page](https://www.jbl.com/charge/JBL+CHARGE+II+PLUS.html)
+    - [Reddit Search for JBL Charge 2](https://www.reddit.com/search/?q=JBL+Charge+2)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Charge-2/)
 
 ## #69 [Sonos Roam 2](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Roam-Portable-Waterproof-Bluetooth-Speaker/dp/B0CY6S748H?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=34e4e1c20baae066b548febdc8079922&language=en_US&ref_=as_li_ss_tl)]: $180
@@ -1817,6 +1885,7 @@ Last updated: March 05, 2026
     - [The Product Lab: Sonos Roam 2 (2025)  Watch Before You Buy](https://www.youtube.com/watch?v=2irJYDv7O74)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
+    - [Reddit Search for Sonos Roam 2](https://www.reddit.com/search/?q=Sonos+Roam+2)
     - [Direct Speakerranking Link](/portable/speakers/Sonos-Roam-2/)
 
 ## #70 [Sonos Roam](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sonos-ROAM1US1BLK-Roam-Black/dp/B08Z1RP9K8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=908b6ea7e68224b22c749fa7d3c81974&camp=1789&creative=9325)]: $160
@@ -1836,6 +1905,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
+    - [Reddit Search for Sonos Roam](https://www.reddit.com/search/?q=Sonos+Roam)
     - [Direct Speakerranking Link](/portable/speakers/Sonos-Roam/)
 
 ## #71 [KEF Muo](https://www.amazon.com/KEF-High-Fidelity-Portable-Speaker-Midnight/dp/B0FQCQCVKW?crid=3EJBT2BDVRIQR&dib=eyJ2IjoiMSJ9.Zy0V2UkIK0NQvSB5nqJ1PC6oYcBlfaN58r723-wEsrmXD4zROei84QG9WTIV9-cKTb7hKIQ6MIvMc9F6vX2u6fNaGow1Q09RuB4igroE3v4PQ8QDyhi3Ozi1FJVZ8lvuWOwx4yr5WIi3E9Uskfv_0Mkrd49HGVskNO-fmP0xvDvPDG7xhMSjGewNDmNK-HXlDceT0zG00vfojpry2sxFYjV7Oe-WK0kdk5K0FgV0wWE.MK_Jpf8X6FgtjEAhMGb1n_4_mzRfQUIIXVc1x0CWCJY&dib_tag=se&keywords=kef%2Bmuo&qid=1767633354&sprefix=kef%2Bmu%2Caps%2C234&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=9a97a6dd0d3a4b7b4418b11751eeae01&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-High-Fidelity-Portable-Speaker-Midnight/dp/B0FQCQCVKW?crid=3EJBT2BDVRIQR&dib=eyJ2IjoiMSJ9.Zy0V2UkIK0NQvSB5nqJ1PC6oYcBlfaN58r723-wEsrmXD4zROei84QG9WTIV9-cKTb7hKIQ6MIvMc9F6vX2u6fNaGow1Q09RuB4igroE3v4PQ8QDyhi3Ozi1FJVZ8lvuWOwx4yr5WIi3E9Uskfv_0Mkrd49HGVskNO-fmP0xvDvPDG7xhMSjGewNDmNK-HXlDceT0zG00vfojpry2sxFYjV7Oe-WK0kdk5K0FgV0wWE.MK_Jpf8X6FgtjEAhMGb1n_4_mzRfQUIIXVc1x0CWCJY&dib_tag=se&keywords=kef%2Bmuo&qid=1767633354&sprefix=kef%2Bmu%2Caps%2C234&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=9a97a6dd0d3a4b7b4418b11751eeae01&language=en_US&ref_=as_li_ss_tl)]: $250
@@ -1861,6 +1931,7 @@ Last updated: March 05, 2026
     - [Storytripper HD: KEF MUO vs JBL Charge 5](https://www.youtube.com/watch?v=K5k7HZFH6DY)
 - Links
     - [Official Product Page](https://us.kef.com/products/muo)
+    - [Reddit Search for KEF Muo](https://www.reddit.com/search/?q=KEF+Muo)
     - [Direct Speakerranking Link](/portable/speakers/KEF-Muo/)
 
 ## #72 [Tronsmart Mirtune S100](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl)]: $64
@@ -1881,6 +1952,7 @@ Last updated: March 05, 2026
     - [KULAS TECH SHOW: JBL Charge 5 vs Tronsmart Mirtune S100 - Sound Comparison💥🔥](https://www.youtube.com/watch?v=jfB1dUCEsGQ)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-mirtune-s100-portable-outdoor-speaker)
+    - [Reddit Search for Tronsmart Mirtune S100](https://www.reddit.com/search/?q=Tronsmart+Mirtune+S100)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-Mirtune-S100/)
 
 ## #73 [JBL Grip](https://www.amazon.com/JBL-Portable-Bluetooth-Speaker-JBLGRIPBK/dp/B0FX3DT31L?adgrpid=194862608308&dib=eyJ2IjoiMSJ9.uvw1cSMTD4Pz6eQk6kSFsEi-YHL-QDTAPd-ahhH6dfR91GGTpl_elUsHGaUp2XtVBC9AGYbiew4CO-HlnEonukwjvj_tp9R-vZs6fYWRsgnpY0ngod4dl1KUIOwizTeaA51pouSi-arQPWP8GXTIZzIGmQQQ97gSV7dPuvpFQ_WlOJN5a1lo2u9OB73CObRVJ0LgNmZiYyEc-Hdhf-qNojNp6BJYH0XCJILUKnpJA_Y.Kw1cbJH9lC5zWJOFvd9sRQ-4xrmBychOdxckRzT6aBs&dib_tag=se&hvadid=779537558130&hvdev=c&hvexpln=0&hvlocphy=9032161&hvnetw=g&hvocijid=12721132600924579859--&hvqmt=b&hvrand=12721132600924579859&hvtargid=kwd-2440872127611&hydadcr=5716_13510392_2333867&keywords=jbl%2Bgrip%2Bportable%2Bbluetooth%2Bspeaker&mcid=aad6940ccfd6333bbb882122e107d505&qid=1771271780&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=68f22817ede39cc873da501e597b11e6&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Portable-Bluetooth-Speaker-JBLGRIPBK/dp/B0FX3DT31L?adgrpid=194862608308&dib=eyJ2IjoiMSJ9.uvw1cSMTD4Pz6eQk6kSFsEi-YHL-QDTAPd-ahhH6dfR91GGTpl_elUsHGaUp2XtVBC9AGYbiew4CO-HlnEonukwjvj_tp9R-vZs6fYWRsgnpY0ngod4dl1KUIOwizTeaA51pouSi-arQPWP8GXTIZzIGmQQQ97gSV7dPuvpFQ_WlOJN5a1lo2u9OB73CObRVJ0LgNmZiYyEc-Hdhf-qNojNp6BJYH0XCJILUKnpJA_Y.Kw1cbJH9lC5zWJOFvd9sRQ-4xrmBychOdxckRzT6aBs&dib_tag=se&hvadid=779537558130&hvdev=c&hvexpln=0&hvlocphy=9032161&hvnetw=g&hvocijid=12721132600924579859--&hvqmt=b&hvrand=12721132600924579859&hvtargid=kwd-2440872127611&hydadcr=5716_13510392_2333867&keywords=jbl%2Bgrip%2Bportable%2Bbluetooth%2Bspeaker&mcid=aad6940ccfd6333bbb882122e107d505&qid=1771271780&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=68f22817ede39cc873da501e597b11e6&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1908805-REG/jbl_jblgripblkam_grip_portable_bluetooth_speaker.html?BI=23745&KBID=29189)]: $90
@@ -1905,6 +1977,7 @@ Last updated: March 05, 2026
     - [Oluv: JBL Grip - listening test](https://www.patreon.com/posts/jbl-grip-test-150255893)
 - Links
     - [Official Product Page](https://www.jbl.com/GRIP-1.html)
+    - [Reddit Search for JBL Grip](https://www.reddit.com/search/?q=JBL+Grip)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Grip/)
 
 ## #74 [Treblab HD77](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TREBLAB-HD77-Premium-Bluetooth-Speaker/dp/B07GBDMF12?mcid=05e2e414509b3a6b97b646b92e223fa3&hvocijid=1189764362394821422-B07GBDMF12-&hvexpln=73&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1189764362394821422&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435180978&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=31ed89d192994a27bbccc257d4e450de&language=en_US&ref_=as_li_ss_tl)]: $60
@@ -1927,6 +2000,7 @@ Last updated: March 05, 2026
     - [Brian Unboxed: Treblab HD77 Bluetooth Speakers - Review & Audio Samples](https://www.youtube.com/watch?v=q91zXgCpPQQ)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd77)
+    - [Reddit Search for Treblab HD77](https://www.reddit.com/search/?q=Treblab+HD77)
     - [Direct Speakerranking Link](/portable/speakers/Treblab-HD77/)
 
 ## #75 [Tribit Xsound Go](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-XSound-Bluetooth-Speakers-Built/dp/B07594HZ6Y?crid=1IKSQDYXJ4Y22&dib=eyJ2IjoiMSJ9.gAjuXs4o23Jwd3JMQScAxX4sBhhb8BLyiRHzYSwpwQTc-8osnWxHzlX9Gzr9wfqsVpi3W-WLqIVxMK8MP3VnmAalNPWwntxmuPJqF6ykI_Z5He5tkKGdWoZh18TUbjhpqZjrJQMZSH2a6X4bsGe9bF2wEeS548DS9Mz8TsALoNzJKZDt8owCIFgGuFzp_1qYLeRMrWUQ3khkIVHuvabLqH_8Zi8jf5V4WLGJm9GHWnE.t4CUf57l-0ZhciXsGLkTnnbsfjbaCkTgh7lPUdRfE5s&dib_tag=se&keywords=xsound%2Bgo&qid=1713374076&sprefix=xsound%2Bg%2Caps%2C153&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d61be9e104c4660c9928e8b62025ab84&language=en_US&ref_=as_li_ss_tl)]: $31
@@ -1947,6 +2021,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-go-bluetooth-speakers)
+    - [Reddit Search for Tribit Xsound Go](https://www.reddit.com/search/?q=Tribit+Xsound+Go)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Go/)
 
 ## #76 Tribit Xsound Surf: $26
@@ -1964,6 +2039,7 @@ Last updated: March 05, 2026
     - [Aphid Tech: Tribit XSound Surf vs Soundcore 2 - With Sound Comparison!](https://www.youtube.com/watch?v=Vyy56ZayWn0)
     - [Jay's Straight Up Reviews & More: Zealot S61 🦨 Bluetooth Speaker Review & Sound Comparison to Tribit XSound Surf. Another Zealot dud❓](https://www.youtube.com/watch?v=ADGFOxmXROs)
 - Links
+    - [Reddit Search for Tribit Xsound Surf](https://www.reddit.com/search/?q=Tribit+Xsound+Surf)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Xsound-Surf/)
 
 ## #77 [Tribit Stormbox 2](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Bluetooth-Surround-Waterproof/dp/B0CW933QSJ?crid=JRLMPS9TEK9Q&dib=eyJ2IjoiMSJ9.V8_DVGzTTDApHy9bWC8T0dbNcv8Ndv36V1-OhswHJEqDnABLk8qc0JIIX7OFJ5ItnDlRMiE-3kC1eFH7Suj3DUZNvZ3xq_JS-mRcKWTHKMEbUk6sr7Gn_Xnr8I46F0y5OuHuSNQzUrBD-MVbtvELu2wy5YqsW3SV3s0oRRXJPWodASCE6tuOpXTdW2j_meM8ZKA3SuwzFV3WYEJC6zhsnx0DDdnk-L898ODy0Tn8bt0.2UfD3MpVBgB2j3O_Zu6hnWRqxbFokRslYuGayLKoU-k&dib_tag=se&keywords=tribit+stormbox+2&qid=1724112335&sprefix=tribit+stormbox+2%2Caps%2C192&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=3ca2bce83fd8c848cc3260ce6af4301f&language=en_US&ref_=as_li_ss_tl)]: $70
@@ -1992,6 +2068,7 @@ Last updated: March 05, 2026
     - [Storytripper HD: Tribit Micro 2 vs Tribit STormBox 2 vs Tribit StormBox Mini](https://www.youtube.com/watch?v=j2RvrCmY31E)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-2-portable-speaker)
+    - [Reddit Search for Tribit Stormbox 2](https://www.reddit.com/search/?q=Tribit+Stormbox+2)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-2/)
 
 ## #78 [Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH?crid=1AIXPM5ZH8APV&dib=eyJ2IjoiMSJ9.oB1i0vbMoDYDOCqKMBEagxAwO-vyrV6ewldsg6vZJk5UgScwPvL-3gd4rWi6coTotRiiNrG2_6BtQlZngQgNtmu659iq7fIuyXSwESxcVFySWsn293SaVBOwF-37IPdf-UHskIVJkTTYFcCd3UZ79YIx5DE1ON-PuopZCVE6P1S3rXVQKDNqJI9r0z0fvJUUOSj9RFDrFglleOV1gf5HRvr0hmR1kTCaigy4CuupLJU.R0r1peZAzk14ZMBKs1gGKfYr9xQj2X8-FpishDMmL-o&dib_tag=se&keywords=soundcore%2B2&qid=1713373978&sprefix=soundcor%2Caps%2C259&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8ef916db50f1a3381c6ab793134f57f3&language=en_US&ref_=as_li_ss_tl)]: $35
@@ -2010,6 +2087,7 @@ Last updated: March 05, 2026
     - [SoulOfTech: Anker SoundCore 2 2021 Review and Sound Test - Best Budget Bluetooth Speaker](https://www.youtube.com/watch?v=bLi4fsS23Do)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-2&cjsku=A3105016)
+    - [Reddit Search for Soundcore 2](https://www.reddit.com/search/?q=Soundcore+2)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-2/)
 
 ## #79 [LG Xboom Grab](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0DZQR345H?crid=2V9JSP5EK5I2R&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2WKLx2zAy14XIKDR6fYQBDSvnpk3gUK3uCAfNZ2kmN7Hr7ZHjyacWgnGl5tjSNACLpZpIDuRf3cXla7O4FKoaY-ZVV51V2obaQ8TArAwc-OXs9oFIK1s0qSZnPbRR92nmNeTeAhHZVJ1Jt81HXuE9SIGZogbHH1D9sKNvgWcI0K0hKe3fQ4-KeVHL95LNyoTIbKttx4k_cMOQ_cz0pGL-rM.2voKdv_BesbVWxEWTrQnSPA9FpuE1V_KjeDHF0QAfs8&dib_tag=se&keywords=lg%2Bxboom%2Bgrab&qid=1747085897&sprefix=lg%2Bxboom%2Bg%2Caps%2C342&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=af4f59369840ad6ee1d2a54b7171576a&language=en_US&ref_=as_li_ss_tl)]: $127
@@ -2035,6 +2113,7 @@ Last updated: March 05, 2026
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links
     - <https://www.lg.com/us/speakers/lg-xboom-grab-portable-speaker>
+    - [Reddit Search for LG Xboom Grab](https://www.reddit.com/search/?q=LG+Xboom+Grab)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Grab/)
 
 ## #80 [Ultimate Ears Megaboom 3](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-MEGABOOM-Bluetooth-Waterproof/dp/B07DD3W154/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d9d5f8646806986b93e244a91a968b11&camp=1789&creative=9325)]: $163
@@ -2055,6 +2134,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
+    - [Reddit Search for Ultimate Ears Megaboom 3](https://www.reddit.com/search/?q=Ultimate+Ears+Megaboom+3)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Megaboom-3/)
 
 ## #81 [Ultimate Ears Wonderboom 3](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WONDERBOOM-Bluetooth-360-Degree-Waterproof-Dustproof/dp/B09KXCJQ7S/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=145fd1c016875c52e230e981d0c420b1&camp=1789&creative=9325)]: $72
@@ -2084,6 +2164,7 @@ Last updated: March 05, 2026
     - [Danny Pops: Best Outdoor Bluetooth Speaker? Wonderboom 3 VS Sony XB-13](https://www.youtube.com/watch?v=Bg6uGn2WCPU)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/wonderboom-3)
+    - [Reddit Search for Ultimate Ears Wonderboom 3](https://www.reddit.com/search/?q=Ultimate+Ears+Wonderboom+3)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Wonderboom-3/)
 
 ## #82 [Ultimate Ears Wonderboom 2](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/ULTIMATE-EARS-WONDERBOOM-Bermuda-Blue/dp/B07NFP7KYJ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=e645129ec3b6881411fa95daf699a486&camp=1789&creative=9325)]: $80
@@ -2107,6 +2188,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
     - [Alan Ross Reviews: UE Wonderboom 2 review and sound test - vs Flip 5 - Flip 4](https://www.youtube.com/watch?v=EXMSGwFcTZI)
 - Links
+    - [Reddit Search for Ultimate Ears Wonderboom 2](https://www.reddit.com/search/?q=Ultimate+Ears+Wonderboom+2)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Wonderboom-2/)
 
 ## #83 Ultimate Ears Wonderboom
@@ -2128,6 +2210,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
 - Links
+    - [Reddit Search for Ultimate Ears Wonderboom](https://www.reddit.com/search/?q=Ultimate+Ears+Wonderboom)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Wonderboom/)
 
 ## #84 [Ultimate Ears Boom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Crystal-Clear/dp/B0CVFKZ1LC?crid=3U72X6PVZ2GFH&dib=eyJ2IjoiMSJ9.33gymUy3DwEfBahHTOxYJA7JhA-u-tUoOua5DiZq8jLsWrF6P6xVGTGicayF7U1HhhkYMjwaJgVpScwTzwCa16Yp--yrOPpQZtWkV7HSPh_a_TPz_iyTGPqRySg3PnubilpBCNv4bn8xg42GXsP5LUjFA7xSSUq92w24l6kaAfR1zG3kg7j21-pDygVclL7h5r-9eH6Dwq9LW8w5Wc9BazKVF6Uan_AclZQcsEJcCV4.Me_BZvfqBbl2-duddqaImFUdSIY94xhgddagq0QTZg8&dib_tag=se&keywords=ultimate%2Bears%2Bboom%2B4&qid=1727391457&sprefix=ultimate%2Bears%2Bboom%2B4%2Caps%2C304&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=98217fcf3c44881c9ed9ccc9087a8fea&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Crystal-Clear/dp/B0CVFKZ1LC?crid=3U72X6PVZ2GFH&dib=eyJ2IjoiMSJ9.33gymUy3DwEfBahHTOxYJA7JhA-u-tUoOua5DiZq8jLsWrF6P6xVGTGicayF7U1HhhkYMjwaJgVpScwTzwCa16Yp--yrOPpQZtWkV7HSPh_a_TPz_iyTGPqRySg3PnubilpBCNv4bn8xg42GXsP5LUjFA7xSSUq92w24l6kaAfR1zG3kg7j21-pDygVclL7h5r-9eH6Dwq9LW8w5Wc9BazKVF6Uan_AclZQcsEJcCV4.Me_BZvfqBbl2-duddqaImFUdSIY94xhgddagq0QTZg8&dib_tag=se&keywords=ultimate%2Bears%2Bboom%2B4&qid=1727391457&sprefix=ultimate%2Bears%2Bboom%2B4%2Caps%2C304&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=98217fcf3c44881c9ed9ccc9087a8fea&language=en_US&ref_=as_li_ss_tl)]: $105
@@ -2151,6 +2234,7 @@ Last updated: March 05, 2026
     - [Cameron Dougherty Tech: UE Boom 4: A Comprehensive Review](https://www.youtube.com/watch?v=lwyO-KbUvvo)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/boom-4)
+    - [Reddit Search for Ultimate Ears Boom 4](https://www.reddit.com/search/?q=Ultimate+Ears+Boom+4)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Boom-4/)
 
 ## #85 [Ultimate Ears Boom 3](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ultimate-Ears-Portable-Bluetooth-Waterproof/dp/B07DD3VXRZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c6d0d040e9fba9ea6ed911f7b2ea1def&camp=1789&creative=9325)]: $113
@@ -2173,6 +2257,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/boom-3)
+    - [Reddit Search for Ultimate Ears Boom 3](https://www.reddit.com/search/?q=Ultimate+Ears+Boom+3)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Boom-3/)
 
 ## #86 [Klipsch Groove/Heritage Groove](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Groove-Portable-Bluetooth-Speaker/dp/B016CVZ3L6?crid=38KQB5IU3ADDZ&dib=eyJ2IjoiMSJ9.F1u4wFejzEMRvvB2ho5XSgfbWwrOvbrlAhjGgqelKh1pH_ulmFkqkUAv9BDYpczPgb_O_FMjBaPbBH2ZmiVOs3x_vATbP7e7KxWS3NpexUOcQAaBRdDG_dLqPFiIQoWPmhAAhtm2KG1JphzKwcwE0ANrWS1lgpUbDwJ0d4c309JkUX803aAstAnBbYO082PiAu6xnX4tCnegRpNTmTMgNDnn67HPONCOFc9HjBURtNM.OxkIPy7gWx-3nRNvmiHEJrhBXR-A9InvwjxJPCwHhk8&dib_tag=se&keywords=klipsch%2Bgroove&qid=1713374029&sprefix=klipsch%2Bgroov%2Caps%2C217&sr=8-4&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7d9552e583efc9ff42e3a43d9f70d3cf&language=en_US&ref_=as_li_ss_tl)]: $100
@@ -2199,6 +2284,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=_Po6DWVPbmQ>
 - Links
     - [Official Product Page](https://www.klipsch.com/products/groove-portable-bluetooth-speaker)
+    - [Reddit Search for Klipsch Groove/Heritage Groove](https://www.reddit.com/search/?q=Klipsch+Groove%2FHeritage+Groove)
     - [Direct Speakerranking Link](/portable/speakers/Klipsch-GrooveHeritage-Groove/)
 
 ## #87 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl)]: $137
@@ -2227,6 +2313,7 @@ Last updated: March 05, 2026
     - [GYMCADDY: JBL Charge 5 Vs Sony XE300 - How Can You Mess Up This Bad?](https://www.youtube.com/watch?v=frYrfHKWJvw)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/wireless-speakers/p/srsxe300-bz)
+    - [Reddit Search for Sony SRS-XE300](https://www.reddit.com/search/?q=Sony+SRS-XE300)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XE300/)
 
 ## #88 [Tribit Stormbox](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-Speaker-Portable-Waterproof/dp/B0784ZQFHZ?crid=3QICXRMHQR1Q0&dib=eyJ2IjoiMSJ9.n0bRIi82PPIwID2Kgc5kK1mPX6Rmw9xaRIDEX2tL_gxBHLcq9GNTC8MfUDjhAEFrk1oIJJlYPdQ7uoTBz8CelILdHttSbTeBJbDsWISRyrd4NIGXwgn0hwik_l8V0HyvyH5T6A1PRqMsxiDS-xkog6AWJ85OmlZQaU6RH-sQjCunBbV1dNb1TyB9VhhDHyKxjwlBe5s4wwNf9ttv8CIe-iTVTOAS4YRDXXftv0H7LGI.Fs_tmKXGySyoQww6jEop7np_m_w41Fq_L4oyLriQaRw&dib_tag=se&keywords=tribit%2Bstormbox&qid=1713374134&sprefix=tribit%2Bstormbo%2Caps%2C155&sr=8-5&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=beac4dc1d30df0bdfa8ce65e6a103054&language=en_US&ref_=as_li_ss_tl)]: $68
@@ -2256,6 +2343,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Tribit Stormbox Pro Review - vs Tribit Stormbox - bass monster?? 🤔](https://www.youtube.com/watch?v=oRHPmcsEwpE)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-portable-speaker)
+    - [Reddit Search for Tribit Stormbox](https://www.reddit.com/search/?q=Tribit+Stormbox)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox/)
 
 ## #89 Sony SRS-XB20
@@ -2281,6 +2369,7 @@ Last updated: March 05, 2026
     - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb20/manuals)
+    - [Reddit Search for Sony SRS-XB20](https://www.reddit.com/search/?q=Sony+SRS-XB20)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB20/)
 
 ## #90 [Yamaha True X Speaker 1A](https://www.amazon.com/YAMAHA-Portable-Wireless-Bluetooth-Exclusively/dp/B0CBQQSHGM?crid=2UHHO6UV7AZ69&dib=eyJ2IjoiMSJ9.aVAsiNLT5M4EXGKazs3oTmAGQJ4at1WepJt1khTnzpI_sxWldjnwRnTB3T-8uEmeFZwhgaHusmIVyEUk7IunrjvylOybgSl-9E0dAXqhim78z8a0f3jPR7lkLBwNjz94c-uPD-dP3z7hCq1VxiOTIIYtKsF-2MQVRpaZmS3WTyI9Bk2dj4w3Wd4soh88aehpw0OJBTZaKSNbMjHa5QO-whL2R3ytxvr1R_1To3j4NrE.S0if--6zcXzGzXRxioRHu36211Je9xUNG_B5hVIhDDY&dib_tag=se&keywords=Yamaha+True+X+Speaker+1A&qid=1729615814&sprefix=yamaha+true+x+speaker+1a%2Caps%2C227&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2d78b248fda656cee21a26a0bd867a57&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/YAMAHA-Portable-Wireless-Bluetooth-Exclusively/dp/B0CBQQSHGM?crid=2UHHO6UV7AZ69&dib=eyJ2IjoiMSJ9.aVAsiNLT5M4EXGKazs3oTmAGQJ4at1WepJt1khTnzpI_sxWldjnwRnTB3T-8uEmeFZwhgaHusmIVyEUk7IunrjvylOybgSl-9E0dAXqhim78z8a0f3jPR7lkLBwNjz94c-uPD-dP3z7hCq1VxiOTIIYtKsF-2MQVRpaZmS3WTyI9Bk2dj4w3Wd4soh88aehpw0OJBTZaKSNbMjHa5QO-whL2R3ytxvr1R_1To3j4NrE.S0if--6zcXzGzXRxioRHu36211Je9xUNG_B5hVIhDDY&dib_tag=se&keywords=Yamaha+True+X+Speaker+1A&qid=1729615814&sprefix=yamaha+true+x+speaker+1a%2Caps%2C227&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2d78b248fda656cee21a26a0bd867a57&language=en_US&ref_=as_li_ss_tl)]: $150
@@ -2304,6 +2393,7 @@ Last updated: March 05, 2026
     - [スピーカー音質比較: YAMAHA　WS-B1A　音質比較　　Eric Clapton　「Change The World」](https://www.youtube.com/watch?v=qG3-KQwTs0A)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/audio_visual/desktop_audio/truexspeaker1a/index.html)
+    - [Reddit Search for Yamaha True X Speaker 1A](https://www.reddit.com/search/?q=Yamaha+True+X+Speaker+1A)
     - [Direct Speakerranking Link](/portable/speakers/Yamaha-True-X-Speaker-1A/)
 
 ## #91 [Tronsmart T7](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-T7-Portable-Bluetooth-Waterproof/dp/B0B74N9HZ7?crid=6RDOBJM4KVSP&dib=eyJ2IjoiMSJ9.xPir1RGNaIjhNr03ru2nwfrdYEq5hBwQATuNdQni-r-49ou_hv6vDZTgDCTT5rdeH80Ff4RWB_iJENsKgl5ADyps7VTFzJJocVnVZxV66Ru3giG6CRTwLAE_ODHWUjEWuX_YnAjafwwO4T6wZj4Zirm6OViQmqhLfHpEYuHAzU8M7xc6mI_xMQvVGflH4jS7lL1j0TajPLuuit0ei7ZS5rpFGai1ezVFKClzoPdFlQg.dL3vyVdPxcndToaQQb9qhxMd46HQ2ahMSQFik5m5ovU&dib_tag=se&keywords=tronsmart+t7&qid=1713374173&sprefix=tronsmart+t7%2Caps%2C179&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=4c6f6afb267e3faa55bdaf3d18ab4207&language=en_US&ref_=as_li_ss_tl)]: $43
@@ -2329,6 +2419,7 @@ Last updated: March 05, 2026
     - [Daniel Pérez: Tronsmart T7 vs JBL Flip 6](https://www.youtube.com/watch?v=PJEEGkFTfOU)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-t7-portable-outdoor-speaker)
+    - [Reddit Search for Tronsmart T7](https://www.reddit.com/search/?q=Tronsmart+T7)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-T7/)
 
 ## #92 [Raymate R5](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-0/dp/B0CQQ13VQB?crid=1ST6ZB1C0KK72&dib=eyJ2IjoiMSJ9.UNO83YkO-5MaRRO4QGSkixyNRtFzFmPIei7Rv_oTEKcY7TMvpfVfjGfYrFJ0Sju8HzoG0VtHxQbXCgnqKXz_JA9lz6NkSB2iLybV8z7jYEzFownvqVyS3enXGZdBQD8T16S65LU6LtmSv0xISbOVsIXZbTE9Qlc7rbydCP6An4OeVvTW3p0V_DcaH3uZbqw8pZMdWwFsmZtATlWq4rAp5aoXu3r5t4F-LiRVbfvKAN4.oI-Q6hDmXd5OX__gSBRFheN7eXgj4gmz45p5VUbZ1bI&dib_tag=se&keywords=raymate%2Br5&qid=1713374253&sprefix=raymate%2Br%2Caps%2C198&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c87ade0226a081d1c771a26dca62e08&language=en_US&ref_=as_li_ss_tl)]: $20
@@ -2349,6 +2440,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 - Links
+    - [Reddit Search for Raymate R5](https://www.reddit.com/search/?q=Raymate+R5)
     - [Direct Speakerranking Link](/portable/speakers/Raymate-R5/)
 
 ## #93 Bose SoundLink Color II
@@ -2377,6 +2469,7 @@ Last updated: March 05, 2026
     - [Danny Pops: BEST Bose Speaker?? Bose Soundlink Flex vs micro, Color II, and revolve +](https://www.youtube.com/watch?v=de0ZwpbXYAc)
 - Links
     - [Official Product Page](https://support.bose.com/s/product/soundlink-color-bluetooth-speaker-ii/01t8c00000OydNUAAZ)
+    - [Reddit Search for Bose SoundLink Color II](https://www.reddit.com/search/?q=Bose+SoundLink+Color+II)
     - [Direct Speakerranking Link](/portable/speakers/Bose-SoundLink-Color-II/)
 
 ## #94 [Marshall Emberton III](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B0DDCJMDJC?crid=32IC3AEYNGYWS&dib=eyJ2IjoiMSJ9.3Ww0kUD_LDFZ29W2iEo98zpAwbkNdeq_iaKwOlq2ikw-dJ7j281pEBXsovts1GPWWM7vHU9skw3qqBg12budBEAL3NhU5T2-hyP-J1416svIiim2o7U_9AnDjm3YMndZSsEsQyWUqdLQaooV4LOT4tbTW1zf1EeLsoZOF-uWMq60JUKVsbOsnQzhkqo8oixuXE4jd_4MqZCqd62BTldN2yse0H0KMkkBxp3D5e1B3a0.UCaSy50Ar3p2jjAf9kfhh2hDhleS6HuFuoEe8ujSZVg&dib_tag=se&keywords=emberton%2Biii&qid=1754322448&sprefix=emberton%2Biii%2Caps%2C190&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3f84f711528a291bf63707b46a801a30&language=en_US&ref_=as_li_ss_tl)]: $150
@@ -2404,6 +2497,7 @@ Last updated: March 05, 2026
     - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-iii)
+    - [Reddit Search for Marshall Emberton III](https://www.reddit.com/search/?q=Marshall+Emberton+III)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Emberton-III/)
 
 ## #95 [Marshall Emberton II](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Emberton-Portable-Bluetooth-Speaker/dp/B09XXW54QG?crid=M74NIR6NI7F8&dib=eyJ2IjoiMSJ9.BPQuXQa8ZG3brTMThYxQDFnLWmxhu6aCq-P6pvmc7fZADb8hIXPXpgomi0x4PV3B4EbpeOgZbCPLpewqS8CdIuOjuTODvm_F4zNgOc5plyd1xuoopNEDQmI6hMfd0G_qVPZHtzYo7KIYUhoJUTc2_jgGmvPc0W0GyW8CVXR8LbaSdXwIKIeSBaovMUse30mFwjo0up8pG6La4j0gHziszpEX5ygCtMDswSOVQ3qKVjM.jTct3CNpkbv3QF1o_RvT-XYy16AR-xjzpmAadJ63CwQ&dib_tag=se&keywords=marshall%2Bemberton%2Bii&qid=1713374297&sprefix=marshall%2Bemb%2Caps%2C154&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6ac9e7657c8c07faddb5085182156eae&language=en_US&ref_=as_li_ss_tl)]: $132
@@ -2437,6 +2531,7 @@ Last updated: March 05, 2026
     - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-ii)
+    - [Reddit Search for Marshall Emberton II](https://www.reddit.com/search/?q=Marshall+Emberton+II)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Emberton-II/)
 
 ## #96 Hifuture Soundpro
@@ -2455,6 +2550,7 @@ Last updated: March 05, 2026
     - [Techder Audios: TRONSMART STUDIO VS HIFUTURE SOUNDPRO "STEREO+RACETRACK DRIVER VS NORMAL STEREO!"](https://www.youtube.com/watch?v=VM3SggT4ANw)
 - Links
     - [Official Product Page](https://hifuturegroup.com/pages/soundpro)
+    - [Reddit Search for Hifuture Soundpro](https://www.reddit.com/search/?q=Hifuture+Soundpro)
     - [Direct Speakerranking Link](/portable/speakers/Hifuture-Soundpro/)
 
 ## #97 Cabasse Swell: $300
@@ -2473,6 +2569,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [Speaker Toni: Cabasse Swell - Unboxing and first impressions...](https://www.youtube.com/watch?v=YsttqCS46QQ)
 - Links
+    - [Reddit Search for Cabasse Swell](https://www.reddit.com/search/?q=Cabasse+Swell)
     - [Direct Speakerranking Link](/portable/speakers/Cabasse-Swell/)
 
 ## #98 Teufel Rockster Go: €83.00
@@ -2493,6 +2590,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=dHRkJTQ9nmw>
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-go-105727000)
+    - [Reddit Search for Teufel Rockster Go](https://www.reddit.com/search/?q=Teufel+Rockster+Go)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster-Go/)
 
 ## #99 Sony SRS-XB30
@@ -2517,6 +2615,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/product/srs-xb30/manuals)
+    - [Reddit Search for Sony SRS-XB30](https://www.reddit.com/search/?q=Sony+SRS-XB30)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB30/)
 
 ## #100 [Soundcore Flare 2](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Bluetooth-Immersive-A3165/dp/B0C8K1SLC8/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b43b8cb2e85567c1171fd76a2b17fb9&camp=1789&creative=9325)]: $80
@@ -2545,6 +2644,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: Soundcore Flare 2 - mega 360 degree speaker shootout!](https://www.youtube.com/watch?v=X_Ol81BBuWk)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
+    - [Reddit Search for Soundcore Flare 2](https://www.reddit.com/search/?q=Soundcore+Flare+2)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Flare-2/)
 
 ## #101 [W-King D8 Mini](https://s.click.aliexpress.com/e/_c3y65AzV) [[Aliexpress](https://s.click.aliexpress.com/e/_c3y65AzV)]: $60
@@ -2568,6 +2668,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
     - [Alan Ross Reviews: W King D8 Mini review vs JBL Charge 4 vs Maxsound Plus](https://www.youtube.com/watch?v=KgMDRxajEZw)
 - Links
+    - [Reddit Search for W-King D8 Mini](https://www.reddit.com/search/?q=W-King+D8+Mini)
     - [Direct Speakerranking Link](/portable/speakers/W-King-D8-Mini/)
 
 ## #102 [Tozo PA2](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/TOZO-PA2-Bluetooth-Diaphragms-Waterproof/dp/B07KY7BWGP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=aaeecc1e4e040d331349911330a971e9&camp=1789&creative=9325)]: $36
@@ -2590,6 +2691,7 @@ Last updated: March 05, 2026
     - [Jay's Straight Up Reviews & More: The New Tozo PA2 vs PA1 😵 A Bluetooth Speaker Family Feud. Mr Hand ☝️ Makes His Return](https://www.youtube.com/watch?v=FyPCrI3jz1Y)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
+    - [Reddit Search for Tozo PA2](https://www.reddit.com/search/?q=Tozo+PA2)
     - [Direct Speakerranking Link](/portable/speakers/Tozo-PA2/)
 
 ## #103 TDK A33
@@ -2612,6 +2714,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=zHKapeBRfJw>
     - <https://www.youtube.com/watch?v=kuOeIek7F8U>
 - Links
+    - [Reddit Search for TDK A33](https://www.reddit.com/search/?q=TDK+A33)
     - [Direct Speakerranking Link](/portable/speakers/TDK-A33/)
 
 ## #104 [B&O Beosound Explore](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Explore-Waterproof/dp/B08YRRZ2X7/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f7f00ad3cb5f1caa7324d868c4978323&camp=1789&creative=9325)]: $147
@@ -2636,6 +2739,7 @@ Last updated: March 05, 2026
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-explore)
+    - [Reddit Search for B&O Beosound Explore](https://www.reddit.com/search/?q=B%26O+Beosound+Explore)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-Explore/)
 
 ## #105 [Sony SRS-XE200](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XE200-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B44F1GGK/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d00179732c365632e6bf78200783202c&camp=1789&creative=9325)]: $97
@@ -2658,6 +2762,7 @@ Last updated: March 05, 2026
     - [Danny Pops: Sony XE200 XE300 vs Bose Marshall & JBL](https://www.youtube.com/watch?v=da-yS5OCQ48)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xe200/specifications)
+    - [Reddit Search for Sony SRS-XE200](https://www.reddit.com/search/?q=Sony+SRS-XE200)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XE200/)
 
 ## #106 [Wisetiger F10](https://s.click.aliexpress.com/e/_c4rTLD6f) [[Aliexpress](https://s.click.aliexpress.com/e/_c4rTLD6f)]: $27
@@ -2676,6 +2781,7 @@ Last updated: March 05, 2026
     - [andresound1747: WISE TIGER F10 BEAT BOOM](https://www.youtube.com/shorts/ybkVZ6V-_60)
     - [ReoAudio: WiseTiger F10 Sound Test](https://www.youtube.com/watch?v=s1q7oTh7IjY)
 - Links
+    - [Reddit Search for Wisetiger F10](https://www.reddit.com/search/?q=Wisetiger+F10)
     - [Direct Speakerranking Link](/portable/speakers/Wisetiger-F10/)
 
 ## #107 Doss E-Go II
@@ -2696,6 +2802,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
 - Links
+    - [Reddit Search for Doss E-Go II](https://www.reddit.com/search/?q=Doss+E-Go+II)
     - [Direct Speakerranking Link](/portable/speakers/Doss-E-Go-II/)
 
 ## #108 [LG Xboom Go PL5](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-PL5-Water-Resistant-Wireless-Bluetooth/dp/B086M39RJS/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=c3081bb02ffab099cfcc04883327630f&camp=1789&creative=9325)]: $100
@@ -2720,6 +2827,7 @@ Last updated: March 05, 2026
     - [Alan Ross Reviews: LG Xboom Go PL5 review - the Flip 5 should be worried?? 🤭](https://www.youtube.com/watch?v=GbiUY9bdv7g)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl5-portable-bluetooth-speaker)
+    - [Reddit Search for LG Xboom Go PL5](https://www.reddit.com/search/?q=LG+Xboom+Go+PL5)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Go-PL5/)
 
 ## #109 [LG Xboom XG5](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/LG-Portable-Bluetooth-Speaker-XG5QBK/dp/B0BCHB8YBZ/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=1c228310ff8686aebc7c1c49826b84a8&camp=1789&creative=9325)]: $90
@@ -2741,6 +2849,7 @@ Last updated: March 05, 2026
     - [Luan Tech: JBL FLIP 6 vs LG XBOOM XG5 COMPARATIVO COMPLETO!](https://www.youtube.com/watch?v=o0ZgBxwlNE4)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
+    - [Reddit Search for LG Xboom XG5](https://www.reddit.com/search/?q=LG+Xboom+XG5)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-XG5/)
 
 ## #110 [Tribit Stormbox Mini](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-StormBox-Waterproof/dp/B0D4YJVHT9?crid=3J8GRBT17AERO&dib=eyJ2IjoiMSJ9.C3xtr6lOzhYv0vtZmpBt6GYecYzQbm1cpNVy9pnk5_-VX545qD5fLXhHCe3ERxZwog8YJg62XugWaOfy0gW_VUGgwXAOUZpRezh4hImXjj6zJ2OJsaaoZzhodPe5dYN0aLc1G5ijpw4vA2JkehG2Aj0ZP7uCvC_7pTplayQqGGFyysaax-iQlwnkEdoVKE5L-VB8z6M7eXjXp8pGVmh9lCiPaVfT2GO4-dT9H2DS6iU.sKZRouC4ZmBmsiQ0XwRwpOj3u9OzhZWMY1TnnVnvCsE&dib_tag=se&keywords=tribit%2Bstormbox%2Bmini&qid=1725741494&sprefix=tribit%2Bstormbox%2Bmini%2Caps%2C219&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=d7bbdfaa029b5c6152ae5a743b55ecdd&language=en_US&ref_=as_li_ss_tl)]: $23
@@ -2765,6 +2874,7 @@ Last updated: March 05, 2026
     - [Storytripper HD: Tribit Micro 2 vs Tribit STormBox 2 vs Tribit StormBox Mini](https://www.youtube.com/watch?v=j2RvrCmY31E)
 - Links
     - [Official Product Page](https://tribit.com/products/stormbox-mini-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Mini](https://www.reddit.com/search/?q=Tribit+Stormbox+Mini)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Mini/)
 
 ## #111 [Tronsmart T7 Lite](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tronsmart-T7-Lite-Bluetooth-Waterproof/dp/B0C1MWCQ3Q/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=134ec2014b16e5c99155a4b700b61a3e&camp=1789&creative=9325)]: $32
@@ -2788,6 +2898,7 @@ Last updated: March 05, 2026
     - [Audio 503: Tronsmart T7 Lite (24w) vs JBL Flip 6 (30w)](https://www.youtube.com/watch?v=S03_X1Vrm9U)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/t7-lite-portable-outdoor-speaker)
+    - [Reddit Search for Tronsmart T7 Lite](https://www.reddit.com/search/?q=Tronsmart+T7+Lite)
     - [Direct Speakerranking Link](/portable/speakers/Tronsmart-T7-Lite/)
 
 ## #112 [Dayton Audio Boost](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Bluetooth-Water-Resistant/dp/B0C8W81K9N?&linkCode=ll1&tag=rankingspea01-20&linkId=16988aa9d304fc4c55e8b4d352b4da53&language=en_US&ref_=as_li_ss_tl)]: $40
@@ -2807,6 +2918,7 @@ Last updated: March 05, 2026
 - Weight: 0.94lbs / 426g
 - Links
     - [Official Product Page Dayton Audio Boost](https://parts-express.sjv.io/q4bNkj)
+    - [Reddit Search for Dayton Audio Boost](https://www.reddit.com/search/?q=Dayton+Audio+Boost)
     - [Direct Speakerranking Link](/portable/speakers/Dayton-Audio-Boost/)
 
 ## #113 [Boat Stone 350/352/358](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB) [[Amazon](https://www.amazon.in/boAt-Bluetooth-Resistance-Playtime-Multi-Compatibility/dp/B0BYZ26QGB)]: ₹1,399
@@ -2828,6 +2940,7 @@ Last updated: March 05, 2026
     - [Official Product Page Boat Stone 350](https://www.boat-lifestyle.com/products/stone-350)
     - [Official Product Page Boat Stone 352](https://www.boat-lifestyle.com/products/stone-352)
     - [Official Product Page Boat Stone 358](https://www.boat-lifestyle.com/products/stone-358-bluetooth-speaker)
+    - [Reddit Search for Boat Stone 350/352/358](https://www.reddit.com/search/?q=Boat+Stone+350%2F352%2F358)
     - [Direct Speakerranking Link](/portable/speakers/Boat-Stone-350352358/)
 
 ## #114 Harman Kardon Esquire 2: $200
@@ -2847,6 +2960,7 @@ Last updated: March 05, 2026
     - [Dynamic District: Harman Kardon Esquire 2 review](https://www.youtube.com/watch?v=HXhIh7a-vE0)
 - Links
     - [Official Product Page](https://my.harmankardon.com/HKESQUIRE2GLD.html)
+    - [Reddit Search for Harman Kardon Esquire 2](https://www.reddit.com/search/?q=Harman+Kardon+Esquire+2)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Esquire-2/)
 
 ## #115 [Raymate S7](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Raymate-Bluetooth-Speakers-Waterproof-Bluetooth-V5-3/dp/B0CPHSPC1W/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f68e18619aa6fa79e6402789dc1efa4d&camp=1789&creative=9325)]: $36
@@ -2863,6 +2977,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
 - Links
+    - [Reddit Search for Raymate S7](https://www.reddit.com/search/?q=Raymate+S7)
     - [Direct Speakerranking Link](/portable/speakers/Raymate-S7/)
 
 ## #116 Xdobo X8: $35
@@ -2885,6 +3000,7 @@ Last updated: March 05, 2026
     - [Naresh Lal: Anker Soundcore motion+ Vs Xdobo X8](https://www.youtube.com/watch?v=0_ZOX8rFK6c)
 - Links
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-5-0-bluetooth-60w-portable-speaker-deep-bass-soundbar-with-ipx5-waterproof-speaker-360-surround-sound-voice-assistant)
+    - [Reddit Search for Xdobo X8](https://www.reddit.com/search/?q=Xdobo+X8)
     - [Direct Speakerranking Link](/portable/speakers/Xdobo-X8/)
 
 ## #117 Xiaomi Mi Outdoor
@@ -2905,6 +3021,7 @@ Last updated: March 05, 2026
     - [xiaomify (xiaomify): Xiaomi - Outdoor Speaker;  Is it any good??  Full Review [Xiaomify]](https://www.youtube.com/watch?v=2xDcb8j9x5M)
     - [Frankie Tech: Mi Outdoor Bluetooth Speaker & Speaker Mini Review - Small Price, Big Sound!](https://www.youtube.com/watch?v=YR5qkcPg_i4)
 - Links
+    - [Reddit Search for Xiaomi Mi Outdoor](https://www.reddit.com/search/?q=Xiaomi+Mi+Outdoor)
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Outdoor/)
 
 ## #118 [Ortizan X10](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Ortizan-Portable-Bluetooth-Waterproof-Wireless/dp/B08FDPW8KR/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9f52e49eb3a54901eceb36d5ad1238ea&camp=1789&creative=9325)]: $34
@@ -2925,6 +3042,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS ORTIZAN X10](https://www.youtube.com/watch?v=8uqI1pxHeVM)
 - Links
+    - [Reddit Search for Ortizan X10](https://www.reddit.com/search/?q=Ortizan+X10)
     - [Direct Speakerranking Link](/portable/speakers/Ortizan-X10/)
 
 ## #119 [Oontz Angle 3 Ultra](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/OontZ-Wireless-Portable-Bluetooth-Speaker-Waterproof/dp/B073BVWRSP/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4b3d7afca898b275dc4b190b1844d3d6&camp=1789&creative=9325)]: $40
@@ -2946,6 +3064,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=PyQ9TFIPyUg>
 - Links
+    - [Reddit Search for Oontz Angle 3 Ultra](https://www.reddit.com/search/?q=Oontz+Angle+3+Ultra)
     - [Direct Speakerranking Link](/portable/speakers/Oontz-Angle-3-Ultra/)
 
 ## #120 Ultimate Ears Roll 2: $100
@@ -2964,6 +3083,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=SSla-paxi14>
 - Links
+    - [Reddit Search for Ultimate Ears Roll 2](https://www.reddit.com/search/?q=Ultimate+Ears+Roll+2)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Roll-2/)
 
 ## #121 [Walla Sound](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/WALLA-SOUND-Bluetooth-Speaker-Built/dp/B0CKV4VQ2N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=23085e44fa9b400190444cae0e766374&camp=1789&creative=9325)]: $50
@@ -2983,6 +3103,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [Jack Of All Trades, Master of None: Walla Sound Wireless Bluetooth Speaker](https://www.youtube.com/watch?v=tbd1-9CAnYw)
 - Links
+    - [Reddit Search for Walla Sound](https://www.reddit.com/search/?q=Walla+Sound)
     - [Direct Speakerranking Link](/portable/speakers/Walla-Sound/)
 
 ## #122 EFM Toledo
@@ -2995,6 +3116,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [DankPods: The bluetooth speaker shootout.](https://www.youtube.com/watch?v=SmF_9L5FM7w)
 - Links
+    - [Reddit Search for EFM Toledo](https://www.reddit.com/search/?q=EFM+Toledo)
     - [Direct Speakerranking Link](/portable/speakers/EFM-Toledo/)
 
 ## #123 Beats Pill+: $230
@@ -3012,6 +3134,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=vQmk17nFcsE>
 - Links
+    - [Reddit Search for Beats Pill+](https://www.reddit.com/search/?q=Beats+Pill%2B)
     - [Direct Speakerranking Link](/portable/speakers/Beats-Pill+/)
 
 ## #124 [Skullcandy Terrain/Terrain XT/Terrain XL](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0C5YYPJQX?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6f3ad40ff7698bb43f6ce5f88e32619d&language=en_US&ref_=as_li_ss_tl)]: $45
@@ -3030,6 +3153,7 @@ Last updated: March 05, 2026
     - [GYMCADDY: Skullcandy Terrain & Terrain Mini Review](https://www.youtube.com/watch?v=Fm98ccBcZng)
     - [Flossy Carter: All The New SkullCandy Bluetooth Speakers](https://www.youtube.com/watch?v=-UYSKvCkz94)
 - Links
+    - [Reddit Search for Skullcandy Terrain/Terrain XT/Terrain XL](https://www.reddit.com/search/?q=Skullcandy+Terrain%2FTerrain+XT%2FTerrain+XL)
     - [Direct Speakerranking Link](/portable/speakers/Skullcandy-TerrainTerrain-XTTerrain-XL/)
 
 ## #125 [Doss Soundbox Pro](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/DOSS-SoundBox-Pro-Bluetooth-Waterproof/dp/B07DMMG7QY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d83c792edd307cebf5c6e525f4d65f05&camp=1789&creative=9325)]: $40
@@ -3047,6 +3171,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Zzob25VO66Y>
 - Links
+    - [Reddit Search for Doss Soundbox Pro](https://www.reddit.com/search/?q=Doss+Soundbox+Pro)
     - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox-Pro/)
 
 ## #126 Doss Soundbox
@@ -3067,6 +3192,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Ncpl4NDWne8>
 - Links
+    - [Reddit Search for Doss Soundbox](https://www.reddit.com/search/?q=Doss+Soundbox)
     - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox/)
 
 ## #127 [Ultimate Ears Megaboom 4](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Waterproof-360-Degree-Thundering/dp/B0CVFM97GD?crid=O9AZQPPX5RSP&dib=eyJ2IjoiMSJ9.B2GDBbKe4ag1fSwQztI9y_vvDZwHv1_I3QxTGZNTCKQ7rRdmk_raIiZwOFz3OsulzuZL34bAgdvfywE2nG_Wn5JoP24VD_1abT-KWxokhj4Oy4l_SEuP7PiDM0BEo_Jjr_ZPv-qYDbH9u8RapkOmB2D3EzRkAp5n9qSHANcMusGfIcDviz3ZTyWdXXOfboYOoPxBSTYs0Zit4PhJivmMIL4zQA0qPeSmMe3wHOMNIjA.JO4YgG4bfgY8YakkxKUdCXDLpQndC7Kn4okGGOai8i0&dib_tag=se&keywords=megaboom%2B4&qid=1727391113&sprefix=megaboom%2B4%2Caps%2C216&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c8ac8b56ab48e54b251db0c721a1edef&language=en_US&ref_=as_li_ss_tl)]: $200
@@ -3089,6 +3215,7 @@ Last updated: March 05, 2026
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-4)
+    - [Reddit Search for Ultimate Ears Megaboom 4](https://www.reddit.com/search/?q=Ultimate+Ears+Megaboom+4)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Megaboom-4/)
 
 ## #128 [Oontz Angle 3](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bluetooth-Speakers-Bluetooth-Wireless-Portable-Shower-Speaker/dp/B010OYASRG?crid=2QLEXZS4T2SZ7&dib=eyJ2IjoiMSJ9.EIPxpFRAbssZrhO6LOIhRBGwGx8hYSsbop0U9u1qjhtx2aeLfbaMmSbmkZynYSofx4P67YIUkilXzqjT7tfusozHpkhEie04pbCM79D9IXr_VP-fRclyhUwWJ69BkFLTMSer45sqTL-4NUlSAUQBDFo4cvhzjkQ5osmenowbS7hPIfu2yVumB9lN7w8mZsK30wmzVLy9o1UII4WKQqAtcF4mhDgE3itA44aEPv7UUq4.XYFjcd9brR2SqhqG13utN5_rKc3pY8lUPZVZQzwJ3R0&dib_tag=se&keywords=oontz%2Bangle%2B3&qid=1713374416&sprefix=oontz%2Bangle%2B3%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e360609d2dae52cd43ce43e436642e8d&language=en_US&ref_=as_li_ss_tl)]: $28
@@ -3108,6 +3235,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Wogk7QEtKP4>
 - Links
+    - [Reddit Search for Oontz Angle 3](https://www.reddit.com/search/?q=Oontz+Angle+3)
     - [Direct Speakerranking Link](/portable/speakers/Oontz-Angle-3/)
 
 ## #129 [Zealot S61](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Speaker-S61-%EF%BC%88Update%EF%BC%89/dp/B0BNL2C3M6?crid=EG9UOUC6Y2WN&dib=eyJ2IjoiMSJ9.TG0E6IYlhloT4gRVGMT6bpCi3LPyB3aSBPrmfxjzjBimHSK825jtqgaLcnnXYGzt.PV5AYDDSk96DfxItzaNoR7WH0ka5wk6cXXWXx-2hJrw&dib_tag=se&keywords=zealot%2Bs61&qid=1715298935&sprefix=zealot%2B%2Caps%2C196&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a6a6653b31ce4041434d27a1ae85df24&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c42agFcJ)]: $20
@@ -3126,6 +3254,7 @@ Last updated: March 05, 2026
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Zealot S61 🦨 Bluetooth Speaker Review & Sound Comparison to Tribit XSound Surf. Another Zealot dud❓](https://www.youtube.com/watch?v=ADGFOxmXROs)
 - Links
+    - [Reddit Search for Zealot S61](https://www.reddit.com/search/?q=Zealot+S61)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S61/)
 
 ## #130 [Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Altec-Lansing-IMW578L-LifeJacket-Everything/dp/B08BVV9MCK?crid=2C3VLN8ILFRBU&dib=eyJ2IjoiMSJ9.zob7n0qUaC0iz5J-GIiS-1RSCBgn24CNisH-lIOTzmtz2MuFrbkn7MWhEktRui1vE6W0htRdnI62PLTtYLzsg8V-BMwy3o0PkIjW4qZ2HNYK177WSdgMozgn9pGTfDUNLjAxufy7q9_YPEXm72zp9zjZCGvWObjWpf32FGvqBw4lVFZ2N_Vj7Si0SdJjxbQkIRyYO2-vgEPwlfxlWnGP3Y8JriLARU7agSvZw-F_GAo._9TorvNhctCFCs22ukEKDcgIjr-etH5lw-B92Sa4RFY&dib_tag=se&keywords=altec%2Blansing%2Blifejacket&qid=1713374452&sprefix=altec%2Blansing%2Blifejacket%2Caps%2C246&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4590b85c5db9dbcc22ed0d0bb9afcd57&language=en_US&ref_=as_li_ss_tl)]: $60
@@ -3148,6 +3277,7 @@ Last updated: March 05, 2026
     - [Fewishaツ: Altec Lansing Life Jacket 3 Bass Test](https://www.youtube.com/watch?v=YkqfKLSgvfQ)
     - [GYMCADDY: Best $100 Speaker? JBL Flip 4 Vs Sony XB20 Vs UE WONDERBOOM Vs Altec Mini Lifejacket 2](https://www.youtube.com/watch?v=_5f6b-5wI98)
 - Links
+    - [Reddit Search for Altec Lansing Lifejacket 2/ Lifejacket 3](https://www.reddit.com/search/?q=Altec+Lansing+Lifejacket+2%2F+Lifejacket+3)
     - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Lifejacket-2-Lifejacket-3/)
 
 ## #131 [Limitless Innovations TikiTunes](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/TikiTunes-Portable-Bluetooth-Atmospheric-Lighting/dp/B07DKDMZKT?crid=34M0YMYFWOZ4&dib=eyJ2IjoiMSJ9.nWNkIFhWWcLTo4JErdWy94Yn4TD6sLTLq48VU-h1NBG2_zoFSSI6ASilSwVFrjyChKmhQrq4qbScBfyIIIa08u1VbnI5TfFLHjq-PGz5OMiyzHcrmVVF6plCAoutAqAZZnDnCdBvPkatPMKUBfx42Zu1CHOVGBoOYCTGgizA2rD6v4mxSCRb0_9RpvDvewBi3Jf4_FUDh5AE4wA0J7vwLWmu9h3_9H3O9uwipmv8BnU.Sz3hBraAqc67WSDFV4pNEjgcbtxhumO475Z46W1Fcmg&dib_tag=se&keywords=Limitless+Innovations+TikiTunes&qid=1713374498&sprefix=limitless+innovations+tikitunes%2Caps%2C217&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=89694df078a7655269372ce33fa71b38&language=en_US&ref_=as_li_ss_tl)]: $40
@@ -3164,6 +3294,7 @@ Last updated: March 05, 2026
     - [Tom DeCicco: Award Winning CES Bluetooth Speaker is FIRE! TikiTunes](https://www.youtube.com/watch?v=1A5cNDoQCM8)
     - [Nerd Know Better: TikiTunes Review: Is it Really Best Wireless Bluetooth Speaker?](https://www.youtube.com/watch?v=VDc2anLRz0w)
 - Links
+    - [Reddit Search for Limitless Innovations TikiTunes](https://www.reddit.com/search/?q=Limitless+Innovations+TikiTunes)
     - [Direct Speakerranking Link](/portable/speakers/Limitless-Innovations-TikiTunes/)
 
 

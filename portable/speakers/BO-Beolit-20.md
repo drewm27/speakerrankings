@@ -32,6 +32,7 @@ The B&O Beolit 20 ranks [#29 out of 67 total Boombox Size Portable Bluetooth Spe
     - [Oluv: B&O Beolit 20 - frequency response measurements](https://www.patreon.com/posts/b-o-beolit-20-52246953)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beolit-20)
+    - [Reddit Search for B&O Beolit 20](https://www.reddit.com/search/?q=B%26O+Beolit+20)
 
 
 As an Amazon Associate I earn from qualifying purchases.

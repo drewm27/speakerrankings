@@ -33,6 +33,7 @@ The Tribit Stormbox Pro ranks [#41 out of 131 total Medium Size Portable Bluetoo
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-pro-portable-speaker)
+    - [Reddit Search for Tribit Stormbox Pro](https://www.reddit.com/search/?q=Tribit+Stormbox+Pro)
 
 
 As an Amazon Associate I earn from qualifying purchases.

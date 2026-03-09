@@ -26,6 +26,7 @@ The LG Xboom XG5 ranks [#109 out of 131 total Medium Size Portable Bluetooth Spe
     - [Luan Tech: JBL FLIP 6 vs LG XBOOM XG5 COMPARATIVO COMPLETO!](https://www.youtube.com/watch?v=o0ZgBxwlNE4)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xg5qbk-portable-bluetooth-speaker)
+    - [Reddit Search for LG Xboom XG5](https://www.reddit.com/search/?q=LG+Xboom+XG5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

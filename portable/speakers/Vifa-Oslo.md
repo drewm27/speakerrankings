@@ -36,6 +36,7 @@ The Vifa Oslo ranks [#7 out of 73 total Large Size Portable Bluetooth Speakers](
     - <https://www.youtube.com/watch?v=ZMfq_LMFgzc>
 - Links
     - [Official Product Page](https://www.vifa.dk/pages/oslo)
+    - [Reddit Search for Vifa Oslo](https://www.reddit.com/search/?q=Vifa+Oslo)
 
 
 As an Amazon Associate I earn from qualifying purchases.

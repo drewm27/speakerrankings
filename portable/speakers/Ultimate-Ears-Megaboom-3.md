@@ -25,6 +25,7 @@ The Ultimate Ears Megaboom 3 ranks [#80 out of 131 total Medium Size Portable Bl
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-3)
+    - [Reddit Search for Ultimate Ears Megaboom 3](https://www.reddit.com/search/?q=Ultimate+Ears+Megaboom+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -31,6 +31,7 @@ The Panasonic SC-TMAX5 ranks [#35 out of 43 total Party Size Portable Bluetooth 
     - [JARA MIKE: Panasonic 🔴 SC- TMAX5 ♫ .150 W RMS](https://www.youtube.com/watch?v=dXoD0Yv_iLM)
 - Links
     - [Official Product Page](https://www.panasonic.com/uk/support/discontinued-products/home-entertainment/sc-tmax5.html)
+    - [Reddit Search for Panasonic SC-TMAX5](https://www.reddit.com/search/?q=Panasonic+SC-TMAX5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

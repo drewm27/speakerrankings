@@ -25,6 +25,7 @@ The KEF Q150 ranks [#15 out of 20 total Medium Size Bookshelf Speakers](/passive
     - [Erin's Audio Corner: Budget Stereo Systems You Will Love](https://www.youtube.com/watch?v=6GcFznDiJQU)
 - Links
     - [Official KEF Q150 Website](https://us.kef.com/products/q150-bookshelf-speaker)
+    - [Reddit Search for KEF Q150](https://www.reddit.com/search/?q=KEF+Q150)
 
 
 As an Amazon Associate I earn from qualifying purchases.

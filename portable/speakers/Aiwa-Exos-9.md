@@ -34,6 +34,7 @@ The Aiwa Exos-9 ranks [#8 out of 67 total Boombox Size Portable Bluetooth Speake
     - <https://www.youtube.com/watch?v=3NRl5ME2_AU>
     - <https://www.youtube.com/watch?v=EaFtQNoYeKg>
     - <https://www.youtube.com/watch?v=QMvDPqHhA-4>
+    - [Reddit Search for Aiwa Exos-9](https://www.reddit.com/search/?q=Aiwa+Exos-9)
 
 
 As an Amazon Associate I earn from qualifying purchases.

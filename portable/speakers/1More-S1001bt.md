@@ -30,6 +30,7 @@ The 1More S1001bt ranks [#28 out of 131 total Medium Size Portable Bluetooth Spe
     - [NJ Studio Channel: Tribit stormbox micro vs 1More s1001bt Bass Test!!🔥](https://www.youtube.com/watch?v=7ZnTEkAwy98)
 - Links
     - [Official Product Page](https://global.1more.com/products/1more-portable-bt-speaker)
+    - [Reddit Search for 1More S1001bt](https://www.reddit.com/search/?q=1More+S1001bt)
 
 
 As an Amazon Associate I earn from qualifying purchases.

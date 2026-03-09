@@ -24,6 +24,7 @@ The Ortizan X10 ranks [#118 out of 131 total Medium Size Portable Bluetooth Spea
 - Weight: 1.3lbs / 590g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: JBL GO 3 VS ORTIZAN X10](https://www.youtube.com/watch?v=8uqI1pxHeVM)
+    - [Reddit Search for Ortizan X10](https://www.reddit.com/search/?q=Ortizan+X10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -25,6 +25,7 @@ The Ultimate Ears Wonderboom ranks [#83 out of 131 total Medium Size Portable Bl
     - <https://www.youtube.com/watch?v=4uDrIsatVyQ>
     - <https://www.youtube.com/watch?v=F-Yj-qn7dt8>
     - <https://www.youtube.com/watch?v=EwyyxOkDG1E>
+    - [Reddit Search for Ultimate Ears Wonderboom](https://www.reddit.com/search/?q=Ultimate+Ears+Wonderboom)
 
 
 As an Amazon Associate I earn from qualifying purchases.

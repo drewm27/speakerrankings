@@ -35,6 +35,7 @@ The Minirig 4 ranks [#6 out of 131 total Medium Size Portable Bluetooth Speakers
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
+    - [Reddit Search for Minirig 4](https://www.reddit.com/search/?q=Minirig+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

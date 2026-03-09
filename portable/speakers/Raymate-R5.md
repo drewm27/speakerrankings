@@ -24,6 +24,7 @@ The Raymate R5 ranks [#92 out of 131 total Medium Size Portable Bluetooth Speake
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
+    - [Reddit Search for Raymate R5](https://www.reddit.com/search/?q=Raymate+R5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

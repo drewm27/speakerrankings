@@ -18,6 +18,7 @@ The Magnepan LRS+ ranks [#25 out of 25 total Large Size Floorstanding Speakers](
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Magnepan LRS+ Website](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)
+    - [Reddit Search for Magnepan LRS+](https://www.reddit.com/search/?q=Magnepan+LRS%2B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

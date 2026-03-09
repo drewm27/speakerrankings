@@ -33,6 +33,7 @@ The B&O Beosound 1 ranks [#29 out of 43 total Party Size Portable Bluetooth Spea
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
+    - [Reddit Search for B&O Beosound 1](https://www.reddit.com/search/?q=B%26O+Beosound+1)
 
 
 As an Amazon Associate I earn from qualifying purchases.

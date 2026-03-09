@@ -24,6 +24,7 @@ The Raymate M8 ranks [#42 out of 73 total Large Size Portable Bluetooth Speakers
 - Weight: 4.5lbs / 2.1kg
 - Reviews, Comparisons and Sound Samples
     - [AudioTechniker: Raymate R5 / S7 / M8 Pro Erster Eindruck und Soundcheck](https://www.youtube.com/watch?v=ZInN26jI13M)
+    - [Reddit Search for Raymate M8](https://www.reddit.com/search/?q=Raymate+M8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

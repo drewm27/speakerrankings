@@ -45,6 +45,7 @@ The JBL Xtreme 4 ranks [#35 out of 73 total Large Size Portable Bluetooth Speake
     - [Dominik Reviews: JBL Xtreme 4 vs JBL Xtreme 3 Sound Test 😍 Best upgrade in the history? 😂](https://www.youtube.com/watch?v=MtCDfPVxV08)
 - Links
     - [Official Product Page](https://ro.harmanaudio.com/XTREME-4.html)
+    - [Reddit Search for JBL Xtreme 4](https://www.reddit.com/search/?q=JBL+Xtreme+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -33,6 +33,7 @@ The Soundcore Flare 2 ranks [#100 out of 131 total Medium Size Portable Bluetoot
     - [Alan Ross Reviews: Soundcore Flare 2 - mega 360 degree speaker shootout!](https://www.youtube.com/watch?v=X_Ol81BBuWk)
 - Links
     - [Official Product Page](https://nz.soundcore.com/products/a3165)
+    - [Reddit Search for Soundcore Flare 2](https://www.reddit.com/search/?q=Soundcore+Flare+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

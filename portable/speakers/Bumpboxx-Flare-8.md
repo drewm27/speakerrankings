@@ -33,6 +33,7 @@ The Bumpboxx Flare 8 ranks [#51 out of 67 total Boombox Size Portable Bluetooth 
     - [The TatMan: BUMPBOXX FLARE 8 (Review and Unboxing)](https://www.youtube.com/watch?v=XeydgPPQ6HI)
 - Links
     - [Official Product Page](https://bumpboxx.com/products/bumpboxx-flare8)
+    - [Reddit Search for Bumpboxx Flare 8](https://www.reddit.com/search/?q=Bumpboxx+Flare+8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -31,6 +31,7 @@ The Orange Box ranks [#62 out of 73 total Large Size Portable Bluetooth Speakers
     - [Oluv: Orange Box](https://www.patreon.com/posts/orange-box-98897294)
 - Links
     - [Official Product Page](https://orangeamps.com/product/orange-box/)
+    - [Reddit Search for Orange Box](https://www.reddit.com/search/?q=Orange+Box)
 
 
 As an Amazon Associate I earn from qualifying purchases.

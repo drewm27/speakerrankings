@@ -30,6 +30,7 @@ The KEF Muo ranks [#71 out of 131 total Medium Size Portable Bluetooth Speakers]
     - [Storytripper HD: KEF MUO vs JBL Charge 5](https://www.youtube.com/watch?v=K5k7HZFH6DY)
 - Links
     - [Official Product Page](https://us.kef.com/products/muo)
+    - [Reddit Search for KEF Muo](https://www.reddit.com/search/?q=KEF+Muo)
 
 
 As an Amazon Associate I earn from qualifying purchases.

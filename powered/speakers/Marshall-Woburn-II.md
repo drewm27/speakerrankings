@@ -35,6 +35,7 @@ The Marshall Woburn II ranks [#6 out of 14 total Medium Size Powered Desktop Spe
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
     - [HiTechKing: Marshall Woburn II Unboxing & Review](https://www.youtube.com/watch?v=qnya_6ew1e4)
+    - [Reddit Search for Marshall Woburn II](https://www.reddit.com/search/?q=Marshall+Woburn+II)
 
 
 As an Amazon Associate I earn from qualifying purchases.

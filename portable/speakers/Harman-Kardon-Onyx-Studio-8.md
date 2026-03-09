@@ -38,6 +38,7 @@ The Harman Kardon Onyx Studio 8 ranks [#10 out of 67 total Boombox Size Portable
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/ONYX-STUDIO-8-.html)
+    - [Reddit Search for Harman Kardon Onyx Studio 8](https://www.reddit.com/search/?q=Harman+Kardon+Onyx+Studio+8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

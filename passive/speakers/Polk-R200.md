@@ -20,6 +20,7 @@ The Polk R200 ranks [#32 out of 48 total Large Size Bookshelf Speakers](/passive
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
 - Links
     - [Official Polk R20 Website](https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/reserve-r200/300029.html)
+    - [Reddit Search for Polk R200](https://www.reddit.com/search/?q=Polk+R200)
 
 
 As an Amazon Associate I earn from qualifying purchases.

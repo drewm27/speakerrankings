@@ -34,6 +34,7 @@ The JBL Partybox On the Go ranks [#40 out of 67 total Boombox Size Portable Blue
     - [KULAS TECH SHOW: JBL Partybox on the go vs JBL Partybox 110 Bass Comparison](https://www.youtube.com/watch?v=sW7qA0Qyg2U)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ON-THE-GO-.html)
+    - [Reddit Search for JBL Partybox On the Go](https://www.reddit.com/search/?q=JBL+Partybox+On+the+Go)
 
 
 As an Amazon Associate I earn from qualifying purchases.

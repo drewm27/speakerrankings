@@ -14,6 +14,7 @@ The Chesky LC1 ranks [#45 out of 48 total Large Size Bookshelf Speakers](/passiv
     - [Erin's Audio Corner: Are These $996 Chesky Audio LC1 Speakers Worth the Price?](https://www.youtube.com/watch?v=nUOSTOkFCvU)
 - Links
     - [Official Chesky LC1 Website](https://www.cheskyaudio.com/products/lc1)
+    - [Reddit Search for Chesky LC1](https://www.reddit.com/search/?q=Chesky+LC1)
 
 
 As an Amazon Associate I earn from qualifying purchases.

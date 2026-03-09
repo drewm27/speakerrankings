@@ -38,6 +38,7 @@ The W-King H10 ranks [#48 out of 67 total Boombox Size Portable Bluetooth Speake
     - [Jay's Straight Up Reviews & More: Triple Threat 💸 $200 Challenge 🔋 Soundcore  Rave Party 2, W-King H10, JBL Partybox Encore Essential](https://www.youtube.com/watch?v=8KADk_OsLM8)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/h10)
+    - [Reddit Search for W-King H10](https://www.reddit.com/search/?q=W-King+H10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

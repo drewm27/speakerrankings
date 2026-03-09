@@ -47,6 +47,7 @@ The JBL Partybox 110 ranks [#5 out of 43 total Party Size Portable Bluetooth Spe
     - [KULAS TECH SHOW: JBL Partybox on the go vs JBL Partybox 110 Bass Comparison](https://www.youtube.com/watch?v=sW7qA0Qyg2U)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-110-.html)
+    - [Reddit Search for JBL Partybox 110](https://www.reddit.com/search/?q=JBL+Partybox+110)
 
 
 As an Amazon Associate I earn from qualifying purchases.

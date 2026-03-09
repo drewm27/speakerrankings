@@ -39,6 +39,7 @@ The Devialet Mania ranks [#38 out of 73 total Large Size Portable Bluetooth Spea
     - [Oluv: Visit at the Devialet store in Vienna](https://www.patreon.com/posts/visit-at-store-75995137)
 - Links
     - [Official Product Page](https://www.devialet.com/en-us/portable-speakers/)
+    - [Reddit Search for Devialet Mania](https://www.reddit.com/search/?q=Devialet+Mania)
 
 
 As an Amazon Associate I earn from qualifying purchases.

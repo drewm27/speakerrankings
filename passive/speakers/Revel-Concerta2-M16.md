@@ -12,6 +12,7 @@ The Revel Concerta2 M16 ranks [#25 out of 48 total Large Size Bookshelf Speakers
     - [Audio Science Review Revel Concerta2 M16](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/)
 - Links
     - [Official Revel Concerta2 M16 Website](https://www.revelspeakers.com/products/types/bookshelf/M16-.html)
+    - [Reddit Search for Revel Concerta2 M16](https://www.reddit.com/search/?q=Revel+Concerta2+M16)
 
 
 As an Amazon Associate I earn from qualifying purchases.

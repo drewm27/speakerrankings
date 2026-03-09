@@ -27,6 +27,7 @@ The Genelec 8351B ranks [#4 out of 21 total Large Size Powered Bookshelf Speaker
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/genelec-8351b-review-studio-monitor.23432/)
 - Links
     - [Official Product Page](https://www.genelec.com/8351b)
+    - [Reddit Search for Genelec 8351B](https://www.reddit.com/search/?q=Genelec+8351B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

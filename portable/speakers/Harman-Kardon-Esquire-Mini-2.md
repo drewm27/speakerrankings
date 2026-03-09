@@ -2,12 +2,12 @@
 layout: page
 title: Harman Kardon Esquire Mini 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Harman Kardon Esquire Mini 2 ranks #37 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Harman Kardon Esquire Mini 2 ranks #38 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Harman Kardon Esquire Mini 2 ranks [#37 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#37-harman-kardon-esquire-mini-2-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Harman Kardon Esquire Mini 2 ranks [#38 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#38-harman-kardon-esquire-mini-2-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #37 Harman Kardon Esquire Mini 2: $100
+## #38 Harman Kardon Esquire Mini 2: $100
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - App: No
 - Aux Input: Yes
@@ -33,6 +33,7 @@ The Harman Kardon Esquire Mini 2 ranks [#37 out of 41 total Small Size Portable 
     - [Jaky9114: Harman Kardon Esquire Mini 2](https://www.youtube.com/watch?v=sQT7_LLqJ4M)
 - Links
     - [Official Product Page](https://my.harmankardon.com/ESQUIRE+MINI+2.html)
+    - [Reddit Search for Harman Kardon Esquire Mini 2](https://www.reddit.com/search/?q=Harman+Kardon+Esquire+Mini+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

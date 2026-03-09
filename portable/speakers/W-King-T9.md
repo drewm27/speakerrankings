@@ -33,6 +33,7 @@ The W-King T9 ranks [#36 out of 73 total Large Size Portable Bluetooth Speakers]
     - [Jay's Straight Up Reviews & More: W-King T9  🆚 ONN Large Party Speaker -By Request for Big Tee. Can the Smaller T9 Hang With The ONN?](https://www.youtube.com/watch?v=BzQL3DqcFss)
 - Links
     - [Official Product Page](https://www.w-king.com/t9.html)
+    - [Reddit Search for W-King T9](https://www.reddit.com/search/?q=W-King+T9)
 
 
 As an Amazon Associate I earn from qualifying purchases.

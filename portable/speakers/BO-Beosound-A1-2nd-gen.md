@@ -33,6 +33,7 @@ The B&O Beosound A1 2nd gen ranks [#10 out of 131 total Medium Size Portable Blu
     - [techkiste.net: B&O Beosound A1 (2nd Gen) vs Bose Revolve 2 vs Bose Revolve+ 2 sound-comparison](https://www.youtube.com/watch?v=R0G2r9e6y4Y)
     - [Oluv: B&O Beosound A1 2nd gen vs Beoplay A1 outdoors with a bit of Anker Soundcore Motion+ too](https://www.patreon.com/posts/b-o-beosound-a1-39584977)
     - [Oluv: (Anker) Soundcore Motion 300 - first impressions](https://www.patreon.com/posts/anker-soundcore-92655183)
+    - [Reddit Search for B&O Beosound A1 2nd gen](https://www.reddit.com/search/?q=B%26O+Beosound+A1+2nd+gen)
 
 
 As an Amazon Associate I earn from qualifying purchases.

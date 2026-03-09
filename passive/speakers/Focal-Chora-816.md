@@ -20,6 +20,7 @@ The Focal Chora 816 ranks [#18 out of 25 total Large Size Floorstanding Speakers
     - [Audio Science Review Focal Chora 816](https://www.audiosciencereview.com/forum/index.php?threads/focal-chora-816-speaker-review.42988/)
 - Links
     - [Official Focal Chora 816 Website](https://www.focal.com/products/chora-816)
+    - [Reddit Search for Focal Chora 816](https://www.reddit.com/search/?q=Focal+Chora+816)
 
 
 As an Amazon Associate I earn from qualifying purchases.

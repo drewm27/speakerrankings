@@ -30,6 +30,7 @@ The JBL Pulse 5 ranks [#43 out of 131 total Medium Size Portable Bluetooth Speak
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/PULSE-5-.html)
+    - [Reddit Search for JBL Pulse 5](https://www.reddit.com/search/?q=JBL+Pulse+5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

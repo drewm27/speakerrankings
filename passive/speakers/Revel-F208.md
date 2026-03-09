@@ -21,6 +21,7 @@ The Revel F208 ranks [#4 out of 25 total Large Size Floorstanding Speakers](/pas
     - [Audio Science Review Revel F208](https://www.audiosciencereview.com/forum/index.php?threads/revel-f208-tower-speaker-review.13192/)
 - Links
     - [Official Revel F208 Website](https://www.revelspeakers.com/products/types/floorstanding/F208-.html)
+    - [Reddit Search for Revel F208](https://www.reddit.com/search/?q=Revel+F208)
 
 
 As an Amazon Associate I earn from qualifying purchases.

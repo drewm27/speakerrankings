@@ -15,6 +15,7 @@ The Fosi Audio SP601 ranks [#46 out of 48 total Large Size Bookshelf Speakers](/
     - [Audio Science Review Fosi Audio SP60](https://www.audiosciencereview.com/forum/index.php?threads/fosi-audio-sp601-2-way-in-room-bookshelf-speakers-for-home-theater-tv-desktop.63508/)
 - Links
     - [Official Fosi Audio SP601 Website](https://fosiaudio.com/products/fosi-audio-sp601-2-way-in-room-bookshelf-speakers)
+    - [Reddit Search for Fosi Audio SP601](https://www.reddit.com/search/?q=Fosi+Audio+SP601)
 
 
 As an Amazon Associate I earn from qualifying purchases.

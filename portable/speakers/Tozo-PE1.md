@@ -2,12 +2,12 @@
 layout: page
 title: Tozo PE1 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tozo PE1 ranks #17 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tozo PE1 ranks #18 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tozo PE1 ranks [#17 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#17-tozo-pe1-amazon-23) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tozo PE1 ranks [#18 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#18-tozo-pe1-amazon-23) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #17 [Tozo PE1](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl)]: $23
+## #18 [Tozo PE1](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl)]: $23
 - Positives: Pretty amazing value for the money. Very long battery life.
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - App: Yes
@@ -34,6 +34,7 @@ The Tozo PE1 ranks [#17 out of 41 total Small Size Portable Bluetooth Speakers](
     - [Electric Chris Chris Vanderstock: TOZO PE1 Review: $40 and Sounds THIS Good?!](https://www.youtube.com/watch?v=zB0CNPsHxSM)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pe1-speaker)
+    - [Reddit Search for Tozo PE1](https://www.reddit.com/search/?q=Tozo+PE1)
 
 
 As an Amazon Associate I earn from qualifying purchases.

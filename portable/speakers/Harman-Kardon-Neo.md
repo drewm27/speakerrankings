@@ -2,12 +2,12 @@
 layout: page
 title: Harman Kardon Neo Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Harman Kardon Neo ranks #38 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Harman Kardon Neo ranks #39 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Harman Kardon Neo ranks [#38 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#38-harman-kardon-neo-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Harman Kardon Neo ranks [#39 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#39-harman-kardon-neo-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #38 Harman Kardon Neo: $90
+## #39 Harman Kardon Neo: $90
 - Negatives: Huge lack of bass.
 - App: No
 - Aux Input: No
@@ -33,6 +33,7 @@ The Harman Kardon Neo ranks [#38 out of 41 total Small Size Portable Bluetooth S
     - [Alan Ross Reviews: Harman Kardon Neo vs JBL GO 3 - best bluetooth micro speaker❗❗❗](https://www.youtube.com/watch?v=mvcXuYgIsfU)
 - Links
     - [Official Product Page](https://www.harmankardon.com/NEO.html)
+    - [Reddit Search for Harman Kardon Neo](https://www.reddit.com/search/?q=Harman+Kardon+Neo)
 
 
 As an Amazon Associate I earn from qualifying purchases.

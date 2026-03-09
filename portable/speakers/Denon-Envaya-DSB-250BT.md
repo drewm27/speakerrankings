@@ -33,6 +33,7 @@ The Denon Envaya DSB-250BT ranks [#5 out of 131 total Medium Size Portable Bluet
     - [Alan Ross Reviews: Marshall Stockwell 2 vs Denon 250bt - little and large? 🙈](https://www.youtube.com/watch?v=sGyp6jGK0D8)
 - Links
     - [Official Product Page](https://www.denon.com/en-us/product/archive-bluetooth-speakers/dsb250bt/137209.html)
+    - [Reddit Search for Denon Envaya DSB-250BT](https://www.reddit.com/search/?q=Denon+Envaya+DSB-250BT)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -29,6 +29,7 @@ The Focal Alpha 65 EVO ranks [#10 out of 21 total Large Size Powered Bookshelf S
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-65-evo)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/focal-alpha-65-evo-review-studio-monitor.28832/)
+    - [Reddit Search for Focal Alpha 65 EVO](https://www.reddit.com/search/?q=Focal+Alpha+65+EVO)
 
 
 As an Amazon Associate I earn from qualifying purchases.

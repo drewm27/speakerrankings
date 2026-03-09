@@ -35,6 +35,7 @@ The Dali Katch G1/G2 ranks [#55 out of 73 total Large Size Portable Bluetooth Sp
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
 - Links
     - [Official Product Page](https://www.dali-speakers.com/en-us/products/katch/katch-g2/)
+    - [Reddit Search for Dali Katch G1/G2](https://www.reddit.com/search/?q=Dali+Katch+G1%2FG2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

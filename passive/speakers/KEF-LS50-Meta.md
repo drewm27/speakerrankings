@@ -25,6 +25,7 @@ The KEF LS50 Meta ranks [#3 out of 20 total Medium Size Bookshelf Speakers](/pas
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official KEF LS50 Meta Website](https://us.kef.com/products/ls50-meta)
+    - [Reddit Search for KEF LS50 Meta](https://www.reddit.com/search/?q=KEF+LS50+Meta)
 
 
 As an Amazon Associate I earn from qualifying purchases.

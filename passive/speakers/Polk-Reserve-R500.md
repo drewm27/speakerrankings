@@ -24,6 +24,7 @@ The Polk Reserve R500 ranks [#17 out of 25 total Large Size Floorstanding Speake
     - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
 - Links
     - [Official Polk Reserve R500 Website](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r500/300033.html)
+    - [Reddit Search for Polk Reserve R500](https://www.reddit.com/search/?q=Polk+Reserve+R500)
 
 
 As an Amazon Associate I earn from qualifying purchases.

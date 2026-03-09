@@ -33,6 +33,7 @@ The Soundcore Motion X500 ranks [#22 out of 73 total Large Size Portable Bluetoo
     - [Alan Ross Reviews: Longest I have ever been, and I don't care who sees it! ❤](https://www.youtube.com/watch?v=ugvcTMDt-bM)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fproducts%2Fmotion-x500-a3131011)
+    - [Reddit Search for Soundcore Motion X500](https://www.reddit.com/search/?q=Soundcore+Motion+X500)
 
 
 As an Amazon Associate I earn from qualifying purchases.

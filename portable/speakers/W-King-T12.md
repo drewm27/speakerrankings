@@ -38,6 +38,7 @@ The W-King T12 ranks [#10 out of 10 total Large Party Size Portable Bluetooth Sp
     - [Oluv: W-King T12 vs JBL Partybox 520](https://www.patreon.com/posts/w-king-t12-vs-149146838)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/t12)
+    - [Reddit Search for W-King T12](https://www.reddit.com/search/?q=W-King+T12)
 
 
 As an Amazon Associate I earn from qualifying purchases.

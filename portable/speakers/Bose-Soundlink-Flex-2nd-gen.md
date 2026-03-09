@@ -31,6 +31,7 @@ The Bose Soundlink Flex 2nd gen ranks [#33 out of 131 total Medium Size Portable
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Flex 2nd gen](https://www.reddit.com/search/?q=Bose+Soundlink+Flex+2nd+gen)
 
 
 As an Amazon Associate I earn from qualifying purchases.

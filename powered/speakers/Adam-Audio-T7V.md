@@ -35,6 +35,7 @@ The Adam Audio T7V ranks [#16 out of 21 total Large Size Powered Bookshelf Speak
     - [Official Product Page](https://www.adam-audio.com/en/t-series/t7v/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t7v-spinorama-and-eq-inside.17283/)
     - [Audioholics Review Measurements](https://www.audioholics.com/bookshelf-speaker-reviews/adam-audio-t7v)
+    - [Reddit Search for Adam Audio T7V](https://www.reddit.com/search/?q=Adam+Audio+T7V)
 
 
 As an Amazon Associate I earn from qualifying purchases.

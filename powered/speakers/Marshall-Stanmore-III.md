@@ -35,6 +35,7 @@ The Marshall Stanmore III ranks [#9 out of 14 total Medium Size Powered Desktop 
     - [Danny Pops: Marshall Stanmore 3 Review - This is Tough To Review](https://www.youtube.com/watch?v=XlMznGGHNQo)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/stanmore-iii)
+    - [Reddit Search for Marshall Stanmore III](https://www.reddit.com/search/?q=Marshall+Stanmore+III)
 
 
 As an Amazon Associate I earn from qualifying purchases.

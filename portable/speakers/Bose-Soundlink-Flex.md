@@ -45,6 +45,7 @@ The Bose Soundlink Flex ranks [#34 out of 131 total Medium Size Portable Bluetoo
     - [Alan Ross Reviews: Bose Soundlink Flex vs Minirig MK3 and Marshall Emberton - best bluetooth speaker?](https://www.youtube.com/watch?v=nseOM9Ah-jE)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-bluetooth-speaker/SLFLX-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Flex](https://www.reddit.com/search/?q=Bose+Soundlink+Flex)
 
 
 As an Amazon Associate I earn from qualifying purchases.

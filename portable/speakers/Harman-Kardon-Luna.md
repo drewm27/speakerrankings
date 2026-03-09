@@ -33,6 +33,7 @@ The Harman Kardon Luna ranks [#22 out of 131 total Medium Size Portable Bluetoot
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/LUNA-1.html)
+    - [Reddit Search for Harman Kardon Luna](https://www.reddit.com/search/?q=Harman+Kardon+Luna)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -24,6 +24,7 @@ The Sonos Roam ranks [#70 out of 131 total Medium Size Portable Bluetooth Speake
     - <https://www.youtube.com/watch?v=dc6IkkqeXbQ>
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
+    - [Reddit Search for Sonos Roam](https://www.reddit.com/search/?q=Sonos+Roam)
 
 
 As an Amazon Associate I earn from qualifying purchases.

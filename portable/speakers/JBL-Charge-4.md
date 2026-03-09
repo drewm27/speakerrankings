@@ -40,6 +40,7 @@ The JBL Charge 4 ranks [#51 out of 131 total Medium Size Portable Bluetooth Spea
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+4.html)
+    - [Reddit Search for JBL Charge 4](https://www.reddit.com/search/?q=JBL+Charge+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

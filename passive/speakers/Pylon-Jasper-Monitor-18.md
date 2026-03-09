@@ -13,6 +13,7 @@ The Pylon Jasper Monitor 18 ranks [#38 out of 48 total Large Size Bookshelf Spea
     - [Erin's Audio Corner: What Makes These High-End Pylon Jasper 18 Speakers Special?](https://www.youtube.com/watch?v=OxiymvZri3k)
 - Links
     - [Official Pylon Jasper Monitor 18 Website](https://pylon.pl/en/jasper-series/jasper-monitor-18/)
+    - [Reddit Search for Pylon Jasper Monitor 18](https://www.reddit.com/search/?q=Pylon+Jasper+Monitor+18)
 
 
 As an Amazon Associate I earn from qualifying purchases.

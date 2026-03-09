@@ -32,6 +32,7 @@ The W-King T11 ranks [#32 out of 67 total Boombox Size Portable Bluetooth Speake
     - [Alan Ross Reviews: W King T11 party boombox and Karaoke machine review vs T9, Stormbox Blast and Boombox 3.](https://www.youtube.com/watch?v=GR7hlEOh-_k)
     - [Jay's Straight Up Reviews & More: Dual W-King T11 (EQ1, EQ2) 🆚 JBL Partybox 110 (Bass One) 📛 Are two T11's TWS Louder than one PB110?](https://www.youtube.com/watch?v=dk3KqC-cdsk)
     - [Jay's Straight Up Reviews & More: W-King T11 (EQ1, Firmware 2.32) 🆚 Onn Large Party Speaker (Bass Boost Off/On) - Budget Battle!💥](https://www.youtube.com/watch?v=dq1JLYaRwkk)
+    - [Reddit Search for W-King T11](https://www.reddit.com/search/?q=W-King+T11)
 
 
 As an Amazon Associate I earn from qualifying purchases.

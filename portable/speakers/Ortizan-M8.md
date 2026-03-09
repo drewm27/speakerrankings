@@ -27,6 +27,7 @@ The Ortizan M8 ranks [#70 out of 73 total Large Size Portable Bluetooth Speakers
 - Weight: 4.63lbs / 2.1kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
+    - [Reddit Search for Ortizan M8](https://www.reddit.com/search/?q=Ortizan+M8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

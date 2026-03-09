@@ -32,6 +32,7 @@ The Presonus Eris E3.5 2nd Gen ranks [#7 out of 8 total Small Size Powered Books
     - [Official Product Page](https://www.presonus.com/products/eris-35-2nd-gen-pair)
     - [Erin's Audio Corner Review Measurements](https://www.erinsaudiocorner.com/loudspeakers/presonus_eris3.5_mk2/)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/presonus-eris-e3-5-powered-monitor-review-100-pair.23388/)
+    - [Reddit Search for Presonus Eris E3.5 2nd Gen](https://www.reddit.com/search/?q=Presonus+Eris+E3.5+2nd+Gen)
 
 
 As an Amazon Associate I earn from qualifying purchases.

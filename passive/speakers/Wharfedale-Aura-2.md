@@ -24,6 +24,7 @@ The Wharfedale Aura 2 ranks [#22 out of 48 total Large Size Bookshelf Speakers](
     - [Erin's Audio Corner: My Personal Favorite Speakers Under $2500](https://www.youtube.com/watch?v=w8wnjCZrtBA)
 - Links
     - [Official Wharfedale Aura 2 Website](https://www.wharfedaleusa.com/products/aura-2-standmount-speakers-pair)
+    - [Reddit Search for Wharfedale Aura 2](https://www.reddit.com/search/?q=Wharfedale+Aura+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

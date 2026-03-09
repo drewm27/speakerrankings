@@ -33,6 +33,7 @@ The Sony SRS-XP500 ranks [#12 out of 43 total Party Size Portable Bluetooth Spea
     - [GYMCADDY: Soundboks Go Vs JBL Partybox 110 Vs Sony XP500](https://www.youtube.com/watch?v=JM5izq3u_iM)
 - Links
     - [Official Product Page](https://www.sony.com/lr/electronics/wireless-speakers/srs-xp500)
+    - [Reddit Search for Sony SRS-XP500](https://www.reddit.com/search/?q=Sony+SRS-XP500)
 
 
 As an Amazon Associate I earn from qualifying purchases.

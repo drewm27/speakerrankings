@@ -35,6 +35,7 @@ The JBL Partybox Encore Essential 2 ranks [#5 out of 67 total Boombox Size Porta
     - [KULAS TECH SHOW: JBL Partybox Encore Essential 2 - Unbox, Sound test🔥💥](https://www.youtube.com/watch?v=mTcp9S7-Ow8)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-ENCORE-ESSENTIAL-2.html)
+    - [Reddit Search for JBL Partybox Encore Essential 2](https://www.reddit.com/search/?q=JBL+Partybox+Encore+Essential+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

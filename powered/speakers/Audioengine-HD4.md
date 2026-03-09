@@ -24,6 +24,7 @@ The Audioengine HD4 ranks [#24 out of 24 total Medium Size Powered Bookshelf Spe
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Audioengine HD4  sound.DEMO](https://www.youtube.com/watch?v=-pMsnGzolvY)
 - Links
     - [Official Product Page](https://www.tkqlhce.com/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd4-home-music-system%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D1233138&cjsku=1233138)
+    - [Reddit Search for Audioengine HD4](https://www.reddit.com/search/?q=Audioengine+HD4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

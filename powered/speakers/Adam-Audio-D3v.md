@@ -27,6 +27,7 @@ The Adam Audio D3v ranks [#3 out of 8 total Small Size Powered Bookshelf Speaker
     - [Erin's Audio Review Adam Audio D3v](https://www.erinsaudiocorner.com/loudspeakers/adam_d3v/)
 - Links
     - [Official Product Page](https://www.adam-audio.com/en/desktop/d3v/)
+    - [Reddit Search for Adam Audio D3v](https://www.reddit.com/search/?q=Adam+Audio+D3v)
 
 
 As an Amazon Associate I earn from qualifying purchases.

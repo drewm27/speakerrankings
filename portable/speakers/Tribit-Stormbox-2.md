@@ -33,6 +33,7 @@ The Tribit Stormbox 2 ranks [#77 out of 131 total Medium Size Portable Bluetooth
     - [Storytripper HD: Tribit Micro 2 vs Tribit STormBox 2 vs Tribit StormBox Mini](https://www.youtube.com/watch?v=j2RvrCmY31E)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-2-portable-speaker)
+    - [Reddit Search for Tribit Stormbox 2](https://www.reddit.com/search/?q=Tribit+Stormbox+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -33,6 +33,7 @@ The W-King X10-1 ranks [#57 out of 67 total Boombox Size Portable Bluetooth Spea
     - [Alan Ross Reviews: W King x10 vs x10-1 - updates, changes, also D9 and Motion Boom!](https://www.youtube.com/watch?v=duGiKJ0h0SY)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/x10)
+    - [Reddit Search for W-King X10-1](https://www.reddit.com/search/?q=W-King+X10-1)
 
 
 As an Amazon Associate I earn from qualifying purchases.

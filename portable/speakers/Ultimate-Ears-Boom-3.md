@@ -27,6 +27,7 @@ The Ultimate Ears Boom 3 ranks [#85 out of 131 total Medium Size Portable Blueto
     - <https://www.youtube.com/watch?v=OtCvD3Cnpco>
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/boom-3)
+    - [Reddit Search for Ultimate Ears Boom 3](https://www.reddit.com/search/?q=Ultimate+Ears+Boom+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

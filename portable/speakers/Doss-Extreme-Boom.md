@@ -31,6 +31,7 @@ The Doss Extreme Boom ranks [#71 out of 73 total Large Size Portable Bluetooth S
     - <https://www.youtube.com/watch?v=se-REq7pJ3s>
 - Links
     - [Official Product Page](https://www.dossaudio.com/products/extreme-boom)
+    - [Reddit Search for Doss Extreme Boom](https://www.reddit.com/search/?q=Doss+Extreme+Boom)
 
 
 As an Amazon Associate I earn from qualifying purchases.

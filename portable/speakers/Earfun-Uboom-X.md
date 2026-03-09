@@ -76,6 +76,7 @@ The Earfun Uboom X ranks [#1 out of 67 total Boombox Size Portable Bluetooth Spe
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
+    - [Reddit Search for Earfun Uboom X](https://www.reddit.com/search/?q=Earfun+Uboom+X)
 
 
 As an Amazon Associate I earn from qualifying purchases.

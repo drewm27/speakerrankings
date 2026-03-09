@@ -35,6 +35,7 @@ The Audiocase S5 ranks [#19 out of 43 total Party Size Portable Bluetooth Speake
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
     - [Official Product Page](https://audiocase.dk/products/audiocase-s5)
+    - [Reddit Search for Audiocase S5](https://www.reddit.com/search/?q=Audiocase+S5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

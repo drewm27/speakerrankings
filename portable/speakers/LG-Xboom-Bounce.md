@@ -31,6 +31,7 @@ The LG Xboom Bounce ranks [#28 out of 73 total Large Size Portable Bluetooth Spe
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links
     - <https://www.lg.com/us/speakers/lg-xboom-bounce-portable-speaker>
+    - [Reddit Search for LG Xboom Bounce](https://www.reddit.com/search/?q=LG+Xboom+Bounce)
 
 
 As an Amazon Associate I earn from qualifying purchases.

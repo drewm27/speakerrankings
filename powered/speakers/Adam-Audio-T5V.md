@@ -31,6 +31,7 @@ The Adam Audio T5V ranks [#8 out of 24 total Medium Size Powered Bookshelf Speak
 - Links
     - [Official Product Page](https://www.jbl.com/studio-monitors/305PMKII-.html)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/adam-t5v-review-studio-monitor.18122/)
+    - [Reddit Search for Adam Audio T5V](https://www.reddit.com/search/?q=Adam+Audio+T5V)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -22,6 +22,7 @@ The Genelec 8040B ranks [#7 out of 21 total Large Size Powered Bookshelf Speaker
 - Weight: 20.7lbs / 9.4kg each
 - Links
     - [Official Product Page](https://www.genelec.com/8040b)
+    - [Reddit Search for Genelec 8040B](https://www.reddit.com/search/?q=Genelec+8040B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

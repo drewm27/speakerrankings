@@ -31,6 +31,7 @@ The IK Multimedia iLoud MTM ranks [#13 out of 24 total Medium Size Powered Books
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmtm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/ik-multimedia-iloud-mtm-review-powered-monitor.18347/)
+    - [Reddit Search for IK Multimedia iLoud MTM](https://www.reddit.com/search/?q=IK+Multimedia+iLoud+MTM)
 
 
 As an Amazon Associate I earn from qualifying purchases.

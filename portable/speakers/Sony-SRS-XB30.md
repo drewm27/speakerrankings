@@ -29,6 +29,7 @@ The Sony SRS-XB30 ranks [#99 out of 131 total Medium Size Portable Bluetooth Spe
     - <https://www.youtube.com/watch?v=vaMmiWOSv34>
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/product/srs-xb30/manuals)
+    - [Reddit Search for Sony SRS-XB30](https://www.reddit.com/search/?q=Sony+SRS-XB30)
 
 
 As an Amazon Associate I earn from qualifying purchases.

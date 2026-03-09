@@ -31,6 +31,7 @@ The Ultimate Ears Everboom ranks [#30 out of 73 total Large Size Portable Blueto
     - [Smart Home Sounds: UE Everboom Review PLUS All-New Wonderboom 4, Boom 4 & Megaboom 4](https://www.youtube.com/watch?v=-iWZlOB5Nco)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/everboom)
+    - [Reddit Search for Ultimate Ears Everboom](https://www.reddit.com/search/?q=Ultimate+Ears+Everboom)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -39,6 +39,7 @@ The Soundcore Boom 2 Plus ranks [#24 out of 67 total Boombox Size Portable Bluet
     - [Jagist reviews: Zealot S95 Vs Soundcore Boom 2 Plus!!!](https://www.youtube.com/watch?v=OC1uPbMEsMk)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3134-boom2-plus-outdoor-bass-speaker&cjsku=A3134031)
+    - [Reddit Search for Soundcore Boom 2 Plus](https://www.reddit.com/search/?q=Soundcore+Boom+2+Plus)
 
 
 As an Amazon Associate I earn from qualifying purchases.

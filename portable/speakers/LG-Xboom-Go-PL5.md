@@ -29,6 +29,7 @@ The LG Xboom Go PL5 ranks [#108 out of 131 total Medium Size Portable Bluetooth 
     - [Alan Ross Reviews: LG Xboom Go PL5 review - the Flip 5 should be worried?? 🤭](https://www.youtube.com/watch?v=GbiUY9bdv7g)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-pl5-portable-bluetooth-speaker)
+    - [Reddit Search for LG Xboom Go PL5](https://www.reddit.com/search/?q=LG+Xboom+Go+PL5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

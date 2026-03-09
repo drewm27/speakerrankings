@@ -29,6 +29,7 @@ The IK Multimedia iLoud Micro Monitor ranks [#2 out of 8 total Small Size Powere
 - Links
     - [Official Product Page](https://www.ikmultimedia.com/products/iloudmm/index.php)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/iloud-micro-monitors-measurements-and-quasi-anechoic-spinorama.10988/)
+    - [Reddit Search for IK Multimedia iLoud Micro Monitor](https://www.reddit.com/search/?q=IK+Multimedia+iLoud+Micro+Monitor)
 
 
 As an Amazon Associate I earn from qualifying purchases.

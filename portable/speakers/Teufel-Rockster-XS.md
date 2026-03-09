@@ -23,6 +23,7 @@ The Teufel Rockster XS ranks [#31 out of 131 total Medium Size Portable Bluetoot
     - <https://www.youtube.com/watch?v=dl0ujSs3fnw>
 - Links
     - [Official Product Page](https://ie.teufelaudio.com/rockster-xs-105565000)
+    - [Reddit Search for Teufel Rockster XS](https://www.reddit.com/search/?q=Teufel+Rockster+XS)
 
 
 As an Amazon Associate I earn from qualifying purchases.

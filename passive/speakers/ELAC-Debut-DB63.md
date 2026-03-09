@@ -22,6 +22,7 @@ The ELAC Debut DB63 ranks [#31 out of 48 total Large Size Bookshelf Speakers](/p
     - [Erin's Audio Corner Website Elac Debut DB63](https://www.erinsaudiocorner.com/loudspeakers/elac_db63/)
 - Links
     - [Official ELAC Debut DB63 Website](https://elac.com/db63)
+    - [Reddit Search for ELAC Debut DB63](https://www.reddit.com/search/?q=ELAC+Debut+DB63)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -31,6 +31,7 @@ The Demerbox DB2 ranks [#45 out of 67 total Boombox Size Portable Bluetooth Spea
     - [KosherTech: DemerBox Bluetooth Speaker Worth $300? "Kosher Review"](https://www.youtube.com/watch?v=q-PSiKgiiIM)
 - Links
     - [Official Product Page](https://demerbox.com/collections/db2-speakers)
+    - [Reddit Search for Demerbox DB2](https://www.reddit.com/search/?q=Demerbox+DB2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

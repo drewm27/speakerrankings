@@ -29,6 +29,7 @@ The B&O Beosound Explore ranks [#104 out of 131 total Medium Size Portable Bluet
     - <https://www.youtube.com/watch?v=r7e9oiyiEVM>
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-explore)
+    - [Reddit Search for B&O Beosound Explore](https://www.reddit.com/search/?q=B%26O+Beosound+Explore)
 
 
 As an Amazon Associate I earn from qualifying purchases.

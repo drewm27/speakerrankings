@@ -24,6 +24,7 @@ The KRK Rokit 7 G4 ranks [#18 out of 21 total Large Size Powered Bookshelf Speak
     - [DSAUDIO.review: KRK Rokit 7 RP7G4 vs JBL 306P MKII   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=v7HRnymGYdY)
 - Links
     - [Official Product Page](https://www.krkmusic.com/products/rokit-7-generation-4-powered-studio-monitor-black)
+    - [Reddit Search for KRK Rokit 7 G4](https://www.reddit.com/search/?q=KRK+Rokit+7+G4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

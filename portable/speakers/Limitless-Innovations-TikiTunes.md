@@ -20,6 +20,7 @@ The Limitless Innovations TikiTunes ranks [#131 out of 131 total Medium Size Por
 - Reviews, Comparisons and Sound Samples
     - [Tom DeCicco: Award Winning CES Bluetooth Speaker is FIRE! TikiTunes](https://www.youtube.com/watch?v=1A5cNDoQCM8)
     - [Nerd Know Better: TikiTunes Review: Is it Really Best Wireless Bluetooth Speaker?](https://www.youtube.com/watch?v=VDc2anLRz0w)
+    - [Reddit Search for Limitless Innovations TikiTunes](https://www.reddit.com/search/?q=Limitless+Innovations+TikiTunes)
 
 
 As an Amazon Associate I earn from qualifying purchases.

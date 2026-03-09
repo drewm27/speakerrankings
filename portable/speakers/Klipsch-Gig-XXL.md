@@ -29,6 +29,7 @@ The Klipsch Gig XXL ranks [#16 out of 43 total Party Size Portable Bluetooth Spe
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox 110 🎉 Bluetooth Party Speaker Comparison. Is The Party Over For Gig?](https://www.youtube.com/watch?v=bCCgG7s4lDQ)
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs JBL Partybox Encore Essential (Pee-Wee) - Indoors, Plugged In🔌 Bluetooth Speakers](https://www.youtube.com/watch?v=qgelmChNgAE)
     - [Jay's Straight Up Reviews & More: Klipsch Gig XXL vs ONN Large Party Speaker Gen 2 ⚔️ Budge Bluetooth Speaker Battle🔉 Bass Boost On](https://www.youtube.com/watch?v=CdhU1W-5pr4)
+    - [Reddit Search for Klipsch Gig XXL](https://www.reddit.com/search/?q=Klipsch+Gig+XXL)
 
 
 As an Amazon Associate I earn from qualifying purchases.

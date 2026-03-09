@@ -3,10 +3,10 @@ layout: page
 title: Best Bluetooth Speakers From Top Reviewers 
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
-share-description: "Expert rankings of 365 Bluetooth speakers tested by top reviewers. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
+share-description: "Expert rankings of 366 Bluetooth speakers tested by top reviewers. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speakers picked by top reviewers?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 05, 2026.**
+**Looking for the best Bluetooth speakers picked by top reviewers?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 09, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -19,6 +19,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 ### Oluv's favorite [small size](/portable/small/) speaker is the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
+- Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59Hz
@@ -54,6 +55,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
+    - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
 
 
 ### Oluv's favorite [medium size](/portable/medium/) battery powered speaker is the [**Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325)] [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)]: $50 after coupon UBOOMLWC in the payment options
@@ -93,6 +95,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
+    - [Reddit Search for Earfun Uboom L](https://www.reddit.com/search/?q=Earfun+Uboom+L)
 
 
 ### Oluv's favorite [large size](/portable/large/) battery powered speaker is the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
@@ -137,6 +140,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Lava](https://www.reddit.com/search/?q=Tribit+Stormbox+Lava)
 
 
 ### Oluv's favorite [boombox size](/portable/boombox/) battery powered speaker is the [**Earfun Uboom X**](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
@@ -208,6 +212,7 @@ Oluv prefers a very neutral sound signature and has done the DSP design on the E
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
+    - [Reddit Search for Earfun Uboom X](https://www.reddit.com/search/?q=Earfun+Uboom+X)
 
 
 ## [Alan Ross](https://www.youtube.com/@alanrossreviews)'s Speaker Picks
@@ -217,6 +222,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 ### Alan Ross's favorite [small size](/portable/small/) speaker is the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
+- Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59Hz
@@ -252,6 +258,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
+    - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
 
 
 ### Alan Ross's favorite [medium size](/portable/medium/) speaker is the [**Soundcore Motion+**](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl)]: $80 used
@@ -289,6 +296,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
+    - [Reddit Search for Soundcore Motion+](https://www.reddit.com/search/?q=Soundcore+Motion%2B)
 
 
 ### Alan Ross's favorite [large size](/portable/large/) speaker is the [**Marshall Stockwell 2**](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Stockwell-Portable-Bluetooth-Speaker/dp/B088KRKFJ3/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=625cd7d7a82f717f8f69461bb66b25ab&camp=1789&creative=9325)]: $200
@@ -323,6 +331,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
     - [Alan Ross Reviews: Marshall Emberton vs Marshall Stockwell 2 - little guy goes louder?? 🤓](https://www.youtube.com/watch?v=6j2Aj5E48Kc)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/stockwell-ii)
+    - [Reddit Search for Marshall Stockwell 2](https://www.reddit.com/search/?q=Marshall+Stockwell+2)
 
 
 ### Alan Ross's favorite [boombox size](/portable/boombox/) speaker is the [**Harman Kardon Go + Play 3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325)] [[Ebay Refurbished](https://www.ebay.com/itm/156428451357?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dYV7A0jR83JeTmj9j2vjkxlnm93aef1rGbuZw5OKLJdkqjRw0OY4TvrYIUrJH%2FALK16p3w%2BAr%2FJPGwMKf9CKxtEuKKVPJhwb2rlCol4P8zrio2QUpnurLOupEqKe3HCowQIrN9VYSF%2FwpSUseY6dCEFC2dZqD8QL05WsP2x3f7FqkRLju%2FkLebxrcI5VUf4X8%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $385
@@ -361,6 +370,7 @@ Alan Ross has mentioned he prefers a slightly warm sound signature, and the spea
     - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
+    - [Reddit Search for Harman Kardon Go + Play 3](https://www.reddit.com/search/?q=Harman+Kardon+Go+%2B+Play+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

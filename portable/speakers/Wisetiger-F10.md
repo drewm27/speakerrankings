@@ -22,6 +22,7 @@ The Wisetiger F10 ranks [#106 out of 131 total Medium Size Portable Bluetooth Sp
     - [Techder Audios: Wisetiger F10 Beat Boom "CHEAP & GOOD?!"](https://www.youtube.com/watch?v=PSqpd9W7oPI)
     - [andresound1747: WISE TIGER F10 BEAT BOOM](https://www.youtube.com/shorts/ybkVZ6V-_60)
     - [ReoAudio: WiseTiger F10 Sound Test](https://www.youtube.com/watch?v=s1q7oTh7IjY)
+    - [Reddit Search for Wisetiger F10](https://www.reddit.com/search/?q=Wisetiger+F10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

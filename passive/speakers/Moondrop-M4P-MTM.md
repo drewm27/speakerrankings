@@ -15,6 +15,7 @@ The Moondrop M4P MTM ranks [#4 out of 20 total Medium Size Bookshelf Speakers](/
     - [Erin's Audio Corner Website Moondrop M4P MTM](https://www.erinsaudiocorner.com/loudspeakers/moondrop_mrp/)
 - Links
     - [Official Moondrop M4P MTM Website](https://moondroplab.com/en/products/m4p-mtm)
+    - [Reddit Search for Moondrop M4P MTM](https://www.reddit.com/search/?q=Moondrop+M4P+MTM)
 
 
 As an Amazon Associate I earn from qualifying purchases.

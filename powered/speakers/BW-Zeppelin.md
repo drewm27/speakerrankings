@@ -37,6 +37,7 @@ The B&W Zeppelin ranks [#1 out of 2 total Large Size Powered Desktop Speakers](/
     - [Oluv: B&W Zeppelin - listening session](https://www.patreon.com/posts/b-w-zeppelin-124926888)
 - Links
     - [Official Product Page](https://www.bowerswilkins.com/en-us/product/wireless-speakers/zeppelin/150242.html)
+    - [Reddit Search for B&W Zeppelin](https://www.reddit.com/search/?q=B%26W+Zeppelin)
 
 
 As an Amazon Associate I earn from qualifying purchases.

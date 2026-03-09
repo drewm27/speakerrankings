@@ -28,6 +28,7 @@ The Edifier MR3 ranks [#5 out of 8 total Small Size Powered Bookshelf Speakers](
     - [Erin's Audio Corner: Edifier MR3 Review: A True Giant Killer!](https://www.youtube.com/watch?v=Inpgge093o0)
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-mr3-powered-studio-monitor-speakers)
+    - [Reddit Search for Edifier MR3](https://www.reddit.com/search/?q=Edifier+MR3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

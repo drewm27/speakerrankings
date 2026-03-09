@@ -30,6 +30,7 @@ The Dutch & Dutch 8C ranks [#1 out of 21 total Large Size Powered Bookshelf Spea
     - [Erin's Audio Corner Website Dutch & Dutch 8C](https://www.erinsaudiocorner.com/loudspeakers/dutch_dutch_8c/)
 - Links
     - [Official Product Page](https://dutchdutch.com/collections/8c-speaker)
+    - [Reddit Search for Dutch & Dutch 8C](https://www.reddit.com/search/?q=Dutch+%26+Dutch+8C)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -23,6 +23,7 @@ The JBL Flip Essential ranks [#65 out of 131 total Medium Size Portable Bluetoot
     - [Techder Audios: #JBL Flip 5 VS #JBL Flip Essential "IMPRESSIVE COMPARISON!?"](https://www.youtube.com/watch?v=SpGb12ZyC1w)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/FLIP+ESSENTIAL-.html)
+    - [Reddit Search for JBL Flip Essential](https://www.reddit.com/search/?q=JBL+Flip+Essential)
 
 
 As an Amazon Associate I earn from qualifying purchases.

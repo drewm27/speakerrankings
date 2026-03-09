@@ -27,6 +27,7 @@ The Ultimate Ears Wonderboom 2 ranks [#82 out of 131 total Medium Size Portable 
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: The biggest upgrade since time began! 💪](https://www.youtube.com/watch?v=IBFY9D23YJU)
     - [Alan Ross Reviews: UE Wonderboom 2 review and sound test - vs Flip 5 - Flip 4](https://www.youtube.com/watch?v=EXMSGwFcTZI)
+    - [Reddit Search for Ultimate Ears Wonderboom 2](https://www.reddit.com/search/?q=Ultimate+Ears+Wonderboom+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

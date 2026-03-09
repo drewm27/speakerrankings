@@ -37,6 +37,7 @@ The JBL Authentics 500 ranks [#2 out of 2 total Large Size Powered Desktop Speak
     - [Jay's Straight Up Reviews & More: JBL Authentics 500 vs Boombox 3 🙮‍💨 Bluetooth Speaker Sound Comparison. Plugged In 🔌 Get Your 💵 Out!](https://www.youtube.com/watch?v=I9UpaL-4H5c)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-500.html)
+    - [Reddit Search for JBL Authentics 500](https://www.reddit.com/search/?q=JBL+Authentics+500)
 
 
 As an Amazon Associate I earn from qualifying purchases.

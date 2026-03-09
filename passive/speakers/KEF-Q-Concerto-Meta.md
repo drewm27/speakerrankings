@@ -25,6 +25,7 @@ The KEF Q Concerto Meta ranks [#7 out of 48 total Large Size Bookshelf Speakers]
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official KEF Concerto Meta Website](https://us.kef.com/products/q-concerto-meta)
+    - [Reddit Search for KEF Q Concerto Meta](https://www.reddit.com/search/?q=KEF+Q+Concerto+Meta)
 
 
 As an Amazon Associate I earn from qualifying purchases.

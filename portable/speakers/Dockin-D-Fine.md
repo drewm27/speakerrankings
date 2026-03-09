@@ -29,6 +29,7 @@ The Dockin D Fine ranks [#32 out of 73 total Large Size Portable Bluetooth Speak
     - <https://www.youtube.com/watch?v=-9Fz7XjyQYs>
     - <https://www.youtube.com/watch?v=T3ZjkGcpRa0>
     - [Alan Ross Reviews: Sony xb43 JBL Xtreme 2 W-King d8 Dockin D Fine](https://www.youtube.com/watch?v=q99Jga0n7gg)
+    - [Reddit Search for Dockin D Fine](https://www.reddit.com/search/?q=Dockin+D+Fine)
 
 
 As an Amazon Associate I earn from qualifying purchases.

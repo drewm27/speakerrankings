@@ -42,6 +42,7 @@ The Minirig 3 ranks [#7 out of 131 total Medium Size Portable Bluetooth Speakers
     - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-3)
+    - [Reddit Search for Minirig 3](https://www.reddit.com/search/?q=Minirig+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -41,6 +41,7 @@ The Teufel Rockster ranks [#6 out of 10 total Large Party Size Portable Bluetoot
     - [Oluv: Marshall Bromley 750 & Teufel Rockster Air 2 - outdoor test](https://www.patreon.com/posts/marshall-bromley-147968388)
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-105575000)
+    - [Reddit Search for Teufel Rockster](https://www.reddit.com/search/?q=Teufel+Rockster)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -18,6 +18,7 @@ The Sonus Faber Sonetto II G2 ranks [#40 out of 48 total Large Size Bookshelf Sp
     - [Erin's Audio Corner Website Sonus Faber Sonetto II G2](https://www.erinsaudiocorner.com/loudspeakers/sonus_faber_sonetto_ii_g2/)
 - Links
     - [Official Sonus Faber Sonetto II G2 Website](https://www.sonusfaber.com/en/products/sonetto-ii)
+    - [Reddit Search for Sonus Faber Sonetto II G2](https://www.reddit.com/search/?q=Sonus+Faber+Sonetto+II+G2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

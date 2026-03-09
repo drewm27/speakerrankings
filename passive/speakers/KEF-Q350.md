@@ -18,6 +18,7 @@ The KEF Q350 ranks [#24 out of 48 total Large Size Bookshelf Speakers](/passive/
     - [Audio Science Review KEF Q350](https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/)
 - Links
     - [Official KEF Q350 Website](https://us.kef.com/products/q350-bookshelf-speaker)
+    - [Reddit Search for KEF Q350](https://www.reddit.com/search/?q=KEF+Q350)
 
 
 As an Amazon Associate I earn from qualifying purchases.

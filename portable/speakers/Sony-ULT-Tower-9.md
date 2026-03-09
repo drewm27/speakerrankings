@@ -40,6 +40,7 @@ The Sony ULT Tower 9 ranks [#7 out of 10 total Large Party Size Portable Bluetoo
     - [GYMCADDY: JBL Partybox 720 Vs Sony ULT Tower 9](https://www.youtube.com/watch?v=ftc_uQxgLnA)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult900)
+    - [Reddit Search for Sony ULT Tower 9](https://www.reddit.com/search/?q=Sony+ULT+Tower+9)
 
 
 As an Amazon Associate I earn from qualifying purchases.

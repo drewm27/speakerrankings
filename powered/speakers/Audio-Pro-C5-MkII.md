@@ -36,6 +36,7 @@ The Audio Pro C5 MkII ranks [#1 out of 14 total Medium Size Powered Desktop Spea
     - [Smart Home Sounds: Audio Pro Addon Series: A serious multi-room contender?](https://www.youtube.com/watch?v=ig8h32VcU8o)
 - Links
     - [Official Product Page](https://audiopro.com/products/c5-mkii)
+    - [Reddit Search for Audio Pro C5 MkII](https://www.reddit.com/search/?q=Audio+Pro+C5+MkII)
 
 
 As an Amazon Associate I earn from qualifying purchases.

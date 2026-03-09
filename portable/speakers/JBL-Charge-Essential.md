@@ -27,6 +27,7 @@ The JBL Charge Essential ranks [#67 out of 131 total Medium Size Portable Blueto
     - [The Tech Files: JBL CHARGE ESSENTIAL VS CHARGE ESSENTIAL 2 COMPARATIVO AMBIENTE EXTERNO](https://www.youtube.com/watch?v=Y2Tr9qUB4_E)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+CHARGE+ESSENTIAL-.html)
+    - [Reddit Search for JBL Charge Essential](https://www.reddit.com/search/?q=JBL+Charge+Essential)
 
 
 As an Amazon Associate I earn from qualifying purchases.

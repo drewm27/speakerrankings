@@ -37,6 +37,7 @@ The Electro-Voice Everse 8 ranks [#9 out of 43 total Party Size Portable Bluetoo
     - [JPW Pro: EV Everse 8 vs JBL EON One Compact Review](https://www.youtube.com/watch?v=59374H8e3HQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-8/)
+    - [Reddit Search for Electro-Voice Everse 8](https://www.reddit.com/search/?q=Electro-Voice+Everse+8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

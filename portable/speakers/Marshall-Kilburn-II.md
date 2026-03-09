@@ -27,6 +27,7 @@ The Marshall Kilburn II ranks [#34 out of 73 total Large Size Portable Bluetooth
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GRjwPbJ4YNs>
     - [Storytripper HD: Marshall Acton 2 vs Marshall Kilburn 2](https://www.youtube.com/watch?v=UNHjks4p7Rk)
+    - [Reddit Search for Marshall Kilburn II](https://www.reddit.com/search/?q=Marshall+Kilburn+II)
 
 
 As an Amazon Associate I earn from qualifying purchases.

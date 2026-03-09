@@ -19,6 +19,7 @@ The KEF Q3 Meta ranks [#35 out of 48 total Large Size Bookshelf Speakers](/passi
     - [Erin's Audio Corner: KEF Q3 META Expert Shares Top Sound Quality Secrets](https://www.youtube.com/watch?v=GhyF1ZnebRY)
 - Links
     - [Official KEF Q3 Meta Website](https://us.kef.com/products/q3-meta)
+    - [Reddit Search for KEF Q3 Meta](https://www.reddit.com/search/?q=KEF+Q3+Meta)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -31,6 +31,7 @@ The Minirig mk2 with subwoofer ranks [#6 out of 73 total Large Size Portable Blu
     - [Alan Ross Reviews: Minirig mk3 sub vs mk2 subwoofer - full sound test, 1.1, 2.1, 2.2](https://www.youtube.com/watch?v=dKyluqQNX5s)
 - Links
     - [Official Subwoofer Product Page](https://minirigs.co.uk/speakers/minirig-subwoofer-3)
+    - [Reddit Search for Minirig mk2 with subwoofer](https://www.reddit.com/search/?q=Minirig+mk2+with+subwoofer)
 
 
 As an Amazon Associate I earn from qualifying purchases.

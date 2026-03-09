@@ -33,6 +33,7 @@ The Laney F67 ranks [#63 out of 73 total Large Size Portable Bluetooth Speakers]
     - [wat caf’e วัฒน์คาเฟ่แฟรนไชส์กาแฟ: ลำโพง laney f67  marshall k2 fender indio](https://www.youtube.com/watch?v=w94Uc4SJwiw)
 - Links
     - [Official Product Page](https://www.laney.co.uk/lifestyle/laney-sound-systems/f67-lionheart)
+    - [Reddit Search for Laney F67](https://www.reddit.com/search/?q=Laney+F67)
 
 
 As an Amazon Associate I earn from qualifying purchases.

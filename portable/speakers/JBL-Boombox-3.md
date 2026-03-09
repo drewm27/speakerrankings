@@ -52,6 +52,7 @@ The JBL Boombox 3 ranks [#19 out of 67 total Boombox Size Portable Bluetooth Spe
     - [AudioTribe: JBL Authentics 500 VS JBL Boombox 3 Sound Test Comparison](https://www.youtube.com/watch?v=J8c7Ur83_VQ)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/BOOMBOX-3-.html)
+    - [Reddit Search for JBL Boombox 3](https://www.reddit.com/search/?q=JBL+Boombox+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

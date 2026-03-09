@@ -35,6 +35,7 @@ The JBL Charge 5 Wifi ranks [#25 out of 131 total Medium Size Portable Bluetooth
     - [GYMCADDY: JBL Charge 5 Wifi Review - Is Wifi Worth The Upgrade?](https://www.youtube.com/watch?v=cAhKNL1rpLU)
 - Links
     - [Official Product Page](https://www.jbl.com/wifi-speakers/CHARGE-5-WIFI.html)
+    - [Reddit Search for JBL Charge 5 Wifi](https://www.reddit.com/search/?q=JBL+Charge+5+Wifi)
 
 
 As an Amazon Associate I earn from qualifying purchases.

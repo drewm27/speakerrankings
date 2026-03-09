@@ -32,6 +32,7 @@ The Marshall Emberton III ranks [#94 out of 131 total Medium Size Portable Bluet
     - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/emberton-iii)
+    - [Reddit Search for Marshall Emberton III](https://www.reddit.com/search/?q=Marshall+Emberton+III)
 
 
 As an Amazon Associate I earn from qualifying purchases.

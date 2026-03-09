@@ -17,6 +17,7 @@ The Infinity IL10 ranks [#29 out of 48 total Large Size Bookshelf Speakers](/pas
 - Sensitivity: 85dB
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Infinity IL10](https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/)
+    - [Reddit Search for Infinity IL10](https://www.reddit.com/search/?q=Infinity+IL10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

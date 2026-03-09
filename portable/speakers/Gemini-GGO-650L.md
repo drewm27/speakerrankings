@@ -33,6 +33,7 @@ The Gemini GGO-650L ranks [#54 out of 67 total Boombox Size Portable Bluetooth S
     - [Jagist reviews: Jbl Encore Vs Gemini GGO-650L 😁 80$ vs 400$](https://www.youtube.com/watch?v=tCWXYBzbKkg)
 - Links
     - [Official Product Page](https://geminisound.com/products/ggo-650l-bluetooth-karaoke-speaker)
+    - [Reddit Search for Gemini GGO-650L](https://www.reddit.com/search/?q=Gemini+GGO-650L)
 
 
 As an Amazon Associate I earn from qualifying purchases.

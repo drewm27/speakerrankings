@@ -38,6 +38,7 @@ The Edifier D12 ranks [#3 out of 14 total Medium Size Powered Desktop Speakers](
     - [DSAUDIO.review: DSAUDIO.review Edifier D12 vs Klipsch The Three II sound.DEMO](https://www.youtube.com/watch?v=Ef3pEsNnvDc)
 - Links
     - [Official Product Page](https://www.edifier.com/global/p/wireless-speakers/d12)
+    - [Reddit Search for Edifier D12](https://www.reddit.com/search/?q=Edifier+D12)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -30,6 +30,7 @@ The Altec Lansing Mix 2.0 ranks [#59 out of 67 total Boombox Size Portable Bluet
     - [Jagist reviews: Soundcore Motion Boom vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=qr2oR3cnCYQ)
 - Links
     - [Official Product Page](https://www.alteclansing.com/products/mix-2-0)
+    - [Reddit Search for Altec Lansing Mix 2.0](https://www.reddit.com/search/?q=Altec+Lansing+Mix+2.0)
 
 
 As an Amazon Associate I earn from qualifying purchases.

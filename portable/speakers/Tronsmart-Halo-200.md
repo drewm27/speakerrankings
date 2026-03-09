@@ -33,6 +33,7 @@ The Tronsmart Halo 200 ranks [#46 out of 67 total Boombox Size Portable Bluetoot
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Tronsmart Halo 200 partybox and karaoke machine (vs bang max, JBL Encore)](https://www.youtube.com/watch?v=cb6sKTBjHvg)
     - [Jay's Straight Up Reviews & More: Tronsmart Halo 200 vs JBL Partybox Encore 🔊 Sound Check & Wireless Microphone test 🔋 Battery Powered](https://www.youtube.com/watch?v=GaCQQ_34r8k)
+    - [Reddit Search for Tronsmart Halo 200](https://www.reddit.com/search/?q=Tronsmart+Halo+200)
 
 
 As an Amazon Associate I earn from qualifying purchases.

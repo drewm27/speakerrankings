@@ -50,6 +50,7 @@ The JBL Xtreme 3 ranks [#17 out of 73 total Large Size Portable Bluetooth Speake
     - [Danny Pops: It's shaped like a Football - JBL Xtreme 3 Review vs Marshall Tufton and Flips Party Mode](https://www.youtube.com/watch?v=gBGUb4G9SpU)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/XTREME-3-.html)
+    - [Reddit Search for JBL Xtreme 3](https://www.reddit.com/search/?q=JBL+Xtreme+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

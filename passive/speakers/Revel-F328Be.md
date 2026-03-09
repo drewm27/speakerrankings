@@ -21,6 +21,7 @@ The Revel F328Be ranks [#5 out of 25 total Large Size Floorstanding Speakers](/p
     - [Audio Science Review Revel F328Be](https://www.audiosciencereview.com/forum/index.php?threads/revel-f328be-speaker-review.17443/)
 - Links
     - [Official Revel F328Be Website](https://www.revelspeakers.com/products/series/series-performabe/F328+BE.html)
+    - [Reddit Search for Revel F328Be](https://www.reddit.com/search/?q=Revel+F328Be)
 
 
 As an Amazon Associate I earn from qualifying purchases.

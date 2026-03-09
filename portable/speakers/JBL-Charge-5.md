@@ -56,6 +56,7 @@ The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Spea
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE5-.html)
+    - [Reddit Search for JBL Charge 5](https://www.reddit.com/search/?q=JBL+Charge+5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

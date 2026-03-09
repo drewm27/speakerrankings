@@ -24,6 +24,7 @@ The Dockin D Fine+ ranks [#31 out of 73 total Large Size Portable Bluetooth Spea
     - <https://www.youtube.com/watch?v=O0YSspRqEoY>
     - <https://www.youtube.com/watch?v=wYjoQjCACcQ>
     - <https://www.youtube.com/watch?v=OZBmY6fQHCA>
+    - [Reddit Search for Dockin D Fine+](https://www.reddit.com/search/?q=Dockin+D+Fine%2B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

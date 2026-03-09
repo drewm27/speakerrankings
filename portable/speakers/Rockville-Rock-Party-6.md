@@ -27,6 +27,7 @@ The Rockville Rock Party 6 ranks [#43 out of 43 total Party Size Portable Blueto
 - Reviews, Comparisons and Sound Samples
     - [Daniel Parker Big D: Sound Quality Bass Test On Rockville Rock Party 6 Bluetooth Speaker](https://www.youtube.com/watch?v=eVlB4zq2Q0I)
     - [PAPAGEORGIO84: Jbl party box 100 vs Rockville 6](https://www.youtube.com/watch?v=28bFX3K9Gzs)
+    - [Reddit Search for Rockville Rock Party 6](https://www.reddit.com/search/?q=Rockville+Rock+Party+6)
 
 
 As an Amazon Associate I earn from qualifying purchases.

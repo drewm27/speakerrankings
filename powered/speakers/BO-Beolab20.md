@@ -29,6 +29,7 @@ The B&O Beolab20 ranks [#2 out of 2 total Large Size Powered Floorstanding Speak
     - [Audio Science Review Bang & Olufsen Beolab20](https://www.audiosciencereview.com/forum/index.php?threads/b-o-beolab-20-speaker-review.43041/)
 - Links
     - [Official B&O Beolab20 Website](https://www.bang-olufsen.com/en/us/speakers/beolab-20)
+    - [Reddit Search for B&O Beolab20](https://www.reddit.com/search/?q=B%26O+Beolab20)
 
 
 As an Amazon Associate I earn from qualifying purchases.

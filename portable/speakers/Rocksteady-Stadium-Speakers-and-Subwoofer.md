@@ -30,6 +30,7 @@ The Rocksteady Stadium Speakers and Subwoofer ranks [#47 out of 73 total Large S
     - [Alan Ross Reviews: I did not expect this!  2.1 shocker!](https://www.youtube.com/watch?v=WPkMk9H-9-4)
 - Links
     - [Official Product Page](https://rocksteadyaudio.com/collections/speakers)
+    - [Reddit Search for Rocksteady Stadium Speakers and Subwoofer](https://www.reddit.com/search/?q=Rocksteady+Stadium+Speakers+and+Subwoofer)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -46,6 +46,7 @@ The JBL Boombox 4 ranks [#15 out of 67 total Boombox Size Portable Bluetooth Spe
     - [Jagist reviews: Jbl Boombox 4 Vs Zealot S95!!!](https://www.youtube.com/watch?v=T3QHnVPsd90)
 - Links
     - [Official Product Page](https://www.jbl.com/BOOMBOX-4.html)
+    - [Reddit Search for JBL Boombox 4](https://www.reddit.com/search/?q=JBL+Boombox+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

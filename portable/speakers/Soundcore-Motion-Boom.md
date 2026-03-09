@@ -50,6 +50,7 @@ The Soundcore Motion Boom ranks [#13 out of 73 total Large Size Portable Bluetoo
     - [Jagist reviews: Soundcore Motion Boom vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=qr2oR3cnCYQ)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-boom&cjsku=A3118011)
+    - [Reddit Search for Soundcore Motion Boom](https://www.reddit.com/search/?q=Soundcore+Motion+Boom)
 
 
 As an Amazon Associate I earn from qualifying purchases.

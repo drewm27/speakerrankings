@@ -31,6 +31,7 @@ The Soundcore Trance/Rave Mega ranks [#69 out of 73 total Large Size Portable Bl
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Rave Neo vs Rave Mega - best party speaker 2021?](https://www.youtube.com/watch?v=ePD09iI6qkI)
     - [Alan Ross Reviews: W-King t9 party speaker vs Soundcore Rave Neo and Trance (Rave Mega) 🥳](https://www.youtube.com/watch?v=KNfh6TuyLi0)
+    - [Reddit Search for Soundcore Trance/Rave Mega](https://www.reddit.com/search/?q=Soundcore+Trance%2FRave+Mega)
 
 
 As an Amazon Associate I earn from qualifying purchases.

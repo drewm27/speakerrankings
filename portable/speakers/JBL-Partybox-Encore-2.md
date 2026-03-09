@@ -40,6 +40,7 @@ The JBL Partybox Encore 2 ranks [#4 out of 67 total Boombox Size Portable Blueto
     - [M1M Tech Channel: JBL Partybox Encore 2  Ein fettes Bass Upgrade](https://www.youtube.com/watch?v=XdLDZNdIznE)
 - Links
     - [Official Product Page](https://uk.jbl.com/PARTYBOX-ENCORE-2.html)
+    - [Reddit Search for JBL Partybox Encore 2](https://www.reddit.com/search/?q=JBL+Partybox+Encore+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

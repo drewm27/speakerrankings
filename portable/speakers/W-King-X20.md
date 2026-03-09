@@ -41,6 +41,7 @@ The W-King X20 ranks [#26 out of 67 total Boombox Size Portable Bluetooth Speake
     - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
+    - [Reddit Search for W-King X20](https://www.reddit.com/search/?q=W-King+X20)
 
 
 As an Amazon Associate I earn from qualifying purchases.

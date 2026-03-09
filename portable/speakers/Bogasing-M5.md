@@ -28,6 +28,7 @@ The Bogasing M5 ranks [#53 out of 131 total Medium Size Portable Bluetooth Speak
     - [Alan Ross Reviews: Small speakers, Bogasing M5 speaker takes on the usual suspects!](https://www.youtube.com/watch?v=gmrcrkY_Zck)
     - [Oluv: Bogasing M5](https://www.patreon.com/posts/bogasing-m5-126932777)
     - [Jay's Straight Up Reviews & More: Klipsch Nashville vs Bogasing M5 Bi-Directional Speaker Battle](https://www.youtube.com/watch?v=q_W1Wa63xXc)
+    - [Reddit Search for Bogasing M5](https://www.reddit.com/search/?q=Bogasing+M5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

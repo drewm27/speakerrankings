@@ -23,6 +23,7 @@ The Dynaudio Special Forty ranks [#30 out of 48 total Large Size Bookshelf Speak
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official Dynaudio Special Forty Website](https://dynaudio.com/home-audio/special-forty)
+    - [Reddit Search for Dynaudio Special Forty](https://www.reddit.com/search/?q=Dynaudio+Special+Forty)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -36,6 +36,7 @@ The Klipsch Detroit ranks [#51 out of 73 total Large Size Portable Bluetooth Spe
     - [Storytripper HD: Marshall Middleton vs Klipsch Detroit](https://www.youtube.com/watch?v=ut_Q8avymTw)
 - Links
     - [Official Product Page](https://www.klipsch.com/products/detroit)
+    - [Reddit Search for Klipsch Detroit](https://www.reddit.com/search/?q=Klipsch+Detroit)
 
 
 As an Amazon Associate I earn from qualifying purchases.

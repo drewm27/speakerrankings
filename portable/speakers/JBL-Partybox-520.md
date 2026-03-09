@@ -44,6 +44,7 @@ The JBL Partybox 520 ranks [#5 out of 10 total Large Party Size Portable Bluetoo
     - [AudioTribe: JBL Partybox 720 vs JBL Partybox 520 Who's Better?](https://www.youtube.com/watch?v=jcW1CkaMfRc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/JBLPARTYBOX520AM.html)
+    - [Reddit Search for JBL Partybox 520](https://www.reddit.com/search/?q=JBL+Partybox+520)
 
 
 As an Amazon Associate I earn from qualifying purchases.

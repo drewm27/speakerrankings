@@ -32,6 +32,7 @@ The Xdobo X8 Max ranks [#53 out of 73 total Large Size Portable Bluetooth Speake
     - [DIGI-EARS: Xdobo X8 Max vs. JBL Charge 5 vs. Anker Soundcore Motion+ vs. Tribit Stormbox Pro Sound Test Battle](https://www.youtube.com/watch?v=mVwz4P6oVVA)
 - Links
     - [Official Product Page](https://xdobo.com/products/xdobo-x8-max)
+    - [Reddit Search for Xdobo X8 Max](https://www.reddit.com/search/?q=Xdobo+X8+Max)
 
 
 As an Amazon Associate I earn from qualifying purchases.

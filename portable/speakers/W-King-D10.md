@@ -34,6 +34,7 @@ The W-King D10 ranks [#49 out of 67 total Boombox Size Portable Bluetooth Speake
     - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
     - [Alan Ross Reviews: Tribit Stormbox Blast or Soundcore Motion Boom Plus or W King D10? 🤪](https://www.youtube.com/watch?v=e2mxaanQq3U)
     - [Alan Ross Reviews: W-King D10 speaker vs the D8, D9 and X10 WKing speakers 👀](https://www.youtube.com/watch?v=v_8Guk1NPa8)
+    - [Reddit Search for W-King D10](https://www.reddit.com/search/?q=W-King+D10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

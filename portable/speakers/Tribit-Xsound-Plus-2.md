@@ -33,6 +33,7 @@ The Tribit Xsound Plus 2 ranks [#32 out of 131 total Medium Size Portable Blueto
     - [Oluv: Tribit XSound Plus 2 - first impressions](https://www.patreon.com/posts/tribit-xsound-2-99145415)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-xsound-plus-2-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Xsound Plus 2](https://www.reddit.com/search/?q=Tribit+Xsound+Plus+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

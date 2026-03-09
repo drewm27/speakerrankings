@@ -3,10 +3,10 @@ layout: page
 title: Best Portable Bluetooth Speakers For Audiophiles 
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
-share-description: "Expert rankings of 365 Bluetooth speakers for audiophiles. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
+share-description: "Expert rankings of 366 Bluetooth speakers for audiophiles. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for audiophiles?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 05, 2026.**
+**Looking for the best Bluetooth speaker for audiophiles?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 09, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -25,6 +25,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 ### The best [small size](/portable/small/) speaker for audiophiles is the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
+- Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59Hz
@@ -60,6 +61,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
+    - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
 
 
 ## Medium
@@ -101,6 +103,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
+    - [Reddit Search for Earfun Uboom L](https://www.reddit.com/search/?q=Earfun+Uboom+L)
 
 
 ### If you need a [medium size](/portable/medium/) stereo and omnidirectional speaker in one, get the [**Soundcore Motion 300**](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
@@ -141,6 +144,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
+    - [Reddit Search for Soundcore Motion 300](https://www.reddit.com/search/?q=Soundcore+Motion+300)
 
 
 ### The best [medium size](/portable/medium/) speaker with a 0 latency aux for video use is the [**Soundcore Motion+**](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl)]: $80 used
@@ -178,6 +182,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
+    - [Reddit Search for Soundcore Motion+](https://www.reddit.com/search/?q=Soundcore+Motion%2B)
 
 
 ## Large
@@ -224,6 +229,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Lava](https://www.reddit.com/search/?q=Tribit+Stormbox+Lava)
 
 
 ## Boombox
@@ -297,6 +303,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
+    - [Reddit Search for Earfun Uboom X](https://www.reddit.com/search/?q=Earfun+Uboom+X)
 
 
 ### If the Uboom X is out of stock, I'd recommend the [**Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170
@@ -364,6 +371,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Blast](https://www.reddit.com/search/?q=Tribit+Stormbox+Blast)
 
 
 ### The best [boombox size](/portable/boombox/) battery powered speaker for audiophiles that fits into home decor is the [**Harman Kardon Go + Play 3**](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Harman-Kardon-Go-Play-Black/dp/B0CF7LY4XZ/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=cf2de76a8229fbc52ee07a4e71c65c1b&camp=1789&creative=9325)] [[Ebay Refurbished](https://www.ebay.com/itm/156428451357?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dYV7A0jR83JeTmj9j2vjkxlnm93aef1rGbuZw5OKLJdkqjRw0OY4TvrYIUrJH%2FALK16p3w%2BAr%2FJPGwMKf9CKxtEuKKVPJhwb2rlCol4P8zrio2QUpnurLOupEqKe3HCowQIrN9VYSF%2FwpSUseY6dCEFC2dZqD8QL05WsP2x3f7FqkRLju%2FkLebxrcI5VUf4X8%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $385
@@ -402,6 +410,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
+    - [Reddit Search for Harman Kardon Go + Play 3](https://www.reddit.com/search/?q=Harman+Kardon+Go+%2B+Play+3)
 
 
 ## Loudest
@@ -435,6 +444,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
+    - [Reddit Search for Electro-Voice Everse 12](https://www.reddit.com/search/?q=Electro-Voice+Everse+12)
 
 
 As an Amazon Associate I earn from qualifying purchases.

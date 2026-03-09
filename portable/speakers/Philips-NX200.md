@@ -31,6 +31,7 @@ The Philips NX200 ranks [#33 out of 43 total Party Size Portable Bluetooth Speak
     - [Jay's Straight Up Reviews & More: PHILIPS NX200 🦨 (TANX200) 🆚 JBL PARTYBOX 110 - Bluetooth Speaker Comparison, Both on Bass mode One.](https://www.youtube.com/watch?v=rMX9Y-OpNoc)
 - Links
     - [Official Product Page](https://www.usa.philips.com/c-p/TANX200_37/bluetooth-party-speaker)
+    - [Reddit Search for Philips NX200](https://www.reddit.com/search/?q=Philips+NX200)
 
 
 As an Amazon Associate I earn from qualifying purchases.

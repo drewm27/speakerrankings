@@ -35,6 +35,7 @@ The B&O Beosound 2 ranks [#12 out of 14 total Medium Size Powered Desktop Speake
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
     - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
+    - [Reddit Search for B&O Beosound 2](https://www.reddit.com/search/?q=B%26O+Beosound+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

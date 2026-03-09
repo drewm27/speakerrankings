@@ -29,6 +29,7 @@ The Bose Soundlink Revolve ranks [#49 out of 131 total Medium Size Portable Blue
     - <https://www.youtube.com/watch?v=Kn6AH--SZ_U>
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
     - [Alan Ross Reviews: The Ultimate 360 Degree Bluetooth Speaker Showdown: Bose Soundlink Revolve Vs Tribit Stormbox Pro](https://www.youtube.com/watch?v=Vm3kFL36Sq8)
+    - [Reddit Search for Bose Soundlink Revolve](https://www.reddit.com/search/?q=Bose+Soundlink+Revolve)
 
 
 As an Amazon Associate I earn from qualifying purchases.

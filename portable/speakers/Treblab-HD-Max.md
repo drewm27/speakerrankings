@@ -32,6 +32,7 @@ The Treblab HD-Max ranks [#64 out of 73 total Large Size Portable Bluetooth Spea
     - [KosherTech: TREBLAB HD-Max In Depth Review - Unboxing & Sound Test](https://www.youtube.com/watch?v=eGbNZFEj8VM)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd-max)
+    - [Reddit Search for Treblab HD-Max](https://www.reddit.com/search/?q=Treblab+HD-Max)
 
 
 As an Amazon Associate I earn from qualifying purchases.

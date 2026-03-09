@@ -3,10 +3,10 @@ layout: page
 title: Best Portable Bluetooth Speaker Brands 
 comments: true
 cover-img: "/assets/img/uboomx.jpg"
-share-description: "Expert rankings of 365 Bluetooth speakers by brand. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
+share-description: "Expert rankings of 366 Bluetooth speakers by brand. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speakers by brand?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 05, 2026.**
+**Looking for the best Bluetooth speakers by brand?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 09, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -97,6 +97,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
+    - [Reddit Search for Earfun Uboom X](https://www.reddit.com/search/?q=Earfun+Uboom+X)
 
 
 ### This [medium size](/portable/medium/) battery powered speaker is known for its fantastic sound quality, clarity, neutrality at a fantastic price, the [**Earfun Uboom L**](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bluetooth-EarFun-Portable-Waterproof-Dustproof/dp/B0B1PJ5SQ7/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=6bd8a99706ada30aac69c16ed0df896c&camp=1789&creative=9325)] [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)]: $50 after coupon UBOOMLWC in the payment options
@@ -136,6 +137,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
+    - [Reddit Search for Earfun Uboom L](https://www.reddit.com/search/?q=Earfun+Uboom+L)
 
 
 ## Soundcore
@@ -183,6 +185,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fboom2-bluetooth-speaker-for-bass&cjsku=A3138011)
+    - [Reddit Search for Soundcore Boom 2](https://www.reddit.com/search/?q=Soundcore+Boom+2)
 
 
 ### This [medium size](/portable/medium/) battery powered speaker is a stereo and omnidirectional speaker in one with great sound quality at a fantastic price, the [**Soundcore Motion 300**](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
@@ -223,6 +226,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
+    - [Reddit Search for Soundcore Motion 300](https://www.reddit.com/search/?q=Soundcore+Motion+300)
 
 
 ### This [medium size](/portable/medium/) speaker has a 0 latency aux input with fantastic sound quality and is the only speaker in its size class with seperate tweeters for fantastic off axis treble performance, the [**Soundcore Motion+**](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Extended-Customizable-Waterproof/dp/B07XLPJHMQ?&linkCode=ll1&tag=rankingspea01-20&linkId=1a7e23f2f6668bc53dc382ff3aeec48f&language=en_US&ref_=as_li_ss_tl)]: $80 used
@@ -260,6 +264,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
     - [Alan Ross Reviews: W-King D8 Mini vs Anker Soundcore Motion Plus Speaker](https://www.youtube.com/watch?v=NFeCO7GLgA0)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fa3116011&cjsku=A3116011)
+    - [Reddit Search for Soundcore Motion+](https://www.reddit.com/search/?q=Soundcore+Motion%2B)
 
 
 ## Tribit
@@ -331,6 +336,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
     - [Oluv: Audiocase S5 vs Tribit Stormbox Blast - first impressions](https://www.patreon.com/posts/audiocase-s5-vs-91754902)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Blast](https://www.reddit.com/search/?q=Tribit+Stormbox+Blast)
 
 
 ### This [large size](/portable/large/) battery powered speaker has very deeper bass and great sound quality, the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
@@ -375,11 +381,13 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Lava](https://www.reddit.com/search/?q=Tribit+Stormbox+Lava)
 
 
 ### This [small size](/portable/small/) battery powered speaker has the best sound quality, deepest bass in it's class, the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
+- Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59Hz
@@ -415,6 +423,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
+    - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
 
 
 ## Harmon Kardon
@@ -457,6 +466,7 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
     - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
+    - [Reddit Search for Harman Kardon Go + Play 3](https://www.reddit.com/search/?q=Harman+Kardon+Go+%2B+Play+3)
 
 
 ## Minirig
@@ -491,6 +501,7 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
+    - [Reddit Search for Minirig 4](https://www.reddit.com/search/?q=Minirig+4)
 
 
 ## JBL
@@ -527,6 +538,7 @@ JBL makes by far the best party size speakers, although their smaller ones are o
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-STAGE-320.html)
+    - [Reddit Search for JBL Partybox Stage 320](https://www.reddit.com/search/?q=JBL+Partybox+Stage+320)
 
 
 ### This smaller [party size](/portable/party/) battery powered speaker with excellent sound quality and very deep bass, the [**JBL Partybox Club 120**](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl)] [[Ebay refurbished](https://www.ebay.com/itm/396295454697?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fcvEHSiGikHJHN7%2Bphdgw6QBLYOovpUdRpupUis6UfBROTCb23Y97%2BzKhZgOV92qP1T0Gbf16oYSM%2FyyxvYoKIl9GFJmp3wcEiImTknU1078LfsJUb26pvz9%2BtMLQnwjNneANuVf0%2FhP4DQpjAm9ovEnMCqRxf3qoL4pqeMMexgzpSKlAqZqevOPYAtFTl0dk%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $400
@@ -558,6 +570,7 @@ JBL makes by far the best party size speakers, although their smaller ones are o
     - [Jay's Straight Up Reviews & More: JBL Partybox Club 120 vs 110 🥳 A Family Feud! Battery Powered🔋Bluetooth Party Speakers Face-Off🤬](https://www.youtube.com/watch?v=LFE4dghejGI)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-CLUB-120.html)
+    - [Reddit Search for JBL Partybox Club 120](https://www.reddit.com/search/?q=JBL+Partybox+Club+120)
 
 
 
@@ -589,6 +602,7 @@ Bose speakers are generally tuned to have boosted upper bass which can mask the 
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Flex 2nd gen](https://www.reddit.com/search/?q=Bose+Soundlink+Flex+2nd+gen)
 
 
 ## Sonos
@@ -619,6 +633,7 @@ Sonos speakers tend to be pretty high priced, but are the only option if you wan
     - [Smart Home Sounds: Sonos Move 1 Vs Move 2: What's The Difference?](https://www.youtube.com/watch?v=eyhUDYKHtg8)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/move-2)
+    - [Reddit Search for Sonos Move 2](https://www.reddit.com/search/?q=Sonos+Move+2)
 
 
 ## Ultimate Ears

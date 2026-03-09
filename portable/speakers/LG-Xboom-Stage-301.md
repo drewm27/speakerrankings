@@ -30,6 +30,7 @@ The LG Xboom Stage 301 ranks [#21 out of 67 total Boombox Size Portable Bluetoot
     - [GYMCADDY: LG’s New xboom Speaker And Earbud Lineup Explained - Meet The Stage 301, Bounce, Grab And Buds!](https://www.youtube.com/watch?v=XPHoLRS6zRo)
 - Links
     - [Official Product Page](https://www.lg.com/us/speakers/lg-xboom-stage-301-party-speaker)
+    - [Reddit Search for LG Xboom Stage 301](https://www.reddit.com/search/?q=LG+Xboom+Stage+301)
 
 
 As an Amazon Associate I earn from qualifying purchases.

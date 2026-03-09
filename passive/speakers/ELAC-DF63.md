@@ -24,6 +24,7 @@ The ELAC DF63 ranks [#13 out of 25 total Large Size Floorstanding Speakers](/pas
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official ELAC DF63 Website](https://elac.com/df63)
+    - [Reddit Search for ELAC DF63](https://www.reddit.com/search/?q=ELAC+DF63)
 
 
 As an Amazon Associate I earn from qualifying purchases.

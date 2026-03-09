@@ -32,6 +32,7 @@ The Samsung MX-ST50B ranks [#17 out of 43 total Party Size Portable Bluetooth Sp
     - [HQ AUDIO Exchange: Samsung MX-ST50B vs. JBL Partybox 110 Bass Test!🔥](https://www.youtube.com/watch?v=_Q1i3cG092I)
 - Links
     - [Official Product Page](https://www.samsung.com/us/televisions-home-theater/home-theater/sound-tower/mx-st50b-sound-tower-high-power-audio-240w-2022-mx-st50b-za/)
+    - [Reddit Search for Samsung MX-ST50B](https://www.reddit.com/search/?q=Samsung+MX-ST50B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

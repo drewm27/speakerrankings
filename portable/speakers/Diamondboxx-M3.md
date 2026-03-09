@@ -28,6 +28,7 @@ The Diamondboxx M3 ranks [#47 out of 67 total Boombox Size Portable Bluetooth Sp
     - <https://www.youtube.com/watch?v=qIkm529aaaQ>
     - <https://www.youtube.com/watch?v=NIyRizpppgI>
     - <https://www.youtube.com/watch?v=IHo7U4X49Tw>
+    - [Reddit Search for Diamondboxx M3](https://www.reddit.com/search/?q=Diamondboxx+M3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

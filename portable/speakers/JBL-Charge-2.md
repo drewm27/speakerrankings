@@ -26,6 +26,7 @@ The JBL Charge 2 ranks [#68 out of 131 total Medium Size Portable Bluetooth Spea
     - <https://www.youtube.com/watch?v=tSOxKbWf8OY>
 - Links
     - [Official Product Page](https://www.jbl.com/charge/JBL+CHARGE+II+PLUS.html)
+    - [Reddit Search for JBL Charge 2](https://www.reddit.com/search/?q=JBL+Charge+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

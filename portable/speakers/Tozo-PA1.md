@@ -28,6 +28,7 @@ The Tozo PA1 ranks [#52 out of 131 total Medium Size Portable Bluetooth Speakers
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
 - Links
     - [Official Product Page](https://www.tozostore.com/products/pa2)
+    - [Reddit Search for Tozo PA1](https://www.reddit.com/search/?q=Tozo+PA1)
 
 
 As an Amazon Associate I earn from qualifying purchases.

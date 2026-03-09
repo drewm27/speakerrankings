@@ -2,12 +2,12 @@
 layout: page
 title: Soundcore Mini 3 Pro Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Mini 3 Pro ranks #6 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Mini 3 Pro ranks #7 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Mini 3 Pro ranks [#6 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#6-soundcore-mini-3-pro-amazon-30) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Mini 3 Pro ranks [#7 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#7-soundcore-mini-3-pro-amazon-30) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #6 [Soundcore Mini 3 Pro](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl)]: $30
+## #7 [Soundcore Mini 3 Pro](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl)]: $30
 - Positives: Lights on top. Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes
@@ -31,6 +31,7 @@ The Soundcore Mini 3 Pro ranks [#6 out of 41 total Small Size Portable Bluetooth
     - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fsoundcore-mini-3)
+    - [Reddit Search for Soundcore Mini 3 Pro](https://www.reddit.com/search/?q=Soundcore+Mini+3+Pro)
 
 
 As an Amazon Associate I earn from qualifying purchases.

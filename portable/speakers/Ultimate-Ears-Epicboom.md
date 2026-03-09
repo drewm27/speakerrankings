@@ -34,6 +34,7 @@ The Ultimate Ears Epicboom ranks [#54 out of 73 total Large Size Portable Blueto
     - [Jay's Straight Up Reviews & More: Bose SoundLink Max vs. Ultimate Ears EpicBoom 🤑Big Bucks No Whammies? 💣 Let's Find Out 😧](https://www.youtube.com/watch?v=GnSjq7JxJ-Q)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/epicboom)
+    - [Reddit Search for Ultimate Ears Epicboom](https://www.reddit.com/search/?q=Ultimate+Ears+Epicboom)
 
 
 As an Amazon Associate I earn from qualifying purchases.

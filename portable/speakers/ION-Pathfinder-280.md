@@ -29,6 +29,7 @@ The ION Pathfinder 280 ranks [#62 out of 67 total Boombox Size Portable Bluetoot
 - Weight: 23.8lbs / 10.8kg
 - Reviews, Comparisons and Sound Samples
     - [Alpha Omega Gz: ION Pathfinder 280 degrees - Unboxing and testing](https://www.youtube.com/watch?v=g05lODItS4w)
+    - [Reddit Search for ION Pathfinder 280](https://www.reddit.com/search/?q=ION+Pathfinder+280)
 
 
 As an Amazon Associate I earn from qualifying purchases.

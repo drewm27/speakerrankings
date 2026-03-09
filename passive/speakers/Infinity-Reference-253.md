@@ -22,6 +22,7 @@ The Infinity Reference 253 ranks [#16 out of 25 total Large Size Floorstanding S
     - [Audio Science Review Infinity Reference 253](https://www.audiosciencereview.com/forum/index.php?threads/infinity-reference-253-review-speaker.17923/)
 - Links
     - [Official Infinity Reference 253 Website](https://www.harmanaudio.com/loudspeakers/REFERENCE+253.html)
+    - [Reddit Search for Infinity Reference 253](https://www.reddit.com/search/?q=Infinity+Reference+253)
 
 
 As an Amazon Associate I earn from qualifying purchases.

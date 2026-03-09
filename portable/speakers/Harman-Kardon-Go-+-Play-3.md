@@ -43,6 +43,7 @@ The Harman Kardon Go + Play 3 ranks [#3 out of 67 total Boombox Size Portable Bl
     - [Oluv: Harman Kardon go+play 3 vs JBL Xtreme 4 - first impressions](https://www.patreon.com/posts/harman-kardon-go-100339904)
 - Links
     - [Official Product Page](https://www.harmankardon.com/bluetooth-speakers/GO-PLAY-3.html)
+    - [Reddit Search for Harman Kardon Go + Play 3](https://www.reddit.com/search/?q=Harman+Kardon+Go+%2B+Play+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

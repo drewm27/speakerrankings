@@ -32,6 +32,7 @@ The B&O Beoplay A2 active ranks [#15 out of 73 total Large Size Portable Bluetoo
     - <https://www.youtube.com/watch?v=9nt4xzBbkKM>
 - Links
     - [Official Product Page](https://support.bang-olufsen.com/hc/en-us/articles/360040947931-Beoplay-A2-Active)
+    - [Reddit Search for B&O Beoplay A2 active](https://www.reddit.com/search/?q=B%26O+Beoplay+A2+active)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -24,6 +24,7 @@ The Miatone Boompro ranks [#15 out of 131 total Medium Size Portable Bluetooth S
     - [SpeakerBlowUpMan Lee: Broke Man's JBL Flip 6! Miatone Boompro Bluetooth Speaker Review](https://www.youtube.com/watch?v=Psmgg5ZJCvs)
 - Links
     - [Official Product Page](https://www.miatone.com/bluetooth-speakers)
+    - [Reddit Search for Miatone Boompro](https://www.reddit.com/search/?q=Miatone+Boompro)
 
 
 As an Amazon Associate I earn from qualifying purchases.

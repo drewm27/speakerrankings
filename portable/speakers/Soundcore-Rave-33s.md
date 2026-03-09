@@ -34,6 +34,7 @@ The Soundcore Rave 3/3s ranks [#14 out of 43 total Party Size Portable Bluetooth
     - [Mateusz Cholewa: Soundcore Rave 3 🤗v🆚s Tribit Stormbox Blast 2👌🎶](https://www.youtube.com/watch?v=Z9IXiGVdANA)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17041213)
+    - [Reddit Search for Soundcore Rave 3/3s](https://www.reddit.com/search/?q=Soundcore+Rave+3%2F3s)
 
 
 As an Amazon Associate I earn from qualifying purchases.

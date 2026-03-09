@@ -33,6 +33,7 @@ The Harman Kardon Onyx Studio 4 ranks [#44 out of 73 total Large Size Portable B
     - [Alan Ross Reviews: Ultimate HK Onyx Studio speaker review and comparison! 8 speakers!](https://www.youtube.com/watch?v=eAoQWSnms1M)
 - Links
     - [Official Product Page](https://mm.harmankardon.com/ONYX+STUDIO+4.html)
+    - [Reddit Search for Harman Kardon Onyx Studio 4](https://www.reddit.com/search/?q=Harman+Kardon+Onyx+Studio+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

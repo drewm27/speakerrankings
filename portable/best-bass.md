@@ -3,10 +3,10 @@ layout: page
 title: Best Portable Bluetooth Speakers For Bass 
 comments: true
 cover-img: "/assets/img/partybox320.jpg"
-share-description: "Expert rankings of 365 Bluetooth speakers for bass output. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
+share-description: "Expert rankings of 366 Bluetooth speakers for bass output. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for bass?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize deep bass extension, and loud bass verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 05, 2026.**
+**Looking for the best Bluetooth speaker for bass?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize deep bass extension, and loud bass verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 09, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -26,6 +26,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 ### The best [small size](/portable/small/) speaker with the deepest bass is the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
+- Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59Hz
@@ -61,6 +62,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
+    - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
 
 
 ## Medium 
@@ -102,6 +104,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Oluv: JBL Charge 6 - good or bad?](https://www.patreon.com/posts/jbl-charge-6-or-126781662)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/CHARGE-6.html)
+    - [Reddit Search for JBL Charge 6](https://www.reddit.com/search/?q=JBL+Charge+6)
 
 
 ## Large
@@ -138,6 +141,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links
     - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
+    - [Reddit Search for Brane X](https://www.reddit.com/search/?q=Brane+X)
 
 
 ### For a cheaper [large size](/portable/large/) battery powered speaker for deep boosted bass check out the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
@@ -182,6 +186,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Lava](https://www.reddit.com/search/?q=Tribit+Stormbox+Lava)
 
 
 ## Boombox
@@ -213,6 +218,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Jay's Straight Up Reviews & More: Zealot ZE21 vs JBL Boombox 3 Tailgater Special @20ft. The Budget Beast Against the OG Boombox](https://www.youtube.com/watch?v=6iCXmjbgsrA)
 - Links
     - [Official Product Page](https://www.zealot.com/products/zealot-ze21-portable-bluetooth-speaker-high-volume-waterproof-wireless-tws-subwoofer-support-u)
+    - [Reddit Search for Zealot ZE21](https://www.reddit.com/search/?q=Zealot+ZE21)
 
 
 ## Party
@@ -247,6 +253,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [GYMCADDY: JBL PartyBox Stage 320 Review - Big Upgrades Everywhere, Worth The Upgrade](https://www.youtube.com/watch?v=bny5v3Gt4Xc)
 - Links
     - [Official Product Page](https://www.jbl.com/party-speakers/PARTYBOX-STAGE-320.html)
+    - [Reddit Search for JBL Partybox Stage 320](https://www.reddit.com/search/?q=JBL+Partybox+Stage+320)
 
 
 ## Large Party
@@ -283,6 +290,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [GYMCADDY: Sony ULT Tower 10 Vs JBL Partybox Ultimate & JBL Partybox 710](https://www.youtube.com/watch?v=_Aw4PmRFTdQ)
 - Links
     - [Official Product Page](https://www.jbl.com/partybox-speakers/PARTYBOX-ULTIMATE.html)
+    - [Reddit Search for JBL Partybox Ultimate](https://www.reddit.com/search/?q=JBL+Partybox+Ultimate)
 
 
 As an Amazon Associate I earn from qualifying purchases.

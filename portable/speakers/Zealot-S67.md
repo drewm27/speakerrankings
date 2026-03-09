@@ -32,6 +32,7 @@ The Zealot S67 ranks [#72 out of 73 total Large Size Portable Bluetooth Speakers
     - [Jay's Straight Up Reviews & More: Ortizan M8🦨  Bluetooth Speaker. Is This The Budget JBL Xtreme 3 Killer? Better Than Zealot S67?](https://www.youtube.com/watch?v=iMVC77P4EeY)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1294.html)
+    - [Reddit Search for Zealot S67](https://www.reddit.com/search/?q=Zealot+S67)
 
 
 As an Amazon Associate I earn from qualifying purchases.

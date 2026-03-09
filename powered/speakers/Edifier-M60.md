@@ -27,6 +27,7 @@ The Edifier M60 ranks [#6 out of 8 total Small Size Powered Bookshelf Speakers](
     - [Erin's Audio Corner: The Best Budget Desktop Speakers, Tested & Rated](https://www.youtube.com/watch?v=3Y0pkLOaOcQ)
 - Links
     - [Official Product Page](https://www.edifier.com/us/p/computer-speakers/m60)
+    - [Reddit Search for Edifier M60](https://www.reddit.com/search/?q=Edifier+M60)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -25,6 +25,7 @@ The Teufel Rockster Go ranks [#98 out of 131 total Medium Size Portable Bluetoot
     - <https://www.youtube.com/watch?v=dHRkJTQ9nmw>
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-go-105727000)
+    - [Reddit Search for Teufel Rockster Go](https://www.reddit.com/search/?q=Teufel+Rockster+Go)
 
 
 As an Amazon Associate I earn from qualifying purchases.

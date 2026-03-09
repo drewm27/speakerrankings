@@ -31,6 +31,7 @@ The Beats Pill 2024 ranks [#60 out of 131 total Medium Size Portable Bluetooth S
     - [Alan Ross Reviews: Beats Pill vs Harman Luna vs Bose Flex vs Soundcore Motion Plus](https://www.youtube.com/watch?v=CBhZeIuBQl8)
 - Links
     - [Official Product Page](https://www.beatsbydre.com/speakers/beats-pill)
+    - [Reddit Search for Beats Pill 2024](https://www.reddit.com/search/?q=Beats+Pill+2024)
 
 
 As an Amazon Associate I earn from qualifying purchases.

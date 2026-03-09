@@ -24,6 +24,7 @@ The GR-Research NX-Bravo ranks [#5 out of 48 total Large Size Bookshelf Speakers
     - [GR-Research: Introducing: NX-Bravo  How It Compares](https://www.youtube.com/watch?v=7h72KXd8Q3c)
 - Links
     - [Official GR-Research NX-Bravo Website](https://gr-research.com/product/nx-bravo-kit/)
+    - [Reddit Search for GR-Research NX-Bravo](https://www.reddit.com/search/?q=GR-Research+NX-Bravo)
 
 
 As an Amazon Associate I earn from qualifying purchases.

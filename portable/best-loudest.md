@@ -3,10 +3,10 @@ layout: page
 title: Loudest Portable Bluetooth Speakers 
 comments: true
 cover-img: "/assets/img/k12.2.jpg"
-share-description: "Expert rankings of 365 Bluetooth speakers tested by output volume. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
+share-description: "Expert rankings of 366 Bluetooth speakers tested by output volume. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the loudest Bluetooth speaker?** We've ranked 365 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 05, 2026.**
+**Looking for the loudest Bluetooth speaker?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 09, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -28,6 +28,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 ### The loudest [small size](/portable/small/) battery powered speaker is the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
+- Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
 - Bass Extension (-10dB): 59Hz
@@ -63,6 +64,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
+    - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
 
 
 ## Medium 
@@ -95,6 +97,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [Beautiful Zar DJ: MINIRIG 4 Vs MINIRIG 3 (50-100%Volume Audio Test)](https://www.youtube.com/watch?v=a0WY6HxN_gU)
 - Links
     - [Official Product Page](https://minirigs.co.uk/speakers/bluetooth-minirig-4)
+    - [Reddit Search for Minirig 4](https://www.reddit.com/search/?q=Minirig+4)
 
 
 ## Large 
@@ -141,6 +144,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Lava](https://www.reddit.com/search/?q=Tribit+Stormbox+Lava)
 
 
 ## Boombox
@@ -172,6 +176,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [Jay's Straight Up Reviews & More: Zealot ZE21 vs JBL Boombox 3 Tailgater Special @20ft. The Budget Beast Against the OG Boombox](https://www.youtube.com/watch?v=6iCXmjbgsrA)
 - Links
     - [Official Product Page](https://www.zealot.com/products/zealot-ze21-portable-bluetooth-speaker-high-volume-waterproof-wireless-tws-subwoofer-support-u)
+    - [Reddit Search for Zealot ZE21](https://www.reddit.com/search/?q=Zealot+ZE21)
 
 
 ### If you want something cheaper, take a look at the [**W-King X20**](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Speakers-Waterproof/dp/B0CRYXN3S9?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=9a5ce13a985ce8fba04382e26aa62f2d&camp=1789&creative=9325)]: $240 after coupon
@@ -208,6 +213,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d20)
+    - [Reddit Search for W-King X20](https://www.reddit.com/search/?q=W-King+X20)
 
 
 ## Party
@@ -241,6 +247,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
     - [guitarstreet: Portable Speaker with No Compromises! Electro-Voice EVERSE 12](https://www.youtube.com/watch?v=nTSPqFQ4LkQ)
 - Links
     - [Official Product Page](https://products.electrovoice.com/na/en/everse-12/)
+    - [Reddit Search for Electro-Voice Everse 12](https://www.reddit.com/search/?q=Electro-Voice+Everse+12)
 
 
 As an Amazon Associate I earn from qualifying purchases.

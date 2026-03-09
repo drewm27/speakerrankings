@@ -29,6 +29,7 @@ The Bose SoundLink Plus ranks [#21 out of 73 total Large Size Portable Bluetooth
     - [Oluv: Bose Soundlink Plus vs JBL Charge 6 - fight!](https://www.patreon.com/posts/bose-soundlink-6-136014012)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-plus-portable-speaker/SLP-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose SoundLink Plus](https://www.reddit.com/search/?q=Bose+SoundLink+Plus)
 
 
 As an Amazon Associate I earn from qualifying purchases.

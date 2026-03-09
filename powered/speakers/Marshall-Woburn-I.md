@@ -32,6 +32,7 @@ The Marshall Woburn I ranks [#7 out of 14 total Medium Size Powered Desktop Spea
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
     - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
+    - [Reddit Search for Marshall Woburn I](https://www.reddit.com/search/?q=Marshall+Woburn+I)
 
 
 As an Amazon Associate I earn from qualifying purchases.

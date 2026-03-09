@@ -33,6 +33,7 @@ The Soundcore Rave Party 2 ranks [#38 out of 67 total Boombox Size Portable Blue
     - [Jay's Straight Up Reviews & More: Soundcore Rave Party 2 🔥 Unboxing & Short Sound Demo. Is This The New Speaker To Beat Under $200?💵](https://www.youtube.com/watch?v=dh5lzF8t8w4)
     - [Flossy Carter: Soundcore Rave Neo 2 / Rave Party 2 - Affordable Party Speakers with RGB Lights](https://www.youtube.com/watch?v=ZkGFKQuLRzY)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs Soundcore Rave Party 2 (Stock & Custom EQ) 🛜 Battery Powered🔋Let's Get It🧨](https://www.youtube.com/watch?v=cv234tGZUIc)
+    - [Reddit Search for Soundcore Rave Party 2](https://www.reddit.com/search/?q=Soundcore+Rave+Party+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

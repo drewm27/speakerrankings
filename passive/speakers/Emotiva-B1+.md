@@ -15,6 +15,7 @@ The Emotiva B1+ ranks [#16 out of 20 total Medium Size Bookshelf Speakers](/pass
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What are the other reviewers hearing with the $250 @EmotivaAudioCorp B1+?](https://www.youtube.com/watch?v=YmKpCb3d7Vk)
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
+    - [Reddit Search for Emotiva B1+](https://www.reddit.com/search/?q=Emotiva+B1%2B)
 
 
 As an Amazon Associate I earn from qualifying purchases.

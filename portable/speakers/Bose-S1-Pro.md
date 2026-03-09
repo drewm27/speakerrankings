@@ -43,6 +43,7 @@ The Bose S1 Pro ranks [#10 out of 43 total Party Size Portable Bluetooth Speaker
     - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://www.bose.com/p/portable-pa/s1-pro-wireless-pa-system/S1PROP-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose S1 Pro](https://www.reddit.com/search/?q=Bose+S1+Pro)
 
 
 As an Amazon Associate I earn from qualifying purchases.

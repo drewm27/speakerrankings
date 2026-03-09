@@ -33,6 +33,7 @@ The Zealot ZE01 ranks [#23 out of 67 total Boombox Size Portable Bluetooth Speak
     - [Techder Audios: Zealot ZE01 VS Xdobo BMTL Wow Max DEEPER BASS VS LOUDER BASS?!](https://www.youtube.com/watch?v=dnzQZ4erirk)
 - Links
     - [Official Product Page](https://www.zealot-audio.com/productshow_1356.html)
+    - [Reddit Search for Zealot ZE01](https://www.reddit.com/search/?q=Zealot+ZE01)
 
 
 As an Amazon Associate I earn from qualifying purchases.

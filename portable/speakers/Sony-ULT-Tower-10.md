@@ -38,6 +38,7 @@ The Sony ULT Tower 10 ranks [#8 out of 10 total Large Party Size Portable Blueto
     - [GYMCADDY: Sony ULT Tower 9 Vs Sony ULT Tower 10 - Size Doesn’t Matter](https://www.youtube.com/watch?v=DlB9IgpUJsI)
 - Links
     - [Official Product Page](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult1000)
+    - [Reddit Search for Sony ULT Tower 10](https://www.reddit.com/search/?q=Sony+ULT+Tower+10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

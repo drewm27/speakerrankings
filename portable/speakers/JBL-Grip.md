@@ -29,6 +29,7 @@ The JBL Grip ranks [#73 out of 131 total Medium Size Portable Bluetooth Speakers
     - [Oluv: JBL Grip - listening test](https://www.patreon.com/posts/jbl-grip-test-150255893)
 - Links
     - [Official Product Page](https://www.jbl.com/GRIP-1.html)
+    - [Reddit Search for JBL Grip](https://www.reddit.com/search/?q=JBL+Grip)
 
 
 As an Amazon Associate I earn from qualifying purchases.

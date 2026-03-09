@@ -35,6 +35,7 @@ The Fugoo XL ranks [#37 out of 73 total Large Size Portable Bluetooth Speakers](
     - <https://www.youtube.com/watch?v=t3OYsZHVgYE>
 - Links
     - [Official Product Page](https://fugoo.com/blogs/press/fugoo-xl-new-waterproof-bluetooth-speaker-offers-35-hours-of-battery-life)
+    - [Reddit Search for Fugoo XL](https://www.reddit.com/search/?q=Fugoo+XL)
 
 
 As an Amazon Associate I earn from qualifying purchases.

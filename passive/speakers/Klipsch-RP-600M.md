@@ -23,6 +23,7 @@ The Klipsch RP-600M ranks [#42 out of 48 total Large Size Bookshelf Speakers](/p
     - [GR-Research: We Bought The "NEW" RP-600M II  Is KLIPSCH Listening?!](https://www.youtube.com/watch?v=VHfDMYpJnB4)
 - Links
     - [Official Klipsch RP-600M Website](https://www.klipsch.com/products/rp-600m-bookshelf-speakers)
+    - [Reddit Search for Klipsch RP-600M](https://www.reddit.com/search/?q=Klipsch+RP-600M)
 
 
 As an Amazon Associate I earn from qualifying purchases.

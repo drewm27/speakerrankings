@@ -45,6 +45,7 @@ The Soundcore Motion 300 ranks [#2 out of 131 total Medium Size Portable Bluetoo
     - [Storytripper HD: Klipsch Nashville vs Harman Kardon Luna vs Soundcore Motion 300](https://www.youtube.com/watch?v=vVlwl6XhHHI)
 - Links
     - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fmotion-300-speaker-a3135011&cjsku=A3135031)
+    - [Reddit Search for Soundcore Motion 300](https://www.reddit.com/search/?q=Soundcore+Motion+300)
 
 
 As an Amazon Associate I earn from qualifying purchases.

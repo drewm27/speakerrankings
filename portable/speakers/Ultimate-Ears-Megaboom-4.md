@@ -27,6 +27,7 @@ The Ultimate Ears Megaboom 4 ranks [#127 out of 131 total Medium Size Portable B
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)
 - Links
     - [Official Product Page](https://us.ultimateears.com/products/megaboom-4)
+    - [Reddit Search for Ultimate Ears Megaboom 4](https://www.reddit.com/search/?q=Ultimate+Ears+Megaboom+4)
 
 
 As an Amazon Associate I earn from qualifying purchases.

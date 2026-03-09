@@ -12,6 +12,7 @@ The Philharmonic Affordable Accuracy Monitor ranks [#10 out of 20 total Medium S
     - [Audio Science Review PHilharmonic Affordable Accuracy Monitor](https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/)
 - Links
     - [Official PHilharmonic Affordable Accuracy Monitor Website](https://audiokarma.org/forums/index.php?threads/dennis-murphy-pioneer-sp-bs22-lr-diy-modifications.610820/)
+    - [Reddit Search for Philharmonic Affordable Accuracy Monitor](https://www.reddit.com/search/?q=Philharmonic+Affordable+Accuracy+Monitor)
 
 
 As an Amazon Associate I earn from qualifying purchases.

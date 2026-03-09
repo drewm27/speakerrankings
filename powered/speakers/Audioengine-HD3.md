@@ -30,6 +30,7 @@ The Audioengine HD3 ranks [#4 out of 8 total Small Size Powered Bookshelf Speake
     - [DSAUDIO.review: DSAUDIO.review  Audioengine HD3 vs Edifier R1700BT  sound.DEMO](https://www.youtube.com/watch?v=G6a2KBOLyq0)
 - Links
     - [Official Product Page](https://www.dpbolvw.net/click-101389079-15865364?url=https%3A%2F%2Faudioengine.com%2Fshop%2Fspeakers%2Fhd-series%2Fhd3-wireless-speakers%2F%3Fattribute_pa_finish%3Dsatinblack%26amp%3Butm_source%3DCJ%26amp%3Butm_campaign%3Dfeed%26amp%3Butm_medium%3Daff%26amp%3Butm_term%3D305&cjsku=305)
+    - [Reddit Search for Audioengine HD3](https://www.reddit.com/search/?q=Audioengine+HD3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

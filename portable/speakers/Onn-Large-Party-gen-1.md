@@ -28,6 +28,7 @@ The Onn Large Party gen 1 ranks [#32 out of 43 total Party Size Portable Bluetoo
     - [Jay's Straight Up Reviews & More: W-King T11 (EQ1, Firmware 2.32) 🆚 Onn Large Party Speaker (Bass Boost Off/On) - Budget Battle!💥](https://www.youtube.com/watch?v=dq1JLYaRwkk)
     - [Jay's Straight Up Reviews & More: Triple Threat Match ✨ JBL Partybox 110, Soundcore Rave+, ONN Large Party Speaker. Indoor Battle⚠️](https://www.youtube.com/watch?v=3AmJh4jpKRg)
     - [Jay's Straight Up Reviews & More: W-King T9  🆚 ONN Large Party Speaker -By Request for Big Tee. Can the Smaller T9 Hang With The ONN?](https://www.youtube.com/watch?v=BzQL3DqcFss)
+    - [Reddit Search for Onn Large Party gen 1](https://www.reddit.com/search/?q=Onn+Large+Party+gen+1)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -16,6 +16,7 @@ The EFM Toledo ranks [#122 out of 131 total Medium Size Portable Bluetooth Speak
 - TWS: Yes
 - Reviews, Comparisons and Sound Samples
     - [DankPods: The bluetooth speaker shootout.](https://www.youtube.com/watch?v=SmF_9L5FM7w)
+    - [Reddit Search for EFM Toledo](https://www.reddit.com/search/?q=EFM+Toledo)
 
 
 As an Amazon Associate I earn from qualifying purchases.

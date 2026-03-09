@@ -31,6 +31,7 @@ The Focal Alpha 50 EVO ranks [#6 out of 24 total Medium Size Powered Bookshelf S
     - [DSAUDIO.review: DSAUDIO.review  Focal Alpha 50 EVO vs Yamaha HS5  sound.DEMO](https://www.youtube.com/watch?v=rawoaPBeg74)
 - Links
     - [Official Product Page](https://www.focal.com/products/alpha-50-evo)
+    - [Reddit Search for Focal Alpha 50 EVO](https://www.reddit.com/search/?q=Focal+Alpha+50+EVO)
 
 
 As an Amazon Associate I earn from qualifying purchases.

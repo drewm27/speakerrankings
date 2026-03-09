@@ -27,6 +27,7 @@ The Sony GTK-XB60 ranks [#41 out of 43 total Party Size Portable Bluetooth Speak
     - [DLX Willington: 🤣JBL Partybox 100 vs Sony GTK XB60 Sound Battle You Asked For It](https://www.youtube.com/watch?v=yq29uHBJKjI)
     - <https://www.youtube.com/watch?v=2VlfYyNSS-4>
     - <https://www.youtube.com/watch?v=Cg2DNPOA8AA>
+    - [Reddit Search for Sony GTK-XB60](https://www.reddit.com/search/?q=Sony+GTK-XB60)
 
 
 As an Amazon Associate I earn from qualifying purchases.

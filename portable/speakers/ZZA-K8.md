@@ -31,6 +31,7 @@ The ZZA K8 ranks [#44 out of 67 total Boombox Size Portable Bluetooth Speakers](
     - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)
     - [Josh's Gadgets and More: Skullcandy Barrel XT vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=87rzg5ZxKfo)
+    - [Reddit Search for ZZA K8](https://www.reddit.com/search/?q=ZZA+K8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

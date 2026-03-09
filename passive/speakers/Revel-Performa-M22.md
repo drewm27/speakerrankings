@@ -17,6 +17,7 @@ The Revel Performa M22 ranks [#26 out of 48 total Large Size Bookshelf Speakers]
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Revel Performa M22](https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/)
     - [GR-Research: What the HECK was Revel Thinking?! Revel Performa M22 Upgrades!](https://www.youtube.com/watch?v=JH1DrkqHatQ)
+    - [Reddit Search for Revel Performa M22](https://www.reddit.com/search/?q=Revel+Performa+M22)
 
 
 As an Amazon Associate I earn from qualifying purchases.

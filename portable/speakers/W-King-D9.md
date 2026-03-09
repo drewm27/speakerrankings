@@ -35,6 +35,7 @@ The W-King D9 ranks [#61 out of 73 total Large Size Portable Bluetooth Speakers]
     - [Alan Ross Reviews: Soundcore Motion Boom vs W-King D8 and D9 - boom boom! 🥳](https://www.youtube.com/watch?v=Y__GH361JtQ)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/d9)
+    - [Reddit Search for W-King D9](https://www.reddit.com/search/?q=W-King+D9)
 
 
 As an Amazon Associate I earn from qualifying purchases.

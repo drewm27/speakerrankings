@@ -27,6 +27,7 @@ The Kali Audio IN-8 ranks [#9 out of 21 total Large Size Powered Bookshelf Speak
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Product Page](https://www.kaliaudio.com/independence)
+    - [Reddit Search for Kali Audio IN-8](https://www.reddit.com/search/?q=Kali+Audio+IN-8)
 
 
 As an Amazon Associate I earn from qualifying purchases.

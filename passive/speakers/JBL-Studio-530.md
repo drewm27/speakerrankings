@@ -14,6 +14,7 @@ The JBL Studio 530 ranks [#8 out of 20 total Medium Size Bookshelf Speakers](/pa
     - [Audio Science Review JBL Studio 530](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-530-speaker-review.12298/)
 - Links
     - [Official JBL Studio 530 Website](https://www.jbl.com/loudspeakers/STUDIO+530.html)
+    - [Reddit Search for JBL Studio 530](https://www.reddit.com/search/?q=JBL+Studio+530)
 
 
 As an Amazon Associate I earn from qualifying purchases.

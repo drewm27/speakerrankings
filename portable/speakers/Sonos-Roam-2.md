@@ -22,6 +22,7 @@ The Sonos Roam 2 ranks [#69 out of 131 total Medium Size Portable Bluetooth Spea
     - [The Product Lab: Sonos Roam 2 (2025)  Watch Before You Buy](https://www.youtube.com/watch?v=2irJYDv7O74)
 - Links
     - [Official Product Page](https://www.sonos.com/en-us/shop/roam)
+    - [Reddit Search for Sonos Roam 2](https://www.reddit.com/search/?q=Sonos+Roam+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

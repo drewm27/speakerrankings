@@ -23,6 +23,7 @@ The Soundcore 2 ranks [#78 out of 131 total Medium Size Portable Bluetooth Speak
     - [SoulOfTech: Anker SoundCore 2 2021 Review and Sound Test - Best Budget Bluetooth Speaker](https://www.youtube.com/watch?v=bLi4fsS23Do)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fsoundcore-2&cjsku=A3105016)
+    - [Reddit Search for Soundcore 2](https://www.reddit.com/search/?q=Soundcore+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

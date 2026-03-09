@@ -37,6 +37,7 @@ The Mackie Thump Go ranks [#18 out of 43 total Party Size Portable Bluetooth Spe
     - [Official Product Page](https://mackie.com/en/products/loudspeakers/thump-go/thump_go.html)
     - <https://www.reddit.com/r/DJs/comments/ydxjdb/i_used_the_mackie_thump_gos_for_an_indoor_venue/>
     - <https://www.reddit.com/r/livesound/comments/sbxm53/mackie_thump_go_review_portable_batterypowered_pa/>
+    - [Reddit Search for Mackie Thump Go](https://www.reddit.com/search/?q=Mackie+Thump+Go)
 
 
 As an Amazon Associate I earn from qualifying purchases.

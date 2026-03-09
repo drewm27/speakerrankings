@@ -37,6 +37,7 @@ The Teufel Rockster Cross ranks [#20 out of 73 total Large Size Portable Bluetoo
     - <https://www.youtube.com/watch?v=0ooUo0bQ2uc>
 - Links
     - [Official Product Page](https://lu.teufelaudio.com/rockster-cross-105746000)
+    - [Reddit Search for Teufel Rockster Cross](https://www.reddit.com/search/?q=Teufel+Rockster+Cross)
 
 
 As an Amazon Associate I earn from qualifying purchases.

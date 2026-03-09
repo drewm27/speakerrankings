@@ -34,6 +34,7 @@ The Marshall Stanmore II ranks [#8 out of 14 total Medium Size Powered Desktop S
 - Reviews, Comparisons and Sound Samples
     - [DSAUDIO.review: DSAUDIO.review Klipsch The Three II vs Marshall Stanmore II sound.DEMO](https://www.youtube.com/watch?v=4jl8lat8HgA)
     - [DSAUDIO.review: DSAUDIO.review Marshall Stanmore II vs Marshall Acton II sound.DEMO](https://www.youtube.com/watch?v=xn6UVcgXx18)
+    - [Reddit Search for Marshall Stanmore II](https://www.reddit.com/search/?q=Marshall+Stanmore+II)
 
 
 As an Amazon Associate I earn from qualifying purchases.

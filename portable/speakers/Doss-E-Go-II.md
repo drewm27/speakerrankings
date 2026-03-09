@@ -24,6 +24,7 @@ The Doss E-Go II ranks [#107 out of 131 total Medium Size Portable Bluetooth Spe
 - Weight: 0.88lbs / 399g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=08fxMlvMkVw>
+    - [Reddit Search for Doss E-Go II](https://www.reddit.com/search/?q=Doss+E-Go+II)
 
 
 As an Amazon Associate I earn from qualifying purchases.

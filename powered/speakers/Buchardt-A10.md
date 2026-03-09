@@ -26,6 +26,7 @@ The Buchardt A10 ranks [#11 out of 21 total Large Size Powered Bookshelf Speaker
     - [Erin's Audio Corner: Buchardt A10 Bookshelf Review: The Real Pros and Cons](https://www.youtube.com/watch?v=VL7WtnxIZc8)
 - Links
     - [Official Product Page](https://buchardtaudio.com/products/anniversary-10)
+    - [Reddit Search for Buchardt A10](https://www.reddit.com/search/?q=Buchardt+A10)
 
 
 As an Amazon Associate I earn from qualifying purchases.

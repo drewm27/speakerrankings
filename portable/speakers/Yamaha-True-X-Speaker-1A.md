@@ -28,6 +28,7 @@ The Yamaha True X Speaker 1A ranks [#90 out of 131 total Medium Size Portable Bl
     - [スピーカー音質比較: YAMAHA　WS-B1A　音質比較　　Eric Clapton　「Change The World」](https://www.youtube.com/watch?v=qG3-KQwTs0A)
 - Links
     - [Official Product Page](https://usa.yamaha.com/products/audio_visual/desktop_audio/truexspeaker1a/index.html)
+    - [Reddit Search for Yamaha True X Speaker 1A](https://www.reddit.com/search/?q=Yamaha+True+X+Speaker+1A)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -33,6 +33,7 @@ The dB technologies B-Hype M ranks [#31 out of 43 total Party Size Portable Blue
     - [James from Canada: SOUND TESTS - Soundboks, Minirig 3, dB Technologies, Bose S1 Pro, etc - RAVE TEST](https://www.youtube.com/watch?v=YB4CxTDP1rE)
 - Links
     - [Official Product Page](https://www.dbtechnologies.com/en/products/b-hype/b-hype-m/)
+    - [Reddit Search for dB technologies B-Hype M](https://www.reddit.com/search/?q=dB+technologies+B-Hype+M)
 
 
 As an Amazon Associate I earn from qualifying purchases.

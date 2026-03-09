@@ -31,6 +31,7 @@ The LG PN7 ranks [#59 out of 73 total Large Size Portable Bluetooth Speakers](/p
     - [Alan Ross Reviews: Soundcore Motion Boom vs JBL Xtreme 3 LG PN7 & Minirig mk3 💯👍](https://www.youtube.com/watch?v=aaHgcoPfeFQ)
 - Links
     - [Official Product Page](https://www.lg.com/uk/speakers/xboom-go/pn7/)
+    - [Reddit Search for LG PN7](https://www.reddit.com/search/?q=LG+PN7)
 
 
 As an Amazon Associate I earn from qualifying purchases.

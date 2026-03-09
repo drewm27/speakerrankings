@@ -39,6 +39,7 @@ The Brane X ranks [#3 out of 73 total Large Size Portable Bluetooth Speakers](/p
     - [mark: Brane X Speaker Review](https://www.youtube.com/watch?v=GSiuRJx-T3g)
 - Links
     - [Official Product Page](https://shop.braneaudio.com/products/brane-x-smart-speaker)
+    - [Reddit Search for Brane X](https://www.reddit.com/search/?q=Brane+X)
 
 
 As an Amazon Associate I earn from qualifying purchases.

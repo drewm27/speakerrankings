@@ -36,6 +36,7 @@ The Mifa Wildrod ranks [#17 out of 131 total Medium Size Portable Bluetooth Spea
     - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildRod)
+    - [Reddit Search for Mifa Wildrod](https://www.reddit.com/search/?q=Mifa+Wildrod)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -27,6 +27,7 @@ The Neumann KH420 ranks [#2 out of 21 total Large Size Powered Bookshelf Speaker
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh420-review-studio-monitor.33529/)
 - Links
     - [Official Product Page](https://www.neumann.com/en-us/products/monitors/kh-420)
+    - [Reddit Search for Neumann KH420](https://www.reddit.com/search/?q=Neumann+KH420)
 
 
 As an Amazon Associate I earn from qualifying purchases.

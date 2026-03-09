@@ -34,6 +34,7 @@ The Sony SRS-XB43 ranks [#39 out of 73 total Large Size Portable Bluetooth Speak
     - [DLX Willington: Who Sounds The Best Of Sony XG300, XB43 & JBL XTREME3 With Sound Sample BLIND CHALLENGE Reveal.](https://www.youtube.com/watch?v=4gxvC_KjNbk)
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb43)
+    - [Reddit Search for Sony SRS-XB43](https://www.reddit.com/search/?q=Sony+SRS-XB43)
 
 
 As an Amazon Associate I earn from qualifying purchases.

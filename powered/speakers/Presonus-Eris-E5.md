@@ -31,6 +31,7 @@ The Presonus Eris E5 ranks [#10 out of 24 total Medium Size Powered Bookshelf Sp
     - [DSAUDIO.review: KRK Rokit 5 G4 RP5G4 vs Presonus Eris E5   Sound & Frequency Response Comparison](https://www.youtube.com/watch?v=OzGYLmCXjeg)
 - Links
     - [Official Product Page](https://www.presonus.com/en-US/monitors/studio-monitors/eris-series/2777500107.html)
+    - [Reddit Search for Presonus Eris E5](https://www.reddit.com/search/?q=Presonus+Eris+E5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

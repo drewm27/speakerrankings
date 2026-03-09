@@ -35,6 +35,7 @@ The Mifa WildCamping ranks [#45 out of 73 total Large Size Portable Bluetooth Sp
     - [Alan Ross Reviews: Mifa Wild camping Lantern portable bluetooth speaker reviewed by an old geezer!](https://www.youtube.com/watch?v=ZxPfuAxgQfE)
 - Links
     - [Official Product Page](https://www.mifalife.net/en/speakers/W-series/WildCamping)
+    - [Reddit Search for Mifa WildCamping](https://www.reddit.com/search/?q=Mifa+WildCamping)
 
 
 As an Amazon Associate I earn from qualifying purchases.

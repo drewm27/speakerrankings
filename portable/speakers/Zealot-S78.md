@@ -27,6 +27,7 @@ The Zealot S78 ranks [#67 out of 67 total Boombox Size Portable Bluetooth Speake
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: W-King X20 vs Zealot S78 Bluetooth Boombox Battle Outdoor Tailgater Special 🚗 Let the Whoopin' Begin](https://www.youtube.com/watch?v=elc93N27uL0)
     - [Jay's Straight Up Reviews & More: DBSOARS F29 Max vs Zealot S78 🛜 (5B) Budget Bluetooth Boombox Basement Battle 🔊 Bass Modes Enabled](https://www.youtube.com/watch?v=ui3IZd1Akoc)
+    - [Reddit Search for Zealot S78](https://www.reddit.com/search/?q=Zealot+S78)
 
 
 As an Amazon Associate I earn from qualifying purchases.

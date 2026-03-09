@@ -30,6 +30,7 @@ The W-King D320 ranks [#45 out of 131 total Medium Size Portable Bluetooth Speak
     - [Jay's Straight Up Reviews & More: Ultimate Ears MegaBoom 4 vs W-King D320 🔋Does Paying More Get You Less? 😧](https://www.youtube.com/watch?v=Gnh_t3hupag)
 - Links
     - [Official Product Page](https://w-kingaudio.com/products/w-king-d320-40w-portable-speaker)
+    - [Reddit Search for W-King D320](https://www.reddit.com/search/?q=W-King+D320)
 
 
 As an Amazon Associate I earn from qualifying purchases.

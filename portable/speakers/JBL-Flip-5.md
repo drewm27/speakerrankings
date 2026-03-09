@@ -29,6 +29,7 @@ The JBL Flip 5 ranks [#61 out of 131 total Medium Size Portable Bluetooth Speake
     - [Alan Ross Reviews: Marshall Emberton vs JBL Flip 5 & Soundcore Boost - true  stereophonic 🤓](https://www.youtube.com/watch?v=nNVh5K8fFw8)
 - Links
     - [Official Product Page](https://www.jbl.com/bluetooth-speakers/JBL+FLIP+5-.html)
+    - [Reddit Search for JBL Flip 5](https://www.reddit.com/search/?q=JBL+Flip+5)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -28,6 +28,7 @@ The Bugani M83 ranks [#67 out of 73 total Large Size Portable Bluetooth Speakers
 - Weight: 5.06lbs / 2.3kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=DCjSqLTdPRY>
+    - [Reddit Search for Bugani M83](https://www.reddit.com/search/?q=Bugani+M83)
 
 
 As an Amazon Associate I earn from qualifying purchases.

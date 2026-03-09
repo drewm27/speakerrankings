@@ -31,6 +31,7 @@ The KEF LS60 ranks [#1 out of 2 total Large Size Powered Floorstanding Speakers]
     - [Erin's Audio Review Website KEF LS60](https://www.erinsaudiocorner.com/loudspeakers/kef_ls60/)
 - Links
     - [Official Product Page](https://us.kef.com/products/ls60-wireless)
+    - [Reddit Search for KEF LS60](https://www.reddit.com/search/?q=KEF+LS60)
 
 
 As an Amazon Associate I earn from qualifying purchases.

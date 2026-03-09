@@ -23,6 +23,7 @@ The Klipsch RP-500M II ranks [#7 out of 20 total Medium Size Bookshelf Speakers]
     - [Erin's Audio Corner Website Klipsch RP-500M II](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_ii/)
 - Links
     - [Official Klipsch RP-500M II Website](https://www.klipsch.com/products/rp-500m-bookshelf-speaker)
+    - [Reddit Search for Klipsch RP-500M II](https://www.reddit.com/search/?q=Klipsch+RP-500M+II)
 
 
 As an Amazon Associate I earn from qualifying purchases.

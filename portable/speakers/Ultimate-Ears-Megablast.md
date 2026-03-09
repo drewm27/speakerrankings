@@ -26,6 +26,7 @@ The Ultimate Ears Megablast ranks [#57 out of 73 total Large Size Portable Bluet
 - Stereo: Yes
 - TWS: Yes
 - Weight: 2.4lbs / 1.1kg
+    - [Reddit Search for Ultimate Ears Megablast](https://www.reddit.com/search/?q=Ultimate+Ears+Megablast)
 
 
 As an Amazon Associate I earn from qualifying purchases.

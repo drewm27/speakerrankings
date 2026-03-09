@@ -44,6 +44,7 @@ The Earfun Uboom L ranks [#1 out of 131 total Medium Size Portable Bluetooth Spe
 - Links
     - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-l-portable-waterproof-bluetooth-speakers-black?shareid=8BBEB841E15)
     - <https://www.diysubwoofers.org/projects/other/BT/UBoomL/>
+    - [Reddit Search for Earfun Uboom L](https://www.reddit.com/search/?q=Earfun+Uboom+L)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -25,6 +25,7 @@ The Tronsmart Mirtune S100 ranks [#72 out of 131 total Medium Size Portable Blue
     - [KULAS TECH SHOW: JBL Charge 5 vs Tronsmart Mirtune S100 - Sound Comparison💥🔥](https://www.youtube.com/watch?v=jfB1dUCEsGQ)
 - Links
     - [Official Product Page](https://www.tronsmart.com/products/tronsmart-mirtune-s100-portable-outdoor-speaker)
+    - [Reddit Search for Tronsmart Mirtune S100](https://www.reddit.com/search/?q=Tronsmart+Mirtune+S100)
 
 
 As an Amazon Associate I earn from qualifying purchases.

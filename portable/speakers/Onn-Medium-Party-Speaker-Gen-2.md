@@ -27,6 +27,7 @@ The Onn Medium Party Speaker Gen 2 ranks [#39 out of 67 total Boombox Size Porta
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs Medium Party Speaker Gen 2 🤜🤛A Family Feud🔌Plugged In Bass Boost On](https://www.youtube.com/watch?v=9dIs_4-nSfI)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
+    - [Reddit Search for Onn Medium Party Speaker Gen 2](https://www.reddit.com/search/?q=Onn+Medium+Party+Speaker+Gen+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

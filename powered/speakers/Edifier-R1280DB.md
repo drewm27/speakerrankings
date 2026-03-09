@@ -26,6 +26,7 @@ The Edifier R1280DB ranks [#23 out of 24 total Medium Size Powered Bookshelf Spe
 - Links
     - [Official Product Page](https://edifier-online.com/products/edifier-r1700bt)
     - [Audio Science Review Measurements](https://www.audiosciencereview.com/forum/index.php?threads/edifier-r1280t-powered-speaker-review.16112/)
+    - [Reddit Search for Edifier R1280DB](https://www.reddit.com/search/?q=Edifier+R1280DB)
 
 
 As an Amazon Associate I earn from qualifying purchases.

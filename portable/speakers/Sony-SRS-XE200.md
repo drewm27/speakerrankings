@@ -27,6 +27,7 @@ The Sony SRS-XE200 ranks [#105 out of 131 total Medium Size Portable Bluetooth S
     - [Danny Pops: Sony XE200 XE300 vs Bose Marshall & JBL](https://www.youtube.com/watch?v=da-yS5OCQ48)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xe200/specifications)
+    - [Reddit Search for Sony SRS-XE200](https://www.reddit.com/search/?q=Sony+SRS-XE200)
 
 
 As an Amazon Associate I earn from qualifying purchases.

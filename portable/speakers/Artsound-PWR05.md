@@ -24,6 +24,7 @@ The Artsound PWR05 ranks [#66 out of 67 total Boombox Size Portable Bluetooth Sp
 - Weight: 9.7lbs / 4.4kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=46QtNAbtFyU>
+    - [Reddit Search for Artsound PWR05](https://www.reddit.com/search/?q=Artsound+PWR05)
 
 
 As an Amazon Associate I earn from qualifying purchases.

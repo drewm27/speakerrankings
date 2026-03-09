@@ -20,6 +20,7 @@ The GR-Research NX-Treme ranks [#1 out of 25 total Large Size Floorstanding Spea
 - Links
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
     - [Official GR-Research Open Baffle Triple Subwoofers Website](https://gr-research.com/product/sub-series-triple-threat-with-flatpacks/)
+    - [Reddit Search for GR-Research NX-Treme](https://www.reddit.com/search/?q=GR-Research+NX-Treme)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -16,6 +16,7 @@ The JBL Studio 590 ranks [#23 out of 25 total Large Size Floorstanding Speakers]
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
     - [Official JBL Studio 590 Website](https://www.jbl.com/loudspeakers/STUDIO+590.html)
+    - [Reddit Search for JBL Studio 590](https://www.reddit.com/search/?q=JBL+Studio+590)
 
 
 As an Amazon Associate I earn from qualifying purchases.

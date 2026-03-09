@@ -22,6 +22,7 @@ The KEF R11 Meta ranks [#7 out of 25 total Large Size Floorstanding Speakers](/p
     - [Audio Science Review KEF R11 Meta](https://www.audiosciencereview.com/forum/index.php?threads/kef-r11-meta-tower-speaker-review.53282/)
 - Links
     - [Official KEF R11 Meta Website](https://us.kef.com/products/r11-meta)
+    - [Reddit Search for KEF R11 Meta](https://www.reddit.com/search/?q=KEF+R11+Meta)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -30,6 +30,7 @@ The Sony XB33 ranks [#58 out of 131 total Medium Size Portable Bluetooth Speaker
     - [Alan Ross Reviews: LG Xboom Go PL7 vs JBL Charge 4 and Sony XB33 - best Bluetooth speaker?](https://www.youtube.com/watch?v=AxRJ-7Ac4LU)
 - Links
     - [Official Product Page](https://www.sony.com/electronics/support/speakers-wireless-speakers/srs-xb33/specifications)
+    - [Reddit Search for Sony XB33](https://www.reddit.com/search/?q=Sony+XB33)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -48,6 +48,7 @@ The Soundcore Boom 2 ranks [#9 out of 73 total Large Size Portable Bluetooth Spe
     - [Josh's Gadgets and More: Budget Monster ZZA K8 vs Soundcore Boom 2](https://www.youtube.com/watch?v=0M9aNG5Tb1o)
 - Links
     - [Official Product Page](https://www.jdoqocy.com/click-101389079-17018748?url=https%3A%2F%2Fus.soundcore.com%2Fproducts%2Fboom2-bluetooth-speaker-for-bass&cjsku=A3138011)
+    - [Reddit Search for Soundcore Boom 2](https://www.reddit.com/search/?q=Soundcore+Boom+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -31,6 +31,7 @@ The Treblab HD-360 ranks [#46 out of 73 total Large Size Portable Bluetooth Spea
     - [Jay's Straight Up Reviews & More: Bass Check 💣 Treblab HD-360, Ultimate Ears EpicBoom, Marshall Middleton & JBL Pulse 5. Boom or Bust?](https://www.youtube.com/watch?v=ww4LMIYgu0k)
 - Links
     - [Official Product Page](https://treblab.com/products/treblab-hd-360-speaker)
+    - [Reddit Search for Treblab HD-360](https://www.reddit.com/search/?q=Treblab+HD-360)
 
 
 As an Amazon Associate I earn from qualifying purchases.

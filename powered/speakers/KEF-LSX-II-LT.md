@@ -22,6 +22,7 @@ The KEF LSX II LT ranks [#17 out of 24 total Medium Size Powered Bookshelf Speak
     - [Erin's Audio Corner: Transform Your Sound System with the KEF LSX II LT Speaker](https://www.youtube.com/watch?v=Tcz905gti5A)
 - Links
     - [Official Product Page](https://us.kef.com/products/lsx-2-lt)
+    - [Reddit Search for KEF LSX II LT](https://www.reddit.com/search/?q=KEF+LSX+II+LT)
 
 
 As an Amazon Associate I earn from qualifying purchases.

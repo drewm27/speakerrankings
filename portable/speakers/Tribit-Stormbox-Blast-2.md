@@ -44,6 +44,7 @@ The Tribit Stormbox Blast 2 ranks [#20 out of 67 total Boombox Size Portable Blu
     - [Jagist reviews: Zealot S95 Vs Tribit Stormbox Blast 2!!!](https://www.youtube.com/watch?v=7QDLOCQhGes)
 - Links
     - [Official Product Page](https://tribit.com/products/tribit-stormbox-blast-2-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Blast 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Blast+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -21,6 +21,7 @@ The Revel M126Be ranks [#11 out of 48 total Large Size Bookshelf Speakers](/pass
     - [Erin's Audio Corner Website Revel M126Be](https://www.erinsaudiocorner.com/loudspeakers/revel_m126be/)
 - Links
     - [Official Revel M126Be Website](https://www.revelspeakers.com/products/in-room-loudspeakers/M126BE-.html)
+    - [Reddit Search for Revel M126Be](https://www.reddit.com/search/?q=Revel+M126Be)
 
 
 As an Amazon Associate I earn from qualifying purchases.

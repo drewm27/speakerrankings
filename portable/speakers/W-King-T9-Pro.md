@@ -31,6 +31,7 @@ The W-King T9 Pro ranks [#27 out of 43 total Party Size Portable Bluetooth Speak
     - [Jay's Straight Up Reviews & More: W-King T9 Pro vs JBL Partybox 110 😯Can the Budget King Hang With the PB110?](https://www.youtube.com/watch?v=8dZz7MJRAAo)
 - Links
     - [Official Product Page](https://www.w-king.com/t9pro.html)
+    - [Reddit Search for W-King T9 Pro](https://www.reddit.com/search/?q=W-King+T9+Pro)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -37,6 +37,7 @@ The JBL Authentics 200 ranks [#4 out of 14 total Medium Size Powered Desktop Spe
     - [Jay's Straight Up Reviews & More: Klipsch The One Plus vs JBL Authentics 200 - 🛜 Battle of the Home Speakers🔌Guest Lando Calrissian 😆](https://www.youtube.com/watch?v=ezYZWoYEXfw)
 - Links
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-200.html)
+    - [Reddit Search for JBL Authentics 200](https://www.reddit.com/search/?q=JBL+Authentics+200)
 
 
 As an Amazon Associate I earn from qualifying purchases.

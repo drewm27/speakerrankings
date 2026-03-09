@@ -18,6 +18,7 @@ The Dynaudio Emit 20 ranks [#34 out of 48 total Large Size Bookshelf Speakers](/
     - [Erin's Audio Corner Website Dynaudio Emit 20](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/)
 - Links
     - [Official Website](https://dynaudio.com/home-audio/emit/emit-20)
+    - [Reddit Search for Dynaudio Emit 20](https://www.reddit.com/search/?q=Dynaudio+Emit+20)
 
 
 As an Amazon Associate I earn from qualifying purchases.

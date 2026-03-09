@@ -39,6 +39,7 @@ The Marshall Stockwell 2 ranks [#10 out of 73 total Large Size Portable Bluetoot
     - [Alan Ross Reviews: Marshall Emberton vs Marshall Stockwell 2 - little guy goes louder?? 🤓](https://www.youtube.com/watch?v=6j2Aj5E48Kc)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/stockwell-ii)
+    - [Reddit Search for Marshall Stockwell 2](https://www.reddit.com/search/?q=Marshall+Stockwell+2)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -2,12 +2,12 @@
 layout: page
 title: Sony SRS-XB12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony SRS-XB12 ranks #34 out of 41 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Sony SRS-XB12 ranks #35 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony SRS-XB12 ranks [#34 out of 41 total Small Size Portable Bluetooth Speakers](/portable/small/#34-sony-srs-xb12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SRS-XB12 ranks [#35 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#35-sony-srs-xb12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #34 Sony SRS-XB12: 
+## #35 Sony SRS-XB12: 
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
@@ -36,6 +36,7 @@ The Sony SRS-XB12 ranks [#34 out of 41 total Small Size Portable Bluetooth Speak
     - [Alan Ross Reviews: Sony XB12 vs Soundcore Mini 3 - size matters! bluetooth speakers test!](https://www.youtube.com/watch?v=mMsB-wvXn34)
 - Links
     - [Official Product Page](https://www.sony.com/ug/electronics/wireless-speakers/srs-xb12)
+    - [Reddit Search for Sony SRS-XB12](https://www.reddit.com/search/?q=Sony+SRS-XB12)
 
 
 As an Amazon Associate I earn from qualifying purchases.

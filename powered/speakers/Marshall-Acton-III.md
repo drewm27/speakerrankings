@@ -32,6 +32,7 @@ The Marshall Acton III ranks [#10 out of 14 total Medium Size Powered Desktop Sp
     - [Danny Pops: Winner Winner Chicken Dinner! Marshall Acton 3 Review!](https://www.youtube.com/watch?v=2fYIobmLo-o)
 - Links
     - [Official Product Page](https://www.marshall.com/us/en/product/acton-iii)
+    - [Reddit Search for Marshall Acton III](https://www.reddit.com/search/?q=Marshall+Acton+III)
 
 
 As an Amazon Associate I earn from qualifying purchases.

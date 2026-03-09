@@ -37,6 +37,7 @@ The Harman Kardon Citation 200 ranks [#12 out of 73 total Large Size Portable Bl
     - [KULAS TECH SHOW: Harman Kardon Citation 200 vs Onyx Studio 7 Bass comparison](https://www.youtube.com/watch?v=nhXQE196GvQ)
 - Links
     - [Official Product Page](https://www.harmankardon.com/home-audio/CITATION+200-.html)
+    - [Reddit Search for Harman Kardon Citation 200](https://www.reddit.com/search/?q=Harman+Kardon+Citation+200)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -19,6 +19,7 @@ The Xiaomi Mi Portable ranks [#57 out of 131 total Medium Size Portable Bluetoot
     - [Techder Audios: Anker Soundcore 3 Vs Soundynamic Twinkle Vs Xiaomi Mi 16w](https://www.youtube.com/watch?v=TF748bXDjIs)
 - Links
     - [Official Product Page](https://www.mi.com/global/product/mi-portable-bluetooth-speaker/)
+    - [Reddit Search for Xiaomi Mi Portable](https://www.reddit.com/search/?q=Xiaomi+Mi+Portable)
 
 
 As an Amazon Associate I earn from qualifying purchases.

@@ -23,6 +23,7 @@ The Oontz Angle 3 ranks [#128 out of 131 total Medium Size Portable Bluetooth Sp
 - Weight: 1.28lbs / 580g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=Wogk7QEtKP4>
+    - [Reddit Search for Oontz Angle 3](https://www.reddit.com/search/?q=Oontz+Angle+3)
 
 
 As an Amazon Associate I earn from qualifying purchases.

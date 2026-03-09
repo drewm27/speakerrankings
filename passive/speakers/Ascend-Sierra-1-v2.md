@@ -27,6 +27,7 @@ The Ascend Sierra 1 v2 ranks [#2 out of 20 total Medium Size Bookshelf Speakers]
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)
+    - [Reddit Search for Ascend Sierra 1 v2](https://www.reddit.com/search/?q=Ascend+Sierra+1+v2)
 
 
 As an Amazon Associate I earn from qualifying purchases.
