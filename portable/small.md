@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
-Last updated: March 09, 2026
+Last updated: March 10, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -79,7 +79,7 @@ Last updated: March 09, 2026
 - TWS: Yes
 - Weight: 0.84lbs / 380g
 - Reviews, Comparisons and Sound Samples
-    - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 | Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
+    - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
     - [TecH Moe: Soundcore Boom Go 3i: The Mini Speaker to Buy!](https://www.youtube.com/watch?v=xArjouDw2R8)
 - Links
     - [Official Product Page](https://www.soundcore.com/products/d5103-boom-go-3i-portable-speaker-for-powerful-sound)

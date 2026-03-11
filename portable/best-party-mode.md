@@ -6,7 +6,7 @@ cover-img: "/assets/img/uboomx.jpg"
 share-description: "Expert rankings of 366 Bluetooth speakers with >2 speaker party mode. Detailed specs, sound samples & EQ settings. Budget to premium picks from $30."
 ---
 
-**Looking for the best Bluetooth speaker with party mode?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 09, 2026.**
+**Looking for the best Bluetooth speaker with party mode?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 10, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -23,31 +23,30 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Small 
 
-### The best [small size](/portable/small/) speaker with party mode is the [**Soundcore Mini 3 Pro**](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Waterproof-Bluetooth-Speaker/dp/B0CCZS3J4J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=e134b5d01b3f7fe670640a1efa145488&language=en_US&ref_=as_li_ss_tl)]: $30
-- Positives: Lights on top. Deeper bass than most other speakers in the size.
-- Negatives: Rolled off highs
+### The best [small size](/portable/small/) speaker with party mode is the [**Soundcore Boom Go 3i**](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl)]: $60
+- Positives: Deeper bass than the Stormbox Micro 2. The best sound quality at lower levels, even better than the Micro 2. At higher levels the Micro 2 sounds cleaner and more natural. Discussions about that [here](https://www.reddit.com/r/Bluetooth_Speakers/comments/1roc4e7/soundcore_boom_go_3i_vs_tribit_micro_2_review_the/)
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 58Hz
-- Battery Life: 15 hours (Manufacturer specified)
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
-- Bluetooth Version: 5.0
+- Bluetooth Version: 6.0
 - Built in Microphone: Yes
 - EQ: Yes
-- IP Rating: IPX7
-- Max Volume: 87dB
-- Output Power: 6W
-- Party Mode: Yes (Partycast up to 100 speakers)
-- Power Bank: No
+- IP Rating: IP68
+- Max Volume: 92dB
+- Output Power: 15W
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
-- TWS: No
-- Weight: 0.55lbs / 249g
+- TWS: Yes
+- Weight: 0.84lbs / 380g
 - Reviews, Comparisons and Sound Samples
-    - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
+    - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
+    - [TecH Moe: Soundcore Boom Go 3i: The Mini Speaker to Buy!](https://www.youtube.com/watch?v=xArjouDw2R8)
 - Links
-    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17018748?url=https%3A%2F%2Fwww.soundcore.com%2Fau%2Fproducts%2Fsoundcore-mini-3)
-    - [Reddit Search for Soundcore Mini 3 Pro](https://www.reddit.com/search/?q=Soundcore+Mini+3+Pro)
+    - [Official Product Page](https://www.soundcore.com/products/d5103-boom-go-3i-portable-speaker-for-powerful-sound)
+    - [Reddit Search for Soundcore Boom Go 3i](https://www.reddit.com/search/?q=Soundcore+Boom+Go+3i)
 
 
 ## Medium 
