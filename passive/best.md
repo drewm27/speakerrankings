@@ -6,7 +6,7 @@ cover-img: "/assets/img/revelf208.jpg"
 share-description: "Explore the top-recommended passive speakers. Expert-ranked picks that require a separate amp, offering flexibility, upgrade potential & high-fidelity sound."
 ---
 
-**Looking for the best passive home speaker for sound quality?** We've ranked 93 home bookshelf speakers by audio performance—from budget models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by expert reviewers like [Erin's Audio Corner and Audio Science Review](/personal-ranking-of-speaker-reviewers/). **Last updated: March 10, 2026.**
+**Looking for the best passive home speaker for sound quality?** We've ranked 93 home bookshelf speakers by audio performance—from budget models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by expert reviewers like [Erin's Audio Corner and Audio Science Review](/personal-ranking-of-speaker-reviewers/). **Last updated: March 11, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -119,7 +119,7 @@ For a lot more suggestions see [large size passive floorstanding speakers](/pass
 ### The best [large size passive bookshelf](/passive/bookshelf-large/) speakers with the best sound quality are the [**GR-Research NX-Studio**](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
-- Dimensions: 24"H x 10"W x 14"D (609.6 x 254 x 355.6 mm)
+- Dimensions: 18"H x 8.5"W x 15.5"D (457.2 x 215.9 x 393.7 mm)
 - Driver: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure woofer, GR-Research Neo3 Planar Magnetic Ribbon open baffle tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB

@@ -16,14 +16,14 @@ The law of diminishing returns applies, many moderately-priced options here prov
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 
-Last updated: March 10, 2026
+Last updated: March 11, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
 ## #1 [GR-Research NX-Studio](https://gr-research.com/product/nx-studio-pair/) [[Gr-research](https://gr-research.com/product/nx-studio-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Studio)]: $3630
 - Positives: Ultra clean burst decay/waterfall plot. Amazingly open sounding due to the semi open baffle Neo3 ribbon tweeter, will image better than any other bookshelf speaker. Neo3 ribbon tweeter is one of the best ribbons around for detail. Bass will be very tight and fast due to the sealed enclosure, but may possibly need a sub.
 - Negatives: Bass will be very tight but won't be quite as deep as others due to the sealed woofer enclosure.
-- Dimensions: 24"H x 10"W x 14"D (609.6 x 254 x 355.6 mm)
+- Dimensions: 18"H x 8.5"W x 15.5"D (457.2 x 215.9 x 393.7 mm)
 - Driver: GR-Research M165NQ 6.5" paper cone, non-resonant polymer frame, copper shorting rings and aluminum phase plug sealed enclosure woofer, GR-Research Neo3 Planar Magnetic Ribbon open baffle tweeter
 - Impedance: 8 ohms
 - Sensitivity: 87dB
