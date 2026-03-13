@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Expert rankings of 366 Bluetooth speakers tested for outdoor usage. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for outdoor usage?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 11, 2026.**
+**Looking for the best Bluetooth speaker for outdoor usage?** We've ranked 366 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 13, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -24,46 +24,30 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Small 
 
-### The best [small size](/portable/small/) speaker that gets the loudest and has the deepest bass for outdoor use is the [**Tribit Stormbox Micro 2**](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
-- Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
-- Negatives: Finicky phone charging, which doesn't usually work.
-- Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
+### The best [small size](/portable/small/) speaker that gets the loudest and has the deepest bass for outdoor use is the [**Soundcore Boom Go 3i**](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl)]: $60
+- Positives: Deeper bass than the Stormbox Micro 2. The best sound quality at lower levels, even better than the Micro 2. At higher levels the Micro 2 sounds cleaner and more natural. Discussions about that [here](https://www.reddit.com/r/Bluetooth_Speakers/comments/1rs8235/rereview_soundcore_boom_go_3i_vs_tribit_micro_2/) and [here](https://www.reddit.com/r/Bluetooth_Speakers/comments/1roc4e7/soundcore_boom_go_3i_vs_tribit_micro_2_review_the/)
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59Hz
-- Battery Life: 12 hours (Manufacturer specified)
+- Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
-- Bluetooth Latency: 265ms
-- Bluetooth Version: 5.3
+- Bluetooth Version: 6.0
 - Built in Microphone: Yes
 - EQ: Yes
-- IP Rating: IP67
-- Max Volume: 96dB
-- Output Power: 10W
-- Party Mode: No
-- Power Bank: Yes (but it doesn't usually work)
+- IP Rating: IP68
+- Max Volume: 92dB
+- Output Power: 15W
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
-- Weight: 0.7lbs / 317g
+- Weight: 0.84lbs / 380g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
-    - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
-    - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
-    - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
-    - [Danny Pops: I WAS BLOWN AWAY - Tribit Stormbox Micro 2 VS Marshall Willen](https://www.youtube.com/watch?v=FZWU9gzzac0)
-    - [Sound Quality Joss: Tribit Stormbox Micro 2 VS Anker Soundcore Mini 3 Pro](https://www.youtube.com/watch?v=ZyFUOIp4B0I)
-    - [Storytripper HD: Marshall Willen  vs  Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=_vBF_b2AEUg)
-    - [Alkar Audio: Speaker Bluetooth Marshall Willen Review VS Tribit Stormbox Micro 2](https://www.youtube.com/watch?v=tyFvllnBeSM)
-    - [MyTechAudio: MARSHALL WILLEN Detail Review Indonesia Vs TRIBIT Micro 1 & Micro 2](https://www.youtube.com/watch?v=X7NlGAQBk0s)
-    - [Gi Rides: Tribit Stormbox Micro 2 vs JBL Clip 4 - sound battle](https://www.youtube.com/watch?v=6PwCJ_Xy_I4)
-    - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - <https://www.youtube.com/watch?v=XLqfqQ7u5Cs>
-    - [Storytripper HD: Marshall Willen vs Tribit StormBox Micro 2 vs Klipsch Austin](https://www.youtube.com/watch?v=FQqBTAap4Gw)
+    - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
+    - [TecH Moe: Soundcore Boom Go 3i: The Mini Speaker to Buy!](https://www.youtube.com/watch?v=xArjouDw2R8)
 - Links
-    - [Official Product Page](https://tribit.com/products/tribit-stormbox-micro-2-portable-speaker)
-    - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
-    - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
+    - [Official Product Page](https://www.soundcore.com/products/d5103-boom-go-3i-portable-speaker-for-powerful-sound)
+    - [Reddit Search for Soundcore Boom Go 3i](https://www.reddit.com/search/?q=Soundcore+Boom+Go+3i)
 
 
 ## Medium

@@ -14,11 +14,37 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
-Last updated: March 11, 2026
+Last updated: March 13, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
-## #1 [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
+## #1 [Soundcore Boom Go 3i](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl)]: $60
+- Positives: Deeper bass than the Stormbox Micro 2. The best sound quality at lower levels, even better than the Micro 2. At higher levels the Micro 2 sounds cleaner and more natural. Discussions about that [here](https://www.reddit.com/r/Bluetooth_Speakers/comments/1rs8235/rereview_soundcore_boom_go_3i_vs_tribit_micro_2/) and [here](https://www.reddit.com/r/Bluetooth_Speakers/comments/1roc4e7/soundcore_boom_go_3i_vs_tribit_micro_2_review_the/)
+- App: Yes
+- Aux Input: No
+- Battery Life: 24 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 6.0
+- Built in Microphone: Yes
+- EQ: Yes
+- IP Rating: IP68
+- Max Volume: 92dB
+- Output Power: 15W
+- Party Mode: Yes (Auracast)
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- Weight: 0.84lbs / 380g
+- Reviews, Comparisons and Sound Samples
+    - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
+    - [TecH Moe: Soundcore Boom Go 3i: The Mini Speaker to Buy!](https://www.youtube.com/watch?v=xArjouDw2R8)
+- Links
+    - [Official Product Page](https://www.soundcore.com/products/d5103-boom-go-3i-portable-speaker-for-powerful-sound)
+    - [Reddit Search for Soundcore Boom Go 3i](https://www.reddit.com/search/?q=Soundcore+Boom+Go+3i)
+    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boom-Go-3i/)
+
+## #2 [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
 - Negatives: Finicky phone charging, which doesn't usually work.
 - Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
@@ -59,32 +85,6 @@ Last updated: March 11, 2026
     - <http://www.diysubwoofers.org/projects/other/BT/SBMicro2/>
     - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Micro-2/)
-
-## #2 [Soundcore Boom Go 3i](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl)]: $60
-- Positives: Deeper bass than the Stormbox Micro 2. The best sound quality at lower levels, even better than the Micro 2. At higher levels the Micro 2 sounds cleaner and more natural. Discussions about that [here](https://www.reddit.com/r/Bluetooth_Speakers/comments/1roc4e7/soundcore_boom_go_3i_vs_tribit_micro_2_review_the/)
-- App: Yes
-- Aux Input: No
-- Battery Life: 24 hours (Manufacturer specified)
-- Bluetooth Codecs: SBC
-- Bluetooth Version: 6.0
-- Built in Microphone: Yes
-- EQ: Yes
-- IP Rating: IP68
-- Max Volume: 92dB
-- Output Power: 15W
-- Party Mode: Yes (Auracast)
-- Power Bank: Yes
-- Power Input: USB-C
-- Stereo: No
-- TWS: Yes
-- Weight: 0.84lbs / 380g
-- Reviews, Comparisons and Sound Samples
-    - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
-    - [TecH Moe: Soundcore Boom Go 3i: The Mini Speaker to Buy!](https://www.youtube.com/watch?v=xArjouDw2R8)
-- Links
-    - [Official Product Page](https://www.soundcore.com/products/d5103-boom-go-3i-portable-speaker-for-powerful-sound)
-    - [Reddit Search for Soundcore Boom Go 3i](https://www.reddit.com/search/?q=Soundcore+Boom+Go+3i)
-    - [Direct Speakerranking Link](/portable/speakers/Soundcore-Boom-Go-3i/)
 
 ## #3 [Minirig Mini 2](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2) [[Minirigs](https://minirigs.co.uk/speakers/bluetooth-minirig-mini-2)]: $100
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
