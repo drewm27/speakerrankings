@@ -1,0 +1,32 @@
+---
+layout: page
+title: OSD (Optimal Speaker Design) SS8 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The OSD (Optimal Speaker Design) SS8 ranks #427 out of 465 total Powered Home Subwoofers. Find all the specifications and reviews in one place"
+---
+
+The OSD (Optimal Speaker Design) SS8 ranks [#427 out of 465 total Powered Home Subwoofers](/powered/subwoofer/#427-osd-optimal-speaker-design-ss8-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #427 OSD (Optimal Speaker Design) SS8
+- Negatives: low profile (<8in)
+- 20 Hz: 70.7 dB
+- 25 Hz: 80.6 dB
+- 31.5 Hz: 84.3 dB
+- 40 Hz: 97.6 dB
+- 50 Hz: 103.2 dB
+- 63 Hz: 109.6 dB
+- 80 Hz: 109.7 dB
+- CEA-2010-A Average (40-80Hz): 105.0 dB
+- Country: United States
+- Dimensions: 15.75"H x 21.25"W x 5.5"D (400.0 x 539.8 x 139.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 8 inch
+- Enclosure: ported, side
+- Measurement Source: Brent Butterworth
+- Warranty: 2?
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for OSD (Optimal Speaker Design) SS8](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+SS8)
+
+
+As an Amazon Associate I earn from qualifying purchases.

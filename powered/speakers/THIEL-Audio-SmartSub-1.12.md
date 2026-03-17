@@ -1,0 +1,29 @@
+---
+layout: page
+title: THIEL Audio SmartSub 1.12 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The THIEL Audio SmartSub 1.12 ranks #350 out of 465 total Powered Home Subwoofers. Find all the specifications and reviews in one place"
+---
+
+The THIEL Audio SmartSub 1.12 ranks [#350 out of 465 total Powered Home Subwoofers](/powered/subwoofer/#350-thiel-audio-smartsub-112-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #350 THIEL Audio SmartSub 1.12
+- 20 Hz: 98.1 dB
+- 25 Hz: 103.1 dB
+- 31.5 Hz: 105.0 dB
+- 40 Hz: 105.8 dB
+- 50 Hz: 111.1 dB
+- 63 Hz: 112.9 dB
+- 80 Hz: 110.1 dB
+- CEA-2010-A Average (40-80Hz): 110.0 dB
+- Country: United States
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for THIEL Audio SmartSub 1.12](https://www.reddit.com/search/?q=THIEL+Audio+SmartSub+1.12)
+
+
+As an Amazon Associate I earn from qualifying purchases.

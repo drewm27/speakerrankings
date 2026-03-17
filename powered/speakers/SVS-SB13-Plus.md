@@ -1,0 +1,32 @@
+---
+layout: page
+title: SVS SB13-Plus Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The SVS SB13-Plus ranks #393 out of 465 total Powered Home Subwoofers. Find all the specifications and reviews in one place"
+---
+
+The SVS SB13-Plus ranks [#393 out of 465 total Powered Home Subwoofers](/powered/subwoofer/#393-svs-sb13-plus-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #393 SVS SB13-Plus
+- 20 Hz: 92.3 dB
+- 25 Hz: 97.2 dB
+- 31.5 Hz: 97.2 dB
+- 40 Hz: 108.1 dB
+- 50 Hz: 108.1 dB
+- 63 Hz: 108.1 dB
+- CEA-2010-A Average (40-80Hz): 108.1 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 17.0"H x 17.0"W x 18.0"D (431.8 x 431.8 x 457.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 13 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 95.0lbs / 43.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS SB13-Plus Website](https://web.archive.org/web/20111215104658/http://www.svsound.com/subwoofers/sealed-box/sb13-plus?page=shop.product_details&flypage=flypage.tpl&product_id=10&category_id=1)
+    - [Reddit Search for SVS SB13-Plus](https://www.reddit.com/search/?q=SVS+SB13-Plus)
+
+
+As an Amazon Associate I earn from qualifying purchases.

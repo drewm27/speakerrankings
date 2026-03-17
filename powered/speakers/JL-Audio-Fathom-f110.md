@@ -1,0 +1,32 @@
+---
+layout: page
+title: JL Audio Fathom f110 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The JL Audio Fathom f110 ranks #437 out of 465 total Powered Home Subwoofers. Find all the specifications and reviews in one place"
+---
+
+The JL Audio Fathom f110 ranks [#437 out of 465 total Powered Home Subwoofers](/powered/subwoofer/#437-jl-audio-fathom-f110-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #437 JL Audio Fathom f110
+- 100 Hz: 98.0 dB
+- 20 Hz: 94.0 dB
+- 25 Hz: 101.0 dB
+- 31.5 Hz: 103.0 dB
+- 40 Hz: 105.0 dB
+- 50 Hz: 104.0 dB
+- 63 Hz: 103.0 dB
+- 80 Hz: 101.0 dB
+- CEA-2010-A Average (40-80Hz): 103.2 dB
+- Country: United States
+- Dimensions: 15.64"H x 12.92"W x 17.27"D (397.3 x 328.2 x 438.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 3
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for JL Audio Fathom f110](https://www.reddit.com/search/?q=JL+Audio+Fathom+f110)
+
+
+As an Amazon Associate I earn from qualifying purchases.

@@ -1,0 +1,35 @@
+---
+layout: page
+title: JL Audio Dominion d108 Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The JL Audio Dominion d108 ranks #440 out of 465 total Powered Home Subwoofers. Find all the specifications and reviews in one place"
+---
+
+The JL Audio Dominion d108 ranks [#440 out of 465 total Powered Home Subwoofers](/powered/subwoofer/#440-jl-audio-dominion-d108-1100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #440 JL Audio Dominion d108: $1,100
+- Negatives: Gloss colour.
+- 100 Hz: 103.9 dB
+- 20 Hz: 79.7 dB
+- 25 Hz: 85.8 dB
+- 31.5 Hz: 91.5 dB
+- 40 Hz: 98.4 dB
+- 50 Hz: 102.9 dB
+- 63 Hz: 105.6 dB
+- 80 Hz: 105.0 dB
+- CEA-2010-A Average (40-80Hz): 103.0 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 11.37"H x 10.0"W x 13.23"D (288.8 x 254.0 x 336.0 mm)
+- Driver(s): (1) 8 inch
+- Enclosure: sealed
+- Measurement Source: ErinsAudioCorner
+- Warranty: 3
+- Weight: 26.4lbs / 12.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [JL Audio Dominion d108 Website](https://www.jlaudio.com/collections/home-audio-powered-subwoofers/products/d108-gloss-home-audio-dominion-powered-subwoofers-96282)
+    - [Reddit Search for JL Audio Dominion d108](https://www.reddit.com/search/?q=JL+Audio+Dominion+d108)
+
+
+As an Amazon Associate I earn from qualifying purchases.

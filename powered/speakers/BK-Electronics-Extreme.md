@@ -1,0 +1,28 @@
+---
+layout: page
+title: BK Electronics Extreme Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The BK Electronics Extreme ranks #337 out of 465 total Powered Home Subwoofers. Find all the specifications and reviews in one place"
+---
+
+The BK Electronics Extreme ranks [#337 out of 465 total Powered Home Subwoofers](/powered/subwoofer/#337-bk-electronics-extreme-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #337 BK Electronics Extreme
+- 15 Hz: 92.8 dB
+- 20 Hz: 100.7 dB
+- 25 Hz: 106.6 dB
+- 31.5 Hz: 110.7 dB
+- 40 Hz: 111.4 dB
+- 50 Hz: 111.1 dB
+- 63 Hz: 110.5 dB
+- 80 Hz: 109.0 dB
+- CEA-2010-A Average (40-80Hz): 110.5 dB
+- Country: United Kingdom
+- Discontinued: Yes
+- Measurement Source: Ilkka Rissanen
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for BK Electronics Extreme](https://www.reddit.com/search/?q=BK+Electronics+Extreme)
+
+
+As an Amazon Associate I earn from qualifying purchases.
