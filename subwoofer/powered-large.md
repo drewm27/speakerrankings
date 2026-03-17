@@ -36,7 +36,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 144.2 dB
 - Warranty: 5
 - Weight: 185.0lbs / 83.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Orbit Shifter PRO Website](https://www.jtrspeakers.com/jtr-orbit-shifter-pro)
     - [Reddit Search for JTR Speakers Orbit Shifter PRO](https://www.reddit.com/search/?q=JTR+Speakers+Orbit+Shifter+PRO)
@@ -62,7 +61,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 134.4 dB
 - Output SPL at 80 Hz: 137.8 dB
 - Weight: 177.0lbs / 80.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for JTR Speakers Orbit Shifter LFU](https://www.reddit.com/search/?q=JTR+Speakers+Orbit+Shifter+LFU)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Orbit-Shifter-LFU/)
@@ -83,7 +81,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 130.9 dB
 - Warranty: 5
 - Weight: 230.0lbs / 104.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) TRIAX Website](https://www.powersoundaudio.com/pages/triax?_pos=1&_sid=45888cc33&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) TRIAX](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+TRIAX)
@@ -111,7 +108,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 130.6 dB
 - Warranty: 5/3
 - Weight: 265.0lbs / 120.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 4000ULF Website](https://www.jtrspeakers.com/jtr-captivator-4000ulf)
     - [Reddit Search for JTR Speakers Captivator 4000ULF](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+4000ULF)
@@ -138,7 +134,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 130.9 dB
 - Warranty: 5
 - Weight: 149.0lbs / 67.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 215PRO Website](https://www.jtrspeakers.com/jtr-captivator-215pro)
     - [Reddit Search for JTR Speakers Captivator 215PRO](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+215PRO)
@@ -160,7 +155,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 129.7 dB
 - Warranty: 5
 - Weight: 170.0lbs / 77.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) T18 Website](https://www.powersoundaudio.com/pages/t18?_pos=2&_sid=d326df09a&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) T18](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+T18)
@@ -189,7 +183,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 128.5 dB
 - Warranty: 5/3
 - Weight: 220.0lbs / 99.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator S2 Website](https://web.archive.org/web/20190307135926/http://jtrspeakers.com/captivator-s2.html)
     - [Reddit Search for JTR Speakers Captivator S2](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+S2)
@@ -211,7 +204,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 128.3 dB
 - Warranty: 5
 - Weight: 196.0lbs / 88.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) V3600I Website](https://www.powersoundaudio.com/pages/v3600i?_pos=1&_sid=665c27499&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) V3600I](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+V3600I)
@@ -237,7 +229,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 127.6 dB
 - Output SPL at 80 Hz: 127.0 dB
 - Warranty: 3
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Ultra 24.0 Website](https://www.funkaudio.ca/store/p54/Funk_Audio_24.0.html)
     - [Reddit Search for Funk Audio Ultra 24.0](https://www.reddit.com/search/?q=Funk+Audio+Ultra+24.0)
@@ -266,7 +257,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 131.0 dB
 - Warranty: 3
 - Weight: 145.0lbs / 65.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Custom 21.0 Website](https://www.funkaudio.ca/store/p26/Funk_Audio_21.0.html)
     - [Reddit Search for Funk Audio Custom 21.0](https://www.reddit.com/search/?q=Funk+Audio+Custom+21.0)
@@ -292,7 +282,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 126.7 dB
 - Output SPL at 80 Hz: 126.0 dB
 - Weight: 150.0lbs / 68.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Harbottle Audio C24 L2 Website](https://www.harbottleaudio.com/product-page/c24)
     - [Reddit Search for Harbottle Audio C24 L2](https://www.reddit.com/search/?q=Harbottle+Audio+C24+L2)
@@ -319,7 +308,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 126.8 dB
 - Warranty: 5
 - Weight: 171.6lbs / 77.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 16 THX Ultra Website](https://www.monoprice.com/product?p_id=42031)
     - [Reddit Search for Monoprice Monolith 16 THX Ultra](https://www.reddit.com/search/?q=Monoprice+Monolith+16+THX+Ultra)
@@ -346,7 +334,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 126.6 dB
 - Warranty: 3
 - Weight: 145.0lbs / 65.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Ultra 21.0LX Website](https://www.funkaudio.ca/store/p51/Funk_Audio_21.0LX.html)
     - [Reddit Search for Funk Audio Ultra 21.0LX](https://www.reddit.com/search/?q=Funk+Audio+Ultra+21.0LX)
@@ -374,7 +361,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 125.8 dB
 - Warranty: 5/3
 - Weight: 148.0lbs / 67.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 2400 Website](https://www.jtrspeakers.com/jtr-captivator-2400)
     - [Reddit Search for JTR Speakers Captivator 2400](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+2400)
@@ -403,7 +389,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 127.3 dB
 - Warranty: 5/3
 - Weight: 210.0lbs / 95.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Rythmik FV25HP Website](http://www.rythmikaudio.com/FV25HP.html)
     - [Reddit Search for Rythmik FV25HP](https://www.reddit.com/search/?q=Rythmik+FV25HP)
@@ -425,7 +410,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 126.1 dB
 - Warranty: 5
 - Weight: 137.0lbs / 62.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) S3600I Website](https://www.powersoundaudio.com/pages/s3600i?_pos=1&_sid=22cd12ce1&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) S3600I](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+S3600I)
@@ -453,7 +437,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 125.6 dB
 - Warranty: 5
 - Weight: 216.0lbs / 98.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M-215 Website](https://www.monoprice.com/product?p_id=38543)
     - [Reddit Search for Monoprice Monolith M-215](https://www.reddit.com/search/?q=Monoprice+Monolith+M-215)
@@ -480,7 +463,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 125.6 dB
 - Warranty: 5/2
 - Weight: 170.63lbs / 77.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [XTZ Sound SUB 3X12 Website](https://www.xtzsound.eu/product/sub-3x12)
     - [Reddit Search for XTZ Sound SUB 3X12](https://www.reddit.com/search/?q=XTZ+Sound+SUB+3X12)
@@ -502,7 +484,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 125.2 dB
 - Warranty: 5
 - Weight: 107.0lbs / 48.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XS30 Website](https://www.powersoundaudio.com/pages/xs30?_pos=1&_sid=95f8e674a&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XS30](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS30)
@@ -529,7 +510,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 124.0 dB
 - Warranty: 5/3
 - Weight: 142.0lbs / 64.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 1400 Website](https://web.archive.org/web/20191130020139/http://www.jtrspeakers.com/captivator-1400.html)
     - [Reddit Search for JTR Speakers Captivator 1400](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+1400)
@@ -553,7 +533,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 126.9 dB
 - Warranty: 5
 - Weight: 137.0lbs / 62.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) S3600i Website](https://www.powersoundaudio.com/pages/s3600i?_pos=1&_sid=22cd12ce1&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) S3600i](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+S3600i)
@@ -581,7 +560,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 126.0 dB
 - Warranty: 3
 - Weight: 230.0lbs / 104.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Signature Sub 2 Website](https://www.paradigm.com/en/sealed/signature-sub-2)
     - [Reddit Search for Paradigm Signature Sub 2](https://www.reddit.com/search/?q=Paradigm+Signature+Sub+2)
@@ -608,7 +586,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 123.6 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 130.0lbs / 59.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RBH Sound SX-1212PR Website](https://rbhsound.com/sx1212pr.php)
     - [Reddit Search for RBH Sound SX-1212PR](https://www.reddit.com/search/?q=RBH+Sound+SX-1212PR)
@@ -637,7 +614,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 124.2 dB
 - Warranty: ?
 - Weight: 120.0lbs / 54.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RTJ Audio 18Sub Website](https://www.rtjaudio.com/)
     - [Reddit Search for RTJ Audio 18Sub](https://www.reddit.com/search/?q=RTJ+Audio+18Sub)
@@ -665,7 +641,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 125.0 dB
 - Warranty: 5
 - Weight: 202.4lbs / 91.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Perlisten Audio D215s Website](https://www.perlistenaudio.com/products/d215s/)
     - [Reddit Search for Perlisten Audio D215s](https://www.reddit.com/search/?q=Perlisten+Audio+D215s)
@@ -689,7 +664,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 126.2 dB
 - Output SPL at 80 Hz: 125.7 dB
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Harbinger V2218S Website](https://harbingerproaudio.com/v2218s-powered-subwoofer/)
     - [Reddit Search for Harbinger V2218S](https://www.reddit.com/search/?q=Harbinger+V2218S)
@@ -715,7 +689,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 123.1 dB
 - Warranty: 3
 - Weight: 92.0lbs / 41.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Defiance X15 Website](https://www.paradigm.com/en/ported/defiance-x15)
     - [Reddit Search for Paradigm Defiance X15](https://www.reddit.com/search/?q=Paradigm+Defiance+X15)
@@ -741,7 +714,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 125.2 dB
 - Warranty: 5/3
 - Weight: 129.0lbs / 58.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 118HT Website](https://www.jtrspeakers.com/jtr-captivator-118ht)
     - [Reddit Search for JTR Speakers Captivator 118HT](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+118HT)
@@ -769,7 +741,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.6 dB
 - Warranty: 5/3
 - Weight: 165.0lbs / 74.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 2400ULF Website](https://www.jtrspeakers.com/jtr-captivator-2400ulf)
     - [Reddit Search for JTR Speakers Captivator 2400ULF](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+2400ULF)
@@ -797,7 +768,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 122.0 dB
 - Warranty: 3
 - Weight: 155.0lbs / 70.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Classic 21.0L Website](https://www.funkaudio.ca/store/p45/Funk_Audio_21.0L.html)
     - [Reddit Search for Funk Audio Classic 21.0L](https://www.reddit.com/search/?q=Funk+Audio+Classic+21.0L)
@@ -822,7 +792,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 123.1 dB
 - Output SPL at 80 Hz: 121.3 dB
 - Weight: 140.0lbs / 63.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Elemental Designs A7S-450](https://www.reddit.com/search/?q=Elemental+Designs+A7S-450)
     - [Direct Speakerranking Link](/subwoofer/speakers/Elemental-Designs-A7S-450/)
@@ -843,7 +812,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 122.3 dB
 - Warranty: 5
 - Weight: 162.0lbs / 73.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV30FSE Website](https://www.powersoundaudio.com/pages/xv30fse)
     - [Reddit Search for Power Sound Audio (PSA) XV30FSE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV30FSE)
@@ -865,7 +833,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 122.2 dB
 - Warranty: 5
 - Weight: 109.0lbs / 49.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XS30SE Website](https://www.powersoundaudio.com/pages/xs30se?_pos=1&_sid=be7633c01&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XS30SE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS30SE)
@@ -892,7 +859,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 121.7 dB
 - Output SPL at 80 Hz: 121.4 dB
 - Weight: 371.0lbs / 168.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RBH Sound SV-1212PR Website](https://www.rbhsound.com/shop/unrivaled-21-sf-r-31603?category=50&order=create_date+desc)
     - [Reddit Search for RBH Sound SV-1212PR](https://www.reddit.com/search/?q=RBH+Sound+SV-1212PR)
@@ -914,7 +880,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 122.1 dB
 - Warranty: 5
 - Weight: 158.0lbs / 71.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV30 Website](https://www.powersoundaudio.com/pages/xv30?_pos=1&_sid=5cbc4daf6&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XV30](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV30)
@@ -936,7 +901,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 122.1 dB
 - Warranty: 5
 - Weight: 155.0lbs / 70.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV30F Website](https://www.powersoundaudio.com/pages/xv30f?_pos=1&_sid=83ae46ad6&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XV30F](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV30F)
@@ -963,7 +927,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.4 dB
 - Warranty: 5/3
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Rythmik FV15HP Website](http://www.rythmikaudio.com/FV15HP.html)
     - [Reddit Search for Rythmik FV15HP](https://www.reddit.com/search/?q=Rythmik+FV15HP)
@@ -991,7 +954,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.9 dB
 - Warranty: 5/3
 - Weight: 117.0lbs / 53.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator RS1 Website](https://www.jtrspeakers.com/jtr-captivator-rs1)
     - [Reddit Search for JTR Speakers Captivator RS1](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+RS1)
@@ -1016,7 +978,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 120.5 dB
 - Warranty: 7/2(+3)
 - Weight: 110.0lbs / 49.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-15H MK2 Website](https://www.hsuresearch.com/products/vtf-15hmk2.html)
     - [Reddit Search for HSU Research VTF-15H MK2](https://www.reddit.com/search/?q=HSU+Research+VTF-15H+MK2)
@@ -1043,7 +1004,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 120.8 dB
 - Warranty: 5
 - Weight: 82.2lbs / 37.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB-3000 Website](https://www.svsound.com/products/pb-3000)
     - [Reddit Search for SVS PB-3000](https://www.reddit.com/search/?q=SVS+PB-3000)
@@ -1068,7 +1028,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 120.4 dB
 - Warranty: 7/2(+3)
 - Weight: 85.0lbs / 38.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-3 MK5 HP Website](https://www.hsuresearch.com/products/vtf-3mk5HP.html)
     - [Reddit Search for HSU Research VTF-3 MK5 HP](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK5+HP)
@@ -1095,7 +1054,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.9 dB
 - Warranty: 5/3
 - Weight: 160.0lbs / 72.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Rythmik FV18 Website](http://www.rythmikaudio.com/FV18.html)
     - [Reddit Search for Rythmik FV18](https://www.reddit.com/search/?q=Rythmik+FV18)
@@ -1121,7 +1079,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 121.6 dB
 - Output SPL at 80 Hz: 121.0 dB
 - Weight: 139.0lbs / 63.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Harbottle Audio C24 L1 Website](https://www.harbottleaudio.com/product-page/c24l1)
     - [Reddit Search for Harbottle Audio C24 L1](https://www.reddit.com/search/?q=Harbottle+Audio+C24+L1)
@@ -1147,7 +1104,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.6 dB
 - Warranty: 5
 - Weight: 174.5lbs / 79.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB16-Ultra Website](https://www.svsound.com/products/pb16-ultra)
     - [Reddit Search for SVS PB16-Ultra](https://www.reddit.com/search/?q=SVS+PB16-Ultra)
@@ -1175,7 +1131,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 122.1 dB
 - Warranty: 5
 - Weight: 153.2lbs / 69.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 13 THX Ultra Website](https://www.monoprice.com/product?p_id=41496)
     - [Reddit Search for Monoprice Monolith 13 THX Ultra](https://www.reddit.com/search/?q=Monoprice+Monolith+13+THX+Ultra)
@@ -1203,7 +1158,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.5 dB
 - Warranty: 10/5
 - Weight: 132.49lbs / 60.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1723 Subwoofer 2V Website](https://arendalsound.com/product/1723-subwoofer-2v/)
     - [Reddit Search for Arendal 1723 Subwoofer 2V](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+2V)
@@ -1228,7 +1182,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 122.2 dB
 - Output SPL at 80 Hz: 124.6 dB
 - Weight: 120.0lbs / 54.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Epik Subwoofers Empire](https://www.reddit.com/search/?q=Epik+Subwoofers+Empire)
     - [Direct Speakerranking Link](/subwoofer/speakers/Epik-Subwoofers-Empire/)
@@ -1256,7 +1209,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 119.0 dB
 - Warranty: 5
 - Weight: 128.5lbs / 58.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 15 THX Ultra Website](https://web.archive.org/web/20230325053056/https://www.monoprice.com/product?p_id=24458)
     - [Reddit Search for Monoprice Monolith 15 THX Ultra](https://www.reddit.com/search/?q=Monoprice+Monolith+15+THX+Ultra)
@@ -1284,7 +1236,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 119.6 dB
 - Warranty: 5
 - Weight: 110.9lbs / 50.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch RP-1600SW Website](https://www.klipsch.com/products/rp-1600sw-subwoofer)
     - [Reddit Search for Klipsch RP-1600SW](https://www.reddit.com/search/?q=Klipsch+RP-1600SW)
@@ -1311,7 +1262,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.7 dB
 - Warranty: 5
 - Weight: 174.2lbs / 79.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M-212 Website](https://www.monoprice.com/product?p_id=38544)
     - [Reddit Search for Monoprice Monolith M-212](https://www.reddit.com/search/?q=Monoprice+Monolith+M-212)
@@ -1337,7 +1287,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 119.2 dB
 - Warranty: 5
 - Weight: 153.2lbs / 69.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB-4000 Website](https://www.svsound.com/products/pb-4000)
     - [Reddit Search for SVS PB-4000](https://www.reddit.com/search/?q=SVS+PB-4000)
@@ -1359,7 +1308,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 123.0 dB
 - Warranty: 5
 - Weight: 102.3lbs / 46.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB-4000 Website](https://www.svsound.com/products/sb-4000)
     - [Reddit Search for SVS SB-4000](https://www.reddit.com/search/?q=SVS+SB-4000)
@@ -1387,7 +1335,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.7 dB
 - Warranty: 5
 - Weight: 132.9lbs / 60.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M-15 V2 Website](https://www.monoprice.com/product?p_id=42851)
     - [Reddit Search for Monoprice Monolith M-15 V2](https://www.reddit.com/search/?q=Monoprice+Monolith+M-15+V2)
@@ -1414,7 +1361,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 122.3 dB
 - Warranty: 10/5
 - Weight: 91.27lbs / 41.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1723 Subwoofer 2S Website](https://arendalsound.com/product/1723-subwoofer-2s/)
     - [Reddit Search for Arendal 1723 Subwoofer 2S](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+2S)
@@ -1440,7 +1386,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.3 dB
 - Warranty: 5
 - Weight: 155.0lbs / 70.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB13-Ultra Website](https://www.svsound.com/products/pb13-ultra)
     - [Reddit Search for SVS PB13-Ultra](https://www.reddit.com/search/?q=SVS+PB13-Ultra)
@@ -1463,7 +1408,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 119.9 dB
 - Warranty: 5
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PC13-Ultra Website](https://www.svsound.com/products/pc13-ultra)
     - [Reddit Search for SVS PC13-Ultra](https://www.reddit.com/search/?q=SVS+PC13-Ultra)
@@ -1485,7 +1429,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 119.6 dB
 - Warranty: 5
 - Weight: 83.0lbs / 37.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV15SE Website](https://www.powersoundaudio.com/pages/xv15se?_pos=1&_sid=bcd999aa6&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XV15SE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15SE)
@@ -1513,7 +1456,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.2 dB
 - Warranty: 5/3
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Rythmik F18 Website](http://www.rythmikaudio.com/F18.html)
     - [Reddit Search for Rythmik F18](https://www.reddit.com/search/?q=Rythmik+F18)
@@ -1539,7 +1481,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 121.4 dB
 - Warranty: 5
 - Weight: 106.0lbs / 48.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Perlisten Audio R212s Website](https://www.perlistenaudio.com/products/r212s/)
     - [Reddit Search for Perlisten Audio R212s](https://www.reddit.com/search/?q=Perlisten+Audio+R212s)
@@ -1566,7 +1507,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.9 dB
 - Warranty: 5
 - Weight: 80.0lbs / 36.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Monoprice Monolith M15-S](https://www.reddit.com/search/?q=Monoprice+Monolith+M15-S)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M15-S/)
@@ -1593,7 +1533,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 119.0 dB
 - Warranty: 5
 - Weight: 122.0lbs / 55.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB16-Ultra Website](https://www.svsound.com/products/sb16-ultra)
     - [Reddit Search for SVS SB16-Ultra](https://www.reddit.com/search/?q=SVS+SB16-Ultra)
@@ -1618,7 +1557,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 119.2 dB
 - Warranty: 3
 - Weight: 130.0lbs / 59.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for JL Audio Fathom f113](https://www.reddit.com/search/?q=JL+Audio+Fathom+f113)
     - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-Fathom-f113/)
@@ -1639,7 +1577,6 @@ Last updated: March 17, 2026
 - Output SPL at 50 Hz: 118.9 dB
 - Output SPL at 63 Hz: 118.2 dB
 - Weight: 120.0lbs / 54.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Velodyne Acoustics DD-15+ Website](https://www.velodyneacoustics.com/en/products/digital-drive-plus/)
     - [Reddit Search for Velodyne Acoustics DD-15+](https://www.reddit.com/search/?q=Velodyne+Acoustics+DD-15%2B)
@@ -1666,7 +1603,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 118.0 dB
 - Output SPL at 80 Hz: 118.0 dB
 - Weight: 86.0lbs / 39.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Harbottle Audio C18 L1 Website](https://www.harbottleaudio.com/product-page/c18)
     - [Reddit Search for Harbottle Audio C18 L1](https://www.reddit.com/search/?q=Harbottle+Audio+C18+L1)
@@ -1692,7 +1628,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.5 dB
 - Warranty: 7/2(+3)
 - Weight: 123.0lbs / 55.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-15H Website](https://web.archive.org/web/20200224160709/http://www.hsuresearch.com/products/vtf-15h.html)
     - [Reddit Search for HSU Research VTF-15H](https://www.reddit.com/search/?q=HSU+Research+VTF-15H)
@@ -1719,7 +1654,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 118.3 dB
 - Output SPL at 80 Hz: 116.5 dB
 - Weight: 142.0lbs / 64.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Velodyne Acoustics DD-18+ Website](https://www.velodyneacoustics.com/en/products/digital-drive-plus/)
     - [Reddit Search for Velodyne Acoustics DD-18+](https://www.reddit.com/search/?q=Velodyne+Acoustics+DD-18%2B)
@@ -1747,7 +1681,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 120.3 dB
 - Warranty: 5
 - Weight: 92.0lbs / 41.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB13-Ultra Website](https://www.svsound.com/products/sb13-ultra)
     - [Reddit Search for SVS SB13-Ultra](https://www.reddit.com/search/?q=SVS+SB13-Ultra)
@@ -1773,7 +1706,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.1 dB
 - Warranty: 3
 - Weight: 105.0lbs / 47.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Outlaw Audio Ultra-X13 Website](https://web.archive.org/web/20210121060252/https://outlawaudio.com/shop/speakers-subwoofers/33-ultra-x13.html)
     - [Reddit Search for Outlaw Audio Ultra-X13](https://www.reddit.com/search/?q=Outlaw+Audio+Ultra-X13)
@@ -1799,7 +1731,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.4 dB
 - Warranty: 3
 - Weight: 99.7lbs / 45.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [REL Acoustics HT/1510 Predator II Website](https://rel.net/shop/powered-subwoofers/serie-ht/ht-1510-predator/)
     - [Reddit Search for REL Acoustics HT/1510 Predator II](https://www.reddit.com/search/?q=REL+Acoustics+HT%2F1510+Predator+II)
@@ -1821,7 +1752,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 118.3 dB
 - Warranty: 5
 - Weight: 127.0lbs / 57.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB12-Plus Website](https://www.svsound.com/products/pb12-plus)
     - [Reddit Search for SVS PB12-Plus](https://www.reddit.com/search/?q=SVS+PB12-Plus)
@@ -1845,7 +1775,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.6 dB
 - Warranty: 2(+3)
 - Weight: 178.57lbs / 81.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Genelec 7071A Website](https://www.genelec.com/previous-models/7071a)
     - [Reddit Search for Genelec 7071A](https://www.reddit.com/search/?q=Genelec+7071A)
@@ -1870,7 +1799,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 120.5 dB
 - Warranty: 3/1
 - Weight: 77.0lbs / 34.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [ELAC SUB3070 Website](https://www.elac.com/series/powered-subwoofers/sub-3070/)
     - [Reddit Search for ELAC SUB3070](https://www.reddit.com/search/?q=ELAC+SUB3070)
@@ -1893,7 +1821,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 121.0 dB
 - Output SPL at 80 Hz: 120.8 dB
 - Weight: 87.0lbs / 39.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Premier Acoustics PA-150](https://www.reddit.com/search/?q=Premier+Acoustics+PA-150)
     - [Direct Speakerranking Link](/subwoofer/speakers/Premier-Acoustics-PA-150/)
@@ -1919,7 +1846,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.2 dB
 - Warranty: 5
 - Weight: 162.0lbs / 73.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M-210 Website](https://www.monoprice.com/product?p_id=38545)
     - [Reddit Search for Monoprice Monolith M-210](https://www.reddit.com/search/?q=Monoprice+Monolith+M-210)
@@ -1942,7 +1868,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 117.3 dB
 - Warranty: 5/2
 - Weight: 75.4lbs / 34.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch R-115SW Website](https://www.klipsch.ca/products/r-115sw)
     - [Reddit Search for Klipsch R-115SW](https://www.reddit.com/search/?q=Klipsch+R-115SW)
@@ -1962,7 +1887,6 @@ Last updated: March 17, 2026
 - Output SPL at 50 Hz: 116.9 dB
 - Output SPL at 63 Hz: 116.1 dB
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Funkywaves FW 12.X](https://www.reddit.com/search/?q=Funkywaves+FW+12.X)
     - [Direct Speakerranking Link](/subwoofer/speakers/Funkywaves-FW-12.X/)
@@ -1988,7 +1912,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 118.5 dB
 - Warranty: 10/5
 - Weight: 106.04lbs / 48.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1723 Subwoofer 1V Website](https://arendalsound.com/product/1723-subwoofer-1v/)
     - [Reddit Search for Arendal 1723 Subwoofer 1V](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+1V)
@@ -2010,7 +1933,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 117.2 dB
 - Warranty: 5
 - Weight: 80.6lbs / 36.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kreisel Sound DXD-12012 Website](https://www.kreiselsound.com/subDXD12012.php)
     - [Reddit Search for Kreisel Sound DXD-12012](https://www.reddit.com/search/?q=Kreisel+Sound+DXD-12012)
@@ -2035,7 +1957,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 114.8 dB
 - Warranty: 3
 - Weight: 121.0lbs / 54.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Prestige 2000SW Website](https://www.paradigm.com/en/sealed/prestige-2000sw)
     - [Reddit Search for Paradigm Prestige 2000SW](https://www.reddit.com/search/?q=Paradigm+Prestige+2000SW)
@@ -2060,7 +1981,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 117.3 dB
 - Warranty: 10/5
 - Weight: 79.58lbs / 36.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1961 Subwoofer 1V Website](https://arendalsound.com/product/1961-subwoofer-1v/)
     - [Reddit Search for Arendal 1961 Subwoofer 1V](https://www.reddit.com/search/?q=Arendal+1961+Subwoofer+1V)
@@ -2089,7 +2009,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 116.0 dB
 - Warranty: 5
 - Weight: 98.5lbs / 44.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 12 THX Ultra Website](https://web.archive.org/web/20211221131837/https://www.monoprice.com/product?p_id=24457)
     - [Reddit Search for Monoprice Monolith 12 THX Ultra](https://www.reddit.com/search/?q=Monoprice+Monolith+12+THX+Ultra)
@@ -2116,7 +2035,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 115.4 dB
 - Warranty: 5
 - Weight: 98.3lbs / 44.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M-12 V2 Website](https://www.monoprice.com/product?p_id=42847)
     - [Reddit Search for Monoprice Monolith M-12 V2](https://www.reddit.com/search/?q=Monoprice+Monolith+M-12+V2)
@@ -2140,7 +2058,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 118.5 dB
 - Output SPL at 80 Hz: 123.2 dB
 - Weight: 88.0lbs / 39.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Cadence Sound CSX-15 MKII](https://www.reddit.com/search/?q=Cadence+Sound+CSX-15+MKII)
     - [Direct Speakerranking Link](/subwoofer/speakers/Cadence-Sound-CSX-15-MKII/)
@@ -2162,7 +2079,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 114.0 dB
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-3 MK3 Website](https://web.archive.org/web/20200219132111/http://www.hsuresearch.com/products/vtf-3-mk3.html)
     - [Reddit Search for HSU Research VTF-3 MK3](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK3)
@@ -2187,7 +2103,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 113.1 dB
 - Warranty: ?
 - Weight: 82.0lbs / 37.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RSL (Rogersound Labs) Speedwoofer 12S Website](https://rslspeakers.com/products/the-speedwoofer-12s/)
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 12S](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+12S)
@@ -2210,7 +2125,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 113.5 dB
 - Output SPL at 80 Hz: 113.8 dB
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-3 MK3 with Turbocharger Website](https://web.archive.org/web/20160805032014/http://www.hsuresearch.com/products/vtf-3-mk3-turbo.html)
     - [Reddit Search for HSU Research VTF-3 MK3 with Turbocharger](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK3+with+Turbocharger)
@@ -2237,7 +2151,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 113.8 dB
 - Warranty: 5
 - Weight: 98.5lbs / 44.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M12-S Website](https://web.archive.org/web/20200312174109/https://www.monoprice.com/product?p_id=35142)
     - [Reddit Search for Monoprice Monolith M12-S](https://www.reddit.com/search/?q=Monoprice+Monolith+M12-S)
@@ -2260,7 +2173,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 113.0 dB
 - Output SPL at 80 Hz: 112.0 dB
 - Weight: 100.0lbs / 45.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Velodyne Acoustics DD-15](https://www.reddit.com/search/?q=Velodyne+Acoustics+DD-15)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-DD-15/)
@@ -2283,7 +2195,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 112.6 dB
 - Warranty: 2(+3)
 - Weight: 110.23lbs / 50.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Genelec 7070A Website](https://www.genelec.com/previous-models/7070a)
     - [Reddit Search for Genelec 7070A](https://www.reddit.com/search/?q=Genelec+7070A)
@@ -2305,7 +2216,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 111.9 dB
 - Output SPL at 80 Hz: 109.1 dB
 - Weight: 108.0lbs / 49.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Magico Audio ASUB Website](https://www.magicoaudio.com/asub)
     - [Reddit Search for Magico Audio ASUB](https://www.reddit.com/search/?q=Magico+Audio+ASUB)
@@ -2329,7 +2239,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 112.3 dB
 - Warranty: 2(+3)
 - Weight: 81.57lbs / 37.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Genelec HTS4B Website](https://www.genelec.com/previous-models/hts4b)
     - [Reddit Search for Genelec HTS4B](https://www.reddit.com/search/?q=Genelec+HTS4B)
@@ -2354,7 +2263,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 107.7 dB
 - Warranty: 2
 - Weight: 103.17lbs / 46.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BK Electronics Monolith-DF Website](https://web.archive.org/web/20080218082447/http://www.bkelec.com/HiFi/Sub_Woofers/monolith-df.htm)
     - [Reddit Search for BK Electronics Monolith-DF](https://www.reddit.com/search/?q=BK+Electronics+Monolith-DF)
@@ -2376,7 +2284,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 108.1 dB
 - Warranty: 5
 - Weight: 95.0lbs / 43.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB13-Plus Website](https://web.archive.org/web/20111215104658/http://www.svsound.com/subwoofers/sealed-box/sb13-plus?page=shop.product_details&flypage=flypage.tpl&product_id=10&category_id=1)
     - [Reddit Search for SVS SB13-Plus](https://www.reddit.com/search/?q=SVS+SB13-Plus)
@@ -2398,7 +2305,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 109.3 dB
 - Output SPL at 80 Hz: 110.5 dB
 - Weight: 98.5lbs / 44.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Monoprice THX 121456](https://www.reddit.com/search/?q=Monoprice+THX+121456)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-THX-121456/)
@@ -2418,7 +2324,6 @@ Last updated: March 17, 2026
 - Output SPL at 50 Hz: 107.0 dB
 - Output SPL at 63 Hz: 108.0 dB
 - Weight: 114.6lbs / 52.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sonus Faber Gravis VI Website](https://www.sonusfaber.com/en/products/gravis-vi)
     - [Reddit Search for Sonus Faber Gravis VI](https://www.reddit.com/search/?q=Sonus+Faber+Gravis+VI)

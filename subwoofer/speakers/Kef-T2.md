@@ -26,7 +26,6 @@ The Kef T2 ranks [#20 out of 42 total Small Powered Home Subwoofers (Under 30 lb
 - Output SPL at 80 Hz: 110.3 dB
 - Warranty: 5/2/5
 - Weight: 5.89lbs / 2.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kef T2 Website](https://us.kef.com/products/t2-subwoofer)
     - [Reddit Search for Kef T2](https://www.reddit.com/search/?q=Kef+T2)

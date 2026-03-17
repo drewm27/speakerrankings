@@ -25,7 +25,6 @@ The RBH Sound S-10 ranks [#97 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 80 Hz: 109.0 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 33.0lbs / 15.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RBH Sound S-10 Website](https://rbhsound.com/s10.php)
     - [Reddit Search for RBH Sound S-10](https://www.reddit.com/search/?q=RBH+Sound+S-10)

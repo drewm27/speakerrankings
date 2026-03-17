@@ -21,7 +21,6 @@ The Funkywaves FW 12.X ranks [#76 out of 95 total Large Powered Home Subwoofers 
 - Output SPL at 50 Hz: 116.9 dB
 - Output SPL at 63 Hz: 116.1 dB
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Funkywaves FW 12.X](https://www.reddit.com/search/?q=Funkywaves+FW+12.X)
 

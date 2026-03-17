@@ -25,7 +25,6 @@ The Velodyne Acoustics CT-150 ranks [#59 out of 136 total Medium Powered Home Su
 - Output SPL at 63 Hz: 115.5 dB
 - Output SPL at 80 Hz: 113.4 dB
 - Weight: 72.0lbs / 32.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Velodyne Acoustics CT-150](https://www.reddit.com/search/?q=Velodyne+Acoustics+CT-150)
 

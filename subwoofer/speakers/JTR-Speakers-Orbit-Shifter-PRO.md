@@ -28,7 +28,6 @@ The JTR Speakers Orbit Shifter PRO ranks [#1 out of 95 total Large Powered Home 
 - Output SPL at 80 Hz: 144.2 dB
 - Warranty: 5
 - Weight: 185.0lbs / 83.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Orbit Shifter PRO Website](https://www.jtrspeakers.com/jtr-orbit-shifter-pro)
     - [Reddit Search for JTR Speakers Orbit Shifter PRO](https://www.reddit.com/search/?q=JTR+Speakers+Orbit+Shifter+PRO)

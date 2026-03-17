@@ -24,7 +24,6 @@ The Monoprice Premium Select 8in 200-Watt ranks [#17 out of 42 total Small Power
 - Output SPL at 63 Hz: 110.7 dB
 - Output SPL at 80 Hz: 111.8 dB
 - Weight: 18.5lbs / 8.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Premium Select 8in 200-Watt Website](https://www.monoprice.com/product?p_id=14567)
     - [Reddit Search for Monoprice Premium Select 8in 200-Watt](https://www.reddit.com/search/?q=Monoprice+Premium+Select+8in+200-Watt)

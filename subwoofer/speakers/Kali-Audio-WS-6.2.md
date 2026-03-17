@@ -23,7 +23,6 @@ The Kali Audio WS-6.2 ranks [#128 out of 136 total Medium Powered Home Subwoofer
 - Output SPL at 63 Hz: 103.4 dB
 - Output SPL at 80 Hz: 110.4 dB
 - Weight: 31.0lbs / 14.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kali Audio WS-6.2 Website](https://www.kaliaudio.com/watts-ws62)
     - [Reddit Search for Kali Audio WS-6.2](https://www.reddit.com/search/?q=Kali+Audio+WS-6.2)

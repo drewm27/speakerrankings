@@ -28,7 +28,6 @@ The Power Sound Audio (PSA) XS15SE ranks [#12 out of 136 total Medium Powered Ho
 - Output SPL at 80 Hz: 119.4 dB
 - Warranty: 5
 - Weight: 67.0lbs / 30.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XS15SE Website](https://www.powersoundaudio.com/pages/xs15se?_pos=2&_sid=9fe3d6283&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XS15SE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS15SE)

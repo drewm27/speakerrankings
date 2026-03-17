@@ -26,7 +26,6 @@ The HSU Research VTF-3 MK5 HP ranks [#41 out of 95 total Large Powered Home Subw
 - Output SPL at 80 Hz: 120.4 dB
 - Warranty: 7/2(+3)
 - Weight: 85.0lbs / 38.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-3 MK5 HP Website](https://www.hsuresearch.com/products/vtf-3mk5HP.html)
     - [Reddit Search for HSU Research VTF-3 MK5 HP](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK5+HP)

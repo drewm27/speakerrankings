@@ -28,7 +28,6 @@ The Monoprice Monolith M15-S ranks [#60 out of 95 total Large Powered Home Subwo
 - Output SPL at 80 Hz: 118.9 dB
 - Warranty: 5
 - Weight: 80.0lbs / 36.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Monoprice Monolith M15-S](https://www.reddit.com/search/?q=Monoprice+Monolith+M15-S)
 

@@ -23,7 +23,6 @@ The Kef R400 ranks [#81 out of 136 total Medium Powered Home Subwoofers (30–75
 - Output SPL at 63 Hz: 113.6 dB
 - Warranty: 5/2/5
 - Weight: 47.39lbs / 21.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kef R400 Website](https://international.kef.com/products/r400b-subwoofer)
     - [Reddit Search for Kef R400](https://www.reddit.com/search/?q=Kef+R400)

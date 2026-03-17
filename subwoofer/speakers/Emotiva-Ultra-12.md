@@ -25,7 +25,6 @@ The Emotiva Ultra 12 ranks [#105 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 80 Hz: 108.0 dB
 - Warranty: 5
 - Weight: 38.0lbs / 17.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Emotiva Ultra 12](https://www.reddit.com/search/?q=Emotiva+Ultra+12)
 

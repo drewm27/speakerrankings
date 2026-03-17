@@ -22,7 +22,6 @@ The REL Acoustics R-528 ranks [#55 out of 136 total Medium Powered Home Subwoofe
 - Output SPL at 63 Hz: 114.6 dB
 - Warranty: 3
 - Weight: 58.0lbs / 26.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [REL Acoustics R-528 Website](https://web.archive.org/web/20130926115034/http://sumikoaudio.net/rel/prod_r528.htm)
     - [Reddit Search for REL Acoustics R-528](https://www.reddit.com/search/?q=REL+Acoustics+R-528)

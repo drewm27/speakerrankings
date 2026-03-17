@@ -27,7 +27,6 @@ The SVS SB-3000 ranks [#9 out of 136 total Medium Powered Home Subwoofers (30–
 - Output SPL at 80 Hz: 120.9 dB
 - Warranty: 5
 - Weight: 54.5lbs / 24.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB-3000 Website](https://www.svsound.com/products/sb-3000)
     - [Reddit Search for SVS SB-3000](https://www.reddit.com/search/?q=SVS+SB-3000)

@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) XV30FSE ranks [#32 out of 95 total Large Powered Hom
 - Output SPL at 63 Hz: 122.3 dB
 - Warranty: 5
 - Weight: 162.0lbs / 73.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV30FSE Website](https://www.powersoundaudio.com/pages/xv30fse)
     - [Reddit Search for Power Sound Audio (PSA) XV30FSE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV30FSE)

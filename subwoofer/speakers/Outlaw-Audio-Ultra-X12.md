@@ -24,7 +24,6 @@ The Outlaw Audio Ultra-X12 ranks [#36 out of 136 total Medium Powered Home Subwo
 - Output SPL at 63 Hz: 116.3 dB
 - Warranty: 3
 - Weight: 66.0lbs / 29.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Outlaw Audio Ultra-X12 Website](https://outlawaudio.com/shop/speakers-subwoofers/34-ultra-x12.html)
     - [Reddit Search for Outlaw Audio Ultra-X12](https://www.reddit.com/search/?q=Outlaw+Audio+Ultra-X12)

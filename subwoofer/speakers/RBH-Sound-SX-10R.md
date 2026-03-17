@@ -26,7 +26,6 @@ The RBH Sound SX-10R ranks [#82 out of 136 total Medium Powered Home Subwoofers 
 - Output SPL at 80 Hz: 111.0 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 45.0lbs / 20.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RBH Sound SX-10R Website](https://rbhsound.com/sx10r.php)
     - [Reddit Search for RBH Sound SX-10R](https://www.reddit.com/search/?q=RBH+Sound+SX-10R)

@@ -28,7 +28,6 @@ The JL Audio E112 ranks [#16 out of 136 total Medium Powered Home Subwoofers (30
 - Output SPL at 80 Hz: 116.7 dB
 - Warranty: 3
 - Weight: 73.5lbs / 33.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JL Audio E112 Website](https://www.jlaudio.com/products/e112-ash-home-audio-e-sub-powered-subwoofers-96280)
     - [Reddit Search for JL Audio E112](https://www.reddit.com/search/?q=JL+Audio+E112)

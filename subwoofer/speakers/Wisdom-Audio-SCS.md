@@ -22,7 +22,6 @@ The Wisdom Audio SCS ranks [#64 out of 136 total Medium Powered Home Subwoofers 
 - Output SPL at 50 Hz: 112.6 dB
 - Output SPL at 63 Hz: 114.6 dB
 - Weight: 72.0lbs / 32.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Wisdom Audio SCS Website](https://www.wisdomaudio.com/product/scs/)
     - [Reddit Search for Wisdom Audio SCS](https://www.reddit.com/search/?q=Wisdom+Audio+SCS)

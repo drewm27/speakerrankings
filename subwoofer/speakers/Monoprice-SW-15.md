@@ -26,7 +26,6 @@ The Monoprice SW-15 ranks [#8 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 80 Hz: 119.5 dB
 - Warranty: 1
 - Weight: 66.1lbs / 30.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice SW-15 Website](https://www.monoprice.com/product?p_id=41499)
     - [Reddit Search for Monoprice SW-15](https://www.reddit.com/search/?q=Monoprice+SW-15)

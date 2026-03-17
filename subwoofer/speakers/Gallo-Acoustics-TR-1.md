@@ -26,7 +26,6 @@ The Gallo Acoustics TR-1 ranks [#30 out of 42 total Small Powered Home Subwoofer
 - Output SPL at 80 Hz: 106.0 dB
 - Warranty: 1
 - Weight: 26.0lbs / 11.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Gallo Acoustics TR-1](https://www.reddit.com/search/?q=Gallo+Acoustics+TR-1)
 

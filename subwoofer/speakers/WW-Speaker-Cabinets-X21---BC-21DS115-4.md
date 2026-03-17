@@ -27,7 +27,6 @@ The WW Speaker Cabinets X21 - B&C 21DS115-4 ranks [#1 out of 10 total Large Pass
 - Output SPL at 80 Hz: 136.3 dB
 - Passive: Yes
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for WW Speaker Cabinets X21 - B&C 21DS115-4](https://www.reddit.com/search/?q=WW+Speaker+Cabinets+X21+-+B%26C+21DS115-4)
 

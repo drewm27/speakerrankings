@@ -23,7 +23,6 @@ The JBL L10cs Classic ranks [#66 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 111.8 dB
 - Weight: 31.0lbs / 14.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JBL L10cs Classic Website](https://www.jbl.com/specialty-subwoofers/L10CS.html)
     - [Reddit Search for JBL L10cs Classic](https://www.reddit.com/search/?q=JBL+L10cs+Classic)

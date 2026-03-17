@@ -35,7 +35,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 136.3 dB
 - Passive: Yes
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for WW Speaker Cabinets X21 - B&C 21DS115-4](https://www.reddit.com/search/?q=WW+Speaker+Cabinets+X21+-+B%26C+21DS115-4)
     - [Direct Speakerranking Link](/subwoofer/speakers/WW-Speaker-Cabinets-X21---BC-21DS115-4/)
@@ -60,7 +59,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 134.4 dB
 - Passive: Yes
 - Weight: 100.0lbs / 45.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for JTR Speakers Growler (2015)](https://www.reddit.com/search/?q=JTR+Speakers+Growler+%282015%29)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Growler-2015/)
@@ -88,7 +86,6 @@ Last updated: March 17, 2026
 - Passive: Yes
 - Warranty: 5
 - Weight: 285.0lbs / 129.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Danley Sound Labs DTS10 Website](https://www.danleysoundlabs.com/products/subwoofers/specialty-subs/dts10/)
     - [Reddit Search for Danley Sound Labs DTS10](https://www.reddit.com/search/?q=Danley+Sound+Labs+DTS10)
@@ -110,7 +107,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 129.2 dB
 - Passive: Yes
 - Weight: 266.0lbs / 120.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Pro Audio Technology LFC-24sm Website](https://www.proaudiotechnology.com/lfc24sm)
     - [Reddit Search for Pro Audio Technology LFC-24sm](https://www.reddit.com/search/?q=Pro+Audio+Technology+LFC-24sm)
@@ -140,7 +136,6 @@ Last updated: March 17, 2026
 - Passive: Yes
 - Warranty: 3
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Classic 18.0 Website](https://www.funkaudio.ca/store/p1/Funk_Audio_-_18.0.html)
     - [Reddit Search for Funk Audio Classic 18.0](https://www.reddit.com/search/?q=Funk+Audio+Classic+18.0)
@@ -167,7 +162,6 @@ Last updated: March 17, 2026
 - Passive: Yes
 - Warranty: 5/3/2
 - Weight: 138.0lbs / 62.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JBL 4645C Website](https://jblpro.com/en/products/4645c)
     - [Reddit Search for JBL 4645C](https://www.reddit.com/search/?q=JBL+4645C)
@@ -191,7 +185,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 126.1 dB
 - Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Reaction Audio PV-15X](https://www.reddit.com/search/?q=Reaction+Audio+PV-15X)
     - [Direct Speakerranking Link](/subwoofer/speakers/Reaction-Audio-PV-15X/)
@@ -216,7 +209,6 @@ Last updated: March 17, 2026
 - Output SPL at 80 Hz: 130.8 dB
 - Passive: Yes
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Chase Home Theater SS18.1](https://www.reddit.com/search/?q=Chase+Home+Theater+SS18.1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Chase-Home-Theater-SS18.1/)
@@ -240,7 +232,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 125.8 dB
 - Output SPL at 80 Hz: 127.0 dB
 - Passive: Yes
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Reaction Audio PS-15X](https://www.reddit.com/search/?q=Reaction+Audio+PS-15X)
     - [Direct Speakerranking Link](/subwoofer/speakers/Reaction-Audio-PS-15X/)
@@ -263,7 +254,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 124.5 dB
 - Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Chase Home Theater VS18.1](https://www.reddit.com/search/?q=Chase+Home+Theater+VS18.1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Chase-Home-Theater-VS18.1/)

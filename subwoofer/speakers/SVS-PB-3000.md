@@ -28,7 +28,6 @@ The SVS PB-3000 ranks [#40 out of 95 total Large Powered Home Subwoofers (Over 7
 - Output SPL at 80 Hz: 120.8 dB
 - Warranty: 5
 - Weight: 82.2lbs / 37.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB-3000 Website](https://www.svsound.com/products/pb-3000)
     - [Reddit Search for SVS PB-3000](https://www.reddit.com/search/?q=SVS+PB-3000)

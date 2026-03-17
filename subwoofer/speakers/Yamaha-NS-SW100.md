@@ -23,7 +23,6 @@ The Yamaha NS-SW100 ranks [#23 out of 42 total Small Powered Home Subwoofers (Un
 - Output SPL at 80 Hz: 110.7 dB
 - Warranty: 2
 - Weight: 26.5lbs / 12.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Yamaha NS-SW100 Website](https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-sw100/index.html)
     - [Reddit Search for Yamaha NS-SW100](https://www.reddit.com/search/?q=Yamaha+NS-SW100)

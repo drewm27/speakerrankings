@@ -27,7 +27,6 @@ The Starke Sound SW15 ranks [#13 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 63 Hz: 119.1 dB
 - Output SPL at 80 Hz: 117.2 dB
 - Weight: 55.0lbs / 24.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Starke Sound SW15 Website](https://www.starkesound.com/detail.html?id=55)
     - [Reddit Search for Starke Sound SW15](https://www.reddit.com/search/?q=Starke+Sound+SW15)

@@ -26,7 +26,6 @@ The Rythmik LV12 ranks [#41 out of 136 total Medium Powered Home Subwoofers (30â
 - Output SPL at 80 Hz: 113.3 dB
 - Warranty: 5/3
 - Weight: 69.0lbs / 31.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Rythmik LV12](https://www.reddit.com/search/?q=Rythmik+LV12)
 

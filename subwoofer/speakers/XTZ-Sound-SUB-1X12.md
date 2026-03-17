@@ -25,7 +25,6 @@ The XTZ Sound SUB 1X12 ranks [#51 out of 136 total Medium Powered Home Subwoofer
 - Output SPL at 80 Hz: 112.4 dB
 - Warranty: 5/2
 - Weight: 54.01lbs / 24.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [XTZ Sound SUB 1X12 Website](https://www.xtzsound.eu/product/sub-1x12)
     - [Reddit Search for XTZ Sound SUB 1X12](https://www.reddit.com/search/?q=XTZ+Sound+SUB+1X12)

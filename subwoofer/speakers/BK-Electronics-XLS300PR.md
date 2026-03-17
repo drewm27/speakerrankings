@@ -25,7 +25,6 @@ The BK Electronics XLS300/PR ranks [#110 out of 136 total Medium Powered Home Su
 - Output SPL at 80 Hz: 108.8 dB
 - Warranty: 2
 - Weight: 55.11lbs / 25.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BK Electronics XLS300/PR Website](https://web.archive.org/web/20080218082442/http://www.bkelec.com/HiFi/Sub_Woofers/XLS300PR.htm)
     - [Reddit Search for BK Electronics XLS300/PR](https://www.reddit.com/search/?q=BK+Electronics+XLS300%2FPR)

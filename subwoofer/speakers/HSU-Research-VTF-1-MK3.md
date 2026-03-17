@@ -26,7 +26,6 @@ The HSU Research VTF-1 MK3 ranks [#39 out of 136 total Medium Powered Home Subwo
 - Output SPL at 80 Hz: 113.6 dB
 - Warranty: 7/2(+3)
 - Weight: 42.0lbs / 19.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-1 MK3 Website](https://web.archive.org/web/20171123062301if_/http://www.hsuresearch.com/products/vtf-1mk3.html)
     - [Reddit Search for HSU Research VTF-1 MK3](https://www.reddit.com/search/?q=HSU+Research+VTF-1+MK3)

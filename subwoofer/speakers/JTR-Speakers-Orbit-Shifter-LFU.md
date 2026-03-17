@@ -27,7 +27,6 @@ The JTR Speakers Orbit Shifter LFU ranks [#2 out of 95 total Large Powered Home 
 - Output SPL at 63 Hz: 134.4 dB
 - Output SPL at 80 Hz: 137.8 dB
 - Weight: 177.0lbs / 80.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for JTR Speakers Orbit Shifter LFU](https://www.reddit.com/search/?q=JTR+Speakers+Orbit+Shifter+LFU)
 

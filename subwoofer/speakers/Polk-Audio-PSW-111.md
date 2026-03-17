@@ -24,7 +24,6 @@ The Polk Audio PSW 111 ranks [#19 out of 42 total Small Powered Home Subwoofers 
 - Output SPL at 80 Hz: 110.0 dB
 - Warranty: 5/3
 - Weight: 20.3lbs / 9.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Polk Audio PSW 111 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/psw-111/112489.html)
     - [Reddit Search for Polk Audio PSW 111](https://www.reddit.com/search/?q=Polk+Audio+PSW+111)

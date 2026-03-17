@@ -24,7 +24,6 @@ The Sonos Sub Mini ranks [#35 out of 42 total Small Powered Home Subwoofers (Und
 - Output SPL at 80 Hz: 103.5 dB
 - Warranty: 1
 - Weight: 14.0lbs / 6.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sonos Sub Mini Website](https://www.sonos.com/en-us/shop/sub-mini)
     - [Reddit Search for Sonos Sub Mini](https://www.reddit.com/search/?q=Sonos+Sub+Mini)

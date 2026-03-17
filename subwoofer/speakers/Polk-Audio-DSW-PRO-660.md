@@ -25,7 +25,6 @@ The Polk Audio DSW PRO 660 ranks [#49 out of 136 total Medium Powered Home Subwo
 - Output SPL at 80 Hz: 114.9 dB
 - Warranty: 5/3
 - Weight: 45.0lbs / 20.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Polk Audio DSW PRO 660 Website](https://www.polkaudio.com/en/subwoofers/dsw-pro-660-wi?varId=747192120269)
     - [Reddit Search for Polk Audio DSW PRO 660](https://www.reddit.com/search/?q=Polk+Audio+DSW+PRO+660)

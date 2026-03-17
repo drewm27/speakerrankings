@@ -23,7 +23,6 @@ The XTZ Sound 99 W12S ranks [#37 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 63 Hz: 117.3 dB
 - Output SPL at 80 Hz: 117.4 dB
 - Weight: 67.24lbs / 30.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for XTZ Sound 99 W12S](https://www.reddit.com/search/?q=XTZ+Sound+99+W12S)
 

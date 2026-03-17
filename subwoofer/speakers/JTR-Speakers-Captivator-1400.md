@@ -28,7 +28,6 @@ The JTR Speakers Captivator 1400 ranks [#20 out of 95 total Large Powered Home S
 - Output SPL at 80 Hz: 124.0 dB
 - Warranty: 5/3
 - Weight: 142.0lbs / 64.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 1400 Website](https://web.archive.org/web/20191130020139/http://www.jtrspeakers.com/captivator-1400.html)
     - [Reddit Search for JTR Speakers Captivator 1400](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+1400)

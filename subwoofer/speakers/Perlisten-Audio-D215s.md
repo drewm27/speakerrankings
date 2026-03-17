@@ -29,7 +29,6 @@ The Perlisten Audio D215s ranks [#25 out of 95 total Large Powered Home Subwoofe
 - Output SPL at 80 Hz: 125.0 dB
 - Warranty: 5
 - Weight: 202.4lbs / 91.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Perlisten Audio D215s Website](https://www.perlistenaudio.com/products/d215s/)
     - [Reddit Search for Perlisten Audio D215s](https://www.reddit.com/search/?q=Perlisten+Audio+D215s)

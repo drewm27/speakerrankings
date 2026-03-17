@@ -26,7 +26,6 @@ The HSU Research VTF-15H MK2 ranks [#39 out of 95 total Large Powered Home Subwo
 - Output SPL at 80 Hz: 120.5 dB
 - Warranty: 7/2(+3)
 - Weight: 110.0lbs / 49.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-15H MK2 Website](https://www.hsuresearch.com/products/vtf-15hmk2.html)
     - [Reddit Search for HSU Research VTF-15H MK2](https://www.reddit.com/search/?q=HSU+Research+VTF-15H+MK2)

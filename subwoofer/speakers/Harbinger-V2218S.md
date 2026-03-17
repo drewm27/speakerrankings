@@ -25,7 +25,6 @@ The Harbinger V2218S ranks [#26 out of 95 total Large Powered Home Subwoofers (O
 - Output SPL at 63 Hz: 126.2 dB
 - Output SPL at 80 Hz: 125.7 dB
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Harbinger V2218S Website](https://harbingerproaudio.com/v2218s-powered-subwoofer/)
     - [Reddit Search for Harbinger V2218S](https://www.reddit.com/search/?q=Harbinger+V2218S)

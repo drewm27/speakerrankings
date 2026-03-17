@@ -22,7 +22,6 @@ The HSU Research VTF-1 MK2 ranks [#53 out of 136 total Medium Powered Home Subwo
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 113.0 dB
 - Weight: 42.0lbs / 19.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-1 MK2 Website](https://web.archive.org/web/20201224025728/http://www.hsuresearch.com/products/vtf-1mk2.html)
     - [Reddit Search for HSU Research VTF-1 MK2](https://www.reddit.com/search/?q=HSU+Research+VTF-1+MK2)

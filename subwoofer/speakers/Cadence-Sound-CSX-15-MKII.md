@@ -25,7 +25,6 @@ The Cadence Sound CSX-15 MKII ranks [#83 out of 95 total Large Powered Home Subw
 - Output SPL at 63 Hz: 118.5 dB
 - Output SPL at 80 Hz: 123.2 dB
 - Weight: 88.0lbs / 39.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Cadence Sound CSX-15 MKII](https://www.reddit.com/search/?q=Cadence+Sound+CSX-15+MKII)
 

@@ -24,7 +24,6 @@ The ELAC SUB1010 ranks [#11 out of 42 total Small Powered Home Subwoofers (Under
 - Output SPL at 80 Hz: 111.9 dB
 - Warranty: 3/1
 - Weight: 21.8lbs / 9.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [ELAC SUB1010 Website](https://www.elac.com/series/powered-subwoofers/sub1010-10-powered-subwoofer/)
     - [Reddit Search for ELAC SUB1010](https://www.reddit.com/search/?q=ELAC+SUB1010)

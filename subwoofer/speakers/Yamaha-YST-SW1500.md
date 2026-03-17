@@ -25,7 +25,6 @@ The Yamaha YST-SW1500 ranks [#26 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 80 Hz: 118.8 dB
 - Warranty: 2?
 - Weight: 63.93lbs / 29.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Yamaha YST-SW1500](https://www.reddit.com/search/?q=Yamaha+YST-SW1500)
 

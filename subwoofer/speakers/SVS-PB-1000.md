@@ -27,7 +27,6 @@ The SVS PB-1000 ranks [#73 out of 136 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 80 Hz: 110.7 dB
 - Warranty: 5
 - Weight: 46.0lbs / 20.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB-1000 Website](https://www.svsound.com/search?q=%26quot%3Bpb-1000%26quot%3B)
     - [Reddit Search for SVS PB-1000](https://www.reddit.com/search/?q=SVS+PB-1000)

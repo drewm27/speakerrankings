@@ -22,7 +22,6 @@ The GoldenEar ForceField 3 ranks [#6 out of 42 total Small Powered Home Subwoofe
 - Output SPL at 63 Hz: 112.4 dB
 - Warranty: 5/3
 - Weight: 26.0lbs / 11.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [GoldenEar ForceField 3 Website](https://www.goldenear.com/subwoofers/forcefield-series/forcefield-3)
     - [Reddit Search for GoldenEar ForceField 3](https://www.reddit.com/search/?q=GoldenEar+ForceField+3)

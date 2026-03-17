@@ -21,7 +21,6 @@ The THIEL Audio SmartSub 1.12 ranks [#71 out of 136 total Medium Powered Home Su
 - Output SPL at 50 Hz: 111.9 dB
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 111.1 dB
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for THIEL Audio SmartSub 1.12](https://www.reddit.com/search/?q=THIEL+Audio+SmartSub+1.12)
 

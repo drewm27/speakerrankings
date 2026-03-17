@@ -23,7 +23,6 @@ The ELAC PS350 ranks [#62 out of 136 total Medium Powered Home Subwoofers (30–
 - Output SPL at 63 Hz: 114.1 dB
 - Output SPL at 80 Hz: 110.9 dB
 - Weight: 48.06lbs / 21.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [ELAC PS350 Website](https://www.elac.com/series/varro/premium/ps350-12-subwoofer/)
     - [Reddit Search for ELAC PS350](https://www.reddit.com/search/?q=ELAC+PS350)

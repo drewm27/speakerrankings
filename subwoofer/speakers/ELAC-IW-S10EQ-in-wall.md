@@ -27,7 +27,6 @@ The ELAC IW-S10EQ in-wall ranks [#2 out of 3 total Small Passive Home Subwoofers
 - Passive: Yes
 - Warranty: 3/1
 - Weight: 14.24lbs / 6.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [ELAC IW-S10EQ in-wall Website](https://www.elac.com/series/integrator/eq-iw-s10eq-w/)
     - [Reddit Search for ELAC IW-S10EQ in-wall](https://www.reddit.com/search/?q=ELAC+IW-S10EQ+in-wall)

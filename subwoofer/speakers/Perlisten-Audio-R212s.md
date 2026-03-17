@@ -27,7 +27,6 @@ The Perlisten Audio R212s ranks [#59 out of 95 total Large Powered Home Subwoofe
 - Output SPL at 80 Hz: 121.4 dB
 - Warranty: 5
 - Weight: 106.0lbs / 48.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Perlisten Audio R212s Website](https://www.perlistenaudio.com/products/r212s/)
     - [Reddit Search for Perlisten Audio R212s](https://www.reddit.com/search/?q=Perlisten+Audio+R212s)

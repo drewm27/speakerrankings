@@ -23,7 +23,6 @@ The HSU Research MBM-12 ranks [#33 out of 136 total Medium Powered Home Subwoofe
 - Output SPL at 63 Hz: 116.9 dB
 - Output SPL at 80 Hz: 118.1 dB
 - Weight: 47.0lbs / 21.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research MBM-12 Website](https://web.archive.org/web/20070301180541if_/http://www.hsuresearch.com/products/mbm-12.html)
     - [Reddit Search for HSU Research MBM-12](https://www.reddit.com/search/?q=HSU+Research+MBM-12)

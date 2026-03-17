@@ -29,7 +29,6 @@ The SVS PC-2000 ranks [#43 out of 136 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 80 Hz: 112.9 dB
 - Warranty: 5
 - Weight: 50.0lbs / 22.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PC-2000 Website](https://www.svsound.com/products/pc-2000)
     - [Reddit Search for SVS PC-2000](https://www.reddit.com/search/?q=SVS+PC-2000)

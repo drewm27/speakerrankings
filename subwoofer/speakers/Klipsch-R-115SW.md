@@ -24,7 +24,6 @@ The Klipsch R-115SW ranks [#75 out of 95 total Large Powered Home Subwoofers (Ov
 - Output SPL at 63 Hz: 117.3 dB
 - Warranty: 5/2
 - Weight: 75.4lbs / 34.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch R-115SW Website](https://www.klipsch.ca/products/r-115sw)
     - [Reddit Search for Klipsch R-115SW](https://www.reddit.com/search/?q=Klipsch+R-115SW)

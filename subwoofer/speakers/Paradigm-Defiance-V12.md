@@ -25,7 +25,6 @@ The Paradigm Defiance V12 ranks [#75 out of 136 total Medium Powered Home Subwoo
 - Output SPL at 80 Hz: 110.8 dB
 - Warranty: 3
 - Weight: 42.0lbs / 19.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Defiance V12 Website](https://www.paradigm.com/en/ported/defiance-v12)
     - [Reddit Search for Paradigm Defiance V12](https://www.reddit.com/search/?q=Paradigm+Defiance+V12)

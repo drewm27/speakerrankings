@@ -25,7 +25,6 @@ The Rythmik F12 ranks [#50 out of 136 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 80 Hz: 113.6 dB
 - Warranty: 5/3
 - Weight: 75.0lbs / 34.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Rythmik F12 Website](http://www.rythmikaudio.com/F12.html)
     - [Reddit Search for Rythmik F12](https://www.reddit.com/search/?q=Rythmik+F12)

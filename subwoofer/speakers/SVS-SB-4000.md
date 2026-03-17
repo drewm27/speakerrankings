@@ -23,7 +23,6 @@ The SVS SB-4000 ranks [#52 out of 95 total Large Powered Home Subwoofers (Over 7
 - Output SPL at 63 Hz: 123.0 dB
 - Warranty: 5
 - Weight: 102.3lbs / 46.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB-4000 Website](https://www.svsound.com/products/sb-4000)
     - [Reddit Search for SVS SB-4000](https://www.reddit.com/search/?q=SVS+SB-4000)

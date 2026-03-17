@@ -20,7 +20,6 @@ The Velodyne Acoustics EQ-Max8 ranks [#117 out of 136 total Medium Powered Home 
 - Output SPL at 50 Hz: 107.6 dB
 - Output SPL at 63 Hz: 107.2 dB
 - Weight: 44.0lbs / 20.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Velodyne Acoustics EQ-Max8 Website](https://www.velodyneacoustics.com/eq-max-series/)
     - [Reddit Search for Velodyne Acoustics EQ-Max8](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max8)

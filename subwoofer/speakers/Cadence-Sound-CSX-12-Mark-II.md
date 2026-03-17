@@ -22,7 +22,6 @@ The Cadence Sound CSX-12 Mark II ranks [#27 out of 136 total Medium Powered Home
 - Output SPL at 50 Hz: 115.9 dB
 - Output SPL at 63 Hz: 119.6 dB
 - Weight: 64.0lbs / 29.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Cadence Sound CSX-12 Mark II](https://www.reddit.com/search/?q=Cadence+Sound+CSX-12+Mark+II)
 

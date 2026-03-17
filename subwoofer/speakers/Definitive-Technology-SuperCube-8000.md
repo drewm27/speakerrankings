@@ -24,7 +24,6 @@ The Definitive Technology SuperCube 8000 ranks [#69 out of 136 total Medium Powe
 - Output SPL at 63 Hz: 111.2 dB
 - Warranty: 5/3
 - Weight: 67.0lbs / 30.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Definitive Technology SuperCube 8000 Website](https://web.archive.org/web/20210410115545/https://www.definitivetechnology.com/products/supercube-8000)
     - [Reddit Search for Definitive Technology SuperCube 8000](https://www.reddit.com/search/?q=Definitive+Technology+SuperCube+8000)

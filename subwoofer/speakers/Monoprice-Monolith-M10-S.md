@@ -28,7 +28,6 @@ The Monoprice Monolith M10-S ranks [#93 out of 136 total Medium Powered Home Sub
 - Output SPL at 80 Hz: 110.8 dB
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M10-S Website](https://web.archive.org/web/20201111204930/https://www.monoprice.com/product?p_id=35143)
     - [Reddit Search for Monoprice Monolith M10-S](https://www.reddit.com/search/?q=Monoprice+Monolith+M10-S)

@@ -24,7 +24,6 @@ The Dayton Audio MKSX4 ranks [#1 out of 3 total Small Passive Home Subwoofers (U
 - Passive: Yes
 - Warranty: 5
 - Weight: 26.85lbs / 12.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Dayton Audio MKSX4 Website](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)
     - [Reddit Search for Dayton Audio MKSX4](https://www.reddit.com/search/?q=Dayton+Audio+MKSX4)

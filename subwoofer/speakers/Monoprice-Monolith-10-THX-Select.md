@@ -29,7 +29,6 @@ The Monoprice Monolith 10 THX Select ranks [#70 out of 136 total Medium Powered 
 - Output SPL at 80 Hz: 112.0 dB
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 10 THX Select Website](https://www.monoprice.com/product?p_id=24456)
     - [Reddit Search for Monoprice Monolith 10 THX Select](https://www.reddit.com/search/?q=Monoprice+Monolith+10+THX+Select)

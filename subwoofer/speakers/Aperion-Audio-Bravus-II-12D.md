@@ -26,7 +26,6 @@ The Aperion Audio Bravus II 12D ranks [#40 out of 136 total Medium Powered Home 
 - Output SPL at 80 Hz: 113.7 dB
 - Warranty: 10/2
 - Weight: 62.0lbs / 28.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Aperion Audio Bravus II 12D Website](https://www.aperionaudio.com/products/b12d)
     - [Reddit Search for Aperion Audio Bravus II 12D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+II+12D)

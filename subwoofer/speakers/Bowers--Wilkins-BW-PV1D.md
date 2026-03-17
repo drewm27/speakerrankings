@@ -25,7 +25,6 @@ The Bowers & Wilkins (B&W) PV1D ranks [#12 out of 42 total Small Powered Home Su
 - Output SPL at 63 Hz: 110.3 dB
 - Warranty: 2
 - Weight: 8.48lbs / 3.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Bowers & Wilkins (B&W) PV1D Website](https://www.bowerswilkins.com/home-audio/pv1d)
     - [Reddit Search for Bowers & Wilkins (B&W) PV1D](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+PV1D)

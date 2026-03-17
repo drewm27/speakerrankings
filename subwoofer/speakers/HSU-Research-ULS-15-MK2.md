@@ -29,7 +29,6 @@ The HSU Research ULS-15 MK2 ranks [#3 out of 136 total Medium Powered Home Subwo
 - Output SPL at 80 Hz: 121.1 dB
 - Warranty: 7/2(+3)
 - Weight: 65.0lbs / 29.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research ULS-15 MK2 Website](https://www.hsuresearch.com/products/uls-15mk2.html)
     - [Reddit Search for HSU Research ULS-15 MK2](https://www.reddit.com/search/?q=HSU+Research+ULS-15+MK2)

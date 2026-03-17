@@ -29,7 +29,6 @@ The JTR Speakers Captivator 2400ULF ranks [#29 out of 95 total Large Powered Hom
 - Output SPL at 80 Hz: 121.6 dB
 - Warranty: 5/3
 - Weight: 165.0lbs / 74.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 2400ULF Website](https://www.jtrspeakers.com/jtr-captivator-2400ulf)
     - [Reddit Search for JTR Speakers Captivator 2400ULF](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+2400ULF)

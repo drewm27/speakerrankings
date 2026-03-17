@@ -26,7 +26,6 @@ The Monoprice 10in Powered Studio Multimedia ranks [#80 out of 136 total Medium 
 - Output SPL at 80 Hz: 115.2 dB
 - Warranty: 1
 - Weight: 44.0lbs / 20.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice 10in Powered Studio Multimedia Website](https://web.archive.org/web/20230611225539/https://www.monoprice.com/product?p_id=605999)
     - [Reddit Search for Monoprice 10in Powered Studio Multimedia](https://www.reddit.com/search/?q=Monoprice+10in+Powered+Studio+Multimedia)

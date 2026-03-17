@@ -24,7 +24,6 @@ The REL Acoustics Tzero MKIII ranks [#42 out of 42 total Small Powered Home Subw
 - Output SPL at 80 Hz: 92.1 dB
 - Warranty: 3
 - Weight: 15.0lbs / 6.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [REL Acoustics Tzero MKIII Website](https://rel.net/shop/powered-subwoofers/serie-t/tzero-mkiii/)
     - [Reddit Search for REL Acoustics Tzero MKIII](https://www.reddit.com/search/?q=REL+Acoustics+Tzero+MKIII)

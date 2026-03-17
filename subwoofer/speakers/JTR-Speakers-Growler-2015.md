@@ -27,7 +27,6 @@ The JTR Speakers Growler (2015) ranks [#2 out of 10 total Large Passive Home Sub
 - Output SPL at 80 Hz: 134.4 dB
 - Passive: Yes
 - Weight: 100.0lbs / 45.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for JTR Speakers Growler (2015)](https://www.reddit.com/search/?q=JTR+Speakers+Growler+%282015%29)
 

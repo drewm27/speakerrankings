@@ -24,7 +24,6 @@ The Audio Pro Level 110 ranks [#127 out of 136 total Medium Powered Home Subwoof
 - Output SPL at 63 Hz: 105.7 dB
 - Output SPL at 80 Hz: 105.8 dB
 - Weight: 37.03lbs / 16.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Audio Pro Level 110](https://www.reddit.com/search/?q=Audio+Pro+Level+110)
 

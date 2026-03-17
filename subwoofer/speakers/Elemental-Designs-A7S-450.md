@@ -26,7 +26,6 @@ The Elemental Designs A7S-450 ranks [#31 out of 95 total Large Powered Home Subw
 - Output SPL at 63 Hz: 123.1 dB
 - Output SPL at 80 Hz: 121.3 dB
 - Weight: 140.0lbs / 63.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Elemental Designs A7S-450](https://www.reddit.com/search/?q=Elemental+Designs+A7S-450)
 

@@ -24,7 +24,6 @@ The Sigberg Audio INKOGNITO 12 ranks [#1 out of 42 total Small Powered Home Subw
 - Output SPL at 63 Hz: 115.0 dB
 - Output SPL at 80 Hz: 116.0 dB
 - Weight: 9.97lbs / 4.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sigberg Audio INKOGNITO 12 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
     - [Reddit Search for Sigberg Audio INKOGNITO 12](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+12)

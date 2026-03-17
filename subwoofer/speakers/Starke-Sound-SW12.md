@@ -26,7 +26,6 @@ The Starke Sound SW12 ranks [#42 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 63 Hz: 114.2 dB
 - Output SPL at 80 Hz: 113.7 dB
 - Weight: 39.5lbs / 17.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Starke Sound SW12 Website](https://www.starkesound.com/detail.html?id=41)
     - [Reddit Search for Starke Sound SW12](https://www.reddit.com/search/?q=Starke+Sound+SW12)

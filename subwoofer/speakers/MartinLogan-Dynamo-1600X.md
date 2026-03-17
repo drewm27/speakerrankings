@@ -27,7 +27,6 @@ The MartinLogan Dynamo 1600X ranks [#2 out of 136 total Medium Powered Home Subw
 - Output SPL at 80 Hz: 121.0 dB
 - Warranty: 3
 - Weight: 56.0lbs / 25.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [MartinLogan Dynamo 1600X Website](https://www.martinlogan.com/en/product/dynamo-1600x)
     - [Reddit Search for MartinLogan Dynamo 1600X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+1600X)

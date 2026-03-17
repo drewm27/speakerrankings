@@ -24,7 +24,6 @@ The HSU Research VTF-3 MK3 with Turbocharger ranks [#86 out of 95 total Large Po
 - Output SPL at 63 Hz: 113.5 dB
 - Output SPL at 80 Hz: 113.8 dB
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-3 MK3 with Turbocharger Website](https://web.archive.org/web/20160805032014/http://www.hsuresearch.com/products/vtf-3-mk3-turbo.html)
     - [Reddit Search for HSU Research VTF-3 MK3 with Turbocharger](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK3+with+Turbocharger)

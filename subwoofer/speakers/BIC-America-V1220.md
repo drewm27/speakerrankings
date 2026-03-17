@@ -24,7 +24,6 @@ The BIC America V1220 ranks [#94 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 80 Hz: 112.7 dB
 - Warranty: 7/2
 - Weight: 41.0lbs / 18.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BIC America V1220 Website](https://www.bicamerica.com/product-page/bic-venturi-v1220-430w)
     - [Reddit Search for BIC America V1220](https://www.reddit.com/search/?q=BIC+America+V1220)

@@ -28,7 +28,6 @@ The Velodyne Acoustics DD-18+ ranks [#66 out of 95 total Large Powered Home Subw
 - Output SPL at 63 Hz: 118.3 dB
 - Output SPL at 80 Hz: 116.5 dB
 - Weight: 142.0lbs / 64.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Velodyne Acoustics DD-18+ Website](https://www.velodyneacoustics.com/en/products/digital-drive-plus/)
     - [Reddit Search for Velodyne Acoustics DD-18+](https://www.reddit.com/search/?q=Velodyne+Acoustics+DD-18%2B)

@@ -28,7 +28,6 @@ The SVS SB12-NSD ranks [#91 out of 136 total Medium Powered Home Subwoofers (30â
 - Output SPL at 80 Hz: 111.2 dB
 - Warranty: 5
 - Weight: 35.0lbs / 15.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB12-NSD Website](https://www.svsound.com/products/sb12-nsd)
     - [Reddit Search for SVS SB12-NSD](https://www.reddit.com/search/?q=SVS+SB12-NSD)

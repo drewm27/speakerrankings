@@ -22,7 +22,6 @@ The Velodyne Acoustics EQ-Max12 ranks [#61 out of 136 total Medium Powered Home 
 - Output SPL at 50 Hz: 112.3 dB
 - Output SPL at 63 Hz: 112.3 dB
 - Weight: 61.0lbs / 27.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Velodyne Acoustics EQ-Max12 Website](https://www.velodyneacoustics.com/eq-max-series/)
     - [Reddit Search for Velodyne Acoustics EQ-Max12](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max12)

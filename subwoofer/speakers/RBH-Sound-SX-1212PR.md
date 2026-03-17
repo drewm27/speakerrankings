@@ -28,7 +28,6 @@ The RBH Sound SX-1212PR ranks [#23 out of 95 total Large Powered Home Subwoofers
 - Output SPL at 80 Hz: 123.6 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 130.0lbs / 59.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RBH Sound SX-1212PR Website](https://rbhsound.com/sx1212pr.php)
     - [Reddit Search for RBH Sound SX-1212PR](https://www.reddit.com/search/?q=RBH+Sound+SX-1212PR)

@@ -27,7 +27,6 @@ The Bowers & Wilkins (B&W) ASW610XP ranks [#100 out of 136 total Medium Powered 
 - Output SPL at 80 Hz: 111.1 dB
 - Warranty: 2
 - Weight: 41.22lbs / 18.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Bowers & Wilkins (B&W) ASW610XP Website](https://www.bowerswilkins.com/en-gb/product/loudspeakers/asw610xp)
     - [Reddit Search for Bowers & Wilkins (B&W) ASW610XP](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+ASW610XP)

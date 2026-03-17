@@ -27,7 +27,6 @@ The Sigberg Audio 10D ranks [#18 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 63 Hz: 119.4 dB
 - Output SPL at 80 Hz: 119.0 dB
 - Weight: 59.52lbs / 27.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sigberg Audio 10D Website](https://www.sigbergaudio.no/en/products/sigberg-audio-10d)
     - [Reddit Search for Sigberg Audio 10D](https://www.reddit.com/search/?q=Sigberg+Audio+10D)

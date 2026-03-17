@@ -26,7 +26,6 @@ The ELAC SUB3070 ranks [#72 out of 95 total Large Powered Home Subwoofers (Over 
 - Output SPL at 80 Hz: 120.5 dB
 - Warranty: 3/1
 - Weight: 77.0lbs / 34.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [ELAC SUB3070 Website](https://www.elac.com/series/powered-subwoofers/sub-3070/)
     - [Reddit Search for ELAC SUB3070](https://www.reddit.com/search/?q=ELAC+SUB3070)

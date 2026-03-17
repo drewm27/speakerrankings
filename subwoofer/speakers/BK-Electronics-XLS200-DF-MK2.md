@@ -25,7 +25,6 @@ The BK Electronics XLS200-DF MK2 ranks [#124 out of 136 total Medium Powered Hom
 - Output SPL at 80 Hz: 107.5 dB
 - Warranty: 2
 - Weight: 38.58lbs / 17.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BK Electronics XLS200-DF MK2 Website](http://www.bkelec.com/HiFi/Sub_Woofers/XLS200-DF.htm)
     - [Reddit Search for BK Electronics XLS200-DF MK2](https://www.reddit.com/search/?q=BK+Electronics+XLS200-DF+MK2)

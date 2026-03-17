@@ -25,7 +25,6 @@ The Genelec HTS3B ranks [#108 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 80 Hz: 110.3 dB
 - Warranty: 2(+3)
 - Weight: 61.72lbs / 28.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Genelec HTS3B Website](https://www.genelec.com/previous-models/hts3b)
     - [Reddit Search for Genelec HTS3B](https://www.reddit.com/search/?q=Genelec+HTS3B)

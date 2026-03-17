@@ -24,7 +24,6 @@ The Q Acoustics 3060S ranks [#33 out of 42 total Small Powered Home Subwoofers (
 - Output SPL at 80 Hz: 108.3 dB
 - Warranty: 2
 - Weight: 18.7lbs / 8.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Q Acoustics 3060S Website](https://www.qacoustics.com/q-acoustics-3060s-active-subwoofer.html)
     - [Reddit Search for Q Acoustics 3060S](https://www.reddit.com/search/?q=Q+Acoustics+3060S)

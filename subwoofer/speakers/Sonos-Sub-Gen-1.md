@@ -23,7 +23,6 @@ The Sonos Sub (Gen 1) ranks [#114 out of 136 total Medium Powered Home Subwoofer
 - Output SPL at 63 Hz: 108.9 dB
 - Warranty: 1
 - Weight: 36.3lbs / 16.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Sonos Sub (Gen 1)](https://www.reddit.com/search/?q=Sonos+Sub+%28Gen+1%29)
 

@@ -24,7 +24,6 @@ The OSD (Optimal Speaker Design) PS10 ranks [#123 out of 136 total Medium Powere
 - Output SPL at 80 Hz: 110.1 dB
 - Warranty: 2
 - Weight: 33.0lbs / 15.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [OSD (Optimal Speaker Design) PS10 Website](https://web.archive.org/web/20201130210655/https://www.osdaudio.com/ps10-10-high-powered-premium-home-theater-subwoofer.html)
     - [Reddit Search for OSD (Optimal Speaker Design) PS10](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+PS10)

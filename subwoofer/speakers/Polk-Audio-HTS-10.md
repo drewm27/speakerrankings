@@ -24,7 +24,6 @@ The Polk Audio HTS 10 ranks [#103 out of 136 total Medium Powered Home Subwoofer
 - Output SPL at 80 Hz: 110.2 dB
 - Warranty: 5/3
 - Weight: 37.75lbs / 17.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Polk Audio HTS 10 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-10/112606.html?dwvar_112606_color=Black)
     - [Reddit Search for Polk Audio HTS 10](https://www.reddit.com/search/?q=Polk+Audio+HTS+10)

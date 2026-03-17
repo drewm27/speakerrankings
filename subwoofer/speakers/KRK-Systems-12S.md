@@ -26,7 +26,6 @@ The KRK Systems 12S ranks [#15 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 80 Hz: 115.8 dB
 - Warranty: 3
 - Weight: 66.5lbs / 30.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [KRK Systems 12S Website](https://web.archive.org/web/20201201121936/https://www.krkmusic.com/Powered-Subwoofer/12s)
     - [Reddit Search for KRK Systems 12S](https://www.reddit.com/search/?q=KRK+Systems+12S)

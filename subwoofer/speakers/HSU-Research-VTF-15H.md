@@ -27,7 +27,6 @@ The HSU Research VTF-15H ranks [#65 out of 95 total Large Powered Home Subwoofer
 - Output SPL at 80 Hz: 118.5 dB
 - Warranty: 7/2(+3)
 - Weight: 123.0lbs / 55.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-15H Website](https://web.archive.org/web/20200224160709/http://www.hsuresearch.com/products/vtf-15h.html)
     - [Reddit Search for HSU Research VTF-15H](https://www.reddit.com/search/?q=HSU+Research+VTF-15H)

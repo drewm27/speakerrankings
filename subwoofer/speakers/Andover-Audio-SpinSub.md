@@ -22,7 +22,6 @@ The Andover Audio SpinSub ranks [#34 out of 42 total Small Powered Home Subwoofe
 - Output SPL at 63 Hz: 104.3 dB
 - Output SPL at 80 Hz: 103.6 dB
 - Weight: 21.0lbs / 9.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Andover Audio SpinSub Website](https://www.andoveraudio.com/products/spinsub-subwoofer)
     - [Reddit Search for Andover Audio SpinSub](https://www.reddit.com/search/?q=Andover+Audio+SpinSub)

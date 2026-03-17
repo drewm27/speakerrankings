@@ -27,7 +27,6 @@ The JL Audio E110 ranks [#34 out of 136 total Medium Powered Home Subwoofers (30
 - Output SPL at 80 Hz: 116.0 dB
 - Warranty: 3
 - Weight: 52.7lbs / 23.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JL Audio E110 Website](https://www.jlaudio.com/products/e110-ash-home-audio-e-sub-powered-subwoofers-96276)
     - [Reddit Search for JL Audio E110](https://www.reddit.com/search/?q=JL+Audio+E110)

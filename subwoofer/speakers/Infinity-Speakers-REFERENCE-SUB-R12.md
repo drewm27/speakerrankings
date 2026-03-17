@@ -27,7 +27,6 @@ The Infinity Speakers REFERENCE SUB R12 ranks [#56 out of 136 total Medium Power
 - Output SPL at 80 Hz: 114.6 dB
 - Warranty: 5/2
 - Weight: 40.2lbs / 18.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Infinity Speakers REFERENCE SUB R12 Website](https://www.infinityspeakers.com/home-subwoofers/REFERENCE+SUB+R12.html?dwvar_REFERENCE%20SUB%20R12_color=Black-GLOBAL-Current&cgid=home-subwoofers)
     - [Reddit Search for Infinity Speakers REFERENCE SUB R12](https://www.reddit.com/search/?q=Infinity+Speakers+REFERENCE+SUB+R12)

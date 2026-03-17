@@ -29,7 +29,6 @@ The SVS SB13-Ultra ranks [#67 out of 95 total Large Powered Home Subwoofers (Ove
 - Output SPL at 80 Hz: 120.3 dB
 - Warranty: 5
 - Weight: 92.0lbs / 41.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB13-Ultra Website](https://www.svsound.com/products/sb13-ultra)
     - [Reddit Search for SVS SB13-Ultra](https://www.reddit.com/search/?q=SVS+SB13-Ultra)

@@ -21,7 +21,6 @@ The Sunfire Atmos ranks [#133 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 50 Hz: 105.9 dB
 - Output SPL at 63 Hz: 102.3 dB
 - Weight: 32.0lbs / 14.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Sunfire Atmos](https://www.reddit.com/search/?q=Sunfire+Atmos)
 

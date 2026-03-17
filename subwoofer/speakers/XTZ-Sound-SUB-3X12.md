@@ -28,7 +28,6 @@ The XTZ Sound SUB 3X12 ranks [#18 out of 95 total Large Powered Home Subwoofers 
 - Output SPL at 80 Hz: 125.6 dB
 - Warranty: 5/2
 - Weight: 170.63lbs / 77.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [XTZ Sound SUB 3X12 Website](https://www.xtzsound.eu/product/sub-3x12)
     - [Reddit Search for XTZ Sound SUB 3X12](https://www.reddit.com/search/?q=XTZ+Sound+SUB+3X12)

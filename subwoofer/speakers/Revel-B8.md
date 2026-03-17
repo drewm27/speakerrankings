@@ -24,7 +24,6 @@ The Revel B8 ranks [#21 out of 42 total Small Powered Home Subwoofers (Under 30 
 - Output SPL at 80 Hz: 110.2 dB
 - Warranty: 5
 - Weight: 19.8lbs / 9.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Revel B8 Website](https://www.revelspeakers.com/products/types/subwoofers/B8-.html?dwvar_B8-_color=Black-US-Current)
     - [Reddit Search for Revel B8](https://www.reddit.com/search/?q=Revel+B8)

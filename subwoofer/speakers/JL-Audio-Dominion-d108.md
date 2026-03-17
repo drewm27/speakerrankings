@@ -26,7 +26,6 @@ The JL Audio Dominion d108 ranks [#28 out of 42 total Small Powered Home Subwoof
 - Output SPL at 80 Hz: 105.0 dB
 - Warranty: 3
 - Weight: 26.4lbs / 12.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JL Audio Dominion d108 Website](https://www.jlaudio.com/collections/home-audio-powered-subwoofers/products/d108-ash-home-audio-dominion-powered-subwoofers-96281)
     - [Reddit Search for JL Audio Dominion d108](https://www.reddit.com/search/?q=JL+Audio+Dominion+d108)

@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) S3600I ranks [#16 out of 95 total Large Powered Home
 - Output SPL at 63 Hz: 126.1 dB
 - Warranty: 5
 - Weight: 137.0lbs / 62.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) S3600I Website](https://www.powersoundaudio.com/pages/s3600i?_pos=1&_sid=22cd12ce1&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) S3600I](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+S3600I)

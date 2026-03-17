@@ -28,7 +28,6 @@ The RBH Sound SV-1212PR ranks [#34 out of 95 total Large Powered Home Subwoofers
 - Output SPL at 63 Hz: 121.7 dB
 - Output SPL at 80 Hz: 121.4 dB
 - Weight: 371.0lbs / 168.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RBH Sound SV-1212PR Website](https://www.rbhsound.com/shop/unrivaled-21-sf-r-31603?category=50&order=create_date+desc)
     - [Reddit Search for RBH Sound SV-1212PR](https://www.reddit.com/search/?q=RBH+Sound+SV-1212PR)

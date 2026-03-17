@@ -27,7 +27,6 @@ The SVS PB16-Ultra ranks [#44 out of 95 total Large Powered Home Subwoofers (Ove
 - Output SPL at 80 Hz: 118.6 dB
 - Warranty: 5
 - Weight: 174.5lbs / 79.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB16-Ultra Website](https://www.svsound.com/products/pb16-ultra)
     - [Reddit Search for SVS PB16-Ultra](https://www.reddit.com/search/?q=SVS+PB16-Ultra)

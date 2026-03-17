@@ -22,7 +22,6 @@ The Sonus Faber Gravis VI ranks [#95 out of 95 total Large Powered Home Subwoofe
 - Output SPL at 50 Hz: 107.0 dB
 - Output SPL at 63 Hz: 108.0 dB
 - Weight: 114.6lbs / 52.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sonus Faber Gravis VI Website](https://www.sonusfaber.com/en/products/gravis-vi)
     - [Reddit Search for Sonus Faber Gravis VI](https://www.reddit.com/search/?q=Sonus+Faber+Gravis+VI)

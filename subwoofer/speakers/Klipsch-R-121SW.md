@@ -27,7 +27,6 @@ The Klipsch R-121SW ranks [#76 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 80 Hz: 111.3 dB
 - Warranty: 5/2
 - Weight: 35.0lbs / 15.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch R-121SW Website](https://www.klipsch.com/products/r-121sw-subwoofer)
     - [Reddit Search for Klipsch R-121SW](https://www.reddit.com/search/?q=Klipsch+R-121SW)

@@ -23,7 +23,6 @@ The Yamaha HS8S ranks [#24 out of 42 total Small Powered Home Subwoofers (Under 
 - Output SPL at 80 Hz: 107.2 dB
 - Warranty: 2
 - Weight: 22.5lbs / 10.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Yamaha HS8S Website](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
     - [Reddit Search for Yamaha HS8S](https://www.reddit.com/search/?q=Yamaha+HS8S)

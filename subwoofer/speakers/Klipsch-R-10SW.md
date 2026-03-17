@@ -24,7 +24,6 @@ The Klipsch R-10SW ranks [#15 out of 42 total Small Powered Home Subwoofers (Und
 - Output SPL at 80 Hz: 108.8 dB
 - Warranty: 5/2
 - Weight: 25.5lbs / 11.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch R-10SW Website](https://www.klipsch.ca/products/r-10sw-subwoofer-scratch-and-dent)
     - [Reddit Search for Klipsch R-10SW](https://www.reddit.com/search/?q=Klipsch+R-10SW)

@@ -28,7 +28,6 @@ The Monoprice Monolith M-210 ranks [#74 out of 95 total Large Powered Home Subwo
 - Output SPL at 80 Hz: 118.2 dB
 - Warranty: 5
 - Weight: 162.0lbs / 73.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M-210 Website](https://www.monoprice.com/product?p_id=38545)
     - [Reddit Search for Monoprice Monolith M-210](https://www.reddit.com/search/?q=Monoprice+Monolith+M-210)

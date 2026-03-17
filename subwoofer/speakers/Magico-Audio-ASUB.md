@@ -23,7 +23,6 @@ The Magico Audio ASUB ranks [#90 out of 95 total Large Powered Home Subwoofers (
 - Output SPL at 63 Hz: 111.9 dB
 - Output SPL at 80 Hz: 109.1 dB
 - Weight: 108.0lbs / 49.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Magico Audio ASUB Website](https://www.magicoaudio.com/asub)
     - [Reddit Search for Magico Audio ASUB](https://www.reddit.com/search/?q=Magico+Audio+ASUB)

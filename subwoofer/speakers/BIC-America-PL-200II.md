@@ -26,7 +26,6 @@ The BIC America PL-200II ranks [#77 out of 136 total Medium Powered Home Subwoof
 - Output SPL at 80 Hz: 109.5 dB
 - Warranty: 8/5
 - Weight: 46.0lbs / 20.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BIC America PL-200II Website](https://www.bicamerica.com/product-page/acoustech-pl-200ii-1000w)
     - [Reddit Search for BIC America PL-200II](https://www.reddit.com/search/?q=BIC+America+PL-200II)

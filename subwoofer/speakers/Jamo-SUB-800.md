@@ -20,7 +20,6 @@ The Jamo SUB 800 ranks [#29 out of 42 total Small Powered Home Subwoofers (Under
 - Output SPL at 50 Hz: 103.2 dB
 - Output SPL at 63 Hz: 108.4 dB
 - Weight: 2.08lbs / 0.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Jamo SUB 800 Website](https://www.jamo.com/products/sub800)
     - [Reddit Search for Jamo SUB 800](https://www.reddit.com/search/?q=Jamo+SUB+800)

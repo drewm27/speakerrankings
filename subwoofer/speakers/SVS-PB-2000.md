@@ -24,7 +24,6 @@ The SVS PB-2000 ranks [#45 out of 136 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 63 Hz: 114.5 dB
 - Warranty: 5
 - Weight: 65.6lbs / 29.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB-2000 Website](https://www.svsound.com/pages/search-results-page?q=PB-2000)
     - [Reddit Search for SVS PB-2000](https://www.reddit.com/search/?q=SVS+PB-2000)

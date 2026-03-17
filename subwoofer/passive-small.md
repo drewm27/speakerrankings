@@ -32,7 +32,6 @@ Last updated: March 17, 2026
 - Passive: Yes
 - Warranty: 5
 - Weight: 26.85lbs / 12.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Dayton Audio MKSX4 Website](https://www.parts-express.com/Dayton-Audio-MKSX4-Four-4-Driver-Low-Profile-Passive-Subwoofer-300-495)
     - [Reddit Search for Dayton Audio MKSX4](https://www.reddit.com/search/?q=Dayton+Audio+MKSX4)
@@ -58,7 +57,6 @@ Last updated: March 17, 2026
 - Passive: Yes
 - Warranty: 3/1
 - Weight: 14.24lbs / 6.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [ELAC IW-S10EQ in-wall Website](https://www.elac.com/series/integrator/eq-iw-s10eq-w/)
     - [Reddit Search for ELAC IW-S10EQ in-wall](https://www.reddit.com/search/?q=ELAC+IW-S10EQ+in-wall)
@@ -80,7 +78,6 @@ Last updated: March 17, 2026
 - Output SPL at 63 Hz: 102.1 dB
 - Passive: Yes
 - Weight: 16.0lbs / 7.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BG Radia BGX-S6B Website](https://web.archive.org/web/20120112024757/http://bgradia.com/subwoofer-speakers.html)
     - [Reddit Search for BG Radia BGX-S6B](https://www.reddit.com/search/?q=BG+Radia+BGX-S6B)

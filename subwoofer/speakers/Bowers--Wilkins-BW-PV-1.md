@@ -24,7 +24,6 @@ The Bowers & Wilkins (B&W) PV-1 ranks [#122 out of 136 total Medium Powered Home
 - Output SPL at 63 Hz: 109.5 dB
 - Output SPL at 80 Hz: 110.7 dB
 - Weight: 45.19lbs / 20.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Bowers & Wilkins (B&W) PV-1](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+PV-1)
 

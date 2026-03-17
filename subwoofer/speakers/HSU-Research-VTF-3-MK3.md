@@ -24,7 +24,6 @@ The HSU Research VTF-3 MK3 ranks [#84 out of 95 total Large Powered Home Subwoof
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 114.0 dB
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-3 MK3 Website](https://web.archive.org/web/20200219132111/http://www.hsuresearch.com/products/vtf-3-mk3.html)
     - [Reddit Search for HSU Research VTF-3 MK3](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK3)

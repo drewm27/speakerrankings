@@ -23,7 +23,6 @@ The MartinLogan Dynamo 700w ranks [#8 out of 42 total Small Powered Home Subwoof
 - Output SPL at 63 Hz: 110.5 dB
 - Warranty: 3
 - Weight: 26.5lbs / 12.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [MartinLogan Dynamo 700w Website](https://www.martinlogan.com/en/product/dynamo-700w)
     - [Reddit Search for MartinLogan Dynamo 700w](https://www.reddit.com/search/?q=MartinLogan+Dynamo+700w)

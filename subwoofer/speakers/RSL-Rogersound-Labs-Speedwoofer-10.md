@@ -23,7 +23,6 @@ The RSL (Rogersound Labs) Speedwoofer 10 ranks [#52 out of 136 total Medium Powe
 - Output SPL at 63 Hz: 114.1 dB
 - Warranty: 2
 - Weight: 64.0lbs / 29.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RSL (Rogersound Labs) Speedwoofer 10 Website](https://rslspeakers.com/products/rsl-speedwoofer-10/)
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10)

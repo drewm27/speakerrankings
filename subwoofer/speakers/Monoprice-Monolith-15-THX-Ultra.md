@@ -30,7 +30,6 @@ The Monoprice Monolith 15 THX Ultra ranks [#48 out of 95 total Large Powered Hom
 - Output SPL at 80 Hz: 119.0 dB
 - Warranty: 5
 - Weight: 128.5lbs / 58.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 15 THX Ultra Website](https://web.archive.org/web/20230325053056/https://www.monoprice.com/product?p_id=24458)
     - [Reddit Search for Monoprice Monolith 15 THX Ultra](https://www.reddit.com/search/?q=Monoprice+Monolith+15+THX+Ultra)

@@ -30,7 +30,6 @@ The Danley Sound Labs DTS10 ranks [#3 out of 10 total Large Passive Home Subwoof
 - Passive: Yes
 - Warranty: 5
 - Weight: 285.0lbs / 129.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Danley Sound Labs DTS10 Website](https://www.danleysoundlabs.com/products/subwoofers/specialty-subs/dts10/)
     - [Reddit Search for Danley Sound Labs DTS10](https://www.reddit.com/search/?q=Danley+Sound+Labs+DTS10)

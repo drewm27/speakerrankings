@@ -26,7 +26,6 @@ The Arendal 1961 Subwoofer 1S ranks [#29 out of 136 total Medium Powered Home Su
 - Output SPL at 80 Hz: 118.0 dB
 - Warranty: 10/5
 - Weight: 44.09lbs / 20.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1961 Subwoofer 1S Website](https://arendalsound.com/product/1961-subwoofer-1s/)
     - [Reddit Search for Arendal 1961 Subwoofer 1S](https://www.reddit.com/search/?q=Arendal+1961+Subwoofer+1S)

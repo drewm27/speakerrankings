@@ -28,7 +28,6 @@ The Rythmik FV15HP ranks [#37 out of 95 total Large Powered Home Subwoofers (Ove
 - Output SPL at 80 Hz: 121.4 dB
 - Warranty: 5/3
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Rythmik FV15HP Website](http://www.rythmikaudio.com/FV15HP.html)
     - [Reddit Search for Rythmik FV15HP](https://www.reddit.com/search/?q=Rythmik+FV15HP)

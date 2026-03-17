@@ -29,7 +29,6 @@ The JTR Speakers Captivator 4000ULF ranks [#4 out of 95 total Large Powered Home
 - Output SPL at 80 Hz: 130.6 dB
 - Warranty: 5/3
 - Weight: 265.0lbs / 120.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 4000ULF Website](https://www.jtrspeakers.com/jtr-captivator-4000ulf)
     - [Reddit Search for JTR Speakers Captivator 4000ULF](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+4000ULF)

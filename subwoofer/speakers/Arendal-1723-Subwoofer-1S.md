@@ -28,7 +28,6 @@ The Arendal 1723 Subwoofer 1S ranks [#17 out of 136 total Medium Powered Home Su
 - Output SPL at 80 Hz: 118.6 dB
 - Warranty: 10/5
 - Weight: 54.01lbs / 24.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1723 Subwoofer 1S Website](https://arendalsound.com/product/1723-subwoofer-1s/)
     - [Reddit Search for Arendal 1723 Subwoofer 1S](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+1S)

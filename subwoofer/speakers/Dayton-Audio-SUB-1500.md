@@ -25,7 +25,6 @@ The Dayton Audio SUB-1500 ranks [#74 out of 136 total Medium Powered Home Subwoo
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 112.9 dB
 - Weight: 60.0lbs / 27.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Dayton Audio SUB-1500 Website](https://www.parts-express.com/Dayton-Audio-SUB-1500-15-150-Watt-Powered-Subwoofer-300-634)
     - [Reddit Search for Dayton Audio SUB-1500](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1500)

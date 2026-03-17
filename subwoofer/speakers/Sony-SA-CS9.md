@@ -24,7 +24,6 @@ The Sony SA-CS9 ranks [#16 out of 42 total Small Powered Home Subwoofers (Under 
 - Output SPL at 80 Hz: 110.9 dB
 - Warranty: 1?
 - Weight: 25.35lbs / 11.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sony SA-CS9 Website](https://www.sony.com/electronics/home-cinema-speakers/sa-cs9)
     - [Reddit Search for Sony SA-CS9](https://www.reddit.com/search/?q=Sony+SA-CS9)

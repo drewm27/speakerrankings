@@ -25,7 +25,6 @@ The Genelec 7071A ranks [#71 out of 95 total Large Powered Home Subwoofers (Over
 - Output SPL at 80 Hz: 118.6 dB
 - Warranty: 2(+3)
 - Weight: 178.57lbs / 81.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Genelec 7071A Website](https://www.genelec.com/previous-models/7071a)
     - [Reddit Search for Genelec 7071A](https://www.reddit.com/search/?q=Genelec+7071A)

@@ -24,7 +24,6 @@ The Savant NANO-1 ranks [#36 out of 42 total Small Powered Home Subwoofers (Unde
 - Output SPL at 63 Hz: 109.6 dB
 - Warranty: 2
 - Weight: 14.4lbs / 6.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Savant NANO-1 Website](https://savantapac.com/product/rcc-nano1-b)
     - [Reddit Search for Savant NANO-1](https://www.reddit.com/search/?q=Savant+NANO-1)

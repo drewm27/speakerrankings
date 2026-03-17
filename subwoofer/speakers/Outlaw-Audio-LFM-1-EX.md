@@ -27,7 +27,6 @@ The Outlaw Audio LFM-1 EX ranks [#23 out of 136 total Medium Powered Home Subwoo
 - Output SPL at 80 Hz: 116.7 dB
 - Warranty: 3
 - Weight: 67.0lbs / 30.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Outlaw Audio LFM-1 EX Website](https://outlawaudio.com/products/lfmEX.html)
     - [Reddit Search for Outlaw Audio LFM-1 EX](https://www.reddit.com/search/?q=Outlaw+Audio+LFM-1+EX)

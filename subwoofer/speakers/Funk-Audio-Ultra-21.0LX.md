@@ -28,7 +28,6 @@ The Funk Audio Ultra 21.0LX ranks [#13 out of 95 total Large Powered Home Subwoo
 - Output SPL at 80 Hz: 126.6 dB
 - Warranty: 3
 - Weight: 145.0lbs / 65.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Ultra 21.0LX Website](https://www.funkaudio.ca/store/p51/Funk_Audio_21.0LX.html)
     - [Reddit Search for Funk Audio Ultra 21.0LX](https://www.reddit.com/search/?q=Funk+Audio+Ultra+21.0LX)

@@ -25,7 +25,6 @@ The Genelec HTS4B ranks [#91 out of 95 total Large Powered Home Subwoofers (Over
 - Output SPL at 80 Hz: 112.3 dB
 - Warranty: 2(+3)
 - Weight: 81.57lbs / 37.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Genelec HTS4B Website](https://www.genelec.com/previous-models/hts4b)
     - [Reddit Search for Genelec HTS4B](https://www.reddit.com/search/?q=Genelec+HTS4B)

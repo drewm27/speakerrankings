@@ -27,7 +27,6 @@ The Outlaw Audio Ultra-X13 ranks [#68 out of 95 total Large Powered Home Subwoof
 - Output SPL at 80 Hz: 118.1 dB
 - Warranty: 3
 - Weight: 105.0lbs / 47.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Outlaw Audio Ultra-X13 Website](https://web.archive.org/web/20210121060252/https://outlawaudio.com/shop/speakers-subwoofers/33-ultra-x13.html)
     - [Reddit Search for Outlaw Audio Ultra-X13](https://www.reddit.com/search/?q=Outlaw+Audio+Ultra-X13)

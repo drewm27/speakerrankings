@@ -26,7 +26,6 @@ The JL Audio Fathom f113 ranks [#62 out of 95 total Large Powered Home Subwoofer
 - Output SPL at 80 Hz: 119.2 dB
 - Warranty: 3
 - Weight: 130.0lbs / 59.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for JL Audio Fathom f113](https://www.reddit.com/search/?q=JL+Audio+Fathom+f113)
 

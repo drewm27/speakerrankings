@@ -26,7 +26,6 @@ The Reaction Audio PS-15X ranks [#9 out of 10 total Large Passive Home Subwoofer
 - Output SPL at 63 Hz: 125.8 dB
 - Output SPL at 80 Hz: 127.0 dB
 - Passive: Yes
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Reaction Audio PS-15X](https://www.reddit.com/search/?q=Reaction+Audio+PS-15X)
 

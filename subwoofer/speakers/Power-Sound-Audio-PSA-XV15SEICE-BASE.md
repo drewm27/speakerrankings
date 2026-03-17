@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) XV15SEICE-BASE ranks [#7 out of 136 total Medium Pow
 - Output SPL at 63 Hz: 119.1 dB
 - Warranty: 5
 - Weight: 75.0lbs / 34.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV15SEICE-BASE Website](https://www.powersoundaudio.com/products/xv15seice-base)
     - [Reddit Search for Power Sound Audio (PSA) XV15SEICE-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15SEICE-BASE)

@@ -25,7 +25,6 @@ The Emotiva S10 ranks [#126 out of 136 total Medium Powered Home Subwoofers (30â
 - Output SPL at 80 Hz: 106.9 dB
 - Warranty: 5
 - Weight: 52.1lbs / 23.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Emotiva S10](https://www.reddit.com/search/?q=Emotiva+S10)
 

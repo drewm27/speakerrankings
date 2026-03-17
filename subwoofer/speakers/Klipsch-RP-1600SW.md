@@ -29,7 +29,6 @@ The Klipsch RP-1600SW ranks [#49 out of 95 total Large Powered Home Subwoofers (
 - Output SPL at 80 Hz: 119.6 dB
 - Warranty: 5
 - Weight: 110.9lbs / 50.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch RP-1600SW Website](https://www.klipsch.com/products/rp-1600sw-subwoofer)
     - [Reddit Search for Klipsch RP-1600SW](https://www.reddit.com/search/?q=Klipsch+RP-1600SW)

@@ -20,7 +20,6 @@ The Bestisan SW65D ranks [#135 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 63 Hz: 104.0 dB
 - Output SPL at 80 Hz: 106.4 dB
 - Weight: 38.0lbs / 17.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Bestisan SW65D Website](https://www.amazon.com/BESTISAN-Subwoofer-Bestisan-Bluetooth-Response/dp/B08R9VVKB7/)
     - [Reddit Search for Bestisan SW65D](https://www.reddit.com/search/?q=Bestisan+SW65D)

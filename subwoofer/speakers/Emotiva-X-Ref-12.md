@@ -26,7 +26,6 @@ The Emotiva X-Ref 12 ranks [#90 out of 136 total Medium Powered Home Subwoofers 
 - Output SPL at 80 Hz: 110.7 dB
 - Warranty: 5
 - Weight: 44.0lbs / 20.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Emotiva X-Ref 12](https://www.reddit.com/search/?q=Emotiva+X-Ref+12)
 

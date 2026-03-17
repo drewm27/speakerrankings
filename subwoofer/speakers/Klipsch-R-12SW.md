@@ -28,7 +28,6 @@ The Klipsch R-12SW ranks [#104 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 80 Hz: 109.3 dB
 - Warranty: 5/2
 - Weight: 33.0lbs / 15.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch R-12SW Website](https://www.klipsch.com/products/r-12sw)
     - [Reddit Search for Klipsch R-12SW](https://www.reddit.com/search/?q=Klipsch+R-12SW)

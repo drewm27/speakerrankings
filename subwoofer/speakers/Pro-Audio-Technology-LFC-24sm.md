@@ -23,7 +23,6 @@ The Pro Audio Technology LFC-24sm ranks [#4 out of 10 total Large Passive Home S
 - Output SPL at 63 Hz: 129.2 dB
 - Passive: Yes
 - Weight: 266.0lbs / 120.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Pro Audio Technology LFC-24sm Website](https://www.proaudiotechnology.com/lfc24sm)
     - [Reddit Search for Pro Audio Technology LFC-24sm](https://www.reddit.com/search/?q=Pro+Audio+Technology+LFC-24sm)

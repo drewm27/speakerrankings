@@ -25,7 +25,6 @@ The Polk Audio PSW 110 ranks [#96 out of 136 total Medium Powered Home Subwoofer
 - Output SPL at 80 Hz: 112.5 dB
 - Warranty: 5/3
 - Weight: 33.5lbs / 15.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Polk Audio PSW 110 Website](https://www.polkaudio.com/en/subwoofers/psw110)
     - [Reddit Search for Polk Audio PSW 110](https://www.reddit.com/search/?q=Polk+Audio+PSW+110)

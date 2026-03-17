@@ -28,7 +28,6 @@ The Monoprice Monolith M-10 V2 ranks [#87 out of 136 total Medium Powered Home S
 - Output SPL at 80 Hz: 110.9 dB
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith M-10 V2 Website](https://www.monoprice.com/product?p_id=42843)
     - [Reddit Search for Monoprice Monolith M-10 V2](https://www.reddit.com/search/?q=Monoprice+Monolith+M-10+V2)

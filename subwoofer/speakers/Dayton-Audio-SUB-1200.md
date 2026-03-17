@@ -25,7 +25,6 @@ The Dayton Audio SUB-1200 ranks [#99 out of 136 total Medium Powered Home Subwoo
 - Output SPL at 80 Hz: 111.2 dB
 - Warranty: 5
 - Weight: 44.65lbs / 20.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Dayton Audio SUB-1200 Website](https://www.parts-express.com/Dayton-Audio-SUB-1200-12-120-Watt-Powered-Subwoofer-300-629)
     - [Reddit Search for Dayton Audio SUB-1200](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1200)

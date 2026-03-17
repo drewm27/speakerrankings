@@ -28,7 +28,6 @@ The Harbottle Audio C18 L1 ranks [#64 out of 95 total Large Powered Home Subwoof
 - Output SPL at 63 Hz: 118.0 dB
 - Output SPL at 80 Hz: 118.0 dB
 - Weight: 86.0lbs / 39.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Harbottle Audio C18 L1 Website](https://www.harbottleaudio.com/product-page/c18)
     - [Reddit Search for Harbottle Audio C18 L1](https://www.reddit.com/search/?q=Harbottle+Audio+C18+L1)

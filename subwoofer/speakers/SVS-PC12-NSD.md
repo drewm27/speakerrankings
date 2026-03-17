@@ -24,7 +24,6 @@ The SVS PC12-NSD ranks [#63 out of 136 total Medium Powered Home Subwoofers (30â
 - Output SPL at 63 Hz: 112.1 dB
 - Warranty: 5
 - Weight: 49.0lbs / 22.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PC12-NSD Website](https://web.archive.org/web/20121225122533/http://www.svsound.com/subwoofers/cylinder/pc12-nsd)
     - [Reddit Search for SVS PC12-NSD](https://www.reddit.com/search/?q=SVS+PC12-NSD)

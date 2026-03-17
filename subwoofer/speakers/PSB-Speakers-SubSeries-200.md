@@ -23,7 +23,6 @@ The PSB Speakers SubSeries 200 ranks [#35 out of 136 total Medium Powered Home S
 - Output SPL at 63 Hz: 117.5 dB
 - Warranty: 5?
 - Weight: 34.0lbs / 15.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [PSB Speakers SubSeries 200 Website](https://www.psbspeakers.com/product/subseries-200-subwoofer/)
     - [Reddit Search for PSB Speakers SubSeries 200](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+200)

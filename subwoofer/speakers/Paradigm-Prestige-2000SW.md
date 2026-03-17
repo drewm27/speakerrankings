@@ -26,7 +26,6 @@ The Paradigm Prestige 2000SW ranks [#79 out of 95 total Large Powered Home Subwo
 - Output SPL at 80 Hz: 114.8 dB
 - Warranty: 3
 - Weight: 121.0lbs / 54.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Prestige 2000SW Website](https://www.paradigm.com/en/sealed/prestige-2000sw)
     - [Reddit Search for Paradigm Prestige 2000SW](https://www.reddit.com/search/?q=Paradigm+Prestige+2000SW)

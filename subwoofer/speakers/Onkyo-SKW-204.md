@@ -24,7 +24,6 @@ The Onkyo SKW-204 ranks [#7 out of 42 total Small Powered Home Subwoofers (Under
 - Output SPL at 63 Hz: 113.6 dB
 - Output SPL at 80 Hz: 115.4 dB
 - Weight: 26.0lbs / 11.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Onkyo SKW-204 Website](https://www.onkyo.ca/product/skw-204/)
     - [Reddit Search for Onkyo SKW-204](https://www.reddit.com/search/?q=Onkyo+SKW-204)

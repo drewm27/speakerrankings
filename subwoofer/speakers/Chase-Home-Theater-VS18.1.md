@@ -25,7 +25,6 @@ The Chase Home Theater VS18.1 ranks [#10 out of 10 total Large Passive Home Subw
 - Output SPL at 63 Hz: 124.5 dB
 - Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Chase Home Theater VS18.1](https://www.reddit.com/search/?q=Chase+Home+Theater+VS18.1)
 

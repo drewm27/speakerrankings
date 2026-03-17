@@ -24,7 +24,6 @@ The SVS SB-2000 ranks [#67 out of 136 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 63 Hz: 112.2 dB
 - Warranty: 5
 - Weight: 34.8lbs / 15.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB-2000 Website](https://www.svsound.com/search?q=%26quot%3Bsb-2000%26quot%3B)
     - [Reddit Search for SVS SB-2000](https://www.reddit.com/search/?q=SVS+SB-2000)

@@ -29,7 +29,6 @@ The Paradigm Signature Sub 2 ranks [#22 out of 95 total Large Powered Home Subwo
 - Output SPL at 80 Hz: 126.0 dB
 - Warranty: 3
 - Weight: 230.0lbs / 104.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Signature Sub 2 Website](https://www.paradigm.com/en/sealed/signature-sub-2)
     - [Reddit Search for Paradigm Signature Sub 2](https://www.reddit.com/search/?q=Paradigm+Signature+Sub+2)

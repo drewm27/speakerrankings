@@ -25,7 +25,6 @@ The Emotiva S12 ranks [#72 out of 136 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 80 Hz: 112.1 dB
 - Warranty: 5
 - Weight: 66.247lbs / 30.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Emotiva S12 Website](https://emotiva.com/products/airmotiv-s12)
     - [Reddit Search for Emotiva S12](https://www.reddit.com/search/?q=Emotiva+S12)

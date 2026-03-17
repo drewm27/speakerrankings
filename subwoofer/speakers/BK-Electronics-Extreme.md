@@ -20,7 +20,6 @@ The BK Electronics Extreme ranks [#83 out of 136 total Medium Powered Home Subwo
 - Output SPL at 50 Hz: 111.1 dB
 - Output SPL at 63 Hz: 110.5 dB
 - Output SPL at 80 Hz: 109.0 dB
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for BK Electronics Extreme](https://www.reddit.com/search/?q=BK+Electronics+Extreme)
 

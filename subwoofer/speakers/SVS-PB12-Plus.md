@@ -23,7 +23,6 @@ The SVS PB12-Plus ranks [#70 out of 95 total Large Powered Home Subwoofers (Over
 - Output SPL at 63 Hz: 118.3 dB
 - Warranty: 5
 - Weight: 127.0lbs / 57.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PB12-Plus Website](https://www.svsound.com/products/pb12-plus)
     - [Reddit Search for SVS PB12-Plus](https://www.reddit.com/search/?q=SVS+PB12-Plus)

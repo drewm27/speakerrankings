@@ -31,7 +31,6 @@ The Funk Audio Classic 18.0 ranks [#5 out of 10 total Large Passive Home Subwoof
 - Passive: Yes
 - Warranty: 3
 - Weight: 115.0lbs / 52.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Classic 18.0 Website](https://www.funkaudio.ca/store/p1/Funk_Audio_-_18.0.html)
     - [Reddit Search for Funk Audio Classic 18.0](https://www.reddit.com/search/?q=Funk+Audio+Classic+18.0)

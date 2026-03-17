@@ -23,7 +23,6 @@ The EMPtek ES1010i ranks [#112 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 63 Hz: 108.0 dB
 - Output SPL at 80 Hz: 108.0 dB
 - Weight: 45.0lbs / 20.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for EMPtek ES1010i](https://www.reddit.com/search/?q=EMPtek+ES1010i)
 

@@ -25,7 +25,6 @@ The SVS SB12-Plus ranks [#78 out of 136 total Medium Powered Home Subwoofers (30
 - Output SPL at 80 Hz: 111.8 dB
 - Warranty: 5
 - Weight: 40.0lbs / 18.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB12-Plus Website](https://web.archive.org/web/20100209005941/http://www.svsound.com/products-sub-box-sb12plus.cfm)
     - [Reddit Search for SVS SB12-Plus](https://www.reddit.com/search/?q=SVS+SB12-Plus)

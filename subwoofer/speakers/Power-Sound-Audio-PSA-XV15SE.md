@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) XV15SE ranks [#57 out of 95 total Large Powered Home
 - Output SPL at 63 Hz: 119.6 dB
 - Warranty: 5
 - Weight: 83.0lbs / 37.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV15SE Website](https://www.powersoundaudio.com/pages/xv15se?_pos=1&_sid=bcd999aa6&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XV15SE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15SE)

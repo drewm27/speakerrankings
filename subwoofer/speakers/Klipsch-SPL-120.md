@@ -26,7 +26,6 @@ The Klipsch SPL-120 ranks [#47 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 80 Hz: 115.2 dB
 - Warranty: 5/2
 - Weight: 45.0lbs / 20.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch SPL-120 Website](https://www.klipsch.com/products/spl-120-subwoofer)
     - [Reddit Search for Klipsch SPL-120](https://www.reddit.com/search/?q=Klipsch+SPL-120)

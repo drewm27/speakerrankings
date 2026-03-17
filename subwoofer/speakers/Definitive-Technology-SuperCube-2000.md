@@ -25,7 +25,6 @@ The Definitive Technology SuperCube 2000 ranks [#9 out of 42 total Small Powered
 - Output SPL at 80 Hz: 110.3 dB
 - Warranty: 5/3
 - Weight: 25.0lbs / 11.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Definitive Technology SuperCube 2000 Website](https://web.archive.org/web/20210306085335/https://www.definitivetechnology.com/products/supercube-2000)
     - [Reddit Search for Definitive Technology SuperCube 2000](https://www.reddit.com/search/?q=Definitive+Technology+SuperCube+2000)

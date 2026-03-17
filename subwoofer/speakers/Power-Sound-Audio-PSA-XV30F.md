@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) XV30F ranks [#36 out of 95 total Large Powered Home 
 - Output SPL at 63 Hz: 122.1 dB
 - Warranty: 5
 - Weight: 155.0lbs / 70.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV30F Website](https://www.powersoundaudio.com/pages/xv30f?_pos=1&_sid=83ae46ad6&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XV30F](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV30F)

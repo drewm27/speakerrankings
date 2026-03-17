@@ -25,7 +25,6 @@ The Atlantic Technology 224SB ranks [#116 out of 136 total Medium Powered Home S
 - Output SPL at 80 Hz: 113.1 dB
 - Warranty: 3
 - Weight: 31.0lbs / 14.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Atlantic Technology 224SB Website](https://shop.atlantictechnology.com/products/224-sb)
     - [Reddit Search for Atlantic Technology 224SB](https://www.reddit.com/search/?q=Atlantic+Technology+224SB)

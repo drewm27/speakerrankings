@@ -26,7 +26,6 @@ The Monoprice 12in 150-Watt Powered ranks [#68 out of 136 total Medium Powered H
 - Output SPL at 63 Hz: 115.7 dB
 - Output SPL at 80 Hz: 115.4 dB
 - Weight: 53.77lbs / 24.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice 12in 150-Watt Powered Website](https://www.monoprice.com/product?p_id=9723)
     - [Reddit Search for Monoprice 12in 150-Watt Powered](https://www.reddit.com/search/?q=Monoprice+12in+150-Watt+Powered)

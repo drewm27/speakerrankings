@@ -28,7 +28,6 @@ The Arendal 1723 Subwoofer 2S ranks [#54 out of 95 total Large Powered Home Subw
 - Output SPL at 80 Hz: 122.3 dB
 - Warranty: 10/5
 - Weight: 91.27lbs / 41.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1723 Subwoofer 2S Website](https://arendalsound.com/product/1723-subwoofer-2s/)
     - [Reddit Search for Arendal 1723 Subwoofer 2S](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+2S)

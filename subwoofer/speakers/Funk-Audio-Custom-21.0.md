@@ -30,7 +30,6 @@ The Funk Audio Custom 21.0 ranks [#10 out of 95 total Large Powered Home Subwoof
 - Output SPL at 80 Hz: 131.0 dB
 - Warranty: 3
 - Weight: 145.0lbs / 65.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Custom 21.0 Website](https://www.funkaudio.ca/store/p26/Funk_Audio_21.0.html)
     - [Reddit Search for Funk Audio Custom 21.0](https://www.reddit.com/search/?q=Funk+Audio+Custom+21.0)

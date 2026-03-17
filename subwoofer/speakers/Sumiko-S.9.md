@@ -21,7 +21,6 @@ The Sumiko S.9 ranks [#107 out of 136 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 50 Hz: 109.9 dB
 - Output SPL at 63 Hz: 109.7 dB
 - Weight: 46.2lbs / 21.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sumiko S.9 Website](https://web.archive.org/web/20200219162840/http://sumikosubwoofers.com/en-us/products/s-9)
     - [Reddit Search for Sumiko S.9](https://www.reddit.com/search/?q=Sumiko+S.9)

@@ -26,7 +26,6 @@ The RSL (Rogersound Labs) Speedwoofer 12S ranks [#85 out of 95 total Large Power
 - Output SPL at 80 Hz: 113.1 dB
 - Warranty: ?
 - Weight: 82.0lbs / 37.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RSL (Rogersound Labs) Speedwoofer 12S Website](https://rslspeakers.com/products/the-speedwoofer-12s/)
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 12S](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+12S)

@@ -24,7 +24,6 @@ The Paradigm Defiance X10 ranks [#111 out of 136 total Medium Powered Home Subwo
 - Output SPL at 80 Hz: 109.5 dB
 - Warranty: 3
 - Weight: 42.0lbs / 19.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Defiance X10 Website](https://www.paradigm.com/en/ported/defiance-x10)
     - [Reddit Search for Paradigm Defiance X10](https://www.reddit.com/search/?q=Paradigm+Defiance+X10)

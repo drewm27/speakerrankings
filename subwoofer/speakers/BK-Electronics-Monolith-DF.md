@@ -26,7 +26,6 @@ The BK Electronics Monolith-DF ranks [#92 out of 95 total Large Powered Home Sub
 - Output SPL at 80 Hz: 107.7 dB
 - Warranty: 2
 - Weight: 103.17lbs / 46.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BK Electronics Monolith-DF Website](https://web.archive.org/web/20080218082447/http://www.bkelec.com/HiFi/Sub_Woofers/monolith-df.htm)
     - [Reddit Search for BK Electronics Monolith-DF](https://www.reddit.com/search/?q=BK+Electronics+Monolith-DF)

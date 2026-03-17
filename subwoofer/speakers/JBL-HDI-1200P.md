@@ -25,7 +25,6 @@ The JBL HDI-1200P ranks [#14 out of 136 total Medium Powered Home Subwoofers (30
 - Output SPL at 80 Hz: 114.9 dB
 - Warranty: 5
 - Weight: 70.8lbs / 32.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JBL HDI-1200P Website](https://ca.jbl.com/HDI-1200P.html)
     - [Reddit Search for JBL HDI-1200P](https://www.reddit.com/search/?q=JBL+HDI-1200P)

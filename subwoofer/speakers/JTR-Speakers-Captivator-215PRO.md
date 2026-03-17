@@ -28,7 +28,6 @@ The JTR Speakers Captivator 215PRO ranks [#5 out of 95 total Large Powered Home 
 - Output SPL at 80 Hz: 130.9 dB
 - Warranty: 5
 - Weight: 149.0lbs / 67.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 215PRO Website](https://www.jtrspeakers.com/jtr-captivator-215pro)
     - [Reddit Search for JTR Speakers Captivator 215PRO](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+215PRO)

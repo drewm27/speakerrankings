@@ -23,7 +23,6 @@ The BG Radia BGX-S6B ranks [#3 out of 3 total Small Passive Home Subwoofers (Und
 - Output SPL at 63 Hz: 102.1 dB
 - Passive: Yes
 - Weight: 16.0lbs / 7.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BG Radia BGX-S6B Website](https://web.archive.org/web/20120112024757/http://bgradia.com/subwoofer-speakers.html)
     - [Reddit Search for BG Radia BGX-S6B](https://www.reddit.com/search/?q=BG+Radia+BGX-S6B)

@@ -24,7 +24,6 @@ The Definitive Technology DN10 ranks [#86 out of 136 total Medium Powered Home S
 - Output SPL at 80 Hz: 108.9 dB
 - Warranty: 5/3
 - Weight: 45.6lbs / 20.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Definitive Technology DN10 Website](https://www.definitivetechnology.com/en-us/product/subwoofers/dn10)
     - [Reddit Search for Definitive Technology DN10](https://www.reddit.com/search/?q=Definitive+Technology+DN10)

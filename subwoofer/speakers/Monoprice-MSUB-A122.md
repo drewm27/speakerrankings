@@ -18,7 +18,6 @@ The Monoprice MSUB-A122 ranks [#95 out of 136 total Medium Powered Home Subwoofe
 - Output SPL at 40 Hz: 106.3 dB
 - Output SPL at 50 Hz: 111.9 dB
 - Output SPL at 63 Hz: 109.6 dB
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Monoprice MSUB-A122](https://www.reddit.com/search/?q=Monoprice+MSUB-A122)
 

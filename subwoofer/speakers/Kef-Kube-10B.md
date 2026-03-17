@@ -25,7 +25,6 @@ The Kef Kube 10B ranks [#109 out of 136 total Medium Powered Home Subwoofers (30
 - Output SPL at 80 Hz: 111.1 dB
 - Warranty: 5/2/5
 - Weight: 38.36lbs / 17.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kef Kube 10B Website](https://us.kef.com/products/kube10b-subwoofer)
     - [Reddit Search for Kef Kube 10B](https://www.reddit.com/search/?q=Kef+Kube+10B)

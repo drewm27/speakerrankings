@@ -26,7 +26,6 @@ The JTR Speakers Captivator 212PRO ranks [#1 out of 136 total Medium Powered Hom
 - Output SPL at 80 Hz: 133.2 dB
 - Warranty: 5/3
 - Weight: 71.0lbs / 32.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 212PRO Website](https://www.jtrspeakers.com/jtr-captivator-212pro)
     - [Reddit Search for JTR Speakers Captivator 212PRO](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+212PRO)

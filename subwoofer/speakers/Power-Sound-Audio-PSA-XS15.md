@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) XS15 ranks [#10 out of 136 total Medium Powered Home
 - Output SPL at 63 Hz: 118.2 dB
 - Warranty: 5
 - Weight: 59.0lbs / 26.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XS15 Website](https://www.powersoundaudio.com/pages/xs15?_pos=1&_sid=720a7686b&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XS15](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS15)

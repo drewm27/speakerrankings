@@ -25,7 +25,6 @@ The Aperion Audio Bravus 10D ranks [#132 out of 136 total Medium Powered Home Su
 - Output SPL at 80 Hz: 105.0 dB
 - Warranty: 10/2
 - Weight: 44.0lbs / 20.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Aperion Audio Bravus 10D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+10D)
 

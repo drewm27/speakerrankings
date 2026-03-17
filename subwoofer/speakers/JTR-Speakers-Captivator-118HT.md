@@ -27,7 +27,6 @@ The JTR Speakers Captivator 118HT ranks [#28 out of 95 total Large Powered Home 
 - Output SPL at 80 Hz: 125.2 dB
 - Warranty: 5/3
 - Weight: 129.0lbs / 58.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator 118HT Website](https://www.jtrspeakers.com/jtr-captivator-118ht)
     - [Reddit Search for JTR Speakers Captivator 118HT](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+118HT)

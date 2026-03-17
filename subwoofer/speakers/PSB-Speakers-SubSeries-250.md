@@ -25,7 +25,6 @@ The PSB Speakers SubSeries 250 ranks [#120 out of 136 total Medium Powered Home 
 - Output SPL at 80 Hz: 110.6 dB
 - Warranty: 5
 - Weight: 35.4lbs / 16.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [PSB Speakers SubSeries 250 Website](https://www.psbspeakers.com/ca/subseries-250-10-subwoofer)
     - [Reddit Search for PSB Speakers SubSeries 250](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+250)

@@ -24,7 +24,6 @@ The Roku Subwoofer 9201X ranks [#40 out of 42 total Small Powered Home Subwoofer
 - Output SPL at 63 Hz: 95.1 dB
 - Output SPL at 80 Hz: 93.2 dB
 - Weight: 17.15lbs / 7.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Roku Subwoofer 9201X Website](https://www.roku.com/products/audio_roku-wireless-subwoofer)
     - [Reddit Search for Roku Subwoofer 9201X](https://www.reddit.com/search/?q=Roku+Subwoofer+9201X)

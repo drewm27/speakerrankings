@@ -28,7 +28,6 @@ The MartinLogan Dynamo 1500X ranks [#20 out of 136 total Medium Powered Home Sub
 - Output SPL at 80 Hz: 117.4 dB
 - Warranty: 3
 - Weight: 52.0lbs / 23.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [MartinLogan Dynamo 1500X Website](https://www.martinlogan.com/en/product/dynamo-1500x)
     - [Reddit Search for MartinLogan Dynamo 1500X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+1500X)

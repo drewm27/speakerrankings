@@ -30,7 +30,6 @@ The Monoprice Monolith 12 THX Ultra ranks [#81 out of 95 total Large Powered Hom
 - Output SPL at 80 Hz: 116.0 dB
 - Warranty: 5
 - Weight: 98.5lbs / 44.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 12 THX Ultra Website](https://web.archive.org/web/20211221131837/https://www.monoprice.com/product?p_id=24457)
     - [Reddit Search for Monoprice Monolith 12 THX Ultra](https://www.reddit.com/search/?q=Monoprice+Monolith+12+THX+Ultra)

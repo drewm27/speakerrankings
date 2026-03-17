@@ -20,7 +20,6 @@ The Klipsch HD Theater 600 ranks [#10 out of 42 total Small Powered Home Subwoof
 - Output SPL at 40 Hz: 104.9 dB
 - Output SPL at 50 Hz: 107.6 dB
 - Output SPL at 63 Hz: 112.1 dB
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch HD Theater 600 Website](https://www.klipsch.ca/products/high-definition-theater-600-home-theater-system)
     - [Reddit Search for Klipsch HD Theater 600](https://www.reddit.com/search/?q=Klipsch+HD+Theater+600)

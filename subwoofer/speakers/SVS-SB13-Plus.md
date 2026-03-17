@@ -23,7 +23,6 @@ The SVS SB13-Plus ranks [#93 out of 95 total Large Powered Home Subwoofers (Over
 - Output SPL at 63 Hz: 108.1 dB
 - Warranty: 5
 - Weight: 95.0lbs / 43.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB13-Plus Website](https://web.archive.org/web/20111215104658/http://www.svsound.com/subwoofers/sealed-box/sb13-plus?page=shop.product_details&flypage=flypage.tpl&product_id=10&category_id=1)
     - [Reddit Search for SVS SB13-Plus](https://www.reddit.com/search/?q=SVS+SB13-Plus)

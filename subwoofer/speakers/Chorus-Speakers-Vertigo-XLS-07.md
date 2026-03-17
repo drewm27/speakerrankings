@@ -19,7 +19,6 @@ The Chorus Speakers Vertigo XLS 07 ranks [#118 out of 136 total Medium Powered H
 - Output SPL at 63 Hz: 106.8 dB
 - Output SPL at 80 Hz: 106.5 dB
 - Weight: 65.4lbs / 29.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Chorus Speakers Vertigo XLS 07 Website](https://web.archive.org/web/20070222194613/http://www.chorus.fi/view.php?or_id=20&page=index&content_group_id=491&anonymous=chorus)
     - [Reddit Search for Chorus Speakers Vertigo XLS 07](https://www.reddit.com/search/?q=Chorus+Speakers+Vertigo+XLS+07)

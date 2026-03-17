@@ -25,7 +25,6 @@ The Q Acoustics Q B12 ranks [#98 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 80 Hz: 111.7 dB
 - Warranty: 2
 - Weight: 47.4lbs / 21.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Q Acoustics Q B12 Website](https://www.qacoustics.com/b12-subwoofer.html)
     - [Reddit Search for Q Acoustics Q B12](https://www.reddit.com/search/?q=Q+Acoustics+Q+B12)

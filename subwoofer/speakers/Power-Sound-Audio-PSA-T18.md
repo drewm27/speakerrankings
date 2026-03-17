@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) T18 ranks [#6 out of 95 total Large Powered Home Sub
 - Output SPL at 63 Hz: 129.7 dB
 - Warranty: 5
 - Weight: 170.0lbs / 77.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) T18 Website](https://www.powersoundaudio.com/pages/t18?_pos=2&_sid=d326df09a&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) T18](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+T18)

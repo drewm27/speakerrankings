@@ -25,7 +25,6 @@ The Dayton Audio SUB-1000L ranks [#25 out of 42 total Small Powered Home Subwoof
 - Output SPL at 80 Hz: 108.7 dB
 - Warranty: 5
 - Weight: 28.5lbs / 12.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Dayton Audio SUB-1000L Website](https://www.parts-express.com/Dayton-Audio-SUB-1000L-10-100-Watt-Low-Profile-Powered-Subw-300-639)
     - [Reddit Search for Dayton Audio SUB-1000L](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1000L)

@@ -23,7 +23,6 @@ The Kreisel Sound DXD-12012 ranks [#78 out of 95 total Large Powered Home Subwoo
 - Output SPL at 63 Hz: 117.2 dB
 - Warranty: 5
 - Weight: 80.6lbs / 36.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kreisel Sound DXD-12012 Website](https://www.kreiselsound.com/subDXD12012.php)
     - [Reddit Search for Kreisel Sound DXD-12012](https://www.reddit.com/search/?q=Kreisel+Sound+DXD-12012)

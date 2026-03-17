@@ -25,7 +25,6 @@ The ELAC SUB3010 ranks [#125 out of 136 total Medium Powered Home Subwoofers (30
 - Output SPL at 80 Hz: 108.6 dB
 - Warranty: 3/1
 - Weight: 32.1lbs / 14.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [ELAC SUB3010 Website](https://www.elac.com/series/powered-subwoofers/sub-3010/)
     - [Reddit Search for ELAC SUB3010](https://www.reddit.com/search/?q=ELAC+SUB3010)

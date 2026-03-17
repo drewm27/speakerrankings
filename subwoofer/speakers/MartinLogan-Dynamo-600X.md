@@ -26,7 +26,6 @@ The MartinLogan Dynamo 600X ranks [#101 out of 136 total Medium Powered Home Sub
 - Output SPL at 80 Hz: 109.3 dB
 - Warranty: 3
 - Weight: 35.5lbs / 16.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [MartinLogan Dynamo 600X Website](https://www.martinlogan.com/en/product/dynamo-600x)
     - [Reddit Search for MartinLogan Dynamo 600X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+600X)

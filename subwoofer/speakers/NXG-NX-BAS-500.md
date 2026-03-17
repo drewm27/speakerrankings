@@ -21,7 +21,6 @@ The NXG NX-BAS-500 ranks [#85 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 50 Hz: 110.8 dB
 - Output SPL at 63 Hz: 110.5 dB
 - Weight: 35.0lbs / 15.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [NXG NX-BAS-500 Website](https://web.archive.org/web/20170914203227/http://www.nxgtechnology.com/subwoofers.html)
     - [Reddit Search for NXG NX-BAS-500](https://www.reddit.com/search/?q=NXG+NX-BAS-500)

@@ -24,7 +24,6 @@ The Premier Acoustics PA-150 ranks [#73 out of 95 total Large Powered Home Subwo
 - Output SPL at 63 Hz: 121.0 dB
 - Output SPL at 80 Hz: 120.8 dB
 - Weight: 87.0lbs / 39.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Premier Acoustics PA-150](https://www.reddit.com/search/?q=Premier+Acoustics+PA-150)
 

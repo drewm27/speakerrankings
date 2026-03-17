@@ -23,7 +23,6 @@ The HSU Research VTF-3 MK4 ranks [#31 out of 136 total Medium Powered Home Subwo
 - Output SPL at 63 Hz: 115.8 dB
 - Output SPL at 80 Hz: 115.7 dB
 - Weight: 74.0lbs / 33.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-3 MK4 Website](https://web.archive.org/web/20191229081516/http://www.hsuresearch.com/products/vtf-3mk4.html)
     - [Reddit Search for HSU Research VTF-3 MK4](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK4)

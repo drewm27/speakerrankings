@@ -23,7 +23,6 @@ The Focal Sub Air ranks [#27 out of 42 total Small Powered Home Subwoofers (Unde
 - Output SPL at 80 Hz: 108.3 dB
 - Warranty: 1(or3)
 - Weight: 17.0lbs / 7.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Focal Sub Air Website](https://www.focal.com/en/home-audio/home-theater/subwoofers/sub-air)
     - [Reddit Search for Focal Sub Air](https://www.reddit.com/search/?q=Focal+Sub+Air)

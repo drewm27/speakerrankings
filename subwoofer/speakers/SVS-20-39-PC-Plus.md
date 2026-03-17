@@ -26,7 +26,6 @@ The SVS 20-39 PC-Plus ranks [#60 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 80 Hz: 110.8 dB
 - Warranty: 5
 - Weight: 55.0lbs / 24.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS 20-39 PC-Plus Website](https://web.archive.org/web/20061228184421/http://www.svsound.com/products-sub-cyl-plpow2.cfm)
     - [Reddit Search for SVS 20-39 PC-Plus](https://www.reddit.com/search/?q=SVS+20-39+PC-Plus)

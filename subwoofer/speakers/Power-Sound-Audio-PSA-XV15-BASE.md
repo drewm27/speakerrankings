@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) XV15-BASE ranks [#6 out of 136 total Medium Powered 
 - Output SPL at 63 Hz: 119.1 dB
 - Warranty: 5
 - Weight: 75.0lbs / 34.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XV15-BASE Website](https://www.powersoundaudio.com/pages/xv15-base?_pos=1&_sid=ed5c8d77b&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XV15-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15-BASE)

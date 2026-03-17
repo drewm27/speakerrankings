@@ -20,7 +20,6 @@ The Wharfedale DX-1 ranks [#31 out of 42 total Small Powered Home Subwoofers (Un
 - Output SPL at 50 Hz: 104.1 dB
 - Output SPL at 63 Hz: 103.8 dB
 - Weight: 18.96lbs / 8.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Wharfedale DX-1](https://www.reddit.com/search/?q=Wharfedale+DX-1)
 

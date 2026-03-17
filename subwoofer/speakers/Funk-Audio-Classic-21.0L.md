@@ -29,7 +29,6 @@ The Funk Audio Classic 21.0L ranks [#30 out of 95 total Large Powered Home Subwo
 - Output SPL at 80 Hz: 122.0 dB
 - Warranty: 3
 - Weight: 155.0lbs / 70.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Classic 21.0L Website](https://www.funkaudio.ca/store/p45/Funk_Audio_21.0L.html)
     - [Reddit Search for Funk Audio Classic 21.0L](https://www.reddit.com/search/?q=Funk+Audio+Classic+21.0L)

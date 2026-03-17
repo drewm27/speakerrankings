@@ -22,7 +22,6 @@ The Paradigm Millenia CT ranks [#38 out of 42 total Small Powered Home Subwoofer
 - Output SPL at 63 Hz: 106.7 dB
 - Warranty: 3
 - Weight: 5.0lbs / 2.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Millenia CT Website](https://www.paradigm.com/en/systems/millenia-ct)
     - [Reddit Search for Paradigm Millenia CT](https://www.reddit.com/search/?q=Paradigm+Millenia+CT)

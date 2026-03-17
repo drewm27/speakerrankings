@@ -24,7 +24,6 @@ The Sunfire XTEQ12 ranks [#89 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 63 Hz: 112.4 dB
 - Warranty: 5
 - Weight: 60.0lbs / 27.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sunfire XTEQ12 Website](https://www.sunfire.com/product/xteq-subwoofer-eq-dual-12-multivoltage-XTEQ12)
     - [Reddit Search for Sunfire XTEQ12](https://www.reddit.com/search/?q=Sunfire+XTEQ12)

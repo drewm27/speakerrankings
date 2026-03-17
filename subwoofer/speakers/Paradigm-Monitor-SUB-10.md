@@ -23,7 +23,6 @@ The Paradigm Monitor SUB 10 ranks [#115 out of 136 total Medium Powered Home Sub
 - Output SPL at 63 Hz: 107.4 dB
 - Warranty: 3
 - Weight: 30.0lbs / 13.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Monitor SUB 10 Website](https://www.paradigm.com/en/sealed/monitor-sub-10)
     - [Reddit Search for Paradigm Monitor SUB 10](https://www.reddit.com/search/?q=Paradigm+Monitor+SUB+10)

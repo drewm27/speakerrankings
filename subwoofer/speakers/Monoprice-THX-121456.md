@@ -23,7 +23,6 @@ The Monoprice THX 121456 ranks [#94 out of 95 total Large Powered Home Subwoofer
 - Output SPL at 63 Hz: 109.3 dB
 - Output SPL at 80 Hz: 110.5 dB
 - Weight: 98.5lbs / 44.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Monoprice THX 121456](https://www.reddit.com/search/?q=Monoprice+THX+121456)
 

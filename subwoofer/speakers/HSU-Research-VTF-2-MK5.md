@@ -28,7 +28,6 @@ The HSU Research VTF-2 MK5 ranks [#22 out of 136 total Medium Powered Home Subwo
 - Output SPL at 80 Hz: 116.7 dB
 - Warranty: 7/2(+3)
 - Weight: 62.0lbs / 28.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [HSU Research VTF-2 MK5 Website](https://www.hsuresearch.com/products/vtf-2mk5.html)
     - [Reddit Search for HSU Research VTF-2 MK5](https://www.reddit.com/search/?q=HSU+Research+VTF-2+MK5)

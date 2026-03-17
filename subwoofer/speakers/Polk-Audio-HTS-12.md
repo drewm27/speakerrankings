@@ -25,7 +25,6 @@ The Polk Audio HTS 12 ranks [#48 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 80 Hz: 114.3 dB
 - Warranty: 5/3
 - Weight: 49.9lbs / 22.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Polk Audio HTS 12 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-12/112632-new.html?dwvar_112632-new_color=Black)
     - [Reddit Search for Polk Audio HTS 12](https://www.reddit.com/search/?q=Polk+Audio+HTS+12)

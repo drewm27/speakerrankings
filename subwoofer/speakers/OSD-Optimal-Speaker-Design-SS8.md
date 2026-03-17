@@ -24,7 +24,6 @@ The OSD (Optimal Speaker Design) SS8 ranks [#22 out of 42 total Small Powered Ho
 - Output SPL at 63 Hz: 109.6 dB
 - Output SPL at 80 Hz: 109.7 dB
 - Warranty: 2?
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for OSD (Optimal Speaker Design) SS8](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+SS8)
 

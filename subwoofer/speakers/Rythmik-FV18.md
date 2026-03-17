@@ -28,7 +28,6 @@ The Rythmik FV18 ranks [#42 out of 95 total Large Powered Home Subwoofers (Over 
 - Output SPL at 80 Hz: 121.9 dB
 - Warranty: 5/3
 - Weight: 160.0lbs / 72.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Rythmik FV18 Website](http://www.rythmikaudio.com/FV18.html)
     - [Reddit Search for Rythmik FV18](https://www.reddit.com/search/?q=Rythmik+FV18)

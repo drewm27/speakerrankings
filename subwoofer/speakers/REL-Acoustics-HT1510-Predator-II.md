@@ -27,7 +27,6 @@ The REL Acoustics HT/1510 Predator II ranks [#69 out of 95 total Large Powered H
 - Output SPL at 80 Hz: 118.4 dB
 - Warranty: 3
 - Weight: 99.7lbs / 45.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [REL Acoustics HT/1510 Predator II Website](https://rel.net/shop/powered-subwoofers/serie-ht/ht-1510-predator/)
     - [Reddit Search for REL Acoustics HT/1510 Predator II](https://www.reddit.com/search/?q=REL+Acoustics+HT%2F1510+Predator+II)

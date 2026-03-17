@@ -24,7 +24,6 @@ The Yamaha YST-SW215 ranks [#26 out of 42 total Small Powered Home Subwoofers (U
 - Output SPL at 80 Hz: 112.5 dB
 - Warranty: 2
 - Weight: 25.3lbs / 11.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Yamaha YST-SW215 Website](https://usa.yamaha.com/products/audio_visual/speaker_systems/yst-sw215/index.html)
     - [Reddit Search for Yamaha YST-SW215](https://www.reddit.com/search/?q=Yamaha+YST-SW215)

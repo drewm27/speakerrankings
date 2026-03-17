@@ -23,7 +23,6 @@ The Power Sound Audio (PSA) XS30SE ranks [#33 out of 95 total Large Powered Home
 - Output SPL at 63 Hz: 122.2 dB
 - Warranty: 5
 - Weight: 109.0lbs / 49.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Power Sound Audio (PSA) XS30SE Website](https://www.powersoundaudio.com/pages/xs30se?_pos=1&_sid=be7633c01&_ss=r)
     - [Reddit Search for Power Sound Audio (PSA) XS30SE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS30SE)

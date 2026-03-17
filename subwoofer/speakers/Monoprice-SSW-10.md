@@ -25,7 +25,6 @@ The Monoprice SSW-10 ranks [#106 out of 136 total Medium Powered Home Subwoofers
 - Output SPL at 80 Hz: 116.1 dB
 - Warranty: 1
 - Weight: 30.0lbs / 13.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice SSW-10 Website](https://www.monoprice.com/product?p_id=33830)
     - [Reddit Search for Monoprice SSW-10](https://www.reddit.com/search/?q=Monoprice+SSW-10)

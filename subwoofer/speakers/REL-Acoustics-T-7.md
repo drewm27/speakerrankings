@@ -23,7 +23,6 @@ The REL Acoustics T-7 ranks [#121 out of 136 total Medium Powered Home Subwoofer
 - Output SPL at 63 Hz: 105.5 dB
 - Warranty: 3
 - Weight: 31.0lbs / 14.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [REL Acoustics T-7 Website](https://web.archive.org/web/20130826092244/http://www.sumikoaudio.net/rel/prod_t7.htm)
     - [Reddit Search for REL Acoustics T-7](https://www.reddit.com/search/?q=REL+Acoustics+T-7)

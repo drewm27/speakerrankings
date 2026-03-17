@@ -27,7 +27,6 @@ The Klipsch SW-311 ranks [#58 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 80 Hz: 115.2 dB
 - Warranty: 5/2
 - Weight: 37.0lbs / 16.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch SW-311 Website](https://www.klipsch.ca/products/sw-311-subwoofer)
     - [Reddit Search for Klipsch SW-311](https://www.reddit.com/search/?q=Klipsch+SW-311)

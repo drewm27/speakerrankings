@@ -25,7 +25,6 @@ The Kef KC62 ranks [#136 out of 136 total Medium Powered Home Subwoofers (30–7
 - Output SPL at 80 Hz: 102.6 dB
 - Warranty: 5/2/5
 - Weight: 30.86lbs / 14.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kef KC62 Website](https://us.kef.com/products/kc62-subwoofer)
     - [Reddit Search for Kef KC62](https://www.reddit.com/search/?q=Kef+KC62)

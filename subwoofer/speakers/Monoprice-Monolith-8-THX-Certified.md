@@ -25,7 +25,6 @@ The Monoprice Monolith 8 THX Certified ranks [#37 out of 42 total Small Powered 
 - Output SPL at 63 Hz: 100.7 dB
 - Output SPL at 80 Hz: 101.6 dB
 - Weight: 19.8lbs / 9.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monoprice Monolith 8 THX Certified Website](https://www.monoprice.com/product?p_id=41289)
     - [Reddit Search for Monoprice Monolith 8 THX Certified](https://www.reddit.com/search/?q=Monoprice+Monolith+8+THX+Certified)

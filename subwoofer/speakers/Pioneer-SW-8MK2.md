@@ -25,7 +25,6 @@ The Pioneer SW-8MK2 ranks [#18 out of 42 total Small Powered Home Subwoofers (Un
 - Output SPL at 80 Hz: 108.6 dB
 - Warranty: 1?
 - Weight: 20.0lbs / 9.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Pioneer SW-8MK2 Website](https://www.pioneerelectronics.ca/POCEN/Home/Speakers/Pioneer+Speakers/SW-8MK2)
     - [Reddit Search for Pioneer SW-8MK2](https://www.reddit.com/search/?q=Pioneer+SW-8MK2)

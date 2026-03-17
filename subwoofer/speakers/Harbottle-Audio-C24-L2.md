@@ -27,7 +27,6 @@ The Harbottle Audio C24 L2 ranks [#11 out of 95 total Large Powered Home Subwoof
 - Output SPL at 63 Hz: 126.7 dB
 - Output SPL at 80 Hz: 126.0 dB
 - Weight: 150.0lbs / 68.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Harbottle Audio C24 L2 Website](https://www.harbottleaudio.com/product-page/c24)
     - [Reddit Search for Harbottle Audio C24 L2](https://www.reddit.com/search/?q=Harbottle+Audio+C24+L2)

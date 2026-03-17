@@ -27,7 +27,6 @@ The Jamo C 912 SUB ranks [#119 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 80 Hz: 108.1 dB
 - Warranty: 5/2
 - Weight: 41.66lbs / 18.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Jamo C 912 SUB Website](https://intl.jamo.com/speakers/subwoofers/c-912sub)
     - [Reddit Search for Jamo C 912 SUB](https://www.reddit.com/search/?q=Jamo+C+912+SUB)

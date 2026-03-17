@@ -27,7 +27,6 @@ The MartinLogan Dynamo 1100X ranks [#19 out of 136 total Medium Powered Home Sub
 - Output SPL at 80 Hz: 120.7 dB
 - Warranty: 3
 - Weight: 46.0lbs / 20.9kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [MartinLogan Dynamo 1100X Website](https://www.martinlogan.com/en/product/dynamo-1100x)
     - [Reddit Search for MartinLogan Dynamo 1100X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+1100X)

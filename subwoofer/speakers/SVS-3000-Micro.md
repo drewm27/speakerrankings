@@ -24,7 +24,6 @@ The SVS 3000 Micro ranks [#13 out of 42 total Small Powered Home Subwoofers (Und
 - Output SPL at 80 Hz: 116.1 dB
 - Warranty: 5
 - Weight: 22.5lbs / 10.2kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS 3000 Micro Website](https://www.svsound.com/products/3000-micro-subwoofer)
     - [Reddit Search for SVS 3000 Micro](https://www.reddit.com/search/?q=SVS+3000+Micro)

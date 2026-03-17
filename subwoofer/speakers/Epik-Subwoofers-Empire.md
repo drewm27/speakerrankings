@@ -26,7 +26,6 @@ The Epik Subwoofers Empire ranks [#47 out of 95 total Large Powered Home Subwoof
 - Output SPL at 63 Hz: 122.2 dB
 - Output SPL at 80 Hz: 124.6 dB
 - Weight: 120.0lbs / 54.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Epik Subwoofers Empire](https://www.reddit.com/search/?q=Epik+Subwoofers+Empire)
 

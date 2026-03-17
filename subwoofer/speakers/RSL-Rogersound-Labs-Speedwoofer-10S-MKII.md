@@ -27,7 +27,6 @@ The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks [#65 out of 136 total Mediu
 - Output SPL at 80 Hz: 112.1 dB
 - Warranty: ?
 - Weight: 40.6lbs / 18.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RSL (Rogersound Labs) Speedwoofer 10S MKII Website](https://rslspeakers.com/products/speedwoofer-10s-mkii/?attribute_pa_color=black)
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S MKII](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S+MKII)

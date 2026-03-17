@@ -25,7 +25,6 @@ The JBL SUB 550P ranks [#131 out of 136 total Medium Powered Home Subwoofers (30
 - Output SPL at 80 Hz: 103.7 dB
 - Warranty: 1
 - Weight: 50.0lbs / 22.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JBL SUB 550P Website](https://www.jbl.com/home-audio/SUB+550P.html)
     - [Reddit Search for JBL SUB 550P](https://www.reddit.com/search/?q=JBL+SUB+550P)

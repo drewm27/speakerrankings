@@ -24,7 +24,6 @@ The Monitor Audio BRW10 ranks [#14 out of 42 total Small Powered Home Subwoofers
 - Output SPL at 63 Hz: 110.5 dB
 - Output SPL at 80 Hz: 112.3 dB
 - Weight: 27.5lbs / 12.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monitor Audio BRW10 Website](https://www.monitoraudio.com/en/support/past-products/bronze-br/brw10/)
     - [Reddit Search for Monitor Audio BRW10](https://www.reddit.com/search/?q=Monitor+Audio+BRW10)

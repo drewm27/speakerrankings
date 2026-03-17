@@ -27,7 +27,6 @@ The Chase Home Theater SS18.1 ranks [#8 out of 10 total Large Passive Home Subwo
 - Output SPL at 80 Hz: 130.8 dB
 - Passive: Yes
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Chase Home Theater SS18.1](https://www.reddit.com/search/?q=Chase+Home+Theater+SS18.1)
 

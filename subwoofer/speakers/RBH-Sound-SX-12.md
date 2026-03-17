@@ -26,7 +26,6 @@ The RBH Sound SX-12 ranks [#30 out of 136 total Medium Powered Home Subwoofers (
 - Output SPL at 80 Hz: 115.1 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 53.0lbs / 24.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RBH Sound SX-12 Website](https://rbhsound.com/sx12.php)
     - [Reddit Search for RBH Sound SX-12](https://www.reddit.com/search/?q=RBH+Sound+SX-12)

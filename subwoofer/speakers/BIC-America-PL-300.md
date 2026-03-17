@@ -26,7 +26,6 @@ The BIC America PL-300 ranks [#46 out of 136 total Medium Powered Home Subwoofer
 - Output SPL at 80 Hz: 110.9 dB
 - Warranty: 8/5
 - Weight: 48.0lbs / 21.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BIC America PL-300 Website](https://www.bicamerica.com/product-page/acoustech-elite-series-pl-300)
     - [Reddit Search for BIC America PL-300](https://www.reddit.com/search/?q=BIC+America+PL-300)

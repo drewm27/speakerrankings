@@ -24,7 +24,6 @@ The Axiom Audio EP400 v3 ranks [#39 out of 42 total Small Powered Home Subwoofer
 - Output SPL at 63 Hz: 98.0 dB
 - Output SPL at 80 Hz: 98.0 dB
 - Warranty: 5
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Axiom Audio EP400 v3](https://www.reddit.com/search/?q=Axiom+Audio+EP400+v3)
 

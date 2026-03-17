@@ -23,7 +23,6 @@ The Velodyne Acoustics SPL-1200 Series II ranks [#3 out of 42 total Small Powere
 - Output SPL at 63 Hz: 112.0 dB
 - Output SPL at 80 Hz: 111.0 dB
 - Weight: 21.0lbs / 9.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Velodyne Acoustics SPL-1200 Series II](https://www.reddit.com/search/?q=Velodyne+Acoustics+SPL-1200+Series+II)
 

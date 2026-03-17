@@ -24,7 +24,6 @@ The Sigberg Audio INKOGNITO 10 ranks [#84 out of 136 total Medium Powered Home S
 - Output SPL at 63 Hz: 112.0 dB
 - Output SPL at 80 Hz: 113.0 dB
 - Weight: 44.09lbs / 20.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Sigberg Audio INKOGNITO 10 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
     - [Reddit Search for Sigberg Audio INKOGNITO 10](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+10)

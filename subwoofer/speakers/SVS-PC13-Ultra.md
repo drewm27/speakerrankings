@@ -24,7 +24,6 @@ The SVS PC13-Ultra ranks [#56 out of 95 total Large Powered Home Subwoofers (Ove
 - Output SPL at 63 Hz: 119.9 dB
 - Warranty: 5
 - Weight: 90.0lbs / 40.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS PC13-Ultra Website](https://www.svsound.com/products/pc13-ultra)
     - [Reddit Search for SVS PC13-Ultra](https://www.reddit.com/search/?q=SVS+PC13-Ultra)

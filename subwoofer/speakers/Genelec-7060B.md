@@ -24,7 +24,6 @@ The Genelec 7060B ranks [#113 out of 136 total Medium Powered Home Subwoofers (3
 - Output SPL at 80 Hz: 110.4 dB
 - Warranty: 2(+3)
 - Weight: 57.32lbs / 26.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Genelec 7060B Website](https://www.genelec.com/previous-models/7060b)
     - [Reddit Search for Genelec 7060B](https://www.reddit.com/search/?q=Genelec+7060B)

@@ -27,7 +27,6 @@ The Funk Audio Ultra 24.0 ranks [#9 out of 95 total Large Powered Home Subwoofer
 - Output SPL at 63 Hz: 127.6 dB
 - Output SPL at 80 Hz: 127.0 dB
 - Warranty: 3
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Funk Audio Ultra 24.0 Website](https://www.funkaudio.ca/store/p54/Funk_Audio_24.0.html)
     - [Reddit Search for Funk Audio Ultra 24.0](https://www.reddit.com/search/?q=Funk+Audio+Ultra+24.0)

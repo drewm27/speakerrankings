@@ -26,7 +26,6 @@ The Paradigm Defiance X12 ranks [#5 out of 136 total Medium Powered Home Subwoof
 - Output SPL at 80 Hz: 120.8 dB
 - Warranty: 3
 - Weight: 62.0lbs / 28.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Defiance X12 Website](https://www.paradigm.com/en/ported/defiance-x12)
     - [Reddit Search for Paradigm Defiance X12](https://www.reddit.com/search/?q=Paradigm+Defiance+X12)

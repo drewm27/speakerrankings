@@ -30,7 +30,6 @@ The RTJ Audio 18Sub ranks [#24 out of 95 total Large Powered Home Subwoofers (Ov
 - Output SPL at 80 Hz: 124.2 dB
 - Warranty: ?
 - Weight: 120.0lbs / 54.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [RTJ Audio 18Sub Website](https://www.rtjaudio.com/)
     - [Reddit Search for RTJ Audio 18Sub](https://www.reddit.com/search/?q=RTJ+Audio+18Sub)

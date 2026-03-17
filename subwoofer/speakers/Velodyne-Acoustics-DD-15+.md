@@ -23,7 +23,6 @@ The Velodyne Acoustics DD-15+ ranks [#63 out of 95 total Large Powered Home Subw
 - Output SPL at 50 Hz: 118.9 dB
 - Output SPL at 63 Hz: 118.2 dB
 - Weight: 120.0lbs / 54.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Velodyne Acoustics DD-15+ Website](https://www.velodyneacoustics.com/en/products/digital-drive-plus/)
     - [Reddit Search for Velodyne Acoustics DD-15+](https://www.reddit.com/search/?q=Velodyne+Acoustics+DD-15%2B)

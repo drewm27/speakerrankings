@@ -22,7 +22,6 @@ The NHT B-12d ranks [#38 out of 136 total Medium Powered Home Subwoofers (30–7
 - Output SPL at 50 Hz: 114.4 dB
 - Output SPL at 63 Hz: 114.4 dB
 - Weight: 33.7lbs / 15.3kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for NHT B-12d](https://www.reddit.com/search/?q=NHT+B-12d)
 

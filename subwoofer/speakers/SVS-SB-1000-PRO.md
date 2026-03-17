@@ -26,7 +26,6 @@ The SVS SB-1000 PRO ranks [#2 out of 42 total Small Powered Home Subwoofers (Und
 - Output SPL at 80 Hz: 115.2 dB
 - Warranty: 5
 - Weight: 26.0lbs / 11.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [SVS SB-1000 PRO Website](https://www.svsound.com/products/sb-1000-pro-subwoofer)
     - [Reddit Search for SVS SB-1000 PRO](https://www.reddit.com/search/?q=SVS+SB-1000+PRO)

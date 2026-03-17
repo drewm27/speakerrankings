@@ -24,7 +24,6 @@ The Polk Audio PSW10 ranks [#4 out of 42 total Small Powered Home Subwoofers (Un
 - Output SPL at 80 Hz: 113.1 dB
 - Warranty: 5/3
 - Weight: 26.0lbs / 11.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Polk Audio PSW10 Website](https://www.polkaudio.com/en-us/product/subwoofers/psw-10)
     - [Reddit Search for Polk Audio PSW10](https://www.reddit.com/search/?q=Polk+Audio+PSW10)

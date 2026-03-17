@@ -27,7 +27,6 @@ The BIC America F-12 ranks [#88 out of 136 total Medium Powered Home Subwoofers 
 - Output SPL at 80 Hz: 111.9 dB
 - Warranty: 5
 - Weight: 42.0lbs / 19.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [BIC America F-12 Website](https://www.bicamerica.com/product-page/formula-series-f-12-475w)
     - [Reddit Search for BIC America F-12](https://www.reddit.com/search/?q=BIC+America+F-12)

@@ -26,7 +26,6 @@ The Arendal 1961 Subwoofer 1V ranks [#80 out of 95 total Large Powered Home Subw
 - Output SPL at 80 Hz: 117.3 dB
 - Warranty: 10/5
 - Weight: 79.58lbs / 36.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Arendal 1961 Subwoofer 1V Website](https://arendalsound.com/product/1961-subwoofer-1v/)
     - [Reddit Search for Arendal 1961 Subwoofer 1V](https://www.reddit.com/search/?q=Arendal+1961+Subwoofer+1V)

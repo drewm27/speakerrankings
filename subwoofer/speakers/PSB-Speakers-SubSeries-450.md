@@ -24,7 +24,6 @@ The PSB Speakers SubSeries 450 ranks [#24 out of 136 total Medium Powered Home S
 - Output SPL at 80 Hz: 118.9 dB
 - Warranty: 5
 - Weight: 43.0lbs / 19.5kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [PSB Speakers SubSeries 450 Website](https://www.psbspeakers.com/ca/subseries-450-12-dsp-subwoofer)
     - [Reddit Search for PSB Speakers SubSeries 450](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+450)

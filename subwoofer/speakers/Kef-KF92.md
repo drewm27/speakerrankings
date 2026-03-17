@@ -25,7 +25,6 @@ The Kef KF92 ranks [#129 out of 136 total Medium Powered Home Subwoofers (30–7
 - Output SPL at 80 Hz: 106.3 dB
 - Warranty: 5/2/5
 - Weight: 44.09lbs / 20.0kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Kef KF92 Website](https://us.kef.com/products/kf92-subwoofer)
     - [Reddit Search for Kef KF92](https://www.reddit.com/search/?q=Kef+KF92)

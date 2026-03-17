@@ -27,7 +27,6 @@ The Paradigm Defiance X15 ranks [#27 out of 95 total Large Powered Home Subwoofe
 - Output SPL at 80 Hz: 123.1 dB
 - Warranty: 3
 - Weight: 92.0lbs / 41.7kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Paradigm Defiance X15 Website](https://www.paradigm.com/en/ported/defiance-x15)
     - [Reddit Search for Paradigm Defiance X15](https://www.reddit.com/search/?q=Paradigm+Defiance+X15)

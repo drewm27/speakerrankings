@@ -25,7 +25,6 @@ The JL Audio Fathom f110 ranks [#130 out of 136 total Medium Powered Home Subwoo
 - Output SPL at 80 Hz: 101.0 dB
 - Warranty: 3
 - Weight: 67.0lbs / 30.4kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for JL Audio Fathom f110](https://www.reddit.com/search/?q=JL+Audio+Fathom+f110)
 

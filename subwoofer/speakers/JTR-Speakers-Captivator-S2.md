@@ -30,7 +30,6 @@ The JTR Speakers Captivator S2 ranks [#7 out of 95 total Large Powered Home Subw
 - Output SPL at 80 Hz: 128.5 dB
 - Warranty: 5/3
 - Weight: 220.0lbs / 99.8kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator S2 Website](https://web.archive.org/web/20190307135926/http://jtrspeakers.com/captivator-s2.html)
     - [Reddit Search for JTR Speakers Captivator S2](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+S2)

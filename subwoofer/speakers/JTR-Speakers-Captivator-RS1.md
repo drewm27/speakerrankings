@@ -29,7 +29,6 @@ The JTR Speakers Captivator RS1 ranks [#38 out of 95 total Large Powered Home Su
 - Output SPL at 80 Hz: 121.9 dB
 - Warranty: 5/3
 - Weight: 117.0lbs / 53.1kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [JTR Speakers Captivator RS1 Website](https://www.jtrspeakers.com/jtr-captivator-rs1)
     - [Reddit Search for JTR Speakers Captivator RS1](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+RS1)

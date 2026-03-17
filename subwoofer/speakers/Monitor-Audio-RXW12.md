@@ -23,7 +23,6 @@ The Monitor Audio RXW12 ranks [#79 out of 136 total Medium Powered Home Subwoofe
 - Output SPL at 63 Hz: 106.3 dB
 - Warranty: 5
 - Weight: 49.82lbs / 22.6kg
-- Reviews, Comparisons and Sound Samples
 - Links
     - [Monitor Audio RXW12 Website](https://www.monitoraudio.com/en/support/past-products/silver-rx/rxw12/)
     - [Reddit Search for Monitor Audio RXW12](https://www.reddit.com/search/?q=Monitor+Audio+RXW12)
