@@ -2,12 +2,12 @@
 layout: page
 title: JBL Clip 4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Clip 4 ranks #20 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Clip 4 ranks #21 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Clip 4 ranks [#20 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#20-jbl-clip-4-amazon-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Clip 4 ranks [#21 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#21-jbl-clip-4-amazon-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #20 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325)]: $80
+## #21 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325)]: $80
 - Negatives: Quite a lack of bass. Not very loud.
 - App: No
 - Aux Input: No

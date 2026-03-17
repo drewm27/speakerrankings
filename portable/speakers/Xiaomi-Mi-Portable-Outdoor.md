@@ -2,12 +2,12 @@
 layout: page
 title: Xiaomi Mi Portable Outdoor Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Xiaomi Mi Portable Outdoor ranks #33 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Xiaomi Mi Portable Outdoor ranks #34 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Xiaomi Mi Portable Outdoor ranks [#33 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#33-xiaomi-mi-portable-outdoor-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Xiaomi Mi Portable Outdoor ranks [#34 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#34-xiaomi-mi-portable-outdoor-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #33 Xiaomi Mi Portable Outdoor
+## #34 Xiaomi Mi Portable Outdoor
 - Negatives: Not much bass, treble rolled off
 - App: No
 - Aux Input: No

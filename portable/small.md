@@ -6,7 +6,7 @@ cover-img: "/assets/img/stormboxmicro2.jpg"
 share-description: "Explore the top small size Bluetooth speakers. Compact, lightweight, and powerful picks expertly ranked for portability, sound quality & budget."
 ---
 
-This page ranks 42 small size Bluetooth speakers. Only choose this size if you need something ultra-compact that fits in a pocket. Larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price. Bass can sound a bit slappy since these speakers can't quite reach low enough for full bass notes. All are mono (single driver) and IPX7 or better unless noted.
+This page ranks 43 small size Bluetooth speakers. Only choose this size if you need something ultra-compact that fits in a pocket. Larger classes will get louder, have deeper bass, stereo imaging, and generally better sound at the same price. Bass can sound a bit slappy since these speakers can't quite reach low enough for full bass notes. All are mono (single driver) and IPX7 or better unless noted.
 
 To the average listener, speakers in the top 50% of this category will likely sound great. For the critical listener, aim for the top 20%. Don't hesitate to pick any of those if you have budget, feature, or aesthetic priorities, there are a lot of good speakers here.
 
@@ -496,7 +496,32 @@ Last updated: March 17, 2026
     - [Reddit Search for Mifa Tango](https://www.reddit.com/search/?q=Mifa+Tango)
     - [Direct Speakerranking Link](/portable/speakers/Mifa-Tango/)
 
-## #17 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325)]: $99
+## #17 [Bose Soundlink Micro 2](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=se&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=se&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl)]: $129
+- Negatives: Lack of clarity. Overly boosted bass
+- App: Yes
+- Aux Input: No
+- Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: AAC, aptX, SBC
+- Bluetooth Version: 5.4
+- Built in Microphone: No
+- Charging Time: 3 hours
+- Dimensions: 4.094" x 4.094" x 1.693" (104 x 104 x 43 mm)
+- EQ: Yes
+- IP Rating: IP67
+- Party Mode: Yes (Bose Party mode)
+- Power Bank: No
+- Power Input: USB-C
+- Stereo: No
+- TWS: Yes
+- Weight: 0.725lbs / 329g
+- Reviews, Comparisons and Sound Samples
+    - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
+- Links
+    - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-portable-speaker-2nd-gen/SLMC2-SPEAKERWIRELESS.html)
+    - [Reddit Search for Bose Soundlink Micro 2](https://www.reddit.com/search/?q=Bose+Soundlink+Micro+2)
+    - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Micro-2/)
+
+## #18 [Bose Soundlink Micro](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a32836a06f2d86dd0658a113b7369709&camp=1789&creative=9325)]: $99
 - Negatives: Lack of clarity. Overly boosted bass
 - App: Yes
 - Aux Input: No
@@ -528,7 +553,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Bose Soundlink Micro](https://www.reddit.com/search/?q=Bose+Soundlink+Micro)
     - [Direct Speakerranking Link](/portable/speakers/Bose-Soundlink-Micro/)
 
-## #18 [Tozo PE1](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl)]: $23
+## #19 [Tozo PE1](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/dp/B0DFH1V13J?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=786e4a2e426a462e81d6e74a21ce9068&language=en_US&ref_=as_li_ss_tl)]: $23
 - Positives: Pretty amazing value for the money. Very long battery life.
 - Negatives: Bass not quite as deep as the top ranked speakers.
 - App: Yes
@@ -558,7 +583,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Tozo PE1](https://www.reddit.com/search/?q=Tozo+PE1)
     - [Direct Speakerranking Link](/portable/speakers/Tozo-PE1/)
 
-## #19 [JBL Clip 5](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808901-REG/jbl_jblclip5blkam_clip_5_portable_waterproof.html?BI=23745&KBID=29189)]: $60
+## #20 [JBL Clip 5](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808901-REG/jbl_jblclip5blkam_clip_5_portable_waterproof.html?BI=23745&KBID=29189)]: $60
 - Negatives: Generally more of the same from the Clip series in terms of sound but with more features. Basically about the same as the Clip 4
 - App: Yes
 - Aux Input: No
@@ -585,7 +610,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL Clip 5](https://www.reddit.com/search/?q=JBL+Clip+5)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-5/)
 
-## #20 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325)]: $80
+## #21 [JBL Clip 4](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Built-Waterproof-JBLCLIP4BLKAM/dp/B08PJ7JMQM/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5779412dec9bbfc443a24f10ab990ddc&camp=1789&creative=9325)]: $80
 - Negatives: Quite a lack of bass. Not very loud.
 - App: No
 - Aux Input: No
@@ -618,7 +643,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL Clip 4](https://www.reddit.com/search/?q=JBL+Clip+4)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-4/)
 
-## #21 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1933048-REG/soundcore_by_anker_a31x1012_select_4_go_bluetooth.html?BI=23745&KBID=29189)]: $25
+## #22 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1933048-REG/soundcore_by_anker_a31x1012_select_4_go_bluetooth.html?BI=23745&KBID=29189)]: $25
 - Positives: Quite inexpensive for what you get
 - Negatives: Not as deep of bass as higher ranked speakers
 - App: Yes
@@ -648,7 +673,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Soundcore Select 4 Go](https://www.reddit.com/search/?q=Soundcore+Select+4+Go)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Select-4-Go/)
 
-## #22 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
+## #23 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
 - App: Yes
@@ -682,7 +707,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL Go 4](https://www.reddit.com/search/?q=JBL+Go+4)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-4/)
 
-## #23 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325)]: $50
+## #24 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325)]: $50
 - Negatives: Not much bass at all, strange mids peak.
 - App: No
 - Aux Input: No
@@ -718,7 +743,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL Go 3](https://www.reddit.com/search/?q=JBL+Go+3)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-3/)
 
-## #24 [Onn Small Rugged Speaker](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562) [[Walmart](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562)]: $15
+## #25 [Onn Small Rugged Speaker](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562) [[Walmart](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562)]: $15
 - Positives: Amazing value for the money.
 - Negatives: Bass isn't quite as deep as the top ranked models. Lacking clarity compared to other models
 - App: No
@@ -743,7 +768,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Onn Small Rugged Speaker](https://www.reddit.com/search/?q=Onn+Small+Rugged+Speaker)
     - [Direct Speakerranking Link](/portable/speakers/Onn-Small-Rugged-Speaker/)
 
-## #25 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl)]: $40
+## #26 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl)]: $40
 - Positives: Very small, one of the smallest in the small class and good performance based on the size and weight. Nice magnetic clip with hole for hanging
 - Negatives: For the small class, lacking quite a bit of bass compared to the top ranked speakers
 - App: No
@@ -772,7 +797,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monster Atomic Atom](https://www.reddit.com/search/?q=Monster+Atomic+Atom)
     - [Direct Speakerranking Link](/portable/speakers/Monster-Atomic-Atom/)
 
-## #26 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl)]: $20
+## #27 [Dayton Audio Boost Mini](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Dayton-Audio-Boost-Mini-Water-Resistant/dp/B0CBCK2TVC?&linkCode=ll1&tag=rankingspea01-20&linkId=1fa5eead7a6382d4c53aa859984dfc69&language=en_US&ref_=as_li_ss_tl)]: $20
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Monster Bluetooth Speaker
 - App: No
@@ -797,7 +822,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Dayton Audio Boost Mini](https://www.reddit.com/search/?q=Dayton+Audio+Boost+Mini)
     - [Direct Speakerranking Link](/portable/speakers/Dayton-Audio-Boost-Mini/)
 
-## #27 [Monster Bluetooth Speaker](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=se&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=se&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl)]: $28
+## #28 [Monster Bluetooth Speaker](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=se&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=se&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl)]: $28
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Dayton Audio Boost Mini
 - App: No
@@ -819,7 +844,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monster Bluetooth Speaker](https://www.reddit.com/search/?q=Monster+Bluetooth+Speaker)
     - [Direct Speakerranking Link](/portable/speakers/Monster-Bluetooth-Speaker/)
 
-## #28 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]
+## #29 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No
@@ -848,7 +873,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Boat Stone 190/193](https://www.reddit.com/search/?q=Boat+Stone+190%2F193)
     - [Direct Speakerranking Link](/portable/speakers/Boat-Stone-190193/)
 
-## #29 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325)]: $60
+## #30 [Sony SRS-XB100](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-Lightweight-Super-Compact-Extra-Durable-Waterproof/dp/B0C29CL98P/ref=sr_1_2?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=d41ec6a0543b2b03280b6f37d876e529&camp=1789&creative=9325)]: $60
 - Negatives: Not much bass. Seems pretty much the same as the XB13, maybe a teeny bit deeper bass and a little less muddy.
 - App: No
 - Aux Input: No
@@ -878,7 +903,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sony SRS-XB100](https://www.reddit.com/search/?q=Sony+SRS-XB100)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB100/)
 
-## #30 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325)]: $60
+## #31 [Sony SRS-XB13](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=8f05ca5697fed971b6e9c7c734274a02&camp=1789&creative=9325)]: $60
 - Negatives: Not much bass. Muddy sounding.
 - App: No
 - Aux Input: No
@@ -907,7 +932,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sony SRS-XB13](https://www.reddit.com/search/?q=Sony+SRS-XB13)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB13/)
 
-## #31 JBL Clip: $50
+## #32 JBL Clip: $50
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - App: No
 - Aux Input: Yes (integrated 3.5mm cable)
@@ -930,7 +955,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL Clip](https://www.reddit.com/search/?q=JBL+Clip)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip/)
 
-## #32 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325)]: $50
+## #33 [JBL Clip 3](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Clip-Black-Noise-Cancelling-Speakerphone/dp/B07Q6ZWMLR/ref=sr_1_2_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=4ab2d4dc9a4f5608981c5dc075ef99cb&camp=1789&creative=9325)]: $50
 - Positives: Aux in
 - Negatives: Less bass than the Clip. Quite a lack of bass.
 - App: No
@@ -959,7 +984,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL Clip 3](https://www.reddit.com/search/?q=JBL+Clip+3)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-3/)
 
-## #33 Xiaomi Mi Portable Outdoor
+## #34 Xiaomi Mi Portable Outdoor
 - Negatives: Not much bass, treble rolled off
 - App: No
 - Aux Input: No
@@ -980,7 +1005,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Xiaomi Mi Portable Outdoor](https://www.reddit.com/search/?q=Xiaomi+Mi+Portable+Outdoor)
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Portable-Outdoor/)
 
-## #34 Hopestar H54
+## #35 Hopestar H54
 - Negatives: Bright treble, not much bass, harsh mids
 - App: No
 - Aux Input: Yes
@@ -1006,7 +1031,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Hopestar H54](https://www.reddit.com/search/?q=Hopestar+H54)
     - [Direct Speakerranking Link](/portable/speakers/Hopestar-H54/)
 
-## #35 Sony SRS-XB12
+## #36 Sony SRS-XB12
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
@@ -1038,7 +1063,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sony SRS-XB12](https://www.reddit.com/search/?q=Sony+SRS-XB12)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB12/)
 
-## #36 [Muzen Wild Mini](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl)]: $75
+## #37 [Muzen Wild Mini](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl)]: $75
 - Negatives: Not much bass at all, quite thuddy. Not very loud. Only IPX5, not submersible. Short battery life.
 - App: No
 - Aux Input: No
@@ -1066,7 +1091,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Muzen Wild Mini](https://www.reddit.com/search/?q=Muzen+Wild+Mini)
     - [Direct Speakerranking Link](/portable/speakers/Muzen-Wild-Mini/)
 
-## #37 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl)]: $51
+## #38 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl)]: $51
 - Negatives: Not much bass at all, quite thuddy. Not very loud. Only IPX5, not submersible. Short battery life.
 - App: No
 - Aux Input: No
@@ -1094,7 +1119,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Muzen Wild Go](https://www.reddit.com/search/?q=Muzen+Wild+Go)
     - [Direct Speakerranking Link](/portable/speakers/Muzen-Wild-Go/)
 
-## #38 Harman Kardon Esquire Mini 2: $100
+## #39 Harman Kardon Esquire Mini 2: $100
 - Negatives: Huge lack of bass. Sounds very thin and tinny at high volume
 - App: No
 - Aux Input: Yes
@@ -1123,7 +1148,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Harman Kardon Esquire Mini 2](https://www.reddit.com/search/?q=Harman+Kardon+Esquire+Mini+2)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Esquire-Mini-2/)
 
-## #39 Harman Kardon Neo: $90
+## #40 Harman Kardon Neo: $90
 - Negatives: Huge lack of bass.
 - App: No
 - Aux Input: No
@@ -1152,7 +1177,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Harman Kardon Neo](https://www.reddit.com/search/?q=Harman+Kardon+Neo)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Neo/)
 
-## #40 Lenovo 700 Ultraportable Bluetooth Speaker: $85
+## #41 Lenovo 700 Ultraportable Bluetooth Speaker: $85
 - Positives: Very thin profile
 - Negatives: Huge lack of bass, probably better off with your phone audio
 - App: No
@@ -1181,7 +1206,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Lenovo 700 Ultraportable Bluetooth Speaker](https://www.reddit.com/search/?q=Lenovo+700+Ultraportable+Bluetooth+Speaker)
     - [Direct Speakerranking Link](/portable/speakers/Lenovo-700-Ultraportable-Bluetooth-Speaker/)
 
-## #41 [Noxgear 39g](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl)]: $70
+## #42 [Noxgear 39g](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl)]: $70
 - Positives: It's only 39g of weight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - App: No
@@ -1207,7 +1232,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Noxgear 39g](https://www.reddit.com/search/?q=Noxgear+39g)
     - [Direct Speakerranking Link](/portable/speakers/Noxgear-39g/)
 
-## #42 [Dewalt Wearable Bluetooth Speaker](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl)]: $58
+## #43 [Dewalt Wearable Bluetooth Speaker](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/DEWALT-Bluetooth-Water-Resistant-Non-Magnetic-Hands-Free/dp/B0D3JLV5K6?mcid=25655e815eb43393a9c581ea649002f4&hvocijid=13332663422648292272-B0D3JLV5K6-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=13332663422648292272&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435179298&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=53a98fea5a50fbd6b1ce0a6414043bcb&language=en_US&ref_=as_li_ss_tl)]: $58
 - Positives: It's lightweight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - App: No

@@ -2,10 +2,10 @@
 layout: page
 title: Minirig Mini Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Minirig Mini ranks #4 out of 42 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Minirig Mini ranks #4 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig Mini ranks [#4 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#4-minirig-mini-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig Mini ranks [#4 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#4-minirig-mini-100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 Minirig Mini: $100
 - Positives: Very neutral. Much deeper bass than most other speakers in the size. Modular, can easily attach a subwoofer.
