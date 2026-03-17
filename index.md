@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-**Stop wasting time on biased reviews.** We've ranked 1041 speakers by actual audio quality. No sponsorships, no hidden agendas.
+**Stop wasting time on biased reviews.** We've ranked 862 speakers by actual audio quality. No sponsorships, no hidden agendas.
 
 ## Why 500,000+ Audio Enthusiasts Trust Our Rankings
 
@@ -54,14 +54,14 @@ Last Updated March 17, 2026
 
 ## All Home Powered Subwoofers Ranked
 
-- [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs): 49 subwoofers ranked
-- [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs): 206 subwoofers ranked
-- [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs): 190 subwoofers ranked
+- [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs): 42 subwoofers ranked
+- [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs): 136 subwoofers ranked
+- [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs): 95 subwoofers ranked
 
 ## All Home Passive Subwoofers Ranked
-- [Small Passive Subwoofers](/subwoofer/passive-small/) (under 30 lbs): 4 subwoofers ranked
+- [Small Passive Subwoofers](/subwoofer/passive-small/) (under 30 lbs): 3 subwoofers ranked
 - [Medium Passive Subwoofers](/subwoofer/passive-medium/) (30–75 lbs): 0 subwoofers ranked
-- [Large Passive Subwoofers](/subwoofer/passive-large/) (over 75 lbs): 16 subwoofers ranked
+- [Large Passive Subwoofers](/subwoofer/passive-large/) (over 75 lbs): 10 subwoofers ranked
 
 ## Related Products
 
