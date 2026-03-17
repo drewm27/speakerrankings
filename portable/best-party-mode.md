@@ -42,6 +42,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - TWS: Yes
 - Weight: 0.84lbs / 380g
 - Reviews, Comparisons and Sound Samples
+    - [Techder Audios: Soundcore Boom Go 3i - Soundtest HOW GOOD IS 15W? WITH BASS UP 2.0!?](https://www.youtube.com/watch?v=5sMOWY_Baj8)
     - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
     - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
     - [TecH Moe: Soundcore Boom Go 3i: The Mini Speaker to Buy!](https://www.youtube.com/watch?v=xArjouDw2R8)
