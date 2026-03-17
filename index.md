@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-**Stop wasting time on biased reviews.** We've ranked 1039 speakers by actual audio quality. No sponsorships, no hidden agendas.
+**Stop wasting time on biased reviews.** We've ranked 996 speakers by actual audio quality. No sponsorships, no hidden agendas.
 
 ## Why 500,000+ Audio Enthusiasts Trust Our Rankings
 

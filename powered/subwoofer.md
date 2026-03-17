@@ -6,7 +6,7 @@ cover-img: "/assets/img/shifterpro.jpg"
 share-description: "Find the best powered subwoofer speakers of 2026 with expert reviews, performance comparison, and buying tips for powerful, clear high-quality sound."
 ---
 
-This page ranks 465 powered subwoofers. 
+This page ranks 465 powered subwoofers. All of these subwoofers have computed CEA-2010-A scores and are ranked by them with the best at the top.
 
 Last updated: March 17, 2026
 
