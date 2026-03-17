@@ -1,0 +1,35 @@
+---
+layout: page
+title: MartinLogan Dynamo 600X Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The MartinLogan Dynamo 600X ranks #101 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+---
+
+The MartinLogan Dynamo 600X ranks [#101 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#101-martinlogan-dynamo-600x-54776) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #101 MartinLogan Dynamo 600X: $547.76
+- 100 Hz: 108.1 dB
+- 125 Hz: 106.9 dB
+- 20 Hz: 95.7 dB
+- 25 Hz: 100.9 dB
+- 31.5 Hz: 103.6 dB
+- 40 Hz: 106.8 dB
+- 50 Hz: 109.3 dB
+- 63 Hz: 110.3 dB
+- 80 Hz: 109.3 dB
+- CEA-2010-A Average (40-80Hz): 108.9 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.3"H x 14.5"W x 14.9"D (414.0 x 368.3 x 378.5 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 35.5lbs / 16.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [MartinLogan Dynamo 600X Website](https://www.martinlogan.com/en/product/dynamo-600x)
+    - [Reddit Search for MartinLogan Dynamo 600X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+600X)
+
+
+As an Amazon Associate I earn from qualifying purchases.

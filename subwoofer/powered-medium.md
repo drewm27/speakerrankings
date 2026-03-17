@@ -1,0 +1,3237 @@
+---
+layout: page
+title: Medium Powered Home Subwoofers Ranked (30–75 lbs)
+comments: true
+cover-img: "/assets/img/shifterpro.jpg"
+share-description: "Find the best mid-size powered subwoofers of 2026 between 30 and 75 lbs with expert reviews, CEA-2010-A performance rankings, and buying tips."
+---
+
+This page ranks 136 mid-size powered subwoofers weighing between 30 and 75 lbs. All subwoofers have computed CEA-2010-A scores and are ranked by them with the best at the top.
+
+Also check out [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs) and [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs). For passive subwoofers see [Small Passive](/subwoofer/passive-small/), [Medium Passive](/subwoofer/passive-medium/), and [Large Passive](/subwoofer/passive-large/).
+
+Last updated: March 17, 2026
+
+**Use your browser's search feature to search for speakers on this page.**
+
+
+## #1 JTR Speakers Captivator 212PRO: $2,600
+- Negatives: Looks like "PA sub"
+- 100 Hz: 134.6 dB
+- 125 Hz: 135.2 dB
+- 25 Hz: 95.4 dB
+- 31.5 Hz: 112.2 dB
+- 40 Hz: 122.7 dB
+- 50 Hz: 129.2 dB
+- 63 Hz: 131.3 dB
+- 80 Hz: 133.2 dB
+- CEA-2010-A Average (40-80Hz): 129.1 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.0"H x 30.0"W x 22.5"D (406.4 x 762.0 x 571.5 mm)
+- Driver(s): (2) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Data-bass
+- Warranty: 5/3
+- Weight: 71.0lbs / 32.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [JTR Speakers Captivator 212PRO Website](https://www.jtrspeakers.com/jtr-captivator-212pro)
+    - [Reddit Search for JTR Speakers Captivator 212PRO](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+212PRO)
+    - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Captivator-212PRO/)
+
+## #2 MartinLogan Dynamo 1600X: $1,606.77
+- 100 Hz: 120.2 dB
+- 125 Hz: 119.0 dB
+- 15 Hz: 86.2 dB
+- 20 Hz: 99.4 dB
+- 25 Hz: 103.9 dB
+- 31.5 Hz: 111.7 dB
+- 40 Hz: 118.4 dB
+- 50 Hz: 121.0 dB
+- 63 Hz: 121.8 dB
+- 80 Hz: 121.0 dB
+- CEA-2010-A Average (40-80Hz): 120.5 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 20.1"H x 17.9"W x 19.1"D (510.5 x 454.7 x 485.1 mm)
+- Driver(s): (1) 15 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 56.0lbs / 25.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [MartinLogan Dynamo 1600X Website](https://www.martinlogan.com/en/product/dynamo-1600x)
+    - [Reddit Search for MartinLogan Dynamo 1600X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+1600X)
+    - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-1600X/)
+
+## #3 HSU Research ULS-15 MK2: $1,035
+- Negatives: Price includes shipping
+- 100 Hz: 120.7 dB
+- 12.5 Hz: 93.7 dB
+- 125 Hz: 120.7 dB
+- 15 Hz: 98.0 dB
+- 20 Hz: 102.4 dB
+- 25 Hz: 107.7 dB
+- 31.5 Hz: 113.4 dB
+- 40 Hz: 118.3 dB
+- 50 Hz: 120.8 dB
+- 63 Hz: 121.2 dB
+- 80 Hz: 121.1 dB
+- CEA-2010-A Average (40-80Hz): 120.3 dB
+- Cabinet Color: black, wood
+- Country: United States
+- Dimensions: 19.0"H x 18.0"W x 19.5"D (482.6 x 457.2 x 495.3 mm)
+- Driver(s): (1) 15 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 7/2(+3)
+- Weight: 65.0lbs / 29.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [HSU Research ULS-15 MK2 Website](https://www.hsuresearch.com/products/uls-15mk2.html)
+    - [Reddit Search for HSU Research ULS-15 MK2](https://www.reddit.com/search/?q=HSU+Research+ULS-15+MK2)
+    - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-ULS-15-MK2/)
+
+## #4 Power Sound Audio (PSA) XV15
+- 20 Hz: 110.2 dB
+- 25 Hz: 110.2 dB
+- 31.5 Hz: 110.2 dB
+- 40 Hz: 119.5 dB
+- 50 Hz: 119.5 dB
+- 63 Hz: 119.5 dB
+- CEA-2010-A Average (40-80Hz): 119.5 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 75.0lbs / 34.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Power Sound Audio (PSA) XV15 Website](https://www.powersoundaudio.com/pages/xv15)
+    - [Reddit Search for Power Sound Audio (PSA) XV15](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XV15/)
+
+## #5 Paradigm Defiance X12: $1,314.63
+- 100 Hz: 120.2 dB
+- 125 Hz: 119.3 dB
+- 20 Hz: 95.5 dB
+- 25 Hz: 108.1 dB
+- 31.5 Hz: 112.8 dB
+- 40 Hz: 116.1 dB
+- 50 Hz: 119.0 dB
+- 63 Hz: 120.7 dB
+- 80 Hz: 120.8 dB
+- CEA-2010-A Average (40-80Hz): 119.2 dB
+- Cabinet Color: black
+- Country: Canada
+- Dimensions: 19.43"H x 18.0"W x 19.43"D (493.5 x 457.2 x 493.5 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 62.0lbs / 28.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Paradigm Defiance X12 Website](https://www.paradigm.com/en/ported/defiance-x12)
+    - [Reddit Search for Paradigm Defiance X12](https://www.reddit.com/search/?q=Paradigm+Defiance+X12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-X12/)
+
+## #6 Power Sound Audio (PSA) XV15-BASE
+- 20 Hz: 110.6 dB
+- 25 Hz: 110.6 dB
+- 31.5 Hz: 110.6 dB
+- 40 Hz: 119.1 dB
+- 50 Hz: 119.1 dB
+- 63 Hz: 119.1 dB
+- CEA-2010-A Average (40-80Hz): 119.1 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: ported, rear
+- Measurement Source: Manufacturer
+- Warranty: 5
+- Weight: 75.0lbs / 34.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Power Sound Audio (PSA) XV15-BASE Website](https://www.powersoundaudio.com/pages/xv15-base?_pos=1&_sid=ed5c8d77b&_ss=r)
+    - [Reddit Search for Power Sound Audio (PSA) XV15-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15-BASE)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XV15-BASE/)
+
+## #7 Power Sound Audio (PSA) XV15SEICE-BASE
+- 20 Hz: 110.6 dB
+- 25 Hz: 110.6 dB
+- 31.5 Hz: 110.6 dB
+- 40 Hz: 119.1 dB
+- 50 Hz: 119.1 dB
+- 63 Hz: 119.1 dB
+- CEA-2010-A Average (40-80Hz): 119.1 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: ported, rear
+- Measurement Source: Manufacturer
+- Warranty: 5
+- Weight: 75.0lbs / 34.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Power Sound Audio (PSA) XV15SEICE-BASE Website](https://www.powersoundaudio.com/products/xv15seice-base)
+    - [Reddit Search for Power Sound Audio (PSA) XV15SEICE-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15SEICE-BASE)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XV15SEICE-BASE/)
+
+## #8 Monoprice SW-15: $300
+- Negatives: Product # 41499
+- 15 Hz: 90.0 dB
+- 20 Hz: 101.2 dB
+- 25 Hz: 106.3 dB
+- 31.5 Hz: 111.2 dB
+- 40 Hz: 116.0 dB
+- 50 Hz: 120.2 dB
+- 63 Hz: 120.5 dB
+- 80 Hz: 119.5 dB
+- CEA-2010-A Average (40-80Hz): 119.0 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 18.1"H x 21.0"W x 22.7"D (459.7 x 533.4 x 576.6 mm)
+- Driver(s): (1) 15 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 1
+- Weight: 66.1lbs / 30.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice SW-15 Website](https://www.monoprice.com/product?p_id=41499)
+    - [Reddit Search for Monoprice SW-15](https://www.reddit.com/search/?q=Monoprice+SW-15)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-SW-15/)
+
+## #9 SVS SB-3000: $1,100
+- 100 Hz: 120.8 dB
+- 125 Hz: 120.7 dB
+- 15 Hz: 90.3 dB
+- 20 Hz: 96.6 dB
+- 25 Hz: 101.7 dB
+- 31.5 Hz: 107.8 dB
+- 40 Hz: 114.6 dB
+- 50 Hz: 118.7 dB
+- 63 Hz: 120.7 dB
+- 80 Hz: 120.9 dB
+- CEA-2010-A Average (40-80Hz): 118.7 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 15.6"H x 15.2"W x 15.7"D (396.2 x 386.1 x 398.8 mm)
+- Driver(s): (1) 13 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 54.5lbs / 24.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS SB-3000 Website](https://www.svsound.com/products/sb-3000)
+    - [Reddit Search for SVS SB-3000](https://www.reddit.com/search/?q=SVS+SB-3000)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-3000/)
+
+## #10 Power Sound Audio (PSA) XS15
+- 20 Hz: 107.1 dB
+- 25 Hz: 107.1 dB
+- 31.5 Hz: 107.1 dB
+- 40 Hz: 118.2 dB
+- 50 Hz: 118.2 dB
+- 63 Hz: 118.2 dB
+- CEA-2010-A Average (40-80Hz): 118.2 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 19.5"H x 17.0"W x 18.0"D (495.3 x 431.8 x 457.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: sealed
+- Measurement Source: Manufacturer
+- Warranty: 5
+- Weight: 59.0lbs / 26.8kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Power Sound Audio (PSA) XS15 Website](https://www.powersoundaudio.com/pages/xs15?_pos=1&_sid=720a7686b&_ss=r)
+    - [Reddit Search for Power Sound Audio (PSA) XS15](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS15)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XS15/)
+
+## #11 Power Sound Audio (PSA) XS15-BASE
+- 20 Hz: 107.1 dB
+- 25 Hz: 107.1 dB
+- 31.5 Hz: 107.1 dB
+- 40 Hz: 118.2 dB
+- 50 Hz: 118.2 dB
+- 63 Hz: 118.2 dB
+- CEA-2010-A Average (40-80Hz): 118.2 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 20.75"H x 18.5"W x 19.5"D (527.0 x 469.9 x 495.3 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: sealed
+- Measurement Source: Manufacturer
+- Warranty: 5
+- Weight: 73.0lbs / 33.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Power Sound Audio (PSA) XS15-BASE Website](https://www.powersoundaudio.com/pages/xs15-base?_pos=1&_sid=496b17e53&_ss=r)
+    - [Reddit Search for Power Sound Audio (PSA) XS15-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS15-BASE)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XS15-BASE/)
+
+## #12 Power Sound Audio (PSA) XS15SE
+- 100 Hz: 119.3 dB
+- 12.5 Hz: 91.9 dB
+- 125 Hz: 118.6 dB
+- 15 Hz: 96.5 dB
+- 20 Hz: 100.6 dB
+- 25 Hz: 107.2 dB
+- 31.5 Hz: 110.6 dB
+- 40 Hz: 114.7 dB
+- 50 Hz: 117.9 dB
+- 63 Hz: 119.1 dB
+- 80 Hz: 119.4 dB
+- CEA-2010-A Average (40-80Hz): 117.8 dB
+- Country: United States
+- Dimensions: 19.5"H x 17.0"W x 18.0"D (495.3 x 431.8 x 457.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: sealed
+- Measurement Source: Data-bass
+- Warranty: 5
+- Weight: 67.0lbs / 30.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Power Sound Audio (PSA) XS15SE Website](https://www.powersoundaudio.com/pages/xs15se?_pos=2&_sid=9fe3d6283&_ss=r)
+    - [Reddit Search for Power Sound Audio (PSA) XS15SE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS15SE)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XS15SE/)
+
+## #13 Starke Sound SW15: $1,075
+- 100 Hz: 115.2 dB
+- 12.5 Hz: 86.0 dB
+- 125 Hz: 113.8 dB
+- 15 Hz: 90.8 dB
+- 20 Hz: 98.0 dB
+- 25 Hz: 104.6 dB
+- 31.5 Hz: 110.0 dB
+- 40 Hz: 114.6 dB
+- 50 Hz: 118.4 dB
+- 63 Hz: 119.1 dB
+- 80 Hz: 117.2 dB
+- CEA-2010-A Average (40-80Hz): 117.3 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 17.3"H x 16.5"W x 18.9"D (439.4 x 419.1 x 480.1 mm)
+- Driver(s): (1) 15 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Weight: 55.0lbs / 24.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Starke Sound SW15 Website](https://www.starkesound.com/detail.html?id=55)
+    - [Reddit Search for Starke Sound SW15](https://www.reddit.com/search/?q=Starke+Sound+SW15)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Starke-Sound-SW15/)
+
+## #14 JBL HDI-1200P: $2,310
+- 100 Hz: 115.4 dB
+- 125 Hz: 117.2 dB
+- 25 Hz: 93.2 dB
+- 31.5 Hz: 109.5 dB
+- 40 Hz: 115.6 dB
+- 50 Hz: 119.1 dB
+- 63 Hz: 119.0 dB
+- 80 Hz: 114.9 dB
+- CEA-2010-A Average (40-80Hz): 117.2 dB
+- Cabinet Color: black, wood
+- Country: United States
+- Dimensions: 16.95"H x 16.3"W x 17.77"D (430.5 x 414.0 x 451.4 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 70.8lbs / 32.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [JBL HDI-1200P Website](https://ca.jbl.com/HDI-1200P.html)
+    - [Reddit Search for JBL HDI-1200P](https://www.reddit.com/search/?q=JBL+HDI-1200P)
+    - [Direct Speakerranking Link](/subwoofer/speakers/JBL-HDI-1200P/)
+
+## #15 KRK Systems 12S
+- 100 Hz: 113.6 dB
+- 125 Hz: 110.6 dB
+- 20 Hz: 92.8 dB
+- 25 Hz: 99.1 dB
+- 31.5 Hz: 111.0 dB
+- 40 Hz: 115.6 dB
+- 50 Hz: 118.7 dB
+- 63 Hz: 118.2 dB
+- 80 Hz: 115.8 dB
+- CEA-2010-A Average (40-80Hz): 117.1 dB
+- Country: United States
+- Dimensions: 18.11"H x 15.94"W x 22.64"D (460.0 x 404.9 x 575.1 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Data-bass
+- Warranty: 3
+- Weight: 66.5lbs / 30.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [KRK Systems 12S Website](https://web.archive.org/web/20201201121936/https://www.krkmusic.com/Powered-Subwoofer/12s)
+    - [Reddit Search for KRK Systems 12S](https://www.reddit.com/search/?q=KRK+Systems+12S)
+    - [Direct Speakerranking Link](/subwoofer/speakers/KRK-Systems-12S/)
+
+## #16 JL Audio E112: $2,500
+- 100 Hz: 115.5 dB
+- 12.5 Hz: 90.7 dB
+- 125 Hz: 114.5 dB
+- 15 Hz: 95.6 dB
+- 20 Hz: 100.5 dB
+- 25 Hz: 106.2 dB
+- 31.5 Hz: 111.6 dB
+- 40 Hz: 115.4 dB
+- 50 Hz: 117.7 dB
+- 63 Hz: 118.0 dB
+- 80 Hz: 116.7 dB
+- CEA-2010-A Average (40-80Hz): 117.0 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.23"H x 15.5"W x 18.39"D (412.2 x 393.7 x 467.1 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 73.5lbs / 33.3kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [JL Audio E112 Website](https://www.jlaudio.com/products/e112-ash-home-audio-e-sub-powered-subwoofers-96280)
+    - [Reddit Search for JL Audio E112](https://www.reddit.com/search/?q=JL+Audio+E112)
+    - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-E112/)
+
+## #17 Arendal 1723 Subwoofer 1S: $1,650
+- 100 Hz: 118.5 dB
+- 12.5 Hz: 86.5 dB
+- 125 Hz: 118.1 dB
+- 15 Hz: 93.0 dB
+- 20 Hz: 98.5 dB
+- 25 Hz: 104.1 dB
+- 31.5 Hz: 108.5 dB
+- 40 Hz: 113.2 dB
+- 50 Hz: 117.0 dB
+- 63 Hz: 118.5 dB
+- 80 Hz: 118.6 dB
+- CEA-2010-A Average (40-80Hz): 116.8 dB
+- Cabinet Color: black, white
+- Country: Norway
+- Dimensions: 18.89"H x 13.18"W x 17.71"D (479.8 x 334.8 x 449.8 mm)
+- Driver(s): (1) 13.8 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 10/5
+- Weight: 54.01lbs / 24.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Arendal 1723 Subwoofer 1S Website](https://arendalsound.com/product/1723-subwoofer-1s/)
+    - [Reddit Search for Arendal 1723 Subwoofer 1S](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+1S)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Arendal-1723-Subwoofer-1S/)
+
+## #18 Sigberg Audio 10D: $4,067.37
+- 100 Hz: 119.3 dB
+- 12.5 Hz: 86.0 dB
+- 125 Hz: 118.4 dB
+- 15 Hz: 91.5 dB
+- 20 Hz: 96.0 dB
+- 25 Hz: 101.0 dB
+- 31.5 Hz: 106.2 dB
+- 40 Hz: 112.6 dB
+- 50 Hz: 116.3 dB
+- 63 Hz: 119.4 dB
+- 80 Hz: 119.0 dB
+- CEA-2010-A Average (40-80Hz): 116.8 dB
+- Cabinet Color: black, white
+- Country: Norway
+- Dimensions: 14.57"H x 14.17"W x 16.14"D (370.1 x 359.9 x 410.0 mm)
+- Driver(s): (2) 10 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Weight: 59.52lbs / 27.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Sigberg Audio 10D Website](https://www.sigbergaudio.no/en/products/sigberg-audio-10d)
+    - [Reddit Search for Sigberg Audio 10D](https://www.reddit.com/search/?q=Sigberg+Audio+10D)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Sigberg-Audio-10D/)
+
+## #19 MartinLogan Dynamo 1100X: $1,241.60
+- 100 Hz: 121.3 dB
+- 125 Hz: 120.7 dB
+- 15 Hz: 90.6 dB
+- 20 Hz: 95.9 dB
+- 25 Hz: 100.2 dB
+- 31.5 Hz: 106.5 dB
+- 40 Hz: 111.4 dB
+- 50 Hz: 115.1 dB
+- 63 Hz: 118.7 dB
+- 80 Hz: 120.7 dB
+- CEA-2010-A Average (40-80Hz): 116.5 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 17.1"H x 15.0"W x 15.6"D (434.3 x 381.0 x 396.2 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Matthew J Poes
+- Warranty: 3
+- Weight: 46.0lbs / 20.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [MartinLogan Dynamo 1100X Website](https://www.martinlogan.com/en/product/dynamo-1100x)
+    - [Reddit Search for MartinLogan Dynamo 1100X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+1100X)
+    - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-1100X/)
+
+## #20 MartinLogan Dynamo 1500X
+- 100 Hz: 116.2 dB
+- 12.5 Hz: 92.9 dB
+- 125 Hz: 115.1 dB
+- 15 Hz: 95.6 dB
+- 20 Hz: 100.4 dB
+- 25 Hz: 104.4 dB
+- 31.5 Hz: 108.3 dB
+- 40 Hz: 113.0 dB
+- 50 Hz: 117.1 dB
+- 63 Hz: 118.3 dB
+- 80 Hz: 117.4 dB
+- CEA-2010-A Average (40-80Hz): 116.5 dB
+- Country: United States
+- Dimensions: 18.3"H x 16.75"W x 17.6"D (464.8 x 425.4 x 447.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 52.0lbs / 23.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [MartinLogan Dynamo 1500X Website](https://www.martinlogan.com/en/product/dynamo-1500x)
+    - [Reddit Search for MartinLogan Dynamo 1500X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+1500X)
+    - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-1500X/)
+
+## #21 SVS PB-2000 PRO: $1,100
+- 100 Hz: 116.0 dB
+- 125 Hz: 116.3 dB
+- 15 Hz: 96.8 dB
+- 20 Hz: 108.1 dB
+- 25 Hz: 114.8 dB
+- 31.5 Hz: 116.2 dB
+- 40 Hz: 116.7 dB
+- 50 Hz: 116.6 dB
+- 63 Hz: 116.4 dB
+- 80 Hz: 116.1 dB
+- CEA-2010-A Average (40-80Hz): 116.5 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 20.9"H x 17.3"W x 22.5"D (530.9 x 439.4 x 571.5 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 64.8lbs / 29.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS PB-2000 PRO Website](https://www.svsound.com/products/pb-2000-pro)
+    - [Reddit Search for SVS PB-2000 PRO](https://www.reddit.com/search/?q=SVS+PB-2000+PRO)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-2000-PRO/)
+
+## #22 HSU Research VTF-2 MK5: $750
+- Negatives: Price includes shipping
+- 100 Hz: 116.1 dB
+- 125 Hz: 115.8 dB
+- 15 Hz: 90.3 dB
+- 20 Hz: 104.4 dB
+- 25 Hz: 109.8 dB
+- 31.5 Hz: 113.1 dB
+- 40 Hz: 115.1 dB
+- 50 Hz: 116.7 dB
+- 63 Hz: 117.1 dB
+- 80 Hz: 116.7 dB
+- CEA-2010-A Average (40-80Hz): 116.4 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 21.5"H x 15.0"W x 24.0"D (546.1 x 381.0 x 609.6 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Audioholics
+- Warranty: 7/2(+3)
+- Weight: 62.0lbs / 28.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [HSU Research VTF-2 MK5 Website](https://www.hsuresearch.com/products/vtf-2mk5.html)
+    - [Reddit Search for HSU Research VTF-2 MK5](https://www.reddit.com/search/?q=HSU+Research+VTF-2+MK5)
+    - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-2-MK5/)
+
+## #23 Outlaw Audio LFM-1 EX
+- 100 Hz: 116.1 dB
+- 125 Hz: 115.8 dB
+- 15 Hz: 89.9 dB
+- 20 Hz: 104.0 dB
+- 25 Hz: 110.3 dB
+- 31.5 Hz: 113.7 dB
+- 40 Hz: 115.3 dB
+- 50 Hz: 116.7 dB
+- 63 Hz: 116.8 dB
+- 80 Hz: 116.7 dB
+- CEA-2010-A Average (40-80Hz): 116.4 dB
+- Country: United States
+- Dimensions: 17.0"H x 22.75"W x 24.0"D (431.8 x 577.9 x 609.6 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 67.0lbs / 30.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Outlaw Audio LFM-1 EX Website](https://outlawaudio.com/products/lfmEX.html)
+    - [Reddit Search for Outlaw Audio LFM-1 EX](https://www.reddit.com/search/?q=Outlaw+Audio+LFM-1+EX)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Outlaw-Audio-LFM-1-EX/)
+
+## #24 PSB Speakers SubSeries 450: $1,898.91
+- 20 Hz: 88.1 dB
+- 25 Hz: 101.1 dB
+- 31.5 Hz: 108.1 dB
+- 40 Hz: 111.4 dB
+- 50 Hz: 115.8 dB
+- 63 Hz: 118.3 dB
+- 80 Hz: 118.9 dB
+- CEA-2010-A Average (40-80Hz): 116.1 dB
+- Cabinet Color: black
+- Country: Canada
+- Dimensions: 15.12"H x 15.37"W x 16.62"D (384.0 x 390.4 x 422.1 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 43.0lbs / 19.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [PSB Speakers SubSeries 450 Website](https://www.psbspeakers.com/ca/subseries-450-12-dsp-subwoofer)
+    - [Reddit Search for PSB Speakers SubSeries 450](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+450)
+    - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-450/)
+
+## #25 SVS PB-1000 PRO: $800
+- 100 Hz: 115.9 dB
+- 125 Hz: 115.3 dB
+- 15 Hz: 96.0 dB
+- 20 Hz: 104.2 dB
+- 25 Hz: 110.3 dB
+- 31.5 Hz: 110.7 dB
+- 40 Hz: 113.6 dB
+- 50 Hz: 116.1 dB
+- 63 Hz: 117.4 dB
+- 80 Hz: 116.6 dB
+- CEA-2010-A Average (40-80Hz): 115.9 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 18.9"H x 15.0"W x 20.0"D (480.1 x 381.0 x 508.0 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 42.5lbs / 19.3kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS PB-1000 PRO Website](https://www.svsound.com/products/pb-1000-pro-subwoofer)
+    - [Reddit Search for SVS PB-1000 PRO](https://www.reddit.com/search/?q=SVS+PB-1000+PRO)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-1000-PRO/)
+
+## #26 Yamaha YST-SW1500
+- 20 Hz: 81.5 dB
+- 25 Hz: 96.1 dB
+- 31.5 Hz: 107.8 dB
+- 40 Hz: 111.7 dB
+- 50 Hz: 114.7 dB
+- 63 Hz: 118.0 dB
+- 80 Hz: 118.8 dB
+- CEA-2010-A Average (40-80Hz): 115.8 dB
+- Cabinet Color: black
+- Country: Japan
+- Dimensions: 20.12"H x 16.56"W x 17.62"D (511.0 x 420.6 x 447.5 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Ilkka Rissanen
+- Warranty: 2?
+- Weight: 63.93lbs / 29.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Yamaha YST-SW1500](https://www.reddit.com/search/?q=Yamaha+YST-SW1500)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-YST-SW1500/)
+
+## #27 Cadence Sound CSX-12 Mark II
+- 20 Hz: 85.3 dB
+- 25 Hz: 99.4 dB
+- 31.5 Hz: 107.1 dB
+- 40 Hz: 111.2 dB
+- 50 Hz: 115.9 dB
+- 63 Hz: 119.6 dB
+- CEA-2010-A Average (40-80Hz): 115.6 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 18.25"H x 17.75"W x 18.25"D (463.5 x 450.8 x 463.5 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Weight: 64.0lbs / 29.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Cadence Sound CSX-12 Mark II](https://www.reddit.com/search/?q=Cadence+Sound+CSX-12+Mark+II)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Cadence-Sound-CSX-12-Mark-II/)
+
+## #28 Velodyne Acoustics EQ-Max15
+- 100 Hz: 111.3 dB
+- 125 Hz: 109.7 dB
+- 20 Hz: 87.8 dB
+- 25 Hz: 98.7 dB
+- 31.5 Hz: 107.2 dB
+- 40 Hz: 113.0 dB
+- 50 Hz: 117.2 dB
+- 63 Hz: 117.8 dB
+- 80 Hz: 114.0 dB
+- CEA-2010-A Average (40-80Hz): 115.5 dB
+- Country: United States
+- Dimensions: 21.5"H x 19.0"W x 21.0"D (546.1 x 482.6 x 533.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Weight: 75.0lbs / 34.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Velodyne Acoustics EQ-Max15 Website](https://www.velodyneacoustics.com/eq-max-series/)
+    - [Reddit Search for Velodyne Acoustics EQ-Max15](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max15)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-EQ-Max15/)
+
+## #29 Arendal 1961 Subwoofer 1S: $1,000
+- 100 Hz: 117.6 dB
+- 15 Hz: 93.2 dB
+- 20 Hz: 102.5 dB
+- 25 Hz: 102.6 dB
+- 31.5 Hz: 107.8 dB
+- 40 Hz: 111.3 dB
+- 50 Hz: 115.0 dB
+- 63 Hz: 117.5 dB
+- 80 Hz: 118.0 dB
+- CEA-2010-A Average (40-80Hz): 115.5 dB
+- Cabinet Color: black, white
+- Country: Norway
+- Dimensions: 16.33"H x 12.4"W x 16.33"D (414.8 x 315.0 x 414.8 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: ErinsAudioCorner
+- Warranty: 10/5
+- Weight: 44.09lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Arendal 1961 Subwoofer 1S Website](https://arendalsound.com/product/1961-subwoofer-1s/)
+    - [Reddit Search for Arendal 1961 Subwoofer 1S](https://www.reddit.com/search/?q=Arendal+1961+Subwoofer+1S)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Arendal-1961-Subwoofer-1S/)
+
+## #30 RBH Sound SX-12
+- 100 Hz: 114.7 dB
+- 125 Hz: 114.6 dB
+- 20 Hz: 90.7 dB
+- 25 Hz: 101.0 dB
+- 31.5 Hz: 111.0 dB
+- 40 Hz: 114.1 dB
+- 50 Hz: 116.7 dB
+- 63 Hz: 115.7 dB
+- 80 Hz: 115.1 dB
+- CEA-2010-A Average (40-80Hz): 115.4 dB
+- Country: United States
+- Dimensions: 19.62"H x 17.7"W x 21.12"D (498.3 x 449.6 x 536.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 5/1(+5/+3)
+- Weight: 53.0lbs / 24.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [RBH Sound SX-12 Website](https://rbhsound.com/sx12.php)
+    - [Reddit Search for RBH Sound SX-12](https://www.reddit.com/search/?q=RBH+Sound+SX-12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-SX-12/)
+
+## #31 HSU Research VTF-3 MK4
+- 20 Hz: 105.4 dB
+- 25 Hz: 110.3 dB
+- 31.5 Hz: 111.7 dB
+- 40 Hz: 114.0 dB
+- 50 Hz: 115.7 dB
+- 63 Hz: 115.8 dB
+- 80 Hz: 115.7 dB
+- CEA-2010-A Average (40-80Hz): 115.3 dB
+- Country: United States
+- Dimensions: 21.5"H x 17.0"W x 25.0"D (546.1 x 431.8 x 635.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, rear
+- Measurement Source: Manufacturer
+- Weight: 74.0lbs / 33.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [HSU Research VTF-3 MK4 Website](https://web.archive.org/web/20191229081516/http://www.hsuresearch.com/products/vtf-3mk4.html)
+    - [Reddit Search for HSU Research VTF-3 MK4](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK4)
+    - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-3-MK4/)
+
+## #32 Monoprice SW-12: $230
+- Negatives: Product # 41498
+- 15 Hz: 84.6 dB
+- 20 Hz: 96.7 dB
+- 25 Hz: 105.1 dB
+- 31.5 Hz: 109.2 dB
+- 40 Hz: 113.0 dB
+- 50 Hz: 113.7 dB
+- 63 Hz: 116.9 dB
+- 80 Hz: 117.0 dB
+- CEA-2010-A Average (40-80Hz): 115.2 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 14.9"H x 18.3"W x 19.1"D (378.5 x 464.8 x 485.1 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 1
+- Weight: 50.7lbs / 23.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice SW-12 Website](https://www.monoprice.com/product?p_id=41498)
+    - [Reddit Search for Monoprice SW-12](https://www.reddit.com/search/?q=Monoprice+SW-12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-SW-12/)
+
+## #33 HSU Research MBM-12
+- 20 Hz: 69.7 dB
+- 25 Hz: 87.7 dB
+- 31.5 Hz: 96.7 dB
+- 40 Hz: 109.9 dB
+- 50 Hz: 114.4 dB
+- 63 Hz: 116.9 dB
+- 80 Hz: 118.1 dB
+- CEA-2010-A Average (40-80Hz): 114.8 dB
+- Country: United States
+- Dimensions: 19.0"H x 14.0"W x 18.0"D (482.6 x 355.6 x 457.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Ilkka Rissanen
+- Weight: 47.0lbs / 21.3kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [HSU Research MBM-12 Website](https://web.archive.org/web/20070301180541if_/http://www.hsuresearch.com/products/mbm-12.html)
+    - [Reddit Search for HSU Research MBM-12](https://www.reddit.com/search/?q=HSU+Research+MBM-12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-MBM-12/)
+
+## #34 JL Audio E110: $1,900
+- 100 Hz: 114.8 dB
+- 125 Hz: 114.2 dB
+- 15 Hz: 92.1 dB
+- 20 Hz: 96.3 dB
+- 25 Hz: 101.6 dB
+- 31.5 Hz: 107.2 dB
+- 40 Hz: 111.7 dB
+- 50 Hz: 115.2 dB
+- 63 Hz: 116.4 dB
+- 80 Hz: 116.0 dB
+- CEA-2010-A Average (40-80Hz): 114.8 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 14.24"H x 13.5"W x 16.51"D (361.7 x 342.9 x 419.4 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 52.7lbs / 23.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [JL Audio E110 Website](https://www.jlaudio.com/products/e110-ash-home-audio-e-sub-powered-subwoofers-96276)
+    - [Reddit Search for JL Audio E110](https://www.reddit.com/search/?q=JL+Audio+E110)
+    - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-E110/)
+
+## #35 PSB Speakers SubSeries 200
+- 20 Hz: 80.8 dB
+- 25 Hz: 94.7 dB
+- 31.5 Hz: 104.3 dB
+- 40 Hz: 112.2 dB
+- 50 Hz: 114.2 dB
+- 63 Hz: 117.5 dB
+- CEA-2010-A Average (40-80Hz): 114.6 dB (avg of 3/4 bands)
+- Country: Canada
+- Dimensions: 17.5"H x 13.37"W x 15.5"D (444.5 x 339.6 x 393.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 5?
+- Weight: 34.0lbs / 15.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [PSB Speakers SubSeries 200 Website](https://www.psbspeakers.com/product/subseries-200-subwoofer/)
+    - [Reddit Search for PSB Speakers SubSeries 200](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+200)
+    - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-200/)
+
+## #36 Outlaw Audio Ultra-X12
+- 20 Hz: 102.3 dB
+- 25 Hz: 109.0 dB
+- 31.5 Hz: 110.1 dB
+- 40 Hz: 111.8 dB
+- 50 Hz: 115.4 dB
+- 63 Hz: 116.3 dB
+- CEA-2010-A Average (40-80Hz): 114.5 dB (avg of 3/4 bands)
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 21.25"H x 16.0"W x 23.0"D (539.8 x 406.4 x 584.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 3
+- Weight: 66.0lbs / 29.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Outlaw Audio Ultra-X12 Website](https://outlawaudio.com/shop/speakers-subwoofers/34-ultra-x12.html)
+    - [Reddit Search for Outlaw Audio Ultra-X12](https://www.reddit.com/search/?q=Outlaw+Audio+Ultra-X12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Outlaw-Audio-Ultra-X12/)
+
+## #37 XTZ Sound 99 W12S
+- 20 Hz: 74.0 dB
+- 25 Hz: 86.5 dB
+- 31.5 Hz: 97.7 dB
+- 40 Hz: 108.3 dB
+- 50 Hz: 114.9 dB
+- 63 Hz: 117.3 dB
+- 80 Hz: 117.4 dB
+- CEA-2010-A Average (40-80Hz): 114.5 dB
+- Country: Sweden
+- Dimensions: 19.65"H x 13.77"W x 15.75"D (499.1 x 349.8 x 400.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, rear
+- Measurement Source: Ilkka Rissanen
+- Weight: 67.24lbs / 30.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for XTZ Sound 99 W12S](https://www.reddit.com/search/?q=XTZ+Sound+99+W12S)
+    - [Direct Speakerranking Link](/subwoofer/speakers/XTZ-Sound-99-W12S/)
+
+## #38 NHT B-12d
+- 20 Hz: 99.9 dB
+- 25 Hz: 99.9 dB
+- 31.5 Hz: 99.9 dB
+- 40 Hz: 114.4 dB
+- 50 Hz: 114.4 dB
+- 63 Hz: 114.4 dB
+- CEA-2010-A Average (40-80Hz): 114.4 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 14.0"H x 14.0"W x 14.0"D (355.6 x 355.6 x 355.6 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Weight: 33.7lbs / 15.3kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for NHT B-12d](https://www.reddit.com/search/?q=NHT+B-12d)
+    - [Direct Speakerranking Link](/subwoofer/speakers/NHT-B-12d/)
+
+## #39 HSU Research VTF-1 MK3
+- 100 Hz: 111.7 dB
+- 125 Hz: 110.4 dB
+- 20 Hz: 93.5 dB
+- 25 Hz: 96.2 dB
+- 31.5 Hz: 108.6 dB
+- 40 Hz: 113.8 dB
+- 50 Hz: 115.0 dB
+- 63 Hz: 115.2 dB
+- 80 Hz: 113.6 dB
+- CEA-2010-A Average (40-80Hz): 114.4 dB
+- Country: United States
+- Dimensions: 19.5"H x 14.5"W x 19.0"D (495.3 x 368.3 x 482.6 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: Audioholics
+- Warranty: 7/2(+3)
+- Weight: 42.0lbs / 19.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [HSU Research VTF-1 MK3 Website](https://web.archive.org/web/20171123062301if_/http://www.hsuresearch.com/products/vtf-1mk3.html)
+    - [Reddit Search for HSU Research VTF-1 MK3](https://www.reddit.com/search/?q=HSU+Research+VTF-1+MK3)
+    - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-1-MK3/)
+
+## #40 Aperion Audio Bravus II 12D: $1,200
+- 100 Hz: 112.8 dB
+- 125 Hz: 112.3 dB
+- 20 Hz: 90.0 dB
+- 25 Hz: 103.2 dB
+- 31.5 Hz: 108.3 dB
+- 40 Hz: 112.8 dB
+- 50 Hz: 115.6 dB
+- 63 Hz: 115.2 dB
+- 80 Hz: 113.7 dB
+- CEA-2010-A Average (40-80Hz): 114.3 dB
+- Cabinet Color: black, wood
+- Country: United States
+- Dimensions: 17.0"H x 15.5"W x 15.5"D (431.8 x 393.7 x 393.7 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: passive radiator
+- Measurement Source: Audioholics
+- Warranty: 10/2
+- Weight: 62.0lbs / 28.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Aperion Audio Bravus II 12D Website](https://www.aperionaudio.com/products/b12d)
+    - [Reddit Search for Aperion Audio Bravus II 12D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+II+12D)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Aperion-Audio-Bravus-II-12D/)
+
+## #41 Rythmik LV12
+- 15 Hz: 95.0 dB
+- 20 Hz: 101.7 dB
+- 25 Hz: 107.2 dB
+- 31.5 Hz: 110.6 dB
+- 40 Hz: 114.2 dB
+- 50 Hz: 114.4 dB
+- 63 Hz: 115.2 dB
+- 80 Hz: 113.3 dB
+- CEA-2010-A Average (40-80Hz): 114.3 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 19.5"H x 15.0"W x 18.5"D (495.3 x 381.0 x 469.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Warranty: 5/3
+- Weight: 69.0lbs / 31.3kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Rythmik LV12](https://www.reddit.com/search/?q=Rythmik+LV12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Rythmik-LV12/)
+
+## #42 Starke Sound SW12: $670
+- 100 Hz: 114.0 dB
+- 125 Hz: 112.1 dB
+- 15 Hz: 88.7 dB
+- 20 Hz: 93.5 dB
+- 25 Hz: 101.2 dB
+- 31.5 Hz: 106.1 dB
+- 40 Hz: 112.8 dB
+- 50 Hz: 115.6 dB
+- 63 Hz: 114.2 dB
+- 80 Hz: 113.7 dB
+- CEA-2010-A Average (40-80Hz): 114.1 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 15.7"H x 14.9"W x 16.7"D (398.8 x 378.5 x 424.2 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Weight: 39.5lbs / 17.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Starke Sound SW12 Website](https://www.starkesound.com/detail.html?id=41)
+    - [Reddit Search for Starke Sound SW12](https://www.reddit.com/search/?q=Starke+Sound+SW12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Starke-Sound-SW12/)
+
+## #43 SVS PC-2000
+- Negatives: "Cylinder" shape
+- 100 Hz: 112.6 dB
+- 125 Hz: 112.5 dB
+- 15 Hz: 98.6 dB
+- 20 Hz: 107.3 dB
+- 25 Hz: 111.7 dB
+- 31.5 Hz: 112.9 dB
+- 40 Hz: 114.5 dB
+- 50 Hz: 114.2 dB
+- 63 Hz: 113.9 dB
+- 80 Hz: 112.9 dB
+- CEA-2010-A Average (40-80Hz): 113.9 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 34.34"H x 16.6"W x 16.6"D (872.2 x 421.6 x 421.6 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 50.0lbs / 22.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS PC-2000 Website](https://www.svsound.com/products/pc-2000)
+    - [Reddit Search for SVS PC-2000](https://www.reddit.com/search/?q=SVS+PC-2000)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PC-2000/)
+
+## #44 SVS PB12-NSD
+- 15 Hz: 99.9 dB
+- 20 Hz: 105.0 dB
+- 25 Hz: 107.1 dB
+- 31.5 Hz: 109.8 dB
+- 40 Hz: 112.8 dB
+- 50 Hz: 114.2 dB
+- 63 Hz: 114.6 dB
+- 80 Hz: 113.8 dB
+- CEA-2010-A Average (40-80Hz): 113.8 dB
+- Country: United States
+- Dimensions: 20.9"H x 17.3"W x 22.0"D (530.9 x 439.4 x 558.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Ilkka Rissanen
+- Warranty: 5
+- Weight: 66.0lbs / 29.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS PB12-NSD Website](https://www.svsound.com/products/pb12-nsd)
+    - [Reddit Search for SVS PB12-NSD](https://www.reddit.com/search/?q=SVS+PB12-NSD)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB12-NSD/)
+
+## #45 SVS PB-2000
+- 20 Hz: 106.8 dB
+- 25 Hz: 110.6 dB
+- 31.5 Hz: 112.3 dB
+- 40 Hz: 113.1 dB
+- 50 Hz: 113.5 dB
+- 63 Hz: 114.5 dB
+- CEA-2010-A Average (40-80Hz): 113.7 dB (avg of 3/4 bands)
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 20.9"H x 17.3"W x 23.2"D (530.9 x 439.4 x 589.3 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 65.6lbs / 29.8kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS PB-2000 Website](https://www.svsound.com/pages/search-results-page?q=PB-2000)
+    - [Reddit Search for SVS PB-2000](https://www.reddit.com/search/?q=SVS+PB-2000)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-2000/)
+
+## #46 BIC America PL-300: $450
+- 100 Hz: 108.8 dB
+- 125 Hz: 106.8 dB
+- 20 Hz: 96.6 dB
+- 25 Hz: 102.8 dB
+- 31.5 Hz: 109.2 dB
+- 40 Hz: 114.0 dB
+- 50 Hz: 116.3 dB
+- 63 Hz: 113.5 dB
+- 80 Hz: 110.9 dB
+- CEA-2010-A Average (40-80Hz): 113.7 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 18.0"H x 15.25"W x 18.75"D (457.2 x 387.3 x 476.2 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Audioholics
+- Warranty: 8/5
+- Weight: 48.0lbs / 21.8kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [BIC America PL-300 Website](https://www.bicamerica.com/product-page/acoustech-elite-series-pl-300)
+    - [Reddit Search for BIC America PL-300](https://www.reddit.com/search/?q=BIC+America+PL-300)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-PL-300/)
+
+## #47 Klipsch SPL-120
+- 15 Hz: 81.2 dB
+- 20 Hz: 91.9 dB
+- 25 Hz: 102.2 dB
+- 31.5 Hz: 107.5 dB
+- 40 Hz: 110.8 dB
+- 50 Hz: 113.8 dB
+- 63 Hz: 114.9 dB
+- 80 Hz: 115.2 dB
+- CEA-2010-A Average (40-80Hz): 113.7 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 17.75"H x 14.68"W x 19.87"D (450.8 x 372.9 x 504.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Warranty: 5/2
+- Weight: 45.0lbs / 20.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Klipsch SPL-120 Website](https://www.klipsch.com/products/spl-120-subwoofer)
+    - [Reddit Search for Klipsch SPL-120](https://www.reddit.com/search/?q=Klipsch+SPL-120)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-SPL-120/)
+
+## #48 Polk Audio HTS 12: $550
+- 100 Hz: 113.6 dB
+- 125 Hz: 112.4 dB
+- 25 Hz: 99.1 dB
+- 31.5 Hz: 106.2 dB
+- 40 Hz: 110.6 dB
+- 50 Hz: 114.2 dB
+- 63 Hz: 115.1 dB
+- 80 Hz: 114.3 dB
+- CEA-2010-A Average (40-80Hz): 113.5 dB
+- Cabinet Color: black, wood
+- Country: United States
+- Dimensions: 18.5"H x 17.12"W x 18.11"D (469.9 x 434.8 x 460.0 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Audioholics
+- Warranty: 5/3
+- Weight: 49.9lbs / 22.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Polk Audio HTS 12 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-12/112632-new.html?dwvar_112632-new_color=Black)
+    - [Reddit Search for Polk Audio HTS 12](https://www.reddit.com/search/?q=Polk+Audio+HTS+12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-HTS-12/)
+
+## #49 Polk Audio DSW PRO 660
+- 20 Hz: 82.0 dB
+- 25 Hz: 92.0 dB
+- 31.5 Hz: 104.7 dB
+- 40 Hz: 109.3 dB
+- 50 Hz: 113.4 dB
+- 63 Hz: 116.0 dB
+- 80 Hz: 114.9 dB
+- CEA-2010-A Average (40-80Hz): 113.4 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 17.13"H x 16.5"W x 16.5"D (435.1 x 419.1 x 419.1 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 5/3
+- Weight: 45.0lbs / 20.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Polk Audio DSW PRO 660 Website](https://www.polkaudio.com/en/subwoofers/dsw-pro-660-wi?varId=747192120269)
+    - [Reddit Search for Polk Audio DSW PRO 660](https://www.reddit.com/search/?q=Polk+Audio+DSW+PRO+660)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-DSW-PRO-660/)
+
+## #50 Rythmik F12: $1,120
+- 15 Hz: 95.0 dB
+- 20 Hz: 97.6 dB
+- 25 Hz: 100.7 dB
+- 31.5 Hz: 107.5 dB
+- 40 Hz: 112.3 dB
+- 50 Hz: 113.1 dB
+- 63 Hz: 114.4 dB
+- 80 Hz: 113.6 dB
+- CEA-2010-A Average (40-80Hz): 113.3 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 15.75"H x 15.75"W x 17.0"D (400.0 x 400.0 x 431.8 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5/3
+- Weight: 75.0lbs / 34.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Rythmik F12 Website](http://www.rythmikaudio.com/F12.html)
+    - [Reddit Search for Rythmik F12](https://www.reddit.com/search/?q=Rythmik+F12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Rythmik-F12/)
+
+## #51 XTZ Sound SUB 1X12: $850.00
+- 100 Hz: 112.2 dB
+- 15 Hz: 92.7 dB
+- 20 Hz: 99.6 dB
+- 25 Hz: 105.7 dB
+- 31.5 Hz: 110.2 dB
+- 40 Hz: 113.7 dB
+- 50 Hz: 114.0 dB
+- 63 Hz: 113.1 dB
+- 80 Hz: 112.4 dB
+- CEA-2010-A Average (40-80Hz): 113.3 dB
+- Country: Sweden
+- Dimensions: 18.5"H x 20.0"W x 18.7"D (469.9 x 508.0 x 475.0 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Manufacturer
+- Warranty: 5/2
+- Weight: 54.01lbs / 24.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [XTZ Sound SUB 1X12 Website](https://www.xtzsound.eu/product/sub-1x12)
+    - [Reddit Search for XTZ Sound SUB 1X12](https://www.reddit.com/search/?q=XTZ+Sound+SUB+1X12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/XTZ-Sound-SUB-1X12/)
+
+## #52 RSL (Rogersound Labs) Speedwoofer 10
+- 20 Hz: 93.7 dB
+- 25 Hz: 101.1 dB
+- 31.5 Hz: 107.7 dB
+- 40 Hz: 111.0 dB
+- 50 Hz: 114.1 dB
+- 63 Hz: 114.1 dB
+- CEA-2010-A Average (40-80Hz): 113.1 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 16.5"H x 16.5"W x 17.25"D (419.1 x 419.1 x 438.1 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Warranty: 2
+- Weight: 64.0lbs / 29.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [RSL (Rogersound Labs) Speedwoofer 10 Website](https://rslspeakers.com/products/rsl-speedwoofer-10/)
+    - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10/)
+
+## #53 HSU Research VTF-1 MK2
+- 25 Hz: 87.9 dB
+- 31.5 Hz: 105.1 dB
+- 40 Hz: 111.4 dB
+- 50 Hz: 113.2 dB
+- 63 Hz: 114.0 dB
+- 80 Hz: 113.0 dB
+- CEA-2010-A Average (40-80Hz): 112.9 dB
+- Country: United States
+- Dimensions: 18.0"H x 14.0"W x 17.0"D (457.2 x 355.6 x 431.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, rear
+- Measurement Source: Manufacturer
+- Weight: 42.0lbs / 19.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [HSU Research VTF-1 MK2 Website](https://web.archive.org/web/20201224025728/http://www.hsuresearch.com/products/vtf-1mk2.html)
+    - [Reddit Search for HSU Research VTF-1 MK2](https://www.reddit.com/search/?q=HSU+Research+VTF-1+MK2)
+    - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-1-MK2/)
+
+## #54 HSU Research VTF-2 MK4
+- 20 Hz: 101.1 dB
+- 25 Hz: 107.0 dB
+- 31.5 Hz: 110.2 dB
+- 40 Hz: 111.8 dB
+- 50 Hz: 113.5 dB
+- 63 Hz: 113.3 dB
+- 80 Hz: 112.8 dB
+- CEA-2010-A Average (40-80Hz): 112.8 dB
+- Country: United States
+- Dimensions: 20.5"H x 15.0"W x 22.0"D (520.7 x 381.0 x 558.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, rear
+- Measurement Source: Manufacturer
+- Weight: 64.0lbs / 29.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [HSU Research VTF-2 MK4 Website](https://web.archive.org/web/20210118105218/http://www.hsuresearch.com/products/vtf-2mk4.html)
+    - [Reddit Search for HSU Research VTF-2 MK4](https://www.reddit.com/search/?q=HSU+Research+VTF-2+MK4)
+    - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-2-MK4/)
+
+## #55 REL Acoustics R-528
+- 25 Hz: 92.7 dB
+- 31.5 Hz: 106.5 dB
+- 40 Hz: 111.0 dB
+- 50 Hz: 112.7 dB
+- 63 Hz: 114.6 dB
+- CEA-2010-A Average (40-80Hz): 112.8 dB (avg of 3/4 bands)
+- Country: United Kingdom
+- Dimensions: 17.5"H x 15.5"W x 17.2"D (444.5 x 393.7 x 436.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Warranty: 3
+- Weight: 58.0lbs / 26.3kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [REL Acoustics R-528 Website](https://web.archive.org/web/20130926115034/http://sumikoaudio.net/rel/prod_r528.htm)
+    - [Reddit Search for REL Acoustics R-528](https://www.reddit.com/search/?q=REL+Acoustics+R-528)
+    - [Direct Speakerranking Link](/subwoofer/speakers/REL-Acoustics-R-528/)
+
+## #56 Infinity Speakers REFERENCE SUB R12: $500
+- 100 Hz: 113.2 dB
+- 125 Hz: 111.7 dB
+- 15 Hz: 77.0 dB
+- 20 Hz: 90.6 dB
+- 25 Hz: 98.8 dB
+- 31.5 Hz: 106.3 dB
+- 40 Hz: 107.6 dB
+- 50 Hz: 112.3 dB
+- 63 Hz: 115.8 dB
+- 80 Hz: 114.6 dB
+- CEA-2010-A Average (40-80Hz): 112.6 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 18.74"H x 15.16"W x 16.77"D (476.0 x 385.1 x 426.0 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, rear
+- Measurement Source: ErinsAudioCorner
+- Warranty: 5/2
+- Weight: 40.2lbs / 18.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Infinity Speakers REFERENCE SUB R12 Website](https://www.infinityspeakers.com/home-subwoofers/REFERENCE+SUB+R12.html?dwvar_REFERENCE%20SUB%20R12_color=Black-GLOBAL-Current&cgid=home-subwoofers)
+    - [Reddit Search for Infinity Speakers REFERENCE SUB R12](https://www.reddit.com/search/?q=Infinity+Speakers+REFERENCE+SUB+R12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Infinity-Speakers-REFERENCE-SUB-R12/)
+
+## #57 OSD (Optimal Speaker Design) TreVoce 12 DSP
+- 100 Hz: 111.5 dB
+- 125 Hz: 110.1 dB
+- 25 Hz: 77.3 dB
+- 31.5 Hz: 102.5 dB
+- 40 Hz: 108.2 dB
+- 50 Hz: 112.3 dB
+- 63 Hz: 115.4 dB
+- 80 Hz: 114.0 dB
+- CEA-2010-A Average (40-80Hz): 112.5 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 15.4"H x 16.0"W x 15.0"D (391.2 x 406.4 x 381.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: passive radiator
+- Measurement Source: ErinsAudioCorner
+- Warranty: 2
+- Weight: 44.0lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for OSD (Optimal Speaker Design) TreVoce 12 DSP](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+TreVoce+12+DSP)
+    - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-TreVoce-12-DSP/)
+
+## #58 Klipsch SW-311
+- 100 Hz: 114.5 dB
+- 125 Hz: 113.6 dB
+- 20 Hz: 87.2 dB
+- 25 Hz: 100.9 dB
+- 31.5 Hz: 105.6 dB
+- 40 Hz: 108.3 dB
+- 50 Hz: 111.6 dB
+- 63 Hz: 114.4 dB
+- 80 Hz: 115.2 dB
+- CEA-2010-A Average (40-80Hz): 112.4 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 13.0"H x 13.0"W x 14.0"D (330.2 x 330.2 x 355.6 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: passive radiator
+- Measurement Source: Audioholics
+- Warranty: 5/2
+- Weight: 37.0lbs / 16.8kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Klipsch SW-311 Website](https://www.klipsch.ca/products/sw-311-subwoofer)
+    - [Reddit Search for Klipsch SW-311](https://www.reddit.com/search/?q=Klipsch+SW-311)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-SW-311/)
+
+## #59 Velodyne Acoustics CT-150
+- 100 Hz: 111.4 dB
+- 125 Hz: 111.1 dB
+- 20 Hz: 93.0 dB
+- 25 Hz: 101.6 dB
+- 31.5 Hz: 103.3 dB
+- 40 Hz: 108.9 dB
+- 50 Hz: 111.7 dB
+- 63 Hz: 115.5 dB
+- 80 Hz: 113.4 dB
+- CEA-2010-A Average (40-80Hz): 112.4 dB
+- Country: United States
+- Dimensions: 18.5"H x 21.0"W x 20.0"D (469.9 x 533.4 x 508.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 15 inch
+- Enclosure: ported, front
+- Measurement Source: Data-bass
+- Weight: 72.0lbs / 32.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Velodyne Acoustics CT-150](https://www.reddit.com/search/?q=Velodyne+Acoustics+CT-150)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-CT-150/)
+
+## #60 SVS 20-39 PC-Plus
+- Negatives: "Cylinder" shape
+- 15 Hz: 91.0 dB
+- 20 Hz: 102.7 dB
+- 25 Hz: 110.3 dB
+- 31.5 Hz: 113.0 dB
+- 40 Hz: 112.8 dB
+- 50 Hz: 113.7 dB
+- 63 Hz: 112.0 dB
+- 80 Hz: 110.8 dB
+- CEA-2010-A Average (40-80Hz): 112.3 dB
+- Country: United States
+- Dimensions: 40.0"H x 16.0"W x 16.0"D (1016.0 x 406.4 x 406.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Ilkka Rissanen
+- Warranty: 5
+- Weight: 55.0lbs / 24.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS 20-39 PC-Plus Website](https://web.archive.org/web/20061228184421/http://www.svsound.com/products-sub-cyl-plpow2.cfm)
+    - [Reddit Search for SVS 20-39 PC-Plus](https://www.reddit.com/search/?q=SVS+20-39+PC-Plus)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-20-39-PC-Plus/)
+
+## #61 Velodyne Acoustics EQ-Max12
+- 20 Hz: 100.1 dB
+- 25 Hz: 100.1 dB
+- 31.5 Hz: 100.1 dB
+- 40 Hz: 112.3 dB
+- 50 Hz: 112.3 dB
+- 63 Hz: 112.3 dB
+- CEA-2010-A Average (40-80Hz): 112.3 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 17.87"H x 16.37"W x 18.0"D (453.9 x 415.8 x 457.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Weight: 61.0lbs / 27.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Velodyne Acoustics EQ-Max12 Website](https://www.velodyneacoustics.com/eq-max-series/)
+    - [Reddit Search for Velodyne Acoustics EQ-Max12](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-EQ-Max12/)
+
+## #62 ELAC PS350: $1,400
+- 20 Hz: 85.5 dB
+- 25 Hz: 99.4 dB
+- 31.5 Hz: 105.4 dB
+- 40 Hz: 111.4 dB
+- 50 Hz: 112.5 dB
+- 63 Hz: 114.1 dB
+- 80 Hz: 110.9 dB
+- CEA-2010-A Average (40-80Hz): 112.2 dB
+- Cabinet Color: black
+- Country: Germany
+- Dimensions: 17.2"H x 16.37"W x 16.45"D (436.9 x 415.8 x 417.8 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Weight: 48.06lbs / 21.8kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [ELAC PS350 Website](https://www.elac.com/series/varro/premium/ps350-12-subwoofer/)
+    - [Reddit Search for ELAC PS350](https://www.reddit.com/search/?q=ELAC+PS350)
+    - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-PS350/)
+
+## #63 SVS PC12-NSD
+- Negatives: "Cylinder" shape
+- 20 Hz: 109.6 dB
+- 25 Hz: 109.6 dB
+- 31.5 Hz: 109.6 dB
+- 40 Hz: 112.1 dB
+- 50 Hz: 112.1 dB
+- 63 Hz: 112.1 dB
+- CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 35.75"H x 16.58"W x 16.58"D (908.0 x 421.1 x 421.1 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 49.0lbs / 22.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS PC12-NSD Website](https://web.archive.org/web/20121225122533/http://www.svsound.com/subwoofers/cylinder/pc12-nsd)
+    - [Reddit Search for SVS PC12-NSD](https://www.reddit.com/search/?q=SVS+PC12-NSD)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PC12-NSD/)
+
+## #64 Wisdom Audio SCS
+- 20 Hz: 100.7 dB
+- 25 Hz: 104.6 dB
+- 31.5 Hz: 106.5 dB
+- 40 Hz: 109.1 dB
+- 50 Hz: 112.6 dB
+- 63 Hz: 114.6 dB
+- CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 22.5"H x 37.0"W x 7.0"D (571.5 x 939.8 x 177.8 mm)
+- Driver(s): (2) 5 inch
+- Enclosure: ported, side
+- Measurement Source: Brent Butterworth
+- Weight: 72.0lbs / 32.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Wisdom Audio SCS Website](https://www.wisdomaudio.com/product/scs/)
+    - [Reddit Search for Wisdom Audio SCS](https://www.reddit.com/search/?q=Wisdom+Audio+SCS)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Wisdom-Audio-SCS/)
+
+## #65 RSL (Rogersound Labs) Speedwoofer 10S MKII: $450
+- 100 Hz: 111.4 dB
+- 125 Hz: 110.7 dB
+- 15 Hz: 89.0 dB
+- 20 Hz: 100.0 dB
+- 25 Hz: 105.0 dB
+- 31.5 Hz: 107.7 dB
+- 40 Hz: 110.3 dB
+- 50 Hz: 112.9 dB
+- 63 Hz: 113.0 dB
+- 80 Hz: 112.1 dB
+- CEA-2010-A Average (40-80Hz): 112.1 dB
+- Cabinet Color: black, white
+- Country: United States
+- Dimensions: 15.5"H x 15.0"W x 15.75"D (393.7 x 381.0 x 400.0 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, rear
+- Measurement Source: Audioholics
+- Warranty: ?
+- Weight: 40.6lbs / 18.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [RSL (Rogersound Labs) Speedwoofer 10S MKII Website](https://rslspeakers.com/products/speedwoofer-10s-mkii/?attribute_pa_color=black)
+    - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S MKII](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S+MKII)
+    - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10S-MKII/)
+
+## #66 JBL L10cs Classic: $700
+- 20 Hz: 78.9 dB
+- 25 Hz: 97.0 dB
+- 31.5 Hz: 102.9 dB
+- 40 Hz: 109.6 dB
+- 50 Hz: 112.2 dB
+- 63 Hz: 114.0 dB
+- 80 Hz: 111.8 dB
+- CEA-2010-A Average (40-80Hz): 111.9 dB
+- Cabinet Color: black, wood
+- Country: United States
+- Dimensions: 15.4"H x 13.3"W x 15.6"D (391.2 x 337.8 x 396.2 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, rear
+- Measurement Source: Brent Butterworth
+- Weight: 31.0lbs / 14.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [JBL L10cs Classic Website](https://www.jbl.com/specialty-subwoofers/L10CS.html)
+    - [Reddit Search for JBL L10cs Classic](https://www.reddit.com/search/?q=JBL+L10cs+Classic)
+    - [Direct Speakerranking Link](/subwoofer/speakers/JBL-L10cs-Classic/)
+
+## #67 SVS SB-2000
+- 20 Hz: 95.1 dB
+- 25 Hz: 100.1 dB
+- 31.5 Hz: 105.8 dB
+- 40 Hz: 111.3 dB
+- 50 Hz: 111.8 dB
+- 63 Hz: 112.2 dB
+- CEA-2010-A Average (40-80Hz): 111.8 dB (avg of 3/4 bands)
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 14.6"H x 14.2"W x 15.4"D (370.8 x 360.7 x 391.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 34.8lbs / 15.8kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS SB-2000 Website](https://www.svsound.com/search?q=%26quot%3Bsb-2000%26quot%3B)
+    - [Reddit Search for SVS SB-2000](https://www.reddit.com/search/?q=SVS+SB-2000)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-2000/)
+
+## #68 Monoprice 12in 150-Watt Powered: $140
+- Negatives: Product # 9723
+- 100 Hz: 114.2 dB
+- 125 Hz: 113.3 dB
+- 20 Hz: 90.2 dB
+- 25 Hz: 89.8 dB
+- 31.5 Hz: 99.7 dB
+- 40 Hz: 105.1 dB
+- 50 Hz: 110.6 dB
+- 63 Hz: 115.7 dB
+- 80 Hz: 115.4 dB
+- CEA-2010-A Average (40-80Hz): 111.7 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 17.0"H x 17.3"W x 17.5"D (431.8 x 439.4 x 444.5 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: ErinsAudioCorner
+- Weight: 53.77lbs / 24.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice 12in 150-Watt Powered Website](https://www.monoprice.com/product?p_id=9723)
+    - [Reddit Search for Monoprice 12in 150-Watt Powered](https://www.reddit.com/search/?q=Monoprice+12in+150-Watt+Powered)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-12in-150-Watt-Powered/)
+
+## #69 Definitive Technology SuperCube 8000
+- 20 Hz: 96.0 dB
+- 25 Hz: 101.4 dB
+- 31.5 Hz: 102.6 dB
+- 40 Hz: 111.2 dB
+- 50 Hz: 112.6 dB
+- 63 Hz: 111.2 dB
+- CEA-2010-A Average (40-80Hz): 111.7 dB (avg of 3/4 bands)
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.25"H x 15.25"W x 16.0"D (412.8 x 387.3 x 406.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 11 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Warranty: 5/3
+- Weight: 67.0lbs / 30.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Definitive Technology SuperCube 8000 Website](https://web.archive.org/web/20210410115545/https://www.definitivetechnology.com/products/supercube-8000)
+    - [Reddit Search for Definitive Technology SuperCube 8000](https://www.reddit.com/search/?q=Definitive+Technology+SuperCube+8000)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-SuperCube-8000/)
+
+## #70 Monoprice Monolith 10 THX Select
+- Negatives: Product # 24456
+- 100 Hz: 112.0 dB
+- 125 Hz: 111.0 dB
+- 15 Hz: 95.4 dB
+- 20 Hz: 102.6 dB
+- 25 Hz: 107.7 dB
+- 31.5 Hz: 109.0 dB
+- 40 Hz: 110.0 dB
+- 50 Hz: 112.0 dB
+- 63 Hz: 112.0 dB
+- 80 Hz: 112.0 dB
+- CEA-2010-A Average (40-80Hz): 111.5 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 18.9"H x 15.0"W x 19.7"D (480.1 x 381.0 x 500.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: ErinsAudioCorner
+- Warranty: 5
+- Weight: 72.5lbs / 32.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice Monolith 10 THX Select Website](https://www.monoprice.com/product?p_id=24456)
+    - [Reddit Search for Monoprice Monolith 10 THX Select](https://www.reddit.com/search/?q=Monoprice+Monolith+10+THX+Select)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-10-THX-Select/)
+
+## #71 THIEL Audio SmartSub 1.12
+- 20 Hz: 99.4 dB
+- 25 Hz: 105.2 dB
+- 31.5 Hz: 109.5 dB
+- 40 Hz: 108.8 dB
+- 50 Hz: 111.9 dB
+- 63 Hz: 114.0 dB
+- 80 Hz: 111.1 dB
+- CEA-2010-A Average (40-80Hz): 111.5 dB
+- Country: United States
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for THIEL Audio SmartSub 1.12](https://www.reddit.com/search/?q=THIEL+Audio+SmartSub+1.12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/THIEL-Audio-SmartSub-1.12/)
+
+## #72 Emotiva S12
+- 15 Hz: 86.4 dB
+- 20 Hz: 95.4 dB
+- 25 Hz: 101.1 dB
+- 31.5 Hz: 106.1 dB
+- 40 Hz: 108.2 dB
+- 50 Hz: 112.7 dB
+- 63 Hz: 112.5 dB
+- 80 Hz: 112.1 dB
+- CEA-2010-A Average (40-80Hz): 111.4 dB
+- Country: United States
+- Dimensions: 17.37"H x 15.75"W x 16.87"D (441.2 x 400.0 x 428.5 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 66.247lbs / 30.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Emotiva S12 Website](https://emotiva.com/products/airmotiv-s12)
+    - [Reddit Search for Emotiva S12](https://www.reddit.com/search/?q=Emotiva+S12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-S12/)
+
+## #73 SVS PB-1000
+- Negatives: Discontinued 2021-02-25 when PB-1000 PRO was released. CEA-2010-A data from Dec 2019 version of spreadsheet, not on current version.
+- 15 Hz: 93.3 dB
+- 20 Hz: 101.2 dB
+- 25 Hz: 106.1 dB
+- 31.5 Hz: 108.4 dB
+- 40 Hz: 110.0 dB
+- 50 Hz: 113.0 dB
+- 63 Hz: 111.7 dB
+- 80 Hz: 110.7 dB
+- CEA-2010-A Average (40-80Hz): 111.3 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 18.9"H x 15.0"W x 19.4"D (480.1 x 381.0 x 492.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 46.0lbs / 20.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS PB-1000 Website](https://www.svsound.com/search?q=%26quot%3Bpb-1000%26quot%3B)
+    - [Reddit Search for SVS PB-1000](https://www.reddit.com/search/?q=SVS+PB-1000)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-1000/)
+
+## #74 Dayton Audio SUB-1500: $260
+- 100 Hz: 111.8 dB
+- 125 Hz: 110.1 dB
+- 20 Hz: 90.2 dB
+- 25 Hz: 96.5 dB
+- 31.5 Hz: 101.7 dB
+- 40 Hz: 106.5 dB
+- 50 Hz: 111.6 dB
+- 63 Hz: 114.0 dB
+- 80 Hz: 112.9 dB
+- CEA-2010-A Average (40-80Hz): 111.2 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 19.75"H x 19.25"W x 19.75"D (501.6 x 488.9 x 501.6 mm)
+- Driver(s): (1) 15 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Weight: 60.0lbs / 27.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Dayton Audio SUB-1500 Website](https://www.parts-express.com/Dayton-Audio-SUB-1500-15-150-Watt-Powered-Subwoofer-300-634)
+    - [Reddit Search for Dayton Audio SUB-1500](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1500)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1500/)
+
+## #75 Paradigm Defiance V12: $513.44
+- 100 Hz: 109.4 dB
+- 125 Hz: 108.4 dB
+- 25 Hz: 100.1 dB
+- 31.5 Hz: 105.0 dB
+- 40 Hz: 109.7 dB
+- 50 Hz: 112.1 dB
+- 63 Hz: 112.4 dB
+- 80 Hz: 110.8 dB
+- CEA-2010-A Average (40-80Hz): 111.2 dB
+- Cabinet Color: black
+- Country: Canada
+- Dimensions: 17.93"H x 16.5"W x 17.87"D (455.4 x 419.1 x 453.9 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 42.0lbs / 19.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Paradigm Defiance V12 Website](https://www.paradigm.com/en/ported/defiance-v12)
+    - [Reddit Search for Paradigm Defiance V12](https://www.reddit.com/search/?q=Paradigm+Defiance+V12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-V12/)
+
+## #76 Klipsch R-121SW: $600
+- 100 Hz: 109.9 dB
+- 125 Hz: 108.3 dB
+- 15 Hz: 90.7 dB
+- 20 Hz: 96.0 dB
+- 25 Hz: 98.4 dB
+- 31.5 Hz: 102.3 dB
+- 40 Hz: 108.2 dB
+- 50 Hz: 112.4 dB
+- 63 Hz: 112.9 dB
+- 80 Hz: 111.3 dB
+- CEA-2010-A Average (40-80Hz): 111.2 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.6"H x 16.0"W x 19.7"D (421.6 x 406.4 x 500.4 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, rear
+- Measurement Source: Audioholics
+- Warranty: 5/2
+- Weight: 35.0lbs / 15.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Klipsch R-121SW Website](https://www.klipsch.com/products/r-121sw-subwoofer)
+    - [Reddit Search for Klipsch R-121SW](https://www.reddit.com/search/?q=Klipsch+R-121SW)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-121SW/)
+
+## #77 BIC America PL-200II: $420
+- 100 Hz: 108.3 dB
+- 125 Hz: 106.8 dB
+- 20 Hz: 87.0 dB
+- 25 Hz: 99.2 dB
+- 31.5 Hz: 105.5 dB
+- 40 Hz: 110.7 dB
+- 50 Hz: 113.4 dB
+- 63 Hz: 111.1 dB
+- 80 Hz: 109.5 dB
+- CEA-2010-A Average (40-80Hz): 111.2 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 17.25"H x 14.87"W x 19.5"D (438.1 x 377.7 x 495.3 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: Audioholics
+- Warranty: 8/5
+- Weight: 46.0lbs / 20.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [BIC America PL-200II Website](https://www.bicamerica.com/product-page/acoustech-pl-200ii-1000w)
+    - [Reddit Search for BIC America PL-200II](https://www.reddit.com/search/?q=BIC+America+PL-200II)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-PL-200II/)
+
+## #78 SVS SB12-Plus
+- 15 Hz: 87.8 dB
+- 20 Hz: 89.8 dB
+- 25 Hz: 97.4 dB
+- 31.5 Hz: 101.1 dB
+- 40 Hz: 107.4 dB
+- 50 Hz: 112.2 dB
+- 63 Hz: 112.2 dB
+- 80 Hz: 111.8 dB
+- CEA-2010-A Average (40-80Hz): 110.9 dB
+- Country: United States
+- Dimensions: 13.5"H x 13.5"W x 13.5"D (342.9 x 342.9 x 342.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Ilkka Rissanen
+- Warranty: 5
+- Weight: 40.0lbs / 18.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS SB12-Plus Website](https://web.archive.org/web/20100209005941/http://www.svsound.com/products-sub-box-sb12plus.cfm)
+    - [Reddit Search for SVS SB12-Plus](https://www.reddit.com/search/?q=SVS+SB12-Plus)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB12-Plus/)
+
+## #79 Monitor Audio RXW12
+- 20 Hz: 88.9 dB
+- 25 Hz: 92.0 dB
+- 31.5 Hz: 97.9 dB
+- 40 Hz: 111.5 dB
+- 50 Hz: 114.9 dB
+- 63 Hz: 106.3 dB
+- CEA-2010-A Average (40-80Hz): 110.9 dB (avg of 3/4 bands)
+- Country: United Kingdom
+- Dimensions: 15.0"H x 16.93"W x 16.93"D (381.0 x 430.0 x 430.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 49.82lbs / 22.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monitor Audio RXW12 Website](https://www.monitoraudio.com/en/support/past-products/silver-rx/rxw12/)
+    - [Reddit Search for Monitor Audio RXW12](https://www.reddit.com/search/?q=Monitor+Audio+RXW12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monitor-Audio-RXW12/)
+
+## #80 Monoprice 10in Powered Studio Multimedia
+- Negatives: Product # 605999
+- 20 Hz: 73.3 dB
+- 25 Hz: 84.6 dB
+- 31.5 Hz: 97.2 dB
+- 40 Hz: 105.0 dB
+- 50 Hz: 109.9 dB
+- 63 Hz: 113.4 dB
+- 80 Hz: 115.2 dB
+- CEA-2010-A Average (40-80Hz): 110.9 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 12.5"H x 14.5"W x 15.0"D (317.5 x 368.3 x 381.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, rear
+- Measurement Source: Brent Butterworth
+- Warranty: 1
+- Weight: 44.0lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice 10in Powered Studio Multimedia Website](https://web.archive.org/web/20230611225539/https://www.monoprice.com/product?p_id=605999)
+    - [Reddit Search for Monoprice 10in Powered Studio Multimedia](https://www.reddit.com/search/?q=Monoprice+10in+Powered+Studio+Multimedia)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-10in-Powered-Studio-Multimedia/)
+
+## #81 Kef R400
+- 20 Hz: 85.8 dB
+- 25 Hz: 87.3 dB
+- 31.5 Hz: 92.7 dB
+- 40 Hz: 107.4 dB
+- 50 Hz: 111.5 dB
+- 63 Hz: 113.6 dB
+- CEA-2010-A Average (40-80Hz): 110.8 dB (avg of 3/4 bands)
+- Country: United Kingdom
+- Dimensions: 14.4"H x 13.0"W x 13.8"D (365.8 x 330.2 x 350.5 mm)
+- Discontinued: Yes
+- Driver(s): (2) 9 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5/2/5
+- Weight: 47.39lbs / 21.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Kef R400 Website](https://international.kef.com/products/r400b-subwoofer)
+    - [Reddit Search for Kef R400](https://www.reddit.com/search/?q=Kef+R400)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Kef-R400/)
+
+## #82 RBH Sound SX-10R
+- Negatives: Also called "SX-10/R"
+- 100 Hz: 110.0 dB
+- 125 Hz: 108.0 dB
+- 25 Hz: 97.0 dB
+- 31.5 Hz: 106.0 dB
+- 40 Hz: 109.0 dB
+- 50 Hz: 111.0 dB
+- 63 Hz: 112.0 dB
+- 80 Hz: 111.0 dB
+- CEA-2010-A Average (40-80Hz): 110.8 dB
+- Country: United States
+- Dimensions: 15.25"H x 15.0"W x 18.5"D (387.3 x 381.0 x 469.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 5/1(+5/+3)
+- Weight: 45.0lbs / 20.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [RBH Sound SX-10R Website](https://rbhsound.com/sx10r.php)
+    - [Reddit Search for RBH Sound SX-10R](https://www.reddit.com/search/?q=RBH+Sound+SX-10R)
+    - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-SX-10R/)
+
+## #83 BK Electronics Extreme
+- 15 Hz: 92.8 dB
+- 20 Hz: 100.7 dB
+- 25 Hz: 106.6 dB
+- 31.5 Hz: 110.7 dB
+- 40 Hz: 111.4 dB
+- 50 Hz: 111.1 dB
+- 63 Hz: 110.5 dB
+- 80 Hz: 109.0 dB
+- CEA-2010-A Average (40-80Hz): 110.5 dB
+- Country: United Kingdom
+- Discontinued: Yes
+- Measurement Source: Ilkka Rissanen
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for BK Electronics Extreme](https://www.reddit.com/search/?q=BK+Electronics+Extreme)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-Extreme/)
+
+## #84 Sigberg Audio INKOGNITO 10: $3,049.67
+- Negatives: low profile (<8in)
+- 20 Hz: 89.0 dB
+- 25 Hz: 96.0 dB
+- 31.5 Hz: 102.0 dB
+- 40 Hz: 108.0 dB
+- 50 Hz: 109.0 dB
+- 63 Hz: 112.0 dB
+- 80 Hz: 113.0 dB
+- CEA-2010-A Average (40-80Hz): 110.5 dB
+- Cabinet Color: black, white
+- Country: Norway
+- Dimensions: 21.25"H x 25.59"W x 6.1"D (539.8 x 650.0 x 154.9 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Manufacturer
+- Weight: 44.09lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Sigberg Audio INKOGNITO 10 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
+    - [Reddit Search for Sigberg Audio INKOGNITO 10](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Sigberg-Audio-INKOGNITO-10/)
+
+## #85 NXG NX-BAS-500
+- 20 Hz: 90.2 dB
+- 25 Hz: 99.5 dB
+- 31.5 Hz: 108.0 dB
+- 40 Hz: 110.1 dB
+- 50 Hz: 110.8 dB
+- 63 Hz: 110.5 dB
+- CEA-2010-A Average (40-80Hz): 110.5 dB (avg of 3/4 bands)
+- Dimensions: 17.62"H x 14.75"W x 17.62"D (447.5 x 374.6 x 447.5 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Weight: 35.0lbs / 15.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [NXG NX-BAS-500 Website](https://web.archive.org/web/20170914203227/http://www.nxgtechnology.com/subwoofers.html)
+    - [Reddit Search for NXG NX-BAS-500](https://www.reddit.com/search/?q=NXG+NX-BAS-500)
+    - [Direct Speakerranking Link](/subwoofer/speakers/NXG-NX-BAS-500/)
+
+## #86 Definitive Technology DN10: $800
+- 20 Hz: 88.1 dB
+- 25 Hz: 99.2 dB
+- 31.5 Hz: 106.2 dB
+- 40 Hz: 111.1 dB
+- 50 Hz: 111.0 dB
+- 63 Hz: 110.7 dB
+- 80 Hz: 108.9 dB
+- CEA-2010-A Average (40-80Hz): 110.4 dB
+- Cabinet Color: black, white
+- Country: United States
+- Dimensions: 16.8"H x 16.0"W x 17.1"D (426.7 x 406.4 x 434.3 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Warranty: 5/3
+- Weight: 45.6lbs / 20.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Definitive Technology DN10 Website](https://www.definitivetechnology.com/en-us/product/subwoofers/dn10)
+    - [Reddit Search for Definitive Technology DN10](https://www.reddit.com/search/?q=Definitive+Technology+DN10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-DN10/)
+
+## #87 Monoprice Monolith M-10 V2: $650
+- Negatives: Product # 42843
+- 100 Hz: 111.2 dB
+- 125 Hz: 111.5 dB
+- 15 Hz: 93.9 dB
+- 20 Hz: 104.8 dB
+- 25 Hz: 108.5 dB
+- 31.5 Hz: 109.3 dB
+- 40 Hz: 109.7 dB
+- 50 Hz: 110.1 dB
+- 63 Hz: 110.6 dB
+- 80 Hz: 110.9 dB
+- CEA-2010-A Average (40-80Hz): 110.3 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 20.9"H x 15.0"W x 18.9"D (530.9 x 381.0 x 480.1 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: Manufacturer
+- Warranty: 5
+- Weight: 72.5lbs / 32.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice Monolith M-10 V2 Website](https://www.monoprice.com/product?p_id=42843)
+    - [Reddit Search for Monoprice Monolith M-10 V2](https://www.reddit.com/search/?q=Monoprice+Monolith+M-10+V2)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M-10-V2/)
+
+## #88 BIC America F-12: $225
+- 100 Hz: 110.0 dB
+- 125 Hz: 106.7 dB
+- 15 Hz: 74.9 dB
+- 20 Hz: 83.8 dB
+- 25 Hz: 95.8 dB
+- 31.5 Hz: 101.6 dB
+- 40 Hz: 104.6 dB
+- 50 Hz: 110.6 dB
+- 63 Hz: 113.3 dB
+- 80 Hz: 111.9 dB
+- CEA-2010-A Average (40-80Hz): 110.1 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 17.0"H x 14.75"W x 17.25"D (431.8 x 374.6 x 438.1 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, rear
+- Measurement Source: ErinsAudioCorner
+- Warranty: 5
+- Weight: 42.0lbs / 19.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [BIC America F-12 Website](https://www.bicamerica.com/product-page/formula-series-f-12-475w)
+    - [Reddit Search for BIC America F-12](https://www.reddit.com/search/?q=BIC+America+F-12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-F-12/)
+
+## #89 Sunfire XTEQ12
+- 20 Hz: 92.4 dB
+- 25 Hz: 99.5 dB
+- 31.5 Hz: 103.2 dB
+- 40 Hz: 106.1 dB
+- 50 Hz: 111.0 dB
+- 63 Hz: 112.4 dB
+- CEA-2010-A Average (40-80Hz): 109.8 dB (avg of 3/4 bands)
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 13.0"H x 13.0"W x 12.25"D (330.2 x 330.2 x 311.1 mm)
+- Discontinued: Yes
+- Driver(s): (2) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 60.0lbs / 27.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Sunfire XTEQ12 Website](https://www.sunfire.com/product/xteq-subwoofer-eq-dual-12-multivoltage-XTEQ12)
+    - [Reddit Search for Sunfire XTEQ12](https://www.reddit.com/search/?q=Sunfire+XTEQ12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Sunfire-XTEQ12/)
+
+## #90 Emotiva X-Ref 12
+- 100 Hz: 109.3 dB
+- 125 Hz: 108.1 dB
+- 20 Hz: 84.0 dB
+- 25 Hz: 92.5 dB
+- 31.5 Hz: 102.1 dB
+- 40 Hz: 106.5 dB
+- 50 Hz: 110.6 dB
+- 63 Hz: 111.5 dB
+- 80 Hz: 110.7 dB
+- CEA-2010-A Average (40-80Hz): 109.8 dB
+- Country: United States
+- Dimensions: 15.62"H x 14.62"W x 15.5"D (396.7 x 371.3 x 393.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 44.0lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Emotiva X-Ref 12](https://www.reddit.com/search/?q=Emotiva+X-Ref+12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-X-Ref-12/)
+
+## #91 SVS SB12-NSD
+- 100 Hz: 111.5 dB
+- 12.5 Hz: 84.1 dB
+- 125 Hz: 111.5 dB
+- 15 Hz: 90.7 dB
+- 20 Hz: 94.9 dB
+- 25 Hz: 99.3 dB
+- 31.5 Hz: 104.0 dB
+- 40 Hz: 107.6 dB
+- 50 Hz: 109.4 dB
+- 63 Hz: 110.6 dB
+- 80 Hz: 111.2 dB
+- CEA-2010-A Average (40-80Hz): 109.7 dB
+- Country: United States
+- Dimensions: 14.2"H x 14.2"W x 14.2"D (360.7 x 360.7 x 360.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 35.0lbs / 15.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [SVS SB12-NSD Website](https://www.svsound.com/products/sb12-nsd)
+    - [Reddit Search for SVS SB12-NSD](https://www.reddit.com/search/?q=SVS+SB12-NSD)
+    - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB12-NSD/)
+
+## #92 RSL (Rogersound Labs) Speedwoofer 10S
+- 20 Hz: 95.5 dB
+- 25 Hz: 101.2 dB
+- 31.5 Hz: 105.2 dB
+- 40 Hz: 107.0 dB
+- 50 Hz: 109.9 dB
+- 63 Hz: 111.1 dB
+- 80 Hz: 110.5 dB
+- CEA-2010-A Average (40-80Hz): 109.6 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.0"H x 15.0"W x 16.75"D (406.4 x 381.0 x 425.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Warranty: 2
+- Weight: 45.0lbs / 20.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [RSL (Rogersound Labs) Speedwoofer 10S Website](https://rslspeakers.com/products/rsl-speedwoofer-10s/)
+    - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S)
+    - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10S/)
+
+## #93 Monoprice Monolith M10-S
+- Negatives: Product # 35143
+- 100 Hz: 110.9 dB
+- 125 Hz: 111.2 dB
+- 15 Hz: 91.6 dB
+- 20 Hz: 96.4 dB
+- 25 Hz: 101.6 dB
+- 31.5 Hz: 105.3 dB
+- 40 Hz: 107.8 dB
+- 50 Hz: 109.2 dB
+- 63 Hz: 110.5 dB
+- 80 Hz: 110.8 dB
+- CEA-2010-A Average (40-80Hz): 109.6 dB
+- Country: United States
+- Dimensions: 16.3"H x 12.6"W x 15.2"D (414.0 x 320.0 x 386.1 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Manufacturer
+- Warranty: 5
+- Weight: 72.5lbs / 32.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice Monolith M10-S Website](https://web.archive.org/web/20201111204930/https://www.monoprice.com/product?p_id=35143)
+    - [Reddit Search for Monoprice Monolith M10-S](https://www.reddit.com/search/?q=Monoprice+Monolith+M10-S)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M10-S/)
+
+## #94 BIC America V1220: $200
+- 20 Hz: 88.9 dB
+- 25 Hz: 95.5 dB
+- 31.5 Hz: 101.7 dB
+- 40 Hz: 103.2 dB
+- 50 Hz: 110.1 dB
+- 63 Hz: 111.7 dB
+- 80 Hz: 112.7 dB
+- CEA-2010-A Average (40-80Hz): 109.4 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 18.5"H x 17.0"W x 14.0"D (469.9 x 431.8 x 355.6 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, side
+- Measurement Source: Brent Butterworth
+- Warranty: 7/2
+- Weight: 41.0lbs / 18.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [BIC America V1220 Website](https://www.bicamerica.com/product-page/bic-venturi-v1220-430w)
+    - [Reddit Search for BIC America V1220](https://www.reddit.com/search/?q=BIC+America+V1220)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-V1220/)
+
+## #95 Monoprice MSUB-A122
+- 31.5 Hz: 92.3 dB
+- 40 Hz: 106.3 dB
+- 50 Hz: 111.9 dB
+- 63 Hz: 109.6 dB
+- CEA-2010-A Average (40-80Hz): 109.3 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 17.0"H x 17.25"W x 17.5"D (431.8 x 438.1 x 444.5 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Measurement Source: Brent Butterworth
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Monoprice MSUB-A122](https://www.reddit.com/search/?q=Monoprice+MSUB-A122)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-MSUB-A122/)
+
+## #96 Polk Audio PSW 110
+- 20 Hz: 71.6 dB
+- 25 Hz: 81.1 dB
+- 31.5 Hz: 98.2 dB
+- 40 Hz: 104.3 dB
+- 50 Hz: 108.3 dB
+- 63 Hz: 111.9 dB
+- 80 Hz: 112.5 dB
+- CEA-2010-A Average (40-80Hz): 109.2 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 14.5"H x 14.25"W x 17.0"D (368.3 x 361.9 x 431.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 5/3
+- Weight: 33.5lbs / 15.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Polk Audio PSW 110 Website](https://www.polkaudio.com/en/subwoofers/psw110)
+    - [Reddit Search for Polk Audio PSW 110](https://www.reddit.com/search/?q=Polk+Audio+PSW+110)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-PSW-110/)
+
+## #97 RBH Sound S-10
+- 100 Hz: 108.0 dB
+- 125 Hz: 106.0 dB
+- 31.5 Hz: 101.0 dB
+- 40 Hz: 108.0 dB
+- 50 Hz: 110.0 dB
+- 63 Hz: 110.0 dB
+- 80 Hz: 109.0 dB
+- CEA-2010-A Average (40-80Hz): 109.2 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 15.5"H x 13.0"W x 16.5"D (393.7 x 330.2 x 419.1 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 5/1(+5/+3)
+- Weight: 33.0lbs / 15.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [RBH Sound S-10 Website](https://rbhsound.com/s10.php)
+    - [Reddit Search for RBH Sound S-10](https://www.reddit.com/search/?q=RBH+Sound+S-10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-S-10/)
+
+## #98 Q Acoustics Q B12: $664.90
+- 15 Hz: 89.2 dB
+- 20 Hz: 92.4 dB
+- 25 Hz: 98.9 dB
+- 31.5 Hz: 102.5 dB
+- 40 Hz: 105.4 dB
+- 50 Hz: 108.6 dB
+- 63 Hz: 111.1 dB
+- 80 Hz: 111.7 dB
+- CEA-2010-A Average (40-80Hz): 109.2 dB
+- Cabinet Color: black, white
+- Country: United Kingdom
+- Dimensions: 15.7"H x 15.7"W x 17.6"D (398.8 x 398.8 x 447.0 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 2
+- Weight: 47.4lbs / 21.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Q Acoustics Q B12 Website](https://www.qacoustics.com/b12-subwoofer.html)
+    - [Reddit Search for Q Acoustics Q B12](https://www.reddit.com/search/?q=Q+Acoustics+Q+B12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Q-Acoustics-Q-B12/)
+
+## #99 Dayton Audio SUB-1200: $180
+- 15 Hz: 76.1 dB
+- 20 Hz: 85.5 dB
+- 25 Hz: 95.7 dB
+- 31.5 Hz: 100.8 dB
+- 40 Hz: 105.3 dB
+- 50 Hz: 108.8 dB
+- 63 Hz: 111.2 dB
+- 80 Hz: 111.2 dB
+- CEA-2010-A Average (40-80Hz): 109.1 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.75"H x 16.18"W x 17.75"D (425.4 x 411.0 x 450.8 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 44.65lbs / 20.3kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Dayton Audio SUB-1200 Website](https://www.parts-express.com/Dayton-Audio-SUB-1200-12-120-Watt-Powered-Subwoofer-300-629)
+    - [Reddit Search for Dayton Audio SUB-1200](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1200)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1200/)
+
+## #100 Bowers & Wilkins (B&W) ASW610XP
+- 100 Hz: 109.2 dB
+- 125 Hz: 107.9 dB
+- 20 Hz: 88.1 dB
+- 25 Hz: 93.0 dB
+- 31.5 Hz: 99.1 dB
+- 40 Hz: 104.5 dB
+- 50 Hz: 108.9 dB
+- 63 Hz: 111.9 dB
+- 80 Hz: 111.1 dB
+- CEA-2010-A Average (40-80Hz): 109.1 dB
+- Cabinet Color: black, white
+- Country: United Kingdom
+- Dimensions: 12.8"H x 12.8"W x 14.7"D (325.1 x 325.1 x 373.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 2
+- Weight: 41.22lbs / 18.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Bowers & Wilkins (B&W) ASW610XP Website](https://www.bowerswilkins.com/en-gb/product/loudspeakers/asw610xp)
+    - [Reddit Search for Bowers & Wilkins (B&W) ASW610XP](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+ASW610XP)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Bowers--Wilkins-BW-ASW610XP/)
+
+## #101 MartinLogan Dynamo 600X: $547.76
+- 100 Hz: 108.1 dB
+- 125 Hz: 106.9 dB
+- 20 Hz: 95.7 dB
+- 25 Hz: 100.9 dB
+- 31.5 Hz: 103.6 dB
+- 40 Hz: 106.8 dB
+- 50 Hz: 109.3 dB
+- 63 Hz: 110.3 dB
+- 80 Hz: 109.3 dB
+- CEA-2010-A Average (40-80Hz): 108.9 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.3"H x 14.5"W x 14.9"D (414.0 x 368.3 x 378.5 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 35.5lbs / 16.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [MartinLogan Dynamo 600X Website](https://www.martinlogan.com/en/product/dynamo-600x)
+    - [Reddit Search for MartinLogan Dynamo 600X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+600X)
+    - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-600X/)
+
+## #102 BIC America V1020: $350
+- 20 Hz: 73.3 dB
+- 25 Hz: 84.3 dB
+- 31.5 Hz: 98.0 dB
+- 40 Hz: 104.8 dB
+- 50 Hz: 108.3 dB
+- 63 Hz: 110.1 dB
+- 80 Hz: 112.4 dB
+- CEA-2010-A Average (40-80Hz): 108.9 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.5"H x 15.0"W x 13.0"D (419.1 x 381.0 x 330.2 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, side
+- Measurement Source: Brent Butterworth
+- Warranty: 7/2
+- Weight: 34.0lbs / 15.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [BIC America V1020 Website](https://www.bicamerica.com/product-page/bic-venturi-v1020-350w)
+    - [Reddit Search for BIC America V1020](https://www.reddit.com/search/?q=BIC+America+V1020)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-V1020/)
+
+## #103 Polk Audio HTS 10: $450
+- 20 Hz: 80.1 dB
+- 25 Hz: 92.7 dB
+- 31.5 Hz: 103.3 dB
+- 40 Hz: 105.6 dB
+- 50 Hz: 108.4 dB
+- 63 Hz: 110.9 dB
+- 80 Hz: 110.2 dB
+- CEA-2010-A Average (40-80Hz): 108.8 dB
+- Cabinet Color: black, wood
+- Country: United States
+- Dimensions: 16.61"H x 15.11"W x 16.1"D (421.9 x 383.8 x 408.9 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Warranty: 5/3
+- Weight: 37.75lbs / 17.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Polk Audio HTS 10 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-10/112606.html?dwvar_112606_color=Black)
+    - [Reddit Search for Polk Audio HTS 10](https://www.reddit.com/search/?q=Polk+Audio+HTS+10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-HTS-10/)
+
+## #104 Klipsch R-12SW
+- 100 Hz: 107.6 dB
+- 125 Hz: 105.8 dB
+- 15 Hz: 68.5 dB
+- 20 Hz: 86.9 dB
+- 25 Hz: 97.1 dB
+- 31.5 Hz: 100.0 dB
+- 40 Hz: 104.7 dB
+- 50 Hz: 109.0 dB
+- 63 Hz: 111.2 dB
+- 80 Hz: 109.3 dB
+- CEA-2010-A Average (40-80Hz): 108.5 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 16.0"H x 14.0"W x 18.5"D (406.4 x 355.6 x 469.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: ported, rear
+- Measurement Source: ErinsAudioCorner
+- Warranty: 5/2
+- Weight: 33.0lbs / 15.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Klipsch R-12SW Website](https://www.klipsch.com/products/r-12sw)
+    - [Reddit Search for Klipsch R-12SW](https://www.reddit.com/search/?q=Klipsch+R-12SW)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-12SW/)
+
+## #105 Emotiva Ultra 12
+- 100 Hz: 107.0 dB
+- 20 Hz: 88.0 dB
+- 25 Hz: 95.0 dB
+- 31.5 Hz: 100.0 dB
+- 40 Hz: 105.0 dB
+- 50 Hz: 109.0 dB
+- 63 Hz: 111.0 dB
+- 80 Hz: 108.0 dB
+- CEA-2010-A Average (40-80Hz): 108.2 dB
+- Country: United States
+- Dimensions: 14.5"H x 14.5"W x 15.25"D (368.3 x 368.3 x 387.3 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 5
+- Weight: 38.0lbs / 17.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Emotiva Ultra 12](https://www.reddit.com/search/?q=Emotiva+Ultra+12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-Ultra-12/)
+
+## #106 Monoprice SSW-10: $135
+- Negatives: Product # 33830, low profile (<8in)
+- 20 Hz: 70.8 dB
+- 25 Hz: 79.2 dB
+- 31.5 Hz: 90.8 dB
+- 40 Hz: 99.7 dB
+- 50 Hz: 104.7 dB
+- 63 Hz: 112.4 dB
+- 80 Hz: 116.1 dB
+- CEA-2010-A Average (40-80Hz): 108.2 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 7.0"H x 25.0"W x 15.7"D (177.8 x 635.0 x 398.8 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 1
+- Weight: 30.0lbs / 13.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Monoprice SSW-10 Website](https://www.monoprice.com/product?p_id=33830)
+    - [Reddit Search for Monoprice SSW-10](https://www.reddit.com/search/?q=Monoprice+SSW-10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-SSW-10/)
+
+## #107 Sumiko S.9
+- 20 Hz: 84.1 dB
+- 25 Hz: 96.9 dB
+- 31.5 Hz: 102.9 dB
+- 40 Hz: 105.0 dB
+- 50 Hz: 109.9 dB
+- 63 Hz: 109.7 dB
+- CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
+- Dimensions: 15.9"H x 14.0"W x 16.2"D (403.9 x 355.6 x 411.5 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Weight: 46.2lbs / 21.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Sumiko S.9 Website](https://web.archive.org/web/20200219162840/http://sumikosubwoofers.com/en-us/products/s-9)
+    - [Reddit Search for Sumiko S.9](https://www.reddit.com/search/?q=Sumiko+S.9)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Sumiko-S.9/)
+
+## #108 Genelec HTS3B
+- 15 Hz: 89.1 dB
+- 20 Hz: 95.2 dB
+- 25 Hz: 98.2 dB
+- 31.5 Hz: 101.4 dB
+- 40 Hz: 105.2 dB
+- 50 Hz: 107.9 dB
+- 63 Hz: 109.3 dB
+- 80 Hz: 110.3 dB
+- CEA-2010-A Average (40-80Hz): 108.2 dB
+- Country: Finland
+- Dimensions: 17.06"H x 15.62"W x 15.75"D (433.3 x 396.7 x 400.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: passive radiator
+- Measurement Source: Ilkka Rissanen
+- Warranty: 2(+3)
+- Weight: 61.72lbs / 28.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Genelec HTS3B Website](https://www.genelec.com/previous-models/hts3b)
+    - [Reddit Search for Genelec HTS3B](https://www.reddit.com/search/?q=Genelec+HTS3B)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-HTS3B/)
+
+## #109 Kef Kube 10B: $800
+- 15 Hz: 86.3 dB
+- 20 Hz: 93.4 dB
+- 25 Hz: 93.5 dB
+- 31.5 Hz: 100.7 dB
+- 40 Hz: 103.9 dB
+- 50 Hz: 107.1 dB
+- 63 Hz: 109.9 dB
+- 80 Hz: 111.1 dB
+- CEA-2010-A Average (40-80Hz): 108.0 dB
+- Cabinet Color: black
+- Country: United Kingdom
+- Dimensions: 14.6"H x 13.9"W x 14.6"D (370.8 x 353.1 x 370.8 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5/2/5
+- Weight: 38.36lbs / 17.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Kef Kube 10B Website](https://us.kef.com/products/kube10b-subwoofer)
+    - [Reddit Search for Kef Kube 10B](https://www.reddit.com/search/?q=Kef+Kube+10B)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Kef-Kube-10B/)
+
+## #110 BK Electronics XLS300/PR
+- 20 Hz: 92.3 dB
+- 25 Hz: 100.3 dB
+- 31.5 Hz: 103.1 dB
+- 40 Hz: 106.2 dB
+- 50 Hz: 107.9 dB
+- 63 Hz: 108.7 dB
+- 80 Hz: 108.8 dB
+- CEA-2010-A Average (40-80Hz): 107.9 dB
+- Cabinet Color: black, wood
+- Country: United Kingdom
+- Dimensions: 13.77"H x 15.74"W x 14.96"D (349.8 x 399.8 x 380.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Ilkka Rissanen
+- Warranty: 2
+- Weight: 55.11lbs / 25.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [BK Electronics XLS300/PR Website](https://web.archive.org/web/20080218082442/http://www.bkelec.com/HiFi/Sub_Woofers/XLS300PR.htm)
+    - [Reddit Search for BK Electronics XLS300/PR](https://www.reddit.com/search/?q=BK+Electronics+XLS300%2FPR)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-XLS300PR/)
+
+## #111 Paradigm Defiance X10: $985.97
+- 20 Hz: 76.7 dB
+- 25 Hz: 92.2 dB
+- 31.5 Hz: 101.4 dB
+- 40 Hz: 104.5 dB
+- 50 Hz: 107.0 dB
+- 63 Hz: 110.6 dB
+- 80 Hz: 109.5 dB
+- CEA-2010-A Average (40-80Hz): 107.9 dB
+- Cabinet Color: black
+- Country: Canada
+- Dimensions: 16.43"H x 15.0"W x 16.43"D (417.3 x 381.0 x 417.3 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Warranty: 3
+- Weight: 42.0lbs / 19.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Paradigm Defiance X10 Website](https://www.paradigm.com/en/ported/defiance-x10)
+    - [Reddit Search for Paradigm Defiance X10](https://www.reddit.com/search/?q=Paradigm+Defiance+X10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-X10/)
+
+## #112 EMPtek ES1010i
+- 100 Hz: 108.0 dB
+- 20 Hz: 88.0 dB
+- 25 Hz: 94.0 dB
+- 31.5 Hz: 100.0 dB
+- 40 Hz: 105.5 dB
+- 50 Hz: 109.0 dB
+- 63 Hz: 108.0 dB
+- 80 Hz: 108.0 dB
+- CEA-2010-A Average (40-80Hz): 107.6 dB
+- Dimensions: 27.5"H x 13.0"W x 19.0"D (698.5 x 330.2 x 482.6 mm)
+- Discontinued: Yes
+- Driver(s): (2) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Audioholics
+- Weight: 45.0lbs / 20.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for EMPtek ES1010i](https://www.reddit.com/search/?q=EMPtek+ES1010i)
+    - [Direct Speakerranking Link](/subwoofer/speakers/EMPtek-ES1010i/)
+
+## #113 Genelec 7060B
+- 20 Hz: 93.5 dB
+- 25 Hz: 97.0 dB
+- 31.5 Hz: 98.8 dB
+- 40 Hz: 102.3 dB
+- 50 Hz: 107.2 dB
+- 63 Hz: 110.5 dB
+- 80 Hz: 110.4 dB
+- CEA-2010-A Average (40-80Hz): 107.6 dB
+- Country: Finland
+- Dimensions: 20.75"H x 18.19"W x 14.29"D (527.0 x 462.0 x 363.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, bottom
+- Measurement Source: Ilkka Rissanen
+- Warranty: 2(+3)
+- Weight: 57.32lbs / 26.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Genelec 7060B Website](https://www.genelec.com/previous-models/7060b)
+    - [Reddit Search for Genelec 7060B](https://www.reddit.com/search/?q=Genelec+7060B)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-7060B/)
+
+## #114 Sonos Sub (Gen 1)
+- Negatives: low profile (<8in)
+- 31.5 Hz: 93.0 dB
+- 40 Hz: 104.9 dB
+- 50 Hz: 108.8 dB
+- 63 Hz: 108.9 dB
+- CEA-2010-A Average (40-80Hz): 107.5 dB (avg of 3/4 bands)
+- Cabinet Color: black, white
+- Country: United States
+- Dimensions: 15.3"H x 15.8"W x 6.2"D (388.6 x 401.3 x 157.5 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 1
+- Weight: 36.3lbs / 16.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Sonos Sub (Gen 1)](https://www.reddit.com/search/?q=Sonos+Sub+%28Gen+1%29)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Sonos-Sub-Gen-1/)
+
+## #115 Paradigm Monitor SUB 10
+- 20 Hz: 94.4 dB
+- 25 Hz: 94.4 dB
+- 31.5 Hz: 94.4 dB
+- 40 Hz: 107.4 dB
+- 50 Hz: 107.4 dB
+- 63 Hz: 107.4 dB
+- CEA-2010-A Average (40-80Hz): 107.4 dB (avg of 3/4 bands)
+- Country: Canada
+- Dimensions: 13.0"H x 11.12"W x 12.75"D (330.2 x 282.4 x 323.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 3
+- Weight: 30.0lbs / 13.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Paradigm Monitor SUB 10 Website](https://www.paradigm.com/en/sealed/monitor-sub-10)
+    - [Reddit Search for Paradigm Monitor SUB 10](https://www.reddit.com/search/?q=Paradigm+Monitor+SUB+10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Monitor-SUB-10/)
+
+## #116 Atlantic Technology 224SB: $673
+- 15 Hz: 74.8 dB
+- 20 Hz: 82.2 dB
+- 25 Hz: 84.6 dB
+- 31.5 Hz: 91.6 dB
+- 40 Hz: 97.8 dB
+- 50 Hz: 106.3 dB
+- 63 Hz: 112.1 dB
+- 80 Hz: 113.1 dB
+- CEA-2010-A Average (40-80Hz): 107.3 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 13.25"H x 13.25"W x 15.4"D (336.5 x 336.5 x 391.2 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 3
+- Weight: 31.0lbs / 14.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Atlantic Technology 224SB Website](https://shop.atlantictechnology.com/products/224-sb)
+    - [Reddit Search for Atlantic Technology 224SB](https://www.reddit.com/search/?q=Atlantic+Technology+224SB)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Atlantic-Technology-224SB/)
+
+## #117 Velodyne Acoustics EQ-Max8
+- 31.5 Hz: 89.3 dB
+- 40 Hz: 106.3 dB
+- 50 Hz: 107.6 dB
+- 63 Hz: 107.2 dB
+- CEA-2010-A Average (40-80Hz): 107.0 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 14.5"H x 13.25"W x 14.87"D (368.3 x 336.5 x 377.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 8 inch
+- Enclosure: ported, bottom
+- Measurement Source: Brent Butterworth
+- Weight: 44.0lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Velodyne Acoustics EQ-Max8 Website](https://www.velodyneacoustics.com/eq-max-series/)
+    - [Reddit Search for Velodyne Acoustics EQ-Max8](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max8)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-EQ-Max8/)
+
+## #118 Chorus Speakers Vertigo XLS 07
+- 20 Hz: 89.7 dB
+- 25 Hz: 98.1 dB
+- 31.5 Hz: 104.1 dB
+- 40 Hz: 106.9 dB
+- 50 Hz: 106.9 dB
+- 63 Hz: 106.8 dB
+- 80 Hz: 106.5 dB
+- CEA-2010-A Average (40-80Hz): 106.8 dB
+- Discontinued: Yes
+- Measurement Source: Ilkka Rissanen
+- Weight: 65.4lbs / 29.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Chorus Speakers Vertigo XLS 07 Website](https://web.archive.org/web/20070222194613/http://www.chorus.fi/view.php?or_id=20&page=index&content_group_id=491&anonymous=chorus)
+    - [Reddit Search for Chorus Speakers Vertigo XLS 07](https://www.reddit.com/search/?q=Chorus+Speakers+Vertigo+XLS+07)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Chorus-Speakers-Vertigo-XLS-07/)
+
+## #119 Jamo C 912 SUB
+- 100 Hz: 106.6 dB
+- 125 Hz: 104.9 dB
+- 15 Hz: 78.4 dB
+- 20 Hz: 88.0 dB
+- 25 Hz: 95.5 dB
+- 31.5 Hz: 99.0 dB
+- 40 Hz: 103.4 dB
+- 50 Hz: 106.5 dB
+- 63 Hz: 108.6 dB
+- 80 Hz: 108.1 dB
+- CEA-2010-A Average (40-80Hz): 106.7 dB
+- Cabinet Color: black, white, wood
+- Country: Denmark
+- Dimensions: 17.89"H x 13.99"W x 18.88"D (454.4 x 355.3 x 479.6 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: ported, front
+- Measurement Source: ErinsAudioCorner
+- Warranty: 5/2
+- Weight: 41.66lbs / 18.9kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Jamo C 912 SUB Website](https://intl.jamo.com/speakers/subwoofers/c-912sub)
+    - [Reddit Search for Jamo C 912 SUB](https://www.reddit.com/search/?q=Jamo+C+912+SUB)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Jamo-C-912-SUB/)
+
+## #120 PSB Speakers SubSeries 250: $584.28
+- 15 Hz: 84.0 dB
+- 20 Hz: 86.5 dB
+- 25 Hz: 90.7 dB
+- 31.5 Hz: 96.2 dB
+- 40 Hz: 100.9 dB
+- 50 Hz: 105.0 dB
+- 63 Hz: 109.7 dB
+- 80 Hz: 110.6 dB
+- CEA-2010-A Average (40-80Hz): 106.5 dB
+- Cabinet Color: black
+- Country: Canada
+- Dimensions: 14.25"H x 13.62"W x 14.37"D (361.9 x 345.9 x 365.0 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 35.4lbs / 16.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [PSB Speakers SubSeries 250 Website](https://www.psbspeakers.com/ca/subseries-250-10-subwoofer)
+    - [Reddit Search for PSB Speakers SubSeries 250](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+250)
+    - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-250/)
+
+## #121 REL Acoustics T-7
+- 20 Hz: 68.0 dB
+- 25 Hz: 87.9 dB
+- 31.5 Hz: 98.9 dB
+- 40 Hz: 105.9 dB
+- 50 Hz: 107.3 dB
+- 63 Hz: 105.5 dB
+- CEA-2010-A Average (40-80Hz): 106.2 dB (avg of 3/4 bands)
+- Country: United Kingdom
+- Dimensions: 13.75"H x 12.0"W x 13.75"D (349.2 x 304.8 x 349.2 mm)
+- Discontinued: Yes
+- Driver(s): (1) 8 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Warranty: 3
+- Weight: 31.0lbs / 14.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [REL Acoustics T-7 Website](https://web.archive.org/web/20130826092244/http://www.sumikoaudio.net/rel/prod_t7.htm)
+    - [Reddit Search for REL Acoustics T-7](https://www.reddit.com/search/?q=REL+Acoustics+T-7)
+    - [Direct Speakerranking Link](/subwoofer/speakers/REL-Acoustics-T-7/)
+
+## #122 Bowers & Wilkins (B&W) PV-1
+- Negatives: "Sphere" shape
+- 20 Hz: 79.6 dB
+- 25 Hz: 85.1 dB
+- 31.5 Hz: 92.1 dB
+- 40 Hz: 99.4 dB
+- 50 Hz: 104.8 dB
+- 63 Hz: 109.5 dB
+- 80 Hz: 110.7 dB
+- CEA-2010-A Average (40-80Hz): 106.1 dB
+- Country: United Kingdom
+- Dimensions: 13.2"H x 11.4"W x 13.7"D (335.3 x 289.6 x 348.0 mm)
+- Discontinued: Yes
+- Driver(s): (2) 8 inch
+- Enclosure: sealed
+- Measurement Source: Ilkka Rissanen
+- Weight: 45.19lbs / 20.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Bowers & Wilkins (B&W) PV-1](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+PV-1)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Bowers--Wilkins-BW-PV-1/)
+
+## #123 OSD (Optimal Speaker Design) PS10
+- 20 Hz: 79.0 dB
+- 25 Hz: 87.3 dB
+- 31.5 Hz: 92.0 dB
+- 40 Hz: 98.5 dB
+- 50 Hz: 105.3 dB
+- 63 Hz: 109.9 dB
+- 80 Hz: 110.1 dB
+- CEA-2010-A Average (40-80Hz): 106.0 dB
+- Country: United States
+- Dimensions: 13.5"H x 14.25"W x 13.5"D (342.9 x 361.9 x 342.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 2
+- Weight: 33.0lbs / 15.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [OSD (Optimal Speaker Design) PS10 Website](https://web.archive.org/web/20201130210655/https://www.osdaudio.com/ps10-10-high-powered-premium-home-theater-subwoofer.html)
+    - [Reddit Search for OSD (Optimal Speaker Design) PS10](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+PS10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-PS10/)
+
+## #124 BK Electronics XLS200-DF MK2: $501.33
+- 15 Hz: 84.2 dB
+- 20 Hz: 89.3 dB
+- 25 Hz: 94.6 dB
+- 31.5 Hz: 99.4 dB
+- 40 Hz: 103.1 dB
+- 50 Hz: 105.4 dB
+- 63 Hz: 106.9 dB
+- 80 Hz: 107.5 dB
+- CEA-2010-A Average (40-80Hz): 105.7 dB
+- Cabinet Color: black, white, wood, grey
+- Country: United Kingdom
+- Dimensions: 13.97"H x 11.41"W x 13.38"D (354.8 x 289.8 x 339.9 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Ilkka Rissanen
+- Warranty: 2
+- Weight: 38.58lbs / 17.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [BK Electronics XLS200-DF MK2 Website](http://www.bkelec.com/HiFi/Sub_Woofers/XLS200-DF.htm)
+    - [Reddit Search for BK Electronics XLS200-DF MK2](https://www.reddit.com/search/?q=BK+Electronics+XLS200-DF+MK2)
+    - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-XLS200-DF-MK2/)
+
+## #125 ELAC SUB3010
+- 20 Hz: 77.8 dB
+- 25 Hz: 91.9 dB
+- 31.5 Hz: 97.9 dB
+- 40 Hz: 100.1 dB
+- 50 Hz: 104.6 dB
+- 63 Hz: 108.5 dB
+- 80 Hz: 108.6 dB
+- CEA-2010-A Average (40-80Hz): 105.4 dB
+- Cabinet Color: black
+- Country: Germany
+- Dimensions: 14.33"H x 13.5"W x 13.5"D (364.0 x 342.9 x 342.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Warranty: 3/1
+- Weight: 32.1lbs / 14.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [ELAC SUB3010 Website](https://www.elac.com/series/powered-subwoofers/sub-3010/)
+    - [Reddit Search for ELAC SUB3010](https://www.reddit.com/search/?q=ELAC+SUB3010)
+    - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-SUB3010/)
+
+## #126 Emotiva S10
+- 15 Hz: 74.4 dB
+- 20 Hz: 88.0 dB
+- 25 Hz: 97.7 dB
+- 31.5 Hz: 100.6 dB
+- 40 Hz: 102.1 dB
+- 50 Hz: 104.8 dB
+- 63 Hz: 105.8 dB
+- 80 Hz: 106.9 dB
+- CEA-2010-A Average (40-80Hz): 104.9 dB
+- Country: United States
+- Dimensions: 16.14"H x 14.01"W x 15.86"D (410.0 x 355.9 x 402.8 mm)
+- Discontinued: Yes
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Brent Butterworth
+- Warranty: 5
+- Weight: 52.1lbs / 23.6kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Emotiva S10](https://www.reddit.com/search/?q=Emotiva+S10)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-S10/)
+
+## #127 Audio Pro Level 110
+- 20 Hz: 84.4 dB
+- 25 Hz: 92.0 dB
+- 31.5 Hz: 99.0 dB
+- 40 Hz: 102.1 dB
+- 50 Hz: 104.5 dB
+- 63 Hz: 105.7 dB
+- 80 Hz: 105.8 dB
+- CEA-2010-A Average (40-80Hz): 104.5 dB
+- Cabinet Color: wood
+- Country: Sweden
+- Dimensions: 16.14"H x 13.77"W x 15.35"D (410.0 x 349.8 x 389.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: ported, front
+- Measurement Source: Ilkka Rissanen
+- Weight: 37.03lbs / 16.8kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Audio Pro Level 110](https://www.reddit.com/search/?q=Audio+Pro+Level+110)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Audio-Pro-Level-110/)
+
+## #128 Kali Audio WS-6.2: $500
+- 100 Hz: 111.6 dB
+- 25 Hz: 96.6 dB
+- 31.5 Hz: 102.5 dB
+- 40 Hz: 102.4 dB
+- 50 Hz: 101.8 dB
+- 63 Hz: 103.4 dB
+- 80 Hz: 110.4 dB
+- CEA-2010-A Average (40-80Hz): 104.5 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 14.5"H x 12.2"W x 11.0"D (368.3 x 309.9 x 279.4 mm)
+- Driver(s): (2) 6.5 inch
+- Enclosure: ported, front
+- Measurement Source: ErinsAudioCorner
+- Weight: 31.0lbs / 14.1kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Kali Audio WS-6.2 Website](https://www.kaliaudio.com/watts-ws62)
+    - [Reddit Search for Kali Audio WS-6.2](https://www.reddit.com/search/?q=Kali+Audio+WS-6.2)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Kali-Audio-WS-6.2/)
+
+## #129 Kef KF92: $2,000
+- 100 Hz: 107.2 dB
+- 20 Hz: 86.0 dB
+- 25 Hz: 91.6 dB
+- 31.5 Hz: 95.4 dB
+- 40 Hz: 101.1 dB
+- 50 Hz: 103.0 dB
+- 63 Hz: 104.4 dB
+- 80 Hz: 106.3 dB
+- CEA-2010-A Average (40-80Hz): 103.7 dB
+- Cabinet Color: black
+- Country: United Kingdom
+- Dimensions: 13.87"H x 12.99"W x 14.19"D (352.3 x 329.9 x 360.4 mm)
+- Driver(s): (2) 9 inch
+- Enclosure: sealed
+- Measurement Source: ErinsAudioCorner
+- Warranty: 5/2/5
+- Weight: 44.09lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Kef KF92 Website](https://us.kef.com/products/kf92-subwoofer)
+    - [Reddit Search for Kef KF92](https://www.reddit.com/search/?q=Kef+KF92)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Kef-KF92/)
+
+## #130 JL Audio Fathom f110
+- 100 Hz: 98.0 dB
+- 20 Hz: 94.0 dB
+- 25 Hz: 101.0 dB
+- 31.5 Hz: 103.0 dB
+- 40 Hz: 105.0 dB
+- 50 Hz: 104.0 dB
+- 63 Hz: 103.0 dB
+- 80 Hz: 101.0 dB
+- CEA-2010-A Average (40-80Hz): 103.2 dB
+- Country: United States
+- Dimensions: 15.64"H x 12.92"W x 17.27"D (397.3 x 328.2 x 438.7 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: Audioholics
+- Warranty: 3
+- Weight: 67.0lbs / 30.4kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for JL Audio Fathom f110](https://www.reddit.com/search/?q=JL+Audio+Fathom+f110)
+    - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-Fathom-f110/)
+
+## #131 JBL SUB 550P: $600
+- 100 Hz: 104.2 dB
+- 20 Hz: 84.7 dB
+- 25 Hz: 89.8 dB
+- 31.5 Hz: 98.1 dB
+- 40 Hz: 101.5 dB
+- 50 Hz: 103.2 dB
+- 63 Hz: 103.3 dB
+- 80 Hz: 103.7 dB
+- CEA-2010-A Average (40-80Hz): 102.9 dB
+- Cabinet Color: black
+- Country: United States
+- Dimensions: 14.9"H x 17.5"W x 41.96"D (378.5 x 444.5 x 1065.8 mm)
+- Driver(s): (1) 10 inch
+- Enclosure: sealed
+- Measurement Source: ErinsAudioCorner
+- Warranty: 1
+- Weight: 50.0lbs / 22.7kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [JBL SUB 550P Website](https://www.jbl.com/home-audio/SUB+550P.html)
+    - [Reddit Search for JBL SUB 550P](https://www.reddit.com/search/?q=JBL+SUB+550P)
+    - [Direct Speakerranking Link](/subwoofer/speakers/JBL-SUB-550P/)
+
+## #132 Aperion Audio Bravus 10D
+- 100 Hz: 105.0 dB
+- 20 Hz: 79.0 dB
+- 25 Hz: 84.0 dB
+- 31.5 Hz: 90.0 dB
+- 40 Hz: 99.0 dB
+- 50 Hz: 102.0 dB
+- 63 Hz: 104.0 dB
+- 80 Hz: 105.0 dB
+- CEA-2010-A Average (40-80Hz): 102.5 dB
+- Country: United States
+- Dimensions: 15.0"H x 13.5"W x 13.5"D (381.0 x 342.9 x 342.9 mm)
+- Discontinued: Yes
+- Driver(s): (1) 10 inch
+- Enclosure: passive radiator
+- Measurement Source: Audioholics
+- Warranty: 10/2
+- Weight: 44.0lbs / 20.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Aperion Audio Bravus 10D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+10D)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Aperion-Audio-Bravus-10D/)
+
+## #133 Sunfire Atmos
+- 25 Hz: 70.1 dB
+- 31.5 Hz: 83.5 dB
+- 40 Hz: 96.5 dB
+- 50 Hz: 105.9 dB
+- 63 Hz: 102.3 dB
+- CEA-2010-A Average (40-80Hz): 101.6 dB (avg of 3/4 bands)
+- Country: United States
+- Dimensions: 7.62"H x 10.06"W x 10.37"D (193.5 x 255.5 x 263.4 mm)
+- Discontinued: Yes
+- Driver(s): (1) 6.5 inch
+- Enclosure: passive radiator
+- Measurement Source: Brent Butterworth
+- Weight: 32.0lbs / 14.5kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Reddit Search for Sunfire Atmos](https://www.reddit.com/search/?q=Sunfire+Atmos)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Sunfire-Atmos/)
+
+## #134 Genelec 7050B
+- 20 Hz: 87.4 dB
+- 25 Hz: 92.8 dB
+- 31.5 Hz: 95.9 dB
+- 40 Hz: 98.0 dB
+- 50 Hz: 99.8 dB
+- 63 Hz: 101.6 dB
+- 80 Hz: 102.0 dB
+- CEA-2010-A Average (40-80Hz): 100.3 dB
+- Country: Finland
+- Dimensions: 16.12"H x 13.75"W x 12.56"D (409.4 x 349.2 x 319.0 mm)
+- Discontinued: Yes
+- Driver(s): (1) 8 inch
+- Enclosure: ported, bottom
+- Measurement Source: Ilkka Rissanen
+- Warranty: 2(+3)
+- Weight: 39.68lbs / 18.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Genelec 7050B Website](https://www.genelec.com/previous-models/7050b)
+    - [Reddit Search for Genelec 7050B](https://www.reddit.com/search/?q=Genelec+7050B)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-7050B/)
+
+## #135 Bestisan SW65D: $90
+- 40 Hz: 88.3 dB
+- 50 Hz: 97.5 dB
+- 63 Hz: 104.0 dB
+- 80 Hz: 106.4 dB
+- CEA-2010-A Average (40-80Hz): 99.0 dB
+- Cabinet Color: black
+- Country: China
+- Dimensions: 12.6"H x 3.0"W x 12.6"D (320.0 x 76.2 x 320.0 mm)
+- Driver(s): (1) 6.5 inch
+- Enclosure: ported, front
+- Measurement Source: Brent Butterworth
+- Weight: 38.0lbs / 17.2kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Bestisan SW65D Website](https://www.amazon.com/BESTISAN-Subwoofer-Bestisan-Bluetooth-Response/dp/B08R9VVKB7/)
+    - [Reddit Search for Bestisan SW65D](https://www.reddit.com/search/?q=Bestisan+SW65D)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Bestisan-SW65D/)
+
+## #136 Kef KC62: $1,500
+- 100 Hz: 104.2 dB
+- 20 Hz: 80.0 dB
+- 25 Hz: 84.6 dB
+- 31.5 Hz: 88.5 dB
+- 40 Hz: 92.2 dB
+- 50 Hz: 95.1 dB
+- 63 Hz: 97.7 dB
+- 80 Hz: 102.6 dB
+- CEA-2010-A Average (40-80Hz): 96.9 dB
+- Cabinet Color: black, white
+- Country: United Kingdom
+- Dimensions: 9.68"H x 10.07"W x 9.76"D (245.9 x 255.8 x 247.9 mm)
+- Driver(s): (2) 6.5 inch
+- Enclosure: sealed
+- Measurement Source: ErinsAudioCorner
+- Warranty: 5/2/5
+- Weight: 30.86lbs / 14.0kg
+- Reviews, Comparisons and Sound Samples
+- Links
+    - [Kef KC62 Website](https://us.kef.com/products/kc62-subwoofer)
+    - [Reddit Search for Kef KC62](https://www.reddit.com/search/?q=Kef+KC62)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Kef-KC62/)
+
+
+As an Amazon Associate I earn from qualifying purchases.
