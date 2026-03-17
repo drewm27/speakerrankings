@@ -8,14 +8,7 @@ share-description: "The Monoprice 10in Powered Studio Multimedia ranks #80 out o
 The Monoprice 10in Powered Studio Multimedia ranks [#80 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#80-monoprice-10in-powered-studio-multimedia-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #80 Monoprice 10in Powered Studio Multimedia
-- Negatives: Product # 605999
-- 20 Hz: 73.3 dB
-- 25 Hz: 84.6 dB
-- 31.5 Hz: 97.2 dB
-- 40 Hz: 105.0 dB
-- 50 Hz: 109.9 dB
-- 63 Hz: 113.4 dB
-- 80 Hz: 115.2 dB
+- Notes: Product # 605999
 - CEA-2010-A Average (40-80Hz): 110.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +17,13 @@ The Monoprice 10in Powered Studio Multimedia ranks [#80 out of 136 total Medium 
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 73.3 dB
+- Output SPL at 25 Hz: 84.6 dB
+- Output SPL at 31.5 Hz: 97.2 dB
+- Output SPL at 40 Hz: 105.0 dB
+- Output SPL at 50 Hz: 109.9 dB
+- Output SPL at 63 Hz: 113.4 dB
+- Output SPL at 80 Hz: 115.2 dB
 - Warranty: 1
 - Weight: 44.0lbs / 20.0kg
 - Reviews, Comparisons and Sound Samples

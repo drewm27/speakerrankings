@@ -8,16 +8,6 @@ share-description: "The Starke Sound SW12 ranks #42 out of 136 total Medium Powe
 The Starke Sound SW12 ranks [#42 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#42-starke-sound-sw12-670) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #42 Starke Sound SW12: $670
-- 100 Hz: 114.0 dB
-- 125 Hz: 112.1 dB
-- 15 Hz: 88.7 dB
-- 20 Hz: 93.5 dB
-- 25 Hz: 101.2 dB
-- 31.5 Hz: 106.1 dB
-- 40 Hz: 112.8 dB
-- 50 Hz: 115.6 dB
-- 63 Hz: 114.2 dB
-- 80 Hz: 113.7 dB
 - CEA-2010-A Average (40-80Hz): 114.1 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The Starke Sound SW12 ranks [#42 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 114.0 dB
+- Output SPL at 125 Hz: 112.1 dB
+- Output SPL at 15 Hz: 88.7 dB
+- Output SPL at 20 Hz: 93.5 dB
+- Output SPL at 25 Hz: 101.2 dB
+- Output SPL at 31.5 Hz: 106.1 dB
+- Output SPL at 40 Hz: 112.8 dB
+- Output SPL at 50 Hz: 115.6 dB
+- Output SPL at 63 Hz: 114.2 dB
+- Output SPL at 80 Hz: 113.7 dB
 - Weight: 39.5lbs / 17.9kg
 - Reviews, Comparisons and Sound Samples
 - Links

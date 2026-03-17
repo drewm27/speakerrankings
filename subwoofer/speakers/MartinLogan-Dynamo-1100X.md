@@ -8,16 +8,6 @@ share-description: "The MartinLogan Dynamo 1100X ranks #19 out of 136 total Medi
 The MartinLogan Dynamo 1100X ranks [#19 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#19-martinlogan-dynamo-1100x-124160) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #19 MartinLogan Dynamo 1100X: $1,241.60
-- 100 Hz: 121.3 dB
-- 125 Hz: 120.7 dB
-- 15 Hz: 90.6 dB
-- 20 Hz: 95.9 dB
-- 25 Hz: 100.2 dB
-- 31.5 Hz: 106.5 dB
-- 40 Hz: 111.4 dB
-- 50 Hz: 115.1 dB
-- 63 Hz: 118.7 dB
-- 80 Hz: 120.7 dB
 - CEA-2010-A Average (40-80Hz): 116.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The MartinLogan Dynamo 1100X ranks [#19 out of 136 total Medium Powered Home Sub
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Matthew J Poes
+- Output SPL at 100 Hz: 121.3 dB
+- Output SPL at 125 Hz: 120.7 dB
+- Output SPL at 15 Hz: 90.6 dB
+- Output SPL at 20 Hz: 95.9 dB
+- Output SPL at 25 Hz: 100.2 dB
+- Output SPL at 31.5 Hz: 106.5 dB
+- Output SPL at 40 Hz: 111.4 dB
+- Output SPL at 50 Hz: 115.1 dB
+- Output SPL at 63 Hz: 118.7 dB
+- Output SPL at 80 Hz: 120.7 dB
 - Warranty: 3
 - Weight: 46.0lbs / 20.9kg
 - Reviews, Comparisons and Sound Samples

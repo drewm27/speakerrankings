@@ -8,13 +8,6 @@ share-description: "The OSD (Optimal Speaker Design) PS10 ranks #123 out of 136 
 The OSD (Optimal Speaker Design) PS10 ranks [#123 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#123-osd-optimal-speaker-design-ps10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #123 OSD (Optimal Speaker Design) PS10
-- 20 Hz: 79.0 dB
-- 25 Hz: 87.3 dB
-- 31.5 Hz: 92.0 dB
-- 40 Hz: 98.5 dB
-- 50 Hz: 105.3 dB
-- 63 Hz: 109.9 dB
-- 80 Hz: 110.1 dB
 - CEA-2010-A Average (40-80Hz): 106.0 dB
 - Country: United States
 - Dimensions: 13.5"H x 14.25"W x 13.5"D (342.9 x 361.9 x 342.9 mm)
@@ -22,6 +15,13 @@ The OSD (Optimal Speaker Design) PS10 ranks [#123 out of 136 total Medium Powere
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 79.0 dB
+- Output SPL at 25 Hz: 87.3 dB
+- Output SPL at 31.5 Hz: 92.0 dB
+- Output SPL at 40 Hz: 98.5 dB
+- Output SPL at 50 Hz: 105.3 dB
+- Output SPL at 63 Hz: 109.9 dB
+- Output SPL at 80 Hz: 110.1 dB
 - Warranty: 2
 - Weight: 33.0lbs / 15.0kg
 - Reviews, Comparisons and Sound Samples

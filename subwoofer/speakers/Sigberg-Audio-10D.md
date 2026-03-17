@@ -8,17 +8,6 @@ share-description: "The Sigberg Audio 10D ranks #18 out of 136 total Medium Powe
 The Sigberg Audio 10D ranks [#18 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#18-sigberg-audio-10d-406737) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #18 Sigberg Audio 10D: $4,067.37
-- 100 Hz: 119.3 dB
-- 12.5 Hz: 86.0 dB
-- 125 Hz: 118.4 dB
-- 15 Hz: 91.5 dB
-- 20 Hz: 96.0 dB
-- 25 Hz: 101.0 dB
-- 31.5 Hz: 106.2 dB
-- 40 Hz: 112.6 dB
-- 50 Hz: 116.3 dB
-- 63 Hz: 119.4 dB
-- 80 Hz: 119.0 dB
 - CEA-2010-A Average (40-80Hz): 116.8 dB
 - Cabinet Color: black, white
 - Country: Norway
@@ -26,6 +15,17 @@ The Sigberg Audio 10D ranks [#18 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (2) 10 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 119.3 dB
+- Output SPL at 12.5 Hz: 86.0 dB
+- Output SPL at 125 Hz: 118.4 dB
+- Output SPL at 15 Hz: 91.5 dB
+- Output SPL at 20 Hz: 96.0 dB
+- Output SPL at 25 Hz: 101.0 dB
+- Output SPL at 31.5 Hz: 106.2 dB
+- Output SPL at 40 Hz: 112.6 dB
+- Output SPL at 50 Hz: 116.3 dB
+- Output SPL at 63 Hz: 119.4 dB
+- Output SPL at 80 Hz: 119.0 dB
 - Weight: 59.52lbs / 27.0kg
 - Reviews, Comparisons and Sound Samples
 - Links

@@ -8,18 +8,7 @@ share-description: "The Monoprice Monolith M-15 V2 ranks #53 out of 95 total Lar
 The Monoprice Monolith M-15 V2 ranks [#53 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#53-monoprice-monolith-m-15-v2-1500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #53 Monoprice Monolith M-15 V2: $1,500
-- Negatives: Product # 42851
-- 100 Hz: 120.1 dB
-- 12.5 Hz: 91.0 dB
-- 125 Hz: 120.2 dB
-- 15 Hz: 106.3 dB
-- 20 Hz: 112.6 dB
-- 25 Hz: 116.6 dB
-- 31.5 Hz: 119.5 dB
-- 40 Hz: 120.9 dB
-- 50 Hz: 120.6 dB
-- 63 Hz: 120.0 dB
-- 80 Hz: 118.7 dB
+- Notes: Product # 42851
 - CEA-2010-A Average (40-80Hz): 120.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -27,6 +16,17 @@ The Monoprice Monolith M-15 V2 ranks [#53 out of 95 total Large Powered Home Sub
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
+- Output SPL at 100 Hz: 120.1 dB
+- Output SPL at 12.5 Hz: 91.0 dB
+- Output SPL at 125 Hz: 120.2 dB
+- Output SPL at 15 Hz: 106.3 dB
+- Output SPL at 20 Hz: 112.6 dB
+- Output SPL at 25 Hz: 116.6 dB
+- Output SPL at 31.5 Hz: 119.5 dB
+- Output SPL at 40 Hz: 120.9 dB
+- Output SPL at 50 Hz: 120.6 dB
+- Output SPL at 63 Hz: 120.0 dB
+- Output SPL at 80 Hz: 118.7 dB
 - Warranty: 5
 - Weight: 132.9lbs / 60.3kg
 - Reviews, Comparisons and Sound Samples

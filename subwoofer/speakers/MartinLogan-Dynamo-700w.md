@@ -8,12 +8,6 @@ share-description: "The MartinLogan Dynamo 700w ranks #8 out of 42 total Small P
 The MartinLogan Dynamo 700w ranks [#8 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#8-martinlogan-dynamo-700w-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 MartinLogan Dynamo 700w
-- 20 Hz: 86.3 dB
-- 25 Hz: 88.4 dB
-- 31.5 Hz: 94.6 dB
-- 40 Hz: 106.3 dB
-- 50 Hz: 110.3 dB
-- 63 Hz: 110.5 dB
 - CEA-2010-A Average (40-80Hz): 109.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 12.54"H x 11.69"W x 12.53"D (318.5 x 296.9 x 318.3 mm)
@@ -21,6 +15,12 @@ The MartinLogan Dynamo 700w ranks [#8 out of 42 total Small Powered Home Subwoof
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 86.3 dB
+- Output SPL at 25 Hz: 88.4 dB
+- Output SPL at 31.5 Hz: 94.6 dB
+- Output SPL at 40 Hz: 106.3 dB
+- Output SPL at 50 Hz: 110.3 dB
+- Output SPL at 63 Hz: 110.5 dB
 - Warranty: 3
 - Weight: 26.5lbs / 12.0kg
 - Reviews, Comparisons and Sound Samples

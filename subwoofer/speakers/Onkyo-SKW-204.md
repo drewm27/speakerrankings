@@ -8,13 +8,6 @@ share-description: "The Onkyo SKW-204 ranks #7 out of 42 total Small Powered Hom
 The Onkyo SKW-204 ranks [#7 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#7-onkyo-skw-204-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #7 Onkyo SKW-204
-- 20 Hz: 71.3 dB
-- 25 Hz: 84.1 dB
-- 31.5 Hz: 97.3 dB
-- 40 Hz: 102.7 dB
-- 50 Hz: 108.0 dB
-- 63 Hz: 113.6 dB
-- 80 Hz: 115.4 dB
 - CEA-2010-A Average (40-80Hz): 109.9 dB
 - Cabinet Color: black
 - Country: Japan
@@ -23,6 +16,13 @@ The Onkyo SKW-204 ranks [#7 out of 42 total Small Powered Home Subwoofers (Under
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 71.3 dB
+- Output SPL at 25 Hz: 84.1 dB
+- Output SPL at 31.5 Hz: 97.3 dB
+- Output SPL at 40 Hz: 102.7 dB
+- Output SPL at 50 Hz: 108.0 dB
+- Output SPL at 63 Hz: 113.6 dB
+- Output SPL at 80 Hz: 115.4 dB
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples
 - Links

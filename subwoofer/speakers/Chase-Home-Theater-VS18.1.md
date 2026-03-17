@@ -8,22 +8,22 @@ share-description: "The Chase Home Theater VS18.1 ranks #10 out of 10 total Larg
 The Chase Home Theater VS18.1 ranks [#10 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#10-chase-home-theater-vs181-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #10 Chase Home Theater VS18.1
-- 100 Hz: 130.4 dB
-- 125 Hz: 131.6 dB
-- 15 Hz: 104.4 dB
-- 20 Hz: 114.1 dB
-- 25 Hz: 116.9 dB
-- 31.5 Hz: 119.1 dB
-- 40 Hz: 122.2 dB
-- 50 Hz: 124.8 dB
-- 63 Hz: 124.5 dB
-- 80 Hz: 126.5 dB
 - CEA-2010-A Average (40-80Hz): 124.5 dB
 - Dimensions: 22.0"H x 40.0"W x 22.0"D (558.8 x 1016.0 x 558.8 mm)
 - Discontinued: Yes
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 130.4 dB
+- Output SPL at 125 Hz: 131.6 dB
+- Output SPL at 15 Hz: 104.4 dB
+- Output SPL at 20 Hz: 114.1 dB
+- Output SPL at 25 Hz: 116.9 dB
+- Output SPL at 31.5 Hz: 119.1 dB
+- Output SPL at 40 Hz: 122.2 dB
+- Output SPL at 50 Hz: 124.8 dB
+- Output SPL at 63 Hz: 124.5 dB
+- Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
 - Reviews, Comparisons and Sound Samples
 - Links

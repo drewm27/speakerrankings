@@ -8,12 +8,6 @@ share-description: "The SVS SB-4000 ranks #52 out of 95 total Large Powered Home
 The SVS SB-4000 ranks [#52 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#52-svs-sb-4000-1800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #52 SVS SB-4000: $1,800
-- 20 Hz: 98.5 dB
-- 25 Hz: 101.3 dB
-- 31.5 Hz: 108.1 dB
-- 40 Hz: 116.1 dB
-- 50 Hz: 121.1 dB
-- 63 Hz: 123.0 dB
 - CEA-2010-A Average (40-80Hz): 120.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -21,6 +15,12 @@ The SVS SB-4000 ranks [#52 out of 95 total Large Powered Home Subwoofers (Over 7
 - Driver(s): (1) 13.5 inch
 - Enclosure: sealed
 - Measurement Source: Brian Kahn
+- Output SPL at 20 Hz: 98.5 dB
+- Output SPL at 25 Hz: 101.3 dB
+- Output SPL at 31.5 Hz: 108.1 dB
+- Output SPL at 40 Hz: 116.1 dB
+- Output SPL at 50 Hz: 121.1 dB
+- Output SPL at 63 Hz: 123.0 dB
 - Warranty: 5
 - Weight: 102.3lbs / 46.4kg
 - Reviews, Comparisons and Sound Samples

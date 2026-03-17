@@ -8,14 +8,6 @@ share-description: "The PSB Speakers SubSeries 250 ranks #120 out of 136 total M
 The PSB Speakers SubSeries 250 ranks [#120 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#120-psb-speakers-subseries-250-58428) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #120 PSB Speakers SubSeries 250: $584.28
-- 15 Hz: 84.0 dB
-- 20 Hz: 86.5 dB
-- 25 Hz: 90.7 dB
-- 31.5 Hz: 96.2 dB
-- 40 Hz: 100.9 dB
-- 50 Hz: 105.0 dB
-- 63 Hz: 109.7 dB
-- 80 Hz: 110.6 dB
 - CEA-2010-A Average (40-80Hz): 106.5 dB
 - Cabinet Color: black
 - Country: Canada
@@ -23,6 +15,14 @@ The PSB Speakers SubSeries 250 ranks [#120 out of 136 total Medium Powered Home 
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 84.0 dB
+- Output SPL at 20 Hz: 86.5 dB
+- Output SPL at 25 Hz: 90.7 dB
+- Output SPL at 31.5 Hz: 96.2 dB
+- Output SPL at 40 Hz: 100.9 dB
+- Output SPL at 50 Hz: 105.0 dB
+- Output SPL at 63 Hz: 109.7 dB
+- Output SPL at 80 Hz: 110.6 dB
 - Warranty: 5
 - Weight: 35.4lbs / 16.1kg
 - Reviews, Comparisons and Sound Samples

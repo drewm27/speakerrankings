@@ -8,14 +8,6 @@ share-description: "The Atlantic Technology 224SB ranks #116 out of 136 total Me
 The Atlantic Technology 224SB ranks [#116 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#116-atlantic-technology-224sb-673) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #116 Atlantic Technology 224SB: $673
-- 15 Hz: 74.8 dB
-- 20 Hz: 82.2 dB
-- 25 Hz: 84.6 dB
-- 31.5 Hz: 91.6 dB
-- 40 Hz: 97.8 dB
-- 50 Hz: 106.3 dB
-- 63 Hz: 112.1 dB
-- 80 Hz: 113.1 dB
 - CEA-2010-A Average (40-80Hz): 107.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -23,6 +15,14 @@ The Atlantic Technology 224SB ranks [#116 out of 136 total Medium Powered Home S
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 74.8 dB
+- Output SPL at 20 Hz: 82.2 dB
+- Output SPL at 25 Hz: 84.6 dB
+- Output SPL at 31.5 Hz: 91.6 dB
+- Output SPL at 40 Hz: 97.8 dB
+- Output SPL at 50 Hz: 106.3 dB
+- Output SPL at 63 Hz: 112.1 dB
+- Output SPL at 80 Hz: 113.1 dB
 - Warranty: 3
 - Weight: 31.0lbs / 14.1kg
 - Reviews, Comparisons and Sound Samples

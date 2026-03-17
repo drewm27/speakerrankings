@@ -8,17 +8,7 @@ share-description: "The SVS PC-2000 ranks #43 out of 136 total Medium Powered Ho
 The SVS PC-2000 ranks [#43 out of 136 total Medium Powered Home Subwoofers (30â€“75 lbs)](/subwoofer/powered-medium/#43-svs-pc-2000-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #43 SVS PC-2000
-- Negatives: "Cylinder" shape
-- 100 Hz: 112.6 dB
-- 125 Hz: 112.5 dB
-- 15 Hz: 98.6 dB
-- 20 Hz: 107.3 dB
-- 25 Hz: 111.7 dB
-- 31.5 Hz: 112.9 dB
-- 40 Hz: 114.5 dB
-- 50 Hz: 114.2 dB
-- 63 Hz: 113.9 dB
-- 80 Hz: 112.9 dB
+- Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -27,6 +17,16 @@ The SVS PC-2000 ranks [#43 out of 136 total Medium Powered Home Subwoofers (30â€
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 112.6 dB
+- Output SPL at 125 Hz: 112.5 dB
+- Output SPL at 15 Hz: 98.6 dB
+- Output SPL at 20 Hz: 107.3 dB
+- Output SPL at 25 Hz: 111.7 dB
+- Output SPL at 31.5 Hz: 112.9 dB
+- Output SPL at 40 Hz: 114.5 dB
+- Output SPL at 50 Hz: 114.2 dB
+- Output SPL at 63 Hz: 113.9 dB
+- Output SPL at 80 Hz: 112.9 dB
 - Warranty: 5
 - Weight: 50.0lbs / 22.7kg
 - Reviews, Comparisons and Sound Samples

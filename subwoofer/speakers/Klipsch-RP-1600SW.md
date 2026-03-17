@@ -8,18 +8,6 @@ share-description: "The Klipsch RP-1600SW ranks #49 out of 95 total Large Powere
 The Klipsch RP-1600SW ranks [#49 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#49-klipsch-rp-1600sw-1800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #49 Klipsch RP-1600SW: $1,800
-- 10 Hz: 85.2 dB
-- 100 Hz: 118.8 dB
-- 12.5 Hz: 101.0 dB
-- 125 Hz: 118.5 dB
-- 15 Hz: 108.5 dB
-- 20 Hz: 112.5 dB
-- 25 Hz: 116.3 dB
-- 31.5 Hz: 120.5 dB
-- 40 Hz: 121.5 dB
-- 50 Hz: 120.6 dB
-- 63 Hz: 120.0 dB
-- 80 Hz: 119.6 dB
 - CEA-2010-A Average (40-80Hz): 120.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -27,6 +15,18 @@ The Klipsch RP-1600SW ranks [#49 out of 95 total Large Powered Home Subwoofers (
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 10 Hz: 85.2 dB
+- Output SPL at 100 Hz: 118.8 dB
+- Output SPL at 12.5 Hz: 101.0 dB
+- Output SPL at 125 Hz: 118.5 dB
+- Output SPL at 15 Hz: 108.5 dB
+- Output SPL at 20 Hz: 112.5 dB
+- Output SPL at 25 Hz: 116.3 dB
+- Output SPL at 31.5 Hz: 120.5 dB
+- Output SPL at 40 Hz: 121.5 dB
+- Output SPL at 50 Hz: 120.6 dB
+- Output SPL at 63 Hz: 120.0 dB
+- Output SPL at 80 Hz: 119.6 dB
 - Warranty: 5
 - Weight: 110.9lbs / 50.3kg
 - Reviews, Comparisons and Sound Samples

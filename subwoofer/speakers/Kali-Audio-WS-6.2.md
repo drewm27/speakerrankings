@@ -8,13 +8,6 @@ share-description: "The Kali Audio WS-6.2 ranks #128 out of 136 total Medium Pow
 The Kali Audio WS-6.2 ranks [#128 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#128-kali-audio-ws-62-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #128 Kali Audio WS-6.2: $500
-- 100 Hz: 111.6 dB
-- 25 Hz: 96.6 dB
-- 31.5 Hz: 102.5 dB
-- 40 Hz: 102.4 dB
-- 50 Hz: 101.8 dB
-- 63 Hz: 103.4 dB
-- 80 Hz: 110.4 dB
 - CEA-2010-A Average (40-80Hz): 104.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -22,6 +15,13 @@ The Kali Audio WS-6.2 ranks [#128 out of 136 total Medium Powered Home Subwoofer
 - Driver(s): (2) 6.5 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 111.6 dB
+- Output SPL at 25 Hz: 96.6 dB
+- Output SPL at 31.5 Hz: 102.5 dB
+- Output SPL at 40 Hz: 102.4 dB
+- Output SPL at 50 Hz: 101.8 dB
+- Output SPL at 63 Hz: 103.4 dB
+- Output SPL at 80 Hz: 110.4 dB
 - Weight: 31.0lbs / 14.1kg
 - Reviews, Comparisons and Sound Samples
 - Links

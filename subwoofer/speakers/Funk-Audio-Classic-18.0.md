@@ -8,19 +8,7 @@ share-description: "The Funk Audio Classic 18.0 ranks #5 out of 10 total Large P
 The Funk Audio Classic 18.0 ranks [#5 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#5-funk-audio-classic-180-489335) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #5 Funk Audio Classic 18.0: $4,893.35
-- Negatives: Data-bass labeled this sub as 'FW18.0', but original name is 18.0
-- 10 Hz: 94.6 dB
-- 100 Hz: 130.2 dB
-- 12.5 Hz: 98.4 dB
-- 125 Hz: 130.8 dB
-- 15 Hz: 102.3 dB
-- 20 Hz: 106.5 dB
-- 25 Hz: 111.7 dB
-- 31.5 Hz: 119.0 dB
-- 40 Hz: 124.6 dB
-- 50 Hz: 126.8 dB
-- 63 Hz: 128.4 dB
-- 80 Hz: 129.6 dB
+- Notes: Data-bass labeled this sub as 'FW18.0', but original name is 18.0
 - CEA-2010-A Average (40-80Hz): 127.3 dB
 - Cabinet Color: wood, custom
 - Country: Canada
@@ -28,6 +16,18 @@ The Funk Audio Classic 18.0 ranks [#5 out of 10 total Large Passive Home Subwoof
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
+- Output SPL at 10 Hz: 94.6 dB
+- Output SPL at 100 Hz: 130.2 dB
+- Output SPL at 12.5 Hz: 98.4 dB
+- Output SPL at 125 Hz: 130.8 dB
+- Output SPL at 15 Hz: 102.3 dB
+- Output SPL at 20 Hz: 106.5 dB
+- Output SPL at 25 Hz: 111.7 dB
+- Output SPL at 31.5 Hz: 119.0 dB
+- Output SPL at 40 Hz: 124.6 dB
+- Output SPL at 50 Hz: 126.8 dB
+- Output SPL at 63 Hz: 128.4 dB
+- Output SPL at 80 Hz: 129.6 dB
 - Passive: Yes
 - Warranty: 3
 - Weight: 115.0lbs / 52.2kg

@@ -8,16 +8,6 @@ share-description: "The Outlaw Audio LFM-1 EX ranks #23 out of 136 total Medium 
 The Outlaw Audio LFM-1 EX ranks [#23 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#23-outlaw-audio-lfm-1-ex-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #23 Outlaw Audio LFM-1 EX
-- 100 Hz: 116.1 dB
-- 125 Hz: 115.8 dB
-- 15 Hz: 89.9 dB
-- 20 Hz: 104.0 dB
-- 25 Hz: 110.3 dB
-- 31.5 Hz: 113.7 dB
-- 40 Hz: 115.3 dB
-- 50 Hz: 116.7 dB
-- 63 Hz: 116.8 dB
-- 80 Hz: 116.7 dB
 - CEA-2010-A Average (40-80Hz): 116.4 dB
 - Country: United States
 - Dimensions: 17.0"H x 22.75"W x 24.0"D (431.8 x 577.9 x 609.6 mm)
@@ -25,6 +15,16 @@ The Outlaw Audio LFM-1 EX ranks [#23 out of 136 total Medium Powered Home Subwoo
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 116.1 dB
+- Output SPL at 125 Hz: 115.8 dB
+- Output SPL at 15 Hz: 89.9 dB
+- Output SPL at 20 Hz: 104.0 dB
+- Output SPL at 25 Hz: 110.3 dB
+- Output SPL at 31.5 Hz: 113.7 dB
+- Output SPL at 40 Hz: 115.3 dB
+- Output SPL at 50 Hz: 116.7 dB
+- Output SPL at 63 Hz: 116.8 dB
+- Output SPL at 80 Hz: 116.7 dB
 - Warranty: 3
 - Weight: 67.0lbs / 30.4kg
 - Reviews, Comparisons and Sound Samples

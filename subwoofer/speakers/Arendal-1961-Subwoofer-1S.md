@@ -8,15 +8,6 @@ share-description: "The Arendal 1961 Subwoofer 1S ranks #29 out of 136 total Med
 The Arendal 1961 Subwoofer 1S ranks [#29 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#29-arendal-1961-subwoofer-1s-1000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #29 Arendal 1961 Subwoofer 1S: $1,000
-- 100 Hz: 117.6 dB
-- 15 Hz: 93.2 dB
-- 20 Hz: 102.5 dB
-- 25 Hz: 102.6 dB
-- 31.5 Hz: 107.8 dB
-- 40 Hz: 111.3 dB
-- 50 Hz: 115.0 dB
-- 63 Hz: 117.5 dB
-- 80 Hz: 118.0 dB
 - CEA-2010-A Average (40-80Hz): 115.5 dB
 - Cabinet Color: black, white
 - Country: Norway
@@ -24,6 +15,15 @@ The Arendal 1961 Subwoofer 1S ranks [#29 out of 136 total Medium Powered Home Su
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 117.6 dB
+- Output SPL at 15 Hz: 93.2 dB
+- Output SPL at 20 Hz: 102.5 dB
+- Output SPL at 25 Hz: 102.6 dB
+- Output SPL at 31.5 Hz: 107.8 dB
+- Output SPL at 40 Hz: 111.3 dB
+- Output SPL at 50 Hz: 115.0 dB
+- Output SPL at 63 Hz: 117.5 dB
+- Output SPL at 80 Hz: 118.0 dB
 - Warranty: 10/5
 - Weight: 44.09lbs / 20.0kg
 - Reviews, Comparisons and Sound Samples

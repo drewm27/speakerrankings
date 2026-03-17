@@ -8,15 +8,7 @@ share-description: "The Monoprice Monolith 8 THX Certified ranks #37 out of 42 t
 The Monoprice Monolith 8 THX Certified ranks [#37 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#37-monoprice-monolith-8-thx-certified-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #37 Monoprice Monolith 8 THX Certified: $350
-- Negatives: Product # 41289
-- 100 Hz: 101.9 dB
-- 20 Hz: 72.9 dB
-- 25 Hz: 86.1 dB
-- 31.5 Hz: 93.2 dB
-- 40 Hz: 96.9 dB
-- 50 Hz: 99.3 dB
-- 63 Hz: 100.7 dB
-- 80 Hz: 101.6 dB
+- Notes: Product # 41289
 - CEA-2010-A Average (40-80Hz): 99.6 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The Monoprice Monolith 8 THX Certified ranks [#37 out of 42 total Small Powered 
 - Driver(s): (1) 8 inch
 - Enclosure: ported
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 101.9 dB
+- Output SPL at 20 Hz: 72.9 dB
+- Output SPL at 25 Hz: 86.1 dB
+- Output SPL at 31.5 Hz: 93.2 dB
+- Output SPL at 40 Hz: 96.9 dB
+- Output SPL at 50 Hz: 99.3 dB
+- Output SPL at 63 Hz: 100.7 dB
+- Output SPL at 80 Hz: 101.6 dB
 - Weight: 19.8lbs / 9.0kg
 - Reviews, Comparisons and Sound Samples
 - Links

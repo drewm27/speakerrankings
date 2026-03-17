@@ -8,15 +8,6 @@ share-description: "The Cadence Sound CSX-15 MKII ranks #83 out of 95 total Larg
 The Cadence Sound CSX-15 MKII ranks [#83 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#83-cadence-sound-csx-15-mkii-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #83 Cadence Sound CSX-15 MKII
-- 100 Hz: 122.3 dB
-- 125 Hz: 119.8 dB
-- 20 Hz: 86.8 dB
-- 25 Hz: 92.7 dB
-- 31.5 Hz: 96.3 dB
-- 40 Hz: 101.6 dB
-- 50 Hz: 112.3 dB
-- 63 Hz: 118.5 dB
-- 80 Hz: 123.2 dB
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Country: United States
 - Dimensions: 21.5"H x 19.0"W x 18.0"D (546.1 x 482.6 x 457.2 mm)
@@ -24,6 +15,15 @@ The Cadence Sound CSX-15 MKII ranks [#83 out of 95 total Large Powered Home Subw
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 122.3 dB
+- Output SPL at 125 Hz: 119.8 dB
+- Output SPL at 20 Hz: 86.8 dB
+- Output SPL at 25 Hz: 92.7 dB
+- Output SPL at 31.5 Hz: 96.3 dB
+- Output SPL at 40 Hz: 101.6 dB
+- Output SPL at 50 Hz: 112.3 dB
+- Output SPL at 63 Hz: 118.5 dB
+- Output SPL at 80 Hz: 123.2 dB
 - Weight: 88.0lbs / 39.9kg
 - Reviews, Comparisons and Sound Samples
 - Links

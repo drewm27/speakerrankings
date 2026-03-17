@@ -8,14 +8,6 @@ share-description: "The OSD (Optimal Speaker Design) TreVoce 12 DSP ranks #57 ou
 The OSD (Optimal Speaker Design) TreVoce 12 DSP ranks [#57 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#57-osd-optimal-speaker-design-trevoce-12-dsp-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #57 OSD (Optimal Speaker Design) TreVoce 12 DSP
-- 100 Hz: 111.5 dB
-- 125 Hz: 110.1 dB
-- 25 Hz: 77.3 dB
-- 31.5 Hz: 102.5 dB
-- 40 Hz: 108.2 dB
-- 50 Hz: 112.3 dB
-- 63 Hz: 115.4 dB
-- 80 Hz: 114.0 dB
 - CEA-2010-A Average (40-80Hz): 112.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The OSD (Optimal Speaker Design) TreVoce 12 DSP ranks [#57 out of 136 total Medi
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 111.5 dB
+- Output SPL at 125 Hz: 110.1 dB
+- Output SPL at 25 Hz: 77.3 dB
+- Output SPL at 31.5 Hz: 102.5 dB
+- Output SPL at 40 Hz: 108.2 dB
+- Output SPL at 50 Hz: 112.3 dB
+- Output SPL at 63 Hz: 115.4 dB
+- Output SPL at 80 Hz: 114.0 dB
 - Warranty: 2
 - Weight: 44.0lbs / 20.0kg
 - Reviews, Comparisons and Sound Samples

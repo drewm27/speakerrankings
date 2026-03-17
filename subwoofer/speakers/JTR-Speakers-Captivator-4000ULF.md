@@ -8,18 +8,6 @@ share-description: "The JTR Speakers Captivator 4000ULF ranks #4 out of 95 total
 The JTR Speakers Captivator 4000ULF ranks [#4 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#4-jtr-speakers-captivator-4000ulf-5000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 JTR Speakers Captivator 4000ULF: $5,000
-- 10 Hz: 111.0 dB
-- 100 Hz: 130.5 dB
-- 12.5 Hz: 115.3 dB
-- 125 Hz: 129.5 dB
-- 15 Hz: 119.3 dB
-- 20 Hz: 122.3 dB
-- 25 Hz: 126.1 dB
-- 31.5 Hz: 129.3 dB
-- 40 Hz: 130.7 dB
-- 50 Hz: 131.2 dB
-- 63 Hz: 130.9 dB
-- 80 Hz: 130.6 dB
 - CEA-2010-A Average (40-80Hz): 130.8 dB
 - Cabinet Color: black, custom
 - Country: United States
@@ -27,6 +15,18 @@ The JTR Speakers Captivator 4000ULF ranks [#4 out of 95 total Large Powered Home
 - Driver(s): (2) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
+- Output SPL at 10 Hz: 111.0 dB
+- Output SPL at 100 Hz: 130.5 dB
+- Output SPL at 12.5 Hz: 115.3 dB
+- Output SPL at 125 Hz: 129.5 dB
+- Output SPL at 15 Hz: 119.3 dB
+- Output SPL at 20 Hz: 122.3 dB
+- Output SPL at 25 Hz: 126.1 dB
+- Output SPL at 31.5 Hz: 129.3 dB
+- Output SPL at 40 Hz: 130.7 dB
+- Output SPL at 50 Hz: 131.2 dB
+- Output SPL at 63 Hz: 130.9 dB
+- Output SPL at 80 Hz: 130.6 dB
 - Warranty: 5/3
 - Weight: 265.0lbs / 120.2kg
 - Reviews, Comparisons and Sound Samples

@@ -8,18 +8,18 @@ share-description: "The Sumiko S.9 ranks #107 out of 136 total Medium Powered Ho
 The Sumiko S.9 ranks [#107 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#107-sumiko-s9-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #107 Sumiko S.9
-- 20 Hz: 84.1 dB
-- 25 Hz: 96.9 dB
-- 31.5 Hz: 102.9 dB
-- 40 Hz: 105.0 dB
-- 50 Hz: 109.9 dB
-- 63 Hz: 109.7 dB
 - CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
 - Dimensions: 15.9"H x 14.0"W x 16.2"D (403.9 x 355.6 x 411.5 mm)
 - Discontinued: Yes
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 84.1 dB
+- Output SPL at 25 Hz: 96.9 dB
+- Output SPL at 31.5 Hz: 102.9 dB
+- Output SPL at 40 Hz: 105.0 dB
+- Output SPL at 50 Hz: 109.9 dB
+- Output SPL at 63 Hz: 109.7 dB
 - Weight: 46.2lbs / 21.0kg
 - Reviews, Comparisons and Sound Samples
 - Links

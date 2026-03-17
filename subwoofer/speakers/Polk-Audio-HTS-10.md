@@ -8,13 +8,6 @@ share-description: "The Polk Audio HTS 10 ranks #103 out of 136 total Medium Pow
 The Polk Audio HTS 10 ranks [#103 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#103-polk-audio-hts-10-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #103 Polk Audio HTS 10: $450
-- 20 Hz: 80.1 dB
-- 25 Hz: 92.7 dB
-- 31.5 Hz: 103.3 dB
-- 40 Hz: 105.6 dB
-- 50 Hz: 108.4 dB
-- 63 Hz: 110.9 dB
-- 80 Hz: 110.2 dB
 - CEA-2010-A Average (40-80Hz): 108.8 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -22,6 +15,13 @@ The Polk Audio HTS 10 ranks [#103 out of 136 total Medium Powered Home Subwoofer
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 80.1 dB
+- Output SPL at 25 Hz: 92.7 dB
+- Output SPL at 31.5 Hz: 103.3 dB
+- Output SPL at 40 Hz: 105.6 dB
+- Output SPL at 50 Hz: 108.4 dB
+- Output SPL at 63 Hz: 110.9 dB
+- Output SPL at 80 Hz: 110.2 dB
 - Warranty: 5/3
 - Weight: 37.75lbs / 17.1kg
 - Reviews, Comparisons and Sound Samples

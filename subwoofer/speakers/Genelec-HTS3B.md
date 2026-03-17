@@ -8,14 +8,6 @@ share-description: "The Genelec HTS3B ranks #108 out of 136 total Medium Powered
 The Genelec HTS3B ranks [#108 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#108-genelec-hts3b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #108 Genelec HTS3B
-- 15 Hz: 89.1 dB
-- 20 Hz: 95.2 dB
-- 25 Hz: 98.2 dB
-- 31.5 Hz: 101.4 dB
-- 40 Hz: 105.2 dB
-- 50 Hz: 107.9 dB
-- 63 Hz: 109.3 dB
-- 80 Hz: 110.3 dB
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: Finland
 - Dimensions: 17.06"H x 15.62"W x 15.75"D (433.3 x 396.7 x 400.0 mm)
@@ -23,6 +15,14 @@ The Genelec HTS3B ranks [#108 out of 136 total Medium Powered Home Subwoofers (3
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 15 Hz: 89.1 dB
+- Output SPL at 20 Hz: 95.2 dB
+- Output SPL at 25 Hz: 98.2 dB
+- Output SPL at 31.5 Hz: 101.4 dB
+- Output SPL at 40 Hz: 105.2 dB
+- Output SPL at 50 Hz: 107.9 dB
+- Output SPL at 63 Hz: 109.3 dB
+- Output SPL at 80 Hz: 110.3 dB
 - Warranty: 2(+3)
 - Weight: 61.72lbs / 28.0kg
 - Reviews, Comparisons and Sound Samples

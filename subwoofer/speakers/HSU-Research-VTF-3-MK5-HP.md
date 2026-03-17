@@ -8,15 +8,7 @@ share-description: "The HSU Research VTF-3 MK5 HP ranks #41 out of 95 total Larg
 The HSU Research VTF-3 MK5 HP ranks [#41 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#41-hsu-research-vtf-3-mk5-hp-1099) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #41 HSU Research VTF-3 MK5 HP: $1,099
-- Negatives: Price includes shipping
-- 15 Hz: 100.8 dB
-- 20 Hz: 108.2 dB
-- 25 Hz: 113.4 dB
-- 31.5 Hz: 118.2 dB
-- 40 Hz: 121.9 dB
-- 50 Hz: 122.3 dB
-- 63 Hz: 121.1 dB
-- 80 Hz: 120.4 dB
+- Notes: Price includes shipping
 - CEA-2010-A Average (40-80Hz): 121.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The HSU Research VTF-3 MK5 HP ranks [#41 out of 95 total Large Powered Home Subw
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
+- Output SPL at 15 Hz: 100.8 dB
+- Output SPL at 20 Hz: 108.2 dB
+- Output SPL at 25 Hz: 113.4 dB
+- Output SPL at 31.5 Hz: 118.2 dB
+- Output SPL at 40 Hz: 121.9 dB
+- Output SPL at 50 Hz: 122.3 dB
+- Output SPL at 63 Hz: 121.1 dB
+- Output SPL at 80 Hz: 120.4 dB
 - Warranty: 7/2(+3)
 - Weight: 85.0lbs / 38.6kg
 - Reviews, Comparisons and Sound Samples

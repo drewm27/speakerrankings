@@ -8,13 +8,6 @@ share-description: "The Yamaha YST-SW012 ranks #32 out of 42 total Small Powered
 The Yamaha YST-SW012 ranks [#32 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#32-yamaha-yst-sw012-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #32 Yamaha YST-SW012
-- 20 Hz: 56.0 dB
-- 25 Hz: 74.0 dB
-- 31.5 Hz: 85.5 dB
-- 40 Hz: 92.7 dB
-- 50 Hz: 99.5 dB
-- 63 Hz: 103.9 dB
-- 80 Hz: 110.2 dB
 - CEA-2010-A Average (40-80Hz): 101.6 dB
 - Country: Japan
 - Dimensions: 11.37"H x 11.37"W x 12.87"D (288.8 x 288.8 x 326.9 mm)
@@ -22,6 +15,13 @@ The Yamaha YST-SW012 ranks [#32 out of 42 total Small Powered Home Subwoofers (U
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 56.0 dB
+- Output SPL at 25 Hz: 74.0 dB
+- Output SPL at 31.5 Hz: 85.5 dB
+- Output SPL at 40 Hz: 92.7 dB
+- Output SPL at 50 Hz: 99.5 dB
+- Output SPL at 63 Hz: 103.9 dB
+- Output SPL at 80 Hz: 110.2 dB
 - Warranty: 2
 - Weight: 18.74lbs / 8.5kg
 - Reviews, Comparisons and Sound Samples

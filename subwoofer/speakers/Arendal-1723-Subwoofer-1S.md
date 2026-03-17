@@ -8,17 +8,6 @@ share-description: "The Arendal 1723 Subwoofer 1S ranks #17 out of 136 total Med
 The Arendal 1723 Subwoofer 1S ranks [#17 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#17-arendal-1723-subwoofer-1s-1650) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #17 Arendal 1723 Subwoofer 1S: $1,650
-- 100 Hz: 118.5 dB
-- 12.5 Hz: 86.5 dB
-- 125 Hz: 118.1 dB
-- 15 Hz: 93.0 dB
-- 20 Hz: 98.5 dB
-- 25 Hz: 104.1 dB
-- 31.5 Hz: 108.5 dB
-- 40 Hz: 113.2 dB
-- 50 Hz: 117.0 dB
-- 63 Hz: 118.5 dB
-- 80 Hz: 118.6 dB
 - CEA-2010-A Average (40-80Hz): 116.8 dB
 - Cabinet Color: black, white
 - Country: Norway
@@ -26,6 +15,17 @@ The Arendal 1723 Subwoofer 1S ranks [#17 out of 136 total Medium Powered Home Su
 - Driver(s): (1) 13.8 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 118.5 dB
+- Output SPL at 12.5 Hz: 86.5 dB
+- Output SPL at 125 Hz: 118.1 dB
+- Output SPL at 15 Hz: 93.0 dB
+- Output SPL at 20 Hz: 98.5 dB
+- Output SPL at 25 Hz: 104.1 dB
+- Output SPL at 31.5 Hz: 108.5 dB
+- Output SPL at 40 Hz: 113.2 dB
+- Output SPL at 50 Hz: 117.0 dB
+- Output SPL at 63 Hz: 118.5 dB
+- Output SPL at 80 Hz: 118.6 dB
 - Warranty: 10/5
 - Weight: 54.01lbs / 24.5kg
 - Reviews, Comparisons and Sound Samples

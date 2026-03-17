@@ -8,13 +8,6 @@ share-description: "The Sonos Sub Mini ranks #35 out of 42 total Small Powered H
 The Sonos Sub Mini ranks [#35 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#35-sonos-sub-mini-430) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #35 Sonos Sub Mini: $430
-- 20 Hz: 76.4 dB
-- 25 Hz: 83.1 dB
-- 31.5 Hz: 91.9 dB
-- 40 Hz: 97.2 dB
-- 50 Hz: 98.1 dB
-- 63 Hz: 102.8 dB
-- 80 Hz: 103.5 dB
 - CEA-2010-A Average (40-80Hz): 100.4 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -22,6 +15,13 @@ The Sonos Sub Mini ranks [#35 out of 42 total Small Powered Home Subwoofers (Und
 - Driver(s): (2) 6 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 76.4 dB
+- Output SPL at 25 Hz: 83.1 dB
+- Output SPL at 31.5 Hz: 91.9 dB
+- Output SPL at 40 Hz: 97.2 dB
+- Output SPL at 50 Hz: 98.1 dB
+- Output SPL at 63 Hz: 102.8 dB
+- Output SPL at 80 Hz: 103.5 dB
 - Warranty: 1
 - Weight: 14.0lbs / 6.4kg
 - Reviews, Comparisons and Sound Samples

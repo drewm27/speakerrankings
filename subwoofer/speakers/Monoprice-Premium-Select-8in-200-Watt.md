@@ -8,14 +8,7 @@ share-description: "The Monoprice Premium Select 8in 200-Watt ranks #17 out of 4
 The Monoprice Premium Select 8in 200-Watt ranks [#17 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#17-monoprice-premium-select-8in-200-watt-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #17 Monoprice Premium Select 8in 200-Watt: $130
-- Negatives: Product # 14567
-- 20 Hz: 51.3 dB
-- 25 Hz: 69.3 dB
-- 31.5 Hz: 91.8 dB
-- 40 Hz: 98.3 dB
-- 50 Hz: 104.8 dB
-- 63 Hz: 110.7 dB
-- 80 Hz: 111.8 dB
+- Notes: Product # 14567
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -23,6 +16,13 @@ The Monoprice Premium Select 8in 200-Watt ranks [#17 out of 42 total Small Power
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 51.3 dB
+- Output SPL at 25 Hz: 69.3 dB
+- Output SPL at 31.5 Hz: 91.8 dB
+- Output SPL at 40 Hz: 98.3 dB
+- Output SPL at 50 Hz: 104.8 dB
+- Output SPL at 63 Hz: 110.7 dB
+- Output SPL at 80 Hz: 111.8 dB
 - Weight: 18.5lbs / 8.4kg
 - Reviews, Comparisons and Sound Samples
 - Links

@@ -8,15 +8,7 @@ share-description: "The Monoprice SW-12 ranks #32 out of 136 total Medium Powere
 The Monoprice SW-12 ranks [#32 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#32-monoprice-sw-12-230) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #32 Monoprice SW-12: $230
-- Negatives: Product # 41498
-- 15 Hz: 84.6 dB
-- 20 Hz: 96.7 dB
-- 25 Hz: 105.1 dB
-- 31.5 Hz: 109.2 dB
-- 40 Hz: 113.0 dB
-- 50 Hz: 113.7 dB
-- 63 Hz: 116.9 dB
-- 80 Hz: 117.0 dB
+- Notes: Product # 41498
 - CEA-2010-A Average (40-80Hz): 115.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The Monoprice SW-12 ranks [#32 out of 136 total Medium Powered Home Subwoofers (
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 84.6 dB
+- Output SPL at 20 Hz: 96.7 dB
+- Output SPL at 25 Hz: 105.1 dB
+- Output SPL at 31.5 Hz: 109.2 dB
+- Output SPL at 40 Hz: 113.0 dB
+- Output SPL at 50 Hz: 113.7 dB
+- Output SPL at 63 Hz: 116.9 dB
+- Output SPL at 80 Hz: 117.0 dB
 - Warranty: 1
 - Weight: 50.7lbs / 23.0kg
 - Reviews, Comparisons and Sound Samples

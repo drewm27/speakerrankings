@@ -8,18 +8,6 @@ share-description: "The Danley Sound Labs DTS10 ranks #3 out of 10 total Large P
 The Danley Sound Labs DTS10 ranks [#3 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#3-danley-sound-labs-dts10-4400) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #3 Danley Sound Labs DTS10: $4,400
-- 10 Hz: 94.2 dB
-- 100 Hz: 133.0 dB
-- 12.5 Hz: 110.6 dB
-- 125 Hz: 128.7 dB
-- 15 Hz: 119.0 dB
-- 20 Hz: 122.5 dB
-- 25 Hz: 125.5 dB
-- 31.5 Hz: 128.3 dB
-- 40 Hz: 125.3 dB
-- 50 Hz: 127.3 dB
-- 63 Hz: 130.9 dB
-- 80 Hz: 135.0 dB
 - CEA-2010-A Average (40-80Hz): 129.6 dB
 - Cabinet Color: black
 - Country: United States
@@ -27,6 +15,18 @@ The Danley Sound Labs DTS10 ranks [#3 out of 10 total Large Passive Home Subwoof
 - Driver(s): (2) 12 inch
 - Enclosure: tapped horn
 - Measurement Source: Data-bass
+- Output SPL at 10 Hz: 94.2 dB
+- Output SPL at 100 Hz: 133.0 dB
+- Output SPL at 12.5 Hz: 110.6 dB
+- Output SPL at 125 Hz: 128.7 dB
+- Output SPL at 15 Hz: 119.0 dB
+- Output SPL at 20 Hz: 122.5 dB
+- Output SPL at 25 Hz: 125.5 dB
+- Output SPL at 31.5 Hz: 128.3 dB
+- Output SPL at 40 Hz: 125.3 dB
+- Output SPL at 50 Hz: 127.3 dB
+- Output SPL at 63 Hz: 130.9 dB
+- Output SPL at 80 Hz: 135.0 dB
 - Passive: Yes
 - Warranty: 5
 - Weight: 285.0lbs / 129.3kg

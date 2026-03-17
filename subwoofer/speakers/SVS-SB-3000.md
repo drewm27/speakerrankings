@@ -8,16 +8,6 @@ share-description: "The SVS SB-3000 ranks #9 out of 136 total Medium Powered Hom
 The SVS SB-3000 ranks [#9 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#9-svs-sb-3000-1100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #9 SVS SB-3000: $1,100
-- 100 Hz: 120.8 dB
-- 125 Hz: 120.7 dB
-- 15 Hz: 90.3 dB
-- 20 Hz: 96.6 dB
-- 25 Hz: 101.7 dB
-- 31.5 Hz: 107.8 dB
-- 40 Hz: 114.6 dB
-- 50 Hz: 118.7 dB
-- 63 Hz: 120.7 dB
-- 80 Hz: 120.9 dB
 - CEA-2010-A Average (40-80Hz): 118.7 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The SVS SB-3000 ranks [#9 out of 136 total Medium Powered Home Subwoofers (30–
 - Driver(s): (1) 13 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 120.8 dB
+- Output SPL at 125 Hz: 120.7 dB
+- Output SPL at 15 Hz: 90.3 dB
+- Output SPL at 20 Hz: 96.6 dB
+- Output SPL at 25 Hz: 101.7 dB
+- Output SPL at 31.5 Hz: 107.8 dB
+- Output SPL at 40 Hz: 114.6 dB
+- Output SPL at 50 Hz: 118.7 dB
+- Output SPL at 63 Hz: 120.7 dB
+- Output SPL at 80 Hz: 120.9 dB
 - Warranty: 5
 - Weight: 54.5lbs / 24.7kg
 - Reviews, Comparisons and Sound Samples

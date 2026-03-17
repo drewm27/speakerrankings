@@ -8,14 +8,6 @@ share-description: "The Polk Audio HTS 12 ranks #48 out of 136 total Medium Powe
 The Polk Audio HTS 12 ranks [#48 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#48-polk-audio-hts-12-550) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #48 Polk Audio HTS 12: $550
-- 100 Hz: 113.6 dB
-- 125 Hz: 112.4 dB
-- 25 Hz: 99.1 dB
-- 31.5 Hz: 106.2 dB
-- 40 Hz: 110.6 dB
-- 50 Hz: 114.2 dB
-- 63 Hz: 115.1 dB
-- 80 Hz: 114.3 dB
 - CEA-2010-A Average (40-80Hz): 113.5 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -23,6 +15,14 @@ The Polk Audio HTS 12 ranks [#48 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 113.6 dB
+- Output SPL at 125 Hz: 112.4 dB
+- Output SPL at 25 Hz: 99.1 dB
+- Output SPL at 31.5 Hz: 106.2 dB
+- Output SPL at 40 Hz: 110.6 dB
+- Output SPL at 50 Hz: 114.2 dB
+- Output SPL at 63 Hz: 115.1 dB
+- Output SPL at 80 Hz: 114.3 dB
 - Warranty: 5/3
 - Weight: 49.9lbs / 22.6kg
 - Reviews, Comparisons and Sound Samples

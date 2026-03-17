@@ -8,16 +8,6 @@ share-description: "The SVS PB16-Ultra ranks #44 out of 95 total Large Powered H
 The SVS PB16-Ultra ranks [#44 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#44-svs-pb16-ultra-2900) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #44 SVS PB16-Ultra: $2,900
-- 100 Hz: 116.9 dB
-- 125 Hz: 115.8 dB
-- 15 Hz: 103.0 dB
-- 20 Hz: 116.8 dB
-- 25 Hz: 119.9 dB
-- 31.5 Hz: 122.5 dB
-- 40 Hz: 123.3 dB
-- 50 Hz: 122.4 dB
-- 63 Hz: 120.7 dB
-- 80 Hz: 118.6 dB
 - CEA-2010-A Average (40-80Hz): 121.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The SVS PB16-Ultra ranks [#44 out of 95 total Large Powered Home Subwoofers (Ove
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 116.9 dB
+- Output SPL at 125 Hz: 115.8 dB
+- Output SPL at 15 Hz: 103.0 dB
+- Output SPL at 20 Hz: 116.8 dB
+- Output SPL at 25 Hz: 119.9 dB
+- Output SPL at 31.5 Hz: 122.5 dB
+- Output SPL at 40 Hz: 123.3 dB
+- Output SPL at 50 Hz: 122.4 dB
+- Output SPL at 63 Hz: 120.7 dB
+- Output SPL at 80 Hz: 118.6 dB
 - Warranty: 5
 - Weight: 174.5lbs / 79.2kg
 - Reviews, Comparisons and Sound Samples

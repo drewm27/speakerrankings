@@ -8,16 +8,6 @@ share-description: "The SVS PB13-Ultra ranks #55 out of 95 total Large Powered H
 The SVS PB13-Ultra ranks [#55 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#55-svs-pb13-ultra-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #55 SVS PB13-Ultra
-- 100 Hz: 117.4 dB
-- 125 Hz: 117.1 dB
-- 15 Hz: 100.4 dB
-- 20 Hz: 113.6 dB
-- 25 Hz: 116.5 dB
-- 31.5 Hz: 118.5 dB
-- 40 Hz: 120.5 dB
-- 50 Hz: 120.8 dB
-- 63 Hz: 119.6 dB
-- 80 Hz: 118.3 dB
 - CEA-2010-A Average (40-80Hz): 119.8 dB
 - Country: United States
 - Dimensions: 22.5"H x 20.5"W x 28.0"D (571.5 x 520.7 x 711.2 mm)
@@ -25,6 +15,16 @@ The SVS PB13-Ultra ranks [#55 out of 95 total Large Powered Home Subwoofers (Ove
 - Driver(s): (1) 13.5 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 117.4 dB
+- Output SPL at 125 Hz: 117.1 dB
+- Output SPL at 15 Hz: 100.4 dB
+- Output SPL at 20 Hz: 113.6 dB
+- Output SPL at 25 Hz: 116.5 dB
+- Output SPL at 31.5 Hz: 118.5 dB
+- Output SPL at 40 Hz: 120.5 dB
+- Output SPL at 50 Hz: 120.8 dB
+- Output SPL at 63 Hz: 119.6 dB
+- Output SPL at 80 Hz: 118.3 dB
 - Warranty: 5
 - Weight: 155.0lbs / 70.3kg
 - Reviews, Comparisons and Sound Samples

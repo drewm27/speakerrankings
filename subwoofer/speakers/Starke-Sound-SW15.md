@@ -8,17 +8,6 @@ share-description: "The Starke Sound SW15 ranks #13 out of 136 total Medium Powe
 The Starke Sound SW15 ranks [#13 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#13-starke-sound-sw15-1075) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #13 Starke Sound SW15: $1,075
-- 100 Hz: 115.2 dB
-- 12.5 Hz: 86.0 dB
-- 125 Hz: 113.8 dB
-- 15 Hz: 90.8 dB
-- 20 Hz: 98.0 dB
-- 25 Hz: 104.6 dB
-- 31.5 Hz: 110.0 dB
-- 40 Hz: 114.6 dB
-- 50 Hz: 118.4 dB
-- 63 Hz: 119.1 dB
-- 80 Hz: 117.2 dB
 - CEA-2010-A Average (40-80Hz): 117.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -26,6 +15,17 @@ The Starke Sound SW15 ranks [#13 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 115.2 dB
+- Output SPL at 12.5 Hz: 86.0 dB
+- Output SPL at 125 Hz: 113.8 dB
+- Output SPL at 15 Hz: 90.8 dB
+- Output SPL at 20 Hz: 98.0 dB
+- Output SPL at 25 Hz: 104.6 dB
+- Output SPL at 31.5 Hz: 110.0 dB
+- Output SPL at 40 Hz: 114.6 dB
+- Output SPL at 50 Hz: 118.4 dB
+- Output SPL at 63 Hz: 119.1 dB
+- Output SPL at 80 Hz: 117.2 dB
 - Weight: 55.0lbs / 24.9kg
 - Reviews, Comparisons and Sound Samples
 - Links

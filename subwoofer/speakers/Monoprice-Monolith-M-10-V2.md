@@ -8,17 +8,7 @@ share-description: "The Monoprice Monolith M-10 V2 ranks #87 out of 136 total Me
 The Monoprice Monolith M-10 V2 ranks [#87 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#87-monoprice-monolith-m-10-v2-650) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #87 Monoprice Monolith M-10 V2: $650
-- Negatives: Product # 42843
-- 100 Hz: 111.2 dB
-- 125 Hz: 111.5 dB
-- 15 Hz: 93.9 dB
-- 20 Hz: 104.8 dB
-- 25 Hz: 108.5 dB
-- 31.5 Hz: 109.3 dB
-- 40 Hz: 109.7 dB
-- 50 Hz: 110.1 dB
-- 63 Hz: 110.6 dB
-- 80 Hz: 110.9 dB
+- Notes: Product # 42843
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -26,6 +16,16 @@ The Monoprice Monolith M-10 V2 ranks [#87 out of 136 total Medium Powered Home S
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
+- Output SPL at 100 Hz: 111.2 dB
+- Output SPL at 125 Hz: 111.5 dB
+- Output SPL at 15 Hz: 93.9 dB
+- Output SPL at 20 Hz: 104.8 dB
+- Output SPL at 25 Hz: 108.5 dB
+- Output SPL at 31.5 Hz: 109.3 dB
+- Output SPL at 40 Hz: 109.7 dB
+- Output SPL at 50 Hz: 110.1 dB
+- Output SPL at 63 Hz: 110.6 dB
+- Output SPL at 80 Hz: 110.9 dB
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
 - Reviews, Comparisons and Sound Samples

@@ -8,16 +8,6 @@ share-description: "The Klipsch R-121SW ranks #76 out of 136 total Medium Powere
 The Klipsch R-121SW ranks [#76 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#76-klipsch-r-121sw-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #76 Klipsch R-121SW: $600
-- 100 Hz: 109.9 dB
-- 125 Hz: 108.3 dB
-- 15 Hz: 90.7 dB
-- 20 Hz: 96.0 dB
-- 25 Hz: 98.4 dB
-- 31.5 Hz: 102.3 dB
-- 40 Hz: 108.2 dB
-- 50 Hz: 112.4 dB
-- 63 Hz: 112.9 dB
-- 80 Hz: 111.3 dB
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The Klipsch R-121SW ranks [#76 out of 136 total Medium Powered Home Subwoofers (
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 109.9 dB
+- Output SPL at 125 Hz: 108.3 dB
+- Output SPL at 15 Hz: 90.7 dB
+- Output SPL at 20 Hz: 96.0 dB
+- Output SPL at 25 Hz: 98.4 dB
+- Output SPL at 31.5 Hz: 102.3 dB
+- Output SPL at 40 Hz: 108.2 dB
+- Output SPL at 50 Hz: 112.4 dB
+- Output SPL at 63 Hz: 112.9 dB
+- Output SPL at 80 Hz: 111.3 dB
 - Warranty: 5/2
 - Weight: 35.0lbs / 15.9kg
 - Reviews, Comparisons and Sound Samples

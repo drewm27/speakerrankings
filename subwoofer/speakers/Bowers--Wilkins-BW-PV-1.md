@@ -8,14 +8,7 @@ share-description: "The Bowers & Wilkins (B&W) PV-1 ranks #122 out of 136 total 
 The Bowers & Wilkins (B&W) PV-1 ranks [#122 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#122-bowers--wilkins-bw-pv-1-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #122 Bowers & Wilkins (B&W) PV-1
-- Negatives: "Sphere" shape
-- 20 Hz: 79.6 dB
-- 25 Hz: 85.1 dB
-- 31.5 Hz: 92.1 dB
-- 40 Hz: 99.4 dB
-- 50 Hz: 104.8 dB
-- 63 Hz: 109.5 dB
-- 80 Hz: 110.7 dB
+- Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 106.1 dB
 - Country: United Kingdom
 - Dimensions: 13.2"H x 11.4"W x 13.7"D (335.3 x 289.6 x 348.0 mm)
@@ -23,6 +16,13 @@ The Bowers & Wilkins (B&W) PV-1 ranks [#122 out of 136 total Medium Powered Home
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 79.6 dB
+- Output SPL at 25 Hz: 85.1 dB
+- Output SPL at 31.5 Hz: 92.1 dB
+- Output SPL at 40 Hz: 99.4 dB
+- Output SPL at 50 Hz: 104.8 dB
+- Output SPL at 63 Hz: 109.5 dB
+- Output SPL at 80 Hz: 110.7 dB
 - Weight: 45.19lbs / 20.5kg
 - Reviews, Comparisons and Sound Samples
 - Links

@@ -8,14 +8,6 @@ share-description: "The Klipsch SPL-120 ranks #47 out of 136 total Medium Powere
 The Klipsch SPL-120 ranks [#47 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#47-klipsch-spl-120-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #47 Klipsch SPL-120
-- 15 Hz: 81.2 dB
-- 20 Hz: 91.9 dB
-- 25 Hz: 102.2 dB
-- 31.5 Hz: 107.5 dB
-- 40 Hz: 110.8 dB
-- 50 Hz: 113.8 dB
-- 63 Hz: 114.9 dB
-- 80 Hz: 115.2 dB
 - CEA-2010-A Average (40-80Hz): 113.7 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The Klipsch SPL-120 ranks [#47 out of 136 total Medium Powered Home Subwoofers (
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 81.2 dB
+- Output SPL at 20 Hz: 91.9 dB
+- Output SPL at 25 Hz: 102.2 dB
+- Output SPL at 31.5 Hz: 107.5 dB
+- Output SPL at 40 Hz: 110.8 dB
+- Output SPL at 50 Hz: 113.8 dB
+- Output SPL at 63 Hz: 114.9 dB
+- Output SPL at 80 Hz: 115.2 dB
 - Warranty: 5/2
 - Weight: 45.0lbs / 20.4kg
 - Reviews, Comparisons and Sound Samples

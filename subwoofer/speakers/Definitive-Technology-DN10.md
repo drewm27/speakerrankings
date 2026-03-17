@@ -8,13 +8,6 @@ share-description: "The Definitive Technology DN10 ranks #86 out of 136 total Me
 The Definitive Technology DN10 ranks [#86 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#86-definitive-technology-dn10-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #86 Definitive Technology DN10: $800
-- 20 Hz: 88.1 dB
-- 25 Hz: 99.2 dB
-- 31.5 Hz: 106.2 dB
-- 40 Hz: 111.1 dB
-- 50 Hz: 111.0 dB
-- 63 Hz: 110.7 dB
-- 80 Hz: 108.9 dB
 - CEA-2010-A Average (40-80Hz): 110.4 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -22,6 +15,13 @@ The Definitive Technology DN10 ranks [#86 out of 136 total Medium Powered Home S
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 88.1 dB
+- Output SPL at 25 Hz: 99.2 dB
+- Output SPL at 31.5 Hz: 106.2 dB
+- Output SPL at 40 Hz: 111.1 dB
+- Output SPL at 50 Hz: 111.0 dB
+- Output SPL at 63 Hz: 110.7 dB
+- Output SPL at 80 Hz: 108.9 dB
 - Warranty: 5/3
 - Weight: 45.6lbs / 20.7kg
 - Reviews, Comparisons and Sound Samples

@@ -8,15 +8,6 @@ share-description: "The MartinLogan Dynamo 600X ranks #101 out of 136 total Medi
 The MartinLogan Dynamo 600X ranks [#101 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#101-martinlogan-dynamo-600x-54776) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #101 MartinLogan Dynamo 600X: $547.76
-- 100 Hz: 108.1 dB
-- 125 Hz: 106.9 dB
-- 20 Hz: 95.7 dB
-- 25 Hz: 100.9 dB
-- 31.5 Hz: 103.6 dB
-- 40 Hz: 106.8 dB
-- 50 Hz: 109.3 dB
-- 63 Hz: 110.3 dB
-- 80 Hz: 109.3 dB
 - CEA-2010-A Average (40-80Hz): 108.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +15,15 @@ The MartinLogan Dynamo 600X ranks [#101 out of 136 total Medium Powered Home Sub
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 108.1 dB
+- Output SPL at 125 Hz: 106.9 dB
+- Output SPL at 20 Hz: 95.7 dB
+- Output SPL at 25 Hz: 100.9 dB
+- Output SPL at 31.5 Hz: 103.6 dB
+- Output SPL at 40 Hz: 106.8 dB
+- Output SPL at 50 Hz: 109.3 dB
+- Output SPL at 63 Hz: 110.3 dB
+- Output SPL at 80 Hz: 109.3 dB
 - Warranty: 3
 - Weight: 35.5lbs / 16.1kg
 - Reviews, Comparisons and Sound Samples

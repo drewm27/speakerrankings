@@ -8,14 +8,7 @@ share-description: "The OSD (Optimal Speaker Design) SS8 ranks #22 out of 42 tot
 The OSD (Optimal Speaker Design) SS8 ranks [#22 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#22-osd-optimal-speaker-design-ss8-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #22 OSD (Optimal Speaker Design) SS8
-- Negatives: low profile (<8in)
-- 20 Hz: 70.7 dB
-- 25 Hz: 80.6 dB
-- 31.5 Hz: 84.3 dB
-- 40 Hz: 97.6 dB
-- 50 Hz: 103.2 dB
-- 63 Hz: 109.6 dB
-- 80 Hz: 109.7 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 105.0 dB
 - Country: United States
 - Dimensions: 15.75"H x 21.25"W x 5.5"D (400.0 x 539.8 x 139.7 mm)
@@ -23,6 +16,13 @@ The OSD (Optimal Speaker Design) SS8 ranks [#22 out of 42 total Small Powered Ho
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 70.7 dB
+- Output SPL at 25 Hz: 80.6 dB
+- Output SPL at 31.5 Hz: 84.3 dB
+- Output SPL at 40 Hz: 97.6 dB
+- Output SPL at 50 Hz: 103.2 dB
+- Output SPL at 63 Hz: 109.6 dB
+- Output SPL at 80 Hz: 109.7 dB
 - Warranty: 2?
 - Reviews, Comparisons and Sound Samples
 - Links

@@ -8,14 +8,6 @@ share-description: "The Genelec HTS4B ranks #91 out of 95 total Large Powered Ho
 The Genelec HTS4B ranks [#91 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#91-genelec-hts4b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #91 Genelec HTS4B
-- 15 Hz: 92.1 dB
-- 20 Hz: 97.9 dB
-- 25 Hz: 100.2 dB
-- 31.5 Hz: 103.3 dB
-- 40 Hz: 107.3 dB
-- 50 Hz: 110.1 dB
-- 63 Hz: 111.6 dB
-- 80 Hz: 112.3 dB
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Country: Finland
 - Dimensions: 20.37"H x 19.0"W x 18.31"D (517.4 x 482.6 x 465.1 mm)
@@ -23,6 +15,14 @@ The Genelec HTS4B ranks [#91 out of 95 total Large Powered Home Subwoofers (Over
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 15 Hz: 92.1 dB
+- Output SPL at 20 Hz: 97.9 dB
+- Output SPL at 25 Hz: 100.2 dB
+- Output SPL at 31.5 Hz: 103.3 dB
+- Output SPL at 40 Hz: 107.3 dB
+- Output SPL at 50 Hz: 110.1 dB
+- Output SPL at 63 Hz: 111.6 dB
+- Output SPL at 80 Hz: 112.3 dB
 - Warranty: 2(+3)
 - Weight: 81.57lbs / 37.0kg
 - Reviews, Comparisons and Sound Samples

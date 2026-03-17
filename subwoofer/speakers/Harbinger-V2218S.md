@@ -8,14 +8,7 @@ share-description: "The Harbinger V2218S ranks #26 out of 95 total Large Powered
 The Harbinger V2218S ranks [#26 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#26-harbinger-v2218s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #26 Harbinger V2218S
-- Negatives: Looks like "PA sub"
-- 20 Hz: 75.7 dB
-- 25 Hz: 93.7 dB
-- 31.5 Hz: 112.0 dB
-- 40 Hz: 116.8 dB
-- 50 Hz: 123.0 dB
-- 63 Hz: 126.2 dB
-- 80 Hz: 125.7 dB
+- Notes: Looks like "PA sub"
 - CEA-2010-A Average (40-80Hz): 122.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +17,13 @@ The Harbinger V2218S ranks [#26 out of 95 total Large Powered Home Subwoofers (O
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 75.7 dB
+- Output SPL at 25 Hz: 93.7 dB
+- Output SPL at 31.5 Hz: 112.0 dB
+- Output SPL at 40 Hz: 116.8 dB
+- Output SPL at 50 Hz: 123.0 dB
+- Output SPL at 63 Hz: 126.2 dB
+- Output SPL at 80 Hz: 125.7 dB
 - Weight: 90.0lbs / 40.8kg
 - Reviews, Comparisons and Sound Samples
 - Links

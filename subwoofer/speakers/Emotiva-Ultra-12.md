@@ -8,14 +8,6 @@ share-description: "The Emotiva Ultra 12 ranks #105 out of 136 total Medium Powe
 The Emotiva Ultra 12 ranks [#105 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#105-emotiva-ultra-12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #105 Emotiva Ultra 12
-- 100 Hz: 107.0 dB
-- 20 Hz: 88.0 dB
-- 25 Hz: 95.0 dB
-- 31.5 Hz: 100.0 dB
-- 40 Hz: 105.0 dB
-- 50 Hz: 109.0 dB
-- 63 Hz: 111.0 dB
-- 80 Hz: 108.0 dB
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: United States
 - Dimensions: 14.5"H x 14.5"W x 15.25"D (368.3 x 368.3 x 387.3 mm)
@@ -23,6 +15,14 @@ The Emotiva Ultra 12 ranks [#105 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 107.0 dB
+- Output SPL at 20 Hz: 88.0 dB
+- Output SPL at 25 Hz: 95.0 dB
+- Output SPL at 31.5 Hz: 100.0 dB
+- Output SPL at 40 Hz: 105.0 dB
+- Output SPL at 50 Hz: 109.0 dB
+- Output SPL at 63 Hz: 111.0 dB
+- Output SPL at 80 Hz: 108.0 dB
 - Warranty: 5
 - Weight: 38.0lbs / 17.2kg
 - Reviews, Comparisons and Sound Samples

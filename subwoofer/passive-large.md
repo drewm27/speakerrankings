@@ -16,23 +16,23 @@ Last updated: March 17, 2026
 
 
 ## #1 WW Speaker Cabinets X21 - B&C 21DS115-4
-- 100 Hz: 139.0 dB
-- 12.5 Hz: 96.2 dB
-- 125 Hz: 140.1 dB
-- 15 Hz: 111.9 dB
-- 20 Hz: 121.9 dB
-- 25 Hz: 120.8 dB
-- 31.5 Hz: 122.5 dB
-- 40 Hz: 126.7 dB
-- 50 Hz: 129.2 dB
-- 63 Hz: 132.9 dB
-- 80 Hz: 136.3 dB
 - CEA-2010-A Average (40-80Hz): 131.3 dB
 - Dimensions: 24.0"H x 32.0"W x 32.0"D (609.6 x 812.8 x 812.8 mm)
 - Discontinued: Yes
 - Driver(s): (1) 21 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 139.0 dB
+- Output SPL at 12.5 Hz: 96.2 dB
+- Output SPL at 125 Hz: 140.1 dB
+- Output SPL at 15 Hz: 111.9 dB
+- Output SPL at 20 Hz: 121.9 dB
+- Output SPL at 25 Hz: 120.8 dB
+- Output SPL at 31.5 Hz: 122.5 dB
+- Output SPL at 40 Hz: 126.7 dB
+- Output SPL at 50 Hz: 129.2 dB
+- Output SPL at 63 Hz: 132.9 dB
+- Output SPL at 80 Hz: 136.3 dB
 - Passive: Yes
 - Weight: 115.0lbs / 52.2kg
 - Reviews, Comparisons and Sound Samples
@@ -41,16 +41,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/WW-Speaker-Cabinets-X21---BC-21DS115-4/)
 
 ## #2 JTR Speakers Growler (2015)
-- Negatives: Looks like "PA sub"
-- 100 Hz: 135.5 dB
-- 125 Hz: 136.0 dB
-- 20 Hz: 92.8 dB
-- 25 Hz: 97.2 dB
-- 31.5 Hz: 106.6 dB
-- 40 Hz: 122.7 dB
-- 50 Hz: 130.0 dB
-- 63 Hz: 133.6 dB
-- 80 Hz: 134.4 dB
+- Notes: Looks like "PA sub"
 - CEA-2010-A Average (40-80Hz): 130.2 dB
 - Country: United States
 - Dimensions: 22.5"H x 30.0"W x 20.0"D (571.5 x 762.0 x 508.0 mm)
@@ -58,6 +49,15 @@ Last updated: March 17, 2026
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 135.5 dB
+- Output SPL at 125 Hz: 136.0 dB
+- Output SPL at 20 Hz: 92.8 dB
+- Output SPL at 25 Hz: 97.2 dB
+- Output SPL at 31.5 Hz: 106.6 dB
+- Output SPL at 40 Hz: 122.7 dB
+- Output SPL at 50 Hz: 130.0 dB
+- Output SPL at 63 Hz: 133.6 dB
+- Output SPL at 80 Hz: 134.4 dB
 - Passive: Yes
 - Weight: 100.0lbs / 45.4kg
 - Reviews, Comparisons and Sound Samples
@@ -66,18 +66,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Growler-2015/)
 
 ## #3 Danley Sound Labs DTS10: $4,400
-- 10 Hz: 94.2 dB
-- 100 Hz: 133.0 dB
-- 12.5 Hz: 110.6 dB
-- 125 Hz: 128.7 dB
-- 15 Hz: 119.0 dB
-- 20 Hz: 122.5 dB
-- 25 Hz: 125.5 dB
-- 31.5 Hz: 128.3 dB
-- 40 Hz: 125.3 dB
-- 50 Hz: 127.3 dB
-- 63 Hz: 130.9 dB
-- 80 Hz: 135.0 dB
 - CEA-2010-A Average (40-80Hz): 129.6 dB
 - Cabinet Color: black
 - Country: United States
@@ -85,6 +73,18 @@ Last updated: March 17, 2026
 - Driver(s): (2) 12 inch
 - Enclosure: tapped horn
 - Measurement Source: Data-bass
+- Output SPL at 10 Hz: 94.2 dB
+- Output SPL at 100 Hz: 133.0 dB
+- Output SPL at 12.5 Hz: 110.6 dB
+- Output SPL at 125 Hz: 128.7 dB
+- Output SPL at 15 Hz: 119.0 dB
+- Output SPL at 20 Hz: 122.5 dB
+- Output SPL at 25 Hz: 125.5 dB
+- Output SPL at 31.5 Hz: 128.3 dB
+- Output SPL at 40 Hz: 125.3 dB
+- Output SPL at 50 Hz: 127.3 dB
+- Output SPL at 63 Hz: 130.9 dB
+- Output SPL at 80 Hz: 135.0 dB
 - Passive: Yes
 - Warranty: 5
 - Weight: 285.0lbs / 129.3kg
@@ -95,12 +95,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Danley-Sound-Labs-DTS10/)
 
 ## #4 Pro Audio Technology LFC-24sm: $10,000
-- 20 Hz: 117.7 dB
-- 25 Hz: 125.4 dB
-- 31.5 Hz: 127.6 dB
-- 40 Hz: 129.4 dB
-- 50 Hz: 130.0 dB
-- 63 Hz: 129.2 dB
 - CEA-2010-A Average (40-80Hz): 129.5 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -108,6 +102,12 @@ Last updated: March 17, 2026
 - Driver(s): (1) 24 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 117.7 dB
+- Output SPL at 25 Hz: 125.4 dB
+- Output SPL at 31.5 Hz: 127.6 dB
+- Output SPL at 40 Hz: 129.4 dB
+- Output SPL at 50 Hz: 130.0 dB
+- Output SPL at 63 Hz: 129.2 dB
 - Passive: Yes
 - Weight: 266.0lbs / 120.7kg
 - Reviews, Comparisons and Sound Samples
@@ -117,19 +117,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Pro-Audio-Technology-LFC-24sm/)
 
 ## #5 Funk Audio Classic 18.0: $4,893.35
-- Negatives: Data-bass labeled this sub as 'FW18.0', but original name is 18.0
-- 10 Hz: 94.6 dB
-- 100 Hz: 130.2 dB
-- 12.5 Hz: 98.4 dB
-- 125 Hz: 130.8 dB
-- 15 Hz: 102.3 dB
-- 20 Hz: 106.5 dB
-- 25 Hz: 111.7 dB
-- 31.5 Hz: 119.0 dB
-- 40 Hz: 124.6 dB
-- 50 Hz: 126.8 dB
-- 63 Hz: 128.4 dB
-- 80 Hz: 129.6 dB
+- Notes: Data-bass labeled this sub as 'FW18.0', but original name is 18.0
 - CEA-2010-A Average (40-80Hz): 127.3 dB
 - Cabinet Color: wood, custom
 - Country: Canada
@@ -137,6 +125,18 @@ Last updated: March 17, 2026
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
+- Output SPL at 10 Hz: 94.6 dB
+- Output SPL at 100 Hz: 130.2 dB
+- Output SPL at 12.5 Hz: 98.4 dB
+- Output SPL at 125 Hz: 130.8 dB
+- Output SPL at 15 Hz: 102.3 dB
+- Output SPL at 20 Hz: 106.5 dB
+- Output SPL at 25 Hz: 111.7 dB
+- Output SPL at 31.5 Hz: 119.0 dB
+- Output SPL at 40 Hz: 124.6 dB
+- Output SPL at 50 Hz: 126.8 dB
+- Output SPL at 63 Hz: 128.4 dB
+- Output SPL at 80 Hz: 129.6 dB
 - Passive: Yes
 - Warranty: 3
 - Weight: 115.0lbs / 52.2kg
@@ -147,15 +147,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Funk-Audio-Classic-18.0/)
 
 ## #6 JBL 4645C
-- 100 Hz: 135.1 dB
-- 125 Hz: 135.8 dB
-- 20 Hz: 98.9 dB
-- 25 Hz: 114.0 dB
-- 31.5 Hz: 118.7 dB
-- 40 Hz: 122.0 dB
-- 50 Hz: 123.7 dB
-- 63 Hz: 129.7 dB
-- 80 Hz: 133.9 dB
 - CEA-2010-A Average (40-80Hz): 127.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -164,6 +155,15 @@ Last updated: March 17, 2026
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 135.1 dB
+- Output SPL at 125 Hz: 135.8 dB
+- Output SPL at 20 Hz: 98.9 dB
+- Output SPL at 25 Hz: 114.0 dB
+- Output SPL at 31.5 Hz: 118.7 dB
+- Output SPL at 40 Hz: 122.0 dB
+- Output SPL at 50 Hz: 123.7 dB
+- Output SPL at 63 Hz: 129.7 dB
+- Output SPL at 80 Hz: 133.9 dB
 - Passive: Yes
 - Warranty: 5/3/2
 - Weight: 138.0lbs / 62.6kg
@@ -174,22 +174,22 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/JBL-4645C/)
 
 ## #7 Reaction Audio PV-15X
-- 100 Hz: 126.4 dB
-- 125 Hz: 126.1 dB
-- 15 Hz: 105.3 dB
-- 20 Hz: 111.3 dB
-- 25 Hz: 116.1 dB
-- 31.5 Hz: 119.8 dB
-- 40 Hz: 125.3 dB
-- 50 Hz: 126.8 dB
-- 63 Hz: 126.1 dB
-- 80 Hz: 126.5 dB
 - CEA-2010-A Average (40-80Hz): 126.2 dB
 - Dimensions: 18.0"H x 22.0"W x 29.0"D (457.2 x 558.8 x 736.6 mm)
 - Discontinued: Yes
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 126.4 dB
+- Output SPL at 125 Hz: 126.1 dB
+- Output SPL at 15 Hz: 105.3 dB
+- Output SPL at 20 Hz: 111.3 dB
+- Output SPL at 25 Hz: 116.1 dB
+- Output SPL at 31.5 Hz: 119.8 dB
+- Output SPL at 40 Hz: 125.3 dB
+- Output SPL at 50 Hz: 126.8 dB
+- Output SPL at 63 Hz: 126.1 dB
+- Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -197,23 +197,23 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Reaction-Audio-PV-15X/)
 
 ## #8 Chase Home Theater SS18.1
-- 100 Hz: 132.6 dB
-- 12.5 Hz: 92.8 dB
-- 125 Hz: 133.7 dB
-- 15 Hz: 97.2 dB
-- 20 Hz: 101.3 dB
-- 25 Hz: 106.0 dB
-- 31.5 Hz: 111.6 dB
-- 40 Hz: 118.2 dB
-- 50 Hz: 123.6 dB
-- 63 Hz: 128.1 dB
-- 80 Hz: 130.8 dB
 - CEA-2010-A Average (40-80Hz): 125.2 dB
 - Dimensions: 22.0"H x 24.0"W x 22.0"D (558.8 x 609.6 x 558.8 mm)
 - Discontinued: Yes
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 132.6 dB
+- Output SPL at 12.5 Hz: 92.8 dB
+- Output SPL at 125 Hz: 133.7 dB
+- Output SPL at 15 Hz: 97.2 dB
+- Output SPL at 20 Hz: 101.3 dB
+- Output SPL at 25 Hz: 106.0 dB
+- Output SPL at 31.5 Hz: 111.6 dB
+- Output SPL at 40 Hz: 118.2 dB
+- Output SPL at 50 Hz: 123.6 dB
+- Output SPL at 63 Hz: 128.1 dB
+- Output SPL at 80 Hz: 130.8 dB
 - Passive: Yes
 - Weight: 90.0lbs / 40.8kg
 - Reviews, Comparisons and Sound Samples
@@ -222,23 +222,23 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Chase-Home-Theater-SS18.1/)
 
 ## #9 Reaction Audio PS-15X
-- 100 Hz: 127.0 dB
-- 12.5 Hz: 92.5 dB
-- 125 Hz: 126.9 dB
-- 15 Hz: 96.9 dB
-- 20 Hz: 102.8 dB
-- 25 Hz: 108.8 dB
-- 31.5 Hz: 115.6 dB
-- 40 Hz: 121.1 dB
-- 50 Hz: 124.5 dB
-- 63 Hz: 125.8 dB
-- 80 Hz: 127.0 dB
 - CEA-2010-A Average (40-80Hz): 124.6 dB
 - Dimensions: 20.0"H x 18.0"W x 20.0"D (508.0 x 457.2 x 508.0 mm)
 - Discontinued: Yes
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 127.0 dB
+- Output SPL at 12.5 Hz: 92.5 dB
+- Output SPL at 125 Hz: 126.9 dB
+- Output SPL at 15 Hz: 96.9 dB
+- Output SPL at 20 Hz: 102.8 dB
+- Output SPL at 25 Hz: 108.8 dB
+- Output SPL at 31.5 Hz: 115.6 dB
+- Output SPL at 40 Hz: 121.1 dB
+- Output SPL at 50 Hz: 124.5 dB
+- Output SPL at 63 Hz: 125.8 dB
+- Output SPL at 80 Hz: 127.0 dB
 - Passive: Yes
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -246,22 +246,22 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Reaction-Audio-PS-15X/)
 
 ## #10 Chase Home Theater VS18.1
-- 100 Hz: 130.4 dB
-- 125 Hz: 131.6 dB
-- 15 Hz: 104.4 dB
-- 20 Hz: 114.1 dB
-- 25 Hz: 116.9 dB
-- 31.5 Hz: 119.1 dB
-- 40 Hz: 122.2 dB
-- 50 Hz: 124.8 dB
-- 63 Hz: 124.5 dB
-- 80 Hz: 126.5 dB
 - CEA-2010-A Average (40-80Hz): 124.5 dB
 - Dimensions: 22.0"H x 40.0"W x 22.0"D (558.8 x 1016.0 x 558.8 mm)
 - Discontinued: Yes
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 130.4 dB
+- Output SPL at 125 Hz: 131.6 dB
+- Output SPL at 15 Hz: 104.4 dB
+- Output SPL at 20 Hz: 114.1 dB
+- Output SPL at 25 Hz: 116.9 dB
+- Output SPL at 31.5 Hz: 119.1 dB
+- Output SPL at 40 Hz: 122.2 dB
+- Output SPL at 50 Hz: 124.8 dB
+- Output SPL at 63 Hz: 124.5 dB
+- Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
 - Reviews, Comparisons and Sound Samples
 - Links

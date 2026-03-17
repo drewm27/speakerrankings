@@ -8,14 +8,7 @@ share-description: "The Monoprice SSW-10 ranks #106 out of 136 total Medium Powe
 The Monoprice SSW-10 ranks [#106 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#106-monoprice-ssw-10-135) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #106 Monoprice SSW-10: $135
-- Negatives: Product # 33830, low profile (<8in)
-- 20 Hz: 70.8 dB
-- 25 Hz: 79.2 dB
-- 31.5 Hz: 90.8 dB
-- 40 Hz: 99.7 dB
-- 50 Hz: 104.7 dB
-- 63 Hz: 112.4 dB
-- 80 Hz: 116.1 dB
+- Notes: Product # 33830, low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -23,6 +16,13 @@ The Monoprice SSW-10 ranks [#106 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 70.8 dB
+- Output SPL at 25 Hz: 79.2 dB
+- Output SPL at 31.5 Hz: 90.8 dB
+- Output SPL at 40 Hz: 99.7 dB
+- Output SPL at 50 Hz: 104.7 dB
+- Output SPL at 63 Hz: 112.4 dB
+- Output SPL at 80 Hz: 116.1 dB
 - Warranty: 1
 - Weight: 30.0lbs / 13.6kg
 - Reviews, Comparisons and Sound Samples

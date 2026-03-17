@@ -8,13 +8,6 @@ share-description: "The ELAC SUB3010 ranks #125 out of 136 total Medium Powered 
 The ELAC SUB3010 ranks [#125 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#125-elac-sub3010-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #125 ELAC SUB3010
-- 20 Hz: 77.8 dB
-- 25 Hz: 91.9 dB
-- 31.5 Hz: 97.9 dB
-- 40 Hz: 100.1 dB
-- 50 Hz: 104.6 dB
-- 63 Hz: 108.5 dB
-- 80 Hz: 108.6 dB
 - CEA-2010-A Average (40-80Hz): 105.4 dB
 - Cabinet Color: black
 - Country: Germany
@@ -23,6 +16,13 @@ The ELAC SUB3010 ranks [#125 out of 136 total Medium Powered Home Subwoofers (30
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 77.8 dB
+- Output SPL at 25 Hz: 91.9 dB
+- Output SPL at 31.5 Hz: 97.9 dB
+- Output SPL at 40 Hz: 100.1 dB
+- Output SPL at 50 Hz: 104.6 dB
+- Output SPL at 63 Hz: 108.5 dB
+- Output SPL at 80 Hz: 108.6 dB
 - Warranty: 3/1
 - Weight: 32.1lbs / 14.6kg
 - Reviews, Comparisons and Sound Samples

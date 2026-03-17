@@ -8,13 +8,6 @@ share-description: "The Roku Subwoofer 9201X ranks #40 out of 42 total Small Pow
 The Roku Subwoofer 9201X ranks [#40 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#40-roku-subwoofer-9201x-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #40 Roku Subwoofer 9201X
-- 20 Hz: 77.9 dB
-- 25 Hz: 79.3 dB
-- 31.5 Hz: 85.1 dB
-- 40 Hz: 92.0 dB
-- 50 Hz: 95.6 dB
-- 63 Hz: 95.1 dB
-- 80 Hz: 93.2 dB
 - CEA-2010-A Average (40-80Hz): 94.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -23,6 +16,13 @@ The Roku Subwoofer 9201X ranks [#40 out of 42 total Small Powered Home Subwoofer
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 77.9 dB
+- Output SPL at 25 Hz: 79.3 dB
+- Output SPL at 31.5 Hz: 85.1 dB
+- Output SPL at 40 Hz: 92.0 dB
+- Output SPL at 50 Hz: 95.6 dB
+- Output SPL at 63 Hz: 95.1 dB
+- Output SPL at 80 Hz: 93.2 dB
 - Weight: 17.15lbs / 7.8kg
 - Reviews, Comparisons and Sound Samples
 - Links

@@ -8,23 +8,23 @@ share-description: "The Chase Home Theater SS18.1 ranks #8 out of 10 total Large
 The Chase Home Theater SS18.1 ranks [#8 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#8-chase-home-theater-ss181-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 Chase Home Theater SS18.1
-- 100 Hz: 132.6 dB
-- 12.5 Hz: 92.8 dB
-- 125 Hz: 133.7 dB
-- 15 Hz: 97.2 dB
-- 20 Hz: 101.3 dB
-- 25 Hz: 106.0 dB
-- 31.5 Hz: 111.6 dB
-- 40 Hz: 118.2 dB
-- 50 Hz: 123.6 dB
-- 63 Hz: 128.1 dB
-- 80 Hz: 130.8 dB
 - CEA-2010-A Average (40-80Hz): 125.2 dB
 - Dimensions: 22.0"H x 24.0"W x 22.0"D (558.8 x 609.6 x 558.8 mm)
 - Discontinued: Yes
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 132.6 dB
+- Output SPL at 12.5 Hz: 92.8 dB
+- Output SPL at 125 Hz: 133.7 dB
+- Output SPL at 15 Hz: 97.2 dB
+- Output SPL at 20 Hz: 101.3 dB
+- Output SPL at 25 Hz: 106.0 dB
+- Output SPL at 31.5 Hz: 111.6 dB
+- Output SPL at 40 Hz: 118.2 dB
+- Output SPL at 50 Hz: 123.6 dB
+- Output SPL at 63 Hz: 128.1 dB
+- Output SPL at 80 Hz: 130.8 dB
 - Passive: Yes
 - Weight: 90.0lbs / 40.8kg
 - Reviews, Comparisons and Sound Samples

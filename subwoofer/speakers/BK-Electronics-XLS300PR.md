@@ -8,13 +8,6 @@ share-description: "The BK Electronics XLS300/PR ranks #110 out of 136 total Med
 The BK Electronics XLS300/PR ranks [#110 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#110-bk-electronics-xls300pr-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #110 BK Electronics XLS300/PR
-- 20 Hz: 92.3 dB
-- 25 Hz: 100.3 dB
-- 31.5 Hz: 103.1 dB
-- 40 Hz: 106.2 dB
-- 50 Hz: 107.9 dB
-- 63 Hz: 108.7 dB
-- 80 Hz: 108.8 dB
 - CEA-2010-A Average (40-80Hz): 107.9 dB
 - Cabinet Color: black, wood
 - Country: United Kingdom
@@ -23,6 +16,13 @@ The BK Electronics XLS300/PR ranks [#110 out of 136 total Medium Powered Home Su
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 92.3 dB
+- Output SPL at 25 Hz: 100.3 dB
+- Output SPL at 31.5 Hz: 103.1 dB
+- Output SPL at 40 Hz: 106.2 dB
+- Output SPL at 50 Hz: 107.9 dB
+- Output SPL at 63 Hz: 108.7 dB
+- Output SPL at 80 Hz: 108.8 dB
 - Warranty: 2
 - Weight: 55.11lbs / 25.0kg
 - Reviews, Comparisons and Sound Samples

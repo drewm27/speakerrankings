@@ -8,14 +8,6 @@ share-description: "The Power Sound Audio (PSA) S3600i ranks #21 out of 95 total
 The Power Sound Audio (PSA) S3600i ranks [#21 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#21-power-sound-audio-psa-s3600i-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #21 Power Sound Audio (PSA) S3600i
-- 15 Hz: 101.1 dB
-- 20 Hz: 104.7 dB
-- 25 Hz: 107.9 dB
-- 31.5 Hz: 113.6 dB
-- 40 Hz: 119.9 dB
-- 50 Hz: 125.8 dB
-- 63 Hz: 127.4 dB
-- 80 Hz: 126.9 dB
 - CEA-2010-A Average (40-80Hz): 125.0 dB
 - Country: United States
 - Dimensions: 24.0"H x 28.0"W x 20.0"D (609.6 x 711.2 x 508.0 mm)
@@ -23,6 +15,14 @@ The Power Sound Audio (PSA) S3600i ranks [#21 out of 95 total Large Powered Home
 - Driver(s): (2) 18 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 101.1 dB
+- Output SPL at 20 Hz: 104.7 dB
+- Output SPL at 25 Hz: 107.9 dB
+- Output SPL at 31.5 Hz: 113.6 dB
+- Output SPL at 40 Hz: 119.9 dB
+- Output SPL at 50 Hz: 125.8 dB
+- Output SPL at 63 Hz: 127.4 dB
+- Output SPL at 80 Hz: 126.9 dB
 - Warranty: 5
 - Weight: 137.0lbs / 62.1kg
 - Reviews, Comparisons and Sound Samples

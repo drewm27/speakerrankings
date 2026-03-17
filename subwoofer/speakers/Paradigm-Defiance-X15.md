@@ -8,16 +8,6 @@ share-description: "The Paradigm Defiance X15 ranks #27 out of 95 total Large Po
 The Paradigm Defiance X15 ranks [#27 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#27-paradigm-defiance-x15-160677) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #27 Paradigm Defiance X15: $1,606.77
-- 100 Hz: 121.9 dB
-- 125 Hz: 121.2 dB
-- 15 Hz: 102.8 dB
-- 20 Hz: 109.2 dB
-- 25 Hz: 112.2 dB
-- 31.5 Hz: 116.2 dB
-- 40 Hz: 121.3 dB
-- 50 Hz: 123.4 dB
-- 63 Hz: 123.8 dB
-- 80 Hz: 123.1 dB
 - CEA-2010-A Average (40-80Hz): 122.9 dB
 - Cabinet Color: black
 - Country: Canada
@@ -25,6 +15,16 @@ The Paradigm Defiance X15 ranks [#27 out of 95 total Large Powered Home Subwoofe
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 121.9 dB
+- Output SPL at 125 Hz: 121.2 dB
+- Output SPL at 15 Hz: 102.8 dB
+- Output SPL at 20 Hz: 109.2 dB
+- Output SPL at 25 Hz: 112.2 dB
+- Output SPL at 31.5 Hz: 116.2 dB
+- Output SPL at 40 Hz: 121.3 dB
+- Output SPL at 50 Hz: 123.4 dB
+- Output SPL at 63 Hz: 123.8 dB
+- Output SPL at 80 Hz: 123.1 dB
 - Warranty: 3
 - Weight: 92.0lbs / 41.7kg
 - Reviews, Comparisons and Sound Samples

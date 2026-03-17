@@ -8,14 +8,6 @@ share-description: "The ELAC IW-S10EQ in-wall ranks #2 out of 3 total Small Pass
 The ELAC IW-S10EQ in-wall ranks [#2 out of 3 total Small Passive Home Subwoofers (Under 30 lbs)](/subwoofer/passive-small/#2-elac-iw-s10eq-in-wall-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 ELAC IW-S10EQ in-wall
-- 15 Hz: 86.0 dB
-- 20 Hz: 90.2 dB
-- 25 Hz: 97.3 dB
-- 31.5 Hz: 97.9 dB
-- 40 Hz: 100.3 dB
-- 50 Hz: 103.0 dB
-- 63 Hz: 104.5 dB
-- 80 Hz: 107.9 dB
 - CEA-2010-A Average (40-80Hz): 103.9 dB
 - Cabinet Color: black
 - Country: Germany
@@ -24,6 +16,14 @@ The ELAC IW-S10EQ in-wall ranks [#2 out of 3 total Small Passive Home Subwoofers
 - Driver(s): (1) 10 inch
 - Enclosure: in-wall
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 86.0 dB
+- Output SPL at 20 Hz: 90.2 dB
+- Output SPL at 25 Hz: 97.3 dB
+- Output SPL at 31.5 Hz: 97.9 dB
+- Output SPL at 40 Hz: 100.3 dB
+- Output SPL at 50 Hz: 103.0 dB
+- Output SPL at 63 Hz: 104.5 dB
+- Output SPL at 80 Hz: 107.9 dB
 - Passive: Yes
 - Warranty: 3/1
 - Weight: 14.24lbs / 6.5kg

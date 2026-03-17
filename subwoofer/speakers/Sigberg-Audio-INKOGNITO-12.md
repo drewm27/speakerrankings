@@ -8,14 +8,7 @@ share-description: "The Sigberg Audio INKOGNITO 12 ranks #1 out of 42 total Smal
 The Sigberg Audio INKOGNITO 12 ranks [#1 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#1-sigberg-audio-inkognito-12-345629) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 Sigberg Audio INKOGNITO 12: $3,456.29
-- Negatives: low profile (<8in)
-- 20 Hz: 92.0 dB
-- 25 Hz: 98.0 dB
-- 31.5 Hz: 104.0 dB
-- 40 Hz: 112.5 dB
-- 50 Hz: 114.0 dB
-- 63 Hz: 115.0 dB
-- 80 Hz: 116.0 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 114.4 dB
 - Cabinet Color: black, white
 - Country: Norway
@@ -23,6 +16,13 @@ The Sigberg Audio INKOGNITO 12 ranks [#1 out of 42 total Small Powered Home Subw
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
+- Output SPL at 20 Hz: 92.0 dB
+- Output SPL at 25 Hz: 98.0 dB
+- Output SPL at 31.5 Hz: 104.0 dB
+- Output SPL at 40 Hz: 112.5 dB
+- Output SPL at 50 Hz: 114.0 dB
+- Output SPL at 63 Hz: 115.0 dB
+- Output SPL at 80 Hz: 116.0 dB
 - Weight: 9.97lbs / 4.5kg
 - Reviews, Comparisons and Sound Samples
 - Links

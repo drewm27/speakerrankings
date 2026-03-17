@@ -8,18 +8,7 @@ share-description: "The HSU Research ULS-15 MK2 ranks #3 out of 136 total Medium
 The HSU Research ULS-15 MK2 ranks [#3 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#3-hsu-research-uls-15-mk2-1035) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #3 HSU Research ULS-15 MK2: $1,035
-- Negatives: Price includes shipping
-- 100 Hz: 120.7 dB
-- 12.5 Hz: 93.7 dB
-- 125 Hz: 120.7 dB
-- 15 Hz: 98.0 dB
-- 20 Hz: 102.4 dB
-- 25 Hz: 107.7 dB
-- 31.5 Hz: 113.4 dB
-- 40 Hz: 118.3 dB
-- 50 Hz: 120.8 dB
-- 63 Hz: 121.2 dB
-- 80 Hz: 121.1 dB
+- Notes: Price includes shipping
 - CEA-2010-A Average (40-80Hz): 120.3 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -27,6 +16,17 @@ The HSU Research ULS-15 MK2 ranks [#3 out of 136 total Medium Powered Home Subwo
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 120.7 dB
+- Output SPL at 12.5 Hz: 93.7 dB
+- Output SPL at 125 Hz: 120.7 dB
+- Output SPL at 15 Hz: 98.0 dB
+- Output SPL at 20 Hz: 102.4 dB
+- Output SPL at 25 Hz: 107.7 dB
+- Output SPL at 31.5 Hz: 113.4 dB
+- Output SPL at 40 Hz: 118.3 dB
+- Output SPL at 50 Hz: 120.8 dB
+- Output SPL at 63 Hz: 121.2 dB
+- Output SPL at 80 Hz: 121.1 dB
 - Warranty: 7/2(+3)
 - Weight: 65.0lbs / 29.5kg
 - Reviews, Comparisons and Sound Samples

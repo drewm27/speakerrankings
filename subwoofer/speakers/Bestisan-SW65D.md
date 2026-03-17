@@ -8,10 +8,6 @@ share-description: "The Bestisan SW65D ranks #135 out of 136 total Medium Powere
 The Bestisan SW65D ranks [#135 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#135-bestisan-sw65d-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #135 Bestisan SW65D: $90
-- 40 Hz: 88.3 dB
-- 50 Hz: 97.5 dB
-- 63 Hz: 104.0 dB
-- 80 Hz: 106.4 dB
 - CEA-2010-A Average (40-80Hz): 99.0 dB
 - Cabinet Color: black
 - Country: China
@@ -19,6 +15,10 @@ The Bestisan SW65D ranks [#135 out of 136 total Medium Powered Home Subwoofers (
 - Driver(s): (1) 6.5 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 40 Hz: 88.3 dB
+- Output SPL at 50 Hz: 97.5 dB
+- Output SPL at 63 Hz: 104.0 dB
+- Output SPL at 80 Hz: 106.4 dB
 - Weight: 38.0lbs / 17.2kg
 - Reviews, Comparisons and Sound Samples
 - Links

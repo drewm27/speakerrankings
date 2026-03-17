@@ -8,14 +8,6 @@ share-description: "The BK Electronics XLS200-DF MK2 ranks #124 out of 136 total
 The BK Electronics XLS200-DF MK2 ranks [#124 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#124-bk-electronics-xls200-df-mk2-50133) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #124 BK Electronics XLS200-DF MK2: $501.33
-- 15 Hz: 84.2 dB
-- 20 Hz: 89.3 dB
-- 25 Hz: 94.6 dB
-- 31.5 Hz: 99.4 dB
-- 40 Hz: 103.1 dB
-- 50 Hz: 105.4 dB
-- 63 Hz: 106.9 dB
-- 80 Hz: 107.5 dB
 - CEA-2010-A Average (40-80Hz): 105.7 dB
 - Cabinet Color: black, white, wood, grey
 - Country: United Kingdom
@@ -23,6 +15,14 @@ The BK Electronics XLS200-DF MK2 ranks [#124 out of 136 total Medium Powered Hom
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 15 Hz: 84.2 dB
+- Output SPL at 20 Hz: 89.3 dB
+- Output SPL at 25 Hz: 94.6 dB
+- Output SPL at 31.5 Hz: 99.4 dB
+- Output SPL at 40 Hz: 103.1 dB
+- Output SPL at 50 Hz: 105.4 dB
+- Output SPL at 63 Hz: 106.9 dB
+- Output SPL at 80 Hz: 107.5 dB
 - Warranty: 2
 - Weight: 38.58lbs / 17.5kg
 - Reviews, Comparisons and Sound Samples

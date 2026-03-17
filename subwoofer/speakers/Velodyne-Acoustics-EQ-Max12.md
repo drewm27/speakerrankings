@@ -8,12 +8,6 @@ share-description: "The Velodyne Acoustics EQ-Max12 ranks #61 out of 136 total M
 The Velodyne Acoustics EQ-Max12 ranks [#61 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#61-velodyne-acoustics-eq-max12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #61 Velodyne Acoustics EQ-Max12
-- 20 Hz: 100.1 dB
-- 25 Hz: 100.1 dB
-- 31.5 Hz: 100.1 dB
-- 40 Hz: 112.3 dB
-- 50 Hz: 112.3 dB
-- 63 Hz: 112.3 dB
 - CEA-2010-A Average (40-80Hz): 112.3 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 17.87"H x 16.37"W x 18.0"D (453.9 x 415.8 x 457.2 mm)
@@ -21,6 +15,12 @@ The Velodyne Acoustics EQ-Max12 ranks [#61 out of 136 total Medium Powered Home 
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 100.1 dB
+- Output SPL at 25 Hz: 100.1 dB
+- Output SPL at 31.5 Hz: 100.1 dB
+- Output SPL at 40 Hz: 112.3 dB
+- Output SPL at 50 Hz: 112.3 dB
+- Output SPL at 63 Hz: 112.3 dB
 - Weight: 61.0lbs / 27.7kg
 - Reviews, Comparisons and Sound Samples
 - Links

@@ -8,17 +8,6 @@ share-description: "The Harbottle Audio C24 L1 ranks #43 out of 95 total Large P
 The Harbottle Audio C24 L1 ranks [#43 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#43-harbottle-audio-c24-l1-624450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #43 Harbottle Audio C24 L1: $6,244.50
-- 10 Hz: 94.0 dB
-- 100 Hz: 121.0 dB
-- 12.5 Hz: 99.0 dB
-- 15 Hz: 106.0 dB
-- 20 Hz: 114.0 dB
-- 25 Hz: 116.0 dB
-- 31.5 Hz: 121.0 dB
-- 40 Hz: 121.1 dB
-- 50 Hz: 121.6 dB
-- 63 Hz: 121.6 dB
-- 80 Hz: 121.0 dB
 - CEA-2010-A Average (40-80Hz): 121.3 dB
 - Cabinet Color: black, white, red, blue
 - Country: Canada
@@ -26,6 +15,17 @@ The Harbottle Audio C24 L1 ranks [#43 out of 95 total Large Powered Home Subwoof
 - Driver(s): (1) 24 inch
 - Enclosure: ported
 - Measurement Source: Manufacturer
+- Output SPL at 10 Hz: 94.0 dB
+- Output SPL at 100 Hz: 121.0 dB
+- Output SPL at 12.5 Hz: 99.0 dB
+- Output SPL at 15 Hz: 106.0 dB
+- Output SPL at 20 Hz: 114.0 dB
+- Output SPL at 25 Hz: 116.0 dB
+- Output SPL at 31.5 Hz: 121.0 dB
+- Output SPL at 40 Hz: 121.1 dB
+- Output SPL at 50 Hz: 121.6 dB
+- Output SPL at 63 Hz: 121.6 dB
+- Output SPL at 80 Hz: 121.0 dB
 - Weight: 139.0lbs / 63.0kg
 - Reviews, Comparisons and Sound Samples
 - Links

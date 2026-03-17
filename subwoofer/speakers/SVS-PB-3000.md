@@ -8,17 +8,6 @@ share-description: "The SVS PB-3000 ranks #40 out of 95 total Large Powered Home
 The SVS PB-3000 ranks [#40 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#40-svs-pb-3000-1600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #40 SVS PB-3000: $1,600
-- 100 Hz: 121.7 dB
-- 12.5 Hz: 85.1 dB
-- 125 Hz: 121.0 dB
-- 15 Hz: 99.2 dB
-- 20 Hz: 111.3 dB
-- 25 Hz: 116.3 dB
-- 31.5 Hz: 117.9 dB
-- 40 Hz: 121.0 dB
-- 50 Hz: 122.6 dB
-- 63 Hz: 121.6 dB
-- 80 Hz: 120.8 dB
 - CEA-2010-A Average (40-80Hz): 121.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -26,6 +15,17 @@ The SVS PB-3000 ranks [#40 out of 95 total Large Powered Home Subwoofers (Over 7
 - Driver(s): (1) 13 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 121.7 dB
+- Output SPL at 12.5 Hz: 85.1 dB
+- Output SPL at 125 Hz: 121.0 dB
+- Output SPL at 15 Hz: 99.2 dB
+- Output SPL at 20 Hz: 111.3 dB
+- Output SPL at 25 Hz: 116.3 dB
+- Output SPL at 31.5 Hz: 117.9 dB
+- Output SPL at 40 Hz: 121.0 dB
+- Output SPL at 50 Hz: 122.6 dB
+- Output SPL at 63 Hz: 121.6 dB
+- Output SPL at 80 Hz: 120.8 dB
 - Warranty: 5
 - Weight: 82.2lbs / 37.3kg
 - Reviews, Comparisons and Sound Samples

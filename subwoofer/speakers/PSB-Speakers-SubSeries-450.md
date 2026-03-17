@@ -8,13 +8,6 @@ share-description: "The PSB Speakers SubSeries 450 ranks #24 out of 136 total Me
 The PSB Speakers SubSeries 450 ranks [#24 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#24-psb-speakers-subseries-450-189891) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #24 PSB Speakers SubSeries 450: $1,898.91
-- 20 Hz: 88.1 dB
-- 25 Hz: 101.1 dB
-- 31.5 Hz: 108.1 dB
-- 40 Hz: 111.4 dB
-- 50 Hz: 115.8 dB
-- 63 Hz: 118.3 dB
-- 80 Hz: 118.9 dB
 - CEA-2010-A Average (40-80Hz): 116.1 dB
 - Cabinet Color: black
 - Country: Canada
@@ -22,6 +15,13 @@ The PSB Speakers SubSeries 450 ranks [#24 out of 136 total Medium Powered Home S
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 88.1 dB
+- Output SPL at 25 Hz: 101.1 dB
+- Output SPL at 31.5 Hz: 108.1 dB
+- Output SPL at 40 Hz: 111.4 dB
+- Output SPL at 50 Hz: 115.8 dB
+- Output SPL at 63 Hz: 118.3 dB
+- Output SPL at 80 Hz: 118.9 dB
 - Warranty: 5
 - Weight: 43.0lbs / 19.5kg
 - Reviews, Comparisons and Sound Samples

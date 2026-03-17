@@ -8,15 +8,7 @@ share-description: "The RBH Sound SX-10R ranks #82 out of 136 total Medium Power
 The RBH Sound SX-10R ranks [#82 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#82-rbh-sound-sx-10r-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #82 RBH Sound SX-10R
-- Negatives: Also called "SX-10/R"
-- 100 Hz: 110.0 dB
-- 125 Hz: 108.0 dB
-- 25 Hz: 97.0 dB
-- 31.5 Hz: 106.0 dB
-- 40 Hz: 109.0 dB
-- 50 Hz: 111.0 dB
-- 63 Hz: 112.0 dB
-- 80 Hz: 111.0 dB
+- Notes: Also called "SX-10/R"
 - CEA-2010-A Average (40-80Hz): 110.8 dB
 - Country: United States
 - Dimensions: 15.25"H x 15.0"W x 18.5"D (387.3 x 381.0 x 469.9 mm)
@@ -24,6 +16,14 @@ The RBH Sound SX-10R ranks [#82 out of 136 total Medium Powered Home Subwoofers 
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 110.0 dB
+- Output SPL at 125 Hz: 108.0 dB
+- Output SPL at 25 Hz: 97.0 dB
+- Output SPL at 31.5 Hz: 106.0 dB
+- Output SPL at 40 Hz: 109.0 dB
+- Output SPL at 50 Hz: 111.0 dB
+- Output SPL at 63 Hz: 112.0 dB
+- Output SPL at 80 Hz: 111.0 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 45.0lbs / 20.4kg
 - Reviews, Comparisons and Sound Samples

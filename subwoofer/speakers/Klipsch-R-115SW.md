@@ -8,12 +8,6 @@ share-description: "The Klipsch R-115SW ranks #75 out of 95 total Large Powered 
 The Klipsch R-115SW ranks [#75 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#75-klipsch-r-115sw-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #75 Klipsch R-115SW
-- 20 Hz: 102.7 dB
-- 25 Hz: 107.8 dB
-- 31.5 Hz: 112.6 dB
-- 40 Hz: 115.4 dB
-- 50 Hz: 118.7 dB
-- 63 Hz: 117.3 dB
 - CEA-2010-A Average (40-80Hz): 117.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -22,6 +16,12 @@ The Klipsch R-115SW ranks [#75 out of 95 total Large Powered Home Subwoofers (Ov
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 102.7 dB
+- Output SPL at 25 Hz: 107.8 dB
+- Output SPL at 31.5 Hz: 112.6 dB
+- Output SPL at 40 Hz: 115.4 dB
+- Output SPL at 50 Hz: 118.7 dB
+- Output SPL at 63 Hz: 117.3 dB
 - Warranty: 5/2
 - Weight: 75.4lbs / 34.2kg
 - Reviews, Comparisons and Sound Samples

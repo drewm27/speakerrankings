@@ -8,11 +8,6 @@ share-description: "The Sunfire Atmos ranks #133 out of 136 total Medium Powered
 The Sunfire Atmos ranks [#133 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#133-sunfire-atmos-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #133 Sunfire Atmos
-- 25 Hz: 70.1 dB
-- 31.5 Hz: 83.5 dB
-- 40 Hz: 96.5 dB
-- 50 Hz: 105.9 dB
-- 63 Hz: 102.3 dB
 - CEA-2010-A Average (40-80Hz): 101.6 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 7.62"H x 10.06"W x 10.37"D (193.5 x 255.5 x 263.4 mm)
@@ -20,6 +15,11 @@ The Sunfire Atmos ranks [#133 out of 136 total Medium Powered Home Subwoofers (3
 - Driver(s): (1) 6.5 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 70.1 dB
+- Output SPL at 31.5 Hz: 83.5 dB
+- Output SPL at 40 Hz: 96.5 dB
+- Output SPL at 50 Hz: 105.9 dB
+- Output SPL at 63 Hz: 102.3 dB
 - Weight: 32.0lbs / 14.5kg
 - Reviews, Comparisons and Sound Samples
 - Links

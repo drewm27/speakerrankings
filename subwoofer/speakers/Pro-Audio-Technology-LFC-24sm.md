@@ -8,12 +8,6 @@ share-description: "The Pro Audio Technology LFC-24sm ranks #4 out of 10 total L
 The Pro Audio Technology LFC-24sm ranks [#4 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#4-pro-audio-technology-lfc-24sm-10000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 Pro Audio Technology LFC-24sm: $10,000
-- 20 Hz: 117.7 dB
-- 25 Hz: 125.4 dB
-- 31.5 Hz: 127.6 dB
-- 40 Hz: 129.4 dB
-- 50 Hz: 130.0 dB
-- 63 Hz: 129.2 dB
 - CEA-2010-A Average (40-80Hz): 129.5 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -21,6 +15,12 @@ The Pro Audio Technology LFC-24sm ranks [#4 out of 10 total Large Passive Home S
 - Driver(s): (1) 24 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 117.7 dB
+- Output SPL at 25 Hz: 125.4 dB
+- Output SPL at 31.5 Hz: 127.6 dB
+- Output SPL at 40 Hz: 129.4 dB
+- Output SPL at 50 Hz: 130.0 dB
+- Output SPL at 63 Hz: 129.2 dB
 - Passive: Yes
 - Weight: 266.0lbs / 120.7kg
 - Reviews, Comparisons and Sound Samples

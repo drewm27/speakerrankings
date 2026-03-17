@@ -8,13 +8,6 @@ share-description: "The BIC America V1020 ranks #102 out of 136 total Medium Pow
 The BIC America V1020 ranks [#102 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#102-bic-america-v1020-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #102 BIC America V1020: $350
-- 20 Hz: 73.3 dB
-- 25 Hz: 84.3 dB
-- 31.5 Hz: 98.0 dB
-- 40 Hz: 104.8 dB
-- 50 Hz: 108.3 dB
-- 63 Hz: 110.1 dB
-- 80 Hz: 112.4 dB
 - CEA-2010-A Average (40-80Hz): 108.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -22,6 +15,13 @@ The BIC America V1020 ranks [#102 out of 136 total Medium Powered Home Subwoofer
 - Driver(s): (1) 10 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 73.3 dB
+- Output SPL at 25 Hz: 84.3 dB
+- Output SPL at 31.5 Hz: 98.0 dB
+- Output SPL at 40 Hz: 104.8 dB
+- Output SPL at 50 Hz: 108.3 dB
+- Output SPL at 63 Hz: 110.1 dB
+- Output SPL at 80 Hz: 112.4 dB
 - Warranty: 7/2
 - Weight: 34.0lbs / 15.4kg
 - Reviews, Comparisons and Sound Samples

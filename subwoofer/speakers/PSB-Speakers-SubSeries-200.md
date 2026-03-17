@@ -8,12 +8,6 @@ share-description: "The PSB Speakers SubSeries 200 ranks #35 out of 136 total Me
 The PSB Speakers SubSeries 200 ranks [#35 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#35-psb-speakers-subseries-200-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #35 PSB Speakers SubSeries 200
-- 20 Hz: 80.8 dB
-- 25 Hz: 94.7 dB
-- 31.5 Hz: 104.3 dB
-- 40 Hz: 112.2 dB
-- 50 Hz: 114.2 dB
-- 63 Hz: 117.5 dB
 - CEA-2010-A Average (40-80Hz): 114.6 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 17.5"H x 13.37"W x 15.5"D (444.5 x 339.6 x 393.7 mm)
@@ -21,6 +15,12 @@ The PSB Speakers SubSeries 200 ranks [#35 out of 136 total Medium Powered Home S
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 80.8 dB
+- Output SPL at 25 Hz: 94.7 dB
+- Output SPL at 31.5 Hz: 104.3 dB
+- Output SPL at 40 Hz: 112.2 dB
+- Output SPL at 50 Hz: 114.2 dB
+- Output SPL at 63 Hz: 117.5 dB
 - Warranty: 5?
 - Weight: 34.0lbs / 15.4kg
 - Reviews, Comparisons and Sound Samples

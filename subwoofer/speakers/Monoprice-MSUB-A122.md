@@ -8,16 +8,16 @@ share-description: "The Monoprice MSUB-A122 ranks #95 out of 136 total Medium Po
 The Monoprice MSUB-A122 ranks [#95 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#95-monoprice-msub-a122-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #95 Monoprice MSUB-A122
-- 31.5 Hz: 92.3 dB
-- 40 Hz: 106.3 dB
-- 50 Hz: 111.9 dB
-- 63 Hz: 109.6 dB
 - CEA-2010-A Average (40-80Hz): 109.3 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 17.0"H x 17.25"W x 17.5"D (431.8 x 438.1 x 444.5 mm)
 - Discontinued: Yes
 - Driver(s): (1) 12 inch
 - Measurement Source: Brent Butterworth
+- Output SPL at 31.5 Hz: 92.3 dB
+- Output SPL at 40 Hz: 106.3 dB
+- Output SPL at 50 Hz: 111.9 dB
+- Output SPL at 63 Hz: 109.6 dB
 - Reviews, Comparisons and Sound Samples
 - Links
     - [Reddit Search for Monoprice MSUB-A122](https://www.reddit.com/search/?q=Monoprice+MSUB-A122)

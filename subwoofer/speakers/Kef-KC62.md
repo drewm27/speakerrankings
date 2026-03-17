@@ -8,14 +8,6 @@ share-description: "The Kef KC62 ranks #136 out of 136 total Medium Powered Home
 The Kef KC62 ranks [#136 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#136-kef-kc62-1500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #136 Kef KC62: $1,500
-- 100 Hz: 104.2 dB
-- 20 Hz: 80.0 dB
-- 25 Hz: 84.6 dB
-- 31.5 Hz: 88.5 dB
-- 40 Hz: 92.2 dB
-- 50 Hz: 95.1 dB
-- 63 Hz: 97.7 dB
-- 80 Hz: 102.6 dB
 - CEA-2010-A Average (40-80Hz): 96.9 dB
 - Cabinet Color: black, white
 - Country: United Kingdom
@@ -23,6 +15,14 @@ The Kef KC62 ranks [#136 out of 136 total Medium Powered Home Subwoofers (30–7
 - Driver(s): (2) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 104.2 dB
+- Output SPL at 20 Hz: 80.0 dB
+- Output SPL at 25 Hz: 84.6 dB
+- Output SPL at 31.5 Hz: 88.5 dB
+- Output SPL at 40 Hz: 92.2 dB
+- Output SPL at 50 Hz: 95.1 dB
+- Output SPL at 63 Hz: 97.7 dB
+- Output SPL at 80 Hz: 102.6 dB
 - Warranty: 5/2/5
 - Weight: 30.86lbs / 14.0kg
 - Reviews, Comparisons and Sound Samples

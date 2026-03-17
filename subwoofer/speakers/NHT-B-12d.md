@@ -8,12 +8,6 @@ share-description: "The NHT B-12d ranks #38 out of 136 total Medium Powered Home
 The NHT B-12d ranks [#38 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#38-nht-b-12d-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #38 NHT B-12d
-- 20 Hz: 99.9 dB
-- 25 Hz: 99.9 dB
-- 31.5 Hz: 99.9 dB
-- 40 Hz: 114.4 dB
-- 50 Hz: 114.4 dB
-- 63 Hz: 114.4 dB
 - CEA-2010-A Average (40-80Hz): 114.4 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 14.0"H x 14.0"W x 14.0"D (355.6 x 355.6 x 355.6 mm)
@@ -21,6 +15,12 @@ The NHT B-12d ranks [#38 out of 136 total Medium Powered Home Subwoofers (30–7
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 99.9 dB
+- Output SPL at 25 Hz: 99.9 dB
+- Output SPL at 31.5 Hz: 99.9 dB
+- Output SPL at 40 Hz: 114.4 dB
+- Output SPL at 50 Hz: 114.4 dB
+- Output SPL at 63 Hz: 114.4 dB
 - Weight: 33.7lbs / 15.3kg
 - Reviews, Comparisons and Sound Samples
 - Links

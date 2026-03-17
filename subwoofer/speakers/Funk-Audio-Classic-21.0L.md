@@ -8,17 +8,6 @@ share-description: "The Funk Audio Classic 21.0L ranks #30 out of 95 total Large
 The Funk Audio Classic 21.0L ranks [#30 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#30-funk-audio-classic-210l-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #30 Funk Audio Classic 21.0L
-- 10 Hz: 99.0 dB
-- 100 Hz: 122.5 dB
-- 12.5 Hz: 102.0 dB
-- 15 Hz: 108.0 dB
-- 20 Hz: 114.0 dB
-- 25 Hz: 118.5 dB
-- 31.5 Hz: 122.0 dB
-- 40 Hz: 122.4 dB
-- 50 Hz: 123.3 dB
-- 63 Hz: 122.5 dB
-- 80 Hz: 122.0 dB
 - CEA-2010-A Average (40-80Hz): 122.5 dB
 - Cabinet Color: wood, custom
 - Country: Canada
@@ -27,6 +16,17 @@ The Funk Audio Classic 21.0L ranks [#30 out of 95 total Large Powered Home Subwo
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
+- Output SPL at 10 Hz: 99.0 dB
+- Output SPL at 100 Hz: 122.5 dB
+- Output SPL at 12.5 Hz: 102.0 dB
+- Output SPL at 15 Hz: 108.0 dB
+- Output SPL at 20 Hz: 114.0 dB
+- Output SPL at 25 Hz: 118.5 dB
+- Output SPL at 31.5 Hz: 122.0 dB
+- Output SPL at 40 Hz: 122.4 dB
+- Output SPL at 50 Hz: 123.3 dB
+- Output SPL at 63 Hz: 122.5 dB
+- Output SPL at 80 Hz: 122.0 dB
 - Warranty: 3
 - Weight: 155.0lbs / 70.3kg
 - Reviews, Comparisons and Sound Samples

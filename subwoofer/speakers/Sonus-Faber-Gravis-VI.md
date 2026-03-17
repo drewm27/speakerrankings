@@ -8,12 +8,6 @@ share-description: "The Sonus Faber Gravis VI ranks #95 out of 95 total Large Po
 The Sonus Faber Gravis VI ranks [#95 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#95-sonus-faber-gravis-vi-797880) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #95 Sonus Faber Gravis VI: $7,978.80
-- 20 Hz: 86.0 dB
-- 25 Hz: 99.0 dB
-- 31.5 Hz: 101.0 dB
-- 40 Hz: 104.0 dB
-- 50 Hz: 107.0 dB
-- 63 Hz: 108.0 dB
 - CEA-2010-A Average (40-80Hz): 106.3 dB (avg of 3/4 bands)
 - Cabinet Color: black, wood
 - Country: Italy
@@ -21,6 +15,12 @@ The Sonus Faber Gravis VI ranks [#95 out of 95 total Large Powered Home Subwoofe
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Dennis Burger
+- Output SPL at 20 Hz: 86.0 dB
+- Output SPL at 25 Hz: 99.0 dB
+- Output SPL at 31.5 Hz: 101.0 dB
+- Output SPL at 40 Hz: 104.0 dB
+- Output SPL at 50 Hz: 107.0 dB
+- Output SPL at 63 Hz: 108.0 dB
 - Weight: 114.6lbs / 52.0kg
 - Reviews, Comparisons and Sound Samples
 - Links

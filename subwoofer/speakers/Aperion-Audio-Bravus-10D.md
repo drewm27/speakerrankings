@@ -8,14 +8,6 @@ share-description: "The Aperion Audio Bravus 10D ranks #132 out of 136 total Med
 The Aperion Audio Bravus 10D ranks [#132 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#132-aperion-audio-bravus-10d-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #132 Aperion Audio Bravus 10D
-- 100 Hz: 105.0 dB
-- 20 Hz: 79.0 dB
-- 25 Hz: 84.0 dB
-- 31.5 Hz: 90.0 dB
-- 40 Hz: 99.0 dB
-- 50 Hz: 102.0 dB
-- 63 Hz: 104.0 dB
-- 80 Hz: 105.0 dB
 - CEA-2010-A Average (40-80Hz): 102.5 dB
 - Country: United States
 - Dimensions: 15.0"H x 13.5"W x 13.5"D (381.0 x 342.9 x 342.9 mm)
@@ -23,6 +15,14 @@ The Aperion Audio Bravus 10D ranks [#132 out of 136 total Medium Powered Home Su
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 105.0 dB
+- Output SPL at 20 Hz: 79.0 dB
+- Output SPL at 25 Hz: 84.0 dB
+- Output SPL at 31.5 Hz: 90.0 dB
+- Output SPL at 40 Hz: 99.0 dB
+- Output SPL at 50 Hz: 102.0 dB
+- Output SPL at 63 Hz: 104.0 dB
+- Output SPL at 80 Hz: 105.0 dB
 - Warranty: 10/2
 - Weight: 44.0lbs / 20.0kg
 - Reviews, Comparisons and Sound Samples

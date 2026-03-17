@@ -8,13 +8,6 @@ share-description: "The Yamaha YST-SW215 ranks #26 out of 42 total Small Powered
 The Yamaha YST-SW215 ranks [#26 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#26-yamaha-yst-sw215-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #26 Yamaha YST-SW215
-- 20 Hz: 68.5 dB
-- 25 Hz: 79.7 dB
-- 31.5 Hz: 86.6 dB
-- 40 Hz: 93.7 dB
-- 50 Hz: 100.8 dB
-- 63 Hz: 107.5 dB
-- 80 Hz: 112.5 dB
 - CEA-2010-A Average (40-80Hz): 103.6 dB
 - Country: Japan
 - Dimensions: 14.18"H x 11.43"W x 12.68"D (360.2 x 290.3 x 322.1 mm)
@@ -22,6 +15,13 @@ The Yamaha YST-SW215 ranks [#26 out of 42 total Small Powered Home Subwoofers (U
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 68.5 dB
+- Output SPL at 25 Hz: 79.7 dB
+- Output SPL at 31.5 Hz: 86.6 dB
+- Output SPL at 40 Hz: 93.7 dB
+- Output SPL at 50 Hz: 100.8 dB
+- Output SPL at 63 Hz: 107.5 dB
+- Output SPL at 80 Hz: 112.5 dB
 - Warranty: 2
 - Weight: 25.3lbs / 11.5kg
 - Reviews, Comparisons and Sound Samples

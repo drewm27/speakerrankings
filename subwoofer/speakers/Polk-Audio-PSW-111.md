@@ -8,13 +8,6 @@ share-description: "The Polk Audio PSW 111 ranks #19 out of 42 total Small Power
 The Polk Audio PSW 111 ranks [#19 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#19-polk-audio-psw-111-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #19 Polk Audio PSW 111: $350
-- 20 Hz: 66.6 dB
-- 25 Hz: 70.1 dB
-- 31.5 Hz: 85.9 dB
-- 40 Hz: 100.5 dB
-- 50 Hz: 105.0 dB
-- 63 Hz: 109.1 dB
-- 80 Hz: 110.0 dB
 - CEA-2010-A Average (40-80Hz): 106.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -22,6 +15,13 @@ The Polk Audio PSW 111 ranks [#19 out of 42 total Small Powered Home Subwoofers 
 - Driver(s): (1) 8 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 66.6 dB
+- Output SPL at 25 Hz: 70.1 dB
+- Output SPL at 31.5 Hz: 85.9 dB
+- Output SPL at 40 Hz: 100.5 dB
+- Output SPL at 50 Hz: 105.0 dB
+- Output SPL at 63 Hz: 109.1 dB
+- Output SPL at 80 Hz: 110.0 dB
 - Warranty: 5/3
 - Weight: 20.3lbs / 9.2kg
 - Reviews, Comparisons and Sound Samples

@@ -8,13 +8,6 @@ share-description: "The Yamaha YST-SW1500 ranks #26 out of 136 total Medium Powe
 The Yamaha YST-SW1500 ranks [#26 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#26-yamaha-yst-sw1500-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #26 Yamaha YST-SW1500
-- 20 Hz: 81.5 dB
-- 25 Hz: 96.1 dB
-- 31.5 Hz: 107.8 dB
-- 40 Hz: 111.7 dB
-- 50 Hz: 114.7 dB
-- 63 Hz: 118.0 dB
-- 80 Hz: 118.8 dB
 - CEA-2010-A Average (40-80Hz): 115.8 dB
 - Cabinet Color: black
 - Country: Japan
@@ -23,6 +16,13 @@ The Yamaha YST-SW1500 ranks [#26 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 81.5 dB
+- Output SPL at 25 Hz: 96.1 dB
+- Output SPL at 31.5 Hz: 107.8 dB
+- Output SPL at 40 Hz: 111.7 dB
+- Output SPL at 50 Hz: 114.7 dB
+- Output SPL at 63 Hz: 118.0 dB
+- Output SPL at 80 Hz: 118.8 dB
 - Warranty: 2?
 - Weight: 63.93lbs / 29.0kg
 - Reviews, Comparisons and Sound Samples

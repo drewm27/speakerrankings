@@ -8,18 +8,6 @@ share-description: "The Velodyne Acoustics DD-18+ ranks #66 out of 95 total Larg
 The Velodyne Acoustics DD-18+ ranks [#66 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#66-velodyne-acoustics-dd-18-5000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #66 Velodyne Acoustics DD-18+: $5,000
-- 10 Hz: 87.6 dB
-- 100 Hz: 115.1 dB
-- 12.5 Hz: 92.2 dB
-- 125 Hz: 113.5 dB
-- 15 Hz: 101.8 dB
-- 20 Hz: 106.4 dB
-- 25 Hz: 111.3 dB
-- 31.5 Hz: 116.0 dB
-- 40 Hz: 118.8 dB
-- 50 Hz: 119.8 dB
-- 63 Hz: 118.3 dB
-- 80 Hz: 116.5 dB
 - CEA-2010-A Average (40-80Hz): 118.3 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -27,6 +15,18 @@ The Velodyne Acoustics DD-18+ ranks [#66 out of 95 total Large Powered Home Subw
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 10 Hz: 87.6 dB
+- Output SPL at 100 Hz: 115.1 dB
+- Output SPL at 12.5 Hz: 92.2 dB
+- Output SPL at 125 Hz: 113.5 dB
+- Output SPL at 15 Hz: 101.8 dB
+- Output SPL at 20 Hz: 106.4 dB
+- Output SPL at 25 Hz: 111.3 dB
+- Output SPL at 31.5 Hz: 116.0 dB
+- Output SPL at 40 Hz: 118.8 dB
+- Output SPL at 50 Hz: 119.8 dB
+- Output SPL at 63 Hz: 118.3 dB
+- Output SPL at 80 Hz: 116.5 dB
 - Weight: 142.0lbs / 64.4kg
 - Reviews, Comparisons and Sound Samples
 - Links

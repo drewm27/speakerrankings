@@ -8,13 +8,6 @@ share-description: "The Audio Pro Level 110 ranks #127 out of 136 total Medium P
 The Audio Pro Level 110 ranks [#127 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#127-audio-pro-level-110-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #127 Audio Pro Level 110
-- 20 Hz: 84.4 dB
-- 25 Hz: 92.0 dB
-- 31.5 Hz: 99.0 dB
-- 40 Hz: 102.1 dB
-- 50 Hz: 104.5 dB
-- 63 Hz: 105.7 dB
-- 80 Hz: 105.8 dB
 - CEA-2010-A Average (40-80Hz): 104.5 dB
 - Cabinet Color: wood
 - Country: Sweden
@@ -23,6 +16,13 @@ The Audio Pro Level 110 ranks [#127 out of 136 total Medium Powered Home Subwoof
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 84.4 dB
+- Output SPL at 25 Hz: 92.0 dB
+- Output SPL at 31.5 Hz: 99.0 dB
+- Output SPL at 40 Hz: 102.1 dB
+- Output SPL at 50 Hz: 104.5 dB
+- Output SPL at 63 Hz: 105.7 dB
+- Output SPL at 80 Hz: 105.8 dB
 - Weight: 37.03lbs / 16.8kg
 - Reviews, Comparisons and Sound Samples
 - Links

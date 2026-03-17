@@ -8,13 +8,7 @@ share-description: "The Savant NANO-1 ranks #36 out of 42 total Small Powered Ho
 The Savant NANO-1 ranks [#36 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#36-savant-nano-1-119682) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #36 Savant NANO-1: $1,196.82
-- Negatives: Previouly known as 'Artison'
-- 20 Hz: 69.0 dB
-- 25 Hz: 76.8 dB
-- 31.5 Hz: 86.1 dB
-- 40 Hz: 91.6 dB
-- 50 Hz: 99.6 dB
-- 63 Hz: 109.6 dB
+- Notes: Previouly known as 'Artison'
 - CEA-2010-A Average (40-80Hz): 100.3 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
 - Country: United States
@@ -22,6 +16,12 @@ The Savant NANO-1 ranks [#36 out of 42 total Small Powered Home Subwoofers (Unde
 - Driver(s): (2) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 69.0 dB
+- Output SPL at 25 Hz: 76.8 dB
+- Output SPL at 31.5 Hz: 86.1 dB
+- Output SPL at 40 Hz: 91.6 dB
+- Output SPL at 50 Hz: 99.6 dB
+- Output SPL at 63 Hz: 109.6 dB
 - Warranty: 2
 - Weight: 14.4lbs / 6.5kg
 - Reviews, Comparisons and Sound Samples

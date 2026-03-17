@@ -8,15 +8,6 @@ share-description: "The BIC America PL-200II ranks #77 out of 136 total Medium P
 The BIC America PL-200II ranks [#77 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#77-bic-america-pl-200ii-420) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #77 BIC America PL-200II: $420
-- 100 Hz: 108.3 dB
-- 125 Hz: 106.8 dB
-- 20 Hz: 87.0 dB
-- 25 Hz: 99.2 dB
-- 31.5 Hz: 105.5 dB
-- 40 Hz: 110.7 dB
-- 50 Hz: 113.4 dB
-- 63 Hz: 111.1 dB
-- 80 Hz: 109.5 dB
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +15,15 @@ The BIC America PL-200II ranks [#77 out of 136 total Medium Powered Home Subwoof
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 108.3 dB
+- Output SPL at 125 Hz: 106.8 dB
+- Output SPL at 20 Hz: 87.0 dB
+- Output SPL at 25 Hz: 99.2 dB
+- Output SPL at 31.5 Hz: 105.5 dB
+- Output SPL at 40 Hz: 110.7 dB
+- Output SPL at 50 Hz: 113.4 dB
+- Output SPL at 63 Hz: 111.1 dB
+- Output SPL at 80 Hz: 109.5 dB
 - Warranty: 8/5
 - Weight: 46.0lbs / 20.9kg
 - Reviews, Comparisons and Sound Samples

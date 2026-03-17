@@ -8,13 +8,6 @@ share-description: "The RBH Sound S-10 ranks #97 out of 136 total Medium Powered
 The RBH Sound S-10 ranks [#97 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#97-rbh-sound-s-10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #97 RBH Sound S-10
-- 100 Hz: 108.0 dB
-- 125 Hz: 106.0 dB
-- 31.5 Hz: 101.0 dB
-- 40 Hz: 108.0 dB
-- 50 Hz: 110.0 dB
-- 63 Hz: 110.0 dB
-- 80 Hz: 109.0 dB
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -23,6 +16,13 @@ The RBH Sound S-10 ranks [#97 out of 136 total Medium Powered Home Subwoofers (3
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 108.0 dB
+- Output SPL at 125 Hz: 106.0 dB
+- Output SPL at 31.5 Hz: 101.0 dB
+- Output SPL at 40 Hz: 108.0 dB
+- Output SPL at 50 Hz: 110.0 dB
+- Output SPL at 63 Hz: 110.0 dB
+- Output SPL at 80 Hz: 109.0 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 33.0lbs / 15.0kg
 - Reviews, Comparisons and Sound Samples

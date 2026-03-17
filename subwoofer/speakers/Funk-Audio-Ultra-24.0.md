@@ -8,17 +8,6 @@ share-description: "The Funk Audio Ultra 24.0 ranks #9 out of 95 total Large Pow
 The Funk Audio Ultra 24.0 ranks [#9 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#9-funk-audio-ultra-240-976114) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #9 Funk Audio Ultra 24.0: $9,761.14
-- 10 Hz: 101.0 dB
-- 100 Hz: 128.2 dB
-- 12.5 Hz: 104.9 dB
-- 15 Hz: 111.8 dB
-- 20 Hz: 120.0 dB
-- 25 Hz: 122.0 dB
-- 31.5 Hz: 123.0 dB
-- 40 Hz: 127.1 dB
-- 50 Hz: 129.9 dB
-- 63 Hz: 127.6 dB
-- 80 Hz: 127.0 dB
 - CEA-2010-A Average (40-80Hz): 127.9 dB
 - Cabinet Color: wood, custom
 - Country: Canada
@@ -26,6 +15,17 @@ The Funk Audio Ultra 24.0 ranks [#9 out of 95 total Large Powered Home Subwoofer
 - Driver(s): (1) 24 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
+- Output SPL at 10 Hz: 101.0 dB
+- Output SPL at 100 Hz: 128.2 dB
+- Output SPL at 12.5 Hz: 104.9 dB
+- Output SPL at 15 Hz: 111.8 dB
+- Output SPL at 20 Hz: 120.0 dB
+- Output SPL at 25 Hz: 122.0 dB
+- Output SPL at 31.5 Hz: 123.0 dB
+- Output SPL at 40 Hz: 127.1 dB
+- Output SPL at 50 Hz: 129.9 dB
+- Output SPL at 63 Hz: 127.6 dB
+- Output SPL at 80 Hz: 127.0 dB
 - Warranty: 3
 - Reviews, Comparisons and Sound Samples
 - Links

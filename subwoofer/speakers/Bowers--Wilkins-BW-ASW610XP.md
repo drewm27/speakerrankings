@@ -8,15 +8,6 @@ share-description: "The Bowers & Wilkins (B&W) ASW610XP ranks #100 out of 136 to
 The Bowers & Wilkins (B&W) ASW610XP ranks [#100 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#100-bowers--wilkins-bw-asw610xp-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #100 Bowers & Wilkins (B&W) ASW610XP
-- 100 Hz: 109.2 dB
-- 125 Hz: 107.9 dB
-- 20 Hz: 88.1 dB
-- 25 Hz: 93.0 dB
-- 31.5 Hz: 99.1 dB
-- 40 Hz: 104.5 dB
-- 50 Hz: 108.9 dB
-- 63 Hz: 111.9 dB
-- 80 Hz: 111.1 dB
 - CEA-2010-A Average (40-80Hz): 109.1 dB
 - Cabinet Color: black, white
 - Country: United Kingdom
@@ -25,6 +16,15 @@ The Bowers & Wilkins (B&W) ASW610XP ranks [#100 out of 136 total Medium Powered 
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 109.2 dB
+- Output SPL at 125 Hz: 107.9 dB
+- Output SPL at 20 Hz: 88.1 dB
+- Output SPL at 25 Hz: 93.0 dB
+- Output SPL at 31.5 Hz: 99.1 dB
+- Output SPL at 40 Hz: 104.5 dB
+- Output SPL at 50 Hz: 108.9 dB
+- Output SPL at 63 Hz: 111.9 dB
+- Output SPL at 80 Hz: 111.1 dB
 - Warranty: 2
 - Weight: 41.22lbs / 18.7kg
 - Reviews, Comparisons and Sound Samples

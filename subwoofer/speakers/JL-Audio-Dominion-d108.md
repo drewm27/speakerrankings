@@ -8,15 +8,7 @@ share-description: "The JL Audio Dominion d108 ranks #28 out of 42 total Small P
 The JL Audio Dominion d108 ranks [#28 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#28-jl-audio-dominion-d108-1100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #28 JL Audio Dominion d108: $1,100
-- Negatives: Ash colour.
-- 100 Hz: 103.9 dB
-- 20 Hz: 79.7 dB
-- 25 Hz: 85.8 dB
-- 31.5 Hz: 91.5 dB
-- 40 Hz: 98.4 dB
-- 50 Hz: 102.9 dB
-- 63 Hz: 105.6 dB
-- 80 Hz: 105.0 dB
+- Notes: Ash colour.
 - CEA-2010-A Average (40-80Hz): 103.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The JL Audio Dominion d108 ranks [#28 out of 42 total Small Powered Home Subwoof
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 103.9 dB
+- Output SPL at 20 Hz: 79.7 dB
+- Output SPL at 25 Hz: 85.8 dB
+- Output SPL at 31.5 Hz: 91.5 dB
+- Output SPL at 40 Hz: 98.4 dB
+- Output SPL at 50 Hz: 102.9 dB
+- Output SPL at 63 Hz: 105.6 dB
+- Output SPL at 80 Hz: 105.0 dB
 - Warranty: 3
 - Weight: 26.4lbs / 12.0kg
 - Reviews, Comparisons and Sound Samples

@@ -8,16 +8,6 @@ share-description: "The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks #65 out
 The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks [#65 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#65-rsl-rogersound-labs-speedwoofer-10s-mkii-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #65 RSL (Rogersound Labs) Speedwoofer 10S MKII: $450
-- 100 Hz: 111.4 dB
-- 125 Hz: 110.7 dB
-- 15 Hz: 89.0 dB
-- 20 Hz: 100.0 dB
-- 25 Hz: 105.0 dB
-- 31.5 Hz: 107.7 dB
-- 40 Hz: 110.3 dB
-- 50 Hz: 112.9 dB
-- 63 Hz: 113.0 dB
-- 80 Hz: 112.1 dB
 - CEA-2010-A Average (40-80Hz): 112.1 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -25,6 +15,16 @@ The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks [#65 out of 136 total Mediu
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 111.4 dB
+- Output SPL at 125 Hz: 110.7 dB
+- Output SPL at 15 Hz: 89.0 dB
+- Output SPL at 20 Hz: 100.0 dB
+- Output SPL at 25 Hz: 105.0 dB
+- Output SPL at 31.5 Hz: 107.7 dB
+- Output SPL at 40 Hz: 110.3 dB
+- Output SPL at 50 Hz: 112.9 dB
+- Output SPL at 63 Hz: 113.0 dB
+- Output SPL at 80 Hz: 112.1 dB
 - Warranty: ?
 - Weight: 40.6lbs / 18.4kg
 - Reviews, Comparisons and Sound Samples

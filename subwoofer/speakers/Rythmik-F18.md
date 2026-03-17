@@ -8,18 +8,6 @@ share-description: "The Rythmik F18 ranks #58 out of 95 total Large Powered Home
 The Rythmik F18 ranks [#58 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#58-rythmik-f18-1850) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #58 Rythmik F18: $1,850
-- 10 Hz: 93.7 dB
-- 100 Hz: 121.4 dB
-- 12.5 Hz: 97.4 dB
-- 125 Hz: 121.4 dB
-- 15 Hz: 102.0 dB
-- 20 Hz: 106.2 dB
-- 25 Hz: 110.9 dB
-- 31.5 Hz: 114.3 dB
-- 40 Hz: 117.1 dB
-- 50 Hz: 119.1 dB
-- 63 Hz: 120.5 dB
-- 80 Hz: 121.2 dB
 - CEA-2010-A Average (40-80Hz): 119.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -27,6 +15,18 @@ The Rythmik F18 ranks [#58 out of 95 total Large Powered Home Subwoofers (Over 7
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
+- Output SPL at 10 Hz: 93.7 dB
+- Output SPL at 100 Hz: 121.4 dB
+- Output SPL at 12.5 Hz: 97.4 dB
+- Output SPL at 125 Hz: 121.4 dB
+- Output SPL at 15 Hz: 102.0 dB
+- Output SPL at 20 Hz: 106.2 dB
+- Output SPL at 25 Hz: 110.9 dB
+- Output SPL at 31.5 Hz: 114.3 dB
+- Output SPL at 40 Hz: 117.1 dB
+- Output SPL at 50 Hz: 119.1 dB
+- Output SPL at 63 Hz: 120.5 dB
+- Output SPL at 80 Hz: 121.2 dB
 - Warranty: 5/3
 - Weight: 115.0lbs / 52.2kg
 - Reviews, Comparisons and Sound Samples

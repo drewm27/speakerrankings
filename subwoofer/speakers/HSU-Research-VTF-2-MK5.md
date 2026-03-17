@@ -8,17 +8,7 @@ share-description: "The HSU Research VTF-2 MK5 ranks #22 out of 136 total Medium
 The HSU Research VTF-2 MK5 ranks [#22 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#22-hsu-research-vtf-2-mk5-750) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #22 HSU Research VTF-2 MK5: $750
-- Negatives: Price includes shipping
-- 100 Hz: 116.1 dB
-- 125 Hz: 115.8 dB
-- 15 Hz: 90.3 dB
-- 20 Hz: 104.4 dB
-- 25 Hz: 109.8 dB
-- 31.5 Hz: 113.1 dB
-- 40 Hz: 115.1 dB
-- 50 Hz: 116.7 dB
-- 63 Hz: 117.1 dB
-- 80 Hz: 116.7 dB
+- Notes: Price includes shipping
 - CEA-2010-A Average (40-80Hz): 116.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -26,6 +16,16 @@ The HSU Research VTF-2 MK5 ranks [#22 out of 136 total Medium Powered Home Subwo
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 116.1 dB
+- Output SPL at 125 Hz: 115.8 dB
+- Output SPL at 15 Hz: 90.3 dB
+- Output SPL at 20 Hz: 104.4 dB
+- Output SPL at 25 Hz: 109.8 dB
+- Output SPL at 31.5 Hz: 113.1 dB
+- Output SPL at 40 Hz: 115.1 dB
+- Output SPL at 50 Hz: 116.7 dB
+- Output SPL at 63 Hz: 117.1 dB
+- Output SPL at 80 Hz: 116.7 dB
 - Warranty: 7/2(+3)
 - Weight: 62.0lbs / 28.1kg
 - Reviews, Comparisons and Sound Samples

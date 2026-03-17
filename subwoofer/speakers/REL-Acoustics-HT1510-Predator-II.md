@@ -8,16 +8,6 @@ share-description: "The REL Acoustics HT/1510 Predator II ranks #69 out of 95 to
 The REL Acoustics HT/1510 Predator II ranks [#69 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#69-rel-acoustics-ht1510-predator-ii-252662) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #69 REL Acoustics HT/1510 Predator II: $2,526.62
-- 100 Hz: 118.5 dB
-- 125 Hz: 118.0 dB
-- 15 Hz: 91.4 dB
-- 20 Hz: 98.0 dB
-- 25 Hz: 104.4 dB
-- 31.5 Hz: 111.1 dB
-- 40 Hz: 116.9 dB
-- 50 Hz: 118.5 dB
-- 63 Hz: 118.5 dB
-- 80 Hz: 118.4 dB
 - CEA-2010-A Average (40-80Hz): 118.1 dB
 - Cabinet Color: black
 - Country: United Kingdom
@@ -25,6 +15,16 @@ The REL Acoustics HT/1510 Predator II ranks [#69 out of 95 total Large Powered H
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 118.5 dB
+- Output SPL at 125 Hz: 118.0 dB
+- Output SPL at 15 Hz: 91.4 dB
+- Output SPL at 20 Hz: 98.0 dB
+- Output SPL at 25 Hz: 104.4 dB
+- Output SPL at 31.5 Hz: 111.1 dB
+- Output SPL at 40 Hz: 116.9 dB
+- Output SPL at 50 Hz: 118.5 dB
+- Output SPL at 63 Hz: 118.5 dB
+- Output SPL at 80 Hz: 118.4 dB
 - Warranty: 3
 - Weight: 99.7lbs / 45.2kg
 - Reviews, Comparisons and Sound Samples

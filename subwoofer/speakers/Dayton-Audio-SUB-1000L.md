@@ -8,14 +8,7 @@ share-description: "The Dayton Audio SUB-1000L ranks #25 out of 42 total Small P
 The Dayton Audio SUB-1000L ranks [#25 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#25-dayton-audio-sub-1000l-150) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #25 Dayton Audio SUB-1000L: $150
-- Negatives: low profile (<8in)
-- 20 Hz: 83.9 dB
-- 25 Hz: 90.8 dB
-- 31.5 Hz: 94.9 dB
-- 40 Hz: 98.9 dB
-- 50 Hz: 102.3 dB
-- 63 Hz: 105.9 dB
-- 80 Hz: 108.7 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 104.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -23,6 +16,13 @@ The Dayton Audio SUB-1000L ranks [#25 out of 42 total Small Powered Home Subwoof
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 83.9 dB
+- Output SPL at 25 Hz: 90.8 dB
+- Output SPL at 31.5 Hz: 94.9 dB
+- Output SPL at 40 Hz: 98.9 dB
+- Output SPL at 50 Hz: 102.3 dB
+- Output SPL at 63 Hz: 105.9 dB
+- Output SPL at 80 Hz: 108.7 dB
 - Warranty: 5
 - Weight: 28.5lbs / 12.9kg
 - Reviews, Comparisons and Sound Samples

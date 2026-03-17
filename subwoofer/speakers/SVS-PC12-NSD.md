@@ -8,13 +8,7 @@ share-description: "The SVS PC12-NSD ranks #63 out of 136 total Medium Powered H
 The SVS PC12-NSD ranks [#63 out of 136 total Medium Powered Home Subwoofers (30â€“75 lbs)](/subwoofer/powered-medium/#63-svs-pc12-nsd-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #63 SVS PC12-NSD
-- Negatives: "Cylinder" shape
-- 20 Hz: 109.6 dB
-- 25 Hz: 109.6 dB
-- 31.5 Hz: 109.6 dB
-- 40 Hz: 112.1 dB
-- 50 Hz: 112.1 dB
-- 63 Hz: 112.1 dB
+- Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 35.75"H x 16.58"W x 16.58"D (908.0 x 421.1 x 421.1 mm)
@@ -22,6 +16,12 @@ The SVS PC12-NSD ranks [#63 out of 136 total Medium Powered Home Subwoofers (30â
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 109.6 dB
+- Output SPL at 25 Hz: 109.6 dB
+- Output SPL at 31.5 Hz: 109.6 dB
+- Output SPL at 40 Hz: 112.1 dB
+- Output SPL at 50 Hz: 112.1 dB
+- Output SPL at 63 Hz: 112.1 dB
 - Warranty: 5
 - Weight: 49.0lbs / 22.2kg
 - Reviews, Comparisons and Sound Samples

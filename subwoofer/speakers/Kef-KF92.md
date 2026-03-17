@@ -8,14 +8,6 @@ share-description: "The Kef KF92 ranks #129 out of 136 total Medium Powered Home
 The Kef KF92 ranks [#129 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#129-kef-kf92-2000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #129 Kef KF92: $2,000
-- 100 Hz: 107.2 dB
-- 20 Hz: 86.0 dB
-- 25 Hz: 91.6 dB
-- 31.5 Hz: 95.4 dB
-- 40 Hz: 101.1 dB
-- 50 Hz: 103.0 dB
-- 63 Hz: 104.4 dB
-- 80 Hz: 106.3 dB
 - CEA-2010-A Average (40-80Hz): 103.7 dB
 - Cabinet Color: black
 - Country: United Kingdom
@@ -23,6 +15,14 @@ The Kef KF92 ranks [#129 out of 136 total Medium Powered Home Subwoofers (30–7
 - Driver(s): (2) 9 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 107.2 dB
+- Output SPL at 20 Hz: 86.0 dB
+- Output SPL at 25 Hz: 91.6 dB
+- Output SPL at 31.5 Hz: 95.4 dB
+- Output SPL at 40 Hz: 101.1 dB
+- Output SPL at 50 Hz: 103.0 dB
+- Output SPL at 63 Hz: 104.4 dB
+- Output SPL at 80 Hz: 106.3 dB
 - Warranty: 5/2/5
 - Weight: 44.09lbs / 20.0kg
 - Reviews, Comparisons and Sound Samples

@@ -8,14 +8,6 @@ share-description: "The JBL HDI-1200P ranks #14 out of 136 total Medium Powered 
 The JBL HDI-1200P ranks [#14 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#14-jbl-hdi-1200p-2310) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #14 JBL HDI-1200P: $2,310
-- 100 Hz: 115.4 dB
-- 125 Hz: 117.2 dB
-- 25 Hz: 93.2 dB
-- 31.5 Hz: 109.5 dB
-- 40 Hz: 115.6 dB
-- 50 Hz: 119.1 dB
-- 63 Hz: 119.0 dB
-- 80 Hz: 114.9 dB
 - CEA-2010-A Average (40-80Hz): 117.2 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -23,6 +15,14 @@ The JBL HDI-1200P ranks [#14 out of 136 total Medium Powered Home Subwoofers (30
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 115.4 dB
+- Output SPL at 125 Hz: 117.2 dB
+- Output SPL at 25 Hz: 93.2 dB
+- Output SPL at 31.5 Hz: 109.5 dB
+- Output SPL at 40 Hz: 115.6 dB
+- Output SPL at 50 Hz: 119.1 dB
+- Output SPL at 63 Hz: 119.0 dB
+- Output SPL at 80 Hz: 114.9 dB
 - Warranty: 5
 - Weight: 70.8lbs / 32.1kg
 - Reviews, Comparisons and Sound Samples

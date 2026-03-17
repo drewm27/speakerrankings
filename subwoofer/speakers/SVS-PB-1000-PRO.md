@@ -8,16 +8,6 @@ share-description: "The SVS PB-1000 PRO ranks #25 out of 136 total Medium Powere
 The SVS PB-1000 PRO ranks [#25 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#25-svs-pb-1000-pro-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #25 SVS PB-1000 PRO: $800
-- 100 Hz: 115.9 dB
-- 125 Hz: 115.3 dB
-- 15 Hz: 96.0 dB
-- 20 Hz: 104.2 dB
-- 25 Hz: 110.3 dB
-- 31.5 Hz: 110.7 dB
-- 40 Hz: 113.6 dB
-- 50 Hz: 116.1 dB
-- 63 Hz: 117.4 dB
-- 80 Hz: 116.6 dB
 - CEA-2010-A Average (40-80Hz): 115.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The SVS PB-1000 PRO ranks [#25 out of 136 total Medium Powered Home Subwoofers (
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 115.9 dB
+- Output SPL at 125 Hz: 115.3 dB
+- Output SPL at 15 Hz: 96.0 dB
+- Output SPL at 20 Hz: 104.2 dB
+- Output SPL at 25 Hz: 110.3 dB
+- Output SPL at 31.5 Hz: 110.7 dB
+- Output SPL at 40 Hz: 113.6 dB
+- Output SPL at 50 Hz: 116.1 dB
+- Output SPL at 63 Hz: 117.4 dB
+- Output SPL at 80 Hz: 116.6 dB
 - Warranty: 5
 - Weight: 42.5lbs / 19.3kg
 - Reviews, Comparisons and Sound Samples

@@ -8,17 +8,7 @@ share-description: "The JTR Speakers Orbit Shifter PRO ranks #1 out of 95 total 
 The JTR Speakers Orbit Shifter PRO ranks [#1 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#1-jtr-speakers-orbit-shifter-pro-4200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 JTR Speakers Orbit Shifter PRO: $4,200
-- Negatives: Looks like "PA sub"
-- 100 Hz: 143.4 dB
-- 125 Hz: 140.1 dB
-- 15 Hz: 95.7 dB
-- 20 Hz: 101.9 dB
-- 25 Hz: 114.9 dB
-- 31.5 Hz: 128.2 dB
-- 40 Hz: 136.0 dB
-- 50 Hz: 141.0 dB
-- 63 Hz: 144.0 dB
-- 80 Hz: 144.2 dB
+- Notes: Looks like "PA sub"
 - CEA-2010-A Average (40-80Hz): 141.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -26,6 +16,16 @@ The JTR Speakers Orbit Shifter PRO ranks [#1 out of 95 total Large Powered Home 
 - Driver(s): (1) 18 inch
 - Enclosure: horn
 - Measurement Source: Data-bass
+- Output SPL at 100 Hz: 143.4 dB
+- Output SPL at 125 Hz: 140.1 dB
+- Output SPL at 15 Hz: 95.7 dB
+- Output SPL at 20 Hz: 101.9 dB
+- Output SPL at 25 Hz: 114.9 dB
+- Output SPL at 31.5 Hz: 128.2 dB
+- Output SPL at 40 Hz: 136.0 dB
+- Output SPL at 50 Hz: 141.0 dB
+- Output SPL at 63 Hz: 144.0 dB
+- Output SPL at 80 Hz: 144.2 dB
 - Warranty: 5
 - Weight: 185.0lbs / 83.9kg
 - Reviews, Comparisons and Sound Samples

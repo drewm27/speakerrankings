@@ -8,18 +8,6 @@ share-description: "The Perlisten Audio D215s ranks #25 out of 95 total Large Po
 The Perlisten Audio D215s ranks [#25 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#25-perlisten-audio-d215s-9000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #25 Perlisten Audio D215s: $9,000
-- 10 Hz: 93.0 dB
-- 100 Hz: 125.6 dB
-- 12.5 Hz: 98.8 dB
-- 125 Hz: 126.6 dB
-- 15 Hz: 104.3 dB
-- 20 Hz: 109.2 dB
-- 25 Hz: 113.3 dB
-- 31.5 Hz: 117.2 dB
-- 40 Hz: 120.8 dB
-- 50 Hz: 122.8 dB
-- 63 Hz: 124.0 dB
-- 80 Hz: 125.0 dB
 - CEA-2010-A Average (40-80Hz): 123.2 dB
 - Cabinet Color: black, custom
 - Country: United States
@@ -27,6 +15,18 @@ The Perlisten Audio D215s ranks [#25 out of 95 total Large Powered Home Subwoofe
 - Driver(s): (2) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 10 Hz: 93.0 dB
+- Output SPL at 100 Hz: 125.6 dB
+- Output SPL at 12.5 Hz: 98.8 dB
+- Output SPL at 125 Hz: 126.6 dB
+- Output SPL at 15 Hz: 104.3 dB
+- Output SPL at 20 Hz: 109.2 dB
+- Output SPL at 25 Hz: 113.3 dB
+- Output SPL at 31.5 Hz: 117.2 dB
+- Output SPL at 40 Hz: 120.8 dB
+- Output SPL at 50 Hz: 122.8 dB
+- Output SPL at 63 Hz: 124.0 dB
+- Output SPL at 80 Hz: 125.0 dB
 - Warranty: 5
 - Weight: 202.4lbs / 91.8kg
 - Reviews, Comparisons and Sound Samples

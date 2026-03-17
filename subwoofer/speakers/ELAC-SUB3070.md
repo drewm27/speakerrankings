@@ -8,14 +8,6 @@ share-description: "The ELAC SUB3070 ranks #72 out of 95 total Large Powered Hom
 The ELAC SUB3070 ranks [#72 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#72-elac-sub3070-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #72 ELAC SUB3070
-- 15 Hz: 92.9 dB
-- 20 Hz: 95.8 dB
-- 25 Hz: 99.2 dB
-- 31.5 Hz: 104.7 dB
-- 40 Hz: 112.0 dB
-- 50 Hz: 117.7 dB
-- 63 Hz: 121.3 dB
-- 80 Hz: 120.5 dB
 - CEA-2010-A Average (40-80Hz): 117.9 dB
 - Cabinet Color: black, white, wood
 - Country: Germany
@@ -24,6 +16,14 @@ The ELAC SUB3070 ranks [#72 out of 95 total Large Powered Home Subwoofers (Over 
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 92.9 dB
+- Output SPL at 20 Hz: 95.8 dB
+- Output SPL at 25 Hz: 99.2 dB
+- Output SPL at 31.5 Hz: 104.7 dB
+- Output SPL at 40 Hz: 112.0 dB
+- Output SPL at 50 Hz: 117.7 dB
+- Output SPL at 63 Hz: 121.3 dB
+- Output SPL at 80 Hz: 120.5 dB
 - Warranty: 3/1
 - Weight: 77.0lbs / 34.9kg
 - Reviews, Comparisons and Sound Samples

@@ -8,12 +8,7 @@ share-description: "The Dayton Audio MKSX4 ranks #1 out of 3 total Small Passive
 The Dayton Audio MKSX4 ranks [#1 out of 3 total Small Passive Home Subwoofers (Under 30 lbs)](/subwoofer/passive-small/#1-dayton-audio-mksx4-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 Dayton Audio MKSX4: $130
-- Negatives: low profile (<8in)
-- 31.5 Hz: 78.7 dB
-- 40 Hz: 95.4 dB
-- 50 Hz: 106.8 dB
-- 63 Hz: 110.3 dB
-- 80 Hz: 112.3 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 106.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -21,6 +16,11 @@ The Dayton Audio MKSX4 ranks [#1 out of 3 total Small Passive Home Subwoofers (U
 - Driver(s): (4) 4 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
+- Output SPL at 31.5 Hz: 78.7 dB
+- Output SPL at 40 Hz: 95.4 dB
+- Output SPL at 50 Hz: 106.8 dB
+- Output SPL at 63 Hz: 110.3 dB
+- Output SPL at 80 Hz: 112.3 dB
 - Passive: Yes
 - Warranty: 5
 - Weight: 26.85lbs / 12.2kg

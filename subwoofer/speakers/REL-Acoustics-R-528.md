@@ -8,11 +8,6 @@ share-description: "The REL Acoustics R-528 ranks #55 out of 136 total Medium Po
 The REL Acoustics R-528 ranks [#55 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#55-rel-acoustics-r-528-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #55 REL Acoustics R-528
-- 25 Hz: 92.7 dB
-- 31.5 Hz: 106.5 dB
-- 40 Hz: 111.0 dB
-- 50 Hz: 112.7 dB
-- 63 Hz: 114.6 dB
 - CEA-2010-A Average (40-80Hz): 112.8 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 17.5"H x 15.5"W x 17.2"D (444.5 x 393.7 x 436.9 mm)
@@ -20,6 +15,11 @@ The REL Acoustics R-528 ranks [#55 out of 136 total Medium Powered Home Subwoofe
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 92.7 dB
+- Output SPL at 31.5 Hz: 106.5 dB
+- Output SPL at 40 Hz: 111.0 dB
+- Output SPL at 50 Hz: 112.7 dB
+- Output SPL at 63 Hz: 114.6 dB
 - Warranty: 3
 - Weight: 58.0lbs / 26.3kg
 - Reviews, Comparisons and Sound Samples

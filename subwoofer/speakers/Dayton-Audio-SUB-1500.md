@@ -8,15 +8,6 @@ share-description: "The Dayton Audio SUB-1500 ranks #74 out of 136 total Medium 
 The Dayton Audio SUB-1500 ranks [#74 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#74-dayton-audio-sub-1500-260) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #74 Dayton Audio SUB-1500: $260
-- 100 Hz: 111.8 dB
-- 125 Hz: 110.1 dB
-- 20 Hz: 90.2 dB
-- 25 Hz: 96.5 dB
-- 31.5 Hz: 101.7 dB
-- 40 Hz: 106.5 dB
-- 50 Hz: 111.6 dB
-- 63 Hz: 114.0 dB
-- 80 Hz: 112.9 dB
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +15,15 @@ The Dayton Audio SUB-1500 ranks [#74 out of 136 total Medium Powered Home Subwoo
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 111.8 dB
+- Output SPL at 125 Hz: 110.1 dB
+- Output SPL at 20 Hz: 90.2 dB
+- Output SPL at 25 Hz: 96.5 dB
+- Output SPL at 31.5 Hz: 101.7 dB
+- Output SPL at 40 Hz: 106.5 dB
+- Output SPL at 50 Hz: 111.6 dB
+- Output SPL at 63 Hz: 114.0 dB
+- Output SPL at 80 Hz: 112.9 dB
 - Weight: 60.0lbs / 27.2kg
 - Reviews, Comparisons and Sound Samples
 - Links

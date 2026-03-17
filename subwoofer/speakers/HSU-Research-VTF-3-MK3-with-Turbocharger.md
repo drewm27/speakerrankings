@@ -8,14 +8,6 @@ share-description: "The HSU Research VTF-3 MK3 with Turbocharger ranks #86 out o
 The HSU Research VTF-3 MK3 with Turbocharger ranks [#86 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#86-hsu-research-vtf-3-mk3-with-turbocharger-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #86 HSU Research VTF-3 MK3 with Turbocharger
-- 15 Hz: 100.6 dB
-- 20 Hz: 101.6 dB
-- 25 Hz: 102.6 dB
-- 31.5 Hz: 106.5 dB
-- 40 Hz: 110.8 dB
-- 50 Hz: 112.9 dB
-- 63 Hz: 113.5 dB
-- 80 Hz: 113.8 dB
 - CEA-2010-A Average (40-80Hz): 112.8 dB
 - Country: United States
 - Dimensions: 21.5"H x 17.0"W x 25.0"D (546.1 x 431.8 x 635.0 mm)
@@ -23,6 +15,14 @@ The HSU Research VTF-3 MK3 with Turbocharger ranks [#86 out of 95 total Large Po
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 15 Hz: 100.6 dB
+- Output SPL at 20 Hz: 101.6 dB
+- Output SPL at 25 Hz: 102.6 dB
+- Output SPL at 31.5 Hz: 106.5 dB
+- Output SPL at 40 Hz: 110.8 dB
+- Output SPL at 50 Hz: 112.9 dB
+- Output SPL at 63 Hz: 113.5 dB
+- Output SPL at 80 Hz: 113.8 dB
 - Weight: 90.0lbs / 40.8kg
 - Reviews, Comparisons and Sound Samples
 - Links

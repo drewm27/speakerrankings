@@ -8,13 +8,6 @@ share-description: "The XTZ Sound 99 W12S ranks #37 out of 136 total Medium Powe
 The XTZ Sound 99 W12S ranks [#37 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#37-xtz-sound-99-w12s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #37 XTZ Sound 99 W12S
-- 20 Hz: 74.0 dB
-- 25 Hz: 86.5 dB
-- 31.5 Hz: 97.7 dB
-- 40 Hz: 108.3 dB
-- 50 Hz: 114.9 dB
-- 63 Hz: 117.3 dB
-- 80 Hz: 117.4 dB
 - CEA-2010-A Average (40-80Hz): 114.5 dB
 - Country: Sweden
 - Dimensions: 19.65"H x 13.77"W x 15.75"D (499.1 x 349.8 x 400.0 mm)
@@ -22,6 +15,13 @@ The XTZ Sound 99 W12S ranks [#37 out of 136 total Medium Powered Home Subwoofers
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 74.0 dB
+- Output SPL at 25 Hz: 86.5 dB
+- Output SPL at 31.5 Hz: 97.7 dB
+- Output SPL at 40 Hz: 108.3 dB
+- Output SPL at 50 Hz: 114.9 dB
+- Output SPL at 63 Hz: 117.3 dB
+- Output SPL at 80 Hz: 117.4 dB
 - Weight: 67.24lbs / 30.5kg
 - Reviews, Comparisons and Sound Samples
 - Links

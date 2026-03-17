@@ -8,17 +8,7 @@ share-description: "The Monoprice Monolith 16 THX Ultra ranks #12 out of 95 tota
 The Monoprice Monolith 16 THX Ultra ranks [#12 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#12-monoprice-monolith-16-thx-ultra-2300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #12 Monoprice Monolith 16 THX Ultra: $2,300
-- Negatives: Product # 42031
-- 100 Hz: 127.2 dB
-- 125 Hz: 127.6 dB
-- 15 Hz: 107.3 dB
-- 20 Hz: 118.4 dB
-- 25 Hz: 123.3 dB
-- 31.5 Hz: 125.1 dB
-- 40 Hz: 126.3 dB
-- 50 Hz: 126.5 dB
-- 63 Hz: 126.6 dB
-- 80 Hz: 126.8 dB
+- Notes: Product # 42031
 - CEA-2010-A Average (40-80Hz): 126.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -26,6 +16,16 @@ The Monoprice Monolith 16 THX Ultra ranks [#12 out of 95 total Large Powered Hom
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 127.2 dB
+- Output SPL at 125 Hz: 127.6 dB
+- Output SPL at 15 Hz: 107.3 dB
+- Output SPL at 20 Hz: 118.4 dB
+- Output SPL at 25 Hz: 123.3 dB
+- Output SPL at 31.5 Hz: 125.1 dB
+- Output SPL at 40 Hz: 126.3 dB
+- Output SPL at 50 Hz: 126.5 dB
+- Output SPL at 63 Hz: 126.6 dB
+- Output SPL at 80 Hz: 126.8 dB
 - Warranty: 5
 - Weight: 171.6lbs / 77.8kg
 - Reviews, Comparisons and Sound Samples

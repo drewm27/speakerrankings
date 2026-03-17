@@ -8,17 +8,7 @@ share-description: "The Monoprice Monolith M15-S ranks #60 out of 95 total Large
 The Monoprice Monolith M15-S ranks [#60 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#60-monoprice-monolith-m15-s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #60 Monoprice Monolith M15-S
-- Negatives: Product # 35141
-- 100 Hz: 119.1 dB
-- 125 Hz: 118.9 dB
-- 15 Hz: 100.1 dB
-- 20 Hz: 105.6 dB
-- 25 Hz: 111.2 dB
-- 31.5 Hz: 115.2 dB
-- 40 Hz: 118.4 dB
-- 50 Hz: 119.3 dB
-- 63 Hz: 119.6 dB
-- 80 Hz: 118.9 dB
+- Notes: Product # 35141
 - CEA-2010-A Average (40-80Hz): 119.0 dB
 - Country: United States
 - Dimensions: 23.5"H x 16.7"W x 19.7"D (596.9 x 424.2 x 500.4 mm)
@@ -26,6 +16,16 @@ The Monoprice Monolith M15-S ranks [#60 out of 95 total Large Powered Home Subwo
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
+- Output SPL at 100 Hz: 119.1 dB
+- Output SPL at 125 Hz: 118.9 dB
+- Output SPL at 15 Hz: 100.1 dB
+- Output SPL at 20 Hz: 105.6 dB
+- Output SPL at 25 Hz: 111.2 dB
+- Output SPL at 31.5 Hz: 115.2 dB
+- Output SPL at 40 Hz: 118.4 dB
+- Output SPL at 50 Hz: 119.3 dB
+- Output SPL at 63 Hz: 119.6 dB
+- Output SPL at 80 Hz: 118.9 dB
 - Warranty: 5
 - Weight: 80.0lbs / 36.3kg
 - Reviews, Comparisons and Sound Samples

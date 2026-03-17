@@ -8,18 +8,6 @@ share-description: "The Paradigm Signature Sub 2 ranks #22 out of 95 total Large
 The Paradigm Signature Sub 2 ranks [#22 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#22-paradigm-signature-sub-2-949456) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #22 Paradigm Signature Sub 2: $9,494.56
-- 10 Hz: 97.7 dB
-- 100 Hz: 125.1 dB
-- 12.5 Hz: 101.2 dB
-- 125 Hz: 123.3 dB
-- 15 Hz: 105.6 dB
-- 20 Hz: 109.4 dB
-- 25 Hz: 112.9 dB
-- 31.5 Hz: 116.2 dB
-- 40 Hz: 119.9 dB
-- 50 Hz: 123.2 dB
-- 63 Hz: 125.5 dB
-- 80 Hz: 126.0 dB
 - CEA-2010-A Average (40-80Hz): 123.7 dB
 - Cabinet Color: black, wood
 - Country: Canada
@@ -27,6 +15,18 @@ The Paradigm Signature Sub 2 ranks [#22 out of 95 total Large Powered Home Subwo
 - Driver(s): (6) 10 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 10 Hz: 97.7 dB
+- Output SPL at 100 Hz: 125.1 dB
+- Output SPL at 12.5 Hz: 101.2 dB
+- Output SPL at 125 Hz: 123.3 dB
+- Output SPL at 15 Hz: 105.6 dB
+- Output SPL at 20 Hz: 109.4 dB
+- Output SPL at 25 Hz: 112.9 dB
+- Output SPL at 31.5 Hz: 116.2 dB
+- Output SPL at 40 Hz: 119.9 dB
+- Output SPL at 50 Hz: 123.2 dB
+- Output SPL at 63 Hz: 125.5 dB
+- Output SPL at 80 Hz: 126.0 dB
 - Warranty: 3
 - Weight: 230.0lbs / 104.3kg
 - Reviews, Comparisons and Sound Samples

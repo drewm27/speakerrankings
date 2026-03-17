@@ -8,14 +8,6 @@ share-description: "The Rythmik LV12 ranks #41 out of 136 total Medium Powered H
 The Rythmik LV12 ranks [#41 out of 136 total Medium Powered Home Subwoofers (30â€“75 lbs)](/subwoofer/powered-medium/#41-rythmik-lv12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #41 Rythmik LV12
-- 15 Hz: 95.0 dB
-- 20 Hz: 101.7 dB
-- 25 Hz: 107.2 dB
-- 31.5 Hz: 110.6 dB
-- 40 Hz: 114.2 dB
-- 50 Hz: 114.4 dB
-- 63 Hz: 115.2 dB
-- 80 Hz: 113.3 dB
 - CEA-2010-A Average (40-80Hz): 114.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The Rythmik LV12 ranks [#41 out of 136 total Medium Powered Home Subwoofers (30â
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 95.0 dB
+- Output SPL at 20 Hz: 101.7 dB
+- Output SPL at 25 Hz: 107.2 dB
+- Output SPL at 31.5 Hz: 110.6 dB
+- Output SPL at 40 Hz: 114.2 dB
+- Output SPL at 50 Hz: 114.4 dB
+- Output SPL at 63 Hz: 115.2 dB
+- Output SPL at 80 Hz: 113.3 dB
 - Warranty: 5/3
 - Weight: 69.0lbs / 31.3kg
 - Reviews, Comparisons and Sound Samples

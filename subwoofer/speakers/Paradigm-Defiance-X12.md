@@ -8,15 +8,6 @@ share-description: "The Paradigm Defiance X12 ranks #5 out of 136 total Medium P
 The Paradigm Defiance X12 ranks [#5 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#5-paradigm-defiance-x12-131463) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #5 Paradigm Defiance X12: $1,314.63
-- 100 Hz: 120.2 dB
-- 125 Hz: 119.3 dB
-- 20 Hz: 95.5 dB
-- 25 Hz: 108.1 dB
-- 31.5 Hz: 112.8 dB
-- 40 Hz: 116.1 dB
-- 50 Hz: 119.0 dB
-- 63 Hz: 120.7 dB
-- 80 Hz: 120.8 dB
 - CEA-2010-A Average (40-80Hz): 119.2 dB
 - Cabinet Color: black
 - Country: Canada
@@ -24,6 +15,15 @@ The Paradigm Defiance X12 ranks [#5 out of 136 total Medium Powered Home Subwoof
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 120.2 dB
+- Output SPL at 125 Hz: 119.3 dB
+- Output SPL at 20 Hz: 95.5 dB
+- Output SPL at 25 Hz: 108.1 dB
+- Output SPL at 31.5 Hz: 112.8 dB
+- Output SPL at 40 Hz: 116.1 dB
+- Output SPL at 50 Hz: 119.0 dB
+- Output SPL at 63 Hz: 120.7 dB
+- Output SPL at 80 Hz: 120.8 dB
 - Warranty: 3
 - Weight: 62.0lbs / 28.1kg
 - Reviews, Comparisons and Sound Samples

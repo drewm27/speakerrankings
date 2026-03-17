@@ -8,12 +8,6 @@ share-description: "The Wisdom Audio SCS ranks #64 out of 136 total Medium Power
 The Wisdom Audio SCS ranks [#64 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#64-wisdom-audio-scs-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #64 Wisdom Audio SCS
-- 20 Hz: 100.7 dB
-- 25 Hz: 104.6 dB
-- 31.5 Hz: 106.5 dB
-- 40 Hz: 109.1 dB
-- 50 Hz: 112.6 dB
-- 63 Hz: 114.6 dB
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -21,6 +15,12 @@ The Wisdom Audio SCS ranks [#64 out of 136 total Medium Powered Home Subwoofers 
 - Driver(s): (2) 5 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 100.7 dB
+- Output SPL at 25 Hz: 104.6 dB
+- Output SPL at 31.5 Hz: 106.5 dB
+- Output SPL at 40 Hz: 109.1 dB
+- Output SPL at 50 Hz: 112.6 dB
+- Output SPL at 63 Hz: 114.6 dB
 - Weight: 72.0lbs / 32.7kg
 - Reviews, Comparisons and Sound Samples
 - Links

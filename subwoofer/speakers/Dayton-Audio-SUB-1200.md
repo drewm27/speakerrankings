@@ -8,14 +8,6 @@ share-description: "The Dayton Audio SUB-1200 ranks #99 out of 136 total Medium 
 The Dayton Audio SUB-1200 ranks [#99 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#99-dayton-audio-sub-1200-180) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #99 Dayton Audio SUB-1200: $180
-- 15 Hz: 76.1 dB
-- 20 Hz: 85.5 dB
-- 25 Hz: 95.7 dB
-- 31.5 Hz: 100.8 dB
-- 40 Hz: 105.3 dB
-- 50 Hz: 108.8 dB
-- 63 Hz: 111.2 dB
-- 80 Hz: 111.2 dB
 - CEA-2010-A Average (40-80Hz): 109.1 dB
 - Cabinet Color: black
 - Country: United States
@@ -23,6 +15,14 @@ The Dayton Audio SUB-1200 ranks [#99 out of 136 total Medium Powered Home Subwoo
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 76.1 dB
+- Output SPL at 20 Hz: 85.5 dB
+- Output SPL at 25 Hz: 95.7 dB
+- Output SPL at 31.5 Hz: 100.8 dB
+- Output SPL at 40 Hz: 105.3 dB
+- Output SPL at 50 Hz: 108.8 dB
+- Output SPL at 63 Hz: 111.2 dB
+- Output SPL at 80 Hz: 111.2 dB
 - Warranty: 5
 - Weight: 44.65lbs / 20.3kg
 - Reviews, Comparisons and Sound Samples

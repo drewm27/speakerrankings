@@ -8,13 +8,6 @@ share-description: "The Monitor Audio BRW10 ranks #14 out of 42 total Small Powe
 The Monitor Audio BRW10 ranks [#14 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#14-monitor-audio-brw10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #14 Monitor Audio BRW10
-- 20 Hz: 70.1 dB
-- 25 Hz: 88.1 dB
-- 31.5 Hz: 93.1 dB
-- 40 Hz: 100.4 dB
-- 50 Hz: 104.7 dB
-- 63 Hz: 110.5 dB
-- 80 Hz: 112.3 dB
 - CEA-2010-A Average (40-80Hz): 107.0 dB
 - Cabinet Color: wood
 - Country: United Kingdom
@@ -23,6 +16,13 @@ The Monitor Audio BRW10 ranks [#14 out of 42 total Small Powered Home Subwoofers
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 70.1 dB
+- Output SPL at 25 Hz: 88.1 dB
+- Output SPL at 31.5 Hz: 93.1 dB
+- Output SPL at 40 Hz: 100.4 dB
+- Output SPL at 50 Hz: 104.7 dB
+- Output SPL at 63 Hz: 110.5 dB
+- Output SPL at 80 Hz: 112.3 dB
 - Weight: 27.5lbs / 12.5kg
 - Reviews, Comparisons and Sound Samples
 - Links

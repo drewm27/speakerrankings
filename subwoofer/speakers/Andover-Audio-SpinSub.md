@@ -8,12 +8,6 @@ share-description: "The Andover Audio SpinSub ranks #34 out of 42 total Small Po
 The Andover Audio SpinSub ranks [#34 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#34-andover-audio-spinsub-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #34 Andover Audio SpinSub: $350
-- 25 Hz: 85.2 dB
-- 31.5 Hz: 92.6 dB
-- 40 Hz: 98.3 dB
-- 50 Hz: 99.5 dB
-- 63 Hz: 104.3 dB
-- 80 Hz: 103.6 dB
 - CEA-2010-A Average (40-80Hz): 101.4 dB
 - Cabinet Color: black, grey
 - Country: United States
@@ -21,6 +15,12 @@ The Andover Audio SpinSub ranks [#34 out of 42 total Small Powered Home Subwoofe
 - Driver(s): (2) 6.5 inch
 - Enclosure: ported
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 85.2 dB
+- Output SPL at 31.5 Hz: 92.6 dB
+- Output SPL at 40 Hz: 98.3 dB
+- Output SPL at 50 Hz: 99.5 dB
+- Output SPL at 63 Hz: 104.3 dB
+- Output SPL at 80 Hz: 103.6 dB
 - Weight: 21.0lbs / 9.5kg
 - Reviews, Comparisons and Sound Samples
 - Links

@@ -8,14 +8,6 @@ share-description: "The JL Audio Fathom f110 ranks #130 out of 136 total Medium 
 The JL Audio Fathom f110 ranks [#130 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#130-jl-audio-fathom-f110-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #130 JL Audio Fathom f110
-- 100 Hz: 98.0 dB
-- 20 Hz: 94.0 dB
-- 25 Hz: 101.0 dB
-- 31.5 Hz: 103.0 dB
-- 40 Hz: 105.0 dB
-- 50 Hz: 104.0 dB
-- 63 Hz: 103.0 dB
-- 80 Hz: 101.0 dB
 - CEA-2010-A Average (40-80Hz): 103.2 dB
 - Country: United States
 - Dimensions: 15.64"H x 12.92"W x 17.27"D (397.3 x 328.2 x 438.7 mm)
@@ -23,6 +15,14 @@ The JL Audio Fathom f110 ranks [#130 out of 136 total Medium Powered Home Subwoo
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 98.0 dB
+- Output SPL at 20 Hz: 94.0 dB
+- Output SPL at 25 Hz: 101.0 dB
+- Output SPL at 31.5 Hz: 103.0 dB
+- Output SPL at 40 Hz: 105.0 dB
+- Output SPL at 50 Hz: 104.0 dB
+- Output SPL at 63 Hz: 103.0 dB
+- Output SPL at 80 Hz: 101.0 dB
 - Warranty: 3
 - Weight: 67.0lbs / 30.4kg
 - Reviews, Comparisons and Sound Samples

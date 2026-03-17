@@ -8,16 +8,7 @@ share-description: "The Monoprice 12in 150-Watt Powered ranks #68 out of 136 tot
 The Monoprice 12in 150-Watt Powered ranks [#68 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#68-monoprice-12in-150-watt-powered-140) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #68 Monoprice 12in 150-Watt Powered: $140
-- Negatives: Product # 9723
-- 100 Hz: 114.2 dB
-- 125 Hz: 113.3 dB
-- 20 Hz: 90.2 dB
-- 25 Hz: 89.8 dB
-- 31.5 Hz: 99.7 dB
-- 40 Hz: 105.1 dB
-- 50 Hz: 110.6 dB
-- 63 Hz: 115.7 dB
-- 80 Hz: 115.4 dB
+- Notes: Product # 9723
 - CEA-2010-A Average (40-80Hz): 111.7 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +16,15 @@ The Monoprice 12in 150-Watt Powered ranks [#68 out of 136 total Medium Powered H
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 114.2 dB
+- Output SPL at 125 Hz: 113.3 dB
+- Output SPL at 20 Hz: 90.2 dB
+- Output SPL at 25 Hz: 89.8 dB
+- Output SPL at 31.5 Hz: 99.7 dB
+- Output SPL at 40 Hz: 105.1 dB
+- Output SPL at 50 Hz: 110.6 dB
+- Output SPL at 63 Hz: 115.7 dB
+- Output SPL at 80 Hz: 115.4 dB
 - Weight: 53.77lbs / 24.4kg
 - Reviews, Comparisons and Sound Samples
 - Links

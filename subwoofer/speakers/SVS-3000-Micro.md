@@ -8,13 +8,6 @@ share-description: "The SVS 3000 Micro ranks #13 out of 42 total Small Powered H
 The SVS 3000 Micro ranks [#13 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#13-svs-3000-micro-900) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #13 SVS 3000 Micro: $900
-- 20 Hz: 84.6 dB
-- 25 Hz: 86.9 dB
-- 31.5 Hz: 92.3 dB
-- 40 Hz: 97.6 dB
-- 50 Hz: 104.7 dB
-- 63 Hz: 111.5 dB
-- 80 Hz: 116.1 dB
 - CEA-2010-A Average (40-80Hz): 107.5 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -22,6 +15,13 @@ The SVS 3000 Micro ranks [#13 out of 42 total Small Powered Home Subwoofers (Und
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 84.6 dB
+- Output SPL at 25 Hz: 86.9 dB
+- Output SPL at 31.5 Hz: 92.3 dB
+- Output SPL at 40 Hz: 97.6 dB
+- Output SPL at 50 Hz: 104.7 dB
+- Output SPL at 63 Hz: 111.5 dB
+- Output SPL at 80 Hz: 116.1 dB
 - Warranty: 5
 - Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples

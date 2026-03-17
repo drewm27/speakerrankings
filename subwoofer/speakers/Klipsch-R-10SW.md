@@ -8,12 +8,6 @@ share-description: "The Klipsch R-10SW ranks #15 out of 42 total Small Powered H
 The Klipsch R-10SW ranks [#15 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#15-klipsch-r-10sw-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #15 Klipsch R-10SW
-- 100 Hz: 107.0 dB
-- 125 Hz: 104.1 dB
-- 40 Hz: 103.0 dB
-- 50 Hz: 106.5 dB
-- 63 Hz: 109.0 dB
-- 80 Hz: 108.8 dB
 - CEA-2010-A Average (40-80Hz): 106.8 dB
 - Cabinet Color: black
 - Country: United States
@@ -22,6 +16,12 @@ The Klipsch R-10SW ranks [#15 out of 42 total Small Powered Home Subwoofers (Und
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 107.0 dB
+- Output SPL at 125 Hz: 104.1 dB
+- Output SPL at 40 Hz: 103.0 dB
+- Output SPL at 50 Hz: 106.5 dB
+- Output SPL at 63 Hz: 109.0 dB
+- Output SPL at 80 Hz: 108.8 dB
 - Warranty: 5/2
 - Weight: 25.5lbs / 11.6kg
 - Reviews, Comparisons and Sound Samples

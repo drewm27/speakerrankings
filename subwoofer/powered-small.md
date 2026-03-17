@@ -16,14 +16,7 @@ Last updated: March 17, 2026
 
 
 ## #1 Sigberg Audio INKOGNITO 12: $3,456.29
-- Negatives: low profile (<8in)
-- 20 Hz: 92.0 dB
-- 25 Hz: 98.0 dB
-- 31.5 Hz: 104.0 dB
-- 40 Hz: 112.5 dB
-- 50 Hz: 114.0 dB
-- 63 Hz: 115.0 dB
-- 80 Hz: 116.0 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 114.4 dB
 - Cabinet Color: black, white
 - Country: Norway
@@ -31,6 +24,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
+- Output SPL at 20 Hz: 92.0 dB
+- Output SPL at 25 Hz: 98.0 dB
+- Output SPL at 31.5 Hz: 104.0 dB
+- Output SPL at 40 Hz: 112.5 dB
+- Output SPL at 50 Hz: 114.0 dB
+- Output SPL at 63 Hz: 115.0 dB
+- Output SPL at 80 Hz: 116.0 dB
 - Weight: 9.97lbs / 4.5kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -39,15 +39,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Sigberg-Audio-INKOGNITO-12/)
 
 ## #2 SVS SB-1000 PRO: $600
-- 100 Hz: 113.3 dB
-- 125 Hz: 111.5 dB
-- 20 Hz: 91.0 dB
-- 25 Hz: 97.7 dB
-- 31.5 Hz: 104.2 dB
-- 40 Hz: 109.1 dB
-- 50 Hz: 114.5 dB
-- 63 Hz: 116.7 dB
-- 80 Hz: 115.2 dB
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -55,6 +46,15 @@ Last updated: March 17, 2026
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 113.3 dB
+- Output SPL at 125 Hz: 111.5 dB
+- Output SPL at 20 Hz: 91.0 dB
+- Output SPL at 25 Hz: 97.7 dB
+- Output SPL at 31.5 Hz: 104.2 dB
+- Output SPL at 40 Hz: 109.1 dB
+- Output SPL at 50 Hz: 114.5 dB
+- Output SPL at 63 Hz: 116.7 dB
+- Output SPL at 80 Hz: 115.2 dB
 - Warranty: 5
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples
@@ -64,13 +64,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-1000-PRO/)
 
 ## #3 Velodyne Acoustics SPL-1200 Series II
-- 20 Hz: 95.2 dB
-- 25 Hz: 100.1 dB
-- 31.5 Hz: 105.0 dB
-- 40 Hz: 109.7 dB
-- 50 Hz: 111.8 dB
-- 63 Hz: 112.0 dB
-- 80 Hz: 111.0 dB
 - CEA-2010-A Average (40-80Hz): 111.1 dB
 - Country: United States
 - Dimensions: 14.75"H x 14.25"W x 16.37"D (374.6 x 361.9 x 415.8 mm)
@@ -78,6 +71,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 95.2 dB
+- Output SPL at 25 Hz: 100.1 dB
+- Output SPL at 31.5 Hz: 105.0 dB
+- Output SPL at 40 Hz: 109.7 dB
+- Output SPL at 50 Hz: 111.8 dB
+- Output SPL at 63 Hz: 112.0 dB
+- Output SPL at 80 Hz: 111.0 dB
 - Weight: 21.0lbs / 9.5kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -85,13 +85,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-SPL-1200-Series-II/)
 
 ## #4 Polk Audio PSW10: $250
-- 100 Hz: 112.2 dB
-- 125 Hz: 110.7 dB
-- 31.5 Hz: 96.1 dB
-- 40 Hz: 104.7 dB
-- 50 Hz: 109.7 dB
-- 63 Hz: 113.8 dB
-- 80 Hz: 113.1 dB
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -99,6 +92,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 112.2 dB
+- Output SPL at 125 Hz: 110.7 dB
+- Output SPL at 31.5 Hz: 96.1 dB
+- Output SPL at 40 Hz: 104.7 dB
+- Output SPL at 50 Hz: 109.7 dB
+- Output SPL at 63 Hz: 113.8 dB
+- Output SPL at 80 Hz: 113.1 dB
 - Warranty: 5/3
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples
@@ -108,15 +108,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-PSW10/)
 
 ## #5 SVS SB-1000: $500
-- Negatives: Discontinued 2021-02-25 when SB-1000 PRO was released.
-- 15 Hz: 85.5 dB
-- 20 Hz: 89.5 dB
-- 25 Hz: 97.1 dB
-- 31.5 Hz: 101.4 dB
-- 40 Hz: 105.9 dB
-- 50 Hz: 112.1 dB
-- 63 Hz: 112.6 dB
-- 80 Hz: 110.5 dB
+- Notes: Discontinued 2021-02-25 when SB-1000 PRO was released.
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -124,6 +116,14 @@ Last updated: March 17, 2026
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 85.5 dB
+- Output SPL at 20 Hz: 89.5 dB
+- Output SPL at 25 Hz: 97.1 dB
+- Output SPL at 31.5 Hz: 101.4 dB
+- Output SPL at 40 Hz: 105.9 dB
+- Output SPL at 50 Hz: 112.1 dB
+- Output SPL at 63 Hz: 112.6 dB
+- Output SPL at 80 Hz: 110.5 dB
 - Warranty: 5
 - Weight: 27.0lbs / 12.2kg
 - Reviews, Comparisons and Sound Samples
@@ -133,11 +133,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-1000/)
 
 ## #6 GoldenEar ForceField 3: $650
-- 25 Hz: 91.9 dB
-- 31.5 Hz: 98.3 dB
-- 40 Hz: 108.4 dB
-- 50 Hz: 109.9 dB
-- 63 Hz: 112.4 dB
 - CEA-2010-A Average (40-80Hz): 110.2 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -145,6 +140,11 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 91.9 dB
+- Output SPL at 31.5 Hz: 98.3 dB
+- Output SPL at 40 Hz: 108.4 dB
+- Output SPL at 50 Hz: 109.9 dB
+- Output SPL at 63 Hz: 112.4 dB
 - Warranty: 5/3
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples
@@ -154,13 +154,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/GoldenEar-ForceField-3/)
 
 ## #7 Onkyo SKW-204
-- 20 Hz: 71.3 dB
-- 25 Hz: 84.1 dB
-- 31.5 Hz: 97.3 dB
-- 40 Hz: 102.7 dB
-- 50 Hz: 108.0 dB
-- 63 Hz: 113.6 dB
-- 80 Hz: 115.4 dB
 - CEA-2010-A Average (40-80Hz): 109.9 dB
 - Cabinet Color: black
 - Country: Japan
@@ -169,6 +162,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 71.3 dB
+- Output SPL at 25 Hz: 84.1 dB
+- Output SPL at 31.5 Hz: 97.3 dB
+- Output SPL at 40 Hz: 102.7 dB
+- Output SPL at 50 Hz: 108.0 dB
+- Output SPL at 63 Hz: 113.6 dB
+- Output SPL at 80 Hz: 115.4 dB
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -177,12 +177,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Onkyo-SKW-204/)
 
 ## #8 MartinLogan Dynamo 700w
-- 20 Hz: 86.3 dB
-- 25 Hz: 88.4 dB
-- 31.5 Hz: 94.6 dB
-- 40 Hz: 106.3 dB
-- 50 Hz: 110.3 dB
-- 63 Hz: 110.5 dB
 - CEA-2010-A Average (40-80Hz): 109.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 12.54"H x 11.69"W x 12.53"D (318.5 x 296.9 x 318.3 mm)
@@ -190,6 +184,12 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 86.3 dB
+- Output SPL at 25 Hz: 88.4 dB
+- Output SPL at 31.5 Hz: 94.6 dB
+- Output SPL at 40 Hz: 106.3 dB
+- Output SPL at 50 Hz: 110.3 dB
+- Output SPL at 63 Hz: 110.5 dB
 - Warranty: 3
 - Weight: 26.5lbs / 12.0kg
 - Reviews, Comparisons and Sound Samples
@@ -199,13 +199,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-700w/)
 
 ## #9 Definitive Technology SuperCube 2000
-- 20 Hz: 74.1 dB
-- 25 Hz: 88.7 dB
-- 31.5 Hz: 97.6 dB
-- 40 Hz: 103.4 dB
-- 50 Hz: 109.0 dB
-- 63 Hz: 110.3 dB
-- 80 Hz: 110.3 dB
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -214,6 +207,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 7.5 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 74.1 dB
+- Output SPL at 25 Hz: 88.7 dB
+- Output SPL at 31.5 Hz: 97.6 dB
+- Output SPL at 40 Hz: 103.4 dB
+- Output SPL at 50 Hz: 109.0 dB
+- Output SPL at 63 Hz: 110.3 dB
+- Output SPL at 80 Hz: 110.3 dB
 - Warranty: 5/3
 - Weight: 25.0lbs / 11.3kg
 - Reviews, Comparisons and Sound Samples
@@ -223,11 +223,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-SuperCube-2000/)
 
 ## #10 Klipsch HD Theater 600
-- 25 Hz: 87.1 dB
-- 31.5 Hz: 98.4 dB
-- 40 Hz: 104.9 dB
-- 50 Hz: 107.6 dB
-- 63 Hz: 112.1 dB
 - CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 13.9"H x 12.5"W x 12.5"D (353.1 x 317.5 x 317.5 mm)
@@ -235,6 +230,11 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 87.1 dB
+- Output SPL at 31.5 Hz: 98.4 dB
+- Output SPL at 40 Hz: 104.9 dB
+- Output SPL at 50 Hz: 107.6 dB
+- Output SPL at 63 Hz: 112.1 dB
 - Reviews, Comparisons and Sound Samples
 - Links
     - [Klipsch HD Theater 600 Website](https://www.klipsch.ca/products/high-definition-theater-600-home-theater-system)
@@ -242,13 +242,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-HD-Theater-600/)
 
 ## #11 ELAC SUB1010: $550
-- 100 Hz: 111.2 dB
-- 125 Hz: 109.5 dB
-- 31.5 Hz: 96.5 dB
-- 40 Hz: 102.7 dB
-- 50 Hz: 107.0 dB
-- 63 Hz: 110.8 dB
-- 80 Hz: 111.9 dB
 - CEA-2010-A Average (40-80Hz): 108.1 dB
 - Cabinet Color: black
 - Country: Germany
@@ -256,6 +249,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 111.2 dB
+- Output SPL at 125 Hz: 109.5 dB
+- Output SPL at 31.5 Hz: 96.5 dB
+- Output SPL at 40 Hz: 102.7 dB
+- Output SPL at 50 Hz: 107.0 dB
+- Output SPL at 63 Hz: 110.8 dB
+- Output SPL at 80 Hz: 111.9 dB
 - Warranty: 3/1
 - Weight: 21.8lbs / 9.9kg
 - Reviews, Comparisons and Sound Samples
@@ -265,13 +265,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-SUB1010/)
 
 ## #12 Bowers & Wilkins (B&W) PV1D
-- Negatives: "Sphere" shape
-- 20 Hz: 85.4 dB
-- 25 Hz: 88.6 dB
-- 31.5 Hz: 92.1 dB
-- 40 Hz: 105.1 dB
-- 50 Hz: 108.7 dB
-- 63 Hz: 110.3 dB
+- Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 108.0 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
 - Country: United Kingdom
@@ -280,6 +274,12 @@ Last updated: March 17, 2026
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 85.4 dB
+- Output SPL at 25 Hz: 88.6 dB
+- Output SPL at 31.5 Hz: 92.1 dB
+- Output SPL at 40 Hz: 105.1 dB
+- Output SPL at 50 Hz: 108.7 dB
+- Output SPL at 63 Hz: 110.3 dB
 - Warranty: 2
 - Weight: 8.48lbs / 3.8kg
 - Reviews, Comparisons and Sound Samples
@@ -289,13 +289,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Bowers--Wilkins-BW-PV1D/)
 
 ## #13 SVS 3000 Micro: $900
-- 20 Hz: 84.6 dB
-- 25 Hz: 86.9 dB
-- 31.5 Hz: 92.3 dB
-- 40 Hz: 97.6 dB
-- 50 Hz: 104.7 dB
-- 63 Hz: 111.5 dB
-- 80 Hz: 116.1 dB
 - CEA-2010-A Average (40-80Hz): 107.5 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -303,6 +296,13 @@ Last updated: March 17, 2026
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 84.6 dB
+- Output SPL at 25 Hz: 86.9 dB
+- Output SPL at 31.5 Hz: 92.3 dB
+- Output SPL at 40 Hz: 97.6 dB
+- Output SPL at 50 Hz: 104.7 dB
+- Output SPL at 63 Hz: 111.5 dB
+- Output SPL at 80 Hz: 116.1 dB
 - Warranty: 5
 - Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples
@@ -312,13 +312,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-3000-Micro/)
 
 ## #14 Monitor Audio BRW10
-- 20 Hz: 70.1 dB
-- 25 Hz: 88.1 dB
-- 31.5 Hz: 93.1 dB
-- 40 Hz: 100.4 dB
-- 50 Hz: 104.7 dB
-- 63 Hz: 110.5 dB
-- 80 Hz: 112.3 dB
 - CEA-2010-A Average (40-80Hz): 107.0 dB
 - Cabinet Color: wood
 - Country: United Kingdom
@@ -327,6 +320,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 70.1 dB
+- Output SPL at 25 Hz: 88.1 dB
+- Output SPL at 31.5 Hz: 93.1 dB
+- Output SPL at 40 Hz: 100.4 dB
+- Output SPL at 50 Hz: 104.7 dB
+- Output SPL at 63 Hz: 110.5 dB
+- Output SPL at 80 Hz: 112.3 dB
 - Weight: 27.5lbs / 12.5kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -335,12 +335,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Monitor-Audio-BRW10/)
 
 ## #15 Klipsch R-10SW
-- 100 Hz: 107.0 dB
-- 125 Hz: 104.1 dB
-- 40 Hz: 103.0 dB
-- 50 Hz: 106.5 dB
-- 63 Hz: 109.0 dB
-- 80 Hz: 108.8 dB
 - CEA-2010-A Average (40-80Hz): 106.8 dB
 - Cabinet Color: black
 - Country: United States
@@ -349,6 +343,12 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 107.0 dB
+- Output SPL at 125 Hz: 104.1 dB
+- Output SPL at 40 Hz: 103.0 dB
+- Output SPL at 50 Hz: 106.5 dB
+- Output SPL at 63 Hz: 109.0 dB
+- Output SPL at 80 Hz: 108.8 dB
 - Warranty: 5/2
 - Weight: 25.5lbs / 11.6kg
 - Reviews, Comparisons and Sound Samples
@@ -358,13 +358,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-10SW/)
 
 ## #16 Sony SA-CS9: $200
-- 20 Hz: 77.7 dB
-- 25 Hz: 89.1 dB
-- 31.5 Hz: 92.8 dB
-- 40 Hz: 98.3 dB
-- 50 Hz: 106.4 dB
-- 63 Hz: 111.2 dB
-- 80 Hz: 110.9 dB
 - CEA-2010-A Average (40-80Hz): 106.7 dB
 - Cabinet Color: black
 - Country: Japan
@@ -372,6 +365,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 77.7 dB
+- Output SPL at 25 Hz: 89.1 dB
+- Output SPL at 31.5 Hz: 92.8 dB
+- Output SPL at 40 Hz: 98.3 dB
+- Output SPL at 50 Hz: 106.4 dB
+- Output SPL at 63 Hz: 111.2 dB
+- Output SPL at 80 Hz: 110.9 dB
 - Warranty: 1?
 - Weight: 25.35lbs / 11.5kg
 - Reviews, Comparisons and Sound Samples
@@ -381,14 +381,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Sony-SA-CS9/)
 
 ## #17 Monoprice Premium Select 8in 200-Watt: $130
-- Negatives: Product # 14567
-- 20 Hz: 51.3 dB
-- 25 Hz: 69.3 dB
-- 31.5 Hz: 91.8 dB
-- 40 Hz: 98.3 dB
-- 50 Hz: 104.8 dB
-- 63 Hz: 110.7 dB
-- 80 Hz: 111.8 dB
+- Notes: Product # 14567
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -396,6 +389,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 51.3 dB
+- Output SPL at 25 Hz: 69.3 dB
+- Output SPL at 31.5 Hz: 91.8 dB
+- Output SPL at 40 Hz: 98.3 dB
+- Output SPL at 50 Hz: 104.8 dB
+- Output SPL at 63 Hz: 110.7 dB
+- Output SPL at 80 Hz: 111.8 dB
 - Weight: 18.5lbs / 8.4kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -404,13 +404,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Premium-Select-8in-200-Watt/)
 
 ## #18 Pioneer SW-8MK2
-- 20 Hz: 63.4 dB
-- 25 Hz: 81.4 dB
-- 31.5 Hz: 96.8 dB
-- 40 Hz: 101.0 dB
-- 50 Hz: 107.8 dB
-- 63 Hz: 108.2 dB
-- 80 Hz: 108.6 dB
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black
 - Country: Japan
@@ -419,6 +412,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 63.4 dB
+- Output SPL at 25 Hz: 81.4 dB
+- Output SPL at 31.5 Hz: 96.8 dB
+- Output SPL at 40 Hz: 101.0 dB
+- Output SPL at 50 Hz: 107.8 dB
+- Output SPL at 63 Hz: 108.2 dB
+- Output SPL at 80 Hz: 108.6 dB
 - Warranty: 1?
 - Weight: 20.0lbs / 9.1kg
 - Reviews, Comparisons and Sound Samples
@@ -428,13 +428,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Pioneer-SW-8MK2/)
 
 ## #19 Polk Audio PSW 111: $350
-- 20 Hz: 66.6 dB
-- 25 Hz: 70.1 dB
-- 31.5 Hz: 85.9 dB
-- 40 Hz: 100.5 dB
-- 50 Hz: 105.0 dB
-- 63 Hz: 109.1 dB
-- 80 Hz: 110.0 dB
 - CEA-2010-A Average (40-80Hz): 106.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -442,6 +435,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 66.6 dB
+- Output SPL at 25 Hz: 70.1 dB
+- Output SPL at 31.5 Hz: 85.9 dB
+- Output SPL at 40 Hz: 100.5 dB
+- Output SPL at 50 Hz: 105.0 dB
+- Output SPL at 63 Hz: 109.1 dB
+- Output SPL at 80 Hz: 110.0 dB
 - Warranty: 5/3
 - Weight: 20.3lbs / 9.2kg
 - Reviews, Comparisons and Sound Samples
@@ -451,15 +451,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-PSW-111/)
 
 ## #20 Kef T2: $800
-- Negatives: low profile (<8in)
-- 15 Hz: 78.3 dB
-- 20 Hz: 84.6 dB
-- 25 Hz: 89.8 dB
-- 31.5 Hz: 96.2 dB
-- 40 Hz: 100.1 dB
-- 50 Hz: 104.4 dB
-- 63 Hz: 108.1 dB
-- 80 Hz: 110.3 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 105.7 dB
 - Cabinet Color: black, white
 - Country: United Kingdom
@@ -467,6 +459,14 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 15 Hz: 78.3 dB
+- Output SPL at 20 Hz: 84.6 dB
+- Output SPL at 25 Hz: 89.8 dB
+- Output SPL at 31.5 Hz: 96.2 dB
+- Output SPL at 40 Hz: 100.1 dB
+- Output SPL at 50 Hz: 104.4 dB
+- Output SPL at 63 Hz: 108.1 dB
+- Output SPL at 80 Hz: 110.3 dB
 - Warranty: 5/2/5
 - Weight: 5.89lbs / 2.7kg
 - Reviews, Comparisons and Sound Samples
@@ -476,13 +476,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-T2/)
 
 ## #21 Revel B8: $500
-- 20 Hz: 48.7 dB
-- 25 Hz: 66.7 dB
-- 31.5 Hz: 90.8 dB
-- 40 Hz: 99.3 dB
-- 50 Hz: 103.6 dB
-- 63 Hz: 109.1 dB
-- 80 Hz: 110.2 dB
 - CEA-2010-A Average (40-80Hz): 105.5 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -490,6 +483,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 48.7 dB
+- Output SPL at 25 Hz: 66.7 dB
+- Output SPL at 31.5 Hz: 90.8 dB
+- Output SPL at 40 Hz: 99.3 dB
+- Output SPL at 50 Hz: 103.6 dB
+- Output SPL at 63 Hz: 109.1 dB
+- Output SPL at 80 Hz: 110.2 dB
 - Warranty: 5
 - Weight: 19.8lbs / 9.0kg
 - Reviews, Comparisons and Sound Samples
@@ -499,14 +499,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Revel-B8/)
 
 ## #22 OSD (Optimal Speaker Design) SS8
-- Negatives: low profile (<8in)
-- 20 Hz: 70.7 dB
-- 25 Hz: 80.6 dB
-- 31.5 Hz: 84.3 dB
-- 40 Hz: 97.6 dB
-- 50 Hz: 103.2 dB
-- 63 Hz: 109.6 dB
-- 80 Hz: 109.7 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 105.0 dB
 - Country: United States
 - Dimensions: 15.75"H x 21.25"W x 5.5"D (400.0 x 539.8 x 139.7 mm)
@@ -514,6 +507,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 70.7 dB
+- Output SPL at 25 Hz: 80.6 dB
+- Output SPL at 31.5 Hz: 84.3 dB
+- Output SPL at 40 Hz: 97.6 dB
+- Output SPL at 50 Hz: 103.2 dB
+- Output SPL at 63 Hz: 109.6 dB
+- Output SPL at 80 Hz: 109.7 dB
 - Warranty: 2?
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -521,12 +521,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-SS8/)
 
 ## #23 Yamaha NS-SW100: $200
-- 100 Hz: 109.7 dB
-- 125 Hz: 107.8 dB
-- 40 Hz: 97.4 dB
-- 50 Hz: 103.2 dB
-- 63 Hz: 108.6 dB
-- 80 Hz: 110.7 dB
 - CEA-2010-A Average (40-80Hz): 105.0 dB
 - Cabinet Color: black
 - Country: Japan
@@ -534,6 +528,12 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, side
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 109.7 dB
+- Output SPL at 125 Hz: 107.8 dB
+- Output SPL at 40 Hz: 97.4 dB
+- Output SPL at 50 Hz: 103.2 dB
+- Output SPL at 63 Hz: 108.6 dB
+- Output SPL at 80 Hz: 110.7 dB
 - Warranty: 2
 - Weight: 26.5lbs / 12.0kg
 - Reviews, Comparisons and Sound Samples
@@ -543,12 +543,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-NS-SW100/)
 
 ## #24 Yamaha HS8S: $775
-- 100 Hz: 105.7 dB
-- 31.5 Hz: 90.8 dB
-- 40 Hz: 100.7 dB
-- 50 Hz: 104.9 dB
-- 63 Hz: 106.3 dB
-- 80 Hz: 107.2 dB
 - CEA-2010-A Average (40-80Hz): 104.8 dB
 - Cabinet Color: black
 - Country: Japan
@@ -556,6 +550,12 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 105.7 dB
+- Output SPL at 31.5 Hz: 90.8 dB
+- Output SPL at 40 Hz: 100.7 dB
+- Output SPL at 50 Hz: 104.9 dB
+- Output SPL at 63 Hz: 106.3 dB
+- Output SPL at 80 Hz: 107.2 dB
 - Warranty: 2
 - Weight: 22.5lbs / 10.2kg
 - Reviews, Comparisons and Sound Samples
@@ -565,14 +565,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-HS8S/)
 
 ## #25 Dayton Audio SUB-1000L: $150
-- Negatives: low profile (<8in)
-- 20 Hz: 83.9 dB
-- 25 Hz: 90.8 dB
-- 31.5 Hz: 94.9 dB
-- 40 Hz: 98.9 dB
-- 50 Hz: 102.3 dB
-- 63 Hz: 105.9 dB
-- 80 Hz: 108.7 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 104.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -580,6 +573,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 83.9 dB
+- Output SPL at 25 Hz: 90.8 dB
+- Output SPL at 31.5 Hz: 94.9 dB
+- Output SPL at 40 Hz: 98.9 dB
+- Output SPL at 50 Hz: 102.3 dB
+- Output SPL at 63 Hz: 105.9 dB
+- Output SPL at 80 Hz: 108.7 dB
 - Warranty: 5
 - Weight: 28.5lbs / 12.9kg
 - Reviews, Comparisons and Sound Samples
@@ -589,13 +589,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1000L/)
 
 ## #26 Yamaha YST-SW215
-- 20 Hz: 68.5 dB
-- 25 Hz: 79.7 dB
-- 31.5 Hz: 86.6 dB
-- 40 Hz: 93.7 dB
-- 50 Hz: 100.8 dB
-- 63 Hz: 107.5 dB
-- 80 Hz: 112.5 dB
 - CEA-2010-A Average (40-80Hz): 103.6 dB
 - Country: Japan
 - Dimensions: 14.18"H x 11.43"W x 12.68"D (360.2 x 290.3 x 322.1 mm)
@@ -603,6 +596,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 68.5 dB
+- Output SPL at 25 Hz: 79.7 dB
+- Output SPL at 31.5 Hz: 86.6 dB
+- Output SPL at 40 Hz: 93.7 dB
+- Output SPL at 50 Hz: 100.8 dB
+- Output SPL at 63 Hz: 107.5 dB
+- Output SPL at 80 Hz: 112.5 dB
 - Warranty: 2
 - Weight: 25.3lbs / 11.5kg
 - Reviews, Comparisons and Sound Samples
@@ -612,12 +612,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-YST-SW215/)
 
 ## #27 Focal Sub Air: $1,290
-- Negatives: low profile (<8in)
-- 31.5 Hz: 85.4 dB
-- 40 Hz: 94.0 dB
-- 50 Hz: 102.2 dB
-- 63 Hz: 107.6 dB
-- 80 Hz: 108.3 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 103.0 dB
 - Cabinet Color: black
 - Country: France
@@ -625,6 +620,11 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 31.5 Hz: 85.4 dB
+- Output SPL at 40 Hz: 94.0 dB
+- Output SPL at 50 Hz: 102.2 dB
+- Output SPL at 63 Hz: 107.6 dB
+- Output SPL at 80 Hz: 108.3 dB
 - Warranty: 1(or3)
 - Weight: 17.0lbs / 7.7kg
 - Reviews, Comparisons and Sound Samples
@@ -634,15 +634,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Focal-Sub-Air/)
 
 ## #28 JL Audio Dominion d108: $1,100
-- Negatives: Ash colour.
-- 100 Hz: 103.9 dB
-- 20 Hz: 79.7 dB
-- 25 Hz: 85.8 dB
-- 31.5 Hz: 91.5 dB
-- 40 Hz: 98.4 dB
-- 50 Hz: 102.9 dB
-- 63 Hz: 105.6 dB
-- 80 Hz: 105.0 dB
+- Notes: Ash colour.
 - CEA-2010-A Average (40-80Hz): 103.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -650,6 +642,14 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 103.9 dB
+- Output SPL at 20 Hz: 79.7 dB
+- Output SPL at 25 Hz: 85.8 dB
+- Output SPL at 31.5 Hz: 91.5 dB
+- Output SPL at 40 Hz: 98.4 dB
+- Output SPL at 50 Hz: 102.9 dB
+- Output SPL at 63 Hz: 105.6 dB
+- Output SPL at 80 Hz: 105.0 dB
 - Warranty: 3
 - Weight: 26.4lbs / 12.0kg
 - Reviews, Comparisons and Sound Samples
@@ -659,10 +659,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-Dominion-d108/)
 
 ## #29 Jamo SUB 800
-- 31.5 Hz: 84.1 dB
-- 40 Hz: 95.1 dB
-- 50 Hz: 103.2 dB
-- 63 Hz: 108.4 dB
 - CEA-2010-A Average (40-80Hz): 102.2 dB (avg of 3/4 bands)
 - Country: Denmark
 - Dimensions: 8.0"H x 8.0"W x 8.0"D (203.2 x 203.2 x 203.2 mm)
@@ -670,6 +666,10 @@ Last updated: March 17, 2026
 - Driver(s): (1) 6.5 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
+- Output SPL at 31.5 Hz: 84.1 dB
+- Output SPL at 40 Hz: 95.1 dB
+- Output SPL at 50 Hz: 103.2 dB
+- Output SPL at 63 Hz: 108.4 dB
 - Weight: 2.08lbs / 0.9kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -678,14 +678,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Jamo-SUB-800/)
 
 ## #30 Gallo Acoustics TR-1
-- Negatives: "Sphere" shape
-- 20 Hz: 86.4 dB
-- 25 Hz: 90.6 dB
-- 31.5 Hz: 93.9 dB
-- 40 Hz: 97.4 dB
-- 50 Hz: 100.9 dB
-- 63 Hz: 104.1 dB
-- 80 Hz: 106.0 dB
+- Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 102.1 dB
 - Cabinet Color: black
 - Country: Scotland
@@ -694,6 +687,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 86.4 dB
+- Output SPL at 25 Hz: 90.6 dB
+- Output SPL at 31.5 Hz: 93.9 dB
+- Output SPL at 40 Hz: 97.4 dB
+- Output SPL at 50 Hz: 100.9 dB
+- Output SPL at 63 Hz: 104.1 dB
+- Output SPL at 80 Hz: 106.0 dB
 - Warranty: 1
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples
@@ -702,10 +702,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Gallo-Acoustics-TR-1/)
 
 ## #31 Wharfedale DX-1
-- 31.5 Hz: 82.9 dB
-- 40 Hz: 97.7 dB
-- 50 Hz: 104.1 dB
-- 63 Hz: 103.8 dB
 - CEA-2010-A Average (40-80Hz): 101.9 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 13.4"H x 11.4"W x 12.8"D (340.4 x 289.6 x 325.1 mm)
@@ -713,6 +709,10 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
+- Output SPL at 31.5 Hz: 82.9 dB
+- Output SPL at 40 Hz: 97.7 dB
+- Output SPL at 50 Hz: 104.1 dB
+- Output SPL at 63 Hz: 103.8 dB
 - Weight: 18.96lbs / 8.6kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -720,13 +720,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Wharfedale-DX-1/)
 
 ## #32 Yamaha YST-SW012
-- 20 Hz: 56.0 dB
-- 25 Hz: 74.0 dB
-- 31.5 Hz: 85.5 dB
-- 40 Hz: 92.7 dB
-- 50 Hz: 99.5 dB
-- 63 Hz: 103.9 dB
-- 80 Hz: 110.2 dB
 - CEA-2010-A Average (40-80Hz): 101.6 dB
 - Country: Japan
 - Dimensions: 11.37"H x 11.37"W x 12.87"D (288.8 x 288.8 x 326.9 mm)
@@ -734,6 +727,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 56.0 dB
+- Output SPL at 25 Hz: 74.0 dB
+- Output SPL at 31.5 Hz: 85.5 dB
+- Output SPL at 40 Hz: 92.7 dB
+- Output SPL at 50 Hz: 99.5 dB
+- Output SPL at 63 Hz: 103.9 dB
+- Output SPL at 80 Hz: 110.2 dB
 - Warranty: 2
 - Weight: 18.74lbs / 8.5kg
 - Reviews, Comparisons and Sound Samples
@@ -743,13 +743,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-YST-SW012/)
 
 ## #33 Q Acoustics 3060S: $332.45
-- Negatives: low profile (<8in)
-- 25 Hz: 82.7 dB
-- 31.5 Hz: 89.3 dB
-- 40 Hz: 93.3 dB
-- 50 Hz: 99.6 dB
-- 63 Hz: 104.8 dB
-- 80 Hz: 108.3 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 101.5 dB
 - Cabinet Color: black, white, wood, grey
 - Country: United Kingdom
@@ -757,6 +751,12 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 82.7 dB
+- Output SPL at 31.5 Hz: 89.3 dB
+- Output SPL at 40 Hz: 93.3 dB
+- Output SPL at 50 Hz: 99.6 dB
+- Output SPL at 63 Hz: 104.8 dB
+- Output SPL at 80 Hz: 108.3 dB
 - Warranty: 2
 - Weight: 18.7lbs / 8.5kg
 - Reviews, Comparisons and Sound Samples
@@ -766,12 +766,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Q-Acoustics-3060S/)
 
 ## #34 Andover Audio SpinSub: $350
-- 25 Hz: 85.2 dB
-- 31.5 Hz: 92.6 dB
-- 40 Hz: 98.3 dB
-- 50 Hz: 99.5 dB
-- 63 Hz: 104.3 dB
-- 80 Hz: 103.6 dB
 - CEA-2010-A Average (40-80Hz): 101.4 dB
 - Cabinet Color: black, grey
 - Country: United States
@@ -779,6 +773,12 @@ Last updated: March 17, 2026
 - Driver(s): (2) 6.5 inch
 - Enclosure: ported
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 85.2 dB
+- Output SPL at 31.5 Hz: 92.6 dB
+- Output SPL at 40 Hz: 98.3 dB
+- Output SPL at 50 Hz: 99.5 dB
+- Output SPL at 63 Hz: 104.3 dB
+- Output SPL at 80 Hz: 103.6 dB
 - Weight: 21.0lbs / 9.5kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -787,13 +787,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Andover-Audio-SpinSub/)
 
 ## #35 Sonos Sub Mini: $430
-- 20 Hz: 76.4 dB
-- 25 Hz: 83.1 dB
-- 31.5 Hz: 91.9 dB
-- 40 Hz: 97.2 dB
-- 50 Hz: 98.1 dB
-- 63 Hz: 102.8 dB
-- 80 Hz: 103.5 dB
 - CEA-2010-A Average (40-80Hz): 100.4 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -801,6 +794,13 @@ Last updated: March 17, 2026
 - Driver(s): (2) 6 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 76.4 dB
+- Output SPL at 25 Hz: 83.1 dB
+- Output SPL at 31.5 Hz: 91.9 dB
+- Output SPL at 40 Hz: 97.2 dB
+- Output SPL at 50 Hz: 98.1 dB
+- Output SPL at 63 Hz: 102.8 dB
+- Output SPL at 80 Hz: 103.5 dB
 - Warranty: 1
 - Weight: 14.0lbs / 6.4kg
 - Reviews, Comparisons and Sound Samples
@@ -810,13 +810,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Sonos-Sub-Mini/)
 
 ## #36 Savant NANO-1: $1,196.82
-- Negatives: Previouly known as 'Artison'
-- 20 Hz: 69.0 dB
-- 25 Hz: 76.8 dB
-- 31.5 Hz: 86.1 dB
-- 40 Hz: 91.6 dB
-- 50 Hz: 99.6 dB
-- 63 Hz: 109.6 dB
+- Notes: Previouly known as 'Artison'
 - CEA-2010-A Average (40-80Hz): 100.3 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
 - Country: United States
@@ -824,6 +818,12 @@ Last updated: March 17, 2026
 - Driver(s): (2) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 69.0 dB
+- Output SPL at 25 Hz: 76.8 dB
+- Output SPL at 31.5 Hz: 86.1 dB
+- Output SPL at 40 Hz: 91.6 dB
+- Output SPL at 50 Hz: 99.6 dB
+- Output SPL at 63 Hz: 109.6 dB
 - Warranty: 2
 - Weight: 14.4lbs / 6.5kg
 - Reviews, Comparisons and Sound Samples
@@ -833,15 +833,7 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Savant-NANO-1/)
 
 ## #37 Monoprice Monolith 8 THX Certified: $350
-- Negatives: Product # 41289
-- 100 Hz: 101.9 dB
-- 20 Hz: 72.9 dB
-- 25 Hz: 86.1 dB
-- 31.5 Hz: 93.2 dB
-- 40 Hz: 96.9 dB
-- 50 Hz: 99.3 dB
-- 63 Hz: 100.7 dB
-- 80 Hz: 101.6 dB
+- Notes: Product # 41289
 - CEA-2010-A Average (40-80Hz): 99.6 dB
 - Cabinet Color: black
 - Country: United States
@@ -849,6 +841,14 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: ported
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 101.9 dB
+- Output SPL at 20 Hz: 72.9 dB
+- Output SPL at 25 Hz: 86.1 dB
+- Output SPL at 31.5 Hz: 93.2 dB
+- Output SPL at 40 Hz: 96.9 dB
+- Output SPL at 50 Hz: 99.3 dB
+- Output SPL at 63 Hz: 100.7 dB
+- Output SPL at 80 Hz: 101.6 dB
 - Weight: 19.8lbs / 9.0kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -857,18 +857,18 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-8-THX-Certified/)
 
 ## #38 Paradigm Millenia CT
-- Negatives: low profile (<8in)
-- 25 Hz: 67.8 dB
-- 31.5 Hz: 80.0 dB
-- 40 Hz: 90.4 dB
-- 50 Hz: 100.0 dB
-- 63 Hz: 106.7 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 99.0 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 15.75"H x 5.0"W x 14.0"D (400.0 x 127.0 x 355.6 mm)
 - Discontinued: Yes
 - Driver(s): (1) 8 inch
 - Measurement Source: Brent Butterworth
+- Output SPL at 25 Hz: 67.8 dB
+- Output SPL at 31.5 Hz: 80.0 dB
+- Output SPL at 40 Hz: 90.4 dB
+- Output SPL at 50 Hz: 100.0 dB
+- Output SPL at 63 Hz: 106.7 dB
 - Warranty: 3
 - Weight: 5.0lbs / 2.3kg
 - Reviews, Comparisons and Sound Samples
@@ -878,14 +878,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Millenia-CT/)
 
 ## #39 Axiom Audio EP400 v3
-- 100 Hz: 98.0 dB
-- 20 Hz: 90.0 dB
-- 25 Hz: 94.0 dB
-- 31.5 Hz: 97.0 dB
-- 40 Hz: 99.0 dB
-- 50 Hz: 99.0 dB
-- 63 Hz: 98.0 dB
-- 80 Hz: 98.0 dB
 - CEA-2010-A Average (40-80Hz): 98.5 dB
 - Country: Canada
 - Dimensions: 13.75"H x 10.5"W x 16.8"D (349.2 x 266.7 x 426.7 mm)
@@ -893,6 +885,14 @@ Last updated: March 17, 2026
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 98.0 dB
+- Output SPL at 20 Hz: 90.0 dB
+- Output SPL at 25 Hz: 94.0 dB
+- Output SPL at 31.5 Hz: 97.0 dB
+- Output SPL at 40 Hz: 99.0 dB
+- Output SPL at 50 Hz: 99.0 dB
+- Output SPL at 63 Hz: 98.0 dB
+- Output SPL at 80 Hz: 98.0 dB
 - Warranty: 5
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -900,13 +900,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Axiom-Audio-EP400-v3/)
 
 ## #40 Roku Subwoofer 9201X
-- 20 Hz: 77.9 dB
-- 25 Hz: 79.3 dB
-- 31.5 Hz: 85.1 dB
-- 40 Hz: 92.0 dB
-- 50 Hz: 95.6 dB
-- 63 Hz: 95.1 dB
-- 80 Hz: 93.2 dB
 - CEA-2010-A Average (40-80Hz): 94.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -915,6 +908,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 77.9 dB
+- Output SPL at 25 Hz: 79.3 dB
+- Output SPL at 31.5 Hz: 85.1 dB
+- Output SPL at 40 Hz: 92.0 dB
+- Output SPL at 50 Hz: 95.6 dB
+- Output SPL at 63 Hz: 95.1 dB
+- Output SPL at 80 Hz: 93.2 dB
 - Weight: 17.15lbs / 7.8kg
 - Reviews, Comparisons and Sound Samples
 - Links
@@ -923,12 +923,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/Roku-Subwoofer-9201X/)
 
 ## #41 PSB Speakers SubSeries 100
-- 20 Hz: 72.1 dB
-- 25 Hz: 75.4 dB
-- 31.5 Hz: 81.6 dB
-- 40 Hz: 88.1 dB
-- 50 Hz: 93.3 dB
-- 63 Hz: 98.3 dB
 - CEA-2010-A Average (40-80Hz): 93.2 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 6.37"H x 6.37"W x 7.87"D (161.8 x 161.8 x 199.9 mm)
@@ -936,6 +930,12 @@ Last updated: March 17, 2026
 - Driver(s): (1) 5.25 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 72.1 dB
+- Output SPL at 25 Hz: 75.4 dB
+- Output SPL at 31.5 Hz: 81.6 dB
+- Output SPL at 40 Hz: 88.1 dB
+- Output SPL at 50 Hz: 93.3 dB
+- Output SPL at 63 Hz: 98.3 dB
 - Warranty: 5
 - Weight: 6.05lbs / 2.7kg
 - Reviews, Comparisons and Sound Samples
@@ -945,13 +945,6 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-100/)
 
 ## #42 REL Acoustics Tzero MKIII: $598.41
-- 100 Hz: 90.8 dB
-- 25 Hz: 70.4 dB
-- 31.5 Hz: 76.6 dB
-- 40 Hz: 83.7 dB
-- 50 Hz: 89.7 dB
-- 63 Hz: 91.5 dB
-- 80 Hz: 92.1 dB
 - CEA-2010-A Average (40-80Hz): 89.2 dB
 - Cabinet Color: black, white
 - Country: United Kingdom
@@ -959,6 +952,13 @@ Last updated: March 17, 2026
 - Driver(s): (1) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 90.8 dB
+- Output SPL at 25 Hz: 70.4 dB
+- Output SPL at 31.5 Hz: 76.6 dB
+- Output SPL at 40 Hz: 83.7 dB
+- Output SPL at 50 Hz: 89.7 dB
+- Output SPL at 63 Hz: 91.5 dB
+- Output SPL at 80 Hz: 92.1 dB
 - Warranty: 3
 - Weight: 15.0lbs / 6.8kg
 - Reviews, Comparisons and Sound Samples

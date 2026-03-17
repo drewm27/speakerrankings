@@ -8,17 +8,6 @@ share-description: "The JL Audio E112 ranks #16 out of 136 total Medium Powered 
 The JL Audio E112 ranks [#16 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#16-jl-audio-e112-2500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #16 JL Audio E112: $2,500
-- 100 Hz: 115.5 dB
-- 12.5 Hz: 90.7 dB
-- 125 Hz: 114.5 dB
-- 15 Hz: 95.6 dB
-- 20 Hz: 100.5 dB
-- 25 Hz: 106.2 dB
-- 31.5 Hz: 111.6 dB
-- 40 Hz: 115.4 dB
-- 50 Hz: 117.7 dB
-- 63 Hz: 118.0 dB
-- 80 Hz: 116.7 dB
 - CEA-2010-A Average (40-80Hz): 117.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -26,6 +15,17 @@ The JL Audio E112 ranks [#16 out of 136 total Medium Powered Home Subwoofers (30
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 115.5 dB
+- Output SPL at 12.5 Hz: 90.7 dB
+- Output SPL at 125 Hz: 114.5 dB
+- Output SPL at 15 Hz: 95.6 dB
+- Output SPL at 20 Hz: 100.5 dB
+- Output SPL at 25 Hz: 106.2 dB
+- Output SPL at 31.5 Hz: 111.6 dB
+- Output SPL at 40 Hz: 115.4 dB
+- Output SPL at 50 Hz: 117.7 dB
+- Output SPL at 63 Hz: 118.0 dB
+- Output SPL at 80 Hz: 116.7 dB
 - Warranty: 3
 - Weight: 73.5lbs / 33.3kg
 - Reviews, Comparisons and Sound Samples

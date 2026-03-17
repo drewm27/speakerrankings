@@ -8,15 +8,7 @@ share-description: "The Monoprice SW-15 ranks #8 out of 136 total Medium Powered
 The Monoprice SW-15 ranks [#8 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#8-monoprice-sw-15-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 Monoprice SW-15: $300
-- Negatives: Product # 41499
-- 15 Hz: 90.0 dB
-- 20 Hz: 101.2 dB
-- 25 Hz: 106.3 dB
-- 31.5 Hz: 111.2 dB
-- 40 Hz: 116.0 dB
-- 50 Hz: 120.2 dB
-- 63 Hz: 120.5 dB
-- 80 Hz: 119.5 dB
+- Notes: Product # 41499
 - CEA-2010-A Average (40-80Hz): 119.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +16,14 @@ The Monoprice SW-15 ranks [#8 out of 136 total Medium Powered Home Subwoofers (3
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 15 Hz: 90.0 dB
+- Output SPL at 20 Hz: 101.2 dB
+- Output SPL at 25 Hz: 106.3 dB
+- Output SPL at 31.5 Hz: 111.2 dB
+- Output SPL at 40 Hz: 116.0 dB
+- Output SPL at 50 Hz: 120.2 dB
+- Output SPL at 63 Hz: 120.5 dB
+- Output SPL at 80 Hz: 119.5 dB
 - Warranty: 1
 - Weight: 66.1lbs / 30.0kg
 - Reviews, Comparisons and Sound Samples

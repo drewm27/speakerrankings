@@ -8,14 +8,6 @@ share-description: "The BK Electronics Monolith-DF ranks #92 out of 95 total Lar
 The BK Electronics Monolith-DF ranks [#92 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#92-bk-electronics-monolith-df-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #92 BK Electronics Monolith-DF
-- 15 Hz: 91.3 dB
-- 20 Hz: 102.0 dB
-- 25 Hz: 106.4 dB
-- 31.5 Hz: 108.3 dB
-- 40 Hz: 108.6 dB
-- 50 Hz: 108.7 dB
-- 63 Hz: 108.6 dB
-- 80 Hz: 107.7 dB
 - CEA-2010-A Average (40-80Hz): 108.4 dB
 - Cabinet Color: black, wood
 - Country: United Kingdom
@@ -24,6 +16,14 @@ The BK Electronics Monolith-DF ranks [#92 out of 95 total Large Powered Home Sub
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 15 Hz: 91.3 dB
+- Output SPL at 20 Hz: 102.0 dB
+- Output SPL at 25 Hz: 106.4 dB
+- Output SPL at 31.5 Hz: 108.3 dB
+- Output SPL at 40 Hz: 108.6 dB
+- Output SPL at 50 Hz: 108.7 dB
+- Output SPL at 63 Hz: 108.6 dB
+- Output SPL at 80 Hz: 107.7 dB
 - Warranty: 2
 - Weight: 103.17lbs / 46.8kg
 - Reviews, Comparisons and Sound Samples

@@ -8,15 +8,6 @@ share-description: "The BIC America PL-300 ranks #46 out of 136 total Medium Pow
 The BIC America PL-300 ranks [#46 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#46-bic-america-pl-300-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #46 BIC America PL-300: $450
-- 100 Hz: 108.8 dB
-- 125 Hz: 106.8 dB
-- 20 Hz: 96.6 dB
-- 25 Hz: 102.8 dB
-- 31.5 Hz: 109.2 dB
-- 40 Hz: 114.0 dB
-- 50 Hz: 116.3 dB
-- 63 Hz: 113.5 dB
-- 80 Hz: 110.9 dB
 - CEA-2010-A Average (40-80Hz): 113.7 dB
 - Cabinet Color: black
 - Country: United States
@@ -24,6 +15,15 @@ The BIC America PL-300 ranks [#46 out of 136 total Medium Powered Home Subwoofer
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 108.8 dB
+- Output SPL at 125 Hz: 106.8 dB
+- Output SPL at 20 Hz: 96.6 dB
+- Output SPL at 25 Hz: 102.8 dB
+- Output SPL at 31.5 Hz: 109.2 dB
+- Output SPL at 40 Hz: 114.0 dB
+- Output SPL at 50 Hz: 116.3 dB
+- Output SPL at 63 Hz: 113.5 dB
+- Output SPL at 80 Hz: 110.9 dB
 - Warranty: 8/5
 - Weight: 48.0lbs / 21.8kg
 - Reviews, Comparisons and Sound Samples

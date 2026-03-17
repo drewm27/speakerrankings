@@ -8,13 +8,6 @@ share-description: "The Polk Audio PSW10 ranks #4 out of 42 total Small Powered 
 The Polk Audio PSW10 ranks [#4 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#4-polk-audio-psw10-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #4 Polk Audio PSW10: $250
-- 100 Hz: 112.2 dB
-- 125 Hz: 110.7 dB
-- 31.5 Hz: 96.1 dB
-- 40 Hz: 104.7 dB
-- 50 Hz: 109.7 dB
-- 63 Hz: 113.8 dB
-- 80 Hz: 113.1 dB
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -22,6 +15,13 @@ The Polk Audio PSW10 ranks [#4 out of 42 total Small Powered Home Subwoofers (Un
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 112.2 dB
+- Output SPL at 125 Hz: 110.7 dB
+- Output SPL at 31.5 Hz: 96.1 dB
+- Output SPL at 40 Hz: 104.7 dB
+- Output SPL at 50 Hz: 109.7 dB
+- Output SPL at 63 Hz: 113.8 dB
+- Output SPL at 80 Hz: 113.1 dB
 - Warranty: 5/3
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples

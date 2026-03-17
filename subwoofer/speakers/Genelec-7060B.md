@@ -8,13 +8,6 @@ share-description: "The Genelec 7060B ranks #113 out of 136 total Medium Powered
 The Genelec 7060B ranks [#113 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#113-genelec-7060b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #113 Genelec 7060B
-- 20 Hz: 93.5 dB
-- 25 Hz: 97.0 dB
-- 31.5 Hz: 98.8 dB
-- 40 Hz: 102.3 dB
-- 50 Hz: 107.2 dB
-- 63 Hz: 110.5 dB
-- 80 Hz: 110.4 dB
 - CEA-2010-A Average (40-80Hz): 107.6 dB
 - Country: Finland
 - Dimensions: 20.75"H x 18.19"W x 14.29"D (527.0 x 462.0 x 363.0 mm)
@@ -22,6 +15,13 @@ The Genelec 7060B ranks [#113 out of 136 total Medium Powered Home Subwoofers (3
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Ilkka Rissanen
+- Output SPL at 20 Hz: 93.5 dB
+- Output SPL at 25 Hz: 97.0 dB
+- Output SPL at 31.5 Hz: 98.8 dB
+- Output SPL at 40 Hz: 102.3 dB
+- Output SPL at 50 Hz: 107.2 dB
+- Output SPL at 63 Hz: 110.5 dB
+- Output SPL at 80 Hz: 110.4 dB
 - Warranty: 2(+3)
 - Weight: 57.32lbs / 26.0kg
 - Reviews, Comparisons and Sound Samples

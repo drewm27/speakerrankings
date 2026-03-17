@@ -8,18 +8,6 @@ share-description: "The JTR Speakers Captivator 2400ULF ranks #29 out of 95 tota
 The JTR Speakers Captivator 2400ULF ranks [#29 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#29-jtr-speakers-captivator-2400ulf-3600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #29 JTR Speakers Captivator 2400ULF: $3,600
-- 10 Hz: 104.8 dB
-- 100 Hz: 121.3 dB
-- 12.5 Hz: 109.0 dB
-- 125 Hz: 121.4 dB
-- 15 Hz: 112.2 dB
-- 20 Hz: 115.6 dB
-- 25 Hz: 117.9 dB
-- 31.5 Hz: 121.8 dB
-- 40 Hz: 123.3 dB
-- 50 Hz: 123.3 dB
-- 63 Hz: 122.4 dB
-- 80 Hz: 121.6 dB
 - CEA-2010-A Average (40-80Hz): 122.7 dB
 - Cabinet Color: black, custom
 - Country: United States
@@ -27,6 +15,18 @@ The JTR Speakers Captivator 2400ULF ranks [#29 out of 95 total Large Powered Hom
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
+- Output SPL at 10 Hz: 104.8 dB
+- Output SPL at 100 Hz: 121.3 dB
+- Output SPL at 12.5 Hz: 109.0 dB
+- Output SPL at 125 Hz: 121.4 dB
+- Output SPL at 15 Hz: 112.2 dB
+- Output SPL at 20 Hz: 115.6 dB
+- Output SPL at 25 Hz: 117.9 dB
+- Output SPL at 31.5 Hz: 121.8 dB
+- Output SPL at 40 Hz: 123.3 dB
+- Output SPL at 50 Hz: 123.3 dB
+- Output SPL at 63 Hz: 122.4 dB
+- Output SPL at 80 Hz: 121.6 dB
 - Warranty: 5/3
 - Weight: 165.0lbs / 74.8kg
 - Reviews, Comparisons and Sound Samples

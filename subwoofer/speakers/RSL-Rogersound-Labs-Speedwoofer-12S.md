@@ -8,15 +8,6 @@ share-description: "The RSL (Rogersound Labs) Speedwoofer 12S ranks #85 out of 9
 The RSL (Rogersound Labs) Speedwoofer 12S ranks [#85 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#85-rsl-rogersound-labs-speedwoofer-12s-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #85 RSL (Rogersound Labs) Speedwoofer 12S: $800
-- 100 Hz: 112.2 dB
-- 15 Hz: 104.4 dB
-- 20 Hz: 109.3 dB
-- 25 Hz: 110.9 dB
-- 31.5 Hz: 112.5 dB
-- 40 Hz: 113.4 dB
-- 50 Hz: 113.4 dB
-- 63 Hz: 113.0 dB
-- 80 Hz: 113.1 dB
 - CEA-2010-A Average (40-80Hz): 113.2 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -24,6 +15,15 @@ The RSL (Rogersound Labs) Speedwoofer 12S ranks [#85 out of 95 total Large Power
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 112.2 dB
+- Output SPL at 15 Hz: 104.4 dB
+- Output SPL at 20 Hz: 109.3 dB
+- Output SPL at 25 Hz: 110.9 dB
+- Output SPL at 31.5 Hz: 112.5 dB
+- Output SPL at 40 Hz: 113.4 dB
+- Output SPL at 50 Hz: 113.4 dB
+- Output SPL at 63 Hz: 113.0 dB
+- Output SPL at 80 Hz: 113.1 dB
 - Warranty: ?
 - Weight: 82.0lbs / 37.2kg
 - Reviews, Comparisons and Sound Samples

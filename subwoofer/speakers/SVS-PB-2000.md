@@ -8,12 +8,6 @@ share-description: "The SVS PB-2000 ranks #45 out of 136 total Medium Powered Ho
 The SVS PB-2000 ranks [#45 out of 136 total Medium Powered Home Subwoofers (30â€“75 lbs)](/subwoofer/powered-medium/#45-svs-pb-2000-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #45 SVS PB-2000
-- 20 Hz: 106.8 dB
-- 25 Hz: 110.6 dB
-- 31.5 Hz: 112.3 dB
-- 40 Hz: 113.1 dB
-- 50 Hz: 113.5 dB
-- 63 Hz: 114.5 dB
 - CEA-2010-A Average (40-80Hz): 113.7 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -22,6 +16,12 @@ The SVS PB-2000 ranks [#45 out of 136 total Medium Powered Home Subwoofers (30â€
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 106.8 dB
+- Output SPL at 25 Hz: 110.6 dB
+- Output SPL at 31.5 Hz: 112.3 dB
+- Output SPL at 40 Hz: 113.1 dB
+- Output SPL at 50 Hz: 113.5 dB
+- Output SPL at 63 Hz: 114.5 dB
 - Warranty: 5
 - Weight: 65.6lbs / 29.8kg
 - Reviews, Comparisons and Sound Samples

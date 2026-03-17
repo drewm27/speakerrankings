@@ -8,14 +8,7 @@ share-description: "The Sigberg Audio INKOGNITO 10 ranks #84 out of 136 total Me
 The Sigberg Audio INKOGNITO 10 ranks [#84 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#84-sigberg-audio-inkognito-10-304967) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #84 Sigberg Audio INKOGNITO 10: $3,049.67
-- Negatives: low profile (<8in)
-- 20 Hz: 89.0 dB
-- 25 Hz: 96.0 dB
-- 31.5 Hz: 102.0 dB
-- 40 Hz: 108.0 dB
-- 50 Hz: 109.0 dB
-- 63 Hz: 112.0 dB
-- 80 Hz: 113.0 dB
+- Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 110.5 dB
 - Cabinet Color: black, white
 - Country: Norway
@@ -23,6 +16,13 @@ The Sigberg Audio INKOGNITO 10 ranks [#84 out of 136 total Medium Powered Home S
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
+- Output SPL at 20 Hz: 89.0 dB
+- Output SPL at 25 Hz: 96.0 dB
+- Output SPL at 31.5 Hz: 102.0 dB
+- Output SPL at 40 Hz: 108.0 dB
+- Output SPL at 50 Hz: 109.0 dB
+- Output SPL at 63 Hz: 112.0 dB
+- Output SPL at 80 Hz: 113.0 dB
 - Weight: 44.09lbs / 20.0kg
 - Reviews, Comparisons and Sound Samples
 - Links

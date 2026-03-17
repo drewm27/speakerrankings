@@ -8,16 +8,6 @@ share-description: "The BIC America F-12 ranks #88 out of 136 total Medium Power
 The BIC America F-12 ranks [#88 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#88-bic-america-f-12-225) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #88 BIC America F-12: $225
-- 100 Hz: 110.0 dB
-- 125 Hz: 106.7 dB
-- 15 Hz: 74.9 dB
-- 20 Hz: 83.8 dB
-- 25 Hz: 95.8 dB
-- 31.5 Hz: 101.6 dB
-- 40 Hz: 104.6 dB
-- 50 Hz: 110.6 dB
-- 63 Hz: 113.3 dB
-- 80 Hz: 111.9 dB
 - CEA-2010-A Average (40-80Hz): 110.1 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The BIC America F-12 ranks [#88 out of 136 total Medium Powered Home Subwoofers 
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 110.0 dB
+- Output SPL at 125 Hz: 106.7 dB
+- Output SPL at 15 Hz: 74.9 dB
+- Output SPL at 20 Hz: 83.8 dB
+- Output SPL at 25 Hz: 95.8 dB
+- Output SPL at 31.5 Hz: 101.6 dB
+- Output SPL at 40 Hz: 104.6 dB
+- Output SPL at 50 Hz: 110.6 dB
+- Output SPL at 63 Hz: 113.3 dB
+- Output SPL at 80 Hz: 111.9 dB
 - Warranty: 5
 - Weight: 42.0lbs / 19.1kg
 - Reviews, Comparisons and Sound Samples

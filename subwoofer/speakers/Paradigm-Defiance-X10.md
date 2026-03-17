@@ -8,13 +8,6 @@ share-description: "The Paradigm Defiance X10 ranks #111 out of 136 total Medium
 The Paradigm Defiance X10 ranks [#111 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#111-paradigm-defiance-x10-98597) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #111 Paradigm Defiance X10: $985.97
-- 20 Hz: 76.7 dB
-- 25 Hz: 92.2 dB
-- 31.5 Hz: 101.4 dB
-- 40 Hz: 104.5 dB
-- 50 Hz: 107.0 dB
-- 63 Hz: 110.6 dB
-- 80 Hz: 109.5 dB
 - CEA-2010-A Average (40-80Hz): 107.9 dB
 - Cabinet Color: black
 - Country: Canada
@@ -22,6 +15,13 @@ The Paradigm Defiance X10 ranks [#111 out of 136 total Medium Powered Home Subwo
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
+- Output SPL at 20 Hz: 76.7 dB
+- Output SPL at 25 Hz: 92.2 dB
+- Output SPL at 31.5 Hz: 101.4 dB
+- Output SPL at 40 Hz: 104.5 dB
+- Output SPL at 50 Hz: 107.0 dB
+- Output SPL at 63 Hz: 110.6 dB
+- Output SPL at 80 Hz: 109.5 dB
 - Warranty: 3
 - Weight: 42.0lbs / 19.1kg
 - Reviews, Comparisons and Sound Samples

@@ -8,15 +8,6 @@ share-description: "The Velodyne Acoustics EQ-Max15 ranks #28 out of 136 total M
 The Velodyne Acoustics EQ-Max15 ranks [#28 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#28-velodyne-acoustics-eq-max15-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #28 Velodyne Acoustics EQ-Max15
-- 100 Hz: 111.3 dB
-- 125 Hz: 109.7 dB
-- 20 Hz: 87.8 dB
-- 25 Hz: 98.7 dB
-- 31.5 Hz: 107.2 dB
-- 40 Hz: 113.0 dB
-- 50 Hz: 117.2 dB
-- 63 Hz: 117.8 dB
-- 80 Hz: 114.0 dB
 - CEA-2010-A Average (40-80Hz): 115.5 dB
 - Country: United States
 - Dimensions: 21.5"H x 19.0"W x 21.0"D (546.1 x 482.6 x 533.4 mm)
@@ -24,6 +15,15 @@ The Velodyne Acoustics EQ-Max15 ranks [#28 out of 136 total Medium Powered Home 
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 111.3 dB
+- Output SPL at 125 Hz: 109.7 dB
+- Output SPL at 20 Hz: 87.8 dB
+- Output SPL at 25 Hz: 98.7 dB
+- Output SPL at 31.5 Hz: 107.2 dB
+- Output SPL at 40 Hz: 113.0 dB
+- Output SPL at 50 Hz: 117.2 dB
+- Output SPL at 63 Hz: 117.8 dB
+- Output SPL at 80 Hz: 114.0 dB
 - Weight: 75.0lbs / 34.0kg
 - Reviews, Comparisons and Sound Samples
 - Links

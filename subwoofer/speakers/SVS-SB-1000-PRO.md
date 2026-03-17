@@ -8,15 +8,6 @@ share-description: "The SVS SB-1000 PRO ranks #2 out of 42 total Small Powered H
 The SVS SB-1000 PRO ranks [#2 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#2-svs-sb-1000-pro-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 SVS SB-1000 PRO: $600
-- 100 Hz: 113.3 dB
-- 125 Hz: 111.5 dB
-- 20 Hz: 91.0 dB
-- 25 Hz: 97.7 dB
-- 31.5 Hz: 104.2 dB
-- 40 Hz: 109.1 dB
-- 50 Hz: 114.5 dB
-- 63 Hz: 116.7 dB
-- 80 Hz: 115.2 dB
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -24,6 +15,15 @@ The SVS SB-1000 PRO ranks [#2 out of 42 total Small Powered Home Subwoofers (Und
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 113.3 dB
+- Output SPL at 125 Hz: 111.5 dB
+- Output SPL at 20 Hz: 91.0 dB
+- Output SPL at 25 Hz: 97.7 dB
+- Output SPL at 31.5 Hz: 104.2 dB
+- Output SPL at 40 Hz: 109.1 dB
+- Output SPL at 50 Hz: 114.5 dB
+- Output SPL at 63 Hz: 116.7 dB
+- Output SPL at 80 Hz: 115.2 dB
 - Warranty: 5
 - Weight: 26.0lbs / 11.8kg
 - Reviews, Comparisons and Sound Samples

@@ -8,17 +8,7 @@ share-description: "The Monoprice Monolith 10 THX Select ranks #70 out of 136 to
 The Monoprice Monolith 10 THX Select ranks [#70 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#70-monoprice-monolith-10-thx-select-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #70 Monoprice Monolith 10 THX Select
-- Negatives: Product # 24456
-- 100 Hz: 112.0 dB
-- 125 Hz: 111.0 dB
-- 15 Hz: 95.4 dB
-- 20 Hz: 102.6 dB
-- 25 Hz: 107.7 dB
-- 31.5 Hz: 109.0 dB
-- 40 Hz: 110.0 dB
-- 50 Hz: 112.0 dB
-- 63 Hz: 112.0 dB
-- 80 Hz: 112.0 dB
+- Notes: Product # 24456
 - CEA-2010-A Average (40-80Hz): 111.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -27,6 +17,16 @@ The Monoprice Monolith 10 THX Select ranks [#70 out of 136 total Medium Powered 
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
+- Output SPL at 100 Hz: 112.0 dB
+- Output SPL at 125 Hz: 111.0 dB
+- Output SPL at 15 Hz: 95.4 dB
+- Output SPL at 20 Hz: 102.6 dB
+- Output SPL at 25 Hz: 107.7 dB
+- Output SPL at 31.5 Hz: 109.0 dB
+- Output SPL at 40 Hz: 110.0 dB
+- Output SPL at 50 Hz: 112.0 dB
+- Output SPL at 63 Hz: 112.0 dB
+- Output SPL at 80 Hz: 112.0 dB
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
 - Reviews, Comparisons and Sound Samples

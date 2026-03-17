@@ -8,13 +8,7 @@ share-description: "The Velodyne Acoustics DD-15+ ranks #63 out of 95 total Larg
 The Velodyne Acoustics DD-15+ ranks [#63 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#63-velodyne-acoustics-dd-15-4800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #63 Velodyne Acoustics DD-15+: $4,800
-- Negatives: measured by soundandvision
-- 20 Hz: 107.7 dB
-- 25 Hz: 112.7 dB
-- 31.5 Hz: 116.5 dB
-- 40 Hz: 118.6 dB
-- 50 Hz: 118.9 dB
-- 63 Hz: 118.2 dB
+- Notes: measured by soundandvision
 - CEA-2010-A Average (40-80Hz): 118.6 dB (avg of 3/4 bands)
 - Cabinet Color: black, wood
 - Country: United States
@@ -22,6 +16,12 @@ The Velodyne Acoustics DD-15+ ranks [#63 out of 95 total Large Powered Home Subw
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 20 Hz: 107.7 dB
+- Output SPL at 25 Hz: 112.7 dB
+- Output SPL at 31.5 Hz: 116.5 dB
+- Output SPL at 40 Hz: 118.6 dB
+- Output SPL at 50 Hz: 118.9 dB
+- Output SPL at 63 Hz: 118.2 dB
 - Weight: 120.0lbs / 54.4kg
 - Reviews, Comparisons and Sound Samples
 - Links

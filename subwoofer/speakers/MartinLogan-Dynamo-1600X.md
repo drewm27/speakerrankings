@@ -8,16 +8,6 @@ share-description: "The MartinLogan Dynamo 1600X ranks #2 out of 136 total Mediu
 The MartinLogan Dynamo 1600X ranks [#2 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#2-martinlogan-dynamo-1600x-160677) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 MartinLogan Dynamo 1600X: $1,606.77
-- 100 Hz: 120.2 dB
-- 125 Hz: 119.0 dB
-- 15 Hz: 86.2 dB
-- 20 Hz: 99.4 dB
-- 25 Hz: 103.9 dB
-- 31.5 Hz: 111.7 dB
-- 40 Hz: 118.4 dB
-- 50 Hz: 121.0 dB
-- 63 Hz: 121.8 dB
-- 80 Hz: 121.0 dB
 - CEA-2010-A Average (40-80Hz): 120.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -25,6 +15,16 @@ The MartinLogan Dynamo 1600X ranks [#2 out of 136 total Medium Powered Home Subw
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 120.2 dB
+- Output SPL at 125 Hz: 119.0 dB
+- Output SPL at 15 Hz: 86.2 dB
+- Output SPL at 20 Hz: 99.4 dB
+- Output SPL at 25 Hz: 103.9 dB
+- Output SPL at 31.5 Hz: 111.7 dB
+- Output SPL at 40 Hz: 118.4 dB
+- Output SPL at 50 Hz: 121.0 dB
+- Output SPL at 63 Hz: 121.8 dB
+- Output SPL at 80 Hz: 121.0 dB
 - Warranty: 3
 - Weight: 56.0lbs / 25.4kg
 - Reviews, Comparisons and Sound Samples

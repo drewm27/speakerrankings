@@ -8,15 +8,6 @@ share-description: "The RBH Sound SX-12 ranks #30 out of 136 total Medium Powere
 The RBH Sound SX-12 ranks [#30 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#30-rbh-sound-sx-12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #30 RBH Sound SX-12
-- 100 Hz: 114.7 dB
-- 125 Hz: 114.6 dB
-- 20 Hz: 90.7 dB
-- 25 Hz: 101.0 dB
-- 31.5 Hz: 111.0 dB
-- 40 Hz: 114.1 dB
-- 50 Hz: 116.7 dB
-- 63 Hz: 115.7 dB
-- 80 Hz: 115.1 dB
 - CEA-2010-A Average (40-80Hz): 115.4 dB
 - Country: United States
 - Dimensions: 19.62"H x 17.7"W x 21.12"D (498.3 x 449.6 x 536.4 mm)
@@ -24,6 +15,15 @@ The RBH Sound SX-12 ranks [#30 out of 136 total Medium Powered Home Subwoofers (
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
+- Output SPL at 100 Hz: 114.7 dB
+- Output SPL at 125 Hz: 114.6 dB
+- Output SPL at 20 Hz: 90.7 dB
+- Output SPL at 25 Hz: 101.0 dB
+- Output SPL at 31.5 Hz: 111.0 dB
+- Output SPL at 40 Hz: 114.1 dB
+- Output SPL at 50 Hz: 116.7 dB
+- Output SPL at 63 Hz: 115.7 dB
+- Output SPL at 80 Hz: 115.1 dB
 - Warranty: 5/1(+5/+3)
 - Weight: 53.0lbs / 24.0kg
 - Reviews, Comparisons and Sound Samples
