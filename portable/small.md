@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
-Last updated: March 13, 2026
+Last updated: March 17, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -37,6 +37,7 @@ Last updated: March 13, 2026
 - TWS: Yes
 - Weight: 0.84lbs / 380g
 - Reviews, Comparisons and Sound Samples
+    - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
     - [Gi Rides: Soundcore Boom Go 3i vs Tribit Stormbox Micro 2 Binaural Audio](https://www.youtube.com/watch?v=fXJekb3KniU)
     - [TecH Moe: Soundcore Boom Go 3i: The Mini Speaker to Buy!](https://www.youtube.com/watch?v=xArjouDw2R8)
 - Links
@@ -67,7 +68,7 @@ Last updated: March 13, 2026
 - TWS: Yes
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+    - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)
@@ -818,7 +819,7 @@ Last updated: March 13, 2026
     - [Reddit Search for Monster Bluetooth Speaker](https://www.reddit.com/search/?q=Monster+Bluetooth+Speaker)
     - [Direct Speakerranking Link](/portable/speakers/Monster-Bluetooth-Speaker/)
 
-## #28 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]: 
+## #28 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No
@@ -958,7 +959,7 @@ Last updated: March 13, 2026
     - [Reddit Search for JBL Clip 3](https://www.reddit.com/search/?q=JBL+Clip+3)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-3/)
 
-## #33 Xiaomi Mi Portable Outdoor: 
+## #33 Xiaomi Mi Portable Outdoor
 - Negatives: Not much bass, treble rolled off
 - App: No
 - Aux Input: No
@@ -979,7 +980,7 @@ Last updated: March 13, 2026
     - [Reddit Search for Xiaomi Mi Portable Outdoor](https://www.reddit.com/search/?q=Xiaomi+Mi+Portable+Outdoor)
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Portable-Outdoor/)
 
-## #34 Hopestar H54: 
+## #34 Hopestar H54
 - Negatives: Bright treble, not much bass, harsh mids
 - App: No
 - Aux Input: Yes
@@ -1005,7 +1006,7 @@ Last updated: March 13, 2026
     - [Reddit Search for Hopestar H54](https://www.reddit.com/search/?q=Hopestar+H54)
     - [Direct Speakerranking Link](/portable/speakers/Hopestar-H54/)
 
-## #35 Sony SRS-XB12: 
+## #35 Sony SRS-XB12
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No

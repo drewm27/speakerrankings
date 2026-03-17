@@ -30,7 +30,7 @@ The Tribit Stormbox Micro 2 ranks [#2 out of 42 total Small Size Portable Blueto
 - TWS: Yes
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
-    - <https://www.youtube.com/watch?v=x3lDUhyo_eM>
+    - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 vs Bose Soundlink Micro for best small speaker! 👌](https://www.youtube.com/watch?v=oTE4EgEict4)

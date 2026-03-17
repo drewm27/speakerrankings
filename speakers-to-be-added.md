@@ -8,6 +8,7 @@ share-description: "See what speakers are queued to be added. Suggest new models
 This page summarizes all of the speakers I plan to add to the rankings as soon as there are good sound samples and comparisons around, stay tuned!
 
 1. ULT Field 5
+1. ULT Field 3
 1. Soundcore Boom Go 3i
 1. Kef Muo 2025
 1. Teufel Rockstar Neo

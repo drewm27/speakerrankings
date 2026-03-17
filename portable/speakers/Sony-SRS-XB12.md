@@ -7,7 +7,7 @@ share-description: "The Sony SRS-XB12 ranks #35 out of 42 total Small Size Porta
 
 The Sony SRS-XB12 ranks [#35 out of 42 total Small Size Portable Bluetooth Speakers](/portable/small/#35-sony-srs-xb12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #35 Sony SRS-XB12: 
+## #35 Sony SRS-XB12
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No

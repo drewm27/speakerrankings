@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-**Stop wasting time on biased reviews.** We've ranked 530 speakers by actual audio quality. No sponsorships, no hidden agendas.
+**Stop wasting time on biased reviews.** We've ranked 1038 speakers by actual audio quality. No sponsorships, no hidden agendas.
 
 ## Why 500,000+ Audio Enthusiasts Trust Our Rankings
 
@@ -14,7 +14,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 - **Months of Research, Minutes to Find** - We've analyzed reviews from top unbiased audio reviewers ([Oluv, Alan Ross, Erin's Audio Corner, Audio Science Review, GR-Research](/personal-ranking-of-speaker-reviewers/)) and compiled everything into easy-to-navigate lists.
 - **Complete Transparency** - Every ranking links to the videos, measurements, and reviews we used. Verify our conclusions yourself.
 
-Last Updated March 13, 2026
+Last Updated March 17, 2026
 
 ## Top Recommended Speakers By Attribute
 
@@ -46,6 +46,7 @@ Last Updated March 13, 2026
 - [Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/): 2 speakers ranked
 - [Medium Size Powered Desktop Speakers](/powered/desktop-medium/): 14 speakers ranked
 - [Large Size Powered Desktop Speakers](/powered/desktop-large/): 2 speakers ranked
+- [Powered Subwoofer Speakers](/powered/subwoofer/): 465 speakers ranked
 
 ## All Home Passive Speakers Ranked
 - [Medium Size Bookshelf Speakers](/passive/bookshelf-medium/): 20 speakers ranked
