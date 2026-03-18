@@ -2,12 +2,12 @@
 layout: page
 title: Definitive Technology DN10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Definitive Technology DN10 ranks #86 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Definitive Technology DN10 ranks #87 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Definitive Technology DN10 ranks [#86 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#86-definitive-technology-dn10-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Definitive Technology DN10 ranks [#87 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#87-definitive-technology-dn10-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #86 Definitive Technology DN10: $800
+## #87 Definitive Technology DN10: $800
 - CEA-2010-A Average (40-80Hz): 110.4 dB
 - Cabinet Color: black, white
 - Country: United States

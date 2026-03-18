@@ -2,12 +2,12 @@
 layout: page
 title: Rythmik F12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Rythmik F12 ranks #50 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Rythmik F12 ranks #51 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Rythmik F12 ranks [#50 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#50-rythmik-f12-1120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Rythmik F12 ranks [#51 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#51-rythmik-f12-1120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #50 Rythmik F12: $1,120
+## #51 Rythmik F12: $1,120
 - CEA-2010-A Average (40-80Hz): 113.3 dB
 - Cabinet Color: black
 - Country: United States

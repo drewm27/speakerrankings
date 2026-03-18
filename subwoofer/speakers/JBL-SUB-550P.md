@@ -2,12 +2,12 @@
 layout: page
 title: JBL SUB 550P Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL SUB 550P ranks #131 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The JBL SUB 550P ranks #132 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JBL SUB 550P ranks [#131 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#131-jbl-sub-550p-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL SUB 550P ranks [#132 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#132-jbl-sub-550p-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #131 JBL SUB 550P: $600
+## #132 JBL SUB 550P: $600
 - CEA-2010-A Average (40-80Hz): 102.9 dB
 - Cabinet Color: black
 - Country: United States

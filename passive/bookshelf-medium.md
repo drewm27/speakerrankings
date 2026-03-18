@@ -14,7 +14,7 @@ The law of diminishing returns applies, many moderately-priced options here prov
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 
-Last updated: March 17, 2026
+Last updated: March 18, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -23,14 +23,15 @@ Last updated: March 17, 2026
 - Negatives: Slight 2dB bump around 5-6khz. Only available in kit form.
 - Bass Extension (-10dB): 38Hz
 - Bass Extension (-3dB): 53Hz
-- Dimensions: 11.8"H x 7.1"W x 11.7"D (299.7 x 180.3 x 297.2 mm)
+- Crossover Frequency: 1560Hz
+- Dimensions: 11.81"H x 7.09"W x 11.72"D (300 x 180 x 297.6 mm)
 - Driver: 5" ceramic-aluminum cone woofer, 1" ceramic-aluminum tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
 - Weight: 15lbs / 6.8kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The #1 Reason audiophiles Are Raving About Fidelia's Sound Quality](https://www.youtube.com/watch?v=HKrm19_asro)
-    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don't Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Audiofirst Fidelia Website](https://audiofirstdesigns.co.uk/fidelia)
@@ -43,17 +44,17 @@ Last updated: March 17, 2026
 - Bass Extension (-10dB): 39Hz
 - Bass Extension (-3dB): 55Hz
 - Dimensions: 14.25"H x 7.5"W x 10.5"D (361.9 x 190.5 x 266.7 mm)
-- Driver: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings woofer, 1" aluminum/magnesium alloy dome tweeter
+- Driver: 5.25" proprietary mineral-filled polypropylene cone with cast aluminum frame woofer, 26mm aluminum/magnesium alloy dome tweeter with titanium former (SEAS Titan)
 - Impedance: 8 ohms
 - Sensitivity: 82dB
-- Weight: 12lbs / 5.4kg each
+- Weight: 18.5lbs / 8.4kg each
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)
     - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
     - [Audio Science Review Ascend Sierra 1 v2](https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-1-v2-speaker-review.53350/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
-    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don't Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)
@@ -65,7 +66,7 @@ Last updated: March 17, 2026
 - Negatives: 3dB dip at 1.2khz, 2dB dip at 2.4-2.8khz
 - Bass Extension (-10dB): 43Hz
 - Bass Extension (-3dB): 68Hz
-- Dimensions: 11.9"H x 7.9"W x 11.0"D (302.3 x 200.7 x 279.4 mm)
+- Dimensions: 11.9"H x 7.9"W x 11.1"D (302 x 200 x 280.5 mm)
 - Driver: 130 mm (5.25 in.) aluminium cone woofer, 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB
@@ -84,6 +85,14 @@ Last updated: March 17, 2026
 ## #4 [Moondrop M4P MTM](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker) [[Shenzhenaudio](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker)] [[Used Listings](https://www.hifizero.com/index.php?q=Moondrop+M4P+MTM)]: $920 a pair
 - Positives: Slight bump in the bass.
 - Negatives: Vertical directivity is just okay
+- Bass Extension (-3dB): 60Hz
+- Crossover Frequency: 1800Hz
+- Dimensions: 14.96"H x 6.10"W x 7.28"D (380 x 155 x 185 mm)
+- Driver: 2x 4" (87mm) carbon cone woofer, 1" (25mm) aluminum/magnesium dome tweeter
+- Impedance: 4 ohms
+- Power Handling: 75W rated / 150W max
+- Sensitivity: 85dB
+- Weight: 13.7lbs / 6.2kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is The Moondrop M4P Monitor Speaker Worth EVERY PENNY Of $920?](https://www.youtube.com/watch?v=W6-7H0sGKKA)
     - [Erin's Audio Corner Website Moondrop M4P MTM](https://www.erinsaudiocorner.com/loudspeakers/moondrop_mrp/)
@@ -95,18 +104,19 @@ Last updated: March 17, 2026
 ## #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1961+Monitor)]: $1150 a pair
 - Positives: A high pass is built in to keep distortions down at higher volume. Directivity is pretty good.
 - Negatives: A 3dB peak and lift from 3k to 10k, lightly sounding bright. Minor resonances around 3k and 5k. Won't play very low due to the high pass at the bottom and the sealed enclosure
-- Bass Extension (-10dB): 64Hz
-- Bass Extension (-3dB): 89Hz
+- Bass Extension (-10dB): 60Hz
+- Bass Extension (-3dB): 84Hz
+- Crossover Frequency: 1500Hz
 - Dimensions: 16.6"H x 6.4"W x 5.9"D (421.6 x 162.6 x 149.9 mm)
-- Driver: 2 x 5,5” woofers, 28mm tweeter
+- Driver: 2 x 5.5" woofers, 28mm tweeter
 - Impedance: 4 ohms
 - Sensitivity: 86dB
-- Weight: 16lbs / 7.3kg each
+- Weight: 16lbs / 7.25kg each
 - Woofer Cabinet: Sealed
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner Website Arendal 1961 Monitor](https://www.erinsaudiocorner.com/loudspeakers/arenda_1961_monitor/)
     - [Audio Science Review Arendal 1961 Monitor](https://www.audiosciencereview.com/forum/index.php?threads/arendal-1961-center-monitor-speaker-review.43190/)
-    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don't Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
     - [Official Arendal 1961 Monito Website](https://arendalsound.com/product/1961-monitor/)
     - [Reddit Search for Arendal 1961 Monitor](https://www.reddit.com/search/?q=Arendal+1961+Monitor)
@@ -117,6 +127,8 @@ Last updated: March 17, 2026
 - Negatives: Low sensitivity. Not great vertical off axis
 - Bass Extension (-10dB): 40Hz
 - Bass Extension (-3dB): 60Hz
+- Dimensions: 14"H x 8"W x 9.5"D (355.6 x 203.2 x 241.3 mm)
+- Driver: 5" ZA14W08 aluminum cone woofer, 1" DQ25SC16-04 titanium dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 82dB
 - Reviews, Comparisons and Sound Samples
@@ -131,8 +143,9 @@ Last updated: March 17, 2026
 - Negatives: 2-3dB dip from 300-600hz, 3dB peak around 1.7khz, 3-4dB peaks at 11-15khz. A bit narrow in horizontal dispersion. Some pretty big dipped areas in the vertical dispersion.
 - Bass Extension (-10dB): 53Hz
 - Bass Extension (-3dB): 67Hz
-- Dimensions: 13.5"H x 6.8"W x 10.6"D (342.9 x 172.7 x 269.2 mm)
-- Driver: 5.25" Cerametallic™ cone woofer, 1" LTS (Linear Travel Suspension) titanium diaphragm tweeter with Tractrix® horn
+- Crossover Frequency: 1530Hz
+- Dimensions: 13.56"H x 6.81"W x 10.65"D (344.4 x 173 x 270.5 mm)
+- Driver: 5.25" Cerametallic™ cone woofer with Faraday rings, 1" LTS Titanium diaphragm tweeter with Hybrid Cross-Section Expanded Tractrix® horn
 - Impedance: 8 ohms
 - Sensitivity: 85dB
 - Weight: 13.1lbs / 5.9kg each
@@ -148,6 +161,13 @@ Last updated: March 17, 2026
 ## #8 [JBL Studio 530](https://www.hifizero.com/index.php?q=JBL+Studio+530) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+530)]
 - Positives: Smooth frequency response besides the treble drop off way up high
 - Negatives: Some stored energy resonances at a bunch of frequencies
+- Crossover Frequency: 1.5kHz
+- Dimensions: 18.375"H x 8.44"W x 8.75"D (467 x 214 x 222 mm)
+- Driver: 5.25" (130mm) PolyPlas™ cone woofer with SFG magnet, 1" (25mm) compression driver with Teonex® diaphragm on Bi-Radial® horn
+- Impedance: 6 ohms
+- Sensitivity: 86dB
+- Weight: 17lbs / 7.7kg each
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Studio 530](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-530-speaker-review.12298/)
 - Links
@@ -156,6 +176,13 @@ Last updated: March 17, 2026
     - [Direct Speakerranking Link](/passive/speakers/JBL-Studio-530/)
 
 ## #9 [Wharfedale Diamond 12.1](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1) [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1)]
+- Crossover Frequency: 2.6kHz
+- Dimensions: 12.2"H x 7"W x 10.9"D (310 x 178 x 277 mm)
+- Driver: 5" advanced polypropylene cone woofer, 1" textile dome tweeter
+- Impedance: 8 ohms
+- Sensitivity: 87dB
+- Weight: 15lbs / 6.8kg each
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review  Wharfedale Diamond 12.1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-review-speaker.26780/)
 - Links
@@ -171,8 +198,15 @@ Last updated: March 17, 2026
     - [Reddit Search for Philharmonic Affordable Accuracy Monitor](https://www.reddit.com/search/?q=Philharmonic+Affordable+Accuracy+Monitor)
     - [Direct Speakerranking Link](/passive/speakers/Philharmonic-Affordable-Accuracy-Monitor/)
 
-## #11 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHAo9INEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIFIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+Uni-Fi+2.0+UB52)]: $483
+## #11 [ELAC Uni-Fi 2.0 UB52](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Uni-Fi-Bookshelf-Speakers-UB52-BK/dp/B08FF7KBM5?crid=WG2BGEYGS4SJ&dib=eyJ2IjoiMSJ9.FWjgE8aQbK5hKHm6c4gp79JMHEpYGAZnIPi8cznusXKYBKW1WrbCUAG6zwO8dC4s8UV_XddiQOAhLCSzr73FY5_-l5BDzGMgX5jK2L-6SFGBnIUpbP5PtaS9b82MAP0d3QFYjOoEGRGXUeHpo02eSIw-S1d583s8f_6YQ-4a6XemCcqxSdCPmXiS7JglFjVI_tXxlhU735968acHohTpJPsabVsAJvD0RVQUhnP680KFA3VgKOTuKLr3lPZqFiKpZqfIaTVAEfFT8D1IjuG2G6baxuv9RZRx6QX4.vrTriS1kBbIN7UXVW2bB7xSlnvAGPLFq9DZotwItP-A&dib_tag=se&keywords=ELAC+Uni-Fi+2.0+UB52&qid=1749530765&s=electronics&sprefix=elac+uni-fi+2.0+ub52+%2Celectronics%2C227&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=56baa3221b90a845c1872a75742ee21b&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=ELAC+Uni-Fi+2.0+UB52)]: $483
 - Negatives: Dipped 3db from 1.5-3khz. Nasty resonance at 600hz. Not recommended.
+- Crossover Frequency: 200Hz / 2000Hz
+- Dimensions: 13.62"H x 7.28"W x 10.83"D (346 x 185 x 275 mm)
+- Driver: 5.25" aluminum woofer, 4" aluminum midrange, 1" soft dome tweeter
+- Impedance: 6 ohms
+- Power Handling: 140W max
+- Sensitivity: 85dB
+- Woofer Cabinet: Bass reflex
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review ELAC Uni-Fi 2.0 UB52](https://www.audiosciencereview.com/forum/index.php?threads/elac-uni-fi-2-0-review-bookshelf-speaker.19216/)
 - Links
@@ -200,7 +234,7 @@ Last updated: March 17, 2026
 - Bass Extension (-10dB): 55Hz
 - Bass Extension (-3dB): 83Hz
 - Dimensions: 8.9"H x 5.5"W x 8.2"D (226.1 x 139.7 x 208.3 mm)
-- Driver: 4” treated paper cone, rubber surround, cast aluminum basket, vented pole woofer, 1” silk dome, dispersion-optimized waveguide, neodymium magnet tweeter
+- Driver: 4" treated paper cone, rubber surround, cast aluminum basket, vented pole woofer, 1" silk dome, dispersion-optimized waveguide, neodymium magnet tweeter
 - Impedance: 6 ohms
 - Sensitivity: 82.5dB
 - Weight: 6.1lbs / 2.8kg each
@@ -217,8 +251,8 @@ Last updated: March 17, 2026
 - Negatives: About 3dB boosted above 8khz and can be a little shouty. A good amount of stored energy resonance around 1.4khz
 - Bass Extension (-10dB): 44Hz
 - Bass Extension (-3dB): 51Hz
-- Dimensions: 11.9"H x 7.1"W x 10.9"D (302.3 x 180.3 x 276.9 mm)
-- Driver: 5.1" aluminium Uni-Q woofer, 1" vented aluminium dome tweeter
+- Dimensions: 11.93"H x 7.09"W x 10.94"D (303 x 180 x 278 mm)
+- Driver: 130mm (5.25") aluminium Uni-Q woofer, 25mm (1") vented aluminium dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB
 - Weight: 12.3lbs / 5.6kg each
@@ -237,7 +271,11 @@ Last updated: March 17, 2026
 - Negatives: Resonance and peak from 1-2khz. A little bright up top. Not great vertically off-axis
 - Bass Extension (-10dB): 49Hz
 - Bass Extension (-3dB): 70Hz
-- Driver: 5-1/4” woven fiber cone with SBR surround woofer, 25×32 mm Airmotiv folded ribbon tweeter
+- Dimensions: 10.75"H x 7.13"W x 8.25"D (274 x 181 x 210 mm)
+- Driver: 5.25" woven fiber cone with SBR surround woofer, 25x32 mm Airmotiv folded ribbon tweeter
+- Impedance: 8 ohms
+- Sensitivity: 86dB
+- Weight: 8.8lbs / 4.0kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What are the other reviewers hearing with the $250 @EmotivaAudioCorp B1+?](https://www.youtube.com/watch?v=YmKpCb3d7Vk)
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)
@@ -249,12 +287,12 @@ Last updated: March 17, 2026
 - Negatives: Mellow treble, forward upper midrange
 - Bass Extension (-10dB): 54Hz
 - Bass Extension (-3dB): 80Hz
-- Dimensions: 13.9"H x 7"W x 8.7"D (353.1 x 177.8 x 221 mm)
+- Dimensions: 13.19"H x 7.01"W x 8.66"D (335 x 178 x 220 mm)
 - Driver: 5.12" woofer, 0.98 in tweeter
 - Impedance: 6 ohms
 - Sensitivity: 82.5dB
 - Supertweeter: 0.75 in
-- Weight: 9.9lbs / 4.5kg each
+- Weight: 9.5lbs / 4.3kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is Sony's NEW SS-CS5 Version 2 WORTH the Upgrade?](https://www.youtube.com/watch?v=iI2a-KVuUhw)
 - Links
@@ -267,6 +305,12 @@ Last updated: March 17, 2026
 - Negatives: 4dB peak at 900hz, 3dB peak at 5.7khz. Bad resonance around 1.5khz. Bass response isn't great. Vertical off axis isn't great
 - Bass Extension (-10dB): 59Hz
 - Bass Extension (-3dB): 91Hz
+- Dimensions: 9.5"H x 5"W x 6.25"D (241 x 127 x 159 mm)
+- Driver: 4" MHEX cone woofer, 1" titanium infused soft dome tweeter
+- Impedance: 6 ohms
+- Power Handling: 20-100W RMS
+- Sensitivity: 89dB
+- Weight: 6.25lbs / 2.83kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Speakers... In Color!  Totem Kin One Speaker Review.](https://www.youtube.com/watch?v=37Nd7Uz_zlk)
     - [Erin's Audio Corner Website Totem Kin One](https://www.erinsaudiocorner.com/loudspeakers/totem_kin_one/)
@@ -286,6 +330,13 @@ Last updated: March 17, 2026
 
 ## #20 [JBL Stage A130](https://www.hifizero.com/index.php?q=JBL+Stage+A130) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Stage+A130)]
 - Negatives: A lot of midrange resonance, otherwise quite a V-curve frequency response which isn't great.
+- Crossover Frequency: 3.2kHz
+- Dimensions: 12.64"H x 7.48"W x 9.06"D (321 x 190 x 230 mm)
+- Driver: 5.25" (133mm) polycellulose woofer, 1" (25mm) aluminum dome tweeter
+- Impedance: 6 ohms
+- Sensitivity: 86dB
+- Weight: 12.02lbs / 5.45kg each
+- Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Stage A130](https://www.audiosciencereview.com/forum/index.php?threads/jbl-stage-a130-review-speaker.18260/)
     - [Erin's Audio Corner: Bright & Boomy or Neutral?   JBL Stage A120/A130 vs Emotiva B1+](https://www.youtube.com/watch?v=DZo__woepJY)

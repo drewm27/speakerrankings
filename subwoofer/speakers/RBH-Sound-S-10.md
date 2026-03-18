@@ -2,12 +2,12 @@
 layout: page
 title: RBH Sound S-10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The RBH Sound S-10 ranks #97 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The RBH Sound S-10 ranks #98 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The RBH Sound S-10 ranks [#97 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#97-rbh-sound-s-10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The RBH Sound S-10 ranks [#98 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#98-rbh-sound-s-10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #97 RBH Sound S-10
+## #98 RBH Sound S-10
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black
 - Country: United States

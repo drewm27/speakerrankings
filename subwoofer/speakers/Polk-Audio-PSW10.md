@@ -2,12 +2,12 @@
 layout: page
 title: Polk Audio PSW10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Polk Audio PSW10 ranks #4 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Polk Audio PSW10 ranks #3 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Polk Audio PSW10 ranks [#4 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#4-polk-audio-psw10-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Polk Audio PSW10 ranks [#3 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#3-polk-audio-psw10-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #4 Polk Audio PSW10: $250
+## #3 Polk Audio PSW10: $250
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
 - Country: United States

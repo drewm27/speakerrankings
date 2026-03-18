@@ -2,12 +2,12 @@
 layout: page
 title: HSU Research VTF-1 MK2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The HSU Research VTF-1 MK2 ranks #53 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The HSU Research VTF-1 MK2 ranks #54 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The HSU Research VTF-1 MK2 ranks [#53 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#53-hsu-research-vtf-1-mk2-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The HSU Research VTF-1 MK2 ranks [#54 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#54-hsu-research-vtf-1-mk2-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #53 HSU Research VTF-1 MK2
+## #54 HSU Research VTF-1 MK2
 - CEA-2010-A Average (40-80Hz): 112.9 dB
 - Country: United States
 - Dimensions: 18.0"H x 14.0"W x 17.0"D (457.2 x 355.6 x 431.8 mm)

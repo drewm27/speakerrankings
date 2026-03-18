@@ -6,7 +6,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 
 ---
 
-**Stop wasting time on biased reviews.** We've ranked 862 speakers by actual audio quality. No sponsorships, no hidden agendas.
+**Stop wasting time on biased reviews.** We've ranked 865 speakers by actual audio quality. No sponsorships, no hidden agendas.
 
 ## Why 500,000+ Audio Enthusiasts Trust Our Rankings
 
@@ -14,7 +14,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 - **Months of Research, Minutes to Find** - We've analyzed reviews from top unbiased audio reviewers ([Oluv, Alan Ross, Erin's Audio Corner, Audio Science Review, GR-Research](/personal-ranking-of-speaker-reviewers/)) and compiled everything into easy-to-navigate lists.
 - **Complete Transparency** - Every ranking links to the videos, measurements, and reviews we used. Verify our conclusions yourself.
 
-Last Updated March 17, 2026
+Last Updated March 18, 2026
 
 ## Top Recommended Speakers By Attribute
 
@@ -54,8 +54,8 @@ Last Updated March 17, 2026
 
 ## All Home Powered Subwoofers Ranked
 
-- [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs): 42 subwoofers ranked
-- [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs): 136 subwoofers ranked
+- [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs): 41 subwoofers ranked
+- [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs): 137 subwoofers ranked
 - [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs): 95 subwoofers ranked
 
 ## All Home Passive Subwoofers Ranked

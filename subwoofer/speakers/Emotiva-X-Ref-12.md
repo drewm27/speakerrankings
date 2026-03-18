@@ -2,12 +2,12 @@
 layout: page
 title: Emotiva X-Ref 12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Emotiva X-Ref 12 ranks #90 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Emotiva X-Ref 12 ranks #91 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Emotiva X-Ref 12 ranks [#90 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#90-emotiva-x-ref-12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Emotiva X-Ref 12 ranks [#91 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#91-emotiva-x-ref-12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #90 Emotiva X-Ref 12
+## #91 Emotiva X-Ref 12
 - CEA-2010-A Average (40-80Hz): 109.8 dB
 - Country: United States
 - Dimensions: 15.62"H x 14.62"W x 15.5"D (396.7 x 371.3 x 393.7 mm)

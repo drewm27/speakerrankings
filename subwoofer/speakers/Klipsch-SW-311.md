@@ -2,12 +2,12 @@
 layout: page
 title: Klipsch SW-311 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Klipsch SW-311 ranks #58 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Klipsch SW-311 ranks #59 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Klipsch SW-311 ranks [#58 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#58-klipsch-sw-311-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Klipsch SW-311 ranks [#59 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#59-klipsch-sw-311-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #58 Klipsch SW-311
+## #59 Klipsch SW-311
 - CEA-2010-A Average (40-80Hz): 112.4 dB
 - Cabinet Color: black
 - Country: United States

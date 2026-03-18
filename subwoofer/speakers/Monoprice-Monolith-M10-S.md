@@ -2,12 +2,12 @@
 layout: page
 title: Monoprice Monolith M10-S Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Monoprice Monolith M10-S ranks #93 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Monoprice Monolith M10-S ranks #94 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice Monolith M10-S ranks [#93 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#93-monoprice-monolith-m10-s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice Monolith M10-S ranks [#94 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#94-monoprice-monolith-m10-s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #93 Monoprice Monolith M10-S
+## #94 Monoprice Monolith M10-S
 - Notes: Product # 35143
 - CEA-2010-A Average (40-80Hz): 109.6 dB
 - Country: United States

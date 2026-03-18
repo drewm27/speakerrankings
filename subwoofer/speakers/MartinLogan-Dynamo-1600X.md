@@ -2,10 +2,10 @@
 layout: page
 title: MartinLogan Dynamo 1600X Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The MartinLogan Dynamo 1600X ranks #2 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The MartinLogan Dynamo 1600X ranks #2 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The MartinLogan Dynamo 1600X ranks [#2 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#2-martinlogan-dynamo-1600x-160677) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The MartinLogan Dynamo 1600X ranks [#2 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#2-martinlogan-dynamo-1600x-160677) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #2 MartinLogan Dynamo 1600X: $1,606.77
 - CEA-2010-A Average (40-80Hz): 120.5 dB

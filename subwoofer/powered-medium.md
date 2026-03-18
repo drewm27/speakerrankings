@@ -6,11 +6,11 @@ cover-img: "/assets/img/shifterpro.jpg"
 share-description: "Find the best mid-size powered subwoofers of 2026 between 30 and 75 lbs with expert reviews, CEA-2010-A performance rankings, and buying tips."
 ---
 
-This page ranks 136 mid-size powered subwoofers weighing between 30 and 75 lbs. All subwoofers have computed CEA-2010-A scores and are ranked by them with the best at the top.
+This page ranks 137 mid-size powered subwoofers weighing between 30 and 75 lbs. All subwoofers have computed CEA-2010-A scores and are ranked by them with the best at the top.
 
 Also check out [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs) and [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs). For passive subwoofers see [Small Passive](/subwoofer/passive-small/), [Medium Passive](/subwoofer/passive-medium/), and [Large Passive](/subwoofer/passive-large/).
 
-Last updated: March 17, 2026
+Last updated: March 18, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -927,7 +927,29 @@ Last updated: March 17, 2026
     - [Reddit Search for HSU Research VTF-1 MK3](https://www.reddit.com/search/?q=HSU+Research+VTF-1+MK3)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-1-MK3/)
 
-## #40 Aperion Audio Bravus II 12D: $1,200
+## #40 Sigberg Audio INKOGNITO 12: $3,456.29
+- Notes: low profile (<8in)
+- CEA-2010-A Average (40-80Hz): 114.4 dB
+- Cabinet Color: black, white
+- Country: Norway
+- Dimensions: 21.25"H x 25.59"W x 6.69"D (539.8 x 650.0 x 169.9 mm)
+- Driver(s): (1) 12 inch
+- Enclosure: sealed
+- Measurement Source: Manufacturer
+- Output SPL at 20 Hz: 92.0 dB
+- Output SPL at 25 Hz: 98.0 dB
+- Output SPL at 31.5 Hz: 104.0 dB
+- Output SPL at 40 Hz: 112.5 dB
+- Output SPL at 50 Hz: 114.0 dB
+- Output SPL at 63 Hz: 115.0 dB
+- Output SPL at 80 Hz: 116.0 dB
+- Weight: 48.5lbs / 22.0kg
+- Links
+    - [Sigberg Audio INKOGNITO 12 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
+    - [Reddit Search for Sigberg Audio INKOGNITO 12](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+12)
+    - [Direct Speakerranking Link](/subwoofer/speakers/Sigberg-Audio-INKOGNITO-12/)
+
+## #41 Aperion Audio Bravus II 12D: $1,200
 - CEA-2010-A Average (40-80Hz): 114.3 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -951,7 +973,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Aperion Audio Bravus II 12D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+II+12D)
     - [Direct Speakerranking Link](/subwoofer/speakers/Aperion-Audio-Bravus-II-12D/)
 
-## #41 Rythmik LV12
+## #42 Rythmik LV12
 - CEA-2010-A Average (40-80Hz): 114.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -974,7 +996,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Rythmik LV12](https://www.reddit.com/search/?q=Rythmik+LV12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Rythmik-LV12/)
 
-## #42 Starke Sound SW12: $670
+## #43 Starke Sound SW12: $670
 - CEA-2010-A Average (40-80Hz): 114.1 dB
 - Cabinet Color: black
 - Country: United States
@@ -998,7 +1020,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Starke Sound SW12](https://www.reddit.com/search/?q=Starke+Sound+SW12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Starke-Sound-SW12/)
 
-## #43 SVS PC-2000
+## #44 SVS PC-2000
 - Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black
@@ -1025,7 +1047,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS PC-2000](https://www.reddit.com/search/?q=SVS+PC-2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PC-2000/)
 
-## #44 SVS PB12-NSD
+## #45 SVS PB12-NSD
 - CEA-2010-A Average (40-80Hz): 113.8 dB
 - Country: United States
 - Dimensions: 20.9"H x 17.3"W x 22.0"D (530.9 x 439.4 x 558.8 mm)
@@ -1048,7 +1070,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS PB12-NSD](https://www.reddit.com/search/?q=SVS+PB12-NSD)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB12-NSD/)
 
-## #45 SVS PB-2000
+## #46 SVS PB-2000
 - CEA-2010-A Average (40-80Hz): 113.7 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -1070,7 +1092,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS PB-2000](https://www.reddit.com/search/?q=SVS+PB-2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-2000/)
 
-## #46 BIC America PL-300: $450
+## #47 BIC America PL-300: $450
 - CEA-2010-A Average (40-80Hz): 113.7 dB
 - Cabinet Color: black
 - Country: United States
@@ -1094,7 +1116,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BIC America PL-300](https://www.reddit.com/search/?q=BIC+America+PL-300)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-PL-300/)
 
-## #47 Klipsch SPL-120
+## #48 Klipsch SPL-120
 - CEA-2010-A Average (40-80Hz): 113.7 dB
 - Cabinet Color: black
 - Country: United States
@@ -1118,7 +1140,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Klipsch SPL-120](https://www.reddit.com/search/?q=Klipsch+SPL-120)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-SPL-120/)
 
-## #48 Polk Audio HTS 12: $550
+## #49 Polk Audio HTS 12: $550
 - CEA-2010-A Average (40-80Hz): 113.5 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -1141,7 +1163,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Polk Audio HTS 12](https://www.reddit.com/search/?q=Polk+Audio+HTS+12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-HTS-12/)
 
-## #49 Polk Audio DSW PRO 660
+## #50 Polk Audio DSW PRO 660
 - CEA-2010-A Average (40-80Hz): 113.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -1164,7 +1186,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Polk Audio DSW PRO 660](https://www.reddit.com/search/?q=Polk+Audio+DSW+PRO+660)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-DSW-PRO-660/)
 
-## #50 Rythmik F12: $1,120
+## #51 Rythmik F12: $1,120
 - CEA-2010-A Average (40-80Hz): 113.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -1187,7 +1209,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Rythmik F12](https://www.reddit.com/search/?q=Rythmik+F12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Rythmik-F12/)
 
-## #51 XTZ Sound SUB 1X12: $850.00
+## #52 XTZ Sound SUB 1X12: $850.00
 - CEA-2010-A Average (40-80Hz): 113.3 dB
 - Country: Sweden
 - Dimensions: 18.5"H x 20.0"W x 18.7"D (469.9 x 508.0 x 475.0 mm)
@@ -1210,7 +1232,7 @@ Last updated: March 17, 2026
     - [Reddit Search for XTZ Sound SUB 1X12](https://www.reddit.com/search/?q=XTZ+Sound+SUB+1X12)
     - [Direct Speakerranking Link](/subwoofer/speakers/XTZ-Sound-SUB-1X12/)
 
-## #52 RSL (Rogersound Labs) Speedwoofer 10
+## #53 RSL (Rogersound Labs) Speedwoofer 10
 - CEA-2010-A Average (40-80Hz): 113.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 16.5"H x 16.5"W x 17.25"D (419.1 x 419.1 x 438.1 mm)
@@ -1231,7 +1253,7 @@ Last updated: March 17, 2026
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10)
     - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10/)
 
-## #53 HSU Research VTF-1 MK2
+## #54 HSU Research VTF-1 MK2
 - CEA-2010-A Average (40-80Hz): 112.9 dB
 - Country: United States
 - Dimensions: 18.0"H x 14.0"W x 17.0"D (457.2 x 355.6 x 431.8 mm)
@@ -1251,7 +1273,7 @@ Last updated: March 17, 2026
     - [Reddit Search for HSU Research VTF-1 MK2](https://www.reddit.com/search/?q=HSU+Research+VTF-1+MK2)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-1-MK2/)
 
-## #54 HSU Research VTF-2 MK4
+## #55 HSU Research VTF-2 MK4
 - CEA-2010-A Average (40-80Hz): 112.8 dB
 - Country: United States
 - Dimensions: 20.5"H x 15.0"W x 22.0"D (520.7 x 381.0 x 558.8 mm)
@@ -1272,7 +1294,7 @@ Last updated: March 17, 2026
     - [Reddit Search for HSU Research VTF-2 MK4](https://www.reddit.com/search/?q=HSU+Research+VTF-2+MK4)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-2-MK4/)
 
-## #55 REL Acoustics R-528
+## #56 REL Acoustics R-528
 - CEA-2010-A Average (40-80Hz): 112.8 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 17.5"H x 15.5"W x 17.2"D (444.5 x 393.7 x 436.9 mm)
@@ -1292,7 +1314,7 @@ Last updated: March 17, 2026
     - [Reddit Search for REL Acoustics R-528](https://www.reddit.com/search/?q=REL+Acoustics+R-528)
     - [Direct Speakerranking Link](/subwoofer/speakers/REL-Acoustics-R-528/)
 
-## #56 Infinity Speakers REFERENCE SUB R12: $500
+## #57 Infinity Speakers REFERENCE SUB R12: $500
 - CEA-2010-A Average (40-80Hz): 112.6 dB
 - Cabinet Color: black
 - Country: United States
@@ -1317,7 +1339,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Infinity Speakers REFERENCE SUB R12](https://www.reddit.com/search/?q=Infinity+Speakers+REFERENCE+SUB+R12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Infinity-Speakers-REFERENCE-SUB-R12/)
 
-## #57 OSD (Optimal Speaker Design) TreVoce 12 DSP
+## #58 OSD (Optimal Speaker Design) TreVoce 12 DSP
 - CEA-2010-A Average (40-80Hz): 112.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -1340,7 +1362,7 @@ Last updated: March 17, 2026
     - [Reddit Search for OSD (Optimal Speaker Design) TreVoce 12 DSP](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+TreVoce+12+DSP)
     - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-TreVoce-12-DSP/)
 
-## #58 Klipsch SW-311
+## #59 Klipsch SW-311
 - CEA-2010-A Average (40-80Hz): 112.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -1365,7 +1387,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Klipsch SW-311](https://www.reddit.com/search/?q=Klipsch+SW-311)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-SW-311/)
 
-## #59 Velodyne Acoustics CT-150
+## #60 Velodyne Acoustics CT-150
 - CEA-2010-A Average (40-80Hz): 112.4 dB
 - Country: United States
 - Dimensions: 18.5"H x 21.0"W x 20.0"D (469.9 x 533.4 x 508.0 mm)
@@ -1387,7 +1409,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Velodyne Acoustics CT-150](https://www.reddit.com/search/?q=Velodyne+Acoustics+CT-150)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-CT-150/)
 
-## #60 SVS 20-39 PC-Plus
+## #61 SVS 20-39 PC-Plus
 - Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 112.3 dB
 - Country: United States
@@ -1411,7 +1433,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS 20-39 PC-Plus](https://www.reddit.com/search/?q=SVS+20-39+PC-Plus)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-20-39-PC-Plus/)
 
-## #61 Velodyne Acoustics EQ-Max12
+## #62 Velodyne Acoustics EQ-Max12
 - CEA-2010-A Average (40-80Hz): 112.3 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 17.87"H x 16.37"W x 18.0"D (453.9 x 415.8 x 457.2 mm)
@@ -1431,7 +1453,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Velodyne Acoustics EQ-Max12](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-EQ-Max12/)
 
-## #62 ELAC PS350: $1,400
+## #63 ELAC PS350: $1,400
 - CEA-2010-A Average (40-80Hz): 112.2 dB
 - Cabinet Color: black
 - Country: Germany
@@ -1452,7 +1474,7 @@ Last updated: March 17, 2026
     - [Reddit Search for ELAC PS350](https://www.reddit.com/search/?q=ELAC+PS350)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-PS350/)
 
-## #63 SVS PC12-NSD
+## #64 SVS PC12-NSD
 - Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Country: United States
@@ -1474,7 +1496,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS PC12-NSD](https://www.reddit.com/search/?q=SVS+PC12-NSD)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PC12-NSD/)
 
-## #64 Wisdom Audio SCS
+## #65 Wisdom Audio SCS
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -1494,7 +1516,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Wisdom Audio SCS](https://www.reddit.com/search/?q=Wisdom+Audio+SCS)
     - [Direct Speakerranking Link](/subwoofer/speakers/Wisdom-Audio-SCS/)
 
-## #65 RSL (Rogersound Labs) Speedwoofer 10S MKII: $450
+## #66 RSL (Rogersound Labs) Speedwoofer 10S MKII: $450
 - CEA-2010-A Average (40-80Hz): 112.1 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -1519,7 +1541,7 @@ Last updated: March 17, 2026
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S MKII](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S+MKII)
     - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10S-MKII/)
 
-## #66 JBL L10cs Classic: $700
+## #67 JBL L10cs Classic: $700
 - CEA-2010-A Average (40-80Hz): 111.9 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -1540,7 +1562,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL L10cs Classic](https://www.reddit.com/search/?q=JBL+L10cs+Classic)
     - [Direct Speakerranking Link](/subwoofer/speakers/JBL-L10cs-Classic/)
 
-## #67 SVS SB-2000
+## #68 SVS SB-2000
 - CEA-2010-A Average (40-80Hz): 111.8 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -1562,7 +1584,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS SB-2000](https://www.reddit.com/search/?q=SVS+SB-2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-2000/)
 
-## #68 Monoprice 12in 150-Watt Powered: $140
+## #69 Monoprice 12in 150-Watt Powered: $140
 - Notes: Product # 9723
 - CEA-2010-A Average (40-80Hz): 111.7 dB
 - Cabinet Color: black
@@ -1586,7 +1608,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice 12in 150-Watt Powered](https://www.reddit.com/search/?q=Monoprice+12in+150-Watt+Powered)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-12in-150-Watt-Powered/)
 
-## #69 Definitive Technology SuperCube 8000
+## #70 Definitive Technology SuperCube 8000
 - CEA-2010-A Average (40-80Hz): 111.7 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -1608,7 +1630,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Definitive Technology SuperCube 8000](https://www.reddit.com/search/?q=Definitive+Technology+SuperCube+8000)
     - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-SuperCube-8000/)
 
-## #70 Monoprice Monolith 10 THX Select
+## #71 Monoprice Monolith 10 THX Select
 - Notes: Product # 24456
 - CEA-2010-A Average (40-80Hz): 111.5 dB
 - Cabinet Color: black
@@ -1635,7 +1657,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice Monolith 10 THX Select](https://www.reddit.com/search/?q=Monoprice+Monolith+10+THX+Select)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-10-THX-Select/)
 
-## #71 THIEL Audio SmartSub 1.12
+## #72 THIEL Audio SmartSub 1.12
 - CEA-2010-A Average (40-80Hz): 111.5 dB
 - Country: United States
 - Discontinued: Yes
@@ -1653,7 +1675,7 @@ Last updated: March 17, 2026
     - [Reddit Search for THIEL Audio SmartSub 1.12](https://www.reddit.com/search/?q=THIEL+Audio+SmartSub+1.12)
     - [Direct Speakerranking Link](/subwoofer/speakers/THIEL-Audio-SmartSub-1.12/)
 
-## #72 Emotiva S12
+## #73 Emotiva S12
 - CEA-2010-A Average (40-80Hz): 111.4 dB
 - Country: United States
 - Dimensions: 17.37"H x 15.75"W x 16.87"D (441.2 x 400.0 x 428.5 mm)
@@ -1676,7 +1698,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Emotiva S12](https://www.reddit.com/search/?q=Emotiva+S12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-S12/)
 
-## #73 SVS PB-1000
+## #74 SVS PB-1000
 - Notes: Discontinued 2021-02-25 when PB-1000 PRO was released. CEA-2010-A data from Dec 2019 version of spreadsheet, not on current version.
 - CEA-2010-A Average (40-80Hz): 111.3 dB
 - Cabinet Color: black
@@ -1701,7 +1723,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS PB-1000](https://www.reddit.com/search/?q=SVS+PB-1000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-1000/)
 
-## #74 Dayton Audio SUB-1500: $260
+## #75 Dayton Audio SUB-1500: $260
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -1724,7 +1746,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Dayton Audio SUB-1500](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1500)
     - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1500/)
 
-## #75 Paradigm Defiance V12: $513.44
+## #76 Paradigm Defiance V12: $513.44
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: Canada
@@ -1747,7 +1769,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Paradigm Defiance V12](https://www.reddit.com/search/?q=Paradigm+Defiance+V12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-V12/)
 
-## #76 Klipsch R-121SW: $600
+## #77 Klipsch R-121SW: $600
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -1772,7 +1794,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Klipsch R-121SW](https://www.reddit.com/search/?q=Klipsch+R-121SW)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-121SW/)
 
-## #77 BIC America PL-200II: $420
+## #78 BIC America PL-200II: $420
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -1796,7 +1818,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BIC America PL-200II](https://www.reddit.com/search/?q=BIC+America+PL-200II)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-PL-200II/)
 
-## #78 SVS SB12-Plus
+## #79 SVS SB12-Plus
 - CEA-2010-A Average (40-80Hz): 110.9 dB
 - Country: United States
 - Dimensions: 13.5"H x 13.5"W x 13.5"D (342.9 x 342.9 x 342.9 mm)
@@ -1819,7 +1841,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS SB12-Plus](https://www.reddit.com/search/?q=SVS+SB12-Plus)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB12-Plus/)
 
-## #79 Monitor Audio RXW12
+## #80 Monitor Audio RXW12
 - CEA-2010-A Average (40-80Hz): 110.9 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 15.0"H x 16.93"W x 16.93"D (381.0 x 430.0 x 430.0 mm)
@@ -1840,7 +1862,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monitor Audio RXW12](https://www.reddit.com/search/?q=Monitor+Audio+RXW12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monitor-Audio-RXW12/)
 
-## #80 Monoprice 10in Powered Studio Multimedia
+## #81 Monoprice 10in Powered Studio Multimedia
 - Notes: Product # 605999
 - CEA-2010-A Average (40-80Hz): 110.9 dB
 - Cabinet Color: black
@@ -1864,7 +1886,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice 10in Powered Studio Multimedia](https://www.reddit.com/search/?q=Monoprice+10in+Powered+Studio+Multimedia)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-10in-Powered-Studio-Multimedia/)
 
-## #81 Kef R400
+## #82 Kef R400
 - CEA-2010-A Average (40-80Hz): 110.8 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 14.4"H x 13.0"W x 13.8"D (365.8 x 330.2 x 350.5 mm)
@@ -1885,7 +1907,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Kef R400](https://www.reddit.com/search/?q=Kef+R400)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-R400/)
 
-## #82 RBH Sound SX-10R
+## #83 RBH Sound SX-10R
 - Notes: Also called "SX-10/R"
 - CEA-2010-A Average (40-80Hz): 110.8 dB
 - Country: United States
@@ -1909,7 +1931,7 @@ Last updated: March 17, 2026
     - [Reddit Search for RBH Sound SX-10R](https://www.reddit.com/search/?q=RBH+Sound+SX-10R)
     - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-SX-10R/)
 
-## #83 BK Electronics Extreme
+## #84 BK Electronics Extreme
 - CEA-2010-A Average (40-80Hz): 110.5 dB
 - Country: United Kingdom
 - Discontinued: Yes
@@ -1926,7 +1948,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BK Electronics Extreme](https://www.reddit.com/search/?q=BK+Electronics+Extreme)
     - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-Extreme/)
 
-## #84 Sigberg Audio INKOGNITO 10: $3,049.67
+## #85 Sigberg Audio INKOGNITO 10: $3,049.67
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 110.5 dB
 - Cabinet Color: black, white
@@ -1948,7 +1970,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sigberg Audio INKOGNITO 10](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sigberg-Audio-INKOGNITO-10/)
 
-## #85 NXG NX-BAS-500
+## #86 NXG NX-BAS-500
 - CEA-2010-A Average (40-80Hz): 110.5 dB (avg of 3/4 bands)
 - Dimensions: 17.62"H x 14.75"W x 17.62"D (447.5 x 374.6 x 447.5 mm)
 - Discontinued: Yes
@@ -1967,7 +1989,7 @@ Last updated: March 17, 2026
     - [Reddit Search for NXG NX-BAS-500](https://www.reddit.com/search/?q=NXG+NX-BAS-500)
     - [Direct Speakerranking Link](/subwoofer/speakers/NXG-NX-BAS-500/)
 
-## #86 Definitive Technology DN10: $800
+## #87 Definitive Technology DN10: $800
 - CEA-2010-A Average (40-80Hz): 110.4 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -1989,7 +2011,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Definitive Technology DN10](https://www.reddit.com/search/?q=Definitive+Technology+DN10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-DN10/)
 
-## #87 Monoprice Monolith M-10 V2: $650
+## #88 Monoprice Monolith M-10 V2: $650
 - Notes: Product # 42843
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
@@ -2015,7 +2037,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice Monolith M-10 V2](https://www.reddit.com/search/?q=Monoprice+Monolith+M-10+V2)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M-10-V2/)
 
-## #88 BIC America F-12: $225
+## #89 BIC America F-12: $225
 - CEA-2010-A Average (40-80Hz): 110.1 dB
 - Cabinet Color: black
 - Country: United States
@@ -2040,7 +2062,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BIC America F-12](https://www.reddit.com/search/?q=BIC+America+F-12)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-F-12/)
 
-## #89 Sunfire XTEQ12
+## #90 Sunfire XTEQ12
 - CEA-2010-A Average (40-80Hz): 109.8 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -2062,7 +2084,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sunfire XTEQ12](https://www.reddit.com/search/?q=Sunfire+XTEQ12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sunfire-XTEQ12/)
 
-## #90 Emotiva X-Ref 12
+## #91 Emotiva X-Ref 12
 - CEA-2010-A Average (40-80Hz): 109.8 dB
 - Country: United States
 - Dimensions: 15.62"H x 14.62"W x 15.5"D (396.7 x 371.3 x 393.7 mm)
@@ -2085,7 +2107,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Emotiva X-Ref 12](https://www.reddit.com/search/?q=Emotiva+X-Ref+12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-X-Ref-12/)
 
-## #91 SVS SB12-NSD
+## #92 SVS SB12-NSD
 - CEA-2010-A Average (40-80Hz): 109.7 dB
 - Country: United States
 - Dimensions: 14.2"H x 14.2"W x 14.2"D (360.7 x 360.7 x 360.7 mm)
@@ -2111,7 +2133,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS SB12-NSD](https://www.reddit.com/search/?q=SVS+SB12-NSD)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB12-NSD/)
 
-## #92 RSL (Rogersound Labs) Speedwoofer 10S
+## #93 RSL (Rogersound Labs) Speedwoofer 10S
 - CEA-2010-A Average (40-80Hz): 109.6 dB
 - Cabinet Color: black
 - Country: United States
@@ -2134,7 +2156,7 @@ Last updated: March 17, 2026
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S)
     - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10S/)
 
-## #93 Monoprice Monolith M10-S
+## #94 Monoprice Monolith M10-S
 - Notes: Product # 35143
 - CEA-2010-A Average (40-80Hz): 109.6 dB
 - Country: United States
@@ -2160,7 +2182,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice Monolith M10-S](https://www.reddit.com/search/?q=Monoprice+Monolith+M10-S)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M10-S/)
 
-## #94 BIC America V1220: $200
+## #95 BIC America V1220: $200
 - CEA-2010-A Average (40-80Hz): 109.4 dB
 - Cabinet Color: black
 - Country: United States
@@ -2182,7 +2204,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BIC America V1220](https://www.reddit.com/search/?q=BIC+America+V1220)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-V1220/)
 
-## #95 Monoprice MSUB-A122
+## #96 Monoprice MSUB-A122
 - CEA-2010-A Average (40-80Hz): 109.3 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 17.0"H x 17.25"W x 17.5"D (431.8 x 438.1 x 444.5 mm)
@@ -2197,7 +2219,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice MSUB-A122](https://www.reddit.com/search/?q=Monoprice+MSUB-A122)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-MSUB-A122/)
 
-## #96 Polk Audio PSW 110
+## #97 Polk Audio PSW 110
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -2220,7 +2242,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Polk Audio PSW 110](https://www.reddit.com/search/?q=Polk+Audio+PSW+110)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-PSW-110/)
 
-## #97 RBH Sound S-10
+## #98 RBH Sound S-10
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -2243,7 +2265,7 @@ Last updated: March 17, 2026
     - [Reddit Search for RBH Sound S-10](https://www.reddit.com/search/?q=RBH+Sound+S-10)
     - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-S-10/)
 
-## #98 Q Acoustics Q B12: $664.90
+## #99 Q Acoustics Q B12: $664.90
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black, white
 - Country: United Kingdom
@@ -2266,7 +2288,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Q Acoustics Q B12](https://www.reddit.com/search/?q=Q+Acoustics+Q+B12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Q-Acoustics-Q-B12/)
 
-## #99 Dayton Audio SUB-1200: $180
+## #100 Dayton Audio SUB-1200: $180
 - CEA-2010-A Average (40-80Hz): 109.1 dB
 - Cabinet Color: black
 - Country: United States
@@ -2289,7 +2311,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Dayton Audio SUB-1200](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1200)
     - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1200/)
 
-## #100 Bowers & Wilkins (B&W) ASW610XP
+## #101 Bowers & Wilkins (B&W) ASW610XP
 - CEA-2010-A Average (40-80Hz): 109.1 dB
 - Cabinet Color: black, white
 - Country: United Kingdom
@@ -2314,7 +2336,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Bowers & Wilkins (B&W) ASW610XP](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+ASW610XP)
     - [Direct Speakerranking Link](/subwoofer/speakers/Bowers--Wilkins-BW-ASW610XP/)
 
-## #101 MartinLogan Dynamo 600X: $547.76
+## #102 MartinLogan Dynamo 600X: $547.76
 - CEA-2010-A Average (40-80Hz): 108.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -2338,7 +2360,7 @@ Last updated: March 17, 2026
     - [Reddit Search for MartinLogan Dynamo 600X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+600X)
     - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-600X/)
 
-## #102 BIC America V1020: $350
+## #103 BIC America V1020: $350
 - CEA-2010-A Average (40-80Hz): 108.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -2360,7 +2382,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BIC America V1020](https://www.reddit.com/search/?q=BIC+America+V1020)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-V1020/)
 
-## #103 Polk Audio HTS 10: $450
+## #104 Polk Audio HTS 10: $450
 - CEA-2010-A Average (40-80Hz): 108.8 dB
 - Cabinet Color: black, wood
 - Country: United States
@@ -2382,7 +2404,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Polk Audio HTS 10](https://www.reddit.com/search/?q=Polk+Audio+HTS+10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-HTS-10/)
 
-## #104 Klipsch R-12SW
+## #105 Klipsch R-12SW
 - CEA-2010-A Average (40-80Hz): 108.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -2408,7 +2430,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Klipsch R-12SW](https://www.reddit.com/search/?q=Klipsch+R-12SW)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-12SW/)
 
-## #105 Emotiva Ultra 12
+## #106 Emotiva Ultra 12
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: United States
 - Dimensions: 14.5"H x 14.5"W x 15.25"D (368.3 x 368.3 x 387.3 mm)
@@ -2430,7 +2452,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Emotiva Ultra 12](https://www.reddit.com/search/?q=Emotiva+Ultra+12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-Ultra-12/)
 
-## #106 Monoprice SSW-10: $135
+## #107 Monoprice SSW-10: $135
 - Notes: Product # 33830, low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Cabinet Color: black
@@ -2453,7 +2475,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice SSW-10](https://www.reddit.com/search/?q=Monoprice+SSW-10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-SSW-10/)
 
-## #107 Sumiko S.9
+## #108 Sumiko S.9
 - CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
 - Dimensions: 15.9"H x 14.0"W x 16.2"D (403.9 x 355.6 x 411.5 mm)
 - Discontinued: Yes
@@ -2472,7 +2494,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sumiko S.9](https://www.reddit.com/search/?q=Sumiko+S.9)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sumiko-S.9/)
 
-## #108 Genelec HTS3B
+## #109 Genelec HTS3B
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: Finland
 - Dimensions: 17.06"H x 15.62"W x 15.75"D (433.3 x 396.7 x 400.0 mm)
@@ -2495,7 +2517,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Genelec HTS3B](https://www.reddit.com/search/?q=Genelec+HTS3B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-HTS3B/)
 
-## #109 Kef Kube 10B: $800
+## #110 Kef Kube 10B: $800
 - CEA-2010-A Average (40-80Hz): 108.0 dB
 - Cabinet Color: black
 - Country: United Kingdom
@@ -2518,7 +2540,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Kef Kube 10B](https://www.reddit.com/search/?q=Kef+Kube+10B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-Kube-10B/)
 
-## #110 BK Electronics XLS300/PR
+## #111 BK Electronics XLS300/PR
 - CEA-2010-A Average (40-80Hz): 107.9 dB
 - Cabinet Color: black, wood
 - Country: United Kingdom
@@ -2541,7 +2563,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BK Electronics XLS300/PR](https://www.reddit.com/search/?q=BK+Electronics+XLS300%2FPR)
     - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-XLS300PR/)
 
-## #111 Paradigm Defiance X10: $985.97
+## #112 Paradigm Defiance X10: $985.97
 - CEA-2010-A Average (40-80Hz): 107.9 dB
 - Cabinet Color: black
 - Country: Canada
@@ -2563,7 +2585,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Paradigm Defiance X10](https://www.reddit.com/search/?q=Paradigm+Defiance+X10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-X10/)
 
-## #112 EMPtek ES1010i
+## #113 EMPtek ES1010i
 - CEA-2010-A Average (40-80Hz): 107.6 dB
 - Dimensions: 27.5"H x 13.0"W x 19.0"D (698.5 x 330.2 x 482.6 mm)
 - Discontinued: Yes
@@ -2583,7 +2605,7 @@ Last updated: March 17, 2026
     - [Reddit Search for EMPtek ES1010i](https://www.reddit.com/search/?q=EMPtek+ES1010i)
     - [Direct Speakerranking Link](/subwoofer/speakers/EMPtek-ES1010i/)
 
-## #113 Genelec 7060B
+## #114 Genelec 7060B
 - CEA-2010-A Average (40-80Hz): 107.6 dB
 - Country: Finland
 - Dimensions: 20.75"H x 18.19"W x 14.29"D (527.0 x 462.0 x 363.0 mm)
@@ -2605,7 +2627,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Genelec 7060B](https://www.reddit.com/search/?q=Genelec+7060B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-7060B/)
 
-## #114 Sonos Sub (Gen 1)
+## #115 Sonos Sub (Gen 1)
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 107.5 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
@@ -2625,7 +2647,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sonos Sub (Gen 1)](https://www.reddit.com/search/?q=Sonos+Sub+%28Gen+1%29)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sonos-Sub-Gen-1/)
 
-## #115 Paradigm Monitor SUB 10
+## #116 Paradigm Monitor SUB 10
 - CEA-2010-A Average (40-80Hz): 107.4 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 13.0"H x 11.12"W x 12.75"D (330.2 x 282.4 x 323.8 mm)
@@ -2646,7 +2668,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Paradigm Monitor SUB 10](https://www.reddit.com/search/?q=Paradigm+Monitor+SUB+10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Monitor-SUB-10/)
 
-## #116 Atlantic Technology 224SB: $673
+## #117 Atlantic Technology 224SB: $673
 - CEA-2010-A Average (40-80Hz): 107.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -2669,7 +2691,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Atlantic Technology 224SB](https://www.reddit.com/search/?q=Atlantic+Technology+224SB)
     - [Direct Speakerranking Link](/subwoofer/speakers/Atlantic-Technology-224SB/)
 
-## #117 Velodyne Acoustics EQ-Max8
+## #118 Velodyne Acoustics EQ-Max8
 - CEA-2010-A Average (40-80Hz): 107.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 14.5"H x 13.25"W x 14.87"D (368.3 x 336.5 x 377.7 mm)
@@ -2687,7 +2709,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Velodyne Acoustics EQ-Max8](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max8)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-EQ-Max8/)
 
-## #118 Chorus Speakers Vertigo XLS 07
+## #119 Chorus Speakers Vertigo XLS 07
 - CEA-2010-A Average (40-80Hz): 106.8 dB
 - Discontinued: Yes
 - Measurement Source: Ilkka Rissanen
@@ -2704,7 +2726,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Chorus Speakers Vertigo XLS 07](https://www.reddit.com/search/?q=Chorus+Speakers+Vertigo+XLS+07)
     - [Direct Speakerranking Link](/subwoofer/speakers/Chorus-Speakers-Vertigo-XLS-07/)
 
-## #119 Jamo C 912 SUB
+## #120 Jamo C 912 SUB
 - CEA-2010-A Average (40-80Hz): 106.7 dB
 - Cabinet Color: black, white, wood
 - Country: Denmark
@@ -2729,7 +2751,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Jamo C 912 SUB](https://www.reddit.com/search/?q=Jamo+C+912+SUB)
     - [Direct Speakerranking Link](/subwoofer/speakers/Jamo-C-912-SUB/)
 
-## #120 PSB Speakers SubSeries 250: $584.28
+## #121 PSB Speakers SubSeries 250: $584.28
 - CEA-2010-A Average (40-80Hz): 106.5 dB
 - Cabinet Color: black
 - Country: Canada
@@ -2752,7 +2774,7 @@ Last updated: March 17, 2026
     - [Reddit Search for PSB Speakers SubSeries 250](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+250)
     - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-250/)
 
-## #121 REL Acoustics T-7
+## #122 REL Acoustics T-7
 - CEA-2010-A Average (40-80Hz): 106.2 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 13.75"H x 12.0"W x 13.75"D (349.2 x 304.8 x 349.2 mm)
@@ -2773,7 +2795,7 @@ Last updated: March 17, 2026
     - [Reddit Search for REL Acoustics T-7](https://www.reddit.com/search/?q=REL+Acoustics+T-7)
     - [Direct Speakerranking Link](/subwoofer/speakers/REL-Acoustics-T-7/)
 
-## #122 Bowers & Wilkins (B&W) PV-1
+## #123 Bowers & Wilkins (B&W) PV-1
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 106.1 dB
 - Country: United Kingdom
@@ -2794,7 +2816,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Bowers & Wilkins (B&W) PV-1](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+PV-1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Bowers--Wilkins-BW-PV-1/)
 
-## #123 OSD (Optimal Speaker Design) PS10
+## #124 OSD (Optimal Speaker Design) PS10
 - CEA-2010-A Average (40-80Hz): 106.0 dB
 - Country: United States
 - Dimensions: 13.5"H x 14.25"W x 13.5"D (342.9 x 361.9 x 342.9 mm)
@@ -2816,7 +2838,7 @@ Last updated: March 17, 2026
     - [Reddit Search for OSD (Optimal Speaker Design) PS10](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+PS10)
     - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-PS10/)
 
-## #124 BK Electronics XLS200-DF MK2: $501.33
+## #125 BK Electronics XLS200-DF MK2: $501.33
 - CEA-2010-A Average (40-80Hz): 105.7 dB
 - Cabinet Color: black, white, wood, grey
 - Country: United Kingdom
@@ -2839,7 +2861,7 @@ Last updated: March 17, 2026
     - [Reddit Search for BK Electronics XLS200-DF MK2](https://www.reddit.com/search/?q=BK+Electronics+XLS200-DF+MK2)
     - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-XLS200-DF-MK2/)
 
-## #125 ELAC SUB3010
+## #126 ELAC SUB3010
 - CEA-2010-A Average (40-80Hz): 105.4 dB
 - Cabinet Color: black
 - Country: Germany
@@ -2862,7 +2884,7 @@ Last updated: March 17, 2026
     - [Reddit Search for ELAC SUB3010](https://www.reddit.com/search/?q=ELAC+SUB3010)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-SUB3010/)
 
-## #126 Emotiva S10
+## #127 Emotiva S10
 - CEA-2010-A Average (40-80Hz): 104.9 dB
 - Country: United States
 - Dimensions: 16.14"H x 14.01"W x 15.86"D (410.0 x 355.9 x 402.8 mm)
@@ -2884,7 +2906,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Emotiva S10](https://www.reddit.com/search/?q=Emotiva+S10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-S10/)
 
-## #127 Audio Pro Level 110
+## #128 Audio Pro Level 110
 - CEA-2010-A Average (40-80Hz): 104.5 dB
 - Cabinet Color: wood
 - Country: Sweden
@@ -2905,7 +2927,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Audio Pro Level 110](https://www.reddit.com/search/?q=Audio+Pro+Level+110)
     - [Direct Speakerranking Link](/subwoofer/speakers/Audio-Pro-Level-110/)
 
-## #128 Kali Audio WS-6.2: $500
+## #129 Kali Audio WS-6.2: $500
 - CEA-2010-A Average (40-80Hz): 104.5 dB
 - Cabinet Color: black
 - Country: United States
@@ -2926,7 +2948,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Kali Audio WS-6.2](https://www.reddit.com/search/?q=Kali+Audio+WS-6.2)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kali-Audio-WS-6.2/)
 
-## #129 Kef KF92: $2,000
+## #130 Kef KF92: $2,000
 - CEA-2010-A Average (40-80Hz): 103.7 dB
 - Cabinet Color: black
 - Country: United Kingdom
@@ -2949,7 +2971,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Kef KF92](https://www.reddit.com/search/?q=Kef+KF92)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-KF92/)
 
-## #130 JL Audio Fathom f110
+## #131 JL Audio Fathom f110
 - CEA-2010-A Average (40-80Hz): 103.2 dB
 - Country: United States
 - Dimensions: 15.64"H x 12.92"W x 17.27"D (397.3 x 328.2 x 438.7 mm)
@@ -2971,7 +2993,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JL Audio Fathom f110](https://www.reddit.com/search/?q=JL+Audio+Fathom+f110)
     - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-Fathom-f110/)
 
-## #131 JBL SUB 550P: $600
+## #132 JBL SUB 550P: $600
 - CEA-2010-A Average (40-80Hz): 102.9 dB
 - Cabinet Color: black
 - Country: United States
@@ -2994,7 +3016,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JBL SUB 550P](https://www.reddit.com/search/?q=JBL+SUB+550P)
     - [Direct Speakerranking Link](/subwoofer/speakers/JBL-SUB-550P/)
 
-## #132 Aperion Audio Bravus 10D
+## #133 Aperion Audio Bravus 10D
 - CEA-2010-A Average (40-80Hz): 102.5 dB
 - Country: United States
 - Dimensions: 15.0"H x 13.5"W x 13.5"D (381.0 x 342.9 x 342.9 mm)
@@ -3016,7 +3038,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Aperion Audio Bravus 10D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+10D)
     - [Direct Speakerranking Link](/subwoofer/speakers/Aperion-Audio-Bravus-10D/)
 
-## #133 Sunfire Atmos
+## #134 Sunfire Atmos
 - CEA-2010-A Average (40-80Hz): 101.6 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 7.62"H x 10.06"W x 10.37"D (193.5 x 255.5 x 263.4 mm)
@@ -3034,7 +3056,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sunfire Atmos](https://www.reddit.com/search/?q=Sunfire+Atmos)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sunfire-Atmos/)
 
-## #134 Genelec 7050B
+## #135 Genelec 7050B
 - CEA-2010-A Average (40-80Hz): 100.3 dB
 - Country: Finland
 - Dimensions: 16.12"H x 13.75"W x 12.56"D (409.4 x 349.2 x 319.0 mm)
@@ -3056,7 +3078,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Genelec 7050B](https://www.reddit.com/search/?q=Genelec+7050B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-7050B/)
 
-## #135 Bestisan SW65D: $90
+## #136 Bestisan SW65D: $90
 - CEA-2010-A Average (40-80Hz): 99.0 dB
 - Cabinet Color: black
 - Country: China
@@ -3074,7 +3096,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Bestisan SW65D](https://www.reddit.com/search/?q=Bestisan+SW65D)
     - [Direct Speakerranking Link](/subwoofer/speakers/Bestisan-SW65D/)
 
-## #136 Kef KC62: $1,500
+## #137 Kef KC62: $1,500
 - CEA-2010-A Average (40-80Hz): 96.9 dB
 - Cabinet Color: black, white
 - Country: United Kingdom

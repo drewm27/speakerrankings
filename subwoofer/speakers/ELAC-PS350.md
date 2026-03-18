@@ -2,12 +2,12 @@
 layout: page
 title: ELAC PS350 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The ELAC PS350 ranks #62 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The ELAC PS350 ranks #63 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The ELAC PS350 ranks [#62 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#62-elac-ps350-1400) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ELAC PS350 ranks [#63 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#63-elac-ps350-1400) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #62 ELAC PS350: $1,400
+## #63 ELAC PS350: $1,400
 - CEA-2010-A Average (40-80Hz): 112.2 dB
 - Cabinet Color: black
 - Country: Germany

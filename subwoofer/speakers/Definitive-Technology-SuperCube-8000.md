@@ -2,12 +2,12 @@
 layout: page
 title: Definitive Technology SuperCube 8000 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Definitive Technology SuperCube 8000 ranks #69 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Definitive Technology SuperCube 8000 ranks #70 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Definitive Technology SuperCube 8000 ranks [#69 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#69-definitive-technology-supercube-8000-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Definitive Technology SuperCube 8000 ranks [#70 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#70-definitive-technology-supercube-8000-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #69 Definitive Technology SuperCube 8000
+## #70 Definitive Technology SuperCube 8000
 - CEA-2010-A Average (40-80Hz): 111.7 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States

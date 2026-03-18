@@ -2,12 +2,12 @@
 layout: page
 title: Sigberg Audio INKOGNITO 12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sigberg Audio INKOGNITO 12 ranks #1 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Sigberg Audio INKOGNITO 12 ranks #40 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Sigberg Audio INKOGNITO 12 ranks [#1 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#1-sigberg-audio-inkognito-12-345629) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sigberg Audio INKOGNITO 12 ranks [#40 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#40-sigberg-audio-inkognito-12-345629) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #1 Sigberg Audio INKOGNITO 12: $3,456.29
+## #40 Sigberg Audio INKOGNITO 12: $3,456.29
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 114.4 dB
 - Cabinet Color: black, white
@@ -23,7 +23,7 @@ The Sigberg Audio INKOGNITO 12 ranks [#1 out of 42 total Small Powered Home Subw
 - Output SPL at 50 Hz: 114.0 dB
 - Output SPL at 63 Hz: 115.0 dB
 - Output SPL at 80 Hz: 116.0 dB
-- Weight: 9.97lbs / 4.5kg
+- Weight: 48.5lbs / 22.0kg
 - Links
     - [Sigberg Audio INKOGNITO 12 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
     - [Reddit Search for Sigberg Audio INKOGNITO 12](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+12)

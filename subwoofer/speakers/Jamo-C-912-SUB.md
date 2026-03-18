@@ -2,12 +2,12 @@
 layout: page
 title: Jamo C 912 SUB Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Jamo C 912 SUB ranks #119 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Jamo C 912 SUB ranks #120 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Jamo C 912 SUB ranks [#119 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#119-jamo-c-912-sub-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Jamo C 912 SUB ranks [#120 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#120-jamo-c-912-sub-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #119 Jamo C 912 SUB
+## #120 Jamo C 912 SUB
 - CEA-2010-A Average (40-80Hz): 106.7 dB
 - Cabinet Color: black, white, wood
 - Country: Denmark

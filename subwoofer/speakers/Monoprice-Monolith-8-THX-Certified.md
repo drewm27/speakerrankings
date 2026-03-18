@@ -2,12 +2,12 @@
 layout: page
 title: Monoprice Monolith 8 THX Certified Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Monoprice Monolith 8 THX Certified ranks #37 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Monoprice Monolith 8 THX Certified ranks #36 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice Monolith 8 THX Certified ranks [#37 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#37-monoprice-monolith-8-thx-certified-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice Monolith 8 THX Certified ranks [#36 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#36-monoprice-monolith-8-thx-certified-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #37 Monoprice Monolith 8 THX Certified: $350
+## #36 Monoprice Monolith 8 THX Certified: $350
 - Notes: Product # 41289
 - CEA-2010-A Average (40-80Hz): 99.6 dB
 - Cabinet Color: black

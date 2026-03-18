@@ -2,10 +2,10 @@
 layout: page
 title: XTZ Sound 99 W12S Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The XTZ Sound 99 W12S ranks #37 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The XTZ Sound 99 W12S ranks #37 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The XTZ Sound 99 W12S ranks [#37 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#37-xtz-sound-99-w12s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The XTZ Sound 99 W12S ranks [#37 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#37-xtz-sound-99-w12s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #37 XTZ Sound 99 W12S
 - CEA-2010-A Average (40-80Hz): 114.5 dB

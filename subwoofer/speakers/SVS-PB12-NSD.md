@@ -2,12 +2,12 @@
 layout: page
 title: SVS PB12-NSD Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The SVS PB12-NSD ranks #44 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The SVS PB12-NSD ranks #45 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The SVS PB12-NSD ranks [#44 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#44-svs-pb12-nsd-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The SVS PB12-NSD ranks [#45 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#45-svs-pb12-nsd-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #44 SVS PB12-NSD
+## #45 SVS PB12-NSD
 - CEA-2010-A Average (40-80Hz): 113.8 dB
 - Country: United States
 - Dimensions: 20.9"H x 17.3"W x 22.0"D (530.9 x 439.4 x 558.8 mm)

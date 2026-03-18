@@ -2,12 +2,12 @@
 layout: page
 title: Axiom Audio EP400 v3 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Axiom Audio EP400 v3 ranks #39 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Axiom Audio EP400 v3 ranks #38 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Axiom Audio EP400 v3 ranks [#39 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#39-axiom-audio-ep400-v3-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Axiom Audio EP400 v3 ranks [#38 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#38-axiom-audio-ep400-v3-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #39 Axiom Audio EP400 v3
+## #38 Axiom Audio EP400 v3
 - CEA-2010-A Average (40-80Hz): 98.5 dB
 - Country: Canada
 - Dimensions: 13.75"H x 10.5"W x 16.8"D (349.2 x 266.7 x 426.7 mm)

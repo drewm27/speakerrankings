@@ -2,12 +2,12 @@
 layout: page
 title: RSL (Rogersound Labs) Speedwoofer 10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The RSL (Rogersound Labs) Speedwoofer 10 ranks #52 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The RSL (Rogersound Labs) Speedwoofer 10 ranks #53 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The RSL (Rogersound Labs) Speedwoofer 10 ranks [#52 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#52-rsl-rogersound-labs-speedwoofer-10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The RSL (Rogersound Labs) Speedwoofer 10 ranks [#53 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#53-rsl-rogersound-labs-speedwoofer-10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #52 RSL (Rogersound Labs) Speedwoofer 10
+## #53 RSL (Rogersound Labs) Speedwoofer 10
 - CEA-2010-A Average (40-80Hz): 113.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 16.5"H x 16.5"W x 17.25"D (419.1 x 419.1 x 438.1 mm)

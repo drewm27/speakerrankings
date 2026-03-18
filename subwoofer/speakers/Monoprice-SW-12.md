@@ -2,10 +2,10 @@
 layout: page
 title: Monoprice SW-12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Monoprice SW-12 ranks #32 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Monoprice SW-12 ranks #32 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice SW-12 ranks [#32 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#32-monoprice-sw-12-230) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice SW-12 ranks [#32 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#32-monoprice-sw-12-230) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #32 Monoprice SW-12: $230
 - Notes: Product # 41498

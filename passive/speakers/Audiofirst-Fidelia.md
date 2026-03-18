@@ -12,14 +12,15 @@ The Audiofirst Fidelia ranks [#1 out of 20 total Medium Size Bookshelf Speakers]
 - Negatives: Slight 2dB bump around 5-6khz. Only available in kit form.
 - Bass Extension (-10dB): 38Hz
 - Bass Extension (-3dB): 53Hz
-- Dimensions: 11.8"H x 7.1"W x 11.7"D (299.7 x 180.3 x 297.2 mm)
+- Crossover Frequency: 1560Hz
+- Dimensions: 11.81"H x 7.09"W x 11.72"D (300 x 180 x 297.6 mm)
 - Driver: 5" ceramic-aluminum cone woofer, 1" ceramic-aluminum tweeter
 - Impedance: 4 ohms
 - Sensitivity: 84dB
 - Weight: 15lbs / 6.8kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: The #1 Reason audiophiles Are Raving About Fidelia's Sound Quality](https://www.youtube.com/watch?v=HKrm19_asro)
-    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don't Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
 - Links
     - [Official Audiofirst Fidelia Website](https://audiofirstdesigns.co.uk/fidelia)

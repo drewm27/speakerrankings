@@ -2,10 +2,10 @@
 layout: page
 title: KRK Systems 12S Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The KRK Systems 12S ranks #15 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The KRK Systems 12S ranks #15 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The KRK Systems 12S ranks [#15 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#15-krk-systems-12s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The KRK Systems 12S ranks [#15 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#15-krk-systems-12s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #15 KRK Systems 12S
 - CEA-2010-A Average (40-80Hz): 117.1 dB

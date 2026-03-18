@@ -2,12 +2,12 @@
 layout: page
 title: Dayton Audio SUB-1000L Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Dayton Audio SUB-1000L ranks #25 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Dayton Audio SUB-1000L ranks #24 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Dayton Audio SUB-1000L ranks [#25 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#25-dayton-audio-sub-1000l-150) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Dayton Audio SUB-1000L ranks [#24 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#24-dayton-audio-sub-1000l-150) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #25 Dayton Audio SUB-1000L: $150
+## #24 Dayton Audio SUB-1000L: $150
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 104.0 dB
 - Cabinet Color: black

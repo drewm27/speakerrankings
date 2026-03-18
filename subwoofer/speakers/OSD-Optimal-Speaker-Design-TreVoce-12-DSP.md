@@ -2,12 +2,12 @@
 layout: page
 title: OSD (Optimal Speaker Design) TreVoce 12 DSP Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The OSD (Optimal Speaker Design) TreVoce 12 DSP ranks #57 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The OSD (Optimal Speaker Design) TreVoce 12 DSP ranks #58 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The OSD (Optimal Speaker Design) TreVoce 12 DSP ranks [#57 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#57-osd-optimal-speaker-design-trevoce-12-dsp-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The OSD (Optimal Speaker Design) TreVoce 12 DSP ranks [#58 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#58-osd-optimal-speaker-design-trevoce-12-dsp-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #57 OSD (Optimal Speaker Design) TreVoce 12 DSP
+## #58 OSD (Optimal Speaker Design) TreVoce 12 DSP
 - CEA-2010-A Average (40-80Hz): 112.5 dB
 - Cabinet Color: black
 - Country: United States

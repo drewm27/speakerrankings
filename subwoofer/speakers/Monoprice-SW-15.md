@@ -2,10 +2,10 @@
 layout: page
 title: Monoprice SW-15 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Monoprice SW-15 ranks #8 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Monoprice SW-15 ranks #8 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice SW-15 ranks [#8 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#8-monoprice-sw-15-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice SW-15 ranks [#8 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#8-monoprice-sw-15-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #8 Monoprice SW-15: $300
 - Notes: Product # 41499

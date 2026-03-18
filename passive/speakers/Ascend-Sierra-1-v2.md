@@ -13,17 +13,17 @@ The Ascend Sierra 1 v2 ranks [#2 out of 20 total Medium Size Bookshelf Speakers]
 - Bass Extension (-10dB): 39Hz
 - Bass Extension (-3dB): 55Hz
 - Dimensions: 14.25"H x 7.5"W x 10.5"D (361.9 x 190.5 x 266.7 mm)
-- Driver: 5.25" long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings woofer, 1" aluminum/magnesium alloy dome tweeter
+- Driver: 5.25" proprietary mineral-filled polypropylene cone with cast aluminum frame woofer, 26mm aluminum/magnesium alloy dome tweeter with titanium former (SEAS Titan)
 - Impedance: 8 ohms
 - Sensitivity: 82dB
-- Weight: 12lbs / 5.4kg each
+- Weight: 18.5lbs / 8.4kg each
 - Woofer Cabinet: Ported
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: NEW! Ascend Acoustics Sierra-1 V2 Review](https://www.youtube.com/watch?v=XuLAkwYEdfY)
     - [Erin's Audio Corner Website Ascend Sierra 1 v2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/)
     - [Audio Science Review Ascend Sierra 1 v2](https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-1-v2-speaker-review.53350/)
     - [Erin's Audio Corner: 5 AWESOME SPEAKERS Under $1000 You Won't Regret](https://www.youtube.com/watch?v=wejPEfNIMOM)
-    - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
+    - [Erin's Audio Corner: I Tested 250 Speakers So You Don't Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
     - [Erin's Audio Corner: My Top Picks of 2023: Must-Haves Under $3000](https://www.youtube.com/watch?v=SppyhT0BMRs)
 - Links
     - [Official Ascend Sierra 1 v2 Website](https://ascendacoustics.com/products/sierra-1-v2-pair)

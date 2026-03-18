@@ -2,10 +2,10 @@
 layout: page
 title: HSU Research VTF-3 MK4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The HSU Research VTF-3 MK4 ranks #31 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The HSU Research VTF-3 MK4 ranks #31 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The HSU Research VTF-3 MK4 ranks [#31 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#31-hsu-research-vtf-3-mk4-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The HSU Research VTF-3 MK4 ranks [#31 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#31-hsu-research-vtf-3-mk4-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #31 HSU Research VTF-3 MK4
 - CEA-2010-A Average (40-80Hz): 115.3 dB

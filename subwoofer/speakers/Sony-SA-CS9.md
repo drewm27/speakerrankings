@@ -2,12 +2,12 @@
 layout: page
 title: Sony SA-CS9 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony SA-CS9 ranks #16 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Sony SA-CS9 ranks #15 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Sony SA-CS9 ranks [#16 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#16-sony-sa-cs9-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SA-CS9 ranks [#15 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#15-sony-sa-cs9-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #16 Sony SA-CS9: $200
+## #15 Sony SA-CS9: $200
 - CEA-2010-A Average (40-80Hz): 106.7 dB
 - Cabinet Color: black
 - Country: Japan

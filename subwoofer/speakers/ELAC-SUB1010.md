@@ -2,12 +2,12 @@
 layout: page
 title: ELAC SUB1010 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The ELAC SUB1010 ranks #11 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The ELAC SUB1010 ranks #10 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The ELAC SUB1010 ranks [#11 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#11-elac-sub1010-550) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ELAC SUB1010 ranks [#10 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#10-elac-sub1010-550) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #11 ELAC SUB1010: $550
+## #10 ELAC SUB1010: $550
 - CEA-2010-A Average (40-80Hz): 108.1 dB
 - Cabinet Color: black
 - Country: Germany

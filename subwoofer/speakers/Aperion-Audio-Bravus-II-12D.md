@@ -2,12 +2,12 @@
 layout: page
 title: Aperion Audio Bravus II 12D Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Aperion Audio Bravus II 12D ranks #40 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Aperion Audio Bravus II 12D ranks #41 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Aperion Audio Bravus II 12D ranks [#40 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#40-aperion-audio-bravus-ii-12d-1200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Aperion Audio Bravus II 12D ranks [#41 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#41-aperion-audio-bravus-ii-12d-1200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #40 Aperion Audio Bravus II 12D: $1,200
+## #41 Aperion Audio Bravus II 12D: $1,200
 - CEA-2010-A Average (40-80Hz): 114.3 dB
 - Cabinet Color: black, wood
 - Country: United States

@@ -2,12 +2,12 @@
 layout: page
 title: EMPtek ES1010i Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The EMPtek ES1010i ranks #112 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The EMPtek ES1010i ranks #113 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The EMPtek ES1010i ranks [#112 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#112-emptek-es1010i-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The EMPtek ES1010i ranks [#113 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#113-emptek-es1010i-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #112 EMPtek ES1010i
+## #113 EMPtek ES1010i
 - CEA-2010-A Average (40-80Hz): 107.6 dB
 - Dimensions: 27.5"H x 13.0"W x 19.0"D (698.5 x 330.2 x 482.6 mm)
 - Discontinued: Yes

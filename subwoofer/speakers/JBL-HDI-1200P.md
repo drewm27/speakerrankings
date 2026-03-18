@@ -2,10 +2,10 @@
 layout: page
 title: JBL HDI-1200P Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL HDI-1200P ranks #14 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The JBL HDI-1200P ranks #14 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JBL HDI-1200P ranks [#14 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#14-jbl-hdi-1200p-2310) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL HDI-1200P ranks [#14 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#14-jbl-hdi-1200p-2310) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #14 JBL HDI-1200P: $2,310
 - CEA-2010-A Average (40-80Hz): 117.2 dB

@@ -2,12 +2,12 @@
 layout: page
 title: REL Acoustics Tzero MKIII Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The REL Acoustics Tzero MKIII ranks #42 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The REL Acoustics Tzero MKIII ranks #41 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The REL Acoustics Tzero MKIII ranks [#42 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#42-rel-acoustics-tzero-mkiii-59841) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The REL Acoustics Tzero MKIII ranks [#41 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#41-rel-acoustics-tzero-mkiii-59841) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #42 REL Acoustics Tzero MKIII: $598.41
+## #41 REL Acoustics Tzero MKIII: $598.41
 - CEA-2010-A Average (40-80Hz): 89.2 dB
 - Cabinet Color: black, white
 - Country: United Kingdom

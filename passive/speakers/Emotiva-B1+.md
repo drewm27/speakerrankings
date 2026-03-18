@@ -11,7 +11,11 @@ The Emotiva B1+ ranks [#16 out of 20 total Medium Size Bookshelf Speakers](/pass
 - Negatives: Resonance and peak from 1-2khz. A little bright up top. Not great vertically off-axis
 - Bass Extension (-10dB): 49Hz
 - Bass Extension (-3dB): 70Hz
-- Driver: 5-1/4” woven fiber cone with SBR surround woofer, 25×32 mm Airmotiv folded ribbon tweeter
+- Dimensions: 10.75"H x 7.13"W x 8.25"D (274 x 181 x 210 mm)
+- Driver: 5.25" woven fiber cone with SBR surround woofer, 25x32 mm Airmotiv folded ribbon tweeter
+- Impedance: 8 ohms
+- Sensitivity: 86dB
+- Weight: 8.8lbs / 4.0kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: What are the other reviewers hearing with the $250 @EmotivaAudioCorp B1+?](https://www.youtube.com/watch?v=YmKpCb3d7Vk)
     - [Erin's Audio Corner Website Emotiva B1+](https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/)

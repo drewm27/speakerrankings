@@ -2,12 +2,12 @@
 layout: page
 title: Kef Kube 10B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Kef Kube 10B ranks #109 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Kef Kube 10B ranks #110 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Kef Kube 10B ranks [#109 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#109-kef-kube-10b-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Kef Kube 10B ranks [#110 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#110-kef-kube-10b-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #109 Kef Kube 10B: $800
+## #110 Kef Kube 10B: $800
 - CEA-2010-A Average (40-80Hz): 108.0 dB
 - Cabinet Color: black
 - Country: United Kingdom

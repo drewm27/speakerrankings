@@ -2,12 +2,12 @@
 layout: page
 title: Kef T2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Kef T2 ranks #20 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Kef T2 ranks #19 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Kef T2 ranks [#20 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#20-kef-t2-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Kef T2 ranks [#19 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#19-kef-t2-800) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #20 Kef T2: $800
+## #19 Kef T2: $800
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 105.7 dB
 - Cabinet Color: black, white

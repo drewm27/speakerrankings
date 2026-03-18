@@ -2,12 +2,12 @@
 layout: page
 title: PSB Speakers SubSeries 250 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The PSB Speakers SubSeries 250 ranks #120 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The PSB Speakers SubSeries 250 ranks #121 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The PSB Speakers SubSeries 250 ranks [#120 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#120-psb-speakers-subseries-250-58428) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The PSB Speakers SubSeries 250 ranks [#121 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#121-psb-speakers-subseries-250-58428) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #120 PSB Speakers SubSeries 250: $584.28
+## #121 PSB Speakers SubSeries 250: $584.28
 - CEA-2010-A Average (40-80Hz): 106.5 dB
 - Cabinet Color: black
 - Country: Canada

@@ -2,12 +2,12 @@
 layout: page
 title: Q Acoustics 3060S Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Q Acoustics 3060S ranks #33 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Q Acoustics 3060S ranks #32 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Q Acoustics 3060S ranks [#33 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#33-q-acoustics-3060s-33245) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Q Acoustics 3060S ranks [#32 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#32-q-acoustics-3060s-33245) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #33 Q Acoustics 3060S: $332.45
+## #32 Q Acoustics 3060S: $332.45
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 101.5 dB
 - Cabinet Color: black, white, wood, grey

@@ -2,12 +2,12 @@
 layout: page
 title: SVS SB12-Plus Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The SVS SB12-Plus ranks #78 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The SVS SB12-Plus ranks #79 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The SVS SB12-Plus ranks [#78 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#78-svs-sb12-plus-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The SVS SB12-Plus ranks [#79 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#79-svs-sb12-plus-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #78 SVS SB12-Plus
+## #79 SVS SB12-Plus
 - CEA-2010-A Average (40-80Hz): 110.9 dB
 - Country: United States
 - Dimensions: 13.5"H x 13.5"W x 13.5"D (342.9 x 342.9 x 342.9 mm)

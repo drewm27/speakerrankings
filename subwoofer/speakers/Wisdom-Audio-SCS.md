@@ -2,12 +2,12 @@
 layout: page
 title: Wisdom Audio SCS Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Wisdom Audio SCS ranks #64 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Wisdom Audio SCS ranks #65 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Wisdom Audio SCS ranks [#64 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#64-wisdom-audio-scs-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Wisdom Audio SCS ranks [#65 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#65-wisdom-audio-scs-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #64 Wisdom Audio SCS
+## #65 Wisdom Audio SCS
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States

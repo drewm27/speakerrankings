@@ -2,10 +2,10 @@
 layout: page
 title: HSU Research ULS-15 MK2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The HSU Research ULS-15 MK2 ranks #3 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The HSU Research ULS-15 MK2 ranks #3 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The HSU Research ULS-15 MK2 ranks [#3 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#3-hsu-research-uls-15-mk2-1035) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The HSU Research ULS-15 MK2 ranks [#3 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#3-hsu-research-uls-15-mk2-1035) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #3 HSU Research ULS-15 MK2: $1,035
 - Notes: Price includes shipping

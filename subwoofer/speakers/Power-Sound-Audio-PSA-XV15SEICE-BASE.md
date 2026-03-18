@@ -2,10 +2,10 @@
 layout: page
 title: Power Sound Audio (PSA) XV15SEICE-BASE Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Power Sound Audio (PSA) XV15SEICE-BASE ranks #7 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Power Sound Audio (PSA) XV15SEICE-BASE ranks #7 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Power Sound Audio (PSA) XV15SEICE-BASE ranks [#7 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#7-power-sound-audio-psa-xv15seice-base-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Power Sound Audio (PSA) XV15SEICE-BASE ranks [#7 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#7-power-sound-audio-psa-xv15seice-base-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #7 Power Sound Audio (PSA) XV15SEICE-BASE
 - CEA-2010-A Average (40-80Hz): 119.1 dB (avg of 3/4 bands)

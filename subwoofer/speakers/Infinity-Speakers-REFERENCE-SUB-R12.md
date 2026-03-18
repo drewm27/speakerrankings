@@ -2,12 +2,12 @@
 layout: page
 title: Infinity Speakers REFERENCE SUB R12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Infinity Speakers REFERENCE SUB R12 ranks #56 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Infinity Speakers REFERENCE SUB R12 ranks #57 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Infinity Speakers REFERENCE SUB R12 ranks [#56 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#56-infinity-speakers-reference-sub-r12-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Infinity Speakers REFERENCE SUB R12 ranks [#57 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#57-infinity-speakers-reference-sub-r12-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #56 Infinity Speakers REFERENCE SUB R12: $500
+## #57 Infinity Speakers REFERENCE SUB R12: $500
 - CEA-2010-A Average (40-80Hz): 112.6 dB
 - Cabinet Color: black
 - Country: United States

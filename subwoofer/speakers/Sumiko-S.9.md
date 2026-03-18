@@ -2,12 +2,12 @@
 layout: page
 title: Sumiko S.9 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sumiko S.9 ranks #107 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Sumiko S.9 ranks #108 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Sumiko S.9 ranks [#107 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#107-sumiko-s9-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sumiko S.9 ranks [#108 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#108-sumiko-s9-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #107 Sumiko S.9
+## #108 Sumiko S.9
 - CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
 - Dimensions: 15.9"H x 14.0"W x 16.2"D (403.9 x 355.6 x 411.5 mm)
 - Discontinued: Yes

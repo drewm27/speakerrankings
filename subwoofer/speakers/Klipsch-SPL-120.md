@@ -2,12 +2,12 @@
 layout: page
 title: Klipsch SPL-120 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Klipsch SPL-120 ranks #47 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Klipsch SPL-120 ranks #48 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Klipsch SPL-120 ranks [#47 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#47-klipsch-spl-120-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Klipsch SPL-120 ranks [#48 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#48-klipsch-spl-120-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #47 Klipsch SPL-120
+## #48 Klipsch SPL-120
 - CEA-2010-A Average (40-80Hz): 113.7 dB
 - Cabinet Color: black
 - Country: United States

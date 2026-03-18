@@ -2,12 +2,12 @@
 layout: page
 title: Yamaha HS8S Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Yamaha HS8S ranks #24 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Yamaha HS8S ranks #23 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Yamaha HS8S ranks [#24 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#24-yamaha-hs8s-775) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Yamaha HS8S ranks [#23 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#23-yamaha-hs8s-775) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #24 Yamaha HS8S: $775
+## #23 Yamaha HS8S: $775
 - CEA-2010-A Average (40-80Hz): 104.8 dB
 - Cabinet Color: black
 - Country: Japan

@@ -2,12 +2,12 @@
 layout: page
 title: Q Acoustics Q B12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Q Acoustics Q B12 ranks #98 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Q Acoustics Q B12 ranks #99 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Q Acoustics Q B12 ranks [#98 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#98-q-acoustics-q-b12-66490) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Q Acoustics Q B12 ranks [#99 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#99-q-acoustics-q-b12-66490) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #98 Q Acoustics Q B12: $664.90
+## #99 Q Acoustics Q B12: $664.90
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black, white
 - Country: United Kingdom

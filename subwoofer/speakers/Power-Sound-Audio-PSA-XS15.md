@@ -2,10 +2,10 @@
 layout: page
 title: Power Sound Audio (PSA) XS15 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Power Sound Audio (PSA) XS15 ranks #10 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Power Sound Audio (PSA) XS15 ranks #10 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Power Sound Audio (PSA) XS15 ranks [#10 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#10-power-sound-audio-psa-xs15-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Power Sound Audio (PSA) XS15 ranks [#10 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#10-power-sound-audio-psa-xs15-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #10 Power Sound Audio (PSA) XS15
 - CEA-2010-A Average (40-80Hz): 118.2 dB (avg of 3/4 bands)

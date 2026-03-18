@@ -2,12 +2,12 @@
 layout: page
 title: Kali Audio WS-6.2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Kali Audio WS-6.2 ranks #128 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Kali Audio WS-6.2 ranks #129 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Kali Audio WS-6.2 ranks [#128 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#128-kali-audio-ws-62-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Kali Audio WS-6.2 ranks [#129 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#129-kali-audio-ws-62-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #128 Kali Audio WS-6.2: $500
+## #129 Kali Audio WS-6.2: $500
 - CEA-2010-A Average (40-80Hz): 104.5 dB
 - Cabinet Color: black
 - Country: United States

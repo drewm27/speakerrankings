@@ -2,12 +2,12 @@
 layout: page
 title: Focal Sub Air Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Focal Sub Air ranks #27 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Focal Sub Air ranks #26 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Focal Sub Air ranks [#27 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#27-focal-sub-air-1290) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Focal Sub Air ranks [#26 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#26-focal-sub-air-1290) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #27 Focal Sub Air: $1,290
+## #26 Focal Sub Air: $1,290
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 103.0 dB
 - Cabinet Color: black

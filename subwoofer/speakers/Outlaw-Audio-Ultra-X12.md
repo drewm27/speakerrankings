@@ -2,10 +2,10 @@
 layout: page
 title: Outlaw Audio Ultra-X12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Outlaw Audio Ultra-X12 ranks #36 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Outlaw Audio Ultra-X12 ranks #36 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Outlaw Audio Ultra-X12 ranks [#36 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#36-outlaw-audio-ultra-x12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Outlaw Audio Ultra-X12 ranks [#36 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#36-outlaw-audio-ultra-x12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #36 Outlaw Audio Ultra-X12
 - CEA-2010-A Average (40-80Hz): 114.5 dB (avg of 3/4 bands)

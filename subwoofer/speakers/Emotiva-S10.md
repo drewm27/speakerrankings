@@ -2,12 +2,12 @@
 layout: page
 title: Emotiva S10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Emotiva S10 ranks #126 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Emotiva S10 ranks #127 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Emotiva S10 ranks [#126 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#126-emotiva-s10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Emotiva S10 ranks [#127 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#127-emotiva-s10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #126 Emotiva S10
+## #127 Emotiva S10
 - CEA-2010-A Average (40-80Hz): 104.9 dB
 - Country: United States
 - Dimensions: 16.14"H x 14.01"W x 15.86"D (410.0 x 355.9 x 402.8 mm)

@@ -2,12 +2,12 @@
 layout: page
 title: Monitor Audio RXW12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Monitor Audio RXW12 ranks #79 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Monitor Audio RXW12 ranks #80 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monitor Audio RXW12 ranks [#79 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#79-monitor-audio-rxw12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monitor Audio RXW12 ranks [#80 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#80-monitor-audio-rxw12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #79 Monitor Audio RXW12
+## #80 Monitor Audio RXW12
 - CEA-2010-A Average (40-80Hz): 110.9 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 15.0"H x 16.93"W x 16.93"D (381.0 x 430.0 x 430.0 mm)

@@ -2,12 +2,12 @@
 layout: page
 title: Genelec HTS3B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Genelec HTS3B ranks #108 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Genelec HTS3B ranks #109 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Genelec HTS3B ranks [#108 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#108-genelec-hts3b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Genelec HTS3B ranks [#109 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#109-genelec-hts3b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #108 Genelec HTS3B
+## #109 Genelec HTS3B
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: Finland
 - Dimensions: 17.06"H x 15.62"W x 15.75"D (433.3 x 396.7 x 400.0 mm)

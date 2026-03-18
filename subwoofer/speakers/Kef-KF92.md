@@ -2,12 +2,12 @@
 layout: page
 title: Kef KF92 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Kef KF92 ranks #129 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Kef KF92 ranks #130 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Kef KF92 ranks [#129 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#129-kef-kf92-2000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Kef KF92 ranks [#130 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#130-kef-kf92-2000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #129 Kef KF92: $2,000
+## #130 Kef KF92: $2,000
 - CEA-2010-A Average (40-80Hz): 103.7 dB
 - Cabinet Color: black
 - Country: United Kingdom

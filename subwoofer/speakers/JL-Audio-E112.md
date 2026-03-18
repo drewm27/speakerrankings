@@ -2,10 +2,10 @@
 layout: page
 title: JL Audio E112 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JL Audio E112 ranks #16 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The JL Audio E112 ranks #16 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JL Audio E112 ranks [#16 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#16-jl-audio-e112-2500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JL Audio E112 ranks [#16 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#16-jl-audio-e112-2500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #16 JL Audio E112: $2,500
 - CEA-2010-A Average (40-80Hz): 117.0 dB

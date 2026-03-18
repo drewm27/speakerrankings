@@ -2,12 +2,12 @@
 layout: page
 title: RBH Sound SX-10R Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The RBH Sound SX-10R ranks #82 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The RBH Sound SX-10R ranks #83 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The RBH Sound SX-10R ranks [#82 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#82-rbh-sound-sx-10r-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The RBH Sound SX-10R ranks [#83 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#83-rbh-sound-sx-10r-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #82 RBH Sound SX-10R
+## #83 RBH Sound SX-10R
 - Notes: Also called "SX-10/R"
 - CEA-2010-A Average (40-80Hz): 110.8 dB
 - Country: United States

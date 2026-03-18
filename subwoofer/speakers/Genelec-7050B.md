@@ -2,12 +2,12 @@
 layout: page
 title: Genelec 7050B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Genelec 7050B ranks #134 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Genelec 7050B ranks #135 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Genelec 7050B ranks [#134 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#134-genelec-7050b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Genelec 7050B ranks [#135 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#135-genelec-7050b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #134 Genelec 7050B
+## #135 Genelec 7050B
 - CEA-2010-A Average (40-80Hz): 100.3 dB
 - Country: Finland
 - Dimensions: 16.12"H x 13.75"W x 12.56"D (409.4 x 349.2 x 319.0 mm)

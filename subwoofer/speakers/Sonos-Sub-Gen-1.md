@@ -2,12 +2,12 @@
 layout: page
 title: Sonos Sub (Gen 1) Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sonos Sub (Gen 1) ranks #114 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Sonos Sub (Gen 1) ranks #115 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Sonos Sub (Gen 1) ranks [#114 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#114-sonos-sub-gen-1-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sonos Sub (Gen 1) ranks [#115 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#115-sonos-sub-gen-1-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #114 Sonos Sub (Gen 1)
+## #115 Sonos Sub (Gen 1)
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 107.5 dB (avg of 3/4 bands)
 - Cabinet Color: black, white

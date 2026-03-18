@@ -2,12 +2,12 @@
 layout: page
 title: ELAC SUB3010 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The ELAC SUB3010 ranks #125 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The ELAC SUB3010 ranks #126 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The ELAC SUB3010 ranks [#125 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#125-elac-sub3010-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ELAC SUB3010 ranks [#126 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#126-elac-sub3010-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #125 ELAC SUB3010
+## #126 ELAC SUB3010
 - CEA-2010-A Average (40-80Hz): 105.4 dB
 - Cabinet Color: black
 - Country: Germany

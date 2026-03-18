@@ -2,12 +2,12 @@
 layout: page
 title: Klipsch R-12SW Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Klipsch R-12SW ranks #104 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Klipsch R-12SW ranks #105 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Klipsch R-12SW ranks [#104 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#104-klipsch-r-12sw-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Klipsch R-12SW ranks [#105 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#105-klipsch-r-12sw-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #104 Klipsch R-12SW
+## #105 Klipsch R-12SW
 - CEA-2010-A Average (40-80Hz): 108.5 dB
 - Cabinet Color: black
 - Country: United States

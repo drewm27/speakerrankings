@@ -2,12 +2,12 @@
 layout: page
 title: RSL (Rogersound Labs) Speedwoofer 10S MKII Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks #65 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks #66 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks [#65 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#65-rsl-rogersound-labs-speedwoofer-10s-mkii-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks [#66 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#66-rsl-rogersound-labs-speedwoofer-10s-mkii-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #65 RSL (Rogersound Labs) Speedwoofer 10S MKII: $450
+## #66 RSL (Rogersound Labs) Speedwoofer 10S MKII: $450
 - CEA-2010-A Average (40-80Hz): 112.1 dB
 - Cabinet Color: black, white
 - Country: United States

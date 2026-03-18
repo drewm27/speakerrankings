@@ -11,12 +11,12 @@ The Sony SS-CS5 M2 ranks [#17 out of 20 total Medium Size Bookshelf Speakers](/p
 - Negatives: Mellow treble, forward upper midrange
 - Bass Extension (-10dB): 54Hz
 - Bass Extension (-3dB): 80Hz
-- Dimensions: 13.9"H x 7"W x 8.7"D (353.1 x 177.8 x 221 mm)
+- Dimensions: 13.19"H x 7.01"W x 8.66"D (335 x 178 x 220 mm)
 - Driver: 5.12" woofer, 0.98 in tweeter
 - Impedance: 6 ohms
 - Sensitivity: 82.5dB
 - Supertweeter: 0.75 in
-- Weight: 9.9lbs / 4.5kg each
+- Weight: 9.5lbs / 4.3kg each
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Is Sony's NEW SS-CS5 Version 2 WORTH the Upgrade?](https://www.youtube.com/watch?v=iI2a-KVuUhw)
 - Links

@@ -2,12 +2,12 @@
 layout: page
 title: Bowers & Wilkins (B&W) PV1D Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Bowers & Wilkins (B&W) PV1D ranks #12 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Bowers & Wilkins (B&W) PV1D ranks #11 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Bowers & Wilkins (B&W) PV1D ranks [#12 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#12-bowers--wilkins-bw-pv1d-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Bowers & Wilkins (B&W) PV1D ranks [#11 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#11-bowers--wilkins-bw-pv1d-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #12 Bowers & Wilkins (B&W) PV1D
+## #11 Bowers & Wilkins (B&W) PV1D
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 108.0 dB (avg of 3/4 bands)
 - Cabinet Color: black, white

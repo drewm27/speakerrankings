@@ -12,6 +12,8 @@ The Zaph Audio ZA5.2 TM ranks [#6 out of 20 total Medium Size Bookshelf Speakers
 - Negatives: Low sensitivity. Not great vertical off axis
 - Bass Extension (-10dB): 40Hz
 - Bass Extension (-3dB): 60Hz
+- Dimensions: 14"H x 8"W x 9.5"D (355.6 x 203.2 x 241.3 mm)
+- Driver: 5" ZA14W08 aluminum cone woofer, 1" DQ25SC16-04 titanium dome tweeter
 - Impedance: 8 ohms
 - Sensitivity: 82dB
 - Reviews, Comparisons and Sound Samples

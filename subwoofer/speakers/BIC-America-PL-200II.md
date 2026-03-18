@@ -2,12 +2,12 @@
 layout: page
 title: BIC America PL-200II Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The BIC America PL-200II ranks #77 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The BIC America PL-200II ranks #78 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The BIC America PL-200II ranks [#77 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#77-bic-america-pl-200ii-420) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The BIC America PL-200II ranks [#78 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#78-bic-america-pl-200ii-420) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #77 BIC America PL-200II: $420
+## #78 BIC America PL-200II: $420
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States

@@ -2,12 +2,12 @@
 layout: page
 title: BIC America PL-300 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The BIC America PL-300 ranks #46 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The BIC America PL-300 ranks #47 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The BIC America PL-300 ranks [#46 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#46-bic-america-pl-300-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The BIC America PL-300 ranks [#47 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#47-bic-america-pl-300-450) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #46 BIC America PL-300: $450
+## #47 BIC America PL-300: $450
 - CEA-2010-A Average (40-80Hz): 113.7 dB
 - Cabinet Color: black
 - Country: United States

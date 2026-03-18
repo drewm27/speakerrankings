@@ -2,12 +2,12 @@
 layout: page
 title: Yamaha YST-SW215 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Yamaha YST-SW215 ranks #26 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Yamaha YST-SW215 ranks #25 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Yamaha YST-SW215 ranks [#26 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#26-yamaha-yst-sw215-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Yamaha YST-SW215 ranks [#25 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#25-yamaha-yst-sw215-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #26 Yamaha YST-SW215
+## #25 Yamaha YST-SW215
 - CEA-2010-A Average (40-80Hz): 103.6 dB
 - Country: Japan
 - Dimensions: 14.18"H x 11.43"W x 12.68"D (360.2 x 290.3 x 322.1 mm)

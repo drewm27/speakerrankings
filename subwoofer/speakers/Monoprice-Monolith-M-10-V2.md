@@ -2,12 +2,12 @@
 layout: page
 title: Monoprice Monolith M-10 V2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Monoprice Monolith M-10 V2 ranks #87 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Monoprice Monolith M-10 V2 ranks #88 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice Monolith M-10 V2 ranks [#87 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#87-monoprice-monolith-m-10-v2-650) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice Monolith M-10 V2 ranks [#88 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#88-monoprice-monolith-m-10-v2-650) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #87 Monoprice Monolith M-10 V2: $650
+## #88 Monoprice Monolith M-10 V2: $650
 - Notes: Product # 42843
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black

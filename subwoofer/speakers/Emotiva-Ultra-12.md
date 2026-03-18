@@ -2,12 +2,12 @@
 layout: page
 title: Emotiva Ultra 12 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Emotiva Ultra 12 ranks #105 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Emotiva Ultra 12 ranks #106 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Emotiva Ultra 12 ranks [#105 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#105-emotiva-ultra-12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Emotiva Ultra 12 ranks [#106 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#106-emotiva-ultra-12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #105 Emotiva Ultra 12
+## #106 Emotiva Ultra 12
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: United States
 - Dimensions: 14.5"H x 14.5"W x 15.25"D (368.3 x 368.3 x 387.3 mm)

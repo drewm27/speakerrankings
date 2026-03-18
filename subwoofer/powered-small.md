@@ -6,38 +6,16 @@ cover-img: "/assets/img/shifterpro.jpg"
 share-description: "Find the best compact powered subwoofers of 2026 under 30 lbs with expert reviews, CEA-2010-A performance rankings, and buying tips."
 ---
 
-This page ranks 42 compact powered subwoofers weighing under 30 lbs. All subwoofers have computed CEA-2010-A scores and are ranked by them with the best at the top.
+This page ranks 41 compact powered subwoofers weighing under 30 lbs. All subwoofers have computed CEA-2010-A scores and are ranked by them with the best at the top.
 
 Also check out [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs) and [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs). For passive subwoofers see [Small Passive](/subwoofer/passive-small/), [Medium Passive](/subwoofer/passive-medium/), and [Large Passive](/subwoofer/passive-large/).
 
-Last updated: March 17, 2026
+Last updated: March 18, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
 
-## #1 Sigberg Audio INKOGNITO 12: $3,456.29
-- Notes: low profile (<8in)
-- CEA-2010-A Average (40-80Hz): 114.4 dB
-- Cabinet Color: black, white
-- Country: Norway
-- Dimensions: 21.25"H x 25.59"W x 6.69"D (539.8 x 650.0 x 169.9 mm)
-- Driver(s): (1) 12 inch
-- Enclosure: sealed
-- Measurement Source: Manufacturer
-- Output SPL at 20 Hz: 92.0 dB
-- Output SPL at 25 Hz: 98.0 dB
-- Output SPL at 31.5 Hz: 104.0 dB
-- Output SPL at 40 Hz: 112.5 dB
-- Output SPL at 50 Hz: 114.0 dB
-- Output SPL at 63 Hz: 115.0 dB
-- Output SPL at 80 Hz: 116.0 dB
-- Weight: 9.97lbs / 4.5kg
-- Links
-    - [Sigberg Audio INKOGNITO 12 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
-    - [Reddit Search for Sigberg Audio INKOGNITO 12](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+12)
-    - [Direct Speakerranking Link](/subwoofer/speakers/Sigberg-Audio-INKOGNITO-12/)
-
-## #2 SVS SB-1000 PRO: $600
+## #1 SVS SB-1000 PRO: $600
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -61,7 +39,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS SB-1000 PRO](https://www.reddit.com/search/?q=SVS+SB-1000+PRO)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-1000-PRO/)
 
-## #3 Velodyne Acoustics SPL-1200 Series II
+## #2 Velodyne Acoustics SPL-1200 Series II
 - CEA-2010-A Average (40-80Hz): 111.1 dB
 - Country: United States
 - Dimensions: 14.75"H x 14.25"W x 16.37"D (374.6 x 361.9 x 415.8 mm)
@@ -81,7 +59,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Velodyne Acoustics SPL-1200 Series II](https://www.reddit.com/search/?q=Velodyne+Acoustics+SPL-1200+Series+II)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-SPL-1200-Series-II/)
 
-## #4 Polk Audio PSW10: $250
+## #3 Polk Audio PSW10: $250
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
 - Country: United States
@@ -103,7 +81,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Polk Audio PSW10](https://www.reddit.com/search/?q=Polk+Audio+PSW10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-PSW10/)
 
-## #5 SVS SB-1000: $500
+## #4 SVS SB-1000: $500
 - Notes: Discontinued 2021-02-25 when SB-1000 PRO was released.
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black, white
@@ -127,7 +105,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS SB-1000](https://www.reddit.com/search/?q=SVS+SB-1000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-1000/)
 
-## #6 GoldenEar ForceField 3: $650
+## #5 GoldenEar ForceField 3: $650
 - CEA-2010-A Average (40-80Hz): 110.2 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
@@ -147,7 +125,7 @@ Last updated: March 17, 2026
     - [Reddit Search for GoldenEar ForceField 3](https://www.reddit.com/search/?q=GoldenEar+ForceField+3)
     - [Direct Speakerranking Link](/subwoofer/speakers/GoldenEar-ForceField-3/)
 
-## #7 Onkyo SKW-204
+## #6 Onkyo SKW-204
 - CEA-2010-A Average (40-80Hz): 109.9 dB
 - Cabinet Color: black
 - Country: Japan
@@ -169,7 +147,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Onkyo SKW-204](https://www.reddit.com/search/?q=Onkyo+SKW-204)
     - [Direct Speakerranking Link](/subwoofer/speakers/Onkyo-SKW-204/)
 
-## #8 MartinLogan Dynamo 700w
+## #7 MartinLogan Dynamo 700w
 - CEA-2010-A Average (40-80Hz): 109.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 12.54"H x 11.69"W x 12.53"D (318.5 x 296.9 x 318.3 mm)
@@ -190,7 +168,7 @@ Last updated: March 17, 2026
     - [Reddit Search for MartinLogan Dynamo 700w](https://www.reddit.com/search/?q=MartinLogan+Dynamo+700w)
     - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-700w/)
 
-## #9 Definitive Technology SuperCube 2000
+## #8 Definitive Technology SuperCube 2000
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -213,7 +191,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Definitive Technology SuperCube 2000](https://www.reddit.com/search/?q=Definitive+Technology+SuperCube+2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-SuperCube-2000/)
 
-## #10 Klipsch HD Theater 600
+## #9 Klipsch HD Theater 600
 - CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 13.9"H x 12.5"W x 12.5"D (353.1 x 317.5 x 317.5 mm)
@@ -231,7 +209,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Klipsch HD Theater 600](https://www.reddit.com/search/?q=Klipsch+HD+Theater+600)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-HD-Theater-600/)
 
-## #11 ELAC SUB1010: $550
+## #10 ELAC SUB1010: $550
 - CEA-2010-A Average (40-80Hz): 108.1 dB
 - Cabinet Color: black
 - Country: Germany
@@ -253,7 +231,7 @@ Last updated: March 17, 2026
     - [Reddit Search for ELAC SUB1010](https://www.reddit.com/search/?q=ELAC+SUB1010)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-SUB1010/)
 
-## #12 Bowers & Wilkins (B&W) PV1D
+## #11 Bowers & Wilkins (B&W) PV1D
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 108.0 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
@@ -276,7 +254,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Bowers & Wilkins (B&W) PV1D](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+PV1D)
     - [Direct Speakerranking Link](/subwoofer/speakers/Bowers--Wilkins-BW-PV1D/)
 
-## #13 SVS 3000 Micro: $900
+## #12 SVS 3000 Micro: $900
 - CEA-2010-A Average (40-80Hz): 107.5 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -298,7 +276,7 @@ Last updated: March 17, 2026
     - [Reddit Search for SVS 3000 Micro](https://www.reddit.com/search/?q=SVS+3000+Micro)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-3000-Micro/)
 
-## #14 Monitor Audio BRW10
+## #13 Monitor Audio BRW10
 - CEA-2010-A Average (40-80Hz): 107.0 dB
 - Cabinet Color: wood
 - Country: United Kingdom
@@ -320,7 +298,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monitor Audio BRW10](https://www.reddit.com/search/?q=Monitor+Audio+BRW10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monitor-Audio-BRW10/)
 
-## #15 Klipsch R-10SW
+## #14 Klipsch R-10SW
 - CEA-2010-A Average (40-80Hz): 106.8 dB
 - Cabinet Color: black
 - Country: United States
@@ -342,7 +320,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Klipsch R-10SW](https://www.reddit.com/search/?q=Klipsch+R-10SW)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-10SW/)
 
-## #16 Sony SA-CS9: $200
+## #15 Sony SA-CS9: $200
 - CEA-2010-A Average (40-80Hz): 106.7 dB
 - Cabinet Color: black
 - Country: Japan
@@ -364,7 +342,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sony SA-CS9](https://www.reddit.com/search/?q=Sony+SA-CS9)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sony-SA-CS9/)
 
-## #17 Monoprice Premium Select 8in 200-Watt: $130
+## #16 Monoprice Premium Select 8in 200-Watt: $130
 - Notes: Product # 14567
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black
@@ -386,7 +364,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice Premium Select 8in 200-Watt](https://www.reddit.com/search/?q=Monoprice+Premium+Select+8in+200-Watt)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Premium-Select-8in-200-Watt/)
 
-## #18 Pioneer SW-8MK2
+## #17 Pioneer SW-8MK2
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black
 - Country: Japan
@@ -409,7 +387,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Pioneer SW-8MK2](https://www.reddit.com/search/?q=Pioneer+SW-8MK2)
     - [Direct Speakerranking Link](/subwoofer/speakers/Pioneer-SW-8MK2/)
 
-## #19 Polk Audio PSW 111: $350
+## #18 Polk Audio PSW 111: $350
 - CEA-2010-A Average (40-80Hz): 106.2 dB
 - Cabinet Color: black
 - Country: United States
@@ -431,7 +409,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Polk Audio PSW 111](https://www.reddit.com/search/?q=Polk+Audio+PSW+111)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-PSW-111/)
 
-## #20 Kef T2: $800
+## #19 Kef T2: $800
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 105.7 dB
 - Cabinet Color: black, white
@@ -455,7 +433,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Kef T2](https://www.reddit.com/search/?q=Kef+T2)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-T2/)
 
-## #21 Revel B8: $500
+## #20 Revel B8: $500
 - CEA-2010-A Average (40-80Hz): 105.5 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -477,7 +455,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Revel B8](https://www.reddit.com/search/?q=Revel+B8)
     - [Direct Speakerranking Link](/subwoofer/speakers/Revel-B8/)
 
-## #22 OSD (Optimal Speaker Design) SS8
+## #21 OSD (Optimal Speaker Design) SS8
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 105.0 dB
 - Country: United States
@@ -498,7 +476,7 @@ Last updated: March 17, 2026
     - [Reddit Search for OSD (Optimal Speaker Design) SS8](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+SS8)
     - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-SS8/)
 
-## #23 Yamaha NS-SW100: $200
+## #22 Yamaha NS-SW100: $200
 - CEA-2010-A Average (40-80Hz): 105.0 dB
 - Cabinet Color: black
 - Country: Japan
@@ -519,7 +497,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Yamaha NS-SW100](https://www.reddit.com/search/?q=Yamaha+NS-SW100)
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-NS-SW100/)
 
-## #24 Yamaha HS8S: $775
+## #23 Yamaha HS8S: $775
 - CEA-2010-A Average (40-80Hz): 104.8 dB
 - Cabinet Color: black
 - Country: Japan
@@ -540,7 +518,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Yamaha HS8S](https://www.reddit.com/search/?q=Yamaha+HS8S)
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-HS8S/)
 
-## #25 Dayton Audio SUB-1000L: $150
+## #24 Dayton Audio SUB-1000L: $150
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 104.0 dB
 - Cabinet Color: black
@@ -563,7 +541,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Dayton Audio SUB-1000L](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1000L)
     - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1000L/)
 
-## #26 Yamaha YST-SW215
+## #25 Yamaha YST-SW215
 - CEA-2010-A Average (40-80Hz): 103.6 dB
 - Country: Japan
 - Dimensions: 14.18"H x 11.43"W x 12.68"D (360.2 x 290.3 x 322.1 mm)
@@ -585,7 +563,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Yamaha YST-SW215](https://www.reddit.com/search/?q=Yamaha+YST-SW215)
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-YST-SW215/)
 
-## #27 Focal Sub Air: $1,290
+## #26 Focal Sub Air: $1,290
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 103.0 dB
 - Cabinet Color: black
@@ -606,7 +584,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Focal Sub Air](https://www.reddit.com/search/?q=Focal+Sub+Air)
     - [Direct Speakerranking Link](/subwoofer/speakers/Focal-Sub-Air/)
 
-## #28 JL Audio Dominion d108: $1,100
+## #27 JL Audio Dominion d108: $1,100
 - Notes: Ash colour.
 - CEA-2010-A Average (40-80Hz): 103.0 dB
 - Cabinet Color: black
@@ -630,7 +608,7 @@ Last updated: March 17, 2026
     - [Reddit Search for JL Audio Dominion d108](https://www.reddit.com/search/?q=JL+Audio+Dominion+d108)
     - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-Dominion-d108/)
 
-## #29 Jamo SUB 800
+## #28 Jamo SUB 800
 - CEA-2010-A Average (40-80Hz): 102.2 dB (avg of 3/4 bands)
 - Country: Denmark
 - Dimensions: 8.0"H x 8.0"W x 8.0"D (203.2 x 203.2 x 203.2 mm)
@@ -642,13 +620,13 @@ Last updated: March 17, 2026
 - Output SPL at 40 Hz: 95.1 dB
 - Output SPL at 50 Hz: 103.2 dB
 - Output SPL at 63 Hz: 108.4 dB
-- Weight: 2.08lbs / 0.9kg
+- Weight: 10.1lbs / 4.6kg
 - Links
     - [Jamo SUB 800 Website](https://www.jamo.com/products/sub800)
     - [Reddit Search for Jamo SUB 800](https://www.reddit.com/search/?q=Jamo+SUB+800)
     - [Direct Speakerranking Link](/subwoofer/speakers/Jamo-SUB-800/)
 
-## #30 Gallo Acoustics TR-1
+## #29 Gallo Acoustics TR-1
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 102.1 dB
 - Cabinet Color: black
@@ -671,7 +649,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Gallo Acoustics TR-1](https://www.reddit.com/search/?q=Gallo+Acoustics+TR-1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Gallo-Acoustics-TR-1/)
 
-## #31 Wharfedale DX-1
+## #30 Wharfedale DX-1
 - CEA-2010-A Average (40-80Hz): 101.9 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 13.4"H x 11.4"W x 12.8"D (340.4 x 289.6 x 325.1 mm)
@@ -688,7 +666,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Wharfedale DX-1](https://www.reddit.com/search/?q=Wharfedale+DX-1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Wharfedale-DX-1/)
 
-## #32 Yamaha YST-SW012
+## #31 Yamaha YST-SW012
 - CEA-2010-A Average (40-80Hz): 101.6 dB
 - Country: Japan
 - Dimensions: 11.37"H x 11.37"W x 12.87"D (288.8 x 288.8 x 326.9 mm)
@@ -710,7 +688,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Yamaha YST-SW012](https://www.reddit.com/search/?q=Yamaha+YST-SW012)
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-YST-SW012/)
 
-## #33 Q Acoustics 3060S: $332.45
+## #32 Q Acoustics 3060S: $332.45
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 101.5 dB
 - Cabinet Color: black, white, wood, grey
@@ -732,7 +710,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Q Acoustics 3060S](https://www.reddit.com/search/?q=Q+Acoustics+3060S)
     - [Direct Speakerranking Link](/subwoofer/speakers/Q-Acoustics-3060S/)
 
-## #34 Andover Audio SpinSub: $350
+## #33 Andover Audio SpinSub: $350
 - CEA-2010-A Average (40-80Hz): 101.4 dB
 - Cabinet Color: black, grey
 - Country: United States
@@ -752,7 +730,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Andover Audio SpinSub](https://www.reddit.com/search/?q=Andover+Audio+SpinSub)
     - [Direct Speakerranking Link](/subwoofer/speakers/Andover-Audio-SpinSub/)
 
-## #35 Sonos Sub Mini: $430
+## #34 Sonos Sub Mini: $430
 - CEA-2010-A Average (40-80Hz): 100.4 dB
 - Cabinet Color: black, white
 - Country: United States
@@ -774,7 +752,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Sonos Sub Mini](https://www.reddit.com/search/?q=Sonos+Sub+Mini)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sonos-Sub-Mini/)
 
-## #36 Savant NANO-1: $1,196.82
+## #35 Savant NANO-1: $1,196.82
 - Notes: Previouly known as 'Artison'
 - CEA-2010-A Average (40-80Hz): 100.3 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
@@ -796,7 +774,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Savant NANO-1](https://www.reddit.com/search/?q=Savant+NANO-1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Savant-NANO-1/)
 
-## #37 Monoprice Monolith 8 THX Certified: $350
+## #36 Monoprice Monolith 8 THX Certified: $350
 - Notes: Product # 41289
 - CEA-2010-A Average (40-80Hz): 99.6 dB
 - Cabinet Color: black
@@ -819,7 +797,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Monoprice Monolith 8 THX Certified](https://www.reddit.com/search/?q=Monoprice+Monolith+8+THX+Certified)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-8-THX-Certified/)
 
-## #38 Paradigm Millenia CT
+## #37 Paradigm Millenia CT
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 99.0 dB (avg of 3/4 bands)
 - Country: Canada
@@ -833,13 +811,13 @@ Last updated: March 17, 2026
 - Output SPL at 50 Hz: 100.0 dB
 - Output SPL at 63 Hz: 106.7 dB
 - Warranty: 3
-- Weight: 5.0lbs / 2.3kg
+- Weight: 12.5lbs / 5.7kg
 - Links
     - [Paradigm Millenia CT Website](https://www.paradigm.com/en/systems/millenia-ct)
     - [Reddit Search for Paradigm Millenia CT](https://www.reddit.com/search/?q=Paradigm+Millenia+CT)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Millenia-CT/)
 
-## #39 Axiom Audio EP400 v3
+## #38 Axiom Audio EP400 v3
 - CEA-2010-A Average (40-80Hz): 98.5 dB
 - Country: Canada
 - Dimensions: 13.75"H x 10.5"W x 16.8"D (349.2 x 266.7 x 426.7 mm)
@@ -860,7 +838,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Axiom Audio EP400 v3](https://www.reddit.com/search/?q=Axiom+Audio+EP400+v3)
     - [Direct Speakerranking Link](/subwoofer/speakers/Axiom-Audio-EP400-v3/)
 
-## #40 Roku Subwoofer 9201X
+## #39 Roku Subwoofer 9201X
 - CEA-2010-A Average (40-80Hz): 94.0 dB
 - Cabinet Color: black
 - Country: United States
@@ -882,7 +860,7 @@ Last updated: March 17, 2026
     - [Reddit Search for Roku Subwoofer 9201X](https://www.reddit.com/search/?q=Roku+Subwoofer+9201X)
     - [Direct Speakerranking Link](/subwoofer/speakers/Roku-Subwoofer-9201X/)
 
-## #41 PSB Speakers SubSeries 100
+## #40 PSB Speakers SubSeries 100
 - CEA-2010-A Average (40-80Hz): 93.2 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 6.37"H x 6.37"W x 7.87"D (161.8 x 161.8 x 199.9 mm)
@@ -903,7 +881,7 @@ Last updated: March 17, 2026
     - [Reddit Search for PSB Speakers SubSeries 100](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+100)
     - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-100/)
 
-## #42 REL Acoustics Tzero MKIII: $598.41
+## #41 REL Acoustics Tzero MKIII: $598.41
 - CEA-2010-A Average (40-80Hz): 89.2 dB
 - Cabinet Color: black, white
 - Country: United Kingdom

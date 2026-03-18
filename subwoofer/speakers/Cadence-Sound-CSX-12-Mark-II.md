@@ -2,10 +2,10 @@
 layout: page
 title: Cadence Sound CSX-12 Mark II Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Cadence Sound CSX-12 Mark II ranks #27 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Cadence Sound CSX-12 Mark II ranks #27 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Cadence Sound CSX-12 Mark II ranks [#27 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#27-cadence-sound-csx-12-mark-ii-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Cadence Sound CSX-12 Mark II ranks [#27 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#27-cadence-sound-csx-12-mark-ii-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #27 Cadence Sound CSX-12 Mark II
 - CEA-2010-A Average (40-80Hz): 115.6 dB (avg of 3/4 bands)

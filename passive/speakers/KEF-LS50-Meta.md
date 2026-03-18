@@ -12,7 +12,7 @@ The KEF LS50 Meta ranks [#3 out of 20 total Medium Size Bookshelf Speakers](/pas
 - Negatives: 3dB dip at 1.2khz, 2dB dip at 2.4-2.8khz
 - Bass Extension (-10dB): 43Hz
 - Bass Extension (-3dB): 68Hz
-- Dimensions: 11.9"H x 7.9"W x 11.0"D (302.3 x 200.7 x 279.4 mm)
+- Dimensions: 11.9"H x 7.9"W x 11.1"D (302 x 200 x 280.5 mm)
 - Driver: 130 mm (5.25 in.) aluminium cone woofer, 25 mm (1 in.) vented aluminium dome with Metamaterial Absorption tweeter
 - Impedance: 8 ohms
 - Sensitivity: 85dB

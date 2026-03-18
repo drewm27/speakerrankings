@@ -2,12 +2,12 @@
 layout: page
 title: REL Acoustics T-7 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The REL Acoustics T-7 ranks #121 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The REL Acoustics T-7 ranks #122 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The REL Acoustics T-7 ranks [#121 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#121-rel-acoustics-t-7-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The REL Acoustics T-7 ranks [#122 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#122-rel-acoustics-t-7-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #121 REL Acoustics T-7
+## #122 REL Acoustics T-7
 - CEA-2010-A Average (40-80Hz): 106.2 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 13.75"H x 12.0"W x 13.75"D (349.2 x 304.8 x 349.2 mm)

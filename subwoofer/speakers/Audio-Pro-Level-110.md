@@ -2,12 +2,12 @@
 layout: page
 title: Audio Pro Level 110 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Audio Pro Level 110 ranks #127 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Audio Pro Level 110 ranks #128 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Audio Pro Level 110 ranks [#127 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#127-audio-pro-level-110-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Audio Pro Level 110 ranks [#128 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#128-audio-pro-level-110-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #127 Audio Pro Level 110
+## #128 Audio Pro Level 110
 - CEA-2010-A Average (40-80Hz): 104.5 dB
 - Cabinet Color: wood
 - Country: Sweden

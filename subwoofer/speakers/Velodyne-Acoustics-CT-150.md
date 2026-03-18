@@ -2,12 +2,12 @@
 layout: page
 title: Velodyne Acoustics CT-150 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Velodyne Acoustics CT-150 ranks #59 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Velodyne Acoustics CT-150 ranks #60 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Velodyne Acoustics CT-150 ranks [#59 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#59-velodyne-acoustics-ct-150-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Velodyne Acoustics CT-150 ranks [#60 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#60-velodyne-acoustics-ct-150-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #59 Velodyne Acoustics CT-150
+## #60 Velodyne Acoustics CT-150
 - CEA-2010-A Average (40-80Hz): 112.4 dB
 - Country: United States
 - Dimensions: 18.5"H x 21.0"W x 20.0"D (469.9 x 533.4 x 508.0 mm)

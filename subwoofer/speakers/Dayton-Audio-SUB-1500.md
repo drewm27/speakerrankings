@@ -2,12 +2,12 @@
 layout: page
 title: Dayton Audio SUB-1500 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Dayton Audio SUB-1500 ranks #74 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Dayton Audio SUB-1500 ranks #75 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Dayton Audio SUB-1500 ranks [#74 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#74-dayton-audio-sub-1500-260) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Dayton Audio SUB-1500 ranks [#75 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#75-dayton-audio-sub-1500-260) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #74 Dayton Audio SUB-1500: $260
+## #75 Dayton Audio SUB-1500: $260
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States

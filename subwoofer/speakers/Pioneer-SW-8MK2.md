@@ -2,12 +2,12 @@
 layout: page
 title: Pioneer SW-8MK2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Pioneer SW-8MK2 ranks #18 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Pioneer SW-8MK2 ranks #17 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Pioneer SW-8MK2 ranks [#18 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#18-pioneer-sw-8mk2-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Pioneer SW-8MK2 ranks [#17 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#17-pioneer-sw-8mk2-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #18 Pioneer SW-8MK2
+## #17 Pioneer SW-8MK2
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black
 - Country: Japan

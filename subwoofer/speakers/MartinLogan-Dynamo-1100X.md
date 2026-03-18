@@ -2,10 +2,10 @@
 layout: page
 title: MartinLogan Dynamo 1100X Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The MartinLogan Dynamo 1100X ranks #19 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The MartinLogan Dynamo 1100X ranks #19 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The MartinLogan Dynamo 1100X ranks [#19 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#19-martinlogan-dynamo-1100x-124160) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The MartinLogan Dynamo 1100X ranks [#19 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#19-martinlogan-dynamo-1100x-124160) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #19 MartinLogan Dynamo 1100X: $1,241.60
 - CEA-2010-A Average (40-80Hz): 116.5 dB

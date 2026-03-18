@@ -2,12 +2,12 @@
 layout: page
 title: Kef KC62 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Kef KC62 ranks #136 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Kef KC62 ranks #137 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Kef KC62 ranks [#136 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#136-kef-kc62-1500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Kef KC62 ranks [#137 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#137-kef-kc62-1500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #136 Kef KC62: $1,500
+## #137 Kef KC62: $1,500
 - CEA-2010-A Average (40-80Hz): 96.9 dB
 - Cabinet Color: black, white
 - Country: United Kingdom

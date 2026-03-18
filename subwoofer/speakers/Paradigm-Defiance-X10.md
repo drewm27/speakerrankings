@@ -2,12 +2,12 @@
 layout: page
 title: Paradigm Defiance X10 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Paradigm Defiance X10 ranks #111 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Paradigm Defiance X10 ranks #112 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Paradigm Defiance X10 ranks [#111 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#111-paradigm-defiance-x10-98597) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Paradigm Defiance X10 ranks [#112 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#112-paradigm-defiance-x10-98597) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #111 Paradigm Defiance X10: $985.97
+## #112 Paradigm Defiance X10: $985.97
 - CEA-2010-A Average (40-80Hz): 107.9 dB
 - Cabinet Color: black
 - Country: Canada

@@ -2,12 +2,12 @@
 layout: page
 title: Revel B8 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Revel B8 ranks #21 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Revel B8 ranks #20 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Revel B8 ranks [#21 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#21-revel-b8-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Revel B8 ranks [#20 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#20-revel-b8-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #21 Revel B8: $500
+## #20 Revel B8: $500
 - CEA-2010-A Average (40-80Hz): 105.5 dB
 - Cabinet Color: black, white
 - Country: United States

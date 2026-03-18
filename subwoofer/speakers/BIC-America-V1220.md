@@ -2,12 +2,12 @@
 layout: page
 title: BIC America V1220 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The BIC America V1220 ranks #94 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The BIC America V1220 ranks #95 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The BIC America V1220 ranks [#94 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#94-bic-america-v1220-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The BIC America V1220 ranks [#95 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#95-bic-america-v1220-200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #94 BIC America V1220: $200
+## #95 BIC America V1220: $200
 - CEA-2010-A Average (40-80Hz): 109.4 dB
 - Cabinet Color: black
 - Country: United States

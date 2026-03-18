@@ -2,10 +2,10 @@
 layout: page
 title: PSB Speakers SubSeries 450 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The PSB Speakers SubSeries 450 ranks #24 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The PSB Speakers SubSeries 450 ranks #24 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The PSB Speakers SubSeries 450 ranks [#24 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#24-psb-speakers-subseries-450-189891) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The PSB Speakers SubSeries 450 ranks [#24 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#24-psb-speakers-subseries-450-189891) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #24 PSB Speakers SubSeries 450: $1,898.91
 - CEA-2010-A Average (40-80Hz): 116.1 dB

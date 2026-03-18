@@ -2,10 +2,10 @@
 layout: page
 title: SVS SB-3000 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The SVS SB-3000 ranks #9 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The SVS SB-3000 ranks #9 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The SVS SB-3000 ranks [#9 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#9-svs-sb-3000-1100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The SVS SB-3000 ranks [#9 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#9-svs-sb-3000-1100) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #9 SVS SB-3000: $1,100
 - CEA-2010-A Average (40-80Hz): 118.7 dB

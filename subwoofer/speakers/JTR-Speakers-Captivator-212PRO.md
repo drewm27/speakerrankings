@@ -2,10 +2,10 @@
 layout: page
 title: JTR Speakers Captivator 212PRO Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JTR Speakers Captivator 212PRO ranks #1 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The JTR Speakers Captivator 212PRO ranks #1 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JTR Speakers Captivator 212PRO ranks [#1 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#1-jtr-speakers-captivator-212pro-2600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JTR Speakers Captivator 212PRO ranks [#1 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#1-jtr-speakers-captivator-212pro-2600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 JTR Speakers Captivator 212PRO: $2,600
 - Notes: Looks like "PA sub"

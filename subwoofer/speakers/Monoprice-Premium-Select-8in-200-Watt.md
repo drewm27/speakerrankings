@@ -2,12 +2,12 @@
 layout: page
 title: Monoprice Premium Select 8in 200-Watt Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Monoprice Premium Select 8in 200-Watt ranks #17 out of 42 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
+share-description: "The Monoprice Premium Select 8in 200-Watt ranks #16 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice Premium Select 8in 200-Watt ranks [#17 out of 42 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#17-monoprice-premium-select-8in-200-watt-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice Premium Select 8in 200-Watt ranks [#16 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#16-monoprice-premium-select-8in-200-watt-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #17 Monoprice Premium Select 8in 200-Watt: $130
+## #16 Monoprice Premium Select 8in 200-Watt: $130
 - Notes: Product # 14567
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black

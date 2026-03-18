@@ -2,10 +2,10 @@
 layout: page
 title: Starke Sound SW15 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Starke Sound SW15 ranks #13 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The Starke Sound SW15 ranks #13 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Starke Sound SW15 ranks [#13 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#13-starke-sound-sw15-1075) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Starke Sound SW15 ranks [#13 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#13-starke-sound-sw15-1075) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #13 Starke Sound SW15: $1,075
 - CEA-2010-A Average (40-80Hz): 117.3 dB

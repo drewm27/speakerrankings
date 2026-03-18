@@ -2,12 +2,12 @@
 layout: page
 title: MartinLogan Dynamo 600X Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The MartinLogan Dynamo 600X ranks #101 out of 136 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
+share-description: "The MartinLogan Dynamo 600X ranks #102 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The MartinLogan Dynamo 600X ranks [#101 out of 136 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#101-martinlogan-dynamo-600x-54776) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The MartinLogan Dynamo 600X ranks [#102 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#102-martinlogan-dynamo-600x-54776) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #101 MartinLogan Dynamo 600X: $547.76
+## #102 MartinLogan Dynamo 600X: $547.76
 - CEA-2010-A Average (40-80Hz): 108.9 dB
 - Cabinet Color: black
 - Country: United States
