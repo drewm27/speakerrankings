@@ -11,4 +11,3 @@ Now moved to their own pages by size
 - [Bookshelf Small Size Speakers](/powered/bookshelf-small/)
 - [Bookshelf Medium Size Speakers](/powered/bookshelf-medium/)
 - [Bookshelf Large Size Speakers](/powered/bookshelf-large/)
-

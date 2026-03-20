@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Expert rankings of 367 Bluetooth speakers with removable battery. Detailed specs, sound samples & EQ settings."
 ---
 
-**Looking for the best Bluetooth speaker with a removable battery?** We've hand selected and ranked 367 portable speakers by audio performance. All recommendations prioritize sound quality with a required removable battery by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 18, 2026.**
+**Looking for the best Bluetooth speaker with a removable battery?** We've hand selected and ranked 367 portable speakers by audio performance. All recommendations prioritize sound quality with a required removable battery by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 19, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 

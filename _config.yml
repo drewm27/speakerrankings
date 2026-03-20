@@ -56,6 +56,12 @@ navbar-links:
     - Large Size Powered Desktop Speakers: "/powered/desktop-large/"
     - Large Size Passive Bookshelf Speakers: "/passive/bookshelf-large/"
     - Large Size Passive Floorstanding Speakers: "/passive/floorstanding-large/"
+    - Small Powered Subwoofers: "/subwoofer/powered-small/"
+    - Medium Powered Subwoofers: "/subwoofer/powered-medium/"
+    - Large Powered Subwoofers: "/subwoofer/powered-large/"
+    - Small Passive Subwoofers: "/subwoofer/passive-small/"
+    - Medium Passive Subwoofers: "/subwoofer/passive-medium/"
+    - Large Passive Subwoofers: "/subwoofer/passive-large/"
   Information:
     - Information About the Rankings: "information-about-the-rankings/"
     - Information Applying to All Speakers: "information-applying-to-all-speakers/"

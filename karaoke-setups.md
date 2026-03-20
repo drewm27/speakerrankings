@@ -24,4 +24,3 @@ See these links for speakers which have direct [microphone inputs](/portable/bes
 ## Professional Setups
 
 For more professional setups with PA speakers and a mixer, see the [Best Portable Speakers for parties over 50 people](/portable/loudest-speakers/)
-
