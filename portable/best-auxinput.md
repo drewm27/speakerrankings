@@ -2,11 +2,11 @@
 layout: page
 title: Best Portable Bluetooth Speakers With Aux Input 
 comments: true
-cover-img: "/assets/img/uboomx.jpg"
+cover-img: "/assets/img/blast.jpg"
 share-description: "Expert rankings of 367 Bluetooth speakers with aux input. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for sound quality with aux input?** We've ranked 367 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 19, 2026.**
+**Looking for the best Bluetooth speaker for sound quality with aux input?** We've ranked 367 portable speakers by audio performance—from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 20, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -186,79 +186,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Boombox
 
-### The best [boombox size](/portable/boombox/) battery powered speaker with aux input for deep bass and excellent sound quality, that can get loud for a party but can still be carried by hand is the [**Earfun Uboom X**](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
-- Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone) and he knocked it out of the park again. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every single volume level due to Oluv's individual EQ settings at each volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L.
-- Negatives: The out of the box 0.33 firmware and EQ sounds horrible. Some people have mentioned sound interruption issues when using 2 in TWS, I don't have this issue with my Pixel 7 Pro, try disabling AAC in that case
-- Setup: Please update it using the Earfun app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) and select an Oluv EQ. The Earfun app has sound profiles created by Oluv for [Studio, Indoor, Indoor+, Outdoor, Outdoor+, BOOM xxX, and Ground 0](https://www.reddit.com/r/Bluetooth_Speakers/comments/1jbzt2m/the_truth_about_the_earfun_uboom_x_and_my_part/) which are all fantastic. Oluv has a newer [firmware pack](https://www.patreon.com/oluvsone/shop/earfun-uboom-x-custom-firmware-pack-039-1868710) that brings it up a few more notches of neutral
-- App: Yes (Earfun Audio app)
-- Aux Input: Yes
-- Aux Latency: 16ms
-- Bass Extension (-10dB): ~38Hz
-- Battery Life: 30 hours (Manufacturer specified)
-- Bluetooth Codecs: AAC, SBC
-- Bluetooth Latency: SBC Video mode 48ms, AAC Video mode 128ms, SBC 112ms, AAC 176ms
-- Bluetooth Version: 5.3
-- Built in Microphone: Yes
-- Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
-- EQ: Yes (App EQ)
-- FM Tuner: No
-- IP Rating: IP67
-- Max Volume: 110dB
-- Output Power: 80W
-- Party Mode: Yes (Up to 50 speakers)
-- Power Bank: Yes
-- Power Input: USB-C
-- Stereo: Yes
-- TWS: Yes
-- USB Playback: No
-- Weight: 4.1 kg / 9.04 lbs
-- Reviews, Comparisons and Sound Samples
-    - [JOY‘s 3D Audio Show: B&W Zeppelin - audiophile sound quality test 🎧](https://www.youtube.com/watch?v=8of5JtgX62I)
-    - [Oluv: B&W Zeppelin vs Earfun UBoom X (indoor+)](https://www.patreon.com/posts/b-w-zeppelin-vs-124704723)
-    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
-    - [Audiophile housewife: Tribit Stormbox Blast vs Earfun UBoom X, a PROPER sound test 😎](https://www.youtube.com/watch?v=Q3Wge2qf3xc)
-    - [Audiophile housewife: B&O Beolit 20 vs Earfun UBoom X - everything fake?](https://www.youtube.com/watch?v=XVWtn8ynaPI)
-    - [Audiophile housewife: 🎃🔥 UBoom X - Halloween Rock Special 🎸🤘](https://www.youtube.com/watch?v=_Dqt64zNjPM)
-    - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6, Xtreme 4 & Earfun UBoom X - taking sound to the top](https://www.youtube.com/watch?v=YAj5BIASWL0)
-    - [M1M Tech Channel: Partybox Killer? 2x Earfun UBoom X stärker als JBL Encore 2 ?](https://www.youtube.com/watch?v=I6vI1TSoYx8)
-    - [Mateusz Cholewa: EarFun UBOOM X Deep Bass 🆚 Tribit Stormbox Blast🎶Review👌](https://www.youtube.com/watch?v=R96XSoGD1_4)
-    - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)
-    - [Audiophile housewife: $600 premium Bluetooth speaker vs $115 cheapo UBoom X](https://www.youtube.com/watch?v=yt9X287XsC8)
-    - [Audiophile housewife: Tribit Stormbox Blast 2 - outdoor sound test](https://www.youtube.com/watch?v=KDaYpf_b2dU)
-    - [Audiophile housewife: Tribit Stormbox Blast 2 - indoor sound test](https://www.youtube.com/watch?v=po3dB1Ino1U)
-    - [Audiophile housewife: Tribit Stormbox Blast 2 vs 2 Earfun UBoom X - outdoor test](https://www.youtube.com/watch?v=hX6IH6pI33E)
-    - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: outdoors](https://www.youtube.com/watch?v=df-IGT1k1KI)
-    - [Audiophile housewife: JBL Partybox Encore vs Earfun UBoom X: indoors](https://www.youtube.com/watch?v=A9kE4-gpzBk)
-    - [Audiophile housewife: Soundcore Motion Boom Plus & Earfun UBoom X - sound test](https://www.youtube.com/watch?v=kJpfndYpglk)
-    - [Audiophile housewife: Earfun  UBoom X vs W-King D10  - same price, same sound?](https://www.youtube.com/watch?v=CMzU7kqyQyI)
-    - [Audiophile housewife: Best portable speakers 2025 - get the best bang for your buck $$$](https://www.youtube.com/watch?v=3Pa6FUt1GU8)
-    - [Oluv: JBL Partybox 720 - first impressions](https://www.patreon.com/posts/jbl-partybox-720-148072427)
-    - [Oluv: Harman Kardon go+play 3 vs Earfun UBoom X](https://www.patreon.com/posts/harman-kardon-go-107508888)
-    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor test](https://www.patreon.com/posts/earfun-uboom-x-3-109640648)
-    - [Oluv: Earfun UBoom X im Vergleich zum Teufel nochmal](https://www.patreon.com/posts/earfun-uboom-x-107936392)
-    - [Oluv: Earfun UBoom X vs JBL Boombox 3 - outdoor](https://www.patreon.com/posts/earfun-uboom-x-3-107811131)
-    - [Oluv: UBoom X - desktop mode demonstration](https://www.patreon.com/posts/uboom-x-desktop-112000449)
-    - [Oluv: Earfun UBoom X - different firmware versions](https://www.patreon.com/posts/earfun-uboom-x-109887332)
-    - [Oluv: UBoom X - final outdoor test](https://www.patreon.com/posts/uboom-x-final-107131115)
-    - [Oluv: Tribit Stormbox Blast vs Earfun UBoom X - outdoor test](https://www.patreon.com/posts/tribit-stormbox-106255927)
-    - [Oluv: Earfun UBoom X - listening session](https://www.patreon.com/posts/earfun-uboom-x-106109816)
-    - [Oluv: Earfun UBoom X vs JBL Partybox 100](https://www.patreon.com/posts/earfun-uboom-x-106176357)
-    - [Oluv: Earfun UBoom X - final sound check](https://www.patreon.com/posts/earfun-uboom-x-105747123)
-    - [Oluv: Earfun UBoom X - teaser 3](https://www.patreon.com/posts/earfun-uboom-x-3-105693987)
-    - [Oluv: Earfun UBoom X - teaser 2](https://www.patreon.com/posts/earfun-uboom-x-2-105645365)
-    - [Oluv: Earfun UBoom X - teaser 1](https://www.patreon.com/posts/earfun-uboom-x-1-104380759)
-    - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
-    - [Oluv: JBL Authentics 300 - listening session](https://www.patreon.com/posts/jbl-authentics-125756901)
-    - [Oluv: Zealot S89 vs Yeahbox Boom Max3 - indoor listening test](https://www.patreon.com/posts/zealot-s89-vs-152136699)
-    - [Alan Ross Reviews: Earfun Uboom X Mini Boombox bluetooth speaker, a PROPER review 😝](https://www.youtube.com/watch?v=r1Du_IxlPKk)
-    - [JOY‘s 🎧3D🔈Audio-Show: JBL Boombox 4 vs Earfun UBoom X - sound test](https://www.youtube.com/watch?v=gXrJp78XiQY)
-    - [Josh's Gadgets and More: Earfun Uboom X vs ZZA K8 sound comparison](https://www.youtube.com/watch?v=YS7zQaaiG3c)
-- Links
-    - [Official Product Page](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)
-    - [Reddit Search for Earfun Uboom X](https://www.reddit.com/search/?q=Earfun+Uboom+X)
-
-
-### If the Uboom X is out of stock, I'd recommend the [**Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170
+### The best [boombox size](/portable/boombox/) battery powered speaker with aux input for deep bass and excellent sound quality, that can get loud for a party but can still be carried by hand is the [**Tribit Stormbox Blast**](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Blast-Portable-Speaker/dp/B09PMYTJD2/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=ce0a6d06fae6af4067a3009be52cbfe5&camp=1789&creative=9325)]: $170
 - Positives: Amazing speaker given its size, competes well with some speakers in the Party size class, bass almost as deep as a Partybox 100. Quite neutral in the default and xbass modes, but try [Oluv's EQ](https://www.patreon.com/oluvsone/shop/tribit-stormbox-blast-firmware-3-5-eq-171437) or [Alan Ross's EQ](https://www.instagram.com/p/Cn44K22IzqT/?utm_source=ig_web_button_share_sheet) for a slightly more neutral sound. Oluv has mentioned v3.5 now uses his EQ as the defaults and sounds extremely good. 2 different light modes or can be turned off.
 - Negatives: Lacks a bit of detail compared to the top ranked speakers in other size categories, dip at 5.5khz. Without the above EQ this speaker would rank around #4 in the rankings. The curved underside of the handle makes it a little harder to grip and can be uncomfortable to carry long distances.
 - App: Yes (Tribit App)

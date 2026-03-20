@@ -1,0 +1,38 @@
+---
+layout: page
+title: Marshall Woburn I Specifications and Review
+cover-img: "/assets/img/homeimage.jpg"
+share-description: "The Marshall Woburn I ranks #7 out of 14 total Medium Size Powered Desktop Speakers. Find all the specifications and reviews in one place"
+---
+
+The Marshall Woburn I ranks [#7 out of 14 total Medium Size Powered Desktop Speakers](/powered/desktop-medium/#7-marshall-woburn-i-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+
+## #7 Marshall Woburn I: $500
+- Negatives: Peaky midrange, treble rolloff. Not as deep bass as others in the class
+- App: No
+- Aux Input: Yes
+- Bass Extension (-10dB): ~50Hz
+- Battery Life: No Battery
+- Bluetooth Codecs: SBC, aptX
+- Bluetooth Version: 4.0
+- Dimensions: 15.75" x 12.13" x 7.87" (400 x 308 x 200 mm)
+- Driver: 2x 5.25" woofers, Integrated in woofers midrange, 2x 1" tweeters
+- EQ: Yes (Bass/Treble)
+- Frequency Response: 30Hz - 20kHz (Manufacturer specified)
+- IP Rating: None
+- Inputs: Bluetooth, RCA, Aux
+- Output Power: 90W
+- Party Mode: No
+- Power Input: AC Power cord
+- Stereo: Yes
+- TWS: No
+- Weight: 17.4lbs / 7.9kg
+- Wifi: No
+- Woofer Cabinet: Ported
+- Reviews, Comparisons and Sound Samples
+    - [Danny Pops: It's Worth it! Marshall Woburn 3 Full Review](https://www.youtube.com/watch?v=ypwOXcoMqdo)
+    - [Danny Pops: Marshall Woburn II OR Woburn I? (sound test with Tufton & Emberton)](https://www.youtube.com/watch?v=K3350eIvszw)
+    - [Reddit Search for Marshall Woburn I](https://www.reddit.com/search/?q=Marshall+Woburn+I)
+
+
+As an Amazon Associate I earn from qualifying purchases.
