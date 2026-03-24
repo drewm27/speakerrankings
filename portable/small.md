@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
-Last updated: March 20, 2026
+Last updated: March 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -500,7 +500,7 @@ Last updated: March 20, 2026
     - [Direct Speakerranking Link](/portable/speakers/Mifa-Tango/)
 
 ## #17 [Bose Soundlink Micro 2](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=se&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=se&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl)]: $129
-- Negatives: Lack of clarity. Overly boosted bass
+- Negatives: Lack of clarity. Overly boosted bass that causes some thudding. Overly boosted treble, turn down bass and treble in the EQ.
 - App: Yes
 - Aux Input: No
 - Battery Life: 12 hours (Manufacturer specified)
@@ -518,6 +518,7 @@ Last updated: March 20, 2026
 - TWS: Yes
 - Weight: 0.725lbs / 329g
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: Bose SoundLink Micro 2nd gen - any improvement?](https://www.patreon.com/posts/bose-soundlink-153774587)
     - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
 - Links
     - [Official Product Page](https://www.bose.com/p/speakers/bose-soundlink-micro-portable-speaker-2nd-gen/SLMC2-SPEAKERWIRELESS.html)
