@@ -213,6 +213,7 @@ Last updated: March 25, 2026
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
@@ -579,6 +580,7 @@ Last updated: March 25, 2026
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: Yes
 - USB Audio: Yes
@@ -1193,6 +1195,7 @@ Last updated: March 25, 2026
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
 - USB Playback: No

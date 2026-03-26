@@ -20,6 +20,7 @@ The Teufel Boomster NG (2017) ranks [#34 out of 67 total Boombox Size Portable B
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: No
 - USB Playback: No

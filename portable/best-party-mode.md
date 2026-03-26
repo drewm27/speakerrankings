@@ -160,6 +160,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
+- Removable Battery: Yes
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
