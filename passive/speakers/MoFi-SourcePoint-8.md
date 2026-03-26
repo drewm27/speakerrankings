@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The MoFi SourcePoint 8 ranks #9 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The MoFi SourcePoint 8 ranks [#9 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#9-mofi-sourcepoint-8-audioadvice-used-listings-2200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The MoFi SourcePoint 8 ranks [#9 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#9-mofi-sourcepoint-8-crutchfield-used-listings-2200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #9 [MoFi SourcePoint 8](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-8-loudspeakers-pair-satin-black)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
+## #9 [MoFi SourcePoint 8](https://howl.link/fz10kma7ydct5) [[Crutchfield](https://howl.link/fz10kma7ydct5)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+SourcePoint+8)]: $2200
 - Positives: Smooth frequency response. Fantastic off axis horizontally and vertically due to the coaxial driver
 - Bass Extension (-10dB): 43Hz
 - Bass Extension (-3dB): 52Hz

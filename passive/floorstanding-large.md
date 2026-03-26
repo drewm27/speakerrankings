@@ -52,7 +52,7 @@ Last updated: March 25, 2026
     - [Reddit Search for KEF Blade Two Meta](https://www.reddit.com/search/?q=KEF+Blade+Two+Meta)
     - [Direct Speakerranking Link](/passive/speakers/KEF-Blade-Two-Meta/)
 
-## #3 [MoFi SourcePoint V10 Master Edition](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-v10-master-edition-floorstanding-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=MoFi+SourcePoint+V10+Master+Edition)]: $8000 a pair
+## #3 [MoFi SourcePoint V10 Master Edition](https://howl.link/haoimspk4fqxf) [[Crutchfield](https://howl.link/haoimspk4fqxf)] [[Used Listings](https://www.hifizero.com/index.php?q=MoFi+SourcePoint+V10+Master+Edition)]: $8000 a pair
 - Positives: One of the best value floorstanders
 - Bass Extension (-10dB): 25Hz
 - Bass Extension (-3dB): 38Hz
@@ -177,7 +177,7 @@ Last updated: March 25, 2026
     - [Reddit Search for Revel F206](https://www.reddit.com/search/?q=Revel+F206)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F206/)
 
-## #10 [MoFi SourcePoint 888](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut) [[Audioadvice](https://www.audioadvice.com/products/mofi-electronics-sourcepoint-888-floorstanding-pair-walnut)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+Sourcepoint+888)]: $5500
+## #10 [MoFi SourcePoint 888](https://howl.link/d4d4x2q6fmrie) [[Crutchfield](https://howl.link/d4d4x2q6fmrie)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+Sourcepoint+888)]: $5500
 - Positives: Great off axis. Great bass extension
 - Negatives: Some dipped area reaching 3dB from 3khz to 7khz
 - Bass Extension (-10dB): 26Hz
@@ -398,7 +398,7 @@ Last updated: March 25, 2026
     - [Reddit Search for JBL Studio 590](https://www.reddit.com/search/?q=JBL+Studio+590)
     - [Direct Speakerranking Link](/passive/speakers/JBL-Studio-590/)
 
-## #24 [Klipsch Forte IV](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html) [[Crutchfield](https://www.crutchfield.com/p_700FORTE4W/Klipsch-Heritage-Forte-IV-American-Walnut.html)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+Forte+IV)]: $5500
+## #24 [Klipsch Forte IV](https://howl.link/2db2n6idkl19b) [[Crutchfield](https://howl.link/2db2n6idkl19b)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+Forte+IV)]: $5500
 - Negatives: 4dB peak at 6khz, 3dB dip at 7khz, 3dB peak at 8.5khz. Very peaky up top. Bass rolls off quite quick due to the high sensitivity. Not recommended
 - Bass Extension (-10dB): 39Hz
 - Bass Extension (-3dB): 82Hz
