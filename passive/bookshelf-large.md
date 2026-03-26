@@ -398,7 +398,7 @@ Last updated: March 25, 2026
     - [Reddit Search for ELAC DBR63](https://www.reddit.com/search/?q=ELAC+DBR63)
     - [Direct Speakerranking Link](/passive/speakers/ELAC-DBR63/)
 
-## #21 [JBL HDI-1600](https://sovrn.co/xgfeafc) [[Crutchfield](https://sovrn.co/xgfeafc)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+HDI-1600)]: $1980 a pair
+## #21 [JBL HDI-1600](https://howl.link/8yvq3vidiekgl) [[Crutchfield](https://howl.link/8yvq3vidiekgl)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+HDI-1600)]: $1980 a pair
 - Positives: Slight bass boost at 130hz
 - Negatives: 5dB dip at 10.1k. Some resonance around 700hz and 2khz
 - Impedance: 4 ohms
@@ -686,7 +686,7 @@ Last updated: March 25, 2026
     - [Reddit Search for Audio Craftsmen Victoria](https://www.reddit.com/search/?q=Audio+Craftsmen+Victoria)
     - [Direct Speakerranking Link](/passive/speakers/Audio-Craftsmen-Victoria/)
 
-## #40 [Sonus Faber Sonetto II G2](https://sovrn.co/kesxoj5) [[Crutchfield](https://sovrn.co/kesxoj5)] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
+## #40 [Sonus Faber Sonetto II G2](https://howl.link/61fibujn6dwpy) [[Crutchfield](https://howl.link/61fibujn6dwpy)] [[Used Listings](https://www.hifizero.com/index.php?q=Sonus+Faber+Sonetto+II+G2)]: $3500
 - Negatives: Big 4dB peak at 670Hz, 2dB peak at 5khz. Not recommended for the price
 - Bass Extension (-10dB): 38Hz
 - Bass Extension (-3dB): 62Hz

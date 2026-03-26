@@ -7,7 +7,7 @@ share-description: "The Revel F228Be ranks #6 out of 25 total Large Size Floorst
 
 The Revel F228Be ranks [#6 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#6-revel-f228be-crutchfield-used-listings-7000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #6 [Revel F228Be](https://sovrn.co/l2szjt3) [[Crutchfield](https://sovrn.co/l2szjt3)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F228Be)]: $7000
+## #6 [Revel F228Be](https://howl.link/tricteymf8k3d) [[Crutchfield](https://howl.link/tricteymf8k3d)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F228Be)]: $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off axis isn't quite as good as others
 - Bass Extension (-10dB): 25Hz

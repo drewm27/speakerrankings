@@ -7,7 +7,7 @@ share-description: "The Revel Concerta2 F35 ranks #14 out of 25 total Large Size
 
 The Revel Concerta2 F35 ranks [#14 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#14-revel-concerta2-f35-crutchfield-used-listings-900-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #14 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
+## #14 [Revel Concerta2 F35](https://howl.link/vot4t1vautrmr) [[Crutchfield](https://howl.link/vot4t1vautrmr)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
 - Positives: Really amazing value for the performance
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Bass Extension (-10dB): 50Hz

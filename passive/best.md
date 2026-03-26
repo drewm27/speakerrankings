@@ -79,7 +79,7 @@ Also consider [Top Recommended Powered Bookshelf Speakers](/powered/best/) if yo
     - [Reddit Search for MoFi SourcePoint 888](https://www.reddit.com/search/?q=MoFi+SourcePoint+888)
 
 
-### The best [large size passive floorstanding](/passive/floorstanding-large/) speakers around $1000 with the best sound quality are the [**Revel Concerta2 F35**](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
+### The best [large size passive floorstanding](/passive/floorstanding-large/) speakers around $1000 with the best sound quality are the [**Revel Concerta2 F35**](https://howl.link/vot4t1vautrmr) [[Crutchfield](https://howl.link/vot4t1vautrmr)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
 - Positives: Really amazing value for the performance
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Bass Extension (-10dB): 50Hz

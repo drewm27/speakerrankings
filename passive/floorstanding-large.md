@@ -86,7 +86,7 @@ Last updated: March 25, 2026
     - [Reddit Search for Revel F208](https://www.reddit.com/search/?q=Revel+F208)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F208/)
 
-## #5 [Revel F328Be](https://sovrn.co/zpcgdsw) [[Crutchfield](https://sovrn.co/zpcgdsw)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F328Be)]: $13600
+## #5 [Revel F328Be](https://howl.link/imipuo4tty548) [[Crutchfield](https://howl.link/imipuo4tty548)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F328Be)]: $13600
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Bass Extension (-10dB): 39Hz
 - Bass Extension (-3dB): 74Hz
@@ -103,7 +103,7 @@ Last updated: March 25, 2026
     - [Reddit Search for Revel F328Be](https://www.reddit.com/search/?q=Revel+F328Be)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F328Be/)
 
-## #6 [Revel F228Be](https://sovrn.co/l2szjt3) [[Crutchfield](https://sovrn.co/l2szjt3)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F228Be)]: $7000
+## #6 [Revel F228Be](https://howl.link/tricteymf8k3d) [[Crutchfield](https://howl.link/tricteymf8k3d)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F228Be)]: $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off axis isn't quite as good as others
 - Bass Extension (-10dB): 25Hz
@@ -139,7 +139,7 @@ Last updated: March 25, 2026
     - [Reddit Search for KEF R11 Meta](https://www.reddit.com/search/?q=KEF+R11+Meta)
     - [Direct Speakerranking Link](/passive/speakers/KEF-R11-Meta/)
 
-## #8 [Revel F226Be](https://sovrn.co/1og8hjl) [[Crutchfield](https://sovrn.co/1og8hjl)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F226Be)]: $7700
+## #8 [Revel F226Be](https://howl.link/4ithb1scb6sx8) [[Crutchfield](https://howl.link/4ithb1scb6sx8)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F226Be)]: $7700
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
 - Bass Extension (-10dB): 36Hz
@@ -251,7 +251,7 @@ Last updated: March 25, 2026
     - [Reddit Search for ELAC DF63](https://www.reddit.com/search/?q=ELAC+DF63)
     - [Direct Speakerranking Link](/passive/speakers/ELAC-DF63/)
 
-## #14 [Revel Concerta2 F35](https://sovrn.co/cxvgcxy) [[Crutchfield](https://sovrn.co/cxvgcxy)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
+## #14 [Revel Concerta2 F35](https://howl.link/vot4t1vautrmr) [[Crutchfield](https://howl.link/vot4t1vautrmr)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
 - Positives: Really amazing value for the performance
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Bass Extension (-10dB): 50Hz

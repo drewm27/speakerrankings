@@ -7,7 +7,7 @@ share-description: "The JBL HDI-1600 ranks #21 out of 48 total Large Size Booksh
 
 The JBL HDI-1600 ranks [#21 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#21-jbl-hdi-1600-crutchfield-used-listings-1980-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #21 [JBL HDI-1600](https://sovrn.co/xgfeafc) [[Crutchfield](https://sovrn.co/xgfeafc)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+HDI-1600)]: $1980 a pair
+## #21 [JBL HDI-1600](https://howl.link/8yvq3vidiekgl) [[Crutchfield](https://howl.link/8yvq3vidiekgl)] [[Used Listings](https://www.hifizero.com/index.php?q=JBL+HDI-1600)]: $1980 a pair
 - Positives: Slight bass boost at 130hz
 - Negatives: 5dB dip at 10.1k. Some resonance around 700hz and 2khz
 - Impedance: 4 ohms
