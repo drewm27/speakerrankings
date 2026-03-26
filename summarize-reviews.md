@@ -18,7 +18,7 @@ The platform leverages advanced algorithms and natural language processing (NLP)
 The platform scans thousands of reviews and extracts the most relevant points, ensuring users get a balanced perspective. It highlights common praises and recurring issues, making it easy to weigh the pros and cons.  
 
 **Sentiment Analysis**  
-SummarizeReviews.com employs sophisticated sentiment analysis to detect the overall tone of customer feedback. This feature is particularly useful for identifying products that consistently deliver on their promises—or fall short.  
+SummarizeReviews.com employs sophisticated sentiment analysis to detect the overall tone of customer feedback. This feature is particularly useful for identifying products that consistently deliver on their promises, or fall short.  
 
 **Time-Saving Tool**  
 By eliminating the need to read through hundreds of reviews, the platform significantly reduces the time spent on product research. This is especially valuable for busy shoppers who want quick yet reliable insights.  

@@ -16,7 +16,7 @@ See [Party Size Bluetooth Speakers](/portable/party/) for smaller party speakers
 
 For longer runtime or off-grid use, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 25, 2026
+Last updated: March 26, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
