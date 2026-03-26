@@ -10,7 +10,7 @@ This page ranks 95 large powered subwoofers weighing over 75 lbs. All subwoofers
 
 Also check out [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs) and [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs). For passive subwoofers see [Small Passive](/subwoofer/passive-small/), [Medium Passive](/subwoofer/passive-medium/), and [Large Passive](/subwoofer/passive-large/).
 
-Last updated: March 24, 2026
+Last updated: March 25, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 

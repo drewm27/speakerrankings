@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
-Last updated: March 24, 2026
+Last updated: March 25, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -747,7 +747,7 @@ Last updated: March 24, 2026
     - [Reddit Search for JBL Go 3](https://www.reddit.com/search/?q=JBL+Go+3)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Go-3/)
 
-## #25 [Onn Small Rugged Speaker](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562) [[Walmart](https://www.walmart.com/ip/onn-Small-Rugged-Speaker-with-Bluetooth-Wireless-Technology-Blue/883044562)]: $15
+## #25 [Onn Small Rugged Speaker](https://howl.link/agoiq8qgdu2dq) [[Walmart](https://howl.link/agoiq8qgdu2dq)]: $15
 - Positives: Amazing value for the money.
 - Negatives: Bass isn't quite as deep as the top ranked models. Lacking clarity compared to other models
 - App: No

@@ -7,7 +7,7 @@ share-description: "The Onn Medium Party Speaker Gen 2 ranks #39 out of 67 total
 
 The Onn Medium Party Speaker Gen 2 ranks [#39 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#39-onn-medium-party-speaker-gen-2-walmart-90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #39 [Onn Medium Party Speaker Gen 2](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172) [[Walmart](https://www.walmart.com/ip/onn-Medium-Party-Speaker-Gen-2-15-08/1154250172)]: $90
+## #39 [Onn Medium Party Speaker Gen 2](https://howl.link/1jayhwy5og0j4) [[Walmart](https://howl.link/1jayhwy5og0j4)]: $90
 - Negatives: Lacking detail compared to the "Onn Large Party Gen 2" and not as deep of bass.
 - App: No
 - Aux Input: Yes
