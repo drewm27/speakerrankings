@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Desktop Speakers](/powe
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), and [Large](/powered/bookshelf-large/) bookshelf speakers, or [Large Desktop](/powered/desktop-large/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: March 26, 2026
+Last updated: March 27, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
