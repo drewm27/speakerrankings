@@ -2,12 +2,12 @@
 layout: page
 title: Boat Stone 190/193 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Boat Stone 190/193 ranks #29 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Boat Stone 190/193 ranks #30 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Boat Stone 190/193 ranks [#29 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#29-boat-stone-190193-amazon-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Boat Stone 190/193 ranks [#30 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#30-boat-stone-190193-amazon-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #29 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]
+## #30 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No

@@ -2,12 +2,12 @@
 layout: page
 title: Soundcore Mini 3 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Mini 3 ranks #8 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Mini 3 ranks #9 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Mini 3 ranks [#8 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#8-soundcore-mini-3-amazon-41) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Mini 3 ranks [#9 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#9-soundcore-mini-3-amazon-41) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #8 [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325)]: $41
+## #9 [Soundcore Mini 3](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Technology-Waterproof-Customizable/dp/B08GFKFQ96/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a5cf993423a45998424d1c53ecb6bf98&camp=1789&creative=9325)]: $41
 - Positives: Deeper bass than most other speakers in the size.
 - Negatives: Rolled off highs
 - App: Yes

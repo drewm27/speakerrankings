@@ -2,12 +2,12 @@
 layout: page
 title: JBL Clip Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Clip ranks #32 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Clip ranks #33 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Clip ranks [#32 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#32-jbl-clip-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Clip ranks [#33 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#33-jbl-clip-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #32 JBL Clip: $50
+## #33 JBL Clip: $50
 - Negatives: Quite a lack of bass. Mids are a little hollow.
 - App: No
 - Aux Input: Yes (integrated 3.5mm cable)

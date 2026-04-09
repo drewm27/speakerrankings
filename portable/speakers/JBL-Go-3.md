@@ -2,12 +2,12 @@
 layout: page
 title: JBL Go 3 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Go 3 ranks #24 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Go 3 ranks #25 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Go 3 ranks [#24 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#24-jbl-go-3-amazon-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Go 3 ranks [#25 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#25-jbl-go-3-amazon-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #24 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325)]: $50
+## #25 [JBL Go 3](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=2ed3f8cb6fb998f6cf7066105d40e418&camp=1789&creative=9325)]: $50
 - Negatives: Not much bass at all, strange mids peak.
 - App: No
 - Aux Input: No

@@ -2,12 +2,12 @@
 layout: page
 title: JBL Go 4 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The JBL Go 4 ranks #23 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The JBL Go 4 ranks #24 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Go 4 ranks [#23 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#23-jbl-go-4-amazon-bhphotovideo-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Go 4 ranks [#24 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#24-jbl-go-4-amazon-bhphotovideo-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #23 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
+## #24 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
 - App: Yes

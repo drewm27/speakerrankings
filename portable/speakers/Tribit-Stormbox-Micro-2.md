@@ -2,10 +2,10 @@
 layout: page
 title: Tribit Stormbox Micro 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Tribit Stormbox Micro 2 ranks #1 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Tribit Stormbox Micro 2 ranks #1 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Tribit Stormbox Micro 2 ranks [#1 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#1-tribit-stormbox-micro-2-amazon-aliexpress-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Tribit Stormbox Micro 2 ranks [#1 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#1-tribit-stormbox-micro-2-amazon-aliexpress-50) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #1 [Tribit Stormbox Micro 2](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Speaker-Built/dp/B09Q59321N/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=137e8f0b9211bde7e1528468ba51ea8f&camp=1789&creative=9325)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4a37odl)]: $50
 - Positives: Best in class sound. Much deeper bass than most other speakers in the size. Built in strap is super useful for attaching it to things. Very neutral. To have it aimed directly at you unclip the strap and the speaker will sit upright with a slight lean back.
@@ -13,15 +13,15 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 43 total Small Size Portable Blueto
 - Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59Hz
+- Bass Extension (-10dB): 65Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- EQ: Yes
+- EQ: Yes (9 Band)
 - IP Rating: IP67
-- Max Volume: 96dB
+- Max Volume: 94dB
 - Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -30,6 +30,8 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 43 total Small Size Portable Blueto
 - TWS: Yes
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: Tribit Stormbox Micro 3 - first look](https://www.patreon.com/posts/tribit-stormbox-155158921)
+    - [Alan Ross Reviews: TRIBIT StormBox Micro 3, fully tested vs Micro 2, not clickbait](https://www.youtube.com/watch?v=XUfo7YX4vh8)
     - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)

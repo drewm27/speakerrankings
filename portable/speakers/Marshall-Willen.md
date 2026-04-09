@@ -2,12 +2,12 @@
 layout: page
 title: Marshall Willen Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Marshall Willen ranks #13 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Marshall Willen ranks #14 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Marshall Willen ranks [#13 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#13-marshall-willen-amazon-120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Marshall Willen ranks [#14 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#14-marshall-willen-amazon-120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #13 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325)]: $120
+## #14 [Marshall Willen](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Marshall-Willen-Portable-Bluetooth-Speaker/dp/B0B25GGTLY/ref=sr_1_1_sspa?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=7daba1efc239074c4f1d481f9effdcb0&camp=1789&creative=9325)]: $120
 - Negatives: Not that deep of bass. A bit of a sharp treble.
 - App: Yes
 - Aux Input: No

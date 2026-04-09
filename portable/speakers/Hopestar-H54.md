@@ -2,12 +2,12 @@
 layout: page
 title: Hopestar H54 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Hopestar H54 ranks #35 out of 43 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Hopestar H54 ranks #36 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Hopestar H54 ranks [#35 out of 43 total Small Size Portable Bluetooth Speakers](/portable/small/#35-hopestar-h54-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Hopestar H54 ranks [#36 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#36-hopestar-h54-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #35 Hopestar H54
+## #36 Hopestar H54
 - Negatives: Bright treble, not much bass, harsh mids
 - App: No
 - Aux Input: Yes

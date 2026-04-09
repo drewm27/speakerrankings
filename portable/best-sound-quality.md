@@ -3,10 +3,10 @@ layout: page
 title: Best Portable Bluetooth Speakers For Sound Quality 2026
 comments: true
 cover-img: "/assets/img/blast.jpg"
-share-description: "Expert rankings of 367 Bluetooth speakers tested for sound quality. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
+share-description: "Expert rankings of 368 Bluetooth speakers tested for sound quality. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for sound quality?** We've ranked 367 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: March 27, 2026.**
+**Looking for the best Bluetooth speaker for sound quality?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: April 09, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -30,15 +30,15 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Setup: Use in Music EQ mode, when you swtich to custom it's not able to boost the bass properly as it is missing an EQ band that Music EQ mode uses
 - App: Yes
 - Aux Input: No
-- Bass Extension (-10dB): 59Hz
+- Bass Extension (-10dB): 65Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
-- EQ: Yes
+- EQ: Yes (9 Band)
 - IP Rating: IP67
-- Max Volume: 96dB
+- Max Volume: 94dB
 - Output Power: 10W
 - Party Mode: No
 - Power Bank: Yes (but it doesn't usually work)
@@ -47,6 +47,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - TWS: Yes
 - Weight: 0.7lbs / 317g
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: Tribit Stormbox Micro 3 - first look](https://www.patreon.com/posts/tribit-stormbox-155158921)
+    - [Alan Ross Reviews: TRIBIT StormBox Micro 3, fully tested vs Micro 2, not clickbait](https://www.youtube.com/watch?v=XUfo7YX4vh8)
     - [Storytripper HD: Bose Micro 2 vs Soundcore Boom Go 3i vs Tribit Micro 2](https://www.youtube.com/watch?v=3M_N4gJaH-E)
     - [Danny Pops: Does it surpass the first Willen? My Marshall Willen II Review](https://www.youtube.com/watch?v=G0pShr7B0io)
     - [Alan Ross Reviews: Tribit Stormbox Micro 2 ultimate review 🤭 vs Micro 1 - small and mighty!](https://www.youtube.com/watch?v=7LsffgrbXYc)
