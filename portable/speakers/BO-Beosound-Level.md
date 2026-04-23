@@ -20,7 +20,7 @@ The B&O Beosound Level ranks [#56 out of 73 total Large Size Portable Bluetooth 
 - Driver: 2x 102mm woofers, 1x 51mm fullrange, 2x 20mm tweeters
 - EQ: No
 - Frequency Response: 39Hz - 23kHz (Manufacturer specified)
-- IP Rating: IPX7
+- IP Rating: IP54
 - Max Volume: 96dB
 - Output Power: 105W
 - Party Mode: No
