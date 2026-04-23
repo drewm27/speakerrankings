@@ -2,12 +2,12 @@
 layout: page
 title: Sony GTK-XB90 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Sony GTK-XB90 ranks #39 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Sony GTK-XB90 ranks #38 out of 42 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony GTK-XB90 ranks [#39 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#39-sony-gtk-xb90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony GTK-XB90 ranks [#38 out of 42 total Party Size Portable Bluetooth Speakers](/portable/party/#38-sony-gtk-xb90) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #39 Sony GTK-XB90
+## #38 Sony GTK-XB90
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes

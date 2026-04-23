@@ -6,7 +6,7 @@ cover-img: "/assets/img/authentics500.jpg"
 share-description: "Find the best large powered desktop speakers of 2026 with expert reviews, performance comparisons, and buying tips for powerful, clear high-quality sound."
 ---
 
-This page ranks 2 large powered desktop speakers. These are stereo inside a single enclosure with woofers 6.5" or larger. They need significant desk space, have no battery, and no waterproofing. Larger woofers provide deeper bass but result in a bigger, heavier speaker. All include a built-in amp so you can play directly from your phone or laptop.
+This page ranks 3 large powered desktop speakers. These are stereo inside a single enclosure with woofers 6.5" or larger. They need significant desk space, have no battery, and no waterproofing. Larger woofers provide deeper bass but result in a bigger, heavier speaker. All include a built-in amp so you can play directly from your phone or laptop.
 
 I generally recommend avoiding this class, they won't have good imaging due to not having widely separated left and right channels like the [Bookshelf](/powered/bookshelf-medium/) class, and they generally aren't tuned as neutral. These are more for someone who wants a speaker that is form over function and takes up as little space as possible. Also consider portable Bluetooth speakers with a battery and waterproofing.
 
@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Bookshelf Speakers](/po
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), and [Large](/powered/bookshelf-large/) bookshelf speakers, or [Medium Desktop](/powered/desktop-medium/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: April 09, 2026
+Last updated: April 23, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -83,6 +83,37 @@ Last updated: April 09, 2026
     - [Official Product Page](https://www.jbl.com/home-speakers/AUTHENTICS-500.html)
     - [Reddit Search for JBL Authentics 500](https://www.reddit.com/search/?q=JBL+Authentics+500)
     - [Direct Speakerranking Link](/powered/speakers/JBL-Authentics-500/)
+
+## #3 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
+- Negatives: Overly boosted bass and recessed mids. Overly expensive
+- App: Yes
+- Aux Input: Yes
+- Bass Extension (-10dB): ~45Hz
+- Battery Life: No Battery
+- Bluetooth Codecs: SBC, AAC, aptX
+- Bluetooth Version: 4.2
+- Dimensions: 11.8" x 11.8" (300 x 300 mm)
+- Driver: 1x 5.5" + passive radiator woofer
+- EQ: Yes (via app)
+- Frequency Response: 37Hz - 22kHz (Manufacturer specified)
+- Inputs: Bluetooth, Aux, Optical, Chromecast
+- Max Volume: 94dB
+- Output Power: 200W
+- Party Mode: Yes
+- Power Input: AC Power cord
+- Stereo: 360-degree
+- TWS: Yes
+- Voice Assistants: Yes (Google Assistant)
+- Weight: 9lbs / 4.1kg
+- Wifi: Yes
+- Woofer Cabinet: Sealed with passive radiator
+- Reviews, Comparisons and Sound Samples
+    - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
+    - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
+- Links
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
+    - [Reddit Search for B&O Beosound 2](https://www.reddit.com/search/?q=B%26O+Beosound+2)
+    - [Direct Speakerranking Link](/powered/speakers/BO-Beosound-2/)
 
 
 As an Amazon Associate I earn from qualifying purchases.

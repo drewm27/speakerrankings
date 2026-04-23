@@ -6,7 +6,7 @@ cover-img: "/assets/img/partybox320.jpg"
 share-description: "Check out the top recommended party size Bluetooth speakers. Huge sound, massive bass & long battery life, expertly ranked for serious audio power."
 ---
 
-This page ranks 43 party size Bluetooth speakers. If you're looking at one of these, you need very deep bass or extreme loudness and can accept a large, heavy speaker. Most are overkill for typical use, the Boombox size is better for most people. Most are at least IPX4 unless noted. All need AC to charge. The best here have bass extension similar to a 10" woofer tower speaker.
+This page ranks 42 party size Bluetooth speakers. If you're looking at one of these, you need very deep bass or extreme loudness and can accept a large, heavy speaker. Most are overkill for typical use, the Boombox size is better for most people. Most are at least IPX4 unless noted. All need AC to charge. The best here have bass extension similar to a 10" woofer tower speaker.
 
 These are designed more for deep bass than extreme loudness. If you're throwing parties for over 50 people, consider real PA speakers instead, see [loudest speakers](/portable/loudest-speakers/).
 
@@ -16,7 +16,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: April 09, 2026
+Last updated: April 23, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -916,36 +916,7 @@ Last updated: April 09, 2026
     - [Reddit Search for JBL Eon One Compact](https://www.reddit.com/search/?q=JBL+Eon+One+Compact)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Eon-One-Compact/)
 
-## #29 B&O Beosound 1: $2000
-- Negatives: Overly boosted bass and recessed mids. Overly expensive
-- App: No
-- Aux Input: Yes
-- Bass Extension (-10dB): ~53Hz
-- Battery Life: 16 hours (Manufacturer specified)
-- Bluetooth Codecs: SBC
-- Bluetooth Version: 4.2
-- Dimensions: 6.38" x 12.87" (162 x 327 mm)
-- Driver: 4" woofer, 1.5" full-range driver
-- EQ: No
-- Frequency Response: 35Hz - 24.3kHz (Manufacturer specified)
-- IP Rating: None
-- Max Volume: 91dB
-- Party Mode: No
-- Power Bank: No
-- Power Input: AC Power cord
-- Stereo: Yes
-- TWS: No
-- USB Playback: No
-- Weight: 7.7lbs / 3.5kg
-- Reviews, Comparisons and Sound Samples
-    - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
-    - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
-- Links
-    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
-    - [Reddit Search for B&O Beosound 1](https://www.reddit.com/search/?q=B%26O+Beosound+1)
-    - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-1/)
-
-## #30 Diamondboxx L2: $1000
+## #29 Diamondboxx L2: $1000
 - Negatives: Boomyness in the 100hz region. Gets distorted. Too much treble. Too expensive.
 - App: No
 - Aux Input: Yes
@@ -974,7 +945,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Diamondboxx L2](https://www.reddit.com/search/?q=Diamondboxx+L2)
     - [Direct Speakerranking Link](/portable/speakers/Diamondboxx-L2/)
 
-## #31 dB technologies B-Hype M: $450
+## #30 dB technologies B-Hype M: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - App: No
 - Aux Input: Yes
@@ -1003,7 +974,7 @@ Last updated: April 09, 2026
     - [Reddit Search for dB technologies B-Hype M](https://www.reddit.com/search/?q=dB+technologies+B-Hype+M)
     - [Direct Speakerranking Link](/portable/speakers/dB-technologies-B-Hype-M/)
 
-## #32 Onn Large Party gen 1: $100
+## #31 Onn Large Party gen 1: $100
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - App: No
 - Aux Input: Yes
@@ -1028,7 +999,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Onn Large Party gen 1](https://www.reddit.com/search/?q=Onn+Large+Party+gen+1)
     - [Direct Speakerranking Link](/portable/speakers/Onn-Large-Party-gen-1/)
 
-## #33 Philips NX200
+## #32 Philips NX200
 - Negatives: No deep bass, mids are a little harsh
 - App: No
 - Aux Input: Yes
@@ -1055,7 +1026,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Philips NX200](https://www.reddit.com/search/?q=Philips+NX200)
     - [Direct Speakerranking Link](/portable/speakers/Philips-NX200/)
 
-## #34 Panasonic SC-TMAX10
+## #33 Panasonic SC-TMAX10
 - Negatives: Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
@@ -1083,7 +1054,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Panasonic SC-TMAX10](https://www.reddit.com/search/?q=Panasonic+SC-TMAX10)
     - [Direct Speakerranking Link](/portable/speakers/Panasonic-SC-TMAX10/)
 
-## #35 Panasonic SC-TMAX5
+## #34 Panasonic SC-TMAX5
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
 - App: No
@@ -1110,7 +1081,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Panasonic SC-TMAX5](https://www.reddit.com/search/?q=Panasonic+SC-TMAX5)
     - [Direct Speakerranking Link](/portable/speakers/Panasonic-SC-TMAX5/)
 
-## #36 Sharp PS-929: $150
+## #35 Sharp PS-929: $150
 - Negatives: Not very deep bass
 - App: No
 - Bass Extension (-10dB): ~60Hz
@@ -1136,7 +1107,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Sharp PS-929](https://www.reddit.com/search/?q=Sharp+PS-929)
     - [Direct Speakerranking Link](/portable/speakers/Sharp-PS-929/)
 
-## #37 Soundcore Rave+: $240
+## #36 Soundcore Rave+: $240
 - Negatives: Pretty big lack of deep bass
 - App: No
 - Aux Input: Yes
@@ -1162,7 +1133,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Soundcore Rave+](https://www.reddit.com/search/?q=Soundcore+Rave%2B)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave+/)
 
-## #38 Soundcore Rave: $220
+## #37 Soundcore Rave: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - App: No
 - Aux Input: Yes
@@ -1185,7 +1156,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Soundcore Rave](https://www.reddit.com/search/?q=Soundcore+Rave)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave/)
 
-## #39 Sony GTK-XB90
+## #38 Sony GTK-XB90
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
@@ -1209,7 +1180,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Sony GTK-XB90](https://www.reddit.com/search/?q=Sony+GTK-XB90)
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB90/)
 
-## #40 Sony GTK-XB72
+## #39 Sony GTK-XB72
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
@@ -1231,7 +1202,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Sony GTK-XB72](https://www.reddit.com/search/?q=Sony+GTK-XB72)
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB72/)
 
-## #41 Sony GTK-XB60
+## #40 Sony GTK-XB60
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
@@ -1255,7 +1226,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Sony GTK-XB60](https://www.reddit.com/search/?q=Sony+GTK-XB60)
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB60/)
 
-## #42 Altec Lansing AL500: $200
+## #41 Altec Lansing AL500: $200
 - Negatives: Not very deep bass
 - App: No
 - Aux Input: Yes
@@ -1278,7 +1249,7 @@ Last updated: April 09, 2026
     - [Reddit Search for Altec Lansing AL500](https://www.reddit.com/search/?q=Altec+Lansing+AL500)
     - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-AL500/)
 
-## #43 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325)]: $100
+## #42 [Rockville Rock Party 6](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Rockville-Battery-Powered-Portable-Bluetooth/dp/B08KWLSY15/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=5318106caf2cf8cb91d88341393cc580&camp=1789&creative=9325)]: $100
 - Positives: It's cheap.
 - Negatives: No deep bass, slightly harsh upper mids
 - App: No

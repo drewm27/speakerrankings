@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: April 09, 2026
+Last updated: April 23, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -594,7 +594,7 @@ Last updated: April 09, 2026
     - [Reddit Search for B&O Beosound A1 3rd gen](https://www.reddit.com/search/?q=B%26O+Beosound+A1+3rd+gen)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-3rd-gen/)
 
-## #19 Xiaomi Sound Party
+## #19 [Xiaomi Sound Party](https://s.click.aliexpress.com/e/_c3ZipCS9) [[Aliexpress](https://s.click.aliexpress.com/e/_c3ZipCS9)]
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
 - Negatives: Bass can sound slightly thuddy at high volume
 - App: Yes
@@ -616,6 +616,9 @@ Last updated: April 09, 2026
 - USB Audio: No
 - Weight: 2.6lbs / 1200g
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: Xiaomi Sound Party - first look](https://www.patreon.com/posts/xiaomi-sound-154023356)
+    - [Oluv: Xiaomi Sound Party - outdoor test](https://www.patreon.com/posts/xiaomi-sound-154150937)
+    - [Oluv: Xiaomi Sound Party vs Boom 2 & Helsinki](https://www.patreon.com/posts/xiaomi-sound-vs-154388881)
     - [Grimluck: XIAOMI Sound Party Review and Comparison (Jbl charge and Xiaomi outdoor)](https://www.youtube.com/watch?v=PrlSH9kcjWs)
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
 - Links

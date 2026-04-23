@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Desktop Speakers](/powe
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), and [Large](/powered/bookshelf-large/) bookshelf speakers, or [Large Desktop](/powered/desktop-large/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: April 09, 2026
+Last updated: April 23, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -356,36 +356,34 @@ Last updated: April 09, 2026
     - [Reddit Search for Marshall Acton II](https://www.reddit.com/search/?q=Marshall+Acton+II)
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-II/)
 
-## #12 [B&O Beosound 2](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Generation-Multiroom/dp/B0BVWGSSFT/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=297f82307b9f4ffbd10640f93b6834ef&camp=1789&creative=9325)]: $3200
+## #12 B&O Beosound 1: $2000
 - Negatives: Overly boosted bass and recessed mids. Overly expensive
-- App: Yes
+- App: No
 - Aux Input: Yes
-- Bass Extension (-10dB): ~45Hz
-- Battery Life: No Battery
-- Bluetooth Codecs: SBC, AAC, aptX
+- Bass Extension (-10dB): ~53Hz
+- Battery Life: 16 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
-- Dimensions: 11.8" x 11.8" (300 x 300 mm)
-- Driver: 1x 5.5" + passive radiator woofer
-- EQ: Yes (via app)
-- Frequency Response: 37Hz - 22kHz (Manufacturer specified)
-- Inputs: Bluetooth, Aux, Optical, Chromecast
-- Max Volume: 94dB
-- Output Power: 200W
-- Party Mode: Yes
+- Dimensions: 6.38" x 12.87" (162 x 327 mm)
+- Driver: 4" woofer, 1.5" full-range driver
+- EQ: No
+- Frequency Response: 35Hz - 24.3kHz (Manufacturer specified)
+- IP Rating: None
+- Max Volume: 91dB
+- Party Mode: No
+- Power Bank: No
 - Power Input: AC Power cord
-- Stereo: 360-degree
-- TWS: Yes
-- Voice Assistants: Yes (Google Assistant)
-- Weight: 9lbs / 4.1kg
-- Wifi: Yes
-- Woofer Cabinet: Sealed with passive radiator
+- Stereo: Yes
+- TWS: No
+- USB Playback: No
+- Weight: 7.7lbs / 3.5kg
 - Reviews, Comparisons and Sound Samples
     - [Mikipedia: The NEW B&O Beosound Level vs Beosound 2, Head to Head Sound Test in 4K](https://www.youtube.com/watch?v=CoxE4MbLHyI)
     - [Tivoli Hi-Fi: Beosound 1 & Beosound 2 Comparison](https://www.youtube.com/watch?v=YIpbJERmRpk)
 - Links
-    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-2)
-    - [Reddit Search for B&O Beosound 2](https://www.reddit.com/search/?q=B%26O+Beosound+2)
-    - [Direct Speakerranking Link](/powered/speakers/BO-Beosound-2/)
+    - [Official Product Page](https://www.bang-olufsen.com/en/us/speakers/beosound-1-sale)
+    - [Reddit Search for B&O Beosound 1](https://www.reddit.com/search/?q=B%26O+Beosound+1)
+    - [Direct Speakerranking Link](/powered/speakers/BO-Beosound-1/)
 
 ## #13 [Klipsch The Three II](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Heritage-Wireless-Tabletop-Stereo/dp/B07QY8V7QK?crid=2623GHZV47MTS&dib=eyJ2IjoiMSJ9.u4H5vMSDHcJsd3JYjaBUVvEpxU93ranES9wQMIWMprBXJI-3OZ2fGEQ-_-e7sLcK-ogW1_RMNah6jAyqcaWIdMMuCaWKZ2eNHDrb7Rw6yvjF0FJblakWg2fanYAhHjkNRZI1hibrDaH2Z03kqOYYKTaVicCvgyzoxFQZmlO8opEMXRaKJzVUTApMnICkvzac6tt_aAORKlgvLsHjOUn_DlB_Su2VgnVewj6Ay6PeJ3Md71MD-ks6bOgq6q7Y8lmV.1Y9T6EucE_N7andIzOvYZ7NLVS3dn35gmqIPFiVHF_w&dib_tag=se&keywords=klipsch+the+three&qid=1724908414&s=electronics&sprefix=klipsch+the+three%2Celectronics%2C166&sr=1-6&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=47fd5d96fc4fe1ea03f4986322a3b15c&language=en_US&ref_=as_li_ss_tl)]: $400
 - Negatives: Treble boosted. Not as deep of bass as others.

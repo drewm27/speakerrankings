@@ -2,10 +2,10 @@
 layout: page
 title: Samsung MX-ST50B Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Samsung MX-ST50B ranks #17 out of 43 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Samsung MX-ST50B ranks #17 out of 42 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Samsung MX-ST50B ranks [#17 out of 43 total Party Size Portable Bluetooth Speakers](/portable/party/#17-samsung-mx-st50b-amazon-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Samsung MX-ST50B ranks [#17 out of 42 total Party Size Portable Bluetooth Speakers](/portable/party/#17-samsung-mx-st50b-amazon-300) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
 ## #17 [Samsung MX-ST50B](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/SAMSUNG-MX-ST50B-Bi-Directional-Resistant-Multi-Connection/dp/B0B1N38DYK/ref=sr_1_1?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=a9557bcd4c6979e4cd8656cd232794da&camp=1789&creative=9325)]: $300
 - Positives: Sounds reasonably balanced. A little tough to judge based on the sound samples, would be nice to have more comparisons.

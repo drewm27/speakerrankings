@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Xiaomi Sound Party ranks #19 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#19-xiaomi-sound-party) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#19-xiaomi-sound-party-aliexpress) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #19 Xiaomi Sound Party
+## #19 [Xiaomi Sound Party](https://s.click.aliexpress.com/e/_c3ZipCS9) [[Aliexpress](https://s.click.aliexpress.com/e/_c3ZipCS9)]
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
 - Negatives: Bass can sound slightly thuddy at high volume
 - App: Yes
@@ -29,6 +29,9 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
 - USB Audio: No
 - Weight: 2.6lbs / 1200g
 - Reviews, Comparisons and Sound Samples
+    - [Oluv: Xiaomi Sound Party - first look](https://www.patreon.com/posts/xiaomi-sound-154023356)
+    - [Oluv: Xiaomi Sound Party - outdoor test](https://www.patreon.com/posts/xiaomi-sound-154150937)
+    - [Oluv: Xiaomi Sound Party vs Boom 2 & Helsinki](https://www.patreon.com/posts/xiaomi-sound-vs-154388881)
     - [Grimluck: XIAOMI Sound Party Review and Comparison (Jbl charge and Xiaomi outdoor)](https://www.youtube.com/watch?v=PrlSH9kcjWs)
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
 - Links
