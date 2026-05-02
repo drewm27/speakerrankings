@@ -16,7 +16,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: April 23, 2026
+Last updated: May 01, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -436,7 +436,7 @@ Last updated: April 23, 2026
     - [Reddit Search for Sony SRS-XP500](https://www.reddit.com/search/?q=Sony+SRS-XP500)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XP500/)
 
-## #13 [Onn Large Party gen 2](https://howl.link/qrravdrezqni7) [[Walmart](https://howl.link/qrravdrezqni7)]: $130
+## #13 [Onn Large Party gen 2](https://howl.link/qrravdrezqni7) [[Walmart](https://howl.link/qrravdrezqni7)]: $109
 - Positives: An insane value speaker. Easy to move around because it has a handle and wheels. A huge improvement over the gen 1 with much deeper bass.
 - Negatives: Not quite as loud as the old one. Not as deep bass as the top ranked.
 - App: No
