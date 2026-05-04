@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: May 01, 2026
+Last updated: May 04, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -2499,7 +2499,7 @@ Last updated: May 01, 2026
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
     - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
-    - [Official Product Page](https://www.marshall.com/us/en/product/emberton-iii)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17043427)
     - [Reddit Search for Marshall Emberton III](https://www.reddit.com/search/?q=Marshall+Emberton+III)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Emberton-III/)
 

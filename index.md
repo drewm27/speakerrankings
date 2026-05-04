@@ -14,7 +14,7 @@ share-description: "Passive, Powered and Portable Bluetooth speakers sorted by s
 - **Months of Research, Minutes to Find** - We've analyzed reviews from top unbiased audio reviewers ([Oluv, Alan Ross, Erin's Audio Corner, Audio Science Review, GR-Research](/personal-ranking-of-speaker-reviewers/)) and compiled everything into easy-to-navigate lists.
 - **Complete Transparency** - Every ranking links to the videos, measurements, and reviews we used. Verify our conclusions yourself.
 
-Last Updated May 01, 2026
+Last Updated May 04, 2026
 
 ## Top Recommended Speakers By Attribute
 

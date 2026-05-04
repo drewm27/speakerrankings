@@ -34,7 +34,7 @@ The Marshall Middleton II ranks [#26 out of 73 total Large Size Portable Bluetoo
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Dominik Reviews: Marshall Middleton II vs Middleton I - Huge Differences? - Sound Test](https://www.youtube.com/watch?v=GYuq-dc_zNI)
 - Links
-    - [Official Product Page](https://www.marshall.com/us/en/product/middleton-ii)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-15571581)
     - [Reddit Search for Marshall Middleton II](https://www.reddit.com/search/?q=Marshall+Middleton+II)
 
 

@@ -31,7 +31,7 @@ The Marshall Emberton III ranks [#94 out of 131 total Medium Size Portable Bluet
     - [CEONTHEMAKING: Bose Soundlink Flex 2nd Gen VS Marshall Emberton III - What's NEW??](https://www.youtube.com/watch?v=6Pk4yWr0FFM)
     - [Passione Speaker: Bass Test Marshall Emberton 2 vs Emberton 3](https://www.youtube.com/watch?v=bqkb59Wu6zk)
 - Links
-    - [Official Product Page](https://www.marshall.com/us/en/product/emberton-iii)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-17043427)
     - [Reddit Search for Marshall Emberton III](https://www.reddit.com/search/?q=Marshall+Emberton+III)
 
 

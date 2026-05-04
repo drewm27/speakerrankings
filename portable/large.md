@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: May 01, 2026
+Last updated: May 04, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -900,7 +900,7 @@ Last updated: May 01, 2026
     - [Oluv: Marshall Middleton II - first impressions](https://www.patreon.com/posts/marshall-ii-135972260)
     - [Dominik Reviews: Marshall Middleton II vs Middleton I - Huge Differences? - Sound Test](https://www.youtube.com/watch?v=GYuq-dc_zNI)
 - Links
-    - [Official Product Page](https://www.marshall.com/us/en/product/middleton-ii)
+    - [Official Product Page](https://www.dpbolvw.net/click-101389079-15571581)
     - [Reddit Search for Marshall Middleton II](https://www.reddit.com/search/?q=Marshall+Middleton+II)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Middleton-II/)
 

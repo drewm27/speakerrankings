@@ -14,7 +14,7 @@ For the best picks from this page see [Best Powered Home Desktop Speakers](/powe
 
 Also check out [Small](/powered/bookshelf-small/), [Medium](/powered/bookshelf-medium/), and [Large](/powered/bookshelf-large/) bookshelf speakers, or [Large Desktop](/powered/desktop-large/) speakers. For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: May 01, 2026
+Last updated: May 04, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -319,7 +319,7 @@ Last updated: May 01, 2026
 - Reviews, Comparisons and Sound Samples
     - [Danny Pops: Winner Winner Chicken Dinner! Marshall Acton 3 Review!](https://www.youtube.com/watch?v=2fYIobmLo-o)
 - Links
-    - [Official Product Page](https://www.marshall.com/us/en/product/acton-iii)
+    - [Official Product Page](https://www.kqzyfj.com/click-101389079-15571598)
     - [Reddit Search for Marshall Acton III](https://www.reddit.com/search/?q=Marshall+Acton+III)
     - [Direct Speakerranking Link](/powered/speakers/Marshall-Acton-III/)
 
