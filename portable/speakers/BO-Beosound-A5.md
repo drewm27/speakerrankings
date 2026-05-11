@@ -2,12 +2,12 @@
 layout: page
 title: B&O Beosound A5 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The B&O Beosound A5 ranks #11 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The B&O Beosound A5 ranks #12 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beosound A5 ranks [#11 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#11-bo-beosound-a5-amazon-1200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beosound A5 ranks [#12 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#12-bo-beosound-a5-amazon-1200) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #11 [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325)]: $1200
+## #12 [B&O Beosound A5](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Bang-Olufsen-Beosound-Connection-Carry-Strap/dp/B0BXPVTD25/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=05433f1198d5d1b870b25be5a68619e5&camp=1789&creative=9325)]: $1200
 - Positives: Pretty neutral sound. Not enough good sound samples to rank this properly
 - App: No
 - Aux Input: Yes

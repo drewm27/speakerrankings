@@ -2,12 +2,12 @@
 layout: page
 title: Soundcore Rave Neo 2 Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Soundcore Rave Neo 2 ranks #19 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Soundcore Rave Neo 2 ranks #20 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Rave Neo 2 ranks [#19 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#19-soundcore-rave-neo-2-amazon-bhphotovideo-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Rave Neo 2 ranks [#20 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#20-soundcore-rave-neo-2-amazon-bhphotovideo-130) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #19 [Soundcore Rave Neo 2](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1795818-REG/soundcore_by_anker_a33a1z11_rave_neo_2_wireless.html?BI=23745&KBID=29189)]: $130
+## #20 [Soundcore Rave Neo 2](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-PartyCast-Waterproof-Customizable-Tailgating/dp/B0BGYCY8VR/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=b0f32ea096b5fed84ce74bcee14bfe46&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1795818-REG/soundcore_by_anker_a33a1z11_rave_neo_2_wireless.html?BI=23745&KBID=29189)]: $130
 - Positives: A big improvement in sound quality over the original Rave Neo. Use bass up at higher volumes, but turn it off for lower volumes.
 - Negatives: Slight treble rolloff
 - App: Yes

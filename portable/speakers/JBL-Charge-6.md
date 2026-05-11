@@ -28,6 +28,7 @@ The JBL Charge 6 ranks [#11 out of 131 total Medium Size Portable Bluetooth Spea
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- USB Audio: Yes
 - Weight: 2.18lbs / 990g
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)

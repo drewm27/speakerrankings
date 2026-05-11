@@ -2,12 +2,12 @@
 layout: page
 title: Minirig mk2 with subwoofer Specifications and Review
 cover-img: "/assets/img/homeimage.jpg"
-share-description: "The Minirig mk2 with subwoofer ranks #6 out of 73 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
+share-description: "The Minirig mk2 with subwoofer ranks #7 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Minirig mk2 with subwoofer ranks [#6 out of 73 total Large Size Portable Bluetooth Speakers](/portable/large/#6-minirig-mk2-with-subwoofer-260) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Minirig mk2 with subwoofer ranks [#7 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#7-minirig-mk2-with-subwoofer-260) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #6 Minirig mk2 with subwoofer: $260
+## #7 Minirig mk2 with subwoofer: $260
 - Positives: Very balanced sound
 - Negatives: Not stereo, app is buggy. Wireless TWS pairing is buggy. Not easy to carry on the go, no handle and there's 2 pieces. Calls itself splash resistant but has no official water rating. A bit expensive. Has [reliability issues more often than any other speaker](https://www.reddit.com/r/Bluetooth_Speakers/comments/1dim2lh/minirig_quality_issues_own_6_and_3_have_had/)
 - App: Yes

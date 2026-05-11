@@ -3,10 +3,10 @@ layout: page
 title: Best Portable Bluetooth Speakers With Party Mode 
 comments: true
 cover-img: "/assets/img/blast.jpg"
-share-description: "Expert rankings of 367 Bluetooth speakers with >2 speaker party mode. Detailed specs, sound samples & EQ settings. Budget to premium picks from $30."
+share-description: "Expert rankings of 368 Bluetooth speakers with >2 speaker party mode. Detailed specs, sound samples & EQ settings. Budget to premium picks from $30."
 ---
 
-**Looking for the best Bluetooth speaker with party mode?** We've ranked 367 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: May 04, 2026.**
+**Looking for the best Bluetooth speaker with party mode?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: May 11, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -76,6 +76,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- USB Audio: Yes
 - Weight: 2.18lbs / 990g
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)

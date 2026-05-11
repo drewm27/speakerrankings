@@ -16,7 +16,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: May 04, 2026
+Last updated: May 11, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 

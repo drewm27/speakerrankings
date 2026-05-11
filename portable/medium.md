@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: May 04, 2026
+Last updated: May 11, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -374,6 +374,7 @@ Last updated: May 04, 2026
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- USB Audio: Yes
 - Weight: 2.18lbs / 990g
 - Reviews, Comparisons and Sound Samples
     - [JOY‘s 🎧3D🔈Audio-Show: JBL Charge 6 vs JBL Xtreme 4 - outdoor test](https://www.youtube.com/watch?v=nFJRSlpHrCo)
