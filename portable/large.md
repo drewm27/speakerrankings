@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: May 11, 2026
+Last updated: June 02, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -49,8 +49,8 @@ Last updated: May 11, 2026
     - [Direct Speakerranking Link](/portable/speakers/Vifa-Helsinki/)
 
 ## #2 [JBL Xtreme 5](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
-- Positives: Removable battery. Quite deep bass. A fantastic sounding speaker besides a hole in the mid-upper bass which can't be EQ'd out
-- Negatives: High priced. Some bass boost. A fantastic sounding speaker besides a hole in the mid-upper bass which can't be EQ'd out
+- Positives: Removable battery. Quite deep bass. A fantastic sounding speaker
+- Negatives: High priced. Some bass boost. A hole in the mid-upper bass which can't be EQ'd out
 - Setup: Try [this Oluv EQ](https://www.youtube.com/watch?v=_a-qMWPCuFg) for the most neutral sound
 - App: Yes
 - Aux Input: No
@@ -69,7 +69,7 @@ Last updated: May 11, 2026
 - Power Bank: Yes
 - Power Input: USB-C
 - Removable Battery: Yes
-- Stereo: Yes
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Audio: Yes
 - Weight: 6.38lbs / 2.9kg
@@ -1301,11 +1301,11 @@ Last updated: May 11, 2026
 
 ## #40 Sony SRS-XB43: $150
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
-- App: No
+- App: Yes (Sony Music Center App)
 - Aux Input: Yes
 - Bass Extension (-10dB): 53Hz
 - Battery Life: 24 hours (Manufacturer specified)
-- Bluetooth Codecs: SBC
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Latency: 85ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

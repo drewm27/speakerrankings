@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: May 11, 2026
+Last updated: June 02, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -595,11 +595,12 @@ Last updated: May 11, 2026
     - [Reddit Search for B&O Beosound A1 3rd gen](https://www.reddit.com/search/?q=B%26O+Beosound+A1+3rd+gen)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-A1-3rd-gen/)
 
-## #19 [Xiaomi Sound Party](https://s.click.aliexpress.com/e/_c3ZipCS9) [[Aliexpress](https://s.click.aliexpress.com/e/_c3ZipCS9)]
+## #19 [Xiaomi Sound Party](https://s.click.aliexpress.com/e/_c3ZipCS9) [[Aliexpress](https://s.click.aliexpress.com/e/_c3ZipCS9)]: $126
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
-- Negatives: Bass can sound slightly thuddy at high volume
+- Negatives: Bass can sound slightly thuddy at high volume, 180hz peak
 - App: Yes
 - Aux Input: No
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 26 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -609,6 +610,7 @@ Last updated: May 11, 2026
 - EQ: Yes
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Max Volume: 102dB
 - Output Power: 50W
 - Party Mode: Yes (Up to 100 speakers)
 - Power Bank: Yes
@@ -620,6 +622,8 @@ Last updated: May 11, 2026
     - [Oluv: Xiaomi Sound Party - first look](https://www.patreon.com/posts/xiaomi-sound-154023356)
     - [Oluv: Xiaomi Sound Party - outdoor test](https://www.patreon.com/posts/xiaomi-sound-154150937)
     - [Oluv: Xiaomi Sound Party vs Boom 2 & Helsinki](https://www.patreon.com/posts/xiaomi-sound-vs-154388881)
+    - [Alan Ross: JBL Charge 6 vs Xiaomi Sound Party – Honest No-BS Comparison](https://www.youtube.com/watch?v=wK2ty2jfMDw)
+    - [Alan Ross: Xiaomi Sound Party or Soundcore Boom 2 - 4 db louder?!](https://www.youtube.com/watch?v=zgXvQYRlyNc)
     - [Grimluck: XIAOMI Sound Party Review and Comparison (Jbl charge and Xiaomi outdoor)](https://www.youtube.com/watch?v=PrlSH9kcjWs)
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
 - Links
@@ -1606,9 +1610,11 @@ Last updated: May 11, 2026
 
 ## #58 Sony XB33: $110
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
+- App: Yes (Sony Music Connect App)
 - Aux Input: No
 - Bass Extension (-10dB): 50Hz
 - Battery Life: 24 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Latency: 110ms
 - Bluetooth Version: 5.0
 - Dimensions: 9.69" x 3.82" x 4.17" (246 x 97 x 106 mm)

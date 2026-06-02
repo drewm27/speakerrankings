@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Xiaomi Sound Party ranks #19 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#19-xiaomi-sound-party-aliexpress) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#19-xiaomi-sound-party-aliexpress-126) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #19 [Xiaomi Sound Party](https://s.click.aliexpress.com/e/_c3ZipCS9) [[Aliexpress](https://s.click.aliexpress.com/e/_c3ZipCS9)]
+## #19 [Xiaomi Sound Party](https://s.click.aliexpress.com/e/_c3ZipCS9) [[Aliexpress](https://s.click.aliexpress.com/e/_c3ZipCS9)]: $126
 - Positives: Sounds pretty balanced overall, more neutral than the Charge 5. Nice passive radiator visual effect.
-- Negatives: Bass can sound slightly thuddy at high volume
+- Negatives: Bass can sound slightly thuddy at high volume, 180hz peak
 - App: Yes
 - Aux Input: No
+- Bass Extension (-10dB): 54Hz
 - Battery Life: 26 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.4
@@ -21,6 +22,7 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
 - EQ: Yes
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
+- Max Volume: 102dB
 - Output Power: 50W
 - Party Mode: Yes (Up to 100 speakers)
 - Power Bank: Yes
@@ -32,6 +34,8 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
     - [Oluv: Xiaomi Sound Party - first look](https://www.patreon.com/posts/xiaomi-sound-154023356)
     - [Oluv: Xiaomi Sound Party - outdoor test](https://www.patreon.com/posts/xiaomi-sound-154150937)
     - [Oluv: Xiaomi Sound Party vs Boom 2 & Helsinki](https://www.patreon.com/posts/xiaomi-sound-vs-154388881)
+    - [Alan Ross: JBL Charge 6 vs Xiaomi Sound Party – Honest No-BS Comparison](https://www.youtube.com/watch?v=wK2ty2jfMDw)
+    - [Alan Ross: Xiaomi Sound Party or Soundcore Boom 2 - 4 db louder?!](https://www.youtube.com/watch?v=zgXvQYRlyNc)
     - [Grimluck: XIAOMI Sound Party Review and Comparison (Jbl charge and Xiaomi outdoor)](https://www.youtube.com/watch?v=PrlSH9kcjWs)
     - [Jefferson C: XIAOMI Sound Party 2025](https://www.youtube.com/watch?v=v_vWxwHFwZk)
 - Links

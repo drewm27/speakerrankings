@@ -6,7 +6,7 @@ cover-img: "/assets/img/blast.jpg"
 share-description: "Expert rankings of 368 Bluetooth speakers tested for sound quality. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for sound quality?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: May 11, 2026.**
+**Looking for the best Bluetooth speaker for sound quality?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 02, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -192,8 +192,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 ## Large
 
 ### The best reasonably priced [large size](/portable/large/) battery powered speaker for deeper bass with great sound quality is the [**JBL Xtreme 5**](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
-- Positives: Removable battery. Quite deep bass. A fantastic sounding speaker besides a hole in the mid-upper bass which can't be EQ'd out
-- Negatives: High priced. Some bass boost. A fantastic sounding speaker besides a hole in the mid-upper bass which can't be EQ'd out
+- Positives: Removable battery. Quite deep bass. A fantastic sounding speaker
+- Negatives: High priced. Some bass boost. A hole in the mid-upper bass which can't be EQ'd out
 - Setup: Try [this Oluv EQ](https://www.youtube.com/watch?v=_a-qMWPCuFg) for the most neutral sound
 - App: Yes
 - Aux Input: No
@@ -212,7 +212,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Power Bank: Yes
 - Power Input: USB-C
 - Removable Battery: Yes
-- Stereo: Yes
+- Stereo: Partially (1 woofer)
 - TWS: Yes
 - USB Audio: Yes
 - Weight: 6.38lbs / 2.9kg
@@ -234,7 +234,52 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Reddit Search for JBL Xtreme 5](https://www.reddit.com/search/?q=JBL+Xtreme+5)
 
 
-### If the 6.13lbs/2.78kg of weight bothers you, get the 3.7lbs/1.68kg [**Soundcore Boom 2**](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837385-REG/soundcore_by_anker_a3138011_boom_2_outdoor_bluetooth.html?BI=23745&KBID=29189)]: $90
+### If the price is too outrageous, get the [large size](/portable/large/) [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
+- Positives: Fantastic bass extension. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
+- Negatives: Quite heavy for the size. Some bass boost way down low. Treble and upper mids have some peaks.
+- Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) and you can turn down the lowest slider for it to be more neutral
+- App: Yes
+- Aux Input: Yes
+- Aux Latency: 20ms
+- Bass Extension (-10dB): 44Hz
+- Battery Life: 24 hours (Manufacturer specified)
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Latency: 128ms AAC, 144ms SBC
+- Bluetooth Version: 5.4
+- Built in Microphone: Yes
+- Dimensions: 12.2" x 5.8" x 6.0" (310 x 147 x 152 mm)
+- Driver: 2x 70mm woofers, 2x 30mm tweeters
+- EQ: Yes (10 band)
+- Frequency Response: 43Hz - 20kHz (Manufacturer specified)
+- IP Rating: IP67
+- Max Volume: 108dB
+- Output Power: 80W
+- Party Mode: No
+- Power Bank: Yes
+- Power Input: USB-C
+- Stereo: Yes
+- TWS: Yes
+- Weight: 5.2lbs / 2.37kg
+- Reviews, Comparisons and Sound Samples
+    - [JOY‘s 3D Audio Show: Tribit StormBox Lava vs SoundCore Boom 2 - sound quality demo](https://www.youtube.com/watch?v=IgoE9RB1pCQ)
+    - [Oluv: An evening with the "best portable speakers"?](https://www.patreon.com/posts/evening-with-137116931)
+    - [Alan Ross Reviews: Tribit Stormbox Lava Latest Firmware Update Result! v2.0.3](https://www.youtube.com/watch?v=uuvpho1kmJ4)
+    - [Alan Ross Reviews: From harsh to smooth with these EQ settings - Tribit StormBox Lava](https://www.youtube.com/watch?v=LQu4qpfcP6U)
+    - [Alan Ross Reviews: Tribit StormBox Lava Just Got a MASSIVE Update… WOW! 🔥](https://www.youtube.com/watch?v=8y2FyR2ZI-k)
+    - [Alan Ross Reviews: Some people love the Tribit Stormbox Lava, highly professional review 😁](https://www.youtube.com/watch?v=-Odq-pVxLLo)
+    - [Mateusz Cholewa: Tribit Stormbox Blast 🎶 🆚Deep BASS - Tribit Stormbox LAVA](https://www.youtube.com/watch?v=V3X68TmDcvg)
+    - [Mateusz Cholewa: TRIBIT StormBox LAVA vs EarFun UBOOM X](https://www.youtube.com/watch?v=qM968wDcmhI)
+    - [Mateusz Cholewa: TRIBIT StormBox LAVA vs Soundcore BOOM 2](https://www.youtube.com/watch?v=zAGuCyEsQ64)
+    - [Mateusz Cholewa: TRIBIT StormBox LAVA - Unboxing.📦 Short Test vs Xtreme 4](https://www.youtube.com/watch?v=EE1EGDhKr4o)
+    - [Mateusz Cholewa: TRIBIT StormBox LAVA  Deep BASS 🆚 JBL XTREME 4](https://www.youtube.com/watch?v=KYIiqlPy4v4)
+    - [Oluv: Tribit Stormbox Lava - quick look](https://www.patreon.com/posts/tribit-stormbox-125854931)
+    - [Mateusz Cholewa: 👌TRIBIT StormBox LAVA Deep Bass 🆚 Bogasing S8 Pro MAX - HiFi?](https://www.youtube.com/watch?v=33fwdB2p_pw)
+- Links
+    - [Official Product Page](https://tribit.com/products/tribit-stormbox-lava-portable-bluetooth-speaker)
+    - [Reddit Search for Tribit Stormbox Lava](https://www.reddit.com/search/?q=Tribit+Stormbox+Lava)
+
+
+### If the 6.38lbs/2.9kg of weight bothers you, get the 3.7lbs/1.68kg [**Soundcore Boom 2**](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/soundcore-Subwoofer-Waterproof-Floatable-Bluetooth/dp/B0CQ53RVTW/ref=sr_1_3?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=f951314347e23bddd72378c50e4862fd&camp=1789&creative=9325)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837385-REG/soundcore_by_anker_a3138011_boom_2_outdoor_bluetooth.html?BI=23745&KBID=29189)]: $90
 - Positives: Pretty deep bass for the size. Cool lights in the side passive radiators. For the best sound quality use [Oluv's EQ](http://youtube.com/post/UgkxDbzrpbeFb0yxNRpkoMQKJSzoNRRS9neH) or [Alan Ross's EQ](https://www.instagram.com/p/C5EiGNSsR7C/?hl=en). With the stock tuning, this speaker would rank around #24, due to the boosted bass and rising treble.
 - Negatives: Only a single midrange driver, so you only get stereo for the tweeters. Sound processing issues with inconsistent bass notes that disappear at low levels like the Soundcore Boom and Soundcore Boost, not great for listening at low levels. Quite bass heavy with BassUp turned on, I'd recommend turning it off. A little bit of a bright tuning in the treble, about +5db.
 - App: Yes
@@ -389,7 +434,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Party
 
-### The best [party size](/portable/party/) big party battery powered speaker with excellent sound quality and very deep bass is the [**JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $450
+### The best [party size](/portable/party/) big party battery powered speaker with excellent sound quality and very deep bass is the [**JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $550
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes

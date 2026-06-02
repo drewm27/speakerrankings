@@ -9,9 +9,11 @@ The Sony XB33 ranks [#58 out of 131 total Medium Size Portable Bluetooth Speaker
 
 ## #58 Sony XB33: $110
 - Negatives: Not very loud. Upper bass peaks, midrange dip, upper midrange peaks, not very neutral. Speaker will not remain at max volume and will turn itself down automatically.
+- App: Yes (Sony Music Connect App)
 - Aux Input: No
 - Bass Extension (-10dB): 50Hz
 - Battery Life: 24 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Latency: 110ms
 - Bluetooth Version: 5.0
 - Dimensions: 9.69" x 3.82" x 4.17" (246 x 97 x 106 mm)
