@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Genelec HTS4B ranks #91 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Genelec HTS4B ranks [#91 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#91-genelec-hts4b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Genelec HTS4B ranks [#91 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#91-genelec-hts4b-2995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #91 Genelec HTS4B
+## #91 Genelec HTS4B: $2995
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Country: Finland
 - Dimensions: 20.37"H x 19.0"W x 18.31"D (517.4 x 482.6 x 465.1 mm)
 - Discontinued: Yes
+- Driver: 4" (102mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
 - Measurement Source: Ilkka Rissanen

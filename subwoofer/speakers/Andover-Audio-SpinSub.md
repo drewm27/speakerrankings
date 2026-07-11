@@ -12,6 +12,7 @@ The Andover Audio SpinSub ranks [#33 out of 41 total Small Powered Home Subwoofe
 - Cabinet Color: black, grey
 - Country: United States
 - Dimensions: 14.25"H x 11.25"W x 12.75"D (361.9 x 285.8 x 323.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: ported
 - Measurement Source: Brent Butterworth

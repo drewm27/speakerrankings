@@ -14,9 +14,13 @@ The Bumpboxx Flare 6 ranks [#52 out of 67 total Boombox Size Portable Bluetooth 
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 24" x 6" x 14"
+- Driver: 6" woofer + tweeters
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX6
 - Max Volume: 115dB
+- Output Power: 150W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

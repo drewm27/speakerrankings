@@ -12,8 +12,10 @@ The Arendal 1961 Subwoofer 1S ranks [#29 out of 137 total Medium Powered Home Su
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 16.33"H x 12.4"W x 16.33"D (414.8 x 315.0 x 414.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 19–200Hz, ±3dB
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 117.6 dB
 - Output SPL at 15 Hz: 93.2 dB
@@ -24,6 +26,7 @@ The Arendal 1961 Subwoofer 1S ranks [#29 out of 137 total Medium Powered Home Su
 - Output SPL at 50 Hz: 115.0 dB
 - Output SPL at 63 Hz: 117.5 dB
 - Output SPL at 80 Hz: 118.0 dB
+- Power Output (Watts): 550W RMS
 - Warranty: 10/5
 - Weight: 44.09lbs / 20.0kg
 - Links

@@ -5,15 +5,17 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Paradigm Monitor SUB 10 ranks #116 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Paradigm Monitor SUB 10 ranks [#116 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#116-paradigm-monitor-sub-10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Paradigm Monitor SUB 10 ranks [#116 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#116-paradigm-monitor-sub-10-799) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #116 Paradigm Monitor SUB 10
+## #116 Paradigm Monitor SUB 10: $799
 - CEA-2010-A Average (40-80Hz): 107.4 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 13.0"H x 11.12"W x 12.75"D (330.2 x 282.4 x 323.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 17Hz extension
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 94.4 dB
 - Output SPL at 25 Hz: 94.4 dB
@@ -21,6 +23,7 @@ The Paradigm Monitor SUB 10 ranks [#116 out of 137 total Medium Powered Home Sub
 - Output SPL at 40 Hz: 107.4 dB
 - Output SPL at 50 Hz: 107.4 dB
 - Output SPL at 63 Hz: 107.4 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 3
 - Weight: 30.0lbs / 13.6kg
 - Links

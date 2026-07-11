@@ -18,10 +18,11 @@ The Sonos Move ranks [#26 out of 74 total Large Size Portable Bluetooth Speakers
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 9.4" x 6.3" x 5.0" (240 x 160 x 126 mm)
-- Driver: mid-woofer, downward-firing tweeter
+- Driver: 1x 3.5" (89mm) mid-woofer + 1x downward-firing tweeter (tweeter size undisclosed by Sonos)
 - EQ: No
 - IP Rating: IP56
 - Max Volume: 92dB
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C (requires USB-C PD 12v minimum)

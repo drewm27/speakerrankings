@@ -12,8 +12,10 @@ The PSB Speakers SubSeries 450 ranks [#24 out of 137 total Medium Powered Home S
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 15.12"H x 15.37"W x 16.62"D (384.0 x 390.4 x 422.1 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 20–150Hz, ±3dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 88.1 dB
 - Output SPL at 25 Hz: 101.1 dB
@@ -22,6 +24,7 @@ The PSB Speakers SubSeries 450 ranks [#24 out of 137 total Medium Powered Home S
 - Output SPL at 50 Hz: 115.8 dB
 - Output SPL at 63 Hz: 118.3 dB
 - Output SPL at 80 Hz: 118.9 dB
+- Power Output (Watts): 400W RMS / 1000W peak
 - Warranty: 5
 - Weight: 43.0lbs / 19.5kg
 - Links

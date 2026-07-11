@@ -5,15 +5,16 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Sony GTK-XB60 ranks #40 out of 42 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony GTK-XB60 ranks [#40 out of 42 total Party Size Portable Bluetooth Speakers](/portable/party/#40-sony-gtk-xb60) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony GTK-XB60 ranks [#40 out of 42 total Party Size Portable Bluetooth Speakers](/portable/party/#40-sony-gtk-xb60-299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #40 Sony GTK-XB60
+## #40 Sony GTK-XB60: $299
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Driver: 8cm driver + passive radiators
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)

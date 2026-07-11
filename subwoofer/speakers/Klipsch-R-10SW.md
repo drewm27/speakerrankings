@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Klipsch R-10SW ranks #14 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Klipsch R-10SW ranks [#14 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#14-klipsch-r-10sw-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Klipsch R-10SW ranks [#14 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#14-klipsch-r-10sw-399) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #14 Klipsch R-10SW
+## #14 Klipsch R-10SW: $399
 - CEA-2010-A Average (40-80Hz): 106.8 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.0"H x 12.5"W x 15.7"D (355.6 x 317.5 x 398.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner

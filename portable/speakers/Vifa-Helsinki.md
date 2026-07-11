@@ -22,6 +22,7 @@ The Vifa Helsinki ranks [#1 out of 74 total Large Size Portable Bluetooth Speake
 - EQ: No
 - Frequency Response: 58Hz - 18kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick

@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Hifuture Soundpro ranks #96 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Hifuture Soundpro ranks [#96 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#96-hifuture-soundpro) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Hifuture Soundpro ranks [#96 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#96-hifuture-soundpro-149) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #96 Hifuture Soundpro
+## #96 Hifuture Soundpro: $149
 - Negatives: Not as deep bass as competitors. Muffled sounding
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes

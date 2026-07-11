@@ -17,10 +17,12 @@ The Dayton Audio Boost Mini ranks [#28 out of 44 total Small Size Portable Bluet
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 3.93" x 3.93" x 1.77"
 - Driver: 1.75"
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: Specs not clearly published
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

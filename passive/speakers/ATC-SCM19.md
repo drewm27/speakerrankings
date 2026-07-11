@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The ATC SCM19 ranks #37 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The ATC SCM19 ranks [#37 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#37-atc-scm19-tmraudio-used-listings-3750) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ATC SCM19 ranks [#37 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#37-atc-scm19-tmraudio-3750) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #37 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/) [[Tmraudio](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/)] [[Used Listings](https://www.hifizero.com/index.php?q=ATC+SCM19)]: $3750
+## #37 [ATC SCM19](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/) [[Tmraudio](https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm19-bookshelf-passive-speakers-pair/)]: $3750
 - Negatives: Some stored energy resonance around 500-700hz, 4dB bump around 700hz. Not recommended for the price
 - Bass Extension (-10dB): 34Hz
 - Bass Extension (-3dB): 60Hz

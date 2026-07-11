@@ -23,6 +23,7 @@ The Vifa City ranks [#10 out of 44 total Small Size Portable Bluetooth Speakers]
 - Frequency Response: 78Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
 - NFC: Yes
+- Output Power: 78W peak
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

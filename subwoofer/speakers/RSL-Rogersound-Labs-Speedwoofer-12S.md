@@ -12,6 +12,7 @@ The RSL (Rogersound Labs) Speedwoofer 12S ranks [#85 out of 95 total Large Power
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 22.25"H x 18.875"W x 22.125"D (565.1 x 479.4 x 562.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner

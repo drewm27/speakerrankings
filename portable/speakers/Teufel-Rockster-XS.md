@@ -15,6 +15,8 @@ The Teufel Rockster XS ranks [#31 out of 131 total Medium Size Portable Bluetoot
 - Bluetooth Codecs: aptX
 - Bluetooth Version: 4.0
 - Dimensions: 2.7" x 3.4" x 7.0" (69 x 86 x 178 mm)
+- Driver: 65mm woofer + 20mm tweeter
+- IP Rating: IPX7
 - Output Power: 32W
 - Power Bank: Yes
 - Stereo: Yes

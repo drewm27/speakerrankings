@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Power Sound Audio (PSA) S3600i ranks #21 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Power Sound Audio (PSA) S3600i ranks [#21 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#21-power-sound-audio-psa-s3600i-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Power Sound Audio (PSA) S3600i ranks [#21 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#21-power-sound-audio-psa-s3600i-5995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #21 Power Sound Audio (PSA) S3600i
+## #21 Power Sound Audio (PSA) S3600i: $5995
 - CEA-2010-A Average (40-80Hz): 125.0 dB
 - Country: United States
 - Dimensions: 24.0"H x 28.0"W x 20.0"D (609.6 x 711.2 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

@@ -6,7 +6,7 @@ cover-img: "/assets/img/blast.jpg"
 share-description: "Expert rankings of 368 Bluetooth speakers for audiophiles. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speaker for audiophiles?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 02, 2026.**
+**Looking for the best Bluetooth speaker for audiophiles?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -34,6 +34,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 3.9" x 3.9" x 1.68"
+- Driver: 48mm NdFeB driver
 - EQ: Yes (9 Band)
 - IP Rating: IP67
 - Max Volume: 94dB
@@ -108,7 +110,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Reddit Search for Earfun Uboom L](https://www.reddit.com/search/?q=Earfun+Uboom+L)
 
 
-### If you need a [medium size](/portable/medium/) stereo and omnidirectional speaker in one, get the [**Soundcore Motion 300**](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
+### If you need a [medium size](/portable/medium/) stereo and omnidirectional speaker in one, get the [**Soundcore Motion 300**](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=rankingspea01-20&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=rankingspea01-20&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
 - Positives: Pretty deep bass for the small size. Pocket size in a big pocket. Can be used in stereo facing you, or omnidirectional lying down. Ability to have a custom EQ for each orientation, standing, lying flat, hanging. Try [the Uboom L EQs from Oluv for a more neutral sound](https://www.patreon.com/oluvsone/shop/soundcore-motion-300-eq-settings-uboom-l-95778).
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
@@ -120,7 +122,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50 mm)
-- Driver: 2x full-range drivers + passive radiators
+- Driver: 2x 50.8mm (2") full-range drivers + 2x passive radiators
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
@@ -162,6 +164,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
+- Driver: 2x 70mm (2.75") neodymium woofers + 2x silk dome tweeters + 2x passive radiators
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
@@ -189,7 +192,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Large
 
-### The best [large size](/portable/large/) battery powered speaker for deeper bass for audiophiles is the [**JBL Xtreme 5**](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
+### The best [large size](/portable/large/) battery powered speaker for deeper bass for audiophiles is the [**JBL Xtreme 5**](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=rankingspea01-20&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=rankingspea01-20&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
 - Positives: Removable battery. Quite deep bass. A fantastic sounding speaker
 - Negatives: High priced. Some bass boost. A hole in the mid-upper bass which can't be EQ'd out
 - Setup: Try [this Oluv EQ](https://www.youtube.com/watch?v=_a-qMWPCuFg) for the most neutral sound
@@ -232,7 +235,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
     - [Reddit Search for JBL Xtreme 5](https://www.reddit.com/search/?q=JBL+Xtreme+5)
 
 
-### If you need better value look at the [large size](/portable/large/) battery powered speaker for deeper bass for audiophiles is the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
+### If you need better value look at the [large size](/portable/large/) battery powered speaker for deeper bass for audiophiles is the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=rankingspea01-20&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=rankingspea01-20&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
 - Positives: Fantastic bass extension. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and upper mids have some peaks.
 - Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) and you can turn down the lowest slider for it to be more neutral
@@ -292,6 +295,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Version: 5.3
 - Built in Microphone: No
 - Dimensions: 15.75" x 6.3" x 9.06" (400 x 160 x 230 mm)
+- Driver: 2x ~107mm (4.2") woofers + 2x ~25mm tweeters
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
@@ -361,6 +365,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
+- Driver: 1x 130mm (5") subwoofer + 2x 70mm midrange drivers + 2x 20mm tweeters
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103dB
@@ -388,7 +393,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Loudest
 
-### The best sounding absolute loudest battery powered speaker is the [party size](/portable/party/) [**Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
+### The best sounding absolute loudest battery powered speaker is the [party size](/portable/party/) [**Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=rankingspea01-20&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=rankingspea01-20&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
 - Positives: Good midrange and treble. The best sounding extremely loud speaker available.
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes

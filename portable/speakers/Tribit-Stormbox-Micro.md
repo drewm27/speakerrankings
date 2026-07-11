@@ -16,9 +16,12 @@ The Tribit Stormbox Micro ranks [#5 out of 44 total Small Size Portable Bluetoot
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes
+- Dimensions: 3.9" x 3.9" x 1.4"
+- Driver: 48mm NdFeB
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 93dB
+- Output Power: 13W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

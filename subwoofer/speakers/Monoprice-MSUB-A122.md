@@ -12,12 +12,16 @@ The Monoprice MSUB-A122 ranks [#96 out of 137 total Medium Powered Home Subwoofe
 - Country: United States
 - Dimensions: 17.0"H x 17.25"W x 17.5"D (431.8 x 438.1 x 444.5 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
+- Frequency Response: 25-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 31.5 Hz: 92.3 dB
 - Output SPL at 40 Hz: 106.3 dB
 - Output SPL at 50 Hz: 111.9 dB
 - Output SPL at 63 Hz: 109.6 dB
+- Power Output (Watts): 150W RMS
+- Weight: 75 lbs (34 kg)
 - Links
     - [Reddit Search for Monoprice MSUB-A122](https://www.reddit.com/search/?q=Monoprice+MSUB-A122)
 

@@ -10,19 +10,22 @@ This page ranks 137 mid-size powered subwoofers weighing between 30 and 75 lbs. 
 
 Also check out [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs) and [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs). For passive subwoofers see [Small Passive](/subwoofer/passive-small/), [Medium Passive](/subwoofer/passive-medium/), and [Large Passive](/subwoofer/passive-large/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
 
 ## #1 JTR Speakers Captivator 212PRO: $2,600
 - Notes: Looks like "PA sub"
+- Amplifier Type: Class D with DSP
 - CEA-2010-A Average (40-80Hz): 129.1 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.0"H x 30.0"W x 22.5"D (406.4 x 762.0 x 571.5 mm)
+- Driver: 2x 12" (305mm) drivers
 - Driver(s): (2) 12 inch
 - Enclosure: ported, front
+- Input Connections: XLR and RCA
 - Measurement Source: Data-bass
 - Output SPL at 100 Hz: 134.6 dB
 - Output SPL at 125 Hz: 135.2 dB
@@ -32,6 +35,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 129.2 dB
 - Output SPL at 63 Hz: 131.3 dB
 - Output SPL at 80 Hz: 133.2 dB
+- Power Output (Watts): 1200W RMS
 - Warranty: 5/3
 - Weight: 71.0lbs / 32.2kg
 - Links
@@ -44,8 +48,11 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.1"H x 17.9"W x 19.1"D (510.5 x 454.7 x 485.1 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Frequency Response: 20–200Hz, ±3dB
+- Input Connections: RCA (stereo and LFE), XLR (LFE), speaker-level (banana)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 120.2 dB
 - Output SPL at 125 Hz: 119.0 dB
@@ -57,6 +64,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 121.0 dB
 - Output SPL at 63 Hz: 121.8 dB
 - Output SPL at 80 Hz: 121.0 dB
+- Power Output (Watts): 900W RMS / 1800W peak
 - Warranty: 3
 - Weight: 56.0lbs / 25.4kg
 - Links
@@ -69,9 +77,13 @@ Last updated: June 02, 2026
 - CEA-2010-A Average (40-80Hz): 120.3 dB
 - Cabinet Color: black, wood
 - Country: United States
+- Crossover: 30–90Hz adjustable
 - Dimensions: 19.0"H x 18.0"W x 19.5"D (482.6 x 457.2 x 495.3 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Features: Q control, sealed subwoofer, EQ1/EQ2 modes
+- Frequency Response: 20–200Hz, ±1dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 120.7 dB
 - Output SPL at 12.5 Hz: 93.7 dB
@@ -84,6 +96,8 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 120.8 dB
 - Output SPL at 63 Hz: 121.2 dB
 - Output SPL at 80 Hz: 121.1 dB
+- Phase Control: 0°–180°
+- Power Output (Watts): 600W RMS / 2000W peak
 - Warranty: 7/2(+3)
 - Weight: 65.0lbs / 29.5kg
 - Links
@@ -91,13 +105,16 @@ Last updated: June 02, 2026
     - [Reddit Search for HSU Research ULS-15 MK2](https://www.reddit.com/search/?q=HSU+Research+ULS-15+MK2)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-ULS-15-MK2/)
 
-## #4 Power Sound Audio (PSA) XV15
+## #4 Power Sound Audio (PSA) XV15: $1995
 - CEA-2010-A Average (40-80Hz): 119.5 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
+- Frequency Response: 21–200Hz
+- Input Connections: Stereo line level and speaker level
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 110.2 dB
 - Output SPL at 25 Hz: 110.2 dB
@@ -105,6 +122,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 119.5 dB
 - Output SPL at 50 Hz: 119.5 dB
 - Output SPL at 63 Hz: 119.5 dB
+- Power Output (Watts): 500W RMS / 1000W peak
 - Warranty: 5
 - Weight: 75.0lbs / 34.0kg
 - Links
@@ -116,9 +134,13 @@ Last updated: June 02, 2026
 - CEA-2010-A Average (40-80Hz): 119.2 dB
 - Cabinet Color: black
 - Country: Canada
+- Crossover: 30–120Hz adjustable
 - Dimensions: 19.43"H x 18.0"W x 19.43"D (493.5 x 457.2 x 493.5 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Features: ARC microphone for room correction, ART surround
+- Frequency Response: 20–230Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 120.2 dB
 - Output SPL at 125 Hz: 119.3 dB
@@ -129,6 +151,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 119.0 dB
 - Output SPL at 63 Hz: 120.7 dB
 - Output SPL at 80 Hz: 120.8 dB
+- Power Output (Watts): 650W RMS / 1300W peak
 - Warranty: 3
 - Weight: 62.0lbs / 28.1kg
 - Links
@@ -136,13 +159,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Paradigm Defiance X12](https://www.reddit.com/search/?q=Paradigm+Defiance+X12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-X12/)
 
-## #6 Power Sound Audio (PSA) XV15-BASE
+## #6 Power Sound Audio (PSA) XV15-BASE: $1595
 - CEA-2010-A Average (40-80Hz): 119.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
+- Frequency Response: 21–200Hz
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 110.6 dB
 - Output SPL at 25 Hz: 110.6 dB
@@ -150,6 +175,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 119.1 dB
 - Output SPL at 50 Hz: 119.1 dB
 - Output SPL at 63 Hz: 119.1 dB
+- Power Output (Watts): 500W RMS / 1000W peak
 - Warranty: 5
 - Weight: 75.0lbs / 34.0kg
 - Links
@@ -157,13 +183,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XV15-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15-BASE)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XV15-BASE/)
 
-## #7 Power Sound Audio (PSA) XV15SEICE-BASE
+## #7 Power Sound Audio (PSA) XV15SEICE-BASE: $1895
 - CEA-2010-A Average (40-80Hz): 119.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
+- Frequency Response: 21–200Hz
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 110.6 dB
 - Output SPL at 25 Hz: 110.6 dB
@@ -171,6 +199,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 119.1 dB
 - Output SPL at 50 Hz: 119.1 dB
 - Output SPL at 63 Hz: 119.1 dB
+- Power Output (Watts): 500W RMS / 1000W peak
 - Warranty: 5
 - Weight: 75.0lbs / 34.0kg
 - Links
@@ -178,14 +207,18 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XV15SEICE-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV15SEICE-BASE)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XV15SEICE-BASE/)
 
-## #8 Monoprice SW-15: $300
+## #8 [Monoprice SW-15](https://www.amazon.com/Monoprice-SW-15-Watt-Powered-Subwoofer/dp/B08Q7GZQWP?crid=1AM3HLII8GWCC&dib=eyJ2IjoiMSJ9.5wwNiH194-JpRag3aBvkiwWJliStMmxL3MAgcI9Ackiocx0vPFqMVZF6E4NIpgHtp7ZbHmgnlYrSuP2LvCLrnCik_T7witJKolcekI1Q8YLyC-SSY-cnx21Tmsv1YOPtz2qpzp-YM-hx42j8tAzoLg.pBib1dZQ4HJpFkK4GDcqBtKoy-hZjzuSlTECAemnT34&dib_tag=se&keywords=Monoprice+SW-15&qid=1780540939&sprefix=monoprice+sw-15%2Caps%2C426&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=92c0699a494ea066d05b01c13ff9b814&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monoprice-SW-15-Watt-Powered-Subwoofer/dp/B08Q7GZQWP?crid=1AM3HLII8GWCC&dib=eyJ2IjoiMSJ9.5wwNiH194-JpRag3aBvkiwWJliStMmxL3MAgcI9Ackiocx0vPFqMVZF6E4NIpgHtp7ZbHmgnlYrSuP2LvCLrnCik_T7witJKolcekI1Q8YLyC-SSY-cnx21Tmsv1YOPtz2qpzp-YM-hx42j8tAzoLg.pBib1dZQ4HJpFkK4GDcqBtKoy-hZjzuSlTECAemnT34&dib_tag=se&keywords=Monoprice+SW-15&qid=1780540939&sprefix=monoprice+sw-15%2Caps%2C426&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=92c0699a494ea066d05b01c13ff9b814&language=en_US&ref_=as_li_ss_tl)]: $300
 - Notes: Product # 41499
 - CEA-2010-A Average (40-80Hz): 119.0 dB
 - Cabinet Color: black
 - Country: United States
+- Crossover: 40–150Hz, 18dB/octave
 - Dimensions: 18.1"H x 21.0"W x 22.7"D (459.7 x 533.4 x 576.6 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
+- Frequency Response: 30–150Hz (-10dB)
+- Input Connections: Stereo line level and speaker level
 - Measurement Source: Audioholics
 - Output SPL at 15 Hz: 90.0 dB
 - Output SPL at 20 Hz: 101.2 dB
@@ -195,6 +228,8 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 120.2 dB
 - Output SPL at 63 Hz: 120.5 dB
 - Output SPL at 80 Hz: 119.5 dB
+- Phase Control: 0° or 180°
+- Power Output (Watts): 600W RMS / 800W peak
 - Warranty: 1
 - Weight: 66.1lbs / 30.0kg
 - Links
@@ -202,13 +237,18 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice SW-15](https://www.reddit.com/search/?q=Monoprice+SW-15)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-SW-15/)
 
-## #9 SVS SB-3000: $1,100
+## #9 [SVS SB-3000](https://www.amazon.com/SVS-SB-3000-Subwoofer-13-inch-Control/dp/B07K6VN8G1?crid=77WSQ4P0GDEL&dib=eyJ2IjoiMSJ9.Sp3QSZLpDUx2zNq-NC6KsA43xEMcAxU8Esmk1c9SeAGSg_Thczc6DMxdSi7q__aYKsy1liiURrh0wceei3gKFQRRHG_uuvhIo29VPB-eXwr8CMBkEo4SUjRccHE6no2CRG5tpxPhh9ENDZXKdC5BIXkQX39K_4iespEc4Fx3P2tQupkIt_PqREYDUe7-21jIQak03O3pi_WC68kC--xxCMKLbk_TtbxabDhyfO1VLTE.m6zgqVZZTv5-jqKDKzfa4evs83mFGjmDlbFmR4kgqRU&dib_tag=se&keywords=svs%2Bsb-3000&qid=1780541121&sprefix=svs%2Bsb-30%2Caps%2C302&sr=8-2&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=0ddecdb37b2eed997f0e263b5f0dfc84&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/SVS-SB-3000-Subwoofer-13-inch-Control/dp/B07K6VN8G1?crid=77WSQ4P0GDEL&dib=eyJ2IjoiMSJ9.Sp3QSZLpDUx2zNq-NC6KsA43xEMcAxU8Esmk1c9SeAGSg_Thczc6DMxdSi7q__aYKsy1liiURrh0wceei3gKFQRRHG_uuvhIo29VPB-eXwr8CMBkEo4SUjRccHE6no2CRG5tpxPhh9ENDZXKdC5BIXkQX39K_4iespEc4Fx3P2tQupkIt_PqREYDUe7-21jIQak03O3pi_WC68kC--xxCMKLbk_TtbxabDhyfO1VLTE.m6zgqVZZTv5-jqKDKzfa4evs83mFGjmDlbFmR4kgqRU&dib_tag=se&keywords=svs%2Bsb-3000&qid=1780541121&sprefix=svs%2Bsb-30%2Caps%2C302&sr=8-2&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=0ddecdb37b2eed997f0e263b5f0dfc84&language=en_US&ref_=as_li_ss_tl)]: $1,100
 - CEA-2010-A Average (40-80Hz): 118.7 dB
 - Cabinet Color: black
 - Country: United States
+- Crossover: 30–200Hz adjustable, 6/12/18/24dB slopes
 - Dimensions: 15.6"H x 15.2"W x 15.7"D (396.2 x 386.1 x 398.8 mm)
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13 inch
 - Enclosure: sealed
+- Features: Auto/On, 3-12V AC/DC trigger
+- Frequency Response: 18–270Hz, ±3dB
+- Input Connections: RCA (unbalanced), USB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 120.8 dB
 - Output SPL at 125 Hz: 120.7 dB
@@ -220,6 +260,8 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 118.7 dB
 - Output SPL at 63 Hz: 120.7 dB
 - Output SPL at 80 Hz: 120.9 dB
+- Phase Control: 0°–180°
+- Power Output (Watts): 800W RMS / 2500W peak
 - Warranty: 5
 - Weight: 54.5lbs / 24.7kg
 - Links
@@ -227,13 +269,15 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS SB-3000](https://www.reddit.com/search/?q=SVS+SB-3000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-3000/)
 
-## #10 Power Sound Audio (PSA) XS15
+## #10 Power Sound Audio (PSA) XS15: $1299
 - CEA-2010-A Average (40-80Hz): 118.2 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 19.5"H x 17.0"W x 18.0"D (495.3 x 431.8 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Frequency Response: 23–200Hz, ±3dB
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 107.1 dB
 - Output SPL at 25 Hz: 107.1 dB
@@ -241,6 +285,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 118.2 dB
 - Output SPL at 50 Hz: 118.2 dB
 - Output SPL at 63 Hz: 118.2 dB
+- Power Output (Watts): 550W RMS / 1650W peak
 - Warranty: 5
 - Weight: 59.0lbs / 26.8kg
 - Links
@@ -248,13 +293,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XS15](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS15)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XS15/)
 
-## #11 Power Sound Audio (PSA) XS15-BASE
+## #11 Power Sound Audio (PSA) XS15-BASE: $1299
 - CEA-2010-A Average (40-80Hz): 118.2 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 20.75"H x 18.5"W x 19.5"D (527.0 x 469.9 x 495.3 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Frequency Response: 23–200Hz, ±3dB
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 107.1 dB
 - Output SPL at 25 Hz: 107.1 dB
@@ -262,6 +309,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 118.2 dB
 - Output SPL at 50 Hz: 118.2 dB
 - Output SPL at 63 Hz: 118.2 dB
+- Power Output (Watts): 550W RMS / 1650W peak
 - Warranty: 5
 - Weight: 73.0lbs / 33.1kg
 - Links
@@ -269,13 +317,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XS15-BASE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS15-BASE)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XS15-BASE/)
 
-## #12 Power Sound Audio (PSA) XS15SE
+## #12 Power Sound Audio (PSA) XS15SE: $1499
 - CEA-2010-A Average (40-80Hz): 117.8 dB
 - Country: United States
 - Dimensions: 19.5"H x 17.0"W x 18.0"D (495.3 x 431.8 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Frequency Response: 23–200Hz, ±3dB
 - Measurement Source: Data-bass
 - Output SPL at 100 Hz: 119.3 dB
 - Output SPL at 12.5 Hz: 91.9 dB
@@ -288,6 +338,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 117.9 dB
 - Output SPL at 63 Hz: 119.1 dB
 - Output SPL at 80 Hz: 119.4 dB
+- Power Output (Watts): 550W RMS / 1650W peak
 - Warranty: 5
 - Weight: 67.0lbs / 30.4kg
 - Links
@@ -299,9 +350,14 @@ Last updated: June 02, 2026
 - CEA-2010-A Average (40-80Hz): 117.3 dB
 - Cabinet Color: black
 - Country: United States
+- Crossover: 50–200Hz adjustable
 - Dimensions: 17.3"H x 16.5"W x 18.9"D (439.4 x 419.1 x 480.1 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Features: Sealed subwoofer, outputs: XLR
+- Frequency Response: 14–240Hz, ±3dB
+- Input Connections: 1 XLR (balanced), 3 RCA (unbalanced)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 115.2 dB
 - Output SPL at 12.5 Hz: 86.0 dB
@@ -314,6 +370,8 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 118.4 dB
 - Output SPL at 63 Hz: 119.1 dB
 - Output SPL at 80 Hz: 117.2 dB
+- Phase Control: 0°–180° adjustable
+- Power Output (Watts): 450W RMS / 900W peak
 - Weight: 55.0lbs / 24.9kg
 - Links
     - [Starke Sound SW15 Website](https://www.starkesound.com/detail.html?id=55)
@@ -324,9 +382,14 @@ Last updated: June 02, 2026
 - CEA-2010-A Average (40-80Hz): 117.2 dB
 - Cabinet Color: black, wood
 - Country: United States
+- Crossover: 50–150Hz, 24dB/octave
 - Dimensions: 16.95"H x 16.3"W x 17.77"D (430.5 x 414.0 x 451.4 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Features: Single-band parametric EQ
+- Frequency Response: 28–150Hz (-6dB)
+- Input Connections: RCA (unbalanced) and XLR (balanced)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 115.4 dB
 - Output SPL at 125 Hz: 117.2 dB
@@ -336,6 +399,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 119.1 dB
 - Output SPL at 63 Hz: 119.0 dB
 - Output SPL at 80 Hz: 114.9 dB
+- Power Output (Watts): 1000W RMS
 - Warranty: 5
 - Weight: 70.8lbs / 32.1kg
 - Links
@@ -343,13 +407,15 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL HDI-1200P](https://www.reddit.com/search/?q=JBL+HDI-1200P)
     - [Direct Speakerranking Link](/subwoofer/speakers/JBL-HDI-1200P/)
 
-## #15 KRK Systems 12S
+## #15 KRK Systems 12S: $899
 - CEA-2010-A Average (40-80Hz): 117.1 dB
 - Country: United States
 - Dimensions: 18.11"H x 15.94"W x 22.64"D (460.0 x 404.9 x 575.1 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 32–139Hz
 - Measurement Source: Data-bass
 - Output SPL at 100 Hz: 113.6 dB
 - Output SPL at 125 Hz: 110.6 dB
@@ -360,6 +426,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 118.7 dB
 - Output SPL at 63 Hz: 118.2 dB
 - Output SPL at 80 Hz: 115.8 dB
+- Power Output (Watts): 240W RMS
 - Warranty: 3
 - Weight: 66.5lbs / 30.2kg
 - Links
@@ -372,8 +439,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.23"H x 15.5"W x 18.39"D (412.2 x 393.7 x 467.1 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 22–118Hz, ±1.5dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 115.5 dB
 - Output SPL at 12.5 Hz: 90.7 dB
@@ -386,6 +455,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 117.7 dB
 - Output SPL at 63 Hz: 118.0 dB
 - Output SPL at 80 Hz: 116.7 dB
+- Power Output (Watts): 1500W RMS
 - Warranty: 3
 - Weight: 73.5lbs / 33.3kg
 - Links
@@ -398,8 +468,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 18.89"H x 13.18"W x 17.71"D (479.8 x 334.8 x 449.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 13.8 inch
 - Enclosure: sealed
+- Frequency Response: 19–200Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 118.5 dB
 - Output SPL at 12.5 Hz: 86.5 dB
@@ -412,6 +484,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 117.0 dB
 - Output SPL at 63 Hz: 118.5 dB
 - Output SPL at 80 Hz: 118.6 dB
+- Power Output (Watts): 800W RMS
 - Warranty: 10/5
 - Weight: 54.01lbs / 24.5kg
 - Links
@@ -424,8 +497,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 14.57"H x 14.17"W x 16.14"D (370.1 x 359.9 x 410.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 10 inch
 - Enclosure: sealed
+- Frequency Response: 23–250Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 119.3 dB
 - Output SPL at 12.5 Hz: 86.0 dB
@@ -438,6 +513,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 116.3 dB
 - Output SPL at 63 Hz: 119.4 dB
 - Output SPL at 80 Hz: 119.0 dB
+- Power Output (Watts): 500W RMS
 - Weight: 59.52lbs / 27.0kg
 - Links
     - [Sigberg Audio 10D Website](https://www.sigbergaudio.no/en/products/sigberg-audio-10d)
@@ -449,8 +525,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.1"H x 15.0"W x 15.6"D (434.3 x 381.0 x 396.2 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 22–200Hz, ±3dB
 - Measurement Source: Matthew J Poes
 - Output SPL at 100 Hz: 121.3 dB
 - Output SPL at 125 Hz: 120.7 dB
@@ -462,6 +540,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.1 dB
 - Output SPL at 63 Hz: 118.7 dB
 - Output SPL at 80 Hz: 120.7 dB
+- Power Output (Watts): 650W RMS / 1300W peak
 - Warranty: 3
 - Weight: 46.0lbs / 20.9kg
 - Links
@@ -469,13 +548,15 @@ Last updated: June 02, 2026
     - [Reddit Search for MartinLogan Dynamo 1100X](https://www.reddit.com/search/?q=MartinLogan+Dynamo+1100X)
     - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-1100X/)
 
-## #20 MartinLogan Dynamo 1500X
+## #20 MartinLogan Dynamo 1500X: $1299
 - CEA-2010-A Average (40-80Hz): 116.5 dB
 - Country: United States
 - Dimensions: 18.3"H x 16.75"W x 17.6"D (464.8 x 425.4 x 447.0 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Frequency Response: 20Hz+ (with room correction)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 116.2 dB
 - Output SPL at 12.5 Hz: 92.9 dB
@@ -488,6 +569,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 117.1 dB
 - Output SPL at 63 Hz: 118.3 dB
 - Output SPL at 80 Hz: 117.4 dB
+- Power Output (Watts): 650W RMS / 1300W peak
 - Warranty: 3
 - Weight: 52.0lbs / 23.6kg
 - Links
@@ -500,8 +582,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.9"H x 17.3"W x 22.5"D (530.9 x 439.4 x 571.5 mm)
+- Driver: 12" (305mm) driver with ported design
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 16–290Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 116.0 dB
 - Output SPL at 125 Hz: 116.3 dB
@@ -513,6 +597,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 116.6 dB
 - Output SPL at 63 Hz: 116.4 dB
 - Output SPL at 80 Hz: 116.1 dB
+- Power Output (Watts): 550W RMS / 1500W peak
 - Warranty: 5
 - Weight: 64.8lbs / 29.4kg
 - Links
@@ -526,8 +611,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.5"H x 15.0"W x 24.0"D (546.1 x 381.0 x 609.6 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 18–90Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 116.1 dB
 - Output SPL at 125 Hz: 115.8 dB
@@ -539,6 +626,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 116.7 dB
 - Output SPL at 63 Hz: 117.1 dB
 - Output SPL at 80 Hz: 116.7 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 7/2(+3)
 - Weight: 62.0lbs / 28.1kg
 - Links
@@ -546,13 +634,15 @@ Last updated: June 02, 2026
     - [Reddit Search for HSU Research VTF-2 MK5](https://www.reddit.com/search/?q=HSU+Research+VTF-2+MK5)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-2-MK5/)
 
-## #23 Outlaw Audio LFM-1 EX
+## #23 Outlaw Audio LFM-1 EX: $399
 - CEA-2010-A Average (40-80Hz): 116.4 dB
 - Country: United States
 - Dimensions: 17.0"H x 22.75"W x 24.0"D (431.8 x 577.9 x 609.6 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 16–180Hz, ±2dB (one port plugged)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 116.1 dB
 - Output SPL at 125 Hz: 115.8 dB
@@ -564,6 +654,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 116.7 dB
 - Output SPL at 63 Hz: 116.8 dB
 - Output SPL at 80 Hz: 116.7 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 3
 - Weight: 67.0lbs / 30.4kg
 - Links
@@ -576,8 +667,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 15.12"H x 15.37"W x 16.62"D (384.0 x 390.4 x 422.1 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 20–150Hz, ±3dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 88.1 dB
 - Output SPL at 25 Hz: 101.1 dB
@@ -586,6 +679,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.8 dB
 - Output SPL at 63 Hz: 118.3 dB
 - Output SPL at 80 Hz: 118.9 dB
+- Power Output (Watts): 400W RMS / 1000W peak
 - Warranty: 5
 - Weight: 43.0lbs / 19.5kg
 - Links
@@ -593,13 +687,15 @@ Last updated: June 02, 2026
     - [Reddit Search for PSB Speakers SubSeries 450](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+450)
     - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-450/)
 
-## #25 SVS PB-1000 PRO: $800
+## #25 [SVS PB-1000 PRO](https://www.amazon.com/SVS-PB-1000-Ported-Subwoofer-Black/dp/B08X4ZRQC4?crid=3338KYIZ6VWZQ&dib=eyJ2IjoiMSJ9.l52znRtlBjeH4GoFafQ-3zbal666q1I0QX4OAi_aublLVqY3Z9i5d55J94hWT-e5AlIJSVExY846jGjvNmC-clYpOl_XAhorctWVX7bOc7VYd0ffB_Vcb0fuClXp_1mRn_dTPa44v5S0ZRwP3l8WdZ_wGewLRzQZemn4vYePO1cU2zvOQIIFsauPHsXt9cVyFQsr4yx-eSmtaoPyxc9SDYQNhmJfBra9zKBYtSSE710.-J-6kgX4jIi2JT0O-3BkSV6D5A6hhVmELuHfjBaYe1M&dib_tag=se&keywords=svs+subwoofers&qid=1780541194&sprefix=svs+subwoof%2Caps%2C330&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=701ac1065ac3782729af3a11edef1b25&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/SVS-PB-1000-Ported-Subwoofer-Black/dp/B08X4ZRQC4?crid=3338KYIZ6VWZQ&dib=eyJ2IjoiMSJ9.l52znRtlBjeH4GoFafQ-3zbal666q1I0QX4OAi_aublLVqY3Z9i5d55J94hWT-e5AlIJSVExY846jGjvNmC-clYpOl_XAhorctWVX7bOc7VYd0ffB_Vcb0fuClXp_1mRn_dTPa44v5S0ZRwP3l8WdZ_wGewLRzQZemn4vYePO1cU2zvOQIIFsauPHsXt9cVyFQsr4yx-eSmtaoPyxc9SDYQNhmJfBra9zKBYtSSE710.-J-6kgX4jIi2JT0O-3BkSV6D5A6hhVmELuHfjBaYe1M&dib_tag=se&keywords=svs+subwoofers&qid=1780541194&sprefix=svs+subwoof%2Caps%2C330&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=701ac1065ac3782729af3a11edef1b25&language=en_US&ref_=as_li_ss_tl)]: $800
 - CEA-2010-A Average (40-80Hz): 115.9 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.9"H x 15.0"W x 20.0"D (480.1 x 381.0 x 508.0 mm)
+- Driver: 10" (254mm) driver with ported design
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 17–260Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 115.9 dB
 - Output SPL at 125 Hz: 115.3 dB
@@ -611,6 +707,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 116.1 dB
 - Output SPL at 63 Hz: 117.4 dB
 - Output SPL at 80 Hz: 116.6 dB
+- Power Output (Watts): Not specified
 - Warranty: 5
 - Weight: 42.5lbs / 19.3kg
 - Links
@@ -618,14 +715,16 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS PB-1000 PRO](https://www.reddit.com/search/?q=SVS+PB-1000+PRO)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-1000-PRO/)
 
-## #26 Yamaha YST-SW1500
+## #26 Yamaha YST-SW1500: $699
 - CEA-2010-A Average (40-80Hz): 115.8 dB
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 20.12"H x 16.56"W x 17.62"D (511.0 x 420.6 x 447.5 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 16–160Hz, -10dB
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 81.5 dB
 - Output SPL at 25 Hz: 96.1 dB
@@ -634,19 +733,22 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.7 dB
 - Output SPL at 63 Hz: 118.0 dB
 - Output SPL at 80 Hz: 118.8 dB
+- Power Output (Watts): 1000W RMS
 - Warranty: 2?
 - Weight: 63.93lbs / 29.0kg
 - Links
     - [Reddit Search for Yamaha YST-SW1500](https://www.reddit.com/search/?q=Yamaha+YST-SW1500)
     - [Direct Speakerranking Link](/subwoofer/speakers/Yamaha-YST-SW1500/)
 
-## #27 Cadence Sound CSX-12 Mark II
+## #27 Cadence Sound CSX-12 Mark II: $1299
 - CEA-2010-A Average (40-80Hz): 115.6 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 18.25"H x 17.75"W x 18.25"D (463.5 x 450.8 x 463.5 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 34–154Hz, ±3dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 85.3 dB
 - Output SPL at 25 Hz: 99.4 dB
@@ -654,18 +756,21 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 111.2 dB
 - Output SPL at 50 Hz: 115.9 dB
 - Output SPL at 63 Hz: 119.6 dB
+- Power Output (Watts): 225W RMS / 450W peak
 - Weight: 64.0lbs / 29.0kg
 - Links
     - [Reddit Search for Cadence Sound CSX-12 Mark II](https://www.reddit.com/search/?q=Cadence+Sound+CSX-12+Mark+II)
     - [Direct Speakerranking Link](/subwoofer/speakers/Cadence-Sound-CSX-12-Mark-II/)
 
-## #28 Velodyne Acoustics EQ-Max15
+## #28 Velodyne Acoustics EQ-Max15: $1699
 - CEA-2010-A Average (40-80Hz): 115.5 dB
 - Country: United States
 - Dimensions: 21.5"H x 19.0"W x 21.0"D (546.1 x 482.6 x 533.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
+- Frequency Response: Not fully specified
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 111.3 dB
 - Output SPL at 125 Hz: 109.7 dB
@@ -676,6 +781,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 117.2 dB
 - Output SPL at 63 Hz: 117.8 dB
 - Output SPL at 80 Hz: 114.0 dB
+- Power Output (Watts): 750W RMS / 1500W peak
 - Weight: 75.0lbs / 34.0kg
 - Links
     - [Velodyne Acoustics EQ-Max15 Website](https://www.velodyneacoustics.com/eq-max-series/)
@@ -687,8 +793,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 16.33"H x 12.4"W x 16.33"D (414.8 x 315.0 x 414.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 19–200Hz, ±3dB
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 117.6 dB
 - Output SPL at 15 Hz: 93.2 dB
@@ -699,6 +807,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.0 dB
 - Output SPL at 63 Hz: 117.5 dB
 - Output SPL at 80 Hz: 118.0 dB
+- Power Output (Watts): 550W RMS
 - Warranty: 10/5
 - Weight: 44.09lbs / 20.0kg
 - Links
@@ -706,13 +815,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Arendal 1961 Subwoofer 1S](https://www.reddit.com/search/?q=Arendal+1961+Subwoofer+1S)
     - [Direct Speakerranking Link](/subwoofer/speakers/Arendal-1961-Subwoofer-1S/)
 
-## #30 RBH Sound SX-12
+## #30 RBH Sound SX-12: $1099
 - CEA-2010-A Average (40-80Hz): 115.4 dB
 - Country: United States
 - Dimensions: 19.62"H x 17.7"W x 21.12"D (498.3 x 449.6 x 536.4 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 27Hz (flat)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 114.7 dB
 - Output SPL at 125 Hz: 114.6 dB
@@ -723,6 +834,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 116.7 dB
 - Output SPL at 63 Hz: 115.7 dB
 - Output SPL at 80 Hz: 115.1 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 5/1(+5/+3)
 - Weight: 53.0lbs / 24.0kg
 - Links
@@ -730,13 +842,15 @@ Last updated: June 02, 2026
     - [Reddit Search for RBH Sound SX-12](https://www.reddit.com/search/?q=RBH+Sound+SX-12)
     - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-SX-12/)
 
-## #31 HSU Research VTF-3 MK4
+## #31 HSU Research VTF-3 MK4: $1299
 - CEA-2010-A Average (40-80Hz): 115.3 dB
 - Country: United States
 - Dimensions: 21.5"H x 17.0"W x 25.0"D (546.1 x 431.8 x 635.0 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 18–90Hz
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 105.4 dB
 - Output SPL at 25 Hz: 110.3 dB
@@ -745,20 +859,23 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.7 dB
 - Output SPL at 63 Hz: 115.8 dB
 - Output SPL at 80 Hz: 115.7 dB
+- Power Output (Watts): Not specified
 - Weight: 74.0lbs / 33.6kg
 - Links
     - [HSU Research VTF-3 MK4 Website](https://web.archive.org/web/20191229081516/http://www.hsuresearch.com/products/vtf-3mk4.html)
     - [Reddit Search for HSU Research VTF-3 MK4](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK4)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-3-MK4/)
 
-## #32 Monoprice SW-12: $230
+## #32 [Monoprice SW-12](https://www.amazon.com/Monoprice-SW-15-Watt-Powered-Subwoofer/dp/B08Q7GZQWP?crid=1AM3HLII8GWCC&dib=eyJ2IjoiMSJ9.5wwNiH194-JpRag3aBvkiwWJliStMmxL3MAgcI9Ackiocx0vPFqMVZF6E4NIpgHtp7ZbHmgnlYrSuP2LvCLrnCik_T7witJKolcekI1Q8YLyC-SSY-cnx21Tmsv1YOPtz2qpzp-YM-hx42j8tAzoLg.pBib1dZQ4HJpFkK4GDcqBtKoy-hZjzuSlTECAemnT34&dib_tag=se&keywords=Monoprice+SW-15&qid=1780540939&sprefix=monoprice+sw-15%2Caps%2C426&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=92c0699a494ea066d05b01c13ff9b814&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monoprice-SW-15-Watt-Powered-Subwoofer/dp/B08Q7GZQWP?crid=1AM3HLII8GWCC&dib=eyJ2IjoiMSJ9.5wwNiH194-JpRag3aBvkiwWJliStMmxL3MAgcI9Ackiocx0vPFqMVZF6E4NIpgHtp7ZbHmgnlYrSuP2LvCLrnCik_T7witJKolcekI1Q8YLyC-SSY-cnx21Tmsv1YOPtz2qpzp-YM-hx42j8tAzoLg.pBib1dZQ4HJpFkK4GDcqBtKoy-hZjzuSlTECAemnT34&dib_tag=se&keywords=Monoprice+SW-15&qid=1780540939&sprefix=monoprice+sw-15%2Caps%2C426&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=92c0699a494ea066d05b01c13ff9b814&language=en_US&ref_=as_li_ss_tl)]: $230
 - Notes: Product # 41498
 - CEA-2010-A Average (40-80Hz): 115.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.9"H x 18.3"W x 19.1"D (378.5 x 464.8 x 485.1 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 35–150Hz, -10dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 84.6 dB
 - Output SPL at 20 Hz: 96.7 dB
@@ -768,6 +885,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.7 dB
 - Output SPL at 63 Hz: 116.9 dB
 - Output SPL at 80 Hz: 117.0 dB
+- Power Output (Watts): 400W RMS / 600W peak
 - Warranty: 1
 - Weight: 50.7lbs / 23.0kg
 - Links
@@ -775,13 +893,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice SW-12](https://www.reddit.com/search/?q=Monoprice+SW-12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-SW-12/)
 
-## #33 HSU Research MBM-12
+## #33 HSU Research MBM-12: $799
 - CEA-2010-A Average (40-80Hz): 114.8 dB
 - Country: United States
 - Dimensions: 19.0"H x 14.0"W x 18.0"D (482.6 x 355.6 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 50–80Hz (optimized mid-bass)
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 69.7 dB
 - Output SPL at 25 Hz: 87.7 dB
@@ -790,6 +910,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.4 dB
 - Output SPL at 63 Hz: 116.9 dB
 - Output SPL at 80 Hz: 118.1 dB
+- Power Output (Watts): Not specified
 - Weight: 47.0lbs / 21.3kg
 - Links
     - [HSU Research MBM-12 Website](https://web.archive.org/web/20070301180541if_/http://www.hsuresearch.com/products/mbm-12.html)
@@ -801,8 +922,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.24"H x 13.5"W x 16.51"D (361.7 x 342.9 x 419.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 21–143Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 114.8 dB
 - Output SPL at 125 Hz: 114.2 dB
@@ -814,6 +937,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.2 dB
 - Output SPL at 63 Hz: 116.4 dB
 - Output SPL at 80 Hz: 116.0 dB
+- Power Output (Watts): 1200W RMS
 - Warranty: 3
 - Weight: 52.7lbs / 23.9kg
 - Links
@@ -821,13 +945,15 @@ Last updated: June 02, 2026
     - [Reddit Search for JL Audio E110](https://www.reddit.com/search/?q=JL+Audio+E110)
     - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-E110/)
 
-## #35 PSB Speakers SubSeries 200
+## #35 PSB Speakers SubSeries 200: $399
 - CEA-2010-A Average (40-80Hz): 114.6 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 17.5"H x 13.37"W x 15.5"D (444.5 x 339.6 x 393.7 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: Not specified
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 80.8 dB
 - Output SPL at 25 Hz: 94.7 dB
@@ -835,6 +961,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 112.2 dB
 - Output SPL at 50 Hz: 114.2 dB
 - Output SPL at 63 Hz: 117.5 dB
+- Power Output (Watts): Not specified
 - Warranty: 5?
 - Weight: 34.0lbs / 15.4kg
 - Links
@@ -842,14 +969,16 @@ Last updated: June 02, 2026
     - [Reddit Search for PSB Speakers SubSeries 200](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+200)
     - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-200/)
 
-## #36 Outlaw Audio Ultra-X12
+## #36 Outlaw Audio Ultra-X12: $999
 - CEA-2010-A Average (40-80Hz): 114.5 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.25"H x 16.0"W x 23.0"D (539.8 x 406.4 x 584.2 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 19–179Hz, ±3dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 102.3 dB
 - Output SPL at 25 Hz: 109.0 dB
@@ -857,6 +986,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 111.8 dB
 - Output SPL at 50 Hz: 115.4 dB
 - Output SPL at 63 Hz: 116.3 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 3
 - Weight: 66.0lbs / 29.9kg
 - Links
@@ -864,13 +994,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Outlaw Audio Ultra-X12](https://www.reddit.com/search/?q=Outlaw+Audio+Ultra-X12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Outlaw-Audio-Ultra-X12/)
 
-## #37 XTZ Sound 99 W12S
+## #37 XTZ Sound 99 W12S: $1499
 - CEA-2010-A Average (40-80Hz): 114.5 dB
 - Country: Sweden
 - Dimensions: 19.65"H x 13.77"W x 15.75"D (499.1 x 349.8 x 400.0 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: Not fully specified
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 74.0 dB
 - Output SPL at 25 Hz: 86.5 dB
@@ -879,18 +1011,21 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.9 dB
 - Output SPL at 63 Hz: 117.3 dB
 - Output SPL at 80 Hz: 117.4 dB
+- Power Output (Watts): Not fully specified
 - Weight: 67.24lbs / 30.5kg
 - Links
     - [Reddit Search for XTZ Sound 99 W12S](https://www.reddit.com/search/?q=XTZ+Sound+99+W12S)
     - [Direct Speakerranking Link](/subwoofer/speakers/XTZ-Sound-99-W12S/)
 
-## #38 NHT B-12d
+## #38 NHT B-12d: $699
 - CEA-2010-A Average (40-80Hz): 114.4 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 14.0"H x 14.0"W x 14.0"D (355.6 x 355.6 x 355.6 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 27–130Hz, -3dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 99.9 dB
 - Output SPL at 25 Hz: 99.9 dB
@@ -898,18 +1033,21 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 114.4 dB
 - Output SPL at 50 Hz: 114.4 dB
 - Output SPL at 63 Hz: 114.4 dB
+- Power Output (Watts): 500W RMS
 - Weight: 33.7lbs / 15.3kg
 - Links
     - [Reddit Search for NHT B-12d](https://www.reddit.com/search/?q=NHT+B-12d)
     - [Direct Speakerranking Link](/subwoofer/speakers/NHT-B-12d/)
 
-## #39 HSU Research VTF-1 MK3
+## #39 HSU Research VTF-1 MK3: $749
 - CEA-2010-A Average (40-80Hz): 114.4 dB
 - Country: United States
 - Dimensions: 19.5"H x 14.5"W x 19.0"D (495.3 x 368.3 x 482.6 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 25Hz (ported)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 111.7 dB
 - Output SPL at 125 Hz: 110.4 dB
@@ -920,6 +1058,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.0 dB
 - Output SPL at 63 Hz: 115.2 dB
 - Output SPL at 80 Hz: 113.6 dB
+- Power Output (Watts): 250W RMS / 1000W peak
 - Warranty: 7/2(+3)
 - Weight: 42.0lbs / 19.1kg
 - Links
@@ -933,8 +1072,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 21.25"H x 25.59"W x 6.69"D (539.8 x 650.0 x 169.9 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 23–250Hz, ±3dB
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 92.0 dB
 - Output SPL at 25 Hz: 98.0 dB
@@ -943,6 +1084,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.0 dB
 - Output SPL at 63 Hz: 115.0 dB
 - Output SPL at 80 Hz: 116.0 dB
+- Power Output (Watts): 250W RMS
 - Weight: 48.5lbs / 22.0kg
 - Links
     - [Sigberg Audio INKOGNITO 12 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
@@ -954,8 +1096,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 17.0"H x 15.5"W x 15.5"D (431.8 x 393.7 x 393.7 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 22-350Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 112.8 dB
 - Output SPL at 125 Hz: 112.3 dB
@@ -966,6 +1110,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.6 dB
 - Output SPL at 63 Hz: 115.2 dB
 - Output SPL at 80 Hz: 113.7 dB
+- Power Output (Watts): 650W RMS
 - Warranty: 10/2
 - Weight: 62.0lbs / 28.1kg
 - Links
@@ -973,14 +1118,16 @@ Last updated: June 02, 2026
     - [Reddit Search for Aperion Audio Bravus II 12D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+II+12D)
     - [Direct Speakerranking Link](/subwoofer/speakers/Aperion-Audio-Bravus-II-12D/)
 
-## #42 Rythmik LV12
+## #42 Rythmik LV12: $899
 - CEA-2010-A Average (40-80Hz): 114.3 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 19.5"H x 15.0"W x 18.5"D (495.3 x 381.0 x 469.9 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 19Hz-300Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 95.0 dB
 - Output SPL at 20 Hz: 101.7 dB
@@ -990,6 +1137,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.4 dB
 - Output SPL at 63 Hz: 115.2 dB
 - Output SPL at 80 Hz: 113.3 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5/3
 - Weight: 69.0lbs / 31.3kg
 - Links
@@ -1001,8 +1149,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.7"H x 14.9"W x 16.7"D (398.8 x 378.5 x 424.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 16-240Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 114.0 dB
 - Output SPL at 125 Hz: 112.1 dB
@@ -1014,21 +1164,24 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 115.6 dB
 - Output SPL at 63 Hz: 114.2 dB
 - Output SPL at 80 Hz: 113.7 dB
+- Power Output (Watts): 450W RMS
 - Weight: 39.5lbs / 17.9kg
 - Links
     - [Starke Sound SW12 Website](https://www.starkesound.com/detail.html?id=41)
     - [Reddit Search for Starke Sound SW12](https://www.reddit.com/search/?q=Starke+Sound+SW12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Starke-Sound-SW12/)
 
-## #44 SVS PC-2000
+## #44 SVS PC-2000: $2999
 - Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 34.34"H x 16.6"W x 16.6"D (872.2 x 421.6 x 421.6 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 16-290Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 112.6 dB
 - Output SPL at 125 Hz: 112.5 dB
@@ -1040,6 +1193,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.2 dB
 - Output SPL at 63 Hz: 113.9 dB
 - Output SPL at 80 Hz: 112.9 dB
+- Power Output (Watts): 550W RMS
 - Warranty: 5
 - Weight: 50.0lbs / 22.7kg
 - Links
@@ -1047,13 +1201,15 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS PC-2000](https://www.reddit.com/search/?q=SVS+PC-2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PC-2000/)
 
-## #45 SVS PB12-NSD
+## #45 SVS PB12-NSD: $1099
 - CEA-2010-A Average (40-80Hz): 113.8 dB
 - Country: United States
 - Dimensions: 20.9"H x 17.3"W x 22.0"D (530.9 x 439.4 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 18-150Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 99.9 dB
 - Output SPL at 20 Hz: 105.0 dB
@@ -1063,6 +1219,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.2 dB
 - Output SPL at 63 Hz: 114.6 dB
 - Output SPL at 80 Hz: 113.8 dB
+- Power Output (Watts): 400W RMS
 - Warranty: 5
 - Weight: 66.0lbs / 29.9kg
 - Links
@@ -1070,14 +1227,16 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS PB12-NSD](https://www.reddit.com/search/?q=SVS+PB12-NSD)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB12-NSD/)
 
-## #46 SVS PB-2000
+## #46 SVS PB-2000: $999
 - CEA-2010-A Average (40-80Hz): 113.7 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.9"H x 17.3"W x 23.2"D (530.9 x 439.4 x 589.3 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 16-290Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 106.8 dB
 - Output SPL at 25 Hz: 110.6 dB
@@ -1085,10 +1244,11 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 113.1 dB
 - Output SPL at 50 Hz: 113.5 dB
 - Output SPL at 63 Hz: 114.5 dB
+- Power Output (Watts): 550W RMS
 - Warranty: 5
 - Weight: 65.6lbs / 29.8kg
 - Links
-    - [SVS PB-2000 Website](https://www.svsound.com/pages/search-results-page?q=PB-2000)
+    - [SVS PB-2000 Website](https://www.svsound.com/products/pb-2000)
     - [Reddit Search for SVS PB-2000](https://www.reddit.com/search/?q=SVS+PB-2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-2000/)
 
@@ -1097,8 +1257,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.0"H x 15.25"W x 18.75"D (457.2 x 387.3 x 476.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 15-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 108.8 dB
 - Output SPL at 125 Hz: 106.8 dB
@@ -1109,6 +1271,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 116.3 dB
 - Output SPL at 63 Hz: 113.5 dB
 - Output SPL at 80 Hz: 110.9 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 8/5
 - Weight: 48.0lbs / 21.8kg
 - Links
@@ -1116,14 +1279,16 @@ Last updated: June 02, 2026
     - [Reddit Search for BIC America PL-300](https://www.reddit.com/search/?q=BIC+America+PL-300)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-PL-300/)
 
-## #48 Klipsch SPL-120
+## #48 [Klipsch SPL-120](https://www.amazon.com/Klipsch-SPL-120-Powered-Subwoofer-12/dp/B07FK6Q2CM?crid=1E08UYXE7A78J&dib=eyJ2IjoiMSJ9.QIoqwyrz5W7414AlePtedrKaw7-cwMU2y9yZc2nPVJzf0ceB04DHVCnXLcfUlxXAp2I5pw2VHXt2TydwZCTz34Jo2ULXTHcKa43GKWL_kcEAEZ5xTw2AZfmN3K0aEBOHHsMzGAIgqYMBGjZGgYsuvPSzsp1j9NOM9srilY-SZQq57toXFsOGJkfzM7FhfTxw2_ss7djP03PHjPpdoFIWXq2MMF0DlQLJ8dczDcSir04.iORCM82FForPn_TnWXsIRYGHxTBsh4HhZSgew6f-eYU&dib_tag=se&keywords=klipsch+subwoofer&qid=1780542580&sprefix=klipsch+subwoofer%2Caps%2C378&sr=8-8&linkCode=ll2&tag=rankingspea01-20&linkId=168c7c28bfbc9f97a579a1b940ac8159&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-SPL-120-Powered-Subwoofer-12/dp/B07FK6Q2CM?crid=1E08UYXE7A78J&dib=eyJ2IjoiMSJ9.QIoqwyrz5W7414AlePtedrKaw7-cwMU2y9yZc2nPVJzf0ceB04DHVCnXLcfUlxXAp2I5pw2VHXt2TydwZCTz34Jo2ULXTHcKa43GKWL_kcEAEZ5xTw2AZfmN3K0aEBOHHsMzGAIgqYMBGjZGgYsuvPSzsp1j9NOM9srilY-SZQq57toXFsOGJkfzM7FhfTxw2_ss7djP03PHjPpdoFIWXq2MMF0DlQLJ8dczDcSir04.iORCM82FForPn_TnWXsIRYGHxTBsh4HhZSgew6f-eYU&dib_tag=se&keywords=klipsch+subwoofer&qid=1780542580&sprefix=klipsch+subwoofer%2Caps%2C378&sr=8-8&linkCode=ll2&tag=rankingspea01-20&linkId=168c7c28bfbc9f97a579a1b940ac8159&language=en_US&ref_=as_li_ss_tl)]: $399
 - CEA-2010-A Average (40-80Hz): 113.7 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.75"H x 14.68"W x 19.87"D (450.8 x 372.9 x 504.7 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 24-125Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 81.2 dB
 - Output SPL at 20 Hz: 91.9 dB
@@ -1133,6 +1298,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.8 dB
 - Output SPL at 63 Hz: 114.9 dB
 - Output SPL at 80 Hz: 115.2 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5/2
 - Weight: 45.0lbs / 20.4kg
 - Links
@@ -1145,8 +1311,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 18.5"H x 17.12"W x 18.11"D (469.9 x 434.8 x 460.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 22-180Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 113.6 dB
 - Output SPL at 125 Hz: 112.4 dB
@@ -1156,21 +1324,24 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.2 dB
 - Output SPL at 63 Hz: 115.1 dB
 - Output SPL at 80 Hz: 114.3 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5/3
 - Weight: 49.9lbs / 22.6kg
 - Links
-    - [Polk Audio HTS 12 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-12/112632-new.html?dwvar_112632-new_color=Black)
+    - [Polk Audio HTS 12 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-12/112632-new.html)
     - [Reddit Search for Polk Audio HTS 12](https://www.reddit.com/search/?q=Polk+Audio+HTS+12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-HTS-12/)
 
-## #50 Polk Audio DSW PRO 660
+## #50 Polk Audio DSW PRO 660: $699
 - CEA-2010-A Average (40-80Hz): 113.4 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.13"H x 16.5"W x 16.5"D (435.1 x 419.1 x 419.1 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 25-125Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 82.0 dB
 - Output SPL at 25 Hz: 92.0 dB
@@ -1179,6 +1350,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.4 dB
 - Output SPL at 63 Hz: 116.0 dB
 - Output SPL at 80 Hz: 114.9 dB
+- Power Output (Watts): 400W RMS
 - Warranty: 5/3
 - Weight: 45.0lbs / 20.4kg
 - Links
@@ -1191,8 +1363,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.75"H x 15.75"W x 17.0"D (400.0 x 400.0 x 431.8 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 14Hz extension
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 95.0 dB
 - Output SPL at 20 Hz: 97.6 dB
@@ -1202,6 +1376,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.1 dB
 - Output SPL at 63 Hz: 114.4 dB
 - Output SPL at 80 Hz: 113.6 dB
+- Power Output (Watts): 370W RMS
 - Warranty: 5/3
 - Weight: 75.0lbs / 34.0kg
 - Links
@@ -1213,8 +1388,10 @@ Last updated: June 02, 2026
 - CEA-2010-A Average (40-80Hz): 113.3 dB
 - Country: Sweden
 - Dimensions: 18.5"H x 20.0"W x 18.7"D (469.9 x 508.0 x 475.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 19-160Hz
 - Measurement Source: Manufacturer
 - Output SPL at 100 Hz: 112.2 dB
 - Output SPL at 15 Hz: 92.7 dB
@@ -1225,6 +1402,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 114.0 dB
 - Output SPL at 63 Hz: 113.1 dB
 - Output SPL at 80 Hz: 112.4 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5/2
 - Weight: 54.01lbs / 24.5kg
 - Links
@@ -1232,13 +1410,15 @@ Last updated: June 02, 2026
     - [Reddit Search for XTZ Sound SUB 1X12](https://www.reddit.com/search/?q=XTZ+Sound+SUB+1X12)
     - [Direct Speakerranking Link](/subwoofer/speakers/XTZ-Sound-SUB-1X12/)
 
-## #53 RSL (Rogersound Labs) Speedwoofer 10
+## #53 RSL (Rogersound Labs) Speedwoofer 10: $349
 - CEA-2010-A Average (40-80Hz): 113.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 16.5"H x 16.5"W x 17.25"D (419.1 x 419.1 x 438.1 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 24-200Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 93.7 dB
 - Output SPL at 25 Hz: 101.1 dB
@@ -1246,6 +1426,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 111.0 dB
 - Output SPL at 50 Hz: 114.1 dB
 - Output SPL at 63 Hz: 114.1 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 2
 - Weight: 64.0lbs / 29.0kg
 - Links
@@ -1253,13 +1434,15 @@ Last updated: June 02, 2026
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10)
     - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10/)
 
-## #54 HSU Research VTF-1 MK2
+## #54 HSU Research VTF-1 MK2: $699
 - CEA-2010-A Average (40-80Hz): 112.9 dB
 - Country: United States
 - Dimensions: 18.0"H x 14.0"W x 17.0"D (457.2 x 355.6 x 431.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
+- Frequency Response: 25-32Hz
 - Measurement Source: Manufacturer
 - Output SPL at 25 Hz: 87.9 dB
 - Output SPL at 31.5 Hz: 105.1 dB
@@ -1267,19 +1450,22 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.2 dB
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 113.0 dB
+- Power Output (Watts): 200W RMS
 - Weight: 42.0lbs / 19.1kg
 - Links
     - [HSU Research VTF-1 MK2 Website](https://web.archive.org/web/20201224025728/http://www.hsuresearch.com/products/vtf-1mk2.html)
     - [Reddit Search for HSU Research VTF-1 MK2](https://www.reddit.com/search/?q=HSU+Research+VTF-1+MK2)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-1-MK2/)
 
-## #55 HSU Research VTF-2 MK4
+## #55 HSU Research VTF-2 MK4: $899
 - CEA-2010-A Average (40-80Hz): 112.8 dB
 - Country: United States
 - Dimensions: 20.5"H x 15.0"W x 22.0"D (520.7 x 381.0 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 18-90Hz
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 101.1 dB
 - Output SPL at 25 Hz: 107.0 dB
@@ -1288,25 +1474,29 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.5 dB
 - Output SPL at 63 Hz: 113.3 dB
 - Output SPL at 80 Hz: 112.8 dB
+- Power Output (Watts): 250W RMS
 - Weight: 64.0lbs / 29.0kg
 - Links
     - [HSU Research VTF-2 MK4 Website](https://web.archive.org/web/20210118105218/http://www.hsuresearch.com/products/vtf-2mk4.html)
     - [Reddit Search for HSU Research VTF-2 MK4](https://www.reddit.com/search/?q=HSU+Research+VTF-2+MK4)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-2-MK4/)
 
-## #56 REL Acoustics R-528
+## #56 REL Acoustics R-528: $1999
 - CEA-2010-A Average (40-80Hz): 112.8 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 17.5"H x 15.5"W x 17.2"D (444.5 x 393.7 x 436.9 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 21Hz-6dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 25 Hz: 92.7 dB
 - Output SPL at 31.5 Hz: 106.5 dB
 - Output SPL at 40 Hz: 111.0 dB
 - Output SPL at 50 Hz: 112.7 dB
 - Output SPL at 63 Hz: 114.6 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 3
 - Weight: 58.0lbs / 26.3kg
 - Links
@@ -1319,8 +1509,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.74"H x 15.16"W x 16.77"D (476.0 x 385.1 x 426.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 29-150Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 113.2 dB
 - Output SPL at 125 Hz: 111.7 dB
@@ -1332,21 +1524,24 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.3 dB
 - Output SPL at 63 Hz: 115.8 dB
 - Output SPL at 80 Hz: 114.6 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5/2
 - Weight: 40.2lbs / 18.2kg
 - Links
-    - [Infinity Speakers REFERENCE SUB R12 Website](https://www.infinityspeakers.com/home-subwoofers/REFERENCE+SUB+R12.html?dwvar_REFERENCE%20SUB%20R12_color=Black-GLOBAL-Current&cgid=home-subwoofers)
+    - [Infinity Speakers REFERENCE SUB R12 Website](https://www.infinityspeakers.com/home-subwoofers/REFERENCE+SUB+R12.html)
     - [Reddit Search for Infinity Speakers REFERENCE SUB R12](https://www.reddit.com/search/?q=Infinity+Speakers+REFERENCE+SUB+R12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Infinity-Speakers-REFERENCE-SUB-R12/)
 
-## #58 OSD (Optimal Speaker Design) TreVoce 12 DSP
+## #58 OSD (Optimal Speaker Design) TreVoce 12 DSP: $599
 - CEA-2010-A Average (40-80Hz): 112.5 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.4"H x 16.0"W x 15.0"D (391.2 x 406.4 x 381.0 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 18-250Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 111.5 dB
 - Output SPL at 125 Hz: 110.1 dB
@@ -1356,20 +1551,23 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.3 dB
 - Output SPL at 63 Hz: 115.4 dB
 - Output SPL at 80 Hz: 114.0 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 2
 - Weight: 44.0lbs / 20.0kg
 - Links
     - [Reddit Search for OSD (Optimal Speaker Design) TreVoce 12 DSP](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+TreVoce+12+DSP)
     - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-TreVoce-12-DSP/)
 
-## #59 Klipsch SW-311
+## #59 Klipsch SW-311: $399
 - CEA-2010-A Average (40-80Hz): 112.4 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 13.0"H x 13.0"W x 14.0"D (330.2 x 330.2 x 355.6 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 22-120Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 114.5 dB
 - Output SPL at 125 Hz: 113.6 dB
@@ -1380,6 +1578,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 111.6 dB
 - Output SPL at 63 Hz: 114.4 dB
 - Output SPL at 80 Hz: 115.2 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5/2
 - Weight: 37.0lbs / 16.8kg
 - Links
@@ -1387,13 +1586,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Klipsch SW-311](https://www.reddit.com/search/?q=Klipsch+SW-311)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-SW-311/)
 
-## #60 Velodyne Acoustics CT-150
+## #60 Velodyne Acoustics CT-150: $1999
 - CEA-2010-A Average (40-80Hz): 112.4 dB
 - Country: United States
 - Dimensions: 18.5"H x 21.0"W x 20.0"D (469.9 x 533.4 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
+- Frequency Response: 31-83Hz
 - Measurement Source: Data-bass
 - Output SPL at 100 Hz: 111.4 dB
 - Output SPL at 125 Hz: 111.1 dB
@@ -1404,19 +1605,22 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 111.7 dB
 - Output SPL at 63 Hz: 115.5 dB
 - Output SPL at 80 Hz: 113.4 dB
+- Power Output (Watts): 250W RMS
 - Weight: 72.0lbs / 32.7kg
 - Links
     - [Reddit Search for Velodyne Acoustics CT-150](https://www.reddit.com/search/?q=Velodyne+Acoustics+CT-150)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-CT-150/)
 
-## #61 SVS 20-39 PC-Plus
+## #61 SVS 20-39 PC-Plus: $1399
 - Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 112.3 dB
 - Country: United States
 - Dimensions: 40.0"H x 16.0"W x 16.0"D (1016.0 x 406.4 x 406.4 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 16-290Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 91.0 dB
 - Output SPL at 20 Hz: 102.7 dB
@@ -1426,6 +1630,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.7 dB
 - Output SPL at 63 Hz: 112.0 dB
 - Output SPL at 80 Hz: 110.8 dB
+- Power Output (Watts): 525W RMS
 - Warranty: 5
 - Weight: 55.0lbs / 24.9kg
 - Links
@@ -1433,13 +1638,15 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS 20-39 PC-Plus](https://www.reddit.com/search/?q=SVS+20-39+PC-Plus)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-20-39-PC-Plus/)
 
-## #62 Velodyne Acoustics EQ-Max12
+## #62 Velodyne Acoustics EQ-Max12: $1299
 - CEA-2010-A Average (40-80Hz): 112.3 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 17.87"H x 16.37"W x 18.0"D (453.9 x 415.8 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 25-120Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 100.1 dB
 - Output SPL at 25 Hz: 100.1 dB
@@ -1447,6 +1654,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 112.3 dB
 - Output SPL at 50 Hz: 112.3 dB
 - Output SPL at 63 Hz: 112.3 dB
+- Power Output (Watts): 225W RMS
 - Weight: 61.0lbs / 27.7kg
 - Links
     - [Velodyne Acoustics EQ-Max12 Website](https://www.velodyneacoustics.com/eq-max-series/)
@@ -1458,8 +1666,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Germany
 - Dimensions: 17.2"H x 16.37"W x 16.45"D (436.9 x 415.8 x 417.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 24-150Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 85.5 dB
 - Output SPL at 25 Hz: 99.4 dB
@@ -1468,20 +1678,23 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.5 dB
 - Output SPL at 63 Hz: 114.1 dB
 - Output SPL at 80 Hz: 110.9 dB
+- Power Output (Watts): 350W RMS
 - Weight: 48.06lbs / 21.8kg
 - Links
     - [ELAC PS350 Website](https://www.elac.com/series/varro/premium/ps350-12-subwoofer/)
     - [Reddit Search for ELAC PS350](https://www.reddit.com/search/?q=ELAC+PS350)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-PS350/)
 
-## #64 SVS PC12-NSD
+## #64 SVS PC12-NSD: $999
 - Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 35.75"H x 16.58"W x 16.58"D (908.0 x 421.1 x 421.1 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 18-130Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 109.6 dB
 - Output SPL at 25 Hz: 109.6 dB
@@ -1489,6 +1702,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 112.1 dB
 - Output SPL at 50 Hz: 112.1 dB
 - Output SPL at 63 Hz: 112.1 dB
+- Power Output (Watts): 400W RMS
 - Warranty: 5
 - Weight: 49.0lbs / 22.2kg
 - Links
@@ -1496,13 +1710,15 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS PC12-NSD](https://www.reddit.com/search/?q=SVS+PC12-NSD)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PC12-NSD/)
 
-## #65 Wisdom Audio SCS
+## #65 Wisdom Audio SCS: $2999
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 22.5"H x 37.0"W x 7.0"D (571.5 x 939.8 x 177.8 mm)
+- Driver: 2x 5" (127mm) woofers in a Regenerative Transmission Line configuration
 - Driver(s): (2) 5 inch
 - Enclosure: ported, side
+- Frequency Response: 20-80Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 100.7 dB
 - Output SPL at 25 Hz: 104.6 dB
@@ -1510,6 +1726,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 109.1 dB
 - Output SPL at 50 Hz: 112.6 dB
 - Output SPL at 63 Hz: 114.6 dB
+- Power Output (Watts): 400W RMS
 - Weight: 72.0lbs / 32.7kg
 - Links
     - [Wisdom Audio SCS Website](https://www.wisdomaudio.com/product/scs/)
@@ -1521,8 +1738,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 15.5"H x 15.0"W x 15.75"D (393.7 x 381.0 x 400.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
+- Frequency Response: 21-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 111.4 dB
 - Output SPL at 125 Hz: 110.7 dB
@@ -1534,20 +1753,23 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.9 dB
 - Output SPL at 63 Hz: 113.0 dB
 - Output SPL at 80 Hz: 112.1 dB
+- Power Output (Watts): 400W RMS
 - Warranty: ?
 - Weight: 40.6lbs / 18.4kg
 - Links
-    - [RSL (Rogersound Labs) Speedwoofer 10S MKII Website](https://rslspeakers.com/products/speedwoofer-10s-mkii/?attribute_pa_color=black)
+    - [RSL (Rogersound Labs) Speedwoofer 10S MKII Website](https://rslspeakers.com/products/speedwoofer-10s-mkii/)
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S MKII](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S+MKII)
     - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10S-MKII/)
 
-## #67 JBL L10cs Classic: $700
+## #67 [JBL L10cs Classic](https://www.amazon.com/JBL-Classic-Firing-Powered-Subwoofer/dp/B0DHYHRPZ5?crid=379E95F3XBHYA&dib=eyJ2IjoiMSJ9.PuQa1yVUR0Jg4Oundbqb83_9pcdUVQBspuy-8nH5zjCbajRjgyZskyt2oabM9cDVsqGtjFP7T4q6pL2nQrzn-JXhV0tPr9qMmjNdb-WnRbm7nd8vEgiegJbQS1uGUFlwnaZI_fxkHJ4I2ZcO_jGWehM6a9NayR848m-MGJS_r-BtCNV8FlTqcq2o6lCMNO5Hlk9N2W_h5eT0h1BC8YIBo7oFIkqRcEuRlNbyzL8qbi-GXPRyTlbEm6FrIWmnkdBahOGZIdDuwhBxsog3fy9Twocvj9Q5f6GTbGfJvlTd6qI.P7_2dZlogDp5gFfwak3t9hxfU9PAYfm8yPtj4QFaemw&dib_tag=se&keywords=jbl%2Bsubwoofers&qid=1780542388&s=electronics&sprefix=jbl%2Bsubwoofer%2Celectronics%2C248&sr=1-5&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=4a4595527dab519e7bfe67ce7118e134&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Classic-Firing-Powered-Subwoofer/dp/B0DHYHRPZ5?crid=379E95F3XBHYA&dib=eyJ2IjoiMSJ9.PuQa1yVUR0Jg4Oundbqb83_9pcdUVQBspuy-8nH5zjCbajRjgyZskyt2oabM9cDVsqGtjFP7T4q6pL2nQrzn-JXhV0tPr9qMmjNdb-WnRbm7nd8vEgiegJbQS1uGUFlwnaZI_fxkHJ4I2ZcO_jGWehM6a9NayR848m-MGJS_r-BtCNV8FlTqcq2o6lCMNO5Hlk9N2W_h5eT0h1BC8YIBo7oFIkqRcEuRlNbyzL8qbi-GXPRyTlbEm6FrIWmnkdBahOGZIdDuwhBxsog3fy9Twocvj9Q5f6GTbGfJvlTd6qI.P7_2dZlogDp5gFfwak3t9hxfU9PAYfm8yPtj4QFaemw&dib_tag=se&keywords=jbl%2Bsubwoofers&qid=1780542388&s=electronics&sprefix=jbl%2Bsubwoofer%2Celectronics%2C248&sr=1-5&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=4a4595527dab519e7bfe67ce7118e134&language=en_US&ref_=as_li_ss_tl)]: $700
 - CEA-2010-A Average (40-80Hz): 111.9 dB
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 15.4"H x 13.3"W x 15.6"D (391.2 x 337.8 x 396.2 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
+- Frequency Response: 32-150Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 78.9 dB
 - Output SPL at 25 Hz: 97.0 dB
@@ -1556,20 +1778,23 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.2 dB
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 111.8 dB
+- Power Output (Watts): 250W RMS
 - Weight: 31.0lbs / 14.1kg
 - Links
     - [JBL L10cs Classic Website](https://www.jbl.com/specialty-subwoofers/L10CS.html)
     - [Reddit Search for JBL L10cs Classic](https://www.reddit.com/search/?q=JBL+L10cs+Classic)
     - [Direct Speakerranking Link](/subwoofer/speakers/JBL-L10cs-Classic/)
 
-## #68 SVS SB-2000
+## #68 [SVS SB-2000](https://www.amazon.com/SVS-SB-2000-Pro-Controlled-Subwoofer/dp/B082LNQZ1L?crid=3338KYIZ6VWZQ&dib=eyJ2IjoiMSJ9.l52znRtlBjeH4GoFafQ-3zbal666q1I0QX4OAi_aublLVqY3Z9i5d55J94hWT-e5AlIJSVExY846jGjvNmC-clYpOl_XAhorctWVX7bOc7VYd0ffB_Vcb0fuClXp_1mRn_dTPa44v5S0ZRwP3l8WdZ_wGewLRzQZemn4vYePO1cU2zvOQIIFsauPHsXt9cVyFQsr4yx-eSmtaoPyxc9SDYQNhmJfBra9zKBYtSSE710.-J-6kgX4jIi2JT0O-3BkSV6D5A6hhVmELuHfjBaYe1M&dib_tag=se&keywords=svs+subwoofers&qid=1780541194&sprefix=svs+subwoof%2Caps%2C330&sr=8-4&linkCode=ll2&tag=rankingspea01-20&linkId=bd4d5c869037a829a47056d806add631&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/SVS-SB-2000-Pro-Controlled-Subwoofer/dp/B082LNQZ1L?crid=3338KYIZ6VWZQ&dib=eyJ2IjoiMSJ9.l52znRtlBjeH4GoFafQ-3zbal666q1I0QX4OAi_aublLVqY3Z9i5d55J94hWT-e5AlIJSVExY846jGjvNmC-clYpOl_XAhorctWVX7bOc7VYd0ffB_Vcb0fuClXp_1mRn_dTPa44v5S0ZRwP3l8WdZ_wGewLRzQZemn4vYePO1cU2zvOQIIFsauPHsXt9cVyFQsr4yx-eSmtaoPyxc9SDYQNhmJfBra9zKBYtSSE710.-J-6kgX4jIi2JT0O-3BkSV6D5A6hhVmELuHfjBaYe1M&dib_tag=se&keywords=svs+subwoofers&qid=1780541194&sprefix=svs+subwoof%2Caps%2C330&sr=8-4&linkCode=ll2&tag=rankingspea01-20&linkId=bd4d5c869037a829a47056d806add631&language=en_US&ref_=as_li_ss_tl)]: $899
 - CEA-2010-A Average (40-80Hz): 111.8 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.6"H x 14.2"W x 15.4"D (370.8 x 360.7 x 391.2 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 19-220Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 95.1 dB
 - Output SPL at 25 Hz: 100.1 dB
@@ -1577,10 +1802,11 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 111.3 dB
 - Output SPL at 50 Hz: 111.8 dB
 - Output SPL at 63 Hz: 112.2 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5
 - Weight: 34.8lbs / 15.8kg
 - Links
-    - [SVS SB-2000 Website](https://www.svsound.com/search?q=%26quot%3Bsb-2000%26quot%3B)
+    - [SVS SB-2000 Website](https://www.svsound.com/products/sb-2000)
     - [Reddit Search for SVS SB-2000](https://www.reddit.com/search/?q=SVS+SB-2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-2000/)
 
@@ -1590,8 +1816,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.0"H x 17.3"W x 17.5"D (431.8 x 439.4 x 444.5 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 25-250Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 114.2 dB
 - Output SPL at 125 Hz: 113.3 dB
@@ -1602,20 +1830,23 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 110.6 dB
 - Output SPL at 63 Hz: 115.7 dB
 - Output SPL at 80 Hz: 115.4 dB
+- Power Output (Watts): 150W RMS
 - Weight: 53.77lbs / 24.4kg
 - Links
     - [Monoprice 12in 150-Watt Powered Website](https://www.monoprice.com/product?p_id=9723)
     - [Reddit Search for Monoprice 12in 150-Watt Powered](https://www.reddit.com/search/?q=Monoprice+12in+150-Watt+Powered)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-12in-150-Watt-Powered/)
 
-## #70 Definitive Technology SuperCube 8000
+## #70 Definitive Technology SuperCube 8000: $1299
 - CEA-2010-A Average (40-80Hz): 111.7 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.25"H x 15.25"W x 16.0"D (412.8 x 387.3 x 406.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 11 inch
 - Enclosure: passive radiator
+- Frequency Response: 12-200Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 96.0 dB
 - Output SPL at 25 Hz: 101.4 dB
@@ -1623,6 +1854,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 111.2 dB
 - Output SPL at 50 Hz: 112.6 dB
 - Output SPL at 63 Hz: 111.2 dB
+- Power Output (Watts): 1500W peak
 - Warranty: 5/3
 - Weight: 67.0lbs / 30.4kg
 - Links
@@ -1630,15 +1862,17 @@ Last updated: June 02, 2026
     - [Reddit Search for Definitive Technology SuperCube 8000](https://www.reddit.com/search/?q=Definitive+Technology+SuperCube+8000)
     - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-SuperCube-8000/)
 
-## #71 Monoprice Monolith 10 THX Select
+## #71 Monoprice Monolith 10 THX Select: $699
 - Notes: Product # 24456
 - CEA-2010-A Average (40-80Hz): 111.5 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.9"H x 15.0"W x 19.7"D (480.1 x 381.0 x 500.4 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 17-20Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 112.0 dB
 - Output SPL at 125 Hz: 111.0 dB
@@ -1650,6 +1884,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.0 dB
 - Output SPL at 63 Hz: 112.0 dB
 - Output SPL at 80 Hz: 112.0 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
 - Links
@@ -1661,8 +1896,10 @@ Last updated: June 02, 2026
 - CEA-2010-A Average (40-80Hz): 111.5 dB
 - Country: United States
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 40-80Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 99.4 dB
 - Output SPL at 25 Hz: 105.2 dB
@@ -1671,17 +1908,21 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 111.9 dB
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 111.1 dB
+- Power Output (Watts): 1250W peak
+- Weight: 95 lbs (43 kg)
 - Links
     - [Reddit Search for THIEL Audio SmartSub 1.12](https://www.reddit.com/search/?q=THIEL+Audio+SmartSub+1.12)
     - [Direct Speakerranking Link](/subwoofer/speakers/THIEL-Audio-SmartSub-1.12/)
 
-## #73 Emotiva S12
+## #73 Emotiva S12: $449
 - CEA-2010-A Average (40-80Hz): 111.4 dB
 - Country: United States
 - Dimensions: 17.37"H x 15.75"W x 16.87"D (441.2 x 400.0 x 428.5 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 25-150Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 86.4 dB
 - Output SPL at 20 Hz: 95.4 dB
@@ -1691,6 +1932,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.7 dB
 - Output SPL at 63 Hz: 112.5 dB
 - Output SPL at 80 Hz: 112.1 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5
 - Weight: 66.247lbs / 30.0kg
 - Links
@@ -1698,15 +1940,17 @@ Last updated: June 02, 2026
     - [Reddit Search for Emotiva S12](https://www.reddit.com/search/?q=Emotiva+S12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-S12/)
 
-## #74 SVS PB-1000
+## #74 SVS PB-1000: $599
 - Notes: Discontinued 2021-02-25 when PB-1000 PRO was released. CEA-2010-A data from Dec 2019 version of spreadsheet, not on current version.
 - CEA-2010-A Average (40-80Hz): 111.3 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.9"H x 15.0"W x 19.4"D (480.1 x 381.0 x 492.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 19-270Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 93.3 dB
 - Output SPL at 20 Hz: 101.2 dB
@@ -1716,10 +1960,11 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.0 dB
 - Output SPL at 63 Hz: 111.7 dB
 - Output SPL at 80 Hz: 110.7 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5
 - Weight: 46.0lbs / 20.9kg
 - Links
-    - [SVS PB-1000 Website](https://www.svsound.com/search?q=%26quot%3Bpb-1000%26quot%3B)
+    - [SVS PB-1000 Website](https://www.svsound.com/products/pb-1000)
     - [Reddit Search for SVS PB-1000](https://www.reddit.com/search/?q=SVS+PB-1000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB-1000/)
 
@@ -1728,8 +1973,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 19.75"H x 19.25"W x 19.75"D (501.6 x 488.9 x 501.6 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
+- Frequency Response: 23-140Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 111.8 dB
 - Output SPL at 125 Hz: 110.1 dB
@@ -1740,6 +1987,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 111.6 dB
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 112.9 dB
+- Power Output (Watts): 150W RMS
 - Weight: 60.0lbs / 27.2kg
 - Links
     - [Dayton Audio SUB-1500 Website](https://www.parts-express.com/Dayton-Audio-SUB-1500-15-150-Watt-Powered-Subwoofer-300-634)
@@ -1751,8 +1999,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 17.93"H x 16.5"W x 17.87"D (455.4 x 419.1 x 453.9 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 23-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 109.4 dB
 - Output SPL at 125 Hz: 108.4 dB
@@ -1762,6 +2012,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.1 dB
 - Output SPL at 63 Hz: 112.4 dB
 - Output SPL at 80 Hz: 110.8 dB
+- Power Output (Watts): 120W RMS
 - Warranty: 3
 - Weight: 42.0lbs / 19.1kg
 - Links
@@ -1769,13 +2020,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Paradigm Defiance V12](https://www.reddit.com/search/?q=Paradigm+Defiance+V12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-V12/)
 
-## #77 Klipsch R-121SW: $600
+## #77 [Klipsch R-121SW](https://www.amazon.com/Klipsch-R-12SW-Subwoofer/dp/B00MJ1YR8Y?crid=1E08UYXE7A78J&dib=eyJ2IjoiMSJ9.QIoqwyrz5W7414AlePtedrKaw7-cwMU2y9yZc2nPVJzf0ceB04DHVCnXLcfUlxXAp2I5pw2VHXt2TydwZCTz34Jo2ULXTHcKa43GKWL_kcEAEZ5xTw2AZfmN3K0aEBOHHsMzGAIgqYMBGjZGgYsuvPSzsp1j9NOM9srilY-SZQq57toXFsOGJkfzM7FhfTxw2_ss7djP03PHjPpdoFIWXq2MMF0DlQLJ8dczDcSir04.iORCM82FForPn_TnWXsIRYGHxTBsh4HhZSgew6f-eYU&dib_tag=se&keywords=klipsch%2Bsubwoofer&qid=1780542580&sprefix=klipsch%2Bsubwoofer%2Caps%2C378&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=4c33e56101e5fe856249d69a937c13a6&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-R-12SW-Subwoofer/dp/B00MJ1YR8Y?crid=1E08UYXE7A78J&dib=eyJ2IjoiMSJ9.QIoqwyrz5W7414AlePtedrKaw7-cwMU2y9yZc2nPVJzf0ceB04DHVCnXLcfUlxXAp2I5pw2VHXt2TydwZCTz34Jo2ULXTHcKa43GKWL_kcEAEZ5xTw2AZfmN3K0aEBOHHsMzGAIgqYMBGjZGgYsuvPSzsp1j9NOM9srilY-SZQq57toXFsOGJkfzM7FhfTxw2_ss7djP03PHjPpdoFIWXq2MMF0DlQLJ8dczDcSir04.iORCM82FForPn_TnWXsIRYGHxTBsh4HhZSgew6f-eYU&dib_tag=se&keywords=klipsch%2Bsubwoofer&qid=1780542580&sprefix=klipsch%2Bsubwoofer%2Caps%2C378&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=4c33e56101e5fe856249d69a937c13a6&language=en_US&ref_=as_li_ss_tl)]: $239
 - CEA-2010-A Average (40-80Hz): 111.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.6"H x 16.0"W x 19.7"D (421.6 x 406.4 x 500.4 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 28-120Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 109.9 dB
 - Output SPL at 125 Hz: 108.3 dB
@@ -1787,6 +2040,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.4 dB
 - Output SPL at 63 Hz: 112.9 dB
 - Output SPL at 80 Hz: 111.3 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5/2
 - Weight: 35.0lbs / 15.9kg
 - Links
@@ -1799,8 +2053,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.25"H x 14.87"W x 19.5"D (438.1 x 377.7 x 495.3 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 21-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 108.3 dB
 - Output SPL at 125 Hz: 106.8 dB
@@ -1811,6 +2067,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 113.4 dB
 - Output SPL at 63 Hz: 111.1 dB
 - Output SPL at 80 Hz: 109.5 dB
+- Power Output (Watts): 250W RMS
 - Warranty: 8/5
 - Weight: 46.0lbs / 20.9kg
 - Links
@@ -1818,13 +2075,15 @@ Last updated: June 02, 2026
     - [Reddit Search for BIC America PL-200II](https://www.reddit.com/search/?q=BIC+America+PL-200II)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-PL-200II/)
 
-## #79 SVS SB12-Plus
+## #79 SVS SB12-Plus: $1299
 - CEA-2010-A Average (40-80Hz): 110.9 dB
 - Country: United States
 - Dimensions: 13.5"H x 13.5"W x 13.5"D (342.9 x 342.9 x 342.9 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 22-150Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 87.8 dB
 - Output SPL at 20 Hz: 89.8 dB
@@ -1834,6 +2093,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 112.2 dB
 - Output SPL at 63 Hz: 112.2 dB
 - Output SPL at 80 Hz: 111.8 dB
+- Power Output (Watts): 425W RMS
 - Warranty: 5
 - Weight: 40.0lbs / 18.1kg
 - Links
@@ -1841,13 +2101,15 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS SB12-Plus](https://www.reddit.com/search/?q=SVS+SB12-Plus)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB12-Plus/)
 
-## #80 Monitor Audio RXW12
+## #80 Monitor Audio RXW12: $799
 - CEA-2010-A Average (40-80Hz): 110.9 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 15.0"H x 16.93"W x 16.93"D (381.0 x 430.0 x 430.0 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 21-40Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 88.9 dB
 - Output SPL at 25 Hz: 92.0 dB
@@ -1855,6 +2117,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 111.5 dB
 - Output SPL at 50 Hz: 114.9 dB
 - Output SPL at 63 Hz: 106.3 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5
 - Weight: 49.82lbs / 22.6kg
 - Links
@@ -1862,15 +2125,17 @@ Last updated: June 02, 2026
     - [Reddit Search for Monitor Audio RXW12](https://www.reddit.com/search/?q=Monitor+Audio+RXW12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monitor-Audio-RXW12/)
 
-## #81 Monoprice 10in Powered Studio Multimedia
+## #81 Monoprice 10in Powered Studio Multimedia: $199
 - Notes: Product # 605999
 - CEA-2010-A Average (40-80Hz): 110.9 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 12.5"H x 14.5"W x 15.0"D (317.5 x 368.3 x 381.0 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
+- Frequency Response: 20-150Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 73.3 dB
 - Output SPL at 25 Hz: 84.6 dB
@@ -1879,6 +2144,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.9 dB
 - Output SPL at 63 Hz: 113.4 dB
 - Output SPL at 80 Hz: 115.2 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 1
 - Weight: 44.0lbs / 20.0kg
 - Links
@@ -1886,13 +2152,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice 10in Powered Studio Multimedia](https://www.reddit.com/search/?q=Monoprice+10in+Powered+Studio+Multimedia)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-10in-Powered-Studio-Multimedia/)
 
-## #82 Kef R400
+## #82 Kef R400: $699
 - CEA-2010-A Average (40-80Hz): 110.8 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 14.4"H x 13.0"W x 13.8"D (365.8 x 330.2 x 350.5 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 9 inch
 - Enclosure: sealed
+- Frequency Response: 26-140Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 85.8 dB
 - Output SPL at 25 Hz: 87.3 dB
@@ -1900,6 +2168,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 107.4 dB
 - Output SPL at 50 Hz: 111.5 dB
 - Output SPL at 63 Hz: 113.6 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5/2/5
 - Weight: 47.39lbs / 21.5kg
 - Links
@@ -1907,14 +2176,16 @@ Last updated: June 02, 2026
     - [Reddit Search for Kef R400](https://www.reddit.com/search/?q=Kef+R400)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-R400/)
 
-## #83 RBH Sound SX-10R
+## #83 RBH Sound SX-10R: $899
 - Notes: Also called "SX-10/R"
 - CEA-2010-A Average (40-80Hz): 110.8 dB
 - Country: United States
 - Dimensions: 15.25"H x 15.0"W x 18.5"D (387.3 x 381.0 x 469.9 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: Not specified
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 110.0 dB
 - Output SPL at 125 Hz: 108.0 dB
@@ -1924,6 +2195,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 111.0 dB
 - Output SPL at 63 Hz: 112.0 dB
 - Output SPL at 80 Hz: 111.0 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 5/1(+5/+3)
 - Weight: 45.0lbs / 20.4kg
 - Links
@@ -1931,10 +2203,12 @@ Last updated: June 02, 2026
     - [Reddit Search for RBH Sound SX-10R](https://www.reddit.com/search/?q=RBH+Sound+SX-10R)
     - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-SX-10R/)
 
-## #84 BK Electronics Extreme
+## #84 BK Electronics Extreme: $5995
 - CEA-2010-A Average (40-80Hz): 110.5 dB
 - Country: United Kingdom
 - Discontinued: Yes
+- Driver: 15" driver
+- Frequency Response: Not specified
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 92.8 dB
 - Output SPL at 20 Hz: 100.7 dB
@@ -1944,6 +2218,8 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 111.1 dB
 - Output SPL at 63 Hz: 110.5 dB
 - Output SPL at 80 Hz: 109.0 dB
+- Power Output (Watts): 1000W RMS
+- Weight: 91kg
 - Links
     - [Reddit Search for BK Electronics Extreme](https://www.reddit.com/search/?q=BK+Electronics+Extreme)
     - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-Extreme/)
@@ -1954,8 +2230,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 21.25"H x 25.59"W x 6.1"D (539.8 x 650.0 x 154.9 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 25-250Hz
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 89.0 dB
 - Output SPL at 25 Hz: 96.0 dB
@@ -1964,18 +2242,21 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.0 dB
 - Output SPL at 63 Hz: 112.0 dB
 - Output SPL at 80 Hz: 113.0 dB
+- Power Output (Watts): 250W RMS
 - Weight: 44.09lbs / 20.0kg
 - Links
     - [Sigberg Audio INKOGNITO 10 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)
     - [Reddit Search for Sigberg Audio INKOGNITO 10](https://www.reddit.com/search/?q=Sigberg+Audio+INKOGNITO+10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sigberg-Audio-INKOGNITO-10/)
 
-## #86 NXG NX-BAS-500
+## #86 NXG NX-BAS-500: $299
 - CEA-2010-A Average (40-80Hz): 110.5 dB (avg of 3/4 bands)
 - Dimensions: 17.62"H x 14.75"W x 17.62"D (447.5 x 374.6 x 447.5 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 18-120Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 90.2 dB
 - Output SPL at 25 Hz: 99.5 dB
@@ -1983,6 +2264,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 110.1 dB
 - Output SPL at 50 Hz: 110.8 dB
 - Output SPL at 63 Hz: 110.5 dB
+- Power Output (Watts): 500W RMS
 - Weight: 35.0lbs / 15.9kg
 - Links
     - [NXG NX-BAS-500 Website](https://web.archive.org/web/20170914203227/http://www.nxgtechnology.com/subwoofers.html)
@@ -1994,8 +2276,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 16.8"H x 16.0"W x 17.1"D (426.7 x 406.4 x 434.3 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 28-200Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 88.1 dB
 - Output SPL at 25 Hz: 99.2 dB
@@ -2004,6 +2288,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 111.0 dB
 - Output SPL at 63 Hz: 110.7 dB
 - Output SPL at 80 Hz: 108.9 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5/3
 - Weight: 45.6lbs / 20.7kg
 - Links
@@ -2011,14 +2296,16 @@ Last updated: June 02, 2026
     - [Reddit Search for Definitive Technology DN10](https://www.reddit.com/search/?q=Definitive+Technology+DN10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-DN10/)
 
-## #88 Monoprice Monolith M-10 V2: $650
+## #88 [Monoprice Monolith M-10 V2](https://www.amazon.com/Monolith-Certified-Powered-Subwoofer-Distortion/dp/B09LSRJ4V3?pd_rd_w=HXXxj&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=X8Y7GBEAPNV4W0NVSHV7&pd_rd_wg=8wiIr&pd_rd_r=40529f2f-d01e-4023-a2a2-7d9fb57d77a3&pd_rd_i=B09LSRJ4V3&psc=1&linkCode=ll2&tag=rankingspea01-20&linkId=bb5d92237e99a94eeefc836d1af94e05&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monolith-Certified-Powered-Subwoofer-Distortion/dp/B09LSRJ4V3?pd_rd_w=HXXxj&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=X8Y7GBEAPNV4W0NVSHV7&pd_rd_wg=8wiIr&pd_rd_r=40529f2f-d01e-4023-a2a2-7d9fb57d77a3&pd_rd_i=B09LSRJ4V3&psc=1&linkCode=ll2&tag=rankingspea01-20&linkId=bb5d92237e99a94eeefc836d1af94e05&language=en_US&ref_=as_li_ss_tl)]: $650
 - Notes: Product # 42843
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.9"H x 15.0"W x 18.9"D (530.9 x 381.0 x 480.1 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 17-20Hz
 - Measurement Source: Manufacturer
 - Output SPL at 100 Hz: 111.2 dB
 - Output SPL at 125 Hz: 111.5 dB
@@ -2030,6 +2317,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 110.1 dB
 - Output SPL at 63 Hz: 110.6 dB
 - Output SPL at 80 Hz: 110.9 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
 - Links
@@ -2042,8 +2330,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.0"H x 14.75"W x 17.25"D (431.8 x 374.6 x 438.1 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 25-200Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 110.0 dB
 - Output SPL at 125 Hz: 106.7 dB
@@ -2055,6 +2345,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 110.6 dB
 - Output SPL at 63 Hz: 113.3 dB
 - Output SPL at 80 Hz: 111.9 dB
+- Power Output (Watts): 150W RMS
 - Warranty: 5
 - Weight: 42.0lbs / 19.1kg
 - Links
@@ -2062,14 +2353,16 @@ Last updated: June 02, 2026
     - [Reddit Search for BIC America F-12](https://www.reddit.com/search/?q=BIC+America+F-12)
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-F-12/)
 
-## #90 Sunfire XTEQ12
+## #90 Sunfire XTEQ12: $999
 - CEA-2010-A Average (40-80Hz): 109.8 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 13.0"H x 13.0"W x 12.25"D (330.2 x 330.2 x 311.1 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
+- Frequency Response: 16-100Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 92.4 dB
 - Output SPL at 25 Hz: 99.5 dB
@@ -2077,6 +2370,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 106.1 dB
 - Output SPL at 50 Hz: 111.0 dB
 - Output SPL at 63 Hz: 112.4 dB
+- Power Output (Watts): 3000W peak
 - Warranty: 5
 - Weight: 60.0lbs / 27.2kg
 - Links
@@ -2084,13 +2378,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Sunfire XTEQ12](https://www.reddit.com/search/?q=Sunfire+XTEQ12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sunfire-XTEQ12/)
 
-## #91 Emotiva X-Ref 12
+## #91 Emotiva X-Ref 12: $999
 - CEA-2010-A Average (40-80Hz): 109.8 dB
 - Country: United States
 - Dimensions: 15.62"H x 14.62"W x 15.5"D (396.7 x 371.3 x 393.7 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 20-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 109.3 dB
 - Output SPL at 125 Hz: 108.1 dB
@@ -2101,19 +2397,22 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 110.6 dB
 - Output SPL at 63 Hz: 111.5 dB
 - Output SPL at 80 Hz: 110.7 dB
+- Power Output (Watts): 600W RMS
 - Warranty: 5
 - Weight: 44.0lbs / 20.0kg
 - Links
     - [Reddit Search for Emotiva X-Ref 12](https://www.reddit.com/search/?q=Emotiva+X-Ref+12)
     - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-X-Ref-12/)
 
-## #92 SVS SB12-NSD
+## #92 SVS SB12-NSD: $899
 - CEA-2010-A Average (40-80Hz): 109.7 dB
 - Country: United States
 - Dimensions: 14.2"H x 14.2"W x 14.2"D (360.7 x 360.7 x 360.7 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 23-270Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 111.5 dB
 - Output SPL at 12.5 Hz: 84.1 dB
@@ -2126,6 +2425,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.4 dB
 - Output SPL at 63 Hz: 110.6 dB
 - Output SPL at 80 Hz: 111.2 dB
+- Power Output (Watts): 400W RMS
 - Warranty: 5
 - Weight: 35.0lbs / 15.9kg
 - Links
@@ -2133,14 +2433,16 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS SB12-NSD](https://www.reddit.com/search/?q=SVS+SB12-NSD)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB12-NSD/)
 
-## #93 RSL (Rogersound Labs) Speedwoofer 10S
+## #93 RSL (Rogersound Labs) Speedwoofer 10S: $349
 - CEA-2010-A Average (40-80Hz): 109.6 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.0"H x 15.0"W x 16.75"D (406.4 x 381.0 x 425.4 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 24-200Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 95.5 dB
 - Output SPL at 25 Hz: 101.2 dB
@@ -2149,6 +2451,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.9 dB
 - Output SPL at 63 Hz: 111.1 dB
 - Output SPL at 80 Hz: 110.5 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 2
 - Weight: 45.0lbs / 20.4kg
 - Links
@@ -2156,14 +2459,16 @@ Last updated: June 02, 2026
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S)
     - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-10S/)
 
-## #94 Monoprice Monolith M10-S
+## #94 Monoprice Monolith M10-S: $399
 - Notes: Product # 35143
 - CEA-2010-A Average (40-80Hz): 109.6 dB
 - Country: United States
 - Dimensions: 16.3"H x 12.6"W x 15.2"D (414.0 x 320.0 x 386.1 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 17-20Hz
 - Measurement Source: Manufacturer
 - Output SPL at 100 Hz: 110.9 dB
 - Output SPL at 125 Hz: 111.2 dB
@@ -2175,6 +2480,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.2 dB
 - Output SPL at 63 Hz: 110.5 dB
 - Output SPL at 80 Hz: 110.8 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5
 - Weight: 72.5lbs / 32.9kg
 - Links
@@ -2187,8 +2493,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.5"H x 17.0"W x 14.0"D (469.9 x 431.8 x 355.6 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, side
+- Frequency Response: 23-180Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 88.9 dB
 - Output SPL at 25 Hz: 95.5 dB
@@ -2197,6 +2505,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 110.1 dB
 - Output SPL at 63 Hz: 111.7 dB
 - Output SPL at 80 Hz: 112.7 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 7/2
 - Weight: 41.0lbs / 18.6kg
 - Links
@@ -2209,24 +2518,30 @@ Last updated: June 02, 2026
 - Country: United States
 - Dimensions: 17.0"H x 17.25"W x 17.5"D (431.8 x 438.1 x 444.5 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
+- Frequency Response: 25-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 31.5 Hz: 92.3 dB
 - Output SPL at 40 Hz: 106.3 dB
 - Output SPL at 50 Hz: 111.9 dB
 - Output SPL at 63 Hz: 109.6 dB
+- Power Output (Watts): 150W RMS
+- Weight: 75 lbs (34 kg)
 - Links
     - [Reddit Search for Monoprice MSUB-A122](https://www.reddit.com/search/?q=Monoprice+MSUB-A122)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-MSUB-A122/)
 
-## #97 Polk Audio PSW 110
+## #97 Polk Audio PSW 110: $499
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.5"H x 14.25"W x 17.0"D (368.3 x 361.9 x 431.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 32-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 71.6 dB
 - Output SPL at 25 Hz: 81.1 dB
@@ -2235,6 +2550,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 108.3 dB
 - Output SPL at 63 Hz: 111.9 dB
 - Output SPL at 80 Hz: 112.5 dB
+- Power Output (Watts): 100W RMS
 - Warranty: 5/3
 - Weight: 33.5lbs / 15.2kg
 - Links
@@ -2242,14 +2558,16 @@ Last updated: June 02, 2026
     - [Reddit Search for Polk Audio PSW 110](https://www.reddit.com/search/?q=Polk+Audio+PSW+110)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-PSW-110/)
 
-## #98 RBH Sound S-10
+## #98 RBH Sound S-10: $799
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.5"H x 13.0"W x 16.5"D (393.7 x 330.2 x 419.1 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 32-180Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 108.0 dB
 - Output SPL at 125 Hz: 106.0 dB
@@ -2258,6 +2576,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 110.0 dB
 - Output SPL at 63 Hz: 110.0 dB
 - Output SPL at 80 Hz: 109.0 dB
+- Power Output (Watts): 150W RMS
 - Warranty: 5/1(+5/+3)
 - Weight: 33.0lbs / 15.0kg
 - Links
@@ -2270,8 +2589,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 15.7"H x 15.7"W x 17.6"D (398.8 x 398.8 x 447.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 28-300Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 89.2 dB
 - Output SPL at 20 Hz: 92.4 dB
@@ -2281,6 +2602,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 108.6 dB
 - Output SPL at 63 Hz: 111.1 dB
 - Output SPL at 80 Hz: 111.7 dB
+- Power Output (Watts): 220W RMS
 - Warranty: 2
 - Weight: 47.4lbs / 21.5kg
 - Links
@@ -2293,8 +2615,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.75"H x 16.18"W x 17.75"D (425.4 x 411.0 x 450.8 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 25-140Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 76.1 dB
 - Output SPL at 20 Hz: 85.5 dB
@@ -2304,6 +2628,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 108.8 dB
 - Output SPL at 63 Hz: 111.2 dB
 - Output SPL at 80 Hz: 111.2 dB
+- Power Output (Watts): 120W RMS
 - Warranty: 5
 - Weight: 44.65lbs / 20.3kg
 - Links
@@ -2311,14 +2636,16 @@ Last updated: June 02, 2026
     - [Reddit Search for Dayton Audio SUB-1200](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1200)
     - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1200/)
 
-## #101 Bowers & Wilkins (B&W) ASW610XP
+## #101 Bowers & Wilkins (B&W) ASW610XP: $2495
 - CEA-2010-A Average (40-80Hz): 109.1 dB
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 12.8"H x 12.8"W x 14.7"D (325.1 x 325.1 x 373.4 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 25-140Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 109.2 dB
 - Output SPL at 125 Hz: 107.9 dB
@@ -2329,6 +2656,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 108.9 dB
 - Output SPL at 63 Hz: 111.9 dB
 - Output SPL at 80 Hz: 111.1 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 2
 - Weight: 41.22lbs / 18.7kg
 - Links
@@ -2341,8 +2669,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.3"H x 14.5"W x 14.9"D (414.0 x 368.3 x 378.5 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 27-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 108.1 dB
 - Output SPL at 125 Hz: 106.9 dB
@@ -2353,6 +2683,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.3 dB
 - Output SPL at 63 Hz: 110.3 dB
 - Output SPL at 80 Hz: 109.3 dB
+- Power Output (Watts): 120W RMS
 - Warranty: 3
 - Weight: 35.5lbs / 16.1kg
 - Links
@@ -2365,8 +2696,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.5"H x 15.0"W x 13.0"D (419.1 x 381.0 x 330.2 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, side
+- Frequency Response: 26-180Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 73.3 dB
 - Output SPL at 25 Hz: 84.3 dB
@@ -2375,6 +2708,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 108.3 dB
 - Output SPL at 63 Hz: 110.1 dB
 - Output SPL at 80 Hz: 112.4 dB
+- Power Output (Watts): 160W RMS
 - Warranty: 7/2
 - Weight: 34.0lbs / 15.4kg
 - Links
@@ -2383,12 +2717,16 @@ Last updated: June 02, 2026
     - [Direct Speakerranking Link](/subwoofer/speakers/BIC-America-V1020/)
 
 ## #104 Polk Audio HTS 10: $450
+- Amplifier Type: Class D
 - CEA-2010-A Average (40-80Hz): 108.8 dB
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 16.61"H x 15.11"W x 16.1"D (421.9 x 383.8 x 408.9 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 25–180Hz
+- Input Connections: LFE and stereo line level RCA
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 80.1 dB
 - Output SPL at 25 Hz: 92.7 dB
@@ -2397,21 +2735,24 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 108.4 dB
 - Output SPL at 63 Hz: 110.9 dB
 - Output SPL at 80 Hz: 110.2 dB
+- Power Output (Watts): 100W continuous / 200W peak
 - Warranty: 5/3
 - Weight: 37.75lbs / 17.1kg
 - Links
-    - [Polk Audio HTS 10 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-10/112606.html?dwvar_112606_color=Black)
+    - [Polk Audio HTS 10 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-10/112606.html)
     - [Reddit Search for Polk Audio HTS 10](https://www.reddit.com/search/?q=Polk+Audio+HTS+10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Polk-Audio-HTS-10/)
 
-## #105 Klipsch R-12SW
+## #105 Klipsch R-12SW: $299
 - CEA-2010-A Average (40-80Hz): 108.5 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.0"H x 14.0"W x 18.5"D (406.4 x 355.6 x 469.9 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 29-120Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 107.6 dB
 - Output SPL at 125 Hz: 105.8 dB
@@ -2423,6 +2764,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.0 dB
 - Output SPL at 63 Hz: 111.2 dB
 - Output SPL at 80 Hz: 109.3 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5/2
 - Weight: 33.0lbs / 15.0kg
 - Links
@@ -2430,13 +2772,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Klipsch R-12SW](https://www.reddit.com/search/?q=Klipsch+R-12SW)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-12SW/)
 
-## #106 Emotiva Ultra 12
+## #106 Emotiva Ultra 12: $849
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: United States
 - Dimensions: 14.5"H x 14.5"W x 15.25"D (368.3 x 368.3 x 387.3 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 22-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 107.0 dB
 - Output SPL at 20 Hz: 88.0 dB
@@ -2446,6 +2790,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.0 dB
 - Output SPL at 63 Hz: 111.0 dB
 - Output SPL at 80 Hz: 108.0 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5
 - Weight: 38.0lbs / 17.2kg
 - Links
@@ -2458,8 +2803,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 7.0"H x 25.0"W x 15.7"D (177.8 x 635.0 x 398.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 25Hz+
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 70.8 dB
 - Output SPL at 25 Hz: 79.2 dB
@@ -2468,6 +2815,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 104.7 dB
 - Output SPL at 63 Hz: 112.4 dB
 - Output SPL at 80 Hz: 116.1 dB
+- Power Output (Watts): 150W RMS
 - Warranty: 1
 - Weight: 30.0lbs / 13.6kg
 - Links
@@ -2475,12 +2823,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice SSW-10](https://www.reddit.com/search/?q=Monoprice+SSW-10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-SSW-10/)
 
-## #108 Sumiko S.9
+## #108 Sumiko S.9: $699
 - CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
 - Dimensions: 15.9"H x 14.0"W x 16.2"D (403.9 x 355.6 x 411.5 mm)
 - Discontinued: Yes
+- Driver: 9" (229mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 25-120Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 84.1 dB
 - Output SPL at 25 Hz: 96.9 dB
@@ -2488,19 +2838,22 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 105.0 dB
 - Output SPL at 50 Hz: 109.9 dB
 - Output SPL at 63 Hz: 109.7 dB
+- Power Output (Watts): 350W RMS
 - Weight: 46.2lbs / 21.0kg
 - Links
     - [Sumiko S.9 Website](https://web.archive.org/web/20200219162840/http://sumikosubwoofers.com/en-us/products/s-9)
     - [Reddit Search for Sumiko S.9](https://www.reddit.com/search/?q=Sumiko+S.9)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sumiko-S.9/)
 
-## #109 Genelec HTS3B
+## #109 Genelec HTS3B: $1995
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Country: Finland
 - Dimensions: 17.06"H x 15.62"W x 15.75"D (433.3 x 396.7 x 400.0 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 18-120Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 89.1 dB
 - Output SPL at 20 Hz: 95.2 dB
@@ -2510,6 +2863,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 107.9 dB
 - Output SPL at 63 Hz: 109.3 dB
 - Output SPL at 80 Hz: 110.3 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 2(+3)
 - Weight: 61.72lbs / 28.0kg
 - Links
@@ -2522,8 +2876,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United Kingdom
 - Dimensions: 14.6"H x 13.9"W x 14.6"D (370.8 x 353.1 x 370.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 24-140Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 86.3 dB
 - Output SPL at 20 Hz: 93.4 dB
@@ -2533,6 +2889,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 107.1 dB
 - Output SPL at 63 Hz: 109.9 dB
 - Output SPL at 80 Hz: 111.1 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5/2/5
 - Weight: 38.36lbs / 17.4kg
 - Links
@@ -2540,14 +2897,16 @@ Last updated: June 02, 2026
     - [Reddit Search for Kef Kube 10B](https://www.reddit.com/search/?q=Kef+Kube+10B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-Kube-10B/)
 
-## #111 BK Electronics XLS300/PR
+## #111 BK Electronics XLS300/PR: $7995
 - CEA-2010-A Average (40-80Hz): 107.9 dB
 - Cabinet Color: black, wood
 - Country: United Kingdom
 - Dimensions: 13.77"H x 15.74"W x 14.96"D (349.8 x 399.8 x 380.0 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 25Hz+
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 92.3 dB
 - Output SPL at 25 Hz: 100.3 dB
@@ -2556,6 +2915,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 107.9 dB
 - Output SPL at 63 Hz: 108.7 dB
 - Output SPL at 80 Hz: 108.8 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 2
 - Weight: 55.11lbs / 25.0kg
 - Links
@@ -2568,8 +2928,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 16.43"H x 15.0"W x 16.43"D (417.3 x 381.0 x 417.3 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 24-240Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 76.7 dB
 - Output SPL at 25 Hz: 92.2 dB
@@ -2578,6 +2940,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 107.0 dB
 - Output SPL at 63 Hz: 110.6 dB
 - Output SPL at 80 Hz: 109.5 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 3
 - Weight: 42.0lbs / 19.1kg
 - Links
@@ -2585,12 +2948,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Paradigm Defiance X10](https://www.reddit.com/search/?q=Paradigm+Defiance+X10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-X10/)
 
-## #113 EMPtek ES1010i
+## #113 EMPtek ES1010i: $599
 - CEA-2010-A Average (40-80Hz): 107.6 dB
 - Dimensions: 27.5"H x 13.0"W x 19.0"D (698.5 x 330.2 x 482.6 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 30-150Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 108.0 dB
 - Output SPL at 20 Hz: 88.0 dB
@@ -2600,18 +2965,21 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 109.0 dB
 - Output SPL at 63 Hz: 108.0 dB
 - Output SPL at 80 Hz: 108.0 dB
+- Power Output (Watts): 250W RMS
 - Weight: 45.0lbs / 20.4kg
 - Links
     - [Reddit Search for EMPtek ES1010i](https://www.reddit.com/search/?q=EMPtek+ES1010i)
     - [Direct Speakerranking Link](/subwoofer/speakers/EMPtek-ES1010i/)
 
-## #114 Genelec 7060B
+## #114 Genelec 7060B: $3495
 - CEA-2010-A Average (40-80Hz): 107.6 dB
 - Country: Finland
 - Dimensions: 20.75"H x 18.19"W x 14.29"D (527.0 x 462.0 x 363.0 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 19-85Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 93.5 dB
 - Output SPL at 25 Hz: 97.0 dB
@@ -2620,6 +2988,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 107.2 dB
 - Output SPL at 63 Hz: 110.5 dB
 - Output SPL at 80 Hz: 110.4 dB
+- Power Output (Watts): 120W RMS
 - Warranty: 2(+3)
 - Weight: 57.32lbs / 26.0kg
 - Links
@@ -2627,33 +2996,38 @@ Last updated: June 02, 2026
     - [Reddit Search for Genelec 7060B](https://www.reddit.com/search/?q=Genelec+7060B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-7060B/)
 
-## #115 Sonos Sub (Gen 1)
+## #115 Sonos Sub (Gen 1): $699
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 107.5 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 15.3"H x 15.8"W x 6.2"D (388.6 x 401.3 x 157.5 mm)
 - Discontinued: Yes
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 40Hz -3dB approx
 - Measurement Source: Brent Butterworth
 - Output SPL at 31.5 Hz: 93.0 dB
 - Output SPL at 40 Hz: 104.9 dB
 - Output SPL at 50 Hz: 108.8 dB
 - Output SPL at 63 Hz: 108.9 dB
+- Power Output (Watts): Not published
 - Warranty: 1
 - Weight: 36.3lbs / 16.5kg
 - Links
     - [Reddit Search for Sonos Sub (Gen 1)](https://www.reddit.com/search/?q=Sonos+Sub+%28Gen+1%29)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sonos-Sub-Gen-1/)
 
-## #116 Paradigm Monitor SUB 10
+## #116 Paradigm Monitor SUB 10: $799
 - CEA-2010-A Average (40-80Hz): 107.4 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 13.0"H x 11.12"W x 12.75"D (330.2 x 282.4 x 323.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 17Hz extension
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 94.4 dB
 - Output SPL at 25 Hz: 94.4 dB
@@ -2661,6 +3035,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 107.4 dB
 - Output SPL at 50 Hz: 107.4 dB
 - Output SPL at 63 Hz: 107.4 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 3
 - Weight: 30.0lbs / 13.6kg
 - Links
@@ -2673,8 +3048,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 13.25"H x 13.25"W x 15.4"D (336.5 x 336.5 x 391.2 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 33-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 74.8 dB
 - Output SPL at 20 Hz: 82.2 dB
@@ -2684,6 +3061,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 106.3 dB
 - Output SPL at 63 Hz: 112.1 dB
 - Output SPL at 80 Hz: 113.1 dB
+- Power Output (Watts): 180W RMS
 - Warranty: 3
 - Weight: 31.0lbs / 14.1kg
 - Links
@@ -2691,27 +3069,32 @@ Last updated: June 02, 2026
     - [Reddit Search for Atlantic Technology 224SB](https://www.reddit.com/search/?q=Atlantic+Technology+224SB)
     - [Direct Speakerranking Link](/subwoofer/speakers/Atlantic-Technology-224SB/)
 
-## #118 Velodyne Acoustics EQ-Max8
+## #118 Velodyne Acoustics EQ-Max8: $999
 - CEA-2010-A Average (40-80Hz): 107.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 14.5"H x 13.25"W x 14.87"D (368.3 x 336.5 x 377.7 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, bottom
+- Frequency Response: 32-135Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 31.5 Hz: 89.3 dB
 - Output SPL at 40 Hz: 106.3 dB
 - Output SPL at 50 Hz: 107.6 dB
 - Output SPL at 63 Hz: 107.2 dB
+- Power Output (Watts): 180W RMS
 - Weight: 44.0lbs / 20.0kg
 - Links
     - [Velodyne Acoustics EQ-Max8 Website](https://www.velodyneacoustics.com/eq-max-series/)
     - [Reddit Search for Velodyne Acoustics EQ-Max8](https://www.reddit.com/search/?q=Velodyne+Acoustics+EQ-Max8)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-EQ-Max8/)
 
-## #119 Chorus Speakers Vertigo XLS 07
+## #119 Chorus Speakers Vertigo XLS 07: $1299
 - CEA-2010-A Average (40-80Hz): 106.8 dB
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
+- Frequency Response: 20-120Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 89.7 dB
 - Output SPL at 25 Hz: 98.1 dB
@@ -2720,19 +3103,22 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 106.9 dB
 - Output SPL at 63 Hz: 106.8 dB
 - Output SPL at 80 Hz: 106.5 dB
+- Power Output (Watts): 200W RMS
 - Weight: 65.4lbs / 29.7kg
 - Links
     - [Chorus Speakers Vertigo XLS 07 Website](https://web.archive.org/web/20070222194613/http://www.chorus.fi/view.php?or_id=20&page=index&content_group_id=491&anonymous=chorus)
     - [Reddit Search for Chorus Speakers Vertigo XLS 07](https://www.reddit.com/search/?q=Chorus+Speakers+Vertigo+XLS+07)
     - [Direct Speakerranking Link](/subwoofer/speakers/Chorus-Speakers-Vertigo-XLS-07/)
 
-## #120 Jamo C 912 SUB
+## #120 Jamo C 912 SUB: $599
 - CEA-2010-A Average (40-80Hz): 106.7 dB
 - Cabinet Color: black, white, wood
 - Country: Denmark
 - Dimensions: 17.89"H x 13.99"W x 18.88"D (454.4 x 355.3 x 479.6 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 29-125Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 106.6 dB
 - Output SPL at 125 Hz: 104.9 dB
@@ -2744,6 +3130,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 106.5 dB
 - Output SPL at 63 Hz: 108.6 dB
 - Output SPL at 80 Hz: 108.1 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5/2
 - Weight: 41.66lbs / 18.9kg
 - Links
@@ -2756,8 +3143,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 14.25"H x 13.62"W x 14.37"D (361.9 x 345.9 x 365.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 20Hz+
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 84.0 dB
 - Output SPL at 20 Hz: 86.5 dB
@@ -2767,6 +3156,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 105.0 dB
 - Output SPL at 63 Hz: 109.7 dB
 - Output SPL at 80 Hz: 110.6 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5
 - Weight: 35.4lbs / 16.1kg
 - Links
@@ -2774,13 +3164,15 @@ Last updated: June 02, 2026
     - [Reddit Search for PSB Speakers SubSeries 250](https://www.reddit.com/search/?q=PSB+Speakers+SubSeries+250)
     - [Direct Speakerranking Link](/subwoofer/speakers/PSB-Speakers-SubSeries-250/)
 
-## #122 REL Acoustics T-7
+## #122 REL Acoustics T-7: $699
 - CEA-2010-A Average (40-80Hz): 106.2 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 13.75"H x 12.0"W x 13.75"D (349.2 x 304.8 x 349.2 mm)
 - Discontinued: Yes
+- Driver: 7" (178mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: passive radiator
+- Frequency Response: 30Hz -6dB
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 68.0 dB
 - Output SPL at 25 Hz: 87.9 dB
@@ -2788,6 +3180,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 105.9 dB
 - Output SPL at 50 Hz: 107.3 dB
 - Output SPL at 63 Hz: 105.5 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 3
 - Weight: 31.0lbs / 14.1kg
 - Links
@@ -2795,14 +3188,16 @@ Last updated: June 02, 2026
     - [Reddit Search for REL Acoustics T-7](https://www.reddit.com/search/?q=REL+Acoustics+T-7)
     - [Direct Speakerranking Link](/subwoofer/speakers/REL-Acoustics-T-7/)
 
-## #123 Bowers & Wilkins (B&W) PV-1
+## #123 Bowers & Wilkins (B&W) PV-1: $1999
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 106.1 dB
 - Country: United Kingdom
 - Dimensions: 13.2"H x 11.4"W x 13.7"D (335.3 x 289.6 x 348.0 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
+- Frequency Response: 18-140Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 79.6 dB
 - Output SPL at 25 Hz: 85.1 dB
@@ -2811,18 +3206,21 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 104.8 dB
 - Output SPL at 63 Hz: 109.5 dB
 - Output SPL at 80 Hz: 110.7 dB
+- Power Output (Watts): 500W RMS
 - Weight: 45.19lbs / 20.5kg
 - Links
     - [Reddit Search for Bowers & Wilkins (B&W) PV-1](https://www.reddit.com/search/?q=Bowers+%26+Wilkins+%28B%26W%29+PV-1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Bowers--Wilkins-BW-PV-1/)
 
-## #124 OSD (Optimal Speaker Design) PS10
+## #124 OSD (Optimal Speaker Design) PS10: $399
 - CEA-2010-A Average (40-80Hz): 106.0 dB
 - Country: United States
 - Dimensions: 13.5"H x 14.25"W x 13.5"D (342.9 x 361.9 x 342.9 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 25-180Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 79.0 dB
 - Output SPL at 25 Hz: 87.3 dB
@@ -2831,6 +3229,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 105.3 dB
 - Output SPL at 63 Hz: 109.9 dB
 - Output SPL at 80 Hz: 110.1 dB
+- Power Output (Watts): 125W RMS
 - Warranty: 2
 - Weight: 33.0lbs / 15.0kg
 - Links
@@ -2843,8 +3242,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white, wood, grey
 - Country: United Kingdom
 - Dimensions: 13.97"H x 11.41"W x 13.38"D (354.8 x 289.8 x 339.9 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 17Hz -6dB+
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 84.2 dB
 - Output SPL at 20 Hz: 89.3 dB
@@ -2854,6 +3255,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 105.4 dB
 - Output SPL at 63 Hz: 106.9 dB
 - Output SPL at 80 Hz: 107.5 dB
+- Power Output (Watts): 275W RMS
 - Warranty: 2
 - Weight: 38.58lbs / 17.5kg
 - Links
@@ -2861,14 +3263,16 @@ Last updated: June 02, 2026
     - [Reddit Search for BK Electronics XLS200-DF MK2](https://www.reddit.com/search/?q=BK+Electronics+XLS200-DF+MK2)
     - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-XLS200-DF-MK2/)
 
-## #126 ELAC SUB3010
+## #126 ELAC SUB3010: $749
 - CEA-2010-A Average (40-80Hz): 105.4 dB
 - Cabinet Color: black
 - Country: Germany
 - Dimensions: 14.33"H x 13.5"W x 13.5"D (364.0 x 342.9 x 342.9 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 28-150Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 77.8 dB
 - Output SPL at 25 Hz: 91.9 dB
@@ -2877,6 +3281,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 104.6 dB
 - Output SPL at 63 Hz: 108.5 dB
 - Output SPL at 80 Hz: 108.6 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 3/1
 - Weight: 32.1lbs / 14.6kg
 - Links
@@ -2884,13 +3289,15 @@ Last updated: June 02, 2026
     - [Reddit Search for ELAC SUB3010](https://www.reddit.com/search/?q=ELAC+SUB3010)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-SUB3010/)
 
-## #127 Emotiva S10
+## #127 Emotiva S10: $299
 - CEA-2010-A Average (40-80Hz): 104.9 dB
 - Country: United States
 - Dimensions: 16.14"H x 14.01"W x 15.86"D (410.0 x 355.9 x 402.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 28-200Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 74.4 dB
 - Output SPL at 20 Hz: 88.0 dB
@@ -2900,20 +3307,23 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 104.8 dB
 - Output SPL at 63 Hz: 105.8 dB
 - Output SPL at 80 Hz: 106.9 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5
 - Weight: 52.1lbs / 23.6kg
 - Links
     - [Reddit Search for Emotiva S10](https://www.reddit.com/search/?q=Emotiva+S10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Emotiva-S10/)
 
-## #128 Audio Pro Level 110
+## #128 Audio Pro Level 110: $699
 - CEA-2010-A Average (40-80Hz): 104.5 dB
 - Cabinet Color: wood
 - Country: Sweden
 - Dimensions: 16.14"H x 13.77"W x 15.35"D (410.0 x 349.8 x 389.9 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
+- Frequency Response: 23-100Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 84.4 dB
 - Output SPL at 25 Hz: 92.0 dB
@@ -2922,6 +3332,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 104.5 dB
 - Output SPL at 63 Hz: 105.7 dB
 - Output SPL at 80 Hz: 105.8 dB
+- Power Output (Watts): 400W RMS
 - Weight: 37.03lbs / 16.8kg
 - Links
     - [Reddit Search for Audio Pro Level 110](https://www.reddit.com/search/?q=Audio+Pro+Level+110)
@@ -2932,8 +3343,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.5"H x 12.2"W x 11.0"D (368.3 x 309.9 x 279.4 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: ported, front
+- Frequency Response: 27-200Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 111.6 dB
 - Output SPL at 25 Hz: 96.6 dB
@@ -2942,6 +3355,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 101.8 dB
 - Output SPL at 63 Hz: 103.4 dB
 - Output SPL at 80 Hz: 110.4 dB
+- Power Output (Watts): 400W RMS
 - Weight: 31.0lbs / 14.1kg
 - Links
     - [Kali Audio WS-6.2 Website](https://www.kaliaudio.com/watts-ws62)
@@ -2953,8 +3367,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United Kingdom
 - Dimensions: 13.87"H x 12.99"W x 14.19"D (352.3 x 329.9 x 360.4 mm)
+- Driver: 9.2" (234mm) driver
 - Driver(s): (2) 9 inch
 - Enclosure: sealed
+- Frequency Response: 11-160Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 107.2 dB
 - Output SPL at 20 Hz: 86.0 dB
@@ -2964,6 +3380,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 103.0 dB
 - Output SPL at 63 Hz: 104.4 dB
 - Output SPL at 80 Hz: 106.3 dB
+- Power Output (Watts): 1000W RMS
 - Warranty: 5/2/5
 - Weight: 44.09lbs / 20.0kg
 - Links
@@ -2971,13 +3388,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Kef KF92](https://www.reddit.com/search/?q=Kef+KF92)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kef-KF92/)
 
-## #131 JL Audio Fathom f110
+## #131 JL Audio Fathom f110: $2299
 - CEA-2010-A Average (40-80Hz): 103.2 dB
 - Country: United States
 - Dimensions: 15.64"H x 12.92"W x 17.27"D (397.3 x 328.2 x 438.7 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 27-111Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 98.0 dB
 - Output SPL at 20 Hz: 94.0 dB
@@ -2987,6 +3406,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 104.0 dB
 - Output SPL at 63 Hz: 103.0 dB
 - Output SPL at 80 Hz: 101.0 dB
+- Power Output (Watts): 900W short-term
 - Warranty: 3
 - Weight: 67.0lbs / 30.4kg
 - Links
@@ -2998,8 +3418,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.9"H x 17.5"W x 41.96"D (378.5 x 444.5 x 1065.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 27-150Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 104.2 dB
 - Output SPL at 20 Hz: 84.7 dB
@@ -3009,6 +3431,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 103.2 dB
 - Output SPL at 63 Hz: 103.3 dB
 - Output SPL at 80 Hz: 103.7 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 1
 - Weight: 50.0lbs / 22.7kg
 - Links
@@ -3016,13 +3439,15 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL SUB 550P](https://www.reddit.com/search/?q=JBL+SUB+550P)
     - [Direct Speakerranking Link](/subwoofer/speakers/JBL-SUB-550P/)
 
-## #133 Aperion Audio Bravus 10D
+## #133 Aperion Audio Bravus 10D: $699
 - CEA-2010-A Average (40-80Hz): 102.5 dB
 - Country: United States
 - Dimensions: 15.0"H x 13.5"W x 13.5"D (381.0 x 342.9 x 342.9 mm)
 - Discontinued: Yes
+- Driver: 10" (305mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 25-180Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 105.0 dB
 - Output SPL at 20 Hz: 79.0 dB
@@ -3032,37 +3457,43 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 102.0 dB
 - Output SPL at 63 Hz: 104.0 dB
 - Output SPL at 80 Hz: 105.0 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 10/2
 - Weight: 44.0lbs / 20.0kg
 - Links
     - [Reddit Search for Aperion Audio Bravus 10D](https://www.reddit.com/search/?q=Aperion+Audio+Bravus+10D)
     - [Direct Speakerranking Link](/subwoofer/speakers/Aperion-Audio-Bravus-10D/)
 
-## #134 Sunfire Atmos
+## #134 Sunfire Atmos: $699
 - CEA-2010-A Average (40-80Hz): 101.6 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 7.62"H x 10.06"W x 10.37"D (193.5 x 255.5 x 263.4 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 6.5 inch
 - Enclosure: passive radiator
+- Frequency Response: 30-100Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 25 Hz: 70.1 dB
 - Output SPL at 31.5 Hz: 83.5 dB
 - Output SPL at 40 Hz: 96.5 dB
 - Output SPL at 50 Hz: 105.9 dB
 - Output SPL at 63 Hz: 102.3 dB
+- Power Output (Watts): 300W average
 - Weight: 32.0lbs / 14.5kg
 - Links
     - [Reddit Search for Sunfire Atmos](https://www.reddit.com/search/?q=Sunfire+Atmos)
     - [Direct Speakerranking Link](/subwoofer/speakers/Sunfire-Atmos/)
 
-## #135 Genelec 7050B
+## #135 Genelec 7050B: $2495
 - CEA-2010-A Average (40-80Hz): 100.3 dB
 - Country: Finland
 - Dimensions: 16.12"H x 13.75"W x 12.56"D (409.4 x 349.2 x 319.0 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, bottom
+- Frequency Response: 25-85Hz
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 20 Hz: 87.4 dB
 - Output SPL at 25 Hz: 92.8 dB
@@ -3071,6 +3502,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 99.8 dB
 - Output SPL at 63 Hz: 101.6 dB
 - Output SPL at 80 Hz: 102.0 dB
+- Power Output (Watts): 70W RMS
 - Warranty: 2(+3)
 - Weight: 39.68lbs / 18.0kg
 - Links
@@ -3083,13 +3515,16 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: China
 - Dimensions: 12.6"H x 3.0"W x 12.6"D (320.0 x 76.2 x 320.0 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 6.5 inch
 - Enclosure: ported, front
+- Frequency Response: 40-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 40 Hz: 88.3 dB
 - Output SPL at 50 Hz: 97.5 dB
 - Output SPL at 63 Hz: 104.0 dB
 - Output SPL at 80 Hz: 106.4 dB
+- Power Output (Watts): 50W RMS
 - Weight: 38.0lbs / 17.2kg
 - Links
     - [Bestisan SW65D Website](https://www.amazon.com/BESTISAN-Subwoofer-Bestisan-Bluetooth-Response/dp/B08R9VVKB7/)
@@ -3101,8 +3536,10 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 9.68"H x 10.07"W x 9.76"D (245.9 x 255.8 x 247.9 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: sealed
+- Frequency Response: 11-200Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 104.2 dB
 - Output SPL at 20 Hz: 80.0 dB
@@ -3112,6 +3549,7 @@ Last updated: June 02, 2026
 - Output SPL at 50 Hz: 95.1 dB
 - Output SPL at 63 Hz: 97.7 dB
 - Output SPL at 80 Hz: 102.6 dB
+- Power Output (Watts): 1000W RMS
 - Warranty: 5/2/5
 - Weight: 30.86lbs / 14.0kg
 - Links

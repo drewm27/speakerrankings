@@ -7,7 +7,7 @@ share-description: "The Zealot S89 ranks #14 out of 67 total Boombox Size Portab
 
 The Zealot S89 ranks [#14 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#14-zealot-s89-aliexpress-amazon-160) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #14 [Zealot S89](https://s.click.aliexpress.com/e/_c3VYQaUb) [[Aliexpress](https://s.click.aliexpress.com/e/_c3VYQaUb)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Subwoofer-Waterproof/dp/B0FJ8HBQS8?crid=1CO7NSHNL917Y&dib=eyJ2IjoiMSJ9.Uda4wl_LdSRpp6SN-fRuocJaY0CvYeLynMV1R6rrmkLQkh-Y7uLQruI4J5r9o_FT7m5JmYc4YyPu6_ESpZAd6Bmc0lUthPNnRCT9Z4RE3ZF3V7UjochldDftmSIWkvW5qPGyZOfwISHJ1wDSXgQLwQE7PRBM_nLAOLKHlpO0SdtDXVgv8hE-x7gq-jSHQKaWq_Uzvz5Mqwzg3mrQIKHXPv50lw3JHQ-9X-iysgGe0lk.wxRT_hfU42Ax2V6qMOM7OKiC0lsf_o9zylWTv_fqc_s&dib_tag=se&keywords=zealot%2Bs89&qid=1767856123&sprefix=zealot%2Bs89%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2ad823e37ae7c0efb92519e32ab46d18&language=en_US&ref_=as_li_ss_tl)]: $160
+## #14 [Zealot S89](https://s.click.aliexpress.com/e/_c3VYQaUb) [[Aliexpress](https://s.click.aliexpress.com/e/_c3VYQaUb)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Subwoofer-Waterproof/dp/B0FJ8HBQS8?crid=1CO7NSHNL917Y&dib=eyJ2IjoiMSJ9.Uda4wl_LdSRpp6SN-fRuocJaY0CvYeLynMV1R6rrmkLQkh-Y7uLQruI4J5r9o_FT7m5JmYc4YyPu6_ESpZAd6Bmc0lUthPNnRCT9Z4RE3ZF3V7UjochldDftmSIWkvW5qPGyZOfwISHJ1wDSXgQLwQE7PRBM_nLAOLKHlpO0SdtDXVgv8hE-x7gq-jSHQKaWq_Uzvz5Mqwzg3mrQIKHXPv50lw3JHQ-9X-iysgGe0lk.wxRT_hfU42Ax2V6qMOM7OKiC0lsf_o9zylWTv_fqc_s&dib_tag=rankingspea01-20&keywords=zealot%2Bs89&qid=1767856123&sprefix=zealot%2Bs89%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2ad823e37ae7c0efb92519e32ab46d18&language=en_US&ref_=as_li_ss_tl)]: $160
 - Positives: A great value for the bass performance, play time and max volume in the boombox class. Likely the same internals as the Zealot ZE21
 - Negatives: On the heavy side. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
@@ -16,9 +16,12 @@ The Zealot S89 ranks [#14 out of 67 total Boombox Size Portable Bluetooth Speake
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 538mm x 265mm x 240mm
+- Driver: 130W subwoofer + 2x 40mm drivers + 2x tweeters
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

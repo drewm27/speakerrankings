@@ -12,8 +12,10 @@ The Aperion Audio Bravus II 12D ranks [#41 out of 137 total Medium Powered Home 
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 17.0"H x 15.5"W x 15.5"D (431.8 x 393.7 x 393.7 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 22-350Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 112.8 dB
 - Output SPL at 125 Hz: 112.3 dB
@@ -24,6 +26,7 @@ The Aperion Audio Bravus II 12D ranks [#41 out of 137 total Medium Powered Home 
 - Output SPL at 50 Hz: 115.6 dB
 - Output SPL at 63 Hz: 115.2 dB
 - Output SPL at 80 Hz: 113.7 dB
+- Power Output (Watts): 650W RMS
 - Warranty: 10/2
 - Weight: 62.0lbs / 28.1kg
 - Links

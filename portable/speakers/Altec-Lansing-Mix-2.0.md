@@ -14,6 +14,8 @@ The Altec Lansing Mix 2.0 ranks [#59 out of 67 total Boombox Size Portable Bluet
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 11" x 9.4" x 11"
+- Driver: 2x drivers
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -24,6 +26,7 @@ The Altec Lansing Mix 2.0 ranks [#59 out of 67 total Boombox Size Portable Bluet
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
+- Weight: 2.3 kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
     - [Jagist reviews: Jbl Extreme 3 vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=a-VmNf5kgEA)

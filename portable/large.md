@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -33,6 +33,7 @@ Last updated: June 02, 2026
 - EQ: No
 - Frequency Response: 58Hz - 18kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
@@ -48,7 +49,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Vifa Helsinki](https://www.reddit.com/search/?q=Vifa+Helsinki)
     - [Direct Speakerranking Link](/portable/speakers/Vifa-Helsinki/)
 
-## #2 [JBL Xtreme 5](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
+## #2 [JBL Xtreme 5](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=rankingspea01-20&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=rankingspea01-20&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
 - Positives: Removable battery. Quite deep bass. A fantastic sounding speaker
 - Negatives: High priced. Some bass boost. A hole in the mid-upper bass which can't be EQ'd out
 - Setup: Try [this Oluv EQ](https://www.youtube.com/watch?v=_a-qMWPCuFg) for the most neutral sound
@@ -91,7 +92,7 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Xtreme 5](https://www.reddit.com/search/?q=JBL+Xtreme+5)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme-5/)
 
-## #3 [Tribit Stormbox Lava](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
+## #3 [Tribit Stormbox Lava](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=rankingspea01-20&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=rankingspea01-20&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
 - Positives: Fantastic bass extension. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and upper mids have some peaks.
 - Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) and you can turn down the lowest slider for it to be more neutral
@@ -136,7 +137,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Tribit Stormbox Lava](https://www.reddit.com/search/?q=Tribit+Stormbox+Lava)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Lava/)
 
-## #4 [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=se&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
+## #4 [Brane X](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=rankingspea01-20&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Brane-Audio-Bluetooth-Subwoofer-Waterproof/dp/B0D7TXSS56?crid=1AZECGC1BQ89L&dib=eyJ2IjoiMSJ9.n_S0Oo2PPHSigk2Ivz5y7zaszygVTOO-SOJgzTyv7KxWjN2NsqneZbGY18EvrAhio0ASmASmE6Fm1NxOFT_zH04tIVuj-T3zuxJxy3PkOuvPb5rM8r2VlSKR9dJ1N3AYTdESLoPUSBtno8BTwDHmrq0bgx9WXGZtj5JU8ZnSUJGmGZcH-WbIC-My3zZ5wLe1YZm6hmzl_mXzUfcxpfg51MNIHQY8wRxL-hjk0kTo1Kk.FkVUOWUU_Ajk7fXHNk-oTwp2hmWFJwjPmCWMQHBIgxw&dib_tag=rankingspea01-20&keywords=brian+x&qid=1742761362&sprefix=brane+%2Caps%2C276&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=1e884feca1d54a5b5ea504ad558392d7&language=en_US&ref_=as_li_ss_tl)]: $500
 - Positives: Very deep bass, the absolute deepest from this category. Medium bass boost is the most balanced.
 - Negatives: Boosted upper bass ~120hz, rolled off treble, so it's missing detail up top. Battery life isn't great in real world use. High priced. Annoying robot voice announcements. A lot of aux input latency.
 - App: No
@@ -286,6 +287,7 @@ Last updated: June 02, 2026
 - EQ: No
 - Frequency Response: 55Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
@@ -584,7 +586,7 @@ Last updated: June 02, 2026
     - [Reddit Search for B&O Beoplay A2 active](https://www.reddit.com/search/?q=B%26O+Beoplay+A2+active)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beoplay-A2-active/)
 
-## #17 [Bose SoundLink Max](https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX?crid=2URAE7I7QCBN6&dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkywXpUwQYoyTiGnhUsV6JF_U0d4CF4ZVY35f2Z-i_OA8lSDMpoAy2UnRqIo5q78XAAwB_OZn9dYafzM36KhfPNVraobHgc8aiqrcKy9DDehobWLTk8SP3UKGLciNskvB_KN9MM071m2OdyqrJBdlKggErseSH17ps8KS-HPSbZsA-lh8ltNYcDY1eNqb5f2ZSobOl_VbtYFqS3PilnzP2odU.4_dXE4jBI0Kg5ysqYf7B_1-WTfaE-Ec3Om8lX6ubZJA&dib_tag=se&keywords=soundlink+max&qid=1716934348&sprefix=soundli%2Caps%2C222&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=9d5c53cccfd923856531da09ee60af40&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX?crid=2URAE7I7QCBN6&dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkywXpUwQYoyTiGnhUsV6JF_U0d4CF4ZVY35f2Z-i_OA8lSDMpoAy2UnRqIo5q78XAAwB_OZn9dYafzM36KhfPNVraobHgc8aiqrcKy9DDehobWLTk8SP3UKGLciNskvB_KN9MM071m2OdyqrJBdlKggErseSH17ps8KS-HPSbZsA-lh8ltNYcDY1eNqb5f2ZSobOl_VbtYFqS3PilnzP2odU.4_dXE4jBI0Kg5ysqYf7B_1-WTfaE-Ec3Om8lX6ubZJA&dib_tag=se&keywords=soundlink+max&qid=1716934348&sprefix=soundli%2Caps%2C222&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=9d5c53cccfd923856531da09ee60af40&language=en_US&ref_=as_li_ss_tl)]: $330
+## #17 [Bose SoundLink Max](https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX?crid=2URAE7I7QCBN6&dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkywXpUwQYoyTiGnhUsV6JF_U0d4CF4ZVY35f2Z-i_OA8lSDMpoAy2UnRqIo5q78XAAwB_OZn9dYafzM36KhfPNVraobHgc8aiqrcKy9DDehobWLTk8SP3UKGLciNskvB_KN9MM071m2OdyqrJBdlKggErseSH17ps8KS-HPSbZsA-lh8ltNYcDY1eNqb5f2ZSobOl_VbtYFqS3PilnzP2odU.4_dXE4jBI0Kg5ysqYf7B_1-WTfaE-Ec3Om8lX6ubZJA&dib_tag=rankingspea01-20&keywords=soundlink+max&qid=1716934348&sprefix=soundli%2Caps%2C222&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=9d5c53cccfd923856531da09ee60af40&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Portable-Waterproof-Bluetooth/dp/B0CVL1K7DX?crid=2URAE7I7QCBN6&dib=eyJ2IjoiMSJ9.mu3xPGVjQRyWzjjLCwbkywXpUwQYoyTiGnhUsV6JF_U0d4CF4ZVY35f2Z-i_OA8lSDMpoAy2UnRqIo5q78XAAwB_OZn9dYafzM36KhfPNVraobHgc8aiqrcKy9DDehobWLTk8SP3UKGLciNskvB_KN9MM071m2OdyqrJBdlKggErseSH17ps8KS-HPSbZsA-lh8ltNYcDY1eNqb5f2ZSobOl_VbtYFqS3PilnzP2odU.4_dXE4jBI0Kg5ysqYf7B_1-WTfaE-Ec3Om8lX6ubZJA&dib_tag=rankingspea01-20&keywords=soundlink+max&qid=1716934348&sprefix=soundli%2Caps%2C222&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=9d5c53cccfd923856531da09ee60af40&language=en_US&ref_=as_li_ss_tl)]: $330
 - Negatives: Big peak in the upper bass, dipped midrange and lots of peaks and dips above the midrange. Bass not as deep as a Boom 2. Gets distorted above 80%. [Self drains the battery about 20% a week](https://www.reddit.com/r/bose/comments/1eg4hn8/bose_soundlink_max_battery_drain/).
 - App: Yes
 - Aux Input: Yes
@@ -596,9 +598,10 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: No
 - Dimensions: 10.4" x 4.7" x 4.1" (264.7 x 120.1 x 104.9 mm)
-- Driver: 3-transducer Bose Articulated Array
+- Driver: 2x 2.5" (63.5mm) midrange drivers + 1x 0.79" (20mm) tweeter
 - EQ: No
 - IP Rating: IP67
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -736,7 +739,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Soundcore Rave Neo 2](https://www.reddit.com/search/?q=Soundcore+Rave+Neo+2)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-Neo-2/)
 
-## #21 [Teufel Rockster Cross](https://www.amazon.com/Teufel-ROCKSTER-Portable-Wireless-Bluetooth/dp/B0D2P8JRFY?crid=34BUMF0HID77P&dib=eyJ2IjoiMSJ9.H0hxgBkiNdb5tzXaHf7AEE4DsqmNraQf3BWew8t1dtBMRS5_nVa1qkGv_SNfUPu54Ls2z1bhONbw4Gn_Ys2Ml5C_Ww2Hjs3wW2eyVO13Fig9ka60gB2vPU-VZZifGoj53cq4A-hAmJr-CXCKkUUnwSMhOMNQl_0OxKptCyTA8QyZNJa7K-3c3aFOiqGVBR9xWvUS9zYuoqgrDAdlddKThqKwK4szLFw3Fpsqgb7ICcCRfKZTJA4sSrsx7P-Wih4TbbEjc81uFsW4cTwp1wXZhgbiE6PfQ6HHD7p8far86Vg.yYrLtxtHuL_HAGRAJb1pwRCgmovLHD-xjrtG8VVlfes&dib_tag=se&keywords=teufel&qid=1739316042&s=electronics&sprefix=teufel%2Celectronics%2C182&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ef97f52cd1221c152738712931f14a0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Teufel-ROCKSTER-Portable-Wireless-Bluetooth/dp/B0D2P8JRFY?crid=34BUMF0HID77P&dib=eyJ2IjoiMSJ9.H0hxgBkiNdb5tzXaHf7AEE4DsqmNraQf3BWew8t1dtBMRS5_nVa1qkGv_SNfUPu54Ls2z1bhONbw4Gn_Ys2Ml5C_Ww2Hjs3wW2eyVO13Fig9ka60gB2vPU-VZZifGoj53cq4A-hAmJr-CXCKkUUnwSMhOMNQl_0OxKptCyTA8QyZNJa7K-3c3aFOiqGVBR9xWvUS9zYuoqgrDAdlddKThqKwK4szLFw3Fpsqgb7ICcCRfKZTJA4sSrsx7P-Wih4TbbEjc81uFsW4cTwp1wXZhgbiE6PfQ6HHD7p8far86Vg.yYrLtxtHuL_HAGRAJb1pwRCgmovLHD-xjrtG8VVlfes&dib_tag=se&keywords=teufel&qid=1739316042&s=electronics&sprefix=teufel%2Celectronics%2C182&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ef97f52cd1221c152738712931f14a0&language=en_US&ref_=as_li_ss_tl)]: $180
+## #21 [Teufel Rockster Cross](https://www.amazon.com/Teufel-ROCKSTER-Portable-Wireless-Bluetooth/dp/B0D2P8JRFY?crid=34BUMF0HID77P&dib=eyJ2IjoiMSJ9.H0hxgBkiNdb5tzXaHf7AEE4DsqmNraQf3BWew8t1dtBMRS5_nVa1qkGv_SNfUPu54Ls2z1bhONbw4Gn_Ys2Ml5C_Ww2Hjs3wW2eyVO13Fig9ka60gB2vPU-VZZifGoj53cq4A-hAmJr-CXCKkUUnwSMhOMNQl_0OxKptCyTA8QyZNJa7K-3c3aFOiqGVBR9xWvUS9zYuoqgrDAdlddKThqKwK4szLFw3Fpsqgb7ICcCRfKZTJA4sSrsx7P-Wih4TbbEjc81uFsW4cTwp1wXZhgbiE6PfQ6HHD7p8far86Vg.yYrLtxtHuL_HAGRAJb1pwRCgmovLHD-xjrtG8VVlfes&dib_tag=rankingspea01-20&keywords=teufel&qid=1739316042&s=electronics&sprefix=teufel%2Celectronics%2C182&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ef97f52cd1221c152738712931f14a0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Teufel-ROCKSTER-Portable-Wireless-Bluetooth/dp/B0D2P8JRFY?crid=34BUMF0HID77P&dib=eyJ2IjoiMSJ9.H0hxgBkiNdb5tzXaHf7AEE4DsqmNraQf3BWew8t1dtBMRS5_nVa1qkGv_SNfUPu54Ls2z1bhONbw4Gn_Ys2Ml5C_Ww2Hjs3wW2eyVO13Fig9ka60gB2vPU-VZZifGoj53cq4A-hAmJr-CXCKkUUnwSMhOMNQl_0OxKptCyTA8QyZNJa7K-3c3aFOiqGVBR9xWvUS9zYuoqgrDAdlddKThqKwK4szLFw3Fpsqgb7ICcCRfKZTJA4sSrsx7P-Wih4TbbEjc81uFsW4cTwp1wXZhgbiE6PfQ6HHD7p8far86Vg.yYrLtxtHuL_HAGRAJb1pwRCgmovLHD-xjrtG8VVlfes&dib_tag=rankingspea01-20&keywords=teufel&qid=1739316042&s=electronics&sprefix=teufel%2Celectronics%2C182&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1ef97f52cd1221c152738712931f14a0&language=en_US&ref_=as_li_ss_tl)]: $180
 - Positives: Pretty neutral frequency response. Outdoor mode can sound somewhat harsh due to the 4khz peak.
 - App: No
 - Aux Input: Yes
@@ -769,7 +772,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Teufel Rockster Cross](https://www.reddit.com/search/?q=Teufel+Rockster+Cross)
     - [Direct Speakerranking Link](/portable/speakers/Teufel-Rockster-Cross/)
 
-## #22 [Bose SoundLink Plus](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=se&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=se&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl)]: $270
+## #22 [Bose SoundLink Plus](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=rankingspea01-20&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=rankingspea01-20&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl)]: $270
 - Negatives: Boosted thuddy bass, but not as deep as the SoundLink Flex and you should probably just buy one of those instead if you want a Bose.
 - App: Yes
 - Aux Input: No
@@ -778,8 +781,10 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.4
 - Built in Microphone: No
 - Dimensions: 9.1" x 3.9" x 3.4" (231 x 99 x 86 mm)
+- Driver: 1x 2.5" (63.5mm) woofer + 1x ~0.78" (20mm) tweeter + 4x passive radiators
 - EQ: No
 - IP Rating: IP67
+- Output Power: Specs not published by manufacturer
 - Party Mode: Yes (up to 2 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
@@ -794,7 +799,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Bose SoundLink Plus](https://www.reddit.com/search/?q=Bose+SoundLink+Plus)
     - [Direct Speakerranking Link](/portable/speakers/Bose-SoundLink-Plus/)
 
-## #23 [Soundcore Motion X500](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=se&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=se&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl)]: $120
+## #23 [Soundcore Motion X500](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=rankingspea01-20&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=rankingspea01-20&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl)]: $120
 - Negatives: A little bright on top, a custom EQ can flatten things out a bit. Peaks at 250hz and dip at 1khz
 - App: Yes
 - Aux Input: Yes
@@ -804,7 +809,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 8.7" x 8.0" x 3.2" (220 x 202 x 81 mm)
-- Driver: 2x forward-facing drivers, 1x upward-firing driver
+- Driver: 2x 58mm (2.3") forward-firing full-range drivers + 1x 43mm (1.7") upward-firing driver
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
@@ -836,6 +841,7 @@ Last updated: June 02, 2026
 - Driver: mid-woofer, 2x angled tweeters
 - EQ: No
 - IP Rating: IP56
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -896,10 +902,11 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 9.4" x 6.3" x 5.0" (240 x 160 x 126 mm)
-- Driver: mid-woofer, downward-firing tweeter
+- Driver: 1x 3.5" (89mm) mid-woofer + 1x downward-firing tweeter (tweeter size undisclosed by Sonos)
 - EQ: No
 - IP Rating: IP56
 - Max Volume: 92dB
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C (requires USB-C PD 12v minimum)
@@ -917,7 +924,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Sonos Move](https://www.reddit.com/search/?q=Sonos+Move)
     - [Direct Speakerranking Link](/portable/speakers/Sonos-Move/)
 
-## #27 [Marshall Middleton II](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=se&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=se&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl)]: $330
+## #27 [Marshall Middleton II](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=rankingspea01-20&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Middleton-II-Bluetooth-Speaker/dp/B0FBHTGL16?crid=2B1DXD6MEN54G&dib=eyJ2IjoiMSJ9.twVTBRFDfGmRi_v6tJG6vnYuns3SwZn4Uwob7BBj9DyOMNR5Q81DsangIMR8SHO1A5sLeGbLCuQnRWbBaOCQHA3EhJP6q6txVa85zRR00oNdVyZE2bq96OWNsLP9ofHfX4LDE2ZUaV_y2P68onmAKdhWADpwxcnhunm86FIVkBQf3K3xTfzxXJRAhIxb4mrNIJTji7ICo8KfZR4JlR2j39cqWWrlMc668HzSetKqGsY.MPminQcH7PxxmXYh3j5pFNTB8AXJqLKocAaCcqaTVwg&dib_tag=rankingspea01-20&keywords=middleton%2Bii&qid=1763661554&sprefix=middleton%2Bi%2Caps%2C292&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=340324c28ca98f094df3587c997ccf61&language=en_US&ref_=as_li_ss_tl)]: $330
 - Positives: Very deep bass for the size/weight.
 - Negatives: Bass boosted which drowns out the midrange. Dip around 200hz, peak at 1khz, dipped at 1.6khz. Strange frequency response through the mids.
 - App: Yes
@@ -976,7 +983,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Mee audio PartySPKR](https://www.reddit.com/search/?q=Mee+audio+PartySPKR)
     - [Direct Speakerranking Link](/portable/speakers/Mee-audio-PartySPKR/)
 
-## #29 [LG Xboom Bounce](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0F3QSJCCD?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg%2Bxboom%2Bbounce&qid=1747084587&sprefix=lg%2Bxboom%2Bbounc%2Caps%2C218&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73c7b1609d6599d803cdb7bc124c9f9e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0F3QSJCCD?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg%2Bxboom%2Bbounce&qid=1747084587&sprefix=lg%2Bxboom%2Bbounc%2Caps%2C218&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73c7b1609d6599d803cdb7bc124c9f9e&language=en_US&ref_=as_li_ss_tl)]: $187
+## #29 [LG Xboom Bounce](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0F3QSJCCD?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=rankingspea01-20&keywords=lg%2Bxboom%2Bbounce&qid=1747084587&sprefix=lg%2Bxboom%2Bbounc%2Caps%2C218&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73c7b1609d6599d803cdb7bc124c9f9e&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Durability-Adjustable/dp/B0F3QSJCCD?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=rankingspea01-20&keywords=lg%2Bxboom%2Bbounce&qid=1747084587&sprefix=lg%2Bxboom%2Bbounc%2Caps%2C218&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=73c7b1609d6599d803cdb7bc124c9f9e&language=en_US&ref_=as_li_ss_tl)]: $187
 - Negatives: Bass extension not as deep as the top speakers. Overpriced. This may move around in the rankings as we get better sound samples
 - App: Yes
 - Aux Input: Yes
@@ -984,8 +991,11 @@ Last updated: June 02, 2026
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: Yes
+- Dimensions: 10.3" x 3.7" x 3.9"
+- Driver: 63mm woofer + dual dome tweeters (Peerless)
 - EQ: Yes
 - IP Rating: IP67
+- Output Power: 40W
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Power Input: USB-C
@@ -1041,7 +1051,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Marshall Middleton](https://www.reddit.com/search/?q=Marshall+Middleton)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Middleton/)
 
-## #31 [Ultimate Ears Everboom](https://www.amazon.com/Ultimate-Ears-EVERBOOM-Charcoal-Black/dp/B0BYC52LYP?crid=3U8OW2A10STRJ&dib=eyJ2IjoiMSJ9.2BCHc88kJrv26X74qsNQuYWayJKQG7IDsSlcPQtyGHkTDKyXJdC4uvU0JhzO5srKSvHU8-9zsztc45NyeZ5Mc39tDiNLWJ753uJWx-cFBkbca4mn2yfxnSc09Fgp5iHxJwwrF47jERgu_NHZXgLn4wHD9mUvfXNYZ9YE5B6A2E_5jGiPBisdmA94b32tlxtDvOpiUeActxaNXB5XJaeCRuqBzS24gmBs6bKP5jxQ4yM.05PM97UKQf-8ClC_YygF4KZLf1u1jlk5fsEEDpSdU-8&dib_tag=se&keywords=everboom&qid=1722461558&sprefix=everboo%2Caps%2C219&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72b89bb2cd66ec9e82437e2c0eccf30a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-EVERBOOM-Charcoal-Black/dp/B0BYC52LYP?crid=3U8OW2A10STRJ&dib=eyJ2IjoiMSJ9.2BCHc88kJrv26X74qsNQuYWayJKQG7IDsSlcPQtyGHkTDKyXJdC4uvU0JhzO5srKSvHU8-9zsztc45NyeZ5Mc39tDiNLWJ753uJWx-cFBkbca4mn2yfxnSc09Fgp5iHxJwwrF47jERgu_NHZXgLn4wHD9mUvfXNYZ9YE5B6A2E_5jGiPBisdmA94b32tlxtDvOpiUeActxaNXB5XJaeCRuqBzS24gmBs6bKP5jxQ4yM.05PM97UKQf-8ClC_YygF4KZLf1u1jlk5fsEEDpSdU-8&dib_tag=se&keywords=everboom&qid=1722461558&sprefix=everboo%2Caps%2C219&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72b89bb2cd66ec9e82437e2c0eccf30a&language=en_US&ref_=as_li_ss_tl)]: $250
+## #31 [Ultimate Ears Everboom](https://www.amazon.com/Ultimate-Ears-EVERBOOM-Charcoal-Black/dp/B0BYC52LYP?crid=3U8OW2A10STRJ&dib=eyJ2IjoiMSJ9.2BCHc88kJrv26X74qsNQuYWayJKQG7IDsSlcPQtyGHkTDKyXJdC4uvU0JhzO5srKSvHU8-9zsztc45NyeZ5Mc39tDiNLWJ753uJWx-cFBkbca4mn2yfxnSc09Fgp5iHxJwwrF47jERgu_NHZXgLn4wHD9mUvfXNYZ9YE5B6A2E_5jGiPBisdmA94b32tlxtDvOpiUeActxaNXB5XJaeCRuqBzS24gmBs6bKP5jxQ4yM.05PM97UKQf-8ClC_YygF4KZLf1u1jlk5fsEEDpSdU-8&dib_tag=rankingspea01-20&keywords=everboom&qid=1722461558&sprefix=everboo%2Caps%2C219&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72b89bb2cd66ec9e82437e2c0eccf30a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-EVERBOOM-Charcoal-Black/dp/B0BYC52LYP?crid=3U8OW2A10STRJ&dib=eyJ2IjoiMSJ9.2BCHc88kJrv26X74qsNQuYWayJKQG7IDsSlcPQtyGHkTDKyXJdC4uvU0JhzO5srKSvHU8-9zsztc45NyeZ5Mc39tDiNLWJ753uJWx-cFBkbca4mn2yfxnSc09Fgp5iHxJwwrF47jERgu_NHZXgLn4wHD9mUvfXNYZ9YE5B6A2E_5jGiPBisdmA94b32tlxtDvOpiUeActxaNXB5XJaeCRuqBzS24gmBs6bKP5jxQ4yM.05PM97UKQf-8ClC_YygF4KZLf1u1jlk5fsEEDpSdU-8&dib_tag=rankingspea01-20&keywords=everboom&qid=1722461558&sprefix=everboo%2Caps%2C219&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=72b89bb2cd66ec9e82437e2c0eccf30a&language=en_US&ref_=as_li_ss_tl)]: $250
 - Positives: This speaker may move around as we get better sound samples
 - Negatives: Has an upper bass boost and is tuned warm with rolled off treble. Not very deep bass.
 - App: Yes
@@ -1068,19 +1078,23 @@ Last updated: June 02, 2026
     - [Reddit Search for Ultimate Ears Everboom](https://www.reddit.com/search/?q=Ultimate+Ears+Everboom)
     - [Direct Speakerranking Link](/portable/speakers/Ultimate-Ears-Everboom/)
 
-## #32 Dockin D Fine+
+## #32 Dockin D Fine+: $199
 - Positives: Deeper bass than the non-plus version.
 - App: No
 - Aux Input: Yes
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 285mm x 100mm x 103mm
+- Driver: 2x high-frequency drivers + 2x low-frequency drivers + 2 passive bass radiators
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1930g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=O0YSspRqEoY>
     - <https://www.youtube.com/watch?v=wYjoQjCACcQ>
@@ -1097,13 +1111,17 @@ Last updated: June 02, 2026
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 285mm x 100mm x 103mm
+- Driver: 2x active high-frequency drivers + 2x active midrange drivers + 2 passive bass radiators
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1930g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gz-JI1aDaE8>
     - <https://www.youtube.com/watch?v=XElKWWmN9R8>
@@ -1124,8 +1142,11 @@ Last updated: June 02, 2026
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 110mm x 110mm x 168mm
+- Driver: Twin drivers
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 60W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1139,7 +1160,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Xdobo Bucket /BMTL Bucket / Zicoroop Ts](https://www.reddit.com/search/?q=Xdobo+Bucket+%2FBMTL+Bucket+%2F+Zicoroop+Ts)
     - [Direct Speakerranking Link](/portable/speakers/Xdobo-Bucket-BMTL-Bucket--Zicoroop-Ts/)
 
-## #35 [Marshall Kilburn II](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=se&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl)]: $280
+## #35 [Marshall Kilburn II](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=rankingspea01-20&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Kilburn-Bluetooth-Portable-Speaker/dp/B094MTQLYL?crid=3QFTUQ2CYGHWZ&dib=eyJ2IjoiMSJ9.-h7r6ZTARikwliLzAYp7b0sesnQ2W_iSm7WNW39rzqInSC5d5XsykH-PbJ_aoHaAnLK2tQIXGNbtwwPzX0EbFpWfccC_VBIbIOe8NuFQ5xuM_MtJvjXHcrTltooU86qZtzMxqpFrW0rlwXfF7kD2sAzLp60P_3A3esvjpoXA8ZWojHBoYwqp47xQbvG4MTiO6apeisD_EPZmNI6fKrkGYNNcK2-Hx4bEK5HXEbUv0c3_Lxy5e9NHYvMGuzxZpEBXMh3267Tj4DOVWKlJgHJHtwL3S9e9yJx0pKJxwtQRo2w.i-A2hJxE83WLN46GtnEjKKyKj1YjWA73GYqftFF1SMc&dib_tag=rankingspea01-20&keywords=marshall+kilburn+il&qid=1712180046&s=electronics&sprefix=marshall+killb%2Celectronics%2C197&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=407583ca04943d129647db5469ea17db&language=en_US&ref_=as_li_ss_tl)]: $280
 - Negatives: Boosted upper bass, not very detailed, not as deep bass as competitors, upper mids peak. Very low IPX2 water rating. AC charging
 - App: No
 - Aux Input: Yes
@@ -1147,9 +1168,12 @@ Last updated: June 02, 2026
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 243mm x 162mm x 140mm
+- Driver: 1x 4" (102mm) woofer + 2x 20mm dome tweeters
 - EQ: No
 - IP Rating: IPX2
 - Max Volume: 102dB
+- Output Power: 36W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1163,7 +1187,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Marshall Kilburn II](https://www.reddit.com/search/?q=Marshall+Kilburn+II)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Kilburn-II/)
 
-## #36 [JBL Xtreme 4](https://www.amazon.com/JBL-Bluetooth-Waterproof-JBLXTREME4BLKAM-Microfiber/dp/B0DJRWZ8S5?crid=3N8OHR05R5XL4&dib=eyJ2IjoiMSJ9.FbWw_J54v_TkVvrk6JVh2Cr9k3GUze5VZCC9m4u1jTH4LS59P9X1jbkWhBaVWMehX69WH2rSBADnXTgPYBd6sxcfJMPzCeURXIQe5Fr3BxD9t71rXfqR6UvVKdjFXBgT2lEKS15OFQUAG_yezNNGpIdtcC2CLDiDxuY0OWyZpOMilstgG8TqZQ7O89r9z9QRDKeFo46jrEDbsKjJoqm5Hs80CgBTODGJl4gjES-B8Sk.iPT4iHQr0XgAd3-SuTiZenHvHkpS0lmDde6YIp31PTg&dib_tag=se&keywords=xtreme%2B4&qid=1756318907&sprefix=xtreme%2B4%2Caps%2C326&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6c428d3621eba91312b0d8382f7f597f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Waterproof-JBLXTREME4BLKAM-Microfiber/dp/B0DJRWZ8S5?crid=3N8OHR05R5XL4&dib=eyJ2IjoiMSJ9.FbWw_J54v_TkVvrk6JVh2Cr9k3GUze5VZCC9m4u1jTH4LS59P9X1jbkWhBaVWMehX69WH2rSBADnXTgPYBd6sxcfJMPzCeURXIQe5Fr3BxD9t71rXfqR6UvVKdjFXBgT2lEKS15OFQUAG_yezNNGpIdtcC2CLDiDxuY0OWyZpOMilstgG8TqZQ7O89r9z9QRDKeFo46jrEDbsKjJoqm5Hs80CgBTODGJl4gjES-B8Sk.iPT4iHQr0XgAd3-SuTiZenHvHkpS0lmDde6YIp31PTg&dib_tag=se&keywords=xtreme%2B4&qid=1756318907&sprefix=xtreme%2B4%2Caps%2C326&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6c428d3621eba91312b0d8382f7f597f&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808920-REG/jbl_jblxtreme4blkam_xtreme_4_portable_wireless.html?BI=23745&KBID=29189)]: $380
+## #36 [JBL Xtreme 4](https://www.amazon.com/JBL-Bluetooth-Waterproof-JBLXTREME4BLKAM-Microfiber/dp/B0DJRWZ8S5?crid=3N8OHR05R5XL4&dib=eyJ2IjoiMSJ9.FbWw_J54v_TkVvrk6JVh2Cr9k3GUze5VZCC9m4u1jTH4LS59P9X1jbkWhBaVWMehX69WH2rSBADnXTgPYBd6sxcfJMPzCeURXIQe5Fr3BxD9t71rXfqR6UvVKdjFXBgT2lEKS15OFQUAG_yezNNGpIdtcC2CLDiDxuY0OWyZpOMilstgG8TqZQ7O89r9z9QRDKeFo46jrEDbsKjJoqm5Hs80CgBTODGJl4gjES-B8Sk.iPT4iHQr0XgAd3-SuTiZenHvHkpS0lmDde6YIp31PTg&dib_tag=rankingspea01-20&keywords=xtreme%2B4&qid=1756318907&sprefix=xtreme%2B4%2Caps%2C326&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6c428d3621eba91312b0d8382f7f597f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Bluetooth-Waterproof-JBLXTREME4BLKAM-Microfiber/dp/B0DJRWZ8S5?crid=3N8OHR05R5XL4&dib=eyJ2IjoiMSJ9.FbWw_J54v_TkVvrk6JVh2Cr9k3GUze5VZCC9m4u1jTH4LS59P9X1jbkWhBaVWMehX69WH2rSBADnXTgPYBd6sxcfJMPzCeURXIQe5Fr3BxD9t71rXfqR6UvVKdjFXBgT2lEKS15OFQUAG_yezNNGpIdtcC2CLDiDxuY0OWyZpOMilstgG8TqZQ7O89r9z9QRDKeFo46jrEDbsKjJoqm5Hs80CgBTODGJl4gjES-B8Sk.iPT4iHQr0XgAd3-SuTiZenHvHkpS0lmDde6YIp31PTg&dib_tag=rankingspea01-20&keywords=xtreme%2B4&qid=1756318907&sprefix=xtreme%2B4%2Caps%2C326&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=6c428d3621eba91312b0d8382f7f597f&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808920-REG/jbl_jblxtreme4blkam_xtreme_4_portable_wireless.html?BI=23745&KBID=29189)]: $380
 - Positives: Removable battery. Slightly deeper bass than Xtreme 3. Use [this EQ](https://www.instagram.com/p/C4Sqdy8IkDX/) for the best sound quality.
 - Negatives: High priced. Some bass boost. Dip in the upper bass to midrange makes it sound strange which cannot be EQd out. Some upper mids and treble boost at high levels.
 - App: Yes
@@ -1213,6 +1237,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 30cm x 15cm x 12cm
+- Driver: 2x 4.04" subwoofers + drivers
 - EQ: No
 - IP Rating: None
 - Max Volume: 106dB
@@ -1233,7 +1259,7 @@ Last updated: June 02, 2026
     - [Reddit Search for W-King T9](https://www.reddit.com/search/?q=W-King+T9)
     - [Direct Speakerranking Link](/portable/speakers/W-King-T9/)
 
-## #38 Fugoo XL
+## #38 Fugoo XL: $299
 - Positives: Pretty deep bass for the size
 - Negatives: Some midrange honkyness
 - App: No
@@ -1243,7 +1269,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
 - Dimensions: 11.3" x 4.5" x 3.8" (288 x 115 x 97 mm)
-- Driver: 4x tweeters, 2x midwoofers + 2x passive radiators
+- Driver: 2x 62mm (2.4") woofers + 4x 28mm (1.1") tweeters + 2x 105x66mm passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
@@ -1264,7 +1290,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Fugoo XL](https://www.reddit.com/search/?q=Fugoo+XL)
     - [Direct Speakerranking Link](/portable/speakers/Fugoo-XL/)
 
-## #39 [Devialet Mania](https://www.amazon.com/Devialet-Portable-Speaker-High-Fidelity-Connectivity/dp/B0DDWDVT73?dib=eyJ2IjoiMSJ9.LQH5REV2cZ_ksRhX7iIKVKArquDWU7oJ_8XnK3pwrhSImVV_rLBuacEunf6WhghwsYZyufWQm4T4eSPzIq_euWT2QyF15o4JiM3nBXFwMKD_yWkbppCaUAFbgqN3zTgtqRW_LM14n2e82DSVqhy-J6Ay_Yiydsg9a86I1tdmoQrj9zr1rJZRLsbkx4QlEgFQfKf9z4U8Zq_bo85BDNwYz4rUn7M2qmm8rU0ZVtVMEbA.Mnj6ElNRk8SR8AsELQAqTnHGmEy2IVr1UASWl-4k8yg&dib_tag=se&keywords=devialet%2Bmania&qid=1769057099&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3d82fe9e25143ceb56f9ccea248ea677&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Devialet-Portable-Speaker-High-Fidelity-Connectivity/dp/B0DDWDVT73?dib=eyJ2IjoiMSJ9.LQH5REV2cZ_ksRhX7iIKVKArquDWU7oJ_8XnK3pwrhSImVV_rLBuacEunf6WhghwsYZyufWQm4T4eSPzIq_euWT2QyF15o4JiM3nBXFwMKD_yWkbppCaUAFbgqN3zTgtqRW_LM14n2e82DSVqhy-J6Ay_Yiydsg9a86I1tdmoQrj9zr1rJZRLsbkx4QlEgFQfKf9z4U8Zq_bo85BDNwYz4rUn7M2qmm8rU0ZVtVMEbA.Mnj6ElNRk8SR8AsELQAqTnHGmEy2IVr1UASWl-4k8yg&dib_tag=se&keywords=devialet%2Bmania&qid=1769057099&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3d82fe9e25143ceb56f9ccea248ea677&language=en_US&ref_=as_li_ss_tl)]: $800
+## #39 [Devialet Mania](https://www.amazon.com/Devialet-Portable-Speaker-High-Fidelity-Connectivity/dp/B0DDWDVT73?dib=eyJ2IjoiMSJ9.LQH5REV2cZ_ksRhX7iIKVKArquDWU7oJ_8XnK3pwrhSImVV_rLBuacEunf6WhghwsYZyufWQm4T4eSPzIq_euWT2QyF15o4JiM3nBXFwMKD_yWkbppCaUAFbgqN3zTgtqRW_LM14n2e82DSVqhy-J6Ay_Yiydsg9a86I1tdmoQrj9zr1rJZRLsbkx4QlEgFQfKf9z4U8Zq_bo85BDNwYz4rUn7M2qmm8rU0ZVtVMEbA.Mnj6ElNRk8SR8AsELQAqTnHGmEy2IVr1UASWl-4k8yg&dib_tag=rankingspea01-20&keywords=devialet%2Bmania&qid=1769057099&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3d82fe9e25143ceb56f9ccea248ea677&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Devialet-Portable-Speaker-High-Fidelity-Connectivity/dp/B0DDWDVT73?dib=eyJ2IjoiMSJ9.LQH5REV2cZ_ksRhX7iIKVKArquDWU7oJ_8XnK3pwrhSImVV_rLBuacEunf6WhghwsYZyufWQm4T4eSPzIq_euWT2QyF15o4JiM3nBXFwMKD_yWkbppCaUAFbgqN3zTgtqRW_LM14n2e82DSVqhy-J6Ay_Yiydsg9a86I1tdmoQrj9zr1rJZRLsbkx4QlEgFQfKf9z4U8Zq_bo85BDNwYz4rUn7M2qmm8rU0ZVtVMEbA.Mnj6ElNRk8SR8AsELQAqTnHGmEy2IVr1UASWl-4k8yg&dib_tag=rankingspea01-20&keywords=devialet%2Bmania&qid=1769057099&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=3d82fe9e25143ceb56f9ccea248ea677&language=en_US&ref_=as_li_ss_tl)]: $800
 - Positives: Small, nice looking.
 - Negatives: Not very loud. Extremely high price. Bass boosted. Tweeters are not aimed at you and there's a huge treble rolloff off-axis as compared to the Beoplay P6 in the comparison video. Only 10 hours of battery. Oluv didn't like the upper mids or treble (mentioned on his Patreon)
 - App: No
@@ -1301,6 +1327,7 @@ Last updated: June 02, 2026
 
 ## #40 Sony SRS-XB43: $150
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
+- Setup: Try out +3 +6 +3 as an EQ to get it as flat as possible as mentioned in the Alan Ross video
 - App: Yes (Sony Music Center App)
 - Aux Input: Yes
 - Bass Extension (-10dB): 53Hz
@@ -1310,9 +1337,11 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 12.8" x 4.8" x 4.6" (325 x 123 x 117 mm)
-- EQ: No
-- IP Rating: IPX7
+- Driver: 63mm woofer + 12.5mm tweeter + passive radiators
+- EQ: Yes (3 band)
+- IP Rating: IP67
 - Max Volume: 99dB
+- Output Power: 32W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1338,10 +1367,13 @@ Last updated: June 02, 2026
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 12.6" x 4.8" x 4.7"
+- Driver: 2x 70mm woofers + 2x 31mm tweeters + passive radiators
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 101dB
 - MicroSD: Yes
+- Output Power: 90W max / 50W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1403,8 +1435,11 @@ Last updated: June 02, 2026
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 15.76" x 9.84" x 9.84"
+- Driver: 60W system with multiple drivers
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 60W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1427,6 +1462,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
+- Driver: 2x 76mm (3") woofers + 2x 38mm tweeters + 2x passive radiators
 - EQ: 3 EQ presets
 - IP Rating: IPX6
 - MicroSD: Yes
@@ -1514,6 +1550,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 5.79" x 5.79" x 7.68" (147 x 147 x 195 mm)
+- Driver: 1x 75mm (3") bass driver + 4x 40mm tweeters + 8x passive radiators
 - EQ: No
 - IP Rating: IPX7
 - Output Power: 80W RMS
@@ -1541,6 +1578,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 6.5" high x 4" x 8" footprint
+- Driver: Satellites: 1x 70mm (2.75") mid/bass + 1x 28mm (1.1") tweeter + 2x 72mm passive radiators each; Sub: 1x 130mm (5.1") bass driver
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 104dB
@@ -1620,7 +1659,7 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Xtreme](https://www.reddit.com/search/?q=JBL+Xtreme)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Xtreme/)
 
-## #51 [Doss Soundbox XL](https://www.amazon.com/DOSS-SoundBox-XL-Technologies-Office-Gold/dp/B0CQ4HRF8R?dib=eyJ2IjoiMSJ9.DebfpktUDrr-3tgga79R-qnueR7MMNTfG-Jy9JVRRxu-SgnW0c0MXDxBlmayALujBOh-ppT-RJOUNcOprpfW2Ad8crSWycLKGGFPp6MUChXcvAWuXAnzAahSTC98rsnKCux_5xUG_dDWgaoN13KjYldEKK8y7qRHDI2yUJ9tTOEbiNGV7XDHyFiedDmki-2suvlyebCXew2isjycAM1aHTall80Y5UbPut_fBGdmkIo.G9_17o2bnMOD_2PHnkWiHDCEIYA77yG9zUqloQSolEs&dib_tag=se&keywords=doss%2Bsoundbox%2Bxl&qid=1769057163&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dc571c7819a4da49a2d1cadbad06e1c0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/DOSS-SoundBox-XL-Technologies-Office-Gold/dp/B0CQ4HRF8R?dib=eyJ2IjoiMSJ9.DebfpktUDrr-3tgga79R-qnueR7MMNTfG-Jy9JVRRxu-SgnW0c0MXDxBlmayALujBOh-ppT-RJOUNcOprpfW2Ad8crSWycLKGGFPp6MUChXcvAWuXAnzAahSTC98rsnKCux_5xUG_dDWgaoN13KjYldEKK8y7qRHDI2yUJ9tTOEbiNGV7XDHyFiedDmki-2suvlyebCXew2isjycAM1aHTall80Y5UbPut_fBGdmkIo.G9_17o2bnMOD_2PHnkWiHDCEIYA77yG9zUqloQSolEs&dib_tag=se&keywords=doss%2Bsoundbox%2Bxl&qid=1769057163&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dc571c7819a4da49a2d1cadbad06e1c0&language=en_US&ref_=as_li_ss_tl)]: $90
+## #51 [Doss Soundbox XL](https://www.amazon.com/DOSS-SoundBox-XL-Technologies-Office-Gold/dp/B0CQ4HRF8R?dib=eyJ2IjoiMSJ9.DebfpktUDrr-3tgga79R-qnueR7MMNTfG-Jy9JVRRxu-SgnW0c0MXDxBlmayALujBOh-ppT-RJOUNcOprpfW2Ad8crSWycLKGGFPp6MUChXcvAWuXAnzAahSTC98rsnKCux_5xUG_dDWgaoN13KjYldEKK8y7qRHDI2yUJ9tTOEbiNGV7XDHyFiedDmki-2suvlyebCXew2isjycAM1aHTall80Y5UbPut_fBGdmkIo.G9_17o2bnMOD_2PHnkWiHDCEIYA77yG9zUqloQSolEs&dib_tag=rankingspea01-20&keywords=doss%2Bsoundbox%2Bxl&qid=1769057163&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dc571c7819a4da49a2d1cadbad06e1c0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/DOSS-SoundBox-XL-Technologies-Office-Gold/dp/B0CQ4HRF8R?dib=eyJ2IjoiMSJ9.DebfpktUDrr-3tgga79R-qnueR7MMNTfG-Jy9JVRRxu-SgnW0c0MXDxBlmayALujBOh-ppT-RJOUNcOprpfW2Ad8crSWycLKGGFPp6MUChXcvAWuXAnzAahSTC98rsnKCux_5xUG_dDWgaoN13KjYldEKK8y7qRHDI2yUJ9tTOEbiNGV7XDHyFiedDmki-2suvlyebCXew2isjycAM1aHTall80Y5UbPut_fBGdmkIo.G9_17o2bnMOD_2PHnkWiHDCEIYA77yG9zUqloQSolEs&dib_tag=rankingspea01-20&keywords=doss%2Bsoundbox%2Bxl&qid=1769057163&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dc571c7819a4da49a2d1cadbad06e1c0&language=en_US&ref_=as_li_ss_tl)]: $90
 - Negatives: A little hollow sounding.
 - App: No
 - Aux Input: Yes
@@ -1651,7 +1690,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Doss Soundbox XL](https://www.reddit.com/search/?q=Doss+Soundbox+XL)
     - [Direct Speakerranking Link](/portable/speakers/Doss-Soundbox-XL/)
 
-## #52 [Klipsch Detroit](https://www.amazon.com/Klipsch-Detroit-Portable-Bluetooth-Speaker/dp/B0CJ9XJVGL?crid=2J1MQKXQHC0UC&dib=eyJ2IjoiMSJ9.4TTUZdt31NY9lyqYFq7Z3Q1tUvmuhj7dXTKd0mEtsIreWeSUR6TrucBRROX8eWHGDGx3rVyQMa3kdH_DdFMHYu7_Wsq5KB-0VPAzDpTe5wmBoMNLXEC8_bY_1u7VzUZA7lt538NZpS76BtyVZiuhGp-IkRmAy0pYsyWl6xtZpii4ijfrjuosq1FG5F8vBZER4DcFuV0irfJR_Srd2x7GcMI1BqnPi34c6wZGGk2XvlI.7K4c6S0ptPFJF9B6micKXeYa7ucdo7jox-_C0IQkCyI&dib_tag=se&keywords=klipsch+detroit&qid=1718937746&sprefix=klipsch+destroit%2Caps%2C179&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=2811092960a4687eb95b573fbeff741f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Detroit-Portable-Bluetooth-Speaker/dp/B0CJ9XJVGL?crid=2J1MQKXQHC0UC&dib=eyJ2IjoiMSJ9.4TTUZdt31NY9lyqYFq7Z3Q1tUvmuhj7dXTKd0mEtsIreWeSUR6TrucBRROX8eWHGDGx3rVyQMa3kdH_DdFMHYu7_Wsq5KB-0VPAzDpTe5wmBoMNLXEC8_bY_1u7VzUZA7lt538NZpS76BtyVZiuhGp-IkRmAy0pYsyWl6xtZpii4ijfrjuosq1FG5F8vBZER4DcFuV0irfJR_Srd2x7GcMI1BqnPi34c6wZGGk2XvlI.7K4c6S0ptPFJF9B6micKXeYa7ucdo7jox-_C0IQkCyI&dib_tag=se&keywords=klipsch+detroit&qid=1718937746&sprefix=klipsch+destroit%2Caps%2C179&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=2811092960a4687eb95b573fbeff741f&language=en_US&ref_=as_li_ss_tl)]: $300
+## #52 [Klipsch Detroit](https://www.amazon.com/Klipsch-Detroit-Portable-Bluetooth-Speaker/dp/B0CJ9XJVGL?crid=2J1MQKXQHC0UC&dib=eyJ2IjoiMSJ9.4TTUZdt31NY9lyqYFq7Z3Q1tUvmuhj7dXTKd0mEtsIreWeSUR6TrucBRROX8eWHGDGx3rVyQMa3kdH_DdFMHYu7_Wsq5KB-0VPAzDpTe5wmBoMNLXEC8_bY_1u7VzUZA7lt538NZpS76BtyVZiuhGp-IkRmAy0pYsyWl6xtZpii4ijfrjuosq1FG5F8vBZER4DcFuV0irfJR_Srd2x7GcMI1BqnPi34c6wZGGk2XvlI.7K4c6S0ptPFJF9B6micKXeYa7ucdo7jox-_C0IQkCyI&dib_tag=rankingspea01-20&keywords=klipsch+detroit&qid=1718937746&sprefix=klipsch+destroit%2Caps%2C179&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=2811092960a4687eb95b573fbeff741f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Detroit-Portable-Bluetooth-Speaker/dp/B0CJ9XJVGL?crid=2J1MQKXQHC0UC&dib=eyJ2IjoiMSJ9.4TTUZdt31NY9lyqYFq7Z3Q1tUvmuhj7dXTKd0mEtsIreWeSUR6TrucBRROX8eWHGDGx3rVyQMa3kdH_DdFMHYu7_Wsq5KB-0VPAzDpTe5wmBoMNLXEC8_bY_1u7VzUZA7lt538NZpS76BtyVZiuhGp-IkRmAy0pYsyWl6xtZpii4ijfrjuosq1FG5F8vBZER4DcFuV0irfJR_Srd2x7GcMI1BqnPi34c6wZGGk2XvlI.7K4c6S0ptPFJF9B6micKXeYa7ucdo7jox-_C0IQkCyI&dib_tag=rankingspea01-20&keywords=klipsch+detroit&qid=1718937746&sprefix=klipsch+destroit%2Caps%2C179&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=2811092960a4687eb95b573fbeff741f&language=en_US&ref_=as_li_ss_tl)]: $300
 - Negatives: Weird boosted upper bass, bass not very deep. Boosted lower treble, somewhat harsh sounding like most other Klipsch speakers. Not very loud.
 - App: Yes
 - Aux Input: Yes
@@ -1757,6 +1796,7 @@ Last updated: June 02, 2026
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 94dB
+- Output Power: 10W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1834,7 +1874,7 @@ Last updated: June 02, 2026
     - [Reddit Search for B&O Beosound Level](https://www.reddit.com/search/?q=B%26O+Beosound+Level)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beosound-Level/)
 
-## #58 Ultimate Ears Megablast: $240
+## #58 [Ultimate Ears Megablast](https://www.ultimateears.com/products/megablast) [[Ultimate Ears Megablast](https://www.ultimateears.com/products/megablast)]: $240
 - Negatives: Bass is not very deep compared to the competition
 - App: No
 - Aux Input: Yes
@@ -1843,10 +1883,12 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Dimensions: 9.3" height x 3.5" diameter
 - Driver: 2x 55mm fullrange, 2x 25mm tweeters
 - EQ: No
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1867,6 +1909,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.67" x 2.09" x 2.87" (271 x 53 x 73 mm)
+- Driver: 60W: Dual drivers + passive radiator
 - EQ: No
 - Frequency Response: 48Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX5
@@ -1887,7 +1930,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Bogasing S8 Pro](https://www.reddit.com/search/?q=Bogasing+S8+Pro)
     - [Direct Speakerranking Link](/portable/speakers/Bogasing-S8-Pro/)
 
-## #60 LG PN7: $150
+## #60 [LG PN7](https://www.lg.com/us/en/search?q=PN7) [[LG PN7](https://www.lg.com/us/en/search?q=PN7)]: $150
 - Negatives: No deep bass
 - App: No
 - Aux Input: Yes
@@ -1914,7 +1957,7 @@ Last updated: June 02, 2026
     - [Reddit Search for LG PN7](https://www.reddit.com/search/?q=LG+PN7)
     - [Direct Speakerranking Link](/portable/speakers/LG-PN7/)
 
-## #61 Soundcore Rave Neo: $80
+## #61 [Soundcore Rave Neo](https://www.soundcore.com/products/soundcore-rave-neo) [[Soundcore Rave Neo](https://www.soundcore.com/products/soundcore-rave-neo)]: $80
 - Negatives: Muddy with treble rolloff.
 - App: Yes
 - Aux Input: Yes
@@ -1923,6 +1966,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 11" x 6" x 7"
 - Driver: 1x 102mm woofer, 1x 51mm fullrange
 - EQ: Yes
 - IP Rating: IPX7
@@ -1953,6 +1997,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 4.72" x 12.4" x 4.72" (120 x 315 x 120 mm)
+- Driver: 2x 40mm drivers + passive radiators
 - EQ: No
 - Frequency Response: 80Hz - 16kHz (Manufacturer specified)
 - IP Rating: IPX6
@@ -1974,7 +2019,7 @@ Last updated: June 02, 2026
     - [Reddit Search for W-King D9](https://www.reddit.com/search/?q=W-King+D9)
     - [Direct Speakerranking Link](/portable/speakers/W-King-D9/)
 
-## #63 Orange Box: £275
+## #63 [Orange Box](https://www.orangeaudio.com/products/orange-box) [[Orange Box](https://www.orangeaudio.com/products/orange-box)]: £275
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
 - App: No
 - Aux Input: Yes
@@ -2001,7 +2046,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Orange Box](https://www.reddit.com/search/?q=Orange+Box)
     - [Direct Speakerranking Link](/portable/speakers/Orange-Box/)
 
-## #64 Laney F67: $340
+## #64 [Laney F67](https://www.laney.co.uk/products/f67-subwoofer) [[Laney F67](https://www.laney.co.uk/products/f67-subwoofer)]: $340
 - Negatives: Boosted mids bordering on harsh, slightly rolled off treble, very little bass extension. Not stereo. External AC power brick for charging.
 - App: No
 - Aux Input: Yes
@@ -2058,7 +2103,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Treblab HD-Max](https://www.reddit.com/search/?q=Treblab+HD-Max)
     - [Direct Speakerranking Link](/portable/speakers/Treblab-HD-Max/)
 
-## #66 LG Xboom XG7: $120
+## #66 [LG Xboom XG7](https://www.lg.com/us/en/audio/lg-xboom-xg7) [[LG Xboom XG7](https://www.lg.com/us/en/audio/lg-xboom-xg7)]: $120
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - App: No
 - Aux Input: Yes
@@ -2067,7 +2112,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
 - Dimensions: 10.3" x 3.7" x 3.9" (261 x 95 x 98 mm)
-- Driver: 1x racetrack woofer, 1x dome tweeter
+- Driver: 1x 53x93mm (2.1"x3.7") racetrack woofer + 1x 20mm (0.8") dome tweeter
 - EQ: No
 - IP Rating: IPX7
 - Output Power: 40W
@@ -2076,6 +2121,7 @@ Last updated: June 02, 2026
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 2.8 kg
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Lg Xg7 Vs Soundcore Motion+  "CAN LG DEFEAT BEST BUDGET SPEAKER?!"](https://www.youtube.com/watch?v=7KG0dPs-xUQ)
 - Links
@@ -2083,7 +2129,7 @@ Last updated: June 02, 2026
     - [Reddit Search for LG Xboom XG7](https://www.reddit.com/search/?q=LG+Xboom+XG7)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-XG7/)
 
-## #67 LG Xboom Go PL7: $70
+## #67 [LG Xboom Go PL7](https://www.lg.com/us/en/audio/lg-xboom-go-pl7) [[LG Xboom Go PL7](https://www.lg.com/us/en/audio/lg-xboom-go-pl7)]: $70
 - Negatives: 9khz peak. Not good sounding.
 - App: No
 - Aux Input: Yes
@@ -2122,6 +2168,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 12.6" x 4.3" x 6.69" (320 x 109 x 170 mm)
+- Driver: 2x 3.5" (89mm) woofers + 2x 1" (25mm) tweeters + 2x passive bass radiators
 - EQ: No
 - IP Rating: IPX7
 - Output Power: 50W
@@ -2146,6 +2193,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: Specifications not fully listed
 - Driver: 1x 115mm woofer
 - EQ: No
 - Frequency Response: 100Hz - 10kHz (Manufacturer specified)
@@ -2157,6 +2205,7 @@ Last updated: June 02, 2026
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1.5 kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
 - Links
@@ -2164,7 +2213,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Hopestar A6 Pro](https://www.reddit.com/search/?q=Hopestar+A6+Pro)
     - [Direct Speakerranking Link](/portable/speakers/Hopestar-A6-Pro/)
 
-## #70 Soundcore Trance/Rave Mega
+## #70 Soundcore Trance/Rave Mega: $249
 - Negatives: Hugely recessed mids and treble
 - App: No
 - Aux Input: Yes
@@ -2201,6 +2250,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 5.91" x 14.57" x 5.91" (150 x 370 x 150 mm)
+- Driver: 60W dual drivers
 - EQ: No
 - IP Rating: IPX7
 - Output Power: 80W RMS
@@ -2216,7 +2266,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Ortizan M8](https://www.reddit.com/search/?q=Ortizan+M8)
     - [Direct Speakerranking Link](/portable/speakers/Ortizan-M8/)
 
-## #72 Doss Extreme Boom
+## #72 Doss Extreme Boom: $159
 - Negatives: Rolled off treble, barely any bass
 - App: No
 - Aux Input: Yes
@@ -2226,6 +2276,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 12.7" x 4.8" x 7.3" (323 x 120 x 184 mm)
+- Driver: 60W: Dual drivers + passive radiator
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
@@ -2252,6 +2303,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 11.6" x 4.8" x 5.2" (294 x 122 x 132 mm)
+- Driver: 60W: Dual drivers + passive radiator
 - EQ: No
 - IP Rating: IPX6
 - MicroSD: Yes
@@ -2271,7 +2323,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Zealot S67](https://www.reddit.com/search/?q=Zealot+S67)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S67/)
 
-## #74 T&G 118: $31
+## #74 [T&G 118](https://www.tandgaudio.com/products/118-subwoofer) [[T&G 118](https://www.tandgaudio.com/products/118-subwoofer)]: $31
 - Negatives: A lot of distortion above 50%, no bass. Sounds like a clock radio. Just not a good sounding speaker.
 - App: No
 - Aux Input: Yes

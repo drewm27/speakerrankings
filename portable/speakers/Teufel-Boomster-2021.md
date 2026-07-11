@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Teufel Boomster 2021 ranks #30 out of 67 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Teufel Boomster 2021 ranks [#30 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#30-teufel-boomster-2021-teufelaudio-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Teufel Boomster 2021 ranks [#30 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#30-teufel-boomster-2021-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #30 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: €250
+## #30 Teufel Boomster 2021: €250
 - Positives: Pretty balanced sound, slightly warm
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - App: No
@@ -15,8 +15,12 @@ The Teufel Boomster 2021 ranks [#30 out of 67 total Boombox Size Portable Blueto
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 37cm x 18cm x 14.8cm
+- Driver: 1x 110mm (4.3") woofer + 2x 65mm midrange drivers + 2x 20mm tweeters
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX7
+- Output Power: 42W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The PSB Speakers SubSeries 100 ranks #40 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The PSB Speakers SubSeries 100 ranks [#40 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#40-psb-speakers-subseries-100-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The PSB Speakers SubSeries 100 ranks [#40 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#40-psb-speakers-subseries-100-299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #40 PSB Speakers SubSeries 100
+## #40 PSB Speakers SubSeries 100: $299
 - CEA-2010-A Average (40-80Hz): 93.2 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 6.37"H x 6.37"W x 7.87"D (161.8 x 161.8 x 199.9 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 5.25 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

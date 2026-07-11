@@ -12,6 +12,7 @@ The Perlisten Audio R212s ranks [#59 out of 95 total Large Powered Home Subwoofe
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.6"H x 16.1"W x 19.7"D (599.4 x 408.9 x 500.4 mm)
+- Driver: 2x 12" (305mm) drivers
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

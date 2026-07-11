@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Sony SRS-XB12 ranks #37 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony SRS-XB12 ranks [#37 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#37-sony-srs-xb12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SRS-XB12 ranks [#37 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#37-sony-srs-xb12-79) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #37 Sony SRS-XB12
+## #37 Sony SRS-XB12: $79
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
@@ -19,6 +19,7 @@ The Sony SRS-XB12 ranks [#37 out of 44 total Small Size Portable Bluetooth Speak
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 4.5 hours
+- Dimensions: 74mm diameter x 92mm height
 - Driver: 46mm
 - EQ: No
 - IP Rating: IP67

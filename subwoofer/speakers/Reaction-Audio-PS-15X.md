@@ -5,12 +5,13 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Reaction Audio PS-15X ranks #9 out of 10 total Large Passive Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Reaction Audio PS-15X ranks [#9 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#9-reaction-audio-ps-15x-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Reaction Audio PS-15X ranks [#9 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#9-reaction-audio-ps-15x-1999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #9 Reaction Audio PS-15X
+## #9 Reaction Audio PS-15X: $1999
 - CEA-2010-A Average (40-80Hz): 124.6 dB
 - Dimensions: 20.0"H x 18.0"W x 20.0"D (508.0 x 457.2 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Data-bass
@@ -26,6 +27,7 @@ The Reaction Audio PS-15X ranks [#9 out of 10 total Large Passive Home Subwoofer
 - Output SPL at 63 Hz: 125.8 dB
 - Output SPL at 80 Hz: 127.0 dB
 - Passive: Yes
+- Weight: 72kg
 - Links
     - [Reddit Search for Reaction Audio PS-15X](https://www.reddit.com/search/?q=Reaction+Audio+PS-15X)
 

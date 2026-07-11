@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The ELAC SUB3070 ranks #72 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The ELAC SUB3070 ranks [#72 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#72-elac-sub3070-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ELAC SUB3070 ranks [#72 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#72-elac-sub3070-999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #72 ELAC SUB3070
+## #72 ELAC SUB3070: $999
 - CEA-2010-A Average (40-80Hz): 117.9 dB
 - Cabinet Color: black, white, wood
 - Country: Germany
 - Dimensions: 17.13"H x 20.39"W x 18.75"D (435.1 x 517.9 x 476.2 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

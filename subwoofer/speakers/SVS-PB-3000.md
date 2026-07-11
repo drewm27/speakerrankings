@@ -12,6 +12,7 @@ The SVS PB-3000 ranks [#40 out of 95 total Large Powered Home Subwoofers (Over 7
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.9"H x 18.3"W x 23.5"D (556.3 x 464.8 x 596.9 mm)
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

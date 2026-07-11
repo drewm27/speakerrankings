@@ -20,6 +20,7 @@ The Tribit Stormbox Blast ranks [#2 out of 67 total Boombox Size Portable Blueto
 - Bluetooth Version: 5.3
 - Built in Microphone: No
 - Dimensions: 15.75" x 6.3" x 9.06" (400 x 160 x 230 mm)
+- Driver: 2x ~107mm (4.2") woofers + 2x ~25mm tweeters
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7

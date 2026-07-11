@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The ELAC DB63 ranks #20 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The ELAC DB63 ranks [#20 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#20-elac-db63-amazon-crutchfield-used-listings-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ELAC DB63 ranks [#20 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#20-elac-db63-crutchfield-amazon-500) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #20 [ELAC DB63](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)] [[Crutchfield](https://howl.link/8ny2vzcqywxso)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DB63)]: $500
+## #20 [ELAC DB63](https://howl.link/8ny2vzcqywxso) [[Crutchfield](https://howl.link/8ny2vzcqywxso)] [[Amazon](https://www.amazon.com/ELAC-Debut-DB63-BK-Bookshelf-Speakers/dp/B0D9WJQY2D?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=4682f21e4094e9ca3e89b59eef856672&language=en_US&ref_=as_li_ss_tl)]: $500
 - Positives: A class leader at the $500 price point
 - Negatives: 3dB dip at 500hz, 3dB peak at 700hz. Not great in the vertical off-axis
 - Bass Extension (-10dB): 40Hz

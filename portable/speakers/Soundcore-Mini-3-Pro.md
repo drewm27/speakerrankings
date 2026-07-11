@@ -17,6 +17,8 @@ The Soundcore Mini 3 Pro ranks [#8 out of 44 total Small Size Portable Bluetooth
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 2.8" x 2.8" x 3.6"
+- Driver: 52mm full-range driver
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 87dB

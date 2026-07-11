@@ -20,6 +20,7 @@ The Harman Kardon Onyx Studio 8 ranks [#10 out of 67 total Boombox Size Portable
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 10.55" x 11.91" x 6.28" (268 x 302.5 x 159.5 mm)
+- Driver: 2x 75mm woofers + 2x 20mm tweeters
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 96dB

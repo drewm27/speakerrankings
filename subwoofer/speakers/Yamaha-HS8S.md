@@ -12,6 +12,7 @@ The Yamaha HS8S ranks [#23 out of 41 total Small Powered Home Subwoofers (Under 
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 13.75"H x 11.81"W x 15.31"D (349.2 x 300.0 x 388.9 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner

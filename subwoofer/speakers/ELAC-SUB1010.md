@@ -12,6 +12,7 @@ The ELAC SUB1010 ranks [#10 out of 41 total Small Powered Home Subwoofers (Under
 - Cabinet Color: black
 - Country: Germany
 - Dimensions: 14.81"H x 12.18"W x 12.18"D (376.2 x 309.4 x 309.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner

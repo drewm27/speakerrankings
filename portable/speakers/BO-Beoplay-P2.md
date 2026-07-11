@@ -20,6 +20,7 @@ The B&O Beoplay P2 ranks [#16 out of 44 total Small Size Portable Bluetooth Spea
 - Driver: 51mm full-range and 19mm tweeter
 - EQ: Yes
 - IP Rating: None
+- Output Power: 15W RMS (per channel)
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

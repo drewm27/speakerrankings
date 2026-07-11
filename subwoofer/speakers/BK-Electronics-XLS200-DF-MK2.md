@@ -12,8 +12,10 @@ The BK Electronics XLS200-DF MK2 ranks [#125 out of 137 total Medium Powered Hom
 - Cabinet Color: black, white, wood, grey
 - Country: United Kingdom
 - Dimensions: 13.97"H x 11.41"W x 13.38"D (354.8 x 289.8 x 339.9 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 17Hz -6dB+
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 84.2 dB
 - Output SPL at 20 Hz: 89.3 dB
@@ -23,6 +25,7 @@ The BK Electronics XLS200-DF MK2 ranks [#125 out of 137 total Medium Powered Hom
 - Output SPL at 50 Hz: 105.4 dB
 - Output SPL at 63 Hz: 106.9 dB
 - Output SPL at 80 Hz: 107.5 dB
+- Power Output (Watts): 275W RMS
 - Warranty: 2
 - Weight: 38.58lbs / 17.5kg
 - Links

@@ -5,15 +5,16 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Gallo Acoustics TR-1 ranks #29 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Gallo Acoustics TR-1 ranks [#29 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#29-gallo-acoustics-tr-1-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Gallo Acoustics TR-1 ranks [#29 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#29-gallo-acoustics-tr-1-399) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #29 Gallo Acoustics TR-1
+## #29 Gallo Acoustics TR-1: $399
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 102.1 dB
 - Cabinet Color: black
 - Country: Scotland
 - Dimensions: 12.0"H x 10.75"W x 13.5"D (304.8 x 273.1 x 342.9 mm)
 - Discontinued: Yes
+- Driver: 1" (25mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen

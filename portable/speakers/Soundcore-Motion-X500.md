@@ -7,7 +7,7 @@ share-description: "The Soundcore Motion X500 ranks #23 out of 74 total Large Si
 
 The Soundcore Motion X500 ranks [#23 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#23-soundcore-motion-x500-amazon-120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #23 [Soundcore Motion X500](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=se&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=se&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl)]: $120
+## #23 [Soundcore Motion X500](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=rankingspea01-20&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Speaker-Spatial-3-Channel/dp/B0CDLSGDG2?crid=2A8TTM2QZUDX9&dib=eyJ2IjoiMSJ9.jJXbB7tB3ATiUZfUf_eyTEKVJDekM_2ycgjbC3qoqWJd4iJegeTdvGKx4G6u8TryjupazLfCykjSm1OAZf-FhMpTiggaAShgRLEpXEk_oPXgNoRKiRs76FuWMioZQ7IQ4U-ozpeZmvgjwqDMWrwcgdcyiXnjaVnY4cp9rKJSv9O3Da3viKG5hjAtvpdE2RTGGDge0ceO5HT1rNpo_M8jZRj6dKxKrlnQvuEvVJNd0Cw.W__yIK6IEaln7v82fQuv1szi1PMb3L0NHNHrIqtRUc8&dib_tag=rankingspea01-20&keywords=soundcore%2Bx500&qid=1741152784&sprefix=soundcore%2Bx50%2Caps%2C201&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=261ee25e925feebdf6dd2f2ad63a5473&language=en_US&ref_=as_li_ss_tl)]: $120
 - Negatives: A little bright on top, a custom EQ can flatten things out a bit. Peaks at 250hz and dip at 1khz
 - App: Yes
 - Aux Input: Yes
@@ -17,7 +17,7 @@ The Soundcore Motion X500 ranks [#23 out of 74 total Large Size Portable Bluetoo
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 8.7" x 8.0" x 3.2" (220 x 202 x 81 mm)
-- Driver: 2x forward-facing drivers, 1x upward-firing driver
+- Driver: 2x 58mm (2.3") forward-firing full-range drivers + 1x 43mm (1.7") upward-firing driver
 - EQ: Yes
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7

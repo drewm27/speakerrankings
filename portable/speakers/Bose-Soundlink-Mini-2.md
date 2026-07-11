@@ -9,13 +9,17 @@ The Bose Soundlink Mini 2 ranks [#55 out of 131 total Medium Size Portable Bluet
 
 ## #55 [Bose Soundlink Mini 2](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundlink-Mini-Special-Bluetooth-Speaker/dp/B07YBN9XXG/ref=sr_1_4?&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=0037c9ec7e935678d52c1604f32e3b7d&camp=1789&creative=9325)]: $200
 - Negatives: Boosted upper bass like most Bose speakers. Upper treble rolled off. Bass is 2db less boosted than the Mini. Bass doesn't go as deep as others. Failures of the mainboard are common.
+- App: Yes (Bose Connect)
 - Aux Input: Yes
 - Bass Extension (-10dB): ~58Hz
 - Battery Life: 10 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
+- Built in Microphone: Yes
 - Dimensions: 7.1" x 2.0" x 2.3" (180 x 51 x 58 mm)
 - Driver: 2x 33mm fullrange
 - IP Rating: None
+- Power Input: Proprietary connector
 - Stereo: Yes
 - Weight: 1.5lbs / 680g
 - Reviews, Comparisons and Sound Samples

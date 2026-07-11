@@ -17,6 +17,7 @@ The Turtlebox/Turtlebox G2 ranks [#64 out of 67 total Boombox Size Portable Blue
 - Bluetooth Version: 5.0
 - Built in Microphone: No
 - Dimensions: 12.01" x 7.01" x 8.74" (305 x 178 x 222 mm)
+- Driver: 1x 6x9" (152x228mm) woofer + 1x 1" (25mm) titanium tweeter
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes

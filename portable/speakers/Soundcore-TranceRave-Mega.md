@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Soundcore Trance/Rave Mega ranks #70 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Trance/Rave Mega ranks [#70 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#70-soundcore-trancerave-mega) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Trance/Rave Mega ranks [#70 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#70-soundcore-trancerave-mega-249) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #70 Soundcore Trance/Rave Mega
+## #70 Soundcore Trance/Rave Mega: $249
 - Negatives: Hugely recessed mids and treble
 - App: No
 - Aux Input: Yes

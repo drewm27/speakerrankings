@@ -5,15 +5,17 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Wisdom Audio SCS ranks #65 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Wisdom Audio SCS ranks [#65 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#65-wisdom-audio-scs-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Wisdom Audio SCS ranks [#65 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#65-wisdom-audio-scs-2999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #65 Wisdom Audio SCS
+## #65 Wisdom Audio SCS: $2999
 - CEA-2010-A Average (40-80Hz): 112.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 22.5"H x 37.0"W x 7.0"D (571.5 x 939.8 x 177.8 mm)
+- Driver: 2x 5" (127mm) woofers in a Regenerative Transmission Line configuration
 - Driver(s): (2) 5 inch
 - Enclosure: ported, side
+- Frequency Response: 20-80Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 100.7 dB
 - Output SPL at 25 Hz: 104.6 dB
@@ -21,6 +23,7 @@ The Wisdom Audio SCS ranks [#65 out of 137 total Medium Powered Home Subwoofers 
 - Output SPL at 40 Hz: 109.1 dB
 - Output SPL at 50 Hz: 112.6 dB
 - Output SPL at 63 Hz: 114.6 dB
+- Power Output (Watts): 400W RMS
 - Weight: 72.0lbs / 32.7kg
 - Links
     - [Wisdom Audio SCS Website](https://www.wisdomaudio.com/product/scs/)

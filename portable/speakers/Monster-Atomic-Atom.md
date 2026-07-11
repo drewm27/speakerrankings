@@ -7,7 +7,7 @@ share-description: "The Monster Atomic Atom ranks #27 out of 44 total Small Size
 
 The Monster Atomic Atom ranks [#27 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#27-monster-atomic-atom-amazon-40) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #27 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl)]: $40
+## #27 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=rankingspea01-20&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=rankingspea01-20&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl)]: $40
 - Positives: Very small, one of the smallest in the small class and good performance based on the size and weight. Nice magnetic clip with hole for hanging
 - Negatives: For the small class, lacking quite a bit of bass compared to the top ranked speakers
 - App: No
@@ -18,6 +18,7 @@ The Monster Atomic Atom ranks [#27 out of 44 total Small Size Portable Bluetooth
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Charging Time: 2 hours
+- Dimensions: 2.56" x 1.88" x 1.26"
 - Driver: 33mm
 - EQ: No
 - IP Rating: IPX5

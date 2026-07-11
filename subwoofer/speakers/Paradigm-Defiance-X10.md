@@ -12,8 +12,10 @@ The Paradigm Defiance X10 ranks [#112 out of 137 total Medium Powered Home Subwo
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 16.43"H x 15.0"W x 16.43"D (417.3 x 381.0 x 417.3 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 24-240Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 76.7 dB
 - Output SPL at 25 Hz: 92.2 dB
@@ -22,6 +24,7 @@ The Paradigm Defiance X10 ranks [#112 out of 137 total Medium Powered Home Subwo
 - Output SPL at 50 Hz: 107.0 dB
 - Output SPL at 63 Hz: 110.6 dB
 - Output SPL at 80 Hz: 109.5 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 3
 - Weight: 42.0lbs / 19.1kg
 - Links

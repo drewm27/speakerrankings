@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Monitor Audio BRW10 ranks #13 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monitor Audio BRW10 ranks [#13 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#13-monitor-audio-brw10-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monitor Audio BRW10 ranks [#13 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#13-monitor-audio-brw10-699) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #13 Monitor Audio BRW10
+## #13 Monitor Audio BRW10: $699
 - CEA-2010-A Average (40-80Hz): 107.0 dB
 - Cabinet Color: wood
 - Country: United Kingdom
 - Dimensions: 12.62"H x 12.62"W x 13.37"D (320.5 x 320.5 x 339.6 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen

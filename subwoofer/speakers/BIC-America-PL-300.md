@@ -12,8 +12,10 @@ The BIC America PL-300 ranks [#47 out of 137 total Medium Powered Home Subwoofer
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.0"H x 15.25"W x 18.75"D (457.2 x 387.3 x 476.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 15-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 108.8 dB
 - Output SPL at 125 Hz: 106.8 dB
@@ -24,6 +26,7 @@ The BIC America PL-300 ranks [#47 out of 137 total Medium Powered Home Subwoofer
 - Output SPL at 50 Hz: 116.3 dB
 - Output SPL at 63 Hz: 113.5 dB
 - Output SPL at 80 Hz: 110.9 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 8/5
 - Weight: 48.0lbs / 21.8kg
 - Links

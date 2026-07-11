@@ -12,6 +12,7 @@ The JTR Speakers Captivator RS1 ranks [#38 out of 95 total Large Powered Home Su
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.0"H x 21.0"W x 18.0"D (533.4 x 533.4 x 457.2 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

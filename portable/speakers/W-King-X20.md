@@ -14,16 +14,20 @@ The W-King X20 ranks [#26 out of 67 total Boombox Size Portable Bluetooth Speake
 - Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 50.6cm x 21.7cm x 27cm
+- Driver: 7.5" subwoofer + drivers
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112dB
 - MicroSD: Yes
+- Output Power: 330W peak / 200W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 7200g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)

@@ -13,6 +13,7 @@ The Doss Soundbox Pro ranks [#125 out of 131 total Medium Size Portable Bluetoot
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Driver: 52mm dual woofers + passive radiators
 - IP Rating: IPX6
 - MicroSD: Yes
 - Output Power: 20W

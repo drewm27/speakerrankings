@@ -12,8 +12,10 @@ The Starke Sound SW12 ranks [#43 out of 137 total Medium Powered Home Subwoofers
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.7"H x 14.9"W x 16.7"D (398.8 x 378.5 x 424.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 16-240Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 114.0 dB
 - Output SPL at 125 Hz: 112.1 dB
@@ -25,6 +27,7 @@ The Starke Sound SW12 ranks [#43 out of 137 total Medium Powered Home Subwoofers
 - Output SPL at 50 Hz: 115.6 dB
 - Output SPL at 63 Hz: 114.2 dB
 - Output SPL at 80 Hz: 113.7 dB
+- Power Output (Watts): 450W RMS
 - Weight: 39.5lbs / 17.9kg
 - Links
     - [Starke Sound SW12 Website](https://www.starkesound.com/detail.html?id=41)

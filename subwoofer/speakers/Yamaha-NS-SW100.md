@@ -12,6 +12,7 @@ The Yamaha NS-SW100 ranks [#22 out of 41 total Small Powered Home Subwoofers (Un
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 13.87"H x 13.87"W x 16.12"D (352.3 x 352.3 x 409.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, side
 - Measurement Source: ErinsAudioCorner

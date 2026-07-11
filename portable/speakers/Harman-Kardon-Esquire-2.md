@@ -15,11 +15,13 @@ The Harman Kardon Esquire 2 ranks [#114 out of 131 total Medium Size Portable Bl
 - Built in Microphone: Yes
 - Dimensions: 7.5" x 5.1" x 1.3" (190 x 130 x 34 mm)
 - Driver: 4x 1.25" full-range drivers
+- IP Rating: IPX4
 - Output Power: 16W
 - Power Bank: Yes
 - Power Input: Micro USB
 - Stereo: No
 - TWS: No
+- Weight: 0.35 kg
 - Reviews, Comparisons and Sound Samples
     - [Dynamic District: Harman Kardon Esquire 2 review](https://www.youtube.com/watch?v=HXhIh7a-vE0)
 - Links

@@ -12,6 +12,7 @@ The Klipsch RP-1600SW ranks [#49 out of 95 total Large Powered Home Subwoofers (
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.39"H x 23.5"W x 27.35"D (594.1 x 596.9 x 694.7 mm)
+- Driver: 16" (406mm) driver
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

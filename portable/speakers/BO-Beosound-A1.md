@@ -14,11 +14,15 @@ The B&O Beosound A1 ranks [#9 out of 131 total Medium Size Portable Bluetooth Sp
 - Aux Input: Yes
 - Bass Extension (-10dB): 50Hz
 - Battery Life: 24 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC, AAC, aptX Adaptive
 - Built in Microphone: Yes
+- Driver: 15mm tweeter + 83mm mid/bass driver
 - EQ: Yes
 - IP Rating: IP67
 - Max Volume: 99dB
+- Output Power: 60W total (30W each driver)
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - USB Audio: Yes
 - Weight: 1.3lbs / 589g

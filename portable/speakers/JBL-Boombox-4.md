@@ -7,7 +7,7 @@ share-description: "The JBL Boombox 4 ranks #15 out of 67 total Boombox Size Por
 
 The JBL Boombox 4 ranks [#15 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#15-jbl-boombox-4-amazon-bhphotovideo-550) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #15 [JBL Boombox 4](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1911831-REG/jbl_jblboombox4blkam_boombox_4_portable_waterproof.html?BI=23745&KBID=29189)]: $550
+## #15 [JBL Boombox 4](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=rankingspea01-20&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=rankingspea01-20&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1911831-REG/jbl_jblboombox4blkam_boombox_4_portable_waterproof.html?BI=23745&KBID=29189)]: $550
 - Positives: Pretty insane output capability for the size.
 - Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
 - App: Yes
@@ -17,12 +17,15 @@ The JBL Boombox 4 ranks [#15 out of 67 total Boombox Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
 - Built in Microphone: No
+- Dimensions: 51cm x 26cm x 21cm
+- Driver: 2x 123mm woofers + 2x 20mm tweeters with passive radiators
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP68
 - Max Volume: 115dB
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 210W AC / 200W battery
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord

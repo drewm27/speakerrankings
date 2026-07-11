@@ -16,9 +16,12 @@ The JBL Boombox 3 Wifi ranks [#18 out of 67 total Boombox Size Portable Bluetoot
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 484mm x 256mm x 200mm
+- Driver: 1x 189mm subwoofer + 2x 81mm woofers + 2x 20mm tweeters
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 111dB
+- Output Power: 200W AC / 140W battery
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cable

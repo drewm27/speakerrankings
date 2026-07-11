@@ -5,15 +5,16 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Sony GTK-XB72 ranks #39 out of 42 total Party Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony GTK-XB72 ranks [#39 out of 42 total Party Size Portable Bluetooth Speakers](/portable/party/#39-sony-gtk-xb72) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony GTK-XB72 ranks [#39 out of 42 total Party Size Portable Bluetooth Speakers](/portable/party/#39-sony-gtk-xb72-349) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #39 Sony GTK-XB72
+## #39 Sony GTK-XB72: $349
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~56Hz
 - Battery Life: 23 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Driver: 10cm driver + passive radiators
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)

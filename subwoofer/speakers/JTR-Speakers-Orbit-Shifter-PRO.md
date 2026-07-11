@@ -13,6 +13,7 @@ The JTR Speakers Orbit Shifter PRO ranks [#1 out of 95 total Large Powered Home 
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 45.0"H x 22.5"W x 32.0"D (1143.0 x 571.5 x 812.8 mm)
+- Driver: Dual 18" (457mm) drivers
 - Driver(s): (1) 18 inch
 - Enclosure: horn
 - Measurement Source: Data-bass

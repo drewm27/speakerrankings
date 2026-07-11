@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Genelec 7070A ranks #89 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Genelec 7070A ranks [#89 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#89-genelec-7070a-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Genelec 7070A ranks [#89 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#89-genelec-7070a-4995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #89 Genelec 7070A
+## #89 Genelec 7070A: $4995
 - CEA-2010-A Average (40-80Hz): 112.0 dB
 - Country: Finland
 - Dimensions: 24.61"H x 21.85"W x 19.29"D (625.1 x 555.0 x 490.0 mm)
 - Discontinued: Yes
+- Driver: 7" (178mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Ilkka Rissanen

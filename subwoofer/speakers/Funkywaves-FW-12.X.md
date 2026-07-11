@@ -5,12 +5,13 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Funkywaves FW 12.X ranks #76 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Funkywaves FW 12.X ranks [#76 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#76-funkywaves-fw-12x-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Funkywaves FW 12.X ranks [#76 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#76-funkywaves-fw-12x-999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #76 Funkywaves FW 12.X
+## #76 Funkywaves FW 12.X: $999
 - CEA-2010-A Average (40-80Hz): 116.7 dB (avg of 3/4 bands)
 - Dimensions: 24.0"H x 14.5"W x 24.0"D (609.6 x 368.3 x 609.6 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

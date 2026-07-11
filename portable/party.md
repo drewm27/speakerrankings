@@ -16,11 +16,11 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
-## #1 [JBL Partybox Stage 320](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $550
+## #1 [JBL Partybox Stage 320](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=rankingspea01-20&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=rankingspea01-20&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $550
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
@@ -62,6 +62,7 @@ Last updated: June 02, 2026
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Charging Time: 3.5 hours
+- Driver: 2x 6.5" (165mm) woofers + 2x 2.5" (65mm) tweeters
 - EQ: Yes (3 band)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -91,7 +92,7 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Partybox 310](https://www.reddit.com/search/?q=JBL+Partybox+310)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-310/)
 
-## #3 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl)] [[Ebay refurbished](https://www.ebay.com/itm/396295454697?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fcvEHSiGikHJHN7%2Bphdgw6QBLYOovpUdRpupUis6UfBROTCb23Y97%2BzKhZgOV92qP1T0Gbf16oYSM%2FyyxvYoKIl9GFJmp3wcEiImTknU1078LfsJUb26pvz9%2BtMLQnwjNneANuVf0%2FhP4DQpjAm9ovEnMCqRxf3qoL4pqeMMexgzpSKlAqZqevOPYAtFTl0dk%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $400
+## #3 [JBL Partybox Club 120](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=rankingspea01-20&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=rankingspea01-20&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl)] [[Ebay refurbished](https://www.ebay.com/itm/396295454697?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fcvEHSiGikHJHN7%2Bphdgw6QBLYOovpUdRpupUis6UfBROTCb23Y97%2BzKhZgOV92qP1T0Gbf16oYSM%2FyyxvYoKIl9GFJmp3wcEiImTknU1078LfsJUb26pvz9%2BtMLQnwjNneANuVf0%2FhP4DQpjAm9ovEnMCqRxf3qoL4pqeMMexgzpSKlAqZqevOPYAtFTl0dk%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $400
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Quite neutral sound. deeper bass than the 100 and 110. Removable battery.
 - Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
@@ -134,6 +135,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.2
 - Charging Time: 6.5 hours
 - Dimensions: 11.34" x 21.69" x 11.42" (288 x 551 x 290 mm)
+- Driver: 2x 5.25" (133mm) woofers + 2x 2.25" (57mm) tweeters
 - EQ: No
 - Frequency Response: 45Hz - 18kHz (Manufacturer specified)
 - Guitar Input: Yes
@@ -222,6 +224,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Dimensions: 27" x 13" x 12.7" (685.8 x 330.2 x 322.6 mm)
+- Driver: 2x 6.5" (165mm) woofers + 3x 2.25" (57mm) tweeters
 - EQ: No
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes
@@ -242,7 +245,7 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Partybox 300](https://www.reddit.com/search/?q=JBL+Partybox+300)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-300/)
 
-## #7 [Electro-Voice Everse 12](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
+## #7 [Electro-Voice Everse 12](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=rankingspea01-20&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=rankingspea01-20&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
 - Positives: Good midrange and treble. The best sounding extremely loud speaker available.
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes
@@ -283,6 +286,7 @@ Last updated: June 02, 2026
 - Bass Extension (-10dB): 48Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: Dual 1.5" compression drivers (tweeters) + 2x 4" woofers + passive radiators (PA system configuration)
 - EQ: Yes
 - IP Rating: IPX6
 - Microphone Input: Yes
@@ -348,6 +352,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Charging Time: 5 hours
 - Dimensions: 13.1" x 9.4" x 11" (332.7 x 238.8 x 279.4 mm)
+- Driver: 1x 6" (152mm) woofer + 3x 2.25" (57mm) tweeters
 - EQ: Yes
 - IP Rating: None
 - Max Volume: 109dB
@@ -387,6 +392,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Charging Time: 3 hours
 - Dimensions: 12.32" x 27.28" x 14.45" (313 x 693 x 367 mm)
+- Driver: 2x 170mm woofers + 3x 60mm front tweeters + 1x 50mm rear tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
@@ -417,6 +423,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Charging Time: 3 hours
 - Dimensions: 10.83" x 22.52" x 11.61" (275 x 572 x 295 mm)
+- Driver: 2x 140mm woofers + 2x 50mm tweeters
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None
@@ -443,6 +450,7 @@ Last updated: June 02, 2026
 - Aux Input: Yes
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 8" (203mm) woofer + drivers
 - EQ: No
 - FM Tuner: Yes
 - Guitar Input: Yes
@@ -464,13 +472,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Onn Large Party gen 2](https://www.reddit.com/search/?q=Onn+Large+Party+gen+2)
     - [Direct Speakerranking Link](/portable/speakers/Onn-Large-Party-gen-2/)
 
-## #14 [Soundcore Rave 3/3s](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=se&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=se&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1902333-REG/soundcore_by_anker_a31a3012_rave_3s_ai_karaoke.html?BI=23745&KBID=29189)]: $350
+## #14 [Soundcore Rave 3/3s](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=rankingspea01-20&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/soundcore-Wireless-Microphones-Playtime-Bluetooth/dp/B0DCJV2PVW?crid=15BPQUO5K86M0&dib=eyJ2IjoiMSJ9.RUJztMxWWXCMZsgP3FgVZSyoC2crnSicp99YwaUBADSpeePKet68FTdZ_Ql6TjV-hqQhr_pMVAYN0WOv5sPpQB0d7NECRRLBHbrsll5Z5Z4AFj1A5bf_uIkIltuygg4r8YJ16shyyyMUxhAwr2ZaBERgeTZGZ8AsjSZ5bWUfwslkLUGs2kN0CyRehV62GPZ23DY5A6IZUbhH-4p7_keY99rfnachvq3zBFFVfNydG6w.Da2og8DQqjQjpHcRhKgP0yjIWzsaBSa2gKJqs3Wad60&dib_tag=rankingspea01-20&keywords=soundcore+rave+3&qid=1743136987&sprefix=soundcore+rave%2Caps%2C307&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=ee45c5d5b396e2e5c7126ee11c3cf836&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1902333-REG/soundcore_by_anker_a31a3012_rave_3s_ai_karaoke.html?BI=23745&KBID=29189)]: $350
 - Positives: 2 AA battery Wireless Microphones and remote control included. AI voice removal feature for Karaoke
 - Negatives: Some upper bass and upper mids boost. Not as deep of bass as a Partybox 110/120
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 1x 6.5" (165mm) woofer + 3x 2.5" (63mm) full-range drivers
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -494,7 +503,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Soundcore Rave 3/3s](https://www.reddit.com/search/?q=Soundcore+Rave+3%2F3s)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave-33s/)
 
-## #15 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=se&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl)]: $378
+## #15 [LG XL7](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=rankingspea01-20&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-Portable-Speaker-Lighting-Battery/dp/B0BYBD6WM2?crid=1LUVJTA0EGGRA&dib=eyJ2IjoiMSJ9.23Dou_uYn1WpFqcUAafhoVB6pY78JFbLxTbE_ziTeVaZ86K0e9eStJ0QmKA4qQDFKxbbuZdjZ8WeHXHVGMATrY2WSPuujyw7nqQ9yUPDpZrDjPXRqZAa-hWqZAs5ijDhmFA16FneOgoOXhLXyfRgFO_AzHA7u3YT3jxB-NbMPzqTKrANVHK9zDK694QxoCPJrUxBv5rWBEKoc6gU9GUkthvAP5HWjgudU0abXlt61gM.i7xbm1LiqnKUTJ3LrNry0HUp54j5ljw0hNHuVOzw2X0&dib_tag=rankingspea01-20&keywords=lg%2Bxl7&qid=1729628058&sprefix=lg%2Bxl7%2Caps%2C300&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b3eff0d30187af3e6a4793f687fe197a&language=en_US&ref_=as_li_ss_tl)]: $378
 - Positives: Wheels and handle. Cool customizable lighting
 - Negatives: Treble is recessed, bass isn't as deep as a Partybox 310. Upper bass boosted.
 - App: Yes
@@ -523,13 +532,14 @@ Last updated: June 02, 2026
     - [Reddit Search for LG XL7](https://www.reddit.com/search/?q=LG+XL7)
     - [Direct Speakerranking Link](/portable/speakers/LG-XL7/)
 
-## #16 [Klipsch Gig XXL](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=se&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl)]: $130
+## #16 [Klipsch Gig XXL](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=rankingspea01-20&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Gig-XXL-Black-Portable/dp/B0BY39T13D?crid=1U4KJ0CSY2KMR&dib=eyJ2IjoiMSJ9.fe4faifJ0oIUFhRtbPI-0Bxj0FEq5aAd5ULR8pbN4vpPn5UuXkdPxCiX_H5B954kp5FD_YjBgehRWp2PPU4-HVU72xq6ict4dkrrW0DUOHqtS-tMhYD2LvsFK0QLhXAAgPcC-cvoJVk7VRxM5koqx9YdVzJoOWrg6v6fb9B46ih0XZUuettHSBZicmIrTKVAEd36ycnDijIcLTEuQxGDIaMhIHEV0Km96TsRyvZvI0A.dQxRP6DXMy111BnZ_OzI7HnX_W7MqS3z001bI8m1m3c&dib_tag=rankingspea01-20&keywords=Klipsch%2BGig%2BXXL&qid=1729540239&sprefix=klipsch%2Bgig%2Bxxl%2Caps%2C220&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=12f26e45422873fd67a5d36af55b4c24&language=en_US&ref_=as_li_ss_tl)]: $130
 - Positives: Really amazing value for the money
 - Negatives: Not quite as clean sounding as the top ranked speakers. Not quite as deep of bass Partybox 110. Bass gets muddy at high volume. Low battery life. No water rating
 - App: No
 - Aux Input: Yes
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 8" (203mm) Cerametallic woofer + horn tweeter
 - EQ: No
 - Guitar Input: Yes
 - IP Rating: None
@@ -650,6 +660,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Dimensions: 11.81" x 21.26" x 11.02" (300 x 540 x 280 mm)
+- Driver: 2x 40mm tweeters + 2x 50mm woofers + passive radiators
 - EQ: No
 - IP Rating: None
 - Max Volume: 115dB
@@ -713,6 +724,7 @@ Last updated: June 02, 2026
 - Bass Extension (-10dB): 52Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 2x 10" (254mm) woofers + 1x 1" (25mm) compression tweeter with horn
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IP65
@@ -890,7 +902,7 @@ Last updated: June 02, 2026
     - [Reddit Search for W-King T9 Pro](https://www.reddit.com/search/?q=W-King+T9+Pro)
     - [Direct Speakerranking Link](/portable/speakers/W-King-T9-Pro/)
 
-## #28 [JBL Eon One Compact](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=se&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=se&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl)]: $630
+## #28 [JBL Eon One Compact](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=rankingspea01-20&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34?dib=eyJ2IjoiMSJ9.yISu8m17fK6QZlltOnZHrtC_UMtaDU_ii0_CUWWrX1Piuy6OPalG5F-cAxyVv0fkW2BZZ_W6VZ_ORREjSfc0-od96FZK-OR59bghnKTDgACCFfl8Px0fcvpeOz9E5DVc6WFw_etoL1Qby0LBeqM0DwXPnt_GtYjM91REK3MsCaHQsTGWCZYSnWBq0Gz1ZayN4tOExBKnAiOIcjkpj_sfzhcA6Npt8ECVdYdwKnqUqdNYQ3FsbO21w7lNVbSYrMP_3pmhTd2fVSnSLpHzqTi1bMlyiR2p-21UhjqjICQc4xs.4dzmxLYEcAjcJw9kY3ZqEbRrC0xq-DalKoKZ-O5KYC4&dib_tag=rankingspea01-20&keywords=jbl%2Beon%2Bone&qid=1769324268&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ac509489f604b0429b6d00e460d7d89f&language=en_US&ref_=as_li_ss_tl)]: $630
 - Negatives: Quite distorted at full volume. Treble is quite rolled off, not much clarity. Not stereo.
 - App: No
 - Aux Input: Yes
@@ -945,7 +957,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Diamondboxx L2](https://www.reddit.com/search/?q=Diamondboxx+L2)
     - [Direct Speakerranking Link](/portable/speakers/Diamondboxx-L2/)
 
-## #30 dB technologies B-Hype M: $450
+## #30 [dB technologies B-Hype M](https://www.dbtechnologies.com/products/b-hype-m) [[dB technologies B-Hype M](https://www.dbtechnologies.com/products/b-hype-m)]: $450
 - Negatives: No deep bass. Clarity is unknown for reasons of bad recordings. Not stereo.
 - App: No
 - Aux Input: Yes
@@ -974,13 +986,14 @@ Last updated: June 02, 2026
     - [Reddit Search for dB technologies B-Hype M](https://www.reddit.com/search/?q=dB+technologies+B-Hype+M)
     - [Direct Speakerranking Link](/portable/speakers/dB-technologies-B-Hype-M/)
 
-## #31 Onn Large Party gen 1: $100
+## #31 [Onn Large Party gen 1](https://www.walmart.com/ip/onn-large-party-speaker) [[Onn Large Party gen 1](https://www.walmart.com/ip/onn-large-party-speaker)]: $100
 - Negatives: Bass is not deep, some midrange peaks. Sounds boxy at higher volumes. Gets distorted at high volume.
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 8" (203mm) woofer + drivers
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Party Sync Mode)
@@ -999,7 +1012,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Onn Large Party gen 1](https://www.reddit.com/search/?q=Onn+Large+Party+gen+1)
     - [Direct Speakerranking Link](/portable/speakers/Onn-Large-Party-gen-1/)
 
-## #32 Philips NX200
+## #32 Philips NX200: $299
 - Negatives: No deep bass, mids are a little harsh
 - App: No
 - Aux Input: Yes
@@ -1026,7 +1039,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Philips NX200](https://www.reddit.com/search/?q=Philips+NX200)
     - [Direct Speakerranking Link](/portable/speakers/Philips-NX200/)
 
-## #33 Panasonic SC-TMAX10
+## #33 Panasonic SC-TMAX10: $349
 - Negatives: Not as deep bass as others in the class
 - App: No
 - Aux Input: Yes
@@ -1054,7 +1067,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Panasonic SC-TMAX10](https://www.reddit.com/search/?q=Panasonic+SC-TMAX10)
     - [Direct Speakerranking Link](/portable/speakers/Panasonic-SC-TMAX10/)
 
-## #34 Panasonic SC-TMAX5
+## #34 Panasonic SC-TMAX5: $249
 - Positives: Sounds reasonable, a few upper mid peaks
 - Negatives: Not as deep bass as others in the class
 - App: No
@@ -1081,7 +1094,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Panasonic SC-TMAX5](https://www.reddit.com/search/?q=Panasonic+SC-TMAX5)
     - [Direct Speakerranking Link](/portable/speakers/Panasonic-SC-TMAX5/)
 
-## #35 Sharp PS-929: $150
+## #35 [Sharp PS-929](https://www.sharpusa.com/products/ps-929) [[Sharp PS-929](https://www.sharpusa.com/products/ps-929)]: $150
 - Negatives: Not very deep bass
 - App: No
 - Bass Extension (-10dB): ~60Hz
@@ -1107,7 +1120,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Sharp PS-929](https://www.reddit.com/search/?q=Sharp+PS-929)
     - [Direct Speakerranking Link](/portable/speakers/Sharp-PS-929/)
 
-## #36 Soundcore Rave+: $240
+## #36 [Soundcore Rave+](https://www.soundcore.com/products/soundcore-rave-plus) [[Soundcore Rave+](https://www.soundcore.com/products/soundcore-rave-plus)]: $240
 - Negatives: Pretty big lack of deep bass
 - App: No
 - Aux Input: Yes
@@ -1116,6 +1129,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Dimensions: 21.65" x 12.6" x 12.2" (550 x 320 x 310 mm)
+- Driver: 2x 5.25" (133mm) woofers + 2x 2" (51mm) tweeters
 - EQ: No
 - IP Rating: None
 - Output Power: 160W
@@ -1133,13 +1147,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Soundcore Rave+](https://www.reddit.com/search/?q=Soundcore+Rave%2B)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave+/)
 
-## #37 Soundcore Rave: $220
+## #37 [Soundcore Rave](https://www.soundcore.com/products/soundcore-rave) [[Soundcore Rave](https://www.soundcore.com/products/soundcore-rave)]: $220
 - Negatives: Pretty big lack of deep bass, treble rolled off
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 60W: Multiple drivers + passive radiators
 - EQ: No
 - IP Rating: None
 - Party Mode: No
@@ -1156,13 +1171,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Soundcore Rave](https://www.reddit.com/search/?q=Soundcore+Rave)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Rave/)
 
-## #38 Sony GTK-XB90
+## #38 Sony GTK-XB90: $429
 - Negatives: Bass is muddy and not deep, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~50Hz
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Driver: 12cm drivers + passive radiators
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
@@ -1180,13 +1196,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Sony GTK-XB90](https://www.reddit.com/search/?q=Sony+GTK-XB90)
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB90/)
 
-## #39 Sony GTK-XB72
+## #39 Sony GTK-XB72: $349
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~56Hz
 - Battery Life: 23 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Driver: 10cm driver + passive radiators
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
@@ -1202,13 +1219,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Sony GTK-XB72](https://www.reddit.com/search/?q=Sony+GTK-XB72)
     - [Direct Speakerranking Link](/portable/speakers/Sony-GTK-XB72/)
 
-## #40 Sony GTK-XB60
+## #40 Sony GTK-XB60: $299
 - Negatives: No deep bass at all, weird midrange peak, rolled off treble and overall strange tuning
 - App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60Hz
 - Battery Life: 14 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC, LDAC
+- Driver: 8cm driver + passive radiators
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (Partychain up to 100 speakers)
@@ -1232,6 +1250,7 @@ Last updated: June 02, 2026
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60Hz
 - Bluetooth Codecs: SBC
+- Driver: 1x 5" woofer + passive radiators
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None
@@ -1257,6 +1276,7 @@ Last updated: June 02, 2026
 - Bass Extension (-10dB): ~60Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 6.5" (165mm) woofer + tweeters
 - EQ: No
 - IP Rating: None
 - Party Mode: No

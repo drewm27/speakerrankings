@@ -14,7 +14,11 @@ The Braven XXL 2 ranks [#60 out of 67 total Boombox Size Portable Bluetooth Spea
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 22" x 9" x 8"
+- Driver: 60W dual drivers
 - EQ: No
+- IP Rating: IPX5
+- Output Power: 100W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

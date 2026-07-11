@@ -13,6 +13,7 @@ The Monoprice Monolith 16 THX Ultra ranks [#12 out of 95 total Large Powered Hom
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 25.6"H x 22.0"W x 28.1"D (650.2 x 558.8 x 713.7 mm)
+- Driver: 16" (406mm) driver
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

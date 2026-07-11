@@ -20,6 +20,7 @@ The Soundcore Motion+ ranks [#3 out of 131 total Medium Size Portable Bluetooth 
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
+- Driver: 2x 70mm (2.75") neodymium woofers + 2x silk dome tweeters + 2x passive radiators
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7

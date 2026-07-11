@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Soundcore Rave Neo ranks #61 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Soundcore Rave Neo ranks [#61 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#61-soundcore-rave-neo-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Soundcore Rave Neo ranks [#61 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#61-soundcore-rave-neo-soundcore-rave-neo-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #61 Soundcore Rave Neo: $80
+## #61 [Soundcore Rave Neo](https://www.soundcore.com/products/soundcore-rave-neo) [[Soundcore Rave Neo](https://www.soundcore.com/products/soundcore-rave-neo)]: $80
 - Negatives: Muddy with treble rolloff.
 - App: Yes
 - Aux Input: Yes
@@ -16,6 +16,7 @@ The Soundcore Rave Neo ranks [#61 out of 74 total Large Size Portable Bluetooth 
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 11" x 6" x 7"
 - Driver: 1x 102mm woofer, 1x 51mm fullrange
 - EQ: Yes
 - IP Rating: IPX7

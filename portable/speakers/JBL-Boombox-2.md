@@ -17,12 +17,15 @@ The JBL Boombox 2 ranks [#27 out of 67 total Boombox Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 140ms
 - Built in Microphone: No
+- Dimensions: 48.5cm x 20.1cm x 25.7cm
+- Driver: 2x 81mm woofers + 2x 20mm tweeters with passive radiators
 - EQ: No
 - FM Tuner: No
 - IP Rating: IPX7
 - Max Volume: 108dB
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 160W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick

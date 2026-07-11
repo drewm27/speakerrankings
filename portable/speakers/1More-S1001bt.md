@@ -12,15 +12,20 @@ The 1More S1001bt ranks [#28 out of 131 total Medium Size Portable Bluetooth Spe
 - Negatives: Not stereo. Somewhat bass boosted, and more of a warm sound. Quite bassy off axis.
 - App: Yes
 - Aux Input: Yes
+- Bass Extension (-10dB): 70Hz (with DSP Virtual Bass)
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Bluetooth Latency: No aptX/LHDC support (standard SBC latency)
 - Bluetooth Version: 4.2
+- Built in Microphone: Yes
 - Driver: 84mm woofer, 19mm tweeter
 - EQ: Yes
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
+- Max Volume: Approx 85dB
 - Output Power: 30W
 - Party Mode: No
+- Power Bank: Yes
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes

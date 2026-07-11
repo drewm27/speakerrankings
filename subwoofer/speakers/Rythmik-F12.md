@@ -12,8 +12,10 @@ The Rythmik F12 ranks [#51 out of 137 total Medium Powered Home Subwoofers (30â€
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.75"H x 15.75"W x 17.0"D (400.0 x 400.0 x 431.8 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 14Hz extension
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 95.0 dB
 - Output SPL at 20 Hz: 97.6 dB
@@ -23,6 +25,7 @@ The Rythmik F12 ranks [#51 out of 137 total Medium Powered Home Subwoofers (30â€
 - Output SPL at 50 Hz: 113.1 dB
 - Output SPL at 63 Hz: 114.4 dB
 - Output SPL at 80 Hz: 113.6 dB
+- Power Output (Watts): 370W RMS
 - Warranty: 5/3
 - Weight: 75.0lbs / 34.0kg
 - Links

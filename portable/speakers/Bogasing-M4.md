@@ -15,10 +15,13 @@ The Bogasing M4 ranks [#24 out of 131 total Medium Size Portable Bluetooth Speak
 - Bass Extension (-10dB): 54Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: 150ms
+- Bluetooth Version: 5.0
+- Driver: 52mm speaker unit
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 99dB
 - MicroSD: Yes
+- Output Power: 40W
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes

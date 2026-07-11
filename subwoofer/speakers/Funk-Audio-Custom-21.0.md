@@ -13,6 +13,7 @@ The Funk Audio Custom 21.0 ranks [#10 out of 95 total Large Powered Home Subwoof
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 22.75"H x 22.25"W x 20.5"D (577.9 x 565.1 x 520.7 mm)
+- Driver: 21" (533mm) driver
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass

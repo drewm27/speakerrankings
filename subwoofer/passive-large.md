@@ -10,15 +10,16 @@ This page ranks 10 large passive subwoofers weighing over 75 lbs. Passive subwoo
 
 Also check out [Small Passive Subwoofers](/subwoofer/passive-small/) (under 30 lbs) and [Medium Passive Subwoofers](/subwoofer/passive-medium/) (30–75 lbs). For powered subwoofers see [Small Powered](/subwoofer/powered-small/), [Medium Powered](/subwoofer/powered-medium/), and [Large Powered](/subwoofer/powered-large/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
 
-## #1 WW Speaker Cabinets X21 - B&C 21DS115-4
+## #1 WW Speaker Cabinets X21 - B&C 21DS115-4: $3995
 - CEA-2010-A Average (40-80Hz): 131.3 dB
 - Dimensions: 24.0"H x 32.0"W x 32.0"D (609.6 x 812.8 x 812.8 mm)
 - Discontinued: Yes
+- Driver: 21" (533mm) driver
 - Driver(s): (1) 21 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -39,12 +40,13 @@ Last updated: June 02, 2026
     - [Reddit Search for WW Speaker Cabinets X21 - B&C 21DS115-4](https://www.reddit.com/search/?q=WW+Speaker+Cabinets+X21+-+B%26C+21DS115-4)
     - [Direct Speakerranking Link](/subwoofer/speakers/WW-Speaker-Cabinets-X21---BC-21DS115-4/)
 
-## #2 JTR Speakers Growler (2015)
+## #2 JTR Speakers Growler (2015): $2995
 - Notes: Looks like "PA sub"
 - CEA-2010-A Average (40-80Hz): 130.2 dB
 - Country: United States
 - Dimensions: 22.5"H x 30.0"W x 20.0"D (571.5 x 762.0 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -68,6 +70,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 44.0"H x 59.5"W x 16.0"D (1117.6 x 1511.3 x 406.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: tapped horn
 - Measurement Source: Data-bass
@@ -96,6 +99,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 26.0"H x 60.5"W x 21.0"D (660.4 x 1536.7 x 533.4 mm)
+- Driver: Dual 24" (610mm) drivers
 - Driver(s): (1) 24 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -118,6 +122,7 @@ Last updated: June 02, 2026
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 22.5"H x 22.0"W x 20.5"D (571.5 x 558.8 x 520.7 mm)
+- Driver: 18" (381mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
@@ -141,12 +146,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Funk Audio Classic 18.0](https://www.reddit.com/search/?q=Funk+Audio+Classic+18.0)
     - [Direct Speakerranking Link](/subwoofer/speakers/Funk-Audio-Classic-18.0/)
 
-## #6 JBL 4645C
+## #6 JBL 4645C: $4999
 - CEA-2010-A Average (40-80Hz): 127.3 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 39.75"H x 26.5"W x 17.75"D (1009.6 x 673.1 x 450.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -167,10 +173,11 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL 4645C](https://www.reddit.com/search/?q=JBL+4645C)
     - [Direct Speakerranking Link](/subwoofer/speakers/JBL-4645C/)
 
-## #7 Reaction Audio PV-15X
+## #7 Reaction Audio PV-15X: $1999
 - CEA-2010-A Average (40-80Hz): 126.2 dB
 - Dimensions: 18.0"H x 22.0"W x 29.0"D (457.2 x 558.8 x 736.6 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Data-bass
@@ -185,14 +192,16 @@ Last updated: June 02, 2026
 - Output SPL at 63 Hz: 126.1 dB
 - Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
+- Weight: 68kg
 - Links
     - [Reddit Search for Reaction Audio PV-15X](https://www.reddit.com/search/?q=Reaction+Audio+PV-15X)
     - [Direct Speakerranking Link](/subwoofer/speakers/Reaction-Audio-PV-15X/)
 
-## #8 Chase Home Theater SS18.1
+## #8 Chase Home Theater SS18.1: $2499
 - CEA-2010-A Average (40-80Hz): 125.2 dB
 - Dimensions: 22.0"H x 24.0"W x 22.0"D (558.8 x 609.6 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
@@ -213,10 +222,11 @@ Last updated: June 02, 2026
     - [Reddit Search for Chase Home Theater SS18.1](https://www.reddit.com/search/?q=Chase+Home+Theater+SS18.1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Chase-Home-Theater-SS18.1/)
 
-## #9 Reaction Audio PS-15X
+## #9 Reaction Audio PS-15X: $1999
 - CEA-2010-A Average (40-80Hz): 124.6 dB
 - Dimensions: 20.0"H x 18.0"W x 20.0"D (508.0 x 457.2 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Data-bass
@@ -232,14 +242,16 @@ Last updated: June 02, 2026
 - Output SPL at 63 Hz: 125.8 dB
 - Output SPL at 80 Hz: 127.0 dB
 - Passive: Yes
+- Weight: 72kg
 - Links
     - [Reddit Search for Reaction Audio PS-15X](https://www.reddit.com/search/?q=Reaction+Audio+PS-15X)
     - [Direct Speakerranking Link](/subwoofer/speakers/Reaction-Audio-PS-15X/)
 
-## #10 Chase Home Theater VS18.1
+## #10 Chase Home Theater VS18.1: $2699
 - CEA-2010-A Average (40-80Hz): 124.5 dB
 - Dimensions: 22.0"H x 40.0"W x 22.0"D (558.8 x 1016.0 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -254,6 +266,7 @@ Last updated: June 02, 2026
 - Output SPL at 63 Hz: 124.5 dB
 - Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
+- Weight: 85kg
 - Links
     - [Reddit Search for Chase Home Theater VS18.1](https://www.reddit.com/search/?q=Chase+Home+Theater+VS18.1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Chase-Home-Theater-VS18.1/)

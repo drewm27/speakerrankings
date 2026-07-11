@@ -14,16 +14,20 @@ The Onn Medium Party Speaker Gen 2 ranks [#39 out of 67 total Boombox Size Porta
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 9.61" x 10.94" x 15.08"
+- Driver: 8" (203mm) woofer + tweeters
 - EQ: No
 - FM Tuner: No
 - IP Rating: IPX7
 - Microphone Input: Yes
+- Output Power: 50W RMS / 200W peak
 - Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
+- Weight: 5 kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs Medium Party Speaker Gen 2 🤜🤛A Family Feud🔌Plugged In Bass Boost On](https://www.youtube.com/watch?v=9dIs_4-nSfI)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)

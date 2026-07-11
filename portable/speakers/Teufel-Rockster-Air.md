@@ -16,6 +16,7 @@ The Teufel Rockster Air ranks [#20 out of 42 total Party Size Portable Bluetooth
 - Bluetooth Codecs: aptX, SBC
 - Bluetooth Version: 4.0
 - Dimensions: 11.81" x 21.26" x 11.02" (300 x 540 x 280 mm)
+- Driver: 2x 40mm tweeters + 2x 50mm woofers + passive radiators
 - EQ: No
 - IP Rating: None
 - Max Volume: 115dB

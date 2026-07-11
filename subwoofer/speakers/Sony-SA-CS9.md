@@ -12,6 +12,7 @@ The Sony SA-CS9 ranks [#15 out of 41 total Small Powered Home Subwoofers (Under 
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 13.58"H x 11.61"W x 15.74"D (344.9 x 294.9 x 399.8 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth

@@ -12,8 +12,10 @@ The ELAC PS350 ranks [#63 out of 137 total Medium Powered Home Subwoofers (30–
 - Cabinet Color: black
 - Country: Germany
 - Dimensions: 17.2"H x 16.37"W x 16.45"D (436.9 x 415.8 x 417.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 24-150Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 85.5 dB
 - Output SPL at 25 Hz: 99.4 dB
@@ -22,6 +24,7 @@ The ELAC PS350 ranks [#63 out of 137 total Medium Powered Home Subwoofers (30–
 - Output SPL at 50 Hz: 112.5 dB
 - Output SPL at 63 Hz: 114.1 dB
 - Output SPL at 80 Hz: 110.9 dB
+- Power Output (Watts): 350W RMS
 - Weight: 48.06lbs / 21.8kg
 - Links
     - [ELAC PS350 Website](https://www.elac.com/series/varro/premium/ps350-12-subwoofer/)

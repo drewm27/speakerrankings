@@ -14,10 +14,10 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power station](/portable-power-stations/). For karaoke, check out [Karaoke Setups](/karaoke-setups/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
-## #1 [Earfun Uboom X](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
+## #1 [Earfun Uboom X](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=rankingspea01-20&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone) and he knocked it out of the park again. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every single volume level due to Oluv's individual EQ settings at each volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L.
 - Negatives: The out of the box 0.33 firmware and EQ sounds horrible. Some people have mentioned sound interruption issues when using 2 in TWS, I don't have this issue with my Pixel 7 Pro, try disabling AAC in that case
 - Setup: Please update it using the Earfun app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) and select an Oluv EQ. The Earfun app has sound profiles created by Oluv for [Studio, Indoor, Indoor+, Outdoor, Outdoor+, BOOM xxX, and Ground 0](https://www.reddit.com/r/Bluetooth_Speakers/comments/1jbzt2m/the_truth_about_the_earfun_uboom_x_and_my_part/) which are all fantastic. Oluv has a newer [firmware pack](https://www.patreon.com/oluvsone/shop/earfun-uboom-x-custom-firmware-pack-039-1868710) that brings it up a few more notches of neutral
@@ -31,6 +31,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
+- Driver: 2x 102mm (4") woofers + 2x 20mm tweeters
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -102,6 +103,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: No
 - Dimensions: 15.75" x 6.3" x 9.06" (400 x 160 x 230 mm)
+- Driver: 2x ~107mm (4.2") woofers + 2x ~25mm tweeters
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
@@ -171,6 +173,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
+- Driver: 1x 130mm (5") subwoofer + 2x 70mm midrange drivers + 2x 20mm tweeters
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103dB
@@ -206,6 +209,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.4
 - Built in Microphone: No
 - Dimensions: 12.58" x 13.33" x 10.35" (319.5 x 338.6 x 263 mm)
+- Driver: 1x 135mm (5.25") woofer + 2x 20mm (0.75") dome tweeters
 - EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110dB
@@ -233,7 +237,7 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Partybox Encore 2](https://www.reddit.com/search/?q=JBL+Partybox+Encore+2)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Partybox-Encore-2/)
 
-## #5 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=se&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875203-REG/jbl_jblpbencoreess2am_partybox_encore_essential_100w.html?BI=23745&KBID=29189)]: $230
+## #5 [JBL Partybox Encore Essential 2](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=rankingspea01-20&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Encore-Essential-Battery-Powered/dp/B0FK6FRSM8?crid=2OGUUJNS4X2L7&dib=eyJ2IjoiMSJ9.LcibA7DemutyZCg-7nUtEw6Rek3u3yGV0W9r2xuWPNvWQH_mYOlrzD1vO4NEA8bvYwwP8-X6K--aV9cZSSU66LZC5VJ6CekJBlF0uuUpInIbvc8OD3Brhy45PM0fXHNxhWyClqZiZ4yR3L2jkTUWT8rQiAg9LU0cVX-VO0IKQVeMf3psX5MEI_xy3GmrgMvMFrT8UhfhHHhkdnnBCXVM5zRB1kbEC8_k-3EtLl4nn9A.fIL_bbwkdearlRo5Ur_c4Y3f22P0OwKmZwBQBLU5Rnk&dib_tag=rankingspea01-20&keywords=encore+essential+2&qid=1769324423&sprefix=encore+essential+%2Caps%2C229&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=c883b1b189d5675b48bcd6318909de43&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1875203-REG/jbl_jblpbencoreess2am_partybox_encore_essential_100w.html?BI=23745&KBID=29189)]: $230
 - Positives: Appears to have better off axis performance due to the move to dome tweeters over cone. A little less rolled off in the highs than the first Encore. Goes slightly deeper than the old Encore. Better battery life than the first Encore.
 - Negatives: Missing a little bit of upper bass. No wireless Microphones like the non-Essential
 - App: Yes (JBL PartyBox app)
@@ -243,6 +247,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.4
 - Built in Microphone: No
 - Dimensions: 12.58" x 13.46" x 10.25" (319.5 x 342 x 260.4 mm)
+- Driver: 1x 135mm (5.25") woofer + 2x 20mm (0.75") dome tweeters
 - EQ: Yes (7 band App EQ)
 - Guitar Input: Yes
 - IP Rating: IPX4
@@ -277,6 +282,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.1
 - Built in Microphone: No
 - Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
+- Driver: 135mm woofer + 2x 20mm tweeters
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110dB
@@ -319,6 +325,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.1
 - Built in Microphone: No
 - Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
+- Driver: 135mm woofer + 2x 44mm tweeters
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110dB
@@ -348,10 +355,13 @@ Last updated: June 02, 2026
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 19.4" x 7.5" x 11.7"
+- Driver: 6.5" dual voice coil woofer + 2x 3" midwoofers + 2x 1" silk dome tweeters
 - EQ: Yes (5-band graphic EQ + 4 presets)
 - FM Tuner: No
 - IP Rating: None
 - Microphone Input: Yes (with adapter)
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cable
@@ -380,8 +390,10 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.1
 - Built in Microphone: No
 - Dimensions: 10.55" x 3.54" x 14.25" (268 x 90 x 362 mm)
+- Driver: 2x 94mm woofers + 2x 50mm midrange + 2x 28mm tweeters + 4 passive radiators
 - EQ: No
 - IP Rating: None
+- Output Power: 100W
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick
@@ -413,6 +425,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 10.55" x 11.91" x 6.28" (268 x 302.5 x 159.5 mm)
+- Driver: 2x 75mm woofers + 2x 20mm tweeters
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 96dB
@@ -446,6 +459,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 5.04" x 11.46" x 11.18" (128 x 291 x 284 mm)
+- Driver: 2x 75mm woofers + 2x 20mm tweeters
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 96dB
@@ -469,7 +483,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Harman Kardon Onyx Studio 6](https://www.reddit.com/search/?q=Harman+Kardon+Onyx+Studio+6)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-6/)
 
-## #12 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=se&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl)]: $134
+## #12 [Harman Kardon Onyx Studio 7](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=rankingspea01-20&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Harman-Kardon-Bluetooth-Wireless-Portable/dp/B09435JXSL?crid=34VU9HKQP6KXZ&dib=eyJ2IjoiMSJ9.75djy8hmyKK7huVlYla6qfV7q3JtDQ1sj-NUwmlc1_G3PsupQzmu5Vrfk6CuVpRcwTKnLY6kk8yDXRrmOytwIs3bhYPGFufF8cCCJWyXy11AMXcOncWcnK_gSmAKM3sTMllNWRLIGbRSuM9bOh5f3VHrAvIPmuke1FEa6YDZCdxGWFtcqG4cAuyUXfkcKVz6hOMi-269YpgSayl8nGTHzQ0Enst_UUuDOI3dd9GesQK_79d1hqnvuiiAYBoAQ0bHwyNrhpHJ4mSXwDHmbMDy1feiQMIJjXolzgRMFhbG-YE.3nrcKnghAW7MV8LYHlODEUWtu7FDCDfRJsd1khx8-NE&dib_tag=rankingspea01-20&keywords=onyx+studio+7&qid=1715974807&s=electronics&sprefix=onyx+studio%2Celectronics%2C210&sr=1-1&linkCode=ll1&tag=rankingspea01-20&linkId=ca4c0f34314e310764ac3384a288a299&language=en_US&ref_=as_li_ss_tl)]: $134
 - Positives: Warm sound with boosted bass.
 - Negatives: Sounds a little sterile. 8 hour battery at medium volume, teeny bit less bass than the Onyx 6. Not at loud as others. No water rating.
 - App: No
@@ -480,9 +494,12 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 266ms
 - Built in Microphone: Yes
+- Dimensions: 11.25" x 11.25" (round design)
+- Driver: 2x 75mm woofers + 2x 20mm tweeters
 - EQ: No
 - IP Rating: None
 - Max Volume: 96dB
+- Output Power: 50W RMS
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No
 - Power Input: AC Power brick
@@ -501,7 +518,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Harman Kardon Onyx Studio 7](https://www.reddit.com/search/?q=Harman+Kardon+Onyx+Studio+7)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Onyx-Studio-7/)
 
-## #13 [Zealot ZE21](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
+## #13 [Zealot ZE21](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=rankingspea01-20&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
 - Positives: The absolute best value for the bass performance, play time and max volume in the boombox class.
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
@@ -510,10 +527,13 @@ Last updated: June 02, 2026
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 424mm x 262mm x 363mm
+- Driver: 130W subwoofer + 2x 50mm woofers + passive radiators
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 116dB
 - MicroSD: Yes
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -531,7 +551,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Zealot ZE21](https://www.reddit.com/search/?q=Zealot+ZE21)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-ZE21/)
 
-## #14 [Zealot S89](https://s.click.aliexpress.com/e/_c3VYQaUb) [[Aliexpress](https://s.click.aliexpress.com/e/_c3VYQaUb)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Subwoofer-Waterproof/dp/B0FJ8HBQS8?crid=1CO7NSHNL917Y&dib=eyJ2IjoiMSJ9.Uda4wl_LdSRpp6SN-fRuocJaY0CvYeLynMV1R6rrmkLQkh-Y7uLQruI4J5r9o_FT7m5JmYc4YyPu6_ESpZAd6Bmc0lUthPNnRCT9Z4RE3ZF3V7UjochldDftmSIWkvW5qPGyZOfwISHJ1wDSXgQLwQE7PRBM_nLAOLKHlpO0SdtDXVgv8hE-x7gq-jSHQKaWq_Uzvz5Mqwzg3mrQIKHXPv50lw3JHQ-9X-iysgGe0lk.wxRT_hfU42Ax2V6qMOM7OKiC0lsf_o9zylWTv_fqc_s&dib_tag=se&keywords=zealot%2Bs89&qid=1767856123&sprefix=zealot%2Bs89%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2ad823e37ae7c0efb92519e32ab46d18&language=en_US&ref_=as_li_ss_tl)]: $160
+## #14 [Zealot S89](https://s.click.aliexpress.com/e/_c3VYQaUb) [[Aliexpress](https://s.click.aliexpress.com/e/_c3VYQaUb)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Subwoofer-Waterproof/dp/B0FJ8HBQS8?crid=1CO7NSHNL917Y&dib=eyJ2IjoiMSJ9.Uda4wl_LdSRpp6SN-fRuocJaY0CvYeLynMV1R6rrmkLQkh-Y7uLQruI4J5r9o_FT7m5JmYc4YyPu6_ESpZAd6Bmc0lUthPNnRCT9Z4RE3ZF3V7UjochldDftmSIWkvW5qPGyZOfwISHJ1wDSXgQLwQE7PRBM_nLAOLKHlpO0SdtDXVgv8hE-x7gq-jSHQKaWq_Uzvz5Mqwzg3mrQIKHXPv50lw3JHQ-9X-iysgGe0lk.wxRT_hfU42Ax2V6qMOM7OKiC0lsf_o9zylWTv_fqc_s&dib_tag=rankingspea01-20&keywords=zealot%2Bs89&qid=1767856123&sprefix=zealot%2Bs89%2Caps%2C157&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2ad823e37ae7c0efb92519e32ab46d18&language=en_US&ref_=as_li_ss_tl)]: $160
 - Positives: A great value for the bass performance, play time and max volume in the boombox class. Likely the same internals as the Zealot ZE21
 - Negatives: On the heavy side. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
@@ -540,9 +560,12 @@ Last updated: June 02, 2026
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 538mm x 265mm x 240mm
+- Driver: 130W subwoofer + 2x 40mm drivers + 2x tweeters
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -561,7 +584,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Zealot S89](https://www.reddit.com/search/?q=Zealot+S89)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-S89/)
 
-## #15 [JBL Boombox 4](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=se&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1911831-REG/jbl_jblboombox4blkam_boombox_4_portable_waterproof.html?BI=23745&KBID=29189)]: $550
+## #15 [JBL Boombox 4](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=rankingspea01-20&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Boombox-Waterproof-Multi-Speaker-Connection/dp/B0F1H9CTPQ?crid=2MC2ANBV5DSAT&dib=eyJ2IjoiMSJ9.itCulEQwbnB6xbKBsWH4Kjjv64aMVqG6ffmFHbSVV6_1_w1wy3wIZCMHGDV0xJsp4_CB1uPtzv658R25kwBjmjDyDQYdzo8jcc4JOuNTbuOSd-ufJ0G44muz6MX_iE4gdCuNbKB3pzJKVQX8fURpK7d9YbRuTe_UQvN04UKbaWkSo4czEk5rmd2Fyh2VrUu-OVWIU-Q3CtgPe8aNbe8YXfFn5LJxQvN9vi3M6sItNHk.QefttY1ExrJD9KIytaMiYPgwU7E9AlJowh1F1qvWrPU&dib_tag=rankingspea01-20&keywords=boombox%2B4&qid=1759945803&sprefix=boombox%2B%2Caps%2C348&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=c46d6057a9c55c571cc797a3372430c4&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1911831-REG/jbl_jblboombox4blkam_boombox_4_portable_waterproof.html?BI=23745&KBID=29189)]: $550
 - Positives: Pretty insane output capability for the size.
 - Negatives: Pretty overpriced for the category. Better than the Boombox 3 mostly because there are more 7 EQ bands instead of just 3 and it can be better tuned. Try [Oluv's EQ](https://www.patreon.com/posts/jbl-boombox-3-vs-139183841) for it. Out of the box sounds worse than the Boombox 3. No Aux input.
 - App: Yes
@@ -571,12 +594,15 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC, LC3, AAC
 - Bluetooth Latency: AAC 144ms, SBC 48ms
 - Built in Microphone: No
+- Dimensions: 51cm x 26cm x 21cm
+- Driver: 2x 123mm woofers + 2x 20mm tweeters with passive radiators
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP68
 - Max Volume: 115dB
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 210W AC / 200W battery
 - Party Mode: Yes (Auracast)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -614,15 +640,19 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
 - Built in Microphone: Yes
+- Dimensions: 20" x 9" x 9.5"
+- Driver: 2x 90mm (3.5") woofers (front and rear firing) + 2x 20mm tweeters
 - EQ: No
 - IP Rating: None
 - Max Volume: 99dB
+- Output Power: 100W AC / 30W battery
 - Party Mode: Yes (up to 2 speakers)
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
+- Weight: 2.4 kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)
@@ -636,15 +666,18 @@ Last updated: June 02, 2026
     - [Reddit Search for Harman Kardon Go + Play 2](https://www.reddit.com/search/?q=Harman+Kardon+Go+%2B+Play+2)
     - [Direct Speakerranking Link](/portable/speakers/Harman-Kardon-Go-+-Play-2/)
 
-## #17 Harman Kardon Onyx Studio 5
+## #17 Harman Kardon Onyx Studio 5: $399
 - Negatives: Warm sound with boosted bass. 8 hour battery at medium volume. Not at loud as others.
 - App: No
 - Aux Input: Yes
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 11.25" x 11.25"
+- Driver: 2x 75mm woofers + 2x 20mm tweeters
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 50W
 - Party Mode: (Dual Sound up to 2 speakers)
 - Power Bank: No
 - Power Input: AC Power brick
@@ -670,9 +703,12 @@ Last updated: June 02, 2026
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 484mm x 256mm x 200mm
+- Driver: 1x 189mm subwoofer + 2x 81mm woofers + 2x 20mm tweeters
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 111dB
+- Output Power: 200W AC / 140W battery
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cable
@@ -702,12 +738,15 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: No
+- Dimensions: 48.2cm x 25.7cm x 20cm
+- Driver: 1x 189mm subwoofer + 2x 81mm woofers + 2x 20mm tweeters
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 180W AC / 136W battery
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cable
@@ -740,7 +779,7 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Boombox 3](https://www.reddit.com/search/?q=JBL+Boombox+3)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Boombox-3/)
 
-## #20 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=se&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
+## #20 [Tribit Stormbox Blast 2](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=rankingspea01-20&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Bluetooth-StormBox-Subwoofer-Waterproof/dp/B0D9Y7N23T?crid=PNCYMC3K6S03&dib=eyJ2IjoiMSJ9.05aoMM7O7ZH8TQ7PMKy4uly72THUqfzgEs3AIlF7cHUfzcL42pdOxuSAo-GQYXpCPa3gL3ZPmToYtLRlZooVbKNwOx5Zq4JDjT97Rnd1wJrhwFGCagmY-csncEoNwU5u1B0kovD77__hxbJhrQyePMo4TSd-ELCvnyi9sr94okv_Chlco8ZPfBfQkTscDpPcSC-_lHnhFzlgscGT0Hqzc3YjXfhKLAlBVWHoXKlz_eg.0IXyu1HELIqg1dweBhz7bA2u1Jcw-oF4gcrQeQ222fs&dib_tag=rankingspea01-20&keywords=stormbox+blast+2&qid=1729788109&sprefix=stormbox+blast+%2Caps%2C202&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=819e3dd1309e0fbd5fb6ba3fbea9ec98&language=en_US&ref_=as_li_ss_tl)]: $300
 - Positives: Pretty deep bass. Waiting for Alan Ross's review and EQ to adjust the rating.
 - Negatives: Sounds quite muddy with the boosted lower and upper bass. Boosted treble around 6khz. Xbass mode makes it sound even more muddy. Nowhere near as neutral and balanced as the first Blast and a big downgrade unless you only care about max volume
 - Setup: Try the EQ from [Alan Ross at this timestamp of his video](https://youtu.be/Demef0n4E8A?si=KOKmfaoG1M1-_Abi&t=670)
@@ -750,12 +789,15 @@ Last updated: June 02, 2026
 - Battery Life: 30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: No
+- Dimensions: 47.6cm x 19.3cm x 25.9cm
+- Driver: 1x ~180x110mm rectangular subwoofer + 2x ~80mm mid drivers + 2x ~25mm tweeters
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: Yes (2x 6.35mm)
+- Output Power: 200W AC / 180W battery
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power Cable or 10w USB-C
@@ -780,15 +822,18 @@ Last updated: June 02, 2026
     - [Reddit Search for Tribit Stormbox Blast 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Blast+2)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Blast-2/)
 
-## #21 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=se&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
+## #21 [LG Xboom Stage 301](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=rankingspea01-20&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/LG-will-i-am-Signature-Portable-Resistant/dp/B0DZQ76BT2?crid=FJIZXMI5ZHMX&dib=eyJ2IjoiMSJ9.sdFYgKzHOxlzTMuoksbb2XYo07OlvQ6Bf4P9zWSQbzM9x1LgkeOjXAEyH_5ciaWbf-Iy1o1GP9TKF3sXLxL8zsI4RBTFwf2JZoRdIeyKvCe8Pn6IUk7mzngXoyH9DOiQ__ES02SZj8R13hxLBuD2v8AJon5Z8JGRYmiFBfFxljl8b_dsGAnVgMXlDMuJZG3B7aM292YgYweg3Sl46fkpcv7ejr9C9MIYbTP8lEUC6Ew.Bk5ZQDraVsLZsuEzN7qhQzfLPTCLvy9_6XIrNyRMzWc&dib_tag=rankingspea01-20&keywords=lg+xboom+bounce&qid=1747084587&sprefix=lg+xboom+bounc%2Caps%2C218&sr=8-5&linkCode=ll1&tag=rankingspea01-20&linkId=a88c1938bb6ef3191206b5ff3f38d925&language=en_US&ref_=as_li_ss_tl)]: $297
 - Negatives: overpriced for what it is. Not the greatest frequency response.
 - App: Yes (LG Xboom app)
 - Bass Extension (-10dB): 43Hz
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, SBC
 - Built in Microphone: No
+- Dimensions: 220mm x 80mm x 90mm
+- Driver: 6.5" woofer + dual 2.5" midrange drivers (Peerless)
 - EQ: Yes (App EQ)
 - IP Rating: IPX4
+- Output Power: 120W
 - Party Mode: Yes (Auracast)
 - Power Bank: No
 - Power Input: USB-C
@@ -806,7 +851,7 @@ Last updated: June 02, 2026
     - [Reddit Search for LG Xboom Stage 301](https://www.reddit.com/search/?q=LG+Xboom+Stage+301)
     - [Direct Speakerranking Link](/portable/speakers/LG-Xboom-Stage-301/)
 
-## #22 [Zealot S95](https://s.click.aliexpress.com/e/_c4SCb9RH) [[Aliexpress](https://s.click.aliexpress.com/e/_c4SCb9RH)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=se&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl)]: $110
+## #22 [Zealot S95](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=rankingspea01-20&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=rankingspea01-20&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4SCb9RH)]: $110
 - Positives: A good value for the boombox class. Appears to be the same internals as the ZE01. Bigger case and goes deeper than the ZE01
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
@@ -815,9 +860,12 @@ Last updated: June 02, 2026
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 35.8cm x 24.3cm x 16.7cm
+- Driver: 130W subwoofer + dual drivers
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -845,9 +893,12 @@ Last updated: June 02, 2026
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 33.2cm x 28.4cm x 20.7cm
+- Driver: Dual 120mm speakers + dual 42mm speakers
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 120W RMS / 150W peak
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -865,7 +916,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Zealot ZE01](https://www.reddit.com/search/?q=Zealot+ZE01)
     - [Direct Speakerranking Link](/portable/speakers/Zealot-ZE01/)
 
-## #24 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=se&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837382-REG/soundcore_by_anker_a3134011_boom_2_plus_outdoor.html?BI=23745&KBID=29189)]: $200
+## #24 [Soundcore Boom 2 Plus](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=rankingspea01-20&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Waterproof-Portable-Bluetooth-Backyard/dp/B0CZ7DY692?crid=IE5AYHSLBF8B&dib=eyJ2IjoiMSJ9.q0CcVBme3tsw4jFYzWjDlrbDePOYX__iRqOiJ2uoJvOh5RzmQJHu944CLFQqxQR0eSPpDAmzB_CHsCjzOI1XR9OGcPj0cESOU1eOa2OnfOcU4qSIbAoyXQyYXdkFBkZcO9VtU5N6DnlacAMBGqQAg4fIOQdLpDEugWgJWN5xodYjC6TumJQsH9G4mOxVE7oUE8rCEpl73l0nnX5vFwbm7Wb4_L-tyodTh0xPrCiSZN4.anRAUWn2WVLRVXyauybnYtAuRTLzQcdmaH0wAfP-kz4&dib_tag=rankingspea01-20&keywords=soundcore%2Bboom%2B2%2Bplus&qid=1717021922&sprefix=soundcore%2Bboom%2B2%2Bplu%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.9f2cdd2d-df47-45ac-9666-580d6bb0ee10&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=54dff656979e0ca2a3c77fabdec30c5f&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1837382-REG/soundcore_by_anker_a3134011_boom_2_plus_outdoor.html?BI=23745&KBID=29189)]: $200
 - Positives: Quite a bit lighter than most of the other boombox size speakers. This speaker will likely move up as we get a good EQ tune that makes it a lot more neutral.
 - Negatives: Warm tuning meaning a rolled off treble and some upper bass boost. Reasonably deep bass, but not as good as the top ranked.
 - App: Yes
@@ -874,10 +925,13 @@ Last updated: June 02, 2026
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC, AAC
 - Built in Microphone: Yes
+- Dimensions: 44cm x 23cm x 15cm
+- Driver: 2x 114mm (4.5") woofers + 2x 19mm (0.75") tweeters
 - EQ: Yes (Pro EQ + presets)
 - IP Rating: IPX7
 - Max Volume: 111dB
 - MicroSD: No
+- Output Power: 140W
 - Party Mode: Yes (Partycast 2.0)
 - Power Bank: Yes
 - Power Input: USB-C
@@ -908,16 +962,20 @@ Last updated: June 02, 2026
 - Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 50.6cm x 21.7cm x 27cm
+- Driver: 4.5" + 3.5" drivers + 1.2" tweeters
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112dB
 - MicroSD: Yes
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 6500g
 - Wireless Microphones: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
@@ -941,16 +999,20 @@ Last updated: June 02, 2026
 - Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 50.6cm x 21.7cm x 27cm
+- Driver: 7.5" subwoofer + drivers
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112dB
 - MicroSD: Yes
+- Output Power: 330W peak / 200W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 7200g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
@@ -981,12 +1043,15 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 140ms
 - Built in Microphone: No
+- Dimensions: 48.5cm x 20.1cm x 25.7cm
+- Driver: 2x 81mm woofers + 2x 20mm tweeters with passive radiators
 - EQ: No
 - FM Tuner: No
 - IP Rating: IPX7
 - Max Volume: 108dB
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 160W
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick
@@ -1016,10 +1081,13 @@ Last updated: June 02, 2026
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 342mm x 195.6mm x 180.3mm
+- Driver: 1" tweeter + 4" woofer + passive radiators
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 100dB
 - MicroSD: No
+- Output Power: 100W
 - Party Mode: Yes (JBL One)
 - Power Bank: No
 - Power Input: AC Power cable
@@ -1047,8 +1115,12 @@ Last updated: June 02, 2026
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 13.5cm x 23cm x 18.9cm
+- Driver: 2x 30mm tweeters + 2x 40mm mid-range + 1x 60mm woofer + dual passive radiators
 - EQ: Yes (App EQ)
+- IP Rating: IPX4
 - Max Volume: 93dB
+- Output Power: 240W peak
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1066,7 +1138,7 @@ Last updated: June 02, 2026
     - [Reddit Search for B&O Beolit 20](https://www.reddit.com/search/?q=B%26O+Beolit+20)
     - [Direct Speakerranking Link](/portable/speakers/BO-Beolit-20/)
 
-## #30 [Teufel Boomster 2021](https://lu.teufelaudio.com/boomster-106141000) [[Teufelaudio](https://lu.teufelaudio.com/boomster-106141000)]: €250
+## #30 Teufel Boomster 2021: €250
 - Positives: Pretty balanced sound, slightly warm
 - Negatives: Not as deep of bass as above ranked speakers. Boosted mid bass compensating for the lack of bass extension.
 - App: No
@@ -1074,8 +1146,12 @@ Last updated: June 02, 2026
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 37cm x 18cm x 14.8cm
+- Driver: 1x 110mm (4.3") woofer + 2x 65mm midrange drivers + 2x 20mm tweeters
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX7
+- Output Power: 42W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1102,10 +1178,13 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No
+- Dimensions: 470mm x 199mm x 260mm
+- Driver: 2x ~165mm (6.5") woofers + 2x ~63mm (2.5") mid drivers + 2x ~25mm (1") tweeters
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 111dB
 - MicroSD: Yes
+- Output Power: 130W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
@@ -1132,10 +1211,13 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Built in Microphone: No
+- Dimensions: 8.1" deep x 8.64" wide x 17.4" tall
+- Driver: 2x 133mm (5.25") woofers + 2x ~30mm (1.2") tweeters + 2x passive radiators
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 112dB
 - MicroSD: Yes
+- Output Power: 100W RMS / 240W peak
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick
@@ -1161,8 +1243,10 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.91" x 10.24" x 14.41" (277 x 260 x 366 mm)
+- Driver: 6.5" woofer + tweeter
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX5
 - Max Volume: 104dB
 - MicroSD: Yes
 - Output Power: 320W
@@ -1190,8 +1274,11 @@ Last updated: June 02, 2026
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 14.5cm x 37cm x 18cm
+- Driver: 1x 90mm woofer + 2x 65mm midrange drivers + 2x 20mm tweeters
 - EQ: No
 - IP Rating: None
+- Output Power: 38W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1214,9 +1301,13 @@ Last updated: June 02, 2026
 - Bass Extension (-10dB): ~50Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 11.81" x 22.05" x 9.60"
+- Driver: 2x 20mm drivers
 - EQ: Yes (App EQ)
 - FM Tuner: No
+- IP Rating: IP67
 - Max Volume: 104dB
+- Output Power: 60W
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes
@@ -1238,7 +1329,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Skullcandy Barrel](https://www.reddit.com/search/?q=Skullcandy+Barrel)
     - [Direct Speakerranking Link](/portable/speakers/Skullcandy-Barrel/)
 
-## #36 [Sony ULT Field 7](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=se&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl)]: $400
+## #36 [Sony ULT Field 7](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=rankingspea01-20&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-Bluetooth-Waterproof-Hour-Battery-Comfortable/dp/B0CXL5P51Q?crid=14N6S94YJ1CS0&dib=eyJ2IjoiMSJ9.7ABF5f1uo0NdOfifBl44YX5TZO9tizzFlhjce4GgLrfG6OvTY4kMXIAPQKGCw4Q0RTB5rGR3JcW0tM4lRcLonUX0o2QWGvrAK9DPjRa3Q3cfkOKh5boVfreKrMmVOdI6omioCoVC6Ubv2ilYI2_iMVWthVrbmutVT3FtabIdXD09VmPtEnQFFUoeuWFE4XJLNc4ApTIqkiVYyPJCIBlX2ZtD3ADVSWAIbAmuCBmpIfA.9EZaYVlcZ8_NAi8bTtj4wFJj6u0BrSMeTztSzJgB7D4&dib_tag=rankingspea01-20&keywords=sony+ult+field+7&qid=1713216660&sprefix=sony+ult+field+7%2Caps%2C189&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=44e4350e4f055c9b44535e92753d8cc3&language=en_US&ref_=as_li_ss_tl)]: $400
 - Positives: Better sounding than the XG500
 - Negatives: Still not as deep bass as the top ranked speakers. 8khz peak
 - App: No
@@ -1249,10 +1340,12 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 20.16" x 8.82" x 8.74" (512 x 224 x 222 mm)
+- Driver: 2x 114mm x 114mm X-Balanced woofers + 2x 46mm (1.9") tweeters
 - EQ: Yes (App + ULT button)
 - Guitar Input: Yes
 - IP Rating: IP67
 - Microphone Input: Yes
+- Output Power: 100W
 - Party Mode: Yes (Party Connect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cord
@@ -1268,7 +1361,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Sony ULT Field 7](https://www.reddit.com/search/?q=Sony+ULT+Field+7)
     - [Direct Speakerranking Link](/portable/speakers/Sony-ULT-Field-7/)
 
-## #37 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=se&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl)]: $240
+## #37 [Bugani Boost Max](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=rankingspea01-20&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BUGANI-Boost-Max-Bluetooth-Subwoofer/dp/B0D8QB31C3?crid=2KTDOV612DWFW&dib=eyJ2IjoiMSJ9.hrjfcmAixFHJxoTFEosa7P8TXKnGmm2NFbf5falxvpM.eI0hRufzpxQxkSFlTJ8RIzVnacJQaQn9wSFoIV1elWY&dib_tag=rankingspea01-20&keywords=bugani+boost+max&qid=1726809298&sprefix=bugani+boost+%2Caps%2C198&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=fee97388a09fb6c33b0dba764c3ae408&language=en_US&ref_=as_li_ss_tl)]: $240
 - Negatives: Bass not as deep as the top ranked speakers. Some midrange peaks. Poor water rating.
 - App: No
 - Aux Input: Yes
@@ -1277,6 +1370,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: No
 - Dimensions: 16.93" x 7.87" x 8.27" (430 x 200 x 210 mm)
+- Driver: 2x 50mm drivers + passive radiators
 - EQ: No
 - IP Rating: IPX6
 - Microphone Input: Yes
@@ -1305,9 +1399,12 @@ Last updated: June 02, 2026
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 19.1cm x 19.8cm x 40cm
+- Driver: 2x 4" (100mm) woofers + 2x 2" (50mm) tweeters
 - EQ: Yes (App EQ)
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 80W RMS / 120W peak
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick
@@ -1334,16 +1431,20 @@ Last updated: June 02, 2026
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 9.61" x 10.94" x 15.08"
+- Driver: 8" (203mm) woofer + tweeters
 - EQ: No
 - FM Tuner: No
 - IP Rating: IPX7
 - Microphone Input: Yes
+- Output Power: 50W RMS / 200W peak
 - Party Mode: Yes
 - Power Bank: Yes
 - Power Input: AC Power cord
 - Stereo: No
 - TWS: Yes
 - USB Playback: No
+- Weight: 5 kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: ONN Large Party Speaker Gen 2 vs Medium Party Speaker Gen 2 🤜🤛A Family Feud🔌Plugged In Bass Boost On](https://www.youtube.com/watch?v=9dIs_4-nSfI)
     - [Jay's Straight Up Reviews & More: Skullcandy Barrel XT vs ONN Medium Party Speaker Gen. 2 😬(Both Bass Boost On🔉) The Price is Right?🤑](https://www.youtube.com/watch?v=aBh91jFWVXI)
@@ -1361,6 +1462,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No
+- Dimensions: 489mm x 224mm x 244.5mm
+- Driver: 5.1" woofer + tweeters
 - EQ: No
 - IP Rating: IPX4
 - Max Volume: 94dB
@@ -1391,6 +1494,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 18.11" x 10.08" x 8.46" (460 x 256 x 215 mm)
+- Driver: 2x 30mm tweeters + 2x 40mm mid-range + 1x 60mm woofer
 - EQ: Yes (App + ClearAudio+)
 - IP Rating: IP66
 - Output Power: 2x 25W + 2x 10W
@@ -1410,7 +1514,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Sony SRS-XG500](https://www.reddit.com/search/?q=Sony+SRS-XG500)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XG500/)
 
-## #42 JBL Boombox
+## #42 [JBL Boombox](https://www.jbl.com/en-US/product/JBL-Boombox) [[JBL Boombox](https://www.jbl.com/en-US/product/JBL-Boombox)]: $399
 - Positives: Connect+ up to 100 speakers.
 - Negatives: Treble isn't very smooth
 - App: No
@@ -1418,10 +1522,14 @@ Last updated: June 02, 2026
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 25.45cm x 45.85cm x 19.55cm
+- Driver: 2x 65mm woofers + 2x 20mm tweeters with passive radiators
 - EQ: No
 - FM Tuner: No
+- IP Rating: IPX5
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 60W AC / 40W battery
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1452,6 +1560,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: No
 - Dimensions: 15.12" x 5.12" x 7.72" (384 x 130 x 196 mm)
+- Driver: 30W: Dual drivers
 - EQ: Yes (App EQ)
 - IP Rating: IP67
 - Max Volume: 108dB
@@ -1482,9 +1591,13 @@ Last updated: June 02, 2026
 - Battery Life: ~30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: Dimensions not available
+- Driver: 8" woofer + tweeters
 - EQ: No
 - FM Tuner: No
+- IP Rating: IPX6
 - Microphone Input: Yes
+- Output Power: Specs not available
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1501,7 +1614,7 @@ Last updated: June 02, 2026
     - [Reddit Search for ZZA K8](https://www.reddit.com/search/?q=ZZA+K8)
     - [Direct Speakerranking Link](/portable/speakers/ZZA-K8/)
 
-## #45 [Demerbox DB2](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=se&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl)]: $400
+## #45 [Demerbox DB2](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=rankingspea01-20&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Indestructible-Bluetooth-Speaker-Waterproof-Portable/dp/B076FBZ53W?crid=11VMJQCGMOSRS&dib=eyJ2IjoiMSJ9.5duj3En89Q0lmsiUmUfptd0-YEJb_Ayk_LYCfcLDwx6_yngiSIIuUIyfYcr2Hx9o-vUrU6LQR6kG70q8ik_sMT7NBxqoP7mHgxstHS9gh3LICEJJVGwmk5AC2Vrs_MM3Z4-tye_6Ql8Jh7cmDA3xLfv6IglG0lBJBH0J9mict9t8IA__BQjp-mMnwG5YQu_1d_pWlgeG7aUo8vYp0lbySA.Jg7hgrB1luhosF4WOyhptsWDrKWW8AYr9ugb-lWnvgo&dib_tag=rankingspea01-20&keywords=demerbox%2Bdb2&qid=1717307465&sprefix=demerbox%2Bdb2%2Caps%2C178&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7f538852ec1e0d236a9296a842a31134&language=en_US&ref_=as_li_ss_tl)]: $400
 - Negatives: Bass is not as deep as better speakers. Very overpriced.
 - App: No
 - Aux Input: Yes
@@ -1509,6 +1622,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.63" x 9.69" x 6.89" (270 x 246 x 175 mm)
+- Driver: 2x 3" (76mm) aluminum cone full-range drivers
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP67
@@ -1538,12 +1652,15 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No
+- Dimensions: 386mm x 282mm x 266mm
+- Driver: 1x 5.7" (145mm) woofer + 2x 2.24" (57mm) mid-tweeters + 1x 1.22" (31mm) tweeter
 - EQ: Yes (multiple modes)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: Yes
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1565,9 +1682,12 @@ Last updated: June 02, 2026
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 14.7" x 9" x 8"
+- Driver: 3" woofer + tweeter array
 - EQ: No
 - FM Tuner: No
 - IP Rating: None
+- Output Power: 200W RMS / 400W peak
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1595,6 +1715,8 @@ Last updated: June 02, 2026
 - Bluetooth Latency: 150ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 14.5" x 9.91" (incomplete)
+- Driver: 1x 5.25" (133mm) subwoofer + 2x 31mm midrange drivers + 2x 3" (76mm) tweeters
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 115dB
@@ -1607,6 +1729,7 @@ Last updated: June 02, 2026
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 3.2 kg
 - Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)
@@ -1627,12 +1750,15 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
 - Built in Microphone: No
+- Dimensions: Dimensions not found in search
+- Driver: 2x 40mm drivers + passive radiator
 - EQ: Yes (bass boost + DSP)
 - FM Tuner: No
 - IP Rating: IPX6
 - Max Volume: 106dB
 - MicroSD: Yes
 - Microphone Input: Yes
+- Output Power: 120W max / 70W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1648,7 +1774,7 @@ Last updated: June 02, 2026
     - [Reddit Search for W-King D10](https://www.reddit.com/search/?q=W-King+D10)
     - [Direct Speakerranking Link](/portable/speakers/W-King-D10/)
 
-## #50 [Turtlebox Grande](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=se&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl)]: $730
+## #50 [Turtlebox Grande](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=rankingspea01-20&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Turtlebox-Grande-Waterproof-Ultra-Portable-Shockproof/dp/B0F2JL5V2V?crid=1YPLFRBASFQDH&dib=eyJ2IjoiMSJ9.a1hrxXh-DhL2xOo7EWbqjhXXmeMnK4komWnyZGCRrO3bNcrwkZpumoTghEzgcaXygQjeMlPc0hXWMhogTwKCI2rxw-SGw1qcpps3WdxlAFkEiL5ZoDQl9D9T6a9RxpMhfpvWzg3IF2XAfxQr7gILxn-ToRNNSJmJVL35jp3v5fcJpMjN2m6ClVAmUHp_onPhcrQXAgtrWyS7v-DAzJmvY_fU3xqWjyV-y6nXyQflJyU.DLfhjVnBE5WSA3S1I0VtocBhevmhHvSRALt8sHbssaM&dib_tag=rankingspea01-20&keywords=turtlebox%2Bgrande&qid=1763663085&sprefix=turtlebox%2Bg%2Caps%2C497&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=2546ae1bd8b2ae0387c37518e1b2b029&language=en_US&ref_=as_li_ss_tl)]: $730
 - Negatives: They pretty much lie about all their specs and sound just okay in all youtube sound samples. Only 100w will never hit 126db at a reasonable measuring distance. Putting your db meter right against the speaker doesn't count, 1 meter distance is the standard. Barely any bass for a 10" woofer. Overpriced and not worth it.
 - App: No
 - Aux Input: Yes
@@ -1658,6 +1784,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Dimensions: 14" x 8.4" x 11.5" (355.6 x 213.4 x 292.1 mm)
+- Driver: 1x 10" (254mm) woofer + 1x 1.25" (32mm) titanium tweeter
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
@@ -1685,8 +1812,10 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 27.99" x 7.99" x 15.98" (711 x 203 x 406 mm)
+- Driver: 8" woofer + tweeters
 - EQ: Yes
 - FM Tuner: Yes
+- IP Rating: IPX6
 - Max Volume: 118dB
 - MicroSD: Yes
 - Output Power: 200W
@@ -1712,9 +1841,13 @@ Last updated: June 02, 2026
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 24" x 6" x 14"
+- Driver: 6" woofer + tweeters
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX6
 - Max Volume: 115dB
+- Output Power: 150W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1728,7 +1861,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Bumpboxx Flare 6](https://www.reddit.com/search/?q=Bumpboxx+Flare+6)
     - [Direct Speakerranking Link](/portable/speakers/Bumpboxx-Flare-6/)
 
-## #53 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=se&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
+## #53 [EcoXGear Defender](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=rankingspea01-20&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ECOXGEAR-Defender-Waterproof-Portable-Bluetooth/dp/B0D7827Y5L?crid=3XYJ8C2O3YKZ&dib=eyJ2IjoiMSJ9.5rMLO0XXybBBJiHgFRiPguF4XcbjXxDY8N_EC3y24pKGZjpGpB7P7tdWxT4a0Hju6zg9qsy0i9wcncXAjZBOLN5SvlBwQPOZH96-y8BUz0thZanshyWDg9iSO6Vl5t1umKZt9WH82KeaBCbLFE8br4m3mOCKVCMbp3UlPmQAmFCD7dzGbgDJzCk7QyQlVVz9WjxN5ClNEyR_BF6TO2igBqM2uSVefoa1at52CHYt9miB2Uzmsc0oR1PtM_C55iczrWUi57qLWw1Q4C2tWAgZozXalpJdGE7T1kb6IJokjfA.6H4YWqQirM3p4FzqxuNjHmOD3r3ARkfs8vdirdWJyRU&dib_tag=rankingspea01-20&keywords=ecoxgear%2Bdefender&qid=1727127572&s=electronics&sprefix=ecoxgear%2Bdefende%2Celectronics%2C235&sr=1-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=dd9485082586619e4ada4fa0a5372095&language=en_US&ref_=as_li_ss_tl)]: $260
 - Negatives: Bass not as deep as competitors.
 - App: No
 - Aux Input: Yes
@@ -1736,6 +1869,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
+- Dimensions: 6.7" x 15.4" x 9.6"
+- Driver: 52mm full-range driver
 - EQ: Yes
 - FM Tuner: No
 - IP Rating: IP67
@@ -1766,8 +1901,10 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 11.81" x 9.06" x 14.96" (300 x 230 x 380 mm)
+- Driver: 6.5" woofer + tweeter
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX5
 - MicroSD: Yes
 - Output Power: 100W
 - Party Mode: No
@@ -1792,10 +1929,13 @@ Last updated: June 02, 2026
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 17.5" x 14.6" x 10.2"
+- Driver: 4" driver
 - EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
 - Microphone Input: Yes
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1817,8 +1957,11 @@ Last updated: June 02, 2026
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 9.02" x 6.42" x 13.78"
+- Driver: 1x 5.25" woofer + 2x 2" full-range + 1x 16mm tweeter
 - EQ: Yes (hidden bass and treble adjustment)
 - IP Rating: IPX2
+- Output Power: 80W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1843,6 +1986,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
+- Driver: 2x 3.66" (93mm) subwoofers + 2x 1.2" (31mm) neodymium tweeters + 3x passive radiators
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - IP Rating: IPX6
 - Max Volume: 108dB
@@ -1872,6 +2016,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
+- Driver: 2x 3.66" (93mm) subwoofers + 2x 1.2" (31mm) neodymium tweeters + 3x passive radiators
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - FM Tuner: No
 - IP Rating: IPX6
@@ -1903,6 +2048,8 @@ Last updated: June 02, 2026
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 11" x 9.4" x 11"
+- Driver: 2x drivers
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -1913,6 +2060,7 @@ Last updated: June 02, 2026
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: No
+- Weight: 2.3 kg
 - Reviews, Comparisons and Sound Samples
     - [Jagist reviews: Tribit Stormbox Blast vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=MrlgzwVoFw4)
     - [Jagist reviews: Jbl Extreme 3 vs Altec Lansing Mix 2.0](https://www.youtube.com/watch?v=a-VmNf5kgEA)
@@ -1929,7 +2077,11 @@ Last updated: June 02, 2026
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 22" x 9" x 8"
+- Driver: 60W dual drivers
 - EQ: No
+- IP Rating: IPX5
+- Output Power: 100W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1951,10 +2103,13 @@ Last updated: June 02, 2026
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 15.1" x 10.4" x 19.4"
+- Driver: 2x 4" drivers
 - EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
 - Microphone Input: No
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -1976,11 +2131,14 @@ Last updated: June 02, 2026
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 14.8" x 10.6" x 17.6"
+- Driver: 2x 4" drivers
 - EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
 - Max Volume: 100dB
 - Microphone Input: No
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -2004,6 +2162,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: No
 - Dimensions: 15" x 18.58" x 10.87" (381 x 472 x 276 mm)
+- Driver: 2x 3" (76mm) woofers + 2x tweeters (size undisclosed)
 - EQ: Yes
 - FM Tuner: Yes
 - IP Rating: IPX4
@@ -2034,6 +2193,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: No
 - Dimensions: 12.01" x 7.01" x 8.74" (305 x 178 x 222 mm)
+- Driver: 1x 6x9" (152x228mm) woofer + 1x 1" (25mm) titanium tweeter
 - EQ: No
 - IP Rating: IP67
 - MicroSD: Yes
@@ -2063,6 +2223,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 22.2" x 11.18" x 11.61" (564 x 284 x 295 mm)
+- Driver: 8" woofer + tweeters
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -2081,14 +2242,18 @@ Last updated: June 02, 2026
     - [Reddit Search for Altec Lansing Rockbox XL 2.0](https://www.reddit.com/search/?q=Altec+Lansing+Rockbox+XL+2.0)
     - [Direct Speakerranking Link](/portable/speakers/Altec-Lansing-Rockbox-XL-2.0/)
 
-## #66 Artsound PWR05
+## #66 Artsound PWR05: $799
 - Negatives: Strange frequency peaks, sound is very hollow.
 - App: No
 - Aux Input: Yes
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 43cm x 18cm x 18cm
+- Driver: 5" woofer + tweeter
 - EQ: No
+- IP Rating: IPX5
+- Output Power: 75W RMS / 150W peak
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -2102,16 +2267,19 @@ Last updated: June 02, 2026
     - [Reddit Search for Artsound PWR05](https://www.reddit.com/search/?q=Artsound+PWR05)
     - [Direct Speakerranking Link](/portable/speakers/Artsound-PWR05/)
 
-## #67 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=se&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
+## #67 [Zealot S78](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=rankingspea01-20&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Waterproof-PowerBank/dp/B0CMQ667QV?crid=2BMYAAY6P5KWY&dib=eyJ2IjoiMSJ9.VIkGo1vrdD9y1iQN-wrqM_1rNvpX0zU0EHZYZ3sRpEJei9O2Qslo-d9beFuvU1NGTOhmoCUF2qc4bS6z71Ic_qHcB-XiHALvd8YIqNBcClQEt5ERUykkmgtN704NWmsLzRN1SiAdBxQWyM4MkJCGgsn68kyDmC9piPCj5ZG3Cibcmq7FI1PWQr57NTdzChRED1Cjq5zFMgj98Mw45MKoP92WEp6oL9fuAc_ElHFz-TH8Dz4NyZJH5ZP5_9ZWy2juxuMu4G4pu2Gf0K_BKO66KV0fTAfT6l2MGarFHCbE0DI.6GMkUFX7_btZ1byGJyO4lP5-Tr0DpgEUoOjjERIZ8xk&dib_tag=rankingspea01-20&keywords=zealot+s78&qid=1715298553&s=electronics&sprefix=zealot+s78%2Celectronics%2C152&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=7b541cc080d3ebf5edc9553772f558ee&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3RxMck3)]: $148
 - Negatives: Gets distorted above 50%. Not much bass. Volume level fluctuates at high volume.
 - App: No
 - Aux Input: Yes
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 41cm x 16.7cm x 18.5cm
+- Driver: 2x ~120mm (4.72") woofers + 2x ~42mm tweeters + 2x passive radiators
 - EQ: Yes (multiple modes)
 - IP Rating: IP67
 - MicroSD: Yes
+- Output Power: 120W RMS / 150W peak
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

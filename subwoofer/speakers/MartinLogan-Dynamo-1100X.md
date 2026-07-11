@@ -12,8 +12,10 @@ The MartinLogan Dynamo 1100X ranks [#19 out of 137 total Medium Powered Home Sub
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.1"H x 15.0"W x 15.6"D (434.3 x 381.0 x 396.2 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 22–200Hz, ±3dB
 - Measurement Source: Matthew J Poes
 - Output SPL at 100 Hz: 121.3 dB
 - Output SPL at 125 Hz: 120.7 dB
@@ -25,6 +27,7 @@ The MartinLogan Dynamo 1100X ranks [#19 out of 137 total Medium Powered Home Sub
 - Output SPL at 50 Hz: 115.1 dB
 - Output SPL at 63 Hz: 118.7 dB
 - Output SPL at 80 Hz: 120.7 dB
+- Power Output (Watts): 650W RMS / 1300W peak
 - Warranty: 3
 - Weight: 46.0lbs / 20.9kg
 - Links

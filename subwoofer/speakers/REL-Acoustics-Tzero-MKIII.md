@@ -12,6 +12,7 @@ The REL Acoustics Tzero MKIII ranks [#41 out of 41 total Small Powered Home Subw
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 9.5"H x 8.5"W x 10.5"D (241.3 x 215.9 x 266.7 mm)
+- Driver: 6" (152mm) driver
 - Driver(s): (1) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner

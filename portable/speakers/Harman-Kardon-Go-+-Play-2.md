@@ -17,15 +17,19 @@ The Harman Kardon Go + Play 2 ranks [#16 out of 67 total Boombox Size Portable B
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 33ms
 - Built in Microphone: Yes
+- Dimensions: 20" x 9" x 9.5"
+- Driver: 2x 90mm (3.5") woofers (front and rear firing) + 2x 20mm tweeters
 - EQ: No
 - IP Rating: None
 - Max Volume: 99dB
+- Output Power: 100W AC / 30W battery
 - Party Mode: Yes (up to 2 speakers)
 - Power Bank: No
 - Power Input: AC Power brick
 - Stereo: Yes
 - TWS: No
 - USB Playback: No
+- Weight: 2.4 kg
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Harman Kardon Go+ Play 3 vs Go Play 2, the holy grail has arrived? ✔](https://www.youtube.com/watch?v=BwuzsGckzos)
     - [Alan Ross Reviews: JBL Boombox 2 bass monster or the mature Harman Kardon Go+ Play 2 mini for bass?? 💥](https://www.youtube.com/watch?v=e7m7DYq1li8)

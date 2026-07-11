@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Monoprice Monolith M15-S ranks #60 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice Monolith M15-S ranks [#60 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#60-monoprice-monolith-m15-s-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice Monolith M15-S ranks [#60 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#60-monoprice-monolith-m15-s-999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #60 Monoprice Monolith M15-S
+## #60 Monoprice Monolith M15-S: $999
 - Notes: Product # 35141
 - CEA-2010-A Average (40-80Hz): 119.0 dB
 - Country: United States
 - Dimensions: 23.5"H x 16.7"W x 19.7"D (596.9 x 424.2 x 500.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer

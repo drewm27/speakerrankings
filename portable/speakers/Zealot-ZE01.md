@@ -16,9 +16,12 @@ The Zealot ZE01 ranks [#23 out of 67 total Boombox Size Portable Bluetooth Speak
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 33.2cm x 28.4cm x 20.7cm
+- Driver: Dual 120mm speakers + dual 42mm speakers
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 120W RMS / 150W peak
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

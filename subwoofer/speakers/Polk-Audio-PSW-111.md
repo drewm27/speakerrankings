@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Polk Audio PSW 111 ranks #18 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Polk Audio PSW 111 ranks [#18 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#18-polk-audio-psw-111-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Polk Audio PSW 111 ranks [#18 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#18-polk-audio-psw-111-amazon-350) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #18 Polk Audio PSW 111: $350
+## #18 [Polk Audio PSW 111](https://www.amazon.com/Polk-Audio-PSW111-Subwoofer-Single/dp/B000P0528U?crid=33T9J80JWUR5H&dib=eyJ2IjoiMSJ9.95iLOXdiyjZB_rDt1OwIrA.vIzVePeuo1gU8lgWoUBMpKBZcqFa1iaIjX2cmwOk_8U&dib_tag=se&keywords=psw%2B111&qid=1780542216&sprefix=psw%2B11%2Caps%2C303&sr=8-2&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=e54cecbc6346d7843d099fcc6a45e4ef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Audio-PSW111-Subwoofer-Single/dp/B000P0528U?crid=33T9J80JWUR5H&dib=eyJ2IjoiMSJ9.95iLOXdiyjZB_rDt1OwIrA.vIzVePeuo1gU8lgWoUBMpKBZcqFa1iaIjX2cmwOk_8U&dib_tag=se&keywords=psw%2B111&qid=1780542216&sprefix=psw%2B11%2Caps%2C303&sr=8-2&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=e54cecbc6346d7843d099fcc6a45e4ef&language=en_US&ref_=as_li_ss_tl)]: $350
 - CEA-2010-A Average (40-80Hz): 106.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 12.13"H x 11.0"W x 13.0"D (308.1 x 279.4 x 330.2 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth

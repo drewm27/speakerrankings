@@ -7,7 +7,7 @@ share-description: "The Sony SRS-XE300 ranks #87 out of 131 total Medium Size Po
 
 The Sony SRS-XE300 ranks [#87 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#87-sony-srs-xe300-amazon-137) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #87 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=se&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl)]: $137
+## #87 [Sony SRS-XE300](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=rankingspea01-20&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Sony-SRS-XE300-Portable-Bluetooth-Speaker-Waterproof-Shockproof/dp/B0B445JCZ3?crid=3LM8OLIKWR0J6&dib=eyJ2IjoiMSJ9.MbXVSBb-WRfcL8U6BHf3MQofV7ww36GXnReAGNQ19En5DvlaD3autlNR3yCT5iYhj4q7fCSa0rwpg4WoxqjKx5TAkiSUQeYdipab5m1dsIQQx0Kn8ZDctsi6yQKImF3-_UYD4s7omQv8e5XyorZS3Q.lJDjmFgmV5KJWb7vB6gpqm1nGfMnD2uwq1oSifrroRA&dib_tag=rankingspea01-20&keywords=xe300&qid=1713373941&sprefix=xe300%2Caps%2C176&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=5c19b8ba3d9a858f7109a9717ca2f99f&language=en_US&ref_=as_li_ss_tl)]: $137
 - Negatives: Muffled sounding, not very deep bass. Hollow sounding. Worse than a XB43
 - App: Yes (Sony Music Center)
 - Aux Input: No
@@ -16,7 +16,7 @@ The Sony SRS-XE300 ranks [#87 out of 131 total Medium Size Portable Bluetooth Sp
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 9.37" x 4.13" x 4.69" (238 x 105 x 119 mm)
-- Driver: 2x X-Balanced speaker units + 2x passive radiators
+- Driver: 2x 49x71mm X-Balanced speaker units + 2x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IP67
 - Output Power: 16W

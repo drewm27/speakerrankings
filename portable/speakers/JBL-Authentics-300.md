@@ -15,10 +15,13 @@ The JBL Authentics 300 ranks [#28 out of 67 total Boombox Size Portable Bluetoot
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 342mm x 195.6mm x 180.3mm
+- Driver: 1" tweeter + 4" woofer + passive radiators
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 100dB
 - MicroSD: No
+- Output Power: 100W
 - Party Mode: Yes (JBL One)
 - Power Bank: No
 - Power Input: AC Power cable

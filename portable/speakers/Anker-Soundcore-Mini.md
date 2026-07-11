@@ -17,6 +17,8 @@ The Anker Soundcore Mini ranks [#13 out of 44 total Small Size Portable Bluetoot
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
+- Dimensions: 6.9" x 6.9" x 6.9"
+- Driver: 1x 2" (50mm) full-range driver + 1x passive radiator
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None

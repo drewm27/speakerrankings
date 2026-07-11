@@ -12,8 +12,10 @@ The Arendal 1723 Subwoofer 1S ranks [#17 out of 137 total Medium Powered Home Su
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 18.89"H x 13.18"W x 17.71"D (479.8 x 334.8 x 449.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 13.8 inch
 - Enclosure: sealed
+- Frequency Response: 19–200Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 118.5 dB
 - Output SPL at 12.5 Hz: 86.5 dB
@@ -26,6 +28,7 @@ The Arendal 1723 Subwoofer 1S ranks [#17 out of 137 total Medium Powered Home Su
 - Output SPL at 50 Hz: 117.0 dB
 - Output SPL at 63 Hz: 118.5 dB
 - Output SPL at 80 Hz: 118.6 dB
+- Power Output (Watts): 800W RMS
 - Warranty: 10/5
 - Weight: 54.01lbs / 24.5kg
 - Links

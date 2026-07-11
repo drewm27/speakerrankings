@@ -15,8 +15,11 @@ The Teufel Boomster NG (2017) ranks [#34 out of 67 total Boombox Size Portable B
 - Battery Life: 18 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 14.5cm x 37cm x 18cm
+- Driver: 1x 90mm woofer + 2x 65mm midrange drivers + 2x 20mm tweeters
 - EQ: No
 - IP Rating: None
+- Output Power: 38W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

@@ -6,7 +6,7 @@ cover-img: "/assets/img/k12.2.jpg"
 share-description: "Expert rankings of 368 Bluetooth speakers tested by output volume. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the loudest Bluetooth speaker?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 02, 2026.**
+**Looking for the loudest Bluetooth speaker?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -37,6 +37,8 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 3.9" x 3.9" x 1.68"
+- Driver: 48mm NdFeB driver
 - EQ: Yes (9 Band)
 - IP Rating: IP67
 - Max Volume: 94dB
@@ -82,6 +84,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
 - Bluetooth Version: 5.0
+- Built in Microphone: Yes
 - Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
 - Driver: 70mm custom driver
 - EQ: Yes
@@ -104,7 +107,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 
 ## Large 
 
-### The loudest [large size](/portable/large/) battery powered speaker is the [**JBL Xtreme 5**](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=se&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
+### The loudest [large size](/portable/large/) battery powered speaker is the [**JBL Xtreme 5**](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=rankingspea01-20&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Xtreme-Waterproof-Convenient-Built/dp/B0GHYH9DN9?crid=1JYF4KHAZOIE7&dib=eyJ2IjoiMSJ9.pR4aaKuy8NH5kCGWBIcYp2k4KA2jdG67qkca7Fys0syolyOvw9prTlQe9TXPhKrLl9XeZLMzzpKkxSlhbgk531_Wma-DYi2_7BOKJz7oNik831VKJ9CERqVBTTPJb1MzlBeDNnf2B9-yNy__Y_xazTi_HjbMTszcY2HzhmvFozIYYRobHsrUmYOkhqGI_0xNhCeLIdw88ZS5cFM7KyxkIk7PoUGd3kZcQqk35R0Zyzg.FD-dKSdt2A7OtCpiH5mEbGjncWsf7039-JANSVCM704&dib_tag=rankingspea01-20&keywords=xtreme%2B5&qid=1778537064&sprefix=xtreme%2Caps%2C476&sr=8-1&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=53277c6d0cd4fd923a0d86ca5a20c1cb&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1952352-REG/jbl_jblxtreme5blkam_xtreme_5_portable_wireless.html?BI=23745&KBID=29189)]: $400
 - Positives: Removable battery. Quite deep bass. A fantastic sounding speaker
 - Negatives: High priced. Some bass boost. A hole in the mid-upper bass which can't be EQ'd out
 - Setup: Try [this Oluv EQ](https://www.youtube.com/watch?v=_a-qMWPCuFg) for the most neutral sound
@@ -149,7 +152,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 
 ## Boombox
 
-### The loudest [boombox size](/portable/boombox/) battery powered speaker is the [**Zealot ZE21**](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
+### The loudest [boombox size](/portable/boombox/) battery powered speaker is the [**Zealot ZE21**](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=rankingspea01-20&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
 - Positives: The absolute best value for the bass performance, play time and max volume in the boombox class.
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
@@ -158,10 +161,13 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 424mm x 262mm x 363mm
+- Driver: 130W subwoofer + 2x 50mm woofers + passive radiators
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 116dB
 - MicroSD: Yes
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -186,16 +192,20 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 - Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 50.6cm x 21.7cm x 27cm
+- Driver: 7.5" subwoofer + drivers
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112dB
 - MicroSD: Yes
+- Output Power: 330W peak / 200W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 7200g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)
     - [Alan Ross Reviews: pound for pound battle! WKing X20 D20 vs Stormbox Blast! OMG its a shocker!](https://www.youtube.com/watch?v=zIdW1rTCgLs)
@@ -218,7 +228,7 @@ For even louder speakers see [Loudest Portable Bluetooth Party Speakers](/portab
 
 ## Party
 
-### The loudest [party size](/portable/party/) battery powered speaker is the [**Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=se&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
+### The loudest [party size](/portable/party/) battery powered speaker is the [**Electro-Voice Everse 12**](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=rankingspea01-20&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Electro-Voice-Everse-12-inch-Battery-powered-Speaker/dp/B0CH3WMQXS?crid=13G7ZFX68OVNR&dib=eyJ2IjoiMSJ9.inh3_BGRhZIAKvNEa8oK-BbM1jCDvt3vvou_stcVQDoFgborA5lNqMppfY2kbiaXIt4v_RHrm7WlFkguS7BMNuTt1y8yCWnmjywIH-mjwWwYFPfdzpFprbRj4wFBxB1bawkzI4bPyd6MXKqaYJxgqnmikw5p4Mvvy_ur8FIYOfXn8d8Lowx4POtbPZjPD4zrw4GrhUCBYxQzmjJaMRJM46-ufQyzSCcWfgqNHXw3kLf8Kmnero8dLS7-PSVQ8eM_M2szjHDeh8z0ZN8VXa19puzS5K69Q2bHde-ybxly2y4.dXJoiQH0VyFYC5-VoccvwK6IUEbkIAyhazbDoqJ4bXo&dib_tag=rankingspea01-20&keywords=everest+12&qid=1727707873&sprefix=everse+12%2Caps%2C261&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&linkCode=ll1&tag=rankingspea01-20&linkId=e737d80867542de4c8a48ac136d1370d&language=en_US&ref_=as_li_ss_tl)]: $1100
 - Positives: Good midrange and treble. The best sounding extremely loud speaker available.
 - Negatives: Not stereo. Designed for more loudness than deep bass.
 - App: Yes

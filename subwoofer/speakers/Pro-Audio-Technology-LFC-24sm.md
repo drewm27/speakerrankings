@@ -12,6 +12,7 @@ The Pro Audio Technology LFC-24sm ranks [#4 out of 10 total Large Passive Home S
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 26.0"H x 60.5"W x 21.0"D (660.4 x 1536.7 x 533.4 mm)
+- Driver: Dual 24" (610mm) drivers
 - Driver(s): (1) 24 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth

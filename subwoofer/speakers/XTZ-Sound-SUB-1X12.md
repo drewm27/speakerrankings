@@ -11,8 +11,10 @@ The XTZ Sound SUB 1X12 ranks [#52 out of 137 total Medium Powered Home Subwoofer
 - CEA-2010-A Average (40-80Hz): 113.3 dB
 - Country: Sweden
 - Dimensions: 18.5"H x 20.0"W x 18.7"D (469.9 x 508.0 x 475.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 19-160Hz
 - Measurement Source: Manufacturer
 - Output SPL at 100 Hz: 112.2 dB
 - Output SPL at 15 Hz: 92.7 dB
@@ -23,6 +25,7 @@ The XTZ Sound SUB 1X12 ranks [#52 out of 137 total Medium Powered Home Subwoofer
 - Output SPL at 50 Hz: 114.0 dB
 - Output SPL at 63 Hz: 113.1 dB
 - Output SPL at 80 Hz: 112.4 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5/2
 - Weight: 54.01lbs / 24.5kg
 - Links

@@ -12,6 +12,7 @@ The REL Acoustics HT/1510 Predator II ranks [#69 out of 95 total Large Powered H
 - Cabinet Color: black
 - Country: United Kingdom
 - Dimensions: 18.0"H x 21.3"W x 19.4"D (457.2 x 541.0 x 492.8 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

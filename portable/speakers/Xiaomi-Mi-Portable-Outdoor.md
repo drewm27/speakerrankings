@@ -5,17 +5,20 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Xiaomi Mi Portable Outdoor ranks #35 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Xiaomi Mi Portable Outdoor ranks [#35 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#35-xiaomi-mi-portable-outdoor-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Xiaomi Mi Portable Outdoor ranks [#35 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#35-xiaomi-mi-portable-outdoor-79) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #35 Xiaomi Mi Portable Outdoor
+## #35 Xiaomi Mi Portable Outdoor: $79
 - Negatives: Not much bass, treble rolled off
 - App: No
 - Aux Input: No
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 196.6mm x 68mm x 66mm
+- Driver: 20W woofer + 10W mid-range + 2 passive radiators
 - EQ: No
 - IP Rating: None
+- Output Power: 30W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

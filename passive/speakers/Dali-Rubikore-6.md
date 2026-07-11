@@ -5,12 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Dali Rubikore 6 ranks #20 out of 25 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Dali Rubikore 6 ranks [#20 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#20-dali-rubikore-6-safeandsoundhq-used-listings-8000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Dali Rubikore 6 ranks [#20 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#20-dali-rubikore-6-safeandsoundhq-8000) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #20 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dali+Rubikore+6)]: $8000
+## #20 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)]: $8000
 - Negatives: Resonance at 800hz. 4dB peak at 4k to 15k, going to be a bright speaker. Not recommended
 - Bass Extension (-10dB): 31Hz
 - Bass Extension (-3dB): 43Hz
+- Driver: 28mm tweeter + dual 180mm woofers
+- Weight: 52.1kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: DALI Rubikore 6 Floorstanding Speaker Review](https://www.youtube.com/watch?v=IlpFZPevKpM)
     - [Erin's Audio Review Website Dali Rubikore 6](https://www.erinsaudiocorner.com/loudspeakers/dali_rubikore_6/)

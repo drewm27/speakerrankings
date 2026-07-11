@@ -12,8 +12,10 @@ The Infinity Speakers REFERENCE SUB R12 ranks [#57 out of 137 total Medium Power
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.74"H x 15.16"W x 16.77"D (476.0 x 385.1 x 426.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 29-150Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 113.2 dB
 - Output SPL at 125 Hz: 111.7 dB
@@ -25,10 +27,11 @@ The Infinity Speakers REFERENCE SUB R12 ranks [#57 out of 137 total Medium Power
 - Output SPL at 50 Hz: 112.3 dB
 - Output SPL at 63 Hz: 115.8 dB
 - Output SPL at 80 Hz: 114.6 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5/2
 - Weight: 40.2lbs / 18.2kg
 - Links
-    - [Infinity Speakers REFERENCE SUB R12 Website](https://www.infinityspeakers.com/home-subwoofers/REFERENCE+SUB+R12.html?dwvar_REFERENCE%20SUB%20R12_color=Black-GLOBAL-Current&cgid=home-subwoofers)
+    - [Infinity Speakers REFERENCE SUB R12 Website](https://www.infinityspeakers.com/home-subwoofers/REFERENCE+SUB+R12.html)
     - [Reddit Search for Infinity Speakers REFERENCE SUB R12](https://www.reddit.com/search/?q=Infinity+Speakers+REFERENCE+SUB+R12)
 
 

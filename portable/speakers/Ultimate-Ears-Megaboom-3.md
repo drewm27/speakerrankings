@@ -15,6 +15,7 @@ The Ultimate Ears Megaboom 3 ranks [#80 out of 131 total Medium Size Portable Bl
 - Dimensions: 3.43" x 8.86" x 3.43" (87 x 225 x 87 mm)
 - Driver: 2x 50mm fullrange
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
+- IP Rating: IPX7
 - Max Volume: 98dB
 - Party Mode: Yes (PartyUp up to 50 speakers)
 - Power Input: Micro USB

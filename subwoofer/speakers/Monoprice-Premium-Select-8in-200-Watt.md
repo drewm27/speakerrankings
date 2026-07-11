@@ -13,6 +13,7 @@ The Monoprice Premium Select 8in 200-Watt ranks [#16 out of 41 total Small Power
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.0"H x 10.6"W x 12.8"D (381.0 x 269.2 x 325.1 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth

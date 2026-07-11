@@ -16,6 +16,8 @@ The W-King T9 ranks [#37 out of 74 total Large Size Portable Bluetooth Speakers]
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 30cm x 15cm x 12cm
+- Driver: 2x 4.04" subwoofers + drivers
 - EQ: No
 - IP Rating: None
 - Max Volume: 106dB

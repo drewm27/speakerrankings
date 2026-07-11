@@ -20,6 +20,7 @@ The JBL Partybox Encore Essential ranks [#7 out of 67 total Boombox Size Portabl
 - Bluetooth Version: 5.1
 - Built in Microphone: No
 - Dimensions: 10.87" x 12.87" x 11.54" (276 x 327 x 293 mm)
+- Driver: 135mm woofer + 2x 44mm tweeters
 - EQ: Yes (3 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110dB

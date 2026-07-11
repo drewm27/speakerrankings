@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Roku Subwoofer 9201X ranks #39 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Roku Subwoofer 9201X ranks [#39 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#39-roku-subwoofer-9201x-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Roku Subwoofer 9201X ranks [#39 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#39-roku-subwoofer-9201x-399) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #39 Roku Subwoofer 9201X
+## #39 Roku Subwoofer 9201X: $399
 - CEA-2010-A Average (40-80Hz): 94.0 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 11.8"H x 11.8"W x 11.8"D (299.7 x 299.7 x 299.7 mm)
 - Discontinued: Yes
+- Driver: 6.5" (165mm) full-range driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

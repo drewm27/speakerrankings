@@ -15,6 +15,7 @@ The Rockville Rock Party 6 ranks [#42 out of 42 total Party Size Portable Blueto
 - Bass Extension (-10dB): ~60Hz
 - Battery Life: 6 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 6.5" (165mm) woofer + tweeters
 - EQ: No
 - IP Rating: None
 - Party Mode: No

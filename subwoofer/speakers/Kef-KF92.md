@@ -12,8 +12,10 @@ The Kef KF92 ranks [#130 out of 137 total Medium Powered Home Subwoofers (30–7
 - Cabinet Color: black
 - Country: United Kingdom
 - Dimensions: 13.87"H x 12.99"W x 14.19"D (352.3 x 329.9 x 360.4 mm)
+- Driver: 9.2" (234mm) driver
 - Driver(s): (2) 9 inch
 - Enclosure: sealed
+- Frequency Response: 11-160Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 107.2 dB
 - Output SPL at 20 Hz: 86.0 dB
@@ -23,6 +25,7 @@ The Kef KF92 ranks [#130 out of 137 total Medium Powered Home Subwoofers (30–7
 - Output SPL at 50 Hz: 103.0 dB
 - Output SPL at 63 Hz: 104.4 dB
 - Output SPL at 80 Hz: 106.3 dB
+- Power Output (Watts): 1000W RMS
 - Warranty: 5/2/5
 - Weight: 44.09lbs / 20.0kg
 - Links

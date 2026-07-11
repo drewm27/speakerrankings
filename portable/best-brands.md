@@ -6,7 +6,7 @@ cover-img: "/assets/img/blast.jpg"
 share-description: "Expert rankings of 368 Bluetooth speakers by brand. Detailed specs, sound samples & EQ settings. Budget to premium picks from $50."
 ---
 
-**Looking for the best Bluetooth speakers by brand?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 02, 2026.**
+**Looking for the best Bluetooth speakers by brand?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -28,7 +28,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 Earfun has 2 specific speakers tuned by Austrian music producer Oluv which always come out on top for sound quality.
 
-### This [boombox size](/portable/boombox/) battery powered speaker is known to have it all, fantastic sound quality, clarity, neutrality with very deep bass at a fantastic price [**Earfun Uboom X**](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=se&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
+### This [boombox size](/portable/boombox/) battery powered speaker is known to have it all, fantastic sound quality, clarity, neutrality with very deep bass at a fantastic price [**Earfun Uboom X**](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15) [[Myearfun](https://www.myearfun.com/speakers/earfun-uboom-x-portable-bluetooth-speaker-black?shareid=8BBEB841E15)] [[Amazon](https://www.amazon.com/EarFun-Bluetooth-JumboBass-Waterproof-PowerBank/dp/B0D53P1PQ8?crid=GMAIDL2QPLU&dib=eyJ2IjoiMSJ9.VBK3NL3n6z3zLWtet_sYf9dIHZAC-BRKcdnBp_qbaQedvRp0hHmYqJ17-uWpWEgnZt0TWbx5xgtOb9ZYQvOT6yl-D2TmGHtPxQZ1S34-l5JDCDZ0AkeOryI51-UEwJfantFp35uSfLZCtl-LB5f38TzUs-AW51WiTmcvadHRKxICegv6oDKI0gXe8v2KKsQAW2_j7gqyLo0ccKJphfqdPv9aoNO9lqLK7LWfxRvkKSg.JoD8-VHLjSEduuxwDuleuPC_WVQbSPrvWtQi0U9om4g&dib_tag=rankingspea01-20&keywords=earfun+uboom+x&qid=1728392942&sprefix=earfun+uboo%2Caps%2C191&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=a6f043ed5b53d146ae0149581ad04e7b&language=en_US&ref_=as_li_ss_tl)]: $128 with code UBOOMXDR
 - Positives: Tuned by [Oluv](https://www.patreon.com/oluvsone) and he knocked it out of the park again. Deeper bass than the Stormbox Blast. Extremely neutral, possibly the best of any modern Bluetooth speaker slightly behind the Vifa Helsinki. This is the only speaker that sounds correct at every single volume level due to Oluv's individual EQ settings at each volume level. Other speakers will need a different EQ at each volume level. Amazing sounding at low levels as it boosts bass and treble at low levels to account for the [equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour). Just considering the midrange and treble, this speaker is better sounding than the Earfun Uboom L.
 - Negatives: The out of the box 0.33 firmware and EQ sounds horrible. Some people have mentioned sound interruption issues when using 2 in TWS, I don't have this issue with my Pixel 7 Pro, try disabling AAC in that case
 - Setup: Please update it using the Earfun app ([Android](https://play.google.com/store/apps/details?id=com.corelink.earfun&hl=en_US) or [iOS](https://apps.apple.com/us/app/earfun-audio/id1612795156)) and select an Oluv EQ. The Earfun app has sound profiles created by Oluv for [Studio, Indoor, Indoor+, Outdoor, Outdoor+, BOOM xxX, and Ground 0](https://www.reddit.com/r/Bluetooth_Speakers/comments/1jbzt2m/the_truth_about_the_earfun_uboom_x_and_my_part/) which are all fantastic. Oluv has a newer [firmware pack](https://www.patreon.com/oluvsone/shop/earfun-uboom-x-custom-firmware-pack-039-1868710) that brings it up a few more notches of neutral
@@ -42,6 +42,7 @@ Earfun has 2 specific speakers tuned by Austrian music producer Oluv which alway
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 15.75" x 5.91" x 8.46" (400 x 150 x 215 mm)
+- Driver: 2x 102mm (4") woofers + 2x 20mm tweeters
 - EQ: Yes (App EQ)
 - FM Tuner: No
 - IP Rating: IP67
@@ -188,7 +189,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
     - [Reddit Search for Soundcore Boom 2](https://www.reddit.com/search/?q=Soundcore+Boom+2)
 
 
-### This [medium size](/portable/medium/) battery powered speaker is a stereo and omnidirectional speaker in one with great sound quality at a fantastic price, the [**Soundcore Motion 300**](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=se&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
+### This [medium size](/portable/medium/) battery powered speaker is a stereo and omnidirectional speaker in one with great sound quality at a fantastic price, the [**Soundcore Motion 300**](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=rankingspea01-20&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-SmartTune-Technology-Waterproof/dp/B0CDJWTWMB/ref=sr_1_1_sspa?crid=2A287XPADHB5P&amp;dib=eyJ2IjoiMSJ9.2puWcqlezR0yH_ZXqvJ7X-FGb_jYukvKJXw_hpTtoLiPCJhe5krIZSbzmNLeaHIXVNjDuQWasktAUWCwTL1gWREP-X_ACBFD3XsmJVBsdE5OOPo5q6WIFDFhsCUzalpT8RYQj0k3Q4D2eQtS_A6BvYa3i4W_Zd4_GZEfI_KPPIz40GDiLbChD-e2upIJ5wp4ic_HJlFC1M5f4JNrLmm0Swdc66_-GfU8ceWC6ZmOvdw.cB36bBEQa23F9l0veg9xhP3_g2pFHGDecMem-bp16u4&amp;dib_tag=rankingspea01-20&amp;keywords=motion%252B300&amp;qid=1709590900&amp;sprefix=motion%252B300%252Caps%252C234&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=rankingspea01-20&linkCode=ur2&linkId=14ae8fa4885f94bc37a64c7041022dac&camp=1789&creative=9325)]: $68
 - Positives: Pretty deep bass for the small size. Pocket size in a big pocket. Can be used in stereo facing you, or omnidirectional lying down. Ability to have a custom EQ for each orientation, standing, lying flat, hanging. Try [the Uboom L EQs from Oluv for a more neutral sound](https://www.patreon.com/oluvsone/shop/soundcore-motion-300-eq-settings-uboom-l-95778).
 - Negatives: Without the above EQ or turning the top 2 treble EQ bars to max, this speaker is very rolled off in the treble and will rank around #50 in the rankings. Bassup mode is worse than Signature. Not quite as detailed or neutral as higher ranked speakers. Slight bass distortion when turned up.
 - App: Yes
@@ -200,7 +201,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 7.9" x 3.6" x 2.0" (200 x 92 x 50 mm)
-- Driver: 2x full-range drivers + passive radiators
+- Driver: 2x 50.8mm (2") full-range drivers + 2x passive radiators
 - EQ: Yes (9 band with adjustable frequency)
 - Frequency Response: 65Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
@@ -242,6 +243,7 @@ Soundcore has had many speakers over the years. A few that were hits and a bunch
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 10.1" x 3.1" x 3.2" (257 x 79 x 81 mm)
+- Driver: 2x 70mm (2.75") neodymium woofers + 2x silk dome tweeters + 2x passive radiators
 - EQ: Yes (9 band)
 - Frequency Response: 50Hz - 40kHz (Manufacturer specified)
 - IP Rating: IPX7
@@ -284,6 +286,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Bluetooth Version: 5.3
 - Built in Microphone: No
 - Dimensions: 15.75" x 6.3" x 9.06" (400 x 160 x 230 mm)
+- Driver: 2x ~107mm (4.2") woofers + 2x ~25mm tweeters
 - EQ: Yes (10 band)
 - FM Tuner: No
 - IP Rating: IPX7
@@ -339,7 +342,7 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
     - [Reddit Search for Tribit Stormbox Blast](https://www.reddit.com/search/?q=Tribit+Stormbox+Blast)
 
 
-### This [large size](/portable/large/) battery powered speaker has very deeper bass and great sound quality, the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=se&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
+### This [large size](/portable/large/) battery powered speaker has very deeper bass and great sound quality, the [**Tribit Stormbox Lava**](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=rankingspea01-20&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0DN5F9BC2?crid=M1QYE8RIXR3F&dib=eyJ2IjoiMSJ9.WmVp2OQp0cjxCVBTUu3TPC-yMUV3xyvSD1AksFn4cMzGjHj071QN20LucGBJIEps.YZ5lGxhmHfyU3_Z-pCLc0pT1AFFeS5_nBAXUmJtUnT4&dib_tag=rankingspea01-20&keywords=stormbox+lava&qid=1742487529&sprefix=stormbox+lava%2Caps%2C244&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=f7629462036d80fd2dc53426f92b9979&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c3vS4r8T)]: $100
 - Positives: Fantastic bass extension. Goes deeper than the Boom 2 as seen in the linked video of sound samples. Firmware 2.0.0 is a big improvement in neutrality.
 - Negatives: Quite heavy for the size. Some bass boost way down low. Treble and upper mids have some peaks.
 - Setup: Try out the Alan Ross EQ's at [this timestamp in his video](https://youtu.be/LQu4qpfcP6U?si=PbEEFlwg_eMxm67C&t=960) There's also a max bass EQ from [Oluv](http://youtube.com/post/UgkxKtErXfmFHSMTc-JB_qBuFFrk_A_QFXS-?si=NxRIIWmRqySIxVJK) and you can turn down the lowest slider for it to be more neutral
@@ -396,6 +399,8 @@ Tribit just like Souncore has had a few top hits with a bunch of mediocre speake
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 3.9" x 3.9" x 1.68"
+- Driver: 48mm NdFeB driver
 - EQ: Yes (9 Band)
 - IP Rating: IP67
 - Max Volume: 94dB
@@ -446,6 +451,7 @@ Harmon Kardon has one standout speaker that's always near the top of the size ch
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 17.28" x 9.45" x 7.56" (439 x 240 x 192 mm)
+- Driver: 1x 130mm (5") subwoofer + 2x 70mm midrange drivers + 2x 20mm tweeters
 - EQ: Yes (App EQ)
 - IP Rating: None
 - Max Volume: 103dB
@@ -486,6 +492,7 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 60ms
 - Bluetooth Version: 5.0
+- Built in Microphone: Yes
 - Dimensions: 4.0" diameter x 2.9" H (101.6 x 73mm)
 - Driver: 70mm custom driver
 - EQ: Yes
@@ -510,7 +517,7 @@ Minirig makes the best modular portable Bluetooth speakers. All of them can add 
 
 JBL makes by far the best party size speakers, although their smaller ones are okay too, but quite overpriced. They also make bigger sizes like the Partybox 520, Partybox 720 and Partybox Ultimate which are all fantastic speakers for their size classes.
 
-### This [party size](/portable/party/) battery powered speaker with excellent sound quality and very deep bass, the [**JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $550
+### This [party size](/portable/party/) battery powered speaker with excellent sound quality and very deep bass, the [**JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=rankingspea01-20&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=rankingspea01-20&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $550
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
@@ -543,7 +550,7 @@ JBL makes by far the best party size speakers, although their smaller ones are o
     - [Reddit Search for JBL Partybox Stage 320](https://www.reddit.com/search/?q=JBL+Partybox+Stage+320)
 
 
-### This smaller [party size](/portable/party/) battery powered speaker with excellent sound quality and very deep bass, the [**JBL Partybox Club 120**](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=se&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl)] [[Ebay refurbished](https://www.ebay.com/itm/396295454697?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fcvEHSiGikHJHN7%2Bphdgw6QBLYOovpUdRpupUis6UfBROTCb23Y97%2BzKhZgOV92qP1T0Gbf16oYSM%2FyyxvYoKIl9GFJmp3wcEiImTknU1078LfsJUb26pvz9%2BtMLQnwjNneANuVf0%2FhP4DQpjAm9ovEnMCqRxf3qoL4pqeMMexgzpSKlAqZqevOPYAtFTl0dk%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $400
+### This smaller [party size](/portable/party/) battery powered speaker with excellent sound quality and very deep bass, the [**JBL Partybox Club 120**](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=rankingspea01-20&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Club-120-Futuristic/dp/B0CTD6WMXT?crid=PZO9CROQP3YS&dib=eyJ2IjoiMSJ9.KYW8ETTbYeVFOOQATNjlv8JTMlDbuxuoSm5Wmt-_Bq09fQNascaEHjGJ6woZxW55sQXk28VEAjNTjt5cFTa4oq6uew0TP7GmncL1u6aQhvP6JdFu4gSvrWLdmdFxSjMuScX58r_70T5NhdDdatsoepuuTBMyE-dBO17fbPv4WdZbPiyLPwVi6cNbLEAmSYsOdvQUDmpXUyjBz2hlc8aF20SNwqkC72k9iS5vauEOuR4.KyNnCWvQ5H4axZRd0Brx0j8F9ya91lh8gZg4pZNwTdo&dib_tag=rankingspea01-20&keywords=partybox+120&qid=1713331702&sprefix=partybox+12%2Caps%2C178&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=ad0d8faa2e7eb70946b31abaf31a33bd&language=en_US&ref_=as_li_ss_tl)] [[Ebay refurbished](https://www.ebay.com/itm/396295454697?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1fcvEHSiGikHJHN7%2Bphdgw6QBLYOovpUdRpupUis6UfBROTCb23Y97%2BzKhZgOV92qP1T0Gbf16oYSM%2FyyxvYoKIl9GFJmp3wcEiImTknU1078LfsJUb26pvz9%2BtMLQnwjNneANuVf0%2FhP4DQpjAm9ovEnMCqRxf3qoL4pqeMMexgzpSKlAqZqevOPYAtFTl0dk%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $400
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Quite neutral sound. deeper bass than the 100 and 110. Removable battery.
 - Negatives: High price. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes
@@ -580,14 +587,17 @@ JBL makes by far the best party size speakers, although their smaller ones are o
 
 Bose speakers are generally tuned to have boosted upper bass which can mask the midrange and a warm tuning overall with a rolled off treble. Some people do prefer the Bose sound. Their best speakers are below.
 
-### This [medium size](/portable/medium/) battery powered speaker has a warm tuning, the [**Bose Soundlink Flex 2nd gen**](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=se&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl)]: $150
+### This [medium size](/portable/medium/) battery powered speaker has a warm tuning, the [**Bose Soundlink Flex 2nd gen**](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=rankingspea01-20&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0D6WD2QSQ?crid=3AUKK3ST8I1UK&dib=eyJ2IjoiMSJ9.I1605TFlY9RymYaIIRcmiSaKeLkrNh3kM6j1lktHaXzYh_1w84q662U9y-b7SV4Mok8Wo_klLVwBvy-NdTNAr_N17JP74SwLk1_noi43YZhyV8J1bgbrwOdWO4g9enF1EmvHmZYXCYmGdyLn1beMYpHMfS1d6zTPeUIIeYD95QkiagSZOp_RZH69MKSJIJAYu2STkfq5y2eyIsQ8PnCEowQjFBIq3bpSpOGJwKvAHfY.rSYgLPnmpdZus1AUPp_p2iP_7BoZYzOIL_pVlcjQVqA&dib_tag=rankingspea01-20&keywords=soundlink%2Bflex%2B2&qid=1728573629&sprefix=soundlink%2Bflex%2Caps%2C182&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=904e3764dff4bfbe68d437ce5e924954&language=en_US&ref_=as_li_ss_tl)]: $150
 - Positives: Pretty much identical sounding to the 1st gen
 - Negatives: Not stereo. Warm sounding with overly boosted bass which drowns out midrange detail. Self drains the battery about 10% a week.
 - App: Yes
+- Aux Input: No
 - Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC, AAC, aptX Adaptive
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 7.9" x 3.6" x 2.1" (201 x 90 x 52 mm)
+- Driver: 60mm full-range driver with passive radiators
 - EQ: Yes (3 band)
 - IP Rating: IP67
 - Party Mode: Yes (Bose Party mode)
@@ -624,6 +634,7 @@ Sonos speakers tend to be pretty high priced, but are the only option if you wan
 - Driver: mid-woofer, 2x angled tweeters
 - EQ: No
 - IP Rating: IP56
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

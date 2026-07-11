@@ -16,10 +16,14 @@ The Soundcore Boost “upgraded” 2021 ranks [#4 out of 131 total Medium Size P
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 150ms
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 204 x 72 x 69 mm (7.7 x 2.5 x 2.6 inches)
+- Driver: 1.75" x 2 active drivers and one passive radiator
 - EQ: Yes (9 band)
 - IP Rating: IPX7
 - Max Volume: 99dB
+- Output Power: 20W (10W × 2)
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

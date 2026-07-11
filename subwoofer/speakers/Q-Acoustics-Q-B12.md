@@ -12,8 +12,10 @@ The Q Acoustics Q B12 ranks [#99 out of 137 total Medium Powered Home Subwoofers
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 15.7"H x 15.7"W x 17.6"D (398.8 x 398.8 x 447.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 28-300Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 89.2 dB
 - Output SPL at 20 Hz: 92.4 dB
@@ -23,6 +25,7 @@ The Q Acoustics Q B12 ranks [#99 out of 137 total Medium Powered Home Subwoofers
 - Output SPL at 50 Hz: 108.6 dB
 - Output SPL at 63 Hz: 111.1 dB
 - Output SPL at 80 Hz: 111.7 dB
+- Power Output (Watts): 220W RMS
 - Warranty: 2
 - Weight: 47.4lbs / 21.5kg
 - Links

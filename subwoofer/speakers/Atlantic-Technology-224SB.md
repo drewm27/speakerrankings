@@ -12,8 +12,10 @@ The Atlantic Technology 224SB ranks [#117 out of 137 total Medium Powered Home S
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 13.25"H x 13.25"W x 15.4"D (336.5 x 336.5 x 391.2 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 33-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 74.8 dB
 - Output SPL at 20 Hz: 82.2 dB
@@ -23,6 +25,7 @@ The Atlantic Technology 224SB ranks [#117 out of 137 total Medium Powered Home S
 - Output SPL at 50 Hz: 106.3 dB
 - Output SPL at 63 Hz: 112.1 dB
 - Output SPL at 80 Hz: 113.1 dB
+- Power Output (Watts): 180W RMS
 - Warranty: 3
 - Weight: 31.0lbs / 14.1kg
 - Links

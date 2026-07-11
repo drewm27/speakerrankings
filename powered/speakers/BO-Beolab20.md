@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The B&O Beolab20 ranks #2 out of 2 total Large Size Powered Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The B&O Beolab20 ranks [#2 out of 2 total Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/#2-bo-beolab20-bang-olufsen-used-listings-15000-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The B&O Beolab20 ranks [#2 out of 2 total Large Size Powered Floorstanding Speakers](/powered/floorstanding-large/#2-bo-beolab20-bang-olufsen-15000-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #2 [B&O Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)] [[Used Listings](https://www.hifizero.com/index.php?q=Bang+%26+Olufsen+Beolab20)]: $15000 a pair
+## #2 [B&O Beolab20](https://www.bang-olufsen.com/en/us/speakers/beolab-20) [[Bang-olufsen](https://www.bang-olufsen.com/en/us/speakers/beolab-20)]: $15000 a pair
 - Positives: Nearly flat down to 20hz
 - Negatives: Overpriced and not recommended. 5dB dip at 7khz. Messy vertical directivity. Distortion at 700hz. Resonance at 5khz
 - App: Yes (B&O app)

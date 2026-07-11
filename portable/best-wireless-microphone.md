@@ -6,7 +6,7 @@ cover-img: "/assets/img/jblencore.jpg"
 share-description: "Expert rankings of 368 Bluetooth speakers with wireless microphone. Detailed specs, sound samples & EQ settings. Budget to premium picks from $40."
 ---
 
-**Looking for the best Bluetooth speaker for sound quality?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 02, 2026.**
+**Looking for the best Bluetooth speaker for sound quality?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -30,9 +30,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: ~30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: Dimensions not available
+- Driver: 8" woofer + tweeters
 - EQ: No
 - FM Tuner: No
+- IP Rating: IPX6
 - Microphone Input: Yes
+- Output Power: Specs not available
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -60,6 +64,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Version: 5.4
 - Built in Microphone: No
 - Dimensions: 12.58" x 13.33" x 10.35" (319.5 x 338.6 x 263 mm)
+- Driver: 1x 135mm (5.25") woofer + 2x 20mm (0.75") dome tweeters
 - EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110dB

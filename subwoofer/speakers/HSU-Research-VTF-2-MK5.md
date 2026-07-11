@@ -13,8 +13,10 @@ The HSU Research VTF-2 MK5 ranks [#22 out of 137 total Medium Powered Home Subwo
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.5"H x 15.0"W x 24.0"D (546.1 x 381.0 x 609.6 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 18–90Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 116.1 dB
 - Output SPL at 125 Hz: 115.8 dB
@@ -26,6 +28,7 @@ The HSU Research VTF-2 MK5 ranks [#22 out of 137 total Medium Powered Home Subwo
 - Output SPL at 50 Hz: 116.7 dB
 - Output SPL at 63 Hz: 117.1 dB
 - Output SPL at 80 Hz: 116.7 dB
+- Power Output (Watts): 350W RMS
 - Warranty: 7/2(+3)
 - Weight: 62.0lbs / 28.1kg
 - Links

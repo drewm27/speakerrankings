@@ -12,8 +12,10 @@ The JL Audio E110 ranks [#34 out of 137 total Medium Powered Home Subwoofers (30
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.24"H x 13.5"W x 16.51"D (361.7 x 342.9 x 419.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 21–143Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 114.8 dB
 - Output SPL at 125 Hz: 114.2 dB
@@ -25,6 +27,7 @@ The JL Audio E110 ranks [#34 out of 137 total Medium Powered Home Subwoofers (30
 - Output SPL at 50 Hz: 115.2 dB
 - Output SPL at 63 Hz: 116.4 dB
 - Output SPL at 80 Hz: 116.0 dB
+- Power Output (Watts): 1200W RMS
 - Warranty: 3
 - Weight: 52.7lbs / 23.9kg
 - Links

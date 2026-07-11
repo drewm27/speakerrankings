@@ -17,6 +17,7 @@ The Sony SRS-XP700 ranks [#11 out of 42 total Party Size Portable Bluetooth Spea
 - Bluetooth Version: 5.0
 - Charging Time: 3 hours
 - Dimensions: 12.32" x 27.28" x 14.45" (313 x 693 x 367 mm)
+- Driver: 2x 170mm woofers + 3x 60mm front tweeters + 1x 50mm rear tweeter
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None

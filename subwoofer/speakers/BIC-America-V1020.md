@@ -12,8 +12,10 @@ The BIC America V1020 ranks [#103 out of 137 total Medium Powered Home Subwoofer
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.5"H x 15.0"W x 13.0"D (419.1 x 381.0 x 330.2 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, side
+- Frequency Response: 26-180Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 73.3 dB
 - Output SPL at 25 Hz: 84.3 dB
@@ -22,6 +24,7 @@ The BIC America V1020 ranks [#103 out of 137 total Medium Powered Home Subwoofer
 - Output SPL at 50 Hz: 108.3 dB
 - Output SPL at 63 Hz: 110.1 dB
 - Output SPL at 80 Hz: 112.4 dB
+- Power Output (Watts): 160W RMS
 - Warranty: 7/2
 - Weight: 34.0lbs / 15.4kg
 - Links

@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The AsciLab C6B ranks #4 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The AsciLab C6B ranks [#4 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#4-ascilab-c6b-ascilab-used-listings-1145) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The AsciLab C6B ranks [#4 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#4-ascilab-c6b-ascilab-1145) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)] [[Used Listings](https://www.hifizero.com/index.php?q=AsciLab+C6B)]: $1145
+## #4 [AsciLab C6B](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/) [[Ascilab](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)]: $1145
 - Positives: Extremely good directivity and frequency response, and just an insane value for the price.
 - Bass Extension (-10dB): 35Hz
 - Bass Extension (-3dB): 54Hz
@@ -20,7 +20,7 @@ The AsciLab C6B ranks [#4 out of 48 total Large Size Bookshelf Speakers](/passiv
     - [Erin's Audio Corner: STOP Wasting Money on Bad Speakers – AsciLab C6B Review](https://www.youtube.com/watch?v=2I4WBxOsDDE)
     - [Erin's Audio Corner: I Tested 250 Speakers So You Don’t Have To!](https://www.youtube.com/watch?v=uTtCJKv6Y40)
 - Links
-    - [Official AsciLab C6B Website](https://ascilab.com/product/ascilab-c6b-passive-pair/17/category/26/display/1/)
+    - [Official AsciLab C6B Website](https://ascilab.com/product/ascilab-c6b-passive-pair/)
     - [Reddit Search for AsciLab C6B](https://www.reddit.com/search/?q=AsciLab+C6B)
 
 

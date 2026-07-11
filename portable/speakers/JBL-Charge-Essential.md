@@ -16,6 +16,7 @@ The JBL Charge Essential ranks [#67 out of 131 total Medium Size Portable Blueto
 - Driver: 2x 50mm fullrange
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
+- IP Rating: IPX7
 - Output Power: 20W RMS
 - Party Mode: No
 - Power Bank: Yes

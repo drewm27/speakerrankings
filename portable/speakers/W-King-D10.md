@@ -17,12 +17,15 @@ The W-King D10 ranks [#49 out of 67 total Boombox Size Portable Bluetooth Speake
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 133ms
 - Built in Microphone: No
+- Dimensions: Dimensions not found in search
+- Driver: 2x 40mm drivers + passive radiator
 - EQ: Yes (bass boost + DSP)
 - FM Tuner: No
 - IP Rating: IPX6
 - Max Volume: 106dB
 - MicroSD: Yes
 - Microphone Input: Yes
+- Output Power: 120W max / 70W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

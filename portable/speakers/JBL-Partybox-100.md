@@ -18,6 +18,7 @@ The JBL Partybox 100 ranks [#4 out of 42 total Party Size Portable Bluetooth Spe
 - Bluetooth Version: 4.2
 - Charging Time: 6.5 hours
 - Dimensions: 11.34" x 21.69" x 11.42" (288 x 551 x 290 mm)
+- Driver: 2x 5.25" (133mm) woofers + 2x 2.25" (57mm) tweeters
 - EQ: No
 - Frequency Response: 45Hz - 18kHz (Manufacturer specified)
 - Guitar Input: Yes

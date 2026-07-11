@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Velodyne Acoustics SPL-1200 Series II ranks #2 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Velodyne Acoustics SPL-1200 Series II ranks [#2 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#2-velodyne-acoustics-spl-1200-series-ii-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Velodyne Acoustics SPL-1200 Series II ranks [#2 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#2-velodyne-acoustics-spl-1200-series-ii-499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #2 Velodyne Acoustics SPL-1200 Series II
+## #2 Velodyne Acoustics SPL-1200 Series II: $499
 - CEA-2010-A Average (40-80Hz): 111.1 dB
 - Country: United States
 - Dimensions: 14.75"H x 14.25"W x 16.37"D (374.6 x 361.9 x 415.8 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen

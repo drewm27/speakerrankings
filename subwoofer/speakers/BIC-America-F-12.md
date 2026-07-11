@@ -12,8 +12,10 @@ The BIC America F-12 ranks [#89 out of 137 total Medium Powered Home Subwoofers 
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.0"H x 14.75"W x 17.25"D (431.8 x 374.6 x 438.1 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
+- Frequency Response: 25-200Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 110.0 dB
 - Output SPL at 125 Hz: 106.7 dB
@@ -25,6 +27,7 @@ The BIC America F-12 ranks [#89 out of 137 total Medium Powered Home Subwoofers 
 - Output SPL at 50 Hz: 110.6 dB
 - Output SPL at 63 Hz: 113.3 dB
 - Output SPL at 80 Hz: 111.9 dB
+- Power Output (Watts): 150W RMS
 - Warranty: 5
 - Weight: 42.0lbs / 19.1kg
 - Links

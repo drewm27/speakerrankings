@@ -14,7 +14,7 @@ See the [Best Bluetooth Speakers For Sound Quality](/portable/best-sound-quality
 
 For longer runtime, check out a [power bank](/portable-power-stations/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -30,6 +30,8 @@ Last updated: June 02, 2026
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 3.9" x 3.9" x 1.68"
+- Driver: 48mm NdFeB driver
 - EQ: Yes (9 Band)
 - IP Rating: IP67
 - Max Volume: 94dB
@@ -62,7 +64,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Tribit Stormbox Micro 2](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro+2)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Micro-2/)
 
-## #2 [Soundcore Boom Go 3i](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=se&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl)]: $60
+## #2 [Soundcore Boom Go 3i](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=rankingspea01-20&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Portable-Bluetooth-Emergency-Waterproof/dp/B0GFN72RL1?crid=3EV80DETMW28B&dib=eyJ2IjoiMSJ9.2GLbMpAf3T0bR0nTCXYkhbaeCQuvQmL4oeBL1Ne3_WoH2BPhteWrNaxbTjpu4pS_rAnI_VnOdv6xV45i4jxHWlIpl1fkillKlBLhB1XH__8PIKrbMvCnMOdUrW4pS5F7JNlZVfMcDiBVC3eUgi_BWnCTZinAhlsXueKRbtRfhFs4JBMuwiNTinBt94JmOka98XwIrdNbfbuMFyq2F-GTeyy2zFzjfQM9vYuj8s3C0a0.xEaJ-M8aW2AIqLHaHc288yvs8qaVgnuizcCgJKk-d3o&dib_tag=rankingspea01-20&keywords=soundcore%2Bboom%2B3i%2Bgo&qid=1773085195&sprefix=soundcore%2Bboom%2B3i%2B%2Caps%2C275&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=7918dde5e0d4b07d1db0034a519397f2&language=en_US&ref_=as_li_ss_tl)]: $60
 - Negatives: Sounds a bit piercing and metallic. Bass knocks a little bit. Peak at 10khz
 - Setup: Try out [Oluv's EQ](https://www.patreon.com/posts/soundcore-boom-153330904) which slightly improves the sound
 - App: Yes
@@ -71,6 +73,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 6.0
 - Built in Microphone: Yes
+- Dimensions: 4.02" x 4.17" x 1.79"
+- Driver: 25mm tweeter + 42mm woofer + passive radiators
 - EQ: Yes
 - IP Rating: IP68
 - Max Volume: 92dB
@@ -135,9 +139,12 @@ Last updated: June 02, 2026
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
+- Dimensions: 84mm x 53mm (depth not listed)
+- Driver: 52mm custom neodymium
 - EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 92dB
+- Output Power: 15W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable
@@ -162,9 +169,12 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 180ms
 - Built in Microphone: Yes
+- Dimensions: 3.9" x 3.9" x 1.4"
+- Driver: 48mm NdFeB
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 93dB
+- Output Power: 13W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -184,7 +194,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Tribit Stormbox Micro](https://www.reddit.com/search/?q=Tribit+Stormbox+Micro)
     - [Direct Speakerranking Link](/portable/speakers/Tribit-Stormbox-Micro/)
 
-## #6 [Tribit Stormbox Micro 3](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=se&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=se&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl)]: $65
+## #6 [Tribit Stormbox Micro 3](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=rankingspea01-20&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=rankingspea01-20&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl)]: $65
 - Positives: Deeper bass than the last one by a little
 - Negatives: Thuddy distorted bass by default, needs an EQ to fix. Hopefully Tribit fixes this in the DSP with an update. Treble 
 - App: Yes
@@ -194,6 +204,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 6.0
 - Built in Microphone: Yes
+- Dimensions: 4.41" x 4.25" x 1.77"
+- Driver: 48mm NdFeB driver with coaxial passive radiators
 - EQ: Yes (9 Band)
 - IP Rating: IP68
 - Max Volume: 93dB
@@ -222,6 +234,7 @@ Last updated: June 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
 - Dimensions: 4.21" x 4.02" x 1.81" (107 x 102 x 46 mm)
+- Driver: 50mm woofer + 20mm tweeter
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
@@ -249,6 +262,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 2.8" x 2.8" x 3.6"
+- Driver: 52mm full-range driver
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 87dB
@@ -278,6 +293,8 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Charging Time: 3-4 hours
+- Dimensions: 2.8" x 2.8" x 3.3"
+- Driver: 52mm full-range driver
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 87dB
@@ -311,6 +328,7 @@ Last updated: June 02, 2026
 - Frequency Response: 78Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX4
 - NFC: Yes
+- Output Power: 78W peak
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -324,7 +342,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Vifa City](https://www.reddit.com/search/?q=Vifa+City)
     - [Direct Speakerranking Link](/portable/speakers/Vifa-City/)
 
-## #11 [Marshall Willen II](https://www.amazon.com/Marshall-Willen-Bluetooth-Portable-Speaker/dp/B0DD7T8H2Q?crid=7ZS5E7TLNPNP&dib=eyJ2IjoiMSJ9.FZNYe2S42Y8HOncodzYv1mZs-1dVZLBw4sOFi1IkxIAQcDSl_zCAluAEeoeBIVKdK_jAmGXdFASXTS7GTroIPHUH9D0T3r676haccfipsTttXTrk359bpBxDAnJ281aDfpR9PwYZs-Qypqfa6iRSjIAPsc35iw1p35CPFV7QTXWqnkBbNq47BMc9MgEQ6U77_6eQwex6tH-6wRY1y1zv77bvcaw--4erPGZaOu_6wX4.zgkJb9HPQHNsjOaOgG62_XXUsvV7EJGVU6GV12-C72A&dib_tag=se&keywords=marshall%2Bwillen%2Bii&qid=1767424320&sprefix=marshall%2Bwallen%2Bii%2Caps%2C230&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1d5e0398a3bec43a94ae96d8d9afaf31&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Willen-Bluetooth-Portable-Speaker/dp/B0DD7T8H2Q?crid=7ZS5E7TLNPNP&dib=eyJ2IjoiMSJ9.FZNYe2S42Y8HOncodzYv1mZs-1dVZLBw4sOFi1IkxIAQcDSl_zCAluAEeoeBIVKdK_jAmGXdFASXTS7GTroIPHUH9D0T3r676haccfipsTttXTrk359bpBxDAnJ281aDfpR9PwYZs-Qypqfa6iRSjIAPsc35iw1p35CPFV7QTXWqnkBbNq47BMc9MgEQ6U77_6eQwex6tH-6wRY1y1zv77bvcaw--4erPGZaOu_6wX4.zgkJb9HPQHNsjOaOgG62_XXUsvV7EJGVU6GV12-C72A&dib_tag=se&keywords=marshall%2Bwillen%2Bii&qid=1767424320&sprefix=marshall%2Bwallen%2Bii%2Caps%2C230&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1d5e0398a3bec43a94ae96d8d9afaf31&language=en_US&ref_=as_li_ss_tl)]: $87
+## #11 [Marshall Willen II](https://www.amazon.com/Marshall-Willen-Bluetooth-Portable-Speaker/dp/B0DD7T8H2Q?crid=7ZS5E7TLNPNP&dib=eyJ2IjoiMSJ9.FZNYe2S42Y8HOncodzYv1mZs-1dVZLBw4sOFi1IkxIAQcDSl_zCAluAEeoeBIVKdK_jAmGXdFASXTS7GTroIPHUH9D0T3r676haccfipsTttXTrk359bpBxDAnJ281aDfpR9PwYZs-Qypqfa6iRSjIAPsc35iw1p35CPFV7QTXWqnkBbNq47BMc9MgEQ6U77_6eQwex6tH-6wRY1y1zv77bvcaw--4erPGZaOu_6wX4.zgkJb9HPQHNsjOaOgG62_XXUsvV7EJGVU6GV12-C72A&dib_tag=rankingspea01-20&keywords=marshall%2Bwillen%2Bii&qid=1767424320&sprefix=marshall%2Bwallen%2Bii%2Caps%2C230&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1d5e0398a3bec43a94ae96d8d9afaf31&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Marshall-Willen-Bluetooth-Portable-Speaker/dp/B0DD7T8H2Q?crid=7ZS5E7TLNPNP&dib=eyJ2IjoiMSJ9.FZNYe2S42Y8HOncodzYv1mZs-1dVZLBw4sOFi1IkxIAQcDSl_zCAluAEeoeBIVKdK_jAmGXdFASXTS7GTroIPHUH9D0T3r676haccfipsTttXTrk359bpBxDAnJ281aDfpR9PwYZs-Qypqfa6iRSjIAPsc35iw1p35CPFV7QTXWqnkBbNq47BMc9MgEQ6U77_6eQwex6tH-6wRY1y1zv77bvcaw--4erPGZaOu_6wX4.zgkJb9HPQHNsjOaOgG62_XXUsvV7EJGVU6GV12-C72A&dib_tag=rankingspea01-20&keywords=marshall%2Bwillen%2Bii&qid=1767424320&sprefix=marshall%2Bwallen%2Bii%2Caps%2C230&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=1d5e0398a3bec43a94ae96d8d9afaf31&language=en_US&ref_=as_li_ss_tl)]: $87
 - Positives: More balanced than the first Willen, no sharp treble
 - Negatives: Not that deep of bass.
 - App: Yes
@@ -355,7 +373,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Marshall Willen II](https://www.reddit.com/search/?q=Marshall+Willen+II)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Willen-II/)
 
-## #12 [Ultimate Ears Miniroll](https://www.amazon.com/Ultimate-Ears-Ultra-Portable-Waterproof-Bluetooth/dp/B0DCJ9N5XR?crid=DQZM52IWZGYR&dib=eyJ2IjoiMSJ9._KdxEPub1GVqSmllBIRBmn6TEIVpL_ul7mV2-h3OxdZ7f3xSfnSUPpYLRhCX_83Df9bROdU1DZg3iCBCEvKooR2UrMUtiXYLCuWqoczOa_4xF0BjBxPom2Bllucmy5IGsKCwJM8M_vSmgflrVykPO4O3cbo__Vf6UWmaBpaZh2oYAY4nJfeEpmDF1cUFSUgd._Lzi6usjmoC7imxg_VR9NFMebHhi6RlBslLRpUfXSb4&dib_tag=se&keywords=ultimate%2Bears%2Bmini%2Broll&qid=1727415307&sprefix=ultimate%2Bears%2Bmini%2Caps%2C287&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=adddda2569fe9919d7456003c55b447c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Ultra-Portable-Waterproof-Bluetooth/dp/B0DCJ9N5XR?crid=DQZM52IWZGYR&dib=eyJ2IjoiMSJ9._KdxEPub1GVqSmllBIRBmn6TEIVpL_ul7mV2-h3OxdZ7f3xSfnSUPpYLRhCX_83Df9bROdU1DZg3iCBCEvKooR2UrMUtiXYLCuWqoczOa_4xF0BjBxPom2Bllucmy5IGsKCwJM8M_vSmgflrVykPO4O3cbo__Vf6UWmaBpaZh2oYAY4nJfeEpmDF1cUFSUgd._Lzi6usjmoC7imxg_VR9NFMebHhi6RlBslLRpUfXSb4&dib_tag=se&keywords=ultimate%2Bears%2Bmini%2Broll&qid=1727415307&sprefix=ultimate%2Bears%2Bmini%2Caps%2C287&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=adddda2569fe9919d7456003c55b447c&language=en_US&ref_=as_li_ss_tl)]: $50
+## #12 [Ultimate Ears Miniroll](https://www.amazon.com/Ultimate-Ears-Ultra-Portable-Waterproof-Bluetooth/dp/B0DCJ9N5XR?crid=DQZM52IWZGYR&dib=eyJ2IjoiMSJ9._KdxEPub1GVqSmllBIRBmn6TEIVpL_ul7mV2-h3OxdZ7f3xSfnSUPpYLRhCX_83Df9bROdU1DZg3iCBCEvKooR2UrMUtiXYLCuWqoczOa_4xF0BjBxPom2Bllucmy5IGsKCwJM8M_vSmgflrVykPO4O3cbo__Vf6UWmaBpaZh2oYAY4nJfeEpmDF1cUFSUgd._Lzi6usjmoC7imxg_VR9NFMebHhi6RlBslLRpUfXSb4&dib_tag=rankingspea01-20&keywords=ultimate%2Bears%2Bmini%2Broll&qid=1727415307&sprefix=ultimate%2Bears%2Bmini%2Caps%2C287&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=adddda2569fe9919d7456003c55b447c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Ultimate-Ears-Ultra-Portable-Waterproof-Bluetooth/dp/B0DCJ9N5XR?crid=DQZM52IWZGYR&dib=eyJ2IjoiMSJ9._KdxEPub1GVqSmllBIRBmn6TEIVpL_ul7mV2-h3OxdZ7f3xSfnSUPpYLRhCX_83Df9bROdU1DZg3iCBCEvKooR2UrMUtiXYLCuWqoczOa_4xF0BjBxPom2Bllucmy5IGsKCwJM8M_vSmgflrVykPO4O3cbo__Vf6UWmaBpaZh2oYAY4nJfeEpmDF1cUFSUgd._Lzi6usjmoC7imxg_VR9NFMebHhi6RlBslLRpUfXSb4&dib_tag=rankingspea01-20&keywords=ultimate%2Bears%2Bmini%2Broll&qid=1727415307&sprefix=ultimate%2Bears%2Bmini%2Caps%2C287&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=adddda2569fe9919d7456003c55b447c&language=en_US&ref_=as_li_ss_tl)]: $50
 - Negatives: Bass not quite as deep as the best rated speakers
 - App: No
 - Aux Input: No
@@ -368,6 +386,7 @@ Last updated: June 02, 2026
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 83dB
+- Output Power: 3W RMS
 - Party Mode: Yes (Only with other Miniroll)
 - Power Bank: No
 - Power Input: USB-C
@@ -391,6 +410,8 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
+- Dimensions: 6.9" x 6.9" x 6.9"
+- Driver: 1x 2" (50mm) full-range driver + 1x passive radiator
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None
@@ -443,7 +464,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Marshall Willen](https://www.reddit.com/search/?q=Marshall+Willen)
     - [Direct Speakerranking Link](/portable/speakers/Marshall-Willen/)
 
-## #15 [Klipsch Austin](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=se&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=se&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl)]: $80
+## #15 [Klipsch Austin](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=rankingspea01-20&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=rankingspea01-20&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl)]: $80
 - Negatives: Not as deep bass as higher ranked speakers
 - App: Yes
 - Aux Input: No
@@ -458,6 +479,7 @@ Last updated: June 02, 2026
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 89dB
+- Output Power: 10W RMS
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes (10W reverse USB-C charging)
 - Power Input: USB-C
@@ -486,6 +508,7 @@ Last updated: June 02, 2026
 - Driver: 51mm full-range and 19mm tweeter
 - EQ: Yes
 - IP Rating: None
+- Output Power: 15W RMS (per channel)
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -511,6 +534,7 @@ Last updated: June 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 4.65" x 5.31" x 1.71" (118 x 135 x 43.5 mm)
+- Driver: 1x 50mm full-range driver + 2x 52x32mm passive radiators
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 97dB
@@ -529,7 +553,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Mifa Tango](https://www.reddit.com/search/?q=Mifa+Tango)
     - [Direct Speakerranking Link](/portable/speakers/Mifa-Tango/)
 
-## #18 [Bose Soundlink Micro 2](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=se&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=se&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl)]: $129
+## #18 [Bose Soundlink Micro 2](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=rankingspea01-20&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0FDLD34V5?crid=1W0E9FM4SI7DO&dib=eyJ2IjoiMSJ9.TaeREQGkI-HM-l5HE7uthObFhI7KsrxrGN6FYww2fNNeTF5XF6eFMnAhNOUAEC4abKcJmxJA0jWKFX2Rs2OV2opPf0JdMjcgY2Tfek0KZJiTbfLixjzhJDHp2LnvoqpzaEFG_zPLCvg68nt9EQk2hmLMtDKN9rtz3kdrF1-DtC1IUcnxJl-i1JP1Ye0UpNRXAAeMpS8YuL3sTmqsnGyL2K8ot5mnDGheDrll8LN83a4.DyKQWy9MU7I6duOKW6xuqiL2aabBJPcKBH9HvcUKyfM&dib_tag=rankingspea01-20&keywords=soundlink%2Bmicro%2B2&qid=1773768617&sprefix=soundlin%2Caps%2C267&sr=8-3&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=ce9f5a92fc12eb5e4b22f50b709096df&language=en_US&ref_=as_li_ss_tl)]: $129
 - Negatives: Lack of clarity. Overly boosted bass that causes some thudding. Overly boosted treble, turn down bass and treble in the EQ.
 - App: Yes
 - Aux Input: No
@@ -539,8 +563,10 @@ Last updated: June 02, 2026
 - Built in Microphone: No
 - Charging Time: 3 hours
 - Dimensions: 4.094" x 4.094" x 1.693" (104 x 104 x 43 mm)
+- Driver: 40mm full-range driver with passive radiator
 - EQ: Yes
 - IP Rating: IP67
+- Output Power: Specs not published by manufacturer
 - Party Mode: Yes (Bose Party mode)
 - Power Bank: No
 - Power Input: USB-C
@@ -617,7 +643,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Tozo PE1](https://www.reddit.com/search/?q=Tozo+PE1)
     - [Direct Speakerranking Link](/portable/speakers/Tozo-PE1/)
 
-## #21 [JBL Clip 5](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=se&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808901-REG/jbl_jblclip5blkam_clip_5_portable_waterproof.html?BI=23745&KBID=29189)]: $60
+## #21 [JBL Clip 5](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=rankingspea01-20&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-Clip-Ultra-Portable-Waterproof-Integrated/dp/B0CTP56C5R?crid=QXSNXF8X224J&dib=eyJ2IjoiMSJ9.xsC_mvJtTURVX-V3tm5w1ke0OsaFZ5ZnzqAqbd7UUAttqVT2-tlTNjC2E0OPysDfhhiORSUGtbjYBY-0qEACo0zz8VyuhiwQXFbOZwOX2_uUtLagJCtCU3fmoui9PxUIrwTLgRhh5ATxwKL7OGn-USFSQxEdf8MsJmBAFjgLI8LmBF-mYcPnH4PNQP144XRNArLkxQGfXOOLQ19YfD419JpLOFzHu7eODncw71wydO4.NAuBLzLalpXASc_QOZWBjkVrmSrqlusUWeOcJTPvfok&dib_tag=rankingspea01-20&keywords=jbl%2Bclip%2B5&qid=1717132237&sprefix=jbl%2Bclip%2B%2Caps%2C296&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=a200279dd9b82c7b724ae46ac59b35bd&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808901-REG/jbl_jblclip5blkam_clip_5_portable_waterproof.html?BI=23745&KBID=29189)]: $60
 - Negatives: Generally more of the same from the Clip series in terms of sound but with more features. Basically about the same as the Clip 4
 - App: Yes
 - Aux Input: No
@@ -626,6 +652,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 3.39" x 5.3" x 1.81" (86 x 134.5 x 46 mm)
+- Driver: 1x ~50mm (2") full-range driver + 1x passive radiator
 - EQ: Yes
 - Frequency Response: 95Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
@@ -654,6 +681,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
 - Dimensions: 3.39" x 5.31" x 1.81" (86 x 135 x 46 mm)
+- Driver: 1x 40mm (1.57") full-range driver + 1x passive radiator
 - EQ: No
 - Frequency Response: 100Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
@@ -677,7 +705,7 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Clip 4](https://www.reddit.com/search/?q=JBL+Clip+4)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-4/)
 
-## #23 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=se&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1933048-REG/soundcore_by_anker_a31x1012_select_4_go_bluetooth.html?BI=23745&KBID=29189)]: $25
+## #23 [Soundcore Select 4 Go](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=rankingspea01-20&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Soundcore-Bluetooth-Waterproof-Dustproof-Floatable/dp/B0DB1753RZ?crid=4Y4VVTUAIE1C&dib=eyJ2IjoiMSJ9.RvFMq8unWB_e5U629kwmn_UmYIrjBq5j2wBQdHQpWn5kbrhqGl2PMhlqI1dHhB_tyJMDKtIAEDC-o9kUUlIUXl6tMiH2b0fIpnAjw8N9Dly47--zpYtxSW6eDKoF5E-voEUyuI2pzr5vFyO9Ck_ph1DhxPiot2mB7eIP5f5eH958Wo6Xn9pNQAL3B4sc_7uhldyNXhbZ3XmLQM7qrLpqqP_w2A8_bENbUlAOUVUStO4.syRBU1lz5QYlses7nrpaspAkDBRxLCt_GQqTjWGyac4&dib_tag=rankingspea01-20&keywords=soundcore%2Bselect%2B4%2Bgo&qid=1727415690&sprefix=soundcore%2Bsel%2Caps%2C217&sr=8-3&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=7037cdd01a9e19694f5b38014f438f09&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1933048-REG/soundcore_by_anker_a31x1012_select_4_go_bluetooth.html?BI=23745&KBID=29189)]: $25
 - Positives: Quite inexpensive for what you get
 - Negatives: Not as deep of bass as higher ranked speakers
 - App: Yes
@@ -707,7 +735,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Soundcore Select 4 Go](https://www.reddit.com/search/?q=Soundcore+Select+4+Go)
     - [Direct Speakerranking Link](/portable/speakers/Soundcore-Select-4-Go/)
 
-## #24 [JBL Go 4](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/s?k=jbl+go+4&crid=1GKCWORDMCRAK&sprefix=jbl+go+%2Caps%2C223&linkCode=ll2&tag=rankingspea01-20&linkId=a2a3851922edcfa09ab37f23b8bbdd20&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
+## #24 [JBL Go 4](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189) [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808907-REG/jbl_jblgo4blkam_go_4_portable_bluetooth.html?BI=23745&KBID=29189)]: $50
 - Positives: A little more bass than the Go 3 and they fixed the strange mids peak.
 - Negatives: Not much bass at all
 - App: Yes
@@ -752,6 +780,7 @@ Last updated: June 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
 - Dimensions: 3.39" x 2.72" x 1.57" (86 x 69 x 40 mm)
+- Driver: 36mm full-range driver
 - EQ: No
 - Frequency Response: 110Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
@@ -786,8 +815,11 @@ Last updated: June 02, 2026
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 4.72" x 2.28" x 2.56"
+- Driver: 1.5" full-range driver
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 3-5W
 - Party Mode: Yes
 - Power Bank: No
 - Power Input: USB-C
@@ -802,7 +834,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Onn Small Rugged Speaker](https://www.reddit.com/search/?q=Onn+Small+Rugged+Speaker)
     - [Direct Speakerranking Link](/portable/speakers/Onn-Small-Rugged-Speaker/)
 
-## #27 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=se&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl)]: $40
+## #27 [Monster Atomic Atom](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=rankingspea01-20&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Wearable-Bluetooth-Hands-Free-Waterproof/dp/B0F1MTDWJC?crid=2BKY9LMXVG9EB&dib=eyJ2IjoiMSJ9.2mZKcdyapg0g-Xyt388OUOwedlMxc_xz_JYGQGdbdTY.VmFzjrmiaXEM5FN0AHqDs_O9yExPFfBjM674YvMgMuE&dib_tag=rankingspea01-20&keywords=monster+atomic+atom&qid=1748408313&sprefix=monster+atomic+atom%2Caps%2C254&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=2e68760f043ea714cd90901021ae4714&language=en_US&ref_=as_li_ss_tl)]: $40
 - Positives: Very small, one of the smallest in the small class and good performance based on the size and weight. Nice magnetic clip with hole for hanging
 - Negatives: For the small class, lacking quite a bit of bass compared to the top ranked speakers
 - App: No
@@ -813,6 +845,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Charging Time: 2 hours
+- Dimensions: 2.56" x 1.88" x 1.26"
 - Driver: 33mm
 - EQ: No
 - IP Rating: IPX5
@@ -841,10 +874,12 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 3.93" x 3.93" x 1.77"
 - Driver: 1.75"
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: Specs not clearly published
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -856,7 +891,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Dayton Audio Boost Mini](https://www.reddit.com/search/?q=Dayton+Audio+Boost+Mini)
     - [Direct Speakerranking Link](/portable/speakers/Dayton-Audio-Boost-Mini/)
 
-## #29 [Monster Bluetooth Speaker](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=se&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=se&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl)]: $28
+## #29 [Monster Bluetooth Speaker](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=rankingspea01-20&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monster-Bluetooth-Waterproof-Playtime-Portable/dp/B0DSKDBSP7?crid=RI38HAPTOF36&dib=eyJ2IjoiMSJ9.o3U821xc0MB0PZrlz834-jqYy3eIY_QmMmCStmSdDR9wNbVvcos_cvgyXO8DF3viS-y1JaS8leRTL6OEs7Ey-P6EoYSA1k9WsT_hmxD4h90ZX6aK54pcTSUA3Y2rvqP-Zz8ikwxPSN20WS1WNxpgHvKan8dkMkQgmCshpXb2VuwRMxNp8U_oyB7ao5PQZGRPwhu8QGvDRkFSCXa_gkm-Ma9RZrNUT-7m6zmSR0Tcw6o.hGxw8Bq0XDsa-1xhzXLwy7Xt1gDL-pZaAsNifPaYQ_g&dib_tag=rankingspea01-20&keywords=monster+bluetooth+speaker+pocket&qid=1753409789&sprefix=monster+bluetooth+speaker+pock%2Caps%2C283&sr=8-18&linkCode=ll1&tag=rankingspea01-20&linkId=736d806c573152e91a1a9754ae8e5f98&language=en_US&ref_=as_li_ss_tl)]: $28
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off. Same hardware as the Boat Stone 190/193 and Dayton Audio Boost Mini
 - App: No
@@ -865,9 +900,12 @@ Last updated: June 02, 2026
 - Battery Life: 6.5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: Specifications vary by model
+- Driver: 1.4" full-range driver
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes
+- Output Power: 5W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -878,7 +916,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Monster Bluetooth Speaker](https://www.reddit.com/search/?q=Monster+Bluetooth+Speaker)
     - [Direct Speakerranking Link](/portable/speakers/Monster-Bluetooth-Speaker/)
 
-## #30 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]
+## #30 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]: $39
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No
@@ -889,6 +927,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Charging Time: 1.5 hours
+- Dimensions: 105mm x 105mm x 67mm
 - Driver: 52mm
 - EQ: No
 - Frequency Response: 70Hz - 70kHz (Manufacturer specified)
@@ -947,6 +986,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 4.5 hours
+- Dimensions: 76mm diameter x 95mm height
 - Driver: 46mm
 - EQ: No
 - IP Rating: IP67
@@ -974,8 +1014,11 @@ Last updated: June 02, 2026
 - Battery Life: 5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: Original dimensions not available (Clip 3: 5.4" x 3.8" x 1.8")
+- Driver: 1.57" (40mm) driver
 - EQ: No
 - IP Rating: None
+- Output Power: 7W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Wall Wart
@@ -1001,6 +1044,7 @@ Last updated: June 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 3.82" x 5.39" x 1.81" (97 x 137 x 46 mm)
+- Driver: 1.57" (40mm) driver
 - EQ: No
 - Frequency Response: 120Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
@@ -1018,15 +1062,18 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Clip 3](https://www.reddit.com/search/?q=JBL+Clip+3)
     - [Direct Speakerranking Link](/portable/speakers/JBL-Clip-3/)
 
-## #35 Xiaomi Mi Portable Outdoor
+## #35 Xiaomi Mi Portable Outdoor: $79
 - Negatives: Not much bass, treble rolled off
 - App: No
 - Aux Input: No
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 196.6mm x 68mm x 66mm
+- Driver: 20W woofer + 10W mid-range + 2 passive radiators
 - EQ: No
 - IP Rating: None
+- Output Power: 30W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1039,7 +1086,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Xiaomi Mi Portable Outdoor](https://www.reddit.com/search/?q=Xiaomi+Mi+Portable+Outdoor)
     - [Direct Speakerranking Link](/portable/speakers/Xiaomi-Mi-Portable-Outdoor/)
 
-## #36 Hopestar H54
+## #36 Hopestar H54: $49
 - Negatives: Bright treble, not much bass, harsh mids
 - App: No
 - Aux Input: Yes
@@ -1047,6 +1094,7 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 14cm x 12cm x 7cm
 - Driver: 52mm
 - EQ: No
 - Frequency Response: 80Hz - 15kHz (Manufacturer specified)
@@ -1058,6 +1106,7 @@ Last updated: June 02, 2026
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Weight: 500g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links
@@ -1065,7 +1114,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Hopestar H54](https://www.reddit.com/search/?q=Hopestar+H54)
     - [Direct Speakerranking Link](/portable/speakers/Hopestar-H54/)
 
-## #37 Sony SRS-XB12
+## #37 Sony SRS-XB12: $79
 - Positives: Aux in
 - Negatives: Muddy, not much bass, peaky treble.
 - App: No
@@ -1077,6 +1126,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 4.5 hours
+- Dimensions: 74mm diameter x 92mm height
 - Driver: 46mm
 - EQ: No
 - IP Rating: IP67
@@ -1097,7 +1147,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Sony SRS-XB12](https://www.reddit.com/search/?q=Sony+SRS-XB12)
     - [Direct Speakerranking Link](/portable/speakers/Sony-SRS-XB12/)
 
-## #38 [Muzen Wild Mini](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=se&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl)]: $75
+## #38 [Muzen Wild Mini](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=rankingspea01-20&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Bluetooth-Portable-Wireless-Waterproof/dp/B08NT7MWF1?crid=2MRKREOEMU86L&dib=eyJ2IjoiMSJ9.ddZbhnsYOmuAXuGVHIJVgBsXSKOeX2DOwPniZBzxjd8CBxanMPzf8nI3Vkl_Ec8ji8E2ZKDAJoZ3A2HSY_qLLDRJko8L7YqJb1WFOWH19WCDK6gDtVMqgeHQDff2dnyPUhEkNgwxM8N0lyJ3zQfFHr_UimUeyowm6U1Yug1A6svsFwuOh4lA1CH5ex4qRlOofgenqyfcC2SbHxQcXBZEdYK2dNYUqyzdq_UE-82G8WM.9B_zRVsIt4fCYP6m8RLRSMU9M1Cnb7pcWHTkgRbK-Pw&dib_tag=rankingspea01-20&keywords=muzen%2Bwild%2Bmini&qid=1740603864&sprefix=muzen%2Bwild%2Bm%2Caps%2C188&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b478129f37ff712180f263988376af20&language=en_US&ref_=as_li_ss_tl)]: $75
 - Negatives: Not much bass at all, quite thuddy. Not very loud. Only IPX5, not submersible. Short battery life.
 - App: No
 - Aux Input: No
@@ -1106,6 +1156,7 @@ Last updated: June 02, 2026
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 2.39" x 1.48" x 3.07" (60.8 x 37.5 x 77.9 mm)
+- Driver: 1.3" full-range driver
 - EQ: No
 - Frequency Response: 80Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX5
@@ -1125,7 +1176,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Muzen Wild Mini](https://www.reddit.com/search/?q=Muzen+Wild+Mini)
     - [Direct Speakerranking Link](/portable/speakers/Muzen-Wild-Mini/)
 
-## #39 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=se&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl)]: $51
+## #39 [Muzen Wild Go](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=rankingspea01-20&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Muzen-Portable-Bluetooth-Waterproof-Wireless/dp/B0BV6MK8MB?crid=2TVQKIEM2H80J&dib=eyJ2IjoiMSJ9._5fib0U2asTWcA8cC_-OpVHISizdbtilupCCl0k0fhasenKIrfrtappjWyy0ZwRw59wgJc0PphIqTB9RBpCGcvXh_rFaUQXqcfQHD8IWDGM.Sbu8gqabIRaXUEhX7Kmjm5agngEhKFeYAOwql6HNg5U&dib_tag=rankingspea01-20&keywords=muzen%2Bwild%2Bgo&qid=1716409989&sprefix=muze%2Caps%2C174&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef239e126f643426712dcf031b88b010&language=en_US&ref_=as_li_ss_tl)]: $51
 - Negatives: Not much bass at all, quite thuddy. Not very loud. Only IPX5, not submersible. Short battery life.
 - App: No
 - Aux Input: No
@@ -1135,6 +1186,7 @@ Last updated: June 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 2 hours
 - Dimensions: 2.97" x 1.4" x 2.32" (75.5 x 35.5 x 59 mm)
+- Driver: 2x 36mm full-range drivers
 - EQ: No
 - Frequency Response: 80Hz - 18kHz (Manufacturer specified)
 - IP Rating: IPX5
@@ -1164,6 +1216,7 @@ Last updated: June 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 5.51" x 2.96" x 1.03" (140 x 75.2 x 26.1 mm)
+- Driver: 2x 44.5mm (~1.75") full-range drivers
 - EQ: No
 - Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
@@ -1193,6 +1246,7 @@ Last updated: June 02, 2026
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 4.33" x 4.33" x 1.34" (110 x 110 x 34.1 mm)
+- Driver: 1.6" full-range driver
 - EQ: No
 - Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
@@ -1221,6 +1275,8 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 165mm x 75mm x 11mm
+- Driver: 1.5" full-range driver
 - EQ: No
 - Frequency Response: 220Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX2
@@ -1240,7 +1296,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Lenovo 700 Ultraportable Bluetooth Speaker](https://www.reddit.com/search/?q=Lenovo+700+Ultraportable+Bluetooth+Speaker)
     - [Direct Speakerranking Link](/portable/speakers/Lenovo-700-Ultraportable-Bluetooth-Speaker/)
 
-## #43 [Noxgear 39g](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=se&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl)]: $70
+## #43 [Noxgear 39g](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=rankingspea01-20&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Noxgear-39g-Wearable-Bluetooth-Speaker/dp/B087MXMWHN?crid=219Q0J8RD90ER&dib=eyJ2IjoiMSJ9.fUx19L7rrRcFcnoTYPrXX7iCJkIchvvpp6lsvffGZoE3_3hMmN9w2YiNbwQUbcD6BB93zJNS6jVDcwQ8PFA8OR55WEet0dlDn3_3yoaW6GuLv_Za2bPjO157MlOWDoEYteZY2gkVcdUAGLMhpDM0ga2im4xlEmG9hWrd8wQIttDLTBex4UB7BIx69hBXVz1sr87K31Hd-bBNU7XHeY2oAp-HVOQ9LUY6sjAU-eI6_Wc.YhDi3cVLvZtI3zViMR0UPFMnR3_SovnypA_IIXlLZ2Y&dib_tag=rankingspea01-20&keywords=noxgear+39g&qid=1752600038&sprefix=noxgear+39g%2Caps%2C213&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=rankingspea01-20&linkId=1b14d8ef2e65079cd5411042ed932801&language=en_US&ref_=as_li_ss_tl)]: $70
 - Positives: It's only 39g of weight
 - Negatives: It sounds worse than a clock radio with the worst bass of any speaker. It's a huge compromise in sound for the small weight.
 - App: No
@@ -1250,8 +1306,11 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - Charging Time: 3 hours
+- Dimensions: Dimensions not specified in search
+- Driver: N52 neodymium
 - EQ: No
 - IP Rating: IPX7
+- Output Power: Specs not published
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
@@ -1276,8 +1335,10 @@ Last updated: June 02, 2026
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - Dimensions: 1.29" x 1.98" x 2.69" (32.8 x 50.3 x 68.3 mm)
+- Driver: 1.3" full-range driver
 - EQ: No
 - IP Rating: IP56
+- Output Power: Specs not published
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

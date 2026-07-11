@@ -17,6 +17,7 @@ The Sony SRS-XP500 ranks [#12 out of 42 total Party Size Portable Bluetooth Spea
 - Bluetooth Version: 5.0
 - Charging Time: 3 hours
 - Dimensions: 10.83" x 22.52" x 11.61" (275 x 572 x 295 mm)
+- Driver: 2x 140mm woofers + 2x 50mm tweeters
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: None

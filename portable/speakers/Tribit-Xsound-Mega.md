@@ -15,11 +15,14 @@ The Tribit Xsound Mega ranks [#20 out of 131 total Medium Size Portable Bluetoot
 - Bass Extension (-10dB): 47Hz
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Latency: 200ms
+- Bluetooth Version: 5.0
 - Built in Microphone: No
+- Driver: 60mm woofer + 35mm tweeter + passive radiators
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 100dB
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - Weight: 2.3lbs / 1020g

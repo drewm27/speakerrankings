@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Yamaha YST-SW012 ranks #31 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Yamaha YST-SW012 ranks [#31 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#31-yamaha-yst-sw012-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Yamaha YST-SW012 ranks [#31 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#31-yamaha-yst-sw012-299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #31 Yamaha YST-SW012
+## #31 Yamaha YST-SW012: $299
 - CEA-2010-A Average (40-80Hz): 101.6 dB
 - Country: Japan
 - Dimensions: 11.37"H x 11.37"W x 12.87"D (288.8 x 288.8 x 326.9 mm)
 - Discontinued: Yes
+- Driver: 6" (152mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth

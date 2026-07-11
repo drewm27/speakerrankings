@@ -14,9 +14,12 @@ The Diamondboxx M3 ranks [#47 out of 67 total Boombox Size Portable Bluetooth Sp
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 14.7" x 9" x 8"
+- Driver: 3" woofer + tweeter array
 - EQ: No
 - FM Tuner: No
 - IP Rating: None
+- Output Power: 200W RMS / 400W peak
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

@@ -5,15 +5,17 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Emotiva S12 ranks #73 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Emotiva S12 ranks [#73 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#73-emotiva-s12-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Emotiva S12 ranks [#73 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#73-emotiva-s12-449) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #73 Emotiva S12
+## #73 Emotiva S12: $449
 - CEA-2010-A Average (40-80Hz): 111.4 dB
 - Country: United States
 - Dimensions: 17.37"H x 15.75"W x 16.87"D (441.2 x 400.0 x 428.5 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
+- Frequency Response: 25-150Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 86.4 dB
 - Output SPL at 20 Hz: 95.4 dB
@@ -23,6 +25,7 @@ The Emotiva S12 ranks [#73 out of 137 total Medium Powered Home Subwoofers (30�
 - Output SPL at 50 Hz: 112.7 dB
 - Output SPL at 63 Hz: 112.5 dB
 - Output SPL at 80 Hz: 112.1 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5
 - Weight: 66.247lbs / 30.0kg
 - Links

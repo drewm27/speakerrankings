@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Arendal 1961 Monitor ranks #5 out of 20 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Arendal 1961 Monitor ranks [#5 out of 20 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#5-arendal-1961-monitor-arendalsound-used-listings-1150-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Arendal 1961 Monitor ranks [#5 out of 20 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#5-arendal-1961-monitor-arendalsound-1150-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)] [[Used Listings](https://www.hifizero.com/index.php?q=Arendal+1961+Monitor)]: $1150 a pair
+## #5 [Arendal 1961 Monitor](https://store.arendalsound.com/product/1961-monitor/) [[Arendalsound](https://store.arendalsound.com/product/1961-monitor/)]: $1150 a pair
 - Positives: A high pass is built in to keep distortions down at higher volume. Directivity is pretty good.
 - Negatives: A 3dB peak and lift from 3k to 10k, lightly sounding bright. Minor resonances around 3k and 5k. Won't play very low due to the high pass at the bottom and the sealed enclosure
 - Bass Extension (-10dB): 60Hz

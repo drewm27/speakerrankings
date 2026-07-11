@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The SVS PB12-Plus ranks #70 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The SVS PB12-Plus ranks [#70 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#70-svs-pb12-plus-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The SVS PB12-Plus ranks [#70 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#70-svs-pb12-plus-1499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #70 SVS PB12-Plus
+## #70 SVS PB12-Plus: $1499
 - CEA-2010-A Average (40-80Hz): 118.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 22.0"H x 19.8"W x 26.6"D (558.8 x 502.9 x 675.6 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver with ported design
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

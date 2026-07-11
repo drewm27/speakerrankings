@@ -13,6 +13,7 @@ The Dayton Audio MKSX4 ranks [#1 out of 3 total Small Passive Home Subwoofers (U
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.0"H x 5.9"W x 14.0"D (406.4 x 149.9 x 355.6 mm)
+- Driver: 4" (102mm) driver
 - Driver(s): (4) 4 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth

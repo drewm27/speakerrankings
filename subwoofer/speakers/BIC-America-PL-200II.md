@@ -12,8 +12,10 @@ The BIC America PL-200II ranks [#78 out of 137 total Medium Powered Home Subwoof
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.25"H x 14.87"W x 19.5"D (438.1 x 377.7 x 495.3 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 21-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 108.3 dB
 - Output SPL at 125 Hz: 106.8 dB
@@ -24,6 +26,7 @@ The BIC America PL-200II ranks [#78 out of 137 total Medium Powered Home Subwoof
 - Output SPL at 50 Hz: 113.4 dB
 - Output SPL at 63 Hz: 111.1 dB
 - Output SPL at 80 Hz: 109.5 dB
+- Power Output (Watts): 250W RMS
 - Warranty: 8/5
 - Weight: 46.0lbs / 20.9kg
 - Links

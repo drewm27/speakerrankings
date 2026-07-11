@@ -17,6 +17,7 @@ The W-King X10 ranks [#58 out of 67 total Boombox Size Portable Bluetooth Speake
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 12.4" x 5.51" x 5.31" (315 x 140 x 135 mm)
+- Driver: 2x 3.66" (93mm) subwoofers + 2x 1.2" (31mm) neodymium tweeters + 3x passive radiators
 - EQ: Yes (2 modes - Indoor/Outdoor)
 - FM Tuner: No
 - IP Rating: IPX6

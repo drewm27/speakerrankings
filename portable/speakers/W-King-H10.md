@@ -19,6 +19,8 @@ The W-King H10 ranks [#48 out of 67 total Boombox Size Portable Bluetooth Speake
 - Bluetooth Latency: 150ms
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 14.5" x 9.91" (incomplete)
+- Driver: 1x 5.25" (133mm) subwoofer + 2x 31mm midrange drivers + 2x 3" (76mm) tweeters
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 115dB
@@ -31,6 +33,7 @@ The W-King H10 ranks [#48 out of 67 total Boombox Size Portable Bluetooth Speake
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 3.2 kg
 - Wireless Microphones: Yes 2 Included
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: W-King H10 speaker and karaoke machine review! get yer earplugs ready 👀](https://www.youtube.com/watch?v=mTJTjgryLkE)

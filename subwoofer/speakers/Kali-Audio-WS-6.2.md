@@ -12,8 +12,10 @@ The Kali Audio WS-6.2 ranks [#129 out of 137 total Medium Powered Home Subwoofer
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.5"H x 12.2"W x 11.0"D (368.3 x 309.9 x 279.4 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: ported, front
+- Frequency Response: 27-200Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 111.6 dB
 - Output SPL at 25 Hz: 96.6 dB
@@ -22,6 +24,7 @@ The Kali Audio WS-6.2 ranks [#129 out of 137 total Medium Powered Home Subwoofer
 - Output SPL at 50 Hz: 101.8 dB
 - Output SPL at 63 Hz: 103.4 dB
 - Output SPL at 80 Hz: 110.4 dB
+- Power Output (Watts): 400W RMS
 - Weight: 31.0lbs / 14.1kg
 - Links
     - [Kali Audio WS-6.2 Website](https://www.kaliaudio.com/watts-ws62)

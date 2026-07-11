@@ -13,9 +13,13 @@ The Skullcandy Barrel ranks [#35 out of 67 total Boombox Size Portable Bluetooth
 - Bass Extension (-10dB): ~50Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 11.81" x 22.05" x 9.60"
+- Driver: 2x 20mm drivers
 - EQ: Yes (App EQ)
 - FM Tuner: No
+- IP Rating: IP67
 - Max Volume: 104dB
+- Output Power: 60W
 - Party Mode: No
 - Power Bank: No
 - Stereo: Yes

@@ -16,6 +16,7 @@ The Soundcore Motion 100 ranks [#40 out of 131 total Medium Size Portable Blueto
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: AAC, LDAC, SBC
 - Bluetooth Version: 5.3
+- Built in Microphone: No
 - Dimensions: 7.5" x 3.1" x 2.4" (190 x 80 x 60 mm)
 - Driver: 2x full-range drivers + 2x passive radiators
 - EQ: Yes

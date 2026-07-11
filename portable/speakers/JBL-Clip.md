@@ -15,8 +15,11 @@ The JBL Clip ranks [#33 out of 44 total Small Size Portable Bluetooth Speakers](
 - Battery Life: 5 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: Original dimensions not available (Clip 3: 5.4" x 3.8" x 1.8")
+- Driver: 1.57" (40mm) driver
 - EQ: No
 - IP Rating: None
+- Output Power: 7W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Wall Wart

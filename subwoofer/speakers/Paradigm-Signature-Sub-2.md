@@ -12,6 +12,7 @@ The Paradigm Signature Sub 2 ranks [#22 out of 95 total Large Powered Home Subwo
 - Cabinet Color: black, wood
 - Country: Canada
 - Dimensions: 24.5"H x 23.75"W x 22.37"D (622.3 x 603.2 x 568.2 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (6) 10 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

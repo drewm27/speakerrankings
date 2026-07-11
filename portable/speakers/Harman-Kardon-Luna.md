@@ -14,6 +14,7 @@ The Harman Kardon Luna ranks [#22 out of 131 total Medium Size Portable Bluetoot
 - Aux Input: No
 - Bass Extension (-10dB): 57Hz
 - Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Dimensions: 8.3" x 3.1" x 3.1" (210 x 78 x 80 mm)
 - Driver: 48mm x 90mm woofer, 20mm tweeter

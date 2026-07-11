@@ -13,6 +13,7 @@ The SVS SB-1000 ranks [#4 out of 41 total Small Powered Home Subwoofers (Under 3
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 13.5"H x 13.0"W x 14.0"D (342.9 x 330.2 x 355.6 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -27,7 +28,7 @@ The SVS SB-1000 ranks [#4 out of 41 total Small Powered Home Subwoofers (Under 3
 - Warranty: 5
 - Weight: 27.0lbs / 12.2kg
 - Links
-    - [SVS SB-1000 Website](https://www.svsound.com/search?q=%26quot%3Bsb-1000%26quot%3B)
+    - [SVS SB-1000 Website](https://www.svsound.com/products/sb-1000)
     - [Reddit Search for SVS SB-1000](https://www.reddit.com/search/?q=SVS+SB-1000)
 
 

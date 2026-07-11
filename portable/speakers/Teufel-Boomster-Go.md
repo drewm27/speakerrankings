@@ -17,6 +17,7 @@ The Teufel Boomster Go ranks [#7 out of 44 total Small Size Portable Bluetooth S
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
 - Dimensions: 4.21" x 4.02" x 1.81" (107 x 102 x 46 mm)
+- Driver: 50mm woofer + 20mm tweeter
 - EQ: No
 - Frequency Response: 65Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7

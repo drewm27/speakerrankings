@@ -13,8 +13,10 @@ The Sigberg Audio INKOGNITO 10 ranks [#85 out of 137 total Medium Powered Home S
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 21.25"H x 25.59"W x 6.1"D (539.8 x 650.0 x 154.9 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 25-250Hz
 - Measurement Source: Manufacturer
 - Output SPL at 20 Hz: 89.0 dB
 - Output SPL at 25 Hz: 96.0 dB
@@ -23,6 +25,7 @@ The Sigberg Audio INKOGNITO 10 ranks [#85 out of 137 total Medium Powered Home S
 - Output SPL at 50 Hz: 109.0 dB
 - Output SPL at 63 Hz: 112.0 dB
 - Output SPL at 80 Hz: 113.0 dB
+- Power Output (Watts): 250W RMS
 - Weight: 44.09lbs / 20.0kg
 - Links
     - [Sigberg Audio INKOGNITO 10 Website](https://www.sigbergaudio.no/products/inkognitosubwoofer)

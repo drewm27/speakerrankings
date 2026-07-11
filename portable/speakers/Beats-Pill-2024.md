@@ -7,7 +7,7 @@ share-description: "The Beats Pill 2024 ranks #60 out of 131 total Medium Size P
 
 The Beats Pill 2024 ranks [#60 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#60-beats-pill-2024-amazon-150) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #60 [Beats Pill 2024](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=se&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl)]: $150
+## #60 [Beats Pill 2024](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=rankingspea01-20&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Beats-Pill-Compatible-Built-Microphone/dp/B0D4SX9RC6?crid=2GUVBBSRWUYBY&dib=eyJ2IjoiMSJ9.PftgrmVel6OzbGm82rYK6YE42l8un5szBMFmRkj8H7pHZCz9wEXnQRL8C_zUHfa8GDey7RmCdMNMU5pieufQ0KTMuPRV8I3QCl24WDVFKasEP42ebwjI5LS_stksRSjilQPgu1r6rXqHtRqBdg7c3dqc7Za4Q2aHsep3lIf0E1WfzLzrnOLyvvXx3YPZHXGLcrQ0cM7vASHJJlRLf43bIMb84hGTsjpAlOnuPBoUKMg.-mjQDkjJi7CN-vLKXQ6_9rWybGZLgJQNsrMOjcdDVJM&dib_tag=rankingspea01-20&keywords=beats+pill&qid=1719591326&sprefix=beats+pill%2Caps%2C214&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=9a8eaff089f71c77a9709f34d0727a7c&language=en_US&ref_=as_li_ss_tl)]: $150
 - Negatives: Boosted upper bass, somewhat thuddy. Slightly recessed mids. Rolled off treble. This may move around a little as better sound samples are found.
 - App: Yes
 - Aux Input: No
@@ -16,6 +16,7 @@ The Beats Pill 2024 ranks [#60 out of 131 total Medium Size Portable Bluetooth S
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 8.6" x 2.8" x 2.75" (219 x 71 x 70 mm)
+- Driver: 2x drivers with dual passive radiators
 - EQ: No
 - IP Rating: IP67
 - Power Bank: Yes

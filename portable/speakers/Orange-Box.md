@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Orange Box ranks #63 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Orange Box ranks [#63 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#63-orange-box-275) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Orange Box ranks [#63 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#63-orange-box-orange-box-275) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #63 Orange Box: £275
+## #63 [Orange Box](https://www.orangeaudio.com/products/orange-box) [[Orange Box](https://www.orangeaudio.com/products/orange-box)]: £275
 - Negatives: Pathetic bass extension, port noise, hollow sounding. Jagged frequency response, big dip at 260hz and wavy up top.
 - App: No
 - Aux Input: Yes

@@ -16,6 +16,7 @@ The Electrotec Stage One ranks [#8 out of 42 total Party Size Portable Bluetooth
 - Bass Extension (-10dB): 48Hz
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: Dual 1.5" compression drivers (tweeters) + 2x 4" woofers + passive radiators (PA system configuration)
 - EQ: Yes
 - IP Rating: IPX6
 - Microphone Input: Yes

@@ -13,6 +13,7 @@ The JTR Speakers Captivator 215PRO ranks [#5 out of 95 total Large Powered Home 
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 40.0"H x 18.0"W x 30.0"D (1016.0 x 457.2 x 762.0 mm)
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The SVS PB13-Ultra ranks #55 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The SVS PB13-Ultra ranks [#55 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#55-svs-pb13-ultra-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The SVS PB13-Ultra ranks [#55 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#55-svs-pb13-ultra-1999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #55 SVS PB13-Ultra
+## #55 SVS PB13-Ultra: $1999
 - CEA-2010-A Average (40-80Hz): 119.8 dB
 - Country: United States
 - Dimensions: 22.5"H x 20.5"W x 28.0"D (571.5 x 520.7 x 711.2 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver with ported design
 - Driver(s): (1) 13.5 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

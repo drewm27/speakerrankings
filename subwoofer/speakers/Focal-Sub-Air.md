@@ -13,6 +13,7 @@ The Focal Sub Air ranks [#26 out of 41 total Small Powered Home Subwoofers (Unde
 - Cabinet Color: black
 - Country: France
 - Dimensions: 16.1"H x 14.2"W x 6.3"D (408.9 x 360.7 x 160.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth

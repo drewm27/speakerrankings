@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The BK Electronics Monolith-DF ranks #92 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The BK Electronics Monolith-DF ranks [#92 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#92-bk-electronics-monolith-df-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The BK Electronics Monolith-DF ranks [#92 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#92-bk-electronics-monolith-df-8995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #92 BK Electronics Monolith-DF
+## #92 BK Electronics Monolith-DF: $8995
 - CEA-2010-A Average (40-80Hz): 108.4 dB
 - Cabinet Color: black, wood
 - Country: United Kingdom
 - Dimensions: 23.77"H x 21.25"W x 16.53"D (603.8 x 539.8 x 419.9 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver with ported design
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Ilkka Rissanen

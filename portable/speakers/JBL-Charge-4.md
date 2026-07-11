@@ -17,6 +17,7 @@ The JBL Charge 4 ranks [#51 out of 131 total Medium Size Portable Bluetooth Spea
 - Dimensions: 8.66" x 3.74" x 3.66" (220 x 95 x 93 mm)
 - Driver: 1x 51x89mm fullrange
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
+- IP Rating: IPX7
 - Max Volume: 99dB
 - Output Power: 30W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)

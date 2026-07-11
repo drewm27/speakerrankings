@@ -16,6 +16,8 @@ The Rocksteady Stadium Speakers and Subwoofer ranks [#48 out of 74 total Large S
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 6.5" high x 4" x 8" footprint
+- Driver: Satellites: 1x 70mm (2.75") mid/bass + 1x 28mm (1.1") tweeter + 2x 72mm passive radiators each; Sub: 1x 130mm (5.1") bass driver
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 104dB

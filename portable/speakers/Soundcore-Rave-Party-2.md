@@ -15,9 +15,12 @@ The Soundcore Rave Party 2 ranks [#38 out of 67 total Boombox Size Portable Blue
 - Battery Life: 16 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 19.1cm x 19.8cm x 40cm
+- Driver: 2x 4" (100mm) woofers + 2x 2" (50mm) tweeters
 - EQ: Yes (App EQ)
 - IP Rating: IPX4
 - Microphone Input: Yes
+- Output Power: 80W RMS / 120W peak
 - Party Mode: Yes (Partycast 2.0 up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power brick

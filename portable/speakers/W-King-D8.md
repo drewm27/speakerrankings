@@ -16,10 +16,13 @@ The W-King D8 ranks [#41 out of 74 total Large Size Portable Bluetooth Speakers]
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 12.6" x 4.8" x 4.7"
+- Driver: 2x 70mm woofers + 2x 31mm tweeters + passive radiators
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 101dB
 - MicroSD: Yes
+- Output Power: 90W max / 50W RMS
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

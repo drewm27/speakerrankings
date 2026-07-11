@@ -19,6 +19,8 @@ The Tribit Stormbox Micro 2 ranks [#1 out of 44 total Small Size Portable Blueto
 - Bluetooth Latency: 265ms
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 3.9" x 3.9" x 1.68"
+- Driver: 48mm NdFeB driver
 - EQ: Yes (9 Band)
 - IP Rating: IP67
 - Max Volume: 94dB

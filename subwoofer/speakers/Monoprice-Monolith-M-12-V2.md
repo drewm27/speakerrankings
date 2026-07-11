@@ -13,6 +13,7 @@ The Monoprice Monolith M-12 V2 ranks [#82 out of 95 total Large Powered Home Sub
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.9"H x 25.8"W x 16.7"D (530.9 x 655.3 x 424.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer

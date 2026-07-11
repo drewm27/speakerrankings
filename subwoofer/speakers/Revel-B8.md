@@ -12,6 +12,7 @@ The Revel B8 ranks [#20 out of 41 total Small Powered Home Subwoofers (Under 30 
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 13.9"H x 10.5"W x 10.5"D (353.1 x 266.7 x 266.7 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

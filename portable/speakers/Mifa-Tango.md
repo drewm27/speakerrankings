@@ -19,6 +19,7 @@ The Mifa Tango ranks [#17 out of 44 total Small Size Portable Bluetooth Speakers
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 4.65" x 5.31" x 1.71" (118 x 135 x 43.5 mm)
+- Driver: 1x 50mm full-range driver + 2x 52x32mm passive radiators
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 97dB

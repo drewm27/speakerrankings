@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Power Sound Audio (PSA) XV30 ranks #35 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Power Sound Audio (PSA) XV30 ranks [#35 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#35-power-sound-audio-psa-xv30-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Power Sound Audio (PSA) XV30 ranks [#35 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#35-power-sound-audio-psa-xv30-3995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #35 Power Sound Audio (PSA) XV30
+## #35 Power Sound Audio (PSA) XV30: $3995
 - CEA-2010-A Average (40-80Hz): 122.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 26.75"H x 20.5"W x 36.0"D (679.4 x 520.7 x 914.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Manufacturer

@@ -12,6 +12,7 @@ The XTZ Sound SUB 3X12 ranks [#18 out of 95 total Large Powered Home Subwoofers 
 - Cabinet Color: black
 - Country: Sweden
 - Dimensions: 45.6"H x 21.1"W x 21.9"D (1158.2 x 535.9 x 556.3 mm)
+- Driver: 3x 12" (305mm) drivers
 - Driver(s): (3) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

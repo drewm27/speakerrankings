@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Boat Stone 190/193 ranks #30 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Boat Stone 190/193 ranks [#30 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#30-boat-stone-190193-amazon-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Boat Stone 190/193 ranks [#30 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#30-boat-stone-190193-amazon-39) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #30 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]
+## #30 [Boat Stone 190/193](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79) [[Amazon](https://www.amazon.in/Stone-190-Bluetooth-Resistance-Lightweight/dp/B08447LB79)]: $39
 - Positives: Quite light for the performance
 - Negatives: Not much bass, mids slightly boosted, highs a little rolled off.Same hardware as the Monster Bluetooth Speaker and Dayton Audio Boost Mini
 - App: No
@@ -18,6 +18,7 @@ The Boat Stone 190/193 ranks [#30 out of 44 total Small Size Portable Bluetooth 
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Charging Time: 1.5 hours
+- Dimensions: 105mm x 105mm x 67mm
 - Driver: 52mm
 - EQ: No
 - Frequency Response: 70Hz - 70kHz (Manufacturer specified)

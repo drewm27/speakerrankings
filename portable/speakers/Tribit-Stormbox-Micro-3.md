@@ -7,7 +7,7 @@ share-description: "The Tribit Stormbox Micro 3 ranks #6 out of 44 total Small S
 
 The Tribit Stormbox Micro 3 ranks [#6 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#6-tribit-stormbox-micro-3-amazon-65) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #6 [Tribit Stormbox Micro 3](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=se&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=se&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl)]: $65
+## #6 [Tribit Stormbox Micro 3](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=rankingspea01-20&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-StormBox-Portable-Bluetooth-Waterproof/dp/B0GF6PPS4S?crid=1COM7QCYKNNH6&dib=eyJ2IjoiMSJ9.Pwy82c5Gy3iQ1KizPl3ESCia4C88g2IEWhEyCO_Wq62guVvBr3WXmxy-AYCloVBcqpMW6x8mEPhVia7X1I-bDq0vBjEPtJoSpcjdsf0lgPa3jR3onZL_c99iy69OISvtcCdrC3HjUcUbCQc7t1Na-DJ1MqI0uC2PtPcLqZ4Zbml36tuEVW_BfPnAJP24kpo9uLmP5RWJhl5CECssM4koQQ6sEPHHSdcMjDesPS-BS20.eZrDrqMjqDvLeckzdkVyw2gESsQDcd2SU-pUMzQF9Hc&dib_tag=rankingspea01-20&keywords=stormbox+micro+3&qid=1775756807&sprefix=stormbox+micr%2Caps%2C451&sr=8-1&linkCode=ll2&tag=rankingspea01-20&linkId=8e5f5d2264ee52a2ee24eabce43b875c&language=en_US&ref_=as_li_ss_tl)]: $65
 - Positives: Deeper bass than the last one by a little
 - Negatives: Thuddy distorted bass by default, needs an EQ to fix. Hopefully Tribit fixes this in the DSP with an update. Treble 
 - App: Yes
@@ -17,6 +17,8 @@ The Tribit Stormbox Micro 3 ranks [#6 out of 44 total Small Size Portable Blueto
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 6.0
 - Built in Microphone: Yes
+- Dimensions: 4.41" x 4.25" x 1.77"
+- Driver: 48mm NdFeB driver with coaxial passive radiators
 - EQ: Yes (9 Band)
 - IP Rating: IP68
 - Max Volume: 93dB

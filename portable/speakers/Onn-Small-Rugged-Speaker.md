@@ -16,8 +16,11 @@ The Onn Small Rugged Speaker ranks [#26 out of 44 total Small Size Portable Blue
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 4.72" x 2.28" x 2.56"
+- Driver: 1.5" full-range driver
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 3-5W
 - Party Mode: Yes
 - Power Bank: No
 - Power Input: USB-C

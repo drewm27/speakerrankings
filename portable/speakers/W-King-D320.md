@@ -24,6 +24,7 @@ The W-King D320 ranks [#45 out of 131 total Medium Size Portable Bluetooth Speak
 - Power Input: USB-C
 - Stereo: No
 - TWS: No
+- Weight: 1.4 kg
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: W-king D320 VS Mifa Wildrod "DUAL VS SINGLE TWEETERS!"](https://www.youtube.com/watch?v=kDib9gjeaPQ)
     - [Audio y Mas 🔊: Altavoces JBL Flip 6 vs W-King D320: ¿Cuál es el mejor en calidad de sonido? 🔊](https://www.youtube.com/watch?v=3zEtJi4u-F8)

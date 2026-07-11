@@ -12,6 +12,7 @@ The Arendal 1723 Subwoofer 2V ranks [#46 out of 95 total Large Powered Home Subw
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 27.55"H x 19.68"W x 23.97"D (699.8 x 499.9 x 608.8 mm)
+- Driver: 2x 10" (254mm) drivers
 - Driver(s): (2) 13.8 inch
 - Enclosure: ported, rear
 - Measurement Source: Audioholics

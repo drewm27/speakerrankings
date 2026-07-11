@@ -18,6 +18,7 @@ The JBL Flip 4 ranks [#62 out of 131 total Medium Size Portable Bluetooth Speake
 - Dimensions: 6.89" x 2.76" x 2.56" (175 x 70 x 65 mm)
 - Driver: 2x 40mm fullrange
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
+- IP Rating: IPX7
 - Max Volume: 92dB
 - Output Power: 16W RMS
 - Party Mode: Yes (Connect+ up to 100 speakers)

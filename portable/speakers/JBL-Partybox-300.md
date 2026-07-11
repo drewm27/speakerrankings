@@ -16,6 +16,7 @@ The JBL Partybox 300 ranks [#6 out of 42 total Party Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Dimensions: 27" x 13" x 12.7" (685.8 x 330.2 x 322.6 mm)
+- Driver: 2x 6.5" (165mm) woofers + 3x 2.25" (57mm) tweeters
 - EQ: No
 - Frequency Response: 45Hz - 20kHz (Manufacturer specified)
 - Guitar Input: Yes

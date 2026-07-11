@@ -12,6 +12,7 @@ The Velodyne Acoustics DD-18+ ranks [#66 out of 95 total Large Powered Home Subw
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 22.7"H x 20.7"W x 25.6"D (576.6 x 525.8 x 650.2 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

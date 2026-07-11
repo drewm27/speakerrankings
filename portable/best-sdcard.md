@@ -6,7 +6,7 @@ cover-img: "/assets/img/bogasingg4.jpg"
 share-description: "Expert rankings of 368 Bluetooth speakers with SD card slot. Detailed specs, sound samples & EQ settings. Budget to premium picks from $30."
 ---
 
-**Looking for the best Bluetooth speaker with SD Card slot?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 02, 2026.**
+**Looking for the best Bluetooth speaker with SD Card slot?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -33,6 +33,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
 - Charging Time: 2.5 hours
+- Dimensions: 6.9" x 6.9" x 6.9"
+- Driver: 1x 2" (50mm) full-range driver + 1x passive radiator
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None
@@ -53,18 +55,22 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Medium 
 
-### The best [medium size](/portable/medium/) battery powered speaker with a SD card slot is the [**Bogasing G4**](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=se&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)]: $49
+### The best [medium size](/portable/medium/) battery powered speaker with a SD card slot is the [**Bogasing G4**](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=rankingspea01-20&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/BOGASING-G4-Bluetooth-Portable-Waterproof/dp/B0CT2W66XY?crid=206Y3LU2MNF5N&dib=eyJ2IjoiMSJ9.xqMkoaCBoYiT2Wygx0RTxa2MM7XpgBmOGpEt56G8CL3GjHj071QN20LucGBJIEps.OL5WJmH024Loevu_rbszijGFZ63eKeJ5aaou_Q4URS4&dib_tag=rankingspea01-20&keywords=bogasing+g4&qid=1715577365&sprefix=bogasing+g4%2Caps%2C168&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=16c699bd84fce50d780a4953eb7d6aae&language=en_US&ref_=as_li_ss_tl)]: $49
 - Negatives: Some boosted treble that's wavy up top. Slighty dipped mids. Super Bass and vocal mode seem identical.
 - App: No
 - Aux Input: Yes
 - Aux Latency: 16ms
 - Bass Extension (-10dB): 56Hz
 - Battery Life: 24 hours (Manufacturer specified)
+- Bluetooth Codecs: LE Audio with LC3
 - Bluetooth Latency: 90ms
+- Bluetooth Version: 5.3
+- Driver: Two drivers and passive radiators
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 100dB
 - MicroSD: Yes
+- Output Power: 50W
 - Party Mode: No
 - Power Input: USB-C
 - Stereo: Yes
@@ -86,6 +92,8 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
+- Dimensions: 30cm x 15cm x 12cm
+- Driver: 2x 4.04" subwoofers + drivers
 - EQ: No
 - IP Rating: None
 - Max Volume: 106dB
@@ -108,7 +116,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Boombox 
 
-### The best [boombox size](/portable/boombox/) battery powered speaker with a SD card slot is the [**Zealot ZE21**](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=se&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
+### The best [boombox size](/portable/boombox/) battery powered speaker with a SD card slot is the [**Zealot ZE21**](https://s.click.aliexpress.com/e/_c4oXstCn) [[Aliexpress](https://s.click.aliexpress.com/e/_c4oXstCn)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Portable-Multi-Device-Waterproof/dp/B0F9TBDM7Z?crid=IINL2O8AE9PJ&dib=eyJ2IjoiMSJ9.IOszzaepYO8CBnULdDj3x6Z14VQhhMvzoiTTXdRPZnUCto8UKQNRAzJcpR8ohejZbB_3cV1SbPsiXOOz550JCGFceaLGK3pOXyTNNfp6UqGIZ4yMZj7QE9pplwH4fxy1-3MiMX39sH9MR1_vxUHmwcpAoXXW9UKGd2ZoasizbEcetqGtVza0QXIRdBRHM9_-mNrYcjznygFetwy8KXyU5UnZ369F1TeDUPV3uRD9gmw.a1mjdCxS4dWgR_1WmBw6_S1BS8PX7VORvFbo6k1Ic-A&dib_tag=rankingspea01-20&keywords=zealot+ze21&qid=1767853766&sprefix=zealot+ze%2Caps%2C345&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f8f9ca0ddf8238334abecad619f5d682&language=en_US&ref_=as_li_ss_tl)]: $147
 - Positives: The absolute best value for the bass performance, play time and max volume in the boombox class.
 - Negatives: The heaviest and biggest boombox speaker around. A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers. Bass EQ is bloated and muddy sounding
 - App: No
@@ -117,10 +125,13 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 424mm x 262mm x 363mm
+- Driver: 130W subwoofer + 2x 50mm woofers + passive radiators
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 116dB
 - MicroSD: Yes
+- Output Power: 250W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -140,7 +151,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Party 
 
-### The best [party size](/portable/party/) big party battery powered speaker with USB stick playback is the [**JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=se&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $550
+### The best [party size](/portable/party/) big party battery powered speaker with USB stick playback is the [**JBL Partybox Stage 320**](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=rankingspea01-20&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/JBL-PartyBox-Stage-320-Telescopic/dp/B0CTD6V6S6?crid=1MTPHNOMIK3TD&dib=eyJ2IjoiMSJ9.YO7u8WYFkmKFC6sftzWAFqKkKYnCs2U21bMmSiCEhQAPKEmzn7rbS1ywlIJvQ8RIZDsvVVO7by5sAdj0_w_8vSJOWT8GK1jJBYLMxUy4Hm44RkX0iE-6fK88ZRyP1c64-cuFuHXRehtDMf6KFf36xiqKr7nUnbjATnuQvdHnfEaaOpM1bYE22JQ3kCtk_1_02-kSi5mgVItkoB2kZ62BRgz03B0O93pYkkSlOSZde3s.5wRibKkPk08pZa52XwUGsnARcrLlCTNNgw44K4bB6Rs&dib_tag=rankingspea01-20&keywords=partybox+320&qid=1713332137&sprefix=partybox+310%2Caps%2C146&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=d6e51cdaeecda4c56ddd9abc1ea592ed&language=en_US&ref_=as_li_ss_tl)] [[Bhphotovideo](https://www.bhphotovideo.com/c/product/1808915-REG/jbl_jblpbstage320am_partybox_club_120_160w.html?BI=23745&KBID=29189)] [[Ebay refurbished](https://www.ebay.com/itm/156774857096?amdata=enc%3AAQAKAAAAoFkggFvd1GGDu0w3yXCmi1dM8yDOXeUan04RwEAD485Imly0M01HvEF%2BuODmU6jMstIxGeglPzSg7uQ58KaZ%2BgJiyrItrjxQ%2BetAG2B24u0TbuetJo2R9qdh%2Bsk9X8vdD8Hb2XrGddXKJq5wagmOnHFint4I62qPAqN%2FrmZvw1VD81bwPE3U4lAmLcyJ6gCy6AWUNzjIKAyPHO8IrYO%2BaZc%3D&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=&toolid=10001&mkevt=1)]: $550
 - Positives: Handle and wheels are convenient. Customizable color lighting modes. Keeps more bass than the 310 at high volume. Removable battery.
 - Negatives: Slightly sibilant in the treble at full blast. Very large. Note, JBL daisychain is not compatible with any other non-JBL speaker and is possibly a fully digital signal.
 - App: Yes

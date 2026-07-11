@@ -17,12 +17,15 @@ The JBL Boombox 3 ranks [#19 out of 67 total Boombox Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 100ms
 - Built in Microphone: No
+- Dimensions: 48.2cm x 25.7cm x 20cm
+- Driver: 1x 189mm subwoofer + 2x 81mm woofers + 2x 20mm tweeters
 - EQ: No
 - FM Tuner: No
 - IP Rating: IP67
 - Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 180W AC / 136W battery
 - Party Mode: Yes (PartyBoost up to 100 speakers)
 - Power Bank: Yes
 - Power Input: AC Power cable

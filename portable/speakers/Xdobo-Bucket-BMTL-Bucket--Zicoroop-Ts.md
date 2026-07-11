@@ -16,8 +16,11 @@ The Xdobo Bucket /BMTL Bucket / Zicoroop Ts ranks [#34 out of 74 total Large Siz
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 110mm x 110mm x 168mm
+- Driver: Twin drivers
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 60W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

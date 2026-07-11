@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The BG Radia BGX-S6B ranks #3 out of 3 total Small Passive Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The BG Radia BGX-S6B ranks [#3 out of 3 total Small Passive Home Subwoofers (Under 30 lbs)](/subwoofer/passive-small/#3-bg-radia-bgx-s6b-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The BG Radia BGX-S6B ranks [#3 out of 3 total Small Passive Home Subwoofers (Under 30 lbs)](/subwoofer/passive-small/#3-bg-radia-bgx-s6b-189) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #3 BG Radia BGX-S6B
+## #3 BG Radia BGX-S6B: $189
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 102.1 dB (avg of 3/4 bands)
 - Dimensions: 14.0"H x 14.0"W x 3.75"D (355.6 x 355.6 x 95.2 mm)
 - Discontinued: Yes
+- Driver: 6" (152mm) driver
 - Driver(s): (6) 4 inch
 - Enclosure: in-wall
 - Measurement Source: Brent Butterworth

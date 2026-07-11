@@ -5,17 +5,24 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Charge 2 ranks #68 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Charge 2 ranks [#68 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#68-jbl-charge-2) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Charge 2 ranks [#68 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#68-jbl-charge-2-149) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #68 JBL Charge 2
+## #68 JBL Charge 2: $149
 - Negatives: Bass compression at higher volumes. Warm sound. slightly rolled off treble. Not as loud as other speakers.
+- App: No
+- Aux Input: Yes
 - Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
 - Bluetooth Version: 3.0
+- Built in Microphone: Yes
 - Dimensions: 8.5" x 3.4" x 3.0" (216 x 86 x 76 mm)
 - Driver: 2x 45mm fullrange
+- EQ: No
 - Frequency Response: 75Hz - 20kHz (Manufacturer specified)
+- IP Rating: IPX5
 - Output Power: 15W RMS
 - Power Bank: Yes
+- Weight: 1.1 kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=GLHL5wCkpO4>
     - <https://www.youtube.com/watch?v=0vht8NRUrl4>

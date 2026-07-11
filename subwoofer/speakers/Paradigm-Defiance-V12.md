@@ -12,8 +12,10 @@ The Paradigm Defiance V12 ranks [#76 out of 137 total Medium Powered Home Subwoo
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 17.93"H x 16.5"W x 17.87"D (455.4 x 419.1 x 453.9 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 23-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 109.4 dB
 - Output SPL at 125 Hz: 108.4 dB
@@ -23,6 +25,7 @@ The Paradigm Defiance V12 ranks [#76 out of 137 total Medium Powered Home Subwoo
 - Output SPL at 50 Hz: 112.1 dB
 - Output SPL at 63 Hz: 112.4 dB
 - Output SPL at 80 Hz: 110.8 dB
+- Power Output (Watts): 120W RMS
 - Warranty: 3
 - Weight: 42.0lbs / 19.1kg
 - Links

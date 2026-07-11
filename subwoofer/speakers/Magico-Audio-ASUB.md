@@ -12,6 +12,7 @@ The Magico Audio ASUB ranks [#90 out of 95 total Large Powered Home Subwoofers (
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.0"H x 14.5"W x 17.6"D (457.2 x 368.3 x 447.0 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brian Kahn

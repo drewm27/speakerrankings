@@ -13,6 +13,7 @@ The RTJ Audio 18Sub ranks [#24 out of 95 total Large Powered Home Subwoofers (Ov
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 22.5"H x 22.5"W x 15.0"D (571.5 x 571.5 x 381.0 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

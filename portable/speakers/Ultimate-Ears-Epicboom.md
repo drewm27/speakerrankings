@@ -22,6 +22,7 @@ The Ultimate Ears Epicboom ranks [#55 out of 74 total Large Size Portable Blueto
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Max Volume: 94dB
+- Output Power: 10W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

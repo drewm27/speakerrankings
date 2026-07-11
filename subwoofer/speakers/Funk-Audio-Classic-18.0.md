@@ -13,6 +13,7 @@ The Funk Audio Classic 18.0 ranks [#5 out of 10 total Large Passive Home Subwoof
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 22.5"H x 22.0"W x 20.5"D (571.5 x 558.8 x 520.7 mm)
+- Driver: 18" (381mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass

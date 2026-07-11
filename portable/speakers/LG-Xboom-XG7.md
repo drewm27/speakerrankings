@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The LG Xboom XG7 ranks #66 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The LG Xboom XG7 ranks [#66 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#66-lg-xboom-xg7-120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The LG Xboom XG7 ranks [#66 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#66-lg-xboom-xg7-lg-xboom-xg7-120) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #66 LG Xboom XG7: $120
+## #66 [LG Xboom XG7](https://www.lg.com/us/en/audio/lg-xboom-xg7) [[LG Xboom XG7](https://www.lg.com/us/en/audio/lg-xboom-xg7)]: $120
 - Negatives: Peaky midrange, rolled off treble. Not very good sounding
 - App: No
 - Aux Input: Yes
@@ -16,7 +16,7 @@ The LG Xboom XG7 ranks [#66 out of 74 total Large Size Portable Bluetooth Speake
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
 - Dimensions: 10.3" x 3.7" x 3.9" (261 x 95 x 98 mm)
-- Driver: 1x racetrack woofer, 1x dome tweeter
+- Driver: 1x 53x93mm (2.1"x3.7") racetrack woofer + 1x 20mm (0.8") dome tweeter
 - EQ: No
 - IP Rating: IPX7
 - Output Power: 40W
@@ -25,6 +25,7 @@ The LG Xboom XG7 ranks [#66 out of 74 total Large Size Portable Bluetooth Speake
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 2.8 kg
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: Lg Xg7 Vs Soundcore Motion+  "CAN LG DEFEAT BEST BUDGET SPEAKER?!"](https://www.youtube.com/watch?v=7KG0dPs-xUQ)
 - Links

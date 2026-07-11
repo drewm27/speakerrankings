@@ -14,10 +14,13 @@ The ION Pathfinder 320 ranks [#61 out of 67 total Boombox Size Portable Bluetoot
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 15.1" x 10.4" x 19.4"
+- Driver: 2x 4" drivers
 - EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
 - Microphone Input: No
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

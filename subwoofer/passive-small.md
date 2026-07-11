@@ -10,7 +10,7 @@ This page ranks 3 compact passive subwoofers weighing under 30 lbs. Passive subw
 
 Also check out [Medium Passive Subwoofers](/subwoofer/passive-medium/) (30–75 lbs) and [Large Passive Subwoofers](/subwoofer/passive-large/) (over 75 lbs). For powered subwoofers see [Small Powered](/subwoofer/powered-small/), [Medium Powered](/subwoofer/powered-medium/), and [Large Powered](/subwoofer/powered-large/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -21,6 +21,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.0"H x 5.9"W x 14.0"D (406.4 x 149.9 x 355.6 mm)
+- Driver: 4" (102mm) driver
 - Driver(s): (4) 4 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
@@ -37,12 +38,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Dayton Audio MKSX4](https://www.reddit.com/search/?q=Dayton+Audio+MKSX4)
     - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-MKSX4/)
 
-## #2 ELAC IW-S10EQ in-wall
+## #2 ELAC IW-S10EQ in-wall: $299
 - CEA-2010-A Average (40-80Hz): 103.9 dB
 - Cabinet Color: black
 - Country: Germany
 - Dimensions: 12.2"H x 12.2"W x 4.23"D (309.9 x 309.9 x 107.4 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: in-wall
 - Measurement Source: Brent Butterworth
@@ -62,11 +64,12 @@ Last updated: June 02, 2026
     - [Reddit Search for ELAC IW-S10EQ in-wall](https://www.reddit.com/search/?q=ELAC+IW-S10EQ+in-wall)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-IW-S10EQ-in-wall/)
 
-## #3 BG Radia BGX-S6B
+## #3 BG Radia BGX-S6B: $189
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 102.1 dB (avg of 3/4 bands)
 - Dimensions: 14.0"H x 14.0"W x 3.75"D (355.6 x 355.6 x 95.2 mm)
 - Discontinued: Yes
+- Driver: 6" (152mm) driver
 - Driver(s): (6) 4 inch
 - Enclosure: in-wall
 - Measurement Source: Brent Butterworth

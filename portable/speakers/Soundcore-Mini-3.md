@@ -19,6 +19,8 @@ The Soundcore Mini 3 ranks [#9 out of 44 total Small Size Portable Bluetooth Spe
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Charging Time: 3-4 hours
+- Dimensions: 2.8" x 2.8" x 3.3"
+- Driver: 52mm full-range driver
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 87dB

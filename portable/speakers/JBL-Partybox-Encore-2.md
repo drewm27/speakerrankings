@@ -17,6 +17,7 @@ The JBL Partybox Encore 2 ranks [#4 out of 67 total Boombox Size Portable Blueto
 - Bluetooth Version: 5.4
 - Built in Microphone: No
 - Dimensions: 12.58" x 13.33" x 10.35" (319.5 x 338.6 x 263 mm)
+- Driver: 1x 135mm (5.25") woofer + 2x 20mm (0.75") dome tweeters
 - EQ: Yes (7 band App EQ)
 - IP Rating: IPX4
 - Max Volume: 110dB

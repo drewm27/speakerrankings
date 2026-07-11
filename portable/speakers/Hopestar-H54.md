@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Hopestar H54 ranks #36 out of 44 total Small Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Hopestar H54 ranks [#36 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#36-hopestar-h54-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Hopestar H54 ranks [#36 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#36-hopestar-h54-49) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #36 Hopestar H54
+## #36 Hopestar H54: $49
 - Negatives: Bright treble, not much bass, harsh mids
 - App: No
 - Aux Input: Yes
@@ -15,6 +15,7 @@ The Hopestar H54 ranks [#36 out of 44 total Small Size Portable Bluetooth Speake
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 14cm x 12cm x 7cm
 - Driver: 52mm
 - EQ: No
 - Frequency Response: 80Hz - 15kHz (Manufacturer specified)
@@ -26,6 +27,7 @@ The Hopestar H54 ranks [#36 out of 44 total Small Size Portable Bluetooth Speake
 - Power Input: USB-C
 - Stereo: No
 - TWS: Yes
+- Weight: 500g
 - Reviews, Comparisons and Sound Samples
     - [Techder Audios: HOPESTAR H54 VS JBL GO 3 "SIMILAR DESIGN BUT SOUND IS DIFFERENT?!''](https://www.youtube.com/watch?v=IHXU3CMEdSg)
 - Links

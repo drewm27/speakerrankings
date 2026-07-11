@@ -5,12 +5,13 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Elemental Designs A7S-450 ranks #31 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Elemental Designs A7S-450 ranks [#31 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#31-elemental-designs-a7s-450-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Elemental Designs A7S-450 ranks [#31 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#31-elemental-designs-a7s-450-499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #31 Elemental Designs A7S-450
+## #31 Elemental Designs A7S-450: $499
 - CEA-2010-A Average (40-80Hz): 122.3 dB
 - Dimensions: 22.25"H x 22.25"W x 22.25"D (565.1 x 565.1 x 565.1 mm)
 - Discontinued: Yes
+- Driver: 7" (178mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

@@ -13,8 +13,10 @@ The Monoprice 12in 150-Watt Powered ranks [#69 out of 137 total Medium Powered H
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 17.0"H x 17.3"W x 17.5"D (431.8 x 439.4 x 444.5 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 25-250Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 114.2 dB
 - Output SPL at 125 Hz: 113.3 dB
@@ -25,6 +27,7 @@ The Monoprice 12in 150-Watt Powered ranks [#69 out of 137 total Medium Powered H
 - Output SPL at 50 Hz: 110.6 dB
 - Output SPL at 63 Hz: 115.7 dB
 - Output SPL at 80 Hz: 115.4 dB
+- Power Output (Watts): 150W RMS
 - Weight: 53.77lbs / 24.4kg
 - Links
     - [Monoprice 12in 150-Watt Powered Website](https://www.monoprice.com/product?p_id=9723)

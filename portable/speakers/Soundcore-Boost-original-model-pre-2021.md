@@ -13,9 +13,13 @@ The Soundcore Boost “original model” pre-2021 ranks [#13 out of 131 total Me
 - App: Yes
 - Aux Input: Yes
 - Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 4.2
 - Built in Microphone: Yes
+- Driver: 1.75" x 2 active drivers + passive radiator
 - EQ: Yes
 - IP Rating: IPX5
+- Output Power: 20W (10W × 2)
 - Power Bank: No
 - Power Input: Micro USB
 - Stereo: Yes

@@ -13,6 +13,7 @@ The JL Audio Dominion d108 ranks [#27 out of 41 total Small Powered Home Subwoof
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 11.37"H x 10.0"W x 13.23"D (288.8 x 254.0 x 336.0 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner

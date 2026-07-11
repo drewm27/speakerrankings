@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Velodyne Acoustics DD-15 ranks #88 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Velodyne Acoustics DD-15 ranks [#88 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#88-velodyne-acoustics-dd-15-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Velodyne Acoustics DD-15 ranks [#88 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#88-velodyne-acoustics-dd-15-2495) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #88 Velodyne Acoustics DD-15
+## #88 Velodyne Acoustics DD-15: $2495
 - CEA-2010-A Average (40-80Hz): 112.0 dB
 - Country: United States
 - Dimensions: 18.0"H x 18.0"W x 17.75"D (457.2 x 457.2 x 450.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

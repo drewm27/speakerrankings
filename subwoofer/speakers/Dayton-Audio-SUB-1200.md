@@ -12,8 +12,10 @@ The Dayton Audio SUB-1200 ranks [#100 out of 137 total Medium Powered Home Subwo
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.75"H x 16.18"W x 17.75"D (425.4 x 411.0 x 450.8 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Frequency Response: 25-140Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 76.1 dB
 - Output SPL at 20 Hz: 85.5 dB
@@ -23,6 +25,7 @@ The Dayton Audio SUB-1200 ranks [#100 out of 137 total Medium Powered Home Subwo
 - Output SPL at 50 Hz: 108.8 dB
 - Output SPL at 63 Hz: 111.2 dB
 - Output SPL at 80 Hz: 111.2 dB
+- Power Output (Watts): 120W RMS
 - Warranty: 5
 - Weight: 44.65lbs / 20.3kg
 - Links

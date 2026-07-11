@@ -13,6 +13,7 @@ The HSU Research VTF-3 MK5 HP ranks [#41 out of 95 total Large Powered Home Subw
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 25.0"H x 17.25"W x 24.0"D (635.0 x 438.1 x 609.6 mm)
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer

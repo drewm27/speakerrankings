@@ -15,6 +15,7 @@ The Audio Pro C3 ranks [#2 out of 14 total Medium Size Powered Desktop Speakers]
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Driver: 2" driver + 0.5" tweeter
 - EQ: No
 - IP Rating: None
 - Party Mode: Yes (over Wifi)

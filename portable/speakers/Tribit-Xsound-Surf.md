@@ -9,11 +9,17 @@ The Tribit Xsound Surf ranks [#76 out of 131 total Medium Size Portable Bluetoot
 
 ## #76 Tribit Xsound Surf: $26
 - Negatives: Bass doesn't go as deep as others, strange midrange peaks
+- App: Yes
 - Aux Input: Yes
 - Battery Life: 10 hours (Manufacturer specified)
+- Bluetooth Codecs: aptX HD, aptX Lossless, LDAC, aptX Adaptive
 - Bluetooth Version: 5.0
+- Built in Microphone: Likely Yes (based on Tribit pattern)
 - Dimensions: 7.01" x 2.24" x 2.13" (178 x 57 x 54 mm)
+- Driver: 40W: 2x drivers with passive radiator
+- EQ: Yes
 - Frequency Response: 70Hz - 20kHz (Manufacturer specified)
+- IP Rating: IPX7
 - Output Power: 12W RMS
 - Stereo: Yes
 - Weight: 0.97lbs / 440g

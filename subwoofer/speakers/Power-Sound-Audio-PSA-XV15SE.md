@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Power Sound Audio (PSA) XV15SE ranks #57 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Power Sound Audio (PSA) XV15SE ranks [#57 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#57-power-sound-audio-psa-xv15se-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Power Sound Audio (PSA) XV15SE ranks [#57 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#57-power-sound-audio-psa-xv15se-2295) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #57 Power Sound Audio (PSA) XV15SE
+## #57 Power Sound Audio (PSA) XV15SE: $2295
 - CEA-2010-A Average (40-80Hz): 119.6 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Manufacturer

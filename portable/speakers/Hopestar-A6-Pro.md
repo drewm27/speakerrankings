@@ -16,6 +16,7 @@ The Hopestar A6 Pro ranks [#69 out of 74 total Large Size Portable Bluetooth Spe
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: Specifications not fully listed
 - Driver: 1x 115mm woofer
 - EQ: No
 - Frequency Response: 100Hz - 10kHz (Manufacturer specified)
@@ -27,6 +28,7 @@ The Hopestar A6 Pro ranks [#69 out of 74 total Large Size Portable Bluetooth Spe
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1.5 kg
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=--D4V3fSNyM>
 - Links

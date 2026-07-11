@@ -14,8 +14,11 @@ The Raymate M8 ranks [#43 out of 74 total Large Size Portable Bluetooth Speakers
 - Battery Life: 15 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 15.76" x 9.84" x 9.84"
+- Driver: 60W system with multiple drivers
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 60W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

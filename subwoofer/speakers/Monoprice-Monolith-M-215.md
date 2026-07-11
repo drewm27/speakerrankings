@@ -13,6 +13,7 @@ The Monoprice Monolith M-215 ranks [#17 out of 95 total Large Powered Home Subwo
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 42.3"H x 20.0"W x 27.6"D (1074.4 x 508.0 x 701.0 mm)
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth

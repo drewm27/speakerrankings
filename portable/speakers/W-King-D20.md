@@ -15,16 +15,20 @@ The W-King D20 ranks [#25 out of 67 total Boombox Size Portable Bluetooth Speake
 - Bass Extension (-10dB): ~42Hz
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 50.6cm x 21.7cm x 27cm
+- Driver: 4.5" + 3.5" drivers + 1.2" tweeters
 - EQ: Yes (App + button modes)
 - IP Rating: IPX6
 - Max Volume: 112dB
 - MicroSD: Yes
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
 - USB Playback: Yes
+- Weight: 6500g
 - Wireless Microphones: Yes
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Soundcore Boom 2 Plus Review - worst boombox speaker under $400?](https://www.youtube.com/watch?v=Q9tf5j7pJsc)

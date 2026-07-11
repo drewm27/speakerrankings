@@ -15,6 +15,7 @@ The Soundboks 3 ranks [#22 out of 42 total Party Size Portable Bluetooth Speaker
 - Bass Extension (-10dB): 52Hz
 - Battery Life: 40 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 2x 10" (254mm) woofers + 1x 1" (25mm) compression tweeter with horn
 - EQ: Yes
 - Guitar Input: Yes
 - IP Rating: IP65

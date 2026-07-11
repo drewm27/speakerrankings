@@ -10,11 +10,17 @@ The Creative iRoar Go ranks [#59 out of 131 total Medium Size Portable Bluetooth
 ## #59 Creative iRoar Go: $83
 - Positives: Pretty neutral response across the mids
 - Negatives: Rolled off treble. Bass extension isn't as good as today's speakers
+- App: Yes (Sound Blaster Connect)
+- Aux Input: Yes (3.5mm)
 - Bass Extension (-10dB): 64Hz
 - Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: AAC, SBC
 - Bluetooth Version: 4.2
+- Built in Microphone: Yes
 - Dimensions: 7.6" x 3.8" x 2.1" (192 x 97 x 54 mm)
 - Driver: 1x 63mm subwoofer, 2x 38mm tweeters
+- EQ: Yes (via Sound Blaster Connect app)
+- IP Rating: IPX7
 - Weight: 1.8lbs / 816g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=2A3C3Ec8QJA>

@@ -5,16 +5,18 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Definitive Technology SuperCube 8000 ranks #70 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Definitive Technology SuperCube 8000 ranks [#70 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#70-definitive-technology-supercube-8000-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Definitive Technology SuperCube 8000 ranks [#70 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#70-definitive-technology-supercube-8000-1299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #70 Definitive Technology SuperCube 8000
+## #70 Definitive Technology SuperCube 8000: $1299
 - CEA-2010-A Average (40-80Hz): 111.7 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.25"H x 15.25"W x 16.0"D (412.8 x 387.3 x 406.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 11 inch
 - Enclosure: passive radiator
+- Frequency Response: 12-200Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 96.0 dB
 - Output SPL at 25 Hz: 101.4 dB
@@ -22,6 +24,7 @@ The Definitive Technology SuperCube 8000 ranks [#70 out of 137 total Medium Powe
 - Output SPL at 40 Hz: 111.2 dB
 - Output SPL at 50 Hz: 112.6 dB
 - Output SPL at 63 Hz: 111.2 dB
+- Power Output (Watts): 1500W peak
 - Warranty: 5/3
 - Weight: 67.0lbs / 30.4kg
 - Links

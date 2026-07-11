@@ -12,6 +12,7 @@ The Arendal 1961 Subwoofer 1V ranks [#80 out of 95 total Large Powered Home Subw
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 21.45"H x 15.35"W x 19.68"D (544.8 x 389.9 x 499.9 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner

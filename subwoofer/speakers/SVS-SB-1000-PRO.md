@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The SVS SB-1000 PRO ranks #1 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The SVS SB-1000 PRO ranks [#1 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#1-svs-sb-1000-pro-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The SVS SB-1000 PRO ranks [#1 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#1-svs-sb-1000-pro-amazon-600) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #1 SVS SB-1000 PRO: $600
+## #1 [SVS SB-1000 PRO](https://www.amazon.com/SVS-SB-1000-Sealed-Subwoofer-Black/dp/B08X51FVZS?tag=rankingspea01-20) [[Amazon](https://www.amazon.com/SVS-SB-1000-Sealed-Subwoofer-Black/dp/B08X51FVZS?tag=rankingspea01-20)]: $600
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 13.5"H x 13.0"W x 14.76"D (342.9 x 330.2 x 374.9 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

@@ -12,8 +12,10 @@ The JBL SUB 550P ranks [#132 out of 137 total Medium Powered Home Subwoofers (30
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.9"H x 17.5"W x 41.96"D (378.5 x 444.5 x 1065.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 27-150Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 104.2 dB
 - Output SPL at 20 Hz: 84.7 dB
@@ -23,6 +25,7 @@ The JBL SUB 550P ranks [#132 out of 137 total Medium Powered Home Subwoofers (30
 - Output SPL at 50 Hz: 103.2 dB
 - Output SPL at 63 Hz: 103.3 dB
 - Output SPL at 80 Hz: 103.7 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 1
 - Weight: 50.0lbs / 22.7kg
 - Links

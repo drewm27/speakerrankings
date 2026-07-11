@@ -15,13 +15,17 @@ The Dockin D Fine ranks [#33 out of 74 total Large Size Portable Bluetooth Speak
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 285mm x 100mm x 103mm
+- Driver: 2x active high-frequency drivers + 2x active midrange drivers + 2 passive bass radiators
 - EQ: No
 - IP Rating: IPX7
+- Output Power: 50W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes
 - TWS: Yes
+- Weight: 1930g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=gz-JI1aDaE8>
     - <https://www.youtube.com/watch?v=XElKWWmN9R8>

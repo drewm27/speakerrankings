@@ -17,9 +17,12 @@ The Minirig Mini ranks [#4 out of 44 total Small Size Portable Bluetooth Speaker
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, SBC
 - Built in Microphone: Yes
+- Dimensions: 84mm x 53mm (depth not listed)
+- Driver: 52mm custom neodymium
 - EQ: Yes
 - IP Rating: Splash resistant
 - Max Volume: 92dB
+- Output Power: 15W RMS
 - Party Mode: No
 - Power Bank: No
 - Power Input: Proprietary USB cable

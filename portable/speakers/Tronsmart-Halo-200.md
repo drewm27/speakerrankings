@@ -17,12 +17,15 @@ The Tronsmart Halo 200 ranks [#46 out of 67 total Boombox Size Portable Bluetoot
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No
+- Dimensions: 386mm x 282mm x 266mm
+- Driver: 1x 5.7" (145mm) woofer + 2x 2.24" (57mm) mid-tweeters + 1x 1.22" (31mm) tweeter
 - EQ: Yes (multiple modes)
 - Guitar Input: Yes
 - IP Rating: IPX4
 - Max Volume: 110dB
 - MicroSD: No
 - Microphone Input: Yes
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

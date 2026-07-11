@@ -18,6 +18,7 @@ The Harman Kardon Esquire Mini 2 ranks [#40 out of 44 total Small Size Portable 
 - Built in Microphone: Yes
 - Charging Time: 3 hours
 - Dimensions: 5.51" x 2.96" x 1.03" (140 x 75.2 x 26.1 mm)
+- Driver: 2x 44.5mm (~1.75") full-range drivers
 - EQ: No
 - Frequency Response: 130Hz - 20kHz (Manufacturer specified)
 - IP Rating: None

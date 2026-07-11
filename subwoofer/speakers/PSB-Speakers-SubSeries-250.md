@@ -12,8 +12,10 @@ The PSB Speakers SubSeries 250 ranks [#121 out of 137 total Medium Powered Home 
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 14.25"H x 13.62"W x 14.37"D (361.9 x 345.9 x 365.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 20Hz+
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 84.0 dB
 - Output SPL at 20 Hz: 86.5 dB
@@ -23,6 +25,7 @@ The PSB Speakers SubSeries 250 ranks [#121 out of 137 total Medium Powered Home 
 - Output SPL at 50 Hz: 105.0 dB
 - Output SPL at 63 Hz: 109.7 dB
 - Output SPL at 80 Hz: 110.6 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5
 - Weight: 35.4lbs / 16.1kg
 - Links

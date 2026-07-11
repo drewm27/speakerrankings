@@ -16,9 +16,13 @@ The ZZA K8 ranks [#44 out of 67 total Boombox Size Portable Bluetooth Speakers](
 - Battery Life: ~30 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: Dimensions not available
+- Driver: 8" woofer + tweeters
 - EQ: No
 - FM Tuner: No
+- IP Rating: IPX6
 - Microphone Input: Yes
+- Output Power: Specs not available
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

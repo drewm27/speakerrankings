@@ -5,16 +5,18 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Polk Audio PSW 110 ranks #97 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Polk Audio PSW 110 ranks [#97 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#97-polk-audio-psw-110-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Polk Audio PSW 110 ranks [#97 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#97-polk-audio-psw-110-499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #97 Polk Audio PSW 110
+## #97 Polk Audio PSW 110: $499
 - CEA-2010-A Average (40-80Hz): 109.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.5"H x 14.25"W x 17.0"D (368.3 x 361.9 x 431.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
+- Frequency Response: 32-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 71.6 dB
 - Output SPL at 25 Hz: 81.1 dB
@@ -23,6 +25,7 @@ The Polk Audio PSW 110 ranks [#97 out of 137 total Medium Powered Home Subwoofer
 - Output SPL at 50 Hz: 108.3 dB
 - Output SPL at 63 Hz: 111.9 dB
 - Output SPL at 80 Hz: 112.5 dB
+- Power Output (Watts): 100W RMS
 - Warranty: 5/3
 - Weight: 33.5lbs / 15.2kg
 - Links

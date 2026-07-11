@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Fugoo XL ranks #38 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Fugoo XL ranks [#38 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#38-fugoo-xl) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Fugoo XL ranks [#38 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#38-fugoo-xl-299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #38 Fugoo XL
+## #38 Fugoo XL: $299
 - Positives: Pretty deep bass for the size
 - Negatives: Some midrange honkyness
 - App: No
@@ -17,7 +17,7 @@ The Fugoo XL ranks [#38 out of 74 total Large Size Portable Bluetooth Speakers](
 - Bluetooth Version: 4.0
 - Built in Microphone: Yes
 - Dimensions: 11.3" x 4.5" x 3.8" (288 x 115 x 97 mm)
-- Driver: 4x tweeters, 2x midwoofers + 2x passive radiators
+- Driver: 2x 62mm (2.4") woofers + 4x 28mm (1.1") tweeters + 2x 105x66mm passive radiators
 - EQ: No
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67

@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Emotiva B1+ ranks #16 out of 20 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Emotiva B1+ ranks [#16 out of 20 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#16-emotiva-b1-used-listings-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Emotiva B1+ ranks [#16 out of 20 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#16-emotiva-b1-250) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #16 [Emotiva B1+](https://www.hifizero.com/index.php?q=Emotiva+B1%2B) [[Used Listings](https://www.hifizero.com/index.php?q=Emotiva+B1%2B)]: $250
+## #16 Emotiva B1+: $250
 - Negatives: Resonance and peak from 1-2khz. A little bright up top. Not great vertically off-axis
 - Bass Extension (-10dB): 49Hz
 - Bass Extension (-3dB): 70Hz

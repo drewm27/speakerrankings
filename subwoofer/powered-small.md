@@ -10,16 +10,17 @@ This page ranks 41 compact powered subwoofers weighing under 30 lbs. All subwoof
 
 Also check out [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs) and [Large Powered Subwoofers](/subwoofer/powered-large/) (over 75 lbs). For passive subwoofers see [Small Passive](/subwoofer/passive-small/), [Medium Passive](/subwoofer/passive-medium/), and [Large Passive](/subwoofer/passive-large/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
 
-## #1 SVS SB-1000 PRO: $600
+## #1 [SVS SB-1000 PRO](https://www.amazon.com/SVS-SB-1000-Sealed-Subwoofer-Black/dp/B08X51FVZS?tag=rankingspea01-20) [[Amazon](https://www.amazon.com/SVS-SB-1000-Sealed-Subwoofer-Black/dp/B08X51FVZS?tag=rankingspea01-20)]: $600
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 13.5"H x 13.0"W x 14.76"D (342.9 x 330.2 x 374.9 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -39,11 +40,12 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS SB-1000 PRO](https://www.reddit.com/search/?q=SVS+SB-1000+PRO)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-1000-PRO/)
 
-## #2 Velodyne Acoustics SPL-1200 Series II
+## #2 Velodyne Acoustics SPL-1200 Series II: $499
 - CEA-2010-A Average (40-80Hz): 111.1 dB
 - Country: United States
 - Dimensions: 14.75"H x 14.25"W x 16.37"D (374.6 x 361.9 x 415.8 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
@@ -59,11 +61,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Velodyne Acoustics SPL-1200 Series II](https://www.reddit.com/search/?q=Velodyne+Acoustics+SPL-1200+Series+II)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-SPL-1200-Series-II/)
 
-## #3 Polk Audio PSW10: $250
+## #3 [Polk Audio PSW10](https://www.amazon.com/Polk-Audio-PSW10-Powered-Subwoofer/dp/B0002KVQBA?crid=3338KYIZ6VWZQ&dib=eyJ2IjoiMSJ9.l52znRtlBjeH4GoFafQ-3zbal666q1I0QX4OAi_aublLVqY3Z9i5d55J94hWT-e5AlIJSVExY846jGjvNmC-clYpOl_XAhorctWVX7bOc7VYd0ffB_Vcb0fuClXp_1mRn_dTPa44v5S0ZRwP3l8WdZ_wGewLRzQZemn4vYePO1cU2zvOQIIFsauPHsXt9cVyFQsr4yx-eSmtaoPyxc9SDYQNhmJfBra9zKBYtSSE710.-J-6kgX4jIi2JT0O-3BkSV6D5A6hhVmELuHfjBaYe1M&dib_tag=se&keywords=svs%2Bsubwoofers&qid=1780541194&sprefix=svs%2Bsubwoof%2Caps%2C330&sr=8-11&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=07c88c0df1b5c8e6e3fc71dc25fd76cf&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Audio-PSW10-Powered-Subwoofer/dp/B0002KVQBA?crid=3338KYIZ6VWZQ&dib=eyJ2IjoiMSJ9.l52znRtlBjeH4GoFafQ-3zbal666q1I0QX4OAi_aublLVqY3Z9i5d55J94hWT-e5AlIJSVExY846jGjvNmC-clYpOl_XAhorctWVX7bOc7VYd0ffB_Vcb0fuClXp_1mRn_dTPa44v5S0ZRwP3l8WdZ_wGewLRzQZemn4vYePO1cU2zvOQIIFsauPHsXt9cVyFQsr4yx-eSmtaoPyxc9SDYQNhmJfBra9zKBYtSSE710.-J-6kgX4jIi2JT0O-3BkSV6D5A6hhVmELuHfjBaYe1M&dib_tag=se&keywords=svs%2Bsubwoofers&qid=1780541194&sprefix=svs%2Bsubwoof%2Caps%2C330&sr=8-11&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=07c88c0df1b5c8e6e3fc71dc25fd76cf&language=en_US&ref_=as_li_ss_tl)]: $250
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.37"H x 14.0"W x 16.12"D (365.0 x 355.6 x 409.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
@@ -87,6 +90,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 13.5"H x 13.0"W x 14.0"D (342.9 x 330.2 x 355.6 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -101,7 +105,7 @@ Last updated: June 02, 2026
 - Warranty: 5
 - Weight: 27.0lbs / 12.2kg
 - Links
-    - [SVS SB-1000 Website](https://www.svsound.com/search?q=%26quot%3Bsb-1000%26quot%3B)
+    - [SVS SB-1000 Website](https://www.svsound.com/products/sb-1000)
     - [Reddit Search for SVS SB-1000](https://www.reddit.com/search/?q=SVS+SB-1000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-1000/)
 
@@ -110,6 +114,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 11.5"H x 11.37"W x 15.75"D (292.1 x 288.8 x 400.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
@@ -125,12 +130,13 @@ Last updated: June 02, 2026
     - [Reddit Search for GoldenEar ForceField 3](https://www.reddit.com/search/?q=GoldenEar+ForceField+3)
     - [Direct Speakerranking Link](/subwoofer/speakers/GoldenEar-ForceField-3/)
 
-## #6 Onkyo SKW-204
+## #6 Onkyo SKW-204: $299
 - CEA-2010-A Average (40-80Hz): 109.9 dB
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 18.62"H x 10.81"W x 16.87"D (472.9 x 274.6 x 428.5 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -147,11 +153,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Onkyo SKW-204](https://www.reddit.com/search/?q=Onkyo+SKW-204)
     - [Direct Speakerranking Link](/subwoofer/speakers/Onkyo-SKW-204/)
 
-## #7 MartinLogan Dynamo 700w
+## #7 MartinLogan Dynamo 700w: $999
 - CEA-2010-A Average (40-80Hz): 109.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 12.54"H x 11.69"W x 12.53"D (318.5 x 296.9 x 318.3 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -168,12 +175,13 @@ Last updated: June 02, 2026
     - [Reddit Search for MartinLogan Dynamo 700w](https://www.reddit.com/search/?q=MartinLogan+Dynamo+700w)
     - [Direct Speakerranking Link](/subwoofer/speakers/MartinLogan-Dynamo-700w/)
 
-## #8 Definitive Technology SuperCube 2000
+## #8 Definitive Technology SuperCube 2000: $599
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 10.75"H x 10.25"W x 10.88"D (273.1 x 260.3 x 276.4 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 7.5 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
@@ -191,11 +199,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Definitive Technology SuperCube 2000](https://www.reddit.com/search/?q=Definitive+Technology+SuperCube+2000)
     - [Direct Speakerranking Link](/subwoofer/speakers/Definitive-Technology-SuperCube-2000/)
 
-## #9 Klipsch HD Theater 600
+## #9 Klipsch HD Theater 600: $399
 - CEA-2010-A Average (40-80Hz): 108.2 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 13.9"H x 12.5"W x 12.5"D (353.1 x 317.5 x 317.5 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
@@ -204,6 +213,7 @@ Last updated: June 02, 2026
 - Output SPL at 40 Hz: 104.9 dB
 - Output SPL at 50 Hz: 107.6 dB
 - Output SPL at 63 Hz: 112.1 dB
+- Weight: 7.7kg
 - Links
     - [Klipsch HD Theater 600 Website](https://www.klipsch.ca/products/high-definition-theater-600-home-theater-system)
     - [Reddit Search for Klipsch HD Theater 600](https://www.reddit.com/search/?q=Klipsch+HD+Theater+600)
@@ -214,6 +224,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Germany
 - Dimensions: 14.81"H x 12.18"W x 12.18"D (376.2 x 309.4 x 309.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
@@ -231,13 +242,14 @@ Last updated: June 02, 2026
     - [Reddit Search for ELAC SUB1010](https://www.reddit.com/search/?q=ELAC+SUB1010)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-SUB1010/)
 
-## #11 Bowers & Wilkins (B&W) PV1D
+## #11 Bowers & Wilkins (B&W) PV1D: $1699
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 108.0 dB (avg of 3/4 bands)
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 13.5"H x 10.6"W x 14.1"D (342.9 x 269.2 x 358.1 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -259,6 +271,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 10.9"H x 11.7"W x 10.7"D (276.9 x 297.2 x 271.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -276,12 +289,13 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS 3000 Micro](https://www.reddit.com/search/?q=SVS+3000+Micro)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-3000-Micro/)
 
-## #13 Monitor Audio BRW10
+## #13 Monitor Audio BRW10: $699
 - CEA-2010-A Average (40-80Hz): 107.0 dB
 - Cabinet Color: wood
 - Country: United Kingdom
 - Dimensions: 12.62"H x 12.62"W x 13.37"D (320.5 x 320.5 x 339.6 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen
@@ -298,12 +312,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Monitor Audio BRW10](https://www.reddit.com/search/?q=Monitor+Audio+BRW10)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monitor-Audio-BRW10/)
 
-## #14 Klipsch R-10SW
+## #14 Klipsch R-10SW: $399
 - CEA-2010-A Average (40-80Hz): 106.8 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 14.0"H x 12.5"W x 15.7"D (355.6 x 317.5 x 398.8 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
@@ -325,6 +340,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 13.58"H x 11.61"W x 15.74"D (344.9 x 294.9 x 399.8 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
@@ -348,6 +364,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 15.0"H x 10.6"W x 12.8"D (381.0 x 269.2 x 325.1 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -364,12 +381,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice Premium Select 8in 200-Watt](https://www.reddit.com/search/?q=Monoprice+Premium+Select+8in+200-Watt)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Premium-Select-8in-200-Watt/)
 
-## #17 Pioneer SW-8MK2
+## #17 Pioneer SW-8MK2: $299
 - CEA-2010-A Average (40-80Hz): 106.4 dB
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 14.18"H x 12.18"W x 12.18"D (360.2 x 309.4 x 309.4 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -387,11 +405,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Pioneer SW-8MK2](https://www.reddit.com/search/?q=Pioneer+SW-8MK2)
     - [Direct Speakerranking Link](/subwoofer/speakers/Pioneer-SW-8MK2/)
 
-## #18 Polk Audio PSW 111: $350
+## #18 [Polk Audio PSW 111](https://www.amazon.com/Polk-Audio-PSW111-Subwoofer-Single/dp/B000P0528U?crid=33T9J80JWUR5H&dib=eyJ2IjoiMSJ9.95iLOXdiyjZB_rDt1OwIrA.vIzVePeuo1gU8lgWoUBMpKBZcqFa1iaIjX2cmwOk_8U&dib_tag=se&keywords=psw%2B111&qid=1780542216&sprefix=psw%2B11%2Caps%2C303&sr=8-2&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=e54cecbc6346d7843d099fcc6a45e4ef&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Audio-PSW111-Subwoofer-Single/dp/B000P0528U?crid=33T9J80JWUR5H&dib=eyJ2IjoiMSJ9.95iLOXdiyjZB_rDt1OwIrA.vIzVePeuo1gU8lgWoUBMpKBZcqFa1iaIjX2cmwOk_8U&dib_tag=se&keywords=psw%2B111&qid=1780542216&sprefix=psw%2B11%2Caps%2C303&sr=8-2&th=1&linkCode=ll2&tag=rankingspea01-20&linkId=e54cecbc6346d7843d099fcc6a45e4ef&language=en_US&ref_=as_li_ss_tl)]: $350
 - CEA-2010-A Average (40-80Hz): 106.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 12.13"H x 11.0"W x 13.0"D (308.1 x 279.4 x 330.2 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
@@ -415,6 +434,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 15.0"H x 14.6"W x 7.0"D (381.0 x 370.8 x 177.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -438,6 +458,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 13.9"H x 10.5"W x 10.5"D (353.1 x 266.7 x 266.7 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -455,12 +476,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Revel B8](https://www.reddit.com/search/?q=Revel+B8)
     - [Direct Speakerranking Link](/subwoofer/speakers/Revel-B8/)
 
-## #21 OSD (Optimal Speaker Design) SS8
+## #21 OSD (Optimal Speaker Design) SS8: $249
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 105.0 dB
 - Country: United States
 - Dimensions: 15.75"H x 21.25"W x 5.5"D (400.0 x 539.8 x 139.7 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
@@ -472,6 +494,7 @@ Last updated: June 02, 2026
 - Output SPL at 63 Hz: 109.6 dB
 - Output SPL at 80 Hz: 109.7 dB
 - Warranty: 2?
+- Weight: 5.2kg
 - Links
     - [Reddit Search for OSD (Optimal Speaker Design) SS8](https://www.reddit.com/search/?q=OSD+%28Optimal+Speaker+Design%29+SS8)
     - [Direct Speakerranking Link](/subwoofer/speakers/OSD-Optimal-Speaker-Design-SS8/)
@@ -481,6 +504,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 13.87"H x 13.87"W x 16.12"D (352.3 x 352.3 x 409.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, side
 - Measurement Source: ErinsAudioCorner
@@ -502,6 +526,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Japan
 - Dimensions: 13.75"H x 11.81"W x 15.31"D (349.2 x 300.0 x 388.9 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
@@ -524,6 +549,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 6.0"H x 25.0"W x 15.75"D (152.4 x 635.0 x 400.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
@@ -541,11 +567,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Dayton Audio SUB-1000L](https://www.reddit.com/search/?q=Dayton+Audio+SUB-1000L)
     - [Direct Speakerranking Link](/subwoofer/speakers/Dayton-Audio-SUB-1000L/)
 
-## #25 Yamaha YST-SW215
+## #25 Yamaha YST-SW215: $399
 - CEA-2010-A Average (40-80Hz): 103.6 dB
 - Country: Japan
 - Dimensions: 14.18"H x 11.43"W x 12.68"D (360.2 x 290.3 x 322.1 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
@@ -569,6 +596,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: France
 - Dimensions: 16.1"H x 14.2"W x 6.3"D (408.9 x 360.7 x 160.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
@@ -590,6 +618,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 11.37"H x 10.0"W x 13.23"D (288.8 x 254.0 x 336.0 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner
@@ -608,11 +637,12 @@ Last updated: June 02, 2026
     - [Reddit Search for JL Audio Dominion d108](https://www.reddit.com/search/?q=JL+Audio+Dominion+d108)
     - [Direct Speakerranking Link](/subwoofer/speakers/JL-Audio-Dominion-d108/)
 
-## #28 Jamo SUB 800
+## #28 Jamo SUB 800: $499
 - CEA-2010-A Average (40-80Hz): 102.2 dB (avg of 3/4 bands)
 - Country: Denmark
 - Dimensions: 8.0"H x 8.0"W x 8.0"D (203.2 x 203.2 x 203.2 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 6.5 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth
@@ -626,13 +656,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Jamo SUB 800](https://www.reddit.com/search/?q=Jamo+SUB+800)
     - [Direct Speakerranking Link](/subwoofer/speakers/Jamo-SUB-800/)
 
-## #29 Gallo Acoustics TR-1
+## #29 Gallo Acoustics TR-1: $399
 - Notes: "Sphere" shape
 - CEA-2010-A Average (40-80Hz): 102.1 dB
 - Cabinet Color: black
 - Country: Scotland
 - Dimensions: 12.0"H x 10.75"W x 13.5"D (304.8 x 273.1 x 342.9 mm)
 - Discontinued: Yes
+- Driver: 1" (25mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
@@ -649,11 +680,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Gallo Acoustics TR-1](https://www.reddit.com/search/?q=Gallo+Acoustics+TR-1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Gallo-Acoustics-TR-1/)
 
-## #30 Wharfedale DX-1
+## #30 Wharfedale DX-1: $399
 - CEA-2010-A Average (40-80Hz): 101.9 dB (avg of 3/4 bands)
 - Country: United Kingdom
 - Dimensions: 13.4"H x 11.4"W x 12.8"D (340.4 x 289.6 x 325.1 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, rear
 - Measurement Source: Brent Butterworth
@@ -666,11 +698,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Wharfedale DX-1](https://www.reddit.com/search/?q=Wharfedale+DX-1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Wharfedale-DX-1/)
 
-## #31 Yamaha YST-SW012
+## #31 Yamaha YST-SW012: $299
 - CEA-2010-A Average (40-80Hz): 101.6 dB
 - Country: Japan
 - Dimensions: 11.37"H x 11.37"W x 12.87"D (288.8 x 288.8 x 326.9 mm)
 - Discontinued: Yes
+- Driver: 6" (152mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported, side
 - Measurement Source: Brent Butterworth
@@ -694,6 +727,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white, wood, grey
 - Country: United Kingdom
 - Dimensions: 12.8"H x 6.1"W x 18.9"D (325.1 x 154.9 x 480.1 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -715,6 +749,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, grey
 - Country: United States
 - Dimensions: 14.25"H x 11.25"W x 12.75"D (361.9 x 285.8 x 323.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: ported
 - Measurement Source: Brent Butterworth
@@ -735,6 +770,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 12.01"H x 9.06"W x 9.06"D (305.1 x 230.1 x 230.1 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (2) 6 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -758,6 +794,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 8.0"H x 7.5"W x 9.0"D (203.2 x 190.5 x 228.6 mm)
+- Driver: 6" (152mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -780,6 +817,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 12.59"H x 13.5"W x 12.59"D (319.8 x 342.9 x 319.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported
 - Measurement Source: ErinsAudioCorner
@@ -797,12 +835,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice Monolith 8 THX Certified](https://www.reddit.com/search/?q=Monoprice+Monolith+8+THX+Certified)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-8-THX-Certified/)
 
-## #37 Paradigm Millenia CT
+## #37 Paradigm Millenia CT: $499
 - Notes: low profile (<8in)
 - CEA-2010-A Average (40-80Hz): 99.0 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 15.75"H x 5.0"W x 14.0"D (400.0 x 127.0 x 355.6 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Measurement Source: Brent Butterworth
 - Output SPL at 25 Hz: 67.8 dB
@@ -817,11 +856,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Paradigm Millenia CT](https://www.reddit.com/search/?q=Paradigm+Millenia+CT)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Millenia-CT/)
 
-## #38 Axiom Audio EP400 v3
+## #38 Axiom Audio EP400 v3: $599
 - CEA-2010-A Average (40-80Hz): 98.5 dB
 - Country: Canada
 - Dimensions: 13.75"H x 10.5"W x 16.8"D (349.2 x 266.7 x 426.7 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -834,16 +874,18 @@ Last updated: June 02, 2026
 - Output SPL at 63 Hz: 98.0 dB
 - Output SPL at 80 Hz: 98.0 dB
 - Warranty: 5
+- Weight: 8.1kg
 - Links
     - [Reddit Search for Axiom Audio EP400 v3](https://www.reddit.com/search/?q=Axiom+Audio+EP400+v3)
     - [Direct Speakerranking Link](/subwoofer/speakers/Axiom-Audio-EP400-v3/)
 
-## #39 Roku Subwoofer 9201X
+## #39 Roku Subwoofer 9201X: $399
 - CEA-2010-A Average (40-80Hz): 94.0 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 11.8"H x 11.8"W x 11.8"D (299.7 x 299.7 x 299.7 mm)
 - Discontinued: Yes
+- Driver: 6.5" (165mm) full-range driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -860,11 +902,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Roku Subwoofer 9201X](https://www.reddit.com/search/?q=Roku+Subwoofer+9201X)
     - [Direct Speakerranking Link](/subwoofer/speakers/Roku-Subwoofer-9201X/)
 
-## #40 PSB Speakers SubSeries 100
+## #40 PSB Speakers SubSeries 100: $299
 - CEA-2010-A Average (40-80Hz): 93.2 dB (avg of 3/4 bands)
 - Country: Canada
 - Dimensions: 6.37"H x 6.37"W x 7.87"D (161.8 x 161.8 x 199.9 mm)
 - Discontinued: Yes
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 5.25 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -886,6 +929,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 9.5"H x 8.5"W x 10.5"D (241.3 x 215.9 x 266.7 mm)
+- Driver: 6" (152mm) driver
 - Driver(s): (1) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: ErinsAudioCorner

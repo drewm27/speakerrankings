@@ -12,8 +12,10 @@ The Kef KC62 ranks [#137 out of 137 total Medium Powered Home Subwoofers (30–7
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 9.68"H x 10.07"W x 9.76"D (245.9 x 255.8 x 247.9 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: sealed
+- Frequency Response: 11-200Hz
 - Measurement Source: ErinsAudioCorner
 - Output SPL at 100 Hz: 104.2 dB
 - Output SPL at 20 Hz: 80.0 dB
@@ -23,6 +25,7 @@ The Kef KC62 ranks [#137 out of 137 total Medium Powered Home Subwoofers (30–7
 - Output SPL at 50 Hz: 95.1 dB
 - Output SPL at 63 Hz: 97.7 dB
 - Output SPL at 80 Hz: 102.6 dB
+- Power Output (Watts): 1000W RMS
 - Warranty: 5/2/5
 - Weight: 30.86lbs / 14.0kg
 - Links

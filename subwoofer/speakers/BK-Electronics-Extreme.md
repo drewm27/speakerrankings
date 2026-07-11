@@ -5,12 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The BK Electronics Extreme ranks #84 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The BK Electronics Extreme ranks [#84 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#84-bk-electronics-extreme-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The BK Electronics Extreme ranks [#84 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#84-bk-electronics-extreme-5995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #84 BK Electronics Extreme
+## #84 BK Electronics Extreme: $5995
 - CEA-2010-A Average (40-80Hz): 110.5 dB
 - Country: United Kingdom
 - Discontinued: Yes
+- Driver: 15" driver
+- Frequency Response: Not specified
 - Measurement Source: Ilkka Rissanen
 - Output SPL at 15 Hz: 92.8 dB
 - Output SPL at 20 Hz: 100.7 dB
@@ -20,6 +22,8 @@ The BK Electronics Extreme ranks [#84 out of 137 total Medium Powered Home Subwo
 - Output SPL at 50 Hz: 111.1 dB
 - Output SPL at 63 Hz: 110.5 dB
 - Output SPL at 80 Hz: 109.0 dB
+- Power Output (Watts): 1000W RMS
+- Weight: 91kg
 - Links
     - [Reddit Search for BK Electronics Extreme](https://www.reddit.com/search/?q=BK+Electronics+Extreme)
 

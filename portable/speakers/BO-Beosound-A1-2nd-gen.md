@@ -14,12 +14,15 @@ The B&O Beosound A1 2nd gen ranks [#10 out of 131 total Medium Size Portable Blu
 - Aux Input: No
 - Bass Extension (-10dB): 58Hz
 - Battery Life: 18 hours (Manufacturer specified)
+- Bluetooth Codecs: AAC, aptX Adaptive
 - Bluetooth Latency: 90ms
 - Built in Microphone: Yes
+- Driver: 3.5mm aluminium driver + 0.75 inch silk dome tweeter
 - EQ: Yes
 - IP Rating: IP67
 - Max Volume: 93dB
 - Power Bank: No
+- Power Input: USB-C
 - Stereo: No
 - TWS: Yes
 - USB Audio: Yes

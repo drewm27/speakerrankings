@@ -14,9 +14,14 @@ The Skullcandy Terrain/Terrain XT/Terrain XL ranks [#124 out of 131 total Medium
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes (Terrain XL only)
+- Dimensions: 190 x 89 x 89 mm (7.5 x 3.5 x 3.5 inches)
+- Driver: 2x 48mm
 - IP Rating: IPX7
+- Max Volume: 95dB SPL
+- Output Power: Not specified
 - Power Input: USB-C
 - TWS: Yes
+- Weight: 0.85 kg
 - Reviews, Comparisons and Sound Samples
     - [Jay's Straight Up Reviews & More: Newly Released! Skullcandy Terrain XL 🦨 Quick Overview & Sound Comparison with JBL Flip 6 & Tozo PA1](https://www.youtube.com/watch?v=368gHYvN-QQ)
     - [FishBee Product Reviews: Why is NO ONE Buying the New Skullcandy Speakers??](https://www.youtube.com/watch?v=OJRFayx5pk0)

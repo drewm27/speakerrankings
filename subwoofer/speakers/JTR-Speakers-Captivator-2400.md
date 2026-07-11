@@ -12,6 +12,7 @@ The JTR Speakers Captivator 2400 ranks [#14 out of 95 total Large Powered Home S
 - Cabinet Color: black, custom
 - Country: United States
 - Dimensions: 30.0"H x 20.0"W x 22.5"D (762.0 x 508.0 x 571.5 mm)
+- Driver: 2x 14" (356mm) drivers
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

@@ -12,6 +12,7 @@ The GoldenEar ForceField 3 ranks [#5 out of 41 total Small Powered Home Subwoofe
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 11.5"H x 11.37"W x 15.75"D (292.1 x 288.8 x 400.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth

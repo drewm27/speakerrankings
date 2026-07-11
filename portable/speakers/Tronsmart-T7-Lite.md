@@ -16,7 +16,7 @@ The Tronsmart T7 Lite ranks [#111 out of 131 total Medium Size Portable Bluetoot
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 7.68" x 2.83" (195 x 72 mm)
-- Driver: 2x full-range drivers + 3x passive radiators
+- Driver: 2x 46mm full-range drivers + 3x passive radiators
 - EQ: Yes (via app)
 - IP Rating: IPX7
 - MicroSD: Yes

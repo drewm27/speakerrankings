@@ -14,10 +14,15 @@ The Earfun Uboom 360 ranks [#30 out of 131 total Medium Size Portable Bluetooth 
 - Aux Input: No
 - Bass Extension (-10dB): 61Hz
 - Battery Life: 16 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Driver: Dual 63mm woofers + dual tweeters
 - EQ: No
 - IP Rating: IPX7
 - Max Volume: 100dB
+- Output Power: 24W (2 x 12W)
+- Power Input: 5V/2A
 - Stereo: No
 - TWS: Yes
 - Weight: 1.29lbs / 585g

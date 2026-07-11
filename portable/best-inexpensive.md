@@ -6,7 +6,7 @@ cover-img: "/assets/img/blast.jpg"
 share-description: "Expert rankings of 368 Bluetooth speakers by price. Detailed specs, sound samples & EQ settings. Budget to premium picks from $23."
 ---
 
-**Looking for the best budget Bluetooth speaker for sound quality?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 02, 2026.**
+**Looking for the best budget Bluetooth speaker for sound quality?** We've ranked 368 portable speakers by audio performance, from budget $50 models to audiophile-grade options. All recommendations prioritize neutral frequency response, accurate tonal balance, and deep bass extension, verified by [expert reviewers like Oluv and Alan Ross](/portable/best-from-reviewers/). **Last updated: June 24, 2026.**
 
 Unlike sponsored review sites, we provide complete transparency: honest pros and cons, detailed specs, sound samples, comparison videos, and links to measurements. Every ranking is backed by data from trusted, unbiased audio experts.
 
@@ -101,6 +101,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - App: No
 - Aux Input: No
 - Battery Life: 16 hours (Manufacturer specified)
+- Driver: Dual drivers
 - EQ: No
 - IP Rating: IPX7
 - Power Bank: No
@@ -127,6 +128,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Bluetooth Version: 5.2
 - Built in Microphone: Yes
 - Dimensions: 12.6" x 7.3" x 5.9" (321 x 185 x 151 mm)
+- Driver: 2x 76mm (3") woofers + 2x 38mm tweeters + 2x passive radiators
 - EQ: 3 EQ presets
 - IP Rating: IPX6
 - MicroSD: Yes
@@ -147,7 +149,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Boombox
 
-### The best inexpensive [boombox size](/portable/boombox/) battery powered speaker for deep bass with excellent sound quality, that can get loud for a party but can still be carried by hand is the [**Zealot S95**](https://s.click.aliexpress.com/e/_c4SCb9RH) [[Aliexpress](https://s.click.aliexpress.com/e/_c4SCb9RH)] [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=se&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl)]: $110
+### The best inexpensive [boombox size](/portable/boombox/) battery powered speaker for deep bass with excellent sound quality, that can get loud for a party but can still be carried by hand is the [**Zealot S95**](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=rankingspea01-20&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ZEALOT-Bluetooth-Wireless-Waterproof-Subwoofer/dp/B0DNF682PP?crid=30Q0SLCPWYB48&dib=eyJ2IjoiMSJ9.0RrFFamDTgkNcD80bp4j-IRL-K-8vTH6_TcPe1RCojElfVFNR16yuXcSbk9L1V2fas9pJG4OZLv1sxFwcxFnUsxOVOvxRbuRqpPX5txYn9gxhKRia-7qfYxz45aCoaiTcb0oGSswpmLrau5qy3nSyrx8sP0cDXSPU-3g8QlE-C0ak8w3rq2kqXvL2Tq7cTMWE6ENHRlbdxrNOTmlxObRg4z4fccdI3Bjod2SYiHfNl8.rqQ6U2dzy1gb1FGEdQT8UNZj_gecW4KSQYbnipQJOZM&dib_tag=rankingspea01-20&keywords=zealot%2Bs95&qid=1767857369&sprefix=zealot%2Bs9%2Caps%2C316&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=8c1c81482a03d4cf87340a36b03fbc6a&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4SCb9RH)]: $110
 - Positives: A good value for the boombox class. Appears to be the same internals as the ZE01. Bigger case and goes deeper than the ZE01
 - Negatives: A little rolled off up top and not that balanced through the rest of the range. Clarity isn't as good as better speakers.
 - App: No
@@ -156,9 +158,12 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 35.8cm x 24.3cm x 16.7cm
+- Driver: 130W subwoofer + dual drivers
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - MicroSD: Yes
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C
@@ -186,6 +191,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 - Aux Input: Yes
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 8" (203mm) woofer + drivers
 - EQ: No
 - FM Tuner: Yes
 - Guitar Input: Yes
@@ -208,7 +214,7 @@ See [this link for all portable speaker rankings by size](/#all-portable-bluetoo
 
 ## Large Party
 
-### The best inexpensive [large party size](/portable/largeparty/) battery powered speaker is the [**W-King T12**](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=se&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=se&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4obTGYP)]: $350
+### The best inexpensive [large party size](/portable/largeparty/) battery powered speaker is the [**W-King T12**](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=rankingspea01-20&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/W-KING-Portable-Bluetooth-Telescopic-Futuristic/dp/B0FHKRGDM1?crid=4WBYIYB2IL5&dib=eyJ2IjoiMSJ9.CgkTtyF8VRcKzLZNPIwQhTdrMkzUk2EtAjx44O31lcU9sgt63pHkUUNHnZxW2_QoUPEY7dDnzYpMVhXyexgpypZKJpRBEeCz43NScEl3M9itca0a_Fyta37rfPrwUrV9tvd_6h3i4QxIDYBGv8bIWz7t3l96cl8YL6oWKRK_pBlZjSOlMNc_K4GUVGvRu-2c.eTtGElui5ivfCjMf8KeZCMpNg88u4IwbhPWq3IMv7AU&dib_tag=rankingspea01-20&keywords=w-king+t12&qid=1771273403&sprefix=w-king+t%2Caps%2C253&sr=8-3&linkCode=ll2&tag=rankingspea01-20&linkId=fa087d0a2112e5d44a0ee66790c312cb&language=en_US&ref_=as_li_ss_tl)] [[Aliexpress](https://s.click.aliexpress.com/e/_c4obTGYP)]: $350
 - Positives: Relatively cheap for what you get. Not a bad speaker for the price
 - Negatives: Boxy sounding and doesn't have the clarity of the higher ranked speakers
 - App: No

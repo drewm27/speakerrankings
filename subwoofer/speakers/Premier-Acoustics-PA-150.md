@@ -5,12 +5,13 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Premier Acoustics PA-150 ranks #73 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Premier Acoustics PA-150 ranks [#73 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#73-premier-acoustics-pa-150-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Premier Acoustics PA-150 ranks [#73 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#73-premier-acoustics-pa-150-1999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #73 Premier Acoustics PA-150
+## #73 Premier Acoustics PA-150: $1999
 - CEA-2010-A Average (40-80Hz): 117.9 dB
 - Dimensions: 21.1"H x 17.9"W x 19.2"D (535.9 x 454.7 x 487.7 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Audioholics

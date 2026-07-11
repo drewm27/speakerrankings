@@ -12,9 +12,13 @@ The HSU Research ULS-15 MK2 ranks [#3 out of 137 total Medium Powered Home Subwo
 - CEA-2010-A Average (40-80Hz): 120.3 dB
 - Cabinet Color: black, wood
 - Country: United States
+- Crossover: 30–90Hz adjustable
 - Dimensions: 19.0"H x 18.0"W x 19.5"D (482.6 x 457.2 x 495.3 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Features: Q control, sealed subwoofer, EQ1/EQ2 modes
+- Frequency Response: 20–200Hz, ±1dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 120.7 dB
 - Output SPL at 12.5 Hz: 93.7 dB
@@ -27,6 +31,8 @@ The HSU Research ULS-15 MK2 ranks [#3 out of 137 total Medium Powered Home Subwo
 - Output SPL at 50 Hz: 120.8 dB
 - Output SPL at 63 Hz: 121.2 dB
 - Output SPL at 80 Hz: 121.1 dB
+- Phase Control: 0°–180°
+- Power Output (Watts): 600W RMS / 2000W peak
 - Warranty: 7/2(+3)
 - Weight: 65.0lbs / 29.5kg
 - Links

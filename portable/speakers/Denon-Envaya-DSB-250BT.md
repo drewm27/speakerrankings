@@ -10,19 +10,25 @@ The Denon Envaya DSB-250BT ranks [#5 out of 131 total Medium Size Portable Bluet
 ## #5 Denon Envaya DSB-250BT: $250
 - Positives: One of the early Bluetooth speakers from 2017 with great sound quality. Very neutral, great soundstage.
 - Negatives: Expensive. Treble is rolled off. Phantom battery drain issue, would not recommend these days. Uses some “stereo enhancement” reverb that can sound weird to some. Not as detailed as higher ranked speakers.
+- App: No
 - Aux Input: Yes
 - Bass Extension (-10dB): 57Hz
 - Battery Life: 13 hours (Manufacturer specified)
 - Bluetooth Codecs: aptX, AAC
 - Bluetooth Latency: 180ms
+- Bluetooth Version: 4.1
 - Built in Microphone: Yes
 - Charging Time: 3.5 hours
+- Dimensions: 200 x 77 x 74 mm (W x H x D)
 - Driver: 2x 40mm full-range drivers + passive radiator
+- EQ: No
 - IP Rating: IP67
 - Max Volume: 97dB
 - Output Power: 27W
+- Power Bank: No
 - Power Input: Micro USB
 - Stereo: Yes
+- TWS: No
 - Weight: 1.6lbs / 750g
 - Reviews, Comparisons and Sound Samples
     - <https://www.youtube.com/watch?v=OZEP9ziwkHw>

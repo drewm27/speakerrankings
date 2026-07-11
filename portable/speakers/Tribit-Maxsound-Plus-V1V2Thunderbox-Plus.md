@@ -17,6 +17,7 @@ The Tribit Maxsound Plus V1/V2/Thunderbox Plus ranks [#21 out of 131 total Mediu
 - Bluetooth Latency: 160ms
 - Bluetooth Version: 4.2
 - Built in Microphone: No
+- Dimensions: 65 x 198 x 68 mm (2.56 x 7.79 x 2.68 inches)
 - Driver: 2x 44mm full-range drivers + 2x passive radiators
 - EQ: No
 - IP Rating: IPX7

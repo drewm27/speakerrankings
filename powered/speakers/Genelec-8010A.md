@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Genelec 8010A ranks #1 out of 8 total Small Size Powered Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Genelec 8010A ranks [#1 out of 8 total Small Size Powered Bookshelf Speakers](/powered/bookshelf-small/#1-genelec-8010a-guitar-center-used-listings-700-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Genelec 8010A ranks [#1 out of 8 total Small Size Powered Bookshelf Speakers](/powered/bookshelf-small/#1-genelec-8010a-700-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #1 [Genelec 8010A](https://guitar-center.pxf.io/9g1BDW) [[Guitar-center](https://guitar-center.pxf.io/9g1BDW)] [[Used Listings](https://www.hifizero.com/index.php?q=Genelec+8010A)]: $700 a pair
+## #1 Genelec 8010A: $700 a pair
 - Positives: An extremely neutral speaker for mastering and mixing recordings. Although for mastering, it's highly recommended to use a larger speaker with deeper bass extension or add a subwoofer
 - Negatives: Not as deep of bass as the iLoud. Probably not the best choice for general music listening due to the price and limited bass extension.
 - App: No

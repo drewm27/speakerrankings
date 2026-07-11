@@ -12,6 +12,7 @@ The Paradigm Defiance X15 ranks [#27 out of 95 total Large Powered Home Subwoofe
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 24.62"H x 23.18"W x 24.62"D (625.3 x 588.8 x 625.3 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics

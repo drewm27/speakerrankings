@@ -12,6 +12,7 @@ The Danley Sound Labs DTS10 ranks [#3 out of 10 total Large Passive Home Subwoof
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 44.0"H x 59.5"W x 16.0"D (1117.6 x 1511.3 x 406.4 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: tapped horn
 - Measurement Source: Data-bass

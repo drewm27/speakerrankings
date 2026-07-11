@@ -12,11 +12,11 @@ Rankings are based on flat frequency response, directivity, dynamics, imaging, a
 
 For the best picks from this page see [Best Home Floorstanding and Bookshelf Speakers](/passive/best/)
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
-## #1 [GR-Research NX-Treme](https://gr-research.com/product/nx-treme/) [[Gr-research](https://gr-research.com/product/nx-treme/)] [[Used Listings](https://www.hifizero.com/index.php?q=GR-Research+NX-Treme)]: $9662 for the kit with subs (assembly required)
+## #1 [GR-Research NX-Treme](https://gr-research.com/product/nx-treme/) [[Gr-research](https://gr-research.com/product/nx-treme/)]: $9662 for the kit with subs (assembly required)
 - Positives: Amazing in terms of soundstage and imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. One of the highest sensitivity speakers around. Open baffle mids, highs and bass (using GR-Research Open baffle subs). If you have not heard open baffle bass, you must hear it in person, there's no going back. Amazing in terms of imaging as the speaker can radiate in all directions and not have internal reflections due to there not being a speaker box. Can easily be driven by tube amps due to the mild impedance.
 - Negatives: Very tall and will require GR-Research open baffle subwoofers one on each side
 - Bass Extension (-3dB): <20hz (With GR-Research open baffle subwoofers)
@@ -25,6 +25,7 @@ Last updated: June 02, 2026
 - Impedance: 8 ohms
 - Sensitivity: 94.5dB
 - Subwoofer: Three 12" Rythmik Audio servo controlled
+- Weight: 35 lbs (16 kg)
 - Woofer Cabinet: Open baffle
 - Links
     - [Official GR-Research NX-Treme Website](https://gr-research.com/product/nx-treme/)
@@ -32,7 +33,7 @@ Last updated: June 02, 2026
     - [Reddit Search for GR-Research NX-Treme](https://www.reddit.com/search/?q=GR-Research+NX-Treme)
     - [Direct Speakerranking Link](/passive/speakers/GR-Research-NX-Treme/)
 
-## #2 [KEF Blade Two Meta](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta) [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Blade+Two+Meta)]: $28000 only sold in stores
+## #2 KEF Blade Two Meta: $28000 only sold in stores
 - Positives: One of the best speakers on the market. Amazing directivity. Insanely low distortion
 - Negatives: 2dB dip at 200hz, slight resonance.
 - Bass Extension (-10dB): 26Hz
@@ -52,7 +53,7 @@ Last updated: June 02, 2026
     - [Reddit Search for KEF Blade Two Meta](https://www.reddit.com/search/?q=KEF+Blade+Two+Meta)
     - [Direct Speakerranking Link](/passive/speakers/KEF-Blade-Two-Meta/)
 
-## #3 [MoFi SourcePoint V10 Master Edition](https://howl.link/haoimspk4fqxf) [[Crutchfield](https://howl.link/haoimspk4fqxf)] [[Used Listings](https://www.hifizero.com/index.php?q=MoFi+SourcePoint+V10+Master+Edition)]: $8000 a pair
+## #3 [MoFi SourcePoint V10 Master Edition](https://howl.link/haoimspk4fqxf) [[Crutchfield](https://howl.link/haoimspk4fqxf)]: $8000 a pair
 - Positives: One of the best value floorstanders
 - Bass Extension (-10dB): 25Hz
 - Bass Extension (-3dB): 38Hz
@@ -69,7 +70,7 @@ Last updated: June 02, 2026
     - [Reddit Search for MoFi SourcePoint V10 Master Edition](https://www.reddit.com/search/?q=MoFi+SourcePoint+V10+Master+Edition)
     - [Direct Speakerranking Link](/passive/speakers/MoFi-SourcePoint-V10-Master-Edition/)
 
-## #4 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F208)]: Discontinued, $2400 used
+## #4 [Revel F208](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Revel+F208&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=F208&toolid=10001&mkevt=1)]: Discontinued, $2400 used
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Bass Extension (-10dB): 24Hz
 - Bass Extension (-3dB): 47Hz
@@ -86,7 +87,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Revel F208](https://www.reddit.com/search/?q=Revel+F208)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F208/)
 
-## #5 [Revel F328Be](https://howl.link/imipuo4tty548) [[Crutchfield](https://howl.link/imipuo4tty548)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F328Be)]: $13600
+## #5 [Revel F328Be](https://howl.link/imipuo4tty548) [[Crutchfield](https://howl.link/imipuo4tty548)]: $13600
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Bass Extension (-10dB): 39Hz
 - Bass Extension (-3dB): 74Hz
@@ -103,7 +104,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Revel F328Be](https://www.reddit.com/search/?q=Revel+F328Be)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F328Be/)
 
-## #6 [Revel F228Be](https://howl.link/tricteymf8k3d) [[Crutchfield](https://howl.link/tricteymf8k3d)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F228Be)]: $7000
+## #6 [Revel F228Be](https://howl.link/tricteymf8k3d) [[Crutchfield](https://howl.link/tricteymf8k3d)]: $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off axis isn't quite as good as others
 - Bass Extension (-10dB): 25Hz
@@ -121,7 +122,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Revel F228Be](https://www.reddit.com/search/?q=Revel+F228Be)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F228Be/)
 
-## #7 [KEF R11 Meta](https://www.amazon.com/KEF-R11-Meta-Walnut-Each/dp/B0BV76CB2H?crid=AY7IH4U9DBWZ&dib=eyJ2IjoiMSJ9.XmO8BfLEhEvcdMDrggxrjSflfEv-NgsikeTMKBtG8fh-04RhtutqbBFSrtbHaag4jaC9wzn0jyAXxRN4pKWamO8eDgyn7EKGa2CajdBQNYciGSoMWFFUnEROx0ARIxaFOWf7Qdu6u2_LS449J86fExEbrupFq_W0vdrJOE6rFOi6UCisM5py7XqExjjILdbqL6kVs2Ng6FfOvmrz3RkRFWHMxzif_ZbSlJ0xtFJmNDk.7ZtXL3eEi6w6WWqsqb80PU54hxiYMU2MhZX49X5-1yM&dib_tag=se&keywords=kef%2Br11%2Bmeta&qid=1749450920&sprefix=kef%2Br11%2Bmet%2Caps%2C243&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ae199c2cae4ceb8b6514e45e7efc31dc&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-R11-Meta-Walnut-Each/dp/B0BV76CB2H?crid=AY7IH4U9DBWZ&dib=eyJ2IjoiMSJ9.XmO8BfLEhEvcdMDrggxrjSflfEv-NgsikeTMKBtG8fh-04RhtutqbBFSrtbHaag4jaC9wzn0jyAXxRN4pKWamO8eDgyn7EKGa2CajdBQNYciGSoMWFFUnEROx0ARIxaFOWf7Qdu6u2_LS449J86fExEbrupFq_W0vdrJOE6rFOi6UCisM5py7XqExjjILdbqL6kVs2Ng6FfOvmrz3RkRFWHMxzif_ZbSlJ0xtFJmNDk.7ZtXL3eEi6w6WWqsqb80PU54hxiYMU2MhZX49X5-1yM&dib_tag=se&keywords=kef%2Br11%2Bmeta&qid=1749450920&sprefix=kef%2Br11%2Bmet%2Caps%2C243&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ae199c2cae4ceb8b6514e45e7efc31dc&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+R11+Meta)]: $7000
+## #7 [KEF R11 Meta](https://www.amazon.com/KEF-R11-Meta-Walnut-Each/dp/B0BV76CB2H?crid=AY7IH4U9DBWZ&dib=eyJ2IjoiMSJ9.XmO8BfLEhEvcdMDrggxrjSflfEv-NgsikeTMKBtG8fh-04RhtutqbBFSrtbHaag4jaC9wzn0jyAXxRN4pKWamO8eDgyn7EKGa2CajdBQNYciGSoMWFFUnEROx0ARIxaFOWf7Qdu6u2_LS449J86fExEbrupFq_W0vdrJOE6rFOi6UCisM5py7XqExjjILdbqL6kVs2Ng6FfOvmrz3RkRFWHMxzif_ZbSlJ0xtFJmNDk.7ZtXL3eEi6w6WWqsqb80PU54hxiYMU2MhZX49X5-1yM&dib_tag=rankingspea01-20&keywords=kef%2Br11%2Bmeta&qid=1749450920&sprefix=kef%2Br11%2Bmet%2Caps%2C243&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ae199c2cae4ceb8b6514e45e7efc31dc&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-R11-Meta-Walnut-Each/dp/B0BV76CB2H?crid=AY7IH4U9DBWZ&dib=eyJ2IjoiMSJ9.XmO8BfLEhEvcdMDrggxrjSflfEv-NgsikeTMKBtG8fh-04RhtutqbBFSrtbHaag4jaC9wzn0jyAXxRN4pKWamO8eDgyn7EKGa2CajdBQNYciGSoMWFFUnEROx0ARIxaFOWf7Qdu6u2_LS449J86fExEbrupFq_W0vdrJOE6rFOi6UCisM5py7XqExjjILdbqL6kVs2Ng6FfOvmrz3RkRFWHMxzif_ZbSlJ0xtFJmNDk.7ZtXL3eEi6w6WWqsqb80PU54hxiYMU2MhZX49X5-1yM&dib_tag=rankingspea01-20&keywords=kef%2Br11%2Bmeta&qid=1749450920&sprefix=kef%2Br11%2Bmet%2Caps%2C243&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ae199c2cae4ceb8b6514e45e7efc31dc&language=en_US&ref_=as_li_ss_tl)]: $7000
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Minor 2dB dip between 1-1.5khz
 - Bass Extension (-10dB): 31Hz
@@ -139,7 +140,7 @@ Last updated: June 02, 2026
     - [Reddit Search for KEF R11 Meta](https://www.reddit.com/search/?q=KEF+R11+Meta)
     - [Direct Speakerranking Link](/passive/speakers/KEF-R11-Meta/)
 
-## #8 [Revel F226Be](https://howl.link/4ithb1scb6sx8) [[Crutchfield](https://howl.link/4ithb1scb6sx8)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F226Be)]: $7700
+## #8 [Revel F226Be](https://howl.link/4ithb1scb6sx8) [[Crutchfield](https://howl.link/4ithb1scb6sx8)]: $7700
 - Positives: Amazingly neutral frequency response. Very low distortion. Very good off axis
 - Negatives: Vertical off aix isn't quite as good as others
 - Bass Extension (-10dB): 36Hz
@@ -159,7 +160,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Revel F226Be](https://www.reddit.com/search/?q=Revel+F226Be)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F226Be/)
 
-## #9 [Revel F206](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F206)]: Discontinued, $2000 used
+## #9 [Revel F206](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: Discontinued, $2000 used
 - Positives: Really amazing value for the performance
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
 - Bass Extension (-10dB): 34Hz
@@ -177,7 +178,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Revel F206](https://www.reddit.com/search/?q=Revel+F206)
     - [Direct Speakerranking Link](/passive/speakers/Revel-F206/)
 
-## #10 [MoFi SourcePoint 888](https://howl.link/d4d4x2q6fmrie) [[Crutchfield](https://howl.link/d4d4x2q6fmrie)] [[Used Listings](https://www.hifizero.com/index.php?q=Mofi+Sourcepoint+888)]: $5500
+## #10 [MoFi SourcePoint 888](https://howl.link/d4d4x2q6fmrie) [[Crutchfield](https://howl.link/d4d4x2q6fmrie)]: $5500
 - Positives: Great off axis. Great bass extension
 - Negatives: Some dipped area reaching 3dB from 3khz to 7khz
 - Bass Extension (-10dB): 26Hz
@@ -196,7 +197,7 @@ Last updated: June 02, 2026
     - [Reddit Search for MoFi SourcePoint 888](https://www.reddit.com/search/?q=MoFi+SourcePoint+888)
     - [Direct Speakerranking Link](/passive/speakers/MoFi-SourcePoint-888/)
 
-## #11 [JBL 4367](https://www.hifizero.com/index.php?q=JBL+4367) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+4367)]: $16500
+## #11 JBL 4367: $16500
 - Positives: Huge dynamics and the sensitivity is very high. By far the best speaker if you need things extremely loud. Quite a smooth frequency response especially considering these are high efficiency drivers.
 - Negatives: Vertical directivity isn't too great at the crossover point
 - Bass Extension (-10dB): 31Hz
@@ -216,13 +217,15 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL 4367](https://www.reddit.com/search/?q=JBL+4367)
     - [Direct Speakerranking Link](/passive/speakers/JBL-4367/)
 
-## #12 [PS Audio Aspen FR10](https://www.psaudio.com/products/aspen-fr10-loudspeaker) [[Psaudio](https://www.psaudio.com/products/aspen-fr10-loudspeaker)] [[Used Listings](https://www.hifizero.com/index.php?q=PS+Audio+Aspen+FR10)]: $12000
+## #12 [PS Audio Aspen FR10](https://www.psaudio.com/products/aspen-fr10-loudspeaker) [[Psaudio](https://www.psaudio.com/products/aspen-fr10-loudspeaker)]: $12000
 - Positives: Wide soundstage
 - Negatives: Pretty jagged frequency response, 5dB dip at 6khz, 3dB dip at 760hz. Not recommended
 - Bass Extension (-10dB): 28Hz
 - Bass Extension (-3dB): 47Hz
+- Driver: 2x 6.5" carbon fiber cone woofers, 1x 8" planar magnetic ribbon midrange, 1x 2.5" planar magnetic ribbon tweeter + 3x passive radiators
 - Impedance: 4 ohms
 - Sensitivity: 84.5dB
+- Weight: 54kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Unveiling the PS Audio aspen FR10 Speakers. Detailed Review and Analysis.](https://www.youtube.com/watch?v=BGmIT3jWfFg)
     - [Erin's Audio Review Website PS Audio Aspen FR10](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr10/)
@@ -231,7 +234,7 @@ Last updated: June 02, 2026
     - [Reddit Search for PS Audio Aspen FR10](https://www.reddit.com/search/?q=PS+Audio+Aspen+FR10)
     - [Direct Speakerranking Link](/passive/speakers/PS-Audio-Aspen-FR10/)
 
-## #13 [ELAC DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=se&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Elac+DF63)]: $1300
+## #13 [ELAC DF63](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=rankingspea01-20&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/ELAC-Debut-DF63-BK-Floorstanding-Speaker/dp/B0D9WKXW9X?crid=3TVKPGLH38AVR&dib=eyJ2IjoiMSJ9.sNGy6qWd0jXnJw4hwO3kJMrKtDJDuEyrfk9f8kAe6kdouW_ZE3inJUNMOtCoCSRq8ewybobmemS_czvUERUVP1HaqhEKKuIAQoQP83FbDw3ej9T0Ci3wwgthngPx9EQWWKZgBAzL4le-rURkDNyT7Uh5VrCiB1U8x-Cxx5kAVwW0uQtd-tiZqud-M8idvOphnp10QcRlM2bPUIjFK0MFLhGfO3e4Aoo8ponJGMeClAk.YGd9ygX_QOr9tSnWm-uThvTG2JNL3kmGxGD8gHy6ipo&dib_tag=rankingspea01-20&keywords=elac%2Bdf63&qid=1750127373&sprefix=elac%2Bdf6%2Caps%2C266&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=39295055d59cdff959fd53d69c3fb1ee&language=en_US&ref_=as_li_ss_tl)]: $1300
 - Positives: Pretty good frequency response. Very good value
 - Negatives: 3dB dip at 270hz, 3dd dip from 800-2.5khz. Pretty good directivity. A little warm tuned
 - Bass Extension (-10dB): 29Hz
@@ -251,7 +254,7 @@ Last updated: June 02, 2026
     - [Reddit Search for ELAC DF63](https://www.reddit.com/search/?q=ELAC+DF63)
     - [Direct Speakerranking Link](/passive/speakers/ELAC-DF63/)
 
-## #14 [Revel Concerta2 F35](https://howl.link/vot4t1vautrmr) [[Crutchfield](https://howl.link/vot4t1vautrmr)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+Concerta2+F35)]: $900 a pair
+## #14 [Revel Concerta2 F35](https://howl.link/vot4t1vautrmr) [[Crutchfield](https://howl.link/vot4t1vautrmr)]: $900 a pair
 - Positives: Really amazing value for the performance
 - Negatives: Some resonances around 1khz. Not too great off axis vertically. Bass isn't very deep
 - Bass Extension (-10dB): 50Hz
@@ -271,13 +274,15 @@ Last updated: June 02, 2026
     - [Reddit Search for Revel Concerta2 F35](https://www.reddit.com/search/?q=Revel+Concerta2+F35)
     - [Direct Speakerranking Link](/passive/speakers/Revel-Concerta2-F35/)
 
-## #15 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Audio+Reserve+R700)]: $1100 a pair
+## #15 [Polk Audio Reserve R700](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Long-Throw-Certified-Adjustable/dp/B0934CH89P?th=1&linkCode=ll1&tag=rankingspea01-20&linkId=ef4b99f31be419cc659f836f0473c0e0&language=en_US&ref_=as_li_ss_tl)]: $1100 a pair
 - Positives: Pretty neutral frequency response. Quite deep bass response
 - Negatives: Directivity error at around 4.6khz. Not the best for vertical off axis dispersion
 - Bass Extension (-10dB): 31Hz
 - Bass Extension (-3dB): 40Hz
+- Driver: 2x 8" polypropylene cone woofers, 1x 6.5" turbine cone midrange, 1x 1" Pinnacle ring radiator tweeter
 - Impedance: 4 ohms
 - Sensitivity: 87.5dB
+- Weight: 46.3kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: My Top 5 Just Changed: Polk Audio Reserve R700 Review](https://www.youtube.com/watch?v=E6APuGxTtJw)
     - [Erin's Audio Corner: My Absolute Favorite Products of 2024 Revealed](https://www.youtube.com/watch?v=gwpZ6X89Nt8)
@@ -286,7 +291,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Polk Audio Reserve R700](https://www.reddit.com/search/?q=Polk+Audio+Reserve+R700)
     - [Direct Speakerranking Link](/passive/speakers/Polk-Audio-Reserve-R700/)
 
-## #16 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Infinity+Reference+253)]: $400 used
+## #16 [Infinity Reference 253](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Infinity+Reference+253&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=Ref253&toolid=10001&mkevt=1)]: $400 used
 - Positives: Really amazing value for the performance
 - Negatives: Elevated highs from 4khz on, dip around 2khz. Vertical directivity isn't great
 - Bass Extension (-10dB): 38Hz
@@ -304,7 +309,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Infinity Reference 253](https://www.reddit.com/search/?q=Infinity+Reference+253)
     - [Direct Speakerranking Link](/passive/speakers/Infinity-Reference-253/)
 
-## #17 [Polk Reserve R500](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+Reserve+R500)]: $1300 a pair
+## #17 [Polk Reserve R500](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-Floorstanding-Features-Certified-Adjustable/dp/B09B168RDW?source=ps-sl-shoppingads-lpcontext&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f32f31999c470e7f31c9c2ebcd27f0ba&language=en_US&ref_=as_li_ss_tl)]: $1300 a pair
 - Positives: Pretty smooth frequency response.
 - Negatives: Can sound a little shouty with an 2dB in room peak around 4khz. Vertical off-axis isn't too great.
 - Bass Extension (-10dB): 33Hz
@@ -324,7 +329,7 @@ Last updated: June 02, 2026
     - [Reddit Search for Polk Reserve R500](https://www.reddit.com/search/?q=Polk+Reserve+R500)
     - [Direct Speakerranking Link](/passive/speakers/Polk-Reserve-R500/)
 
-## #18 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Focal+Chora+816)]: $900 used
+## #18 [Focal Chora 816](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=Focal+Chora+816&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=816&toolid=10001&mkevt=1)]: $900 used
 - Negatives: Dip at 550hz. Vertical directivity narrows a little. Fair bit of resonances
 - Bass Extension (-10dB): 35Hz
 - Bass Extension (-3dB): 60Hz
@@ -340,10 +345,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Focal Chora 816](https://www.reddit.com/search/?q=Focal+Chora+816)
     - [Direct Speakerranking Link](/passive/speakers/Focal-Chora-816/)
 
-## #19 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=se&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=KEF+Q11+Meta)]: $2500
+## #19 [KEF Q11 Meta](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=rankingspea01-20&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/KEF-Q11-Meta-Floorstanding-Speaker/dp/B0DH8FPNV1?crid=2WP5DZVUH1M9I&dib=eyJ2IjoiMSJ9.BdJJm-UcOaSl__EGDopRIGbhYpFMJYzlWyEE2t3bLA2ZzILWcHjGoSvfidogaLwIrdLOIyjwcSU9P0btARVmPCII_LHdoz6i4Ew3p46mVmc8JrB0WeBHTjDFoFo3DZZXiab5iRAcTyMzmF_J4LWMd6Urdhws6sY82ViYit5aZmru7_ZnQFLNJ6TpjQlyQkF0oWG5j-eoL29ewmiibmIME-EZTH8O90y6sCRBLzmsEe4.UhY4gf95Pdjh_MWuFSW6wnw52Wk0TtuTtzc0UMx4lzI&dib_tag=rankingspea01-20&keywords=kef%2Bq11%2Bmeta&qid=1750200892&sprefix=kef%2Bq11%2Bmet%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f5c5262448dd864ad23906cfea6e56bd&language=en_US&ref_=as_li_ss_tl)]: $2500
 - Negatives: A dark speaker with rolled off top end, a frequency response drop that's very linear starting at 0dB around 500hz and dropping 4dB at 10khz. Could be good in a very reflective room. Bass has a shelf and is designed to be placed within a foot from a wall.
 - Bass Extension (-10dB): 29Hz
 - Bass Extension (-3dB): 60Hz
+- Driver: 25mm tweeter + dual 165mm drivers
+- Weight: 48.5kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: KEF Q11 Speaker Review Reveals Stunning Performance](https://www.youtube.com/watch?v=dPIWppFirmk)
     - [Erin's Audio Review Website KEF Q11 Meta](https://www.erinsaudiocorner.com/loudspeakers/kef_q11_meta/)
@@ -352,10 +359,12 @@ Last updated: June 02, 2026
     - [Reddit Search for KEF Q11 Meta](https://www.reddit.com/search/?q=KEF+Q11+Meta)
     - [Direct Speakerranking Link](/passive/speakers/KEF-Q11-Meta/)
 
-## #20 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dali+Rubikore+6)]: $8000
+## #20 [Dali Rubikore 6](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dali-rubikore-6-floorstanding-loudspeaker-pair)]: $8000
 - Negatives: Resonance at 800hz. 4dB peak at 4k to 15k, going to be a bright speaker. Not recommended
 - Bass Extension (-10dB): 31Hz
 - Bass Extension (-3dB): 43Hz
+- Driver: 28mm tweeter + dual 180mm woofers
+- Weight: 52.1kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: DALI Rubikore 6 Floorstanding Speaker Review](https://www.youtube.com/watch?v=IlpFZPevKpM)
     - [Erin's Audio Review Website Dali Rubikore 6](https://www.erinsaudiocorner.com/loudspeakers/dali_rubikore_6/)
@@ -364,12 +373,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Dali Rubikore 6](https://www.reddit.com/search/?q=Dali+Rubikore+6)
     - [Direct Speakerranking Link](/passive/speakers/Dali-Rubikore-6/)
 
-## #21 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)] [[Used Listings](https://www.hifizero.com/index.php?q=Polk+T50)]: $500
+## #21 [Polk T50](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Polk-T50-Theater-Standing-Speaker/dp/B013LIN5W2?mcid=412146b2eee9317fae517617a827c65f&hvocijid=8221374894142988835-B013LIN5W2-&hvexpln=73&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=8221374894142988835&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032161&hvtargid=pla-2281435178778&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=cdafd94b099ce6ae0855b44a440a94ac&language=en_US&ref_=as_li_ss_tl)]: $500
 - Positives: Pretty deep bass for the price
 - Negatives: 5dB peak at 1khz, 4dB bright top end from 11khz on up. Just okay vertical off axis
 - Bass Extension (-10dB): 38Hz
 - Bass Extension (-3dB): 47Hz
+- Driver: 2x 6.5" bi-laminate paper cone woofers, 1x 1" Terylene dome tweeter + 2x 8" passive bass radiators
 - Impedance: 4 ohms
+- Weight: 34.2kg
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Polk T50](https://www.audiosciencereview.com/forum/index.php?threads/polk-t50-review-floor-standing-speaker.24890/)
 - Links
@@ -377,8 +388,10 @@ Last updated: June 02, 2026
     - [Reddit Search for Polk T50](https://www.reddit.com/search/?q=Polk+T50)
     - [Direct Speakerranking Link](/passive/speakers/Polk-T50/)
 
-## #22 [Triangle Esprit Antal Ez](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez) [[Used Listings](https://www.hifizero.com/index.php?q=Triangle+Esprit+Antal+Ez)]
+## #22 Triangle Esprit Antal Ez: $1799
 - Negatives: Dip in bass response, resonance around 260hz and others. Directivity not great. Not recommended
+- Driver: 2x 6.5" (160mm) fiberglass cone woofers, 1x 6.5" (160mm) natural cellulose midrange, 1x 1" (25mm) titanium dome tweeter
+- Weight: 44.7kg
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review Triangle Esprit Antal Ez](https://www.audiosciencereview.com/forum/index.php?threads/triangle-esprit-antal-ez-review-tower-speaker.22080/)
 - Links
@@ -386,11 +399,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Triangle Esprit Antal Ez](https://www.reddit.com/search/?q=Triangle+Esprit+Antal+Ez)
     - [Direct Speakerranking Link](/passive/speakers/Triangle-Esprit-Antal-Ez/)
 
-## #23 [JBL Studio 590](https://www.hifizero.com/index.php?q=JBL+Studio+590) [[Used Listings](https://www.hifizero.com/index.php?q=JBL+Studio+590)]: $2000 a pair
+## #23 JBL Studio 590: $2000 a pair
 - Positives: Pretty deep bass
 - Negatives: 3dB peak at 1.7khz, about a 4dB peak from 8k to 13k, going to be bright up top. Just okay vertical off axis. Really bad resonance at 8.5khz.
 - Bass Extension (-10dB): 32Hz
 - Bass Extension (-3dB): 48Hz
+- Driver: 2x 8" (200mm) PolyPlas cone woofers, 1x 1" (25mm) Teonex dome tweeter on Bi-Radial horn (2.5-way)
+- Weight: 48.9kg
 - Reviews, Comparisons and Sound Samples
     - [Audio Science Review JBL Studio 590](https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-590-speaker-review.47269/)
 - Links
@@ -398,11 +413,13 @@ Last updated: June 02, 2026
     - [Reddit Search for JBL Studio 590](https://www.reddit.com/search/?q=JBL+Studio+590)
     - [Direct Speakerranking Link](/passive/speakers/JBL-Studio-590/)
 
-## #24 [Klipsch Forte IV](https://howl.link/2db2n6idkl19b) [[Crutchfield](https://howl.link/2db2n6idkl19b)] [[Used Listings](https://www.hifizero.com/index.php?q=Klipsch+Forte+IV)]: $5500
+## #24 [Klipsch Forte IV](https://howl.link/2db2n6idkl19b) [[Crutchfield](https://howl.link/2db2n6idkl19b)]: $5500
 - Negatives: 4dB peak at 6khz, 3dB dip at 7khz, 3dB peak at 8.5khz. Very peaky up top. Bass rolls off quite quick due to the high sensitivity. Not recommended
 - Bass Extension (-10dB): 39Hz
 - Bass Extension (-3dB): 82Hz
+- Driver: 1x 12" (305mm) fiber-composite woofer + 15" passive radiator, 1x 1.75" compression driver midrange on horn, 1x 1" titanium compression tweeter on horn
 - Sensitivity: 94dB
+- Weight: 53.2kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: $5000 Klipsch Forte IV Review    A Klipsch speaker I could *maybe* live with.](https://www.youtube.com/watch?v=IZPc1tl1aPs)
     - [Erin's Audio Review Website Klipsch Forte IV](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv/)
@@ -411,11 +428,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Klipsch Forte IV](https://www.reddit.com/search/?q=Klipsch+Forte+IV)
     - [Direct Speakerranking Link](/passive/speakers/Klipsch-Forte-IV/)
 
-## #25 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)] [[Used Listings](https://www.hifizero.com/index.php?q=Magnepan+LRS%2B)]: $1300
+## #25 [Magnepan LRS+](https://magnepan.com/products/magnepan-lrs-1) [[Magnepan](https://magnepan.com/products/magnepan-lrs-1)]: $1300
 - Negatives: An open baffle speaker which creates a huge soundstage. Not a great frequency response, 3dB dip from 300hz down, lots of other peaks and dips. Bass is weak, requires a subwoofer. Low sensitivity
 - Bass Extension (-10dB): 67Hz
 - Bass Extension (-3dB): 74Hz
+- Driver: Full-range planar magnetic dipole panel (48" tall x 13.5" wide); quasi-ribbon design, two-way with separate mid/bass and tweeter ribbon sections
 - Sensitivity: 85dB
+- Weight: 13.6kg
 - Reviews, Comparisons and Sound Samples
     - [Erin's Audio Corner: Grab Your Pitchforks! The Magnepan LRS+ Review You Didn't See Coming!](https://www.youtube.com/watch?v=PQemV-W48b8)
     - [Erin's Audio Review Website Magnepan LRS+](https://www.erinsaudiocorner.com/loudspeakers/magnepan_lrs_plus/)

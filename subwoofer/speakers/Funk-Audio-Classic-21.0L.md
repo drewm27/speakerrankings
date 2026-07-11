@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Funk Audio Classic 21.0L ranks #30 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Funk Audio Classic 21.0L ranks [#30 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#30-funk-audio-classic-210l-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Funk Audio Classic 21.0L ranks [#30 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#30-funk-audio-classic-210l-2995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #30 Funk Audio Classic 21.0L
+## #30 Funk Audio Classic 21.0L: $2995
 - CEA-2010-A Average (40-80Hz): 122.5 dB
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 31.5"H x 26.0"W x 24.0"D (800.1 x 660.4 x 609.6 mm)
 - Discontinued: Yes
+- Driver: 21" (533mm) driver
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer

@@ -12,8 +12,10 @@ The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks [#66 out of 137 total Mediu
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 15.5"H x 15.0"W x 15.75"D (393.7 x 381.0 x 400.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, rear
+- Frequency Response: 21-200Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 111.4 dB
 - Output SPL at 125 Hz: 110.7 dB
@@ -25,10 +27,11 @@ The RSL (Rogersound Labs) Speedwoofer 10S MKII ranks [#66 out of 137 total Mediu
 - Output SPL at 50 Hz: 112.9 dB
 - Output SPL at 63 Hz: 113.0 dB
 - Output SPL at 80 Hz: 112.1 dB
+- Power Output (Watts): 400W RMS
 - Warranty: ?
 - Weight: 40.6lbs / 18.4kg
 - Links
-    - [RSL (Rogersound Labs) Speedwoofer 10S MKII Website](https://rslspeakers.com/products/speedwoofer-10s-mkii/?attribute_pa_color=black)
+    - [RSL (Rogersound Labs) Speedwoofer 10S MKII Website](https://rslspeakers.com/products/speedwoofer-10s-mkii/)
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 10S MKII](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+10S+MKII)
 
 

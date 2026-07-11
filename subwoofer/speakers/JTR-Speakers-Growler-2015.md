@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JTR Speakers Growler (2015) ranks #2 out of 10 total Large Passive Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JTR Speakers Growler (2015) ranks [#2 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#2-jtr-speakers-growler-2015-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JTR Speakers Growler (2015) ranks [#2 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#2-jtr-speakers-growler-2015-2995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #2 JTR Speakers Growler (2015)
+## #2 JTR Speakers Growler (2015): $2995
 - Notes: Looks like "PA sub"
 - CEA-2010-A Average (40-80Hz): 130.2 dB
 - Country: United States
 - Dimensions: 22.5"H x 30.0"W x 20.0"D (571.5 x 762.0 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass

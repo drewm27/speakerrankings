@@ -12,6 +12,7 @@ The JTR Speakers Captivator 4000ULF ranks [#4 out of 95 total Large Powered Home
 - Cabinet Color: black, custom
 - Country: United States
 - Dimensions: 41.0"H x 20.5"W x 39.5"D (1041.4 x 520.7 x 1003.3 mm)
+- Driver: 4x 18" (457mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass

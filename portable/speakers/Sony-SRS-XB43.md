@@ -9,6 +9,7 @@ The Sony SRS-XB43 ranks [#40 out of 74 total Large Size Portable Bluetooth Speak
 
 ## #40 Sony SRS-XB43: $150
 - Negatives: Not as loud as others in the category. Speaker will not remain at max volume and will turn itself down automatically.
+- Setup: Try out +3 +6 +3 as an EQ to get it as flat as possible as mentioned in the Alan Ross video
 - App: Yes (Sony Music Center App)
 - Aux Input: Yes
 - Bass Extension (-10dB): 53Hz
@@ -18,9 +19,11 @@ The Sony SRS-XB43 ranks [#40 out of 74 total Large Size Portable Bluetooth Speak
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 12.8" x 4.8" x 4.6" (325 x 123 x 117 mm)
-- EQ: No
-- IP Rating: IPX7
+- Driver: 63mm woofer + 12.5mm tweeter + passive radiators
+- EQ: Yes (3 band)
+- IP Rating: IP67
 - Max Volume: 99dB
+- Output Power: 32W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)
 - Power Bank: Yes
 - Power Input: USB-C

@@ -14,6 +14,7 @@ The Onn Large Party gen 2 ranks [#13 out of 42 total Party Size Portable Bluetoo
 - Aux Input: Yes
 - Battery Life: 12 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
+- Driver: 8" (203mm) woofer + drivers
 - EQ: No
 - FM Tuner: Yes
 - Guitar Input: Yes

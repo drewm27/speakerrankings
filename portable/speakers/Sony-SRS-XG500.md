@@ -17,6 +17,7 @@ The Sony SRS-XG500 ranks [#41 out of 67 total Boombox Size Portable Bluetooth Sp
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
 - Dimensions: 18.11" x 10.08" x 8.46" (460 x 256 x 215 mm)
+- Driver: 2x 30mm tweeters + 2x 40mm mid-range + 1x 60mm woofer
 - EQ: Yes (App + ClearAudio+)
 - IP Rating: IP66
 - Output Power: 2x 25W + 2x 10W

@@ -15,8 +15,11 @@ The Marshall Tufton ranks [#56 out of 67 total Boombox Size Portable Bluetooth S
 - Battery Life: 20 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 9.02" x 6.42" x 13.78"
+- Driver: 1x 5.25" woofer + 2x 2" full-range + 1x 16mm tweeter
 - EQ: Yes (hidden bass and treble adjustment)
 - IP Rating: IPX2
+- Output Power: 80W
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

@@ -15,7 +15,9 @@ The Soundcore 3/Soundcore Select 2 ranks [#54 out of 131 total Medium Size Porta
 - Bluetooth Latency: 180ms
 - Bluetooth Version: 5.0
 - Dimensions: 6.75" x 2.25" x 2.25" (174 x 57 x 59 mm)
+- Driver: 2x 38mm (1.5") titanium diaphragm full-range drivers + 2x passive radiators
 - EQ: Yes
+- IP Rating: IPX7
 - Max Volume: 99dB
 - Output Power: 16W
 - Party Mode: Yes (Partycast up to 100 speakers)

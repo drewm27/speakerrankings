@@ -15,10 +15,13 @@ The ION Pathfinder 4 ranks [#55 out of 67 total Boombox Size Portable Bluetooth 
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 17.5" x 14.6" x 10.2"
+- Driver: 4" driver
 - EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
 - Microphone Input: Yes
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

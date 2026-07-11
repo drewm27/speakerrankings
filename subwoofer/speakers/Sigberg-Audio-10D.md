@@ -12,8 +12,10 @@ The Sigberg Audio 10D ranks [#18 out of 137 total Medium Powered Home Subwoofers
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 14.57"H x 14.17"W x 16.14"D (370.1 x 359.9 x 410.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 10 inch
 - Enclosure: sealed
+- Frequency Response: 23–250Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 119.3 dB
 - Output SPL at 12.5 Hz: 86.0 dB
@@ -26,6 +28,7 @@ The Sigberg Audio 10D ranks [#18 out of 137 total Medium Powered Home Subwoofers
 - Output SPL at 50 Hz: 116.3 dB
 - Output SPL at 63 Hz: 119.4 dB
 - Output SPL at 80 Hz: 119.0 dB
+- Power Output (Watts): 500W RMS
 - Weight: 59.52lbs / 27.0kg
 - Links
     - [Sigberg Audio 10D Website](https://www.sigbergaudio.no/en/products/sigberg-audio-10d)

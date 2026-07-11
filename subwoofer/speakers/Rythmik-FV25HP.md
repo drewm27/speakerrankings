@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Rythmik FV25HP ranks #15 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Rythmik FV25HP ranks [#15 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#15-rythmik-fv25hp-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Rythmik FV25HP ranks [#15 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#15-rythmik-fv25hp-2499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #15 Rythmik FV25HP
+## #15 Rythmik FV25HP: $2499
 - CEA-2010-A Average (40-80Hz): 126.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 41.5"H x 21.0"W x 22.0"D (1054.1 x 533.4 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 25" (635mm) driver
 - Driver(s): (2) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass

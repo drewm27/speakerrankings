@@ -11,8 +11,10 @@ The THIEL Audio SmartSub 1.12 ranks [#72 out of 137 total Medium Powered Home Su
 - CEA-2010-A Average (40-80Hz): 111.5 dB
 - Country: United States
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 40-80Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 99.4 dB
 - Output SPL at 25 Hz: 105.2 dB
@@ -21,6 +23,8 @@ The THIEL Audio SmartSub 1.12 ranks [#72 out of 137 total Medium Powered Home Su
 - Output SPL at 50 Hz: 111.9 dB
 - Output SPL at 63 Hz: 114.0 dB
 - Output SPL at 80 Hz: 111.1 dB
+- Power Output (Watts): 1250W peak
+- Weight: 95 lbs (43 kg)
 - Links
     - [Reddit Search for THIEL Audio SmartSub 1.12](https://www.reddit.com/search/?q=THIEL+Audio+SmartSub+1.12)
 

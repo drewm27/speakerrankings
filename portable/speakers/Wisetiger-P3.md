@@ -13,8 +13,14 @@ The Wisetiger P3 ranks [#16 out of 131 total Medium Size Portable Bluetooth Spea
 - App: No
 - Aux Input: No
 - Battery Life: 16 hours (Manufacturer specified)
+- Bluetooth Codecs: Not specified
+- Bluetooth Version: 5.3
+- Built in Microphone: Yes
+- Driver: 1x 44x80mm racetrack full-range driver + 1x tweeter + 2x passive radiators
 - EQ: No
 - IP Rating: IPX7
+- Max Volume: Not specified
+- Output Power: 30W
 - Power Bank: No
 - Power Input: USB-C
 - Stereo: Yes

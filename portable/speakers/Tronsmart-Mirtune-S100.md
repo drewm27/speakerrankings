@@ -7,7 +7,7 @@ share-description: "The Tronsmart Mirtune S100 ranks #72 out of 131 total Medium
 
 The Tronsmart Mirtune S100 ranks [#72 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#72-tronsmart-mirtune-s100-amazon-64) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #72 [Tronsmart Mirtune S100](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=se&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl)]: $64
+## #72 [Tronsmart Mirtune S100](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=rankingspea01-20&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tronsmart-Mirtune-S100-Retractable-Waterproof/dp/B0DG2MND7F?crid=FU3C6S3PF2RS&dib=eyJ2IjoiMSJ9.WBerA6cebFxt2QpzoRzncv5aUWwP_gwZkY0Vpw5L9STeT3XdzHBGVgRs6vylsTcqynbJvMspcLYruChTjaFCWXz8UpmzzafQpy1pBtFAUPM96QawDcPfedJH223Rt7_uaTMtuPe3BRoCMZewqpmobxToOxuCrSkM2xncrmawsO2Ir_YWdlRYVMaKzPUoFbaB6d09uCnWAg-KNYlOhGdvtQ.FfYWRBqdqueRqIQv0Yvf92k8rvVVww_FOKxcvkF-Kl4&dib_tag=rankingspea01-20&keywords=tronsmart+mirtune+s100&qid=1730178693&sprefix=tronsmart+mirtune+s10%2Caps%2C276&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=68abeb1c590af223bc8ed9d80ca0c285&language=en_US&ref_=as_li_ss_tl)]: $64
 - Positives: Reasonably balanced
 - Negatives: Lacking deeper bass compared to higher ranked speakers
 - Bass Extension (-10dB): ~64Hz
@@ -15,6 +15,7 @@ The Tronsmart Mirtune S100 ranks [#72 out of 131 total Medium Size Portable Blue
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 9.09" x 3.46" x 3.94" (231 x 88 x 100 mm)
+- Driver: 20W drivers
 - Frequency Response: 50Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX7
 - Output Power: 50W

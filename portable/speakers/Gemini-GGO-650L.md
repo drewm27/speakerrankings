@@ -18,8 +18,10 @@ The Gemini GGO-650L ranks [#54 out of 67 total Boombox Size Portable Bluetooth S
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 11.81" x 9.06" x 14.96" (300 x 230 x 380 mm)
+- Driver: 6.5" woofer + tweeter
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX5
 - MicroSD: Yes
 - Output Power: 100W
 - Party Mode: No

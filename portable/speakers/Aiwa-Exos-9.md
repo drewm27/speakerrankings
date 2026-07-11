@@ -16,10 +16,13 @@ The Aiwa Exos-9 ranks [#8 out of 67 total Boombox Size Portable Bluetooth Speake
 - Battery Life: 10 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 19.4" x 7.5" x 11.7"
+- Driver: 6.5" dual voice coil woofer + 2x 3" midwoofers + 2x 1" silk dome tweeters
 - EQ: Yes (5-band graphic EQ + 4 presets)
 - FM Tuner: No
 - IP Rating: None
 - Microphone Input: Yes (with adapter)
+- Output Power: 200W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power cable

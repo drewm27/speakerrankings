@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Revel F206 ranks #9 out of 25 total Large Size Floorstanding Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Revel F206 ranks [#9 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#9-revel-f206-ebay-used-listings-discontinued-2000-used) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Revel F206 ranks [#9 out of 25 total Large Size Floorstanding Speakers](/passive/floorstanding-large/#9-revel-f206-ebay-discontinued-2000-used) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #9 [Revel F206](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)] [[Used Listings](https://www.hifizero.com/index.php?q=Revel+F206)]: Discontinued, $2000 used
+## #9 [Revel F206](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1) [[Ebay](https://www.ebay.com/sch/i.html?_nkw=revel+f206&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339110165&customid=f206&toolid=10001&mkevt=1)]: Discontinued, $2000 used
 - Positives: Really amazing value for the performance
 - Negatives: Some directivity error around 3khz. Vertical off axis is just okay
 - Bass Extension (-10dB): 34Hz

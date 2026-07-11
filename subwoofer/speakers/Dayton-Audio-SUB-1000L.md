@@ -13,6 +13,7 @@ The Dayton Audio SUB-1000L ranks [#24 out of 41 total Small Powered Home Subwoof
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 6.0"H x 25.0"W x 15.75"D (152.4 x 635.0 x 400.0 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth

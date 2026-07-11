@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JTR Speakers Captivator 1400 ranks #20 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JTR Speakers Captivator 1400 ranks [#20 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#20-jtr-speakers-captivator-1400-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JTR Speakers Captivator 1400 ranks [#20 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#20-jtr-speakers-captivator-1400-2495) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #20 JTR Speakers Captivator 1400
+## #20 JTR Speakers Captivator 1400: $2495
 - CEA-2010-A Average (40-80Hz): 125.2 dB
 - Country: United States
 - Dimensions: 20.0"H x 30.0"W x 22.5"D (508.0 x 762.0 x 571.5 mm)
 - Discontinued: Yes
+- Driver: 14" (356mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass

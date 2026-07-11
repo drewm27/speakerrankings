@@ -17,6 +17,7 @@ The JBL Clip 4 ranks [#22 out of 44 total Small Size Portable Bluetooth Speakers
 - Bluetooth Version: 5.1
 - Built in Microphone: Yes
 - Dimensions: 3.39" x 5.31" x 1.81" (86 x 135 x 46 mm)
+- Driver: 1x 40mm (1.57") full-range driver + 1x passive radiator
 - EQ: No
 - Frequency Response: 100Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67

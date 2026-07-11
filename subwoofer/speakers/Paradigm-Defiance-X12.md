@@ -11,9 +11,13 @@ The Paradigm Defiance X12 ranks [#5 out of 137 total Medium Powered Home Subwoof
 - CEA-2010-A Average (40-80Hz): 119.2 dB
 - Cabinet Color: black
 - Country: Canada
+- Crossover: 30–120Hz adjustable
 - Dimensions: 19.43"H x 18.0"W x 19.43"D (493.5 x 457.2 x 493.5 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
+- Features: ARC microphone for room correction, ART surround
+- Frequency Response: 20–230Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 120.2 dB
 - Output SPL at 125 Hz: 119.3 dB
@@ -24,6 +28,7 @@ The Paradigm Defiance X12 ranks [#5 out of 137 total Medium Powered Home Subwoof
 - Output SPL at 50 Hz: 119.0 dB
 - Output SPL at 63 Hz: 120.7 dB
 - Output SPL at 80 Hz: 120.8 dB
+- Power Output (Watts): 650W RMS / 1300W peak
 - Warranty: 3
 - Weight: 62.0lbs / 28.1kg
 - Links

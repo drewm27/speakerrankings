@@ -12,8 +12,10 @@ The Kef Kube 10B ranks [#110 out of 137 total Medium Powered Home Subwoofers (30
 - Cabinet Color: black
 - Country: United Kingdom
 - Dimensions: 14.6"H x 13.9"W x 14.6"D (370.8 x 353.1 x 370.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 24-140Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 86.3 dB
 - Output SPL at 20 Hz: 93.4 dB
@@ -23,6 +25,7 @@ The Kef Kube 10B ranks [#110 out of 137 total Medium Powered Home Subwoofers (30
 - Output SPL at 50 Hz: 107.1 dB
 - Output SPL at 63 Hz: 109.9 dB
 - Output SPL at 80 Hz: 111.1 dB
+- Power Output (Watts): 300W RMS
 - Warranty: 5/2/5
 - Weight: 38.36lbs / 17.4kg
 - Links

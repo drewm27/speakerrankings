@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Outlaw Audio Ultra-X13 ranks #68 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Outlaw Audio Ultra-X13 ranks [#68 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#68-outlaw-audio-ultra-x13-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Outlaw Audio Ultra-X13 ranks [#68 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#68-outlaw-audio-ultra-x13-1299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #68 Outlaw Audio Ultra-X13
+## #68 Outlaw Audio Ultra-X13: $1299
 - CEA-2010-A Average (40-80Hz): 118.1 dB
 - Country: United States
 - Dimensions: 25.0"H x 18.0"W x 23.0"D (635.0 x 457.2 x 584.2 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics

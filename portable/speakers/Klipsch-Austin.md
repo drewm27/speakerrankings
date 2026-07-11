@@ -7,7 +7,7 @@ share-description: "The Klipsch Austin ranks #15 out of 44 total Small Size Port
 
 The Klipsch Austin ranks [#15 out of 44 total Small Size Portable Bluetooth Speakers](/portable/small/#15-klipsch-austin-amazon-80) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #15 [Klipsch Austin](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=se&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=se&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl)]: $80
+## #15 [Klipsch Austin](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=rankingspea01-20&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Klipsch-Austin-Portable-Bluetooth-Speaker/dp/B0CJ9V329D?crid=2TSSGSLNDLK34&dib=eyJ2IjoiMSJ9.t7G1ZgvkahgfPFzpfEJ5T9tCs_12AiVW1DZM1zTNydv41StX_OZm9h0ApvX4jLFFoWvLxBRBeHyyFoIJrG7zm5IohkDvTW0XylXVAo-eF-CVe5qk-mAOpXNe5-Mg45J1J1vnle_lOBwD72KbxBsYgRLp1NI4NP_efky2eO7nNpZtS5qGDpVEewNXUj5tKLNxK2RDqFdw7pf6Op6ZY9hmoqmoTqG_aFUynFiWzjyGO1c.GhqU3VdtGRdBVIXYgF_JR9wUa53lab8aZNW8N7iZKik&dib_tag=rankingspea01-20&keywords=klipsch+austin&qid=1718941493&sprefix=klipsch+austin%2Caps%2C194&sr=8-1&linkCode=ll1&tag=rankingspea01-20&linkId=f5125a243b6e64f6b0424d623d91a0f5&language=en_US&ref_=as_li_ss_tl)]: $80
 - Negatives: Not as deep bass as higher ranked speakers
 - App: Yes
 - Aux Input: No
@@ -22,6 +22,7 @@ The Klipsch Austin ranks [#15 out of 44 total Small Size Portable Bluetooth Spea
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 89dB
+- Output Power: 10W RMS
 - Party Mode: Yes (broadcast mode)
 - Power Bank: Yes (10W reverse USB-C charging)
 - Power Input: USB-C

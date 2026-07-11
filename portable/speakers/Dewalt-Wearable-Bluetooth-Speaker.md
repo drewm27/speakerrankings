@@ -17,8 +17,10 @@ The Dewalt Wearable Bluetooth Speaker ranks [#44 out of 44 total Small Size Port
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
 - Dimensions: 1.29" x 1.98" x 2.69" (32.8 x 50.3 x 68.3 mm)
+- Driver: 1.3" full-range driver
 - EQ: No
 - IP Rating: IP56
+- Output Power: Specs not published
 - Party Mode: No
 - Power Bank: No
 - Power Input: USB-C

@@ -13,6 +13,7 @@ The Monoprice Monolith 8 THX Certified ranks [#36 out of 41 total Small Powered 
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 12.59"H x 13.5"W x 12.59"D (319.8 x 342.9 x 319.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: ported
 - Measurement Source: ErinsAudioCorner

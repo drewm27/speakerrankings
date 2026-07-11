@@ -17,10 +17,13 @@ The W-King T11 ranks [#32 out of 67 total Boombox Size Portable Bluetooth Speake
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 66ms
 - Built in Microphone: No
+- Dimensions: 8.1" deep x 8.64" wide x 17.4" tall
+- Driver: 2x 133mm (5.25") woofers + 2x ~30mm (1.2") tweeters + 2x passive radiators
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 112dB
 - MicroSD: Yes
+- Output Power: 100W RMS / 240W peak
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick

@@ -17,6 +17,8 @@ The JBL Partybox On the Go ranks [#40 out of 67 total Boombox Size Portable Blue
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
 - Built in Microphone: No
+- Dimensions: 489mm x 224mm x 244.5mm
+- Driver: 5.1" woofer + tweeters
 - EQ: No
 - IP Rating: IPX4
 - Max Volume: 94dB

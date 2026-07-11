@@ -9,11 +9,17 @@ The Bose Soundlink Revolve ranks [#49 out of 131 total Medium Size Portable Blue
 
 ## #49 Bose Soundlink Revolve: $180
 - Negatives: Not stereo. Strange sizzling treble, peaks and dips. Overly boosted boomy bass at 75hz.
+- App: Bose Connect
 - Aux Input: Yes
 - Bass Extension (-10dB): 60Hz
 - Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
 - Bluetooth Version: 4.2
+- Built in Microphone: Yes
 - Dimensions: 3.2" x 6.0" x 3.2" (82 x 152 x 82 mm)
+- Driver: 1x omnidirectional full-range transducer (~45mm) + 2x passive radiators
+- EQ: No
+- IP Rating: IPX4
 - Party Mode: Yes (Bose Party mode)
 - Power Input: Micro USB
 - Stereo: No

@@ -5,12 +5,18 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Earfun Uboom Slim ranks #39 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Earfun Uboom Slim ranks [#39 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#39-earfun-uboom-slim) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Earfun Uboom Slim ranks [#39 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#39-earfun-uboom-slim-79) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #39 Earfun Uboom Slim
+## #39 Earfun Uboom Slim: $79
 - Negatives: Not as deep bass as others. Warm tuned, peaks in the mids and lower treble, rolled off upper treble
 - Bass Extension (-10dB): ~63Hz
 - Battery Life: 16 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC
+- Bluetooth Version: 5.2
+- Built in Microphone: Yes
+- Driver: 45mm speaker drivers
+- IP Rating: IPX7
+- Output Power: 20W
 - Power Input: USB-C
 - Stereo: Yes
 - Weight: 1.23lbs / 560g

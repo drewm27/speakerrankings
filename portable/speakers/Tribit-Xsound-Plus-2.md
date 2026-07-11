@@ -7,16 +7,19 @@ share-description: "The Tribit Xsound Plus 2 ranks #32 out of 131 total Medium S
 
 The Tribit Xsound Plus 2 ranks [#32 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#32-tribit-xsound-plus-2-amazon-60) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #32 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=se&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl)]: $60
+## #32 [Tribit Xsound Plus 2](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=rankingspea01-20&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Tribit-Portable-Bluetooth-Wireless-Waterproof/dp/B0CKXQBFWZ?crid=1ZFBKM7W9A43O&dib=eyJ2IjoiMSJ9.7FlTG2rzRK422NWV1ZVwyKST9DUh-LOSoTkFSrhfmLS4zr6XZOwkS4iepWv09ohtlQFxoN313G_4kj5C73gN5nO7oGCYvW_FyezCT9dUBR2EWaqikzX9JbQZJDDM9qmPSpnucGKT8MsrwlpqbfdEAhLibmnYEIh9oqu8tP8CTBc.8UwJAqEDZEyB_HBw7IUjfA-5_riCfi6FZzFPGPnkn68&dib_tag=rankingspea01-20&keywords=xsound+plus+2&qid=1712684630&sprefix=xsound+plus+%2Caps%2C215&sr=8-3&linkCode=ll1&tag=rankingspea01-20&linkId=049bc5e3c6d5d0f8edd7bed1d37a8873&language=en_US&ref_=as_li_ss_tl)]: $60
 - Positives: Use [this EQ](https://www.instagram.com/p/C5vDo8gINjx/) for the best sound quality
 - Negatives: Boosted treble, boosted bass in the factory EQs. Peak at 320hz, dip at 500hz. Bass is slappy and distorted in xbass mode
 - App: Yes
 - Aux Input: Yes
 - Aux Latency: 16ms
+- Bass Extension (-10dB): 55Hz
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Latency: SBC 233ms, AAC 240ms
 - Bluetooth Version: 5.3
+- Built in Microphone: Yes
 - Dimensions: 7.8" x 2.8" x 2.6" (198 x 71 x 66 mm)
+- Driver: 2x 45mm neodymium full-range drivers
 - EQ: Yes
 - IP Rating: IPX7
 - Max Volume: 99dB

@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Sony SRS-XB30 ranks #99 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony SRS-XB30 ranks [#99 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#99-sony-srs-xb30) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SRS-XB30 ranks [#99 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#99-sony-srs-xb30-199) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #99 Sony SRS-XB30
+## #99 Sony SRS-XB30: $199
 - Negatives: Muffled sound, worse than a XB20
 - App: Yes (Sony Music Center)
 - Aux Input: Yes
@@ -17,6 +17,7 @@ The Sony SRS-XB30 ranks [#99 out of 131 total Medium Size Portable Bluetooth Spe
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 8.98" x 3.23" x 3.39" (228 x 82 x 86 mm)
+- Driver: 2x 48mm full-range drivers + 2x passive radiators
 - IP Rating: IPX5
 - Max Volume: 95dB
 - Output Power: 20W

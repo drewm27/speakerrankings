@@ -12,6 +12,7 @@ The Sonus Faber Gravis VI ranks [#95 out of 95 total Large Powered Home Subwoofe
 - Cabinet Color: black, wood
 - Country: Italy
 - Dimensions: 24.2"H x 17.6"W x 23.0"D (614.7 x 447.0 x 584.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Dennis Burger

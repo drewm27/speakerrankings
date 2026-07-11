@@ -12,6 +12,7 @@ The Sonos Sub Mini ranks [#34 out of 41 total Small Powered Home Subwoofers (Und
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 12.01"H x 9.06"W x 9.06"D (305.1 x 230.1 x 230.1 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (2) 6 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

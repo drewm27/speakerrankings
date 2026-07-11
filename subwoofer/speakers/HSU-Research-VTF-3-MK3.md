@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The HSU Research VTF-3 MK3 ranks #84 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The HSU Research VTF-3 MK3 ranks [#84 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#84-hsu-research-vtf-3-mk3-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The HSU Research VTF-3 MK3 ranks [#84 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#84-hsu-research-vtf-3-mk3-1499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #84 HSU Research VTF-3 MK3
+## #84 HSU Research VTF-3 MK3: $1499
 - CEA-2010-A Average (40-80Hz): 113.5 dB
 - Country: United States
 - Dimensions: 21.5"H x 17.0"W x 25.0"D (546.1 x 431.8 x 635.0 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen

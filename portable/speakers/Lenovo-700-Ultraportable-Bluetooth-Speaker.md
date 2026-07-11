@@ -17,6 +17,8 @@ The Lenovo 700 Ultraportable Bluetooth Speaker ranks [#42 out of 44 total Small 
 - Bluetooth Codecs: SBC
 - Bluetooth Version: 5.0
 - Built in Microphone: Yes
+- Dimensions: 165mm x 75mm x 11mm
+- Driver: 1.5" full-range driver
 - EQ: No
 - Frequency Response: 220Hz - 20kHz (Manufacturer specified)
 - IP Rating: IPX2

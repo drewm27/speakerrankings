@@ -17,8 +17,10 @@ The Vifa Copenhagen 2.0 ranks [#9 out of 67 total Boombox Size Portable Bluetoot
 - Bluetooth Version: 4.1
 - Built in Microphone: No
 - Dimensions: 10.55" x 3.54" x 14.25" (268 x 90 x 362 mm)
+- Driver: 2x 94mm woofers + 2x 50mm midrange + 2x 28mm tweeters + 4 passive radiators
 - EQ: No
 - IP Rating: None
+- Output Power: 100W
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick

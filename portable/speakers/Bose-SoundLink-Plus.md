@@ -7,7 +7,7 @@ share-description: "The Bose SoundLink Plus ranks #22 out of 74 total Large Size
 
 The Bose SoundLink Plus ranks [#22 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#22-bose-soundlink-plus-amazon-270) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #22 [Bose SoundLink Plus](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=se&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=se&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl)]: $270
+## #22 [Bose SoundLink Plus](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=rankingspea01-20&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Bose-SoundLink-Bluetooth-Waterproof-Dustproof/dp/B0F7HVC62G?crid=2TMU7DZM45V3Z&dib=eyJ2IjoiMSJ9.0_Ijrp0H_MXaY7e6wgrRuczJjqCa1KyJ0wRUnYqNSN6XpGPrXQ4zqDrjD5-N47bqEudzAAOxKaXdzuTJuNUTMzjTUgZWb21XWd_6SiSNGjb2HePiZ0KXsW7CyWxZArj-FEegY4FKfCYoj_gyidxhaT6oFTBFtdACmh86LCsw0SrVr1SQnDYjGGG1Xk0R0UMxfTu6rOUcrL10Ej1HjhsatFOfwXNrCIfS4v48tIfaDnI.SQVM3HvFkNe96ZWmbA0ibMkx0mdnFHMJCf0b_bAIhy8&dib_tag=rankingspea01-20&keywords=soundlink%2Bplus&qid=1754865781&sprefix=soundlink%2B%2Caps%2C201&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=296a406ad5fd7218c38d135a53e2c7b8&language=en_US&ref_=as_li_ss_tl)]: $270
 - Negatives: Boosted thuddy bass, but not as deep as the SoundLink Flex and you should probably just buy one of those instead if you want a Bose.
 - App: Yes
 - Aux Input: No
@@ -16,8 +16,10 @@ The Bose SoundLink Plus ranks [#22 out of 74 total Large Size Portable Bluetooth
 - Bluetooth Version: 5.4
 - Built in Microphone: No
 - Dimensions: 9.1" x 3.9" x 3.4" (231 x 99 x 86 mm)
+- Driver: 1x 2.5" (63.5mm) woofer + 1x ~0.78" (20mm) tweeter + 4x passive radiators
 - EQ: No
 - IP Rating: IP67
+- Output Power: Specs not published by manufacturer
 - Party Mode: Yes (up to 2 speakers)
 - Power Bank: Yes
 - Power Input: USB-C

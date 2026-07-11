@@ -12,13 +12,16 @@ The Bestisan SW65D ranks [#136 out of 137 total Medium Powered Home Subwoofers (
 - Cabinet Color: black
 - Country: China
 - Dimensions: 12.6"H x 3.0"W x 12.6"D (320.0 x 76.2 x 320.0 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 6.5 inch
 - Enclosure: ported, front
+- Frequency Response: 40-250Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 40 Hz: 88.3 dB
 - Output SPL at 50 Hz: 97.5 dB
 - Output SPL at 63 Hz: 104.0 dB
 - Output SPL at 80 Hz: 106.4 dB
+- Power Output (Watts): 50W RMS
 - Weight: 38.0lbs / 17.2kg
 - Links
     - [Bestisan SW65D Website](https://www.amazon.com/BESTISAN-Subwoofer-Bestisan-Bluetooth-Response/dp/B08R9VVKB7/)

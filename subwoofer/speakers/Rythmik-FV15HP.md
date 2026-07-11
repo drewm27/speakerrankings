@@ -12,6 +12,7 @@ The Rythmik FV15HP ranks [#37 out of 95 total Large Powered Home Subwoofers (Ove
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 24.5"H x 18.25"W x 24.25"D (622.3 x 463.5 x 615.9 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

@@ -20,6 +20,7 @@ The Sonos Move 2 ranks [#24 out of 74 total Large Size Portable Bluetooth Speake
 - Driver: mid-woofer, 2x angled tweeters
 - EQ: No
 - IP Rating: IP56
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

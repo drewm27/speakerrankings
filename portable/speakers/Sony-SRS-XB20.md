@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Sony SRS-XB20 ranks #89 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Sony SRS-XB20 ranks [#89 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#89-sony-srs-xb20) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Sony SRS-XB20 ranks [#89 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#89-sony-srs-xb20-129) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #89 Sony SRS-XB20
+## #89 Sony SRS-XB20: $129
 - Negatives: Sounds thin at higher volumes. Bass falls away quickly.
 - App: Yes (SongPal)
 - Aux Input: Yes
@@ -16,6 +16,7 @@ The Sony SRS-XB20 ranks [#89 out of 131 total Medium Size Portable Bluetooth Spe
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 7.8" x 2.68" x 2.72" (198 x 68 x 69 mm)
+- Driver: 2x 42mm full-range drivers + 2x passive radiators
 - EQ: No
 - IP Rating: IPX5
 - Output Power: 20W

@@ -11,9 +11,14 @@ The Starke Sound SW15 ranks [#13 out of 137 total Medium Powered Home Subwoofers
 - CEA-2010-A Average (40-80Hz): 117.3 dB
 - Cabinet Color: black
 - Country: United States
+- Crossover: 50–200Hz adjustable
 - Dimensions: 17.3"H x 16.5"W x 18.9"D (439.4 x 419.1 x 480.1 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
+- Features: Sealed subwoofer, outputs: XLR
+- Frequency Response: 14–240Hz, ±3dB
+- Input Connections: 1 XLR (balanced), 3 RCA (unbalanced)
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 115.2 dB
 - Output SPL at 12.5 Hz: 86.0 dB
@@ -26,6 +31,8 @@ The Starke Sound SW15 ranks [#13 out of 137 total Medium Powered Home Subwoofers
 - Output SPL at 50 Hz: 118.4 dB
 - Output SPL at 63 Hz: 119.1 dB
 - Output SPL at 80 Hz: 117.2 dB
+- Phase Control: 0°–180° adjustable
+- Power Output (Watts): 450W RMS / 900W peak
 - Weight: 55.0lbs / 24.9kg
 - Links
     - [Starke Sound SW15 Website](https://www.starkesound.com/detail.html?id=55)

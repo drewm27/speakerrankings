@@ -12,6 +12,7 @@ The SVS 3000 Micro ranks [#12 out of 41 total Small Powered Home Subwoofers (Und
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 10.9"H x 11.7"W x 10.7"D (276.9 x 297.2 x 271.8 mm)
+- Driver: 8" (203mm) driver
 - Driver(s): (2) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

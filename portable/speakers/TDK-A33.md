@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The TDK A33 ranks #103 out of 131 total Medium Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The TDK A33 ranks [#103 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#103-tdk-a33) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The TDK A33 ranks [#103 out of 131 total Medium Size Portable Bluetooth Speakers](/portable/medium/#103-tdk-a33-199) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #103 TDK A33
+## #103 TDK A33: $199
 - Negatives: Not as deep of bass as competitors. Slightly recessed treble.
 - Aux Input: Yes
 - Bass Extension (-10dB): ~72Hz

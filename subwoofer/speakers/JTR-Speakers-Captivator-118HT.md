@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JTR Speakers Captivator 118HT ranks #28 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JTR Speakers Captivator 118HT ranks [#28 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#28-jtr-speakers-captivator-118ht-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JTR Speakers Captivator 118HT ranks [#28 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#28-jtr-speakers-captivator-118ht-1995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #28 JTR Speakers Captivator 118HT
+## #28 JTR Speakers Captivator 118HT: $1995
 - CEA-2010-A Average (40-80Hz): 122.8 dB
 - Country: United States
 - Dimensions: 30.0"H x 20.0"W x 22.5"D (762.0 x 508.0 x 571.5 mm)
 - Discontinued: Yes
+- Driver: 1x 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass

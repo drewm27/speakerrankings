@@ -5,12 +5,13 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Reaction Audio PV-15X ranks #7 out of 10 total Large Passive Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Reaction Audio PV-15X ranks [#7 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#7-reaction-audio-pv-15x-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Reaction Audio PV-15X ranks [#7 out of 10 total Large Passive Home Subwoofers (Over 75 lbs)](/subwoofer/passive-large/#7-reaction-audio-pv-15x-1999) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #7 Reaction Audio PV-15X
+## #7 Reaction Audio PV-15X: $1999
 - CEA-2010-A Average (40-80Hz): 126.2 dB
 - Dimensions: 18.0"H x 22.0"W x 29.0"D (457.2 x 558.8 x 736.6 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Data-bass
@@ -25,6 +26,7 @@ The Reaction Audio PV-15X ranks [#7 out of 10 total Large Passive Home Subwoofer
 - Output SPL at 63 Hz: 126.1 dB
 - Output SPL at 80 Hz: 126.5 dB
 - Passive: Yes
+- Weight: 68kg
 - Links
     - [Reddit Search for Reaction Audio PV-15X](https://www.reddit.com/search/?q=Reaction+Audio+PV-15X)
 

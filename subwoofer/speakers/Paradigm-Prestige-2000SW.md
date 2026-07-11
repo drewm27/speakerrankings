@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Paradigm Prestige 2000SW ranks #79 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Paradigm Prestige 2000SW ranks [#79 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#79-paradigm-prestige-2000sw-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Paradigm Prestige 2000SW ranks [#79 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#79-paradigm-prestige-2000sw-2499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #79 Paradigm Prestige 2000SW
+## #79 Paradigm Prestige 2000SW: $2499
 - CEA-2010-A Average (40-80Hz): 116.1 dB
 - Cabinet Color: black, white, wood
 - Country: Canada
 - Dimensions: 22.25"H x 21.75"W x 20.25"D (565.1 x 552.4 x 514.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

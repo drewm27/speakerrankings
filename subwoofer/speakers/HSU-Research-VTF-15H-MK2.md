@@ -13,6 +13,7 @@ The HSU Research VTF-15H MK2 ranks [#39 out of 95 total Large Powered Home Subwo
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 24.0"H x 18.0"W x 26.0"D (609.6 x 457.2 x 660.4 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer

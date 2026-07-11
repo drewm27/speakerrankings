@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Dynaudio Contour 20i ranks #18 out of 48 total Large Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Dynaudio Contour 20i ranks [#18 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#18-dynaudio-contour-20i-safeandsoundhq-used-listings-5750-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Dynaudio Contour 20i ranks [#18 out of 48 total Large Size Bookshelf Speakers](/passive/bookshelf-large/#18-dynaudio-contour-20i-safeandsoundhq-5750-a-pair) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #18 [Dynaudio Contour 20i](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair)] [[Used Listings](https://www.hifizero.com/index.php?q=Dynaudio+Contour+20i)]: $5750 a pair
+## #18 [Dynaudio Contour 20i](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair) [[Safeandsoundhq](https://www.safeandsoundhq.com/products/dynaudio-contour-20i-bookshelf-speakers-pair)]: $5750 a pair
 - Negatives: A bit of a hot lower treble which can be pronounced in reflective rooms. Lower treble lift from 3khz to 8khz. 3.5db peak at 7.2khz. Directivity issue around the crossover point. Toe them out about 10 degrees to tone hot lower treble. Resonance around 800hz
 - Bass Extension (-10dB): 32Hz
 - Bass Extension (-3dB): 56Hz

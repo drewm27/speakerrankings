@@ -13,6 +13,7 @@ The Altec Lansing AL500 ranks [#41 out of 42 total Party Size Portable Bluetooth
 - Aux Input: Yes
 - Bass Extension (-10dB): ~60Hz
 - Bluetooth Codecs: SBC
+- Driver: 1x 5" woofer + passive radiators
 - EQ: No
 - FM Tuner: Yes
 - IP Rating: None

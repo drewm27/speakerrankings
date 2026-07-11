@@ -12,6 +12,7 @@ The Harbottle Audio C24 L1 ranks [#43 out of 95 total Large Powered Home Subwoof
 - Cabinet Color: black, white, red, blue
 - Country: Canada
 - Dimensions: 35.43"H x 28.43"W x 20.16"D (899.9 x 722.1 x 512.1 mm)
+- Driver: 24" (610mm) driver
 - Driver(s): (1) 24 inch
 - Enclosure: ported
 - Measurement Source: Manufacturer

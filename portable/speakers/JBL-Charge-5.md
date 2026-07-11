@@ -16,6 +16,7 @@ The JBL Charge 5 ranks [#26 out of 131 total Medium Size Portable Bluetooth Spea
 - Bluetooth Codecs: AAC, SBC
 - Bluetooth Latency: 125ms
 - Bluetooth Version: 5.1
+- Built in Microphone: Yes (dual microphones)
 - Dimensions: 8.8" x 3.8" x 3.7" (223 x 96.5 x 94 mm)
 - Driver: 53mm x 93mm woofer, 20mm tweeter
 - EQ: Yes (3 band)

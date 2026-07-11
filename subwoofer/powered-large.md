@@ -10,7 +10,7 @@ This page ranks 95 large powered subwoofers weighing over 75 lbs. All subwoofers
 
 Also check out [Small Powered Subwoofers](/subwoofer/powered-small/) (under 30 lbs) and [Medium Powered Subwoofers](/subwoofer/powered-medium/) (30–75 lbs). For passive subwoofers see [Small Passive](/subwoofer/passive-small/), [Medium Passive](/subwoofer/passive-medium/), and [Large Passive](/subwoofer/passive-large/).
 
-Last updated: June 02, 2026
+Last updated: June 24, 2026
 
 **Use your browser's search feature to search for speakers on this page.**
 
@@ -21,6 +21,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 45.0"H x 22.5"W x 32.0"D (1143.0 x 571.5 x 812.8 mm)
+- Driver: Dual 18" (457mm) drivers
 - Driver(s): (1) 18 inch
 - Enclosure: horn
 - Measurement Source: Data-bass
@@ -41,11 +42,12 @@ Last updated: June 02, 2026
     - [Reddit Search for JTR Speakers Orbit Shifter PRO](https://www.reddit.com/search/?q=JTR+Speakers+Orbit+Shifter+PRO)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Orbit-Shifter-PRO/)
 
-## #2 JTR Speakers Orbit Shifter LFU
+## #2 JTR Speakers Orbit Shifter LFU: $6995
 - CEA-2010-A Average (40-80Hz): 133.8 dB
 - Country: United States
 - Dimensions: 22.5"H x 50.0"W x 36.0"D (571.5 x 1270.0 x 914.4 mm)
 - Discontinued: Yes
+- Driver: Dual 18" (457mm) drivers
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -65,11 +67,12 @@ Last updated: June 02, 2026
     - [Reddit Search for JTR Speakers Orbit Shifter LFU](https://www.reddit.com/search/?q=JTR+Speakers+Orbit+Shifter+LFU)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Orbit-Shifter-LFU/)
 
-## #3 Power Sound Audio (PSA) TRIAX
+## #3 Power Sound Audio (PSA) TRIAX: $7995
 - CEA-2010-A Average (40-80Hz): 130.9 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 23.5"H x 31.0"W x 27.5"D (596.9 x 787.4 x 698.5 mm)
 - Discontinued: Yes
+- Driver: Triple 18" drivers
 - Driver(s): (3) 15 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -91,6 +94,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, custom
 - Country: United States
 - Dimensions: 41.0"H x 20.5"W x 39.5"D (1041.4 x 520.7 x 1003.3 mm)
+- Driver: 4x 18" (457mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -119,6 +123,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 40.0"H x 18.0"W x 30.0"D (1016.0 x 457.2 x 762.0 mm)
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -139,11 +144,12 @@ Last updated: June 02, 2026
     - [Reddit Search for JTR Speakers Captivator 215PRO](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+215PRO)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Captivator-215PRO/)
 
-## #6 Power Sound Audio (PSA) T18
+## #6 Power Sound Audio (PSA) T18: $4995
 - CEA-2010-A Average (40-80Hz): 129.7 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 23.5"H x 31.0"W x 27.5"D (596.9 x 787.4 x 698.5 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -160,12 +166,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) T18](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+T18)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-T18/)
 
-## #7 JTR Speakers Captivator S2
+## #7 JTR Speakers Captivator S2: $3995
 - Notes: Replaced by "RS2"
 - CEA-2010-A Average (40-80Hz): 129.4 dB
 - Country: United States
 - Dimensions: 40.0"H x 21.0"W x 18.0"D (1016.0 x 533.4 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 2x 18" (457mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
@@ -188,11 +195,12 @@ Last updated: June 02, 2026
     - [Reddit Search for JTR Speakers Captivator S2](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+S2)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Captivator-S2/)
 
-## #8 Power Sound Audio (PSA) V3600I
+## #8 Power Sound Audio (PSA) V3600I: $6995
 - CEA-2010-A Average (40-80Hz): 128.3 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 44.0"H x 20.0"W x 25.0"D (1117.6 x 508.0 x 635.0 mm)
 - Discontinued: Yes
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
@@ -214,6 +222,7 @@ Last updated: June 02, 2026
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 31.0"H x 26.0"W x 24.0"D (787.4 x 660.4 x 609.6 mm)
+- Driver: 24" (610mm) driver
 - Driver(s): (1) 24 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -229,6 +238,7 @@ Last updated: June 02, 2026
 - Output SPL at 63 Hz: 127.6 dB
 - Output SPL at 80 Hz: 127.0 dB
 - Warranty: 3
+- Weight: 135kg
 - Links
     - [Funk Audio Ultra 24.0 Website](https://www.funkaudio.ca/store/p54/Funk_Audio_24.0.html)
     - [Reddit Search for Funk Audio Ultra 24.0](https://www.reddit.com/search/?q=Funk+Audio+Ultra+24.0)
@@ -240,6 +250,7 @@ Last updated: June 02, 2026
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 22.75"H x 22.25"W x 20.5"D (577.9 x 565.1 x 520.7 mm)
+- Driver: 21" (533mm) driver
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
@@ -267,6 +278,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white, red, blue
 - Country: Canada
 - Dimensions: 35.43"H x 28.43"W x 20.16"D (899.9 x 722.1 x 512.1 mm)
+- Driver: 24" (610mm) driver
 - Driver(s): (1) 24 inch
 - Enclosure: ported
 - Measurement Source: Manufacturer
@@ -293,6 +305,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 25.6"H x 22.0"W x 28.1"D (650.2 x 558.8 x 713.7 mm)
+- Driver: 16" (406mm) driver
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -318,6 +331,7 @@ Last updated: June 02, 2026
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 25.5"H x 24.5"W x 24.0"D (647.7 x 622.3 x 609.6 mm)
+- Driver: 21" (533mm) driver
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -344,6 +358,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, custom
 - Country: United States
 - Dimensions: 30.0"H x 20.0"W x 22.5"D (762.0 x 508.0 x 571.5 mm)
+- Driver: 2x 14" (356mm) drivers
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -366,12 +381,13 @@ Last updated: June 02, 2026
     - [Reddit Search for JTR Speakers Captivator 2400](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+2400)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Captivator-2400/)
 
-## #15 Rythmik FV25HP
+## #15 Rythmik FV25HP: $2499
 - CEA-2010-A Average (40-80Hz): 126.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 41.5"H x 21.0"W x 22.0"D (1054.1 x 533.4 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 25" (635mm) driver
 - Driver(s): (2) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -394,11 +410,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Rythmik FV25HP](https://www.reddit.com/search/?q=Rythmik+FV25HP)
     - [Direct Speakerranking Link](/subwoofer/speakers/Rythmik-FV25HP/)
 
-## #16 Power Sound Audio (PSA) S3600I
+## #16 Power Sound Audio (PSA) S3600I: $6995
 - CEA-2010-A Average (40-80Hz): 126.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 24.0"H x 28.0"W x 20.0"D (609.6 x 711.2 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -421,6 +438,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 42.3"H x 20.0"W x 27.6"D (1074.4 x 508.0 x 701.0 mm)
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -447,6 +465,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Sweden
 - Dimensions: 45.6"H x 21.1"W x 21.9"D (1158.2 x 535.9 x 556.3 mm)
+- Driver: 3x 12" (305mm) drivers
 - Driver(s): (3) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -468,11 +487,12 @@ Last updated: June 02, 2026
     - [Reddit Search for XTZ Sound SUB 3X12](https://www.reddit.com/search/?q=XTZ+Sound+SUB+3X12)
     - [Direct Speakerranking Link](/subwoofer/speakers/XTZ-Sound-SUB-3X12/)
 
-## #19 Power Sound Audio (PSA) XS30
+## #19 Power Sound Audio (PSA) XS30: $3995
 - CEA-2010-A Average (40-80Hz): 125.2 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 22.5"H x 24.0"W x 18.0"D (571.5 x 609.6 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (2) 15 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -489,11 +509,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XS30](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS30)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XS30/)
 
-## #20 JTR Speakers Captivator 1400
+## #20 JTR Speakers Captivator 1400: $2495
 - CEA-2010-A Average (40-80Hz): 125.2 dB
 - Country: United States
 - Dimensions: 20.0"H x 30.0"W x 22.5"D (508.0 x 762.0 x 571.5 mm)
 - Discontinued: Yes
+- Driver: 14" (356mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -515,11 +536,12 @@ Last updated: June 02, 2026
     - [Reddit Search for JTR Speakers Captivator 1400](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+1400)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Captivator-1400/)
 
-## #21 Power Sound Audio (PSA) S3600i
+## #21 Power Sound Audio (PSA) S3600i: $5995
 - CEA-2010-A Average (40-80Hz): 125.0 dB
 - Country: United States
 - Dimensions: 24.0"H x 28.0"W x 20.0"D (609.6 x 711.2 x 508.0 mm)
 - Discontinued: Yes
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -543,6 +565,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, wood
 - Country: Canada
 - Dimensions: 24.5"H x 23.75"W x 22.37"D (622.3 x 603.2 x 568.2 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (6) 10 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -565,11 +588,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Paradigm Signature Sub 2](https://www.reddit.com/search/?q=Paradigm+Signature+Sub+2)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Signature-Sub-2/)
 
-## #23 RBH Sound SX-1212PR
+## #23 RBH Sound SX-1212PR: $1699
 - CEA-2010-A Average (40-80Hz): 123.5 dB
 - Country: United States
 - Dimensions: 38.5"H x 17.75"W x 21.0"D (977.9 x 450.8 x 533.4 mm)
 - Discontinued: Yes
+- Driver: 2x 12" (305mm) drivers
 - Driver(s): (2) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
@@ -597,6 +621,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 22.5"H x 22.5"W x 15.0"D (571.5 x 571.5 x 381.0 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -624,6 +649,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, custom
 - Country: United States
 - Dimensions: 31.7"H x 19.7"W x 25.6"D (805.2 x 500.4 x 650.2 mm)
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -646,13 +672,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Perlisten Audio D215s](https://www.reddit.com/search/?q=Perlisten+Audio+D215s)
     - [Direct Speakerranking Link](/subwoofer/speakers/Perlisten-Audio-D215s/)
 
-## #26 Harbinger V2218S
+## #26 Harbinger V2218S: $3495
 - Notes: Looks like "PA sub"
 - CEA-2010-A Average (40-80Hz): 122.9 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 32.5"H x 26.5"W x 29.7"D (825.5 x 673.1 x 754.4 mm)
 - Discontinued: Yes
+- Driver: 2x 18" (457mm) drivers
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -674,6 +701,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: Canada
 - Dimensions: 24.62"H x 23.18"W x 24.62"D (625.3 x 588.8 x 625.3 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
@@ -694,11 +722,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Paradigm Defiance X15](https://www.reddit.com/search/?q=Paradigm+Defiance+X15)
     - [Direct Speakerranking Link](/subwoofer/speakers/Paradigm-Defiance-X15/)
 
-## #28 JTR Speakers Captivator 118HT
+## #28 JTR Speakers Captivator 118HT: $1995
 - CEA-2010-A Average (40-80Hz): 122.8 dB
 - Country: United States
 - Dimensions: 30.0"H x 20.0"W x 22.5"D (762.0 x 508.0 x 571.5 mm)
 - Discontinued: Yes
+- Driver: 1x 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -724,6 +753,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, custom
 - Country: United States
 - Dimensions: 41.0"H x 20.5"W x 22.5"D (1041.4 x 520.7 x 571.5 mm)
+- Driver: 2x 14" (356mm) drivers
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -746,12 +776,13 @@ Last updated: June 02, 2026
     - [Reddit Search for JTR Speakers Captivator 2400ULF](https://www.reddit.com/search/?q=JTR+Speakers+Captivator+2400ULF)
     - [Direct Speakerranking Link](/subwoofer/speakers/JTR-Speakers-Captivator-2400ULF/)
 
-## #30 Funk Audio Classic 21.0L
+## #30 Funk Audio Classic 21.0L: $2995
 - CEA-2010-A Average (40-80Hz): 122.5 dB
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 31.5"H x 26.0"W x 24.0"D (800.1 x 660.4 x 609.6 mm)
 - Discontinued: Yes
+- Driver: 21" (533mm) driver
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -773,10 +804,11 @@ Last updated: June 02, 2026
     - [Reddit Search for Funk Audio Classic 21.0L](https://www.reddit.com/search/?q=Funk+Audio+Classic+21.0L)
     - [Direct Speakerranking Link](/subwoofer/speakers/Funk-Audio-Classic-21.0L/)
 
-## #31 Elemental Designs A7S-450
+## #31 Elemental Designs A7S-450: $499
 - CEA-2010-A Average (40-80Hz): 122.3 dB
 - Dimensions: 22.25"H x 22.25"W x 22.25"D (565.1 x 565.1 x 565.1 mm)
 - Discontinued: Yes
+- Driver: 7" (178mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -796,11 +828,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Elemental Designs A7S-450](https://www.reddit.com/search/?q=Elemental+Designs+A7S-450)
     - [Direct Speakerranking Link](/subwoofer/speakers/Elemental-Designs-A7S-450/)
 
-## #32 Power Sound Audio (PSA) XV30FSE
+## #32 Power Sound Audio (PSA) XV30FSE: $4995
 - CEA-2010-A Average (40-80Hz): 122.3 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 45.0"H x 18.5"W x 22.5"D (1143.0 x 469.9 x 571.5 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (2) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Manufacturer
@@ -817,11 +850,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XV30FSE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV30FSE)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XV30FSE/)
 
-## #33 Power Sound Audio (PSA) XS30SE
+## #33 Power Sound Audio (PSA) XS30SE: $4495
 - CEA-2010-A Average (40-80Hz): 122.2 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 22.5"H x 24.0"W x 18.0"D (571.5 x 609.6 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (2) 15 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -838,11 +872,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XS30SE](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XS30SE)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XS30SE/)
 
-## #34 RBH Sound SV-1212PR
+## #34 RBH Sound SV-1212PR: $1499
 - CEA-2010-A Average (40-80Hz): 122.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 28.375"H x 44.5"W x 21.0"D (720.7 x 1130.3 x 533.4 mm)
+- Driver: 2x 12" (305mm) drivers
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -860,15 +895,16 @@ Last updated: June 02, 2026
 - Output SPL at 80 Hz: 121.4 dB
 - Weight: 371.0lbs / 168.3kg
 - Links
-    - [RBH Sound SV-1212PR Website](https://www.rbhsound.com/shop/unrivaled-21-sf-r-31603?category=50&order=create_date+desc)
+    - [RBH Sound SV-1212PR Website](https://www.rbhsound.com/shop/unrivaled-21-sf-r-31603)
     - [Reddit Search for RBH Sound SV-1212PR](https://www.reddit.com/search/?q=RBH+Sound+SV-1212PR)
     - [Direct Speakerranking Link](/subwoofer/speakers/RBH-Sound-SV-1212PR/)
 
-## #35 Power Sound Audio (PSA) XV30
+## #35 Power Sound Audio (PSA) XV30: $3995
 - CEA-2010-A Average (40-80Hz): 122.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 26.75"H x 20.5"W x 36.0"D (679.4 x 520.7 x 914.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Manufacturer
@@ -885,11 +921,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Power Sound Audio (PSA) XV30](https://www.reddit.com/search/?q=Power+Sound+Audio+%28PSA%29+XV30)
     - [Direct Speakerranking Link](/subwoofer/speakers/Power-Sound-Audio-PSA-XV30/)
 
-## #36 Power Sound Audio (PSA) XV30F
+## #36 Power Sound Audio (PSA) XV30F: $4495
 - CEA-2010-A Average (40-80Hz): 122.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 45.0"H x 18.5"W x 22.5"D (1143.0 x 469.9 x 571.5 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (2) 15 inch
 - Enclosure: ported, bottom
 - Measurement Source: Manufacturer
@@ -911,6 +948,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 24.5"H x 18.25"W x 24.25"D (622.3 x 463.5 x 615.9 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -937,6 +975,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.0"H x 21.0"W x 18.0"D (533.4 x 533.4 x 457.2 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -965,6 +1004,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 24.0"H x 18.0"W x 26.0"D (609.6 x 457.2 x 660.4 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
@@ -988,6 +1028,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.9"H x 18.3"W x 23.5"D (556.3 x 464.8 x 596.9 mm)
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1015,6 +1056,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 25.0"H x 17.25"W x 24.0"D (635.0 x 438.1 x 609.6 mm)
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
@@ -1038,6 +1080,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 33.0"H x 21.0"W x 22.0"D (838.2 x 533.4 x 558.8 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported, front
 - Measurement Source: Data-bass
@@ -1064,6 +1107,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white, red, blue
 - Country: Canada
 - Dimensions: 35.43"H x 28.43"W x 20.16"D (899.9 x 722.1 x 512.1 mm)
+- Driver: 24" (610mm) driver
 - Driver(s): (1) 24 inch
 - Enclosure: ported
 - Measurement Source: Manufacturer
@@ -1089,6 +1133,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 25.0"H x 21.7"W x 28.3"D (635.0 x 551.2 x 718.8 mm)
+- Driver: 16" (406mm) driver with ported design
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1115,6 +1160,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.8"H x 20.3"W x 29.1"D (604.5 x 515.6 x 739.1 mm)
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1141,6 +1187,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 27.55"H x 19.68"W x 23.97"D (699.8 x 499.9 x 608.8 mm)
+- Driver: 2x 10" (254mm) drivers
 - Driver(s): (2) 13.8 inch
 - Enclosure: ported, rear
 - Measurement Source: Audioholics
@@ -1163,10 +1210,11 @@ Last updated: June 02, 2026
     - [Reddit Search for Arendal 1723 Subwoofer 2V](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+2V)
     - [Direct Speakerranking Link](/subwoofer/speakers/Arendal-1723-Subwoofer-2V/)
 
-## #47 Epik Subwoofers Empire
+## #47 Epik Subwoofers Empire: $6995
 - CEA-2010-A Average (40-80Hz): 120.6 dB
 - Dimensions: 18.0"H x 22.0"W x 24.0"D (457.2 x 558.8 x 609.6 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver
 - Driver(s): (2) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -1186,13 +1234,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Epik Subwoofers Empire](https://www.reddit.com/search/?q=Epik+Subwoofers+Empire)
     - [Direct Speakerranking Link](/subwoofer/speakers/Epik-Subwoofers-Empire/)
 
-## #48 Monoprice Monolith 15 THX Ultra
+## #48 Monoprice Monolith 15 THX Ultra: $1999
 - Notes: Product # 24458
 - CEA-2010-A Average (40-80Hz): 120.5 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 26.8"H x 17.7"W x 27.6"D (680.7 x 449.6 x 701.0 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
@@ -1219,6 +1268,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.39"H x 23.5"W x 27.35"D (594.1 x 596.9 x 694.7 mm)
+- Driver: 16" (406mm) driver
 - Driver(s): (1) 16 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1247,6 +1297,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 36.4"H x 17.7"W x 23.6"D (924.6 x 449.6 x 599.4 mm)
+- Driver: 2x 12" (305mm) drivers
 - Driver(s): (2) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
@@ -1272,6 +1323,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.4"H x 20.5"W x 27.7"D (594.4 x 520.7 x 703.6 mm)
+- Driver: 13.5" (343mm) driver with ported design
 - Driver(s): (1) 13.5 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1297,6 +1349,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.3"H x 17.8"W x 18.6"D (464.8 x 452.1 x 472.4 mm)
+- Driver: 13.5" (343mm) driver
 - Driver(s): (1) 13.5 inch
 - Enclosure: sealed
 - Measurement Source: Brian Kahn
@@ -1313,12 +1366,13 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS SB-4000](https://www.reddit.com/search/?q=SVS+SB-4000)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB-4000/)
 
-## #53 Monoprice Monolith M-15 V2: $1,500
+## #53 [Monoprice Monolith M-15 V2](https://www.amazon.com/Monolith-Certified-Subwoofer-Amplifier-Distortion/dp/B09LSSLX1G?&linkCode=ll2&tag=rankingspea01-20&linkId=333b30c1a32902dd1267c49e6ac073ec&language=en_US&ref_=as_li_ss_tl) [[Amazon](https://www.amazon.com/Monolith-Certified-Subwoofer-Amplifier-Distortion/dp/B09LSSLX1G?&linkCode=ll2&tag=rankingspea01-20&linkId=333b30c1a32902dd1267c49e6ac073ec&language=en_US&ref_=as_li_ss_tl)]: $1,500
 - Notes: Product # 42851
 - CEA-2010-A Average (40-80Hz): 120.0 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 28.7"H x 17.7"W x 26.8"D (729.0 x 449.6 x 680.7 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
@@ -1345,6 +1399,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 20.86"H x 16.53"W x 19.68"D (529.8 x 419.9 x 499.9 mm)
+- Driver: 2x 8" (203mm) drivers
 - Driver(s): (2) 13.8 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -1366,11 +1421,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Arendal 1723 Subwoofer 2S](https://www.reddit.com/search/?q=Arendal+1723+Subwoofer+2S)
     - [Direct Speakerranking Link](/subwoofer/speakers/Arendal-1723-Subwoofer-2S/)
 
-## #55 SVS PB13-Ultra
+## #55 SVS PB13-Ultra: $1999
 - CEA-2010-A Average (40-80Hz): 119.8 dB
 - Country: United States
 - Dimensions: 22.5"H x 20.5"W x 28.0"D (571.5 x 520.7 x 711.2 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver with ported design
 - Driver(s): (1) 13.5 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1391,12 +1447,13 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS PB13-Ultra](https://www.reddit.com/search/?q=SVS+PB13-Ultra)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB13-Ultra/)
 
-## #56 SVS PC13-Ultra
+## #56 SVS PC13-Ultra: $1699
 - Notes: "Cylinder" shape
 - CEA-2010-A Average (40-80Hz): 119.8 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 46.0"H x 16.6"W x 16.6"D (1168.4 x 421.6 x 421.6 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13.5 inch
 - Enclosure: ported, bottom
 - Measurement Source: Brent Butterworth
@@ -1413,11 +1470,12 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS PC13-Ultra](https://www.reddit.com/search/?q=SVS+PC13-Ultra)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PC13-Ultra/)
 
-## #57 Power Sound Audio (PSA) XV15SE
+## #57 Power Sound Audio (PSA) XV15SE: $2295
 - CEA-2010-A Average (40-80Hz): 119.6 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 23.0"H x 17.0"W x 22.0"D (584.2 x 431.8 x 558.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Manufacturer
@@ -1439,6 +1497,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.5"H x 20.5"W x 21.0"D (520.7 x 520.7 x 533.4 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass
@@ -1466,6 +1525,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.6"H x 16.1"W x 19.7"D (599.4 x 408.9 x 500.4 mm)
+- Driver: 2x 12" (305mm) drivers
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -1486,12 +1546,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Perlisten Audio R212s](https://www.reddit.com/search/?q=Perlisten+Audio+R212s)
     - [Direct Speakerranking Link](/subwoofer/speakers/Perlisten-Audio-R212s/)
 
-## #60 Monoprice Monolith M15-S
+## #60 Monoprice Monolith M15-S: $999
 - Notes: Product # 35141
 - CEA-2010-A Average (40-80Hz): 119.0 dB
 - Country: United States
 - Dimensions: 23.5"H x 16.7"W x 19.7"D (596.9 x 424.2 x 500.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -1516,6 +1577,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.0"H x 19.5"W x 20.1"D (508.0 x 495.3 x 510.5 mm)
+- Driver: 16" (406mm) driver
 - Driver(s): (1) 16 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -1538,11 +1600,12 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS SB16-Ultra](https://www.reddit.com/search/?q=SVS+SB16-Ultra)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB16-Ultra/)
 
-## #62 JL Audio Fathom f113
+## #62 JL Audio Fathom f113: $2799
 - CEA-2010-A Average (40-80Hz): 118.9 dB
 - Country: United States
 - Dimensions: 19.75"H x 16.5"W x 19.25"D (501.6 x 419.1 x 488.9 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13.5 inch
 - Enclosure: sealed
 - Measurement Source: Ilkka Rissanen
@@ -1567,6 +1630,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 20.0"H x 18.1"W x 22.5"D (508.0 x 459.7 x 571.5 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -1587,6 +1651,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white, red, blue
 - Country: Canada
 - Dimensions: 26.38"H x 22.76"W x 18.11"D (670.1 x 578.1 x 460.0 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: ported
 - Measurement Source: Manufacturer
@@ -1608,11 +1673,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Harbottle Audio C18 L1](https://www.reddit.com/search/?q=Harbottle+Audio+C18+L1)
     - [Direct Speakerranking Link](/subwoofer/speakers/Harbottle-Audio-C18-L1/)
 
-## #65 HSU Research VTF-15H
+## #65 HSU Research VTF-15H: $1199
 - CEA-2010-A Average (40-80Hz): 118.4 dB
 - Country: United States
 - Dimensions: 25.0"H x 18.0"W x 26.0"D (635.0 x 457.2 x 660.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1638,6 +1704,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 22.7"H x 20.7"W x 25.6"D (576.6 x 525.8 x 650.2 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -1659,11 +1726,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Velodyne Acoustics DD-18+](https://www.reddit.com/search/?q=Velodyne+Acoustics+DD-18%2B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-DD-18+/)
 
-## #67 SVS SB13-Ultra
+## #67 SVS SB13-Ultra: $1799
 - CEA-2010-A Average (40-80Hz): 118.3 dB
 - Country: United States
 - Dimensions: 17.9"H x 17.4"W x 18.5"D (454.7 x 442.0 x 469.9 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13.5 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -1686,11 +1754,12 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS SB13-Ultra](https://www.reddit.com/search/?q=SVS+SB13-Ultra)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB13-Ultra/)
 
-## #68 Outlaw Audio Ultra-X13
+## #68 Outlaw Audio Ultra-X13: $1299
 - CEA-2010-A Average (40-80Hz): 118.1 dB
 - Country: United States
 - Dimensions: 25.0"H x 18.0"W x 23.0"D (635.0 x 457.2 x 584.2 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13 inch
 - Enclosure: ported, bottom
 - Measurement Source: Audioholics
@@ -1716,6 +1785,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United Kingdom
 - Dimensions: 18.0"H x 21.3"W x 19.4"D (457.2 x 541.0 x 492.8 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -1736,11 +1806,12 @@ Last updated: June 02, 2026
     - [Reddit Search for REL Acoustics HT/1510 Predator II](https://www.reddit.com/search/?q=REL+Acoustics+HT%2F1510+Predator+II)
     - [Direct Speakerranking Link](/subwoofer/speakers/REL-Acoustics-HT1510-Predator-II/)
 
-## #70 SVS PB12-Plus
+## #70 SVS PB12-Plus: $1499
 - CEA-2010-A Average (40-80Hz): 118.0 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 22.0"H x 19.8"W x 26.6"D (558.8 x 502.9 x 675.6 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver with ported design
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1757,11 +1828,12 @@ Last updated: June 02, 2026
     - [Reddit Search for SVS PB12-Plus](https://www.reddit.com/search/?q=SVS+PB12-Plus)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-PB12-Plus/)
 
-## #71 Genelec 7071A
+## #71 Genelec 7071A: $4995
 - CEA-2010-A Average (40-80Hz): 118.0 dB
 - Country: Finland
 - Dimensions: 29.72"H x 31.61"W x 19.29"D (754.9 x 802.9 x 490.0 mm)
 - Discontinued: Yes
+- Driver: 7" (178mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Ilkka Rissanen
@@ -1780,12 +1852,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Genelec 7071A](https://www.reddit.com/search/?q=Genelec+7071A)
     - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-7071A/)
 
-## #72 ELAC SUB3070
+## #72 ELAC SUB3070: $999
 - CEA-2010-A Average (40-80Hz): 117.9 dB
 - Cabinet Color: black, white, wood
 - Country: Germany
 - Dimensions: 17.13"H x 20.39"W x 18.75"D (435.1 x 517.9 x 476.2 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -1804,10 +1877,11 @@ Last updated: June 02, 2026
     - [Reddit Search for ELAC SUB3070](https://www.reddit.com/search/?q=ELAC+SUB3070)
     - [Direct Speakerranking Link](/subwoofer/speakers/ELAC-SUB3070/)
 
-## #73 Premier Acoustics PA-150
+## #73 Premier Acoustics PA-150: $1999
 - CEA-2010-A Average (40-80Hz): 117.9 dB
 - Dimensions: 21.1"H x 17.9"W x 19.2"D (535.9 x 454.7 x 487.7 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, rear
 - Measurement Source: Audioholics
@@ -1831,6 +1905,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 36.4"H x 17.7"W x 23.6"D (924.6 x 449.6 x 599.4 mm)
+- Driver: 2x 10" (254mm) drivers
 - Driver(s): (2) 10 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -1851,12 +1926,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice Monolith M-210](https://www.reddit.com/search/?q=Monoprice+Monolith+M-210)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M-210/)
 
-## #75 Klipsch R-115SW
+## #75 Klipsch R-115SW: $799
 - CEA-2010-A Average (40-80Hz): 117.1 dB (avg of 3/4 bands)
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 21.5"H x 19.5"W x 22.3"D (546.1 x 495.3 x 566.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Brent Butterworth
@@ -1873,10 +1949,11 @@ Last updated: June 02, 2026
     - [Reddit Search for Klipsch R-115SW](https://www.reddit.com/search/?q=Klipsch+R-115SW)
     - [Direct Speakerranking Link](/subwoofer/speakers/Klipsch-R-115SW/)
 
-## #76 Funkywaves FW 12.X
+## #76 Funkywaves FW 12.X: $999
 - CEA-2010-A Average (40-80Hz): 116.7 dB (avg of 3/4 bands)
 - Dimensions: 24.0"H x 14.5"W x 24.0"D (609.6 x 368.3 x 609.6 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -1896,6 +1973,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 24.6"H x 17.71"W x 21.65"D (624.8 x 449.8 x 549.9 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 13.8 inch
 - Enclosure: ported, rear
 - Measurement Source: Audioholics
@@ -1922,6 +2000,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.7"H x 15.35"W x 19.37"D (602.0 x 389.9 x 492.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -1938,12 +2017,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Kreisel Sound DXD-12012](https://www.reddit.com/search/?q=Kreisel+Sound+DXD-12012)
     - [Direct Speakerranking Link](/subwoofer/speakers/Kreisel-Sound-DXD-12012/)
 
-## #79 Paradigm Prestige 2000SW
+## #79 Paradigm Prestige 2000SW: $2499
 - CEA-2010-A Average (40-80Hz): 116.1 dB
 - Cabinet Color: black, white, wood
 - Country: Canada
 - Dimensions: 22.25"H x 21.75"W x 20.25"D (565.1 x 552.4 x 514.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -1967,6 +2047,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: Norway
 - Dimensions: 21.45"H x 15.35"W x 19.68"D (544.8 x 389.9 x 499.9 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
@@ -1986,13 +2067,14 @@ Last updated: June 02, 2026
     - [Reddit Search for Arendal 1961 Subwoofer 1V](https://www.reddit.com/search/?q=Arendal+1961+Subwoofer+1V)
     - [Direct Speakerranking Link](/subwoofer/speakers/Arendal-1961-Subwoofer-1V/)
 
-## #81 Monoprice Monolith 12 THX Ultra
+## #81 Monoprice Monolith 12 THX Ultra: $1499
 - Notes: Product # 24457
 - CEA-2010-A Average (40-80Hz): 115.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 22.8"H x 16.7"W x 23.6"D (579.1 x 424.2 x 599.4 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner
@@ -2020,6 +2102,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.9"H x 25.8"W x 16.7"D (530.9 x 655.3 x 424.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: Manufacturer
@@ -2040,11 +2123,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice Monolith M-12 V2](https://www.reddit.com/search/?q=Monoprice+Monolith+M-12+V2)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M-12-V2/)
 
-## #83 Cadence Sound CSX-15 MKII
+## #83 Cadence Sound CSX-15 MKII: $1699
 - CEA-2010-A Average (40-80Hz): 113.9 dB
 - Country: United States
 - Dimensions: 21.5"H x 19.0"W x 18.0"D (546.1 x 482.6 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics
@@ -2062,11 +2146,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Cadence Sound CSX-15 MKII](https://www.reddit.com/search/?q=Cadence+Sound+CSX-15+MKII)
     - [Direct Speakerranking Link](/subwoofer/speakers/Cadence-Sound-CSX-15-MKII/)
 
-## #84 HSU Research VTF-3 MK3
+## #84 HSU Research VTF-3 MK3: $1499
 - CEA-2010-A Average (40-80Hz): 113.5 dB
 - Country: United States
 - Dimensions: 21.5"H x 17.0"W x 25.0"D (546.1 x 431.8 x 635.0 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen
@@ -2089,6 +2174,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 22.25"H x 18.875"W x 22.125"D (565.1 x 479.4 x 562.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: ErinsAudioCorner
@@ -2108,11 +2194,12 @@ Last updated: June 02, 2026
     - [Reddit Search for RSL (Rogersound Labs) Speedwoofer 12S](https://www.reddit.com/search/?q=RSL+%28Rogersound+Labs%29+Speedwoofer+12S)
     - [Direct Speakerranking Link](/subwoofer/speakers/RSL-Rogersound-Labs-Speedwoofer-12S/)
 
-## #86 HSU Research VTF-3 MK3 with Turbocharger
+## #86 HSU Research VTF-3 MK3 with Turbocharger: $1599
 - CEA-2010-A Average (40-80Hz): 112.8 dB
 - Country: United States
 - Dimensions: 21.5"H x 17.0"W x 25.0"D (546.1 x 431.8 x 635.0 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, rear
 - Measurement Source: Ilkka Rissanen
@@ -2130,12 +2217,13 @@ Last updated: June 02, 2026
     - [Reddit Search for HSU Research VTF-3 MK3 with Turbocharger](https://www.reddit.com/search/?q=HSU+Research+VTF-3+MK3+with+Turbocharger)
     - [Direct Speakerranking Link](/subwoofer/speakers/HSU-Research-VTF-3-MK3-with-Turbocharger/)
 
-## #87 Monoprice Monolith M12-S
+## #87 Monoprice Monolith M12-S: $599
 - Notes: Product # 35142
 - CEA-2010-A Average (40-80Hz): 112.7 dB
 - Country: United States
 - Dimensions: 19.7"H x 15.4"W x 16.7"D (500.4 x 391.2 x 424.2 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer
@@ -2156,11 +2244,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Monoprice Monolith M12-S](https://www.reddit.com/search/?q=Monoprice+Monolith+M12-S)
     - [Direct Speakerranking Link](/subwoofer/speakers/Monoprice-Monolith-M12-S/)
 
-## #88 Velodyne Acoustics DD-15
+## #88 Velodyne Acoustics DD-15: $2495
 - CEA-2010-A Average (40-80Hz): 112.0 dB
 - Country: United States
 - Dimensions: 18.0"H x 18.0"W x 17.75"D (457.2 x 457.2 x 450.8 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics
@@ -2177,11 +2266,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Velodyne Acoustics DD-15](https://www.reddit.com/search/?q=Velodyne+Acoustics+DD-15)
     - [Direct Speakerranking Link](/subwoofer/speakers/Velodyne-Acoustics-DD-15/)
 
-## #89 Genelec 7070A
+## #89 Genelec 7070A: $4995
 - CEA-2010-A Average (40-80Hz): 112.0 dB
 - Country: Finland
 - Dimensions: 24.61"H x 21.85"W x 19.29"D (625.1 x 555.0 x 490.0 mm)
 - Discontinued: Yes
+- Driver: 7" (178mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Ilkka Rissanen
@@ -2205,6 +2295,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.0"H x 14.5"W x 17.6"D (457.2 x 368.3 x 447.0 mm)
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brian Kahn
@@ -2221,11 +2312,12 @@ Last updated: June 02, 2026
     - [Reddit Search for Magico Audio ASUB](https://www.reddit.com/search/?q=Magico+Audio+ASUB)
     - [Direct Speakerranking Link](/subwoofer/speakers/Magico-Audio-ASUB/)
 
-## #91 Genelec HTS4B
+## #91 Genelec HTS4B: $2995
 - CEA-2010-A Average (40-80Hz): 110.3 dB
 - Country: Finland
 - Dimensions: 20.37"H x 19.0"W x 18.31"D (517.4 x 482.6 x 465.1 mm)
 - Discontinued: Yes
+- Driver: 4" (102mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: passive radiator
 - Measurement Source: Ilkka Rissanen
@@ -2244,12 +2336,13 @@ Last updated: June 02, 2026
     - [Reddit Search for Genelec HTS4B](https://www.reddit.com/search/?q=Genelec+HTS4B)
     - [Direct Speakerranking Link](/subwoofer/speakers/Genelec-HTS4B/)
 
-## #92 BK Electronics Monolith-DF
+## #92 BK Electronics Monolith-DF: $8995
 - CEA-2010-A Average (40-80Hz): 108.4 dB
 - Cabinet Color: black, wood
 - Country: United Kingdom
 - Dimensions: 23.77"H x 21.25"W x 16.53"D (603.8 x 539.8 x 419.9 mm)
 - Discontinued: Yes
+- Driver: 18" (457mm) driver with ported design
 - Driver(s): (1) 12 inch
 - Enclosure: ported, bottom
 - Measurement Source: Ilkka Rissanen
@@ -2268,11 +2361,12 @@ Last updated: June 02, 2026
     - [Reddit Search for BK Electronics Monolith-DF](https://www.reddit.com/search/?q=BK+Electronics+Monolith-DF)
     - [Direct Speakerranking Link](/subwoofer/speakers/BK-Electronics-Monolith-DF/)
 
-## #93 SVS SB13-Plus
+## #93 SVS SB13-Plus: $1399
 - CEA-2010-A Average (40-80Hz): 108.1 dB (avg of 3/4 bands)
 - Country: United States
 - Dimensions: 17.0"H x 17.0"W x 18.0"D (431.8 x 431.8 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 13" (330mm) driver
 - Driver(s): (1) 13 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth
@@ -2285,16 +2379,17 @@ Last updated: June 02, 2026
 - Warranty: 5
 - Weight: 95.0lbs / 43.1kg
 - Links
-    - [SVS SB13-Plus Website](https://web.archive.org/web/20111215104658/http://www.svsound.com/subwoofers/sealed-box/sb13-plus?page=shop.product_details&flypage=flypage.tpl&product_id=10&category_id=1)
+    - [SVS SB13-Plus Website](https://www.svsound.com/products/sb13-plus)
     - [Reddit Search for SVS SB13-Plus](https://www.reddit.com/search/?q=SVS+SB13-Plus)
     - [Direct Speakerranking Link](/subwoofer/speakers/SVS-SB13-Plus/)
 
-## #94 Monoprice THX 121456
+## #94 Monoprice THX 121456: $899
 - Notes: Product # 121456
 - CEA-2010-A Average (40-80Hz): 108.0 dB
 - Country: United States
 - Dimensions: 0.0"H x 0.0"W x 0.0"D (0.0 x 0.0 x 0.0 mm)
 - Discontinued: Yes
+- Driver: 12" driver
 - Measurement Source: Brent Butterworth
 - Output SPL at 15 Hz: 92.0 dB
 - Output SPL at 20 Hz: 94.6 dB
@@ -2314,6 +2409,7 @@ Last updated: June 02, 2026
 - Cabinet Color: black, wood
 - Country: Italy
 - Dimensions: 24.2"H x 17.6"W x 23.0"D (614.7 x 447.0 x 584.2 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Dennis Burger

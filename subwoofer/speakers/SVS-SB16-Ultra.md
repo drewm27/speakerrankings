@@ -12,6 +12,7 @@ The SVS SB16-Ultra ranks [#61 out of 95 total Large Powered Home Subwoofers (Ove
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.0"H x 19.5"W x 20.1"D (508.0 x 495.3 x 510.5 mm)
+- Driver: 16" (406mm) driver
 - Driver(s): (1) 16 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

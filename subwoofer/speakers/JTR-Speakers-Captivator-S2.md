@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JTR Speakers Captivator S2 ranks #7 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The JTR Speakers Captivator S2 ranks [#7 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#7-jtr-speakers-captivator-s2-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JTR Speakers Captivator S2 ranks [#7 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#7-jtr-speakers-captivator-s2-3995) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #7 JTR Speakers Captivator S2
+## #7 JTR Speakers Captivator S2: $3995
 - Notes: Replaced by "RS2"
 - CEA-2010-A Average (40-80Hz): 129.4 dB
 - Country: United States
 - Dimensions: 40.0"H x 21.0"W x 18.0"D (1016.0 x 533.4 x 457.2 mm)
 - Discontinued: Yes
+- Driver: 2x 18" (457mm) drivers
 - Driver(s): (2) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass

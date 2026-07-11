@@ -9,12 +9,15 @@ The JTR Speakers Captivator 212PRO ranks [#1 out of 137 total Medium Powered Hom
 
 ## #1 JTR Speakers Captivator 212PRO: $2,600
 - Notes: Looks like "PA sub"
+- Amplifier Type: Class D with DSP
 - CEA-2010-A Average (40-80Hz): 129.1 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 16.0"H x 30.0"W x 22.5"D (406.4 x 762.0 x 571.5 mm)
+- Driver: 2x 12" (305mm) drivers
 - Driver(s): (2) 12 inch
 - Enclosure: ported, front
+- Input Connections: XLR and RCA
 - Measurement Source: Data-bass
 - Output SPL at 100 Hz: 134.6 dB
 - Output SPL at 125 Hz: 135.2 dB
@@ -24,6 +27,7 @@ The JTR Speakers Captivator 212PRO ranks [#1 out of 137 total Medium Powered Hom
 - Output SPL at 50 Hz: 129.2 dB
 - Output SPL at 63 Hz: 131.3 dB
 - Output SPL at 80 Hz: 133.2 dB
+- Power Output (Watts): 1200W RMS
 - Warranty: 5/3
 - Weight: 71.0lbs / 32.2kg
 - Links

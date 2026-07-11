@@ -12,6 +12,7 @@ The Kreisel Sound DXD-12012 ranks [#78 out of 95 total Large Powered Home Subwoo
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 23.7"H x 15.35"W x 19.37"D (602.0 x 389.9 x 492.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (2) 12 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

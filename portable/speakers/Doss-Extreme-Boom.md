@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Doss Extreme Boom ranks #72 out of 74 total Large Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Doss Extreme Boom ranks [#72 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#72-doss-extreme-boom) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Doss Extreme Boom ranks [#72 out of 74 total Large Size Portable Bluetooth Speakers](/portable/large/#72-doss-extreme-boom-159) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #72 Doss Extreme Boom
+## #72 Doss Extreme Boom: $159
 - Negatives: Rolled off treble, barely any bass
 - App: No
 - Aux Input: Yes
@@ -17,6 +17,7 @@ The Doss Extreme Boom ranks [#72 out of 74 total Large Size Portable Bluetooth S
 - Bluetooth Version: 5.3
 - Built in Microphone: Yes
 - Dimensions: 12.7" x 4.8" x 7.3" (323 x 120 x 184 mm)
+- Driver: 60W: Dual drivers + passive radiator
 - EQ: No
 - IP Rating: IPX7
 - MicroSD: Yes

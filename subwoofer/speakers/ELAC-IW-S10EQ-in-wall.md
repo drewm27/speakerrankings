@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The ELAC IW-S10EQ in-wall ranks #2 out of 3 total Small Passive Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The ELAC IW-S10EQ in-wall ranks [#2 out of 3 total Small Passive Home Subwoofers (Under 30 lbs)](/subwoofer/passive-small/#2-elac-iw-s10eq-in-wall-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The ELAC IW-S10EQ in-wall ranks [#2 out of 3 total Small Passive Home Subwoofers (Under 30 lbs)](/subwoofer/passive-small/#2-elac-iw-s10eq-in-wall-299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #2 ELAC IW-S10EQ in-wall
+## #2 ELAC IW-S10EQ in-wall: $299
 - CEA-2010-A Average (40-80Hz): 103.9 dB
 - Cabinet Color: black
 - Country: Germany
 - Dimensions: 12.2"H x 12.2"W x 4.23"D (309.9 x 309.9 x 107.4 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: in-wall
 - Measurement Source: Brent Butterworth

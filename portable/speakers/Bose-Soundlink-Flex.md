@@ -16,6 +16,7 @@ The Bose Soundlink Flex ranks [#34 out of 131 total Medium Size Portable Bluetoo
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Dimensions: 7.9" x 3.5" x 2.1" (201 x 90 x 52 mm)
+- Driver: 1x 60mm full-range driver + 2x passive radiators
 - EQ: No
 - IP Rating: IP67
 - Max Volume: 96dB

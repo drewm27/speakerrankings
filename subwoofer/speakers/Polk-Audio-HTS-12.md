@@ -12,8 +12,10 @@ The Polk Audio HTS 12 ranks [#49 out of 137 total Medium Powered Home Subwoofers
 - Cabinet Color: black, wood
 - Country: United States
 - Dimensions: 18.5"H x 17.12"W x 18.11"D (469.9 x 434.8 x 460.0 mm)
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 22-180Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 113.6 dB
 - Output SPL at 125 Hz: 112.4 dB
@@ -23,10 +25,11 @@ The Polk Audio HTS 12 ranks [#49 out of 137 total Medium Powered Home Subwoofers
 - Output SPL at 50 Hz: 114.2 dB
 - Output SPL at 63 Hz: 115.1 dB
 - Output SPL at 80 Hz: 114.3 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5/3
 - Weight: 49.9lbs / 22.6kg
 - Links
-    - [Polk Audio HTS 12 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-12/112632-new.html?dwvar_112632-new_color=Black)
+    - [Polk Audio HTS 12 Website](https://www.polkaudio.com/en-us/product/home-speakers/subwoofers/hts-12/112632-new.html)
     - [Reddit Search for Polk Audio HTS 12](https://www.reddit.com/search/?q=Polk+Audio+HTS+12)
 
 

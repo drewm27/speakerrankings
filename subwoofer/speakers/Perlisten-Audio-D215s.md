@@ -12,6 +12,7 @@ The Perlisten Audio D215s ranks [#25 out of 95 total Large Powered Home Subwoofe
 - Cabinet Color: black, custom
 - Country: United States
 - Dimensions: 31.7"H x 19.7"W x 25.6"D (805.2 x 500.4 x 650.2 mm)
+- Driver: 2x 15" (381mm) drivers
 - Driver(s): (2) 15 inch
 - Enclosure: sealed
 - Measurement Source: Audioholics

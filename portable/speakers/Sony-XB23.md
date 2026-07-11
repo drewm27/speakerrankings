@@ -10,10 +10,16 @@ The Sony XB23 ranks [#63 out of 131 total Medium Size Portable Bluetooth Speaker
 ## #63 Sony XB23: $100
 - Positives: Reasonably neutral.
 - Negatives: Bass drops off a ton at high levels. Reduces its own volume over time when turned to max
+- App: Yes (Sony Music Center)
 - Bass Extension (-10dB): 67Hz
 - Battery Life: 12 hours (Manufacturer specified)
+- Bluetooth Codecs: SBC, AAC, LDAC
 - Bluetooth Version: 5.0
+- Built in Microphone: Yes
 - Dimensions: 3.0" x 8.58" x 3.0" (76 x 218 x 76 mm)
+- Driver: 2x 42x51mm X-Balanced racetrack drivers + 2x passive radiators
+- EQ: Yes (3-band: bass, mid, treble)
+- IP Rating: IPX4
 - Max Volume: 95dB
 - Output Power: 8W RMS
 - Party Mode: Yes (Partyconnect up to 100 speakers)

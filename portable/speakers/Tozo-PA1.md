@@ -17,6 +17,7 @@ The Tozo PA1 ranks [#52 out of 131 total Medium Size Portable Bluetooth Speakers
 - Dimensions: 8.27" x 3.58" x 2.40" (210 x 91 x 61 mm)
 - Driver: 1x 67mm fullrange
 - Frequency Response: 55Hz - 18kHz (Manufacturer specified)
+- IP Rating: IPX6
 - Max Volume: 98dB
 - Output Power: 20W
 - Stereo: No

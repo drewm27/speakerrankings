@@ -10,10 +10,22 @@ The Huawei Sound Joy ranks [#36 out of 131 total Medium Size Portable Bluetooth 
 ## #36 [Huawei Sound Joy](https://s.click.aliexpress.com/e/_c449CBFd) [[Aliexpress](https://s.click.aliexpress.com/e/_c449CBFd)]: $180
 - Positives: Use Devialet and +6db EQ for best sound quality
 - Negatives: Boosted treble, not quite as deep of bass as a Charge 5. Very expensive
+- App: Yes
 - Bass Extension (-10dB): 56Hz
 - Battery Life: 26 hours (Manufacturer specified)
+- Bluetooth Codecs: AAC, SBC
+- Bluetooth Version: 5.2
+- Built in Microphone: Yes (3 microphones)
+- Dimensions: 202 x 73 mm (height x width)
+- Driver: 1x 50x75mm racetrack woofer (20W) + 1x 19mm silk dome tweeter + 2x passive radiators
+- EQ: Yes (with G-sensor orientation switching)
+- IP Rating: IP67
 - Max Volume: 100dB
+- Output Power: 30W total (20W + 10W)
+- Power Bank: No
+- Power Input: 5V/2A, 9V/2A, 10V/4A
 - Stereo: No
+- TWS: Yes
 - Weight: 1.50lbs / 680g
 - Reviews, Comparisons and Sound Samples
     - [Alan Ross Reviews: Huawei Sound Joy Devialet speaker review - Joy or Despair?? 🤷‍♀️](https://www.youtube.com/watch?v=QoJKsPaofl0)

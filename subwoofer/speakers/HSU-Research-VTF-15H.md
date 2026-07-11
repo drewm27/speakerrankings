@@ -5,13 +5,14 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The HSU Research VTF-15H ranks #65 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The HSU Research VTF-15H ranks [#65 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#65-hsu-research-vtf-15h-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The HSU Research VTF-15H ranks [#65 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#65-hsu-research-vtf-15h-1199) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #65 HSU Research VTF-15H
+## #65 HSU Research VTF-15H: $1199
 - CEA-2010-A Average (40-80Hz): 118.4 dB
 - Country: United States
 - Dimensions: 25.0"H x 18.0"W x 26.0"D (635.0 x 457.2 x 660.4 mm)
 - Discontinued: Yes
+- Driver: 15" (381mm) driver
 - Driver(s): (1) 15 inch
 - Enclosure: ported, front
 - Measurement Source: Audioholics

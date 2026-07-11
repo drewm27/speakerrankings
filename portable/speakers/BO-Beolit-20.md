@@ -16,8 +16,12 @@ The B&O Beolit 20 ranks [#29 out of 67 total Boombox Size Portable Bluetooth Spe
 - Battery Life: 8 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: Yes
+- Dimensions: 13.5cm x 23cm x 18.9cm
+- Driver: 2x 30mm tweeters + 2x 40mm mid-range + 1x 60mm woofer + dual passive radiators
 - EQ: Yes (App EQ)
+- IP Rating: IPX4
 - Max Volume: 93dB
+- Output Power: 240W peak
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

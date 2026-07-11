@@ -12,6 +12,7 @@ The SVS SB-4000 ranks [#52 out of 95 total Large Powered Home Subwoofers (Over 7
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 18.3"H x 17.8"W x 18.6"D (464.8 x 452.1 x 472.4 mm)
+- Driver: 13.5" (343mm) driver
 - Driver(s): (1) 13.5 inch
 - Enclosure: sealed
 - Measurement Source: Brian Kahn

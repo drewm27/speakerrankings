@@ -17,6 +17,7 @@ The Sony SRS-XB13 ranks [#32 out of 44 total Small Size Portable Bluetooth Speak
 - Bluetooth Version: 4.2
 - Built in Microphone: Yes
 - Charging Time: 4.5 hours
+- Dimensions: 76mm diameter x 95mm height
 - Driver: 46mm
 - EQ: No
 - IP Rating: IP67

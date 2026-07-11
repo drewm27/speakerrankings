@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Wharfedale Diamond 12.1 ranks #9 out of 20 total Medium Size Bookshelf Speakers. Find all the specifications and reviews in one place"
 ---
 
-The Wharfedale Diamond 12.1 ranks [#9 out of 20 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#9-wharfedale-diamond-121-used-listings) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Wharfedale Diamond 12.1 ranks [#9 out of 20 total Medium Size Bookshelf Speakers](/passive/bookshelf-medium/#9-wharfedale-diamond-121-599) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #9 [Wharfedale Diamond 12.1](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1) [[Used Listings](https://www.hifizero.com/index.php?q=Wharfedale+Diamond+12.1)]
+## #9 Wharfedale Diamond 12.1: $599
 - Crossover Frequency: 2.6kHz
 - Dimensions: 12.2"H x 7"W x 10.9"D (310 x 178 x 277 mm)
 - Driver: 5" advanced polypropylene cone woofer, 1" textile dome tweeter

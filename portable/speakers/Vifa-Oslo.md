@@ -21,6 +21,7 @@ The Vifa Oslo ranks [#8 out of 74 total Large Size Portable Bluetooth Speakers](
 - EQ: No
 - Frequency Response: 55Hz - 20kHz (Manufacturer specified)
 - IP Rating: None
+- Output Power: Specs not published by manufacturer
 - Party Mode: No
 - Power Bank: No
 - Power Input: AC Power brick

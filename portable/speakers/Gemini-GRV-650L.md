@@ -17,8 +17,10 @@ The Gemini GRV-650L ranks [#33 out of 67 total Boombox Size Portable Bluetooth S
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
 - Dimensions: 10.91" x 10.24" x 14.41" (277 x 260 x 366 mm)
+- Driver: 6.5" woofer + tweeter
 - EQ: No
 - FM Tuner: Yes
+- IP Rating: IPX5
 - Max Volume: 104dB
 - MicroSD: Yes
 - Output Power: 320W

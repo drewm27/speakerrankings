@@ -12,8 +12,10 @@ The SVS PB-2000 PRO ranks [#21 out of 137 total Medium Powered Home Subwoofers (
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.9"H x 17.3"W x 22.5"D (530.9 x 439.4 x 571.5 mm)
+- Driver: 12" (305mm) driver with ported design
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
+- Frequency Response: 16–290Hz, ±3dB
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 116.0 dB
 - Output SPL at 125 Hz: 116.3 dB
@@ -25,6 +27,7 @@ The SVS PB-2000 PRO ranks [#21 out of 137 total Medium Powered Home Subwoofers (
 - Output SPL at 50 Hz: 116.6 dB
 - Output SPL at 63 Hz: 116.4 dB
 - Output SPL at 80 Hz: 116.1 dB
+- Power Output (Watts): 550W RMS / 1500W peak
 - Warranty: 5
 - Weight: 64.8lbs / 29.4kg
 - Links

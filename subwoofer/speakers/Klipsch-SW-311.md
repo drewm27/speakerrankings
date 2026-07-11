@@ -5,16 +5,18 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Klipsch SW-311 ranks #59 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Klipsch SW-311 ranks [#59 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#59-klipsch-sw-311-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Klipsch SW-311 ranks [#59 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#59-klipsch-sw-311-399) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #59 Klipsch SW-311
+## #59 Klipsch SW-311: $399
 - CEA-2010-A Average (40-80Hz): 112.4 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 13.0"H x 13.0"W x 14.0"D (330.2 x 330.2 x 355.6 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 22-120Hz
 - Measurement Source: Audioholics
 - Output SPL at 100 Hz: 114.5 dB
 - Output SPL at 125 Hz: 113.6 dB
@@ -25,6 +27,7 @@ The Klipsch SW-311 ranks [#59 out of 137 total Medium Powered Home Subwoofers (3
 - Output SPL at 50 Hz: 111.6 dB
 - Output SPL at 63 Hz: 114.4 dB
 - Output SPL at 80 Hz: 115.2 dB
+- Power Output (Watts): 500W RMS
 - Warranty: 5/2
 - Weight: 37.0lbs / 16.8kg
 - Links

@@ -18,7 +18,7 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
 - Bluetooth Version: 5.4
 - Built in Microphone: Yes
 - Dimensions: 10.0" x 3.6" x 3.6" (255 x 92 x 92 mm)
-- Driver: 35W woofer, 15W tweeter
+- Driver: 2x 40mm woofers (35W total) + 2x 15mm tweeters
 - EQ: Yes
 - Frequency Response: 60Hz - 20kHz (Manufacturer specified)
 - IP Rating: IP67
@@ -26,6 +26,7 @@ The Xiaomi Sound Party ranks [#19 out of 131 total Medium Size Portable Bluetoot
 - Output Power: 50W
 - Party Mode: Yes (Up to 100 speakers)
 - Power Bank: Yes
+- Power Input: 5V/3A, 9V/2A, 12V/2A
 - Stereo: No
 - TWS: Yes
 - USB Audio: No

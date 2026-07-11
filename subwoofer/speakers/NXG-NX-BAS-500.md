@@ -5,14 +5,16 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The NXG NX-BAS-500 ranks #86 out of 137 total Medium Powered Home Subwoofers (30–75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The NXG NX-BAS-500 ranks [#86 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#86-nxg-nx-bas-500-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The NXG NX-BAS-500 ranks [#86 out of 137 total Medium Powered Home Subwoofers (30–75 lbs)](/subwoofer/powered-medium/#86-nxg-nx-bas-500-299) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #86 NXG NX-BAS-500
+## #86 NXG NX-BAS-500: $299
 - CEA-2010-A Average (40-80Hz): 110.5 dB (avg of 3/4 bands)
 - Dimensions: 17.62"H x 14.75"W x 17.62"D (447.5 x 374.6 x 447.5 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: sealed
+- Frequency Response: 18-120Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 90.2 dB
 - Output SPL at 25 Hz: 99.5 dB
@@ -20,6 +22,7 @@ The NXG NX-BAS-500 ranks [#86 out of 137 total Medium Powered Home Subwoofers (3
 - Output SPL at 40 Hz: 110.1 dB
 - Output SPL at 50 Hz: 110.8 dB
 - Output SPL at 63 Hz: 110.5 dB
+- Power Output (Watts): 500W RMS
 - Weight: 35.0lbs / 15.9kg
 - Links
     - [NXG NX-BAS-500 Website](https://web.archive.org/web/20170914203227/http://www.nxgtechnology.com/subwoofers.html)

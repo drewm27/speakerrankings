@@ -5,14 +5,15 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Definitive Technology SuperCube 2000 ranks #8 out of 41 total Small Powered Home Subwoofers (Under 30 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Definitive Technology SuperCube 2000 ranks [#8 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#8-definitive-technology-supercube-2000-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Definitive Technology SuperCube 2000 ranks [#8 out of 41 total Small Powered Home Subwoofers (Under 30 lbs)](/subwoofer/powered-small/#8-definitive-technology-supercube-2000-599) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #8 Definitive Technology SuperCube 2000
+## #8 Definitive Technology SuperCube 2000: $599
 - CEA-2010-A Average (40-80Hz): 108.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 10.75"H x 10.25"W x 10.88"D (273.1 x 260.3 x 276.4 mm)
 - Discontinued: Yes
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 7.5 inch
 - Enclosure: passive radiator
 - Measurement Source: Brent Butterworth

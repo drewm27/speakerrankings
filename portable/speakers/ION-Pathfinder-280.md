@@ -15,11 +15,14 @@ The ION Pathfinder 280 ranks [#62 out of 67 total Boombox Size Portable Bluetoot
 - Battery Life: 100 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 14.8" x 10.6" x 17.6"
+- Driver: 2x 4" drivers
 - EQ: Yes (High/Low frequency)
 - FM Tuner: Yes
 - IP Rating: IPX5
 - Max Volume: 100dB
 - Microphone Input: No
+- Output Power: 120W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

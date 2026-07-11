@@ -5,15 +5,16 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The Monoprice Monolith 12 THX Ultra ranks #81 out of 95 total Large Powered Home Subwoofers (Over 75 lbs). Find all the specifications and reviews in one place"
 ---
 
-The Monoprice Monolith 12 THX Ultra ranks [#81 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#81-monoprice-monolith-12-thx-ultra-) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The Monoprice Monolith 12 THX Ultra ranks [#81 out of 95 total Large Powered Home Subwoofers (Over 75 lbs)](/subwoofer/powered-large/#81-monoprice-monolith-12-thx-ultra-1499) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #81 Monoprice Monolith 12 THX Ultra
+## #81 Monoprice Monolith 12 THX Ultra: $1499
 - Notes: Product # 24457
 - CEA-2010-A Average (40-80Hz): 115.2 dB
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 22.8"H x 16.7"W x 23.6"D (579.1 x 424.2 x 599.4 mm)
 - Discontinued: Yes
+- Driver: 12" (305mm) driver
 - Driver(s): (1) 12 inch
 - Enclosure: ported, front
 - Measurement Source: ErinsAudioCorner

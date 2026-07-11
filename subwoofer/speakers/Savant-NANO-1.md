@@ -13,6 +13,7 @@ The Savant NANO-1 ranks [#35 out of 41 total Small Powered Home Subwoofers (Unde
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 8.0"H x 7.5"W x 9.0"D (203.2 x 190.5 x 228.6 mm)
+- Driver: 6" (152mm) driver
 - Driver(s): (2) 6.5 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

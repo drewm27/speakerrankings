@@ -5,9 +5,9 @@ cover-img: "/assets/img/homeimage.jpg"
 share-description: "The JBL Boombox ranks #42 out of 67 total Boombox Size Portable Bluetooth Speakers. Find all the specifications and reviews in one place"
 ---
 
-The JBL Boombox ranks [#42 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#42-jbl-boombox) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
+The JBL Boombox ranks [#42 out of 67 total Boombox Size Portable Bluetooth Speakers](/portable/boombox/#42-jbl-boombox-jbl-boombox-399) for sound quality. See [Top Recommended Speakers By Attribute](/#top-recommended-speakers-by-attribute) for all the top speaker suggestions.
 
-## #42 JBL Boombox
+## #42 [JBL Boombox](https://www.jbl.com/en-US/product/JBL-Boombox) [[JBL Boombox](https://www.jbl.com/en-US/product/JBL-Boombox)]: $399
 - Positives: Connect+ up to 100 speakers.
 - Negatives: Treble isn't very smooth
 - App: No
@@ -15,10 +15,14 @@ The JBL Boombox ranks [#42 out of 67 total Boombox Size Portable Bluetooth Speak
 - Battery Life: 24 hours (Manufacturer specified)
 - Bluetooth Codecs: SBC
 - Built in Microphone: No
+- Dimensions: 25.45cm x 45.85cm x 19.55cm
+- Driver: 2x 65mm woofers + 2x 20mm tweeters with passive radiators
 - EQ: No
 - FM Tuner: No
+- IP Rating: IPX5
 - MicroSD: No
 - Microphone Input: No
+- Output Power: 60W AC / 40W battery
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: USB-C

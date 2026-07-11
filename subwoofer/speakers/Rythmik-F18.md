@@ -12,6 +12,7 @@ The Rythmik F18 ranks [#58 out of 95 total Large Powered Home Subwoofers (Over 7
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 20.5"H x 20.5"W x 21.0"D (520.7 x 520.7 x 533.4 mm)
+- Driver: 18" (457mm) driver
 - Driver(s): (1) 18 inch
 - Enclosure: sealed
 - Measurement Source: Data-bass

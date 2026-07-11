@@ -12,6 +12,7 @@ The Funk Audio Ultra 21.0LX ranks [#13 out of 95 total Large Powered Home Subwoo
 - Cabinet Color: wood, custom
 - Country: Canada
 - Dimensions: 25.5"H x 24.5"W x 24.0"D (647.7 x 622.3 x 609.6 mm)
+- Driver: 21" (533mm) driver
 - Driver(s): (1) 21 inch
 - Enclosure: sealed
 - Measurement Source: Manufacturer

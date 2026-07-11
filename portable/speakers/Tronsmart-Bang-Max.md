@@ -17,10 +17,13 @@ The Tronsmart Bang Max ranks [#31 out of 67 total Boombox Size Portable Bluetoot
 - Bluetooth Codecs: SBC
 - Bluetooth Latency: 160ms
 - Built in Microphone: No
+- Dimensions: 470mm x 199mm x 260mm
+- Driver: 2x ~165mm (6.5") woofers + 2x ~63mm (2.5") mid drivers + 2x ~25mm (1") tweeters
 - EQ: Yes (multiple modes)
 - IP Rating: IPX6
 - Max Volume: 111dB
 - MicroSD: Yes
+- Output Power: 130W
 - Party Mode: No
 - Power Bank: Yes
 - Power Input: AC Power brick

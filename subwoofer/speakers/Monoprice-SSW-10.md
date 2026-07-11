@@ -13,8 +13,10 @@ The Monoprice SSW-10 ranks [#107 out of 137 total Medium Powered Home Subwoofers
 - Cabinet Color: black
 - Country: United States
 - Dimensions: 7.0"H x 25.0"W x 15.7"D (177.8 x 635.0 x 398.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
+- Frequency Response: 25Hz+
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 70.8 dB
 - Output SPL at 25 Hz: 79.2 dB
@@ -23,6 +25,7 @@ The Monoprice SSW-10 ranks [#107 out of 137 total Medium Powered Home Subwoofers
 - Output SPL at 50 Hz: 104.7 dB
 - Output SPL at 63 Hz: 112.4 dB
 - Output SPL at 80 Hz: 116.1 dB
+- Power Output (Watts): 150W RMS
 - Warranty: 1
 - Weight: 30.0lbs / 13.6kg
 - Links

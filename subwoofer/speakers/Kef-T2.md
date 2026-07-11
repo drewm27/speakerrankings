@@ -13,6 +13,7 @@ The Kef T2 ranks [#19 out of 41 total Small Powered Home Subwoofers (Under 30 lb
 - Cabinet Color: black, white
 - Country: United Kingdom
 - Dimensions: 15.0"H x 14.6"W x 7.0"D (381.0 x 370.8 x 177.8 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

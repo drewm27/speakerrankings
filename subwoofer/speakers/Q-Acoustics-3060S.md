@@ -13,6 +13,7 @@ The Q Acoustics 3060S ranks [#32 out of 41 total Small Powered Home Subwoofers (
 - Cabinet Color: black, white, wood, grey
 - Country: United Kingdom
 - Dimensions: 12.8"H x 6.1"W x 18.9"D (325.1 x 154.9 x 480.1 mm)
+- Driver: 6.5" (165mm) driver
 - Driver(s): (1) 8 inch
 - Enclosure: sealed
 - Measurement Source: Brent Butterworth

@@ -12,8 +12,10 @@ The Definitive Technology DN10 ranks [#87 out of 137 total Medium Powered Home S
 - Cabinet Color: black, white
 - Country: United States
 - Dimensions: 16.8"H x 16.0"W x 17.1"D (426.7 x 406.4 x 434.3 mm)
+- Driver: 10" (254mm) driver
 - Driver(s): (1) 10 inch
 - Enclosure: passive radiator
+- Frequency Response: 28-200Hz
 - Measurement Source: Brent Butterworth
 - Output SPL at 20 Hz: 88.1 dB
 - Output SPL at 25 Hz: 99.2 dB
@@ -22,6 +24,7 @@ The Definitive Technology DN10 ranks [#87 out of 137 total Medium Powered Home S
 - Output SPL at 50 Hz: 111.0 dB
 - Output SPL at 63 Hz: 110.7 dB
 - Output SPL at 80 Hz: 108.9 dB
+- Power Output (Watts): 200W RMS
 - Warranty: 5/3
 - Weight: 45.6lbs / 20.7kg
 - Links
